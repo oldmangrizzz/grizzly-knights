@@ -64,6 +64,59 @@ def world_state():
     return {"characters": chars, "civilians": civ, "districts": districts,
             "built": len(chars)}
 
+import urllib.request as _ur
+CONVEX = "http://127.0.0.1:3210"
+_WID = [None]
+
+def _cq(path, args):
+    body = json.dumps({"path": path, "args": args, "format": "json"}).encode()
+    req = _ur.Request(f"{CONVEX}/api/query", data=body, headers={"Content-Type": "application/json"})
+    with _ur.urlopen(req, timeout=8) as r:
+        return json.load(r).get("value")
+
+def _model_map():
+    try:
+        ts = open(f"{ROOT}/fanfic_town/data/characters.ts", encoding="utf-8").read()
+        blk = ts.split("characterModels")[1].split("};")[0]
+        import re
+        return dict(re.findall(r'"([^"]+)":\s*"([^"]+)"', blk))
+    except Exception:
+        return {}
+
+def activity():
+    try:
+        if not _WID[0]:
+            _WID[0] = (_cq("world:defaultWorldStatus", {}) or {}).get("worldId")
+        wid = _WID[0]
+        if not wid:
+            return {"feed": [], "talking": 0}
+        w = (_cq("world:worldState", {"worldId": wid}) or {}).get("world", {})
+        models = _model_map()
+        # gather conversation ids: active ones + recent ended ones (via players' previous convo)
+        conv_ids, msgs_collected = [], []
+        active = [c for c in w.get("conversations", []) if (c.get("numMessages") or 0) > 0]
+        for c in active:
+            conv_ids.append(c["id"])
+        for p in w.get("players", [])[:14]:
+            pc = _cq("world:previousConversation", {"worldId": wid, "playerId": p.get("id")})
+            if pc and pc.get("id") and pc["id"] not in conv_ids:
+                conv_ids.append(pc["id"])
+        for cid in conv_ids[:18]:
+            msgs = _cq("messages:listMessages", {"worldId": wid, "conversationId": cid}) or []
+            for m in msgs[-2:]:
+                t = (m.get("text") or "").strip()
+                if not t:
+                    continue
+                nm = m.get("authorName", "?")
+                mdl = next((v for k, v in models.items() if k.split(" (")[0] == nm.split(" (")[0]), "?")
+                msgs_collected.append({"speaker": nm, "text": t[:240], "ts": m.get("_creationTime", 0),
+                                       "model": mdl.replace("openrouter/", "").replace("copilot/", "")})
+        msgs_collected.sort(key=lambda m: m["ts"])
+        return {"feed": [{k: v for k, v in m.items() if k != "ts"} for m in msgs_collected[-14:]],
+                "talking": len(active)}
+    except Exception:
+        return {"feed": [], "talking": 0}
+
 class H(http.server.SimpleHTTPRequestHandler):
     def _send(self, code, body, ctype="application/json"):
         self.send_response(code)
@@ -77,6 +130,8 @@ class H(http.server.SimpleHTTPRequestHandler):
             self._send(200, open(f"{ROOT}/world_view/index.html", "rb").read(), "text/html")
         elif self.path == "/api/world":
             self._send(200, json.dumps(world_state()))
+        elif self.path == "/api/activity":
+            self._send(200, json.dumps(activity()))
         elif self.path.startswith("/portraits/"):
             stem = os.path.basename(self.path)
             p = f"{ROOT}/world_art/portraits/{stem}"

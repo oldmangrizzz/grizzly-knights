@@ -41,6 +41,16 @@
   .wc{ font-size:8.5px; color:var(--dim); }
   .tier-principal .nm{ color:var(--gold); }
   footer{ position:relative; z-index:1; text-align:center; color:var(--dim); font-size:11px; padding:16px; }
+  main{ margin-right:356px; }
+  #feed{ position:fixed; right:0; top:59px; bottom:0; width:356px; z-index:4; overflow-y:auto;
+         background:linear-gradient(180deg,#0a0d16,#06070d); border-left:1px solid var(--line); padding:13px 15px; }
+  #feed h3{ font-size:11px; letter-spacing:.2em; text-transform:uppercase; color:var(--gold); margin:0 0 12px; }
+  #feed h3 b{ color:var(--glow); }
+  .msg{ border-left:2px solid var(--glow); padding:5px 0 6px 11px; margin-bottom:12px; animation:fade .5s ease; }
+  .msg .md{ font-size:9px; color:var(--dim); float:right; letter-spacing:.04em; }
+  .msg .sp{ font-size:11px; color:var(--gold); font-weight:600; }
+  .msg .tx{ font-size:12px; color:#c8d2e4; margin-top:3px; line-height:1.4; }
+  @keyframes fade{ from{opacity:0; transform:translateX(10px)} to{opacity:1} }
 </style>
 </head>
 <body>
@@ -53,6 +63,7 @@
   <div class="ticker" id="ticker">awaiting the engine…</div>
 </header>
 <main id="zones"></main>
+<aside id="feed"><h3>Live dialogue · <b id="talking">0</b> talking</h3><div id="msgs"></div></aside>
 <footer>UATU is watching. The world populates as the engine builds. — auto-refresh every 4s</footer>
 <script>
 const seen = new Set();
@@ -116,6 +127,15 @@ async function tick(){
   first = false;
 }
 tick(); setInterval(tick, 4000);
+
+async function feedTick(){
+  let a; try{ a = await (await fetch('/api/activity',{cache:'no-store'})).json(); }catch(e){ return; }
+  document.getElementById('talking').textContent = a.talking;
+  document.getElementById('msgs').innerHTML = (a.feed||[]).slice().reverse().map(m=>
+    `<div class="msg"><span class="md">${m.model}</span><span class="sp">${m.speaker}</span>`
+    + `<div class="tx">${(m.text||'').replace(/[<>&]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]))}</div></div>`).join('');
+}
+feedTick(); setInterval(feedTick, 5000);
 
 // quiet starfield
 const cv=document.getElementById('stars'), cx=cv.getContext('2d');
