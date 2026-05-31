@@ -53,6 +53,18 @@ MODEL_FLEET = [
     "qwen3-next:cloud",
     "qwen3.5:cloud",
     "rnj-1:cloud",
+    # OpenRouter — FREE models only (':free'; hard-guarded in llm.ts so paid is unreachable).
+    # Chosen for architectures NOT already in the Ollama set, to maximize reasoner diversity.
+    "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "openrouter/nousresearch/hermes-3-llama-3.1-405b:free",
+    "openrouter/openai/gpt-oss-120b:free",
+    "openrouter/openai/gpt-oss-20b:free",
+    "openrouter/cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
+    "openrouter/z-ai/glm-4.5-air:free",
+    "openrouter/poolside/laguna-m.1:free",
+    "openrouter/liquid/lfm-2.5-1.2b-thinking:free",
+    "openrouter/google/gemma-4-31b-it:free",
+    "openrouter/nvidia/nemotron-3-super-120b-a12b:free",
 ]
 
 IDENTITY_CAP = 12000

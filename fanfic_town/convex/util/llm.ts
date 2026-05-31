@@ -162,6 +162,26 @@ export async function chatCompletion(
     }
   }
 
+  // - openrouter/<model>  -> OpenRouter, FREE MODELS ONLY (hard-guarded below).
+  if (typeof body.model === 'string' && body.model.startsWith('openrouter/')) {
+    const m = body.model.slice('openrouter/'.length);
+    // HARD SAFETY: refuse any non-':free' model so a paid model can NEVER be billed
+    // to the operator's OpenRouter balance. No exceptions.
+    if (!m.endsWith(':free')) {
+      throw new Error(`Refusing non-free OpenRouter model '${m}': only ':free' models are permitted.`);
+    }
+    body.model = m;
+    endpointUrl = 'https://openrouter.ai/api';
+    const orKey = process.env.OPENROUTER_KEY;
+    extraHeaders = orKey
+      ? {
+          Authorization: 'Bearer ' + orKey,
+          'HTTP-Referer': 'https://github.com/oldmangrizzz/grizzly-knights',
+          'X-Title': 'Grizzly Knights',
+        }
+      : {};
+  }
+
   console.log(body);
   const {
     result: content,
