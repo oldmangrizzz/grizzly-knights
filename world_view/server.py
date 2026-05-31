@@ -74,6 +74,16 @@ def _cq(path, args):
     with _ur.urlopen(req, timeout=8) as r:
         return json.load(r).get("value")
 
+def _name_to_stem():
+    m = {}
+    for fp in glob.glob(f"{ROOT}/universe/characters/*.yaml"):
+        if os.path.getsize(fp) == 0: continue
+        stem = os.path.basename(fp)[:-5]
+        name, alias = load_yaml_min(fp)
+        for k in (name, alias):
+            if k: m[k.split(" (")[0]] = stem
+    return m
+
 def _model_map():
     try:
         ts = open(f"{ROOT}/fanfic_town/data/characters.ts", encoding="utf-8").read()
@@ -92,6 +102,7 @@ def activity():
             return {"feed": [], "talking": 0}
         w = (_cq("world:worldState", {"worldId": wid}) or {}).get("world", {})
         models = _model_map()
+        ns = _name_to_stem()
         # gather conversation ids: active ones + recent ended ones (via players' previous convo)
         conv_ids, msgs_collected = [], []
         active = [c for c in w.get("conversations", []) if (c.get("numMessages") or 0) > 0]
@@ -110,6 +121,7 @@ def activity():
                 nm = m.get("authorName", "?")
                 mdl = next((v for k, v in models.items() if k.split(" (")[0] == nm.split(" (")[0]), "?")
                 msgs_collected.append({"speaker": nm, "text": t[:240], "ts": m.get("_creationTime", 0),
+                                       "stem": ns.get(nm.split(" (")[0], ""),
                                        "model": mdl.replace("openrouter/", "").replace("copilot/", "")})
         msgs_collected.sort(key=lambda m: m["ts"])
         return {"feed": [{k: v for k, v in m.items() if k != "ts"} for m in msgs_collected[-14:]],
@@ -117,7 +129,50 @@ def activity():
     except Exception:
         return {"feed": [], "talking": 0}
 
+VOICE_MAP = f"{ROOT}/world_view/voice_map.json"
+def _el_key():
+    try:
+        for line in open(f"{ROOT}/.env"):
+            if line.startswith("elevenlabs="):
+                return line.split("=", 1)[1].strip().strip('"').strip("'")
+    except Exception: pass
+    return ""
+EL_KEY = _el_key()
+_DEFV = [None]
+
+def _default_voice():
+    if _DEFV[0]: return _DEFV[0]
+    try:
+        req = _ur.Request("https://api.elevenlabs.io/v1/voices", headers={"xi-api-key": EL_KEY})
+        with _ur.urlopen(req, timeout=15) as r:
+            _DEFV[0] = json.load(r)["voices"][0]["voice_id"]
+    except Exception:
+        _DEFV[0] = "21m00Tcm4TlvDq8ikWAM"  # Rachel fallback
+    return _DEFV[0]
+
+def speak(stem, text):
+    vm = json.load(open(VOICE_MAP)) if os.path.exists(VOICE_MAP) else {}
+    vid = (vm.get(stem) or {}).get("voice_id") or _default_voice()
+    body = json.dumps({"text": text[:700], "model_id": "eleven_turbo_v2_5",
+                       "voice_settings": {"stability": 0.45, "similarity_boost": 0.75}}).encode()
+    req = _ur.Request(f"https://api.elevenlabs.io/v1/text-to-speech/{vid}", data=body,
+        headers={"xi-api-key": EL_KEY, "Content-Type": "application/json", "Accept": "audio/mpeg"})
+    with _ur.urlopen(req, timeout=45) as r:
+        return r.read()
+
 class H(http.server.SimpleHTTPRequestHandler):
+    def do_POST(self):
+        if self.path == "/api/speak":
+            try:
+                n = int(self.headers.get("Content-Length", 0))
+                req = json.loads(self.rfile.read(n) or b"{}")
+                audio = speak(req.get("stem", ""), req.get("text", ""))
+                self._send(200, audio, "audio/mpeg")
+            except Exception as e:
+                self._send(500, json.dumps({"error": str(e)[:200]}))
+        else:
+            self._send(404, "{}")
+
     def _send(self, code, body, ctype="application/json"):
         self.send_response(code)
         self.send_header("Content-Type", ctype)

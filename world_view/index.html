@@ -46,7 +46,11 @@
          background:linear-gradient(180deg,#0a0d16,#06070d); border-left:1px solid var(--line); padding:13px 15px; }
   #feed h3{ font-size:11px; letter-spacing:.2em; text-transform:uppercase; color:var(--gold); margin:0 0 12px; }
   #feed h3 b{ color:var(--glow); }
-  .msg{ border-left:2px solid var(--glow); padding:5px 0 6px 11px; margin-bottom:12px; animation:fade .5s ease; }
+  .msg{ border-left:2px solid var(--glow); padding:5px 0 6px 11px; margin-bottom:12px; animation:fade .5s ease;
+        cursor:pointer; border-radius:0 4px 4px 0; transition:background .15s; }
+  .msg:hover{ background:rgba(91,208,255,.06); }
+  .msg.playing{ border-left-color:var(--gold); background:rgba(217,164,65,.08); }
+  .msg.playing .sp::after{ content:" ♪"; color:var(--gold); }
   .msg .md{ font-size:9px; color:var(--dim); float:right; letter-spacing:.04em; }
   .msg .sp{ font-size:11px; color:var(--gold); font-weight:600; }
   .msg .tx{ font-size:12px; color:#c8d2e4; margin-top:3px; line-height:1.4; }
@@ -128,14 +132,32 @@ async function tick(){
 }
 tick(); setInterval(tick, 4000);
 
+const esc = s => (s||'').replace(/[<>&"]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]));
 async function feedTick(){
   let a; try{ a = await (await fetch('/api/activity',{cache:'no-store'})).json(); }catch(e){ return; }
   document.getElementById('talking').textContent = a.talking;
   document.getElementById('msgs').innerHTML = (a.feed||[]).slice().reverse().map(m=>
-    `<div class="msg"><span class="md">${m.model}</span><span class="sp">${m.speaker}</span>`
-    + `<div class="tx">${(m.text||'').replace(/[<>&]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]))}</div></div>`).join('');
+    `<div class="msg" data-stem="${esc(m.stem)}" data-text="${esc(m.text)}" title="click to hear ${esc(m.speaker)}">`
+    + `<span class="md">${esc(m.model)}</span><span class="sp">${esc(m.speaker)}</span>`
+    + `<div class="tx">${esc(m.text)}</div></div>`).join('');
 }
 feedTick(); setInterval(feedTick, 5000);
+
+// click a line -> hear it in the character's voice
+let _audio = null;
+document.getElementById('feed').addEventListener('click', async (e)=>{
+  const msg = e.target.closest('.msg'); if(!msg || !msg.dataset.text) return;
+  document.querySelectorAll('.msg.playing').forEach(n=>n.classList.remove('playing'));
+  msg.classList.add('playing');
+  try{
+    const r = await fetch('/api/speak',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({stem:msg.dataset.stem, text:msg.dataset.text})});
+    if(!r.ok){ msg.classList.remove('playing'); return; }
+    const url = URL.createObjectURL(await r.blob());
+    if(_audio){ _audio.pause(); }
+    _audio = new Audio(url); _audio.onended = ()=>msg.classList.remove('playing'); _audio.play();
+  }catch(err){ msg.classList.remove('playing'); }
+});
 
 // quiet starfield
 const cv=document.getElementById('stars'), cx=cv.getContext('2d');
