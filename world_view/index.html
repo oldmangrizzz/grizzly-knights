@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Watcher's Station — Grizzly Knights</title>
+<style>
+  :root{ --bg:#06070d; --panel:#0d1018; --line:#1c2230; --ink:#e8ecf5; --dim:#7c869c;
+         --gold:#d9a441; --glow:#5bd0ff; }
+  *{ box-sizing:border-box; }
+  body{ margin:0; background:radial-gradient(1200px 700px at 70% -10%, #10162a 0%, var(--bg) 60%);
+        color:var(--ink); font:14px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  .stars{ position:fixed; inset:0; z-index:0; pointer-events:none; opacity:.5; }
+  header{ position:sticky; top:0; z-index:5; backdrop-filter:blur(8px);
+          background:rgba(6,7,13,.82); border-bottom:1px solid var(--line); padding:14px 22px;
+          display:flex; align-items:center; gap:26px; }
+  h1{ font-size:15px; letter-spacing:.32em; margin:0; color:var(--gold); font-weight:600; text-transform:uppercase; }
+  h1 small{ display:block; letter-spacing:.18em; color:var(--dim); font-size:10px; margin-top:3px; }
+  .stat{ text-align:center; }
+  .stat b{ display:block; font-size:22px; color:var(--ink); font-variant-numeric:tabular-nums; }
+  .stat span{ font-size:10px; letter-spacing:.14em; color:var(--dim); text-transform:uppercase; }
+  .ticker{ margin-left:auto; color:var(--glow); font-size:12px; letter-spacing:.06em; min-width:280px; text-align:right; }
+  .ticker b{ color:var(--ink); }
+  main{ position:relative; z-index:1; padding:22px; display:grid;
+        grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:18px; }
+  .zone{ background:linear-gradient(180deg,var(--panel),#090b12); border:1px solid var(--line);
+         border-radius:12px; padding:14px 14px 16px; min-height:120px; }
+  .zone h2{ font-size:12px; letter-spacing:.18em; text-transform:uppercase; color:var(--gold);
+            margin:0 0 4px; display:flex; justify-content:space-between; align-items:baseline; }
+  .zone h2 em{ font-style:normal; color:var(--dim); font-size:10px; letter-spacing:.1em; }
+  .grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(72px,1fr)); gap:9px; margin-top:10px; }
+  .card{ text-align:center; animation:none; }
+  .card.new .pic{ box-shadow:0 0 0 2px var(--glow), 0 0 22px var(--glow); animation:pop .9s ease; }
+  @keyframes pop{ 0%{ transform:scale(.4); opacity:0 } 60%{ transform:scale(1.08) } 100%{ transform:scale(1); opacity:1 } }
+  .pic{ width:64px; height:84px; border-radius:7px; object-fit:cover; background:#11151f;
+        border:1px solid var(--line); display:block; margin:0 auto; }
+  .pic.none{ display:flex; align-items:center; justify-content:center; color:var(--dim); font-size:9px;
+             width:64px;height:84px; }
+  .nm{ font-size:10px; color:var(--ink); margin-top:4px; line-height:1.15; max-width:74px;
+       overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .wc{ font-size:8.5px; color:var(--dim); }
+  .tier-principal .nm{ color:var(--gold); }
+  footer{ position:relative; z-index:1; text-align:center; color:var(--dim); font-size:11px; padding:16px; }
+</style>
+</head>
+<body>
+<canvas class="stars" id="stars"></canvas>
+<header>
+  <h1>The Watcher's Station<small>Grizzly Knights · observation, not interference</small></h1>
+  <div class="stat"><b id="cBuilt">—</b><span>profiled</span></div>
+  <div class="stat"><b id="cPrin">—</b><span>at full depth</span></div>
+  <div class="stat"><b id="cCiv">—</b><span>civilians</span></div>
+  <div class="ticker" id="ticker">awaiting the engine…</div>
+</header>
+<main id="zones"></main>
+<footer>UATU is watching. The world populates as the engine builds. — auto-refresh every 4s</footer>
+<script>
+const seen = new Set();
+let first = true;
+
+function zoneEl(name){
+  let z = document.getElementById('z-'+btoa(name).replace(/=/g,''));
+  if(!z){
+    z = document.createElement('section'); z.className='zone';
+    z.id = 'z-'+btoa(name).replace(/=/g,'');
+    z.innerHTML = `<h2>${name} <em class="cnt"></em></h2><div class="grid"></div>`;
+    document.getElementById('zones').appendChild(z);
+  }
+  return z;
+}
+
+async function tick(){
+  let w;
+  try{ w = await (await fetch('/api/world',{cache:'no-store'})).json(); }catch(e){ return; }
+  document.getElementById('cBuilt').textContent = w.built;
+  document.getElementById('cCiv').textContent = w.civilians;
+  document.getElementById('cPrin').textContent = w.characters.filter(c=>c.words>=50000).length;
+
+  // ensure zones in geography order
+  w.districts.forEach(zoneEl);
+  const byZone = {};
+  w.characters.forEach(c=>{ (byZone[c.district]=byZone[c.district]||[]).push(c); });
+
+  let arrivals = [];
+  for(const c of w.characters){
+    if(!seen.has(c.stem)){ seen.add(c.stem); if(!first) arrivals.push(c); }
+  }
+
+  for(const [zn, list] of Object.entries(byZone)){
+    const z = zoneEl(zn);
+    const grid = z.querySelector('.grid');
+    z.querySelector('.cnt').textContent = list.length;
+    for(const c of list){
+      let card = document.getElementById('c-'+c.stem);
+      const isNew = !card;
+      if(isNew){
+        card = document.createElement('div');
+        card.id = 'c-'+c.stem;
+        card.className = 'card tier-'+c.tier + (!first && arrivals.find(a=>a.stem===c.stem) ? ' new':'');
+        grid.appendChild(card);
+      }
+      card.innerHTML =
+        (c.portrait ? `<img class="pic" src="${c.portrait}" alt="">` : `<div class="pic none">no img</div>`)
+        + `<div class="nm">${c.name}</div>`
+        + `<div class="wc">${c.words? (c.words/1000).toFixed(0)+'k':'·'}</div>`;
+    }
+  }
+  if(arrivals.length){
+    const a = arrivals[arrivals.length-1];
+    document.getElementById('ticker').innerHTML = 'newly arrived → <b>'+a.name+'</b> · '+a.district;
+    // clear the glow after the animation
+    setTimeout(()=>document.querySelectorAll('.card.new').forEach(n=>n.classList.remove('new')), 1200);
+  } else if(first){
+    document.getElementById('ticker').textContent = 'the world is watching';
+  }
+  first = false;
+}
+tick(); setInterval(tick, 4000);
+
+// quiet starfield
+const cv=document.getElementById('stars'), cx=cv.getContext('2d');
+function rs(){ cv.width=innerWidth; cv.height=innerHeight; }
+rs(); addEventListener('resize',rs);
+const S=Array.from({length:140},()=>({x:Math.random(),y:Math.random(),r:Math.random()*1.3,t:Math.random()}));
+(function draw(){ cx.clearRect(0,0,cv.width,cv.height);
+  for(const s of S){ s.t+=0.01; const a=.3+.4*Math.abs(Math.sin(s.t));
+    cx.fillStyle='rgba(180,200,255,'+a+')'; cx.beginPath();
+    cx.arc(s.x*cv.width,s.y*cv.height,s.r,0,6.28); cx.fill(); }
+  requestAnimationFrame(draw); })();
+</script>
+</body>
+</html>
