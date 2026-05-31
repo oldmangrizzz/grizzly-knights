@@ -212,9 +212,14 @@ export async function chatCompletion(
       return new ChatCompletionContent(result.body!, stopWords);
     } else {
       const json = (await result.json()) as CreateChatCompletionResponse;
-      const content = json.choices[0].message?.content;
-      if (content === undefined) {
-        throw new Error('Unexpected result from OpenAI: ' + JSON.stringify(json));
+      const msg = json.choices[0].message as any;
+      // Reasoning models (qwen3.5, gpt-oss, nemotron-reasoning, glm-thinking, ...) leave
+      // `content` empty and put the answer in `reasoning` / `reasoning_content`. Fall back
+      // so the whole fleet — not just plain-completion models — produces dialogue.
+      let content: string | undefined | null = msg?.content;
+      if (!content) content = msg?.reasoning ?? msg?.reasoning_content;
+      if (content === undefined || content === null) {
+        throw new Error('Unexpected result from LLM: ' + JSON.stringify(json));
       }
       console.log(content);
       return content;
