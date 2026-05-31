@@ -40,3 +40,10 @@ voices-v1.0.bin
 *.log
 _batch.log
 world_art/_test/
+
+# Obsidian UI state (churns constantly, not real content)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+GrizzlyKnights_Vault/.obsidian/workspace.json
+GrizzlyKnights_Vault/.obsidian/workspace-mobile.json
