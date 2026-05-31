@@ -47,3 +47,8 @@ world_art/_test/
 .obsidian/cache
 GrizzlyKnights_Vault/.obsidian/workspace.json
 GrizzlyKnights_Vault/.obsidian/workspace-mobile.json
+
+# holograph test venv (regenerable, ~2GB)
+.venv*/
+holograph/.venv_holo/
+holograph/Build/
