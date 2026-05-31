@@ -1,0 +1,70 @@
+{
+  "_comment": "World geography for Grizzly Knights — a modernized, street-level Marvel NYC. Maps the roster to turf so the sim spawns characters in-place and the 3D world knows what to build. Stems reference universe/characters/. Districts are spawn regions; factions are the institutional layer.",
+  "city": "New York City (modernized Marvel)",
+  "districts": [
+    {
+      "name": "Hell's Kitchen",
+      "vibe": "Street-level crucible — Catholic guilt, working-class grit, the Hand's shadow, gentrification's edge. The beating heart of the ground-level world.",
+      "characters": ["matt_murdock", "frank_castle", "jessica_jones", "foggy_nelson"],
+      "landmarks": ["Nelson & Murdock (law office)", "Josie's Bar", "Alias Investigations", "St. Matthew's parish"]
+    },
+    {
+      "name": "Harlem",
+      "vibe": "Community, resilience, the cost of being a hero where you're from. Protection, not domination.",
+      "characters": ["luke_cage", "misty_knight"],
+      "landmarks": ["Pop's Barbershop", "Harlem's Paradise (club)", "the 29th Precinct"]
+    },
+    {
+      "name": "Chinatown / Lower Manhattan",
+      "vibe": "K'un-Lun's bleed-through into the modern city — martial mysticism under neon, old debts.",
+      "characters": ["danny_rand", "colleen_wing", "davos", "lei_kung"],
+      "landmarks": ["Chikara Dojo", "Rand Enterprises", "the gateway to K'un-Lun"]
+    },
+    {
+      "name": "Brooklyn",
+      "vibe": "The next generation and the old guard's roots — where the future Spider and the first Captain both come from.",
+      "characters": ["miles_morales", "ganke_lee", "rio_morales", "jefferson_davis", "aaron_davis", "steve_rogers"],
+      "landmarks": ["Visions Academy", "the Morales apartment", "Brooklyn waterfront"]
+    },
+    {
+      "name": "Queens (Forest Hills)",
+      "vibe": "Outer-borough ordinariness over extraordinary weight — the most human corner of the map.",
+      "characters": ["peter_parker", "mary_jane_watson"],
+      "landmarks": ["the Parker house", "Midtown School of Science", "the Daily Bugle bureau"]
+    },
+    {
+      "name": "Midtown / Manhattan core",
+      "vibe": "Power, money, spectacle — towers and headlines. Where institutions live.",
+      "characters": ["tony_stark", "reed_richards", "sue_storm", "johnny_storm", "ben_grimm", "carol_danvers", "natasha_romanoff", "clint_barton", "kate_bishop"],
+      "landmarks": ["Avengers Tower", "the Baxter Building", "the Daily Bugle", "Stark Industries"]
+    },
+    {
+      "name": "Greenwich Village",
+      "vibe": "The thin place — where the rational city meets the occult.",
+      "characters": ["doctor_strange"],
+      "landmarks": ["the Sanctum Sanctorum (177A Bleecker St.)"]
+    },
+    {
+      "name": "Westchester (greater NYC)",
+      "vibe": "The dream of coexistence behind a wrought-iron gate — and the fault line under it.",
+      "characters": ["charles_xavier", "erik_lehnsherr", "ororo_munroe", "scott_summers", "jean_grey", "hank_mccoy", "kurt_wagner", "rogue", "remy_lebeau", "kitty_pryde", "mystique"],
+      "landmarks": ["Xavier's School for Gifted Youngsters", "the Danger Room", "the boathouse"]
+    },
+    {
+      "name": "The shadow city (mobile / supernatural)",
+      "vibe": "Not a neighborhood — the night layer that crosses all of them. Hunters and the hunted.",
+      "characters": ["blade", "marc_spector", "johnny_blaze", "robbie_reyes", "morbius", "elsa_bloodstone", "jericho_drumm", "frank_castle"],
+      "landmarks": ["rooftops", "the docks", "deconsecrated churches", "after-hours everywhere"]
+    }
+  ],
+  "factions": [
+    {"name": "The Avengers", "base": "Avengers Tower (Midtown)", "members": ["tony_stark", "steve_rogers", "carol_danvers", "natasha_romanoff", "clint_barton", "thor_odinson", "sam_wilson", "wanda_maximoff", "scott_lang", "kate_bishop"]},
+    {"name": "The Fantastic Four", "base": "Baxter Building", "members": ["reed_richards", "sue_storm", "johnny_storm", "ben_grimm"]},
+    {"name": "The X-Men", "base": "Xavier's School (Westchester)", "members": ["charles_xavier", "ororo_munroe", "scott_summers", "jean_grey", "hank_mccoy", "kurt_wagner", "rogue", "remy_lebeau", "kitty_pryde"]},
+    {"name": "The Brotherhood", "base": "mobile", "members": ["erik_lehnsherr", "mystique", "pietro_maximoff"], "note": "Magneto's answer to a world that made him — not wrong, and he knows it at his core."},
+    {"name": "The Defenders (street level)", "base": "Hell's Kitchen / Harlem", "members": ["matt_murdock", "luke_cage", "danny_rand", "jessica_jones"]},
+    {"name": "S.H.I.E.L.D.", "base": "the Triskelion / Helicarrier", "members": ["nick_fury", "maria_hill", "natasha_romanoff", "bobbi_morse"]},
+    {"name": "The Daily Bugle", "base": "Midtown", "members": ["peter_parker"], "note": "Jameson, Robbie Robertson, Betty Brant generate into this faction as supporting cast lands."},
+    {"name": "Cosmic (Earthfall)", "base": "off-world, arrives on Earth", "members": ["silver_surfer", "galactus", "thanos", "gamora", "peter_quill", "adam_warlock", "drax", "rocket_raccoon", "groot", "nebula", "richard_rider", "beta_ray_bill"], "note": "Not based on Earth — but any of them can show up, and have."}
+  ]
+}

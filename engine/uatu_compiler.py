@@ -663,6 +663,69 @@ def compile_dossier(stem, display_name="", alias="", sources="", directives="", 
 # CLI: validate the gold set / any profile.
 # ──────────────────────────────────────────────────────────────────────────
 
+def _auto_portrait(stem, name, alias="", bottom_line=""):
+    """Native build step: render the character's portrait right after the profile is written,
+    so EVERY character the engine makes gets a headshot. Tokenless FLUX (Pollinations) with a
+    free-model appearance prompt. Non-fatal and skip-if-exists — never blocks the profile."""
+    import json as _j, time as _t, hashlib as _h
+    import urllib.parse as _up, urllib.request as _ur, urllib.error as _ue
+    out_dir = HERE / "world_art" / "portraits"; out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{stem}.png"
+    if out_path.exists() and out_path.stat().st_size > 2000:
+        return
+    key = ""
+    envp = HERE / ".env"
+    if envp.exists():
+        for line in envp.read_text().splitlines():
+            if line.startswith("openrouter_key="):
+                key = line.split("=", 1)[1].strip().strip('"').strip("'")
+    STYLE = (" Dramatic cinematic chiaroscuro lighting, single warm key light, 85mm f/1.4 lens, "
+             "shallow depth of field, photorealistic skin texture, editorial character portrait, "
+             "ultra detailed, somber filmic mood, no text, no watermark.")
+    ap = None
+    if key:
+        smsg = ("You write ONE concise photographic portrait prompt (~45 words). Describe the "
+                "character's canonical physical appearance only: age, race, build, hair, features, "
+                "attire. NEVER name a real actor. Output ONLY the prompt.")
+        usr = f"Character: {name} ({alias}). Note: {(bottom_line or '')[:280]}. Write the portrait prompt."
+        for m in ("meta-llama/llama-3.3-70b-instruct:free", "openai/gpt-oss-120b:free",
+                  "google/gemma-4-31b-it:free"):
+            try:
+                body = _j.dumps({"model": m, "messages": [{"role": "system", "content": smsg},
+                    {"role": "user", "content": usr}], "max_tokens": 130}).encode()
+                req = _ur.Request("https://openrouter.ai/api/v1/chat/completions", data=body,
+                    headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"})
+                with _ur.urlopen(req, timeout=60) as r:
+                    jj = _j.load(r)
+                msg = jj.get("choices", [{}])[0].get("message", {})
+                txt = (msg.get("content") or msg.get("reasoning") or "").strip()
+                if txt and len(txt) > 25:
+                    ap = txt; break
+            except _ue.HTTPError as e:
+                if e.code == 429: _t.sleep(15)
+            except Exception:
+                pass
+    if not ap:
+        ap = f"Photographic character portrait of {name}, canonical comic-book appearance, dramatic lighting"
+    seed = int(_h.md5(stem.encode()).hexdigest()[:7], 16)
+    url = ("https://image.pollinations.ai/prompt/" + _up.quote(ap + STYLE, safe="") + "?" +
+           _up.urlencode({"width": 768, "height": 1024, "model": "flux", "nologo": "true", "seed": seed}))
+    for attempt in range(4):
+        try:
+            req = _ur.Request(url, headers={"User-Agent": "grizzly-knights/1.0"})
+            with _ur.urlopen(req, timeout=90) as r:
+                data = r.read()
+            if data and len(data) > 2000 and data[:3] in (b"\xff\xd8\xff", b"\x89PN", b"RIF"):
+                out_path.write_bytes(data)
+                sys.stderr.write(f"  -> portrait written ({len(data)}b)\n")
+                return
+            raise RuntimeError("bad payload")
+        except _ue.HTTPError as e:
+            _t.sleep(75 if e.code == 402 else 8)
+        except Exception:
+            _t.sleep(8)
+
+
 def _cli(argv):
     cmd = argv[1] if len(argv) > 1 else "validate-all"
     if cmd in ("validate-all", "all"):
@@ -715,6 +778,11 @@ def _cli(argv):
                 (bk / f"{stem}.yaml").write_text(out.read_text(encoding="utf-8"), encoding="utf-8")
             out.write_text(y if y.endswith("\n") else y + "\n", encoding="utf-8")
             sys.stderr.write(rep.line() + "  -> written\n")
+            # native build step: every character the engine makes gets a portrait
+            try:
+                _auto_portrait(stem, display, alias, (d or {}).get("bottom_line", ""))
+            except Exception as _pe:
+                sys.stderr.write(f"  (portrait step skipped: {repr(_pe)[:120]})\n")
         else:
             # never clobber a good file with broken output — stage the failure instead
             fail = HERE / "recovery_research" / "_engine_out"
