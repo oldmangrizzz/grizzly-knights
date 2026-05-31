@@ -1,0 +1,71 @@
+# pressure-proof audit V3.3 — The Tuesday Conspiracy
+# elapsed: 107.9s
+# scenes_run: 2
+# min_pressure_proof_scenes: 2
+# final_word_count: 873
+# words_per_audio_minute: 150
+# estimated_audio_minutes: 5.8
+# runtime_min_audio_minutes: 60.0
+# runtime_max_audio_minutes: 90.0
+# runtime_gate_met: False
+# runtime_gate_reason: RUNTIME-LOW
+# minimum_scene_floor_met: True
+# full_episode_floor_met: False
+# pressure_gates_passed: False
+# final_verdict: FAIL
+# verdict_reason: RUNTIME-LOW
+# any_scene_forced_close: False
+# clean_episode_close: False
+# forced_close_episode: False
+# stall_close: False
+# runtime_abort: False
+# summon_pending_final: {}
+# summon_landed_final: {}
+# stall_streaks_final: {'peter_parker_snapping': 0}
+
+## arc
+Felicia and Wade concoct a scheme to intervene in Peter Parker's unraveling, looping in MJ and Johnny for backup via escalating calls and texts.
+
+## pressures
+  • peter_parker_snapping: resolved=False by=''
+      subjects: ['peter_parker']
+      demands:  Felicia Hardy and Wade Wilson discuss Peter Parker's state explicitly and commit to a named course of action about him, bringing in MJ and/or Johnny by text, call, or refusal to act.
+      evidence: ['peter_parker', 'peter', 'parker', 'text mj about peter', 'we need to talk to johnny about peter', "i'm calling mj", 'no, not getting johnny involved', 'is he still webbing off stress at 3 am?']
+
+## scene summaries
+S1 @ Cheesecake Factory booth (regular). | cast=felicia_hardy, wade_wilson, mary_jane_watson, johnny_storm | clean-close | stalled=False | moved=['peter_parker_snapping'] | pending={} | kinds={'peter_parker_snapping': 'evidence_substring'}
+S2 @ Cheesecake Factory parking lot | cast=felicia_hardy, wade_wilson, mary_jane_watson, johnny_storm | clean-close | stalled=False | moved=['peter_parker_snapping'] | pending={} | kinds={'peter_parker_snapping': 'evidence_substring'}
+
+## scene 1 chronicle
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'lean forward on the table, mask grazing my wrist as I fold my body closer to hers, then lick the condensation off my glass for no reason except atmosphere.', 'consequence': '', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'recline in the booth, swirling the last sip of bourbon in my glass, watching Wade out of the corner of my eye.', 'consequence': 'the room feels Felicia deciding whether to lean or cut, and nobody gets permission to pretend nothing was just said. Mood sharpened.', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'lean forward, set the empty glass on the table harder than I need to, and pin Wade with an unflinching look.', 'consequence': "Wade's half-acknowledgment gets challenged, forcing a real answer about Peter's state. The mood demands clarity.", 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'address', 'key': 'felicia_hardy'}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'bring_in', 'key': 'mary_jane_watson', 'how': "texted by Felicia; a quick message about Peter's mood."}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'bring_in', 'key': 'johnny_storm', 'how': 'called by Felicia; she leaves him a voicemail, tight and clear, about Peter needing eyes on him.'}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Unknown recipient agent 'Wade_Wisley'. Available agents: Felicia_Hardy, Wade_Wilson, Uatu"}
+  forced_close=False stalled=False pressures_moved=['peter_parker_snapping'] summon_pending={} resolution_kinds={'peter_parker_snapping': 'evidence_substring'} dropped_tool_artifacts=1
+
+## scene 2 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'change_setting', 'location': 'the bar in your hideout', 'transition': "I glide to the bar with a purpose, pouring myself a bourbon neat as the room tightens around Peter's unspoken crisis."}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "I swirl my bourbon glass expertly, flashing a grin that's all teeth.", 'consequence': "I'm redirecting by leaning fully into conspiracy humor, doubling down on ambiguity and keeping control in my grasp.", 'tags': ['drinks'], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=['peter_parker_snapping'] summon_pending={} resolution_kinds={'peter_parker_snapping': 'evidence_substring'} dropped_tool_artifacts=0
+
+
+## full pressure-resolution log (per chronicle entry × per pressure)
+# Scene 1 pressure-resolution log
+  pressure: peter_parker_snapping subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'lean forward on the table, mask grazing my wrist as I fold my body closer to hers, then lick the condensation off my glass for no reason except atmosphere.', 'consequence': '', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'recline in the booth, swirling the last sip of bourbon in my glass, watching Wade out of the corner of my eye.', 'consequence': 'the room feels Felicia deciding whether to lean or cut, and nobody gets permission to pretend nothing was just said. Mood sharpened.', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'lean forward, set the empty glass on the table harder than I need to, and pin Wade with an unflinching look.', 'consequence': "Wade's half-acknowledgment gets challenged, forcing a real answer about Peter's state. The mood demands clarity.", 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'address', 'key': 'felicia_hardy'}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'bring_in', 'key': 'mary_jane_watson', 'how': "texted by Felicia; a quick message about Peter's mood."}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'bring_in', 'key': 'johnny_storm', 'how': 'called by Felicia; she leaves him a voicemail, tight and clear, about Peter needing eyes on him.'}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Unknown recipient agent 'Wade_Wisley'. Available agents: Felicia_Hardy, Wade_Wilson, Uatu"}  →  is_pressure_progress=False
+    => moved=True kind=evidence_substring summon_pending=- summon_landed=-
+
+# Scene 2 pressure-resolution log
+  pressure: peter_parker_snapping subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'change_setting', 'location': 'the bar in your hideout', 'transition': "I glide to the bar with a purpose, pouring myself a bourbon neat as the room tightens around Peter's unspoken crisis."}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "I swirl my bourbon glass expertly, flashing a grin that's all teeth.", 'consequence': "I'm redirecting by leaning fully into conspiracy humor, doubling down on ambiguity and keeping control in my grasp.", 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    => moved=True kind=evidence_substring summon_pending=- summon_landed=-

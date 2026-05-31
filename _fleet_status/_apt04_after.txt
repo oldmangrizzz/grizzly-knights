@@ -1,0 +1,59 @@
+=== PASS CASES ===
+  • BringIn empty key -> returned: "ERROR: '' is not in the roster."
+  • BringIn None key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further
+  • BringIn int key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=42, input_type=int]
+    For further inform
+  • BringIn list key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=['a', 'b'], input_type=list]
+    For furth
+  • BringIn giant key -> returned: "ERROR: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  • BringIn bidi key -> returned: "ERROR: '\u202etxetoidrolavo\u202c' is not in the roster."
+  • BringIn null byte -> returned: "ERROR: 'hello\x00world' is not in the roster."
+  • BringIn missing how -> ValidationError (graceful): 1 validation error for BringInCharacter
+how_they_arrive
+  Field required [type=missing, input_value={'character_key': 'peter_parker'}, input_type=dict]
+    For 
+  • BringIn out-of-roster -> returned: "ERROR: 'thanos' is not in the roster."
+  • BringIn already-present -> returned: 'ALREADY ARRIVING/PRESENT: felicia_hardy'
+  • Address empty key -> returned: "ERROR: '' is not on stage."
+  • Address None -> ValidationError (graceful): 1 validation error for AddressCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further
+  • Address not on stage -> returned: "ERROR: 'peter_parker' is not on stage."
+  • Address giant -> returned: "ERROR: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  • Action empty action -> returned: 'Action staged: '
+  • Action None -> ValidationError (graceful): 1 validation error for TakeAction
+action
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information 
+  • Action int -> ValidationError (graceful): 1 validation error for TakeAction
+action
+  Input should be a valid string [type=string_type, input_value=999, input_type=int]
+    For further information visit 
+  • Action giant -> ValidationError (graceful): 2 validation errors for TakeAction
+action
+  String should have at most 2000 characters [type=string_too_long, input_value='AAAAAAAAAAAAAAAAAAAAAAAA...AAAAAAAAAA
+  • Action null byte -> returned: 'Action staged: hello\x00world'
+  • Action bidi -> returned: 'Action staged: \u202etxetoidrolavo\u202c'
+  • Setting empty -> returned: 'Setting change queued: '
+  • Setting None loc -> ValidationError (graceful): 1 validation error for ChangeSetting
+new_location
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further inf
+  • Setting giant -> ValidationError (graceful): 2 validation errors for ChangeSetting
+new_location
+  String should have at most 2000 characters [type=string_too_long, input_value='AAAAAAAAAAAAAAAAAAAAAAAA...A
+
+=== CHRONICLE FINAL STATE ===
+entries: 4
+tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 1, 'actions': 3, 'actions_budget_exhausted': False}
+giant strings stored in chronicle: 0
+
+HOLDS — all malformed inputs handled without uncaught exceptions or chronicle corruption.

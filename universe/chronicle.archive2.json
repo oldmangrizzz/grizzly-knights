@@ -1,0 +1,366 @@
+{
+  "characters": {
+    "felicia_hardy": {
+      "recent_events": [
+        "[ep 01] Spent the day plotting with Wade to 'fix' Peter Parker's life over martinis, cheesecake, and rooftop musings.",
+        "[ep 01] Joked with Wade about their chaotic lifestyles and Peter's repressed tendencies.",
+        "[ep 01] Teased Wade throughout the episode about his penchant for catastrophe and glitter."
+      ],
+      "state": "Playful, mischievous, and quick-witted, Felicia carries a sharp edge beneath her humor but reveals moments of quiet reflection about the chaos she navigates.",
+      "arc": "She is indulging in chaotic plans with Wade while masking her underlying emotional complexity with charm and sass."
+    },
+    "wade_wilson": {
+      "recent_events": [
+        "[ep 01] Debated Peter's love life with Felicia over martinis.",
+        "[ep 01] Flirted incessantly with both Felicia and chaos, embracing disaster as his modus operandi.",
+        "[ep 01] Pitched ridiculous ideas ranging from glittered chaos to thematic team uniforms.",
+        "[ep 01] Bounced between self-deprecating jokes and overt displays of grandiosity."
+      ],
+      "state": "Chaotic and over-the-top, filled with relentless humor and a veneer of self-awareness that hides deeper insecurities behind theatrics.",
+      "arc": "He's leaning into his role as the self-proclaimed chaos generator while forging a connection with Felicia, teetering between camaraderie and absurdity."
+    },
+    "sue_storm": {
+      "recent_events": [
+        "[ep 02] Confronted Reed about his emotional and physical absence from the family.",
+        "[ep 02] Expressed frustration with Reed's reliance on calculations instead of connection.",
+        "[ep 02] Demanded Reed to 'be here,' prioritizing presence over perfection."
+      ],
+      "state": "Frustrated and emotionally drained, teetering between anger and desire for reconnection with Reed.",
+      "arc": "Struggling with Reed's emotional absence and intellectual detachment, while craving vulnerability and presence."
+    },
+    "johnny_storm": {
+      "recent_events": [
+        "[ep 02] Joked repeatedly to diffuse tension in Sue and Reed's argument.",
+        "[ep 02] Highlighted Reed's emotional distance and framed it as a consistent issue in the family dynamic.",
+        "[ep 02] Pushed Reed at the end to 'just fucking do it,' demanding action over more intellectualization."
+      ],
+      "state": "Restless, masking emotional sensitivity with sarcasm, but clearly affected by Sue and Reed’s tension.",
+      "arc": "Caught in the family's dysfunction, trying to deflect with humor while needling at Sue and Reed’s issues."
+    },
+    "ben_grimm": {
+      "recent_events": [
+        "[ep 02] Asserted that the family dynamic feels heavier than their outward battles.",
+        "[ep 02] Reinforced Sue’s demand for honest vulnerability from Reed.",
+        "[ep 02] Urged Reed to trust them and stop trying to carry the weight alone."
+      ],
+      "state": "Grounded and weary, the family’s mediator, attempting to keep everyone from combusting.",
+      "arc": "Frustrated peacemaker caught between his loyalty to Reed and support for Sue's valid grievances."
+    },
+    "reed_richards": {
+      "recent_events": [
+        "[ep 02] Attempted to justify his workaholic tendencies with 'calculations that change everything.'",
+        "[ep 02] Acknowledged he’s been absent emotionally and apologized, though struggled to stop intellectualizing.",
+        "[ep 02] Expressed fear of failing Sue and the family despite wanting to reconnect."
+      ],
+      "state": "Overwhelmed, intellectually isolated, but showing cracks of emotional vulnerability as he begins to confront his failings.",
+      "arc": "Confronting his emotional distance and the inadequacy of intellectualizing his family’s needs."
+    },
+    "tony_stark": {
+      "recent_events": [
+        "[ep 03] Provoked Clint and Steve with biting humor over drinks.",
+        "[ep 03] Unintentionally revealed restlessness and unspoken guilt through physical tells, like tapping his fingers.",
+        "[ep 03] Deflected Sam's critique of ignoring Wanda's weight by making remarks about spreadsheets."
+      ],
+      "state": "Restless, deflecting tension with sharp humor while his hands show small tremors.",
+      "arc": "Struggling with guilt and the weight of responsibility, masking vulnerability with bravado."
+    },
+    "natasha_romanoff": {
+      "recent_events": [
+        "[ep 03] Engaged in barbed exchanges with Tony, keeping him in check without losing composure.",
+        "[ep 03] Reinforced the fragile balance at the table by redirecting tension repeatedly to Clint or Tony."
+      ],
+      "state": "Sharp and composed, her words cutting with precision while her actions reflect contained tension.",
+      "arc": "Managing the room's heat while keeping her vulnerabilities tightly guarded, especially toward Bucky and Steve."
+    },
+    "clint_barton": {
+      "recent_events": [
+        "[ep 03] Deflected comments about Budapest and survival with humor tied to his penchant for living dangerously.",
+        "[ep 03] Offered sarcastic but not defensive responses to critiques of past missions.",
+        "[ep 03] Used humor to try steering the room away from hostility, with mixed success."
+      ],
+      "state": "Treading lightly between gallows humor and self-awareness, revealing a quiet strain.",
+      "arc": "Feigning lightheartedness to cover his own unease about the group's dynamics and their shared past."
+    },
+    "sam_wilson": {
+      "recent_events": [
+        "[ep 03] Critiqued Clint’s drinking habits with careful directness and encouraged avoiding unnecessary conflict.",
+        "[ep 03] Urged the group to maintain focus on their responsibilities, particularly toward Wanda."
+      ],
+      "state": "Grounded but sharp, challenging without escalating, subtly playing peacemaker.",
+      "arc": "Acting as the glue holding the group from splintering, ensuring no one’s voice gets drowned out."
+    },
+    "bucky_barnes": {
+      "recent_events": [
+        "[ep 03] Pointed out that Wanda might not want their help, hinting at his understanding of isolation and decisions.",
+        "[ep 03] Pressed Steve to consider responsibility beyond speeches.",
+        "[ep 03] Responded to Sam and Tony's comments with sharp, dark humor that exposed personal struggles."
+      ],
+      "state": "Quietly volatile, restrained but tightly wound, with darkness edging his words.",
+      "arc": "Navigating his ongoing battle with the weight of his history while reacting to the group's attempts to deflect."
+    },
+    "steve_rogers": {
+      "recent_events": [
+        "[ep 03] Stepped in repeatedly to lower tension, particularly between Bucky and Tony.",
+        "[ep 03] Expressed quiet frustration with their tendency to deflect, through moments of stillness and deliberate words.",
+        "[ep 03] Left the room to recalibrate after sensing his mediations could only go so far."
+      ],
+      "state": "Rigidly composed, steady but carrying unspoken exhaustion from constantly mediating.",
+      "arc": "Working to unify the group, despite rising doubts about their ability to confront shared guilt."
+    },
+    "logan": {
+      "recent_events": [
+        "[ep 04] Hosted Jean, Scott, and Ororo at his cabin to reflect on Charles Xavier's death.",
+        "[ep 04] Drank whiskey heavily while expressing blunt truths about survival and legacy."
+      ],
+      "state": "Tired but unyielding, leaning on whiskey, cigars, and sharp quips to ground himself in the aftermath of Charles Xavier's death.",
+      "arc": "Wrestling with the weight of memory and his place within the fractured X-Men family dynamic."
+    },
+    "jean_grey": {
+      "recent_events": [
+        "[ep 04] Drank wine and sought quiet moments amidst the group's arguments.",
+        "[ep 04] Pushed emotional honesty, challenging both Logan and Scott while seeking a fragile balance."
+      ],
+      "state": "Subdued, torn between grief and the struggle to maintain emotional composure while mediating the tension between others.",
+      "arc": "Trying to reconcile her own coping mechanisms with the weight of the group's shared responsibility and history."
+    },
+    "scott_summers": {
+      "recent_events": [
+        "[ep 04] Clashed repeatedly with Logan and Ororo over approaches to grief and responsibility.",
+        "[ep 04] Expressed frustration about the group's perceived lack of cohesion."
+      ],
+      "state": "Tense, controlling, shouldering leadership responsibility but alienating others with rigidity.",
+      "arc": "Struggling to balance his instinct to control with the need to open up and support his teammates authentically."
+    },
+    "ororo_munroe": {
+      "recent_events": [
+        "[ep 04] Steadily confronted Scott's rigidity and Logan's fatalism, emphasizing shared humanity and precision in choices.",
+        "[ep 04] Anchored the conversation with firm but measured viewpoints on legacy and survival."
+      ],
+      "state": "Calm and resolute, the most balanced voice in the room, though carrying a quiet weight under her composure.",
+      "arc": "Acting as a guide to help the group see the bigger picture while challenging deeply ingrained patterns of avoidance and tension."
+    }
+  },
+  "relationships": {
+    "felicia_hardy__wade_wilson": {
+      "status": "newly_close",
+      "notes": "Their banter throughout the episode revealed a growing camaraderie and mutual appreciation for each other’s unique brands of chaos. Felicia humors Wade’s theatrics, while Wade thrives off her wit and sharp tongue.",
+      "last_touched_episode": 1
+    },
+    "johnny_storm__sue_storm": {
+      "status": "tense",
+      "notes": "Johnny's sarcasm and framing of Sue as 'playing mom' highlighted a recurring tension in their dynamic.",
+      "last_touched_episode": 2
+    },
+    "ben_grimm__sue_storm": {
+      "status": "warm",
+      "notes": "Ben sided with Sue's grievances and supported her emotional clarity while balancing the role of peacemaker.",
+      "last_touched_episode": 2
+    },
+    "reed_richards__sue_storm": {
+      "status": "tense, with an opening for reconnection",
+      "notes": "Sue demanded Reed to be present and vulnerable, and while Reed expressed fear of failing her again, the dialogue left space for potential repair.",
+      "last_touched_episode": 2
+    },
+    "ben_grimm__johnny_storm": {
+      "status": "playful but strained",
+      "notes": "Ben occasionally chastised Johnny for escalating tension but also humored his playful digs in moments of levity.",
+      "last_touched_episode": 2
+    },
+    "ben_grimm__reed_richards": {
+      "status": "strained but supportive",
+      "notes": "Ben vocalized Reed’s tendency to shut others out but reiterated his loyalty and trust in Reed’s potential to change.",
+      "last_touched_episode": 2
+    },
+    "johnny_storm__reed_richards": {
+      "status": "tense",
+      "notes": "Johnny aggressively criticized Reed’s detachment and intellectualization, pushing him hard to take immediate emotional action.",
+      "last_touched_episode": 2
+    },
+    "natasha_romanoff__tony_stark": {
+      "status": "tense",
+      "notes": "Relayed through sharp exchanges that continually tested Tony's limits, hinting at underlying unresolved tension and mutual respect.",
+      "last_touched_episode": 3
+    },
+    "clint_barton__tony_stark": {
+      "status": "tense",
+      "notes": "Highlighted through Tony's sarcastic prodding and Clint’s tempered, self-deprecating responses while protecting his vulnerability.",
+      "last_touched_episode": 3
+    },
+    "bucky_barnes__steve_rogers": {
+      "status": "strained",
+      "notes": "Steve's attempts to steady Bucky were met with quiet resistance, introducing a growing disconnect over how responsibility and guilt are managed.",
+      "last_touched_episode": 3
+    },
+    "sam_wilson__bucky_barnes": {
+      "status": "challenging",
+      "notes": "Sam pressed Bucky on his deflection and darker comments, aiming for constructive critique but creating friction.",
+      "last_touched_episode": 3
+    },
+    "sam_wilson__steve_rogers": {
+      "status": "warm",
+      "notes": "Sam supported Steve’s efforts to mediate while also challenging him to act more decisively in guiding the group.",
+      "last_touched_episode": 3
+    },
+    "clint_barton__natasha_romanoff": {
+      "status": "subtly supportive",
+      "notes": "Clint's humor acted as a buffer for Natasha, while she quietly steered him away from deeper introspection in the moment.",
+      "last_touched_episode": 3
+    },
+    "jean_grey__logan": {
+      "status": "tense",
+      "notes": "Jean rebuffed Logan's attempts to downplay emotional struggle, reflecting her frustration with his resignation to survival over living.",
+      "last_touched_episode": 4
+    },
+    "logan__scott_summers": {
+      "status": "hostile",
+      "notes": "Logan and Scott clashed fiercely, with Logan mocking Scott's control issues and Scott criticizing Logan's seeming lack of accountability.",
+      "last_touched_episode": 4
+    },
+    "logan__ororo_munroe": {
+      "status": "uneasy respect",
+      "notes": "Logan respected Ororo's composure, but her pointed remarks about survival and responsibility highlighted their differences in philosophy.",
+      "last_touched_episode": 4
+    },
+    "jean_grey__scott_summers": {
+      "status": "strained",
+      "notes": "Jean challenged Scott's rigidity while acknowledging his effort to protect the team, but his need for control created rifts between them.",
+      "last_touched_episode": 4
+    },
+    "jean_grey__ororo_munroe": {
+      "status": "newly_close",
+      "notes": "Ororo provided a steadying influence for Jean, with unspoken solidarity forming through their shared moments of reflection.",
+      "last_touched_episode": 4
+    },
+    "ororo_munroe__scott_summers": {
+      "status": "tense",
+      "notes": "Ororo's challenges to Scott's narrow focus on mission over humanity deepened their philosophical divide, though her criticism was calm and precise.",
+      "last_touched_episode": 4
+    }
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "One Martini, Two Plans",
+      "cast": [
+        "felicia_hardy",
+        "wade_wilson"
+      ],
+      "logline": "Felicia Hardy and Wade Wilson conspire poorly and hilariously over martinis and mischief to 'save' Peter Parker’s love life.",
+      "beats": [
+        "Felicia and Wade critique Peter Parker’s repressed persona and debate his quirks over drinks.",
+        "They browse Sephora, amusing themselves with ridiculous commentary while turning bystanders into spectators of their chaos.",
+        "Felicia and Wade hatch a half-serious, half-comedic plan involving Johnny Storm, playing off their dynamic as chaotic co-conspirators.",
+        "The duo banter endlessly, revealing layers of humor, charm, and the occasional touch of self-reflection.",
+        "The episode ends with them laughing in a booth over martinis, embodying the very chaos they spark in others."
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Nine-Forty, Five Drinks In",
+      "cast": [
+        "sue_storm",
+        "johnny_storm",
+        "ben_grimm",
+        "reed_richards"
+      ],
+      "logline": "An emotionally charged night in Sue’s kitchen lays bare the Storm-Richards-Grimm family’s deep fractures and attempts at repair.",
+      "beats": [
+        "Sue challenges Reed directly about his emotional absence over Ben’s birthday.",
+        "Johnny exacerbates tension with sarcasm but underscores valid critiques about Reed’s priorities.",
+        "Ben mediates, grounding the conversation while taking Sue’s side on Reed's emotional neglect.",
+        "Reed struggles to balance intellect and vulnerability, admitting fear of failure but making initial steps toward emotional reconnection.",
+        "The episode ends with Sue prompting Reed to ‘be here,’ underlining unresolved but hopeful space for healing."
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Twelve Years, Three Lies",
+      "cast": [
+        "tony_stark",
+        "natasha_romanoff",
+        "clint_barton",
+        "sam_wilson",
+        "bucky_barnes",
+        "steve_rogers"
+      ],
+      "logline": "A night in the Avengers' private bar dissects their collective weight of responsibility and their shared incapacity to handle Wanda's absence.",
+      "beats": [
+        "Tony mocked Clint’s recklessness while hinting at his own discomfort with their shared responsibilities.",
+        "Steve continuously attempted to mediate, particularly between Bucky and Tony, as tension escalated.",
+        "Natasha anchored moments of tension with sharp precision, managing to redirect hostility subtly.",
+        "Sam critiqued the group’s avoidance tactics and highlighted their responsibility to Wanda without outright alienating anyone.",
+        "Bucky revealed his quiet understanding of detachment and solitude but didn't offer himself as an active solution.",
+        "The group allowed their unresolved feelings to sit heavy in the room, ending the night without real relief or closure."
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Whiskey and Firelight",
+      "cast": [
+        "logan",
+        "jean_grey",
+        "scott_summers",
+        "ororo_munroe"
+      ],
+      "logline": "At Logan's cabin, four X-Men wrestle grief, memory, and blame as the weight of Charles Xavier's legacy looms large.",
+      "beats": [
+        "The group gathers at Logan’s cabin to process Charles Xavier’s death.",
+        "Logan drinks whiskey heavily, clashing with Scott's rigidity and Ororo’s resolute philosophy.",
+        "Jean seeks quiet but is pulled into mediating tension while battling her own grief.",
+        "Ororo challenges the group's avoidance and forces conversations around survival versus humanity.",
+        "The group maintains an uneasy truce, resolving nothing but exposing deep fractures within their dynamic."
+      ]
+    }
+  ],
+  "world_facts": [
+    {
+      "fact": "Peter Parker's love life is a subject of running commentary between Felicia and Wade, including his guilt complex and Peter's inability to navigate confidence.",
+      "established_in_ep": 1
+    },
+    {
+      "fact": "Johnny Storm is perceived as 'hot and cocky' by the duo and is referenced as part of their improvisational plans.",
+      "established_in_ep": 1
+    },
+    {
+      "fact": "Martinis, discounted Sephora cosmetics, and cheesecake seem to be consistent elements of Felicia and Wade's playful chaos.",
+      "established_in_ep": 1
+    },
+    {
+      "fact": "Sue's kitchen serves as a frequent arena for the family’s emotional confrontations.",
+      "established_in_ep": 2
+    },
+    {
+      "fact": "Johnny hides emotional sensitivity under sarcasm and sharp wit.",
+      "established_in_ep": 2
+    },
+    {
+      "fact": "Ben feels weighed down by his role as mediator, reflecting on how the family’s dynamics have grown heavier than their external enemies.",
+      "established_in_ep": 2
+    },
+    {
+      "fact": "Reed views his equations and inventions as his way of 'holding it all together,' but this mindset isolates him emotionally from the family.",
+      "established_in_ep": 2
+    },
+    {
+      "fact": "The Avengers maintain a private, secret bar for moments off-duty.",
+      "established_in_ep": 3
+    },
+    {
+      "fact": "Wanda and Vision have moved to Westchester, near Charles Xavier's mansion.",
+      "established_in_ep": 3
+    },
+    {
+      "fact": "Charles Xavier has recently died, leaving the X-Men grappling with grief and his legacy.",
+      "established_in_ep": 4
+    },
+    {
+      "fact": "Logan’s cabin serves as a temporary, isolating refuge for the group.",
+      "established_in_ep": 4
+    },
+    {
+      "fact": "The X-Men are fractured, struggling with unresolved dynamics and the conflicting weight of responsibility and personal scars.",
+      "established_in_ep": 4
+    }
+  ],
+  "version": 1
+}

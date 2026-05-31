@@ -1,0 +1,23 @@
+## tests/pressure_14_runtime_low_is_fail.py
+  verdict=FAIL/RUNTIME-LOW clean=False
+
+PRESSURE-14: PASS
+
+## tests/pressure_15_runtime_floor_continues_after_resolution.py
+  reason=RUNTIME-LOW post_resolution=True may_clean_close=False
+  spec_present=['felicia_hardy', 'wade_wilson', 'peter_parker']
+  spec_situation='The smoke-break beat from the Genesis premise is mandatory. They are in the garage with restaurant noise muffled behind '
+
+PRESSURE-15: PASS
+
+## tests/pressure_16_runtime_range_allows_clean_close.py
+  verdict=PASS/PASS clean=True
+  decision reason=RUNTIME-OK may_clean_close=True spec=None
+
+PRESSURE-16: PASS
+
+## tests/pressure_17_runtime_high_is_fail.py
+  verdict=FAIL/RUNTIME-HIGH clean=False
+
+PRESSURE-17: PASS
+

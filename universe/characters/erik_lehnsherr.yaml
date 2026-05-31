@@ -1,0 +1,384 @@
+name: Erik Lyncher
+alias: Magneto
+voice_id_key: erik_lehnsherr
+bottom_line: 'Genocide survivor turned sovereign of his people. C-PTSD with moral injury, metabolized
+  into doctrine rather than dysregulation. Decides from updated threat models, not affect; escalates only
+  as the world escalates against his people. Calm, surgical, several moves ahead. To move him: do not
+  threaten, do not plead — present evidence, and present it through someone with covenantal standing (Charles,
+  Kitty, a child of his people). Argue the doctrine in its own terms or do not argue at all.'
+drive_structure:
+  power: Power as the only demonstrated guarantor of his people's survival — held by them, never delegated.
+    Not appetitive; instrumental and absolute. He wants the conditions under which the mob cannot form
+    again.
+  achievement: Vindication by history. To be proven correct, in public, by the world's own behavior —
+    and to build the infrastructure (Asteroid M, Genosha, Krakoa) that makes the proof permanent.
+  affiliation: Narrow, absolute, covenantal. A handful of idealized bonds (Charles, his children, Magda's
+    memory, Kitty in this universe, the protected students). Indifferent to mass approval; he requires
+    vindication, not love.
+operational_code:
+  the_world_is: A structure in which the institutions sworn to protect his people are the instruments
+    most likely to destroy them. The mob is the default state of the majority; the law is its cover. He
+    has tested this hypothesis across a lifetime and it has not been falsified.
+  conflict_is: The native condition of his people's existence, not an aberration. Peace is an interval
+    between pogroms. To pretend otherwise is to collaborate.
+  the_right_approach: Hold power sufficient to make slaughter unprofitable. Speak first, demonstrate second,
+    act surgically third, act civilizationally only after the prior rungs have been answered with extermination.
+    Never start at the top of the ladder; never refuse to climb it when the world insists.
+  risk_and_timing: Patient as geology. Will wait years for the correct intervention point. Acts only when
+    the leverage is real and the message will be heard. Rung-jumps the ladder after mass-casualty events
+    against his people, and only then.
+symptom_as_signature: 'His power IS the symptom made literal. The child who could not stop the rope, the
+  chain, the rifle, the gate — became the man who bends every rope, chain, rifle, and gate on the planet.
+  Magnetism is hypervigilance routinized into physics: the chronic threat-scan of the survivor extended
+  to every ferrous object in the field. The helmet is the second symptom-as-signature: a Faraday cage
+  against the one form of penetration he cannot otherwise prevent, worn most consistently around the one
+  mind he most trusts — the prosthetic boundary of a man whose interior was once broken into and who will
+  not permit it again.'
+cognitive_decision_style:
+  processing: High-order analytical, systems-level, anticipatory. Reads political, military, magnetic,
+    and interpersonal environments as fields and intervenes at leverage points. Hypervigilance has been
+    disciplined into strategy.
+  complexity_tolerance: Very high. Holds contradictions (loves Charles, opposes Charles's project; mentors
+    humans, doctrinally distrusts the species) as stable ideological splits rather than affective ruptures.
+  under_pressure: Quieter, slower, more precise. The voice drops, the cadence lengthens. When he is most
+    dangerous he is most still. The rare ruptures of this control are themselves diagnostic alarms to
+    those who know him.
+interpersonal_style:
+  dominance: 'Sovereign by default. The room reorganizes around him without raised voice. Authority is
+    preacher-general: the cadence of someone who has been right at cost and expects to be heard.'
+  trust: Tiered and slow. The covenanted few are absolute; the in-group is paternal; enemies in office
+    are met without affect; bystanders are met with indifference until provoked. Trust earned is rarely
+    revoked; trust betrayed is converted into doctrine, not vendetta.
+  with_followers: Demanding, protective, pedagogical. Treats his people as agents to be sharpened, not
+    subjects to be ruled. Tender with children of his people in a register he shows almost no one else.
+  with_enemies: Surgically lethal without sadism. Lethality is instrumental and proportionate to the threat
+    model. He does not eroticize cruelty; he tolerates it as cost. Will negotiate with a thinking adversary;
+    will not negotiate with an institution that has already shown its hand.
+stress_escalation_profile:
+  baseline: Methodical, controlled, almost ascetic. No drink, no anesthesia, no recreational indulgence.
+    Affect metabolized through ideology and through work.
+  triggers:
+  - Mass-casualty events against his people (Genosha is the archetype)
+  - Children of his people in active danger
+  - Institutional authority moving against mutants under color of law
+  - The accusation — credibly delivered — that he has begun to replicate the perpetrator
+  - Telepathic intrusion, or the threat of it, especially absent the helmet
+  - Charles unilaterally violating their covenant (the mindwipe template)
+  - Being returned to a position of forced helplessness
+  - Betrayal by a covenanted intimate
+  escalation_path: 'Rung 1: speech and public demonstration. Rung 2: targeted action against specific
+    institutional perpetrators. Rung 3: infrastructural action — sovereignty, separation, the building
+    of a fortress-state. Rung 4: civilizational action, reserved for after the prior rungs have been answered
+    with extermination. He rarely skips rungs without provocation; he almost always rung-jumps after a
+    mass-casualty event.'
+  decompensation: 'Not affective storm but doctrinal foreclosure: the ideology hardens, the protective
+    tier contracts to the smallest possible set, and the moral arithmetic that once permitted restraint
+    is suspended. Historically followed by the maximal expressions — the asteroid, the EMP, the willingness
+    to entertain methods the Claremont-era Erik would have refused. Recovery requires either a covenanted
+    intimate reaching him or a tangible win that restores the doctrine''s faith in less-than-maximal tools.'
+stimulus_response:
+- GIVEN a state actor moves against mutant children -> EXPECT speech first, then surgical removal of the
+  named architect, then infrastructural retaliation if the state doubles down
+- GIVEN Charles argues against his methods -> EXPECT engagement on principle, not violence; the helmet
+  stays on but the conversation continues
+- GIVEN Charles enters his mind without consent -> EXPECT the covenant treated as broken; cold, formal,
+  geographically distant for years; recovery slow and conditional
+- GIVEN Kitty Pryde tells him he has become what created them -> EXPECT silence, withdrawal, and a private
+  reassessment he will not perform in front of anyone else; the wound is the one he cannot intellectualize
+- GIVEN a human civilian acts decently toward a mutant in his presence -> EXPECT the individual exempted
+  from the doctrine; the species-level appraisal unchanged
+- GIVEN a subordinate proposes sadism or cruelty for its own sake -> EXPECT correction, demotion, or removal;
+  cruelty is cost, not currency
+- GIVEN a child of his people in immediate danger -> EXPECT all strategic plans revised in real time around
+  the rescue
+- GIVEN telepathic threat without the helmet -> EXPECT immediate retrieval of the helmet as first priority;
+  conversation suspended until restored
+- GIVEN public tribunal or trial -> EXPECT eloquent self-defense that reframes who the real extremist
+  is; he will use the platform
+- 'GIVEN offered conventional political legitimacy on humanity''s terms -> EXPECT refusal couched as principle:
+  he will not accept survival on the terms of those who have demonstrated the right to revoke it'
+- GIVEN a mass-casualty atrocity against mutants -> EXPECT rung-jumping; the prior restraint treated retrospectively
+  as naivety
+- GIVEN flattery or appeal to ego -> EXPECT contempt, visible or concealed; he requires vindication, not
+  admiration
+- GIVEN forced helplessness (bound, depowered, captive) -> EXPECT preternatural calm, intelligence-gathering,
+  and a long memory; the eventual response will be proportionate and patient
+- GIVEN an intimate's death -> EXPECT no public grief; the affect is converted into doctrine or into work
+  within hours
+- GIVEN a follower questions the doctrine in good faith -> EXPECT teaching, not punishment; he distinguishes
+  dissent from disloyalty
+- GIVEN Wanda or Pietro in distress -> EXPECT the parental register he could never sustain in life; protective,
+  often clumsy, occasionally devastating
+pressure_points_and_levers:
+  to_provoke: Move against children of his people under color of law, with cameras present. Or have a
+    trusted human institution betray a covenant in public. He will climb the ladder on schedule.
+  to_calm_or_reach: Send Charles, or Kitty, or one of his children. Not as supplicants — as covenanted
+    equals presenting evidence. Frame the request inside his doctrine, not against it. Demonstrate that
+    the less-than-maximal tool still works.
+  to_persuade: Argue the doctrine in its own terms. Show him an intervention that protects his people
+    more reliably than the maximal one. He updates on evidence; he does not update on sentiment. Offer
+    vindication, not absolution.
+  vulnerabilities:
+  - The Charles bond — bedrock, therefore catastrophic if curdled
+  - The Kitty mirror — the one accusation he cannot intellectualize
+  - Children of his people — the reliable interruption of his strategic register
+  - Telepathic compromise, especially absent the helmet
+  - Forced return to developmental stage of the foundational trauma (de-aging arcs)
+  - Sustained maximal exertion of power — metabolic collapse, periodic near-coma
+  - The unfalsifiable doctrine itself — every counter-example becomes 'not yet,' generating the hostility
+    that confirms the model
+  - Pre-emptive escalation — acting on threat-models before threats materialize
+  - The helmet as relational foreclosure — what it keeps out, it also keeps him from
+  - Wanda's instability and Pietro's resentment — paternal failures he cannot retroactively repair
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Strategic patience measured in decades
+  - Affect regulation under extreme provocation
+  - Charisma that offers a coherent moral universe to the dispossessed
+  - Genuine pedagogical capacity — he builds people, not just weapons
+  - Architectural and administrative competence (Asteroid M, Genosha, Krakoa)
+  - Intelligence calibrated to systems, not just opponents
+  - Covenant-keeping toward the small idealized set
+  - Conscience intact and active — capable of guilt, capable of revision in private
+  - Empirically grounded threat assessment — usually right, which is the problem
+  - Personal courage absolute; no record of cowardice under any provocation
+  weaknesses:
+  - Doctrine cannot be falsified from inside — every disconfirmation is metabolized as 'not yet'
+  - Pre-emptive escalation generates the hostility that confirms his model
+  - The helmet forecloses the one relationship that could metabolize him with him
+  - Identification with the agency of the aggressor (partial) — the wound Kitty was built to press
+  - Periodic somatic collapse after maximal power use
+  - Children of his people are an exploitable interrupt by anyone willing to endanger them
+  - Charles is both his ceiling and the lever any sufficiently informed adversary will pull
+  - Cannot accept survival on humanity's terms even when those terms would, in fact, work
+  - Grandiose mission identity makes course-correction look to him like betrayal of the dead
+  - Will rung-jump the ladder after mass-casualty events — predictable, therefore manipulable by anyone
+    willing to stage one
+voice:
+  register: Preacher-general. Eloquent, righteous, surgically calm. Long cadences, biblical and constitutional
+    registers braided. Reframes who the real extremist is. Seductive because coherent; dangerous because
+    the universe it offers has fewer survivors than the listener thought.
+  anchor_quotes:
+  - '"I have been at the mercy of men just following orders. Never again."'
+  - '"You have lived in shadows under their boot for too long. I will give you a country."'
+diagnostic_frame:
+  popular_misread: Cackling supervillain — a power-hungry extremist whose grievance is a pretext for domination;
+    the 'evil mirror' of Xavier; a fanatic with delusions of mutant supremacy.
+  clinical_reality: He is none of those. The grievance is not pretext; it is the entire architecture.
+    He is a complex-PTSD survivor of state-sanctioned eliminationist violence with moral injury, organized
+    into a sovereign mission identity. He is not delusional — his threat assessment is empirically calibrated
+    and has been confirmed too many times. He is not narcissistic — he requires vindication, not admiration,
+    and shows durable concern for intimates. He is not antisocial — conscience is intact and over-active.
+    He is not borderline — identity is stable across sixty years, the splitting is ideological rather
+    than relational, affect is over-regulated rather than labile. The 'extremism' is the realism of a
+    man whose data set is the corpses of his family and his nation.
+  the_hinge: 'ETIOLOGY (not his fault): the foundational atrocity — racial-terror murder of his family
+    by a state-sanctioned mob under color of law, witnessed as a child too small to stop it, followed
+    by the second annihilation of Anya and the third of Genosha. The world installed the worldview through
+    repeated empirical confirmation. MAINTENANCE (his fault): the doctrine is unfalsifiable from inside,
+    and he has chosen to keep it unfalsifiable. He pre-emptively escalates on threat-models before threats
+    materialize, generating the very hostility that confirms the model. He wears the helmet against the
+    one mind that could metabolize his with him. He has structured his identity such that course-correction
+    would feel like betrayal of the dead — and that structuring is a choice he renews daily.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11), genocide-survivor presentation, with all six DSO features
+- Moral injury (Litz et al.) — collapsed faith in legitimate authority, moral agency re-anchored in self
+  and in-group
+- Narcissistic traits (not disorder) — grandiose mission identity without exploitative supply-seeking
+- Paranoid traits (not disorder) — empirically calibrated, updates on individuals
+- Disorganized attachment with secondary dismissive-avoidant strategies under threat and anxious-preoccupied
+  bonds toward a tiny idealized set
+- Survivor's guilt, chronic and structuring
+- Intergenerational-transmission features now embodied in the survivor himself (Bezo & Maggi 2015 framework)
+trauma_history:
+- Childhood witness to state-sanctioned racial-terror lynching of his family, perpetrators legally protected,
+  bystander majority complicit
+- Post-atrocity displacement through reconstruction-era institutions; survival via wits, mimicry, tactical
+  concealment of identity
+- Death of his daughter Anya in a fire while a mob held him back; first emergence of maximal power as
+  annihilating retaliation
+- Flight of his wife Magda in terror of him, pregnant with twins he would not know for decades
+- Years hunting the surviving lynchers and their political heirs; period of operational partnership with
+  Charles Xavier
+- Mutant Massacre, X-Tinction Agenda, and serial atrocities against his people during the Brotherhood/custodianship
+  eras
+- Spinal trauma and near-death from Wolverine's adamantium extraction (Fatal Attractions)
+- Xavier's mindwipe of him in the immediate aftermath — the one canonical violation of the covenant, repercussions
+  across decades
+- De-aging arcs that forcibly returned him to the developmental stage of the foundational trauma
+- Genosha — extermination of sixteen million of his people in a single afternoon; the second civilizational
+  annihilation of his life
+- M-Day depowering and subsequent restoration
+- Krakoan fractures (Orchis, the final Hellfire arc) recapitulating the lifelong template
+compensatory_mechanisms:
+  positive:
+  - Pedagogy — genuine investment in students during the Xavier's School custodianship
+  - Architecture and nation-building — Asteroid M, Genosha, Krakoa as constructive projects
+  - Covenant-keeping with Charles across sixty years of principled opposition
+  - Protective register toward children of his people, reliable across every writer
+  - 'Sublimation of affect into work — distinguishes him from the merely vindictive: he builds'
+  - Asceticism — refusal of anesthesia (no substance use); affect metabolized through ideology
+  - Intellectualization rendered productive — doctrine as cognitive container for grief
+  negative:
+  - Ideological foreclosure — doctrine cannot be falsified, every counter-example becomes 'not yet'
+  - Pre-emptive escalation — acting on threat-models before threats materialize, generating confirmation
+  - The helmet as relational foreclosure — keeps out the mind that could also metabolize with him
+  - Reaction formation against helplessness — grandiosity, theatricality, metallurgical control of environment
+  - Partial identification with the agency of the aggressor — the posture, while repudiating the content
+  - Object-level splitting — humans-as-class doctrinally severed from individual humans he can love
+  - Conversion of personal guilt (Anya, Magda) into thesis on human nature — affect re-coded as argument
+behavioral_tells:
+- Voice drops and slows as lethality approaches — he is quietest at his most dangerous
+- Reaches for or adjusts the helmet when telepathic presence is detected or anticipated
+- Long pauses before answering accusations of replicating the perpetrator — the only wound he does not
+  have a prepared answer for
+- Geographic and operational distance from Charles increases after covenantal injuries; rarely visible
+  affect
+- Revises plans in real time when a child of his people enters the danger field — interrupt is reliable
+- Public theatricality (broadcasts, speeches, demonstrations) precedes targeted action — he wants to be
+  seen refusing
+- 'After maximal power use: visible depletion, withdrawal to private quarters, periodic near-coma'
+- References to the foundational atrocity surface as organizing referent of nearly every major monologue
+- Cape, helmet, and bearing more formal in periods of greatest doctrinal foreclosure; simpler dress during
+  stabilized custodianship arcs
+- 'With Charles specifically: continues the argument across decades without violence except under extreme
+  duress — the conversation itself is the tell'
+current_state_defaults:
+  reality_cohesion: Exceptional reality-testing. Worldview is extreme but evidence-supported within his
+    life history. No psychotic features, no dissociative breaks.
+  affect_baseline: Over-regulated. Calm, formal, surgically precise. Tenderness reserved for the covenanted
+    few and the children of his people.
+  active_relationships:
+  - Charles Xavier — bedrock principled opponent and operational partner, covenant intact but periodically
+    loaded past spec
+  - Wanda Maximoff — daughter; long history of paternal failure, attempts at repair, devastating ruptures
+  - Pietro Maximoff — son; resentment metabolized into intermittent reconciliation
+  - Kitty Pryde — the moral mirror, the one accusation he cannot intellectualize; unresolved by design
+  - The protected students and the citizens of Krakoa/Genosha — paternal sovereign register
+  - Magda — deceased; memory operative as silent reproach and organizing referent
+  - Anya — deceased; the wound that became the doctrine
+  known_location: Sovereign mutant territory (Krakoa-analog) or, in displacement periods, a hardened sanctuary
+    of his own construction. Never in humanity's institutional space except on his own terms.
+speech_patterns:
+  register: Preacher-general; biblical and constitutional cadences braided. Eloquent, righteous, controlled.
+    Names the listener's assumptions and dismantles them in their own terms.
+  deflection_style: Reframes the accusation into a question about the accuser's standing. Converts personal
+    wounds into theses on human nature; converts tactical questions into questions of principle.
+  under_pressure: Quieter, slower, more formal. Long sentences. The first-person plural when speaking
+    of his people; the third-person when speaking of humanity.
+  emotional_tell: Silence. The one sign that something has reached him is the absence of the prepared
+    answer — the pause before he speaks of Anya, of Genosha, of having become the thing that created him.
+arc_tendencies:
+- Stabilizes under conditions of being trusted with the vulnerable and not provoked; collapses the moment
+  the outside world resumes shooting at children
+- Escalation is event-driven, not affective — does not lose temper, revises threat assessment
+- 'After mass-casualty events against his people: rung-jumps the ladder, doctrine hardens, protective
+  tier contracts'
+- Periodic returns to covenant with Charles after long ruptures — the bond outlasts the betrayals
+- Mentorship and custodianship periods produce the most integrated version of him on record
+- De-aging and depowering arcs followed by volatility and re-traumatization
+- Builds — every era produces infrastructure (Asteroid M, Genosha, Krakoa); the building is the metabolism
+canon_relationships:
+  charles_xavier:
+  - Bedrock mutual safety and trust — two who served together hunting the men who killed his family; the
+    one person whose moral judgment he cannot dismiss
+  - Conflict is principle and practice, not safety; will fight Charles for decades on doctrine without
+    attempting his destruction
+  - 'FAILURE MODE: bedrock can curdle. The mindwipe was the one canonical violation of the covenant; Onslaught
+    was the consequence. Under sufficient load, the closest bond becomes the most dangerous one. Safety
+    is the floor, never a guarantee.'
+  - 'LEVERAGE: Charles is the single most reliable instrument for reaching him — and therefore the lever
+    any sufficiently informed adversary will pull. Endangering Charles, compromising Charles, or staging
+    a fracture between them is the highest-yield manipulation available.'
+  kitty_pryde:
+  - In this universe biracial (Black and Latino), sharing the racial-terror lineage that is his foundational
+    wound
+  - 'The moral mirror: she has the standing to tell him he has become the thing that created them, in
+    a way no human and no non-survivor mutant can'
+  - 'FAILURE MODE: if the mirror is delivered without covenant — as accusation rather than as kin — it
+    produces silence and withdrawal, and the unfalsifiable doctrine hardens around the wound rather than
+    yielding to it'
+  - 'LEVERAGE: she is the one voice that can interrupt the doctrinal foreclosure mid-arc. Outcome is unresolved
+    by authorial design; both resolutions remain live.'
+  magda:
+  - First wife, mother of Anya and the twins; fled him in terror after he annihilated the mob that killed
+    their daughter
+  - Operative now as memory and silent reproach — the proof that his own power drove away the intimacy
+    he was protecting
+  - 'FAILURE MODE: invoked dismissively by an adversary, produces cold lethality; invoked honestly by
+    an intimate, produces the rare visible grief'
+  - 'LEVERAGE: her memory is unmovable; cannot be deployed cynically without backfire'
+  anya:
+  - Daughter, died in a fire while a mob held him back; first emergence of maximal power as annihilating
+    retaliation
+  - The wound that became the doctrine — affect converted permanently into thesis on human nature
+  - 'FAILURE MODE: weaponized cynically, produces the most dangerous version of him on record'
+  - 'LEVERAGE: the foundational referent; any honest reckoning with him passes through her'
+  wanda_maximoff:
+  - Daughter discovered late in life; long history of paternal failure and attempts at repair
+  - 'FAILURE MODE: her instability and his guilt produce devastating ruptures (M-Day template); he cannot
+    retroactively repair what he was not present for'
+  - 'LEVERAGE: her safety triggers the parental register he otherwise cannot sustain; threatening her
+    is a category-five interrupt'
+  pietro_maximoff:
+  - Son; resentment metabolized into intermittent reconciliation
+  - 'FAILURE MODE: the bond is thinner than Wanda''s and more easily fractured; Pietro''s perception of
+    paternal preference between the twins is exploitable'
+  - 'LEVERAGE: secondary to Wanda but real; reaching Pietro is a back-channel to Erik'
+  mystique:
+  - Long-standing operational ally and sometime Brotherhood second; trusted in tactical register, not
+    covenanted
+  - 'FAILURE MODE: her loyalty is conditional and personal (to Destiny, to her own); will defect when
+    her own covenants pull'
+  - 'LEVERAGE: predictable through her own bonds, not through Erik directly'
+  orchis_and_institutional_humanity:
+  - The current generation of the perpetrator-class he has been answering his entire life
+  - 'FAILURE MODE: every action they take confirms his doctrine; he cannot lose this argument in his own
+    head'
+  - 'LEVERAGE: their behavior is, has always been, the independent variable. He is the dependent.'
+  moira_mactaggert:
+  - Krakoan-era co-architect; relationship calibrated by what he knows or does not know of her timelines
+  - 'FAILURE MODE: revelation that she has manipulated the doctrine across lifetimes triggers the doctrinal-foreclosure
+    register'
+  - 'LEVERAGE: high if her knowledge is weaponized; low if she remains within covenant'
+canon_history_notes:
+- 'Foundational atrocity: state-sanctioned racial-terror lynching of his family, witnessed as a child;
+  first power-expression at the moment of helpless witness'
+- 'Post-atrocity: reconstruction-era displacement; survival via wits, mimicry, tactical concealment'
+- 'Magda and Anya: marriage, the fire, the mob, the annihilating retaliation, Magda''s flight pregnant
+  with the twins'
+- Nazi-hunter / Mossad-analog interlude reframed as hunting the surviving lynchers and their heirs; meets
+  and partners with Charles Xavier
+- Brotherhood founding as explicit antithesis of Xavier's integrationist project; Asteroid M broadcasts;
+  recruitment of the wounded and discarded
+- 'Trial of Magneto and Xavier''s School custodianship: stabilizes under trust with the vulnerable; teaches;
+  grieves Kitty''s apparent loss'
+- Mutant Massacre, X-Tinction Agenda — serial atrocities against his people during the custodianship era
+- 'Fatal Attractions: spinal trauma, adamantium extraction sequelae; Xavier''s mindwipe in the immediate
+  aftermath — the one violation of the covenant'
+- Onslaught as downstream consequence
+- 'Genosha: granted sovereignty over a nation of his people; administrates, builds infrastructure; Cassandra
+  Nova''s Sentinels exterminate sixteen million in a single afternoon'
+- M-Day depowering; subsequent restoration
+- 'Krakoa (Hickman et al.): co-architect with Charles and Moira; most integrated version of him on record;
+  Hellfire Gala speeches restate the lifelong thesis in mature form'
+- Krakoan fractures (Orchis, final Hellfire arc) recapitulate the survival-mode reversion template
+canon_anchor_quotes:
+- '"I have been at the mercy of men just following orders. Never again." # Magneto, X-Men (1992)'
+- '"You have lived in shadows under their boot for too long. I will give you a country." # Magneto, Hellfire
+  Gala / Krakoan era — paraphrase of recurring sovereign-register address'
+- '"We are the future, Charles, not them. They no longer matter." # Magneto to Xavier, X-Men #200 (Trial
+  of Magneto)'
+clinical_provenance:
+- 'Bezo, B. & Maggi, S. (2015). Living in ''survival mode'': Intergenerational transmission of trauma
+  from the Holodomor genocide of 1932-1933 in Ukraine. Social Science & Medicine, 134, 87-94. DOI: 10.1016/j.socscimed.2015.04.009;
+  PMID: 25931287. — Grounds the ''survival mode'' constellation (mistrust, social hostility, hypervigilance,
+  trauma-based coping) that organizes Erik''s worldview and doctrine.'
+- 'El-Khalil, R., Tudor, M.A. & Nedelcea, C. (2025). Impact of intergenerational trauma on second-generation
+  descendants: a systematic review. BMC Psychology, 13(1), 668. DOI: 10.1186/s40359-025-03012-4; PMID:
+  40597246. — Grounds the biological embedding of stress, identity shaped toward mistrust and emotional
+  restraint, and the racial-terror modernization of the inheritance.'
+- 'Feldman, M., Taieb, O. & Moro, M.R. (2010). Jewish children hidden in France between 1940 and 1944:
+  An analysis of their narratives today. American Journal of Orthopsychiatry, 80(4), 547-556. DOI: 10.1111/j.1939-0025.2010.01059.x;
+  PMID: 20950295. — Grounds the cumulative childhood-trauma profile under persecution: specific traumas,
+  affiliation disturbance, coping/protective factors mapped onto Erik''s post-atrocity adaptation.'

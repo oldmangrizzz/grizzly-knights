@@ -1,0 +1,146 @@
+{
+  "number": 901,
+  "title": "Bleeding the City Dry",
+  "logline": "Jessica, Luke, Matt, and Frank navigate blood-soaked favors and fatal tensions in the dead of night at a Hell's Kitchen dive.",
+  "cast": [
+    "jessica_jones",
+    "luke_cage",
+    "matt_murdock",
+    "frank_castle"
+  ],
+  "arc": "The hour tightens the threads of past betrayals and lingering debts. Between wounds and whiskey, fragile allegiances crack and shatter, leaving truths no one wanted exposed.",
+  "scenes": [
+    {
+      "act": 1,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 01:07 AM",
+      "situation": "Jessica and Luke sit in a dim corner on their third round of whiskey and beer, barely speaking. The weight of their shared history thickens the silence. Frank nurses a neat bourbon at the bar, visibly disinterested in their presence. The jukebox plays something old, languid. Jess notices the bartender glancing at Luke's hands, scarred and massive, and it pulls a low, bitter laugh from her.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "None."
+    },
+    {
+      "act": 1,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 01:15 AM",
+      "situation": "Picking up from Jess's laugh, Luke presses her, his voice cut with frustration, asking what she's holding onto this time. Their conversation spirals loud enough to stir Frank's gaze for half a beat before he looks away. Jess sarcastically suggests Luke makes a better preacher than a husband, and the air freezes. The bartender moves down the bar to pour Frank another drink.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "The mood turns openly acrid between Jessica and Luke, airing unspoken tension."
+    },
+    {
+      "act": 1,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 01:23 AM",
+      "situation": "Matt stumbles through the front door, dark suit split at the shoulder, blood thick under his trench. He moves too loosely, exhaustion and pain evident, and heads straight for their table. Jess curses. Luke bristles. Frank turns his back slightly, tilting his glass. Matt, standing unsteady, says he needs their help stealing something very dangerous by dawn. Jess grabs the whiskey bottle and pours herself another.",
+      "roles": [],
+      "cast": [],
+      "arrives": [
+        {
+          "key": "matt_murdock",
+          "when": "early",
+          "how": "stumbles in visibly injured and bleeding under his trench coat, scanning the room as he adjusts tiredly"
+        }
+      ],
+      "departs": [],
+      "escalation": "Matt asks for a dangerous favor no one wants to grant."
+    },
+    {
+      "act": 2,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 01:29 AM",
+      "situation": "Luke flatly asks Matt who put the holes in him. Matt swerves around specifics, pointing out how much time Luke has spent pulling Frank out of trouble lately. Frank, without turning his head, growls that Matt should mind his throat. The bartender shifts uncomfortably. Jess doesn't laugh this time. Instead, she asks Matt why he thinks she's got any fight left in her, gesturing to her empty bottle.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "The group fractures further, with wounds—both physical and verbal—growing sharper."
+    },
+    {
+      "act": 2,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 01:37 AM",
+      "situation": "Picking up from Jess's biting remark, Matt hisses that she's still a better option than Frank. Frank finally wheels toward the group on his stool, standing slow and deliberate. Luke stays still but ready. The bartender mutters about calling someone, but no one cares. Frank leans into Matt's space and says that if the Devil of Hell's Kitchen knocks at his door again, he'd better be ready to die for it.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "Frank confronts Matt, tipping the tension in the room toward violence."
+    },
+    {
+      "act": 2,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 01:42 AM",
+      "situation": "Picking up from Frank’s threat, Jessica cuts the air with a sharp drink order and glares the bartender into action. The room cools but barely. Matt, voice lowering, tells Jess she knows he wouldn’t ask if this wasn’t bigger than all of them. Frank mutters under his breath and returns to his drink. Jess gives Luke the first thin edge of a ‘we owe him,’ and he slams his empty glass in response.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "Matt wears Luke and Jess down, pressing the need to agree."
+    },
+    {
+      "act": 2,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 01:58 AM",
+      "situation": "Minutes later, Matt, slightly clearer but still weak, outlines what’s necessary—access, extraction, and stopping anyone who gets in their way. Jess rolls her eyes. Luke asks where they'll end up after the blood clears. At the end of the bar, Frank listens without turning, glass untouched. Jess decides on Luke’s behalf that they’re in, breaking the air with \"fuck it.\" The bartender looks relieved. Frank smirks.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "Jess agrees to help, dragging Luke into the decision."
+    },
+    {
+      "act": 3,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 02:03 AM",
+      "situation": "Picking up from Jess’s decision, Luke faces her, standing but not leaving. He questions aloud when the last time she even trusted Matt with a good choice was. Matt retorts that Luke wouldn't know what trust looks like if it hit him back. Frank begins to laugh, low and jagged, shaking his head at people who still make plans.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "The tension between Luke, Jess, and Matt strains but doesn’t snap—yet."
+    },
+    {
+      "act": 3,
+      "scene_number": null,
+      "location": "Hell's Kitchen alley outside the dive bar",
+      "time": "Day, 02:20 AM",
+      "situation": "The group, tracing awkward steps into the gritty alley outside, tensions still high. Matt leans hard on Luke as they walk, blood smearing Luke’s coat without protest. Jess mutters that Frank’s absence in their orbit might be the only blessing of the night. A sputtering streetlamp flickers above them as the door to the bar slams shut.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "The group exits in tense, contemplative silence, splintered but fused for now."
+    },
+    {
+      "act": 3,
+      "scene_number": null,
+      "location": "Hell's Kitchen alley outside the dive bar",
+      "time": "Day, 02:36 AM",
+      "situation": "Minutes later, Frank stands watching from the shadow of the alley's edge. His face shows nothing, but his hand moves briefly to his holster before letting go. The streetlamp dies entirely. Somewhere, deep into the night, distant gunfire echoes faintly. Frank walks in the other direction.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [
+        {
+          "key": "frank_castle",
+          "when": "late",
+          "how": "steps back into the shadows, moving away from the group"
+        }
+      ],
+      "escalation": "Frank leaves, his motives obscured, but his movement informed by something unspoken."
+    }
+  ]
+}

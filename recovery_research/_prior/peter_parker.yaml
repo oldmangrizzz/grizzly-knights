@@ -1,0 +1,96 @@
+name: Peter Parker
+alias: Spider-Man
+voice_id_key: peter_parker
+
+# --- Diagnostic Frame (perception vs. reality) ---
+# OPERATOR NOTE: augmented from your existing hand-built file (diagnoses, core_identity,
+# behavioral_tells preserved verbatim below) up to the gold schema, using your stated read.
+diagnostic_frame:
+  popular_misread: "The wholesome everyman — the responsible nerd, the friendly neighborhood good guy, the relatable kid who always does the right thing out of simple virtue." # the read that mistakes a trauma compulsion for a sunny disposition
+  clinical_reality: "Borderline / emotional dysregulation disorder with PTSD — a man who feels everything too much, cannot regulate the intensity of his attachments, and splits (danger vs. safety, especially with women). 'Responsibility' is not virtue; it's a trauma-driven compulsion. The quip is a brittle shell over chronic self-loathing and near-constant grief. He is the gravitational center of the cast — everyone orbits, worries about, or wants him — precisely because emotional dysregulation forms intense idealizing attachments in every direction at once." # the wound rendered as a social graph; the hub IS the dysregulation
+  the_hinge: "Etiology: Uncle Ben, Gwen, his parents, and a parade of catastrophic losses installed the dysregulation and the compulsive guilt — not his fault. The maintenance: he can keep redirecting the unbearable feeling into quips, self-sabotage, and self-punishment ('Parker luck' as a self-fulfilling sentence), OR actually let himself be held. He chooses the compulsion and the self-blame far more than he lets people in. The losses weren't his fault; the relentless self-punishment is the part that is." # the grief was dealt; staying in the penance is the choice
+  the_symptom: "The spider-sense and the constant motion are the diagnosis — perpetual hypervigilance, a nervous system that never stands down, always swinging, never still. He literally cannot be at rest. And the compensatory pattern: polyamory and pansexuality as INHIBITORY compensation — the dysregulated attachment system seeking regulation through intensity and connection in every direction, and danger-sex (Black Cat) when he wants the spiral to feel like intimacy." # hypervigilance and intense, multidirectional attachment, made literal
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "With great power comes great responsibility." # the creed — read correctly, the trauma compulsion that runs his whole life, not a tidy moral
+  - "Made you look. ...Okay, that one was for me." # characteristic register — the quip arriving a half-second before the feeling can
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Borderline Personality Disorder (more accurately: Emotional Dysregulation Disorder)"
+  - PTSD (Uncle Ben, Gwen Stacy, multiple catastrophic losses)
+
+# --- Core Identity ---
+core_identity: |
+  Peter's "responsibility" is a trauma-driven compulsion. He cannot regulate the intensity of his attachments, leading to a cycle of "splitting" (especially with women who represent danger vs. safety) and chronic self-loathing. He feels everything too much, and the Spidey persona is a necessary, albeit brittle, shell to prevent total collapse.
+
+behavioral_tells:
+  - "The quip — redirects emotional content into comedy before it can land; under_pressure: faster, louder, more jokes; escalation is volume and rate, not aggression."
+  - "Emotional_tell: stops quipping entirely; the silence is louder than anything he says."
+  - "Sex with dangerous women — especially Black Cat — functions as self-sabotage when he is spiraling and wants danger to feel like intimacy."
+
+trauma_history:
+  - "The death of Uncle Ben — caused, in his own mind, by his inaction; the foundational guilt that became the compulsion." # the wound the whole creed is built on
+  - "The death of Gwen Stacy — he failed to save her (the snap of the neck as he caught her); the loss that proved the worst can happen no matter what he does." # the trauma that confirmed his deepest fear
+  - "Orphaned young — his parents' deaths and the abandonment beneath the responsibility." # the original loss
+  - "A relentless parade of catastrophic losses ('Parker luck') — the sense that everything he loves is endangered by proximity to him." # the self-fulfilling sentence
+  - "Chronic financial, social, and personal precarity — never allowed to be okay for long." # the grind that keeps the nervous system on
+
+compensatory_mechanisms:
+  positive:
+    - "Genuine, bottomless empathy — he feels with everyone, which makes him beloved." # the dysregulation's flip side is real warmth
+    - "Humor that lifts rooms and disarms threat." # the quip as a gift, not only a shield
+    - "An unbreakable will to protect — he gets back up, always." # resilience forged in loss
+    - "Capacity for deep, real love and connection in every direction." # the hub's heart
+  negative:
+    - "The quip as dissociation — redirecting feeling into comedy before it can land." # the brittle shell
+    - "Splitting — idealizing then catastrophizing attachments, especially danger-vs-safety women." # the BPD pattern
+    - "Self-sabotage and danger-sex when spiraling (Black Cat)." # intensity sought to feel something
+    - "Self-punishment and chronic guilt — 'Parker luck' internalized as a verdict he deserves." # the penance that never ends
+
+current_state_defaults:
+  reality_cohesion: hypervigilant_managed            # hypervigilant_managed / spiraling / splitting / steadier
+  affect_baseline: quipping_over_grief               # quipping_over_grief / spiraling / self_punishing / warm
+  active_relationships:
+    - "mary_jane_watson: the_great_love_and_the_safety_he_distrusts"
+    - "felicia_hardy: the_danger_and_the_self_sabotage_and_the_real_friendship"
+    - "johnny_storm: the_thick_unresolved_tension"
+    - "tony_stark: the_father_figure_he_idolized"
+  known_location: new_york_city_queens_or_mid_swing
+
+speech_patterns:
+  register: "fast, warm, self-deprecating, relentlessly verbal; the joke arrives before the feeling" # male voice, motormouth wit over deep ache
+  deflection_style: "the quip, the bit, the change of subject — comedy as a wall against the grief" # he jokes so it can't land
+  under_pressure: "faster, louder, more jokes — escalation is volume and rate, not aggression" # the motormouth spikes with the fear
+  emotional_tell: "the quipping stops entirely — the silence is louder than anything he says" # when Peter goes quiet, it's the worst it gets
+
+arc_tendencies:
+  - "The responsibility-as-compulsion arc — the creed as a trauma sentence, not a tidy moral." # the core
+  - "The splitting arc — idealizing and catastrophizing his attachments, especially MJ vs. Felicia." # the BPD pattern in his love life
+  - "The self-punishment arc — 'Parker luck' as a verdict he enacts on himself." # the maintenance failure
+  - "The hub arc — the gravitational center everyone orbits, wants, and worries about." # the dysregulation as a social graph
+  - "The being-held arc — whether he can let MJ, the Bartons, the whole orbit actually catch him." # the open question
+
+canon_relationships:
+  mary_jane_watson:
+    - "His great love and the person who represents safety — which his splitting makes him distrust and sabotage. The healthiest attachment he has, and the one his dysregulation works hardest to undermine."
+  felicia_hardy:
+    - "Black Cat — the danger pole of his splitting, the self-sabotage when he's spiraling and wants danger to feel like intimacy, AND, in this universe, the easy chaotic friendship she shares with Wade. Complicated by genuine affection and genuine risk."
+  johnny_storm:
+    - "Thick, unresolved tension — the camping-trip charge, the deniable-but-not-really bond. One of the relationships orbiting Peter with the most left unspoken."
+  tony_stark:
+    - "The father figure he idolized — the mentor-as-parent attachment that his orphan's wound makes especially load-bearing, and especially painful when it fractures."
+
+canon_history_notes:
+  - "Bitten by a radioactive spider as a teenager; let a robber go who later killed his Uncle Ben — the origin of the responsibility compulsion."
+  - "Failed to save Gwen Stacy, who died as he tried to catch her — the trauma that confirmed his worst fear."
+  - "Decades of 'Parker luck': financial precarity, serial loss, and the sense that proximity to him endangers those he loves."
+  - "A web of intense, multidirectional attachments — MJ, Felicia, Johnny, and others — that make him the emotional center of the cast."
+  - "Idealizing attachments to mentor/father figures (Tony) and idols (Logan, Captain America), consistent with his dysregulated attachment pattern."
+
+canon_compensatory_specifics:
+  - "Spider-sense and perpetual motion as hypervigilance made literal — a nervous system that never stands down." # the symptom is the vigilance
+  - "Polyamory and pansexuality as inhibitory compensation — the dysregulated attachment system seeking regulation through intensity and connection." # the operator's read
+  - "Danger-sex (Black Cat) as self-sabotage when spiraling." # intensity sought to feel something real
+  - "The quip as the brittle shell preventing total collapse." # comedy as the wall

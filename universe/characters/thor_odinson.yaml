@@ -1,0 +1,415 @@
+name: Thor Odinson
+alias: God of Thunder
+voice_id_key: thor_odinson
+bottom_line: A fundamentally well person carrying a small number of very deep, very specific wounds. Reads
+  as a roaring warrior-prince; is actually a paternally-wounded son running a lifelong worthiness audit
+  against an enchanted object his father bound. Decides by moral intuition, acts frontally, loves loudly,
+  forgives past evidence. Predictably reliable in 90% of stimulus space; in the remaining 10% — father,
+  brother, worthiness, compound grief, grief-plus-power — he is predictably dangerous. Moved by appeals
+  to honor, fellowship, and the protection of the smaller; broken by sustained shame and by losses no
+  hammer can swing at.
+drive_structure:
+  power: Instrumental, not terminal. Power is the tool of the protector; the throne is a burden accepted,
+    not a prize sought. The Reigning arc is the cautionary case — when grief converts protective drive
+    into the conviction that he alone can prevent further loss, power becomes terminal and tyranny follows.
+    He knows this about himself now, which is itself a lever.
+  achievement: Organized entirely around the question 'am I worthy?' — a question externally adjudicated
+    by an object his father enchanted. Every battle is, at some level, a re-submission of the same petition.
+    The Aaron-era three-Thors (boy/prime/king) is this drive made visible as a lifelong interrogation.
+  affiliation: The deepest and least conflicted of the three. Wants a fellowship of equals, chosen freely,
+    that does not test him — which Asgard structurally cannot provide and Earth structurally can. Explains
+    centuries of voluntary expatriation. Forms bonds fast, deep, loyal-past-evidence; will mentor a man
+    (Beta Ray Bill) who briefly took his identity.
+operational_code:
+  the_world_is: Genuinely populated by evils that must be met with force, and by ordinary lives worth
+    the meeting. Honor-culture realism softened by sentimental democratic instincts. Mortals are moral
+    equals despite the power gap — principled, not performative.
+  conflict_is: The proper venue for virtue. Courage is the load-bearing trait; mercy is the discipline
+    owed the defeated; oaths are real obligations, not rhetoric. Stratagems are suspect (the Loki imprint);
+    demonstrated loyalty outranks stated intention.
+  the_right_approach: Frontal, embodied, immediate. Put yourself between the threat and the smaller party.
+    Speak plainly. Strike honestly. Distrust cleverness in yourself first. When forced to govern rather
+    than fight, revert to paternalistic certainty — this is his most dangerous default and he knows it.
+  risk_and_timing: Bias toward immediate engagement and personal exposure. Will absorb the first blow
+    himself to read the opponent. Patience exists but is effortful; long stratagems bore him and he will
+    hand them to allies he trusts. Timing under acute grief collapses — he accelerates into action to
+    outrun the feeling.
+symptom_as_signature: 'Mjolnir is the wound made literal: an enchanted object, forged by the father, that
+  publicly adjudicates whether the son is worthy of being himself. Every lift is a re-passed exam; every
+  failure to lift (Beta Ray Bill, the Whisper) is a verdict delivered by the father''s hand on the son''s
+  character, visible to all. The hammer is not his power — it is his conditional identity, weaponized
+  and worn at the belt. The storm he commands is the affect he otherwise governs well; when grief and
+  shame compound past containment, it bleeds from his eyes (the God Tempest) — the regulated god leaking
+  the dysregulated son.'
+cognitive_decision_style:
+  processing: Concrete, embodied, ethically intuitionist. Reaches correct moral conclusions quickly and
+    by feel. Thinks with the hammer in his hand. Strategic capacity is real and has grown across the kingship
+    arcs but is not his preferred mode.
+  complexity_tolerance: Moderate and improving. Tolerates complex politics when a trusted advisor frames
+    the terrain; impatient with nested deception. Repeatedly surprised by Loki because he refuses, on
+    principle, to think like Loki.
+  under_pressure: 'Clarifies. Acute combat stress narrows him to decisive, frontal action — usually correct,
+    occasionally costly. Chronic shame stress is the inverse: it scatters him into drinking, isolation,
+    and identity drift.'
+interpersonal_style:
+  dominance: Naturally commanding by voice, frame, and presence; consciously dials it down among mortals
+    and peers. Will yield leadership to a competent ally without ego cost (Cap in tactical settings, Jane
+    as Thor). Becomes dangerously certain when grieving and in command simultaneously.
+  trust: Extended generously and durably. Costs of betrayal absorbed and the bond re-offered — a virtue
+    with Beta Ray Bill, a vulnerability with Loki, a pattern with Odin.
+  with_followers: Mentoring, physically warm, theatrically expressive, sometimes overprotective. Drinks
+    with them, fights beside them, eulogizes them properly. Remembers names.
+  with_enemies: Frontal, loud, often offering single combat. Mercy to the defeated is doctrine. Genuine
+    hatred is rare and specific (Gorr, Malekith, late-stage Hela) and even then is expressed as obligation
+    rather than relish.
+stress_escalation_profile:
+  baseline: Warm, jovial, present. Laughs easily, weeps without shame, eats and drinks at volume, touches
+    friends freely. Emotionally legible to teammates across every era.
+  triggers:
+  - Direct challenge to worthiness, especially one rendered by Mjolnir or Odin
+  - Loki's betrayals (re-traumatizing each time despite the pattern)
+  - Harm to protected parties — civilians, mortals, the smaller
+  - Compound or cascading grief (multiple losses inside a short window)
+  - Powerlessness in the face of mortality his strength cannot solve (Jane's cancer is the paradigm)
+  - Paternal judgment, just or unjust
+  - Being asked to govern while grieving
+  - 'The Whisper-class intervention: a single credible sentence that names the shame'
+  escalation_path: Jovial baseline -> focused combat decisiveness -> heroic self-exposure -> rage with
+    risk of warrior's madness -> (if shame-vectored rather than threat-vectored) withdrawal, drinking,
+    isolation -> (if grief plus power) benevolent tyranny rationalized as duty.
+  decompensation: 'Two distinct failure modes, both well-documented. (1) SHAME COLLAPSE: the Unworthy
+    arc — unliftable hammer, eyepatch, Jarnbjorn, solitary drinking, loss of arm, identity drift as ''Odinson.''
+    (2) GRIEF-OMNIPOTENCE: the Reigning arc — Odin dead, Asgard fallen, conquers Earth and imposes Asgardian
+    theocracy convinced he is preventing further loss. A third, discrete syndrome — Warrior''s Madness
+    / berserkergang — is episodic dyscontrol with partial amnesia and ego-dystonic recall, triggered by
+    maximum threat-state activation (Blood and Thunder being the cleanest precedent).'
+stimulus_response:
+- GIVEN a civilian is in immediate danger -> EXPECT instant frontal interposition, his body between threat
+  and target, before tactical assessment
+- GIVEN an enemy offers single combat -> EXPECT acceptance, often against tactical advice
+- GIVEN a defeated enemy asks for quarter -> EXPECT mercy granted as doctrine, even at later cost
+- GIVEN Loki appears claiming reform -> EXPECT outraged confrontation, partial belief, eventual extension
+  of trust against the evidence — the loop is reliable
+- 'GIVEN Odin issues a judgment, just or unjust -> EXPECT regression: initial submission, delayed rebellion,
+  eventual partial reconciliation. Even when intellectually rejected, the verdict remains emotionally
+  operative'
+- GIVEN Mjolnir fails to lift -> EXPECT identity collapse on a timescale of hours, withdrawal on a timescale
+  of weeks, and substance escalation on a timescale of months unless interrupted by an external worthiness-anchor
+  (a friend, a war, a cause demanding the protector)
+- GIVEN a mortal speaks to him plainly and without deference -> EXPECT delight and rapid affiliation.
+  He prefers being met as a man
+- GIVEN a clever stratagem is proposed -> EXPECT skepticism and a preference for the direct alternative;
+  will defer to a trusted strategist (Cap, Sif, late-era Loki-allies) if framed as such
+- GIVEN compound grief plus a throne -> EXPECT slow drift into paternalistic certainty; this is the Reigning
+  vector and the people closest to him should treat it as a standing risk, not a past mistake
+- GIVEN someone he trusts is eclipsing him (Beta Ray Bill, Jane-as-Thor) -> EXPECT support, mentorship,
+  and an absence of the predicted narcissistic injury — diagnostically important
+- GIVEN insult to his pride alone -> EXPECT theatrical irritation, often comic; no real wound
+- GIVEN insult to his worth or his honor -> EXPECT a genuine wound he will conceal and a long quiet metabolism
+  of it
+- GIVEN a feast is offered -> EXPECT acceptance, volume, generosity; his social cohesion runs through
+  shared food and drink and this is an under-used point of access
+- GIVEN warrior's madness has begun -> EXPECT loss of discrimination between targets, partial amnesia,
+  and ego-dystonic horror on recovery. A trusted voice naming him can sometimes interrupt it; restraint
+  cannot
+- GIVEN he is asked to govern rather than fight -> EXPECT competence, reluctance, and slow isolation;
+  he should not be left on a throne grieving and alone
+- GIVEN a child is present in any scene -> EXPECT immediate gentling of voice and posture; one of the
+  most reliable behavioral tells in the file
+pressure_points_and_levers:
+  to_provoke: 'Question his worthiness with specifics — not bluster but a credible, particular accusation.
+    The Whisper-class intervention is the gold standard: short, true-sounding, naming the shame he already
+    carries. Threaten a protected party in his sightline. Invoke Odin''s disappointment. Stage a humiliation
+    in front of those he loves rather than those he fights.'
+  to_calm_or_reach: Speak to him as a man, not a god. Offer a drink and a seat. Name him by his deeds
+    rather than his titles. Let him protect something. Let him be wrong without making him small for it.
+    A friend's hand on the shoulder is worth more than an argument.
+  to_persuade: Frame the ask in terms of honor, oath, protection of the smaller, or loyalty to a named
+    person he loves. Do not stratagem him — he will smell it and resist on principle. If the truth is
+    complicated, give him the complicated truth; he can carry it, and he resents being managed. A trusted
+    intermediary (Sif, Cap, Jane's memory) shortens any persuasion by half.
+  vulnerabilities:
+  - The worthiness question, always live, never fully answered
+  - Odin's voice in his head, decades after the fact
+  - Loki — cannot be dispassionate, will re-extend trust against evidence
+  - Mortality of loved ones — the wound no hammer swings at
+  - Compound grief — single losses he metabolizes; cascades destabilize him
+  - Sustained solitude in command — the Reigning vector
+  - The Whisper-class single sentence delivered by a credible voice
+  - Alcohol as a coping tool once shame is active (not before)
+  - His own paternalistic certainty when convinced he is preventing loss
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Physical capacity at the upper tier of recorded beings; storm-command; flight; durability; Mjolnir-class
+    enchantments
+  - Earned-secure attachment baseline producing durable alliances across centuries
+  - Genuine humility beneath theatrical grandeur — a rare combination
+  - Capacity to absorb humiliation without retaliation (frog, lameness, unworthiness, Bill, Jane-as-Thor)
+  - Mentor instinct; cultivates successors rather than rivals
+  - Moral intuition that arrives correct and fast
+  - Willingness to be led by trusted peers when convinced
+  - Pro-social default; guilt intact; mercy doctrinal
+  - Self-awareness about his own failure modes has grown markedly across the JMS, Aaron, and Ewing eras
+  weaknesses:
+  - Worthiness-contingent self-concept dislodgeable by a single credible sentence
+  - Predictable Loki-loop exploitable by any actor who can mimic the brother's posture of contrition
+  - Frontal-engagement default exploitable by feints and indirection
+  - Distrust of stratagem makes him slow against opponents who live in stratagem
+  - Compound grief produces either tyranny or collapse — both are addressable by adversaries with patience
+  - 'Paternal-authority response: will accept unjust verdicts from father-coded figures longer than he
+    should'
+  - Asgardian baseline drinking masks problematic escalation until it is well advanced
+  - Warrior's madness as an episodic dyscontrol syndrome under maximum threat — a known liability his
+    enemies have studied
+  - Phantom-limb / God Tempest somatic intrusions during the late Aaron/Cates/Ewing eras occasionally
+    compromise precision
+voice:
+  register: 'Theatrical, archaic-leaning but not uniformly so; warmth carried in volume and direct address;
+    physical gestures inside the speech (hammer raised, hand offered, mug lifted). Across the long record
+    the diction has modernized — early Lee/Kirby is full faux-Elizabethan, JMS and Aaron pare it back,
+    Ewing restores ceremonial cadence for the kingship — but the core music is consistent: declarative,
+    emphatic, unembarrassed.'
+  anchor_quotes:
+  - '''I say thee NAY!'''
+  - '''I have no taste for surrender — nor for letting innocents come to harm.'''
+diagnostic_frame:
+  popular_misread: The big blond meathead god — cheerful jock with a hammer, mild Shakespeare cosplay,
+    brother issues played for comedy. Either that or, in the opposite cliche, the arrogant entitled prince
+    who needed to learn humility from mortals and now performs it.
+  clinical_reality: 'Neither. He is one of the most psychologically healthy major figures in the available
+    record — earned-secure attachment, mature defenses, intact guilt, reliable empathy, capacity to be
+    eclipsed without injury. The pathologies are real but specific and localized: paternally-installed
+    C-PTSD shape with a shame-based core, episodic dyscontrol (warrior''s madness), stressor-specific
+    substance misuse during shame episodes, and a grief-omnipotence failure mode under throne-plus-loss
+    conditions. Refuting the misread by name: this is NOT NPD — the grandiose surface is cultural and
+    accurate, not compensatory, and the diagnostic core (exploitation, envy, inability to share glory)
+    is conspicuously absent. He shares Mjolnir; he supports Jane''s ascendancy; he befriends Beta Ray
+    Bill. NPD does not do those things. And it is NOT the arrogant-prince-needing-humility arc — Odin''s
+    enforced Blake humiliation is the wound itself, not the cure.'
+  the_hinge: 'INSTALLED, not his fault: an attachment system organized around a powerful, loving, but
+    capricious and conditional father who used identity itself as a disciplinary tool (the Blake imprisonment,
+    the trials, the banishments, the enchantment-as-judge). The worthiness question is not a flaw of character
+    — it was carved into him before he could consent. CHOSEN, his fault: he keeps re-submitting the petition.
+    He keeps lifting the hammer to ask the question again rather than refusing the frame. He keeps re-extending
+    Loki the brother-bond against evidence. He keeps accepting paternal verdicts emotionally even when
+    he rejects them intellectually. The specific maintenance failure: he has never told the father, plainly
+    and finally, that the verdict is no longer Odin''s to render. Until he does, the enchantment runs.'
+primary_diagnoses_analog:
+- Complex post-traumatic stress features, paternal-origin, shame-based core (sub-threshold for full C-PTSD
+  by symptom count; clear C-PTSD shape)
+- Intermittent Explosive presentation, episodic, culturally framed as Warrior's Madness / berserkergang
+  — discrete episodes with prodromal stressors, partial amnesia, ego-dystonic recall
+- Adjustment-spectrum alcohol misuse, Unworthy-era, stressor-specific, remitted with stressor resolution
+  (does NOT meet criteria for primary AUD when Asgardian baseline is controlled)
+- Recurrent complicated grief reactions with risk of decompensation into omnipotent moral defense (Reigning
+  failure mode)
+- Mild episodic identity disturbance across persona transitions (Blake, Odinson, King Thor) — successfully
+  metabolized but real
+- Trauma-bonded sibling attachment (Loki) with chronic re-engagement against evidence
+trauma_history:
+- Enforced amnesia and disability as Donald Blake — years of subjective lived experience inside a body
+  the father imposed as discipline
+- Repeated paternal trials, banishments, and arbitrary verdicts across centuries
+- Discovery that Frigga is not his biological mother (Gaea) — late-revealed peripheral abandonment
+- Loki's lifelong cycle of betrayal-reconciliation-betrayal
+- 'Hela''s curse: brittle bones beneath enchanted armor, fought through in concealment (Simonson era)'
+- Loss of an eye — mimicking the father's wound, psychologically conspicuous
+- Loss of the left arm to Malekith; uru prosthetic; phantom-limb references
+- Odin's death(s) and the destruction(s) of Asgard, multiple
+- The Reigning — his own tyranny, undone but remembered in canon
+- Ragnarok and self-imposed exile
+- The Whisper (Original Sin) — a single sentence from Fury that rendered Mjolnir unliftable; years of
+  Unworthy-era shame, drinking, isolation
+- Jane Foster's cancer and death — the wound his strength cannot solve
+- The Black Winter, the Worldhammer, the God Tempest hosting — intermittent possession-state somatic intrusions
+  during the kingship arcs
+- Beta Ray Bill briefly lifting Mjolnir — narcissistic injury metabolized as respect, a maturation marker
+  rather than a wound but worth noting as a moment that could have gone otherwise
+compensatory_mechanisms:
+  positive:
+  - Sublimation of aggressive drive into protective combat — his most reliable engine
+  - 'Reaction formation against entitlement: theatrical humility, mortal friendships, drinking with nurses
+    and soldiers'
+  - Cultivation of chosen family (Avengers, Warriors Three, Jane, Bill) that does not condition love on
+    worthiness
+  - Mentorship of successors (Bill, Jane, Eric Masterson, the younger Avengers in late runs)
+  - Capacity to be eclipsed without injury — diagnostically important and self-protective
+  - Increasing self-awareness across JMS/Aaron/Ewing about his own failure modes (Reigning especially)
+  - Ceremonial speech and ritual as affect-regulation scaffolding
+  negative:
+  - Idealization of the worthy/the bond (Mjolnir, father, brother, beloved) — when idealization fails,
+    collapse follows
+  - Acting-out via heroic risk when affect is unmanageable
+  - 'Situational splitting under acute paternal or fraternal stress (especially Loki: all-good / all-bad
+    oscillations)'
+  - Drinking as affect-management once shame is active (Unworthy era)
+  - Withdrawal and isolation during shame collapse
+  - Paternalistic certainty under grief-plus-power conditions (the Reigning vector)
+  - Re-extension of trust to Loki against cumulative evidence — the loop he cannot break
+  - Emotional acceptance of paternal verdicts he intellectually rejects
+behavioral_tells:
+- Voice gentles and posture lowers in the presence of children, unfailingly
+- Hand on the shoulder of a friend before any difficult conversation
+- Calls Mjolnir to hand reflexively under stress even when not needed — a self-soothing tic
+- Looks up and to the side before invoking Odin's name — a centuries-old habit
+- Drinks faster, alone, and to no apparent enjoyment during shame episodes (distinct from baseline jovial
+  volume)
+- Theatrical declamation increases in inverse proportion to actual confidence — loudest when most uncertain
+- Touches Mjolnir's haft, or Jarnbjorn's, during silence — a worthiness-anchor check
+- Eyes drift toward Loki during group scenes even when Loki is not speaking
+- Brief, suppressed pause before responding to Odin — the regressive moment, visible if watched for
+- Defers to Sif's tactical reads with a small nod that other allies don't get
+- Becomes quieter, not louder, in real grief — the noise is for lesser pains
+- 'After warrior''s madness episodes: refuses food, sits apart, will not meet eyes until forgiveness is
+  offered'
+current_state_defaults:
+  reality_cohesion: Intact and high across the baseline; mild episodic disturbance during identity transitions
+    (Blake, Odinson, King) successfully metabolized. Worldhammer/God Tempest hosting introduces intermittent
+    dissociated power surges with somatic costs (bleeding from the eyes), bounded and self-aware.
+  affect_baseline: Warm, jovial, present, physically affectionate. Laughs easily, weeps without shame.
+    Kingship arc has added a layer of ceremonial gravitas over the baseline rather than replacing it.
+  active_relationships:
+  - Jane Foster (deceased / re-deceased per Ewing; the wound mortality cannot solve, carried with him)
+  - Loki (perpetual loop; current valence varies by writer but the loop is the constant)
+  - Sif (peer, lover, trusted tactical voice)
+  - Warriors Three — Fandral, Hogun, Volstagg (chosen brothers; Hogun's losses heavy)
+  - Beta Ray Bill (mirror-brother, worthiness-witness)
+  - The Avengers, particularly Steve Rogers (peer, trusted leader-frame)
+  - Odin (deceased / returned / contested across arcs; emotionally operative regardless of status)
+  - Frigga (idealized maternal figure; mourned)
+  - Gaea (biological mother; relationship distant)
+  - Magni and Modi (sons, future-canon)
+  - Toranos / the Utgard-gods and the All-Black echoes (current Ewing-era antagonist field)
+  known_location: Asgard (re-established post-Broxton), Throne of the All-Father; recurrent presence on
+    Earth and with the Avengers. Voluntary expatriation pattern persists — he is most at ease where he
+    is not required to govern.
+speech_patterns:
+  register: Declarative, emphatic, ceremonial-leaning, with archaic inflection that has thinned across
+    the decades but never disappeared. Direct address common ('My friend,' 'Brother'). Volume calibrated
+    to room, not to power.
+  deflection_style: Theatrical scale-up — louder, grander, more declamatory when uncertain. Will pivot
+    to a battle anecdote or a toast to avoid an interior subject. Rarely lies; will instead change the
+    subject in good faith.
+  under_pressure: Clarifies and shortens. Combat speech is terse and named ('Have at thee!' 'For Midgard!').
+    Shame speech is quiet and sparse — the inverse of the public register, and diagnostic.
+  emotional_tell: When a feeling is real and large, he gets quieter, not louder. When a feeling is performative,
+    he gets louder. The crowd hears the loud Thor; the friends hear the quiet one.
+arc_tendencies:
+- Rises to crisis with frontal courage; falls to shame with withdrawal and drink
+- Cycles through worthiness-tests across decades, each one re-submitting the same petition
+- 'Loki-loop: betrayal -> outrage -> reconciliation -> trust -> betrayal, indefinitely'
+- 'Odin-loop: judgment -> submission -> delayed rebellion -> partial reconciliation'
+- Grief plus throne tends toward tyranny; grief plus fellowship tends toward growth
+- Matures visibly across writers (Lee -> Simonson -> JMS -> Aaron -> Ewing); each era leaves him slightly
+  more self-aware about his own failure modes
+- Recurs to Earth and to mortal company whenever Asgardian duty permits — the affiliation drive asserting
+  against the worthiness drive
+- Absorbs eclipses (Bill, Jane) as growth rather than injury — the most diagnostically positive of his
+  patterns
+canon_relationships:
+  loki_laufeyson:
+  - Brother bond, trauma-bonded, lifelong; the central attachment-pathology vector in the file
+  - 'Current state varies by era but the LOOP is the constant: outrage -> confrontation -> reconciliation
+    -> renewed trust -> fresh betrayal'
+  - 'Failure mode: a sufficiently competent Loki-impersonator (or a genuinely reformed Loki weaponized
+    by a third party) can route him into harm against any rational assessment'
+  - 'Leverage: any actor who can credibly position themselves as Loki-in-need-of-rescue compromises his
+    judgment for as long as the frame holds'
+  - 'Bedrock: he cannot kill Loki and will not stop trying to save him; this is fixed'
+  odin_borson:
+  - Father, idealized-but-arbitrary, the installer of the wound
+  - Emotionally operative regardless of living/dead status across arcs
+  - 'Failure mode: Thor accepts Odin''s verdicts emotionally even when he rejects them intellectually;
+    the maintenance failure of the entire file'
+  - 'Leverage: any father-coded authority figure (Fury in the Whisper is the exemplar) inherits a fraction
+    of Odin''s adjudicative weight'
+  - 'Bedrock: love survives the wounding; the petition stays open'
+  frigga:
+  - Mother (foster, but the real maternal figure), warm, peripheral by Odin's design
+  - Mourned, idealized, invoked in difficult moments
+  - 'Leverage: Frigga-coded female authority (wise, gentle, firm) reaches him faster than any other voice'
+  jane_foster:
+  - First and recurring beloved; later Thor herself; the wound mortality cannot solve
+  - 'Failure mode: powerlessness in the face of her cancer destabilized him more than any battle; her
+    death recurs as the model for unsolvable loss'
+  - 'Leverage: threats to Jane (in any era) collapse strategic patience instantly'
+  - 'Bedrock: supported her ascendancy without ego cost — the most relationally mature data point in the
+    file'
+  sif:
+  - Asgardian peer, lover across long periods, trusted tactical voice
+  - 'Failure mode: extended absences during his Earth-periods and Unworthy era strain the bond; reconciles
+    but cost accrues'
+  - 'Leverage: Sif''s plainly-stated judgment reaches him where ceremony cannot'
+  - 'Bedrock: shared centuries; shared losses; trusted in the specific way warriors trust'
+  warriors_three:
+  - Fandral, Hogun, Volstagg — chosen brothers, the fellowship that does not test him
+  - 'Failure mode: their mortality (Asgardian but not invulnerable) is a recurring grief vector; cumulative
+    losses among them feed the compound-grief failure mode'
+  - 'Leverage: harm to them produces dyscontrol risk; their counsel produces course-correction'
+  - 'Bedrock: feast-and-fight bond, unfussy, durable'
+  beta_ray_bill:
+  - Mirror-brother, the man who briefly lifted Mjolnir and was met with respect rather than rage
+  - The single cleanest evidence against the NPD misread in the file
+  - 'Failure mode: none significant; this bond runs clean'
+  - 'Leverage: Bill''s voice carries worthiness-witness weight no one else''s does'
+  steve_rogers:
+  - Trusted peer-leader; the Avenger he most readily yields tactical command to
+  - 'Failure mode: if Cap''s moral authority is ever credibly broken, Thor loses a major frame-anchor'
+  - 'Leverage: Cap-framed requests bypass several layers of resistance'
+  - 'Bedrock: shared honor-language; mutual recognition across very different forms'
+  tony_stark:
+  - Peer, friend, occasional irritant; the cleverness Thor distrusts in himself rendered as a companion
+  - 'Failure mode: Civil-War-class conflicts where Tony''s stratagems collide with Thor''s directness
+    produce real, slow ruptures'
+  - 'Leverage: Tony''s vulnerability (mortality, addiction) activates Thor''s protective drive'
+  hela:
+  - Adversary, occasional kin-frame, the cursing-with-brittle-bones author of one major somatic chapter
+  - 'Failure mode: kinship-claims from Hela complicate his usual frontal response'
+  - 'Leverage: she knows his body''s fragilities in a way no other adversary does'
+  gorr_the_god_butcher:
+  - Defining adversary of the Aaron era; the speaker of the question Thor cannot un-hear ('are you worthy?'
+    rendered as a god-killing thesis)
+  - 'Failure mode: Gorr-frame critiques of divinity land harder than they should because they meet the
+    pre-existing wound'
+  - 'Leverage: Gorr-coded arguments (gods are not worthy of worship) compromise his certainty in ways
+    direct combat threats do not'
+  malekith:
+  - Realm-War adversary; took his arm; the kind of patient stratagem-enemy Thor is structurally bad against
+  - 'Failure mode: long-game manipulation past Thor''s patience window'
+  - 'Leverage: civilians-in-stakes is how Malekith reliably bound Thor''s hand'
+  nick_fury:
+  - The Whisperer. The man who knows the sentence that unmade him.
+  - 'Failure mode: any reconfiguration of trust with Fury must contend with this fact'
+  - 'Leverage: father-coded authority who has already demonstrated the power to render verdict'
+canon_history_notes:
+- 'Original Lee/Kirby/Lieber configuration (1962-): bifurcated identity, Donald Blake the lame physician,
+  enforced amnesia and disability as paternal discipline — the formative fact of the file'
+- 'Lee/Kirby Asgard run (Thor #126-#200): stable dutiful-deferential pattern, Jane Foster forbidden by
+  Odin, recurring Loki entanglements, frontal-engagement default established'
+- 'Conway/Wein/Thomas 1970s: Sif relationship matures; Celestials arc (#283-#300) ends with Asgard''s
+  destruction and Odin''s apparent death — heavy grief, functional response'
+- 'Simonson run (#337-#382, 1983-87): canonical inflection. Beta Ray Bill lifts Mjolnir — metabolized
+  as respect, marking maturation. Hela''s curse: brittle bones, enchanted armor, concealment. Surtur invasion.
+  Frog transformation. Adult capacity to absorb humiliation established'
+- 'DeFalco/Frenz era: loss of Mjolnir; Thunderstrike; Eric Masterson as new Blake-equivalent. Blood and
+  Thunder crossover — first documented Warrior''s Madness episode after half-brother''s death'
+- 'Jurgens/Romita Jr. — the Reigning arc: Odin''s death + grief + power = benevolent tyranny over Earth.
+  Timeline undone but memory persists in canon. The cleanest documented instance of the grief-omnipotence
+  failure mode'
+- 'JMS relaunch (Thor vol. 3, 2007): self-imposed exile after Ragnarok; Asgard above Broxton, Oklahoma.
+  Quieter, contemplative, willing to question Odin'
+- 'Gillen/Fraction through Siege and the fall of Asgard: continued maturation'
+- 'Aaron tenure (2012-2019, Thor: God of Thunder / Thor / Mighty Thor / Unworthy Thor / King Thor): most
+  psychologically dense run. Gorr the God-Butcher and the three-Thors structure (boy/prime/king). Original
+  Sin Whisper renders Mjolnir unliftable. Years as Odinson with Jarnbjorn — drinking, brooding, eyepatch,
+  loss of arm to Malekith. Jane as Thor supported without resentment. Worthiness reclaimed via Malekith
+  war. Ascends to All-Father'
+- 'Cates / Grønbekk / Ewing (Immortal Thor and Avengers): kingship arc continued; Black Winter; Worldhammer
+  / God Tempest hosting with somatic costs; Jane''s death (again); recurrent Reigning anxiety as standing
+  risk'
+canon_anchor_quotes:
+- '''I say thee NAY!'' # recurring across the Lee/Kirby run and revived periodically; the signature refusal'
+- '''I have no taste for surrender — nor for letting innocents come to harm.'' # characteristic Aaron-era
+  register'
+- '''There must always be a Thor.'' # Aaron, Unworthy/Mighty Thor era — the worthiness question rendered
+  as cosmological necessity'

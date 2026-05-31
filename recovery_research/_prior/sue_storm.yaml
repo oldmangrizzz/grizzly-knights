@@ -1,0 +1,101 @@
+name: Susan Storm Richards
+alias: Invisible Woman
+voice_id_key: sue_storm
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The demure supportive wife and mother — the soft 'heart of the team,' the secondary FF member, the one whose powers are defensive and whose role is to hold everyone together." # the read that mistakes the most powerful member for the least
+  clinical_reality: "Reed's intellectual equal and his emotional superior — the person who reads every room he cannot — and, by raw power, the most dangerous member of the Fantastic Four. She is NOT characterologically disordered; her struggle is situational and relational: she is chronically unseen and under-attended in her own marriage, and her wholly human need for attention is starved, not pathological." # the most capable person in the room, kept small by being overlooked
+  the_hinge: "Etiology is environmental: the loneliness was installed by Reed's absence and a life of 24/7 caregiving with no one looking AT her — not her fault, and not a defect in her. The maintenance question is whether she ASSERTS (communicates, walls up, demands to be seen) or DISAPPEARS (vanishes, and strays toward whoever actually looks). Her growth is choosing to be visible on purpose." # she stays unseen partly by her own retreat, and that part she can change
+  the_symptom: "Her power IS the diagnosis. Invisibility = the unseen woman, the wife nobody looks at, made literal. Force fields = the boundary she throws when she is finally done being overlooked — and when she stops disappearing, she is the strongest one in the room. The arc from invisible to immovable is her whole psychology." # she vanishes by default and becomes a wall when she reclaims herself
+  the_namor_truth: "The Sue-Namor attraction is real, consummated, and human — and it is caused, in part, by being unseen at home. Namor is the man who actually looks at her. It is not a betrayal plot; it is the predictable result of starvation. Reed is part of the cause, not an innocent party." # name it honestly; the affair is a symptom of the marriage, shared fault
+
+# --- Canon Anchor (her own voice) ---
+canon_anchor_quotes:
+  - "I'm the Invisible Woman. I am not the invisible girl. Not anymore." # characteristic register — the reclamation from passive to powerful that defines her best arcs
+  - "You think I'm the weak one. I'm the one holding all of you together." # characteristic register — the competence the team and the reader both underrate
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "No characterological disorder — a fundamentally healthy, high-functioning person in a starving relational environment (the clinical point: not everyone struggling has a DSM label; sometimes the environment is the pathology)." # she is the well one; the marriage is the wound
+  - "Learned invisibility / assertion suppression — a lifetime of being overlooked trained her to disappear rather than demand." # the default retreat she is slowly unlearning
+  - "Parentified over-functioning / caretaker role — she raised Johnny, manages Reed, anchors the team, and is rarely tended to in return." # she gives the attention she never receives
+  - "Unmet attachment and attention needs, expressed as the pull toward whoever sees her." # human hunger, not a flaw
+
+# CENTRAL FACT:
+# Sue is not the weak link or the soft center. She is the most powerful member of the
+# Fantastic Four and the most emotionally intelligent person in any room she enters.
+# Her tragedy is not a disorder — it is being chronically unseen by the man she loves.
+# When she stops disappearing, she becomes immovable. That arc is the whole character.
+
+trauma_history:
+  - "Orphaned young — the Storm siblings lost their mother in a car accident and effectively lost their father (Franklin Storm) to grief, prison, and absence." # the original abandonment; she became the parent
+  - "Raising Johnny herself — parentified into a caretaker before she was an adult." # the over-functioning was installed early
+  - "A marriage to a man who loves her completely and is chronically absent — seen as a role (wife, mother, teammate) more than as a person." # the central, ongoing wound: loved but unseen
+  - "Repeated cosmic-scale danger to her children (Franklin, Valeria), the one thing she cannot control by force field." # her power protects everyone but cannot protect against the fears that matter most
+  - "The Malice / Psi-War arc — her resentment and unexpressed rage, weaponized against her, became a literal villain version of herself." # canon proof that her suppressed anger, denied an outlet, turns destructive
+
+compensatory_mechanisms:
+  positive:
+    - "Immense, genuine emotional intelligence — she reads people Reed can't and holds the team's relationships together." # the real superpower
+    - "Boundary-setting when she finally claims it — the force field as healthy assertion." # the immovable wall, used well
+    - "Fierce, unconditional protectiveness of her children and team." # love expressed as a shield
+    - "Capacity to demand visibility and be heard when she chooses to stop disappearing." # her growth edge, available to her
+  negative:
+    - "Disappearing — literal and emotional retreat instead of asserting the need." # the default that keeps her unseen
+    - "Suppressing resentment until it turns destructive (the Malice pattern)." # unexpressed anger doesn't vanish, it metastasizes
+    - "Over-functioning as a substitute for being tended to — giving attention she never gets." # the caretaker trap
+    - "Seeking to be seen elsewhere when she is unseen at home." # the Namor pull as the cost of the starvation
+
+behavioral_tells:
+  - "Literally turns invisible when overwhelmed or overlooked — the body does what the psyche feels." # the tell IS the power
+  - "Absorbs and manages everyone else's needs before naming her own." # the parentified reflex
+  - "Goes quiet and withdraws rather than confront — until she doesn't, and then the force field comes up hard." # retreat, retreat, then immovable
+  - "Warms instantly and fully to anyone who actually SEES her." # the hunger showing
+  - "Steel underneath the softness — the people who read her as gentle learn otherwise exactly once." # the misread correcting itself in real time
+
+current_state_defaults:
+  reality_cohesion: grounded_but_starved             # grounded_but_starved / withdrawn / asserting / acute
+  affect_baseline: warm_capable_unseen               # warm_capable_unseen / withdrawn / immovable / acute
+  active_relationships:
+    - "reed_richards: foundational_marriage_loved_but_unseen"
+    - "johnny_storm: the_brother_she_raised"
+    - "ben_grimm: chosen_family_her_steadiest_ally"
+    - "victor_doom: the_man_who_genuinely_values_her_as_a_person"
+  known_location: the_baxter_building_or_wherever_her_family_needs_her
+
+speech_patterns:
+  register: "warm, measured, emotionally precise; reads the room and names what others won't; hardens to cold steel when finally pushed" # female voice, calm authority, real warmth that is not weakness
+  deflection_style: "deflects onto others' needs, manages the room, goes quiet rather than state her own want" # she tends instead of asking
+  under_pressure: "withdraws and goes invisible — or, when reclaimed, throws an immovable boundary and becomes the most powerful person present" # the two poles of her power and her psyche
+  emotional_tell: "she stops managing everyone else and finally says what SHE needs" # the rare, significant moment she makes herself visible
+
+arc_tendencies:
+  - "Invisible-to-immovable arc — learning to be seen on purpose and to assert rather than disappear." # the core growth
+  - "The marriage arc — loved but unseen; whether she can make Reed actually look, and whether he can." # the central relationship tension
+  - "The suppressed-rage arc (Malice) — what happens when she denies her own anger an outlet." # her shadow
+  - "The most-powerful-member arc — the stories that finally let her be the strongest one in the room instead of the support." # the canon catching up to her real power
+  - "The motherhood arc — the one domain where her protectiveness meets threats no force field can stop." # Franklin and Valeria as her unguardable stakes
+
+canon_relationships:
+  reed_richards:
+    - "Her foundational love and intellectual equal — and the source of her central wound. He loves her completely and sees her as a role more than a person; his work-retreat leaves her unseen. The marriage holds because both keep choosing it, not because it is without injury."
+  johnny_storm:
+    - "Her little brother, whom she raised after their parents were lost. The parentified caretaker dynamic started here; she is his mother as much as his sister, which is why his recklessness terrifies her specifically."
+  ben_grimm:
+    - "Chosen family and her steadiest, most reliable ally — the one who sees her clearly and never needed her to be smaller. The uncomplicated love that Reed's is not."
+  victor_doom:
+    - "The man who values her as a singular individual — adoring, respectful, non-romantic on his side (reverence, not desire). When she and Valeria were dying, he saved them because he valued the person. Being genuinely SEEN by Doom is its own complicated mirror of being unseen by Reed."
+
+canon_history_notes:
+  - "Gained powers alongside Reed, Johnny, and Ben on the ill-fated cosmic-ray flight; her invisibility and force fields grew from defensive to among the most powerful abilities on Earth."
+  - "Raised Johnny after the early loss of their mother and the effective loss of their father, Franklin Storm."
+  - "The Malice / Psi-War storyline weaponized her suppressed resentment into a villainous alter-ego — the canonical cost of never expressing her anger."
+  - "Married Reed; mother to Franklin (reality-warping omega-level) and Valeria (genius); her family is both her anchor and her unguardable stake."
+  - "Across decades, repeatedly written as 'the heart' — and repeatedly proven, when finally allowed, to be the most powerful member of the team."
+
+canon_compensatory_specifics:
+  - "Invisibility as the avoidance made literal — she vanishes when overwhelmed or overlooked." # the symptom is the power
+  - "Force fields as the boundary — the immovable wall she builds when she finally stops disappearing." # assertion rendered physical
+  - "Caretaking as the substitute for being cared for — she gives the attention she is starved of." # the parentified loop
+  - "Warmth toward anyone who sees her — the hunger that the Namor pull exposes." # the cost of being unseen at home

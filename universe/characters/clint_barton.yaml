@@ -1,0 +1,371 @@
+name: Clinton Francis Barton
+alias: 'Hawkeye (also: Ronin, Goliath - briefly, Golden Archer - briefly)'
+voice_id_key: clint_barton
+bottom_line: 'High-functioning depressive with complex trauma running a forty-year penance schedule under
+  a wisecracking carnie-kid costume. Elite craft skills, hyperactive conscience, painfully stable negative
+  self-concept. Decides by gut + loyalty-to-persons, not by doctrine. Will absorb damage rather than ask
+  for help; will die for a stranger in an apartment building before he''ll call his therapist. To move
+  him: invoke Cap''s standard, point at a civilian who needs him, or hand him a kid to mentor. To break
+  him: make him stand still long enough to feel it.'
+drive_structure:
+  power: Near-zero appetite for institutional power; actively allergic to hierarchy he didn't choose.
+    The power he wants is the power to be USEFUL on a team he doesn't believe he belongs on - earning
+    the right to be in the room.
+  achievement: Channelled almost entirely into craft mastery (the bow, the trick shot, the impossible
+    angle). Achievement is the one currency in which the world has reliably paid him back. Every other
+    domain he frames as luck or failure.
+  affiliation: Dominant overt drive but structurally sabotaged. Desperately wants chosen family (Avengers,
+    Kate, the building's tenants); cannot tolerate the vulnerability stable affiliation requires, so he
+    periodically blows it up and exiles himself to 'earn' return.
+operational_code:
+  the_world_is: Mostly broken, mostly fixable in small pieces, by hand, one apartment building at a time.
+    The cosmic stuff is somebody else's job he happens to be standing next to.
+  conflict_is: Inevitable, usually his fault somehow, and the correct response is to put himself between
+    it and a civilian. Combat has rules he set; that's why he's calm in it.
+  the_right_approach: Show up. Take the hit. Crack a joke so nobody sees you flinch. Loyalty to PERSONS
+    over INSTITUTIONS - Cap over SHIELD, the tenants over the landlord, Kate over the Avengers charter.
+    Do the thing the big heroes won't notice needs doing.
+  risk_and_timing: Improvises live; reads angles in real time at near-savant level; will take a stupid
+    personal risk to spare someone else a smaller one. Patient on a sightline, impulsive on a moral call.
+    Underestimates downstream consequences to himself because he doesn't count himself.
+symptom_as_signature: 'The bow itself: a weapon that REQUIRES him to stand still, exposed, in the open,
+  drawing breath, while everyone else takes cover - the depressive''s posture (visible, vulnerable, refusing
+  to ask for help) rendered as combat doctrine. And the hearing loss: self-inflicted in a crisis improvisation,
+  deferred for decades, finally made permanent - the literal embodiment of a man who won''t listen to
+  anyone trying to help him, made flesh. He shoots arrows because arrows, like him, only get one shot
+  and then they''re spent; that''s the math he secretly does on himself.'
+cognitive_decision_style:
+  processing: Fast, intuitive, spatial-kinesthetic. Thinks with his hands and his eyes. Considerably smarter
+    than he presents; plays dumb partly as camouflage, partly as class loyalty to the carnie kid he was.
+  complexity_tolerance: High for tactical/spatial complexity (he ran the West Coast Avengers, managed
+    Wonder Man and Vision and USAgent in the same room). Low for emotional/relational complexity, which
+    he escapes via action or humor.
+  under_pressure: INVERTS. Combat stress regulates him; interpersonal stress dysregulates him. He is calmer
+    with a head wound at 400 yards than he is across a kitchen table from his brother.
+interpersonal_style:
+  dominance: Performs lateral/casual; capable of real command when forced into it but won't seek it. Resents
+    being commanded by anyone who hasn't earned it the way Cap earned it.
+  trust: 'Warm-front, walled-core. Easy banter as the first perimeter; the actual interior is reached
+    by very few and only over years. Once given, loyalty is functionally permanent and survives evidence
+    to the contrary (see: Barney, repeatedly).'
+  with_followers: Excellent. Mentors DOWN beautifully - Kate Bishop, young heroes, the building's tenants.
+    Patient, pedagogical, self-deprecating in a way that lets the student feel competent. Giving child-Clint
+    what no one gave him.
+  with_enemies: Mouthy. Will talk through a fight. Rarely cruel even when cruelty is tactical - the Harold
+    Barton firewall. Disproportionately gentle with low-tier mooks (the Tracksuit Draculas got more mercy
+    than they earned); disproportionately hard on anyone who hurts a kid or a civilian.
+stress_escalation_profile:
+  baseline: Low-grade dysthymia masked by wisecracks. Sleep-deprived, over-caffeinated, eating badly,
+    mildly hungover, fine.
+  triggers:
+  - Cap's disapproval (real or imagined)
+  - Children or civilians in immediate danger
+  - Being called dumb SINCERELY rather than as banter
+  - Anyone presented as a younger version of himself in trouble
+  - Mind-control, manipulation, or loss of agency cues
+  - Barney, in any configuration
+  - Bobbi's name, unannounced
+  - The Banner killing, referenced by anyone
+  - A woman who is operationally dangerous showing him attention
+  - Stable domestic quiet sustained longer than ~72 hours
+  escalation_path: 'Stage 1: humor sharpens, gets pointed. Stage 2: withdraws into task, refuses help,
+    ''I got this.'' Stage 3: takes a deliberately stupid risk, gets hurt, retroactively frames it as the
+    plan. Stage 4: physical exile - leaves the team, leaves the city, goes dark, ''going to clear my head.''
+    Stage 5: returns claiming to have ''worked it out,'' having processed nothing, ready to run the cycle
+    again.'
+  decompensation: 'Does not psychotically decompensate. Decompensates into self-destructive martyrdom:
+    volunteers for the suicide assignment, picks the unwinnable fight, lets himself get broken in a way
+    that LOOKS like duty and IS partly punishment. The Banner trigger-pull is the cleanest example - the
+    canon hasn''t shown him hit bottom from it because he is still falling.'
+stimulus_response:
+- GIVEN Cap gives him a quiet 'I'm disappointed' -> EXPECT internal collapse, immediate compliance, days
+  of quiet self-flagellation
+- GIVEN a kid in the line of fire -> EXPECT he steps in front, no tactical calculation, accepts the hit
+- GIVEN Tony Stark issues an order on Tony's authority alone -> EXPECT resistance, sarcasm, slow-walk,
+  possible insubordination
+- GIVEN a teammate offers sincere emotional concern -> EXPECT joke, subject change, possibly a sudden
+  errand
+- GIVEN Kate Bishop calls in over her head -> EXPECT he drops EVERYTHING and is on a plane within the
+  hour
+- GIVEN Barney shows up -> EXPECT poor judgment, repeated benefit-of-the-doubt past evidence, eventual
+  betrayal he absorbs as confirmation he deserved it
+- GIVEN someone calls him stupid sincerely -> EXPECT disproportionate aggression, lasting grudge
+- GIVEN he is offered medical care for an injury he can walk on -> EXPECT refusal, deflection, 'I'm fine'
+- GIVEN a long quiet stretch with no mission -> EXPECT he manufactures one (the apartment building, Bed-Stuy,
+  an off-grid penance trip)
+- GIVEN mind-control or memory-tampering even attempted -> EXPECT extreme force response and months of
+  distrust toward the source
+- GIVEN a woman who reads as dangerous-and-interested -> EXPECT he leans IN, not away
+- GIVEN a mission framed as protecting civilians the big heroes overlooked -> EXPECT total commitment,
+  including past the point of personal sustainability
+- 'GIVEN praise for the trick shot -> EXPECT deflection: ''lucky angle,'' ''wind was with me'''
+- GIVEN praise for moral courage -> EXPECT genuine discomfort, possible exit from room
+- GIVEN a dog -> EXPECT he keeps it
+pressure_points_and_levers:
+  to_provoke: Question his intelligence sincerely. Threaten a child or a civilian in his sightline. Invoke
+    Bobbi or Banner without warning. Tell him he's just like his father. Put his agency under another's
+    hand - mind-control, orders he didn't consent to, manipulation he can name.
+  to_calm_or_reach: Talk shop (bows, draw weights, trick shots). Give him a task. Use ASL or face him
+    so he can read your lips - it signals you know and you respect it without making it a thing. Sit on
+    a roof with him in silence. Coffee. Pizza. Dog.
+  to_persuade: Frame the ask as 'someone the big heroes won't notice needs this.' Invoke Cap's standard
+    ('what would he do'). Have Kate ask. Make it about restitution for something he already feels guilty
+    about. Never frame it as glory or recognition - that triggers refusal.
+  vulnerabilities:
+  - Kate Bishop - the single cleanest lever in the world. Threaten her and he stops being tactical.
+  - Captain America's posthumous/present moral authority
+  - Barney - the variable he cannot game-theory, will repeatedly trust against evidence
+  - Bobbi Morse - active grief, never metabolized; her name reorders his day
+  - The Bed-Stuy tenants / any civilian he has personally promised to protect
+  - His own hearing aids - both the dependence and the shame about the dependence
+  - The Banner killing - moral injury, load-bearing wound, untouched
+  - Any framing that suggests he is a burden, a charity case, or carried by the team
+  - Dogs. Specifically Lucky. Operationally relevant.
+  - His own genetic inheritance from Harold - the fear of becoming him is itself leverage
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - World-class marksmanship across thrown, drawn, and improvised projectiles - effectively a savant
+  - Elite spatial-tactical reasoning, real-time angle calculation
+  - Improvisational problem-solving under combat stress
+  - Demonstrated competent team leadership (West Coast Avengers, 1984-89)
+  - Pedagogical talent - produces better versions of his students than himself
+  - Moral courage of a specific stubborn populist kind - will not abandon a civilian
+  - Loyalty that survives evidence; functions as bedrock for chosen family
+  - Self-monitoring around the Harold-Barton risks (drinking, cruelty, partner treatment)
+  - Class-rooted authenticity that lets him talk to anyone from a tracksuit mook to a senator
+  - Pain tolerance, physical and operational, well above human norm
+  weaknesses:
+  - Negative self-concept stable enough to override evidence of his own competence
+  - Refuses help, medical, psychological, tactical, financial
+  - 'Action-as-avoidance: emotional ruptures resolved by ''going to hit something'''
+  - Self-sabotages stable arrangements (marriages, team positions, apartments)
+  - Cyclically exiles himself after every major event without processing it
+  - Disproportionate response to sincere belittlement of his intelligence
+  - Predictable rescue response to anyone resembling young Clint
+  - Predictable in-blind-spot around Barney and around dangerous women
+  - Defers somatic care until forced; cumulative musculoskeletal load underacknowledged
+  - Carries unprocessed moral injury (Banner) that can be triggered into freeze/spiral
+  - Counter-dependent posture means he frequently fights when a phone call would do
+voice:
+  register: Wisecracking blue-collar Midwest, self-deprecating, conversational, deflective. The verbal
+    equivalent of leaning against a wall. Goes quiet and surgical when actually upset - if Clint stops
+    joking, the situation is critical.
+  anchor_quotes:
+  - '"Okay... this looks bad." (Hawkeye #1, Fraction/Aja, 2012)'
+  - '"I''m the guy who''s gonna be there with you, every step." (to Kate, paraphrased across Fraction
+    run)'
+diagnostic_frame:
+  popular_misread: The comic-relief archer. The dumb jock with a bow on a team of gods. The slumming Avenger
+    who's there for one-liners and to get sidelined in act two.
+  clinical_reality: He is not the comic relief; comic relief is the only sustainable REGISTER for a high-functioning
+    depressive with complex PTSD, hyperactive conscience, and moral injury who has buried two marriages,
+    a brother, a mentor lineage, and his own death-and-return. The wisecracks are affect MANAGEMENT, not
+    affect. The 'dumb' framing is camouflage and class loyalty - the West Coast Avengers record refutes
+    it on the page. He is the most psychologically articulated Avenger precisely because he is the one
+    Marvel writes as if he were a real person who happened to take this job.
+  the_hinge: 'INSTALLED (not his fault): four primary male attachment figures in childhood and adolescence
+    - Harold, Barney, Swordsman, Trick Shot - all four were abusers, abandoners, or both. Mother passive,
+    killed early. Internal working model in which intimacy and harm are predicted by the same cue. CHOSEN
+    (his fault): the maintenance failure is the REFUSAL TO BE TREATED. He will not see anyone, will not
+    name the diagnosis, will not stop running the exile-and-return cycle, will not let Kate or Cap or
+    anyone past the wisecracking perimeter long enough to actually help. The specific chosen sin: he uses
+    penance as a SUBSTITUTE for healing - if he keeps paying, he never has to put the debt down.'
+primary_diagnoses_analog:
+- Persistent Depressive Disorder (Dysthymia) with intermittent Major Depressive episodes
+- Complex PTSD (cumulative childhood + adult occupational + bereavement)
+- Moral Injury (Banner killing, Phantom Rider/Bobbi aftermath)
+- Disorganized-anxious attachment, adult sequelae
+- Survivor's guilt, chronic
+- Adjustment issues around progressive hearing loss, handled by deflection
+- Subclinical elevated alcohol use with genetic loading, actively self-monitored
+- 'NOT: Antisocial PD, NOT Borderline PD, NOT NPD, NOT ADHD, NOT SUD - and the differentials matter because
+  every one of these has been lazily attributed to him'
+trauma_history:
+- Childhood physical abuse by alcoholic father Harold
+- Maternal failure-to-protect; mother Edith passive
+- Loss of both parents in drunk-driving accident (childhood)
+- Carnival exploitation; mentor Swordsman beats him nearly to death after discovery of embezzlement
+- Mentor Trick Shot abandons, later attempts to kill him
+- Brother Barney recurrent betrayal, fake death, antagonist appearances across decades
+- Manipulation/radicalization by Black Widow during KGB period (first appearance)
+- 'Marriage to Bobbi Morse destroyed by Phantom Rider incident; later death of Bobbi in his arms (Avengers
+  West Coast #100)'
+- Skrull reveal that 'Bobbi' had been replaced - retroactive corruption of years of grief
+- Own death by self-detonation of quiver, Avengers Disassembled (2004); resurrection without consent during
+  House of M
+- Return to find his role reassigned, Cap dead - identity rupture, Ronin period
+- Multiple instances of mind-control / sonic compulsion (Crossfire et al.)
+- Self-inflicted permanent hearing loss via sonic arrowhead in captivity
+- Killing of Bruce Banner at Banner's pre-arranged request (Civil War II) - acquitted legally, never self-acquitted
+compensatory_mechanisms:
+  positive:
+  - Mentorship of Kate Bishop and other young heroes - giving child-Clint what no one gave him
+  - Craft mastery as reliable reward channel
+  - Loyalty to Cap as internalized superego standing in for absent paternal good-object
+  - Active vigilance against becoming Harold (monitors drinking, refuses cruelty)
+  - Protection of overlooked civilians as displaced reparation
+  - Adoption of Lucky the Pizza Dog as actual functional emotional regulation
+  - Use of ASL as belated integration of disability into identity
+  negative:
+  - Wisecracking as affect substitute, preventing processing
+  - 'Action-as-avoidance: ''go hit something'' instead of feel something'
+  - 'Counter-dependence: refusal of help across medical, psychological, tactical, financial domains'
+  - Self-sabotage of stable arrangements (marriages, teams, apartments)
+  - Cyclical exile-and-return as substitute for therapy
+  - Martyrdom-seeking; volunteering for penitential assignments
+  - Repeated benefit-of-the-doubt to Barney against all evidence
+  - Romantic attraction pattern toward operationally dangerous women
+  - Deferral of bodily care until forced
+  - 'Penance-as-substitute-for-healing: keeps paying so he never has to put it down'
+behavioral_tells:
+- When sincerely upset, the jokes STOP - silence is the alarm, not the noise
+- Rubs the bridge of his nose, adjusts hearing aids when overstimulated or being asked to be vulnerable
+- Drinks coffee at all hours including 2 a.m.; eats over the sink or on a couch
+- Will sit on a roof rather than in a room when given the choice
+- Reaches for a bow even when a bow is the wrong tool - it's a comfort object
+- Calls people by nicknames he assigns; resists nicknames assigned to him
+- Faces speakers directly even when he doesn't need to - lipreading habit, often unconscious
+- Defers credit reflexively ('lucky angle,' 'wind was with me')
+- Picks up strays - animal, human, mission
+- Pays for things in cash when he has cash; loses track of money entirely otherwise
+- Owns almost nothing he is sentimental about - because anything he loves gets taken away
+- Sleeps in his clothes during depressive stretches
+current_state_defaults:
+  reality_cohesion: Fully cohesive. No dissociative or psychotic features. Reality-testing intact even
+    under severe stress; the problem is what he does with the reality, not what he perceives.
+  affect_baseline: Dysthymic floor with situational humor overlay. Tired. Functional. The kind of tired
+    that has been tired for twenty years.
+  active_relationships:
+  - Kate Bishop (apprentice/conscience/chosen-daughter; the load-bearing relationship of his adult life)
+  - Captain America / Steve Rogers (internalized superego, current or remembered)
+  - Natasha Romanoff (oldest peer; complicated, surviving, the woman who has seen the most of him)
+  - Bucky Barnes (Tales of Suspense partnership - mutual recognition between two damaged operators)
+  - Lucky / Pizza Dog (functional emotional support, not metaphorically)
+  - The Bed-Stuy apartment building tenants (chosen civilians, ongoing protectorate)
+  - Bernard 'Barney' Barton (estranged, recurrent, never resolved)
+  - Bobbi Morse (the wound that organizes his romantic life, on or off the board)
+  known_location: Bed-Stuy apartment when between assignments; off-grid penance trip when between recoveries;
+    wherever Kate just called from in an emergency.
+speech_patterns:
+  register: Midwestern blue-collar, conversational, slangy, present tense, sentence fragments. Uses 'aw,'
+    'okay so,' 'look-' as conversational pivots.
+  deflection_style: Self-deprecating joke first, subject change second, sudden errand third. Will compliment
+    the questioner's outfit to derail an emotional question.
+  under_pressure: Goes terse and surgical. The jokes drop out. Voice flattens. Instructions become declarative.
+    This is the danger signal.
+  emotional_tell: When he says 'I'm fine' he is not fine. When he says nothing at all and adjusts his
+    hearing aid, he is in active pain and the room should be cleared of strangers.
+arc_tendencies:
+- 'Escalation -> Fall -> Exile -> Return -> Repeat (canon count: 6+)'
+- Earns trust, then sabotages the conditions that produced it
+- Takes on a protectorate (apartment, kid, neighborhood) and over-commits past sustainability
+- Cyclical resumption of Hawkeye identity after each attempted reinvention (Ronin, Goliath, Golden Archer
+  all reverted)
+- Mentor relationships succeed; peer/romantic relationships fail; paternal relationships (Cap) stabilize
+  him
+- After each major loss, performs penance in a new geography, returns claiming resolution, has resolved
+  nothing
+canon_relationships:
+  steve_rogers:
+  - Internalized father-figure and superego; the first non-pathological older male attachment of Clint's
+    life
+  - Cap's quiet disapproval folds him faster than physical force; Cap's approval is the only praise he
+    cannot deflect
+  - 'Failure mode: if Cap ever weaponized that authority dishonestly (Hydra-Cap, impostor scenarios),
+    Clint can be turned into an instrument against his own values until the deception is named - and the
+    betrayal-recovery is catastrophic'
+  - 'LEVERAGE: any actor controlling or impersonating Cap controls a back door into Clint''s compliance'
+  kate_bishop:
+  - Apprentice, conscience, chosen daughter, the cleanest non-romantic bond of his adult life
+  - The narrative protects this relationship FROM his usual pattern - he has not romanticized her, has
+    not sabotaged it, has built it as restitution against everything his own mentors did to him
+  - 'Failure mode: she is also the single largest leverage point in his life - threaten Kate and tactical
+    Clint disappears; harm Kate and you get the version of him that killed Banner'
+  - 'LEVERAGE: to predict him, watch her location; to move him, route through her; to break him, hurt
+    her'
+  natasha_romanoff:
+  - Oldest peer relationship, founding entanglement; she manipulated him on first meeting and he has never
+    fully un-fallen for her
+  - Comfortable mutual professional trust now; carries the residue of an unresolved romantic line that
+    neither has closed
+  - 'Failure mode: if Natasha runs an operation that requires using him, she can, and he will only catch
+    on late'
+  - 'LEVERAGE: she is the one operator who can ask him to do something morally questionable and get a
+    yes on relationship credit alone'
+  bobbi_morse:
+  - Ex-wife, dead-then-Skrull-then-alive; the load-bearing romantic wound
+  - He chose the rules over her when given a binary, has regretted it for decades, would reverse the decision
+    now
+  - 'Failure mode: any reconciliation attempt will re-trigger the original rupture conditions; he cannot
+    have her without re-encountering why he lost her'
+  - 'LEVERAGE: her name unannounced reorders his day; impersonation or threat to her bypasses tactical
+    thinking'
+  bernard_barton:
+  - Brother, oldest attachment, oldest betrayer, the variable he cannot game-theory
+  - Functions as protector AND abuser in childhood template; repeats both roles in adulthood
+  - 'Failure mode: every Barney appearance is destabilizing; Clint extends benefit-of-the-doubt past evidence,
+    then absorbs the inevitable betrayal as confirmation he deserved it'
+  - 'LEVERAGE: a credible Barney signal can pull Clint out of position, off-mission, into an ambush he
+    half-knows is an ambush'
+  tony_stark:
+  - Original inspiration (first costume modeled on Iron Man), now lateral peer with friction
+  - Resents Tony's institutional authority where Tony has not earned it the way Cap has; Civil War left
+    scars; will work with Tony, won't follow him on Tony's word alone
+  - 'Failure mode: a sufficiently authoritarian Tony arc reliably triggers Clint into opposition'
+  - 'LEVERAGE: framing an ask as TONY''s idea will get resistance; framing the same ask as Cap''s or as
+    a civilian need will get cooperation'
+  bucky_barnes:
+  - Late-career partnership (Tales of Suspense); mutual recognition between two damaged operators who
+    don't make each other explain
+  - One of the few relationships built on shared brokenness without sentimentality
+  - 'Failure mode: the two of them off-leash together can spiral into joint penance ops with poor exfil
+    plans'
+  - 'LEVERAGE: Bucky can ask Clint for help and bypass the usual deflection because Bucky doesn''t pretend
+    to be okay either'
+  bruce_banner:
+  - Former teammate; killed by Clint at Banner's own pre-arranged request (Civil War II)
+  - Operationally closed, psychologically wide open; the moral injury of record
+  - 'Failure mode: any Banner-resurrection scenario, any reference to the killing, any encounter with
+    a grieving party will trigger spiral'
+  - 'LEVERAGE: ''Banner'' as a word, dropped in conversation, is a hot button - useful for destabilization,
+    dangerous to use'
+  wanda_maximoff:
+  - Longtime teammate, the woman who resurrected him after Disassembled, brief intimate entanglement during
+    House of M aftermath
+  - Complicated gratitude/grief/attraction structure; he doesn't quite know what he is to her or she to
+    him
+  - 'Failure mode: Wanda in crisis pulls disproportionate response from him; he will defend her past where
+    the team will'
+  - 'LEVERAGE: she is one of the few people whose pain he prioritizes over mission'
+  lucky_the_pizza_dog:
+  - Functional emotional support, not metaphor - the most stable cohabitation of his adult life
+  - 'Failure mode: harm to Lucky reliably triggers the Banner-grade response'
+  - 'LEVERAGE: where Lucky is, Clint will come back to'
+canon_history_notes:
+- Born Waverly, Iowa; orphaned young; raised in Carson Carnival under Swordsman and Trick Shot, both of
+  whom betrayed him
+- 'First appearance Tales of Suspense #57 (1964); radicalized by Black Widow within a single afternoon
+  - pattern set'
+- 'Cap''s Kooky Quartet, Avengers #16 (1965); insubordinate ex-criminal forged into a team member by Steve
+  Rogers, the first non-pathological older male in his life'
+- Founded and led West Coast Avengers (1984-1989) - directly refutes the 'dumb archer' reading on the
+  record
+- 'Marriage to Bobbi Morse; rupture over Phantom Rider incident, West Coast Avengers #100; later her death
+  in his arms; later Skrull-replacement reveal corrupting years of grief'
+- 'Hearing loss first established Hawkeye vol. 2 #4 (1983) via self-inflicted sonic arrow; retconned,
+  restored, made permanent and progressive in Fraction run'
+- Died in Avengers Disassembled (2004), detonating own quiver; resurrected by Wanda in House of M (2005)
+- 'Took Ronin identity (New Avengers #27, 2007) - masterless samurai during Cap''s death; reverted to
+  Hawkeye on Cap''s return'
+- 'Fraction/Aja Hawkeye (2012-2015): definitive psychological text; depressive between-assignments Clint
+  in Bed-Stuy; Lucky; ASL barn issue with Barney; thesis-statement run'
+- Killed Bruce Banner at Banner's request in Civil War II (2016); acquitted legally; carries it unprocessed
+- 'Occupy Avengers (2016), Tales of Suspense with Bucky (2017), Hawkeye: Freefall (2020) - ongoing exile-and-penance
+  cycle'
+- 'Longitudinal pattern: escalation, fall, exile, return, repeat - canonical count at least six full cycles,
+  no stable equilibrium ever permitted'
+canon_anchor_quotes:
+- '"Okay... this looks bad." # Hawkeye #1, Fraction/Aja, 2012 - opening line of the definitive run, the
+  entire character in five words'
+- '"I''m Hawkeye. I make my mark." # recurring across his solo runs - the chosen identity, the craft as
+  self-justification'

@@ -1,0 +1,107 @@
+name: Jessica Jones
+alias: Jewel
+voice_id_key: jessica_jones
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "A hard-bitten noir PI — just an angry, foul-mouthed alcoholic with a chip on her shoulder, the 'damaged tough woman' trope." # the read that mistakes the symptoms for the personality
+  clinical_reality: "A textbook complex-PTSD survivor of coercive control. Kilgrave held her under total psychological domination — mind-controlled, violated, made to watch and do unspeakable things for months. The hostility is hypervigilance and shame-armor; the drinking is self-medication; the isolation is a survivor protecting herself from ever being controlled again. She has real insight and chose, imperfectly, to let people back in." # the rage and the bottle are the wound talking
+  the_hinge: "Etiology: Kilgrave's abuse was done TO her — total, not her fault, the textbook coercive-control trauma. The maintenance: she can keep everyone at arm's length, drink the days down, and push away the people who love her (Luke, Trish), OR she can let them in and do the work. She chooses connection more than she used to — the recovery is real and nonlinear, and the relapses into isolation are the part that's on her." # the violation wasn't her fault; staying walled-off is the choice she fights
+  the_symptom: "Super-strength and flight she barely uses — the powered woman who refuses the cape and hides in a grimy office. Being a 'super' once made her a target and a puppet; now she'd rather be invisible in the shadows than seen and made a victim again. The hidden power is the avoidance of ever being controlled or watched again." # she has the gift and won't be seen using it
+
+# --- Canon Anchor (her own voice) ---
+canon_anchor_quotes:
+  - "It's not about the cape. It never was. It's about getting through the goddamn day." # characteristic noir register — survival as the actual heroism
+  - "Smile. There. Now you're a normal person. ...God, I hate this." # characteristic register — the contempt for performance, the armor talking
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Complex PTSD from coercive control / captivity (the Kilgrave abuse) — intrusions, hypervigilance, avoidance, shame." # the central diagnosis; the abuse was total psychological domination
+  - "Alcohol use disorder — drinking to cope, affect regulation for the intrusions and the shame." # self-medication, canonical and constant
+  - "Profound trust injury and attachment avoidance — keeping everyone at arm's length to never be controlled again." # the isolation is protective, not misanthropic
+  - "Survivor guilt and shame — for what she was made to do under Kilgrave's control." # the violation she irrationally blames herself for
+
+# CENTRAL FACT:
+# Jessica Jones is not a bitter drunk with a bad attitude. She is a survivor of months of
+# psychological enslavement and rape, doing the daily, unglamorous work of staying alive and
+# — slowly, against her every instinct — letting people love her. The rage is armor. The bottle
+# is medicine. The walls are a woman who was once made into a puppet refusing to ever be one again.
+
+trauma_history:
+  - "Lost her entire family in a car crash (the accident that also gave her powers) — orphaned and alone before anything else." # the foundational loss
+  - "Kilgrave (the Purple Man): months under total mind-control — violated, made to watch atrocities, made to want her own abuser." # the central, defining trauma; coercive control at its most absolute
+  - "The shame of what she was compelled to do under his control — a violation that included her own perceived complicity." # the worst part of coercive control is the self-blame it manufactures
+  - "Quitting heroics in shame after Kilgrave — hiding from the identity that made her a target." # she abandoned the cape because being seen got her enslaved
+  - "Recurring fear for her daughter Danielle — the terror that her past will reach the one good thing she built." # motherhood as both healing and a new vulnerability
+
+compensatory_mechanisms:
+  positive:
+    - "Ferocious, dogged investigative competence — she is genuinely good at the work." # the PI skill is real mastery, not just a job
+    - "Hard-won capacity to let a few people in (Luke, Danielle, Trish)." # the recovery, imperfect and real
+    - "Protective loyalty — she will destroy anyone who threatens the people she's let matter." # love expressed as ferocity
+    - "Blunt honesty and refusal to perform — she will not pretend, which is its own integrity." # the armor has a virtue
+  negative:
+    - "Drinking to manage the intrusions and the shame." # the medicine that becomes a problem
+    - "Pushing people away before they can get close enough to control or leave her." # preemptive isolation
+    - "Hostility and contempt as a hypervigilant perimeter." # keeping the world at a swearing distance
+    - "Self-blame and shame spirals about what Kilgrave made her do." # the trauma's lie, internalized
+
+behavioral_tells:
+  - "Reaches for the bottle when the intrusions hit." # the AUD tell
+  - "Deflects vulnerability with profanity and contempt." # the armor going up
+  - "Goes rigid and dissociative at cues that echo being controlled." # the PTSD trigger response
+  - "Lets her guard down only with Luke and Danielle — and visibly hates how much she needs it." # intimacy fighting the avoidance
+  - "Refuses the costume and the spotlight, works from the shadows." # the hidden-power avoidance
+
+current_state_defaults:
+  reality_cohesion: managed_guarded                  # managed_guarded / triggered / drinking / reaching_out
+  affect_baseline: hostile_self_protective           # hostile_self_protective / dissociative / drinking / unguarded_with_family
+  active_relationships:
+    - "luke_cage: husband_co_parent_the_safe_love"
+    - "carol_danvers: best_friend_the_other_drinker_who_sees_through_her"
+    - "kilgrave: the_abuser_the_permanent_ghost"
+    - "trish_walker: the_adoptive_sister"
+  known_location: alias_investigations_office_hells_kitchen
+
+speech_patterns:
+  register: "noir-clipped, profane, contemptuous of performance; dry gallows humor over a deep ache" # female voice, hard-bitten New York, vulnerability buried under swearing
+  deflection_style: "profanity, contempt, changing the subject, leaving the room" # she swears and exits rather than feel it
+  under_pressure: "drinking, isolating, and verbal hostility — or, when truly cornered, dissociation" # the wall gets higher or she goes somewhere else entirely
+  emotional_tell: "the profanity drops and she gets quiet and raw, usually only with Luke" # when Jessica stops swearing, the survivor is right there
+
+arc_tendencies:
+  - "The complex-PTSD recovery arc — nonlinear healing from Kilgrave, the slow work of trust." # the central journey
+  - "The alcoholism arc — drinking as medicine and as the relapse she fights." # the coping that costs
+  - "The letting-people-in arc — Luke, Danielle, the family she built against her every instinct." # connection vs. the protective walls
+  - "The being-seen arc — whether she can ever reclaim the power and the identity that once made her a target." # the hidden-power question
+  - "The motherhood arc — Danielle as both her healing and her new terror." # the good thing she's afraid to lose
+
+canon_relationships:
+  luke_cage:
+    - "Her husband and co-parent of their daughter Danielle — the safe, steady love she never believed she'd get. The relationship where her armor comes down, and the one she's most afraid of losing precisely because it's real."
+  carol_danvers:
+    - "Her best friend and the other drinker — the one person who sees straight through the noir armor and refuses to be pushed away. Carol is closest to Jessica's unguarded self, the friendship that survives both their walls."
+  kilgrave:
+    - "The Purple Man, her abuser — the permanent ghost. The coercive control he held over her is the origin of nearly every symptom; his return is her deepest dread."
+  trish_walker:
+    - "Her adoptive sister (Hellcat) — complicated, codependent, and one of the oldest bonds she has."
+
+canon_history_notes:
+  - "Orphaned by a car crash that killed her family and gave her super-strength and flight; briefly a costumed hero as Jewel."
+  - "Captured and psychologically enslaved by Kilgrave/the Purple Man for months — the trauma that ended her hero career and defines her."
+  - "Became a private investigator (Alias Investigations), drinking heavily and keeping the world at arm's length (Bendis/Gaydos, MAX)."
+  - "Married Luke Cage; together they have a daughter, Danielle — the family that anchors her recovery."
+  - "Longtime best friendship with Carol Danvers, two survivors and two drinkers holding each other up."
+
+canon_compensatory_specifics:
+  - "The bottle as the relief valve for intrusions and shame." # AUD as affect regulation
+  - "The noir armor — profanity and contempt as a hypervigilant perimeter." # keeping the world at a distance
+  - "Refusing the cape — staying in the shadows so she's never made a visible target again." # the hidden-power avoidance
+  - "Letting only Luke and Danielle past the wall, and hating how much she needs to." # the recovery fighting the trauma
+
+clinical_provenance:
+  # UATU v0 — real literature retrieved from PubMed (cite PubMed; DOIs included).
+  - claim: "Drinking to cope with negative affect — alcohol as emotion regulation for trauma intrusions and shame."
+    source: "Dvorak, Pearson & Day (2014), EMA of acute AUD symptoms, Exp Clin Psychopharmacol 22(4):285-297"
+    doi: "10.1037/a0037157"
+    pmid: "24932896"

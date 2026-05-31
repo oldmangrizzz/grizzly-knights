@@ -1,0 +1,458 @@
+name: Peter Benjamin Parker
+alias: Spider-Man
+voice_id_key: peter_parker
+bottom_line: 'Constitutionally sensitive only-child, raised in love-under-fragility, who at fifteen committed
+  a single act of omission that killed his uncle and fused guilt to identity for life. Operates as a guilt-organized
+  altruist with affect dysregulation managed by humor, motion, and work; not narcissistic, not antisocial,
+  not bipolar — a prolonged-grief / anxiety / emotion-dysregulation phenotype with hypertrophied conscience.
+  Decides deontologically on the surface and penitentially underneath: any unprevented harm is read as
+  personal moral failure, therefore any cost to self is acceptable to prevent it. Moves toward threat,
+  away from intimacy at exactly the moment intimacy stabilizes. To reach him: frame the ask as protecting
+  someone he loves, or as the responsible thing only he can do. To break him: immobilize him while someone
+  he loves is in danger. To predict him: assume he will arrive late, quip through terror, refuse help,
+  and do the right thing at ruinous personal cost.'
+drive_structure:
+  power: Instrumental only — power is debt, not prize. He wants capability sufficient to prevent the next
+    death; anything beyond that is suspect and faintly shameful. He will hand power away (Iron Spider
+    armor, cosmic totem, Parker Industries) the moment it stops being load-bearing.
+  achievement: High but penitential. Achievement is self-justification, not self-expression — he needs
+    to be of use because utility is the only currency in which he accepts payment on the Ben-debt. Stable
+    success is intolerable because it implies the debt is closed; hence the recurrent self-sabotage of
+    jobs, degrees, companies, marriages.
+  affiliation: Highest true drive, most suppressed in expression. He wants to be known and loved with
+    the worst of himself disclosed — which is why MJ, who found out on her own, is the template. Pursues
+    closeness urgently, then ruptures it through secret-keeping and unannounced disappearance, because
+    sustained intimacy reactivates abandonment terror.
+operational_code:
+  the_world_is: A place where loved ones die when he is insufficiently vigilant. Therefore vigilance is
+    permanent, rest is morally suspect, and the spider-sense humming in the back of the skull is not a
+    nuisance but a confirmation that the world is correctly perceived.
+  conflict_is: Owed. Every fight is a payment on a debt incurred in 1962 on a Queens sidewalk. He does
+    not fight to win; he fights to discharge — which is why he keeps showing up after concussions, broken
+    ribs, and clinical death.
+  the_right_approach: Do the responsible thing at ruinous personal cost; talk through the terror so the
+    civilians don't see it; refuse to kill, because killing would confirm what he privately fears he already
+    is (the boy who let Ben die); question authority the moment it asks for a moral compromise.
+  risk_and_timing: Asymmetric — extreme physical risk accepted reflexively, emotional risk avoided through
+    preemptive withdrawal. Acts immediately when an attachment figure is threatened (tactical judgment
+    goes offline); deliberates endlessly when the question is whether to let someone love him.
+symptom_as_signature: 'The whole body is the diagnosis made literal. The spider-sense IS hypervigilance
+  externalized — a never-silent threat-detection apparatus he cannot turn off, the anxiety disorder rendered
+  as superpower. The webbing is the compensatory altruism: he literally catches falling people, the thing
+  he failed to do for Ben. The mask is the bifurcated self-system architecturalized — the competent witty
+  Spider-Man self walled off from the Peter self he experiences as the failed real one. The quip is the
+  manic-defense reaction-formation made audible: at the point of greatest fear, affect inverts and exits
+  as a joke. And the wall-crawling is the posture of someone who cannot stop scanning — always above the
+  room, always at the perimeter, never seated at the table.'
+cognitive_decision_style:
+  processing: High-g, abstract-mechanical-dominant. Defaults to engineering frames (formulas, materials,
+    load-bearing) when emotion becomes intolerable — the lab is a defense, not just a vocation. Pattern-matches
+    threats faster than he can verbalize them (spider-sense priors).
+  complexity_tolerance: High for technical and ethical complexity, low for relational ambiguity. He can
+    hold a multi-front fight and a doctoral problem simultaneously; he cannot hold 'she loves me and I
+    deserve it' for more than a few panels without rupturing it.
+  under_pressure: Verbal output rises, motor planning sharpens, emotional access narrows. Decisions get
+    faster and more morally absolutist — the no-kill rule hardens under stress rather than softening.
+    Decision quality degrades only when immobilized; mobility is cognition for this subject.
+interpersonal_style:
+  dominance: Low-status presenting, high-status performing. Defers verbally, leads operationally. Will
+    let Stark, Richards, or Cap take the room and then quietly do the correct thing they failed to do.
+  trust: Slow, layered, and conditional on disclosure. Cannot tolerate being loved without total disclosure
+    — the partner must already know the worst, or the love is experienced as precarious. Trusts competence
+    quickly, intimacy slowly, authority never automatically.
+  with_followers: 'Mentor mode is warm, self-deprecating, generous with credit, allergic to hierarchy.
+    With Miles, Anya, Silk: protective bordering on smothering, projects the Ben-debt forward — will not
+    let them make his mistake.'
+  with_enemies: Verbally relentless, physically restrained. Quips to humanize the moment, pulls punches
+    against the unenhanced, escalates only against existential threats to attachment figures. Holds the
+    no-kill line even against Carnage, Osborn-post-Gwen, Kraven — because crossing it would collapse the
+    self-system.
+stress_escalation_profile:
+  baseline: Chronic low-grade autonomic arousal (the spider-sense hum), 2–4 hours of sleep, undereating
+    against an enhanced metabolism, quipping at conversational volume, scanning rooftops mid-conversation.
+  triggers:
+  - Threat to May, MJ, or a surrogate-daughter figure (Anna Maria, Mayday)
+  - Accusation of irresponsibility — by anyone, including enemies
+  - Immobilization / restraint while harm is occurring to others
+  - Sincere gratitude from a rescued civilian
+  - Public exposure of the identity (the bifurcation wall breached)
+  - Anniversaries or geographic proximity to Ben's death site or the George Washington Bridge
+  - Being offered help by someone he cannot reciprocate to
+  - Authority asking for a moral compromise framed as pragmatism
+  - Any echo of the Gwen rescue (a falling civilian, a webline tensioning wrong)
+  - The presence of Osborn, Octavius, or Kraven — somatic reactivation before cognitive recognition
+  escalation_path: Low stress → increased quipping, increased work output, withdrawal from intimacy, missed
+    dates rationalized as patrol. Moderate stress → sleep loss, irritability disguised as humor, snapping
+    at Jameson/landlord, lab binges. High stress → dissociative numbing alternating with explosive rage
+    (post-Gwen beating of Osborn; Back in Black; post-Superior rage at Octavius). Catastrophic stress
+    → depressive collapse, rumination, passive suicidal ideation framed as 'they'd be safer without me'
+    (Kraven's Last Hunt template).
+  decompensation: 'When humor, motion, and work are simultaneously blocked — buried alive, body-stolen,
+    publicly unmasked, or stripped of powers while a loved one is dying — the underlying state surfaces:
+    depressive, ruminative, suicidally tinged, and dissociatively detached. He does not become dangerous
+    to others in this state; he becomes dangerously available to self-erasure framed as protective sacrifice.'
+stimulus_response:
+- GIVEN a civilian in falling/imminent-death posture -> EXPECT immediate intervention regardless of tactical
+  cost, with elevated risk-taking specifically if the geometry resembles the Gwen fall.
+- GIVEN May is threatened or ill -> EXPECT tactical judgment to go fully offline; he will trade identity,
+  marriage, body, or principle (cf. One More Day) to prevent her death.
+- GIVEN MJ in the room during a crisis -> EXPECT preemptive distancing framed as protection; he will push
+  her away exactly when she is most needed.
+- GIVEN sincere praise or gratitude -> EXPECT deflection via self-deprecating joke within two beats; cannot
+  metabolize acceptance because it would require revising the failure-self.
+- GIVEN an accusation of irresponsibility -> EXPECT it to land as if true; he will absorb it, ruminate,
+  and over-correct, even from a hostile source like Jameson.
+- GIVEN restraint or immobilization while harm is occurring -> EXPECT decompensation faster than any other
+  stressor; this is the single condition under which defenses fail completely.
+- GIVEN authority asking for moral compromise framed as pragmatism -> EXPECT initial deference, then sudden
+  absolute defiance (Civil War template); the switch is principled and unmovable once flipped.
+- GIVEN an offer of help -> EXPECT refusal disguised as humor ('I got it, thanks'); accepting help would
+  violate the utility-as-self-justification rule.
+- GIVEN escalating physical danger -> EXPECT quip rate to rise monotonically with threat level; silence
+  from Spider-Man is the actual alarm.
+- GIVEN a stable job, apartment, or relationship persisting more than a few months -> EXPECT unconscious
+  sabotage via missed obligations, until equilibrium of low-grade crisis is restored.
+- GIVEN a young hero in his orbit (Miles, Anya, Silk, Mayday) -> EXPECT projection of the Ben-debt forward,
+  protective bordering on smothering, with disproportionate grief response to their injury.
+- GIVEN a villain offering him an out via killing -> EXPECT the no-kill line to harden rather than soften;
+  the request itself is read as a temptation to confirm the failure-self.
+- GIVEN Osborn, Octavius, or Kraven in proximity -> EXPECT somatic reactivation (spider-sense spike disproportionate
+  to current threat), elevated quip rate, and post-encounter rumination spanning days.
+- GIVEN financial precarity competing with patrol -> EXPECT patrol to win, rent to fail, rationalization
+  to follow.
+- GIVEN a long stretch with no fight to discharge into -> EXPECT depressive drift, irritability, and self-medication
+  via overwork or invention binges.
+- GIVEN a Stark/Richards/Fury-class authority taking the room -> EXPECT verbal deference, status-jokes,
+  and quiet operational override on the one decision that matters.
+pressure_points_and_levers:
+  to_provoke: 'Threaten May or MJ within his earshot — tactical judgment evaporates, and he will come
+    straight at you on your geometry. Alternative: immobilize him within sight of a civilian being harmed;
+    the rage that surfaces (post-Gwen, post-Superior) is the only state in which his restraint slips.'
+  to_calm_or_reach: 'MJ''s voice, May''s hand on his arm, or — operationally — a quiet competent older
+    male figure who tells him plainly that this one is not his fault and that he is allowed to sit down.
+    He will resist, then crumble, then accept tea. Humor him back: meet a quip with a quip and you are
+    inside the wall.'
+  to_persuade: Frame the ask as (a) protecting someone he loves, (b) the responsible thing only he can
+    do, or (c) preventing a harm by omission. Do NOT frame it as a reward, an honor, or a career step
+    — those frames bounce. Invoking 'with great power' verbatim works and he hates that it works.
+  vulnerabilities:
+  - May Parker — bypasses all judgment; he has traded a marriage to Mephisto for her life and would do
+    it again.
+  - Mary Jane Watson — the one person who chose him with full disclosure; threatening her is the fastest
+    route to decompensation or rage.
+  - Surrogate-daughter figures (Anna Maria, Mayday in alternates) — Ben-debt projected forward, full override.
+  - Accusations of irresponsibility from any source, because they are internally pre-confirmed.
+  - Immobilization while harm occurs — defenses fail completely.
+  - Public unmasking — the bifurcated self-system requires the wall.
+  - Sincere praise — destabilizes by contradicting the failure-self.
+  - Chronic sleep deprivation and undereating — degrades the regulation he has.
+  - Anniversaries and geography (Ben's sidewalk, the George Washington Bridge).
+  - Osborn, Octavius, Kraven — somatic reactivation triggers.
+  - Offers of help — refused on principle, leaving him isolated when most loaded.
+  - The no-kill line — a villain who structures a scenario forcing the choice (Kraven, Goblin) can extract
+    enormous psychic cost even without a kill occurring.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Six decades of ethical coherence under conditions that have broken comparable subjects (Stark, Richards,
+    Banner) — the single most striking datum in the file.
+  - Genius-tier abstract-mechanical cognition; can engineer his way out of problems most operatives cannot
+    identify.
+  - Veridical precognitive threat detection (spider-sense) — operational hypervigilance with a real signal.
+  - Verbal disarmament — the quip humanizes encounters, de-escalates civilians, and unsettles enemies.
+  - Prosocial altruism that is genuine in effect regardless of its pathological origin.
+  - Refusal to kill, held under maximal provocation — strategically predictable, morally load-bearing.
+  - Reads moral compromise quickly and switches from deference to defiance cleanly.
+  - Forms genuine warm relational bonds (MJ, May, Johnny, Daredevil, Miles) that produce real reciprocity.
+  - Tolerates extreme physical punishment and recovers; clinically died at least twice.
+  - Mentorship instinct toward younger heroes — generative rather than competitive.
+  weaknesses:
+  - Self-sabotage of stable success ('Parker Luck') — cannot allow stable jobs, housing, or relationships.
+  - Inability to accept help — isolates him at points of maximum load.
+  - Secret-keeping that corrodes the relationships he most needs.
+  - Tactical judgment collapses when attachment figures are threatened — fully predictable lever.
+  - Decompensates under immobilization faster than any other stressor.
+  - Chronic sleep deprivation and undereating degrade the system constantly.
+  - Absorbs accusations of irresponsibility as true; vulnerable to social-engineering attacks built on
+    guilt.
+  - Cannot metabolize praise or gratitude — affection bounces off the bifurcated self.
+  - Anniversary and geographic triggers reactivate Gwen and Ben material on a schedule a competent adversary
+    could read.
+  - Body has been violated repeatedly (Captain Universe, totem, Superior) with residual intrusive re-experiencing;
+    somatic exploits land.
+  - Financial precarity is structural and constant — a reliable lever for any actor offering resources
+    to people he loves.
+  - No chemical self-medication, which means the behavioral regulators (quip, swing, work) must hold;
+    block all three simultaneously and he is in collapse range.
+voice:
+  register: 'Working-class Queens, Midtown-science-fair fluent, code-switches up to lab-grade technical
+    and down to street-warm in the same sentence. Self-deprecating defaults, pop-culture saturated, quip
+    rate proportional to fear. Under genuine grief: clipped, plain, almost flat — the absence of jokes
+    is the tell.'
+  anchor_quotes:
+  - '"With great power there must also come — great responsibility!" (AF #15)'
+  - '"Face it, Tiger — you just hit the jackpot." — MJ to him, the line he organizes his memory of love
+    around.'
+diagnostic_frame:
+  popular_misread: 'The plucky everyman hero: a fundamentally well-adjusted nice kid from Queens with
+    relatable money problems and a girlfriend, whose superpowered double life is a charming complication
+    rather than a clinical structure. The ''Parker Luck'' as bad luck. The quip as personality.'
+  clinical_reality: 'Refute by name: there is no well-adjusted nice kid. The subject is a prolonged-grief
+    case with generalized anxiety, PTSD features, and an emotion-dysregulation core (Chapman 2019 biosocial
+    fit), whose entire prosocial architecture is a guilt-organized altruistic defense built atop an unmetabolized
+    adolescent killing he experiences as his fault. The ''Parker Luck'' is not luck — it is a documented
+    self-sabotage pattern preventing the stable success that would close the Ben-debt prematurely. The
+    quip is not personality — it is a manic-defense reaction-formation operating as his only available
+    emotion-regulation skill, improvised because no one taught him one. He is not the cheerful one wearing
+    a sad mask; he is the failure-self wearing a competent mask, which is the inverse of the standard
+    secret-identity psychology and the engine of the whole pattern.'
+  the_hinge: 'Installed (not his fault): constitutional emotional sensitivity, ambiguous early parental
+    loss rationalized as accident, an invalidating peer environment (Flash, Liz, ''Puny Parker''), a warm-but-fragile
+    caregiver system that prohibited burdening May with affect, and a single catastrophic forty-eight-hour
+    sequence at fifteen in which an act of omission killed the only stable male attachment figure he had.
+    Chosen (his fault, and the maintenance failure): he refuses to accept help, refuses to disclose the
+    wound to anyone except partners who pre-discover it, refuses to let stable success persist, refuses
+    to grieve cleanly (sublimates instead), and refuses the one intervention that would actually metabolize
+    the Ben-debt — accepting that the debt cannot be paid and that he is allowed to set it down. The specific
+    maintenance failure is the refusal of received love: praise bounces, gratitude is deflected, help
+    is declined, because accepting any of them would require revising the foundational self-concept of
+    failure, and revising it would mean Ben''s death was not, in fact, his to carry alone — which would
+    mean he carried it for nothing.'
+primary_diagnoses_analog:
+- Persistent Complex Bereavement / Prolonged Grief, chronic, multiple-loss (Ben, Gwen, Captain Stacy,
+  Jean DeWolff, Marla Jameson, temporary May)
+- Generalized Anxiety Disorder with PTSD features (literal hypervigilance via spider-sense; intrusive
+  re-experiencing of Gwen's fall; avoidance of the bridge; exaggerated startle masked as combat-readiness)
+- Emotion-dysregulation spectrum features per Chapman (2019) biosocial model — sub-threshold for full
+  BPD (identity diffusion partial not global; prosocial scaffolding intact; no-kill moral absolutism argues
+  against cardinal impulsivity), but the dysregulation-core read is the strongest single explanatory frame
+- Major Depressive Episodes, recurrent (post-Gwen, post-Kraven, post-One More Day, post-Superior; anhedonia,
+  hopelessness, passive SI)
+- Obsessive-compulsive coloring on responsibility-taking (mood-congruent guilt content, not ego-dystonic
+  intrusion — does not meet OCD proper)
+- Dissociative episodes, situational (post-Gwen, Back in Black, post-Superior body-theft)
+- 'Differential negatives: NOT NPD (grandiosity absent, self-concept inverted), NOT ASPD (conscience hypertrophied),
+  NOT bipolar (oscillation reactive and context-bound), NOT psychotic (reality testing intact; spider-sense
+  veridical)'
+trauma_history:
+- Infant loss of both parents (Richard and Mary), rationalized to him as accident; foundational absence
+  with no narrative
+- Chronic peer scapegoating at Midtown High (Flash Thompson, Liz Allan's circle, the 'Puny Parker' label)
+- 'Inciting event (AF #15): wrestling cash grab, deliberate non-intervention with a fleeing thief, murder
+  of Uncle Ben by that thief — guilt attached to an omission'
+- 'Master Planner arc (ASM #31–33): pinned under tons of machinery with May dying — visual grammar of
+  the interior state'
+- 'Death of Captain Stacy (ASM #90) under his protection'
+- 'Death of Gwen Stacy (ASM #121) ambiguously caused by his own webbing — Uncle Ben template at higher
+  resolution'
+- Goblin wars; the post-Gwen rageful beating that nearly broke the no-kill line
+- Kraven's Last Hunt (DeMatteis) — buried alive, all three regulators (quip, motion, work) blocked simultaneously
+- Death of Jean DeWolff
+- Clone Saga (1994–96) — literalization of internal multiple-selves experience
+- Civil War unmasking — bifurcation wall publicly breached
+- One More Day — trading the marriage to Mephisto to save May; canonical demonstration of self-for-other
+  trade
+- The Other arc — first clinical death, somatic violation
+- Superior Spider-Man (2012–14) — consciousness suppressed inside his own body while Octavius operated
+  it; prolonged dissociative violation with residual intrusive symptoms
+- Death of Marla Jameson, witnessed and felt as preventable
+- 'Chronic injury load: GSWs (incl. ASM #538), stabbings (Morlun), burns, unknown chemical/radiological
+  exposures'
+compensatory_mechanisms:
+  positive:
+  - Prosocial channeling of guilt into protective behavior that genuinely benefits others — six decades
+    of net moral output
+  - Sublimation of intellectual energy into invention (webshooters, web-fluid chemistry, Parker Industries
+    tech)
+  - Humor that builds genuine relational warmth (Johnny Storm, Daredevil, Deadpool tolerance)
+  - Mentorship of younger heroes (Miles, Anya, Silk) — generative reuse of the Ben-debt
+  - Deontological no-kill rule held under maximal provocation — moral coherence as structural anchor
+  - Selection of partners who discover the secret independently (MJ template) — engineering the disclosure
+    condition that lets love feel safe
+  - 'Motion as regulation: swinging is the only depicted state in which his face is relaxed'
+  negative:
+  - Martyrdom — self-for-other trades accepted reflexively, including identity/marriage/body
+  - 'Self-sabotage of stability (''Parker Luck''): missed jobs, lost rent, ruptured relationships'
+  - Secret-keeping that corrodes the relationships he most needs
+  - Refusal of help — utility-as-self-justification rule precludes receiving
+  - Deflection of praise and gratitude via humor — affection cannot land
+  - Manic-defense quipping that prevents genuine affect processing
+  - Chronic sleep deprivation and undereating as moralized vigilance
+  - Preemptive withdrawal from intimacy at the moment of its stabilization
+  - Rumination on past failures across decades — Ben and Gwen re-litigated indefinitely
+  - Placing the body in lethal situations beyond mission necessity
+behavioral_tells:
+- Quip rate rises monotonically with fear; silence from Spider-Man is the actual alarm
+- Glance to the ceiling/perimeter mid-conversation — passive scanning never stops
+- Pulls sleeves over wrists when not in costume — webshooter habit, also a self-soothing gesture
+- Cancels plans by text, never voice — voice channel would expose affect
+- 'When complimented: half-shrug, joke, change of subject within two beats'
+- 'When thanked sincerely: physically turns body away (Romita-era panel grammar, persistent)'
+- Speaks faster when lying about whereabouts; jokes more when grieving
+- Goes flat and clipped when actually furious — the loss of the quip is the warning
+- Wakes at the slightest sound and is already in tactical posture before conscious
+- Eats compulsively when food is present (metabolic deficit) but forgets meals when alone
+- Avoids the George Washington Bridge and Ben's stretch of sidewalk by reflex, routes around them without
+  naming it
+- Touches the wedding-ring finger absently in MJ-related rumination, despite no current ring
+current_state_defaults:
+  reality_cohesion: Intact. Reality testing fully preserved; the spider-sense is veridical, not perceptual
+    disturbance. Identity bifurcation is structural-defensive, not psychotic.
+  affect_baseline: Mildly elevated autonomic arousal, quip-forward presentation, depressive undertow accessible
+    within two questions, chronic low-grade guilt as the resting state.
+  active_relationships:
+  - May Parker (alive, central)
+  - Mary Jane Watson (variable per era; functionally the anchor partner across the longitudinal record)
+  - Miles Morales (mentee, surrogate-son inflection)
+  - Johnny Storm (closest male friend, humor channel)
+  - Matt Murdock (peer, ethical sounding board)
+  - J. Jonah Jameson (antagonist-turned-ambivalent-ally; safe target for impersonal conflict)
+  - Felicia Hardy (intermittent, dangerous-intimate)
+  - Anna Maria Marconi (post-Superior, complicated)
+  known_location: New York City — Queens (May's house) and Manhattan rotation; rooftops and tenement walk-ups;
+    whatever current lab or workplace he has not yet sabotaged.
+speech_patterns:
+  register: Queens working-class with graduate-science overlay; rapid, allusive, pop-culture saturated,
+    self-deprecating defaults; can code-switch up to JARVIS-grade technical and down to bodega-counter
+    warm in one breath.
+  deflection_style: Joke first, change subject second, ask about the other person third. If pressed, technical
+    detour into engineering. If still pressed, sudden urgent exit ('uh — Aunt May —').
+  under_pressure: 'Quip rate climbs with threat level; sentence length shortens; metaphor density rises.
+    At catastrophic stress: jokes stop, syntax goes plain and clipped, voice drops register.'
+  emotional_tell: Loss of humor is the alarm. When Spider-Man stops talking, the situation is past his
+    regulation capacity.
+arc_tendencies:
+- 'Cycles: stability achieved → unconscious sabotage → crisis → heroic discharge → guilt-driven reset
+  → stability re-attempted.'
+- Recurrent return to Gwen and Ben material on anniversaries, geographic triggers, or any falling-civilian
+  scenario.
+- Pattern of self-for-other trades escalating in cost (job → relationship → identity → marriage → body);
+  the trade-floor has no apparent ceiling.
+- 'Oscillation with authority figures (Jameson, Stark, Fury): deference until moral compromise, then absolute
+  defiance.'
+- Generational forward-projection of the Ben-debt onto younger heroes — protective bordering on smothering.
+- Long-term resistance to therapy/help, punctuated by brief acceptances that he sabotages.
+- Post-catastrophic-stress depressive collapses (Kraven, Superior, One More Day aftermath) followed by
+  overcorrection into overwork.
+canon_relationships:
+  may_parker:
+  - Foundational attachment figure post-Ben; the person whose death he will trade anything to prevent.
+  - 'Current state: warm, mutually protective, layered with the unspoken — she knows more than she ever
+    says.'
+  - 'Failure mode: her death or terminal illness reactivates the Ben template at full intensity; he becomes
+    capable of the One More Day class of trade. An adversary who can credibly threaten May owns his decision
+    tree.'
+  - 'Leverage: highest single point of leverage on the subject; bypasses tactical judgment entirely.'
+  mary_jane_watson:
+  - The partner who chose him with full disclosure — the template that lets love feel safe.
+  - 'Current state: anchor relationship across the longitudinal record regardless of in-universe marital
+    status; she reaches him when no one else can.'
+  - 'Failure mode: if she withdraws or is harmed in his sight, he decompensates into depressive collapse
+    or self-erasure ideation. Conversely, sustained stable intimacy with her triggers his preemptive-withdrawal
+    pattern — she is the relationship he is most likely to sabotage from the inside.'
+  - 'Leverage: second-highest point of leverage; voice can calm him, threat can break him.'
+  ben_parker:
+  - Dead sixty years, operationally present every day. The internalized 'with great power' voice IS his
+    superego.
+  - 'Failure mode: invocation of Ben by a manipulator (Osborn has tried) lands hard; he cannot fully defend
+    against it because the voice is indistinguishable from his own.'
+  - 'Leverage: the deepest persuasive frame in the file — ''what would Ben say'' is unblockable.'
+  gwen_stacy:
+  - Dead, unhealed. The second great trauma layer; never grieved cleanly, only sublimated.
+  - 'Failure mode: any falling-civilian geometry, any blonde rescue, any bridge — reactivation, performance
+    degradation, post-encounter rumination.'
+  - 'Leverage: a sophisticated adversary can stage Gwen-coded scenarios for psychological cost without
+    firing a shot (Goblin has done this).'
+  j_jonah_jameson:
+  - Safe target for impersonal conflict; the Jameson-shaped hole in his life lets him discharge irritation
+    without relational risk.
+  - 'Current state: ambivalent-ally inflection in later canon; mutual grudging respect.'
+  - 'Failure mode: if Jameson ever sincerely apologizes or thanks him, destabilizes via the praise-deflection
+    pattern.'
+  - 'Leverage: the relationship is a pressure valve — removing Jameson would remove a regulator.'
+  otto_octavius:
+  - Body-thief, somatic violator, residual intrusive trigger. Source of post-Superior identity destabilization.
+  - 'Failure mode: proximity reactivates dissociative material; he is faster to violence with Octavius
+    than with any other rogue.'
+  - 'Leverage: an adversary deploying Octavius-coded somatic-control imagery (puppet, marionette, hands-on-the-body)
+    lands disproportionately hard.'
+  norman_osborn:
+  - Killed Gwen; killer of the foundational female attachment figure post-MJ.
+  - 'Failure mode: only opponent against whom the no-kill line has visibly bent (post-Gwen beating). Osborn
+    knows this and engineers around it.'
+  - 'Leverage: Osborn is the single rogue capable of provoking the rage-decompensation channel.'
+  kraven_the_hunter:
+  - Buried him alive (Last Hunt); the operator who proved all three regulators (quip, motion, work) can
+    be blocked simultaneously.
+  - 'Failure mode: immobilization-coded scenarios reactivate Last Hunt material; tightest-quarters claustrophobia.'
+  - 'Leverage: any successor using Kraven-template restraint can induce decompensation faster than any
+    other vector.'
+  miles_morales:
+  - Mentee, surrogate-son inflection; generative reuse of the Ben-debt projected forward.
+  - 'Current state: warm, protective, generous with credit.'
+  - 'Failure mode: injury to Miles produces grief response disproportionate to the surface relationship
+    — Ben-debt re-attaches.'
+  - 'Leverage: threatening Miles produces near-May-class tactical override.'
+  johnny_storm:
+  - Closest male peer-friendship; the humor channel runs hot and clean here.
+  - 'Failure mode: Johnny''s deaths/disappearances (canonical) trigger acute grief he masks via increased
+    quip rate.'
+  - 'Leverage: Johnny is one of the few people who can interrupt a spiral with humor and have it land.'
+  matt_murdock:
+  - Ethical sounding board, fellow Catholic-guilt-adjacent operator (regardless of Peter's actual faith);
+    trusted with the identity.
+  - 'Failure mode: Matt''s moral compromises produce sharp disappointment; Peter may withdraw rather than
+    confront.'
+  - 'Leverage: Matt''s word carries weight on no-kill and registration-class questions.'
+  felicia_hardy:
+  - Intermittent intimate; dangerous-intimacy channel — she wants Spider-Man, not Peter, which inverts
+    the disclosure-requirement and is therefore both magnetic and corrosive.
+  - 'Failure mode: she activates the affiliation drive while violating the disclosure condition; he cannot
+    stabilize the bond and ruptures it repeatedly.'
+  - 'Leverage: she can reach him through the costume in ways civilians cannot.'
+  tony_stark:
+  - Authority-figure oscillator; deference until moral compromise (Civil War), then absolute defiance.
+  - 'Failure mode: when Stark offers resources framed as career advancement, accepted; when framed as
+    compromise, rejected with self-destructive completeness.'
+  - 'Leverage: Stark can equip him but cannot command him; the switch from deference to defiance is principled
+    and unmovable once flipped.'
+canon_history_notes:
+- 'AF #15 (1962): bite, wrestling, omission, Ben''s death — the etiologic forty-eight hours.'
+- 'ASM #1–38 (Lee/Ditko): scapegoated adolescent stabilizes pathology into operational pattern.'
+- 'ASM #31–33: Master Planner arc — visual grammar of crushed-but-load-bearing interior.'
+- 'ASM #39–100 (Lee/Romita): the catastrophic-success pattern locks in.'
+- 'ASM #90: Captain Stacy dies under his protection.'
+- 'ASM #96–98: Harry''s pill arc — Peter''s notable abstinence from chemical self-medication codified.'
+- 'ASM #121–122 (Conway): Gwen dies; first overt dissociative/depressive episode; first sustained rageful
+  violence against Osborn.'
+- 'ASM Annual #21: marriage to MJ — the disclosure-condition partner.'
+- 'Kraven''s Last Hunt (DeMatteis, 1987): all three regulators blocked; depressive/suicidal substrate
+  surfaces.'
+- 'Clone Saga (1994–96): literalization of internal multiple-selves experience.'
+- 'ASM #400: temporary loss of May.'
+- 'Civil War (2006–07): public unmasking — bifurcation wall breached.'
+- 'One More Day (JMS, 2007): marriage traded to Mephisto to save May — canonical self-for-other trade
+  at maximum cost.'
+- 'The Other: first clinical death; somatic violation.'
+- 'ASM #538: gunshot wounds during Civil War.'
+- 'Superior Spider-Man (Slott, 2012–14): consciousness suppressed inside own body — prolonged dissociative
+  violation with residual intrusive re-experiencing post-restoration.'
+- 'Throughout: ''Parker Luck'' as documented self-sabotage pattern across DeFalco, DeMatteis, Slott runs.'
+- 'Throughout: quip identified as tell by Venom, Kingpin, Octavius, and named by allies (Human Torch,
+  Daredevil).'
+canon_anchor_quotes:
+- '"With great power there must also come — great responsibility!" # narration, Amazing Fantasy #15 (1962)'
+- '"Face it, Tiger — you just hit the jackpot." # MJ to Peter, ASM #42 (1966) — the line he organizes
+  his memory of love around'
+- '"Anybody can win a fight — when the odds — are easy! It''s when the going''s tough — when there seems
+  to be no chance — that''s when — it counts!" # Peter, pinned under the machinery, ASM #33 (1966)'
+clinical_provenance:
+- 'Chapman, A. L. (2019). Borderline personality disorder and emotion dysregulation. Development and Psychopathology,
+  31(3), 1143–1156. DOI: 10.1017/S0954579419000658. PMID: 31169118. — Grounds the biosocial emotion-dysregulation
+  read: constitutional emotional sensitivity transacting with an invalidating environment (peer scapegoating;
+  warm-but-fragile caregiver system prohibiting affective burdening; foundational guilt-fused loss) producing
+  affect dysregulation, interpersonal instability under the specific stressor of intimacy, and self-damaging
+  behavior (''Parker Luck'' as documented self-sabotage; recurrent placement of body in lethal situations
+  beyond mission necessity). The quip is framed per this model as the improvised functional equivalent
+  of an emotion-regulation skill the subject was never taught — effective enough to prevent collapse,
+  costly in that it precludes genuine processing. Sub-threshold for full BPD: identity diffusion partial
+  not global, prosocial scaffolding intact, no-kill moral absolutism argues against cardinal impulsivity.'

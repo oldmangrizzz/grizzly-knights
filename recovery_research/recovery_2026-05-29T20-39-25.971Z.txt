@@ -1,0 +1,10 @@
+<tool_output_masked>
+{
+  "output": "name: Peter Parker\nalias: Spider-Man\nvoice_id_key: peter_parker\n\n# --- Psychological Profile ---\nprimary_diagnoses_analog:\n  - \"Borderline Personality Disorder (more accurately: Emotional Dysregulation Disorder)\"\n  - PTSD (Unc
+... [TRUNCATED] ...
+it is how he keeps from falling apart in public.\"\n  - \"Sex with dangerous women — especially Black Cat, and later risk-adjacent arcs like Silver Sable — functions as self-sabotage when he is spiraling and wants danger to feel like intimacy.\"\n"
+}
+
+Output too large. Full output available at: /Users/rbhanson/.gemini/tmp/fanfic/tool-outputs/session-882d89b6-c874-4b71-aa73-e2e5f423e8e3/read_file_read_file__read_file_1780067411026_0_bgk73f.txt
+</tool_output_masked>
+==================================================

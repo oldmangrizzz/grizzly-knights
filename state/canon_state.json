@@ -1,0 +1,139 @@
+{
+  "episode_count": 4,
+  "completed_episodes": [],
+  "arcs": {
+    "tony-sobriety": {
+      "id": "tony-sobriety",
+      "title": "The System",
+      "characters": [
+        "tony_stark"
+      ],
+      "arc_type": "personal",
+      "description": "Tony's alcohol use oscillates. Right now it's managed. It won't stay that way.",
+      "status": "active",
+      "intensity": 2,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "steve-displacement": {
+      "id": "steve-displacement",
+      "title": "Wrong Century",
+      "characters": [
+        "steve_rogers"
+      ],
+      "arc_type": "personal",
+      "description": "Steve's temporal displacement keeps resurfacing in unexpected contexts. He hasn't grieved the lost world.",
+      "status": "active",
+      "intensity": 2,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "frank-mission-end": {
+      "id": "frank-mission-end",
+      "title": "What's Underneath",
+      "characters": [
+        "frank_castle"
+      ],
+      "arc_type": "personal",
+      "description": "The mission cannot end because ending it means addressing what's underneath. Frank knows this. He keeps going anyway.",
+      "status": "active",
+      "intensity": 3,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "jessica-kilgrave": {
+      "id": "jessica-kilgrave",
+      "title": "Still There",
+      "characters": [
+        "jessica_jones"
+      ],
+      "arc_type": "personal",
+      "description": "Kilgrave is never fully gone. Something will surface a trigger. When it does, the alcohol escalates before she notices.",
+      "status": "active",
+      "intensity": 2,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "sam-riley": {
+      "id": "sam-riley",
+      "title": "His Name Was Riley",
+      "characters": [
+        "sam_wilson"
+      ],
+      "arc_type": "personal",
+      "description": "Sam helps everyone. Nobody asks about Riley. The grief is accessible if someone ever pokes it. Nobody does.",
+      "status": "active",
+      "intensity": 2,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "bucky-identity": {
+      "id": "bucky-identity",
+      "title": "Who Without",
+      "characters": [
+        "bucky_barnes"
+      ],
+      "arc_type": "personal",
+      "description": "Who is Bucky independent of Steve, of HYDRA, of the arm. The question has no current answer.",
+      "status": "active",
+      "intensity": 3,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "peter-abandonment": {
+      "id": "peter-abandonment",
+      "title": "Parker Luck",
+      "characters": [
+        "peter_parker"
+      ],
+      "arc_type": "personal",
+      "description": "Every relationship is shaped by the fear that it will end badly. It usually does. Peter makes sure of it.",
+      "status": "active",
+      "intensity": 3,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "reed-ben-guilt": {
+      "id": "reed-ben-guilt",
+      "title": "The Cost of the Calculation",
+      "characters": [
+        "reed_richards",
+        "ben_grimm"
+      ],
+      "arc_type": "relational",
+      "description": "Ben has forgiven Reed. Reed has not forgiven Reed. Ben carries Reed's guilt so Reed can function. This has a cost.",
+      "status": "active",
+      "intensity": 3,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "victor-mother": {
+      "id": "victor-mother",
+      "title": "Cynthia",
+      "characters": [
+        "victor_doom"
+      ],
+      "arc_type": "personal",
+      "description": "Victor has never stopped trying to retrieve his mother from Hell. He never will. This is the one thing that bypasses the armor.",
+      "status": "active",
+      "intensity": 4,
+      "episode_last_featured": 0,
+      "notes": []
+    },
+    "victor-reed-gap": {
+      "id": "victor-reed-gap",
+      "title": "What He Got to Be",
+      "characters": [
+        "victor_doom",
+        "reed_richards"
+      ],
+      "arc_type": "relational",
+      "description": "Victor is jealous not of what Reed has but of what Reed is \u2014 completely, without armor. Reed doesn't know this is the thing.",
+      "status": "active",
+      "intensity": 3,
+      "episode_last_featured": 0,
+      "notes": []
+    }
+  },
+  "active_arcs": []
+}

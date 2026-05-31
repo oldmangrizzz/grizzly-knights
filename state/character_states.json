@@ -1,0 +1,224 @@
+{
+  "tony_stark": {
+    "sobriety_status": "managing",
+    "affect_baseline": "flat_functional",
+    "location": "malibu_compound",
+    "recent_events": []
+  },
+  "steve_rogers": {
+    "grief_processing": "avoidant",
+    "affect_baseline": "flat_operational",
+    "location": "brooklyn_apartment",
+    "recent_events": []
+  },
+  "frank_castle": {
+    "mission_status": "active",
+    "affect_baseline": "flat_contained",
+    "location": "mobile",
+    "recent_events": []
+  },
+  "jessica_jones": {
+    "sobriety_status": "functional_use",
+    "affect_baseline": "flat_contained",
+    "location": "hell_kitchen_apartment",
+    "recent_events": []
+  },
+  "sam_wilson": {
+    "grief_processing": "deferred",
+    "affect_baseline": "warm_functional",
+    "location": "louisiana",
+    "recent_events": []
+  },
+  "bucky_barnes": {
+    "identity_stability": "fragile_stable",
+    "affect_baseline": "flat_watchful",
+    "location": "brooklyn",
+    "recent_events": []
+  },
+  "matt_murdock": {
+    "faith_relationship": "contested_present",
+    "affect_baseline": "controlled_subdued",
+    "location": "hells_kitchen_apartment",
+    "recent_events": []
+  },
+  "peter_parker": {
+    "emotional_regulation_status": "managing",
+    "affect_baseline": "activated_masked",
+    "location": "queens_apartment",
+    "recent_events": []
+  },
+  "reed_richards": {
+    "masking_load": "moderate",
+    "affect_baseline": "focused_subdued",
+    "location": "baxter_building",
+    "recent_events": []
+  },
+  "sue_storm": {
+    "caregiver_load": "elevated",
+    "affect_baseline": "warm_managed",
+    "location": "baxter_building",
+    "recent_events": []
+  },
+  "johnny_storm": {
+    "annihilation_integration": "unprocessed_stable",
+    "affect_baseline": "warm_expressive",
+    "location": "baxter_building",
+    "recent_events": []
+  },
+  "ben_grimm": {
+    "grief_load": "present_managed",
+    "affect_baseline": "warm_grounded",
+    "location": "baxter_building",
+    "recent_events": []
+  },
+  "victor_doom": {
+    "pride_load": "maintained",
+    "affect_baseline": "controlled_regal",
+    "location": "latveria",
+    "recent_events": []
+  },
+  "natasha_romanoff": {
+    "ledger_weight": "present_managed",
+    "affect_baseline": "controlled_present",
+    "location": "mobile",
+    "recent_events": []
+  },
+  "clint_barton": {
+    "self_sabotage_load": "active",
+    "affect_baseline": "dry_functional",
+    "location": "brooklyn_apartment_building",
+    "recent_events": []
+  },
+  "kate_bishop": {
+    "competence_confidence": "earned_stable",
+    "affect_baseline": "sharp_warm",
+    "location": "manhattan_apartment",
+    "recent_events": []
+  },
+  "bruce_banner": {
+    "integration_status": "fragile_managed",
+    "affect_baseline": "careful_hedged",
+    "location": "mobile",
+    "recent_events": []
+  },
+  "thor_odinson": {
+    "grief_stack": "deep_present",
+    "affect_baseline": "formal_heavy",
+    "location": "new_asgard",
+    "recent_events": []
+  },
+  "wanda_maximoff": {
+    "grief_containment": "active_effort",
+    "affect_baseline": "contained_precise",
+    "location": "mobile_isolated",
+    "recent_events": []
+  },
+  "scott_lang": {
+    "ordinary_guy_load": "present_functional",
+    "affect_baseline": "warm_self_deprecating",
+    "location": "san_francisco",
+    "recent_events": []
+  },
+  "carol_danvers": {
+    "identity_anchoring": "stable_military",
+    "affect_baseline": "direct_clipped",
+    "location": "mobile_deep_space",
+    "recent_events": []
+  },
+  "luke_cage": {
+    "community_load": "present_carried",
+    "affect_baseline": "steady_warm",
+    "location": "harlem",
+    "recent_events": []
+  },
+  "danny_rand": {
+    "identity_integration": "ongoing",
+    "affect_baseline": "earnest_slightly_formal",
+    "location": "new_york_rand_enterprises",
+    "recent_events": []
+  },
+  "logan": {
+    "memory_fragmentation": "managed_chronic",
+    "affect_baseline": "minimal_gruff",
+    "location": "x_mansion",
+    "recent_events": []
+  },
+  "charles_xavier": {
+    "hope_vs_control_tension": "active",
+    "affect_baseline": "warm_precise_weighted",
+    "location": "x_mansion",
+    "recent_events": []
+  },
+  "erik_lehnsherr": {
+    "conviction_load": "absolute_present",
+    "affect_baseline": "formal_grieved",
+    "location": "mobile",
+    "recent_events": []
+  },
+  "scott_summers": {
+    "containment_effort": "elevated",
+    "affect_baseline": "clipped_controlled",
+    "location": "x_mansion",
+    "recent_events": []
+  },
+  "jean_grey": {
+    "power_boundary_maintenance": "active",
+    "affect_baseline": "warm_contained",
+    "location": "x_mansion",
+    "recent_events": []
+  },
+  "ororo_munroe": {
+    "affect_regulation": "grounded_stable",
+    "affect_baseline": "measured_regal",
+    "location": "x_mansion",
+    "recent_events": []
+  },
+  "rogue": {
+    "touch_deprivation_load": "chronic_present",
+    "affect_baseline": "warm_guarded",
+    "location": "x_mansion",
+    "recent_events": []
+  },
+  "remy_lebeau": {
+    "trust_disclosure_status": "partial_strategic",
+    "affect_baseline": "languid_warm",
+    "location": "x_mansion_adjacent",
+    "recent_events": []
+  },
+  "kurt_wagner": {
+    "faith_integration": "active_genuine",
+    "affect_baseline": "warm_earnest",
+    "location": "x_mansion",
+    "recent_events": []
+  },
+  "hank_mccoy": {
+    "grief_intellectualization": "active",
+    "affect_baseline": "expansive_warm",
+    "location": "x_mansion",
+    "recent_events": []
+  },
+  "kamala_khan": {
+    "hope_practice": "active_deliberate",
+    "affect_baseline": "engaged_earnest",
+    "location": "jersey_city",
+    "recent_events": []
+  },
+  "felicia_hardy": {
+    "control_architecture": "stable_chosen",
+    "affect_baseline": "warm_precise",
+    "location": "mobile_new_york",
+    "recent_events": []
+  },
+  "wade_wilson": {
+    "dissociation_level": "chronic_managed",
+    "affect_baseline": "chaotic_warm",
+    "location": "mobile",
+    "recent_events": []
+  },
+  "mary_jane_watson": {
+    "performance_reality_merge": "stable_integrated",
+    "affect_baseline": "bright_observant",
+    "location": "new_york_acting_circuit",
+    "recent_events": []
+  }
+}

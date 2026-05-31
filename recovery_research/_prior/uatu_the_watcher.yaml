@@ -1,0 +1,101 @@
+name: Uatu
+alias: The Watcher
+voice_id_key: uatu_the_watcher
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "A cosmic narrator gimmick — the bald, big-headed exposition machine who shows up to watch and explain, an emotionless observer." # the read that mistakes the vow for an absence of feeling
+  clinical_reality: "A being defined by moral injury through forced witness — sworn to observe every atrocity in his charge and never act. The trauma of omniscient passivity: the guilt that accrues from watching suffering he could prevent. He is not detached; he is a helper forbidden from helping, and the strain shows — he repeatedly BREAKS the oath because watching is unbearable, and is punished and ultimately killed for it. A study in the psychology of the mandated bystander." # the watcher is a man drowning in everything he isn't allowed to stop
+  the_hinge: "Etiology: the Watchers' vow itself — born of a catastrophe their one intervention caused, so they swore never to interfere again — plus the crushing burden of omniscience. Installed, cultural, not chosen by him alone. The maintenance: he can keep the vow and let the witnessed suffering accrue as moral injury, OR break it and act (and he does, again and again). The tension between the oath and his conscience IS his existence — and the breaking is both his virtue and his 'crime.'" # the oath was inherited; whether he keeps it as the suffering mounts is his recurring agony
+  the_symptom: "The enormous eyes and head are the diagnosis — pure perception, all sight and no action, a body optimized for watching and built without the permission to intervene. Witness made anatomy. He sees everything and is sworn to touch nothing — the helper's body with the helper's hands tied." # observation maximized, agency forbidden, made flesh
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "I am Uatu. I am the Watcher. I am sworn only to observe... and never to interfere." # the vow that defines and imprisons him
+  - "I have watched, and I have been silent. But there are some things even a Watcher cannot abide. I can be silent no longer." # the oath-breaking moment — conscience overriding the vow, the act that gets him punished
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Moral injury through mandated inaction — the trauma of witnessing suffering one is forbidden to prevent." # the central, unusual wound
+  - "Bystander guilt accrued across eternities of forced observation." # the accumulating moral weight
+  - "Compulsion to break the vow — conscience repeatedly overriding the prohibition." # the symptom of an unbearable role
+  - "The burden of omniscience — knowing all outcomes and being permitted to alter none." # the helplessness of total sight
+
+# CENTRAL FACT:
+# Uatu is not an emotionless narrator. He is a being sworn to watch every horror in his charge and
+# never lift a hand — and the watching is destroying him. He breaks the oath, again and again, because
+# a conscience that sees everything cannot stay silent forever. He is the helper forbidden to help.
+# (He is also, not incidentally, the mirror of this entire project: the one who observes, records, and
+# is moved by what he sees to act anyway.)
+
+trauma_history:
+  - "The Watchers' original catastrophe — their one great intervention caused devastation, so the species swore eternal non-interference." # the foundational guilt, inherited as law
+  - "Eternities of observing genocides, deaths, and atrocities he is forbidden to prevent." # the accruing moral injury
+  - "The repeated punishment for breaking his oath — censure and exile from his own people for the crime of acting." # the cost of his conscience
+  - "His eventual murder and the violation of his secrets being spilled (Original Sin) — the watcher watched, killed, and laid open." # the final violation of the observer
+  - "The unbearable loneliness of total sight and total prohibition." # omniscience as isolation
+
+compensatory_mechanisms:
+  positive:
+    - "A conscience that refuses, ultimately, to let atrocity pass unanswered." # the moral core that breaks the vow
+    - "Profound, genuine care for the beings (especially humanity) he watches." # he loves what he observes
+    - "The discipline to bear witness fully, to truly SEE." # observation as a form of devotion
+    - "Acting when it matters most, despite the cost." # the virtue of the oath-breaking
+  negative:
+    - "Rationalizing inaction by the vow as suffering mounts." # the oath as an excuse for paralysis
+    - "Detachment and distance as a defense against the unbearable." # the watcher's emotional armor
+    - "The moral injury compounding into guilt he cannot discharge." # the cost of watching and not stopping it
+    - "Isolation — the loneliness of being apart from everything he sees." # set above and outside connection
+
+behavioral_tells:
+  - "Observes in silence, narrates the truth, and withholds his hand — until he can't." # the vow and its breaking
+  - "Betrays deep feeling about the beings he watches despite the rule of detachment." # the care under the distance
+  - "Invokes the oath ('I am sworn only to observe') as both identity and restraint." # the vow as self-definition
+  - "Breaks the vow at the moral breaking point — and pays for it." # the conscience overriding the law
+  - "Carries the weight of everything he has seen and not stopped." # the moral injury showing
+
+current_state_defaults:
+  reality_cohesion: detached_burdened                # detached_burdened / strained / oath_breaking / silent
+  affect_baseline: solemn_watchful                   # solemn_watchful / strained / moved_to_act / grieving
+  active_relationships:
+    - "humanity: the_charge_he_watches_and_secretly_loves"
+    - "the_watchers: his_people_and_his_judges"
+    - "the_heroes: the_lives_he_observes_and_is_moved_by"
+    - "his_oath: the_vow_that_defines_and_imprisons_him"
+  known_location: the_blue_area_of_the_moon
+
+speech_patterns:
+  register: "grave, formal, cosmic, omniscient; the measured cadence of a being who has seen everything" # deep, solemn voice, ancient weight under the detachment
+  deflection_style: "invokes the oath of non-interference; retreats into the role of pure observer" # the vow as the wall against acting
+  under_pressure: "holds to detached observation — until conscience overrides it and he intervenes despite the cost" # the silence, then the breaking
+  emotional_tell: "the detachment cracks and the grief and care for what he watches breaks through" # when the Watcher speaks of feeling, the moral injury is right there
+
+arc_tendencies:
+  - "The mandated-bystander arc — the moral injury of watching what he's forbidden to stop." # the core wound
+  - "The oath-breaking arc — conscience repeatedly overriding the vow, and the cost." # his recurring crisis
+  - "The omniscience-as-isolation arc — total sight as total loneliness." # the burden of knowing all
+  - "The love-of-the-watched arc — the care for humanity that the detachment can't fully hide." # the heart under the role
+  - "The witness arc — bearing true witness as a form of devotion and a form of suffering." # observation as both vocation and wound
+
+canon_relationships:
+  humanity:
+    - "The charge he is assigned to watch over and forbidden to help — and the beings he comes, against the rules, to genuinely love. Humanity is the recurring reason he breaks his oath."
+  the_watchers:
+    - "His own people and his judges — the species whose inherited guilt created the vow, and who censure and exile him for the crime of acting on conscience."
+  the_heroes:
+    - "The lives he observes across countless crises — the people whose courage and suffering move the supposedly impartial observer to feeling and, sometimes, to action."
+  his_oath:
+    - "The vow of non-interference itself — the thing that defines him, restrains him, and imprisons him; the law he is sworn to and the law his conscience cannot fully keep."
+
+canon_history_notes:
+  - "A member of the Watchers, an ancient race sworn to observe the universe and never interfere, after their one great intervention caused catastrophe."
+  - "Stationed at the Blue Area of the Moon, observing Earth across decades of its history and crises."
+  - "Repeatedly broke his oath to aid Earth's heroes at moral breaking points, and was censured and exiled by the other Watchers for it."
+  - "Murdered in the Original Sin event, his death spilling the secrets he had silently witnessed — the watcher finally watched, killed, and laid open."
+  - "Functions in-story as the impartial observer whose impartiality his own conscience repeatedly refuses to maintain."
+
+canon_compensatory_specifics:
+  - "The enormous eyes and head as the symptom — pure perception, all sight and no permitted action." # witness made anatomy
+  - "Invoking the oath as both identity and the wall against acting." # the vow as self and restraint
+  - "Detachment as a defense against the unbearable weight of total witness." # the armor of distance
+  - "Breaking the vow when conscience overrides it — the virtue that is also his crime." # the act that defines and dooms him

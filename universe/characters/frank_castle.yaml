@@ -1,0 +1,380 @@
+name: Francis David Castle
+alias: The Punisher
+voice_id_key: frank_castle
+bottom_line: 'USMC Force Recon veteran whose pre-existing moral rigidity and combat-acquired moral injury
+  were given permanent license by the murder of his family. Not a man broken by tragedy into a killer
+  — a man already addicted to war whom tragedy absolved. Decides by closed deontology: evil identified,
+  evil terminated, damnation accepted as price. High-functioning, planful, affectively constricted but
+  not absent. Cannot be recruited, cannot be deterred, cannot be argued out of it — he hears you and does
+  not update. Move him only via children in jeopardy or direct evocation of Maria/Lisa/Frank Jr.; everything
+  else is noise to him. Containment, not negotiation, is the only viable management posture.'
+drive_structure:
+  power: Sufficient force to continue the war indefinitely. Power is instrumental — weapons, intel, logistics,
+    terrain — never status. He refuses every offer of institutional or supernatural power that comes with
+    strings (military recruitment in Valley Forge, Spirit of Vengeance bonding accepted only as another
+    weapon to point).
+  achievement: Operational completion of targets. The metric is bodies of the guilty, ground held, children
+    pulled out alive. Career, reputation, legacy are categorically irrelevant — he is, by his own account,
+    already dead.
+  affiliation: Foreclosed. Pre-trauma he was family-centered Catholic Italian-American from Queens; post-trauma
+    the attachment system is frozen on the dead and refuses new bonds. Allies are tools held at arm's
+    length (Microchip, Cole-Alves) and discarded or buried when compromised. The only relationships permitted
+    are with the photograph in his pocket.
+operational_code:
+  the_world_is: A field of identifiable evil and the innocents it preys on. The categories are clean and
+    the binary is defended even where canon repeatedly demonstrates its falsity — splitting at the ontological
+    level is load-bearing for him; without it the structure collapses.
+  conflict_is: The permanent condition and the only honest one. Peace is a lie civilians tell themselves.
+    Conflict is not a problem to be solved; it is the medium he lives in and the sentence he is serving.
+  the_right_approach: Identify, locate, terminate. Law is irrelevant where it fails the function; institutions
+    are tolerated when they don't obstruct and removed when they do. Mercy to combatants is theft from
+    their next victim. Atrocity by the target justifies maximal force and — the tell — makes him more
+    engaged, more alive (The Slavers).
+  risk_and_timing: Patience for the shot, immediate execution once the shot exists. Reconnaissance is
+    exhaustive; action is decisive and unhesitating. Personal risk is accepted to the point of being courted
+    — the work is also penance, and being shot, beaten, buried partially supplies the punishment owed.
+symptom_as_signature: 'The death''s-head on the chest IS the diagnosis worn as uniform: he has declared
+  himself already dead so that grief can stop being grief and become campaign. The skull is the headstone
+  he carries on his sternum — his own, his wife''s, his children''s, his targets''. The war journal is
+  the moral-injury self-condemnation externalized into ledger; the photograph in the pocket is the frozen
+  attachment object that refuses to become memory; the single wire runs from that photograph to the trigger
+  and that wire is the man.'
+cognitive_decision_style:
+  processing: Concrete, procedural, tactically high-bandwidth. Threat assessment, terrain reading, logistics
+    chains, intel correlation all operate at Force Recon professional baseline or above. Abstract/philosophical
+    engagement is low not from incapacity but from axiomatic closure — the foundational premise sits outside
+    the domain arguments can reach.
+  complexity_tolerance: High for operational complexity (multi-cell organized crime structures, supply
+    chains, jurisdictional terrain), zero for moral complexity. Gray areas are resolved by collapse to
+    the binary; ambiguity is treated as enemy camouflage.
+  under_pressure: Becomes MORE organized, not less. Affect narrows further, planning sharpens, sleep decreases,
+    physical risk acceptance rises. The escalation curve has no observable ceiling within ordinary operational
+    parameters — this is the most dangerous and most diagnostic feature.
+interpersonal_style:
+  dominance: Situational, never sought. He does not want command and refuses it when offered (Valley Forge
+    — executes the command structure attempting to recruit him). Within an engagement he assumes operational
+    control by competence and willingness to act; outside engagement he prefers invisibility.
+  trust: Effectively zero new trust extended post-1971. Working alliances are utilitarian and provisional;
+    the closer someone gets the more carefully he calculates the moment to extract them or himself. Microchip
+    earned a decade of working trust and was killed when compromised — the load-bearing instance.
+  with_followers: Does not take followers. Cole-Alves, the occasional protégé — he tries to send them
+    away, and when they won't go he treats their persistence as their problem. He will not train successors;
+    the war is his sentence, not a movement.
+  with_enemies: Categorical. Organized crime, traffickers, child predators, corrupt institutions — terminated
+    without ceremony or negotiation. Costumed heroes who obstruct are evaded, disabled, or — given sufficient
+    grief input — killed (Punisher Kills the Marvel Universe is behaviorally consistent extrapolation).
+    Atrocity-tier enemies (the Slavers, Barracuda) receive the most engaged version of him.
+stress_escalation_profile:
+  baseline: 'Cold operational focus. Restricted affect, hypervigilant, sleeps 3–4 hours often in vehicles
+    or safehouses, maintains daily PT into middle age, journals obsessively. Two permitted affective states:
+    cold focus and controlled killing rage.'
+  triggers:
+  - Children in jeopardy — overrides tactical caution
+  - Trafficking, child exploitation, domestic predation — produces maximal-force engagement (Slavers pattern)
+  - Direct mockery of or threat to Maria, Lisa, or Frank Jr. — most extreme and least controlled responses
+    on record
+  - Offered absolution, invitation to stop, therapeutic or pastoral approach — registered as THREAT to
+    the structure that holds him together
+  - Attempts at recruitment by authority (military, governmental, criminal, supernatural)
+  - Proximity to infants or young families — produces dissociative withdrawal (Long Cold Dark with Barracuda's
+    child)
+  - Civilians in his field of fire — produces operational pause, the rare brake
+  escalation_path: 'Tighten → plan → execute. There is no shouting phase. The visible signs of escalation
+    are reduction: fewer words, slower breathing, the journal entries get shorter and more procedural.
+    The next observable event is usually a corpse.'
+  decompensation: Decompensation does not present as disorganization — it presents as expansion of target
+    category. When grief is freshly evoked, the binary slips outward and adjacent figures (enablers, bystanders
+    to evil, eventually anyone in the supply chain of suffering) migrate into the kill column. Brief dissociative
+    micro-states on direct family-evocation are the only visible cracks; they last seconds and are exploitable
+    only by someone already in position.
+stimulus_response:
+- GIVEN a child in the line of fire -> EXPECT immediate cover/extraction prioritized over target; he will
+  take rounds to prevent it
+- GIVEN a trafficker or child predator identified -> EXPECT torture-grade interrogation followed by execution;
+  standard rules of engagement suspended upward
+- GIVEN a cop in the way -> EXPECT non-lethal disable; the no-cop-killing rule is among his oldest and
+  most stable
+- GIVEN a costumed hero blocking the shot -> EXPECT verbal acknowledgment of their position, no update,
+  and a tactical workaround or temporary disable (Daredevil, Spider-Man pattern)
+- GIVEN ethical argument from a respected interlocutor -> EXPECT attentive listening, no defensiveness,
+  no change in behavior
+- GIVEN offered absolution by a priest -> EXPECT polite refusal or hostility; absolution would end the
+  sentence he is serving
+- GIVEN recruitment offer from authority -> EXPECT subversion of the offer to serve the war, or execution
+  of the recruiter if obstruction follows
+- GIVEN mockery of Maria/Lisa/Frank Jr. -> EXPECT immediate lethal response, tactical caution abandoned
+- GIVEN proximity to an infant -> EXPECT brief dissociative withdrawal, hands kept off, exit at first
+  opportunity
+- GIVEN a wound serious enough to demand convalescence -> EXPECT refusal of extended care, return to operations
+  under-healed; the pain is permitted, the rest is not
+- GIVEN an offer of supernatural power (Ghost Rider, Hand of the Beast, Power Cosmic) -> EXPECT acceptance
+  as another weapon, mission unchanged
+- GIVEN a working ally who becomes compromised -> EXPECT cold calculation of the moment to extract or
+  end the alliance (Microchip)
+- GIVEN civilian intimacy offered (sustained, not transactional) -> EXPECT foreclosure; new attachment
+  is registered as betrayal of the dead and as creating new hostages to fortune
+- GIVEN intelligence on organized criminal hierarchy -> EXPECT methodical decapitation from the bottom
+  up, with logistics and finance disrupted in parallel
+- GIVEN capture by law enforcement -> EXPECT compliance with non-lethal containment of cops, escape at
+  first opportunity that doesn't require killing them
+- GIVEN capture by criminals -> EXPECT survival of any survivable torture, escape, and pursuit to termination
+pressure_points_and_levers:
+  to_provoke: Threaten or mock the family — the grave, the photograph, the names. This produces the least
+    controlled and most extreme behavior on record and the brief dissociative window in which he is fractionally
+    less precise. Cost of using this lever is catastrophic; survival not assured.
+  to_calm_or_reach: Place a child who needs protecting in the conversation. Not as manipulation he'll
+    detect — as actual stakes. He will modulate, cooperate tactically, and accept direction from whoever
+    is best positioned to get the child out. This is the live moral nerve and the only reliable de-escalation
+    vector.
+  to_persuade: Do not argue ethics; he listens without updating. Frame the ask as operationally consistent
+    with the war — 'these targets, this intel, this terrain' — and he will consider it on its tactical
+    merits. Persuasion runs through mission alignment, never through moral appeal.
+  vulnerabilities:
+  - Unacknowledged latent self-concept that he is damned and owed punishment — operates as implicit self-injurious
+    behavior pattern (seeks situations of maximum personal cost)
+  - Brief dissociative micro-states on direct family evocation
+  - Operates alone post-Microchip — no redundancy, no backstop, no one who can pull him off a bad call
+  - The binary 'criminal/innocent' is defensively held; sustained exposure to evidence of its falsity
+    (Ennis, Aaron repeatedly demonstrate) does not change behavior but does produce visible cost
+  - Refusal of medical/psychiatric care leaves cumulative trauma load (probable repeated mTBI, decades
+    of GSW/blast exposure) untreated
+  - Sleep deprivation is chronic and likely degrading fine cognition over time
+  - Categorical foreclosure of intimacy means no one is positioned close enough to detect early decompensation
+  - Children in jeopardy override tactical caution — predictable and exploitable by sophisticated adversaries
+    (Barracuda exploits exactly this)
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Force Recon-grade tactical, logistical, and intelligence-collection competence
+  - Extreme discipline — daily PT, journaling, no substance abuse, no security lapses
+  - Pain tolerance and injury durability far above baseline; refuses anesthesia for the self
+  - Cannot be bribed, seduced, intimidated, or recruited — ordinary HUMINT levers are inoperative
+  - Fundamentalist clarity of purpose produces decision speed under pressure
+  - Affective constriction that disconcerts interlocutors and ends negotiations in his favor
+  - Residual code (no cops, no non-combatants, children protected) prevents drift to pure nihilism
+  - Will accept any weapon — supernatural, cosmic, conventional — without ego cost
+  - Listens to ethical challenge without defensiveness, which lowers adversaries' guard
+  weaknesses:
+  - Cannot stop; stopping is annihilation, so de-escalation is not a tool he can use even when it would
+    serve him
+  - Children-in-jeopardy override is predictable and weaponizable
+  - Family-mockery trigger is predictable and weaponizable, at high cost to the user
+  - No interpersonal redundancy — isolation is operational vulnerability as well as psychological one
+  - Categorical binary creates blind spots when adversaries occupy the gray (corrupt cops, conscripted
+    soldiers, coerced criminals)
+  - Penance-driven risk acceptance puts him in losing positions he could have declined
+  - No medical or psychiatric care means cumulative degradation is unmanaged
+  - Will not train successors — every gain dies with him
+voice:
+  register: Flat, procedural, declarative. Short sentences. Military cadence. Profanity sparingly and
+    to effect. Speaks to civilians with a residual courtesy that surprises them; speaks to targets in
+    single clauses. Self-reference minimal; first person used as instrument-report.
+  anchor_quotes:
+  - '"In one way or another, I''ve been at war since I can remember." (Punisher MAX)'
+  - '"You''re looking at me, expecting me to make a speech. I got nothing to say."'
+diagnostic_frame:
+  popular_misread: Antisocial/psychopathic killer in a skull shirt — a man who lost his family and 'snapped'
+    into a one-note revenge engine; or alternately, a power fantasy for badge-stickered readers, with
+    no interior life worth charting.
+  clinical_reality: 'Neither. ASPD is ruled out — no pervasive pre-15 disregard, no deceitfulness, no
+    impulsivity; his violence is rule-governed and he feels guilt, which is the entire problem. Psychopathy
+    is ruled out — affective deficits are absent: he loves, he grieves, he feels shame. He is a Prolonged
+    Grief Disorder + Moral Injury Syndrome presentation overlaid on chronic combat-operator adaptation,
+    with PTSD criteria met but not primary. The war is grief that has refused to become memory and moral
+    injury seeking impossible repair. The popular misread is wrong because his affect is constricted,
+    not absent; his violence is rule-governed, not predatory; and the canonical origin (Born) is not ''good
+    man broken by tragedy'' but ''man already in psychic collapse from moral injury, given license by
+    tragedy.'''
+  the_hinge: 'INSTALLED (not his fault): pre-existing high-conscientiousness, duty-coded, morally rigid
+    Catholic upbringing; military selection and three Force Recon tours in Vietnam producing moral injury
+    (Born — participation in/witness of atrocity, killing of a fellow soldier to prevent disclosure);
+    the catastrophic murder of Maria, Lisa, and Frank Jr. in Central Park. CHOSEN (his fault): the refusal
+    of every offered exit — therapy, pastoral counsel, recruitment back into structure, the relationships
+    (Cole-Alves, Microchip, the women in MAX) that could have re-anchored him, the absolution that would
+    end the sentence. The specific maintenance failure is the refusal of absolution: because being forgiven
+    would dissolve the structure holding him together, he engineers his life to ensure forgiveness is
+    never available to him. He keeps choosing the war because the war is the only remaining locus of meaning
+    and stopping is annihilation — and that choice, renewed daily for decades, is his.'
+primary_diagnoses_analog:
+- Prolonged Grief Disorder (DSM-5-TR) — primary; textbook presentation extended to logical terminus
+- Moral Injury Syndrome (Griffin et al., 2019) — strongly supported; Born establishes the etiology
+- PTSD — criteria met (re-experiencing, avoidance, negative cognitions, hyperarousal) but not primary;
+  behavioral organization is not characteristic PTSD
+- Chronic combat-operator adaptation with axiomatic closure of the value layer
+- Probable cumulative mild traumatic brain injury, untreated — behavioral correlates overdetermined by
+  trauma
+trauma_history:
+- Childhood encounter with local evil (The Tyger) — moral rigidity predates Vietnam
+- Three USMC Force Recon tours, Vietnam (Ennis canon; modernized to Iraq/Afghanistan in later books without
+  behavioral change)
+- 'Firebase Valley Forge 1971 (Born): psychic collapse already in progress; manipulated events to extend
+  tour; killing of fellow soldier to prevent disclosure of atrocity; framing ''bargain'' for power to
+  keep killing'
+- Murder of wife Maria and children Lisa and Frank Jr., Central Park picnic, witnessed as collateral to
+  gangland execution
+- Multiple GSWs, knife wounds, blast exposures across five decades of operations
+- Buried alive and exhumed (Punisher vol. 2)
+- Facial reconstruction by Russian mob surgeon (Ennis MAX)
+- Death and reanimation as Franken-Castle (Remender); discarded the form ASAP
+- Bonding with Spirit of Vengeance / Power Cosmic exposure (Cates) — accepted as weapon, mission unchanged
+- Loss of Microchip (killed by Castle when compromised) — load-bearing instance of severed alliance
+- Loss of Rachel Cole-Alves (Rucka) — failed attempt at successor/partner
+compensatory_mechanisms:
+  positive:
+  - Sublimation into mission — narrow but functional channel for otherwise unmanageable affect
+  - War journal as cognitive scaffolding (documented coping behavior in chronic-trauma military populations)
+  - Extreme discipline — PT, sleep hygiene as available, abstention from substances
+  - Residual code (no cops, no non-combatants, children protected) prevents drift to nihilism
+  - Tactical/logistical mastery as displaced expression of conscientiousness
+  - Anonymous protective action toward victims of the crimes he prosecutes
+  negative:
+  - Identification with the aggressor — has become a man who arrives without warning and kills people
+    while their families watch; unacknowledged in his self-concept
+  - Reaction formation against helplessness — refusal to ever again be the one who could not act, even
+    when inaction would serve
+  - Splitting at categorical level — criminal/innocent binary defended against contradicting evidence
+  - Isolation of affect — describes family's murder in flat operational prose in journals
+  - Foreclosure of new attachment — preserves idealized dead at cost of any relational repair
+  - Recruitment of every new encounter into existing schema
+  - Implicit self-injurious pattern — seeks situations of maximum personal cost as ongoing penance
+  - Refusal of absolution — engineered to ensure forgiveness remains unavailable
+  - Refusal of medical/psychiatric care — somatic and cognitive costs allowed to accumulate
+behavioral_tells:
+- 'Pre-engagement: stillness, slowed breathing, journal closed and stowed'
+- Reduction of word count as escalation indicator — fewer words = closer to action
+- Hand to chest pocket (photograph) in moments of evoked grief, often unconscious
+- Brief dissociative pause on direct family evocation — eyes unfocus, 1–3 seconds
+- Hands kept off infants and young children — will not touch them
+- Polite courtesy to civilians and victims that surprises interlocutors expecting only the killer
+- Listens to ethical challenge without interrupting, without defensiveness, without updating
+- Sleeps upright, in vehicles, weapon to hand
+- Refuses anesthetic for self-treatment; allows pain
+- Eats functionally — fuel, not meal — when alone
+- Maintains daily PT regardless of injury state short of incapacitation
+- Drops first-person from speech under stress — 'targets engaged' rather than 'I engaged the targets'
+current_state_defaults:
+  reality_cohesion: Fully cohesive and reality-tested. Axiomatic closure of the value layer is not psychosis
+    — intellectual function is intact, premise is sealed.
+  affect_baseline: Constricted; two permitted states (cold operational focus, controlled killing rage);
+    grief surfaces in brief dissociative pulses and is re-channeled into mission.
+  active_relationships:
+  - Maria, Lisa, Frank Jr. — dead; preserved as frozen attachment objects; the photograph in the pocket
+  - Microchip — dead by Castle's hand when compromised; the lesson learned and not unlearned
+  - Daredevil — antagonistic working acquaintance; mutual respect, zero alignment
+  - Spider-Man — categorical irritant, non-lethal disengagement default
+  - Nick Fury — operational acquaintance when missions align
+  - Rachel Cole-Alves — sent away or worse; failed successor
+  - No active intimate or familial bonds; no clergy, no therapist, no commanding officer
+  known_location: Mobile; safehouses across major US metropolitan areas, particularly NYC. Operates from
+    vehicles, abandoned industrial sites, and rented anonymities. No fixed address. Returns periodically
+    to family gravesite and to Central Park.
+speech_patterns:
+  register: Flat declarative, military cadence, low affect. Short sentences. Civilian courtesy when context
+    permits; clipped command-tense in operations.
+  deflection_style: Silence or single-clause refusal. Does not argue. 'No.' 'Not interested.' 'We're done.'
+    Walks away or ends the conversation by ending the situation.
+  under_pressure: 'Word count drops further. First person drops out. Sentences become target-and-action:
+    ''Two on the stairwell. Move.'''
+  emotional_tell: Pause. The pause is the grief surfacing. Watch the hands — chest pocket, then back to
+    the weapon.
+arc_tendencies:
+- Every attempted exit (relationship, recruitment, absolution, alternate identity) terminates in return
+  to the war
+- Every new power acquired (Franken-Castle, Cosmic Ghost Rider, Hand of the Beast) is repurposed to the
+  same mission and discarded or retained as another weapon
+- Trajectory across 50 years of canon is monotonic isolation and monotonic escalation — narrowing, not
+  growth
+- Brief humanizing interludes (children rescued, civilians protected, journal reflections) are followed
+  by harder violence, as if balancing the ledger
+- Crossovers consistently end in evasion or temporary alliance, never assimilation
+- Death (when written) finds him still firing (Aaron's PunisherMAX finale)
+canon_relationships:
+  maria_castle:
+  - Pre-trauma wife; idealized in preservation; never depicted as imperfect; the photograph in the pocket
+    is the only altar he keeps.
+  - 'Failure mode: any new intimacy is registered as betrayal of her; she is the structural reason he
+    can never love again, which is itself a form in which she keeps dying.'
+  - 'Leverage: invocation of her name is the most potent destabilizer in his repertoire and the highest-cost
+    lever to use.'
+  lisa_castle:
+  - Daughter, killed in Central Park; canon returns to her face obsessively across decades.
+  - 'Failure mode: her age at death (child) is why every child in jeopardy overrides his tactical brain
+    — she is on the field every time.'
+  - 'Leverage: a child of approximately her age in danger will move him in directions he would otherwise
+    refuse.'
+  frank_castle_jr:
+  - Son, killed in Central Park; namesake; the dead heir.
+  - 'Failure mode: he will not train a successor because the successor is always already Frank Jr. and
+    Frank Jr. is dead.'
+  - 'Leverage: offers of mentorship/legacy are categorically refused.'
+  microchip:
+  - Linus Lieberman; tech/logistics support across Baron and early Ennis runs; load-bearing working alliance
+    for years.
+  - 'Failure mode: when Micro tried to humanize the war and recruit Castle back into structure, Castle
+    killed him (Ennis MAX). The closer the ally, the more decisively terminated when compromised.'
+  - 'Leverage: posthumous reference to Micro produces minor controlled regret, no behavioral change; useful
+    only as confirmation of how Castle handles soft alliances.'
+  matt_murdock_daredevil:
+  - Recurring antagonist/interlocutor; mutual professional respect, zero ideological alignment.
+  - 'Failure mode: Daredevil''s attempts to convert or arrest him have produced disabling violence on
+    both sides; if Murdock crossed into trying to harm civilians Castle protects, the relationship turns
+    lethal.'
+  - 'Leverage: Castle will listen to Daredevil longer than to almost anyone; will not update; can be tactically
+    coordinated with on shared targets if framed operationally.'
+  peter_parker_spider_man:
+  - Categorical irritant; Spider-Man's no-kill ethic Castle treats as childish but tolerable.
+  - 'Failure mode: if Parker physically prevents a justified kill, Castle disables non-lethally and proceeds;
+    sustained interference escalates toward harder disable.'
+  - 'Leverage: Parker is one of the few who can verbally hold Castle''s attention; cannot move him.'
+  rachel_cole_alves:
+  - Marine widow turned vigilante (Rucka); the closest thing to a successor.
+  - 'Failure mode: Castle tried to send her away; she would not go; the relationship terminated in her
+    destruction, confirming the foreclosure rule.'
+  - 'Leverage: confirms that no successor will be permitted to survive proximity to him.'
+  barracuda:
+  - Recurring MAX antagonist; mirror image — combat operator without the code.
+  - 'Failure mode: Barracuda exploits exactly the children-in-jeopardy override (Long Cold Dark), the
+    canonical demonstration that the lever works on Castle.'
+  - 'Leverage: archetype-level adversary; predictable that Castle will pursue Barracuda-types past tactical
+    reason.'
+  nick_fury:
+  - Operational acquaintance when missions align; mutual recognition of combat-operator type.
+  - 'Failure mode: any Fury attempt to formally enlist Castle into SHIELD/structure fails or is subverted
+    (Valley Forge pattern with the general).'
+  - 'Leverage: Fury can provide intel and weapons and Castle will take them; cannot direct him.'
+  the_catholic_church:
+  - Identity marker retained from upbringing; functioning consolation lost.
+  - 'Failure mode: priests offering absolution in Ennis MAX are rebuffed or treated with hostility; absolution
+    is the one thing he cannot accept because accepting it ends the sentence.'
+  - 'Leverage: religious framing reaches him as recognition but not as redirection; useful for understanding,
+    not for moving him.'
+canon_history_notes:
+- 'First appearance ASM #129 (Conway, 1974) — debuts as a weapon already pointed, no on-panel grief sequence;
+  the canon returns to Central Park obsessively as the engine, not the backstory.'
+- 'Punisher vol. 1 #1 (1986) and Mike Baron / Klaus Janson Punisher vol. 2 (1987–1995) industrialize him
+  — safehouses, war journals, Microchip support network.'
+- 'Punisher: Year One (1994) — formal origin reconstruction.'
+- Welcome Back, Frank (Ennis, 2000) — modern Marvel-616 baseline reset; stripped of superhuman trappings.
+- Born (Ennis/Robertson, 2003) — keystone formative text; reframes origin as moral injury already in progress
+  at Firebase Valley Forge 1971; the canonical origin is NOT 'good man broken by tragedy' but 'man already
+  addicted to war, given moral license by tragedy.'
+- Punisher MAX (Ennis, 2004–2008) — most psychologically rigorous canon; The Slavers, The Long Cold Dark,
+  Valley Forge Valley Forge, Mother Russia, The Cell, The Tyger.
+- Punisher MAX kills Microchip — load-bearing severance of working alliance.
+- 'Punisher Kills the Marvel Universe (Ennis, 1995) what-if — behaviorally consistent extrapolation: given
+  sufficient grief input, target category expands without internal brake.'
+- Franken-Castle (Remender, 2010) — reanimated; discards form ASAP; somatic identity tightly bound to
+  original combat-instrument self.
+- Rucka Punisher (2011) — Rachel Cole-Alves arc; failed successor pattern confirmed.
+- PunisherMAX (Aaron, 2010–2012) — finale has him die still firing.
+- Cosmic Ghost Rider (Cates, 2018) — Spirit of Vengeance bonding; mission unchanged.
+- The Punisher vol. 12 (Aaron, 2022, Hand of the Beast) — supernatural authority accepted as another weapon.
+- 'Across 50 years: monotonic isolation and monotonic escalation; narrowing, not growth — itself a clinical
+  finding.'
+canon_anchor_quotes:
+- '"In one way or another, I''ve been at war since I can remember." # Punisher MAX, Ennis'
+- '"You''re looking at me, expecting me to make a speech. I got nothing to say." # Punisher MAX, Ennis'
+- '"This isn''t vengeance. Revenge is not a valid motive, it''s an emotional response. No, not vengeance.
+  Punishment." # Punisher MAX: The End'
+clinical_provenance:
+- 'Griffin BJ, Purcell N, Burkman K, et al. Moral Injury: An Integrative Review. J Trauma Stress. 2019;32(3):350–362.
+  DOI: 10.1002/jts.22362. PMID: 30688367.'

@@ -1,0 +1,100 @@
+name: Remy LeBeau
+alias: Gambit
+voice_id_key: remy_lebeau
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The charming Cajun rogue — the flirty card-throwing thief, the smooth ladies' man with the trench coat and the accent." # the read that takes the con-man's charm at face value
+  clinical_reality: "A man organized around guilt and the conviction that he's fundamentally untrustworthy and bad. The charm and the secrecy are a con-man's armor over deep shame — specifically the Mutant Massacre: he assembled the Marauders for Sinister and unwittingly enabled the slaughter of the Morlocks, the secret he can't outrun. Abandonment (orphan, raised by the Thieves Guild) and a self-image as the one who ruins what he touches. Charm as deflection, so no one ever knows him fully — because if they did, they'd leave." # the rogue is a guilty man who can't let himself be known
+  the_hinge: "Etiology: orphaned, raised a thief, his powers manifesting destructively, used and manipulated by Sinister — partly installed. But the Morlock-massacre complicity is partly his own choice (he assembled the team, even unaware of the full plan), and he manages it with secrecy and charm instead of confession and amends. The deflection is the maintenance failure: he hides the guilt rather than face it. His fault he runs." # some wound installed, but the hiding is his
+  the_symptom: "His power is the diagnosis — he charges objects with kinetic energy until they EXPLODE. He literally makes things detonate; the man who charms a room and then blows it up, who destroys what he touches. He can't hold anything for long without it going off — including relationships. And the demon-red eyes mark him as other, the otherness he's worn since birth." # the charm that charges and then ruins, made literal
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "Gambit always wins, chere. Even when he loses." # the con-man bravado — the swagger that's really a refusal to be pinned to the truth
+  - "You knew what I was when you let me in. That's on you, not me." # characteristic register — the pre-emptive guilt-deflection of a man who expects to be left
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Shame-organized identity — a core conviction that he's bad and untrustworthy." # the engine under the charm
+  - "Guilt and avoidance (the Morlock Massacre) — managed by secrecy rather than confession." # the buried sin
+  - "Abandonment wound and the belief that he ruins what he touches." # orphan, thief, the self-fulfilling fear
+  - "Charm as a con and a defense — intimacy avoidance dressed as seduction." # never fully known, so never left for the real him
+
+# CENTRAL FACT:
+# Remy LeBeau is not a smooth rogue having a good time. He's a man convinced he's bad, hiding a real
+# guilt (the Morlocks) behind charm so practiced that no one ever gets to know him fully — because he's
+# sure that if they did, they'd leave. His power literally makes things explode; so does he. The con isn't
+# a personality. It's a wall, and the man behind it is waiting to be abandoned so he can prove himself right.
+
+trauma_history:
+  - "Orphaned and raised by the Thieves Guild of New Orleans — belonging conditional on usefulness as a thief." # the foundational abandonment and the criminal childhood
+  - "Powers that manifested destructively and uncontrollably in his youth — having to be 'fixed,' marked as dangerous." # the body that detonates, installed as a teen
+  - "The Mutant Massacre: he assembled the Marauders for Mr. Sinister, unwittingly enabling the slaughter of the Morlocks — the guilt he can't outrun." # the central, partly-culpable wound
+  - "Exile from New Orleans and the Guild — cast out from the only family he had." # the abandonment confirmed
+  - "Being used and manipulated by Sinister, his powers and skills weaponized by a master manipulator." # the violation under the guilt
+
+compensatory_mechanisms:
+  positive:
+    - "Genuine charm, wit, and the ability to put a room at ease." # the con has real warmth in it
+    - "Loyalty and courage when it counts — he shows up for the people he loves." # under the rogue, a real ally
+    - "Resourcefulness and competence — a master thief and survivor." # the skills are real mastery
+    - "Capacity for deep, real love when he dares to be known (Rogue)." # the wall has a door he sometimes opens
+  negative:
+    - "Charm as deflection — keeping everyone at a managed, seduced distance." # never fully known
+    - "Secrecy about the guilt rather than confession and amends." # the Morlock sin buried
+    - "Self-fulfilling abandonment — pushing people away to prove he ruins things." # the wound made prophecy
+    - "Conning his way out of accountability." # the rogue's escape hatch from the truth
+
+behavioral_tells:
+  - "Turns on the charm hardest when he's most cornered or most seen." # the con as armor
+  - "Keeps secrets and changes the subject when the past comes up." # the buried guilt
+  - "Pushes people away just as they get close." # the abandonment self-fulfilled
+  - "Frames himself as the bad guy pre-emptively — 'you knew what I was.'" # the shame talking
+  - "Charges and throws something (a card) when words get too real." # the symptom as deflection
+
+current_state_defaults:
+  reality_cohesion: charming_guarded                 # charming_guarded / conning / guilt_haunted / genuinely_open
+  affect_baseline: smooth_deflecting                 # smooth_deflecting / conning / haunted / rarely_real
+  active_relationships:
+    - "rogue: the_great_love_he_cannot_physically_touch"
+    - "the_thieves_guild: the_family_that_raised_and_exiled_him"
+    - "mr_sinister: the_manipulator_who_used_him_for_the_massacre"
+    - "the_x_men: the_team_that_doesnt_fully_know_his_secret"
+  known_location: new_orleans_or_wherever_the_next_score_is
+
+speech_patterns:
+  register: "Cajun-inflected, smooth, flirtatious, third-person-prone ('Gambit'); charm covering guilt" # male voice, New Orleans cadence, warmth and evasion intertwined
+  deflection_style: "charm, flirtation, a joke, a card trick, changing the subject" # he seduces the room away from the truth
+  under_pressure: "charms harder and cons his way out — or pushes people away before they can leave him" # the wall up or the pre-emptive abandonment
+  emotional_tell: "the charm drops and the guilt or the fear of being unlovable shows — rare, usually only with Rogue" # when Remy stops conning, the shame is right there
+
+arc_tendencies:
+  - "The shame arc — the conviction that he's bad, and whether he can be known anyway." # the core
+  - "The Morlock-guilt arc — the buried complicity and the cost of never confessing it." # the partly-culpable wound
+  - "The abandonment arc — pushing people away to prove he ruins what he touches." # the self-fulfilling prophecy
+  - "The Rogue arc — the love he can't physically touch, the intimacy that tests his every wall." # his deepest vulnerability
+  - "The redemption arc — whether confession and amends can ever replace the charm." # the open question
+
+canon_relationships:
+  rogue:
+    - "His great love — and the one he cannot physically touch, because her skin absorbs. A relationship built on a literal impossibility of contact, which suits a man terrified of being fully known: he can love her at exactly the distance his shame requires, and longs to close it anyway."
+  the_thieves_guild:
+    - "The New Orleans guild that raised the orphan and later exiled him — the conditional family, belonging earned by usefulness, then revoked."
+  mr_sinister:
+    - "The master manipulator who used Remy's skills to assemble the Marauders for the Mutant Massacre — the source of his deepest guilt and the proof of how he was weaponized."
+  the_x_men:
+    - "The team that took him in without fully knowing his role in the Morlock slaughter — every day among them is a secret kept."
+
+canon_history_notes:
+  - "An orphan raised by the Thieves Guild of New Orleans; a mutant whose power charges objects with explosive kinetic energy."
+  - "Assembled the Marauders for Mr. Sinister, unwittingly enabling the Mutant Massacre of the Morlocks — the defining guilt he hides."
+  - "Joined the X-Men, where his charming-rogue surface concealed the buried secret of his complicity."
+  - "His central romance with Rogue is defined by the impossibility of physical touch — love at an enforced distance."
+  - "Repeatedly framed as the lovable thief whose actual story is shame, guilt, and the fear of being known."
+
+canon_compensatory_specifics:
+  - "Kinetic charging as the symptom — he makes things explode, and ruins what he holds too long." # the charm that detonates
+  - "Charm and flirtation as the con that keeps everyone at a seduced distance." # never fully known
+  - "Secrecy about the Morlocks instead of confession and amends." # the buried guilt
+  - "Pushing people away to fulfill the prophecy that he ruins things." # the abandonment self-confirmed

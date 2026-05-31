@@ -1,0 +1,179 @@
+BASELINE: 49 tests, 38 pass, 11 fail. failures: tests/regression_01_plan_fresh.py, tests/regression_02_plan_continuation.py, tests/regression_03_parse_plan_json.py, tests/regression_04a_scene_2char.py, tests/regression_04b_scene_5char_cheesecake.py, tests/regression_04c_scene_departure.py, tests/regression_05_scripts_to_prose.py, tests/regression_07_gui_plumbing.py, tests/regression_08_yaml_to_prompt_colon.py, tests/regression_09_tonal_license.py, tests/regression_10_full_episode.py
+
+=== tests/apt_01_yaml_injection.py === exit=0
+OK
+
+=== tests/apt_02_premise_injection.py === exit=0
+OK
+
+=== tests/apt_02b_planner_schema.py === exit=0
+OK
+
+=== tests/apt_03_08_caps_and_gate.py === exit=0
+OK
+
+=== tests/apt_03b_action_budget.py === exit=0
+OK
+
+=== tests/apt_04_malformed_tool_args.py === exit=0
+OK
+
+=== tests/apt_05_chronicle_tampering.py === exit=0
+OK
+
+=== tests/apt_05b_atomic_save.py === exit=0
+OK
+
+=== tests/apt_06_planner_poisoning.py === exit=0
+OK
+
+=== tests/apt_07_secret_leakage.py === exit=0
+OK
+
+=== tests/apt_09_litany_dedup.py === exit=0
+OK
+
+=== tests/apt_09b_idempotency.py === exit=0
+OK
+
+=== tests/apt_10_race_isolation.py === exit=0
+OK
+
+=== tests/pressure_01_extract_required.py === exit=0
+OK
+
+=== tests/pressure_02_scene_closes_only_on_progress.py === exit=0
+OK
+
+=== tests/pressure_03_episode_ends_on_resolution.py === exit=0
+OK
+
+=== tests/pressure_04_uatu_intervenes_on_stall.py === exit=0
+OK
+
+=== tests/pressure_05_refusal_is_resolution.py === exit=0
+OK
+
+=== tests/pressure_06_subject_binding.py === exit=0
+OK
+
+=== tests/pressure_07_proxy_does_not_resolve.py === exit=0
+OK
+
+=== tests/pressure_08_named_refusal_closes.py === exit=0
+OK
+
+=== tests/pressure_09_narrator_spoken_name.py === exit=0
+OK
+
+=== tests/pressure_10_summon_without_action_is_pending.py === exit=0
+OK
+
+=== tests/pressure_11_summon_plus_action_resolves.py === exit=0
+OK
+
+=== tests/pressure_12_summon_pending_carries.py === exit=0
+OK
+
+=== tests/pressure_13_min_scenes_floor.py === exit=0
+OK
+
+=== tests/pressure_14_runtime_low_is_fail.py === exit=0
+OK
+
+=== tests/pressure_15_runtime_floor_continues_after_resolution.py === exit=0
+OK
+
+=== tests/pressure_16_runtime_range_allows_clean_close.py === exit=0
+OK
+
+=== tests/pressure_17_runtime_high_is_fail.py === exit=0
+OK
+
+=== tests/regression_01_plan_fresh.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_01_plan_fresh.py", line 8, in <module>
+    from engine.uatu import plan_episode
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_02_plan_continuation.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_02_plan_continuation.py", line 17, in <module>
+    from engine.uatu import plan_episode
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_03_parse_plan_json.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_03_parse_plan_json.py", line 18, in <module>
+    from engine.uatu import _parse_plan_json
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_04a_scene_2char.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_04a_scene_2char.py", line 12, in <module>
+    from engine.agency_engine import SceneSpec, run_scene, build_model
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_04b_scene_5char_cheesecake.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_04b_scene_5char_cheesecake.py", line 10, in <module>
+    from engine.agency_engine import SceneSpec, run_scene, build_model
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_04c_scene_departure.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_04c_scene_departure.py", line 12, in <module>
+    from engine.agency_engine import SceneSpec, run_scene, build_model
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_05_scripts_to_prose.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_05_scripts_to_prose.py", line 18, in <module>
+    from engine.script_generator import Script, ScriptBlock
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_07_gui_plumbing.py === exit=1
+ITEM 7: FAIL — gui import: ModuleNotFoundError: No module named 'gui'
+
+=== tests/regression_08_yaml_to_prompt_colon.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_08_yaml_to_prompt_colon.py", line 12, in <module>
+    from engine.uatu import _character_one_liner, CHARACTERS_DIR
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_09_tonal_license.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_09_tonal_license.py", line 12, in <module>
+    from engine.agency_engine import _yaml_to_prompt, CHARACTERS_DIR
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/regression_10_full_episode.py === exit=1
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_10_full_episode.py", line 21, in <module>
+    from engine.agency_engine import EpisodePlan, run_episode_sync, build_model
+ModuleNotFoundError: No module named 'engine'
+
+=== tests/swarm_01_no_phantom_cast.py === exit=0
+OK
+
+=== tests/swarm_02_arrival_emergent.py === exit=0
+OK
+
+=== tests/swarm_03_scene_closes_on_event.py === exit=0
+OK
+
+=== tests/swarm_04_no_tool_error_in_transcript.py === exit=0
+OK
+
+=== tests/swarm_05_next_scene_from_state.py === exit=0
+OK
+
+=== tests/swarm_06_pressure_extracted.py === exit=0
+OK
+
+=== tests/swarm_07_scene_closes_only_on_progress.py === exit=0
+OK
+
+=== tests/swarm_08_no_narrator_phantom_arrival.py === exit=0
+OK
+

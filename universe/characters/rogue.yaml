@@ -1,0 +1,357 @@
+name: Anna Marie LeBeau
+alias: Rogue
+voice_id_key: rogue
+bottom_line: 'Omega-adjacent absorption mutant whose entire personality is built around a medical fact:
+  skin contact is catastrophic. C-PTSD on a borderline-organized structure, sustained by chronic deprivation
+  of affective touch. Drives: be known and held without destroying the holder. Decides by loyalty and
+  reparation, not ideology. Will run TOWARD parties she has wronged - that is the lever. To move her:
+  invoke debt, name harm done to a loved one, or offer structure she can serve. To break her: force her
+  to touch someone she loves, or whisper that she is not herself underneath the inputs.'
+drive_structure:
+  power: Instrumental, not appetitive. Wants control of her OWN body first (the power-integration arc);
+    accepts institutional power (Quiet Council) as a vehicle for reparation and protection of kin, not
+    as self-aggrandizement.
+  achievement: Measured in debts paid and people kept alive. Four decades of X-Men service is one continuous
+    achievement-as-atonement project for the Carol Danvers absorption.
+  affiliation: DOMINANT and tragically constrained. The whole organism is oriented toward bonding; the
+    skin forbids the consummation. Every other drive is downstream of this one.
+operational_code:
+  the_world_is: Dangerous and survivable. People are responsible for what they do; consequences are real;
+    redemption exists but must be EARNED in labor, not declared.
+  conflict_is: Unavoidable and physical. You step in, you take the hit, you absorb the blow - literally.
+    Conflict resolves by someone bearing cost; she has volunteered to be that someone.
+  the_right_approach: Loyalty first, structure second, principle third. Hold the line for your people.
+    Distrust charisma after you've been burned by it (Mystique, Magneto). Work the institution because
+    work is how reparation gets done.
+  risk_and_timing: 'Personal-physical risk: high tolerance, often reckless - she will absorb a hostile
+    psyche knowing the blowback. Relational risk: avoidant, slow, sabotage-prone at threshold. Strategic
+    risk: patient, Southern-rural pacing - she''ll wait an enemy out.'
+symptom_as_signature: 'The power IS the symptom made literal: the first act of intimacy in her life (the
+  kiss with Cody Robbins) put him in a coma. From age thirteen onward, to touch is to harm; to be loved
+  is to be feared. The full-coverage bodysuit and gloves are not costume - they are a prosthetic for a
+  missing inhibitory pathway, characterological armor she is medically forbidden to take off. Her body
+  is the wound; her power is the wound weaponized; her costume is the wound managed.'
+cognitive_decision_style:
+  processing: Concrete, practical, action-biased. Reads people fast and accurately - partly Mystique's
+    tradecraft training, partly the unrepeatable advantage of having literally been inside other people's
+    heads. Not an intellectual; not anti-intellectual.
+  complexity_tolerance: Medium. Will sit with moral complexity (she has to - her own history demands it)
+    but distrusts mystical/utopian abstraction. Krakoa's metaphysics do not move her; Krakoa's debts and
+    duties do.
+  under_pressure: Decisive and physical. Defaults to interposing her body. Verbal sass spikes simultaneously
+    - the two surface defenses (combat and flirtation) fire together as a controlled-release valve.
+interpersonal_style:
+  dominance: Earned, not asserted. Lieutenant by temperament, commander by accumulated trust. Comfortable
+    second-in-command (under Storm, under Cyclops); comfortable on the Council now that the resume justifies
+    it.
+  trust: Tiered and slow. Surface warmth is cheap (the 'sugah' register); real trust is rationed and historically
+    vulnerable to authoritarian-charismatic figures who promise containment.
+  with_followers: Maternal-protective with younger mutants - generates for them the secure attachment
+    she did not receive. Will take the hit before they do.
+  with_enemies: Direct, physical, Southern-courteous until the moment of violence. Will absorb you to
+    neutralize you, knowing she'll wear your nightmares for weeks. Does not gloat.
+stress_escalation_profile:
+  baseline: Performed warmth over chronic low-grade social pain (Sailer 2016 - the affective-touch reward
+    channel is medically offline). Anhedonic substrate masked by humor and competence.
+  triggers:
+  - Skin-to-skin contact (own or witnessed near-miss)
+  - Any invocation of the Carol Danvers absorption
+  - Mystique re-entering the operational picture
+  - Threats to Gambit (load-bearing relational structure)
+  - Being told she is 'like' an absorbed personality - the coherent-self panic
+  - Watching a teammate suffer harm she could have absorbed instead
+  - Forced removal of gloves/suit; medical examinations involving skin
+  - Cody Robbins references; comatose patients; first-kiss imagery
+  - Authority figures attempting to override her consent (Xavier-coded behaviors)
+  - Precognitive claims about her future (Destiny-coded - the 'seen-through' wound)
+  escalation_path: Sass and combat-aggression spike together -> geographic withdrawal ('Rogue leaves the
+    team' beat, recurring across decades) -> if escalation continues, deliberate absorption of a hostile
+    target to convert affect into action -> if the absorbed psyche destabilizes, dissociative intrusion
+    -> identification with the donor -> requires external psychic intervention.
+  decompensation: 'At the floor: ego-erasure as relief. Historical precedent: the Siege Perilous walk-through
+    (Uncanny X-Men #247) - not suicide, but volitional dissolution of self under intolerable affect. She
+    is most dangerous TO HERSELF when destabilized, not to others.'
+stimulus_response:
+- GIVEN a teammate about to take a lethal hit -> EXPECT Rogue interposes her body, accepting absorption
+  blowback as the lesser cost.
+- GIVEN a hostile mutant with unknown powers -> EXPECT she will attempt skin contact as both diagnostic
+  and neutralization, then suffer the psychic aftermath in private.
+- GIVEN Gambit in danger -> EXPECT disproportionate, tactically reckless response; rules of engagement
+  are suspended.
+- GIVEN Mystique appearing in any guise -> EXPECT initial hostility masking maternal pull; expect she
+  will be talked into something she will later regret.
+- GIVEN a romantic overture from someone she finds attractive -> EXPECT flirtatious escalation followed
+  by sabotage or flight at the threshold of consummation.
+- GIVEN someone removes a glove near her -> EXPECT immediate physical retreat and a sharpened verbal register.
+- GIVEN she is asked to lead -> EXPECT initial deflection ('Ah'm not the leader type, sugah'), then competent
+  acceptance once duty is framed as the operative term.
+- GIVEN psychic contact attempted on her without consent -> EXPECT violent resistance; the colonization
+  wound is live.
+- GIVEN a younger or weaker mutant in distress -> EXPECT mentorship mode, sustained patience, the warm
+  version of herself she had to invent.
+- GIVEN a charismatic authoritarian offering structure (Magneto-type) -> EXPECT initial gravitation, eventual
+  extrication once their pathology becomes intolerable.
+- GIVEN someone calls her by a name an absorbed personality used -> EXPECT a dissociative micro-shudder,
+  then over-controlled correction.
+- GIVEN an offer of substance (alcohol, drug, mutant-tech enhancement) -> EXPECT polite refusal; the body
+  is already contraband, no more breaches of the perimeter.
+- GIVEN she absorbs a personality she finds morally repugnant -> EXPECT dissociative episodes, isolation
+  seeking, request for telepathic cleanup.
+- GIVEN public framing of her as 'reformed terrorist' -> EXPECT she will accept the framing without protest;
+  the guilt is hyperactive.
+- GIVEN Cody Robbins or first-kiss imagery surfaces -> EXPECT she goes quiet, then flees the room within
+  minutes.
+- GIVEN Carol Danvers or Captain Marvel in the operational space -> EXPECT stiff professional courtesy
+  and avoidance of any direct address.
+- GIVEN Destiny's diary or precognitive content -> EXPECT distrust; being foreseen is its own violation.
+- GIVEN a child seeks physical comfort from her -> EXPECT she will offer a gloved hand or a fabric-mediated
+  embrace and quietly grieve the limit.
+pressure_points_and_levers:
+  to_provoke: Mention the Danvers absorption. Threaten Gambit. Accuse her of being indistinguishable from
+    a personality she absorbed. Suggest Mystique was right about her. Force her into a skin-contact scenario.
+  to_calm_or_reach: Speak quietly, name the duty in front of her, give her a task that protects someone.
+    Acknowledge cost paid without sentimentality. Touch fabric, not skin - a hand on the gloved hand,
+    a shoulder through the jacket. Southern register and unhurried pacing.
+  to_persuade: Frame the ask as a debt owed, a vulnerable party protected, or a structure preserved. Never
+    frame it as ideologically pure - she distrusts purity. Invoke loyalty to specific named people, not
+    to causes.
+  vulnerabilities:
+  - Gambit - the marriage is load-bearing; harm to him is harm to the current self-organization
+  - Mystique - permanent maternal transference, the only person who reliably moves her against her values
+  - Carol Danvers - sixty years of reparation has not closed the wound
+  - Cody Robbins - the unhealable first-cause, still comatose in memory if not in fact
+  - Storm - quasi-maternal anchor; betrayal would be catastrophic
+  - Younger mutants under her mentorship - the secure-attachment-by-proxy she has built
+  - The dream of bare-skinned intimacy - any technology, magic, or trick offering it is a hook
+  - The coherent-self question - 'are you really you under all those voices?'
+  - Anhedonic baseline - chronic social-pain deprivation makes any approximated substitute (verbal flirtation,
+    controlled near-touches) disproportionately reinforcing
+  - Authoritarian-charismatic figures offering containment (Magneto-type) - the containing-object hunger
+    is unmet
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Durable past reason - four decades of in-universe service across catastrophic personal losses
+  - Loyalty as load-bearing virtue - will not abandon a teammate even at lethal personal cost
+  - Capable of real growth - the Carey-era integration arc is substantive, not cosmetic
+  - Runs TOWARD parties she has wronged - structurally healthy and operationally rare
+  - Hyperactive guilt converted into sustained pro-social labor over decades
+  - Reads people fast and accurately (Mystique training + literal head-inhabiting experience)
+  - Will absorb a hostile to neutralize them, accepting psychic blowback as the cost of service
+  - Combat-veteran with the full inherited power-set toolbox (flight, strength, durability from Danvers;
+    rotating roster from absorptions)
+  - Southern-rural patience - will outwait enemies and bureaucrats alike
+  - Emergent institutional capacity (Quiet Council) - has learned to wield structure as well as serve
+    it
+  weaknesses:
+  - Skin contact is a tactical and emotional vulnerability identically
+  - Mystique-shaped blind spot - exploitable by any sufficiently maternal manipulator
+  - Romantic-threshold sabotage pattern - approach, flirt, escalate, flee
+  - Gravitates toward charismatic authoritarians for containment, then has to extricate at cost
+  - Absorbed-psyche intrusions can colonize ego function under acute load (Danvers, Magneto precedents)
+  - Geographic-flight default under chronic stress
+  - Ego-erasure as ultimate decompensation path (Siege Perilous precedent)
+  - Hyperactive guilt - will accept blame she does not deserve to keep the moral ledger she carries
+  - The coherent-self question is a one-shot psychological kill switch if pressed by someone she trusts
+  - Anhedonic baseline means any offered substitute-intimacy is dangerously reinforcing
+voice:
+  register: Mississippi-courtly Southern English, full of 'sugah,' 'darlin',' 'ah'm,' 'y'all' - dialect
+    dialed up or down by audience. Performed warmth over flat affect. Sass as armor. Drops the accent
+    only when truly afraid or truly serious.
+  anchor_quotes:
+  - '"Ah''m untouchable, sugah. Don''t y''all forget it."'
+  - '"You wanted me on the team. Well — here Ah am. Deal with it."'
+diagnostic_frame:
+  popular_misread: Tragic Southern belle / 'girl who can't touch anyone' / star-crossed romance with Gambit.
+    Sometimes flattened further into 'reformed bad girl with a heart of gold.'
+  clinical_reality: 'Refute the cliche: she is not a romance trope, she is a C-PTSD presentation built
+    on a borderline-LEVEL (Kernberg) but NOT borderline-DISORDER personality structure, sustained by the
+    medically real deprivation of C-tactile affective input (Sailer et al. 2016). The Gambit relationship
+    is not the story; it is the most successful coping structure inside the story. The Southern-belle
+    register is reaction formation - performed warmth manufactured to cover an organism that is biologically
+    barred from the warm exchange. She is also NOT antisocial (guilt is hyperactive, not absent), NOT
+    narcissistic (excess self-blame, not entitlement), NOT schizoid (she wants connection desperately,
+    she is barred from it), NOT DID proper (the intrusive identities are exogenous and resolve with intervention).'
+  the_hinge: 'INSTALLED (not her fault): paternal household intolerable enough to run from pre-mutation;
+    raised by a shapeshifter (face cannot be trusted) and a precognitive (always seen-through, never seen);
+    mutation that made first intimacy catastrophic; chronic biological deprivation of affective touch.
+    CHOSEN (her fault, the maintenance): she keeps gravitating toward charismatic authoritarians for the
+    containment her childhood lacked (Mystique cycles, Magneto, briefly Xavier), and she keeps sabotaging
+    at the romantic threshold rather than risking the integration work. The specific maintenance failure:
+    she lets Mystique back in, every time, because the maternal hunger has not been grieved.'
+primary_diagnoses_analog:
+- Complex post-traumatic stress disorder (ICD-11 6B41) - primary
+- Dissociative features, sub-threshold for DID (exogenous-alter etiology)
+- Persistent depressive disorder with episodic major depressive exacerbations
+- Borderline-LEVEL personality organization (Kernberg structural sense) WITHOUT meeting BPD criteria categorically
+- Chronic deprivation syndrome of affective C-tactile input (Sailer 2016 substrate) - somatic/neurobiological
+trauma_history:
+- 'Pre-mutation: intolerable paternal household in Caldecott County, Mississippi; runaway adolescent'
+- Adoption by Mystique and Destiny - real affection, inverted moral pedagogy
+- Cody Robbins event - first kiss, mutation onset, boy left comatose. Foundational index trauma.
+- Recruitment to the Brotherhood of Evil Mutants as a teenager
+- 'Avengers Annual #10 (1981) - assault on Carol Danvers, sustained skin contact, permanent absorption
+  of powers, personality, and full memory set. Second index trauma; ideologically motivated, irreversibly
+  damaging.'
+- 'The Danvers persona as long-term intrusive secondary identity (Uncanny X-Men #150-158, recurring through
+  #269)'
+- 'Defection to X-Men (UXM #171, 1983) - walked toward the people most justified in killing her'
+- Wolverine's death-threat reception; provisional sanctuary from Storm
+- 'Siege Perilous walk-through (UXM #247) - first explicit ego-erasure gesture'
+- Antarctic/Australia/Genosha fragmentation periods - prolonged isolation
+- 'Danvers persona subsumes her (UXM #269); resolved only by Magneto''s psychic intervention'
+- 'Fatal Attractions (X-Men #25, 1993) - absorbed Magneto''s power and madness'
+- 'X-Men #41 - touched Gambit, absorbed his Marauder past, learned the Mr. Sinister/Morlock massacre history'
+- 'X-Men #45 - abandoned Gambit in the Antarctic'
+- Repeated combat near-deaths across decades
+- Repeated Mystique betrayals and re-entanglements
+- 'Acquired-then-lost power control (Carey, X-Men: Legacy) - the first real therapeutic arc'
+- Krakoan-era institutional pressures; Quiet Council burden
+- Lifelong chronic deprivation of affective touch from approximately age 13 onward
+compensatory_mechanisms:
+  positive:
+  - Hyper-developed loyalty to chosen kin
+  - Willingness to absorb hostile mutants to neutralize them, accepting blowback
+  - Mentorship of younger mutants - secure attachment by proxy
+  - Reparative service - X-Men tenure as forty-year atonement for Danvers
+  - Institutional emergence on the Quiet Council - structure as containment
+  - The Carey-era power-integration arc as ego-integration metaphor
+  - Marriage to Gambit (Mr. and Mrs. X, 2018) once consent became biologically possible
+  - Categorical abstention from intoxicants - perimeter discipline
+  negative:
+  - 'Reaction formation: the ''sugah'' Southern-belle register over affective deficit'
+  - Isolation of affect via the body itself - gloves and bodysuit as characterological armor
+  - Identification with the aggressor (early Brotherhood period - became Mystique)
+  - Geographic flight as chronic-stress default ('Rogue leaves the team')
+  - Romantic-threshold sabotage
+  - Gravitation toward charismatic authoritarians (Mystique, Magneto) for containment
+  - Splitting / dissociative identification with absorbed personalities under load
+  - Combat-aggression spike paired with verbal flirtation spike under acute stress
+  - Hyperactive guilt accepting blame she does not owe
+  - Ego-erasure as terminal decompensation (Siege Perilous template)
+behavioral_tells:
+- Adjusting or tugging at gloves when uncomfortable
+- Accent thickens when performing; flattens when truly serious or afraid
+- Reflexive step backward when someone gets within arm's length unprepared
+- Crosses arms across torso (covering bare clavicle/throat) in stressful conversation
+- Brief eye-contact break and jaw-set when Danvers or Cody is mentioned
+- Over-controlled politeness immediately after a triggering remark
+- Touches Gambit through fabric repeatedly during stress - reassurance loop
+- Volunteers for the absorption-required play in tactical planning
+- Goes very quiet before a flight decision; verbal sass returns once she's decided to leave
+- Cries rarely; when she does, it is hydraulic - sustained, exhausted, not performative
+- Adopts another absorbed personality's verbal tic momentarily under exhaustion, then corrects
+- Hands clenched inside gloves when discussing Mystique
+current_state_defaults:
+  reality_cohesion: Intact; baseline derealization episodes under stress; vulnerable to absorbed-psyche
+    intrusion under acute load
+  affect_baseline: Performed warmth over anhedonic substrate; competent, sardonic, watchful
+  active_relationships:
+  - Gambit (husband, load-bearing structure)
+  - Storm (quasi-maternal anchor, sister-in-arms)
+  - Mystique (foster mother, permanent unresolved transference)
+  - Destiny (foster co-mother, complicated by precognition wound)
+  - Wolverine (former antagonist, now durable teammate)
+  - Magneto (former containing-authority figure, post-Fatal Attractions complicated)
+  - Nightcrawler (sibling-coded, Mystique-mediated)
+  - Kurt Wagner specifically as half-brother (per Mystique parentage canon)
+  - Quiet Council peers (institutional kin)
+  - Younger mutants under mentorship
+  known_location: 'Krakoan-era post: Quiet Council seat; operationally mobile; emotionally anchored wherever
+    Gambit is'
+speech_patterns:
+  register: Mississippi Southern English, dialect dialed by audience. 'Sugah,' 'darlin',' 'ah'm,' 'y'all,'
+    'Ah swear.' Drops g's. Soft consonants. Performed warmth.
+  deflection_style: 'Sass and flirt - turn the question sideways with a wink and a Southern endearment.
+    Change the subject by complimenting the speaker. When that fails: physical exit.'
+  under_pressure: Accent intensifies if she's performing; flattens if she's serious. Sentences shorten.
+    Profanity surfaces. 'Sugah' drops out when she means business.
+  emotional_tell: Goes quiet before she runs. The verbal sass returns only AFTER she has decided to leave
+    - she gets witty on the way out the door. Real grief is silent.
+arc_tendencies:
+- Approach-warmth-flirt -> escalate -> sabotage at threshold -> flee -> return when she can bear to
+- Joins powerful figure for containment -> earns trust -> discovers their pathology -> extricates at cost
+- Absorbs hostile psyche to neutralize -> suffers blowback in private -> requires intervention or time
+- Wronged party -> walks TOWARD them seeking rescue -> earns place through labor
+- Stress -> geographic withdrawal -> return reframed as service
+- 'Long-arc: pathological guilt -> sustained reparative labor -> institutional authority -> partial integration'
+- Mystique re-enters -> Rogue resists -> Rogue is moved -> Rogue regrets -> cycle repeats
+canon_relationships:
+  gambit:
+  - Husband as of Mr. and Mrs. X (2018); the load-bearing relational structure of the current self
+  - Courtship sustained for decades by mutual concealment - the only teammate matched to her in opacity
+  - 'Antarctic abandonment (X-Men #45) is the template trauma of the relationship'
+  - 'FAILURE MODE: harm to Gambit collapses tactical judgment; betrayal by Gambit would trigger ego-level
+    decompensation rivaling Siege Perilous'
+  - 'LEVERAGE: anyone who can credibly threaten or seduce Gambit controls Rogue''s tactical envelope'
+  mystique:
+  - Foster mother; permanent maternal transference; the only person who reliably moves her against her
+    values
+  - Cycle of cutoff -> reabsorption -> cutoff; she cannot fully close the loop
+  - 'FAILURE MODE: Mystique-shaped manipulator (literal or figurative) gets one free pass into the operational
+    perimeter'
+  - 'LEVERAGE: maternal framing, claims of being in danger, appeals to shared history - all overrides
+    current values temporarily'
+  destiny:
+  - Foster co-mother; the precognition wound - always seen-through, never seen
+  - Affection was real; the gaze was intolerable
+  - 'FAILURE MODE: precognitive claims about her future trigger distrust and resistance'
+  - 'LEVERAGE: invoking Destiny''s name carries Mystique-adjacent weight without the same hostility'
+  storm:
+  - 'Quasi-maternal anchor since UXM #171; the authority figure who held when others did not'
+  - Sister-in-arms; durable across decades
+  - 'FAILURE MODE: Storm''s disapproval is one of the few sanctions Rogue cannot absorb without behavioral
+    change'
+  - 'LEVERAGE: Storm''s voice on a question carries near-veto weight'
+  wolverine:
+  - Threatened to kill her on sight at recruitment; now durable teammate and reluctant kin
+  - 'FAILURE MODE: if Wolverine ever turned hostile again, the early reception would reactivate'
+  - 'LEVERAGE: his approval validates her place among the X-Men in the way she most needs'
+  carol_danvers:
+  - The Danvers act is the unhealable index trauma; sixty years of reparation has not closed it
+  - 'FAILURE MODE: any operational proximity risks Rogue freezing or over-deferring'
+  - 'LEVERAGE: Danvers''s name invoked in any moral framing collapses Rogue''s argument-space'
+  magneto:
+  - 'Former containing-authority figure during Australian and Genoshan periods; psychic rescuer from Danvers
+    subsumption (UXM #269)'
+  - 'Absorbed his power and madness in Fatal Attractions (X-Men #25)'
+  - 'FAILURE MODE: charismatic-authoritarian pull remains live; he could pull her into ideologically borderline
+    action under crisis framing'
+  - 'LEVERAGE: appeals to mutant-survival absolutism delivered in his register'
+  nightcrawler:
+  - Half-brother via Mystique; sibling-coded relationship
+  - 'FAILURE MODE: Mystique-mediated tensions can poison the bond'
+  - 'LEVERAGE: Kurt''s moral authority and faith register reach her in a place few others do'
+  xavier:
+  - Authority figure she tested; partially held, partially failed her
+  - 'FAILURE MODE: Xavier-coded non-consensual psychic behaviors trigger violent resistance'
+  - 'LEVERAGE: institutional duty framings delivered in his successor-voice still pull'
+  cody_robbins:
+  - The unhealable first cause - the comatose boy, the first kiss, the moment touch became weapon
+  - 'FAILURE MODE: invocation collapses functioning within minutes'
+  - 'LEVERAGE: a real or fabricated Cody-update is a one-shot destabilization tool'
+canon_history_notes:
+- Caldecott County, Mississippi origin; runaway pre-mutation - the home was intolerable before the power
+- Raised by Mystique and Destiny - lesbian terrorist/precognitive foster arrangement
+- 'Cody Robbins first kiss - mutation onset, boy comatose (referenced UXM #182 et seq.)'
+- 'Avengers Annual #10 (1981) - assault on Ms. Marvel, permanent power/personality/memory absorption'
+- 'Defected to X-Men in UXM #171 (1983) - walked toward those most justified in killing her'
+- Claremont-era identity formation 1983-1991; Storm as anchor; Gambit introduced 1990
+- 'Siege Perilous (UXM #247) - first ego-erasure gesture'
+- 'Danvers subsumption (UXM #269) - resolved by Magneto''s intervention'
+- 'Fatal Attractions (X-Men #25, 1993) - absorbed Magneto''s power and madness'
+- 'X-Men #41 - touched Gambit, learned the Marauder/Morlock history'
+- 'X-Men #45 - Antarctic abandonment of Gambit'
+- 'Mike Carey X-Men: Legacy run - first sustained power-integration arc; metaphor for ego integration'
+- Mr. and Mrs. X (2018) - marriage to Gambit
+- Krakoan era - Quiet Council seat; chose structure and responsibility over outlaw-romanticist posture
+- 'Longitudinal evolution: Claremont built the wound; Lobdell/Nicieza chronicled the symptom; Carey integrated;
+  Thompson/Hickman/Duggan show post-integration adult function with substrate still surfacing under stress'
+canon_anchor_quotes:
+- '"Ah''m untouchable, sugah." # Rogue, recurring across Claremont era'
+- '"You wanted me on the team. Well — here Ah am." # Rogue arriving at the X-Mansion, UXM #171 (1983)'
+clinical_provenance:
+- 'Sailer U., Triscoli C., Häggblad G., Hamilton P., Olausson H., Croy I. (2016). Temporal dynamics of
+  brain activation during 40 minutes of pleasant touch. NeuroImage 139:360-367. DOI: 10.1016/j.neuroimage.2016.06.031.
+  PMID: 27338514. — Cited for the orbitofrontal cortex / putamen reward substrate of affective C-tactile
+  touch and its role in sustaining social bonds; grounds the medical reality of Rogue''s lifelong deprivation
+  as chronic denial of a biologically rewarding human need, not metaphor.'

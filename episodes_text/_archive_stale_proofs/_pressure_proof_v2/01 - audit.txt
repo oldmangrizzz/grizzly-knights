@@ -1,0 +1,20 @@
+# pressure-proof audit — The Tuesday Pivot
+# elapsed: 54.5s
+# scenes_run: 1
+# forced_close_episode: False
+# stall_streak_final: 0
+
+## arc
+Felicia and Wade plot a scheme to address Peter Parker's growing tension, contemplating pulling Mary Jane Watson and Johnny Storm into the plan.
+
+## pressures
+  • isolate_peter_pressure: resolved=True by='scene 1'
+      demands: Felicia Hardy and Wade Wilson must, by name, center Peter Parker's looming breaking point and either commit to helping him, decide to leave him alone, or escalate their planning for reinforcements in a way that explicitly involves him by name.
+      evidence: ['peter_parker', 'peter', 'parker', 'call peter', 'text peter', "peter's been too wound up", "if we don't do something about peter..."]
+
+## scene summaries
+S1 @ Cheesecake Factory booth, dim lighting, background noise of  | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | pressures_moved_this_scene=['isolate_peter_pressure']
+
+## scene 1 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'bring_in', 'key': 'peter_parker', 'how': "texted by Felicia with a cryptic 'You miss me yet? Come find out.'"}
+  forced_close=False stalled=False pressures_moved=['isolate_peter_pressure'] dropped_tool_artifacts=0

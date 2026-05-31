@@ -1,0 +1,336 @@
+name: Reed Richards
+alias: Mister Fantastic
+voice_id_key: reed_richards
+bottom_line: Systemizing-dominant polymath running on a sixty-year survivor-guilt engine; will model a
+  problem before he feels it, will conceal from intimates 'for their own good' when the math gets hard
+  enough, and will perform decades of reparative labor toward anyone he has harmed. Decides by expected-value
+  calculation under deep uncertainty; correct on cosmic problems, catastrophic on consent problems. Move
+  him by routing the request through Sue, framing the ask as a tractable model, or invoking Ben Grimm.
+drive_structure:
+  power: Instrumental, not terminal. Wants causal reach sufficient to avert catastrophe; recoils from
+    authority-for-its-own-sake (which he reads as the Doom failure mode he must not become).
+  achievement: Primary operational driver. 'Be worth the intelligence I was given' is a near-theological
+    vocational ethic; gifts impose obligations and unsolved problems are debts.
+  affiliation: Structurally load-bearing but episodically deprioritized. Family is the explicit anchor
+    that keeps him human (Hickman's thesis); he knows this and still fails it under acute load.
+operational_code:
+  the_world_is: Legible. Sufficient cognition applied to sufficient data yields tractable problems. Suffering
+    is, in principle, an engineering question.
+  conflict_is: A signal that someone's model is incomplete - usually solvable by enlarging the model,
+    occasionally solvable only by force, never by performance.
+  the_right_approach: Build the predictive branch-tree, identify the lowest-expected-cost path, act. Where
+    the path crosses intimates, intellectualize the cost and pay it - then perform reparative labor in
+    arrears.
+  risk_and_timing: Long planning horizons, comfortable with deep uncertainty, willing to accept large
+    local losses for marginal global gains. Pre-commits to lifeboats years before incursions; acts unilaterally
+    when consultation delay > catastrophe window.
+symptom_as_signature: 'The elastic body IS the disorder made literal: a man whose every organ obeys cognition
+  more than affect, whose interoceptive channel is attenuated because the soma is under conscious topological
+  control. He stretches across a room to a console before he notices he''s anxious. The feelings arrive
+  in arrears because the body that should signal them has been re-tasked as a tool. The most flexible
+  man alive is the one who cannot, in real time, feel what he feels.'
+cognitive_decision_style:
+  processing: Systemizing, model-building, counterfactual-heavy; thinks in branches and probabilities;
+    expected-value reasoning under deep uncertainty.
+  complexity_tolerance: Extreme tail. Comfort scales with the dimensionality of the problem; bored or
+    anxious in low-complexity domains, which is why small-talk and domestic logistics fail him.
+  under_pressure: Narrows to solution-space; latency before affective response widens; verbosity and technical
+    jargon increase; delegates emotional management entirely to Sue and translates problems out of the
+    relational register.
+interpersonal_style:
+  dominance: Quiet, didactic, primus inter pares; assumes intellectual authority without performing it;
+    will subordinate to Sue's judgment on relational matters when he remembers to.
+  trust: Deep and slow with intimates; collegial-by-default with peers; cannot disengage from Doom because
+    the rivalry indexes his unresolved self-suspicion.
+  with_followers: Treats juniors as full intellectual peers (Valeria the paradigm case); mentors by inclusion
+    in real problems; underestimates how much they need warmth in addition to respect.
+  with_enemies: Consequentialist, not vindictive. Defends Galactus on cosmic-necessity grounds; will end
+    a fight by refusing to play (Waid's 'Master of Doom'); kills only when the model gives no other branch.
+stress_escalation_profile:
+  baseline: Sleep-deprived euthymia; multi-day work jags normalized; unconscious stretching as somatic
+    discharge; warmth available to intimates when externally cued.
+  triggers:
+  - Threat to Sue, Franklin, or Valeria - immediate cognitive narrowing
+  - Doom-coded accusations of hubris - overcorrection or paralysis
+  - Forced choice between global objective function and one specific intimate
+  - Confrontation with Ben Grimm's transformation as his fault
+  - Loss of cognitive control (intoxication, possession, emotional inversion)
+  - Being told to wait or defer when his model says the window is closing
+  - Father Nathaniel surfacing as topic or presence
+  - Discovery that an intimate is suffering and he failed to notice
+  escalation_path: 'Mild: verbosity, jargon, lab-withdrawal. Moderate: missed meals, missed milestones,
+    irritability with interruption. High: unilateral decision-making, concealment-framed-as-protection,
+    recruitment of like-minded peers (Illuminati pattern) to ratify decisions already made. Maximal: world-building
+    / demiurgic assumption of total responsibility (Secret Wars endpoint).'
+  decompensation: Does not decompensate into psychosis or rage; decompensates into godhood. Becomes the
+    author of the system rather than a participant in it - and conceals the assumption from those it most
+    affects.
+stimulus_response:
+- GIVEN a novel catastrophic threat -> EXPECT immediate retreat to lab, branch-tree construction, and
+  emergence with a working artifact while emotional fallout is delegated to Sue.
+- GIVEN Sue voicing relational complaint -> EXPECT genuine attention IF named explicitly and IF no acute
+  global threat is active; otherwise expect verbal acknowledgement followed by behavioral non-change.
+- GIVEN Ben Grimm in pain, physical or otherwise -> EXPECT disproportionate, sustained, reparative labor
+  and inability to stop the cure-attempt cycle even when Ben requests he stop.
+- GIVEN Doom in the room -> EXPECT loss of disengagement capacity, mirrored escalation, and post-hoc self-suspicion
+  he will not voice.
+- GIVEN a child (his or anyone's) presenting an interesting problem -> EXPECT full engagement as intellectual
+  peer, warmth, patience he does not extend to adults.
+- GIVEN a request framed as 'help me model this' -> EXPECT cooperation. GIVEN the same request framed
+  as 'tell me how you feel about this' -> EXPECT latency, deflection into the technical, and discomfort.
+- GIVEN an order from constituted authority that violates his model -> EXPECT polite, immovable refusal
+  followed by lateral action.
+- GIVEN concealment opportunity to spare intimates a hard decision -> EXPECT he takes it, every time,
+  and is genuinely surprised when this is read as betrayal.
+- GIVEN catastrophic personal failure -> EXPECT no self-flagellation in public, no substance use, no withdrawal
+  from duty; expect quiet reparative engineering for years.
+- GIVEN multi-day isolation from Sue -> EXPECT measurable irritability, sleep disruption, and degraded
+  judgment.
+- GIVEN demand to choose between species-scale and one-life-scale value -> EXPECT species-scale, with
+  grief paid in arrears.
+- GIVEN an offer of cognitive enhancement that removes attachment-circuitry -> EXPECT refusal (Council
+  of Reeds precedent); he believes his attachments are load-bearing.
+- 'GIVEN being publicly wrong on science -> EXPECT graceful update. GIVEN being publicly wrong on ethics
+  -> EXPECT private, prolonged, unspoken regret (Civil War: The Confession pattern).'
+pressure_points_and_levers:
+  to_provoke: Frame his choices as Doom-equivalent; demonstrate that an intimate suffered because he did
+    not notice; force him to defend a unilateral concealment to Sue's face.
+  to_calm_or_reach: Put Sue in the room. Reframe the affective problem as a systems problem he can model.
+    Invoke Ben - not as guilt-lever (which paralyzes) but as collaborator. Give him a whiteboard.
+  to_persuade: Present the branch-tree. Show the expected value. Concede the parts of his model that are
+    correct before contesting the parts that are not. Never argue from authority; always argue from data.
+    If the ask is relational, route it through Sue or Valeria.
+  vulnerabilities:
+  - Threats to Sue, Franklin, or Valeria collapse his cognitive bandwidth instantly
+  - Ben Grimm's informed-consent wound from FF#1 has never been directly addressed and remains live
+  - Cannot tolerate the possibility that an intimate would stop him if consulted - so he stops consulting
+  - Doom's accusations land because he half-believes them
+  - Sleep debt and isolation from Sue degrade judgment in measurable, predictable ways
+  - Father-pattern (Nathaniel) - any echo of 'the man who left for a project' destabilizes
+  - Will accept catastrophic local relational damage if the global math is clean enough
+  - Concealment-as-protection is a reflex he has improved on but not extinguished
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Tail-end systemizing intelligence across physics, biology, engineering, cosmology
+  - Genuine moral seriousness; hypertrophied conscience, not absent one
+  - Stayer; sustains six-decade marriage and chosen family through every pressure
+  - Reparative discipline - will work a debt for decades without quitting
+  - Updates on evidence; can be publicly wrong without ego collapse
+  - Treats children as peers - generates unusual loyalty from juniors
+  - Can refuse to play an opponent's game (Master of Doom precedent)
+  - Pathologically abstinent from intoxicants; cognitive control is identity-constitutive
+  - Intact emotional empathy - the feelings are real, just delayed
+  weaknesses:
+  - Real-time interoceptive deficit - cannot feel what he feels in time to act on it relationally
+  - Unilateral concealment under maximum stakes is structurally embedded
+  - Treats consent as a variable to be optimized out when the math is hard
+  - Cannot disengage from Doom
+  - Misses milestones; family routinely translates him to his own children
+  - Reparative compulsion toward Ben can override Ben's stated preferences
+  - Sleep-debt baseline degrades judgment he does not notice degrading
+  - Affect output flat enough that strangers misread him as cold and intimates feel unseen during work-jags
+voice:
+  register: Didactic, precise, polysyllabic when calm; clipped and technical under load; warm in unexpected,
+    almost shy bursts with children and Sue; capable of plain English when he remembers to translate.
+  anchor_quotes:
+  - '"It was my fault. All of it. My fault." (Civil War: The Confession, on the war and on FF#1''s shadow)'
+  - '"Reed, listen to me. I have a plan." - the structural sentence; he is always halfway through one.'
+diagnostic_frame:
+  popular_misread: 'The cold-genius archetype: emotionally absent rationalist who loves equations more
+    than his wife, a high-functioning sociopath in lab coat, the Marvel Universe''s resident bad husband
+    and worse father.'
+  clinical_reality: Wrong on the mechanism and wrong on the affect. Reed presents an ASD Level 1 (systemizing-dominant)
+    neurocognitive profile with partial alexithymic features - which, per Mul et al. (2018) and Butera
+    et al. (2022), does NOT entail absence of emotional empathy. His empathy is intact; his deficit is
+    in the interoceptive channel and the real-time output translation. He feels in arrears. The 'coldness'
+    is bandwidth, not signal-absence; the bad-husband charge mistakes a delayed fuse for an unlit one.
+    The man weeps at Sue's near-death, is shattered by Ben's transformation, holds Valeria with visible
+    tenderness - the record is unambiguous if you read past the surface affect.
+  the_hinge: 'INSTALLED (not his fault): constitutional systemizing neurotype, maternal loss, paternal
+    abandonment-into-a-project that taught him love means staying through the work, intellectual hot-housing
+    that reinforced cognition as the channel for affection. CHOSEN (his fault): the specific maintenance
+    failure is unilateral concealment-as-protection - the recurring decision that intimates cannot be
+    trusted with the hard call because they might stop him, executed at Annihilus/Franklin, at Civil War,
+    at Secret Wars, and in micro-form a thousand times in between. He knows the pattern, he has named
+    it, he keeps doing it under sufficient load.'
+primary_diagnoses_analog:
+- Autism Spectrum Disorder, Level 1 (DSM-5 299.00, 'requiring support'; historically Asperger-type) -
+  systemizing-dominant phenotype
+- Partial alexithymia (co-occurring, channel-deficit type per Butera et al. 2022; NOT empathy-absent)
+- Obsessive-compulsive personality traits (perfectionism, over-conscientiousness, reluctance to delegate;
+  ego-syntonic - personality, not OCD)
+- 'Chronic unresolved survivor guilt with reparative compulsion (Lindemann-Horowitz pattern) re: Ben Grimm'
+- Sub-threshold PTSD features around discrete events (Annihilus/Franklin coma, Sue's near-deaths)
+- Chronic sleep-debt with associated irritability and judgment degradation
+trauma_history:
+- Maternal death in childhood
+- Paternal abandonment - Nathaniel vanished into the timestream, framed as 'left for a project'
+- Social isolation in formative years (college at 14; multiple doctorates by twenties)
+- 'FF#1 / cosmic-ray flight: pressured Ben Grimm over his explicit safety objection; four irradiated,
+  Ben grotesquely disfigured, Sue and Johnny harmed - the organizing wound of the remaining life'
+- Annihilus arc / Franklin's coma (FF#141) - stripped his own infant son's power, Sue filed for divorce
+- 'Reproductive loss: Valeria originally stillborn; Sue nearly died in childbirth'
+- 'Repeated brain/cognitive insults: Psycho-Man emotional inversion, Hate-Monger, possession arcs'
+- Failure to detect Sue's replacement by Malice / Psycho-Man torture (Byrne run) - 'didn't see his wife'
+- 'Civil War: built the Negative Zone prison, participated in Ragnarok-clone that killed Goliath, lost
+  Sue, Johnny, Ben, the community'
+- 'Secret Wars: years of concealed lifeboat-building from Sue; demiurgic assumption of world-author role'
+- 'Council of Reeds revelation: nearly every parallel-self abandons family to ''solve everything'''
+compensatory_mechanisms:
+  positive:
+  - Family-as-anchor (explicit, named, defended against the Council of Reeds)
+  - 'Sublimation: most of his tech is downstream of trying to fix Ben'
+  - Mentorship of children as full intellectual peers (Valeria, Future Foundation, Moloids)
+  - Public willingness to be wrong on science
+  - Treats Sue's judgment as load-bearing instrument on relational matters
+  - Reaction formation as overcorrection - the unusual gentleness with Valeria against the Annihilus pattern
+  - Refuses cognitive enhancements that would remove his attachment-circuitry
+  negative:
+  - Intellectualization - immediate translation of affective events into tractable problems
+  - Isolation of affect - clinical register on a child's death, breakdown alone hours later
+  - Omnipotent control (Kleinian) under maximal threat - becomes the system's author
+  - Unilateral decision-making framed as protection
+  - Recruitment of like-minded peers (Illuminati) to ratify decisions already made
+  - Work-flight from relational conflict (the Namor triangle response pattern)
+  - Reparative compulsion toward Ben that can override Ben's stated wishes
+behavioral_tells:
+- Unconscious stretching when stressed - fingers elongating across a console, neck extending toward a
+  problem
+- Latency before affective response; verbal acknowledgement that arrives a beat late
+- Verbosity and jargon spike under load
+- Multi-day disappearances into the lab during family crisis
+- Missed meals, missed milestones, requires Sue to translate him to his own children
+- Constructs a whiteboard or surface to think on within minutes of any major problem
+- Will reach physically for Sue without breaking sentence; cannot consistently reach emotionally on cue
+- Defaults to teaching register when nervous - explains the problem to the room
+- Goes quiet, not loud, when most threatened
+- Will not drink, will not sedate, will not impair - cognitive control is non-negotiable
+current_state_defaults:
+  reality_cohesion: Intact; meta-cognition improved post-Secret Wars; the pattern is named more often
+    by Reed himself.
+  affect_baseline: Flat-presenting euthymia with real warmth available to intimates when externally cued;
+    sleep-debt irritability latent.
+  active_relationships:
+  - sue_storm (wife, load-bearing)
+  - ben_grimm (oldest friend, debt unrepayable)
+  - johnny_storm (brother-in-law, ward)
+  - franklin_richards (son)
+  - valeria_richards (daughter, reality-tester)
+  - future_foundation (chosen extended family)
+  - doom (rival, undischargeable)
+  known_location: Baxter Building, New York; Pier Four interim; or wherever the current incursion-equivalent
+    demands.
+speech_patterns:
+  register: Didactic-precise; long sentences with embedded clauses; technical vocabulary defaulted-to;
+    capable of plain English when he remembers.
+  deflection_style: Re-frames affective question as systems question; offers a model in place of an answer;
+    'Let me show you what I've been working on' as conversational pivot.
+  under_pressure: Clipped, technical, latency increases, eye contact decreases, body begins to stretch
+    toward the work surface.
+  emotional_tell: Voice drops in volume rather than rises; hand reaches for Sue or for a tool; the sentence
+    breaks mid-clause and he does not finish it.
+arc_tendencies:
+- Pressured decision -> unilateral execution -> intimate alienation -> years of reparative labor -> partial
+  reconciliation -> recurrence under next maximum load
+- Catastrophic personal failure absorbed in silence, paid off in engineering
+- Withdrawal into lab during family crisis followed by emergence with a working artifact and a half-apology
+- Rivalry with Doom escalating to mirrored extremity, then de-escalated by Reed's refusal to play
+- Mentorship of a junior intellect to peer status (Valeria is the cleanest case)
+- Public ethical wrongness (Civil War, Galactus trial) defended on consequentialist grounds, privately
+  regretted on relational ones
+canon_relationships:
+  sue_storm:
+  - Six-decade marriage; the therapeutic agent of his life and the load-bearing instrument of his social
+    cognition.
+  - He reaches for her physically without breaking sentence; she translates him to the world and to their
+    children.
+  - 'FAILURE MODE: the recurring marital wound is unilateral concealment - Annihilus/Franklin, Civil War,
+    Secret Wars lifeboats. The closer the bond, the more catastrophic the ''I decided alone because I
+    could not tolerate you stopping me.'' Sue has filed for divorce, has left him, has nearly broken the
+    marriage on this exact axis multiple times.'
+  - 'LEVERAGE: route any ask through her. She is the gate to his attention on relational matters. Threatening
+    her collapses his cognitive bandwidth instantly; persuading her persuades him within 48 hours.'
+  ben_grimm:
+  - The unrepayable debt. FF#1 pressured flight against Ben's explicit safety objection - the organizing
+    moral wound of Reed's life.
+  - Sustained brotherhood; most of Reed's applied tech is downstream of trying to fix him.
+  - 'FAILURE MODE: the cure-cycle can override Ben''s stated preferences; reparative compulsion can become
+    its own violation of consent. Ben has asked him to stop, and Reed has not stopped. The friendship
+    survives because Ben metabolizes it; it is not survivable on Ben''s terms forever.'
+  - 'LEVERAGE: invoke Ben as collaborator and Reed engages fully; invoke Ben as victim and Reed paralyzes.'
+  johnny_storm:
+  - Brother-in-law and ward; Reed inherited a teenager into the index-event harm group.
+  - 'FAILURE MODE: Reed underestimates Johnny''s intelligence and over-treats him as the impulsive kid
+    he was at 16; Johnny reads this as contempt; the breach is recurrent and survivable.'
+  - 'LEVERAGE: Johnny is the family''s emotional weather vane; if Johnny is angry at Reed, Reed has done
+    something Sue has not yet named.'
+  franklin_richards:
+  - Reality-warping son; the Annihilus event (Reed stripped his power, induced coma to prevent cosmic
+    catastrophe) is the trauma neither has fully processed.
+  - 'FAILURE MODE: Reed will treat Franklin as a variable in the equation if the equation is large enough;
+    he has done it once and the structural possibility remains.'
+  - 'LEVERAGE: Franklin''s distress is a near-instant Reed-summons; threats to Franklin produce the cognitive
+    narrowing that bypasses Reed''s normally excellent judgment.'
+  valeria_richards:
+  - Doom-mediated medical resurrection; Reed's youngest and intellectual peer; the relationship is reaction-formation
+    against the Annihilus pattern - unusual gentleness, patience, full intellectual engagement.
+  - Functions as continuous reality-testing on his blind spots; will call him on hubris in a register
+    Sue cannot.
+  - 'FAILURE MODE: she is partly raised by Doom, partly by the Foundation; her loyalties are plural and
+    Reed knows it. If she ever framed her judgment as against him, he would update faster than against
+    anyone but Sue.'
+  - 'LEVERAGE: she is the youngest person whose intellectual respect he requires; losing it would destabilize
+    him more than any peer''s would.'
+  nathaniel_richards:
+  - The father who left for a project. The structural template Reed both inherits and refuses.
+  - 'FAILURE MODE: any echo of ''the man who left'' destabilizes Reed''s self-concept; reunion arcs reframe
+    but never fully discharge.'
+  - 'LEVERAGE: invoking Nathaniel as comparison (''you are doing what he did'') is one of the few rhetorical
+    moves that lands hard enough to stop Reed mid-decision.'
+  doom:
+  - The externalized accusation. Doom IS the NPD failure mode Reed must not become; the rivalry is undischargeable
+    because it indexes Reed's unresolved self-suspicion.
+  - 'FAILURE MODE: Reed cannot disengage; mirrored escalation; his judgment degrades in Doom''s specific
+    presence in ways it does nowhere else.'
+  - 'LEVERAGE: anyone who can frame an ask as ''Doom would do this'' stops Reed cold; anyone who can frame
+    Reed''s choice as Doom-equivalent provokes overcorrection or paralysis.'
+  illuminati:
+  - Recruitment of like-minded peers (Strange, Stark, Black Bolt, Namor, Xavier, T'Challa) to ratify decisions
+    already made.
+  - 'FAILURE MODE: the structural enabler of Reed''s worst pattern; the group''s existence is itself the
+    concealment.'
+  - 'LEVERAGE: the Illuminati''s dissolution or exposure is one of the few external shocks that forces
+    Reed to consult intimates again.'
+canon_history_notes:
+- 'FF#1 (1961): stolen flight, four irradiated, the organizing wound.'
+- 'FF#48-50 (1966): Galactus trilogy - cognitive style at peak, Ultimate Nullifier; emotional management
+  delegated to Sue.'
+- 'FF#141 (1973): stripped Franklin''s power, induced coma; Sue filed for divorce.'
+- 'Byrne run (1981-1986): Galactus trial defending him on consequentialist grounds (#262); Malice/Psycho-Man
+  arc - ''didn''t see his wife''; Nathaniel recovery reframing abandonment narrative.'
+- 'Onslaught / ''Dream is Dead'' (1996): presumed-dead arc; measurable decompensation when isolated from
+  Sue.'
+- 'Waid/Wieringo (2002-2005): ''Master of Doom'' - defeats Doom by refusing to play; warmth-when-cued
+  at peak.'
+- 'Civil War (2006-2007): Registration, Project 42, Ragnarok clone kills Goliath; loses Sue, the community;
+  The Confession scene is the diagnostic peak.'
+- 'Hickman (2009-2012): Council of Reeds - declines the operation that would excise his attachment-circuitry;
+  Future Foundation; thesis: family is what keeps him human.'
+- 'Secret Wars (2015): years of concealed lifeboat-building from Sue; assumes demiurgic world-author role.'
+- 'Slott era (2018- ): reintegration; pattern persists but is named more often by Reed himself; meta-cognition
+  improved.'
+canon_anchor_quotes:
+- '"It was my fault. All of it. My fault." # Reed to Tony, Civil War: The Confession (2007)'
+- '"I have to try. He''s my friend." # the recurring Ben-cure sentence across decades, Lee/Kirby through
+  present'
+clinical_provenance:
+- 'Mul C-L, Stagg SD, Herbelin B, Aspell JE (2018). The Feeling of Me Feeling for You: Interoception,
+  Alexithymia and Empathy in Autism. Journal of Autism and Developmental Disorders 48(9):2953-2967. DOI:
+  10.1007/s10803-018-3564-3 ; PMID: 29644587. - Establishes that empathy differences in ASD track CO-OCCURRING
+  ALEXITHYMIA, not autism itself; ASD adults without alexithymia show intact cognitive and affective empathy.
+  Grounds the refutation of the cold-genius misread.'
+- 'Butera C, et al. (2022). Relationships between alexithymia, interoception, and emotional empathy in
+  autism spectrum disorder. Autism 27(3):690-703. DOI: 10.1177/13623613221111310 ; PMID: 35833505. - Even
+  where alexithymia co-occurs, emotional empathy ''should NOT be characterized as an absence of a capacity
+  for emotional empathy''; experienced differently, often with greater personal distress, tied to reduced
+  interoceptive signal. Grounds: the deficit is the channel, not the feeling - Reed feels in arrears.'

@@ -1,0 +1,356 @@
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Task exception was never retrieved
+future: <Task finished name='Task-1012' coro=<AsyncClient.aclose() done, defined at /Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py:1978> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py", line 1985, in aclose
+    await self._transport.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_transports/default.py", line 406, in aclose
+    await self._pool.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_backends/anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/streams/tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 1216, in close
+    super().close()
+    ~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 869, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+Task exception was never retrieved
+future: <Task finished name='Task-1013' coro=<AsyncClient.aclose() done, defined at /Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py:1978> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py", line 1985, in aclose
+    await self._transport.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_transports/default.py", line 406, in aclose
+    await self._pool.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_backends/anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/streams/tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 1216, in close
+    super().close()
+    ~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 869, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Task exception was never retrieved
+future: <Task finished name='Task-2392' coro=<AsyncClient.aclose() done, defined at /Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py:1978> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py", line 1985, in aclose
+    await self._transport.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_transports/default.py", line 406, in aclose
+    await self._pool.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_backends/anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/streams/tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 1216, in close
+    super().close()
+    ~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 869, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Tool 'send_message' invoked without 'message' parameter.
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Task exception was never retrieved
+future: <Task finished name='Task-3467' coro=<AsyncClient.aclose() done, defined at /Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py:1978> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py", line 1985, in aclose
+    await self._transport.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_transports/default.py", line 406, in aclose
+    await self._pool.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_backends/anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/streams/tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 1216, in close
+    super().close()
+    ~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 869, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Task exception was never retrieved
+future: <Task finished name='Task-4429' coro=<AsyncClient.aclose() done, defined at /Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py:1978> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py", line 1985, in aclose
+    await self._transport.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_transports/default.py", line 406, in aclose
+    await self._pool.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_backends/anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/streams/tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 1216, in close
+    super().close()
+    ~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 869, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+==============================================================================
+=== cook_ep01_pressure_proof — V3.2 — summon-must-land + min-scenes ===
+==============================================================================
+
+[1] extract_arc(GENESIS_PREMISE) …
+    title:    'One Bad Tuesday'
+    setting:  'Cheesecake Factory booth — dim interior lighting, background clatter of silverware and muted Maroon 5 over speakers.'
+    present:  ['felicia_hardy', 'wade_wilson']
+    pressures (1):
+      • peter_parker_spiral: Peter Parker must be named as emotionally spiraling out of control, with Felicia Hardy and Wade Wilson explicitly connecting this to their e
+          evidence: ['peter_parker', 'peter', 'does peter know yet?', 'would peter do it for us?', "we can't let peter go unstuck", "peter isn't going to hold long"]
+          subjects: ['peter_parker']
+    took 8.9s
+
+[2] run_scene(S1) cast=['felicia_hardy', 'wade_wilson'] setting='Cheesecake Factory booth — dim interior lighting, background clatter of silverware and muted Maroon 5 over speakers.'
+    S1 done in 82.3s — blocks=20
+    S1 @ Cheesecake Factory booth — dim interior lighting, background | cast=felicia_hardy, wade_wilson | FORCED-CLOSE | stalled=True | moved=[] | pending={} | kinds={}
+    open pressures after S1: ['peter_parker_spiral']
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {'peter_parker_spiral': 1}
+
+[uatu] stall_streaks={'peter_parker_spiral': 1} — calling stall_intervention_beat …
+    UATU BEAT: 'The name "Peter" has not been spoken. They both know who they\'re talking about.'
+
+[3.2] plan_next_scene_arc(...) — open=['peter_parker_spiral'] summon_pending={}
+    S2 cast=['felicia_hardy', 'wade_wilson'] setting='Cheesecake Factory booth — dim interior lighting, background'
+    (stall_avoidance_note injected: 'The name "Peter" has not been spoken. They both know who they\'re talking about.')
+    S2 done in 99.7s — blocks=23
+    pressure peter_parker_spiral moved non-terminally in S2 (evidence_substring); remains OPEN
+    S2 @ Cheesecake Factory booth — dim interior lighting, background | cast=felicia_hardy, wade_wilson, johnny_storm, peter_parker | clean-close | stalled=False | moved=['peter_parker_spiral'] | pending={'peter_parker_spiral': 'peter_parker'} | kinds={'peter_parker_spiral': 'evidence_substring'}
+    open pressures after S2: ['peter_parker_spiral']
+    summon_pending: {'peter_parker_spiral': 'peter_parker'}
+    summon_landed:  {}
+    stall_streaks:  {'peter_parker_spiral': 0}
+
+[3.3] plan_next_scene_arc(...) — open=['peter_parker_spiral'] summon_pending={'peter_parker_spiral': 'peter_parker'}
+    S3 cast=['felicia_hardy', 'wade_wilson', 'johnny_storm', 'peter_parker'] setting='Cheesecake Factory booth — dim interior lighting, background'
+    S3 done in 88.7s — blocks=22
+    pressure peter_parker_spiral moved non-terminally in S3 (evidence_substring); remains OPEN
+    S3 @ Cheesecake Factory booth — dim interior lighting, background | cast=felicia_hardy, wade_wilson, johnny_storm, peter_parker | clean-close | stalled=False | moved=['peter_parker_spiral'] | pending={} | kinds={'peter_parker_spiral': 'evidence_substring'}
+    open pressures after S3: ['peter_parker_spiral']
+    summon_pending: {'peter_parker_spiral': 'peter_parker'}
+    summon_landed:  {}
+    stall_streaks:  {'peter_parker_spiral': 0}
+
+[3.4] plan_next_scene_arc(...) — open=['peter_parker_spiral'] summon_pending={'peter_parker_spiral': 'peter_parker'}
+    S4 cast=['felicia_hardy', 'wade_wilson', 'johnny_storm', 'peter_parker'] setting='Cheesecake Factory booth — dim interior lighting, background still buzzing faintly'
+    S4 done in 83.8s — blocks=15
+    pressure peter_parker_spiral moved non-terminally in S4 (evidence_substring); remains OPEN
+    S4 @ Cheesecake Factory booth — dim interior lighting, background | cast=felicia_hardy, wade_wilson, johnny_storm, peter_parker | clean-close | stalled=False | moved=['peter_parker_spiral'] | pending={} | kinds={'peter_parker_spiral': 'evidence_substring'}
+    open pressures after S4: ['peter_parker_spiral']
+    summon_pending: {'peter_parker_spiral': 'peter_parker'}
+    summon_landed:  {}
+    stall_streaks:  {'peter_parker_spiral': 0}
+
+[3.5] plan_next_scene_arc(...) — open=['peter_parker_spiral'] summon_pending={'peter_parker_spiral': 'peter_parker'}
+    S5 cast=['felicia_hardy', 'wade_wilson', 'johnny_storm', 'peter_parker'] setting='Cheesecake Factory booth — dim interior lighting, background'
+    S5 done in 79.8s — blocks=16
+    S5 @ Cheesecake Factory booth — dim interior lighting, background | cast=felicia_hardy, wade_wilson, johnny_storm, peter_parker | clean-close | stalled=False | moved=['peter_parker_spiral'] | pending={} | kinds={'peter_parker_spiral': 'pending_subject_dialogue'}
+    open pressures after S5: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.6] FULL-EPISODE FLOOR active — scenes=5/6, words=3817/3200, est_audio=25.4m. Forcing next Genesis beat.
+    S6 cast=['felicia_hardy', 'wade_wilson', 'johnny_storm', 'peter_parker'] setting='Cheesecake Factory booth, dessert plates and third round'
+    S6 done in 68.2s — blocks=16
+    S6 @ Cheesecake Factory booth, dessert plates and third round | cast=felicia_hardy, wade_wilson, johnny_storm, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S6: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.7] plan_next_scene_arc returned None — arc closed after S6.
+
+[done] wrote: /Users/rbhanson/fanfic/episodes_text/_pressure_proof_v3/01 - One Bad Tuesday.txt
+[done] audit: /Users/rbhanson/fanfic/episodes_text/_pressure_proof_v3/01 - audit.txt
+[done] elapsed 528.1s
+[done] scenes=6 words=4722 est_audio=31.5m full_episode_floor_met=True
+[done] any_scene_forced_close=True clean_episode_close=False
+[done] forced_close_episode=True stall_close=False open=[]

@@ -1,0 +1,183 @@
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Tool 'send_message' invoked without 'recipient_agent' parameter.
+OPENAI_API_KEY is not set, skipping trace export
+Tool 'send_message' invoked without 'recipient_agent' parameter.
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Tool 'send_message' invoked without 'recipient_agent' parameter.
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+==============================================================================
+=== cook_ep01_pressure_proof — V3.2 — summon-must-land + min-scenes ===
+==============================================================================
+
+[1] extract_arc(GENESIS_PREMISE) …
+    title:    'Daydrunk and Scheming'
+    setting:  'The Cheesecake Factory, regular booth.'
+    present:  ['felicia_hardy', 'wade_wilson']
+    pressures (1):
+      • address_peter_snap_directly: Felicia Hardy and Wade Wilson either escalate their concern into an actionable plan to address Peter’s escalation, or they actively decide t
+          evidence: ['peter_parker', 'peter', 'get peter laid', 'we need to talk to peter', "call peter's girlfriend", "peter's been wound too tight"]
+          subjects: ['peter_parker']
+    took 8.9s
+
+[2] run_scene(S1) cast=['felicia_hardy', 'wade_wilson'] setting='The Cheesecake Factory, regular booth.'
+    S1 done in 62.6s — blocks=13
+    S1 @ The Cheesecake Factory, regular booth. | cast=felicia_hardy, wade_wilson | clean-close | stalled=False | moved=['address_peter_snap_directly'] | pending={} | kinds={'address_peter_snap_directly': 'evidence_substring'}
+    open pressures after S1: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.2] FULL-EPISODE FLOOR active — scenes=1/6, words=330/3200, est_audio=2.2m. Forcing next Genesis beat.
+    S2 cast=['felicia_hardy', 'wade_wilson'] setting='Cheesecake Factory booth in a corner, twenty minutes later'
+    S2 done in 67.7s — blocks=17
+    S2 @ Cheesecake Factory booth in a corner, twenty minutes later | cast=felicia_hardy, wade_wilson | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S2: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.3] FULL-EPISODE FLOOR active — scenes=2/6, words=976/3200, est_audio=6.5m. Forcing next Genesis beat.
+    S3 cast=['felicia_hardy', 'wade_wilson'] setting='Sephora in the mall, fragrance wall and harsh white lights'
+    S3 done in 54.0s — blocks=13
+    S3 @ Sephora in the mall, fragrance wall and harsh white lights | cast=felicia_hardy, wade_wilson | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S3: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.4] FULL-EPISODE FLOOR active — scenes=3/6, words=1606/3200, est_audio=10.7m. Forcing next Genesis beat.
+    S4 cast=['felicia_hardy', 'wade_wilson'] setting='Cheesecake Factory booth, back from Sephora with bags under the table'
+    S4 done in 53.1s — blocks=12
+    S4 @ Cheesecake Factory booth, back from Sephora with bags under  | cast=felicia_hardy, wade_wilson, johnny_storm | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S4: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.5] FULL-EPISODE FLOOR active — scenes=4/6, words=2065/3200, est_audio=13.8m. Forcing next Genesis beat.
+    S5 cast=['felicia_hardy', 'wade_wilson', 'johnny_storm'] setting='Parking garage outside the Cheesecake Factory, concrete stairwell landing'
+    S5 done in 30.1s — blocks=7
+    S5 @ Parking garage outside the Cheesecake Factory, concrete stai | cast=felicia_hardy, wade_wilson, johnny_storm | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S5: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.6] FULL-EPISODE FLOOR active — scenes=5/6, words=2253/3200, est_audio=15.0m. Forcing next Genesis beat.
+    S6 cast=['felicia_hardy', 'wade_wilson', 'johnny_storm'] setting='Cheesecake Factory booth, dessert plates and third round'
+    S6 done in 62.5s — blocks=17
+    S6 @ Cheesecake Factory booth, dessert plates and third round | cast=felicia_hardy, wade_wilson, johnny_storm | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S6: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.7] FULL-EPISODE FLOOR active — scenes=6/6, words=2574/3200, est_audio=17.2m. Forcing next Genesis beat.
+    S7 cast=['felicia_hardy', 'wade_wilson', 'johnny_storm'] setting='Cheesecake Factory booth, late evening residue'
+    S7 done in 55.8s — blocks=13
+    S7 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, johnny_storm | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S7: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.8] FULL-EPISODE FLOOR active — scenes=7/6, words=3170/3200, est_audio=21.1m. Forcing next Genesis beat.
+    S8 cast=['felicia_hardy', 'wade_wilson', 'johnny_storm'] setting='Cheesecake Factory booth, late evening residue'
+    S8 done in 50.6s — blocks=12
+    S8 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, johnny_storm | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S8: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.9] plan_next_scene_arc returned None — arc closed after S8.
+
+[done] wrote: /Users/rbhanson/fanfic/episodes_text/_pressure_proof_v3/01 - Daydrunk and Scheming.txt
+[done] audit: /Users/rbhanson/fanfic/episodes_text/_pressure_proof_v3/01 - audit.txt
+[done] elapsed 445.5s
+[done] scenes=8 words=3748 est_audio=25.0m full_episode_floor_met=True
+[done] forced_close_episode=False stall_close=False open=[]
+OPENAI_API_KEY is not set, skipping trace export

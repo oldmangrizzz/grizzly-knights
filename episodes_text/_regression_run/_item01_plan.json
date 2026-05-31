@@ -1,0 +1,157 @@
+{
+  "number": 901,
+  "title": "Blood, Whiskey, and Denials",
+  "logline": "Jessica Jones and Luke Cage's quiet night is upended when Matt Murdock stumbles in bleeding, asking for help neither of them wants to give, while Frank Castle watches from the shadows.",
+  "cast": [
+    "jessica_jones",
+    "luke_cage",
+    "matt_murdock",
+    "frank_castle"
+  ],
+  "arc": "Jessica and Luke wrestle with old loyalties and the weight of their pasts as they face Matt's plea. Frank observes from his self-imposed exile, unable to stay fully uninvolved. By night’s end, the tangle of history, morality, and consequence leaves no one unscathed.",
+  "scenes": [
+    {
+      "act": 1,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar (dim lighting, scarred wooden bar, cheap whiskey on the menu)",
+      "time": "Day, 1:05 AM",
+      "situation": "Jessica nurses her third whiskey of the night. Luke sits beside her, sipping water — the sober presence who still knows when her guard is down. They banter lightly, the conversation evasive on both sides, masking fatigue and deeper wounds.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "None."
+    },
+    {
+      "act": 1,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 1:15 AM",
+      "situation": "Frank Castle sits alone at the far end of the bar, unnoticed by Jessica and Luke. He drinks neat bourbon but watches Jessica from the corner of his eye — not to make contact, but because the memory of her tenacity pulls him briefly out of himself.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "None."
+    },
+    {
+      "act": 1,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 1:20 AM",
+      "situation": "Picking up from the faint humor of the prior scene: Jason Isbell plays low on the jukebox. In through the door limps Matt Murdock, shirt torn, side dark with blood. Jessica stiffens as soon as she sees him. Luke turns halfway on his stool, already wary. Matt tilts his head and locks directly on them despite the loud room, his voice low but certain: 'I need your help.'",
+      "roles": [],
+      "cast": [],
+      "arrives": [
+        {
+          "key": "matt_murdock",
+          "when": "late",
+          "how": "Bleeding and unsteady, but carrying himself with determined purpose."
+        }
+      ],
+      "departs": [],
+      "escalation": "Matt arrives, visibly bleeding, and asks for help."
+    },
+    {
+      "act": 2,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 1:28 AM",
+      "situation": "Picking up from Matt's entrance: Jessica lights a cigarette (with the bartender’s annoyed look ignored) and challenges Matt outright. 'You’ve got a lot of nerve…' Luke, more restrained but no less frustrated, presses: 'We’ve all been burned helping you before.' Meanwhile, Frank listens closely without moving — his face unreadable.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "Jessica openly questions Matt's intentions and disentangles herself emotionally from his request."
+    },
+    {
+      "act": 2,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 1:35 AM",
+      "situation": "Picking up from Jessica’s pushback: Matt grows sharper. 'I wouldn’t come here if I had a choice.' He explains vaguely about someone being taken, the implication growing clearer — whoever this is, they matter deeply to him. Luke shakes his head. Jessica swears under her breath. Frank’s glass slides against the wood, a rougher sound, but he doesn’t look over.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "Matt reveals the emotional stakes, adding urgency to his ask."
+    },
+    {
+      "act": 2,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 1:43 AM",
+      "situation": "Picking up from Matt’s reveal: Luke very nearly stands but stops himself. 'You know what you’re asking, right? Whose heads’ll roll if we go after it?' Jessica cuts in: 'The answer’s still no.' Matt leans forward, his voice low but earnest, verging on a plea. 'You’ve got a better shot than me right now.'",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "Luke and Jessica push back harder, but Matt’s vulnerability starts to crack their joint resolve."
+    },
+    {
+      "act": 2,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 1:52 AM",
+      "situation": "Picking up from Luke and Jessica’s resistance: Frank finally angles himself without turning fully. He cuts into the conversation sharp and deep: 'You people never learn, huh?' Jessica sneers but doesn’t retort immediately. Luke’s tension shifts slightly toward Frank now. Matt gives nothing, staring straight ahead.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "Frank voices judgment from the sidelines, redirecting the emotional energy of the table."
+    },
+    {
+      "act": 3,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 2:10 AM",
+      "situation": "Picking up from the unnerved energy: Jessica’s patience wears thin. She slams her glass down harder than intended, storming off toward the jukebox under the pretense of changing the music. Luke exhales sharply but doesn’t follow her, turning back to Matt. 'We all have limits. You need to know we’re at ours.' Frank remains motionless, but his knuckles go white on the glass.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [
+        {
+          "key": "jessica_jones",
+          "when": "mid",
+          "how": "Walks over to the jukebox sharply, withdrawing herself from the immediate conversation."
+        }
+      ],
+      "escalation": "Jessica physically removes herself from the table."
+    },
+    {
+      "act": 3,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar",
+      "time": "Day, 2:25 AM",
+      "situation": "Luke finally takes Matt out for air, walking him down the block. Frank watches them exit, then quietly pays his tab. Jessica doesn’t return — her posture at the jukebox says enough about her decision. The bartender shoots Frank a glance that doesn’t quite hide his wariness. Frank nods once and steps out, leaving Jessica alone under the dim neon glow.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [
+        {
+          "key": "matt_murdock",
+          "when": "late",
+          "how": "Exits alongside Luke, walking slowly and breathing unevenly."
+        },
+        {
+          "key": "frank_castle",
+          "when": "late",
+          "how": "Leaves quietly, paying his tab without fanfare."
+        }
+      ],
+      "escalation": "Luke decides to help Matt, at least to the extent of getting him outside — leaving Jessica separated."
+    },
+    {
+      "act": 3,
+      "scene_number": null,
+      "location": "Hell's Kitchen dive bar (jukebox corner)",
+      "time": "Day, 2:35 AM",
+      "situation": "Jessica stands under the harsh glow of the jukebox display — Jason Isbell again, unselected but unstoppable. She finishes her drink in silence, the untouched space beside her at the bar finally growing heavy. She doesn’t look back toward the door as it closes behind Frank’s exit.",
+      "roles": [],
+      "cast": [],
+      "arrives": [],
+      "departs": [],
+      "escalation": "None."
+    }
+  ]
+}

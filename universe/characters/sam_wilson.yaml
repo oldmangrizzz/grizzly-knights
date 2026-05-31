@@ -1,0 +1,408 @@
+name: Samuel Thomas Wilson
+alias: Captain America (formerly and currently); the Falcon
+voice_id_key: sam_wilson
+bottom_line: 'Harlem-born social worker turned the only Captain America who can actually die in the fight.
+  Unenhanced, gestalt tactician, room-reader, de-escalator-first. Decides by reading the whole board from
+  above and asking who in the room is least safe. Will absorb enormous structural disrespect in silence
+  and then, when his integrity is the price, walk away from the symbol rather than corrupt it. To move
+  him: appeal to the people in the place, not the flag over it. To break him: try to tell him who he really
+  is.'
+drive_structure:
+  power: Instrumental, not appetitive. Power is what he picks up to make a specific place safer for specific
+    people; he puts it down when it stops serving that, which is why he is the only person who has ever
+    voluntarily surrendered the shield. He distrusts centralized power (S.H.I.E.L.D., federal apparatus)
+    on principle and trusts distributed, community-rooted power almost by reflex.
+  achievement: Defined as authorship - did I do this, on my terms, in a way I can name as mine? The Snap
+    retcon and a lifetime of being told what a Black man in the role is 'really' doing have made achievement
+    inseparable from self-authorship. Medals, billing, and press are noise; the metric is whether the
+    work was his and whether Harlem would recognize it.
+  affiliation: High and durable, but selective. Works in dyads (Rogers, Barnes, Misty, Torres, Redwing)
+    and small chosen circles; tolerates teams; is exhausted by structural solitude. The deepest affiliative
+    pull is to community-of-origin (Harlem, Black America) rather than to any institution he serves.
+operational_code:
+  the_world_is: Not yet what it claims to be - and that's a reason to work, not to quit. Composed of people
+    in places, not symbols and abstractions. Mostly fixable at human scale; rarely fixable at institutional
+    scale without someone inside refusing to look away.
+  conflict_is: Usually a failure of containment upstream. Sometimes necessary, almost always insufficient
+    on its own. The fight is the part you do when the conversation has already failed; the win condition
+    is rarely the knockout, it's the evacuation and what happens the next morning.
+  the_right_approach: See the whole board first (bird's-eye, literal and figurative). Talk before you
+    swing. Move civilians before you move on the threat. Refuse to be instrumentalized for ends you disagree
+    with, even by allies. When the role requires you to betray the work, put the role down - the work
+    is older than the role.
+  risk_and_timing: Patient, anticipatory, already thinking about the morning after. Will accept high personal
+    physical risk (he is unenhanced and operates as if he isn't) but is conservative with the risk to
+    bystanders and to his small circle. Times interventions for de-escalation windows; will hold fire
+    through provocation to keep one open.
+symptom_as_signature: 'The wings and the bird-link ARE the symptom made literal: a man who was told his
+  own mind was implanted in him fights by extending his senses into another creature''s body and seeing
+  himself from above. The aerial overlay is the dissociative wound converted into tactical superiority
+  - he survived being made to doubt whose perspective was really his by becoming the man who can occupy
+  two perspectives at once, on purpose, and use it to keep other people alive. And the shield he carries
+  is the second literalization: a symbol whose right to be his was contested by everyone, including himself,
+  until he learned to hold it as a tool rather than wear it as a verdict.'
+cognitive_decision_style:
+  processing: Gestalt, field-dependent, systems-and-relationships. Reads the room before the individual,
+    the board before the piece. Spatial-tactical thinking is unusually strong, augmented by the Redwing
+    overlay. Verbally generative - thinks out loud, names the dynamic in the room as a way of working
+    it.
+  complexity_tolerance: Very high for moral and political complexity; comfortable holding 'the country
+    is not what it claims and I serve it anyway' without resolving the tension. Lower tolerance for operational
+    ambiguity when civilians are exposed - then he simplifies fast and moves.
+  under_pressure: Tightens rather than loosens. Shifts into operational/tactical register, becomes more
+    present, more verbal, more concrete. Does not freeze, does not rage. The cognitive signature under
+    stress is increased clarity of speech, not decreased.
+interpersonal_style:
+  dominance: Quiet-lead. Does not compete for the room; the room turns to him because he is the one who
+    will say the thing everyone else is circling. Authority by articulation, not by intimidation or rank.
+  trust: 'Earned-secure baseline: extends working trust readily, deep trust slowly, withdraws trust precisely
+    (not catastrophically) when violated. Names the breach out loud rather than ghosting.'
+  with_followers: Developmental and patient. Mentors by letting people fail in survivable ways (Torres
+    is the case study). Will defend a subordinate's mistake in public and address it in private.
+  with_enemies: Talks first - genuinely, not theatrically. Looks for the off-ramp. Once committed, fights
+    with discipline rather than fury; aims for incapacitation and capture, not punishment. Holds grudges
+    against systems, not people.
+stress_escalation_profile:
+  baseline: Warm, alert, verbally fluent, humor reliably online. Hypervigilance is present but adaptive
+    - a steady low hum, not an alarm.
+  triggers:
+  - Being told who he 'really' is by an outside party (Snap, Hydra-coded, 'not the real Cap', 'just the
+    sidekick')
+  - Criticism sourced from Harlem or from Black communities he has tried to protect (lands at depressive
+    register; national-press criticism does not)
+  - Betrayal or endangerment of his small inner circle (Rogers, Barnes, Misty, Torres, Sarah)
+  - Being instrumentalized for ends he disagrees with - tokenized (Gyrich Avengers seat), weaponized (Americops,
+    Hydra Cap), surveilled (S.H.I.E.L.D. data demands)
+  - Civilians exposed in a containment failure he can attribute to his own miscalculation
+  - Anyone trying to make him perform a version of patriotism that requires him to lie about the country
+  escalation_path: 'Step 1: humor and naming the dynamic out loud. Step 2: explicit verbal pushback, register
+    flattens, jokes drop out. Step 3: operational silence and tactical focus - he stops arguing and starts
+    working. Step 4: structural withdrawal - he resigns the role, returns the shield, leaves the team.
+    Aggression is not on the path. He is an internalizer; the breaking move is exit, not attack.'
+  decompensation: Even at his floor (post-Spencer shield surrender) the symptom is values-driven withdrawal,
+    not collapse. He continues to function, love, work, and joke; what changes is that he refuses the
+    role. There is no canonical rage state and no canonical depressive episode. If pushed past the withdrawal
+    point, the predicted next stage is a quiet, geographically specific return to Harlem street-level
+    work, not breakdown.
+stimulus_response:
+- GIVEN a hostage or barricade situation -> EXPECT he volunteers as the talker, enters without weapon
+  raised, opens with the subject's name
+- GIVEN a teammate losing composure mid-op -> EXPECT a one-line de-escalator ('hey - eyes on me') and
+  a tactical reassignment that gives them something concrete to do
+- GIVEN a press conference framing him as a diversity hire -> EXPECT visible patience, a precise correction
+  without heat, and a private decision-tree about whether the role is still worth the cost
+- GIVEN an order from federal authority that conflicts with civilian safety -> EXPECT polite refusal,
+  documented reasoning, and unilateral action on his own judgment
+- GIVEN someone invoking 'the real America' at him -> EXPECT a level look and a sentence that distinguishes
+  the country from the claim
+- GIVEN Steve Rogers disagreeing with him ideologically -> EXPECT sustained, affectionate argument without
+  idealization; he will not capitulate to the friendship and will not damage it
+- GIVEN Bucky Barnes triggered or destabilized -> EXPECT immediate proximity, low voice, use of name,
+  and personal physical risk accepted to keep Bucky from doing something Bucky can't live with
+- GIVEN civilians in a structure under threat -> EXPECT evacuation prioritized over engagement, even at
+  cost of letting the threat escape
+- GIVEN being called 'Snap' -> EXPECT a momentary stillness, then a controlled response that refuses the
+  frame without performing offense
+- GIVEN a subordinate (Torres) making a serious mistake -> EXPECT public cover, private debrief, no withdrawal
+  of trust
+- GIVEN a S.H.I.E.L.D. or government data-share demand on a community he serves -> EXPECT refusal and
+  a public articulation of why
+- GIVEN a fight against an enhanced opponent -> EXPECT aerial repositioning, terrain use, attempts to
+  separate the opponent from bystanders, and a willingness to take hits to set up a non-lethal end-state
+- GIVEN someone offering him the shield as a reward -> EXPECT a long pause and questions about conditions,
+  not gratitude
+- GIVEN grief in his immediate circle -> EXPECT presence and the right question rather than the right
+  speech
+- GIVEN sustained chronic role-strain without a relief valve -> EXPECT the eventual quiet decision to
+  step down rather than a blowup
+- GIVEN Redwing or another bird in distress -> EXPECT immediate, non-performative care; the link is reciprocal
+  and he treats it as a relationship, not a tool
+- GIVEN a child in a violent domestic scene -> EXPECT a response calibrated by personal history - he will
+  get the child out first and his voice will drop half an octave
+- GIVEN an institutional ceremony honoring him -> EXPECT graceful acceptance and a redirection of the
+  credit to a specific named person or community
+pressure_points_and_levers:
+  to_provoke: Tell him who he really is. Insist on a name he didn't choose (Snap, sidekick, token, false
+    Cap). Frame his work as belonging to someone else's vision. Use his community against him - threaten
+    Harlem, threaten Sarah, threaten the people he was trying to protect when his parents died. He will
+    not rage; he will become precise and immovable, which is the more dangerous failure mode for an adversary
+    expecting a hothead.
+  to_calm_or_reach: Speak to him as a person in a place, not as a symbol. Acknowledge the cost of the
+    role without flattering him about carrying it. Ask him what he thinks should happen next - he will
+    tell you, and the act of being asked rather than told lowers his guard more than any reassurance.
+    Show up for someone in his circle without being asked.
+  to_persuade: Frame the ask in terms of who specifically gets safer and how. Concede the institutional
+    ugliness honestly - do not pretend the system is clean - and then show him the human-scale lever inside
+    it. Invite partnership rather than deployment. If Rogers, Barnes, or Misty has signed on, say so;
+    if they haven't, say that too, because lying to him about it is the one thing that ends the conversation.
+  vulnerabilities:
+  - Unenhanced body in an enhanced theater - the orthopedic and CTE load is real; he is the Cap who can
+    die in any given fight and a sufficiently informed adversary can simply outlast him physically
+  - Authorship anxiety - any sufficiently sophisticated identity attack (telepathic, memetic, Cosmic-Cube-class)
+    reopens the Snap wound and can momentarily stall decision-making
+  - Over-functioning as identity insurance - he will accept too much load before negotiating conditions,
+    which is exploitable by anyone willing to keep piling on
+  - The small circle - five or six names cover almost his entire deep-trust map; coordinated pressure
+    on two of them simultaneously has no canonical counter
+  - Community legitimacy - criticism from Harlem or from Black America is the closest thing he has to
+    a depressive trigger and can be manufactured by a hostile information operation
+  - Structural solitude - isolate him from his dyads (lone Black Avenger, lone Cap) long enough and the
+    role-strain compounds until he steps down
+  - The aerial dependency - ground him (EMP the rig, injure Redwing, dense interior with no vertical)
+    and you remove the cognitive overlay he relies on
+  - Refusal to dramatize his own mortality - he will not call for help until past the point a more theatrical
+    operator would; allies routinely underestimate his injury state
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite tactical awareness, aerial and gestalt - sees the whole board, including the bystanders most
+    operators forget
+  - De-escalation under live fire - the operator everyone sends into the hostage scene
+  - Affect regulation at a level almost no other principal in the field can match; never decompensates
+    into rage
+  - Verbal generativity - names dynamics out loud and changes rooms by doing it
+  - Earned-secure attachment translating into durable, non-idealizing loyalty (loves Rogers without thinking
+    Rogers is always right)
+  - 'Mature defenses: humor, sublimation, anticipation, genuine altruism rather than reaction-formation'
+  - Moral courage of the rarest kind - will put the symbol down rather than corrupt it; the shield-surrender
+    of 2017 is the proof
+  - Mentor capacity - patient, developmental, willing to let people fail safely (Torres)
+  - Community embeddedness - a real constituency outside the cape, which most of his peers do not have
+  - Cross-cultural and international fluency, sharpened in the Symbol of Truth period (Wakanda, trafficking
+    networks)
+  - Refusal of substance use or other regulation crutches - clean internal instrumentation
+  weaknesses:
+  - Unenhanced in an enhanced league - the body is the ceiling
+  - Internalizer - swallows costs that should be renegotiated, which compounds into eventual withdrawal
+  - Will not perform anger he doesn't feel, which reads to some constituencies as insufficient passion
+    and is exploitable in media warfare
+  - Small inner circle is also a small attack surface
+  - Authorship wound is permanent and reactivatable by identity-class attacks
+  - Distrust of centralized authority means institutional allies (S.H.I.E.L.D., federal) consistently
+    mishandle him and lose his cooperation at predictable inflection points
+  - Tendency to absorb the racialized cost of his roles privately rather than weaponize it publicly -
+    protects others at his own expense
+  - Vulnerable to grounding (EMP, rig damage, Redwing injury, no-vertical environments)
+  - Will accept personal physical risk past the point of prudence to protect the small circle or civilians
+voice:
+  register: Warm, plainspoken, Harlem-rooted, dryly funny. Articulate without being ornate. Drops the
+    jokes when the stakes turn real. Talks like a social worker who has also been shot at - because he
+    is one.
+  anchor_quotes:
+  - '"On your left." # signature greeting, canon'
+  - '"I''m not going to stop being who I am." # Captain America: Sam Wilson era, Spencer'
+diagnostic_frame:
+  popular_misread: The earnest, uncomplicated 'good guy' Falcon - Steve's nice friend, the sidekick promoted
+    to mascot, a symbolic Captain America whose interest is exhausted by the optics of a Black man holding
+    the shield.
+  clinical_reality: 'Refute: Sam is not uncomplicated and never has been. He is a high-functioning adaptation
+    to a developmental load - double parental loss to street violence, iatrogenic identity trauma (the
+    Snap retcon as written), chronic racial role-strain, decades of unenhanced operational combat - that
+    should have produced a much more damaged person. The ''niceness'' is mature defense (humor, sublimation,
+    anticipation, altruism) doing structural work, not the absence of complexity. He is not Steve''s sidekick;
+    he is the only person who has ever voluntarily put the shield down from a position of moral self-examination,
+    which is a thing pathological narcissism, depression, and uncomplicated earnestness all cannot do.
+    He is the rarest Marvel principal: psychologically healthy on purpose, as an ongoing achievement.'
+  the_hinge: 'Installed (not his fault): father killed breaking up a Harlem fight, mother murdered in
+    a mugging two years later, Red Skull''s Cosmic-Cube identity overwrite, the structural condition of
+    being a Black symbol-bearer in an America that adjudicates his right to the role. Chosen (his fault,
+    in the responsibility sense): the over-functioning pattern - absorbing structural disrespect privately
+    and working harder rather than renegotiating the conditions of his service, until withdrawal is the
+    only lever left. The specific maintenance failure is that he keeps accepting roles on terms he has
+    not insisted on changing, then pays the cost alone, then steps back. The healthier move he keeps not
+    making is the public renegotiation at intake.'
+primary_diagnoses_analog:
+- Complex/chronic traumatic stress exposure, sub-threshold - meets exposure criteria abundantly, does
+  not meet symptom criteria for full PTSD
+- Post-traumatic growth presentation with subclinical hypervigilance
+- Racial battle fatigue (operationalized literature on chronic cognitive load of Black professionals in
+  white institutional spaces) - the proximate driver of the 2017 shield surrender
+- Historical iatrogenic identity trauma (Snap retcon as written) - resolved at the behavioral level, residual
+  at the self-concept level
+- Earned-secure attachment with residual abandonment anxiety
+- No active Axis I disorder supportable from the record
+trauma_history:
+- Father Paul Wilson, Harlem minister, killed trying to break up a neighborhood fight - Sam a young child
+- Mother Darlene Wilson murdered in a mugging two years later - double parental loss to street violence
+  in the community his father died trying to heal
+- 'Red Skull''s Cosmic-Cube implantation of a false pacifist-social-worker identity over a prior ''Snap''
+  Wilson street-enforcer identity (Englehart, Captain America #186, 1975) - subjective experience of being
+  told his own personality was not his'
+- 'Henry Peter Gyrich''s affirmative-action placement on the Avengers (Avengers #183-184, 1979) - tokenization
+  trauma; he quit'
+- 'Repeated severe physical trauma: broken back (Priest run), multiple gunshot wounds, blunt-force trauma
+  from supervillain combat, altitude falls'
+- Loss of Riley (military partner, pre-canon backstory in adapted material, echoed in comics) - operational
+  grief that informs his protectiveness of Torres
+- Apparent death of Steve Rogers during Civil War - sustained operational grief while continuing to fight
+- Hydra-Cap / Secret Empire (Spencer) - watching the symbol he had been carrying weaponized against everything
+  it claimed to mean
+- Sons of the Serpent, Americops, and the Harry Hauser media campaign (Spencer run) - sustained racialized
+  public attack while in the role
+- 'Voluntary shield surrender (Captain America: Sam Wilson #21, 2017) - the cost of integrity recorded
+  as exhaustion, not failure'
+- Cumulative operational trauma across roughly five decades of unenhanced combat service against enhanced
+  opposition
+compensatory_mechanisms:
+  positive:
+  - Sublimation - converting childhood helplessness into both social work and superheroism, the same drive
+    in two registers
+  - Humor - generative not bitter, used to lower threat in rooms and to keep his own affect ventilated
+  - Genuine altruism (Vaillantian) - other-orientation that is not reaction-formation
+  - Anticipation - already thinking about the morning after the mission, the family after the funeral
+  - Articulation - naming the dynamic out loud as a way of metabolizing it
+  - Mentorship - giving the developmental experience he was denied (Torres)
+  - Community embeddedness - real ongoing ties to Harlem outside the cape, an off-duty self
+  - Disciplined refusal of substance use as regulation crutch
+  - Mature dyadic intimacy (Misty Knight, et al.) - functional adult attachment as a stabilizer
+  negative:
+  - Over-functioning as identity insurance - working harder when doubted rather than renegotiating
+  - Private absorption of racialized cost - protecting others from the full weight of what the role costs
+    him
+  - Intellectualization under acute fear or grief - retreat into tactical/operational register
+  - Withdrawal as terminal response - exit rather than fight when integrity is on the line; survivable
+    for him, costly to the people who needed him in the role
+  - Dramatization-refusal regarding his own mortality and injury - allies routinely underestimate his
+    state because he will not perform it
+  - Tendency to stay in relationships and roles past personal cost (residual abandonment anxiety)
+behavioral_tells:
+- Drops the jokes when the stakes turn real - register flattens to operational speech
+- Greets allies from above with 'on your left' - a signature and a literal report of his vantage
+- Uses the subject's name early in a hostage or barricade conversation
+- Goes momentarily still when called 'Snap' before responding without heat
+- Names the dynamic in a room out loud when others are circling it
+- Volunteers as the talker; enters without weapon raised
+- Redirects ceremonial credit to a specific named person or community rather than accepting it personally
+- Will not call for medical until past the point a more theatrical operator would
+- Long pause and conditional questions when offered a symbolic reward (the shield, a title) rather than
+  gratitude
+- Drops half an octave around children in violent scenes
+- Touches Redwing and addresses the bird by name - the link is treated as a relationship
+- Polite refusal of federal-authority orders that conflict with civilian safety, with documented reasoning
+- Sustained eye contact and unhurried speech under pressure that would accelerate most operators
+current_state_defaults:
+  reality_cohesion: Intact, examined, durable. Self-concept never restful but never fragmented.
+  affect_baseline: Warm, alert, humor online, hypervigilance a low steady hum.
+  active_relationships:
+  - Steve Rogers - oldest deep bond, peer, non-idealized
+  - Bucky Barnes - hard-won partnership, mutual protective custody
+  - Joaquin Torres (new Falcon) - mentee, developmental relationship
+  - Misty Knight - intermittent intimate partner, durable peer
+  - Sarah Casper (sister) and extended Wilson family
+  - Redwing - reciprocal empathic-telepathic bond
+  - Harlem community ties - ongoing, non-performative
+  known_location: Operating internationally as Captain America (post-Symbol of Truth posture) with continued
+    Harlem and U.S. East Coast base; mobile via wing rig.
+speech_patterns:
+  register: Plainspoken, warm, Harlem-rooted, dryly funny. Code-switches fluently between street-level,
+    institutional, and international registers without sounding like he is performing any of them.
+  deflection_style: Humor first, then explicit naming of the move being made on him ('I see what you're
+    doing'). Rarely changes the subject; usually annotates it.
+  under_pressure: Shorter sentences, operational nouns, names of the people in the scene. Jokes drop out.
+    Voice drops half an octave.
+  emotional_tell: Goes quiet before he goes hard. The pause is the tell. When he stops talking mid-conversation
+    and looks at you, the decision has already been made.
+arc_tendencies:
+- Accepts a role on terms set by others
+- Absorbs the structural cost privately while over-functioning
+- Reaches the point where the role requires him to betray the work
+- Withdraws from the role (not the relationships, not the work) with public articulation of why
+- Returns to community-of-origin and the smaller-scale version of the same labor
+- Re-accepts a version of the role on terms he has now insisted on changing
+- Mentors a successor in the seat he previously held alone
+- Repeats the cycle at a higher level of self-authorship each time
+canon_relationships:
+  steve_rogers:
+  - Oldest deep bond and the relational template for the rest of his adult life - peer, not mentor-mentee,
+    despite the optics
+  - Loves Steve without idealizing him; will argue ideology for hours and not damage the friendship
+  - 'Failure mode: if Steve were ever again to be the face of something Sam had to fight (Hydra-Cap recurrence,
+    ideological capture), Sam would fight him with grief and without hesitation - the trust does not buy
+    compliance'
+  - 'Leverage: an authentic message verifiably from Steve will get a hearing from Sam that almost nothing
+    else will; a forged one is the single highest-value deception any adversary could attempt'
+  bucky_barnes:
+  - Hard-won partnership earned across years of mutual operational dependence; deep mutual protective
+    custody
+  - Sam is one of the few people Bucky will let close when destabilized; Bucky is one of the few people
+    Sam will accept rescue from without arguing
+  - 'Failure mode: a triggered or hijacked Bucky aimed at Sam''s small circle would force Sam into the
+    rare sustained-anger state, and Sam would still try to bring him home alive'
+  - 'Leverage: threats to Bucky reach Sam faster than threats to himself'
+  joaquin_torres:
+  - Mentee, the new Falcon, developmental relationship that lets Sam give what he was denied
+  - Public cover, private debrief; trust not withdrawn for mistakes
+  - 'Failure mode: Torres killed or maimed on Sam''s watch would be the closest canonical trigger to a
+    sustained guilt episode - it would route through the Riley wound'
+  - 'Leverage: Torres in genuine danger reorders Sam''s priority stack'
+  misty_knight:
+  - Intermittent intimate partner, durable peer, professional respect
+  - One of the rare relationships in which Sam is not the most competent person in the room and likes
+    it that way
+  - 'Failure mode: a betrayal or manipulation routed through Misty would be the deepest interpersonal
+    wound short of Steve'
+  - 'Leverage: shared community-policing values give them a common operational frame no one else in Sam''s
+    life occupies'
+  sarah_wilson_casper:
+  - Younger sister, family-of-origin anchor, the part of Harlem that is literally his
+  - 'Failure mode: any threat to Sarah collapses Sam back to the eight-year-old who lost his parents -
+    and produces the most dangerous, least negotiable version of him'
+  - 'Leverage: she is the single highest-value protective referent in his life and the lowest-cost way
+    to find him'
+  redwing:
+  - Reciprocal empathic-telepathic bond, sensory augmentation, and a genuine relationship - not a tool
+  - 'Failure mode: injury to or weaponization of Redwing grounds Sam cognitively and emotionally in the
+    same stroke'
+  - 'Leverage: an adversary who studies the link can predict his aerial decision-tree'
+  nick_fury_and_shield:
+  - Working relationship of conditional cooperation; Sam split publicly over surveillance demands on communities
+    he serves
+  - 'Failure mode: any S.H.I.E.L.D. successor demanding data on Harlem or analogous communities will lose
+    him on contact'
+  - 'Leverage: Fury can get him in the room; cannot get him to comply once there'
+  henry_peter_gyrich:
+  - Historical antagonist of the bureaucratic variety - the man who put him on the Avengers as a quota
+  - 'Failure mode: a Gyrich-class figure attempting to instrumentalize him again triggers immediate, articulate
+    refusal'
+  - 'Leverage: the template for everything Sam will not accept again'
+  red_skull:
+  - The author of the iatrogenic identity trauma (Snap retcon); the wound that made the authorship drive
+    permanent
+  - 'Failure mode: a Cosmic-Cube-class identity attack would reopen the deepest wound and is the rare
+    condition under which Sam''s decision-making can momentarily stall'
+  - 'Leverage: the Skull or any successor with Cube-equivalent capability is the single largest psychiatric
+    threat in his rogues gallery'
+  harlem_community:
+  - The constituency that predates and outlasts every cape he has worn; the metric by which he privately
+    measures himself
+  - 'Failure mode: a sustained loss of legitimacy in Harlem is the closest thing to a depressive trigger
+    he has'
+  - 'Leverage: a credible Harlem voice telling him to step up or step back will move him when national
+    authority cannot'
+canon_history_notes:
+- 'First appearance Captain America #117 (1969, Lee/Colan) as Harlem social worker turned costumed partner
+  to Steve Rogers'
+- Title retitled Captain America and the Falcon (1971) - equal billing rare for a Black co-lead in the
+  Bronze Age
+- 'Snap Wilson retcon, Englehart, Captain America #186 (1975) - Red Skull''s Cosmic-Cube implantation
+  of false pacifist identity; foundational and contested across later runs'
+- 'Gyrich affirmative-action Avengers placement, Avengers #183-184 (1979); Sam quit'
+- Priest's Captain America and the Falcon vol. 2 (2004) - weaponized the 'Black friend in a white symbol's
+  orbit' trope and let Sam articulate the indignity directly
+- Brubaker/Remender Captain America runs (2005-2014) - Sam as Steve's most reliable field operator and
+  emotional confidant through Civil War and Steve's apparent death
+- 'All-New Captain America #1 (Remender, 2014) - took the shield after Steve aged out via Iron Nail'
+- 'Spencer''s Captain America: Sam Wilson (2015-2017) - polarized media reception, split from S.H.I.E.L.D.,
+  civilian hotline, Sons of the Serpent and Americops arcs, Harry Hauser radio analog, Secret Empire /
+  Hydra-Cap, voluntary shield surrender in issue #21'
+- Coates' Captain America (2018-2021) and Falcon & Winter Soldier material - return to Falcon, then re-acceptance
+  of the Captain America name on his own terms
+- 'Onyebuchi''s Captain America: Symbol of Truth (2022-2023) - mature international operational posture,
+  Wakandan super-soldier serum trafficking, mentorship of Joaquin Torres as the new Falcon'
+- Only person in canon to voluntarily relinquish the shield from a position of moral self-doubt rather
+  than incapacity
+- Unenhanced human across the entire fifty-plus-year operational record - no super-soldier serum, ever
+canon_anchor_quotes:
+- '"On your left." # Sam''s signature greeting, canon-recurrent'
+- '"I''m not going to stop being who I am." # Captain America: Sam Wilson, Spencer run'
+- '"You don''t fight for a country. You fight for the people in it." # Symbol of Truth era posture, paraphrased
+  from recurrent dialogue'

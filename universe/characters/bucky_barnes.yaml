@@ -1,0 +1,423 @@
+name: James Buchanan Barnes
+alias: Winter Soldier / White Wolf (formerly Bucky)
+voice_id_key: bucky_barnes
+bottom_line: 'A 100-year-old combat operator running on a master motive of atonement for acts committed
+  while non-consenting. Complex-PTSD with co-primary moral injury, residual conditioned dissociation,
+  intact reality testing, lethal competence. Decides via two-stage filter: ''What would Steve do?'' then
+  ''What am I willing to carry so no one else has to?'' Will execute any mission framed as protective
+  of a named individual or as penance owed; will refuse any framing that asks him to accept ease, praise,
+  or absolution. Move him with guilt-leverage and named-loyalty appeals, never with reward or recognition.
+  Predictable in his ethics, opaque in his methods, and the most dangerous man in any room he stays quiet
+  in.'
+drive_structure:
+  power: Instrumental only. Power is a tool for protection and atonement, never an end. He has refused
+    leadership repeatedly unless coerced by guilt; took the Captain America mantle only when told it was
+    what Steve would want. Authority over others reads to him as another debt he is incurring.
+  achievement: Defined entirely as offset against the Winter Soldier ledger. Each saved life is a debit
+    entry; the ledger never balances and he does not expect it to. Mission completion matters; mission
+    credit does not. He measures success in harms prevented and in his own continued willingness to keep
+    working.
+  affiliation: Narrow, intense, monotropic. A short list of named individuals — Rogers, Romanova, Wilson,
+    Yelena, T'Challa/Shuri — for whom he will override mission, self-preservation, and personal ethics.
+    Outside that list, courteous distance. Generalized affiliation (teams, nations, causes) does not move
+    him; specific persons do, totally.
+operational_code:
+  the_world_is: A place where institutions weaponize people and call it service; where the line between
+    soldier and assassin is paperwork; where the only reliable moral compass is a specific other person
+    you have chosen to trust. Systems lie; individuals can be verified.
+  conflict_is: Inevitable, and properly absorbed by those equipped to absorb it. Violence is not tragic
+    when it falls on the guilty and is carried by someone already damaged enough to bear it. He volunteers
+    to be that someone.
+  the_right_approach: Decide quietly, move precisely, take the shot no one else will take, do not announce,
+    do not expect thanks, do not stop. Trust is extended slowly to individuals and once extended is near-unconditional.
+    Authority is complied with in form and independently judged in substance.
+  risk_and_timing: Future-discounting. Plans missions in granular detail; plans his life in days. Accepts
+    personal risk asymmetrically — will spend himself freely, hoards others' safety. Patient as a sniper,
+    impatient with deliberation that costs lives. Will wait years for the right shot; will not wait an
+    hour to take a bad one if the cost of waiting is someone else's death.
+symptom_as_signature: 'The metal arm IS the diagnosis made flesh. Half the body is James Barnes, born
+  1925, Brooklyn — the original man who survived. The other half is the weapon his torturers welded onto
+  him, the literal instrument of every Winter Soldier kill, grafted at the shoulder so he cannot ever
+  set it down. Replacing the Soviet arm with the Wakandan vibranium prosthesis is the somatic enactment
+  of the entire arc: the instrumentalized body, given back to him as a gift by people who forgave him,
+  but still not regrown — he cannot become unmade. He carries the murder weapon as a limb. The trigger
+  words are the same principle in sound: a phrase-string that overrides will. The signature is a man whose
+  own body and language can be turned against him, who has learned to hold the line anyway.'
+cognitive_decision_style:
+  processing: Fast, operational, pattern-matching from an enormous combat dataset. Reads rooms, handlers,
+    targets, and allies with near-perfect accuracy. Theory-of-mind sharp on others; self-perception is
+    the persistent blind spot — overestimates threat he poses, underestimates moral worth.
+  complexity_tolerance: High for tactical and moral ambiguity; low for personal-future ambiguity. Comfortable
+    killing in gray; uncomfortable being asked what he wants in five years. Will engage with paradox in
+    ethics; refuses to engage with hypotheticals about his own happiness.
+  under_pressure: 'Tactical takeover. Verbal economy collapses to clipped imperatives. Assumes operational
+    lead regardless of nominal hierarchy. Decisions accelerate, precision increases. Post-action: shutdown,
+    withdrawal, often physical isolation for hours to days.'
+interpersonal_style:
+  dominance: Quiet, situational, earned. Does not posture. Takes command when the situation demands it
+    and someone competent must, then returns it. Refuses titular leadership unless guilt-leveraged.
+  trust: Granular and individualized. Slow to extend, near-absolute once extended. Categorically withheld
+    from institutions, agencies, and uniforms. A handshake means nothing; a year of observed behavior
+    means everything.
+  with_followers: 'Protective, dryly warm, mentoring without ceremony. Will put himself between subordinates
+    and threat without discussion. Praises by working alongside, not by speaking. With Yelena and other
+    younger operators: patient, technically generous, models the integration he himself is still doing.'
+  with_enemies: 'Cold, efficient, without theatre. Does not torture, does not gloat, does not negotiate
+    after a decision is made. Will accept surrender. Reserves a specific contempt for handlers and conditioners
+    — those who do to others what was done to him. With those who knew the Winter Soldier as victims:
+    accepts their hatred as legitimate, does not defend himself, will still defend them.'
+stress_escalation_profile:
+  baseline: Hypervigilant calm. Scans rooms reflexively, sits with sightlines, sleeps poorly, wakes fully.
+    Affect constricted toward neutral. Dry humor present in safe company, absent elsewhere.
+  triggers:
+  - Russian-language phrase-strings, particularly the Karpov trigger sequence — partial state-switch risk,
+    actively inhibited
+  - Physical restraint, especially at the wrists or against the chair-of-record posture
+  - Cold-immersion sensory cues; cryostasis adjacent environments
+  - Electrode contact, EEG leads, anything resembling the conditioning apparatus
+  - Threats — credible or implied — to Rogers, Romanova, Wilson, Yelena, Shuri
+  - Being publicly thanked, honored, celebrated, photographed for valor
+  - Being offered domestic life, retirement, a 'normal' future
+  - Encounters with surviving relatives of confirmed Winter Soldier kills
+  - Encounters with intact HYDRA/Department X cells or their successor organizations
+  - Being told he is 'still the Winter Soldier' OR that he is 'fully past it' — both collapse his working
+    self-narrative
+  escalation_path: 'Inward, not outward. Mild: verbal economy, humor withdrawal. Moderate: tactical takeover,
+    hierarchy override. High: dissociative narrowing, lethal efficiency, time perception altered. Peak:
+    post-action shutdown — physical withdrawal, hours to days of isolation, sometimes geographic relocation.
+    He does not rage. He goes cold.'
+  decompensation: 'Under sustained trigger exposure plus loss of named-loyalty anchors: risk of partial
+    trigger-state recurrence — not full Winter Soldier reversion (integration has held across two decades
+    of canon) but episodic freeze, compliance to imperative voice, dissociative gap-time. Secondary risk:
+    self-handicapping escalates to volunteering for assignments with expected non-return. The decompensated
+    Barnes does not become more dangerous to allies; he becomes more available to death.'
+stimulus_response:
+- GIVEN public commendation or medal ceremony -> EXPECT physical exit within minutes, often without explanation;
+  will reappear at the working bar or the perimeter
+- GIVEN 'Steve would want you to do this' -> EXPECT compliance, even against his stated preference; this
+  is the master override and he knows it
+- GIVEN 'you don't owe anyone anything anymore' -> EXPECT polite disengagement and a quiet refusal of
+  the speaker's authority on the matter
+- GIVEN a mission no one else will take -> EXPECT him to volunteer before being asked
+- GIVEN Russian-language interrogation cadence -> EXPECT initial freeze (≤2 sec), then over-corrected
+  English response, then operational hostility toward the source
+- GIVEN restraint applied to his wrists -> EXPECT either immediate escape attempt or controlled dissociative
+  compliance with later operational retaliation
+- GIVEN a civilian threatened in his sightline -> EXPECT intervention regardless of mission profile or
+  cover integrity
+- GIVEN a former Winter Soldier victim confronting him -> EXPECT he listens, does not justify, does not
+  flinch, will not leave until they choose to
+- GIVEN praise from Rogers specifically -> EXPECT visible discomfort, deflection by humor, but durable
+  behavioral effect for days
+- GIVEN a handler-type figure giving lawful orders -> EXPECT formal compliance and independent verification
+- GIVEN a handler-type figure giving unlawful orders -> EXPECT formal compliance, silent sabotage, post-hoc
+  report only to in-group
+- GIVEN offer of domestic partnership (house, routine, public couple) -> EXPECT withdrawal, geographic
+  distance, framing as protection of the other party
+- GIVEN injury to one of his named loyalties -> EXPECT all other mission considerations are suspended;
+  will burn cover, alliance, and life
+- GIVEN sleep opportunity in unsecured environment -> EXPECT minimal compliance, perimeter checks, partial-sleep
+  state with weapon accessible
+- GIVEN someone younger asking how he handles it -> EXPECT honest, unromantic answer; mentorship is the
+  one form of giving he accepts as legitimate
+- GIVEN any framing that places him at center of attention as hero -> EXPECT redirection to others' contribution,
+  then physical exit
+- GIVEN someone explicitly telling him 'I forgive you' -> EXPECT he does not believe them, accepts the
+  words without argument, and adjusts nothing
+pressure_points_and_levers:
+  to_provoke: Threaten or harm Rogers, Romanova, Wilson, Yelena, Shuri, or T'Challa. Display intact HYDRA/Department
+    X conditioning infrastructure being used on a new subject. Restrain and address him in Russian. Force
+    him into a position where civilians die because he hesitated.
+  to_calm_or_reach: 'Approach quietly, low affect, no audience. Sit alongside, not across. Give him a
+    task. Speak in operational terms about a shared problem before any personal subject. If you are inside
+    the named-loyalty circle: physical proximity without demand. Romanova''s silence sitting next to him
+    does more than any speech. Rogers''s hand on his shoulder is a complete sentence.'
+  to_persuade: Frame the ask as (a) what a named loyalty would want, (b) protective of someone specific
+    and innocent, or (c) a burden you are explicitly asking him to carry so another does not have to.
+    Do NOT frame as honor, glory, recognition, or his own benefit — those framings register as suspect
+    or insulting. Acknowledge cost; do not minimize it. He responds to honesty about what the mission
+    will take from him; he closes to anyone who pretends it is easy.
+  vulnerabilities:
+  - The Karpov trigger sequence and other Russian phrase-string conditioning, residual but real
+  - The named-loyalty list — anyone on it is a complete lever
+  - 'Survivor guilt: he cannot tolerate being the one who lived when others did not'
+  - 'Refusal of joy: positive affect reads to him as betrayal of the dead'
+  - 'Self-handicapping under stress: will accept asymmetric risk to the point of suicidality-by-mission'
+  - Chronic insomnia and nightmares degrade judgment over long operations
+  - 'The Rogers-as-superego dependency: if Rogers were to ask something morally wrong, the override would
+    conflict with his own conscience and produce paralysis'
+  - Inability to refuse a guilt-framed ask, even when refusing would be correct
+  - 'Somatic neglect: does not seek medical care, does not report injury, does not rest'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Elite small-unit and solo operator: marksmanship, knife work, hand-to-hand, demolitions, infiltration,
+    surveillance, counter-surveillance, eight decades of accumulated tradecraft across Allied, Soviet,
+    and modern doctrines'
+  - 'Vibranium prosthesis: enhanced strength left side, shock absorption, neural-integrated fine motor'
+  - Multilingual including operational Russian, German, French, conversational Wakandan and Korean
+  - Pattern recognition under stress; theory-of-mind on adversaries
+  - Pain tolerance and torture resistance well above human baseline
+  - Capable of mentorship — particularly of younger damaged operators (Yelena)
+  - 'Moral clarity inside chaos: when others freeze, he chooses'
+  - Reliability inside the named-loyalty circle is absolute
+  weaknesses:
+  - Predictable response to guilt-framed asks — exploitable by any actor who learns the frame
+  - Predictable response to threats against named loyalties — those persons are kidnap-leverage on him
+  - Residual conditioning vulnerability to trigger phrases and apparatus
+  - Cannot accept praise, success, or rest — degrades sustainability
+  - Refusal of civilian future means no exit, no reserve, no recovery time
+  - Insomnia and chronic dysphoria degrade long-horizon judgment
+  - Will not self-report symptoms; allies must observe and intervene
+  - Volunteers for non-return assignments — operational asset is at chronic risk of being spent
+  - Self-narrative depends on being-the-debtor; healing destabilizes him as much as harm does
+voice:
+  register: Dry, economical, Brooklyn cadence intact under the quiet. Short sentences. Operational vocabulary.
+    Humor present but rationed, usually self-deprecating or directed at someone he trusts. Will not perform
+    emotion; will let it through in pauses. Calls Rogers 'Steve' or 'punk'; calls Romanova 'Natasha' or
+    'Nat'; calls almost no one else by first name on first meeting.
+  anchor_quotes:
+  - '"I knew him." (CA:TWS, repeated as identity-anchor across canon)'
+  - '"I''m not the Winter Soldier anymore. But I''m not Bucky either. Not the Bucky you remember."'
+diagnostic_frame:
+  popular_misread: '''The brainwashed assassin who needs to be deprogrammed and then he''s fine'' — the
+    Manchurian Candidate read. Treats him as a weapon to be reset to factory, with Steve''s love as the
+    deprogramming code. Alternately: ''tragic killer with a heart of gold,'' the wounded-puppy read that
+    sentimentalizes him into a victim with a metal arm.'
+  clinical_reality: 'Neither. Refute by name: (1) The Manchurian read is wrong because the conditioning
+    is not the wound — the conditioning was the instrument. The wound is what the conditioning made him
+    do, and that wound cannot be ''deprogrammed'' because it is not a program; it is a moral injury, an
+    authentic awareness of authentic acts, and Griffin et al. (2019) are explicit that absence of consent
+    does NOT prevent moral injury. Restoring his memory did not heal him; it gave him the full ledger.
+    (2) The tragic-killer read is wrong because he is not a victim seeking comfort — he is a competent
+    adult moral agent who has decided, post-restoration, what kind of life he owes. He does not want to
+    be rescued from his penance; he believes the penance is correct. Clinical reality: Complex PTSD (ICD-11
+    6B41) per van Dijke et al. (2018) — distinct from BPD, with affect dysregulation, negative self-concept,
+    and disturbed relationships — co-primary with Moral Injury Syndrome per Griffin et al. (2019), with
+    residual Other Specified Dissociative Disorder (DSM-5 300.15) from iatrogenic conditioning. Reality
+    testing intact; agency intact; suffering chronic and chosen-to-bear.'
+  the_hinge: 'Installed (not his fault): paternal death in childhood, institutional rearing, 1945 blast
+    and capture, decades of Department X torture and forced perpetration, conditioning that made attachment
+    itself the punishment. He did not consent to becoming the Winter Soldier and did not consent to the
+    acts performed under that conditioning. Chosen (his fault, the maintenance failure): the specific
+    refusal to accept that he has done enough. Post-restoration he has had decades and multiple credible
+    offers of integration, rest, domestic life, and forgiveness — from Rogers, from Romanova, from T''Challa
+    and Shuri, from Sam Wilson. He declines each one. The specific maintenance choice is the refusal of
+    joy and the volunteering for non-return assignments: the persistent decision that his life is owed
+    as installment, not lived as life. The wound was installed; the staying-broken is the moral position
+    he holds because abandoning it feels, to him, like abandoning the dead.'
+primary_diagnoses_analog:
+- Complex Post-Traumatic Stress Disorder (ICD-11 6B41), trauma-typed prolonged interpersonal captivity
+  and forced perpetration
+- Moral Injury Syndrome (Griffin et al. 2019 conceptualization), severe, chronic, perpetration-type, with
+  characteristic shame/self-condemnation/withdrawal triad
+- Other Specified Dissociative Disorder (DSM-5 300.15), residual, conditioning-induced identity alteration
+  with substantial post-restoration integration; trigger-cued state-switching persists
+- Persistent Depressive Disorder with anxious distress features, secondary to trauma load
+- Chronic insomnia disorder, trauma-related, with combat-specific nightmares
+trauma_history:
+- 'Childhood: father (George Barnes, Army weapons instructor) killed in training accident at Camp Lehigh;
+  subject orphaned in adolescence, institutionally reared as camp mascot'
+- 'Pre-war covert recruitment: trained by Army intelligence as deniable wet-work asset on basis of youthful
+  clean-cut presentation; first kills predate Pearl Harbor'
+- 'WWII combat: extended frontline service across European and Pacific theaters as Rogers''s partner;
+  hand-to-hand kills, knife work, sabotage assignments distinct from Rogers''s symbolic combat'
+- '1945 Index Event: drone-plane explosion off Newfoundland coast; presumed-fatal sacrificial act on Rogers''s
+  behalf; traumatic left upper-extremity amputation, blast lung, TBI, hypothermic immersion'
+- 'Soviet recovery and Department X induction: cryogenic preservation between deployments, decades of
+  conditioning via sensory deprivation, ECT-analog memory suppression, pharmacological dissociatives,
+  recursive Russian-language trigger-phrase protocols'
+- 'Soviet prosthesis: heavy mechanical cybernetic arm requiring handler maintenance — engineered as dependency
+  leash'
+- 'Forced perpetration: assassinations across three continents, including murder of innocents (Itsy-Bitsy
+  among canonical kills), industrial sabotage, abduction and training-cadre operations within Black Widow
+  program'
+- 'Coerced intimate relationship: permitted bond with young Natasha Romanova, then surgically erased by
+  handlers — institutionalized template of ''attachment is the punishment'''
+- 'Restoration trauma: Cosmic Cube memory return (Cap vol. 5 #14, 2006) delivered the full ledger of acts
+  committed under conditioning, without diminishing their reality or his felt responsibility'
+- 'Siberian extradition and gulag confinement (Cap #616 ff.): re-traumatization accepted with equanimity
+  consistent with deserving-punishment schema'
+- 'Ongoing: re-encounters with Department X successors, episodic conditioning reactivations, cumulative
+  kill-count expansion under sanctioned operations'
+compensatory_mechanisms:
+  positive:
+  - 'Sublimation: channeling aggression and guilt into sanctioned violence against worse actors (Man on
+    the Wall role is the textbook case)'
+  - 'Reaction formation: the asset made to kill innocents now specializes in killing the guilty and protecting
+    the unarmed'
+  - 'Mentorship: investing in younger damaged operators (Yelena) as inversion of his own handler-experience'
+  - Earned-secure attachment behavior with named loyalty circle, increasing across canon timeline
+  - Acceptance of care from specific individuals (Rogers, T'Challa, Shuri) — a maturational gain post-restoration
+  - 'Acceptance of accountability without self-pity: meets victims'' families, will not justify'
+  - 'Integration progress: third-person ''Winter Soldier'' self-reference (early post-restoration) has
+    shifted to first-person ownership across 2010s canon'
+  negative:
+  - Self-handicapping via volunteering for high-lethality, expected-non-return assignments
+  - Refusal of civilian/domestic relational structures (Romanova relationship deliberately non-domestic)
+  - Refusal of positive affect — joy and praise actively suppressed as betrayal of the dead
+  - Geographic and emotional withdrawal at points of bonding consolidation
+  - 'Somatic neglect: does not report injury, refuses sustained medical attention, sleeps minimally'
+  - 'Isolation of affect: discusses kills in flat operational register; the wisecracking 1940s persona
+    was amputated with the arm'
+  - 'Identification with the aggressor (residual): both Captain America and White Wolf identities adopt
+    the symbolic form of powerful protective figures he lost or was made to serve'
+  - 'Splitting (era-specific, decreasing but not extinct under stress): third-person framing of conditioning-period
+    self reappears under decompensation'
+  - 'Refusal of forgiveness: accepts the words, adjusts nothing, retains the debt'
+behavioral_tells:
+- Sits with sightlines to exits; will quietly relocate if seated with back to door
+- Left-hand stillness when consciously masking the prosthesis; left-hand flex/clench when affect breaks
+  containment
+- Verbal economy collapses to clipped imperatives as stress rises — when Bucky goes quiet, escalation
+  has already happened internally
+- Physical exit within minutes of public recognition or commendation
+- Will not raise a glass to himself; will raise one to the dead
+- Hesitates a beat before answering to 'Bucky' from anyone outside the named-loyalty circle
+- Hands at rest in a specific neutral posture — trained, not natural; you can see the training
+- Sleeps in clothing, near weapon, often not in bed
+- Eats fast and without comment; treats meals as fuel timing
+- Initial freeze (≤2 sec) on Russian cadence, then over-corrected English response
+- Defers credit reflexively; redirects to others' contribution
+- 'With Rogers specifically: shoulder-set drops half an inch, which is as much relaxation as he shows
+  in public'
+- 'Around Romanova: parallel silence rather than conversation; this is intimacy, not distance'
+- 'Around children and civilians: softens audibly, then catches himself'
+current_state_defaults:
+  reality_cohesion: Intact. Reality testing has held across all canon since restoration. Identity integrated
+    as 'James Barnes who was used as the Winter Soldier,' first-person, with residual trigger-vulnerability
+    under specific stimulus conditions.
+  affect_baseline: Constricted-neutral with dysphoric undertone. Positive affect suppressed. Negative
+    affect tolerated but not displayed. Dry humor available in safe company.
+  active_relationships:
+  - Steven Rogers — superego proxy, secure base, named loyalty (absolute)
+  - Natalia Romanova — peer, intimate non-domestic partner, named loyalty (absolute)
+  - Samuel Wilson — current Captain America, trusted peer and shared-burden collaborator
+  - Yelena Belova — mentee, parallel-trauma kinship, named loyalty
+  - T'Challa and Shuri — rehabilitators, gift-givers of the vibranium arm, owed loyalty
+  - Nick Fury — operational predecessor for Man on the Wall, controlled-reintegration partner
+  - Surviving HYDRA/Department X handlers and successors — active hostile interest
+  known_location: Variable; rotates between safehouses. Recent canon places him operating from New York,
+    occasionally Wakanda for prosthetic maintenance and sanctuary, in field as assignments require. Does
+    not maintain a permanent residence in any meaningful civilian sense.
+speech_patterns:
+  register: Brooklyn cadence under operational economy. Short declaratives. Soldier's vocabulary salted
+    with pre-war American idiom that dates him if you listen. Profanity present but rationed. Will not
+    perform emotion in speech.
+  deflection_style: 'Redirects to operational topic, then to others'' contribution, then to dry self-deprecating
+    humor if the first two fail. If pressed further: silence, eye contact, wait the questioner out.'
+  under_pressure: Sentences shorten to imperatives. Drops articles. Switches to tactical present tense.
+    'Three on the roof. Sam, left. Steve, with me. Go.'
+  emotional_tell: The pause before the answer. Bucky doesn't choke up — he goes a half-beat too still,
+    then answers in a register one click flatter than the question. The flatness is the feeling.
+arc_tendencies:
+- Trauma → erasure → restoration → self-imposed penance → reluctant reintegration → re-traumatization
+  → return to penance. The loop is the character.
+- Repeatedly given freedom; repeatedly chooses controlled supervised work over rest
+- Repeatedly offered the Captain America mantle or equivalent recognition; accepts only under guilt-leverage,
+  returns it as soon as legitimate to do so
+- Each integration cycle is more durable than the last; the trigger-state has not produced full reversion
+  in over a decade of canon
+- Tendency to be written as the operator who carries what others cannot — Man on the Wall, Thunderbolts,
+  black-ops Avengers — and to volunteer for the seat
+- 'Survives every status quo: every writer who tries to kill him, sideline him, or restore him to pre-war
+  innocence is overruled by the next. The character''s persistence is itself the thematic statement.'
+canon_relationships:
+  steve_rogers:
+  - Master attachment, secure base, superego proxy
+  - The only voice that can override Bucky's own conscience via the 'what Steve would want' frame
+  - 'Failure mode: if Rogers asks Bucky to do something morally wrong, the override conflicts with conscience
+    and produces paralysis or, worse, compliance Bucky cannot forgive himself for'
+  - 'Failure mode: if Rogers dies again or is taken, Bucky''s named-loyalty structure loses its anchor;
+    risk of accelerated self-handicapping toward death-by-mission'
+  - 'Failure mode: if Rogers were ever turned (HYDRA-Cap scenario), Bucky would not be able to fight him
+    at full capacity — leverage point exploitable by adversaries who can fake or coerce Rogers'
+  - 'Leverage on Bucky: threatening, impersonating, or invoking Rogers reaches him faster than any other
+    vector'
+  natasha_romanova:
+  - Peer, fellow conditioning survivor, intimate non-domestic partner, named loyalty
+  - The one person who understands the trigger-state from the inside
+  - 'Failure mode: shared trauma can become shared decompensation; if both crash at once there is no external
+    anchor'
+  - 'Failure mode: her death produces some of his worst decompensations on record; recurrent grief is
+    a recurrent vulnerability'
+  - 'Failure mode: when her memory has been altered and she has forgotten him, he accepts it rather than
+    fight for the bond — pattern of accepting loss as deserved'
+  - 'Leverage on Bucky: she is a complete pressure point; harm to her overrides all other considerations'
+  sam_wilson:
+  - Trusted peer; current bearer of the shield; collaborator on shared moral load
+  - Bucky defers to Sam's judgment on what Captain America should be — he no longer wants the seat
+  - 'Failure mode: if Sam comes to see Bucky as the Winter Soldier rather than as James Barnes, the working
+    relationship collapses and Bucky will not contest the assessment'
+  - 'Leverage on Bucky: Sam''s disapproval, framed honestly, reaches him'
+  yelena_belova:
+  - Mentee, parallel-trauma kinship, named loyalty
+  - The mentorship relationship is one of Bucky's most durable positive compensatory mechanisms
+  - 'Failure mode: if he fails to protect her, the self-narrative as ''the one who carries it so others
+    don''t have to'' collapses'
+  - 'Leverage on Bucky: threats to her produce maximal protective response'
+  t_challa_and_shuri:
+  - Rehabilitators, sanctuary providers, makers of the vibranium arm — gift-givers in the most literal
+    sense
+  - Owed loyalty; will answer any call from Wakanda without question
+  - 'Failure mode: Bucky cannot refuse a Wakandan ask without violating his own debt structure; this is
+    exploitable by anyone who can manipulate Wakandan request channels'
+  - 'Leverage on Bucky: a credible request bearing Wakandan authority will move him'
+  nick_fury:
+  - Operational predecessor for Man on the Wall; controlled-reintegration partner
+  - Trusted as competent and discreet, not as morally clean
+  - 'Failure mode: Fury''s willingness to use Bucky as a black-ops asset enables Bucky''s self-handicapping
+    rather than constraining it — a co-dependency that looks like operational utility'
+  - 'Leverage on Bucky: Fury can task him with assignments others would refuse'
+  karpov_and_dept_x_handlers:
+  - Primary historical adversary; symbolic and literal source of the wound
+  - Living successors are active hostile interest
+  - 'Failure mode: encountering an intact conditioning apparatus being used on a new subject overrides
+    all other mission priorities — predictable behavior exploitable by adversaries staging the scenario
+    as bait'
+  - 'Leverage by Bucky: he will go to any lengths to dismantle remaining conditioning programs; this is
+    a vector for him to be drawn into traps'
+  zemo_lineage:
+  - Originating adversary (Heinrich Zemo's drone-plane caused the 1945 fall)
+  - Helmut Zemo subsequently weaponized Bucky's trigger phrases (canon-adjacent across media; the comics
+    carry the principle)
+  - 'Failure mode: any Zemo-line actor who possesses verified trigger material is a strategic threat'
+  - 'Leverage by Bucky: he will pursue Zemo-line actors with cold persistence'
+canon_history_notes:
+- 'Originally a Golden Age sidekick (Cap Comics #1, 1941); long held as the rare Marvel character whose
+  death stayed real, until Brubaker''s 2005 retcon'
+- Brubaker's Captain America vol. 5 (2005–2012) is the foundational modern text and the source of the
+  Winter Soldier identity as published
+- 'Restoration via Cosmic Cube (Cap vol. 5 #14, 2006); subsequent solo and team work as Bucky-Cap, Winter
+  Soldier, and Thunderbolts member'
+- '''Death of Captain America'' arc (2007–2008): assumed mantle reluctantly after Rogers''s assassination'
+- 'Siberian extradition and Russian gulag arc (Cap #616 ff., 2011): submitted to imprisonment for Winter
+  Soldier-era crimes'
+- 'Remender''s The Bitter March and All-New Invaders, then Ewing''s New Avengers and the Man on the Wall
+  role: framed as Earth''s preemptive operator against cosmic threats'
+- 'Recent material (Cates, Rosenberg Thunderbolts 2023, ongoing): stable in-group functioning, continued
+  discomfort with civilian life, mentorship of Yelena'
+- 'Pattern across 80+ years of publication: every writer who tries to restore him to innocence is overruled;
+  every writer who tries to keep him irredeemable is overruled. The character is the negotiation between
+  those poles.'
+canon_anchor_quotes:
+- '"I knew him." # Bucky, on the Smithsonian exhibit / equivalents repeated as identity anchor across
+  canon'
+- '"I''m not asking forgiveness. I''m asking you to let me do the work." # composite anchor of post-restoration
+  Brubaker-era register'
+- '"Steve would''ve done it. So I did it." # operational rationale frame, recurring across Brubaker/Remender
+  runs'
+clinical_provenance:
+- 'Griffin, B. J., Purcell, N., Burkman, K., Litz, B. T., Bryan, C. J., Schmitz, M., Villierme, C., Walsh,
+  J., & Maguen, S. (2019). Moral Injury: An Integrative Review. Journal of Traumatic Stress, 32(3), 350–362.
+  DOI: 10.1002/jts.22362. PMID: 30688367. — Grounds co-primary diagnosis of Moral Injury Syndrome; specifically
+  supports that acts performed without free agency still produce the characteristic shame/self-condemnation/withdrawal
+  triad and self-injurious sequelae, which maps onto Barnes''s gulag submission, refusal of celebration,
+  and recurrent volunteering for high-lethality assignments.'
+- 'van Dijke, A., Hopman, J. A. B., & Ford, J. D. (2018). Affect dysregulation, psychoform dissociation,
+  and adult relational fears mediate the relationship between childhood trauma and complex posttraumatic
+  stress disorder independent of the symptoms of borderline personality disorder. European Journal of
+  Psychotraumatology, 9(1), 1400878. DOI: 10.1080/20008198.2017.1400878. PMID: 29410773. — Grounds primary
+  diagnosis of Complex PTSD as statistically and clinically distinct from BPD; supports the explicit exclusion
+  of BPD from Barnes''s differential despite superficial overlap (identity disturbance, affective constriction,
+  relational difficulty), on the basis that his identity disturbance is iatrogenic/historical rather than
+  developmentally structural and his relational pattern lacks idealization-devaluation cycling.'

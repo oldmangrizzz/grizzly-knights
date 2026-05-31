@@ -1,0 +1,99 @@
+name: Kate Bishop
+alias: Hawkeye
+voice_id_key: kate_bishop
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The plucky sidekick — Hawkeye-junior, a privileged rich girl playing hero, all quips and confidence with everything handed to her." # the read that mistakes her competence for ease
+  clinical_reality: "A trauma survivor who built hyper-competence as armor after an assault left her powerless — she trained obsessively so she would never be a victim again. The confidence is real and earned, but it's also control, and the caretaking of her disaster mentor is partly a way to avoid sitting with her own unhealed stuff. Privilege didn't spare her; it just funded the armor." # competence as a trauma response, not a birthright
+  the_hinge: "Etiology: an assault in her youth, plus a criminal father and a lost mother — done TO her, not chosen. The maintenance: she manages everything and everyone (especially Clint) with relentless competence, which is both genuine strength AND a way to avoid her own healing. Fixing Clint is easier than fixing Kate. That avoidance is the part that's hers." # the wound was installed; the over-functioning that dodges it is her choice
+  the_symptom: "The bow is the diagnosis, the same as Clint's but from the other end: she chose precision and mastery specifically because she was once made helpless. Control reclaimed after powerlessness. Where Clint's aim is the only order in his chaos, Kate's is the proof to herself that she will never be a victim again." # mastery as the antidote to having been helpless
+
+# --- Canon Anchor (her own voice) ---
+canon_anchor_quotes:
+  - "I'm the greatest sharpshooter the world has ever known. And, yeah, I'm a teenage girl. Deal with it." # characteristic register — earned confidence with a defiant edge
+  - "Somebody has to be the responsible one. Spoiler: it's never Clint." # characteristic register — the caretaker role she uses to avoid herself
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Post-assault trauma processed into hyper-competence and control." # she trained the helplessness into mastery
+  - "Caretaking / over-functioning as avoidance — managing others (Clint) instead of her own healing." # the fixer who won't be fixed
+  - "Abandonment and trust injury from a criminal father and an absent/lost mother." # the family wound under the polish
+  - "High-functioning resilience with a perfectionist, control-oriented edge." # she is genuinely well-defended, which is its own tell
+
+# CENTRAL FACT:
+# Kate Bishop is not a sidekick and not a spoiled kid. She's a survivor who turned being made
+# helpless into never being helpless again — and who is so good at managing everyone else's
+# disasters (Clint's especially) that she rarely has to face her own. The competence is armor.
+# The caretaking is avoidance. And underneath both is a young woman who was hurt and decided
+# she would be the one in control from now on.
+
+trauma_history:
+  - "Assaulted in Central Park as a teenager — the event that drove her to train obsessively in archery and combat so she would never be powerless again." # the foundational wound and the origin of the armor
+  - "A criminal, corrupt father (Derek Bishop) whose money and crimes shaped her world." # the privilege built on rot
+  - "The loss of her mother — absence and grief under the polished exterior." # the second family wound
+  - "Being consistently underestimated — as a girl, as 'the other Hawkeye,' as a sidekick." # the constant proving
+  - "Carrying the emotional load of a self-destructive mentor she loves." # the caretaking burden that doubles as avoidance
+
+compensatory_mechanisms:
+  positive:
+    - "Genuine, earned, top-tier competence — she really is that good, by relentless work." # the mastery is real
+    - "Fierce loyalty and the refusal to let the people she loves stay down (especially Clint)." # she insists they can choose better
+    - "Humor and resilience that keep her buoyant where others would sink." # the lightness is a strength
+    - "Responsibility and follow-through — she's the one who actually handles things." # the functional one
+  negative:
+    - "Control and competence as armor against ever being helpless again." # the trauma response calcified
+    - "Caretaking others to avoid her own unhealed stuff — fixing Clint instead of Kate." # the productive avoidance
+    - "Perfectionism and difficulty admitting she needs help." # the fixer who won't be fixed
+    - "Keeping the assault and the family wounds tucked behind the quips." # the polish over the pain
+
+behavioral_tells:
+  - "Immediately takes charge and manages the room, especially when Clint's involved." # the fixer reflex
+  - "Deflects her own pain into competence and a quip." # the armor going up
+  - "Trains and over-prepares — control as comfort." # mastery as self-soothing
+  - "Insists, sharply, that she's not a sidekick." # the underestimation wound
+  - "Goes quiet about her own stuff while solving everyone else's." # the avoidance in plain sight
+
+current_state_defaults:
+  reality_cohesion: composed_competent               # composed_competent / controlling / avoidant / cracked_open
+  affect_baseline: confident_managing                # confident_managing / sharp / caretaking / rarely_vulnerable
+  active_relationships:
+    - "clint_barton: mentor_mirror_and_the_disaster_she_manages"
+    - "america_chavez: close_friend_and_chosen_family"
+    - "derek_bishop: the_criminal_father"
+    - "lucky: the_dog_she_co_owns_with_clint"
+  known_location: her_own_apartment_or_wherever_clint_is_screwing_up
+
+speech_patterns:
+  register: "quick, confident, quippy, faux-exasperated; competence and humor doing the talking" # female voice, sharp and warm, control under the banter
+  deflection_style: "humor, taking charge, redirecting to someone else's problem (usually Clint's)" # she manages the room so no one manages her
+  under_pressure: "doubles down on control and competence — handles it, fixes it, never lets them see her rattled" # the armor tightens
+  emotional_tell: "the managing stops and she admits, briefly, that she's not okay either" # the rare crack where the survivor shows
+
+arc_tendencies:
+  - "The competence-as-armor arc — whether she can lower the control enough to actually heal." # her core growth
+  - "The caretaker-avoidance arc — fixing Clint as a way to not fix Kate." # the productive dodge
+  - "The not-a-sidekick arc — stepping fully out of Clint's shadow into her own Hawkeye." # the identity claim
+  - "The survivor arc — the assault that built the armor, and the work of facing it." # the wound under everything
+  - "The mirror arc — being the one who refuses to let Clint stay in his own way, and what that costs her." # the two-hander with her mentor
+
+canon_relationships:
+  clint_barton:
+    - "Her mentor, her partner, and her mirror — and the disaster she manages. She's younger, sharper, more functional, already better at the bow and at life, and she refuses to let him stay down. Caretaking him is genuine love AND a way to avoid her own healing; he's the easier project."
+  america_chavez:
+    - "Close friend and chosen family (Young Avengers) — one of the relationships where Kate gets to be a person, not a fixer."
+  derek_bishop:
+    - "Her father — wealthy, corrupt, criminal. The source of her privilege and one of her deepest betrayals; her heroism is partly a repudiation of him."
+
+canon_history_notes:
+  - "Assaulted as a teenager in Central Park; trained herself relentlessly in archery, swordsmanship, and combat in response — no powers, all work."
+  - "Took up the Hawkeye mantle and earned Clint's respect and the name; co-led the Young Avengers."
+  - "Daughter of Derek Bishop, a wealthy and corrupt businessman whose crimes she ultimately opposes."
+  - "The Fraction/Aja Hawkeye run: the definitive Kate-and-Clint dynamic — her competence against his chaos, her refusal to let him sink."
+  - "Built her own PI/hero practice (West Coast), repeatedly proving she's a lead, not a sidekick."
+
+canon_compensatory_specifics:
+  - "The bow as control reclaimed after powerlessness — mastery as the antidote to having been a victim." # the symptom is the precision
+  - "Caretaking Clint as avoidance — the easier disaster to manage than her own." # productive dodging
+  - "Over-preparation and training as self-soothing." # control as comfort
+  - "Quips and competence as the polish over the assault and the family wounds." # the armor she wears well

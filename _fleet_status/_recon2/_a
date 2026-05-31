@@ -1,0 +1,5 @@
+  stage A entries: 100, actors: {'felicia_hardy'}, tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 0, 'actions': 100, 'actions_budget_exhausted': False}
+  stage B entries: 100, actors: {'wade_wilson'}, tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 0, 'actions': 100, 'actions_budget_exhausted': False}
+
+=== FINDINGS ===
+HOLDS — scene_id isolation under concurrent gather() preserved.

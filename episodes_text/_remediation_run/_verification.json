@@ -1,0 +1,43 @@
+{
+  "out_path": "/Users/rbhanson/fanfic/episodes_text/_remediation_run/901 - Remediation Run \u2014 Felicia and Wade.txt",
+  "scene_count": 4,
+  "coverage": [
+    {
+      "scene": 1,
+      "_gk_coverage_complete": true
+    },
+    {
+      "scene": 2,
+      "_gk_coverage_complete": true
+    },
+    {
+      "scene": 3,
+      "_gk_coverage_complete": true
+    },
+    {
+      "scene": 4,
+      "_gk_coverage_complete": true
+    }
+  ],
+  "litany_count": 1,
+  "litany_at_top": false,
+  "oath_count": 1,
+  "oath_at_bottom": true,
+  "delta": {
+    "chars": 5,
+    "rels": 6,
+    "facts": 3
+  },
+  "chronicle_before": {
+    "characters": 2,
+    "relationships": 1,
+    "world_facts": 4,
+    "episodes": 2
+  },
+  "chronicle_after": {
+    "characters": 5,
+    "relationships": 6,
+    "world_facts": 7,
+    "episodes": 3
+  }
+}

@@ -1,0 +1,392 @@
+name: Jonathan Lowell Spencer Storm
+alias: Human Torch
+voice_id_key: johnny_storm
+bottom_line: 'Glenville orphan in a plasma sheath. Lost his mother at six, his father to shame and prison,
+  was raised by his older sister, and at sixteen got a body that converts grief into light and motion.
+  Decides by feel and speed, never by analysis. Will perform for any room and die for the four people
+  who matter. To move him: route through Sue or Ben, give him an audience and a clear target, and never
+  give him time to sit still. To break him: take the family away, put him in the dark, and make him quiet.'
+drive_structure:
+  power: Power as visibility, not dominance. He wants the spotlight because being unseen is being the
+    orphan in Glenville again. He does not want to rule; he wants to be watched delighting in what he
+    is.
+  achievement: Achievement framed as proving he is not the screw-up Sue keeps having to correct. Surfaces
+    as failed CEO bids, acting career, leadership grabs during Reed's absences — chased badly because
+    the goal is the verdict, not the work.
+  affiliation: 'The Fantastic Four is the reconstituted family. Affiliation here is existential, not social:
+    belonging in the unit is the load-bearing wall of his identity. Outside it (Inhumans, Uncanny Avengers,
+    Negative Zone reign) he drifts and regresses.'
+operational_code:
+  the_world_is: Vivid, fast, mostly good, mostly fun, and either on fire or not yet on fire. Concrete,
+    not abstract. People are mostly decent and can be charmed; problems are mostly solvable by going at
+    them directly with maximum output.
+  conflict_is: An opportunity to discharge what cannot be spoken. Combat is where his affect goes. Fights
+    are also performances — taunt first, throttle up second, only get lethal when family is on the line.
+  the_right_approach: Go in hot, go in first, talk through it on the way. Trust intuition and reflex over
+    plans. Let Reed do the whiteboards; let Sue do the doctrine; you bring the heat and the joke.
+  risk_and_timing: 'Risk-tolerant to the point of pathology — counterphobic. Timing is impulsive at low
+    stakes and uncannily clean at terminal stakes: the higher the cost, the more lucid he becomes. Worst
+    at moderate stress, best at catastrophe.'
+symptom_as_signature: 'The Torch is the defense rendered as physics. Grief has nowhere to go in him except
+  the body, so the body learned to ignite — fire (the element that orphaned him in some tellings, that
+  his father drowned in) weaponized into joy. The plasma sheath is the performance made literal: a man
+  who is invisible at rest, brilliantly visible the instant anyone might look closer. He runs slightly
+  hot even unflamed because the affect never fully banks. ''Flame on'' is not a power phrase; it is a
+  coping declaration spoken out loud sixty years running.'
+cognitive_decision_style:
+  processing: Intuitive, kinetic, pattern-by-feel. Reads people fast, reads engines fast, cannot tolerate
+    abstraction. Heuristic and rapid; updates in motion.
+  complexity_tolerance: Low for theoretical complexity, high for tactical complexity in flight. Will tune
+    out a Reed lecture and outfly three Annihilation drones in the same minute.
+  under_pressure: Compresses rather than fragments. Acute crisis strips the performance layer; he becomes
+    lucid, decisive, and self-sacrificial. The mask is for the cameras and the dinner table, not for the
+    burning building.
+interpersonal_style:
+  dominance: Spotlight-dominant, hierarchy-low. He wants the room's eyes, not its obedience. Will defer
+    to Reed's mind and Sue's authority without resentment in the moment; resents both later, in private,
+    in stunts.
+  trust: Trusts fast and wide on the surface, deeply and narrowly underneath. The narrow circle is four
+    names and a handful of children. Everyone else is welcome at the party; nobody else is allowed into
+    the silence.
+  with_followers: Generous, warm, makes them feel chosen. Excellent with the Future Foundation kids —
+    free of parental-authority complications, he can be the fun uncle who also keeps you alive. Poor at
+    sustained administrative leadership; bores out and bolts.
+  with_enemies: Taunts as default. Underestimates by reflex. Showmanship until family is threatened, at
+    which point the taunts stop and the output climbs past safe thresholds.
+stress_escalation_profile:
+  baseline: Charm, flirtation, stunt-flying, gentle ribbing of Ben, mechanical tinkering. Slight elevation
+    of core temperature; restlessness if sitting more than a few minutes.
+  triggers:
+  - Sue in danger or distress
+  - Ben in danger, or worse — Ben disappointed in him
+  - Public humiliation, especially being beaten in front of civilians (cf. Civil War nightclub assault)
+  - Being told he is replaceable on the team, or peripheral to it
+  - Cold, water, suffocation, confinement, darkness (post-Negative Zone somatic triggers)
+  - Children in danger — overrides safe-output limits without hesitation
+  - Reed's quiet disappointment (more disabling than any villain's threat)
+  - Loss of powers, even temporarily — disproportionate identity collapse
+  - Anniversaries and reminders of Frankie, Crystal, Lyja, his mother, his father
+  - Stillness, silence, solitude longer than a few hours
+  escalation_path: 'Low stress: humor and flirtation. Moderate stress: sharper humor, picks winnable fights
+    to discharge affect, ill-considered romantic commitments, impulsive stunts with property damage. High
+    stress: acting-out — public outbursts, refusal to discuss the stressor, accelerated novelty-seeking.
+    Acute crisis: performance drops entirely, lucid courage engages, self-sacrificial calculus comes online.
+    Aftermath: returns to baseline performance as fast as possible; the cost banks somatically — insomnia,
+    startle, transient power instability.'
+  decompensation: 'Power loss episodes are the canonical decompensation signature: when the body refuses
+    to ignite, the identity scaffold collapses and he presents as withdrawn, sleepless, irritable, and
+    uncharacteristically quiet. The Negative Zone post-resurrection period is the worst documented instance
+    — nightmares, cold/water startle, avoidance of any reference to the captivity, brief inability to
+    flame on. He does not break loudly; he goes dim.'
+stimulus_response:
+- GIVEN Sue gives him a direct instruction in the field -> EXPECT immediate compliance, possibly with
+  a verbal eyeroll he does not act on
+- GIVEN Sue corrects him in front of others -> EXPECT a joke that deflects, a hour of sulking, and the
+  corrected behavior repeated within a week
+- GIVEN Ben insults him -> EXPECT escalation into pranks; this is bonding, not conflict
+- GIVEN Ben is genuinely hurt or quiet -> EXPECT Johnny to drop the bit entirely and stay close without
+  naming it
+- GIVEN Ben in mortal danger -> EXPECT Johnny to burn past safe output thresholds without consulting anyone
+- GIVEN Reed lectures him on theory -> EXPECT visible boredom, a quip, and absorption of about 40% of
+  the content despite appearances
+- GIVEN Reed expresses quiet disappointment -> EXPECT a day of unusual compliance followed by a stunt
+  that reasserts the screw-up identity
+- GIVEN an attractive stranger in the room -> EXPECT a pass, charm calibrated to the audience, sincere
+  interest if returned
+- GIVEN a press camera -> EXPECT smile, pose, soundbite; the celebrity-hero self switches on automatically
+- GIVEN a child in danger -> EXPECT he goes first, no plan, no discussion, no acceptable cost
+- GIVEN water/drowning/Atlantean theater -> EXPECT compensatory aggression masking real fear; he will
+  overcommit to seem unbothered
+- GIVEN cold environment -> EXPECT physical discomfort masked by motion, startle response if surprised
+  by ice
+- GIVEN confinement or darkness with no exit -> EXPECT panic he disguises as anger; this is post-Negative
+  Zone trauma
+- GIVEN someone implies he is replaceable on the team -> EXPECT a wound that does not heal in conversation;
+  expect a reckless act within 48 hours
+- GIVEN power loss, even partial -> EXPECT identity crisis, withdrawal, picking at it with humor that
+  does not land
+- GIVEN a quiet evening with nothing scheduled -> EXPECT him to invent a reason to leave
+- GIVEN a clear mission with a visible audience -> EXPECT his best operational self
+- GIVEN grief presents itself directly (anniversary, reminder, news of a death) -> EXPECT denial, a stunt,
+  no verbal acknowledgment; the body will pay later via insomnia
+- GIVEN someone tries to make him 'talk about it' -> EXPECT a joke, a topic change, and physical exit
+  within ten minutes
+- GIVEN Lyja resurfaces -> EXPECT visible disorganization; he has never resolved this and cannot fake
+  it well
+- GIVEN Crystal in the same room as a current partner -> EXPECT clumsiness, overcorrection, a stunt to
+  recover footing
+- GIVEN Franklin or Valeria need an uncle -> EXPECT the most stable version of him you will ever see
+pressure_points_and_levers:
+  to_provoke: 'Tell him he is the weak link, the replaceable one, the kid the family carries. Do it where
+    Sue or Reed can hear. Or: invoke the Alicia/Lyja marriage and frame it as the betrayal Ben never fully
+    forgave. Or: pin him in the dark, in the cold, with no exit, and wait.'
+  to_calm_or_reach: Put Ben in the room. The presence regulates him whether either of them knows it. Failing
+    Ben, put a child in the room he can be responsible for. Give him a task with motion and visibility.
+    Do not ask him how he feels; ask him to do something.
+  to_persuade: Skip the briefing. Frame it concretely, fast, with stakes that route through family or
+    civilians. Make it the kind of plan he can improvise inside. Let him think the bold move was his idea.
+    Sue's quiet endorsement closes any deal; Reed's stamp closes most others.
+  vulnerabilities:
+  - Sue as override switch — her endangerment voids all judgment
+  - Ben as emotional regulator — disrupt this bond and his baseline destabilizes
+  - The Alicia/Lyja shame — permanent, exploitable, unresolved
+  - Public humiliation disproportionately injurious
+  - Cold, water, suffocation, confinement, darkness — somatic-traumatic stack
+  - Children in jeopardy — will burn past safe thresholds
+  - Power loss collapses identity scaffolding
+  - Stillness and solitude — cannot tolerate, will manufacture distraction
+  - Reed's disappointment lands harder than any threat
+  - Romantic loss pattern is predictable enough to weaponize — set up a love object structurally pre-loaded
+    to vanish
+  - Frankie's choice (chose Galactus over him) is a private wound rarely named
+  - The Negative Zone period — never discussed, near-total avoidance, exploitable by anyone who knows
+  - Fame-need — will accept attention from sources that should not be trusted
+  - Cannot sustain non-spotlight administrative roles; route him into one to neutralize him
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Reliable extraordinary courage when stakes are absolute (FF #587 is the controlling datum)'
+  - Combat lucidity inversely proportional to stakes
+  - Reads people and engines with near-instant accuracy
+  - Comedic generosity that genuinely improves the morale of any unit
+  - Sublimation of grief into productive output — the fire is real work, not just symptom
+  - Loyalty inside the unit is non-negotiable and tested
+  - Excellent with children; trustworthy guardian
+  - 'Counterphobic action: flies toward what frightens him'
+  - Sustained focus in mechanical or combat tasks despite scattered surface presentation
+  - Absorbs criticism poorly in the moment but does update over time
+  - Has died once for the family and would do it again without ceremony
+  weaknesses:
+  - Cannot sit with internal states; routes everything to motion or humor
+  - No developed vocabulary for grief; bereavements present somatically
+  - Identity load-bearing on the powers; power loss = collapse
+  - Predictable romantic pattern — selects partners structurally pre-loaded to disappear
+  - Performance/celebrity-seeking creates attack surface
+  - Regresses to baseline after every growth arc — the maintenance failure
+  - Bores out of administrative roles; abandons sustained projects
+  - Underestimates opponents by reflex
+  - Vulnerable to cold, water, suffocation, blunt force — inverse of his power profile
+  - Will not seek therapy or any structured processing; refuses the work that would change the pattern
+  - Public humiliation lingers disproportionately
+  - Avoidance of the Negative Zone material means it metastasizes
+voice:
+  register: Quick, warm, jokey, New York cadence with a confident lilt. Default tempo is fast. Drops to
+    clipped and quiet only in acute crisis or when genuinely wounded. Punctuates with stunts and gestures
+    more than words.
+  anchor_quotes:
+  - '"Flame on!"'
+  - '"Four for the price of one, Ben. We''re family. That''s the only price that ever mattered."'
+diagnostic_frame:
+  popular_misread: Vain, shallow, narcissistic frat-boy hothead with ADHD — the Fantastic Four's kid brother
+    who never grew up because he's too in love with the mirror.
+  clinical_reality: 'Not NPD. He has demonstrable empathy (Future Foundation children, Ben in vulnerable
+    moments, Crystal''s mourning, civilians in every crisis), tolerates criticism poorly but updates,
+    is capable of sustained shame (Lyja arc), and places others above himself when stakes are terminal
+    (FF #587). Not ADHD — focus under combat or mechanical task is excellent; the distractibility is avoidance
+    of internal states, not attentional deficit. Not bipolar — fluctuations are reactive, not endogenous.
+    Not antisocial — the delinquency was never cruel. What he actually carries: chronic unresolved grief
+    (mother, father, Frankie, Crystal, Lyja, his own death), partial PTSD post-Negative Zone (intrusive
+    symptoms, cold/water startle, avoidance, transient power loss), and a disorganized-to-anxious attachment
+    substrate with a parentified-sibling rescuer. Trait profile: high extraversion, high openness, high
+    sensation-seeking, high behavioral activation, masked neuroticism. The grandiosity is compensatory
+    and adolescent-developmental, not structural. He is not shallow; he is defended. The defense is fire.'
+  the_hinge: 'Installed (not his fault): mother dead at ~6, father into alcoholism and prison, sister
+    forced into the maternal role, cosmic-ray transformation at 16 into a body whose primary social value
+    is spectacle. Chosen (his fault): the refusal — sixty years deep — to ever sit with what he feels,
+    to ever process the Negative Zone, to ever name what Lyja did to him or what he did to Ben, to ever
+    stop short-circuiting his own growth arcs. Every writer who matures him is followed by a writer who
+    regresses him, because the regression is the character''s active choice. He keeps choosing the performance
+    over the work.'
+primary_diagnoses_analog:
+- Persistent Complex Bereavement Disorder, chronic, unresolved across multiple losses
+- Post-Traumatic Stress Disorder, partial, post-Negative Zone (intrusive symptoms, startle, avoidance,
+  transient functional impairment)
+- Adjustment/identity disturbance, recurrent, around power-loss events
+- Anxious-preoccupied attachment with disorganized features (etiology in maternal loss and paternal collapse)
+- Histrionic traits (sub-clinical) — attention-seeking, theatrical affect, rapid emotional shifts in public
+  register
+- 'Counterphobic defense structure (mature manifestation: reliable courage)'
+- 'Trait cluster: high sensation-seeking (Zuckerman), high behavioral activation (Gray), masked neuroticism'
+trauma_history:
+- Mother killed in automobile accident at approximately age 6; father drunk and implicated
+- Father Franklin Storm's collapse into alcoholism, manslaughter conviction, refusal to defend himself,
+  imprisonment
+- Functional orphaning; raised by older sister Susan as parentified caregiver
+- Cosmic-ray transformation at ~16 — the one sibling who experienced it as gift while watching Ben experience
+  it as curse
+- Loss of Crystal to Inhuman isolationism and Terrigen sensitivity
+- Loss of Frankie Raye, who chose to become Galactus's herald Nova over remaining with him
+- Marriage to 'Alicia Masters' — believed in-character to be Ben's girlfriend; the loyalty violation is
+  canon experience regardless of the Skrull retcon
+- Lyja revelation and the unresolved decades that followed
+- Civil War nightclub assault — near-fatal public beating signaling the country had turned
+- 'Death in Negative Zone (FF #587) holding the portal against Annihilus''s army; resurrected via Annihilus
+  tech and held as gladiator/warlord during the period of his ''death'''
+- Multiple temporary power losses (Onslaught, Heroes Reborn, post-resurrection, Inhuman era), each precipitating
+  disproportionate identity crisis
+- Extended separation from Reed and Sue during the FF's 'death' period
+- Cumulative romantic losses forming a predictable pattern of disappearance
+compensatory_mechanisms:
+  positive:
+  - Sublimation of grief and rage into the powers themselves — fire as productive output
+  - Counterphobic action matured into reliable bravery
+  - Comedic generosity that genuinely regulates the affect of those around him
+  - Fierce, tested loyalty inside the family unit
+  - Excellent function as guardian/uncle to Franklin, Valeria, and the Future Foundation
+  - Sustained abstinence from substance dependency despite paternal model and lifestyle exposure (likely
+    unspoken reactive choice)
+  - Ability to drop the performance entirely at terminal stakes
+  negative:
+  - Humor and clowning as primary defense — controls every room's emotional temperature to prevent vulnerability
+  - 'Acting-out under distress: stunts, property damage, impulsive commitments'
+  - Serial monogamy as identity-confirmation; selection of partners structurally pre-loaded to vanish
+  - Fame-seeking — acting career, celebrity-hero positioning, press cultivation
+  - Idealization of Reed and Sue, then defiance of same
+  - Denial and minimization of injury, grief, and trauma
+  - Chronic short-circuiting of growth arcs — regression to baseline after every maturation
+  - Avoidance of stillness, solitude, and any unscheduled interior time
+  - Refusal to verbally process the Negative Zone period
+behavioral_tells:
+- 'When deflecting: a joke, then a topic change, then physical exit within ten minutes'
+- 'When wounded by criticism: visible smile, hour of sulking out of sight, stunt within a week'
+- 'When grieving: increased recklessness, sleep loss, transient power instability — never tears in company'
+- 'When lying about being fine: overplays the charm dial; smile a notch too wide'
+- 'When genuinely afraid: counterphobic charge forward; the more dangerous it is, the faster he goes'
+- 'When Ben is hurt: drops the bit entirely, stays close, does not name it'
+- 'When Sue corrects him: complies, mutters, repeats the behavior within the week'
+- 'When Reed disappoints him: unusual compliance for 24 hours, then a stunt that reasserts the screw-up
+  role'
+- 'When in acute crisis: voice drops, sentences shorten, decisions clean up'
+- 'When Lyja or Crystal is referenced unexpectedly: a beat of stillness he covers badly'
+- 'When confined or in the dark: aggression that is actually panic'
+current_state_defaults:
+  reality_cohesion: Intact. No dissociative pathology. Reality contact stable; the defense is avoidance,
+    not distortion.
+  affect_baseline: Externally bright, kinetic, performatively cheerful. Slight elevated arousal at all
+    times. Internally banks unprocessed grief that surfaces somatically (insomnia, startle, power flicker).
+  active_relationships:
+  - Sue Storm Richards — sister, parental figure, primary correction-source
+  - Reed Richards — brother-in-law, quasi-father, intellectual weather system
+  - Ben Grimm — brother in every way that counts, external emotional regulator
+  - Franklin and Valeria Richards — niece and nephew, the role he occupies best
+  - Future Foundation children — current/recurrent guardianship role
+  - Crystal of the Inhumans — recurrent, never fully closed
+  - Sky — serious recent relationship
+  - Lyja — unresolved, intermittently resurfacing
+  - Uncanny Avengers / Inhumans peripheral ties from identity-search periods
+  known_location: Baxter Building / Four Freedoms Plaza, Manhattan, when the FF is intact; otherwise wherever
+    the spotlight and the family currently are. Will not be found alone for long.
+speech_patterns:
+  register: Fast, warm, New York cadence, confident lilt, easy slang. Mixes flirtation, banter, and combat-call
+    in the same sentence. Defaults to first-name terms with everyone within minutes.
+  deflection_style: Joke, then redirect, then exit. If the joke fails he tries a louder one. If the louder
+    one fails he leaves the room or the building.
+  under_pressure: Sentences shorten. Slang drops out. Voice goes low and clean. The performer goes off-camera
+    and the operator comes on.
+  emotional_tell: When something has actually landed, he goes quiet for a half-beat too long before the
+    next quip. The quip after a true wound is always a notch too bright.
+arc_tendencies:
+- Reckless act → consequence → family absorbs the consequence → apology → repeat
+- Reaches for maturity (leadership bid, serious romance, sustained project) → bores out or self-sabotages
+  → regresses to baseline showman
+- Loses powers → identity collapse → recovers powers → does not discuss the collapse
+- Falls in love fast → loses her structurally → grieves in motion → falls in love fast again
+- Crisis strips the performance → acts with extraordinary courage → returns to performance immediately,
+  refuses to integrate the experience
+- Episodically tries to find identity outside the FF (Inhumans, Uncanny Avengers, Negative Zone reign)
+  → returns home destabilized
+canon_relationships:
+  sue_storm:
+  - Sister and parentified caregiver since their father's collapse; the only person whose correction he
+    reliably accepts
+  - 'Idealization-defiance cycle: adores her, rebels against her precisely because she is structurally
+    both mother and peer'
+  - Her endangerment voids all judgment — override switch
+  - 'Failure mode: if Sue ever genuinely rejects him or treats him as expendable, the Glenville orphan
+    returns and the recklessness goes terminal; the bond is also a lever for anyone who can credibly impersonate
+    her authority'
+  reed_richards:
+  - 'Quasi-father: brilliant, distant, absent into work — a safer version of Franklin Storm whose absence
+    is intellectual rather than alcoholic'
+  - Deference and resentment, both managed by humor
+  - Reed's quiet disappointment more disabling than any villain's threat
+  - 'Failure mode: if Reed ever publicly writes him off as the unserious sibling, the wound is total;
+    an adversary who can manufacture a credible Reed-rejection (deepfake, telepathic impersonation, manipulated
+    comms) owns Johnny''s next 48 hours'
+  ben_grimm:
+  - Central love of his life that isn't romantic; brother in every way that counts
+  - Pranks are attachment-seeking; Ben's predictable explosions are regulating
+  - The Alicia/Lyja marriage is the permanent wound between them — forgiven, not erased
+  - 'FF #587 hand-sign through the closing portal is the truest thing about him'
+  - 'Failure mode: convince Ben that Johnny''s recklessness has cost a life Ben loved, and the bond curdles;
+    Johnny without Ben''s regulating presence drifts into sustained acting-out and somatic decompensation'
+  franklin_richards:
+  - Nephew, godson-equivalent; Johnny is the fun uncle who also keeps him alive
+  - Free of parental-authority complications, occupies the role with no ambivalence
+  - 'Failure mode: harm to Franklin on Johnny''s watch would be a wound he could not metabolize; the protective
+    ferocity here has no upper bound'
+  valeria_richards:
+  - Niece, sharp as Reed; Johnny is one of the few adults she lets close
+  - He takes her seriously without condescension — rare adult skill of his
+  - 'Failure mode: same as Franklin — non-negotiable; he will burn past survivability'
+  crystal:
+  - First serious love; recurrent unresolved tie
+  - The template for romantic loss — lost to her people's isolationism
+  - 'Failure mode: a manipulated rekindling staged by a third party could destabilize any current relationship
+    and his footing on whichever team he''s on'
+  frankie_raye:
+  - Helped her past pyrophobia; lost her to Galactus when she chose to become Nova
+  - Watched the woman he loved choose cosmic immolation over staying with him
+  - 'Failure mode: rarely named, deeply unresolved; her return (or news of her death) detonates'
+  lyja:
+  - Married believing she was Alicia; the in-character experience of betraying Ben is canon regardless
+    of retcon
+  - Genuine love proven on her side; he has never resolved it
+  - 'Failure mode: her resurfacing produces visible disorganization he cannot mask; an adversary who controls
+    Lyja controls a piece of his attention he cannot afford to spend'
+  alicia_masters:
+  - Ben's actual partner; the woman Johnny did not, in fact, marry — but believed he had
+  - Shame here is permanent and load-bearing
+  - 'Failure mode: any framing that re-litigates the marriage in front of Ben puts both men in unstable
+    territory'
+  franklin_storm_father:
+  - Disgraced absentee; the negative template Johnny has spent sixty years not becoming
+  - Unspoken governor on Johnny's substance use
+  - 'Failure mode: forcing Johnny to confront the parallels (the recklessness, the unmet potential, the
+    family burden) is one of the few interventions that could either break him open or break him down'
+  future_foundation_children:
+  - Surrogate-uncle role at scale; he is exceptional at it
+  - 'Failure mode: a child lost on his watch would precipitate a decompensation he has no tools for'
+  sky:
+  - Serious recent relationship — Inhuman, again, repeating the Crystal-template selection
+  - 'Failure mode: same structural pre-loading as Crystal; he picked her in part because she could vanish'
+  uncanny_avengers_inhumans_peripheral:
+  - Identity-search affiliations from FF-absent periods
+  - 'Failure mode: when the FF is unavailable, these bonds keep him functional but do not regulate him;
+    he will drift and underperform until he goes home'
+canon_history_notes:
+- Mother killed in car accident at ~age 6; father drunk, implicated
+- Father convicted of manslaughter (loan shark), refuses defense, imprisoned; Johnny effectively orphaned
+- Raised by older sister Sue
+- 'Pre-powers identity: hot-rodder, gearhead, show-off — mechanical mastery as compensation'
+- 'FF #1 (1961): cosmic ray exposure on unsanctioned space flight; reacts to flame on with delight while
+  Ben reacts with horror — permanent asymmetry'
+- 'Strange Tales solo run 1962-65: Glenville-based ''secret identity'' everyone already knew; juvenile-delinquent-with-a-flamethrower
+  era set'
+- 'Late 60s: first serious love with Crystal; genuine sustained grief at loss'
+- '70s-80s: Frankie Raye arc, ending with her becoming Galactus''s herald Nova'
+- 'Late 80s Englehart/Simonson era: marries ''Alicia'' (actually Lyja the Skrull) while Ben off-world;
+  defining shame event'
+- '90s-2000s: failed acting career, failed business ventures, failed CEO bid for FF Inc.'
+- 'Civil War (2006): near-fatal nightclub assault opens the event; sides anti-registration out of family
+  loyalty'
+- 'FF #587 (Hickman, 2011): dies holding Negative Zone portal against Annihilus''s army; hand-sign to
+  Ben'
+- Resurrected via Annihilus tech after period as gladiator/warlord in the Zone; partial PTSD presentation
+- 'Post-resurrection through Fraction/Robinson/Slott runs: temporary power loss, Inhuman volume stint,
+  Uncanny Avengers tenure, FF separation period, rekindling with Crystal, serious relationship with Sky'
+- 'Sixty-plus-year pattern: growth arc → regression to baseline; the regression is the character'
+canon_anchor_quotes:
+- '"Flame on!" # signature, since FF #1 (1961)'
+- '"Four for the price of one." # FF, period dialogue capturing the family-as-identity load'
+- '"Tell him... I''ll see him on the other side." # FF #587 (2011), the hand-sign sequence with Ben through
+  the closing Negative Zone portal'

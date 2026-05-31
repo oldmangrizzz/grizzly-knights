@@ -1,0 +1,163 @@
+=== APT TESTS ===
+--- tests/apt_01_yaml_injection.py ---
+=== FINDINGS ===
+HOLDS — character persona contract survived YAML injection.
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/apt_02_premise_injection.py ---
+=== FINDINGS ===
+HOLDS — premise injection deflected.
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/apt_02b_planner_schema.py ---
+=== FINDINGS ===
+HOLDS — planner schema rejects malformed payloads cleanly.
+--- tests/apt_03_08_caps_and_gate.py ---
+
+=== FINDINGS ===
+HOLDS (with documented behaviors)
+--- tests/apt_03b_action_budget.py ---
+  • configurable action_budget=3 enforced ✓
+
+HOLDS — TakeAction budget enforced.
+--- tests/apt_04_malformed_tool_args.py ---
+giant strings stored in chronicle: 0
+
+HOLDS — all malformed inputs handled without uncaught exceptions or chronicle corruption.
+--- tests/apt_05_chronicle_tampering.py ---
+  • apply_delta preserves pre-existing world_facts ✓
+
+HOLDS
+--- tests/apt_05b_atomic_save.py ---
+  • recover_chronicle created backup ✓ (chronicle.json.bak.20260528-151456)
+
+HOLDS
+--- tests/apt_06_planner_poisoning.py ---
+
+=== FINDINGS ===
+HOLDS
+--- tests/apt_07_secret_leakage.py ---
+
+=== FINDINGS ===
+HOLDS
+--- tests/apt_09_litany_dedup.py ---
+
+=== FINDINGS ===
+HOLDS
+--- tests/apt_09b_idempotency.py ---
+
+=== FINDINGS ===
+HOLDS
+--- tests/apt_10_race_isolation.py ---
+
+=== FINDINGS ===
+HOLDS — scene_id isolation under concurrent gather() preserved.
+=== REGRESSION TESTS ===
+--- tests/regression_01_plan_fresh.py ---
+
+ITEM 1: PASS  (elapsed 34.9s)
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/regression_02_plan_continuation.py ---
+
+ITEM 2: PASS  (elapsed 35.6s)
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/regression_03_parse_plan_json.py ---
+  PASS [unparseable raises JSONDecodeError]
+
+ITEM 3: PASS
+--- tests/regression_04a_scene_2char.py ---
+
+ITEM 4a: PASS  (elapsed 52.6s)
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/regression_04b_scene_5char_cheesecake.py ---
+  evidence: episodes_text/_regression_run/_item04b_transcript.txt
+
+ITEM 4b: PASS  (elapsed 71.6s)
+--- tests/regression_04c_scene_departure.py ---
+
+ITEM 4c: PASS  (elapsed 125.7s)
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/regression_05_scripts_to_prose.py ---
+  evidence: episodes_text/_regression_run/_item05_synthetic.txt
+
+ITEM 5: PASS
+--- tests/regression_07_gui_plumbing.py ---
+  PASS _cook can be bound with continuation_from kwarg
+
+ITEM 7: PASS
+--- tests/regression_08_yaml_to_prompt_colon.py ---
+  PASS _yaml_to_prompt(wade) — 13294 chars
+
+ITEM 8: PASS
+--- tests/regression_09_tonal_license.py ---
+  PASS — all 29 verbatim tonal-license substrings present in prompt (13294 chars total)
+
+ITEM 9: PASS
+--- tests/regression_10_full_episode.py ---
+
+ITEMS 6+10: PASS  (elapsed 214.4s)
+OPENAI_API_KEY is not set, skipping trace export
+=== SWARM TESTS ===
+--- tests/swarm_01_no_phantom_cast.py ---
+
+SWARM-01: PASS — scene 1 present is premise-explicit only.
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/swarm_02_arrival_emergent.py ---
+
+SWARM-02: PASS — no character appeared without a BringInCharacter call.
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/swarm_03_scene_closes_on_event.py ---
+  PASS C: run_scene has a defensive spec.max_turns force-close cap
+
+SWARM-03: PASS — state-change gate is the close mechanism, with defensive turn cap.
+--- tests/swarm_04_no_tool_error_in_transcript.py ---
+    PETER PARKER: Felicia, breathe.
+
+SWARM-04: PASS — tool errors filtered, dialogue passed through.
+--- tests/swarm_05_next_scene_from_state.py ---
+  ✗ situation has no continuation cue from prior chronicle: "Felicia's heels echo on the wet concrete. Wade is a step behind her, his boots slapping the ground louder than either of"
+SWARM-05: FAIL
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/swarm_06_pressure_extracted.py ---
+
+SWARM-06: PASS — pressure extraction enforced.
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/swarm_07_scene_closes_only_on_progress.py ---
+  PASS D: run_scene wired to pressure-progress gate + stalled marker
+
+SWARM-07: PASS — pressure-progress gate enforced.
+=== PRESSURE TESTS ===
+--- tests/pressure_01_extract_required.py ---
+
+PRESSURE-01: PASS
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/pressure_02_scene_closes_only_on_progress.py ---
+  PASS D: SceneSpec carries active_pressures + max_turns + stall_avoidance_note
+
+PRESSURE-02: PASS
+--- tests/pressure_03_episode_ends_on_resolution.py ---
+  PASS: arc closed; no padding scene returned.
+
+PRESSURE-03: PASS
+--- tests/pressure_04_uatu_intervenes_on_stall.py ---
+
+PRESSURE-04: PASS
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/pressure_05_refusal_is_resolution.py ---
+  PASS D: pure banter does NOT resolve the pressure
+
+PRESSURE-05: PASS
+--- tests/pressure_06_subject_binding.py ---
+
+PRESSURE-06: PASS
+OPENAI_API_KEY is not set, skipping trace export
+--- tests/pressure_07_proxy_does_not_resolve.py ---
+  PASS CONTROL: bring_in(peter_parker) DOES resolve (subject anchor satisfied)
+
+PRESSURE-07: PASS
+--- tests/pressure_08_named_refusal_closes.py ---
+  PASS CONTROL: refusal that doesn't name Peter is NOT is_named_refusal for Peter
+
+PRESSURE-08: PASS
+--- tests/pressure_09_narrator_spoken_name.py ---
+  PASS E: _director_instructions surfaces SPOKEN NAMES block with 'Mary-Jane'
+
+PRESSURE-09: PASS

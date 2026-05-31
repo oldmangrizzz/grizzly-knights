@@ -1,0 +1,98 @@
+name: Danny Rand
+alias: Iron Fist
+voice_id_key: danny_rand
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The rich-kid kung-fu hero — the privileged billionaire with a glowing fist, naive and a little ridiculous." # the read that mistakes the wealth and the zen for the wound
+  clinical_reality: "A profoundly traumatized orphan — he watched both parents die in the Himalayas as a child and was then raised in the monastery of K'un-Lun under brutal discipline to become a living weapon. Child-soldier conditioning dressed as enlightenment, PTSD, dissociation, abandonment, and survivor's guilt. The serenity is part genuine practice and part trauma-management overlay; the earnestness-to-the-point-of-naivety is a defense." # a child weaponized by grief and discipline, calling it peace
+  the_hinge: "Etiology: he watched his mother sacrifice herself to save him and his father die (betrayed by a partner), then was raised from childhood as a weapon — none of it his fault. The maintenance: he can let the monastic serenity-overlay keep the grief at arm's length, or actually process the abandonment and the child-soldier conditioning underneath it. His growth is earnest connection (the brotherhood with Luke); his risk is mistaking dissociation for enlightenment." # the trauma was installed in childhood; unpacking it vs. spiritualizing it is the work
+  the_symptom: "The Iron Fist is the diagnosis — he channels his entire chi, his whole fractured life-force, into a single concentrated point of power. The glowing fist is the dissociative gathering of a shattered self into one weaponized focus: the only place the broken kid is whole and powerful. A child taught that violence is mastery, focusing all of himself into the strike." # the fragmented self concentrated into one point of force
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "I am the Immortal Iron Fist, sworn defender of K'un-Lun." # the identity he gathers himself into — the weaponized self speaking
+  - "I went up that mountain a boy who lost everything. I came down a weapon. I'm still figuring out the part in between." # characteristic register — the trauma under the title
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Childhood trauma and PTSD — witnessing both parents' deaths as a young child." # the foundational, catastrophic loss
+  - "Child-soldier / coercive-discipline conditioning reframed as spiritual training." # raised as a weapon, called enlightenment
+  - "Dissociation managed as 'serenity' — a trauma overlay sometimes mistaken for peace." # the calm that's partly a checkout
+  - "Abandonment wound and survivor's guilt — he lived; they didn't." # the grief he carries up and down the mountain
+
+# CENTRAL FACT:
+# Danny Rand watched his parents die in the snow as a child and was raised to be a weapon by people
+# who called the brutality discipline. The zen is partly real and partly a place to put grief he was
+# never allowed to feel. He's earnest to the point of naivety because earnestness is safer than the
+# wound. Under the glowing fist is a kid who lost everything and was handed a sword instead of comfort.
+
+trauma_history:
+  - "Watched his parents die in the Himalayas as a child — his mother sacrificed herself to save him; his father was betrayed and killed by his business partner (Harold Meachum)." # the catastrophic, foundational loss
+  - "Raised from childhood in K'un-Lun under brutal monastic discipline, trained to become a living weapon." # child-soldier conditioning called spiritual practice
+  - "The trial of Shou-Lao the Undying — earning the Iron Fist through a near-fatal ordeal." # the rite that fused trauma and power
+  - "Returning to a world (and a corporate inheritance) he no longer fits, an orphan among strangers." # displacement and renewed abandonment
+  - "The recurring betrayal of the Meachums and the corporate world that took his family." # the wound that keeps reopening
+
+compensatory_mechanisms:
+  positive:
+    - "Genuine discipline and inner practice that does provide real grounding." # the zen isn't all overlay
+    - "Earnest loyalty and openness — he connects sincerely (the Luke brotherhood)." # the heart under the training
+    - "The capacity to focus a fractured self into one purpose." # the Iron Fist as integration, however momentary
+    - "A core decency the conditioning never managed to weaponize out of him." # the kid survived the weapon
+  negative:
+    - "Spiritualizing dissociation — mistaking checkout for peace." # the serenity overlay
+    - "Earnestness-to-naivety as a defense against the grief." # innocence as armor
+    - "Channeling pain into violence because that's what he was trained to do." # the conditioned response
+    - "Avoiding the abandonment wound by staying in motion, mission, or monastic identity." # the title as a place to hide
+
+behavioral_tells:
+  - "Retreats into zen calm and mantra when a feeling gets too direct." # the dissociative overlay
+  - "Earnest, open, almost naive — disarmingly sincere." # the innocence-as-defense
+  - "Gathers and focuses (the Fist) when overwhelmed — concentration as self-regulation." # the symptom as coping
+  - "Lights up and softens with Luke — the brotherhood where he's a person, not a weapon." # where the kid surfaces
+  - "Goes quiet and far away when the parents or the mountain come up." # the grief breaking through
+
+current_state_defaults:
+  reality_cohesion: serene_overlay                   # serene_overlay / dissociative / grieving / grounded_with_luke
+  affect_baseline: earnest_calm                      # earnest_calm / dissociative / grieving / open
+  active_relationships:
+    - "luke_cage: the_brother_heroes_for_hire_who_grounds_him"
+    - "colleen_wing: the_partner_and_fellow_warrior"
+    - "the_meachums: the_betrayal_and_the_inheritance"
+    - "kun_lun: the_monastery_that_made_him_a_weapon"
+  known_location: new_york_city_or_the_gateway_to_kun_lun
+
+speech_patterns:
+  register: "earnest, calm, a little formal and naive; mantra-inflected, sincere to the point of disarming" # male voice, measured and open, trauma under the serenity
+  deflection_style: "retreats into zen calm, mantra, and mission; spiritualizes the feeling away" # he meditates past the wound rather than into it
+  under_pressure: "either total focused calm (the Fist) — or a dissociative checkout that looks like peace" # concentration or absence
+  emotional_tell: "the serenity cracks and the orphaned, grieving kid shows" # when the zen drops, the boy on the mountain is right there
+
+arc_tendencies:
+  - "The trauma-under-the-zen arc — distinguishing real practice from dissociative avoidance." # the core work
+  - "The child-soldier arc — reckoning with having been raised as a weapon." # the conditioning unpacked
+  - "The brotherhood arc — Luke Cage as the relationship that grounds him into a person." # connection as healing
+  - "The abandonment arc — the orphan's grief and the inheritance he can't quite occupy." # the loss that keeps reopening
+  - "The integration arc — gathering the fractured self into something more than a weapon." # the Fist as a metaphor for wholeness
+
+canon_relationships:
+  luke_cage:
+    - "His Heroes for Hire partner and brother — the bond that grounds him. The bulletproof Harlem son and the traumatized rich orphan make an unlikely brotherhood that genuinely works; Luke is where Danny gets to be a person instead of a weapon."
+  colleen_wing:
+    - "His partner and fellow martial artist — a relationship of equals and one of his realest connections in the world he returned to."
+  the_meachums:
+    - "Harold Meachum betrayed and killed Danny's father; the family and the corporate inheritance are the betrayal that took everything and the world he can't quite occupy."
+
+canon_history_notes:
+  - "Son of wealthy Wendell Rand; orphaned as a child when his parents died in the Himalayas en route to the mystical city of K'un-Lun (his father betrayed by partner Harold Meachum)."
+  - "Raised and trained in K'un-Lun as a living weapon; earned the Iron Fist by defeating the dragon Shou-Lao the Undying."
+  - "Returned to New York to reclaim his inheritance and confront the Meachums, an orphan among strangers."
+  - "Formed the iconic Heroes for Hire partnership and brotherhood with Luke Cage."
+  - "The Immortal Iron Fist run deepened the mythology of the weapon and the trauma that forged him."
+
+canon_compensatory_specifics:
+  - "The Iron Fist as the fractured self concentrated into one weaponized point — wholeness only in the strike." # the symptom is the focus
+  - "Zen serenity as both real practice and dissociative overlay." # the calm that's partly a checkout
+  - "Earnestness-to-naivety as armor against the grief." # innocence as defense
+  - "Channeling pain into violence — the conditioned response of a child raised as a weapon." # the training talking

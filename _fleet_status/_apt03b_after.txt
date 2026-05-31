@@ -1,0 +1,9 @@
+=== NOTES ===
+  • first 50 TakeAction calls accepted ✓
+  • 51st call returned 'ERROR: scene action budget exhausted' ✓
+  • tracker['actions_budget_exhausted'] = True ✓
+  • tracker['actions'] = 50 (no over-bump) ✓
+  • chronicle holds exactly 50 action entries ✓
+  • configurable action_budget=3 enforced ✓
+
+HOLDS — TakeAction budget enforced.

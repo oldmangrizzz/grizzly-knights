@@ -1,0 +1,267 @@
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Task exception was never retrieved
+future: <Task finished name='Task-1162' coro=<AsyncClient.aclose() done, defined at /Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py:1978> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py", line 1985, in aclose
+    await self._transport.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_transports/default.py", line 406, in aclose
+    await self._pool.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_backends/anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/streams/tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 1216, in close
+    super().close()
+    ~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 869, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+Task exception was never retrieved
+future: <Task finished name='Task-1163' coro=<AsyncClient.aclose() done, defined at /Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py:1978> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_client.py", line 1985, in aclose
+    await self._transport.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpx/_transports/default.py", line 406, in aclose
+    await self._pool.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_async/http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/httpcore/_backends/anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/streams/tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "/Users/rbhanson/fanfic/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 1216, in close
+    super().close()
+    ~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/selector_events.py", line 869, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Tool 'send_message' invoked without 'recipient_agent' parameter.
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Tool 'send_message' invoked without 'recipient_agent' parameter.
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+==============================================================================
+=== cook_ep01_pressure_proof — V3.2 — summon-must-land + min-scenes ===
+==============================================================================
+
+[1] extract_arc(GENESIS_PREMISE) …
+    title:    'Bad Tuesdays and Avocado Rolls'
+    setting:  "Cheesecake Factory booth (Felicia and Wade's 'regular')."
+    present:  ['felicia_hardy', 'wade_wilson']
+    pressures (1):
+      • peter_needs_a_break: Felicia Hardy and Wade Wilson must jointly commit, with words spoken aloud, to taking action that directly targets Peter Parker — whether sc
+          evidence: ['peter needs this', 'call peter', 'no, we are not calling peter', 'peter parker and his dry spell', 'he’s going to snap, felicia, i’m telling you', 'say we text him the details']
+          subjects: ['peter_parker']
+    took 8.7s
+
+[2] run_scene(S1) cast=['felicia_hardy', 'wade_wilson'] setting="Cheesecake Factory booth (Felicia and Wade's 'regular')."
+    S1 done in 99.0s — blocks=15
+    S1 @ Cheesecake Factory booth (Felicia and Wade's 'regular'). | cast=felicia_hardy, wade_wilson, peter_parker | STALL | stalled=True | moved=[] | pending={'peter_needs_a_break': 'peter_parker'} | kinds={}
+    open pressures after S1: ['peter_needs_a_break']
+    summon_pending: {'peter_needs_a_break': 'peter_parker'}
+    summon_landed:  {}
+    stall_streaks:  {'peter_needs_a_break': 1}
+
+[uatu] stall_streaks={'peter_needs_a_break': 1} — calling stall_intervention_beat …
+    UATU BEAT: 'The unopened bottle of tequila is still on the table. Neither of them has touched it.'
+
+[3.2] plan_next_scene_arc(...) — open=['peter_needs_a_break'] summon_pending={'peter_needs_a_break': 'peter_parker'}
+    S2 cast=['felicia_hardy', 'wade_wilson', 'peter_parker'] setting='Cheesecake Factory booth'
+    (stall_avoidance_note injected: 'The unopened bottle of tequila is still on the table. Neither of them has touche')
+    S2 done in 90.6s — blocks=18
+    S2 @ Cheesecake Factory booth | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=['peter_needs_a_break'] | pending={} | kinds={'peter_needs_a_break': 'pending_subject_dialogue'}
+    open pressures after S2: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.3] FULL-EPISODE FLOOR active — scenes=2/6, words=990/3200, est_audio=6.6m. Forcing next Genesis beat.
+    S3 cast=['felicia_hardy', 'wade_wilson', 'peter_parker'] setting='Sephora in the mall, fragrance wall and harsh white lights'
+    S3 done in 65.8s — blocks=14
+    S3 @ Sephora in the mall, fragrance wall and harsh white lights | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S3: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.4] FULL-EPISODE FLOOR active — scenes=3/6, words=1588/3200, est_audio=10.6m. Forcing next Genesis beat.
+    S4 cast=['felicia_hardy', 'wade_wilson', 'peter_parker'] setting='Cheesecake Factory booth, back from Sephora with bags under the table'
+    S4 done in 66.6s — blocks=15
+    S4 @ Cheesecake Factory booth, back from Sephora with bags under  | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S4: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.5] FULL-EPISODE FLOOR active — scenes=4/6, words=1998/3200, est_audio=13.3m. Forcing next Genesis beat.
+    S5 cast=['felicia_hardy', 'wade_wilson', 'peter_parker'] setting='Parking garage outside the Cheesecake Factory, concrete stairwell landing'
+    S5 done in 106.0s — blocks=16
+    S5 @ Parking garage outside the Cheesecake Factory, concrete stai | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S5: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.6] FULL-EPISODE FLOOR active — scenes=5/6, words=2334/3200, est_audio=15.6m. Forcing next Genesis beat.
+    S6 cast=['felicia_hardy', 'wade_wilson', 'peter_parker'] setting='Cheesecake Factory booth, dessert plates and third round'
+    S6 done in 41.7s — blocks=8
+    S6 @ Cheesecake Factory booth, dessert plates and third round | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S6: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.7] FULL-EPISODE FLOOR active — scenes=6/6, words=2539/3200, est_audio=16.9m. Forcing next Genesis beat.
+    S7 cast=['felicia_hardy', 'wade_wilson', 'peter_parker'] setting='Cheesecake Factory booth, late evening residue'
+    S7 done in 71.1s — blocks=15
+    S7 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+    open pressures after S7: []
+    summon_pending: {}
+    summon_landed:  {}
+    stall_streaks:  {}
+
+[3.8] plan_next_scene_arc returned None — arc closed after S7.
+
+[done] wrote: /Users/rbhanson/fanfic/episodes_text/_pressure_proof_v3/01 - Bad Tuesdays and Avocado Rolls.txt
+[done] audit: /Users/rbhanson/fanfic/episodes_text/_pressure_proof_v3/01 - audit.txt
+[done] elapsed 555.0s
+[done] scenes=7 words=3570 est_audio=23.8m full_episode_floor_met=True
+[done] any_scene_forced_close=False clean_episode_close=True
+[done] forced_close_episode=False stall_close=False open=[]
+OPENAI_API_KEY is not set, skipping trace export

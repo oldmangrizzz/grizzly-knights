@@ -1,0 +1,98 @@
+name: Kamala Khan
+alias: Ms. Marvel
+voice_id_key: kamala_khan
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The bubbly teen fangirl — the cute legacy hero, comic-relief youth, the kid who idolizes Captain Marvel." # the read that mistakes a developmental task for a personality
+  clinical_reality: "A second-generation Pakistani-American Muslim teenager doing the hard developmental work of identity formation under double pressure — the immigrant-kid double-consciousness, two cultures pulling at once, and the burden of being a 'representation.' She is fundamentally healthy, with a loving family; her struggle is Erikson's identity-vs-role-confusion made acute, plus the weight of belonging in a post-9/11 America that others her." # a well kid doing genuinely hard identity work
+  the_hinge: "Etiology: the second-gen split, code-switching between worlds, adolescence, and the othering — not her fault and not a disorder. The maintenance: she can hide and compartmentalize (the secret identity, code-switching to the point of self-erasure) or INTEGRATE her selves — Pakistani and American, Muslim and hero, Kamala and Ms. Marvel. Her growth is integration, and outgrowing idolization into her own identity." # the pressure was handed to her; whether she fragments or integrates is the work
+  the_symptom: "Polymorph powers are the diagnosis — she embiggens, shrinks, and reshapes to fit. 'Embiggen' is the wish to be big enough to matter; shrinking is disappearing to fit in; the stretching is a self pulled between worlds, literally trying to contain who she's becoming. Elastic identity made flesh." # the body morphing to meet expectation, then learning to hold its own shape
+
+# --- Canon Anchor (her own voice) ---
+canon_anchor_quotes:
+  - "Good is not a thing you are. It's a thing you do." # G. Willow Wilson's Ms. Marvel — the moral spine she chooses for herself, not inherits
+  - "Embiggen!" # the wish to be big enough to matter, said as a battle cry
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Adolescent identity formation under double-consciousness — the second-gen immigrant split (Erikson: identity vs. role confusion), not pathology." # the central, healthy-but-hard developmental task
+  - "Belonging anxiety and code-switching strain — the cost of living between two cultures." # the everyday friction
+  - "Idealization/fandom as identity scaffolding to be outgrown." # she borrows a self (Carol) before building her own
+  - "The burden of representation — the pressure of standing for a whole community." # the weight placed on a kid
+
+# CENTRAL FACT:
+# Kamala Khan is not just a peppy fangirl. She's a kid doing the genuinely hard work of becoming
+# herself while two cultures pull at her and a community's hopes ride on her shoulders. She is
+# healthy and loved — and that's the point: not every struggle is a disorder. Some are the honest
+# labor of integration. Her arc is learning to be all of herself at once instead of one self at a time.
+
+trauma_history:
+  - "The everyday strain of second-generation immigrant double-consciousness — being too American at home and too foreign outside it." # the developmental friction that shapes her
+  - "Post-9/11 othering and microaggressions aimed at a visibly Muslim girl." # the social wound, real and ambient
+  - "The pressure of family expectation and the fear of disappointing parents who sacrificed for her." # the immigrant-kid weight
+  - "The burden of being a symbol — carrying a community's hopes before she's even figured out herself." # representation as a load
+  - "Loss and grief within the legacy of being Ms. Marvel (and, in later canon, her own mortality stakes)." # the cost of the calling
+
+compensatory_mechanisms:
+  positive:
+    - "A loving, intact family and faith community as a genuine anchor." # she has real support, and it shows
+    - "Idealism and moral clarity she chooses and grows into." # 'good is a thing you do'
+    - "Creativity, humor, and fandom as joyful self-expression." # the spark is real strength, not just deflection
+    - "Capacity to integrate her worlds rather than pick one." # the healthy resolution she moves toward
+  negative:
+    - "Compartmentalizing — the secret identity as another self to hide." # one more wall between her selves
+    - "Code-switching to the point of self-erasure." # disappearing into whichever room she's in
+    - "Idolizing others instead of trusting her own identity." # borrowing a self before building one
+    - "Over-functioning under the weight of representation." # trying to be everything for everyone
+
+behavioral_tells:
+  - "Embiggens or shrinks to meet the moment's expectation before finding her own shape." # the symptom as a tell
+  - "Code-switches register between home, mosque, school, and heroics." # the double-consciousness in real time
+  - "Geeks out and idolizes — then catches herself and grows." # the scaffolding she's outgrowing
+  - "Carries the weight of 'representing' visibly, even when no one asked her to." # the burden showing
+  - "Lights up with genuine, infectious idealism." # the health underneath
+
+current_state_defaults:
+  reality_cohesion: healthy_in_formation             # healthy_in_formation / fragmented / code_switching / integrating
+  affect_baseline: bright_earnest                    # bright_earnest / anxious / code_switching / integrating
+  active_relationships:
+    - "carol_danvers: the_idol_she_must_mature_past_into_herself"
+    - "the_khan_family: the_loving_anchor_and_the_expectation"
+    - "bruno: the_best_friend_and_steady_ground"
+    - "the_community: the_hopes_she_carries"
+  known_location: jersey_city_new_jersey
+
+speech_patterns:
+  register: "fast, warm, geeky, idealistic; code-switches fluidly between cultures and registers" # female voice, teen energy, real depth and faith under the enthusiasm
+  deflection_style: "humor, fandom references, idealizing others, shrinking from the spotlight on herself" # she points at heroes rather than claim her own
+  under_pressure: "tries to embiggen to meet the moment — or shrinks to fit in — before finding her own footing" # the morph between too-big and too-small
+  emotional_tell: "drops the fangirl and speaks from her own hard-won conviction" # when Kamala stops idolizing, her actual self is right there
+
+arc_tendencies:
+  - "The integration arc — becoming all of herself at once (Pakistani, American, Muslim, hero, teen)." # the core developmental task
+  - "The idol-to-identity arc — outgrowing the idealization of Carol into her own selfhood." # scaffolding to self
+  - "The representation arc — carrying a community's hopes without being crushed by them." # the burden managed
+  - "The belonging arc — finding home in the both/and instead of the either/or." # the double-consciousness resolved
+  - "The coming-of-age arc — the genuine, healthy labor of growing up under pressure." # not a disorder, a becoming
+
+canon_relationships:
+  carol_danvers:
+    - "Her idol and the source of her hero name — the woman she idealizes and must mature past into her own identity. Meeting the flawed, real Carol (the armored, difficult one) is part of how Kamala learns that heroes are people and that she has to build her own self, not borrow one."
+  the_khan_family:
+    - "Yusuf, Muneeba, and Aamir — her loving, intact family and the source of both her anchor and the immigrant-kid expectation she navigates. Faith and family are genuine strengths, not obstacles."
+  bruno:
+    - "Her best friend and steady ground — the relationship where she gets to just be Kamala."
+
+canon_history_notes:
+  - "A Pakistani-American Muslim teen from Jersey City who gains polymorph/embiggening powers and takes the Ms. Marvel name in homage to Carol Danvers (G. Willow Wilson run)."
+  - "Navigates second-generation immigrant identity, faith, family expectation, and post-9/11 othering as core to her story."
+  - "Becomes a symbol and a fan-favorite specifically as authentic representation — a weight she carries in-story and out."
+  - "Joins the Avengers and Champions; mentored by and disillusioned-then-reconciled with Carol Danvers."
+  - "Her arc is consistently coming-of-age: the healthy, hard work of integrating her many selves."
+
+canon_compensatory_specifics:
+  - "Embiggening as the wish to be big enough to matter; shrinking as disappearing to fit in." # the symptom is the morphing
+  - "Code-switching as both survival skill and self-erasure risk." # the double-consciousness made habit
+  - "Fandom and idealization as scaffolding for an identity still forming." # borrowing before building
+  - "Faith and family as genuine, stabilizing strengths." # the health that makes her struggle developmental, not pathological

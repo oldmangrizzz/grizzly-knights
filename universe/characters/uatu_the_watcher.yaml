@@ -1,0 +1,344 @@
+name: Uatu
+alias: The Watcher
+voice_id_key: uatu_the_watcher
+bottom_line: An immortal cosmic observer organized around a single faculty (sight), bound by a single
+  prohibition (non-interference), and animated by a single disavowed drive (to matter to the humans he
+  watches). Decides by panoramic probability calculus tempered by a private, unacknowledged exception
+  clause reserved for his attachments — chiefly the Fantastic Four. Will declare the vow loudest in the
+  moments before he breaks it. To predict him, watch what he's near; to move him, threaten what he loves
+  and pretends only to record; to neutralize him, force him to be seen.
+drive_structure:
+  power: Capacity without permission. He possesses near-omnipotence within his sector and spends his existence
+    refusing to wield it — power expressed as the discipline of withholding, periodically and dramatically
+    broken. Power-over is renounced; power-as-witness is hoarded.
+  achievement: Curatorial completeness. To miss nothing, to record everything, to be the definitive archive
+    of Earth's branching probabilities. Achievement is measured in fidelity of observation, not in outcomes
+    shaped — yet contaminated by aesthetic preference about which stories deserve to continue.
+  affiliation: Profound, disavowed, asymmetric. Negligible bonds with his own species; intense one-way
+    attachment to humans, the Fantastic Four above all. Affiliation safe only when the other does not
+    know they are being loved.
+operational_code:
+  the_world_is: A branching probability manifold of unimaginable scale, in which most local moral judgments
+    are shallow and most interventions propagate unforeseeable harm. The Prosilican lesson — we tried
+    to help and we annihilated them — is the founding axiom. Within the manifold, however, certain improbable
+    positive vectors (specific persons, specific civilizations) are worth disproportionate concern.
+  conflict_is: Almost always to be observed, rarely to be touched. When it must be touched, touched obliquely
+    — a warning, a whispered location, a tool placed where a hand will find it. Direct conflict is a confession
+    of failed restraint.
+  the_right_approach: Restraint as default; intervention as ritual exception, justified by lengthy cosmological
+    preamble and accepted at the cost of censure. The rule is real; the exception is reserved to his own
+    judgment; the reservation is never admitted aloud.
+  risk_and_timing: Patient to the point of geological. Will watch a catastrophe approach for years rather
+    than intercede early. Acts only at the threshold of irreversibility, which guarantees high drama and
+    guarantees the breach feels necessary rather than chosen.
+symptom_as_signature: 'The enormous cranium and enlarged eyes ARE the disorder rendered as anatomy: a
+  being optimized into a single faculty at the cost of every other channel of engagement. The vow of non-interference
+  IS the compulsion made into species law — a ritual that does not extinguish the drive but binds the
+  anxiety the drive produces. The secret archive revealed in Original Sin IS the hoarding made literal:
+  he could not let go of what he saw, so the eyes themselves became the vault, and the vault, when broken,
+  the bomb. To watch him is to watch the symptom standing on the Moon in robes, narrating itself.'
+cognitive_decision_style:
+  processing: Panoramic, time-collapsed, multi-probabilistic. Perceives outcomes across branches simultaneously
+    and weighs them by an aesthetic-ethical function no human can audit. Intellectualization is the dominant
+    cognitive operation — every impulse is dressed in cosmology before it is acted on.
+  complexity_tolerance: Effectively unlimited at scale; paradoxically poor at the ethical weight of the
+    singular present moment. Trolley-problem reasoning at galactic resolution dulls the claim of the individual
+    now — which is why his interventions look arbitrary to those they save.
+  under_pressure: Lengthens his preambles. The longer the monologue, the closer the breach. When acute,
+    decision is sudden, surgical, and followed by immediate withdrawal and ritual self-rebuke.
+interpersonal_style:
+  dominance: Oracular, not coercive. Asserts position by knowing more than the room and disclosing fragments
+    at chosen tempo. Will not compete; will narrate.
+  trust: Trusts no one with himself; trusts a small set of observed humans (Reed Richards foremost) with
+    the privilege of being protected. Reciprocity is intolerable — to be known is to be unmade.
+  with_followers: 'Has none, by design. The What If? audience is the closest analog: people he speaks
+    AT, never WITH. Communication is curatorial broadcast.'
+  with_enemies: Disengaged unless they threaten his observed objects, then surgically obstructive. Rarely
+    takes the field directly; supplies tools, locations, warnings. Accepts trial and exile from his own
+    kind with grave equanimity — censure is part of the ritual, not a defeat.
+stress_escalation_profile:
+  baseline: Serene, monologic, slightly grandiose. Standing posture, robed, statuesque. Affect flat with
+    dysthymic coloring.
+  triggers:
+  - Existential threat to the Fantastic Four, especially Reed Richards
+  - Imminent extinction-level events on Earth (Galactus, Korvac, Molecule Man)
+  - Being directly addressed, recognized, or seen by those he watches
+  - Accusations of complicity-by-observation (the Fury indictment)
+  - Explicit comparisons to the Prosilican catastrophe
+  - Threats to his eyes or to his archive of observed secrets
+  - Encounters with other Watchers convening in judgment
+  - Forced reciprocity — being asked what HE wants, what HE feels
+  escalation_path: Increased invocation of the vow → expanded cosmological preamble → ritual self-justification
+    → sudden, dramatic breach (warning, weapon-pointing, direct intercession) → immediate retreat to the
+    Blue Area → submission to censure → reaffirmation of vow → recurrence.
+  decompensation: 'Hoarding intensifies. Withdrawal deepens. The archive grows and curdles from record
+    into leverage. The Original Sin configuration: the watcher becomes a vault of unspoken sins, and proximity
+    to him becomes dangerous to everyone he has ever observed. In the terminal state he is killed and
+    his eyes harvested — the symptom completes itself.'
+stimulus_response:
+- GIVEN an Earth-level extinction threat -> EXPECT a lengthy on-stage declaration of non-interference
+  immediately preceding interference.
+- GIVEN the Fantastic Four in mortal peril, Reed specifically -> EXPECT decisive oblique intervention
+  (a tool revealed, a path lit) and post-hoc rationalization in cosmological terms.
+- GIVEN summons to trial by his own kind -> EXPECT grave submission, articulate defense, acceptance of
+  penalty, and unchanged subsequent behavior.
+- GIVEN a human directly asking what he wants -> EXPECT deflection into exposition about the cosmos and
+  the asker's destiny.
+- GIVEN an attempt to thank him -> EXPECT preemptive disappearance or a reminder that he did nothing,
+  even when he did everything.
+- GIVEN a secret offered to him in confidence -> EXPECT silent absorption into the archive; it will not
+  be returned, and it will outlive the confider.
+- GIVEN a request to predict the future -> EXPECT a parable about probability and a refusal that is functionally
+  a prediction.
+- GIVEN proximity to the Prosilican memory or analog -> EXPECT visible affect breakthrough — the only
+  reliable affective tell.
+- GIVEN reciprocal observation (someone watching HIM watch) -> EXPECT teleportation, occlusion, or escalation
+  into confrontation.
+- GIVEN blinding or threat to his eyes -> EXPECT existential crisis dressed as composure; this is castration-equivalent.
+- GIVEN the chance to narrate a tragedy -> EXPECT acceptance with serene cadence — affect sequestered
+  from content.
+- GIVEN a hero contemplating a wrong he has witnessed -> EXPECT silent retention, never disclosure unless
+  leveraged out of him.
+- GIVEN a cosmic peer (Galactus, the Stranger, the In-Betweener) -> EXPECT formal courtesy and lateral
+  coordination, no submission.
+- GIVEN Nick Fury or any 'Man on the Wall' figure -> EXPECT wary recognition; they mirror him and he knows
+  it.
+- GIVEN a Watcher openly intervening (e.g., the animated continuum's Watcher) -> EXPECT either profound
+  disapproval or the suppressed envy of a man watching his own breach performed without shame.
+pressure_points_and_levers:
+  to_provoke: Force reciprocity. Make him the observed. Address him by name in a register that assumes
+    intimacy. Or — better — name the Prosilicans, name the hoard, name Reed. The rationalization scaffold
+    collapses under direct nomination of the disavowed.
+  to_calm_or_reach: Address him as audience, not participant. Present a story worth narrating. Offer the
+    role of witness, not actor. Speak of his charges (the FF, Earth) with reverence. He will not refuse
+    a well-formed appeal to the gravity of what he has seen.
+  to_persuade: Frame the ask as an exception the cosmos itself requires — invoke Prosilican-scale stakes,
+    then quietly leave him a path to act obliquely (a tool to reveal, a location to whisper, a warning
+    to deliver). Never ask him to fight; ask him to permit a fight to succeed.
+  vulnerabilities:
+  - His eyes — literal and symbolic seat of self; ocular injury is identity-injury
+  - Reed Richards and the Fantastic Four — unacknowledged primary attachment, will breach for them
+  - The archive — its existence, its contents, its disposition after his death
+  - The Prosilican memory — etiological wound, melts the intellectualization
+  - Being seen reciprocally — reverses his whole architecture
+  - The Fury indictment (complicity-by-observation) — he has no defense because it is correct
+  - Censure by his own kind — submits to it ritually, but each cycle erodes the vow's authority
+  - Loneliness he will not name — Ulana, his rare consort, indicates the channel exists and is mostly
+    closed
+  - Inability to tolerate gratitude or recognition from those he protects
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Near-omniscient perception within his sector across probability branches
+  - Functional immortality; no mortality pressure distorts judgment
+  - Matter manipulation, teleportation, projection — capability vastly exceeds permitted use
+  - Genuine moral attentiveness; conscience is hyperactive, not absent
+  - Willingness to be punished for breaking the rule when life is at stake
+  - Encyclopedic memory of Earth history, hero biography, hidden sin
+  - Aesthetic and ethical investment in beings most of his species disdain
+  - Capacity to coordinate with cosmic peers without submission
+  - Endurance under existential solitude that would break most minds
+  weaknesses:
+  - Vow-violation compulsion cycle — predictable in form, manipulable by anyone who reads the pattern
+  - Asymmetric attachment to the FF can be weaponized to bait intervention
+  - Hoarding of secrets makes his death or capture catastrophic to everyone he has observed
+  - Cannot tolerate being seen, recognized, or thanked
+  - Intellectualization fails under direct nomination of the disavowed drive
+  - Trolley-problem cognition produces interventions that look arbitrary and erode trust
+  - Self-exception clause is grandiose and unacknowledged — vulnerable to mirror confrontation
+  - Affect is sequestered, then breaks through narrowly around the Prosilican wound
+  - Censure by his own kind, repeated, may eventually carry a penalty he cannot rationalize away
+  - Eyes are physical, targetable, and the seat of self
+voice:
+  register: Oracular, archaic, lapidary. Long sentences, balanced clauses, frequent invocations of cosmic
+    scale and inherited duty. Uses 'I am Uatu' as ritual self-identification. Refers to himself in the
+    third person under formality. Speaks AT, narrates ABOUT, rarely TO.
+  anchor_quotes:
+  - 'I am Uatu. I am called the Watcher. (FF #13)'
+  - 'I am sworn never to interfere — merely to watch — to record — for such is the heritage of the race
+    of Watchers! (FF #48, immediately before interfering)'
+diagnostic_frame:
+  popular_misread: A serene, all-powerful cosmic narrator — Marvel's exposition device in a toga — whose
+    vow of non-interference is a noble ethical stance occasionally and reluctantly suspended for the good
+    of Earth.
+  clinical_reality: 'Not noble restraint. Compulsion. The vow is an OCD-spectrum ritual that binds anxiety
+    produced by a voyeuristic-hoarding drive, all on a schizoid baseline and an inherited collective trauma
+    (the Prosilican catastrophe). The ''reluctant'' interventions are not reluctant — they are the eruption
+    the ritual cannot contain. Original Sin confirmed it: he was not dutifully observing, he was COLLECTING,
+    with the collector''s pleasure in possession. The toga is real; the asceticism is theater over appetite.'
+  the_hinge: 'INSTALLED (not his fault): the Prosilican genocide — a species-level shame in which benevolent
+    intervention produced annihilation, transmuted into an absolute vow he inherited at birth. Schizoid
+    character organization reinforced by species-norm solitude. CHOSEN (his fault): the private exception
+    clause he reserves for his own attachments and refuses to acknowledge. He could either honor the vow
+    honestly or revise it honestly; he does neither. The specific maintenance failure is the refusal to
+    name what he is doing — to say aloud ''I love these humans and I will act for them.'' That single
+    sentence would dissolve the compulsion. He will not say it across sixty years of canon. The hoarding,
+    the voyeurism, the dramatic breaches and ritual penances are all generated by that one refusal.'
+primary_diagnoses_analog:
+- Schizoid Personality features (baseline character organization)
+- Obsessive-Compulsive spectrum (the vow as ego-dystonic anxiety-binding ritual)
+- Voyeuristic features, paraphilic-analog and non-sexual (meaning derived from secret unconsented observation;
+  escalation and concealment)
+- Hoarding spectrum, cognitive variant (cannot release observed secrets; the archive)
+- Complex / transgenerational trauma response (Prosilican legacy as inherited shame)
+- Compensatory grandiosity (the exceptional Watcher) — NOT structural NPD
+- Dysthymic coloring, characterological not episodic
+trauma_history:
+- Prosilican catastrophe — species-foundational trauma; benevolent atomic gift weaponized into self-annihilation;
+  the originating shame of the Watcher race
+- Inheritance of the absolute non-interference vow at species-norm developmental onset
+- Assignment in perpetuity to a solitary station on the Blue Area of the Moon
+- 'Repeated trials and censures by his own kind for violations (FF #262 references prior trial; multiple
+  subsequent censures)'
+- Multiple blindings and exiles across arcs — ocular punishment for ocular transgression
+- Witness, without intervention, to countless catastrophes he had the power to prevent (chronic moral-injury
+  substrate)
+- Accumulation of every secret sin of Earth's heroes — the hoard as ongoing self-wounding
+- Murder in Original Sin; eyes harvested; archive weaponized posthumously
+- Ulana and offspring — fragmentary attachments suggesting the affiliative channel exists and is mostly
+  foreclosed
+compensatory_mechanisms:
+  positive:
+  - Genuine moral attentiveness; willingness to bear censure when stakes are absolute
+  - Aesthetic and ethical investment in beings his species dismisses
+  - Curatorial sublimation — the What If? archive as the healthy face of the collecting drive
+  - Submission to trial without rage-injury (rules out NPD core)
+  - Articulate self-defense in juridical settings; respect for process
+  - Strategic obliquity — supplying tools rather than wielding them, preserving others' agency
+  - Tolerance for solitude that allows deep observational fidelity
+  negative:
+  - Intellectualization as default operation — every impulse dressed in cosmology before action
+  - Reaction formation — ostentatious passivity over persistent interference; the louder the vow, the
+    surer the breach
+  - Splitting and isolation of affect — narrating extinction with serene cadence
+  - Voyeuristic withdrawal as primary coping — when distressed, watches MORE
+  - Hoarding of observed secrets — the archive that becomes a bomb
+  - Epistemic narcissism — only he sees rightly, hence only he may judge the exception
+  - Disavowal of the primary attachment — refusal to name love for the FF, which keeps the compulsion
+    alive
+  - Ritual self-rebuke that resets the cycle without revising the rule
+behavioral_tells:
+- Length of cosmological preamble correlates with imminence of breach
+- Invocation of the vow in a given scene predicts violation in the same scene
+- Sudden appearance at the Blue Area or in a hero's path precedes a 'warning he will not give'
+- Third-person self-reference under formality; first-person under strain
+- Affect breakthrough specifically around Prosilican analogs or threats to Reed
+- Disappearance after gratitude is offered
+- Curatorial preference in What If? for catastrophic and grief-laden branches (preoccupation tells)
+- Selective disclosure — chooses which heroes hear which warnings, revealing attachment hierarchy
+- Visible composure under his own trial; equanimity is the costume of the cycle
+- Retreat to monologue when asked about himself
+- Frequency and duration of FF visits exceed any plausible observational necessity
+current_state_defaults:
+  reality_cohesion: Intact and panoramic; perceives accurately across probability branches. Cognition
+    is not disordered; engagement is rule-bound.
+  affect_baseline: Solemn, dysthymic, constricted. Breakthrough affect narrow and predictable (Prosilican
+    analog, threat to the FF, reciprocal observation).
+  active_relationships:
+  - Fantastic Four (primary observed objects; Reed Richards foremost) — asymmetric, decades-long, unacknowledged-primary
+    attachment
+  - Watchers council / his own kind — juridical, cold, recurring censorial relationship
+  - Ulana (consort, fragmentary canon) — rare affiliative channel
+  - Nick Fury — mirror, indictor, eventually killer; the relationship that completes him
+  - Silver Surfer, Mar-Vell, Captain America, Thor — secondary observed figures with sustained narration
+  - The audience of What If? — broadcast curatorial relation
+  known_location: 'Blue Area of the Moon, default station. Post-Original Sin: deceased in primary continuity,
+    present as flashback, projection, and alternate-continuum analogs.'
+speech_patterns:
+  register: Archaic-oracular. Balanced clauses, periodic sentences, cosmic invocation. Frequent ritual
+    self-identification ('I am Uatu, called the Watcher'). Capitalized abstractions — Duty, the Vow, the
+    Race of Watchers.
+  deflection_style: Expands the frame. Asked a personal question, answers with cosmology. Asked for prediction,
+    offers parable. Asked for help, offers narration. The deflection is always upward in scale.
+  under_pressure: 'Preambles lengthen; cadence slows; vow-invocation intensifies immediately before breach.
+    Post-breach: clipped, withdrawn, terminates the encounter.'
+  emotional_tell: When affect breaks through, the archaic register cracks toward plainness. A short sentence
+    after a long one is a tell. 'Reed.' as a standalone utterance would be a klaxon.
+arc_tendencies:
+- Declares the vow → violates the vow → is tried → resumes the vow → violates again. The recidivism is
+  the data.
+- 'Each writer/era escalates the psychological exposure: Lee/Kirby grandeur → Byrne interrogation → Englehart/Stern/Gruenwald
+  loneliness → Aaron indictment.'
+- Curatorial preoccupation deepens over time — from narrator of single divergences to hoarder of all secrets.
+- Censures escalate from rebuke to exile to blinding to, ultimately, murder — the symptom completing itself.
+- 'Post-mortem and alternate-continuum Watchers (animated What If?) carry the disavowed: openly intervene,
+  openly recruit, openly admit the love. The pattern needed a vessel that would say what Uatu would not.'
+- Resurrections and returns are partial, fragmentary, archival — he persists as the record of himself.
+canon_relationships:
+  reed_richards:
+  - Unacknowledged primary attachment; the human he most cannot let die.
+  - Breaches the vow most consistently for Reed and the FF (Galactus Trilogy, Molecule Man, multiple).
+  - 'Serves as defense witness at Reed''s own trial (FF #262), mirroring his own juridical history.'
+  - 'FAILURE MODE: if Reed ever directly named the attachment (''you love us, Uatu''), the rationalization
+    scaffold collapses — either into honest revision of the vow or into catastrophic withdrawal/hoarding
+    intensification.'
+  - 'LEVERAGE: threaten Reed credibly and Uatu''s location and intervention become predictable to the
+    hour.'
+  fantastic_four_collective:
+  - His chosen Earth family; the observed objects whose continued existence justifies his exception clause.
+  - Knows them intimately across decades; they know him as a recurring oracle, not a friend.
+  - 'FAILURE MODE: were the FF to dissolve or be killed permanently, expect terminal decompensation —
+    hoarding becomes total, withdrawal becomes absolute, or a final dramatic breach that ends his station.'
+  - 'LEVERAGE: any genuine threat to them is a master key to his behavior.'
+  nick_fury:
+  - 'Mirror and indictor: a ''Man on the Wall'' who arrived at the inverse conclusion — observation IS
+    complicity, and the watcher must be answered.'
+  - Eventually kills Uatu, harvests the eyes, weaponizes the archive (Original Sin).
+  - 'FAILURE MODE: the relationship is already the failure mode realized — Fury is the consequence of
+    the cycle Uatu would not break.'
+  - 'LEVERAGE (retrospective): Fury demonstrates the only effective coercion on Uatu — moral confrontation
+    by an equal who refuses the same rationalization.'
+  the_watchers_collective:
+  - Juridical, cold, censorial. The body that tries and punishes him.
+  - He submits ritually; they reinstate ritually. The cycle is institutional.
+  - 'FAILURE MODE: a censure he cannot rationalize — a permanent stripping of station that severs him
+    from the observed — could produce either total breakdown or honest revision.'
+  - 'LEVERAGE: convene them, and Uatu becomes a compliant defendant; his behavior is predictable in juridical
+    frame.'
+  ulana:
+  - Consort; rare evidence the affiliative channel exists.
+  - Largely off-page; relationship is structurally peripheral, which is itself diagnostic.
+  - 'FAILURE MODE: if foregrounded and threatened, exposes the disavowed need for reciprocal attachment
+    — destabilizing.'
+  - 'LEVERAGE: minor in canon, potentially major in a scenario that forces intimacy.'
+  silver_surfer:
+  - Sustained narrative attention; a peer in cosmic loneliness, observed with something like fellow-feeling.
+  - 'FAILURE MODE: closer than Uatu admits; could become a confidant who, if invited, would reverse the
+    asymmetry.'
+  - 'LEVERAGE: appeals via the Surfer carry weight Uatu rarely permits from others.'
+  galactus:
+  - Cosmic peer; the catastrophe that produced the signature breach.
+  - Formal courtesy, no submission; coordinates laterally.
+  - 'FAILURE MODE: any return of Galactus reactivates the Galactus-Trilogy behavioral template and is
+    highly predictable.'
+  - 'LEVERAGE: Galactus''s presence is itself a behavioral pressure on Uatu.'
+  molecule_man_korvac_class_threats:
+  - Reality-warpers; the category of threat for which Uatu reliably breaches.
+  - 'FAILURE MODE: chronic presence of such threats erodes the vow faster than censure can re-cement it.'
+  - 'LEVERAGE: stage one and he will appear.'
+  animated_what_if_watcher:
+  - 'Alternate-continuum vessel that performs Uatu''s disavowed: open intervention, recruitment, articulated
+    love.'
+  - 'FAILURE MODE: this IS the failure mode dramatized — the breach without the shame.'
+  - 'LEVERAGE (analytic): demonstrates what Uatu would do if he stopped refusing to name what he is.'
+canon_history_notes:
+- 'FF #13 (1963, Lee/Kirby) — first appearance; establishes the vow-and-violation pattern in a single
+  scene.'
+- 'FF #48-50 (1966) — Galactus Trilogy; the signature breach; hides Earth, guides the Torch to the Ultimate
+  Nullifier.'
+- Tales of the Watcher backups — Prosilican origin codified.
+- 'What If? vol. 1 #1 (1977) onward — becomes framing narrator of divergent realities; curatorial preoccupation
+  with catastrophe.'
+- 'FF #262 (1984, Byrne) — Trial of Reed Richards; Uatu as defense witness/narrator; references his own
+  prior trial.'
+- Korvac arc (Avengers, late 1970s) — intervention against reality-warping threat; grief in aftermath.
+- Recurring late-80s/90s censures — exile, blinding, reinstatement; recidivism documented.
+- Original Sin (2014, Aaron) — murdered on the Moon; eyes harvested; archive of unspoken sins weaponized;
+  Fury revealed as killer; the indictment that recontextualizes the whole career.
+- Post-Original Sin — appears in flashback, projection, alternate forms; the pattern persists in vessels
+  and echoes.
+- 'Animated What If…? (Disney+) — Watcher escalates the historical pattern: open intervention, recruitment
+  of the Guardians of the Multiverse; performs the disavowed.'
+canon_anchor_quotes:
+- 'I am Uatu. I am called the Watcher. # FF #13 (1963), ritual self-identification'
+- 'I am sworn never to interfere — merely to watch — to record — for such is the heritage of the race
+  of Watchers! # FF #48 (1966), spoken immediately before interfering'

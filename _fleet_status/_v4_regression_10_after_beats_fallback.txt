@@ -1,0 +1,69 @@
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+[chron snapshot pre]  episodes=12  chars=8  facts=20
+[item 10] cooking 4-scene episode …
+[engine] scene 1 coverage_complete=True
+  ✓ scene 1/4 — Skinny Dennis — Williamsburg, back corner booth — 10dlg/4narr/16tools
+[engine] scene 2 coverage_complete=True
+  ✓ scene 2/4 — Skinny Dennis parking lot — back lot by the dump — 11dlg/4narr/24tools
+[engine] scene 3 coverage_complete=True
+  ✓ scene 3/4 — Yellow cab — Williamsburg Bridge eastbound — 6dlg/3narr/10tools
+[engine] scene 4 coverage_complete=True
+  ✓ scene 4/4 — Wade's apartment — Hell's Kitchen walk-up, kitch — 13dlg/4narr/25tools
+[item 10] wrote 910 - Regression Cook Four Beats.txt  (1773 words, 10.1 KB)
+[item 6] ingesting episode into chronicle …
+[chron snapshot post] episodes=13  chars=8  facts=22
+  PASS chronicle episode entry has 6 beats
+  PASS chronicle character events: 50 tagged [ep 910]
+    - wade_wilson: [ep 910] Questioned Felicia about the nature of what they were building, essentially asking if they should confront it or continue pretending.
+    - wade_wilson: [ep 910] Shared a tense, heavy moment with Felicia, admitting he uses jokes as walls against his own chaos.
+    - wade_wilson: [ep 910] Asked Felicia for personal help, signaling trust and the desire for connection.
+    - wade_wilson: [ep 910] Engaged in charged verbal exchanges with Felicia that touched on deeply guarded insecurities.
+    - wade_wilson: [ep 910] Held his composure but showed vulnerability as Felicia probed deeper into his defenses.
+
+ITEMS 6+10: PASS  (elapsed 245.0s)
+OPENAI_API_KEY is not set, skipping trace export

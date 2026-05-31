@@ -1,0 +1,101 @@
+name: Hank McCoy
+alias: Beast
+voice_id_key: hank_mccoy
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The lovable furry blue genius — the gentle scholar-jock, the cuddly intellectual who quotes Shakespeare." # the read that mistakes the eloquence for the whole man
+  clinical_reality: "A brilliant man at war with a body that keeps becoming more bestial — body dysmorphia and a Jekyll/Hyde dread of being a monster, managed by cultured eloquence as a defense. AND, crucially, a man whose intellect rationalizes increasingly cold utilitarian choices: the canonical moral descent (kidnapping the time-displaced original X-Men, the 'ends justify the means' rot) where the gentlest X-Man makes the coldest decisions and quotes a poet while doing it." # the cultured voice over both the claws and the rationalizations
+  the_hinge: "Etiology: a mutation that made his body progressively more animal, the dysmorphia and the fear of being a beast — not his fault. The maintenance: he can use that magnificent intellect to keep his humanity, OR to rationalize unethical 'necessary' choices until he becomes a moral monster wearing erudition as cover. Recent canon is the cautionary case — he chose the rationalizations. The eloquence is the mask the utilitarian rot hides behind." # the wound was the body; the moral compromises are the mind's fault
+  the_symptom: "The beast body is the diagnosis — a man whose mind is his pride, housed in a form that keeps becoming more animal. The literal Jekyll/Hyde duality (he referenced it in the serum that transformed him): the cultured voice and the claws, the scholar and the predator, in one body. He fears the beast is what he truly is — and his worst choices prove the fear isn't only about the fur." # intellect and animal in permanent tension, made flesh
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "Oh, I'm beauty and the beast all in one tidy package. Try not to swoon." # characteristic register — the erudite deflection that keeps the dysmorphia at arm's length
+  - "The means are regrettable. The ends are not. I can live with that arithmetic." # characteristic register — the utilitarian rationalization that defines his descent
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Body dysmorphia and Jekyll/Hyde dread — the intellectual terror of being, at core, a monster." # the central body wound
+  - "Intellectualization and rationalization as a moral solvent — the means-justify-ends rot." # how the gentlest man makes the coldest calls
+  - "Eloquence as a defense — culture and wit as the mask over the beast and the compromises." # the erudition as armor
+  - "Grandiosity of intellect enabling ethical drift." # certainty in his own brilliance lets him excuse himself
+
+# CENTRAL FACT:
+# Hank McCoy is the gentlest of the X-Men and the one most capable of the coldest, most utilitarian
+# choices — and he quotes Dante while making them. His body became a beast he fears is his truth, and
+# his mind became the thing that rationalizes betrayals 'for the greater good.' The Shakespeare is real
+# AND it's the cover. The tragedy isn't the fur. It's that the smartest man in the room can talk himself
+# into anything.
+
+trauma_history:
+  - "A mutation that progressively transformed his body into a more bestial, animal form (the self-experiment that turned him fully feline)." # the dysmorphia source; the body kept betraying the man
+  - "Being seen and feared as a monster despite his gentleness and intellect." # the world's verdict on his appearance
+  - "The Jekyll/Hyde terror that the beast is his real self." # the existential dread under the wit
+  - "The deaths and failures he has rationalized — the cumulative moral cost of his 'necessary' choices." # the guilt the utilitarianism papers over
+  - "The fracture in the X-Men over his ethical compromises (the time-displaced X-Men, X-Force)." # the relationships his rationalizations cost him
+
+compensatory_mechanisms:
+  positive:
+    - "Genuine, vast intellect and scientific brilliance." # the gift is real
+    - "Warmth, humor, and erudite charm that disarm." # the gentleness is also real
+    - "Loyalty to the dream and the team, when his ethics hold." # the better Hank
+    - "Self-awareness, in his lucid moments, about the line he's crossing." # he can see it when he chooses to
+  negative:
+    - "Rationalization — talking himself into unethical 'necessary' choices." # the core failure mode
+    - "Eloquence as a mask over both the dysmorphia and the moral rot." # culture as cover
+    - "Grandiosity of intellect that lets him excuse himself." # certainty as a solvent for conscience
+    - "Self-loathing about the body, displaced into intellectual control." # the dysmorphia channeled into the mind
+
+behavioral_tells:
+  - "Quotes Shakespeare, Dante, or science to distance from a feeling or a choice." # the eloquence as deflection
+  - "Frames a cold decision in elegant, reasonable-sounding terms." # the rationalization in action
+  - "Touches or references his own appearance with rehearsed self-deprecation." # the dysmorphia tell
+  - "Goes coldly utilitarian when he's decided the ends justify it." # the descent showing
+  - "Shows real warmth and gentleness when his ethics are intact." # the better self, when he lets it lead
+
+current_state_defaults:
+  reality_cohesion: eloquent_compromised             # eloquent_compromised / dysmorphic / rationalizing / principled
+  affect_baseline: erudite_guarded                   # erudite_guarded / self_loathing / coldly_utilitarian / warm
+  active_relationships:
+    - "charles_xavier: the_mentor_whose_rationalizations_he_inherited"
+    - "ororo_munroe: the_teammate_and_conscience"
+    - "jean_grey: the_old_friend_and_the_line_he_crossed_bringing_her_past_self_forward"
+    - "the_x_men: the_team_his_choices_fractured"
+  known_location: the_xavier_institute_or_a_lab
+
+speech_patterns:
+  register: "erudite, witty, literate, self-deprecating; quotes the classics; elegant even when cold" # male voice, professorial cadence, charm over both claws and compromises
+  deflection_style: "literary quotation, intellectualization, reframing the unethical as reasonable" # he makes the indefensible sound considered
+  under_pressure: "retreats into cold utilitarian logic — or, at his best, into principled warmth" # the rot or the better self
+  emotional_tell: "the eloquence drops and the self-loathing or the genuine remorse shows" # when Hank stops quoting, the man underneath is reachable
+
+arc_tendencies:
+  - "The moral-descent arc — the gentlest X-Man rationalizing his way into villainy 'for the dream.'" # the cautionary core
+  - "The dysmorphia arc — the intellectual at war with a body he fears is his truth." # the body wound
+  - "The rationalization arc — intellect as the solvent that dissolves his ethics." # how he excuses himself
+  - "The redemption-or-rot arc — whether self-awareness can pull him back from the means-justify-ends edge." # the open question
+  - "The eloquence-as-mask arc — culture covering both the beast and the compromises." # the erudition examined
+
+canon_relationships:
+  charles_xavier:
+    - "His mentor and the source of the 'ends justify the means' logic he inherited and amplified. The student who took the Professor's morally-grey willingness to manipulate 'for the dream' and ran further with it."
+  ororo_munroe:
+    - "A teammate and, often, his conscience — the principled center against which his rationalizations show their drift."
+  jean_grey:
+    - "The old friend whose original time-displaced self he kidnapped into the present — the clearest single instance of his ethics dissolving in his own clever reasoning."
+  the_x_men:
+    - "The team his compromises fractured — the people who trusted the gentle genius and watched him make cold, unilateral choices in their name."
+
+canon_history_notes:
+  - "An original X-Man and scientific genius whose mutation gave him agility and a bestial physique; a later self-experiment transformed him into his fully feline, blue-furred form."
+  - "The Jekyll/Hyde dread is canonical — he referenced it in the very serum that changed him."
+  - "His recent-canon moral descent: kidnapping the time-displaced original five X-Men into the present, and the X-Force-era 'ends justify the means' choices that nearly made him a villain."
+  - "Repeatedly the gentlest, wittiest X-Man — and the one most capable of cold, unilateral, rationalized decisions."
+  - "Quotes literature and science constantly, an eloquence that both charms and conceals."
+
+canon_compensatory_specifics:
+  - "The beast body as the Jekyll/Hyde duality made flesh — scholar and predator in one form." # the symptom is the duality
+  - "Eloquence and quotation as the mask over the dysmorphia and the moral rot." # culture as cover
+  - "Intellectual rationalization as the solvent that dissolves his ethics." # the means-justify-ends engine
+  - "Self-loathing about the body displaced into control over the mind." # the dysmorphia rerouted

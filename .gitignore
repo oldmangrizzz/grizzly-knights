@@ -1,0 +1,42 @@
+# === Secrets (NEVER commit) ===
+.env
+*.env
+.env.local
+.env.*.local
+*token*
+*.key
+*.pem
+
+# === Python virtualenvs (regenerable) ===
+.venv/
+.venv_tts/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# === Node (regenerable) ===
+node_modules/
+fanfic_town/node_modules/
+fanfic_town/tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# === Large model weights / binaries (downloadable, exceed GitHub 100MB limit) ===
+kokoro-v1.0.onnx
+voices-v1.0.bin
+*.onnx
+*.dylib
+*.so
+
+# === OS / editor cruft ===
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# === Logs / ephemeral ===
+*.log
+_batch.log
+world_art/_test/

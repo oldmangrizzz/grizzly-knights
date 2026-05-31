@@ -1,0 +1,35 @@
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+==============================================================================
+=== cook_ep01_pressure_proof — V3 — premise -> pressure -> proof ===
+==============================================================================
+
+[1] extract_arc(GENESIS_PREMISE) …
+    title:    'The Tuesday Pivot'
+    setting:  'Cheesecake Factory booth, dim lighting, background noise of clinks and laughter.'
+    present:  ['felicia_hardy', 'wade_wilson']
+    pressures (1):
+      • isolate_peter_pressure: Felicia Hardy and Wade Wilson must, by name, center Peter Parker's looming breaking point and either commit to helping him, decide to leave 
+          evidence: ['peter_parker', 'peter', 'parker', 'call peter', 'text peter', "peter's been too wound up"]
+    took 8.2s
+
+[2] run_scene(S1) cast=['felicia_hardy', 'wade_wilson'] setting='Cheesecake Factory booth, dim lighting, background noise of clinks and laughter.'
+    S1 done in 46.3s — blocks=10
+    S1 @ Cheesecake Factory booth, dim lighting, background noise of  | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | pressures_moved_this_scene=['isolate_peter_pressure']
+    open pressures after S1: []
+
+[3.2] all pressures resolved before S2 — episode ends after S1.
+
+[done] wrote: /Users/rbhanson/fanfic/episodes_text/_pressure_proof_v2/01 - The Tuesday Pivot.txt
+[done] audit: /Users/rbhanson/fanfic/episodes_text/_pressure_proof_v2/01 - audit.txt
+[done] elapsed 54.5s
+[done] forced_close_episode=False open_pressures_remaining=[]
+OPENAI_API_KEY is not set, skipping trace export

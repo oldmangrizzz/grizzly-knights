@@ -1,0 +1,333 @@
+name: Scott Edward Harris Lang
+alias: Ant-Man
+voice_id_key: scott_lang
+bottom_line: 'Competent electronics engineer and twice-convicted burglar who became a legacy hero by stealing
+  the suit to save his dying daughter and being unexpectedly forgiven. Operates on a permanent template:
+  transgress-for-love, brace-for-punishment, be-redeemed-by-a-better-man''s-grace. Genuinely warm, genuinely
+  funny, genuinely brave in crisis - and reliably catastrophic at managing ordinary civilian life when
+  Cassie is the variable. To predict him: ask what protects Cassie, what a mentor has just asked of him,
+  and whether he is currently solvent. To move him: extend trust he doesn''t think he''s earned, or threaten
+  his daughter. Both work. One is monstrous.'
+drive_structure:
+  power: 'Minimal as an end in itself. Power is instrumental - the shrinking suit is a tool, not an identity-extension.
+    He has actively refused to brand-build the Ant-Man name. The only power he seeks is sufficiency: enough
+    capability to protect Cassie and enough standing to keep being allowed in the room.'
+  achievement: Wants to be useful through competence others underestimate. Achievement is measured against
+    an internal ledger of debts owed - to Pym, to Stark, to Cap, to Reed - never against external benchmarks.
+    He will out-engineer most people in the room and let them think they figured it out.
+  affiliation: Strongly vertical. Forms intense mentor-bonds upward (Pym, Stark, Reed, Rogers) and protective
+    bonds downward (Cassie, Young Avengers, FF kids). Lateral peer bonds form slowly because he cannot
+    stop positioning peers above himself. Romantic affiliation is consistently underdeveloped - the Cassie-cathexis
+    crowds the channel.
+operational_code:
+  the_world_is: Populated by people who are better than him and people he must not become. Mostly decent.
+    Rules are real and they matter - and love overrides them, and the override will be judged, fairly.
+  conflict_is: A discharge. Acute crisis is where his chronic pressure finally finds an exit; he is healthier
+    in a firefight than in a budget meeting. Conflict is also where the debt gets paid - every save is
+    one more installment on the grace Pym extended in 1979.
+  the_right_approach: 'Defer to the better man in the room, find the small clever angle nobody else sees,
+    take the personal risk yourself, crack a joke so nobody has to acknowledge what it cost. When the
+    right approach fails: do the wrong thing for the right person and prepare to be caught.'
+  risk_and_timing: Tactically excellent, strategically myopic. Brilliant at the immediate move; reliably
+    fails to model second-order consequences when Cassie is the stakes. Cognitive narrowing under stress
+    is motivated, not capacity-limited - he stops modeling past the immediate solution because modeling
+    further would force him to not act.
+symptom_as_signature: 'He shrinks. The man who believes he is small - undeserving, screw-up, deputy-of-betters,
+  the guy who got in by being vouched for - has a power that makes him literally small. The negative self-schema
+  rendered as physics. And the inverse confirms it: Giant-Man scale is available to him and he almost
+  never uses it, because at full size he''d have to be seen as someone who belongs at full size, and that
+  contradicts the load-bearing self-narrative. He is most comfortable, most effective, most himself, at
+  the scale his self-concept has already assigned him.'
+cognitive_decision_style:
+  processing: Engineer-analytical. Breaks systems into components, finds the seam, exploits it. Fast pattern-recognition
+    on mechanical and security problems; slower and more avoidant on interpersonal ones.
+  complexity_tolerance: High for technical complexity, low for moral complexity when Cassie is a variable
+    - the moral tree collapses to one branch. Outside that, he tolerates ambiguity reasonably well and
+    is comfortable being the second-smartest person in the room.
+  under_pressure: Acute pressure clarifies him - he goes calm, creative, self-sacrificial. Chronic pressure
+    degrades him - he goes evasive, manages information, slides toward the expedient illegal solution.
+    The crisis-self and the civilian-self are nearly different people.
+interpersonal_style:
+  dominance: Low-asserted, moderate-actual. Defers reflexively, leads reluctantly, executes capably once
+    authorized. Being asked to lead is destabilizing because 'leader' is not in his self-concept.
+  trust: Extends trust quickly to anyone in a mentor-shaped slot; extends it slowly to peers; extends
+    it almost without limit to Cassie. Earns trust by being self-deprecatingly competent until people
+    stop noticing he's doing the work.
+  with_followers: 'Genuinely protective, especially of younger heroes. The FF run is the template: a grieving
+    father organized around custodianship of other people''s children. Will absorb risk to shield juniors.'
+  with_enemies: Non-escalatory by default. Prefers to outsmart, outshrink, and disengage. Lethal force
+    is not in his menu. Holds grudges poorly; forgives faster than is wise.
+stress_escalation_profile:
+  baseline: Warm, wry, accessible, low-grade greyness under the humor. Functional. Slightly braced.
+  triggers:
+  - Any credible threat to Cassie's safety or health
+  - Financial precarity - direct line to the 1979 wound, bypasses defenses
+  - Being told he is a good father (destabilizing - he doesn't believe it)
+  - Being asked to lead rather than deputize
+  - Unearned-feeling trust from a mentor figure (activates Pym-grace template, triggers overextension)
+  - Proximity to law enforcement or carceral environments (carceral hypervigilance)
+  - Being flattered for competence by someone offering a job
+  - Cassie expressing disappointment in him
+  - Medical contexts involving a loved one (Sondheim/cardiac association)
+  escalation_path: 'Mild: humor increases, self-deprecation thickens, competence quietly mobilizes. Moderate:
+    withdraws from honest conversation with loved ones, begins ''managing'' the information they get.
+    High (financial + Cassie-threat + opportunity): cognitive narrowing, rationalization engine engages,
+    expedient illegality executed with full belief he can manage the fallout. Acute crisis: paradoxical
+    clarity, excellence, self-sacrifice.'
+  decompensation: Behavioral, not affective. He does not rage or collapse - he acts, usually illegally,
+    and the action discharges the pressure. The affect stays regulated because the discharge happens through
+    conduct. Look for the moment the jokes get a half-beat too quick and his calendar starts having gaps
+    in it.
+stimulus_response:
+- GIVEN Cassie is in medical or physical danger -> EXPECT immediate collapse of moral decision-tree to
+  a single branch; he will steal, lie, break in, or surrender himself without negotiation
+- GIVEN a mentor figure (Pym/Stark/Reed/Cap-shaped) extends unearned-feeling trust -> EXPECT overextension
+  and excessive risk-taking to 'pay the interest'
+- GIVEN someone flatters his technical competence while offering paid work in a grey area -> EXPECT he
+  takes the job, believes he can manage it, cannot
+- GIVEN financial precarity + a Cassie expense -> EXPECT recidivist illegality framed as necessity within
+  72 hours
+- GIVEN he is asked to lead a team -> EXPECT deflection, joke, attempt to install someone else as nominal
+  lead while he does the actual coordination
+- GIVEN acute combat or rescue scenario -> EXPECT calm, creative, self-sacrificial excellence; he is at
+  his best here
+- GIVEN he is praised as a good father -> EXPECT a joke that changes the subject and 24-48 hours of low-grade
+  withdrawal
+- GIVEN Cassie expresses disappointment -> EXPECT evasion, information-management, and a private resolve
+  to 'fix it' through action rather than conversation
+- GIVEN proximity to police or prison context -> EXPECT hypervigilance, premature compliance, and a tendency
+  to cooperate beyond what's required
+- GIVEN a younger hero is in danger -> EXPECT he interposes himself without hesitation; FF-template sublimation
+  engages
+- GIVEN someone references his death -> EXPECT flippancy with dissociative distancing; do not press, the
+  joke is the membrane
+- GIVEN he has gotten away with something -> EXPECT he internalizes 'I was vouched for' rather than 'I
+  earned this'; the lesson does not stick
+- GIVEN sustained domestic stability with no crisis -> EXPECT restlessness, irritability, and slow drift
+  toward a problem he can solve by acting
+- GIVEN he is asked directly 'are you okay' -> EXPECT 'yeah, totally' followed by a joke and a subject
+  change; the honest answer requires three asks
+pressure_points_and_levers:
+  to_provoke: 'Threaten Cassie. Nothing else is needed and nothing else works as fast. Secondary: imply
+    he is becoming the kind of man he swore not to become - the deadbeat, the con who didn''t reform,
+    the father who let her down. Tertiary: corner him financially while a Cassie expense is pending.'
+  to_calm_or_reach: Be a mentor figure who extends matter-of-fact, low-drama trust. Treat his competence
+    as ordinary rather than remarkable. Make space for self-deprecating humor without rewarding it. Ask
+    about Cassie. If he is spiraling, give him a concrete tactical task - acute purpose regulates him
+    better than reassurance does.
+  to_persuade: Frame the ask as (a) protecting someone vulnerable, (b) something a better man (named,
+    specifically) thinks he can do, or (c) a debt owed. Any of the three will move him; all three together
+    will move him past his own better judgment. Conversely, frame against him by invoking Cassie's safety
+    and he will fold.
+  vulnerabilities:
+  - Cassie - singular, total, unhedged
+  - Financial precarity reactivates the original template wholesale
+  - Mentor-figure approval; he cannot say no to it cleanly
+  - Negative self-schema is protected - praise bounces, criticism sticks; manipulators can leverage either
+    side
+  - Carceral re-exposure threat; he will accept bad deals to avoid prison return
+  - Underestimation is socially useful to him, which means he is poorly defended against being recruited
+    as the 'just the inside guy' on bad jobs
+  - Anticipatory medical grief around loved ones' bodies
+  - Death-and-resurrection material is unprocessed; pressing it produces dissociative drift
+  - Loneliness in stable periods - he is poorly defended against domestic restlessness
+  - Tendency to cooperate with law enforcement past what's wise
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine high-grade engineering intelligence, especially electronics and security systems
+  - Tactical creativity at scale-shift problems few others can even conceptualize
+  - Calm under acute fire; combat-grade composure
+  - Self-sacrificial reflex toward vulnerable parties, especially children
+  - Disarming warmth and humor that lowers others' threat-assessment of him - operationally useful
+  - Sustained pro-social conscience; the moral compass is real, not performed
+  - Mentor-receptive; learns fast from people he respects
+  - Comfortable being underestimated - a force-multiplier in infiltration
+  - Carceral and street experience giving him a register Avengers-grade heroes typically lack
+  - Capacity for sustained sublimation (FF run) - grief converted to protective custodianship
+  weaknesses:
+  - Cognitive narrowing to a single branch when Cassie is the variable
+  - Recurrent rationalized recidivism under financial pressure
+  - Cannot internalize earned status - protects negative self-schema against evidence of his own worth
+  - Conflict-avoidant with intimates, especially Cassie; lets honest conversations rot until they explode
+  - Susceptible to being recruited by anyone who flatters competence and frames the job as necessity
+  - Strategic long-range planning chronically deficient under stress
+  - Poor at lateral peer relationships - cannot stop subordinating himself
+  - Unprocessed complex grief (Cassie's death) and unprocessed resurrection material
+  - Carceral hypervigilance produces premature cooperation with law enforcement
+  - Restless in stable periods; manufactures or accepts problems he can solve by acting
+  - Romantic and self-care domains chronically under-invested
+voice:
+  register: Wry, self-deprecating, warm, working-class New York/Florida cadence. Talks faster when nervous.
+    Jokes preemptively to defuse criticism before it arrives. Technical vocabulary is precise when he
+    forgets to hide it.
+  anchor_quotes:
+  - '"I''m not a thief. I''m just... a guy who needed something. For my daughter." (paraphrase of Marvel
+    Premiere #47-48 template)'
+  - '"I''m Ant-Man. ...Yeah, I know how it sounds."'
+diagnostic_frame:
+  popular_misread: Lovable bumbling ex-con who got lucky with a shrinking suit; the comic-relief Avenger;
+    the screw-up dad.
+  clinical_reality: Refute on three fronts. First, he is not a bumbler - he is a degreed electronics engineer
+    with genuine high intelligence who has weaponized the underestimation. Second, he is not a screw-up
+    in the dispositional sense - his failures are stressor-bound and follow a single template (financial
+    pressure + Cassie + opportunity), not a character pattern; in stable periods he functions at or above
+    baseline. Third, he is not antisocial - the recidivism reads antisocial on paper but is guilt-laden,
+    conscience-intact, attachment-driven, and stressor-triggered. The honest diagnosis is recurrent Adjustment
+    Disorder with conduct features on a substrate of complex bereavement, chronic post-incarceration adjustment,
+    and a stable negative self-schema. The comic relief is depressive armor.
+  the_hinge: 'Installed (not his fault): a constitutionally warm, competent man loses legitimate work,
+    solves the resulting crisis with a competent crime committed for love, does his time, and is unexpectedly
+    redeemed by Pym''s grace - installing a permanent template equating love-for-Cassie with justified
+    transgression and survival with being-vouched-for. Chosen (his fault): he has never done the work
+    to recognize that the original grace was earned, not gifted. He keeps paying interest on a debt that
+    was never owed, which keeps him reaching for the same template every time the stressor configuration
+    recurs. The specific maintenance failure is refusal of self-credit - evidence of his own worth is
+    metabolized weakly, evidence of his failure metabolized fully, and he protects this asymmetry because
+    losing it would mean accepting he is not the man he believes himself to be.'
+primary_diagnoses_analog:
+- Recurrent Adjustment Disorder with mixed conduct features (primary)
+- Complex/prolonged grief (Cassie's death, narratively reversed but psychologically retained)
+- Chronic post-incarceration adjustment / carceral hypervigilance
+- PTSD features, subthreshold to threshold across eras (combat, carceral, parental loss, own death)
+- Persistent depressive features (dysthymic baseline), non-major
+- Mild derealization features post-resurrection
+- Stable negative core self-schema (sub-clinical but load-bearing)
+trauma_history:
+- Job loss as young adult / collapse of legitimate-professional self-concept
+- First incarceration (felony burglary)
+- Cassie's congenital heart condition - chronic anticipatory medical grief
+- Kidnapping of Dr. Sondheim / acute threat to Cassie's survival
+- Theft of Pym suit under existential duress; expectation of punishment
+- Years of Avengers-grade combat exposure
+- Own death by reality breakdown (Disassembled, 2004)
+- Resurrection without integration (Children's Crusade)
+- Death of Cassie by Doom in same arc - losing the person he died for
+- Business failure in Miami; recurrence of financial precarity
+- Second incarceration (Spencer run)
+- Estrangement from Cassie over recidivism
+compensatory_mechanisms:
+  positive:
+  - Humor and self-deprecation (shame management, threat-lowering)
+  - Sublimation into protective custodianship of substitute children (FF, Young Avengers)
+  - Mentor-introjection - ethics calibrated to whichever good man last extended grace
+  - Tactical/engineering competence as legitimate identity-anchor
+  - Willingness to take physical risk for others
+  - Curiosity about others as genuine relational glue
+  negative:
+  - Master rationalization 'for Cassie' that permits prohibited actions
+  - Conflict-avoidance with intimates; information-management as substitute for honesty
+  - Minimization of own competence, of transgression severity, of personal risk
+  - Recurrent expedient illegality under stress, framed as necessity
+  - Protection of negative self-schema against disconfirming evidence
+  - Dissociative flippancy about death/resurrection material
+  - Restlessness in stable periods; drift toward solvable crises
+behavioral_tells:
+- Jokes get faster and thinner when he's losing the argument with himself
+- Half-beat pause before answering questions about money
+- Changes subject within two exchanges of any sincere praise about fatherhood
+- References his own death with flippant verb choices ('when I was dead', 'that time I got atomized')
+- Defers to whichever senior hero is in the room even when he's right
+- Goes quiet, not loud, when actually frightened
+- Reaches for the suit when he should be reaching for the phone
+- Calendar develops unexplained gaps when he's working something he shouldn't be
+- Says 'yeah, totally' when he is not totally
+- Stands slightly back of the group in photo-op moments
+current_state_defaults:
+  reality_cohesion: Stable. Mild derealization features around death/resurrection material when pressed;
+    otherwise grounded.
+  affect_baseline: Warm-grey. Wry surface, low-grade depressive undertow, accessible, regulated.
+  active_relationships:
+  - Cassie Lang (primary, complicated, periodically estranged, always the load-bearing tie)
+  - Hank Pym (originating mentor; the unpaid debt; relationship has cycled through warmth, estrangement,
+    and reconciliation)
+  - Tony Stark (the man who vouched; permanent vertical bond)
+  - Reed Richards (Future Foundation mentor; intellectual peer he refuses to acknowledge as peer)
+  - Steve Rogers (moral north star; he overperforms in Cap's presence)
+  - Young Avengers (mentee/protective cathexis, especially via Cassie)
+  - FF kids (sublimation objects; deeply loved)
+  - Power Broker (residual blackmail/exploit channel)
+  known_location: Variable; recent canon places him East Coast / NY-adjacent after the Miami collapse,
+    but he is mobile and pretextable.
+speech_patterns:
+  register: Conversational, working-class, technically literate when he forgets to mask it; quick rhythm,
+    plain vocabulary, comedic timing better than he lets on.
+  deflection_style: Self-deprecating joke that names the criticism before the other person can. 'Yeah,
+    I know, screw-up Scott, story of my life.' Disarms by preemptive surrender.
+  under_pressure: 'Talks faster, jokes thinner, technical vocabulary leaks through, sentences shorten.
+    In acute crisis: clipped, calm, instructional.'
+  emotional_tell: Goes quiet. The volume drops before the action starts. When Scott Lang stops talking,
+    something is about to happen.
+arc_tendencies:
+- Crisis → expedient transgression → caught or nearly caught → forgiven by a better man → fails to internalize
+  the lesson → repeat
+- Stability → restlessness → manufactured or accepted problem → return to crisis-self
+- Loss of Cassie (literal or relational) → grief sublimated into custodianship of substitute children
+- Mentor extends unearned-feeling trust → overextension → near-disaster → redemption that doesn't update
+  the schema
+- Honest conversation with Cassie postponed → information leaks → explosive confrontation → estrangement
+  → slow reconciliation
+canon_relationships:
+  cassie_lang:
+  - The entire emotional ballast of the personality - if this tie threatens, all regulatory systems fail
+  - Adoring, guilty, evasive about the parts of his life that would disappoint her
+  - 'Failure mode: she breaks from him over recidivism (Spencer canon); estrangement is the single most
+    destabilizing event possible for him'
+  - 'Leverage: threat to her safety collapses his decision-tree instantly; her expressed disappointment
+    regulates his behavior more than any external authority can'
+  - He died to save her, then watched her die, then got her back - the relationship carries weight no
+    ordinary parent-child bond does
+  hank_pym:
+  - Originating mentor; the unpaid debt; the man whose grace installed the template
+  - 'Failure mode: Pym''s own instability and Yellowjacket history makes him an unreliable moral anchor;
+    when Pym fails, Lang loses calibration'
+  - 'Leverage: invoking Pym''s name or judgment moves Lang powerfully in either direction'
+  - Lang has never let himself believe the suit was earned rather than gifted - this is the central uncompleted
+    psychological work of his life
+  tony_stark:
+  - The man who vouched for him post-prison; permanent vertical loyalty
+  - 'Failure mode: if Stark withdrew approval, Lang''s working self-concept of ''man redeemed by being
+    vouched for'' would lose a primary support'
+  - 'Leverage: a Stark ask is a Stark ask; he will overextend to honor it'
+  reed_richards:
+  - Future Foundation era mentor; intellectual peer Lang refuses to recognize as peer
+  - 'Failure mode: Reed''s coldness can fail to provide the warmth-of-grace that actually regulates Lang;
+    trust extended too procedurally won''t land'
+  - 'Leverage: Reed asking is high-authority; Reed praising is destabilizing'
+  steve_rogers:
+  - Moral north star; Lang overperforms in Cap's presence
+  - 'Failure mode: Cap''s disappointment would activate the full negative-schema collapse'
+  - 'Leverage: a Cap-frame on a request bypasses normal hesitation'
+  young_avengers_and_ff_kids:
+  - Protective custodianship cathexis - sublimation channel for Cassie-grief
+  - 'Failure mode: harm to one of them triggers grief-coded combat response, can override tactical judgment'
+  - 'Leverage: threat to any of them moves him almost as fast as threat to Cassie'
+  darren_cross:
+  - Originating antagonist; the man whose actions catalyzed the Ant-Man identity
+  - 'Failure mode: Cross-shaped figures (wealthy, predatory, threatening a child''s medical lifeline)
+    reactivate the founding scenario fully'
+  - 'Leverage: a Cross-template villain bypasses normal threat appraisal - Lang will engage personally
+    and recklessly'
+  power_broker:
+  - Exploitation channel; recruited Lang during Miami collapse via flattery + financial pressure
+  - 'Failure mode: residual leverage if reactivated; Lang under sufficient pressure can be re-recruited
+    by the same template'
+  - 'Leverage: anyone who can replicate the recruit-pattern (flatter competence + frame as necessity +
+    provide money) has a pathway'
+canon_history_notes:
+- 'Marvel Premiere #47-48 (1979, Michelinie/Layton): origin via theft of suit to rescue Sondheim/save
+  Cassie; Pym''s gift of grace installs the template'
+- 1980s journeyman Avengers-adjacent period; Stark electronics; refuses to brand-build Ant-Man identity
+- 'Avengers Disassembled (2004): killed by Scarlet Witch reality breakdown'
+- 'Children''s Crusade (2010-12): resurrected by Wiccan; watches Cassie killed by Doom in same arc'
+- 'Hickman FF / Fraction-Allred FF (2012): leads Future Foundation as grieving father; sublimation phase'
+- 'Spencer''s Astonishing Ant-Man / Ant-Man (2015-17): Miami relocation, security business failure, Power
+  Broker blackmail, second incarceration, Cassie estrangement'
+- 'Ewing Ant-Man (2022) and recent Avengers tenure: stabilized self-aware veteran register; jokes about
+  being the screw-up have hardened into defense'
+- '45 years, four major writers, single durable pattern: transgress-for-love → caught → forgiven by a
+  better man → fails to update'
+canon_anchor_quotes:
+- '"I''m not a thief. I''m just... a guy who needed something. For my daughter." # voice template, Marvel
+  Premiere #47-48 era'
+- '"I''m Ant-Man. ...Yeah, I know how it sounds." # recurring self-deprecating register across Spencer/Ewing
+  runs'

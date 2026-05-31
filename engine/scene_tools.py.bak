@@ -1,0 +1,173 @@
+"""
+Per-scene mutable stage state + character-callable tools.
+
+This is what makes the engine an actual swarm instead of a rotating queue.
+Characters can:
+
+  - bring_in(character_key, how_they_arrive) — spawns a new character agent
+    on stage. They join the conversation on the next turn.
+  - address(character_key) — hand the turn to a specific character (vs.
+    fixed rotation). They will speak next.
+  - take_action(action) — drop a physical beat into the world. The
+    narrator picks it up and the action becomes part of the transcript.
+  - change_setting(new_location, what_happens) — move the scene. The
+    narrator describes the transition.
+
+These mutate a `Stage` object held in a module-level registry keyed by
+scene id; the scene runner reads the mutation queue after every turn.
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from typing import Any, Optional
+import uuid
+
+from pydantic import Field
+
+try:
+    from agency_swarm.tools import BaseTool
+except Exception:
+    from agency_swarm import BaseTool  # type: ignore
+
+
+# ─── Module-level stage registry ─────────────────────────────────────────────
+
+_STAGES: dict[str, "Stage"] = {}
+
+
+@dataclass
+class Stage:
+    scene_id:           str
+    present_cast:       list[str] = field(default_factory=list)
+    pending_arrivals:   list[dict] = field(default_factory=list)
+    pending_addresses:  list[str] = field(default_factory=list)
+    pending_actions:    list[dict] = field(default_factory=list)
+    pending_settings:   list[dict] = field(default_factory=list)
+    available_roster:   list[str] = field(default_factory=list)
+
+    def reset_queues(self) -> None:
+        self.pending_arrivals.clear()
+        self.pending_addresses.clear()
+        self.pending_actions.clear()
+        self.pending_settings.clear()
+
+
+def register_stage(present: list[str], roster: list[str]) -> str:
+    sid = uuid.uuid4().hex
+    _STAGES[sid] = Stage(
+        scene_id=sid,
+        present_cast=list(present),
+        available_roster=list(roster),
+    )
+    return sid
+
+
+def get_stage(sid: str) -> Stage:
+    return _STAGES[sid]
+
+
+def drop_stage(sid: str) -> None:
+    _STAGES.pop(sid, None)
+
+
+# ─── Tools ───────────────────────────────────────────────────────────────────
+
+# Each tool reads the scene_id from the caller agent's _gk_scene_id attribute,
+# which the scene runner sets when it constructs character agents.
+
+
+def _scene_id_for(tool: BaseTool) -> Optional[str]:
+    caller = getattr(tool, "_caller_agent", None)
+    if caller is None:
+        return None
+    return getattr(caller, "_gk_scene_id", None)
+
+
+class BringInCharacter(BaseTool):
+    """Invite another character on stage. They will arrive at the start of
+    the next turn cycle and begin participating. Use this when your
+    character is texting, calling, or otherwise summoning someone to
+    join the scene. Provide the character_key (lowercase_with_underscores
+    name as listed in the roster) and a one-sentence description of HOW
+    they arrive (texted, called, was already in the building, walks in
+    from the parking lot, etc)."""
+
+    character_key:    str = Field(..., description="lowercase_with_underscores key of the character to bring on stage")
+    how_they_arrive:  str = Field(..., description="one sentence describing how they arrive (texted to come down, called and showed up, etc)")
+
+    def run(self) -> str:
+        sid = _scene_id_for(self)
+        if sid is None or sid not in _STAGES:
+            return "ERROR: no active scene"
+        stage = _STAGES[sid]
+        key = self.character_key.strip().lower()
+        if key in stage.present_cast:
+            return f"{key} is already on stage."
+        if key not in stage.available_roster:
+            return f"ERROR: '{key}' is not in the roster."
+        stage.pending_arrivals.append({"key": key, "how": self.how_they_arrive})
+        return f"Queued: {key} will arrive next ({self.how_they_arrive})."
+
+
+class AddressCharacter(BaseTool):
+    """Hand the turn directly to a specific character on stage. Use this
+    when your line is pointed at someone in particular and you want them
+    to respond next instead of round-robin rotation. The character must
+    already be on stage."""
+
+    character_key: str = Field(..., description="lowercase_with_underscores key of who you want to speak next")
+
+    def run(self) -> str:
+        sid = _scene_id_for(self)
+        if sid is None or sid not in _STAGES:
+            return "ERROR: no active scene"
+        stage = _STAGES[sid]
+        key = self.character_key.strip().lower()
+        if key not in stage.present_cast:
+            return f"ERROR: '{key}' is not on stage."
+        stage.pending_addresses.append(key)
+        return f"Next turn: {key}."
+
+
+class TakeAction(BaseTool):
+    """Perform a physical action in the scene. Use this for things you DO,
+    not things you say — grabbing a drink, walking over to the bar,
+    putting a hand on someone's thigh, lighting a cigarette, kissing
+    someone, walking out, throwing a glass. The narrator will describe
+    the action and it becomes part of the scene's reality. Be specific."""
+
+    action: str = Field(..., description="one sentence describing what your character physically does")
+
+    def run(self) -> str:
+        sid = _scene_id_for(self)
+        if sid is None or sid not in _STAGES:
+            return "ERROR: no active scene"
+        stage = _STAGES[sid]
+        caller = getattr(self, "_caller_agent", None)
+        actor_key = getattr(caller, "_gk_character_key", "someone") if caller else "someone"
+        stage.pending_actions.append({"actor": actor_key, "action": self.action})
+        return f"Action staged: {self.action}"
+
+
+class ChangeSetting(BaseTool):
+    """Move the scene to a new location or shift the situation
+    significantly. Use this when your character is leading the group
+    somewhere new (the parking lot, the kitchen, Johnny's loft, the
+    rooftop, the cab home). The narrator will describe the transition."""
+
+    new_location: str = Field(..., description="the new location/setting")
+    what_happens: str = Field(..., description="one sentence describing how the scene moves (we walk out, we take a cab, etc)")
+
+    def run(self) -> str:
+        sid = _scene_id_for(self)
+        if sid is None or sid not in _STAGES:
+            return "ERROR: no active scene"
+        stage = _STAGES[sid]
+        stage.pending_settings.append({
+            "location": self.new_location,
+            "transition": self.what_happens,
+        })
+        return f"Setting change queued: {self.new_location}"
+
+
+CHARACTER_TOOLS = [BringInCharacter, AddressCharacter, TakeAction, ChangeSetting]

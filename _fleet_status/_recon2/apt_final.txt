@@ -1,0 +1,13 @@
+0 tests/apt_01_yaml_injection.py
+0 tests/apt_02_premise_injection.py
+0 tests/apt_02b_planner_schema.py
+0 tests/apt_03_08_caps_and_gate.py
+0 tests/apt_03b_action_budget.py
+0 tests/apt_04_malformed_tool_args.py
+0 tests/apt_05_chronicle_tampering.py
+0 tests/apt_05b_atomic_save.py
+0 tests/apt_06_planner_poisoning.py
+0 tests/apt_07_secret_leakage.py
+0 tests/apt_09_litany_dedup.py
+0 tests/apt_09b_idempotency.py
+0 tests/apt_10_race_isolation.py

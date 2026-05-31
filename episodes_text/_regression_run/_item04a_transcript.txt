@@ -1,0 +1,236 @@
+NARRATOR: Time."
+
+"The light hangs low and yellow, casting long shadows on peeling countertops. Steam curls from the pot, slow and twisting. Her bare foot dangles, just above cracked linoleum, the scuff of her boot discarded nearby. His t-shirt hangs loose, like he’s been wearing it too long, like it has stories he isn’t telling. The silence rests heavy, thicker than the broth.
+FELICIA HARDY: You gonna tell me what's in that bowl that's more interesting than me, Wade, or do I have to steal the recipe from the chef?
+WADE WILSON: Pardon me, Your Grace, am I to assume this interruption comes with manual labor or critique? Because my hands are already elbow-deep in taco dreams.
+FELICIA HARDY: If I weren’t so stuck in my own head, I’d call you out for dodging me better than you dodge bullets. But let’s play this your way for a minute. What’s your ramen’s body count, Wade?
+NARRATOR: Smoke coils sharper now, clinging to the air, the ramen forgotten a moment too long. Wade shifts but doesn’t turn, his shoulders tight under the cotton, the grip on the spoon too still to be casual. Her voice cuts through it all, low and deliberate, the kind you don’t meet head-on unless you’re ready to bleed.
+WADE WILSON: Careful now, you're poking the bear of bad decisions and I'm one blackout margarita away from oversharing my tragic backstory.
+FELICIA HARDY: I tilt my head, watching him for a beat, then take a sip of the bourbon in front of me. You know, Wade, I didn’t drop by for soup commentary. Let’s not pretend I did.
+WADE WILSON: Alright, Princess of Prowl, you want genuine? Lay it out. Cards on the table. But you get the whole mess—taco grease included.
+FELICIA HARDY: I set my glass down, circling the rim with my finger, and finally let the words slip out, softer than I intended. The job went sideways. I had control, thought I did, but… it still feels like I’m picking glass out of my skin. Doesn’t even matter if it’s there or not.
+NARRATOR: The spoon clinks softly against the pot as his hand slows, tension leaking out like a tire gone flat. Shoulders slacken, tilt just enough to speak to surrender. The kitchen air changes, looser now, the smoke thinning, though the scent of overcooked noodles still clings. He doesn’t turn yet. But the space between them feels closer all the same.
+WADE WILSON: Yeah, that weight...it doesn't get lighter, does it? But for what it's worth, you're not shouldering it solo here.
+FELICIA HARDY: I look at him, really look, and there's this little pause where I almost let the armor slip. Almost. But instead, I lean back, a smirk creeping onto my lips like muscle memory, and toss it out there with just enough edge. That your cute way of saying you've got tweezers and a steady hand, Wilson?
+NARRATOR: Her boot scrapes against the counter’s edge as she pulls her foot up, folding herself into a smaller space. The bottle dangles loose in her hand, the label peeling under her thumb. Wade’s still standing there, spoon hovering limp above the pot, his weight shifting forward just an inch—close enough to catch it, to see the retreat but not follow. Not yet.
+WADE WILSON: Fair enough, Cat. If we’re both diving in the deep end eventually, I’ll let you pick the snacks—and the life preserver.
+FELICIA HARDY: I glance at the bourbon, then back up at him, the smile softening just a hair. Yeah. Maybe I do need someone steady right now. But you know how I like my rescues, Wade… messy and complicated. That something you can manage?
+NARRATOR: The ramen simmers into forgetfulness, the pot breathing low on the burner. Her boot sits where it fell, his mismatched bar stools bear witness, scuffed and leaning. Wade leans too, just enough, the swell of tension dulled now to something fragile. The room holds them both, cluttered and imperfect, waiting for whatever comes next.
+
+--- TRACKER ---
+{
+  "drinks": 2,
+  "lines_crossed": 0,
+  "decisions_made": 0,
+  "arrivals": 0,
+  "settings_changed": 0,
+  "actions": 5,
+  "actions_budget_exhausted": false
+}
+
+--- TOOL CALLS ---
+[
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Open the scene in Wade\u2019s apartment kitchen, post-midnight. Felicia is sitting on the counter with one boot off, drinking a Coors Light. Wade is making instant ramen at the stove in a t-shirt and boxers. Describe the mood and how the room feels heavy with unspoken tension."
+    },
+    "call_id": "call_4SU5zj0ADQ8cacwiiCFxCGHw"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Felicia \u2014 Wade hasn\u2019t looked up from the ramen yet. Your move is reactive. Say something small, then decide if you want to shift what broke you tonight into the air."
+    },
+    "call_id": "call_UA70n9XZcXrpnyKRmP8bBXEz"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Wade \u2014 Felicia just played with your focus. You're mid-stir at the stove. React and decide: does the poke make you push back, ease up, or deflect?"
+    },
+    "call_id": "call_ZjRIW3x1OzO5maSGHSX0A84Q"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Your turn. Wade\u2019s deflecting, but it wasn\u2019t a hard block. Is tonight easier if you banter, or are you too stuck in your head?"
+    },
+    "call_id": "call_ZW03DHpJB4qmvEurpPirpGeQ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narrate the shift as tension is growing. There\u2019s smoke off the food now, Wade shifting slightly but still at the stove, Felicia\u2019s voice digging into the room\u2019s silence like a pry bar."
+    },
+    "call_id": "call_wTRUh3MTJPkAmCvC3OvVLKz2"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "The narration has picked up layers in tension. Felicia keeps prying. Do you spill something sharp or keep joking?"
+    },
+    "call_id": "call_erG9GScp6K7g80qZ5teDKhZF"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade is still refusing direct engagement \u2014 but he\u2019s giving room for it. Is your move to dig deeper, accept his dodge, or reset focus for why you came here tonight?"
+    },
+    "call_id": "call_LSX5nVlKYbZGFUtXG9w3BvGv"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia has dropped the pretense now. The conversation \u2014 and the room \u2014 is hers to straighten or complicate. Decide if you push back seriously or reframe for stillness."
+    },
+    "call_id": "call_oOkZMg64ik7mDYju4K0Xx7TY"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade is offering open space for once, even in his way. You have the chance to name the pressure on your chest \u2014 whether it\u2019s the job gone wrong, what\u2019s between you two, or both."
+    },
+    "call_id": "call_LS0njr4SVLi6RK47LkTZQ7sk"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Track the motion post-reveal. Felicia set the tone low and disarmed. How does that change Wade\u2019s physical response and the space around them?"
+    },
+    "call_id": "call_9FbPMCf4x9VsZncPwbZlnKXt"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia just disarmed \u2014 heavy honesty about the job. What she\u2019s describing is raw. You don\u2019t avoid it this time, but how does Wade choose to hold the weight laid out and meet it?"
+    },
+    "call_id": "call_yTNs7H2yUqbXPFXiPG0gTWao"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade just tried to share the weight, verbally and tonally. His move lingers near connection \u2014 but you have the choice whether to let in that space, re-pivot, or stay guarded behind."
+    },
+    "call_id": "call_A8ft7pdJj05srOIAR8EpZNP6"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Close in now after Felicia\u2019s guarded deflection. She\u2019s near the balance but choosing distance. Draw attention to her pull-back physically and Wade\u2019s pending reaction, keeping the tension electric."
+    },
+    "call_id": "call_ON0be3S3EambhcVtIy1DLgIb"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia just put a layer back up \u2014 humor this time. Decide whether Wade respects her distance or chooses now to press."
+    },
+    "call_id": "call_TmvqPu2gYLK423uLbXt8Bnam"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade set a line to loosen but stayed in-range. Do you answer him honestly now? Whether about rescue or what waits."
+    },
+    "call_id": "call_PODZ4r9e0K8eFvj4agAPuUuJ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narrate slightly forward but land tender, Wade\u2019s apartment framing the shared ground as the ramen settles behind them into the environment."
+    },
+    "call_id": "call_rtUO2Uwh0qXwQzmbkQzg2Sld"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "I drop the ladle into the pot with a theatrical clank, turn slowly, and lean an elbow on the counter to align my face directly at hers, mask still on. 'Pardon me, Your Grace, am I to assume this interruption comes with manual labor or critique? Because my hands are already elbow-deep in taco dreams.'",
+      "consequence": "Wade shifts focus to Felicia, humor as the vanguard.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "I straighten up from my lean, spinning the ladle like a baton before pointing it at her like a fencing foil. 'Careful now, you're poking the bear of bad decisions and I'm one blackout margarita away from oversharing my tragic backstory.'",
+      "consequence": "Wade retreats into exaggerated humor to deflect Felicia's prying.",
+      "tags": [
+        "drinks"
+      ],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "I set the ladle down slowly, deliberately. 'Alright, Princess of Prowl, you want genuine? Lay it out. Cards on the table. But you get the whole mess\u2014taco grease included.'",
+      "consequence": "Wade drops humor for a rare moment of seriousness, inviting Felicia to define the stakes.",
+      "tags": [
+        "drinks"
+      ],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "I reach across the counter and place a hand on hers, no joke this time, just stillness. 'Yeah, that weight...it doesn't get lighter, does it? But for what it's worth, you're not shouldering it solo here.'",
+      "consequence": "Wade finds stillness, meeting Felicia's raw honesty without deflection, showing solidarity.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "I let go of her hand, respect in the gesture, and offer a smirk beneath the mask. 'Fair enough, Cat. If we\u2019re both diving in the deep end eventually, I\u2019ll let you pick the snacks\u2014and the life preserver.'",
+      "consequence": "Wade respects Felicia's re-established boundary, matching her humor to ease back without disconnecting.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  }
+]

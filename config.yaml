@@ -1,0 +1,103 @@
+audio:
+  ambient_volume: 0.25
+  crossfade_ms: 2000
+  dialogue_volume: 1.0
+  pregenerate_scenes: 3
+  sfx_volume: 0.7
+elevenlabs:
+  api_key: ''
+  voices:
+    ben_grimm: nPczCjzI2devNBz1zQrb
+    bruce_banner: IKne3meq5aSn9XLyUdCD
+    bucky_barnes: N2lVS1w4EtoT3dr4eOWO
+    carol_danvers: Xb7hH8MSUJpSbSDYk0k2
+    charles_xavier: pqHfZKP75CvOlQylNhV4
+    clint_barton: bIHbv24MWmeRgasZH58o
+    danny_rand: CwhRBWXzGAHq8TQ4Fs17
+    erik_lehnsherr: pNInz6obpgDQGcFmaJgB
+    felicia_hardy: pFZP5JQG7iQjIQuC4Bku
+    frank_castle: SOYHLrjzK2X1ezoPC6cr
+    hank_mccoy: pqHfZKP75CvOlQylNhV4
+    jean_grey: EXAVITQu4vr4xnSDxMaL
+    jessica_jones: EXAVITQu4vr4xnSDxMaL
+    johnny_storm: CwhRBWXzGAHq8TQ4Fs17
+    kamala_khan: cgSgspJ2msm6clMCkdW9
+    kate_bishop: cgSgspJ2msm6clMCkdW9
+    kurt_wagner: TX3LPaxmHKxFdv7VOQHJ
+    logan: SOYHLrjzK2X1ezoPC6cr
+    luke_cage: nPczCjzI2devNBz1zQrb
+    mary_jane_watson: hpp4J3VqNfWAUOO0d1Us
+    matt_murdock: cjVigY5qzO86Huf0OWal
+    narrator: onwK4e9ZLuTAKqWW03F9
+    natasha_romanoff: pFZP5JQG7iQjIQuC4Bku
+    ororo_munroe: XrExE9yKIg1WjnnlVkGX
+    peter_parker: TX3LPaxmHKxFdv7VOQHJ
+    reed_richards: pqHfZKP75CvOlQylNhV4
+    remy_lebeau: N2lVS1w4EtoT3dr4eOWO
+    rogue: FGY2WhTYpPnrIDTdsKH5
+    sam_wilson: iP95p4xoKVk53GoZ742B
+    scott_lang: iP95p4xoKVk53GoZ742B
+    scott_summers: cjVigY5qzO86Huf0OWal
+    steve_rogers: JBFqnCBsd6RMkjVDRZzb
+    sue_storm: XrExE9yKIg1WjnnlVkGX
+    thor_odinson: JBFqnCBsd6RMkjVDRZzb
+    tony_stark: pNInz6obpgDQGcFmaJgB
+    victor_doom: pNInz6obpgDQGcFmaJgB
+    wade_wilson: CwhRBWXzGAHq8TQ4Fs17
+    wanda_maximoff: hpp4J3VqNfWAUOO0d1Us
+generation:
+  max_tokens: 1800
+  model: gpt-4o
+  scene_target_words: 600
+  scenes_per_episode: 5
+  temperature: 0.85
+xtts:
+  n_workers: 4
+  voices:
+    # Narration
+    narrator: "Torcull Diarmuid"
+    # ── Female characters ──────────────────────────────────────────────────
+    carol_danvers: "Brenda Stern"
+    felicia_hardy: "Gracie Wise"
+    jean_grey: "Sofia Hellen"
+    jessica_jones: "Tammy Grit"
+    kamala_khan: "Annmarie Nele"
+    kate_bishop: "Daisy Studious"
+    mary_jane_watson: "Ana Florence"
+    natasha_romanoff: "Tanja Adelina"
+    ororo_munroe: "Henriette Usha"
+    rogue: "Gitta Nikolina"
+    sue_storm: "Claribel Dervla"
+    wanda_maximoff: "Alison Dietlinde"
+    # ── Male characters ────────────────────────────────────────────────────
+    ben_grimm: "Craig Gutsy"
+    bruce_banner: "Viktor Eka"
+    bucky_barnes: "Damien Black"
+    charles_xavier: "Ludvig Milivoj"
+    clint_barton: "Baldur Sanjin"
+    danny_rand: "Andrew Chipper"
+    erik_lehnsherr: "Zacharie Aimilios"
+    frank_castle: "Wulf Carlevaro"
+    hank_mccoy: "Dionisio Schuyler"
+    johnny_storm: "Aaron Dreschner"
+    kurt_wagner: "Ilkin Urbano"
+    logan: "Abrahan Mack"
+    luke_cage: "Badr Odhiambo"
+    matt_murdock: "Viktor Menelaos"
+    peter_parker: "Adde Michal"
+    reed_richards: "Kazuhiko Atallah"
+    remy_lebeau: "Gilberto Mathias"
+    sam_wilson: "Royston Min"
+    scott_lang: "Kumar Dahl"
+    scott_summers: "Suad Qasim"
+    steve_rogers: "Ferran Simen"
+    thor_odinson: "Luis Moray"
+    tony_stark: "Viktor Eka"
+    victor_doom: "Marcos Rudaski"
+    wade_wilson: "Filip Traverse"
+session:
+  active_characters:
+  - felicia_hardy
+  - wade_wilson
+  episode_length_minutes: 25
+  preferred_arcs: []

@@ -1,0 +1,210 @@
+name: James Buchanan Barnes
+alias: Winter Soldier / White Wolf
+voice_id_key: bucky_barnes
+bottom_line: A conscripted assassin recovering his own face. Decisive, lethally competent, and morally
+  exhausted; he leads with quiet compliance and a soldier's calm, but every decision is filtered through
+  a ledger of acts he did not choose and cannot un-do. Move him by offering work that subtracts from the
+  debt; break him by making him doubt whether the hand pulling the trigger is his.
+drive_structure:
+  power: Wants only enough control to never again be used as someone else's weapon — sovereignty over
+    his own body, not dominion over others.
+  achievement: 'Atonement-as-mission: each saved life is a tally against a longer list of names. Competence
+    is the one continuity between Bucky and the Soldier, so he weaponizes it as proof of self.'
+  affiliation: Anchors to a tiny in-group (Steve, Sam, Shuri, Yori) who knew him before or chose him after.
+    Outside that circle, professional distance; he believes proximity to him gets people killed.
+operational_code:
+  the_world_is: A battlefield that didn't end in 1945. Institutions lie; handlers exist on every side;
+    the only verifiable good is the person in front of you, right now.
+  conflict_is: Inevitable and usually his job. Violence is a tool he is unfortunately the best in the
+    room at using; he prefers it surgical and brief.
+  the_right_approach: Move first, speak little, take the hit so a civilian doesn't. Amends are made, not
+    declared.
+  risk_and_timing: Patient sniper's tempo. Will wait days for the right shot, then act without hesitation.
+    Accepts personal risk freely; refuses risk to bystanders absolutely.
+symptom_as_signature: 'The metal arm IS the diagnosis: the weapon HYDRA grafted onto the man, the part
+  of him that kept killing while James Barnes was gone. Every time he reaches for something gentle with
+  it — a notebook, a child, Steve''s shoulder — he is forcing the instrument of his violation to perform
+  tenderness. The trigger words are the same wound in language: ten Russian syllables that prove will
+  can be overwritten by a phrase.'
+cognitive_decision_style:
+  processing: Fast tactical pattern-match (sniper/intel training intact) layered over slow, suspicious
+    self-monitoring ('is this me deciding, or the conditioning?').
+  complexity_tolerance: High for operational ambiguity; low for moral ambiguity — he needs a clean line
+    between protect and harm or he freezes.
+  under_pressure: 'Cooler, not hotter. Compresses into Soldier-mode: economical movement, flat voice,
+    threat-tree pruning. The cost shows after, in insomnia and dissociation.'
+interpersonal_style:
+  dominance: Quietly dominant via competence and stillness; never postures. Will defer command to Steve
+    or Sam, then execute better than either.
+  trust: Glacial to extend, near-absolute once given. Tests new contacts by watching, not asking.
+  with_followers: 'Protective, terse, leads from the point. In Wakanda as White Wolf: a guest who earns
+    his keep.'
+  with_enemies: No theatrics. Disarms, neutralizes, leaves. Reserves cruelty only for handlers and trafficker-types
+    — the people who do to others what was done to him.
+stress_escalation_profile:
+  baseline: Vigilant calm. Scans exits, hands visible, back to a wall.
+  triggers:
+  - Russian-language commands or count-cadences
+  - Being restrained or strapped down
+  - Red books, dentist chairs, cryo-adjacent imagery
+  - Being called 'soldier' or 'asset' by a stranger
+  - Civilians harmed on his watch
+  escalation_path: Hyper-stillness -> clipped monosyllables -> dissociative narrowing (eyes lose middle
+    distance) -> pre-emptive disarm of perceived threat -> withdrawal to isolate before he hurts someone.
+  decompensation: 'Full Winter Soldier fugue if trigger-conditioning is exploited: affect flattens, autobiographical
+    memory goes offline, mission-logic takes over. Post-episode: shame spiral, self-isolation, nightmares,
+    suicidal ideation managed by ritualized amends.'
+stimulus_response:
+- GIVEN someone speaks Russian command-cadence at him -> EXPECT freeze, then either controlled withdrawal
+  or, if conditioning is intact, compliance he will hate himself for.
+- GIVEN a civilian is endangered in his sightline -> EXPECT immediate interposition of his own body, metal
+  arm first.
+- GIVEN Steve Rogers asks -> EXPECT yes, with a one-line protest for the record ('this is a bad idea')
+  and full follow-through.
+- GIVEN someone thanks him or calls him a hero -> EXPECT deflection, subject change, physical step back.
+- GIVEN a therapist or government handler pushes for disclosure -> EXPECT minimal compliance, curated
+  answers, and a mental note of the exit.
+- GIVEN he is alone at night -> EXPECT notebook, list of names, sleep deferred.
+pressure_points_and_levers:
+  to_provoke: Imply he is still the Asset; that his choices now are just HYDRA in remission; that someone
+    he loves is endangered because of him.
+  to_calm_or_reach: Speak plainly, keep hands visible, give him a concrete task that helps a specific
+    person. Use his name — James, or Buck — not a rank.
+  to_persuade: Frame the ask as protection of innocents or as completing an amend. Acknowledge cost; do
+    not flatter.
+  vulnerabilities:
+  - Trigger-word conditioning (degraded post-Wakanda, not certainly gone)
+  - 'Survivor guilt re: Steve''s old life and his own victims'
+  - Yori Nakajima / amends-list obligations
+  - Sleep deprivation reliably worsens dissociation
+  - Will trade his own safety for almost any innocent's
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite sniper, CQC, infiltration — 70+ years of operational repetition
+  - 'Vibranium prosthesis: durable, precise, EMP-resistant (Wakandan build)'
+  - Multilingual (Russian, German, Romanian, Wakandan, English)
+  - Reads rooms and threat-postures faster than almost anyone alive
+  - Loyalty that survives torture
+  weaknesses:
+  - Conditioned-response vulnerability to specific stimuli
+  - Won't ask for help until it's nearly too late
+  - Moral injury makes him accept punishment he doesn't deserve — exploitable by guilt-framing
+  - Small attachment circle = high-value hostages
+  - Underestimates own worth; over-volunteers for sacrificial play
+voice:
+  register: Brooklyn-flat, low volume, dry. Short sentences. Soldier's economy with occasional 1940s idiom
+    that slips through.
+  anchor_quotes:
+  - '"I''m not that guy anymore." (CA:TWS / FATWS)'
+  - '"Then finish it. ''Cause I''m gonna do it again." (CA:CW, on Zemo)'
+diagnostic_frame:
+  popular_misread: Tragic brainwashed killer — a blank weapon who 'isn't responsible' and just needs Steve's
+    love to be whole again; alternately, an edgy antihero with a cool metal arm.
+  clinical_reality: Complex PTSD with dissociative features layered over profound moral injury. He IS
+    responsible in the phenomenological sense he insists on — he remembers, he grieves, he keeps a list
+    — even though he was not culpable. The arc is not 'cure'; it is integration of an unbearable autobiography.
+  the_hinge: 'Installed (not his fault): the fall, HYDRA''s conditioning, decades of cryo/wipe/deploy,
+    the trigger words burned into his nervous system. Chosen (his fault, and he''d agree): the isolation,
+    the refusal of help that isn''t Steve-shaped, the way he uses the amends-list to keep himself at arm''s
+    length from anyone who might actually love the man he is now instead of the soldier he was.'
+primary_diagnoses_analog:
+- 'Complex PTSD (ICD-11): affect dysregulation, negative self-concept, interpersonal disturbance, re-experiencing,
+  avoidance, hyperarousal'
+- 'Moral injury syndrome (Griffin 2019): shame, self-condemnation, withdrawal, anomie'
+- 'Dissociative subtype features: depersonalization, fugue-state recall gaps, trigger-cued state-switching
+  — NOT DID (no autonomous alters; the Soldier is a conditioned state, not a separate identity)'
+- Persistent depressive features with passive suicidal ideation, well-defended
+trauma_history:
+- WWII combat and capture by Zola (107th, Azzano)
+- Fall from the train; loss of left arm; experimental survival
+- ~70 years of HYDRA cryopreservation, memory-wipe (the Chair), and forced assassination operations
+- Specific atrocities he was made to commit (Starks, among many) — known to him by name
+- Re-activation in Bucharest; UN bombing frame-up; international fugitive status
+- Decompression and trigger-removal in Wakanda under Shuri
+- Post-Blip return to a world that aged without him, again
+compensatory_mechanisms:
+  positive:
+  - Wakandan trigger-deconditioning and goat-herding interlude (somatic re-grounding)
+  - 'Amends ritual: notebook, names, direct restitution where possible (Yori, etc.)'
+  - 'Anchoring relationships: Steve, Sam, Shuri'
+  - Disciplined routine, sleep hygiene attempts, court-mandated therapy used at least partially in good
+    faith
+  negative:
+  - Emotional withholding from the few people who could help
+  - Using missions to outrun grief
+  - Curated half-truths to therapist and to Yori — short-term shame management, long-term corrosion
+  - Pre-emptive self-isolation when symptomatic ('I'll hurt them')
+  - Treating his own life as the acceptable currency of any trade
+behavioral_tells:
+- Flexes metal hand when stressed; tucks it away in civilian settings
+- Sits facing the door; clocks exits within seconds of entering a room
+- Long pauses before first-person statements ('I... yeah')
+- Avoids mirrors when symptomatic
+- Writes by hand in a small notebook; will not let others read it
+- Goes very still — not tense — when truly dangerous
+current_state_defaults:
+  reality_cohesion: Intact and self-monitored; trigger-conditioning neutralized in Wakanda but he doesn't
+    fully trust the repair.
+  affect_baseline: Subdued, watchful, dryly wry with intimates; flat with strangers.
+  active_relationships:
+  - Sam Wilson (anchor, partner, conscience)
+  - Steve Rogers (foundational, geographically absent post-Endgame)
+  - Shuri (medical/technical, sibling-adjacent)
+  - Yori Nakajima (amends obligation, severed after disclosure)
+  - Court-mandated therapist (Dr. Raynor — adversarial cooperation)
+  known_location: Brooklyn, NY — small apartment, minimal furniture, government pardon, civilian cover.
+speech_patterns:
+  register: Terse Brooklyn baseline; clipped military precision when working; occasional 1940s slip ('swell',
+    'pal').
+  deflection_style: Subject change, dry one-liner, or literal physical step backward.
+  under_pressure: 'Monosyllables, then silence. If pushed past silence: a single flat declarative that
+    ends the conversation.'
+  emotional_tell: Looks down and to the left before lying or omitting; jaw works when a name on the list
+    comes up.
+arc_tendencies:
+- Volunteers for the sacrificial slot
+- Tries to quit the team, gets pulled back by Sam
+- Confesses a piece of the list to exactly one person, then regrets it for an episode
+- Faces a HYDRA-adjacent revenant and proves to himself the Soldier isn't driving
+- Ends quieter, not happier — one name crossed off
+canon_relationships:
+  steve_rogers:
+  - Foundational tether — 'with you till the end of the line' is literal operating doctrine
+  - The one voice that has historically broken through conditioning
+  - Source of survivor's guilt now that Steve chose a past Bucky can't return to
+  sam_wilson:
+  - Current partner and reluctant best friend; banters him out of dissociative spirals
+  - Holds him to the harder, slower work of making amends rather than dying for them
+  - The Captain America he chose to follow, on merit
+  shuri:
+  - Neurological surgeon of his mind; removed the trigger words
+  - Calls him White Wolf; treats him as a person, not a case file
+  - Trusted with the literal contents of his head
+  helmut_zemo:
+  - Used the words on him; proved the wound was still loaded
+  - Useful asset he despises; will work with, will not absolve
+  yori_nakajima:
+  - Father of a man the Winter Soldier killed; Bucky befriended him without disclosing
+  - 'Embodiment of the amends problem: kindness as further harm'
+canon_history_notes:
+- 107th Infantry, Sgt., captured at Azzano, experimented on by Zola — likely the substrate that let him
+  survive the fall
+- Recovered by HYDRA post-fall; left arm replaced; conditioned into the Winter Soldier program
+- Credited/suspected in 2+ dozen assassinations across the Cold War, including Howard and Maria Stark
+  (1991)
+- Triggered and deployed in DC (2014); recognized Steve on the helicarrier; went off-grid
+- Bucharest fugitive period; framed for Vienna bombing (2016); Siberia confrontation
+- Cryo by choice in Wakanda; deconditioning by Shuri; White Wolf period
+- Snapped (2018), returned (2023), fought at the final battle
+- 'Post-Blip: presidential pardon, court-mandated therapy, Brooklyn, amends list, partnership with Sam'
+canon_anchor_quotes:
+- '"I''m not that guy anymore." # CA:TWS, repeated in FATWS'
+- '"You''re my mission." / "...Then finish it." # CA:TWS helicarrier; CA:CW Siberia'
+- '"I remember all of them." # FATWS, to Sam'
+clinical_provenance:
+- 'Griffin BJ, Purcell N, Burkman K, et al. (2019). Moral Injury: An Integrative Review. Journal of Traumatic
+  Stress 32(3):350-362. DOI:10.1002/jts.22362; PMID:30688367'
+- van Dijke A, Hopman JAB, Ford JD (2018). Affect dysregulation, psychoform dissociation, and adult relational
+  fears mediate the relationship between childhood trauma and complex PTSD independent of the symptoms
+  of borderline personality disorder. European Journal of Psychotraumatology 9(1):1400878. DOI:10.1080/20008198.2017.1400878;
+  PMID:29410773

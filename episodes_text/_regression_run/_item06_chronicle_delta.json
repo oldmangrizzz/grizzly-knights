@@ -1,0 +1,39 @@
+{
+  "characters": {
+    "wade_wilson": {
+      "add_events": [
+        "Matched Felicia's escalating provocations with sharper, rawer retorts, momentarily letting his humor falter to reveal the weight beneath.",
+        "Allowed his defensive humor to strip away briefly, gripping the edge of the table as vulnerability seeped through.",
+        "Escalated tension in interactions with Felicia during a tequila-fueled night, blending vulnerability, wit, and charged physical proximity.",
+        "Pushed the dynamic further with deliberate verbal challenges, heightening the stakes of their unresolved connection."
+      ]
+    },
+    "felicia_hardy": {
+      "add_events": [
+        "Challenged Wade to strip away his humor, coaxing rawness without breaking their tension.",
+        "Engaged in deliberate verbal and physical power plays, maintaining control within their dynamic.",
+        "Reacted to Wade’s stripped defenses with measured precision, allowing the tension to hang unresolved.",
+        "Matched Wade’s wit and vulnerability with sharp retorts, maintaining the balance of their ongoing interplay."
+      ]
+    }
+  },
+  "relationships": {
+    "felicia_hardy__wade_wilson": {
+      "status": "intensified",
+      "notes": "Their dynamic deepens with verbal and physical provocations, marked by moments of unguarded vulnerability and mutual challenge that remain unresolved."
+    }
+  },
+  "world_facts": [
+    "Wade and Felicia’s nights together often involve tequila, games of wit, and careful manipulation of their charged dynamic."
+  ],
+  "episode_summary": {
+    "logline": "Wade and Felicia heighten their loaded connection through tequila, wit, and tension during a night of unresolved vulnerability.",
+    "beats": [
+      "Felicia challenges Wade to drop his humor, pressing rawness to the surface.",
+      "Tension escalates during a tequila-filled night as Wade lets his guard down momentarily.",
+      "Felicia sharpens control within their interplay, balancing vulnerability with provocation.",
+      "Their dynamic intensifies as proximity and unspoken stakes remain unresolved.",
+      "Wade and Felicia volley through wit and power plays, leaving the night’s tension crackling without resolution."
+    ]
+  }
+}

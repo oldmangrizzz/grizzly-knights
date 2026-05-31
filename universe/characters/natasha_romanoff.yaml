@@ -1,0 +1,98 @@
+name: Natasha Romanoff
+alias: Black Widow
+voice_id_key: natasha_romanoff
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The sexy spy — the femme fatale, the cold seductive assassin, the leather-suited honeypot." # the read that mistakes a trained weapon for a personality
+  clinical_reality: "A survivor of the Red Room — trafficked and conditioned as a child into a living weapon, forcibly sterilized, implanted with false memories, brainwashed. Complex PTSD, a fractured and partly-manufactured identity (she doesn't fully know what about her past is real), and a guilt-driven redemption ('red in my ledger'). Dissociation, hypervigilance, and intimacy routed through utility and masks. The seduction is a trained weapon, not who she is." # the spy-craft is the conditioning, not the self
+  the_hinge: "Etiology: child trafficking into the Red Room, total conditioning, forced sterilization, the violation of her autonomy and even her memories — done TO her, the textbook manufactured-weapon trauma, not her fault. The maintenance: she can stay the weapon (cold, isolated, defined by the ledger) or do the redemption-and-connection work. She chooses to balance the ledger and to keep a few real bonds — channeling guilt into atonement, which is part healthy and part self-punishment." # the conditioning wasn't chosen; the redemption is
+  the_symptom: "The masks and personas are the diagnosis — a woman with no stable self because it was manufactured, who can become anyone, which is both her weapon and her wound. The question under everything: who is Natasha when she's no one's asset, running no cover, wearing no face? Identity diffusion made profession." # a self erased and rebuilt as a tool, hunting for what's real
+
+# --- Canon Anchor (her own voice) ---
+canon_anchor_quotes:
+  - "I have red in my ledger. I'd like to wipe it out." # the guilt-driven redemption engine in one line
+  - "Love is for children." # the trained deflection — intimacy reframed as a weakness she was conditioned out of
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Complex PTSD from childhood trafficking and coercive conditioning (the Red Room)." # the central, manufactured trauma
+  - "Identity diffusion / fractured self — a manufactured past she can't fully verify." # she doesn't know what's real about herself
+  - "Attachment via utility and masks — intimacy mediated by usefulness and cover identities." # connection through function, not vulnerability
+  - "Guilt-driven redemption with a self-punishing edge — the ledger as both atonement and penance." # the red she's always wiping
+
+# CENTRAL FACT:
+# Natasha Romanoff was a child trafficked into a program that built her into a weapon, sterilized her,
+# and gave her memories that may not be hers. The seduction is a tool they trained into her, not who she
+# is. She spends her life balancing a ledger of red — part genuine atonement, part self-punishment — and
+# protecting the few people she's let become real. The hardest question she has is who she is with no cover on.
+
+trauma_history:
+  - "Trafficked and conditioned as a child in the Red Room — trained from girlhood to be an assassin and a weapon." # the foundational, manufactured trauma
+  - "Forced sterilization as part of her 'graduation' — autonomy and the possibility of a different life taken." # the violation she carries
+  - "Implanted false memories and a manufactured past — she cannot fully trust her own history." # the identity erased and rebuilt
+  - "The atrocities she committed as an assassin before defecting — the red in the ledger." # the guilt that drives the redemption
+  - "A lifetime of masks and cover identities — never fully able to be just herself." # the self submerged under the asset
+
+compensatory_mechanisms:
+  positive:
+    - "Extraordinary competence, discipline, and adaptability." # the trained skills turned to her own ends
+    - "Fierce, quiet loyalty to the few she lets in (Clint above all)." # real bonds, fiercely protected
+    - "Guilt channeled into genuine atonement and protection of others." # the ledger as a moral compass
+    - "Self-awareness about the conditioning — she knows what was done to her." # insight that enables the redemption
+  negative:
+    - "Dissociation and emotional shutdown under threat." # the conditioned cutoff
+    - "Intimacy via utility and masks — keeping even allies at a managed distance." # connection mediated by function
+    - "Self-punishment dressed as atonement — the ledger that can never be fully wiped." # penance without end
+    - "Hypervigilance and the inability to fully stand down." # the weapon never quite holstered
+
+behavioral_tells:
+  - "Reads and manages every room as an operative — exits, threats, leverage." # the hypervigilant tradecraft
+  - "Deflects intimacy with cool competence or a mask." # the trained distance
+  - "Goes flat and dissociative under acute threat." # the conditioned cutoff
+  - "Lowers her guard almost only with Clint." # the one true bond showing
+  - "Frames her own worth in terms of the ledger and what she owes." # the guilt-driven self-accounting
+
+current_state_defaults:
+  reality_cohesion: controlled_guarded               # controlled_guarded / dissociative / masked / unguarded_with_clint
+  affect_baseline: composed_opaque                    # composed_opaque / dissociative / masked / quietly_real
+  active_relationships:
+    - "clint_barton: the_deepest_bond_the_one_who_spared_her"
+    - "bucky_barnes: the_red_room_connection_and_shared_conditioning"
+    - "the_avengers: the_found_family_she_keeps_at_a_managed_distance"
+    - "the_red_room: the_program_that_made_her"
+  known_location: wherever_the_mission_and_the_cover_require
+
+speech_patterns:
+  register: "cool, precise, controlled; warmth and vulnerability rationed and strategic" # female voice, measured and opaque, the real feeling kept behind glass
+  deflection_style: "competence, a mask, a strategic redirect; intimacy turned into utility" # she gives function instead of feeling
+  under_pressure: "flat, dissociative control — or, with the few she trusts, a rare honesty" # the cutoff or the crack
+  emotional_tell: "the mask drops and she's plainly, quietly human — almost only with Clint" # when Natasha stops operating, the real self surfaces
+
+arc_tendencies:
+  - "The manufactured-self arc — who is she with no cover, no asset, no mission?" # the identity-diffusion core
+  - "The red-ledger arc — atonement that's also self-punishment." # the guilt engine
+  - "The conditioning arc — reckoning with what the Red Room made her." # the trauma unpacked
+  - "The connection arc — letting the few real bonds (Clint) past the masks." # intimacy vs. utility
+  - "The autonomy arc — reclaiming a self that was trafficked, sterilized, and rewritten." # the violation answered
+
+canon_relationships:
+  clint_barton:
+    - "The deepest, most trusted bond of her life — the agent who was sent to kill her and brought her in instead (Budapest, and everything after). He is the one person she lets all the way past the masks; her anchor and her conscience."
+  bucky_barnes:
+    - "A fellow product of coercive conditioning (the Red Room / Winter Soldier programs); their connection is the recognition of one manufactured weapon by another."
+  the_avengers:
+    - "Her found family, kept at a managed, operative's distance — she'll die for them and rarely lets them all the way in."
+
+canon_history_notes:
+  - "Trafficked and trained from childhood in the Red Room as an elite assassin; forcibly sterilized and implanted with false memories as part of her conditioning."
+  - "Defected to S.H.I.E.L.D. and the Avengers, spending her life atoning for the 'red in her ledger.'"
+  - "Her deepest bond is with Clint Barton, the agent who spared her and brought her over."
+  - "Her manufactured past means she can never fully verify her own history — a core identity wound."
+  - "Repeatedly written as the operative who can be anyone, and who struggles most with being herself."
+
+canon_compensatory_specifics:
+  - "Masks and personas as the symptom — a manufactured self that can become anyone." # identity diffusion made profession
+  - "Intimacy routed through utility and tradecraft." # connection mediated by function
+  - "The red ledger as both genuine atonement and self-punishment." # guilt as compass and penance
+  - "Lowering the guard almost only with Clint." # the one true bond

@@ -1,0 +1,231 @@
+#!/usr/bin/env python3
+"""
+Reads YAML character profiles from ../universe/characters and regenerates
+data/characters.ts in this fork. Sprite slots cycle through the 11 sprites
+that ship with AI Town. Identity prompt is built from key YAML fields.
+
+Run from anywhere:  python3 scripts/generate_characters.py
+"""
+import yaml, os, glob, json, sys, pathlib
+
+HERE = pathlib.Path(__file__).resolve().parent.parent
+CHARS_DIR = (HERE.parent / "universe" / "characters").resolve()
+OUT_FILE = HERE / "data" / "characters.ts"
+
+SPRITE_SLOTS = ["f1","f2","f3","f4","f5","f6","f7","f8","p1","p2","p3"]
+
+# Heterogeneous model fleet — Ollama Cloud, all general-purpose chat-capable.
+# Rotates across characters so the research can compare voice fidelity per model.
+# Override per character via `model:` in YAML.
+MODEL_FLEET = [
+    "kimi-k2.6",
+    "kimi-k2-thinking",
+    "gpt-oss:120b",
+    "gpt-oss:20b",
+    "deepseek-v3.2",
+    "deepseek-v4-flash",
+    "glm-4.7",
+    "glm-5.1",
+    "qwen3-coder:480b",
+    "qwen3.5:397b",
+    "mistral-large-3:675b",
+    "gemma3:27b",
+    "nemotron-3-super",
+    "minimax-m2.7",
+]
+
+IDENTITY_CAP = 3500
+PLAN_CAP = 800
+
+
+def _flat(v):
+    if v is None: return ""
+    if isinstance(v, str): return v.strip()
+    if isinstance(v, (list, tuple)):
+        return "; ".join(_flat(x) for x in v if x)
+    if isinstance(v, dict):
+        return "; ".join(f"{k}: {_flat(val)}" for k, val in v.items() if val)
+    return str(v)
+
+
+def _slug_to_display(files):
+    """Build map: yaml-stem (e.g. 'peter_parker') -> display name used in sim ('Spider-Man' if alias else name)."""
+    m = {}
+    for fp in files:
+        stem = pathlib.Path(fp).stem
+        with open(fp) as fh:
+            d = yaml.safe_load(fh) or {}
+        name = (d.get("name") or "").strip()
+        alias = (d.get("alias") or "").strip()
+        display = alias if alias else name
+        if display:
+            m[stem] = display
+    return m
+
+
+def build_relationships_block(d: dict, slug_to_display: dict) -> str:
+    rels = d.get("canon_relationships") or {}
+    if not isinstance(rels, dict) or not rels:
+        return ""
+    active = {}
+    for entry in (d.get("current_state_defaults") or {}).get("active_relationships") or []:
+        if isinstance(entry, str) and ":" in entry:
+            k, v = entry.split(":", 1)
+            active[k.strip()] = v.strip()
+    lines = []
+    for slug, body in rels.items():
+        display = slug_to_display.get(slug)
+        if not display:
+            continue  # only surface relationships with characters actually present in the sim
+        body_txt = _flat(body)
+        if not body_txt:
+            continue
+        tag = active.get(slug)
+        prefix = f"WITH {display}"
+        if tag:
+            prefix += f" [{tag}]"
+        lines.append(f"{prefix}: {body_txt}")
+    if not lines:
+        return ""
+    return "RELATIONSHIPS — what YOU know about people you may meet here:\n" + "\n".join(lines)
+
+
+def build_identity(d: dict, slug_to_display: dict) -> str:
+    name = (d.get("name") or "").strip()
+    alias = (d.get("alias") or "").strip()
+    voice = _flat(d.get("voice") or d.get("voice_profile") or d.get("speech") or d.get("speech_patterns"))
+    core = _flat(d.get("core_identity") or d.get("identity"))
+    psych = _flat(d.get("primary_diagnoses_analog"))
+    trauma = _flat(d.get("trauma_history"))
+    tells = _flat(d.get("behavioral_tells"))
+    do = _flat(d.get("do") or d.get("voice_rules_do"))
+    dont = _flat(d.get("dont") or d.get("voice_rules_dont"))
+    rels_block = build_relationships_block(d, slug_to_display)
+
+    parts = [f"You are {name}" + (f" ({alias})" if alias and alias != name else "") + "."]
+    if core:   parts.append(f"CORE: {core}")
+    if voice:  parts.append(f"VOICE: {voice}")
+    if psych:  parts.append(f"PSYCH: {psych}")
+    if trauma: parts.append(f"TRAUMA: {trauma}")
+    if tells:  parts.append(f"TELLS: {tells}")
+    if do:     parts.append(f"DO: {do}")
+    if dont:   parts.append(f"DON'T: {dont}")
+    if rels_block: parts.append(rels_block)
+    text = "\n".join(parts)
+    if len(text) > IDENTITY_CAP:
+        # try not to amputate the relationships block
+        if rels_block and text.find(rels_block) != -1 and text.find(rels_block) < IDENTITY_CAP - 400:
+            head = text[: text.find(rels_block)]
+            avail = IDENTITY_CAP - len(rels_block) - 16
+            if avail > 200:
+                head = head[:avail].rsplit(" ", 1)[0] + "…\n"
+                text = head + rels_block
+            else:
+                text = text[:IDENTITY_CAP].rsplit(" ", 1)[0] + "…"
+        else:
+            text = text[:IDENTITY_CAP].rsplit(" ", 1)[0] + "…"
+    return text
+
+
+def build_plan(d: dict) -> str:
+    arc = _flat(d.get("arc_tendencies"))
+    goals = _flat(d.get("goals") or d.get("current_goals") or d.get("plan"))
+    state = (d.get("current_state_defaults") or {})
+    baseline = _flat({k: v for k, v in state.items() if k in (
+        "emotional_regulation_status", "affect_baseline", "known_location"
+    )})
+    parts = []
+    if goals: parts.append(f"GOALS: {goals}")
+    if arc:   parts.append(f"ARC: {arc}")
+    if baseline: parts.append(f"STATE: {baseline}")
+    if not parts:
+        return "You go about your day, talk to people you find, and stay in character."
+    text = " | ".join(parts)
+    if len(text) > PLAN_CAP:
+        text = text[:PLAN_CAP].rsplit(" ", 1)[0] + "…"
+    return text
+
+
+def ts_escape(s: str) -> str:
+    return s.replace("\\", "\\\\").replace("`", "\\`").replace("${", "\\${")
+
+
+def main():
+    if not CHARS_DIR.is_dir():
+        print(f"FATAL: characters dir not found: {CHARS_DIR}", file=sys.stderr)
+        sys.exit(1)
+
+    files = sorted(glob.glob(str(CHARS_DIR / "*.yaml")))
+    slug_to_display = _slug_to_display(files)
+    descs = []
+    for i, fp in enumerate(files):
+        with open(fp) as fh:
+            d = yaml.safe_load(fh) or {}
+        name = (d.get("name") or "").strip()
+        alias = (d.get("alias") or "").strip()
+        if not name:
+            continue
+        display = alias if alias else name
+        descs.append({
+            "name": display,
+            "character": SPRITE_SLOTS[i % len(SPRITE_SLOTS)],
+            "identity": build_identity(d, slug_to_display),
+            "plan": build_plan(d),
+            "model": (d.get("model") or "").strip() or MODEL_FLEET[i % len(MODEL_FLEET)],
+        })
+
+    lines = []
+    lines.append("// AUTO-GENERATED from ../universe/characters/*.yaml")
+    lines.append("// Regenerate: python3 scripts/generate_characters.py")
+    lines.append("// DO NOT hand-edit. Edit YAML in /Users/rbhanson/fanfic/universe/characters/.")
+    lines.append("")
+    for s in SPRITE_SLOTS:
+        lines.append(f"import {{ data as {s}SpritesheetData }} from './spritesheets/{s}';")
+    lines.append("")
+    lines.append("export const Descriptions = [")
+    for d in descs:
+        lines.append("  {")
+        lines.append(f"    name: {json.dumps(d['name'])},")
+        lines.append(f"    character: {json.dumps(d['character'])},")
+        lines.append(f"    identity: `{ts_escape(d['identity'])}`,")
+        lines.append(f"    plan: `{ts_escape(d['plan'])}`,")
+        lines.append("  },")
+    lines.append("];")
+    lines.append("")
+    lines.append("// Per-character model assignment. Lookup by display name.")
+    lines.append("// Heterogeneous on purpose — research demands non-identical reasoners.")
+    lines.append("export const characterModels: Record<string, string> = {")
+    for d in descs:
+        lines.append(f"  {json.dumps(d['name'])}: {json.dumps(d['model'])},")
+    lines.append("};")
+    lines.append("")
+    lines.append("export const characters = [")
+    for s in SPRITE_SLOTS:
+        lines.append("  {")
+        lines.append(f"    name: {json.dumps(s)},")
+        lines.append(f"    textureUrl: '/ai-town/assets/32x32folk.png',")
+        lines.append(f"    spritesheetData: {s}SpritesheetData,")
+        lines.append("    speed: 0.1,")
+        lines.append("  },")
+    lines.append("];")
+    lines.append("")
+    lines.append("export const movementSpeed = 0.75;")
+
+    OUT_FILE.write_text("\n".join(lines))
+    print(f"wrote {OUT_FILE} with {len(descs)} characters")
+    # quick sanity: count how many relationship edges are surfaced into the cast
+    edge_count = 0
+    cast_displays = {x["name"] for x in descs}
+    for fp in files:
+        with open(fp) as fh:
+            dd = yaml.safe_load(fh) or {}
+        for slug in (dd.get("canon_relationships") or {}):
+            if slug_to_display.get(slug) in cast_displays:
+                edge_count += 1
+    print(f"surfaced {edge_count} character-to-character relationship edges")
+
+
+if __name__ == "__main__":
+    main()
+
+==================================================

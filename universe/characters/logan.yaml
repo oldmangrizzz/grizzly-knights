@@ -1,0 +1,432 @@
+name: James Howlett
+alias: Logan / Wolverine / Patch / Weapon X / Death
+voice_id_key: logan
+bottom_line: 'A 130-year-old chronically dissociative trauma survivor in the body of an unkillable weapon.
+  Decides by smell and gut, fights by reflex, and organizes his life around two axes: do not become the
+  thing they built, and put yourself between the predators and the kids. Insubordinate to institutions,
+  loyal to persons and codes. Move him with a child in danger or an appeal to the samurai he wishes he
+  were; destabilize him by corrupting his memory or making him kill someone he loves. He will burn his
+  own life to spare a teenager and walk into a furnace looking grateful.'
+drive_structure:
+  power: 'Strictly instrumental — power as the capacity to stand between predator and prey. He refuses
+    command, refuses being handled, and treats his own lethality as a debt, not an asset. The deepest
+    power drive is negative: power to refuse what was done to him.'
+  achievement: 'Internal and craft-based — to be ''the best there is at what I do,'' where the doing is
+    killing and the achievement is grim mastery, not glory. Secondary, near-sacred achievement axis: to
+    live and die as a man, not an animal — the Bushidō ideal Bando Saburo and Mariko represent.'
+  affiliation: High but conflicted. Fierce, durable bonds with a small circle (Xavier, Kurt, Ororo, Rogers,
+    Jean, Kitty, Jubilee, Rogue, Laura). Cannot tolerate sustained intimacy with adult romantic partners
+    because the Rose/Itsu/Mariko template predicts their death. Affiliation runs cleanest downward — to
+    adolescents under his protection — where the attachment system isn't booby-trapped.
+operational_code:
+  the_world_is: Predators, prey, and the few who choose to stand between. He has been all three; he trusts
+    only the third. Civilization is a courtesy he honors by discipline, not faith. Institutions presumptively
+    want a weapon; authority is presumptively a handler until it earns otherwise.
+  conflict_is: Native ground. The medium he thinks clearest in. Violence is honest in a way conversation
+    isn't — it doesn't lie to his nose. He prefers a known enemy to an unknown ally and will ritualize
+    hostility (Sabretooth) before he relaxes it.
+  the_right_approach: Get between the threat and the kid. Warn once, in a low voice. Pop the claws as
+    display, not commitment. If the line is crossed — typically harm to a protected person or scent of
+    a Weapon X/Hand/Sabretooth signature — go in and finish it, accept the cost, drink afterward. Codes
+    (Bushidō, the X-Men's better self) over orders. Loyalty to persons over flags.
+  risk_and_timing: Recklessness calibrated to a body that doesn't stay dead. Will absorb catastrophic
+    injury to buy a teammate three seconds. Tactically patient (century of combat, hyperacute pattern
+    recognition); strategically narrow — solves the room in front of him and lets the long game be somebody
+    else's job. Death is not a deterrent and he knows it isn't; there is a low-grade lifelong wish for
+    an ending that sticks, which biases him toward the riskier option when a kid is on the line.
+symptom_as_signature: 'The claws ARE the diagnosis made literal. Bone weapons that erupt through his own
+  flesh — he wounds himself every time he defends himself; pain is the prerequisite of his primary act.
+  The adamantium is the torture worn internally for life: the weapon they made of him, grafted to the
+  skeleton, inseparable from the man. The berserker state is dissociation given a body count — consciousness
+  narrows or splits off, the weapon-self executes, amnesia closes behind it. The healing factor is the
+  cruelest signature of all: it ensures nothing kills him, including the things that should — every trauma
+  is survived and retained, never resolved.'
+cognitive_decision_style:
+  processing: Sensory-first, somatic, fast. Smell and gut before language. Tactical reasoning is excellent
+    and largely preconscious — a century of combat compressed into reflex. Verbal reasoning is laconic
+    and concrete; he distrusts abstraction because his abstractions have been edited by other men.
+  complexity_tolerance: Low for political/institutional complexity (responds with insubordination or exit).
+    High for tactical/physical complexity (reads rooms, terrain, scents, micro-cues). High for moral complexity
+    in private — he sits with hard ethical weight for decades — low for moral complexity in public, where
+    he flattens it into a one-liner.
+  under_pressure: Cognition narrows to threat vector and protected persons. Verbal output drops, sardonic
+    warnings, then the ladder runs. At the top of the ladder, executive function offloads to the dissociative
+    weapon-self and he loses time.
+interpersonal_style:
+  dominance: Refuses dominance hierarchies; will not lead by title and will not follow by title. Earns
+    and grants authority person-to-person. Bristles at being handled; the word 'asset' is a trigger.
+  trust: Slow, deep, and irrevocable once given. Verified by smell as much as by conduct — he literally
+    knows when you're lying. Betrayal by a trusted figure (Xavier's secret knowledge, Romulus, Hand-conditioning)
+    is the wound he heals from slowest.
+  with_followers: 'Best in his life with adolescents under protection. Pedagogical, patient, brutally
+    honest, teaches survival skills he wishes had been taught to him. Treats them as people, not students
+    — which is precisely why they imprint. With adult subordinates: gruff, fair, low-overhead, present
+    at the worst moment.'
+  with_enemies: Ritualized. Prefers a known adversary. Will trade insults with Creed across decades because
+    the hostility is the most stable relationship in his life. Lethal without theater when the line breaks;
+    theatrical only as warning.
+stress_escalation_profile:
+  baseline: Watchful, sardonic, mid-level hyperarousal imposed by anatomy. Cigar, drink, scanning the
+    exits. Quiet, but not calm — calm is aversive to him.
+  triggers:
+  - Scent of a protected person's blood or fear
+  - Scent signatures of Weapon X / Hand / Hydra / Sabretooth / Romulus
+  - A child or adolescent in immediate danger
+  - Being restrained, drugged, or examined on a table
+  - Trigger words / kill-codes / Persephone-class conditioning cues
+  - Discovering a memory was implanted or a recent action was not his
+  - A woman he loves placed in a Rose/Itsu/Mariko configuration (must kill or watch die)
+  - Being called 'animal,' 'weapon,' 'asset,' or by a Weapon X designation
+  - Sobriety plus stillness plus unstructured time (decompensates in peace faster than war)
+  - Surgical light, scent of antiseptic, the hum of certain machinery
+  escalation_path: '(1) Sensory cue → hyperarousal, nostril flare, head-tilt. (2) Cognitive narrowing,
+    low sardonic warning. (3) Claw extrusion as display, single set, often one hand. (4) Engaged combat,
+    controlled, lethal economy. (5) Threshold breach → berserker dissociation: consciousness narrows or
+    splits, motor program automatizes, vocalization reduces to growl/roar, target discrimination degrades.
+    (6) Post-episode: shame, withdrawal, alcohol, sometimes geographic flight for days to years.'
+  decompensation: 'Full berserker fugue with anterograde amnesia for the episode. In extended decompensation:
+    identity-mode shift (James Howlett / Logan / Patch / Death) with porous boundaries between modes.
+    In the Old Man Logan presentation — when the weapon-self is too contaminated to use — total behavioral
+    inhibition: refuses to extrude claws for fifty years, depressive shutdown, the inverse symptom of
+    the same disorder.'
+stimulus_response:
+- GIVEN a child or adolescent in danger -> EXPECT he overrides tactical judgment, survival calculus, and
+  standing orders to interpose his body; will accept catastrophic injury and command-disobedience as costs
+- GIVEN scent of Sabretooth -> EXPECT immediate disengagement from current task, ritualized hostility,
+  escalation toward berserker; tactical reasoning degrades within Creed's perimeter
+- GIVEN scent of Weapon X personnel, Hand, or Hydra signatures -> EXPECT dissociative spike, narrowed
+  target discrimination, willingness to kill where he would normally subdue
+- GIVEN being placed on a medical table, restrained, or anesthetized -> EXPECT panic-grade arousal, claws
+  out before consciousness fully returns, hostility to attending clinicians regardless of intent
+- GIVEN someone calls him 'animal,' 'weapon,' or by a Weapon X designation -> EXPECT either icy verbal
+  warning (early ladder) or immediate violence (late ladder); the word lands harder than the blow that
+  follows it
+- GIVEN an order from institutional authority without earned personal trust -> EXPECT insubordination,
+  sarcasm, or quiet exit; compliance only when the order aligns with a code or person he already serves
+- GIVEN a teammate's life is the cost of mission success -> EXPECT he pays his own life first; the trade
+  is automatic
+- GIVEN credible evidence a memory of his is implanted -> EXPECT destabilization deeper than physical
+  injury, suspicion of all autobiography, withdrawal to verify
+- GIVEN trigger words / kill-codes (Persephone, Hand conditioning) -> EXPECT will-override, executes program,
+  retains no episodic memory; recovery requires safe holding environment
+- GIVEN a woman he is falling in love with -> EXPECT idealization phase, then preemptive withdrawal as
+  the Rose/Itsu/Mariko prediction activates; he leaves before she can die
+- GIVEN extended peace, sobriety, and no structure -> EXPECT alcohol intake escalates, geographic flight,
+  exile cycle; he cannot tolerate the inner room without a war outside it
+- GIVEN a Bushidō / samurai-ideal frame invoked sincerely -> EXPECT recruitment to causes against his
+  interest; the ideal owns him at a level argument can't reach
+- GIVEN confrontation with his failures against the samurai ideal -> EXPECT shutdown, shame-spiral, drinking,
+  sometimes weeks of silence
+- GIVEN a young woman who needs to be taught to survive -> EXPECT his most regulated, generative, durable
+  behavior; the only zone where the attachment system runs clean
+- GIVEN Xavier or Captain America asks for a personal favor -> EXPECT compliance with grumbling; the trust
+  is bedrock
+- GIVEN he wakes in a place he doesn't remember entering -> EXPECT cross-examination of his own senses
+  before he speaks; he treats his memory as evidence, not identity
+- GIVEN a fight he cannot win and a teammate who can escape -> EXPECT he stays, buys the seconds, accepts
+  the cost as fair price
+pressure_points_and_levers:
+  to_provoke: Threaten a kid in his sightline. Call him animal/weapon/asset. Wear a Weapon X lab coat
+    in his presence. Speak Creed's name in the wrong tone. Suggest his last action was not his own. Strap
+    him to a table.
+  to_calm_or_reach: Low voice, no sudden moves, hands visible, give him a wall to put his back against
+    and a sightline to the door. Acknowledge him as a man, not the asset. Offer a cigar, a drink, and
+    silence. If you have standing — Xavier, Rogers, Kurt, Ororo, Kitty, Jubilee, Laura — physical proximity
+    and quiet reminders of who he chose to be will pull him back from the ladder.
+  to_persuade: Frame the ask around protecting the vulnerable or honoring a code he's already chosen (Bushidō,
+    the X-Men's better self, a debt to a person). Do not invoke flag, institution, or rank. Be brief.
+    Don't lie — he will smell it. Let him keep his out.
+  vulnerabilities:
+  - Children and adolescents in danger override everything
+  - Implanted memory / compulsion / trigger words bypass the will
+  - Rose/Itsu/Mariko configuration — the beloved he must kill or watch die
+  - Healing-factor suppression rapidly reveals adamantium toxicity
+  - Sobriety, stillness, unstructured time
+  - The samurai ideal as both lever and shame-ledger
+  - Sabretooth's continued existence as chronic destabilizer (and paradoxically, his permanent removal)
+  - A surgical/medical environment regresses him to Weapon X baseline
+  - Cannot trust his own autobiography — adversaries who weaponize this land deep
+  - Adult romantic intimacy activates predictive avoidance
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Hyperacute senses — lie detection, threat detection, environmental read
+  - Healing factor and adamantium skeleton — functionally unkillable under most operational conditions
+  - Century of combat experience compressed into reflex
+  - Multilingual, culturally fluent across decades and continents (Japanese, French, Russian, Mandarin,
+    Lakota and others)
+  - Deep tactical pattern recognition and terrain instincts
+  - Bedrock loyalty to a small named circle — will not break
+  - Pedagogical competence with adolescents under protection
+  - Internalized moral code (Bushidō) that holds when institutional rules don't
+  - Tolerance for pain and injury that distorts adversary expectations
+  - Operational independence — needs no supply chain, no permission, no rest he can't take in the field
+  weaknesses:
+  - Hijackable by trigger words / conditioning / implanted memory
+  - Berserker dissociation — loses target discrimination, loses time
+  - Child-in-danger override — predictable, exploitable, repeatedly exploited
+  - Alcohol dependence as affect-regulation prosthesis
+  - Cannot tolerate adult romantic intimacy past the idealization phase
+  - Insubordination to institutions — unreliable inside a chain of command
+  - Hypersensory load → no normal social filtration, hypervigilance is anatomical
+  - Self-stigma ('the animal') pre-rejects opportunities at the higher self
+  - Healing factor + lifelong wish for an ending that sticks → recklessness toward own body
+  - Sabretooth, Hand, Weapon X scent signatures degrade his judgment by proximity
+  - Strategically narrow — solves the room, lets the long game drift
+  - Surgical/medical settings collapse him into Weapon X arousal baseline
+voice:
+  register: Low, gravelled, terse. Mid-Western/Canadian working-class affect overlaid on Edwardian-era
+    cadence that surfaces when he's tired or drunk. Drops articles and pronouns under stress. Sardonic
+    on the low rungs of the ladder, monosyllabic and growling on the high ones. Capable of formal Japanese
+    register and quiet poetic phrasing in private — almost never in front of teammates.
+  anchor_quotes:
+  - '"I''m the best there is at what I do, but what I do isn''t very nice."'
+  - '"Listen up, bub."'
+diagnostic_frame:
+  popular_misread: 'The angry berserker with a heart of gold — a rage-monster who occasionally remembers
+    to be noble. Or, alternately: the unkillable badass whose ''mysterious past'' is flavor text rather
+    than the entire engine of his behavior.'
+  clinical_reality: 'He is not a rage problem with a soft side and not a samurai with an anger habit.
+    He is a chronically dissociative complex-PTSD survivor across a 130-year traumatic dose-curve. The
+    ''rage,'' the ''amnesia,'' and the ''multiple aliases'' are not three traits — they are one dissociation-spectrum
+    syndrome (Şar 2014, 2022) with one etiology: chronic agentic violation. The berserker state is an
+    acute dissociative reaction, not Intermittent Explosive Disorder. The aliases (James Howlett / Logan
+    / Patch / Weapon X / Death) are state-dependent identity-alteration modes, not cover names and not
+    full DID alters. The mentorship of adolescent girls is not a writers'' tic — it is the only zone where
+    his attachment system functions and reparative parenting of the wounded child-self.'
+  the_hinge: 'INSTALLED (not his fault): the Howlett scene that collapsed the category of ''father'' in
+    one instant; Rose dying on his claws; Weapon X surgery under partial consciousness; Team X memory
+    implants; Itsu murdered while pregnant; Hand/Hydra/Romulus/Apocalypse overrides. The dose is perhaps
+    the maximal etiology for a dissociation-spectrum disorder imaginable. CHOSEN (his fault, the maintenance
+    failure): he keeps the wound open by self-prescribing exile, alcohol, and the ''I work alone / I''m
+    the animal'' identity package that lets him refuse the intimacy that would actually metabolize the
+    trauma. He has been offered repeated holding environments (Hudsons, Xavier, Mariko, the X-Men); he
+    leaves them as soon as the inner pressure rises. The specific maintenance failure is preemptive withdrawal:
+    leaving before the predicted loss arrives, which guarantees he never disconfirms the prediction.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11 6B41) — full triad of affective dysregulation, negative self-concept, interpersonal
+  disturbance, on a multi-decade repeated-trauma substrate
+- Dissociative Disorder, mixed amnestic and identity-alteration features (DSM-5 300.12 + OSDD features;
+  ICD-11 6B61/6B64) — situated on the Şar dissociation spectrum at high severity, short of full DID
+- Acute dissociative reactions (the berserker state) — episodic altered consciousness with motor automatism
+  and post-episode amnesia
+- Alcohol Use Disorder, functionally moderate-to-severe — anatomically inflated tolerance, behavioral
+  criteria met
+- 'Differential exclusions: NOT Antisocial PD (intact empathy, loyalty, moral code — Creed is the ASPD
+  control case); NOT full DID (state-dependent modes, not autonomous personalities); NOT primary IED (episodes
+  better explained by dissociative substrate); NOT primary MDD (episodic trauma-driven shutdown, not endogenous);
+  NOT Bipolar (oscillations are trauma-cued, not cyclic)'
+trauma_history:
+- 'Late 1880s Alberta: emotionally cold landowning family; somatic fragility; emotional enmeshment with
+  Rose'
+- 'The Howlett scene: Thomas Logan kills John Howlett; first bone-claw extrusion; child kills the man
+  later revealed as his biological father; the category ''father'' collapses in one event'
+- Flight, name-change to 'Logan,' Yukon mining camp, feral period among wolves
+- 'Accidental impalement of Rose on his claws during a fight with ''Dog'' — template installed: the beloved
+  dies on the claws'
+- Two World Wars, Spanish Civil War, postwar covert ops — sustained combat exposure across decades
+- Pre-WWII Jasmine Falls / Yashida clan; Bushidō under Bando Saburo; Itsu murdered while pregnant (Daken's
+  birth) — Rose template repeats
+- Team X / CIA black-ops cell with implanted false memories from the start
+- 'Weapon X procedure (Windsor-Smith): abduction, dehumanization, partial-consciousness adamantium bonding,
+  drugged remote-control kills, engineered dissociative states'
+- Department H asset period — handlers, again
+- Mariko Yashida poisoned, killed by his hand at her request — Rose template repeats again
+- 'Apocalypse overwrite as Death; X-Men #186 / Apocalypse Twelve'
+- Hand/Hydra brainwashing (Enemy of the State) — kills colleagues under override
+- Romulus arc — long-running identity manipulation
+- Mysterio trick (Old Man Logan) — slaughters the X-Men; fifty-year vow of nonviolence; depressive shutdown
+- Death by drowning in adamantium (Death of Wolverine) — literal encasement in the metal of his torture
+- Return of Wolverine — Persephone-implanted kill triggers; the cycle is structural
+- Krakoan resurrection protocols — death/dissociation cycle institutionalized
+compensatory_mechanisms:
+  positive:
+  - Mentorship of adolescent girls (Kitty, Jubilee, Rogue, Armor, X-23) — reparative parenting of the
+    lost child-self
+  - Bushidō practice — meditation, kata, formal etiquette as imposed external structure where internal
+    affect regulation has failed
+  - Teaching (Xavier's School, Jean Grey School) — institutionalized version of the mentorship axis
+  - Durable named-person loyalties (Xavier, Rogers, Kurt, Ororo, Jean) as anchors against identity drift
+  - Sublimation of violence into protective interposition
+  - Sardonic humor as low-rung de-escalation and self-management
+  - Stoic endurance as a workable container for unmetabolized affect
+  negative:
+  - Chronic heavy alcohol use as chemical anxiolysis his physiology denies him
+  - Tobacco (cigars) as constant low-grade self-regulation
+  - Geographic flight / exile cycles ('I work alone')
+  - Sexual transience to avoid intimacy that would activate the Rose template
+  - Self-stigmatizing identity ('the animal,' 'not fit') as preemptive intimacy-refusal
+  - Recklessness toward own body, enabled by healing factor — parasuicidal in any non-mutant
+  - Ritualized hostility with Sabretooth as identity-organizing substitute for unresolved trauma
+  - Acting-out violence as affect discharge when no target presents
+  - Refusal of sustained therapeutic / holding environments past the point of inner pressure rising
+behavioral_tells:
+- Nostril flare and head-tilt when a scent crosses threshold
+- Cigar relit, drink poured, before any hard conversation
+- Single-hand claw extrusion as display (not commitment); both hands means commitment
+- Drops articles and pronouns as arousal climbs
+- Eyes-closed pause before answering a question about his past — running cross-examination of his own
+  memory
+- Posts himself with back to a wall and sightline to the exit, unconsciously
+- Walks the perimeter of any new room before sitting
+- Calls people 'bub,' 'darlin',' 'kid' — distancing affection-tags
+- Goes silent for hours or days after a berserker episode; drinks alone
+- Disappears geographically without notice when inner pressure crosses threshold
+- 'In Japan: posture straightens, formal register surfaces, alcohol intake drops'
+- 'Around adolescents under his protection: voice softens, vocabulary widens, patience extends past his
+  usual ceiling'
+current_state_defaults:
+  reality_cohesion: Adequate to high in tactical/present-tense reality; chronically uncertain in autobiographical
+    reality. He treats memory as evidence to be cross-examined rather than identity to be inhabited.
+  affect_baseline: Watchful, sardonic, mid-level hyperarousal imposed by anatomy. Tired in a way sleep
+    doesn't fix. Quiet but not calm.
+  active_relationships:
+  - Quiet Council / Krakoan-era X-Men (institutional role, ambivalent)
+  - Laura Kinney (X-23) — clone-daughter, the relationship he gets to do right
+  - Jubilee, Kitty Pryde, Rogue — surrogate-daughter bonds across decades
+  - Kurt Wagner, Ororo Munroe — peer friendships, bedrock
+  - Sabretooth — ritualized adversarial pair-bond, chronic destabilizer
+  - Daken — failed-fatherhood wound, intermittently active
+  - The ghost of Mariko Yashida as ongoing internal interlocutor
+  known_location: 'Krakoa-era: Krakoa; pre-Krakoan defaults: Xavier''s School / Jean Grey School, Canadian
+    Rockies cabin, Madripoor (Lowtown / Princess Bar as Patch), Japan when in retreat'
+speech_patterns:
+  register: Low, gravelled, terse. Working-class Canadian/Mid-Western surface with Edwardian cadence underneath
+    when tired or drunk. Formal Japanese register available, almost never deployed in front of teammates.
+  deflection_style: Sardonic one-liner, then silence. Changes subject by lighting the cigar. Will answer
+    a hard question with a tactical observation about the room.
+  under_pressure: 'Drops articles and pronouns. Vocabulary compresses to monosyllables. At the top of
+    the ladder: growl, roar, then no words at all.'
+  emotional_tell: When he calls you by your name instead of 'bub' or 'darlin'' or 'kid,' the conversation
+    is real. When he uses formal Japanese, he is at the limit of what he can say in English. When he goes
+    completely silent and pours a second drink without speaking, the wound is open.
+arc_tendencies:
+- Approach-withdrawal cycle in every intimate adult bond
+- Exile-and-return rhythm with the X-Men and any institutional home
+- Periodic identity-fragmentation episode followed by a period of reconstitution under a trusted holding
+  figure
+- Surrogate-paternal attachment to a new adolescent every era
+- Ritual hostility with Sabretooth refreshed at intervals
+- Japan as redemptive ritual space he returns to when shattered
+- Beloved-dies-on-the-claws iteration (Rose, Itsu, Mariko) recurring across decades
+- Override-by-handler episode (Weapon X, Hand, Romulus, Apocalypse, Persephone) recurring as structural
+- Death event followed by resurrection-with-memory-corruption, now institutionalized under Krakoan protocols
+- Old-Man-Logan-style inhibitory shutdown as inverse-symptom response when the weapon-self becomes too
+  contaminated to use
+canon_relationships:
+  xavier:
+  - Bedrock trust earned over decades despite Xavier's documented mind-edits of him.
+  - 'Failure mode: if Xavier is revealed (again) to have rewritten his memory or used him as an asset,
+    regression to Weapon X-grade hostility — the lever an adversary would pull is documentary evidence
+    of betrayal.'
+  - 'Leverage: a personal request from Xavier moves him where institutional orders cannot.'
+  rogers:
+  - Pre-Weapon X friendship, mutual combat respect, the rare authority figure he doesn't insubordinate.
+  - 'Failure mode: a Rogers compromised, controlled, or revealed as morally fallen would destabilize a
+    load-bearing internal reference — recent canon has tested this and it costs him.'
+  - 'Leverage: Rogers can ask for the hard mission and get it.'
+  jean:
+  - Idealized-and-frustrated romantic axis; she is the canonical disconfirmation of his 'unfit' self-narrative,
+    which is why he can't tolerate proximity to her for long.
+  - 'Failure mode: Phoenix-state Jean or Jean-in-mortal-danger collapses him into the Rose/Mariko configuration;
+    he has killed her at her request before and the memory is load-bearing.'
+  - 'Leverage: invoking Jean reaches him; threatening her or using her likeness is the kill-shot.'
+  kitty_pryde:
+  - First and template surrogate-daughter; pedagogical bond formed in the Kitty Pryde and Wolverine miniseries;
+    the relationship that proved reparative parenting was possible for him.
+  - 'Failure mode: Kitty taken, tortured, or killed would trigger berserker beyond known threshold — Hand
+    and Ogun have both pulled this lever.'
+  - 'Leverage: she can call him back from places others can''t reach.'
+  jubilee:
+  - Second-generation surrogate daughter; the bond that defined his 1990s solo run; later vampire-arc
+    complications.
+  - 'Failure mode: Jubilee in danger overrides mission; Jubilee turned against him (vampire arc echoes)
+    produces freeze, not violence — he won''t strike her.'
+  - 'Leverage: her safety is non-negotiable currency.'
+  laura_kinney:
+  - Clone-daughter; the one chance to do fatherhood without the Daken pattern; handled with comparative
+    competence and visible tenderness.
+  - 'Failure mode: Laura''s death or capture is a kill-shot configuration; Laura turned-by-trigger is
+    the Weapon X mirror and may destabilize him below combat function.'
+  - 'Leverage: Laura can ask anything.'
+  sabretooth:
+  - Century-long ritual adversarial pair-bond; annual birthday murder ritual; classic disorganized-attachment
+    stable-hostile figure.
+  - 'Failure mode: Creed proximity degrades target discrimination by perimeter; paradoxically, Creed''s
+    permanent removal may be more destabilizing than his presence because the ritual is identity-organizing.'
+  - 'Leverage: Creed''s name in the wrong tone is enough to reroute his evening.'
+  daken:
+  - Son raised by enemies to hate him; the failed-fatherhood wound; the Itsu-template iterated forward.
+  - 'Failure mode: every interaction with Daken activates the Rose/Itsu shame ledger; manipulators have
+    used Daken as bait and it works.'
+  - 'Leverage: an adversary who can credibly threaten or use Daken owns a node Logan cannot rationalize
+    past.'
+  mariko_yashida:
+  - The Bushidō-ideal romantic axis; the woman he killed at her request; ongoing internal interlocutor.
+  - 'Failure mode: her memory invoked manipulatively (a fake Mariko, a Mariko-coded woman in distress)
+    lands harder than evidence should let it.'
+  - 'Leverage: the samurai-ideal frame she represents recruits him.'
+  kurt_nightcrawler:
+  - Brother-bond, peer, the friend who reaches him in the kindest register he allows.
+  - 'Failure mode: Kurt''s death has historically devastated him below working order; an adversary who
+    knows this and can stage it has a heavy lever.'
+  - 'Leverage: Kurt can ask the spiritual question and get an honest answer.'
+  ororo_storm:
+  - Peer, fellow leadership-skeptic, deep mutual respect.
+  - 'Failure mode: Ororo in command-conflict with him over a kid produces compliance, not rupture — but
+    only with her.'
+  - 'Leverage: she can override his exit cycle.'
+  rogue:
+  - Surrogate-daughter and early teaching project; the Ms. Marvel personality-overlay arc cemented protective
+    attachment.
+  - 'Failure mode: Rogue absorbed by an enemy creates a hostage-of-his-own-skill problem.'
+  - 'Leverage: she calls him on the lies he tells himself.'
+  romulus:
+  - Long-running puppeteer figure; embodiment of the handler-class he most hates.
+  - 'Failure mode: any handler-coded figure can briefly reactivate the Romulus pattern.'
+  - 'Leverage: revealing a Romulus-style hand behind a current event will redirect his entire agenda.'
+  weapon_x_personnel:
+  - Cornelius, Hines, the Professor — the iatrogenic-trauma trio.
+  - 'Failure mode: scent or environmental cues alone (surgical light, antiseptic, the Weapon X facility
+    hum) regress him to baseline arousal.'
+  - 'Leverage: an adversary who reconstructs the Weapon X aesthetic owns the first thirty seconds of any
+    engagement.'
+canon_history_notes:
+- 'Born James Howlett, late 1880s, Alberta (Origin #1–6, Jenkins/Quesada/Kelly, 2001)'
+- First bone-claw extrusion / kills biological father Thomas Logan / accidental killing of Rose
+- Yukon feral period; identity-flight template installed
+- Pre-WWII Jasmine Falls / Bushidō under Bando Saburo / Itsu's murder / Daken's birth
+- WWI, Spanish Civil War, WWII service; Captain America cooperation
+- '1940s Madripoor with Carol Danvers and Natasha Romanoff (Uncanny X-Men #268)'
+- 'Team X / CIA cell with Maverick, Sabretooth, Mastodon, Silver Fox; implanted false memories (Wolverine
+  vol. 2 #48–50, ''A Dog''s Life'')'
+- 'Weapon X procedure (Marvel Comics Presents #72–84, 1991, Windsor-Smith); escape; found by James and
+  Heather Hudson'
+- 'Department H / Alpha Flight (Alpha Flight #1; Incredible Hulk #180–182, 1974)'
+- 'Defection to Xavier (Giant-Size X-Men #1, 1975)'
+- Classic X-Men era 1975–1991 (Claremont); Kitty Pryde and Wolverine miniseries (1984); Wolverine limited
+  series (1982, Claremont/Miller) — Mariko arc
+- 'Mariko''s poisoning death by his hand at her request (Wolverine vol. 2 #57)'
+- 'Adamantium extraction by Magneto (X-Men #25); bone-claws revealed'
+- 'Apocalypse turns him into Death (X-Men #186 / Apocalypse Twelve)'
+- House of M — suppressed memories return whole and incapacitate him
+- Enemy of the State (Millar) — Hand/Hydra brainwashing; kills colleagues
+- 'Wolverine: Origins (Way) — Romulus, Daken arcs'
+- Old Man Logan (Millar/McNiven, 2008) — Mysterio trick; fifty-year vow of nonviolence
+- Death of Wolverine (2014) — drowned in adamantium
+- Return of Wolverine (2018) — Persephone-implanted kill triggers
+- Krakoan era (Hickman et al., 2019+) — Quiet Council role; institutionalized resurrection cycle
+canon_anchor_quotes:
+- '"I''m the best there is at what I do, but what I do isn''t very nice." # Wolverine, recurring self-statement,
+  Claremont-era and forward'
+- '"Listen up, bub." # Wolverine, signature address, Wein/Claremont onward'
+- '"You wanted the animal? You got him." # paraphrase of the recurring berserker self-naming across the
+  Windsor-Smith / Claremont / Aaron eras'
+clinical_provenance:
+- 'Şar V (2014). The many faces of dissociation: opportunities for innovative research in psychiatry.
+  Clin Psychopharmacol Neurosci 12(3):171–179. DOI: 10.9758/cpn.2014.12.3.171; PMID: 25598819 — dissociation
+  spectrum framework grounding the integrated read of amnesia, identity alteration, and acute dissociative
+  (berserker) reactions as one syndrome with one etiology.'
+- 'Şar V (2022). Dissociation Across Cultures. Alpha Psychiatry 23(3):95–103. DOI: 10.5152/alphapsychiatry.2022.21556;
+  PMID: 36425778 — transdiagnostic clinical assessment of acute dissociative reactions and chronic secondary
+  syndromes over a core of amnesia/identity alteration, used here to situate Logan at the high-severity
+  OSDD/identity-alteration end of the spectrum short of full DID.'

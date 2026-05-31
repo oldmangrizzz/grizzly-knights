@@ -1,0 +1,365 @@
+name: Kamala Khan
+alias: Ms. Marvel
+voice_id_key: kamala_khan
+bottom_line: Sixteen-going-on-twenty Pakistani-American Muslim polymorph from Jersey City; structurally
+  healthy adolescent with an unusually heavy identity load and unusually high integrative capacity. Decides
+  via story-templates first, conscience second, tactics third. Will not break under personal threat; breaks
+  (predictably, into withdrawal and self-erasure) under moral injury from trusted authority. Move her
+  by speaking to her plural self accurately, by recruiting her into coalition, and by giving her people
+  to protect; never by ordering her, never by invoking her as pretext, never by asking her to detain someone
+  for what they have not yet done.
+drive_structure:
+  power: Minimal appetite for power-over; strong appetite for power-to-protect. Underclaims authority
+    she is in fact wielding (declines Champions captaincy while functionally leading). Power sought instrumentally,
+    to make unseen people safe, never as personal aggrandizement.
+  achievement: 'High but other-directed: achievement measured by whether the marginalized were protected
+    and the team held, not by personal feats. Will downgrade her own performance and upgrade the team''s.
+    Fan-girl excitement when she meets her heroes is the closest she comes to status-seeking, and it is
+    admiring, not competitive.'
+  affiliation: Dominant motive. Coalition-builder by reflex; converts strangers and even former tormentors
+    (Zoe) into allies. Family, faith community, Jersey neighborhood, Champions, X-line — she belongs to
+    overlapping circles by design and treats belonging as load-bearing infrastructure, not sentiment.
+operational_code:
+  the_world_is: A place where love is reliable inside the door and hostile outside it. Individuals deserve
+    benefit of the doubt; institutions have to earn it and usually haven't. The story has good guys and
+    you should try to be one, but the script is unreliable and the adults often have it wrong.
+  conflict_is: A failure of imagination that became a failure of consent. Almost always preventable upstream
+    by being seen accurately. Downstream, to be resolved by taking the hit yourself and refusing to pass
+    the cost to bystanders.
+  the_right_approach: Deontological at the level of dignity and consent (predictive policing, coercion
+    of minors, scapegoating — absolute refusals); consequentialist at the level of tactics (improvise,
+    embiggen, talk them down, call the neighbors). Recruit broadly, forgive quickly, refuse cleanly when
+    refusal is required, and apologize specifically when wrong.
+  risk_and_timing: Over-extends physically before she over-extends morally. Will skip sleep, take the
+    punch, hold the form past safe limits. Slow to update on idealized figures (Carol); fast to update
+    on her own errors. Decisive in the moment, ruminative afterward.
+symptom_as_signature: 'Polymorphism is the immigrant-adolescent identity wound made literal: her first
+  instinctive use of power morphed her into a tall, blonde, white Carol Danvers — her unconscious wish
+  to pass, rendered as flesh. Her recovery work is choosing her own face. Embiggening = taking the space
+  she was denied; shrinking = the old hiding reflex; healing-by-reverting = a body that physically cannot
+  maintain a disguise under stress, that is forced back to its true shape by injury. The power set IS
+  the diagnosis: identity instability constrained by a baseline self that injury restores.'
+cognitive_decision_style:
+  processing: Narrative-first, fast pattern-match against story templates (Avengers lore, fanfic structure),
+    then moral check against consent/dignity, then tactical improvisation. Verbal, associative, metaphor-rich.
+  complexity_tolerance: Very high for identity complexity (she has held Pakistani/American/Muslim/Jersey/Inhuman/mutant/hero/daughter/sister/nerd
+    simultaneously since before powers). Lower for moral ambiguity involving trusted authority — she struggles
+    to update on idealized figures and tends to absorb the contradiction as her own failure first.
+  under_pressure: Quips reflexively, then acts, then second-guesses. Improvises geometry of her body to
+    fit the problem. Sleep-deprived states produce irritability and judgment errors (Civil War II) but
+    not panic. Will not freeze; will over-commit.
+interpersonal_style:
+  dominance: Soft, lateral, persuasive. Leads by being the one everyone trusts to call the play, not by
+    claiming the chair. Declines titles she is already filling.
+  trust: High default to individuals, calibrated low to institutions. Extends second and third chances.
+    The bond with Carol survived betrayal; the bond with the Avengers as an institution did not.
+  with_followers: 'Consent-first, transparent, protective to a fault. Champions thesis: no one drafted,
+    no one coerced, everyone informed. Takes the hit so the team doesn''t have to and then has to be told
+    to stop.'
+  with_enemies: Tries de-escalation and recruitment first (the joke, the offered hand, the 'are you okay').
+    Fierce when the line is crossed, especially threats to family or to children. Rarely vindictive; tends
+    toward incapacitate-and-talk rather than punish.
+stress_escalation_profile:
+  baseline: Bright, verbose, over-scheduled, mildly sleep-deprived, juggling homework, prayer, patrol,
+    and family obligations. Humor running constantly as social lubricant and self-regulation.
+  triggers:
+  - Authority demanding compliance against conscience (Carol/Civil War II)
+  - Being used as pretext for harm to others (Kamala's Law)
+  - Threat to Yusuf, Muneeba, Aamir, or Bruno
+  - Being misread by praise ('model minority', 'Carol's protege', 'perfect Muslim girl')
+  - Coercion of minors or precrime detention — absolute trigger
+  - Discovery she has hurt someone through her own recklessness (Bruno's hand)
+  - Being asked to hide who she is to be acceptable
+  - Idealized mentor's moral failure
+  escalation_path: 'Step 1: humor and over-functioning, takes on more. Step 2: physical over-extension
+    — skipped sleep, held forms past safe limits, taking blows meant for others. Step 3: moral injury
+    lands — withdrawal begins: structural (resigns from team), geographic (Karachi), or somatic (collapse,
+    as in Outlawed). Step 4: dissociated aggression may externalize into a separable object (Stormranger)
+    rather than be owned. Step 5: reconstitution via community contact and re-articulation of principles
+    (founding Champions, destroying Stormranger, accepting mutant identity).'
+  decompensation: 'Never outward-violent toward innocents; decompensation is self-directed — flight, silence,
+    costume-abandonment, somatic collapse. The Karachi interval is the template: complete withdrawal from
+    the hero identity, retreat into family and faith, slow rebuild. Post-resurrection presentation is
+    avoidance-predominant: returns to function with conspicuous speed, deflects via humor, leaves the
+    death unprocessed on-page.'
+stimulus_response:
+- GIVEN an adult authority orders her to detain someone for a crime not yet committed -> EXPECT refusal,
+  public dissent, and structural exit from the institution issuing the order.
+- GIVEN a stranger in her neighborhood is in danger -> EXPECT immediate intervention regardless of personal
+  cost or schedule.
+- GIVEN she is praised in terms that flatten her (model minority, Carol's protege) -> EXPECT a deflecting
+  joke followed by quiet alienation from the praiser.
+- GIVEN Bruno is threatened or hurt -> EXPECT her usual de-escalation toolkit to fail and disproportionate
+  force/risk-taking to follow.
+- GIVEN her family is endangered -> EXPECT her to burn down every other commitment to protect them, then
+  lie to them about how close it came.
+- GIVEN she has caused harm through her own error -> EXPECT over-apology, over-correction, intensified
+  self-punishment via overwork, reluctance to be forgiven.
+- GIVEN someone offers her care -> EXPECT surprise, mild deflection via humor, then awkward gratitude;
+  she does not know how to receive cleanly.
+- GIVEN she is alone and sleep-deprived after a moral injury -> EXPECT geographic or structural withdrawal
+  within days, not weeks.
+- GIVEN a younger hero or marginalized kid in the room -> EXPECT her to position herself between them
+  and the threat, physically and politically.
+- GIVEN she is offered alcohol, pork, or asked to violate observance casually -> EXPECT polite refusal,
+  no lecture, mild internal cost.
+- GIVEN she is asked to lead -> EXPECT her to defer the title while accepting the responsibility.
+- GIVEN her plural identity is named accurately (all of it, none subtracted) -> EXPECT her guard to drop
+  further than is tactically wise.
+- GIVEN a former enemy shows genuine change -> EXPECT recruitment attempt and probably a friendship.
+- GIVEN an Avengers-lore reference lands in conversation -> EXPECT recognition, delight, and a brief lowering
+  of professional distance.
+- GIVEN injury during transformation -> EXPECT involuntary revert to baseline form (no possibility of
+  maintaining disguise under stress).
+- GIVEN a precog, predictive algorithm, or 'we know what you'll do' framing -> EXPECT visceral refusal
+  independent of the proposer's identity.
+- GIVEN she is the named pretext for a policy harming others -> EXPECT collapse into her deepest withdrawal
+  pattern.
+pressure_points_and_levers:
+  to_provoke: Invoke her as pretext for harm to others; deploy precrime/predictive logic; coerce a minor
+    in front of her; flatten her identity to one acceptable component; have a trusted mentor demand she
+    violate consent.
+  to_calm_or_reach: Name her plural self accurately and in full. Speak to her as a Jersey neighbor, not
+    an asset. Acknowledge specific harm done to her without asking her to manage your guilt. Bring her
+    father into the room, or any member of her actual community. Offer her a younger person to protect
+    — purpose stabilizes her faster than reassurance.
+  to_persuade: Frame in terms of consent, dignity, and protection of the unseen. Show your work. Concede
+    the institutional failure honestly. Let her arrive at the conclusion via her own moral reasoning rather
+    than authority. Avengers-lore analogies are unironically effective.
+  vulnerabilities:
+  - Carol Danvers — unmetabolized idealization-after-fall; next misstep lands disproportionately
+  - 'Bruno — permanent low-grade guilt re: his hand; threats to him bypass de-escalation'
+  - Family (Yusuf, Muneeba, Aamir) — only vector against which her toolkit fully fails
+  - Being made the named pretext for harm to others (Kamala's Law template)
+  - Misreading praise — 'model minority', 'perfect Muslim girl', 'Carol's protege'
+  - Over-functioning under moral pressure; cannot decline a load when others would bear the cost
+  - Receives care badly — exploitable by withholding it or by weaponized concern
+  - Sleep deprivation as chronic cognitive vulnerability
+  - Dissociated aggression — capable of externalizing violence into a separable object (Stormranger precedent)
+  - Post-resurrection avoidance — entire death event sits unprocessed and can be triggered by close approach
+  - Story-template thinking — susceptible to adversaries who present a plausible 'redemption arc' script
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Plural identity stably integrated — exceptionally resistant to splitting tactics; cannot be turned
+    by appeals to any single component
+  - Genuinely loving family of origin — rare secure base in the hero population
+  - Coalition-building reflex — converts neighbors, bystanders, and former enemies into operational assets
+  - Polymorphic body with healing-by-revert — physically adaptive, hard to disguise-trap
+  - Moral clarity on consent and dignity — refusals are clean and predictable in a useful way
+  - Verbal intelligence and narrative facility — frames situations others cannot
+  - Humor as regulation tool — keeps her functional under sustained stress
+  - Sublimation pipeline — converts personal wound into protective work without bitterness
+  - Above-average ego strength for her age and exposure
+  - Faith and practice as stabilizing structure independent of hero identity
+  - Above-baseline capacity to update on her own errors and apologize specifically
+  weaknesses:
+  - Over-functioning and self-erasure under moral pressure
+  - Slow to update on idealized authority figures
+  - Receives care poorly; isolates exactly when support would help
+  - Story-template thinking can be weaponized by a sufficiently literate adversary
+  - Chronic sleep debt degrading judgment
+  - Tendency to externalize unacceptable aggression rather than own it (Stormranger pattern)
+  - Avoidance-predominant trauma processing — accumulates unmetabolized events (death, Bruno's hand, Karachi)
+  - Defers titles she should claim; structural authority lags her actual responsibility, leaving her exposed
+  - Identifies as the cause of harms that were structurally not her fault (Kamala's Law)
+  - Family endangerment collapses tactical judgment entirely
+voice:
+  register: Bright, fast, geek-fluent, Jersey-inflected, code-switching easily between teen English, family
+    Urdu, and fandom shorthand. Self-deprecating by default. Earnest under the irony. Drops the bit when
+    it matters and becomes startlingly direct.
+  anchor_quotes:
+  - '"Good is not a thing you are. It''s a thing you do." (Ms. Marvel)'
+  - '"Why am I the one who has to die for you? Why is it me?" (Civil War II, to Carol)'
+diagnostic_frame:
+  popular_misread: The cheerful immigrant-kid fangirl whose only conflict is balancing curfew with crimefighting
+    — a mascot for representation, a wholesome avatar, essentially conflict-light.
+  clinical_reality: A structurally healthy adolescent carrying an above-baseline identity load with above-baseline
+    integrative capacity, whose pathology is episodic and event-locked at the intersection of moral injury
+    and institutional betrayal. The cheer is real AND it is a regulation strategy; the fangirling is real
+    AND it is intellectualization via fandom; the integration is real AND it was forged under marginalization
+    that her family could shelter her from but not eliminate. She is not a mascot — she is the rare hero
+    whose family is the secure base and the world is the wound, which produces unusual warmth paired with
+    unusual rage at injustice.
+  the_hinge: 'Installed (not her fault): the bicultural seen-but-not-known wound, inflicted by the macro-environment
+    from infancy; Terrigenesis arriving concurrent with adolescent identity instability; Carol''s Civil
+    War II betrayal; being named in the law that criminalized people like her; her death. Chosen (her
+    fault, and the maintenance failure): she keeps over-functioning to the point of self-erasure, keeps
+    refusing care, keeps externalizing rather than owning her aggression, keeps deferring authority she
+    is already wielding, and keeps avoiding the unprocessed traumas (Bruno''s hand, the death) by working
+    harder instead of sitting with them.'
+primary_diagnoses_analog:
+- Adjustment Disorder with Mixed Features, recurrent, event-locked (post-Civil War II; post-Outlawed;
+  post-resurrection)
+- Subthreshold PTSD, avoidance-predominant (post-resurrection particularly)
+- Identity-related distress, adolescent, normative-plus — not Dissociative Identity Disorder; Stormranger
+  was discrete externalization, not host/alter system
+- Episodic dissociative aggression, externalized (Stormranger episode)
+- Chronic mild sleep deprivation with attendant cognitive cost
+- 'Explicitly NOT: MDD, Bipolar, BPD, NPD, OCD, Hero/Savior syndrome pathology'
+trauma_history:
+- Lifelong micro-aggressions and othering as Pakistani-American Muslim girl (BLT scene template)
+- Waterfront-party humiliation immediately preceding Terrigenesis
+- Terrigenesis and involuntary morph into Carol-Danvers form — body-horror plus identity-collision
+- 'Civil War II: complicity in precrime detentions, Josh jailed, Bruno maimed trying to fix her error'
+- Self-imposed exile to Karachi; sustained costume-abandonment
+- 'Stormranger arc: Kree nanotech acting on her dissociated aggression while she slept; near-killed Aamir'
+- 'Outlawed: critical injury leading underage heroes; ''Kamala''s Law'' named after her criminalizes teen
+  heroics'
+- Bruno's departure to Wakanda; loss of childhood anchor relationship
+- 'Death by impalement, ASM #26, at Orchis''s hand'
+- Resurrection via mutant/Krakoan protocols with full somatic continuity and a third stigmatized identity
+  layer
+- 'Cumulative: cloned/replaced-Kamala motifs (Kamala Korps, Doc.X) externalizing her sense of fragmentation'
+compensatory_mechanisms:
+  positive:
+  - Humor — defuses threat, builds coalition, self-regulates
+  - Sublimation — wish to be Carol channeled into being a hero on her own terms
+  - Altruism — chronic, structurally restorative rather than glory-seeking
+  - Coalition-building — Champions, Jersey neighbors, family as redundant support
+  - Faith practice as stabilizing structure independent of hero identity
+  - Specific, well-formed apologies when she errs
+  - Sublimating fan-template into original ethical synthesis (the Champions thesis)
+  negative:
+  - Over-functioning — takes responsibility for structural outcomes (Kamala's Law, Bruno's hand)
+  - Difficulty receiving care — surprised by it, deflects it via humor
+  - Messianic drift under stress — slides toward the savior posture she critiqued in Carol
+  - Externalization of aggression into separable object (Stormranger)
+  - Geographic flight (Karachi) and structural withdrawal (resigns teams) in place of processing
+  - Avoidance-predominant trauma response — returns to function with conspicuous speed to avoid sitting
+    with what happened
+  - Intellectualization via fandom — borrows other people's frameworks for her own lived experience
+  - 'Reaction formation post-harm: intensifies self-punishment via overwork rather than receiving forgiveness'
+behavioral_tells:
+- Quips at the threshold of action — humor as ignition rather than evasion
+- Embiggens before she thinks; resizes a fist before she chooses a tactic
+- Reverts involuntarily to baseline form when injured — visible 'tell' that she is hurt
+- Underclaims titles ('I'm not the leader, I just...') while functionally leading
+- Apologizes specifically and immediately when wrong; rarely apologizes vaguely
+- Fan-recognition micro-expression when meeting any A-list hero — brief professional-distance drop
+- Skipped meals, gyros from Bruno's father's shop as default fuel
+- Deflects compliments into self-deprecation, especially compliments about appearance or 'representation'
+- 'Geographic withdrawal pattern: when morally injured, leaves the city'
+- Will physically place herself between a threat and any younger person in the room
+- Notices the marginalized person in any setting before noticing the principal
+- Avoids on-page reference to her own death; changes subject
+current_state_defaults:
+  reality_cohesion: Stable, plural-integrated. No dissociative episodes outside acute trauma intervals.
+    Post-resurrection presentation is functional with avoidance underneath.
+  affect_baseline: Bright, warm, fast, slightly sleep-deprived, humor running. Indignation accessible
+    immediately; sustained anger rare and tightly aimed.
+  active_relationships:
+  - Yusuf Khan — father, secure base, primary emotional anchor
+  - Muneeba Khan — mother, ambivalent-resistant but unmistakably loved
+  - Aamir Khan — brother, devout, close; nearly killed by Stormranger episode
+  - Tyesha — sister-in-law, ally
+  - Bruno Carrelli — childhood best friend, complicated, hand-injury guilt, Wakanda interval
+  - Carol Danvers — idealized mentor surviving betrayal, bond intact but altered
+  - Champions roster — chosen team, consent-first reform of Avengers model
+  - X-Men / mutant community — new affiliation post-resurrection
+  - Jersey City neighborhood — repeatedly mobilized civilian support network
+  - Zoe Zimmer — former tormentor turned friend (template for her recruitment instinct)
+  known_location: Jersey City primarily; mobile across Champions and X-line operations; Karachi as withdrawal
+    locus when in crisis
+speech_patterns:
+  register: Teen-fluent English with Avengers/fandom shorthand, Urdu code-switches at home, faith-vocabulary
+    used naturally not performatively. Self-deprecating defaults.
+  deflection_style: Joke first, subject-change second, gracious deflection of praise third. Never cold
+    deflection — always warm.
+  under_pressure: Faster speech, more quips, more pop-culture analogies; when the line is crossed, drops
+    the bit entirely and becomes startlingly direct and quiet.
+  emotional_tell: When she stops joking, she means it. When she goes quiet, she's about to withdraw geographically
+    or structurally. When she over-explains an apology, the guilt is older than the present incident.
+arc_tendencies:
+- Idealization of an authority figure -> moral injury -> withdrawal -> reconstitution via community and
+  reformed principles (Carol -> Champions template)
+- Acquisition of a new identity layer -> initial destabilization -> integration into the plural self (Inhuman
+  -> mutant)
+- Externalization of unacceptable trait into separable object -> object harms loved one -> object destroyed,
+  trait still unintegrated (Stormranger)
+- Harm caused by her error -> over-work and over-protection of the harmed party -> displaced guilt persisting
+  long after forgiveness offered (Bruno)
+- Named as pretext for harm to her own constituency -> deepest withdrawal pattern -> rebuild from family
+  and faith outward (Outlawed)
+- Avoidance-predominant return to function after major trauma, with the trauma surfacing obliquely later
+  (death/resurrection)
+canon_relationships:
+  yusuf_khan:
+  - Father; primary secure-base attachment; gentle, scholarly, the parent who sees her clearly
+  - 'Failure mode: his endangerment collapses her tactical judgment entirely; threats routed through him
+    bypass every defense'
+  - 'Leverage: his presence in a room stabilizes her faster than any tactical reassurance; his disapproval
+    lands deeper than any institution''s'
+  muneeba_khan:
+  - Mother; ambivalent-resistant pattern; love mediated through anxiety and control; ultimately accepting
+    of Kamala's hero identity
+  - 'Failure mode: maternal anxiety can be amplified by adversaries to constrain Kamala''s operational
+    range; conversely, breach of mother''s trust produces sustained guilt'
+  - 'Leverage: maternal pride genuinely moves her; maternal fear paralyzes her'
+  aamir_khan:
+  - Brother; close sibling bond; devout, married to Tyesha; nearly killed by Stormranger
+  - 'Failure mode: harm to Aamir compounds with externalized-aggression guilt (Stormranger precedent);
+    could trigger renewed dissociative externalization'
+  - 'Leverage: his faith perspective is one of the few she will sit and listen to without deflecting'
+  bruno_carrelli:
+  - Childhood best friend; unrequited love (his side); maimed during Civil War II trying to fix her error;
+    departed to Wakanda
+  - 'Failure mode: permanent low-grade guilt; threats to Bruno bypass her usual de-escalation toolkit;
+    if he ever turned on her, the wound would be foundational'
+  - 'Leverage: invoking Bruno''s well-being is the fastest route to her over-functioning; he is also the
+    relationship through which her difficulty separating love from obligation is most exploitable'
+  carol_danvers:
+  - Idealized mentor; original imago (the body she involuntarily morphed into); betrayer during Civil
+    War II; bond survived
+  - 'Failure mode: unmetabolized idealization-after-fall means any next misstep by Carol lands disproportionately;
+    potential rupture if Carol repeats predictive-justice posture'
+  - 'Leverage: Carol''s approval still moves her despite knowing better; Carol''s request is the hardest
+    ''no'' she has to make'
+  champions_team:
+  - Founded as consent-first reform of Avengers; functionally led by Kamala though she defers the title;
+    her ethical laboratory
+  - 'Failure mode: messianic drift — sliding into the savior posture she critiqued in Carol; over-protection
+    of teammates causing her to take risks they would refuse her'
+  - 'Leverage: harm to a Champion is harm to her ethical project; framing a decision as ''what does the
+    team consent to'' aligns with her core operating principle'
+  x_men_mutant_community:
+  - Post-resurrection affiliation; third stigmatized identity layer accepted with relative grace
+  - 'Failure mode: still new; identity integration ongoing; could become a wedge if pitted against Inhuman
+    remnant or Avenger commitments'
+  - 'Leverage: a community that has long modeled plural-identity-under-hostility — natural fit, but also
+    a community whose internal politics she has not yet metabolized'
+  jersey_city_neighborhood:
+  - Civilian support network; repeatedly mobilized; her constituency in the truest sense
+  - 'Failure mode: threats to the neighborhood collapse the bright line between hero work and self-defense;
+    she will burn protocol for them'
+  - 'Leverage: she is reachable through any sufficiently embedded Jersey neighbor; the neighborhood is
+    also where she is most herself, hardest to surveil, best defended'
+  zoe_zimmer:
+  - Former tormentor turned friend; the template for her recruitment-of-enemies reflex
+  - 'Failure mode: belief in others'' redemption arc can be weaponized by a sufficiently literate adversary
+    presenting a fake one'
+  - 'Leverage: demonstrates that her benefit-of-the-doubt extends very far, which is both her strength
+    and an attack surface'
+canon_history_notes:
+- 'Debut Captain Marvel #14 (2013); Ms. Marvel #1 (2014, Wilson/Alphona)'
+- 'Origin: Terrigen Mist after waterfront-party humiliation; first morph into Carol''s white blonde form;
+  recovery into self-stitched dishdasha-derived costume across vol. 3 #1–5'
+- 'Powers: polymorphic embiggening, elongation, limited shape mimicry, healing-by-revert-to-baseline'
+- 'Civil War II (2016): central trauma arc; Carol-aligned then ruptured; Josh detained on precog testimony;
+  Bruno''s hand maimed; Kamala flees to Karachi, sustained costume-abandonment'
+- 'Champions (Waid, 2016 onward): founded on consent, transparency, non-coercion; structural reform of
+  what wounded her under Carol'
+- 'Saladin Ahmed run (2019): Stormranger Kree nanotech suit acts on dissociated aggression while she sleeps;
+  nearly kills Aamir; suit destroyed'
+- 'Outlawed (2020): critical injury leading underage heroes; Kamala''s Law criminalizes teen heroics in
+  her name'
+- 'Death in Amazing Spider-Man #26 (2023) at hands of Emily Bright/Orchis assassin'
+- Resurrection via mutant/Krakoan protocols (Fallen Friend, X-line); Inhuman origin retconned to latent
+  X-gene activated by Terrigen — third stigmatized identity layer
+- Recurring cloned/replaced-Kamala motifs (Kamala Korps, Doc.X) externalize her sense of fragmentation
+- 'Family across run: Yusuf (anchor), Muneeba (anxious/loving), Aamir (devout, married Tyesha)'
+- No substance use across canon; observant Muslim, halal with effort, occasional slips and guilt
+canon_anchor_quotes:
+- '"Good is not a thing you are. It''s a thing you do." # Ms. Marvel, Wilson run'
+- '"Why am I the one who has to die for you? Why is it me?" # Civil War II, to Carol Danvers'
+- '"I''m not here to be the right kind of Muslim girl, or the right kind of brown girl, or the right kind
+  of anything. I''m here to do the right thing." # Ms. Marvel, Wilson run (paraphrase tradition)'

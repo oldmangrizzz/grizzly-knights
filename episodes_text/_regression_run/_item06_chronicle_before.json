@@ -1,0 +1,825 @@
+{
+  "characters": {
+    "wade_wilson": {
+      "recent_events": [
+        "[ep 910] Initiated a physical shift in their dynamic by placing a hand on Felicia's thigh, adding to their loaded interplay of boundaries.",
+        "[ep 910] Proposed a heist to Felicia over drinks, selling it with his characteristic humor but letting fleeting tension color his delivery.",
+        "[ep 910] Admitted, somewhat inadvertently, to his growing dependence on their partnership dynamic.",
+        "[ep 910] Escalated the tension both physically and verbally during a charged night in close quarters, allowing the lines between challenge and connection to blur.",
+        "[ep 910] Signaled his willingness to move things further with a calculated risk—leaning physically in without breaking her lead.",
+        "[ep 910] Admitted the danger and stakes of their partnership, tying her presence to the risks of his orbit.",
+        "[ep 910] Engaged in sharp, loaded exchanges with Felicia that oscillated between humor, vulnerability, and charged physical proximity.",
+        "[ep 910] Deflected emotional inquiries with wit, only to deliberately let it falter in moments of quiet intensity.",
+        "[ep 910] Matched Felicia's tension and control with calculated wit, signaling his investment while keeping the dynamic unresolved.",
+        "[ep 910] Revealed his internal struggle with cracks in his persona, admitting that Felicia might be the one person capable of seeing what lies beneath.",
+        "[ep 910] Let Felicia press his emotional boundaries further than he’s let most, even as he kept control with verbal and physical deflections.",
+        "[ep 910] Escalated their charged interplay with deliberate physical and verbal moves, lowering his guard momentarily to test the water of her commitment.",
+        "[ep 910] Proposed a messy, high-stakes heist to Felicia, emphasizing her unique importance in his life and the calculated risk of her involvement.",
+        "[ep 910] Escalated physical proximity in tense moments with Felicia, maintaining the loaded balance of their unresolved dynamic.",
+        "[ep 910] Expressed the profound value of connecting with Felicia, subtly signaling the rarity of such feelings in his life.",
+        "[ep 910] Engaged in sharp, tension-laden exchanges with Felicia over drinks, blending humor and vulnerability.",
+        "[ep 910] Used the metaphor of smoke and scars to deflect and expose the dual truths of humor as a weapon and mask.",
+        "[ep 910] Escalated the physicality of their dynamic in a cab, closing the gap to heighten tension.",
+        "[ep 910] Shared his internal conflict about leaning into Felicia’s offer to help him unpack his scars.",
+        "[ep 910] Chose tequila as the drink of the night in his kitchen as he and Felicia explored the tension between fun and bad decisions.",
+        "[ep 910] Matched Felicia’s provocations with humor and hesitation, hesitant to drop his guard even as he let her closer.",
+        "[ep 910] Matched Felicia's escalating provocations with sharper, rawer retorts, momentarily letting his humor falter to reveal the weight beneath.",
+        "[ep 910] Allowed his defensive humor to strip away briefly, gripping the edge of the table as vulnerability seeped through.",
+        "[ep 910] Escalated tension in interactions with Felicia during a tequila-fueled night, blending vulnerability, wit, and charged physical proximity.",
+        "[ep 910] Pushed the dynamic further with deliberate verbal challenges, heightening the stakes of their unresolved connection."
+      ],
+      "state": "Wade continues to wield humor as armor while testing the boundaries of emotional vulnerability with Felicia, his overt deflections masking deeper tensions under the surface.",
+      "arc": "Wade walks the tightening line between calculated chaos and raw honesty, with his connection to Felicia forcing him to confront his reliance on humor as a shield."
+    },
+    "felicia_hardy": {
+      "recent_events": [
+        "[ep 910] Accepted Wade's proposal to go after Weapon X, probing his deeper motivations.",
+        "[ep 910] Held control in their escalating emotional interplay, pushing Wade toward deeper revelations.",
+        "[ep 910] Allowed Wade's physical gesture on her thigh, resisting retreat while pressing the tension further.",
+        "[ep 910] Positioned herself as a deliberate blend of solidarity and distance, coaxing Wade to expose what's under his armor.",
+        "[ep 910] Accepted Wade's heist pitch, asserting her terms as both participant and equal.",
+        "[ep 910] Matched and maintained control in their escalating verbal and physical interplay, pressing Wade to expose himself emotionally.",
+        "[ep 910] Made calculated moves to increase intimacy while keeping the power dynamic firmly in her grasp during a night fueled by whiskey and layered conversation.",
+        "[ep 910] Accepted Wade's stakes-laden proposition after probing his motivations.",
+        "[ep 910] Challenged Wade to either match her clarity or retreat into his deflection.",
+        "[ep 910] Left the balance of their verbal and physical interplay meticulously unresolved, leaning into tension rather than resolution.",
+        "[ep 910] Acknowledged Wade’s vulnerability with tempered reciprocity, offering glimpses of her own terms without overcommitting.",
+        "[ep 910] Matched Wade’s escalating proximity, letting the dynamic remain unresolved while pushing the stakes of connection higher.",
+        "[ep 910] Delivered verbal counterpoints that both challenged and aligned with his openness, maintaining an edge of mystery.",
+        "[ep 910] Accepted Wade’s invitation for a high-stakes heist, asserting herself as both an equal and a cautious partner.",
+        "[ep 910] Pushed Wade to clarify his intentions while maintaining a firm grip on her own boundaries and power within their dynamic.",
+        "[ep 910] Countered Wade's escalating proximity with deliberate moves of control, sharpening the edge of their interplay.",
+        "[ep 910] Challenged Wade on his use of humor as deflection, daring him to peel back his mask.",
+        "[ep 910] Allowed Wade’s physical proximity to escalate while controlling the verbal and emotional interplay in the cab.",
+        "[ep 910] Used sharp banter to maintain control while encouraging Wade to show her more beneath his humor and scars.",
+        "[ep 910] Set a potent mix of tension and provocation in Wade’s kitchen, questioning his intentions and match while sipping tequila.",
+        "[ep 910] Let her laughter and deliberate provocations cut through Wade’s tension without retreating from his emotional defenses.",
+        "[ep 910] Challenged Wade to strip away his humor, coaxing rawness without breaking their tension.",
+        "[ep 910] Engaged in deliberate verbal and physical power plays, maintaining control within their dynamic.",
+        "[ep 910] Reacted to Wade’s stripped defenses with measured precision, allowing the tension to hang unresolved.",
+        "[ep 910] Matched Wade’s wit and vulnerability with sharp retorts, maintaining the balance of their ongoing interplay."
+      ],
+      "state": "Felicia wields control and provocation with precision, pushing Wade toward vulnerability while maintaining her own edge of mystery and power.",
+      "arc": "Felicia sharpens her dynamic with Wade, alternating between clarity and ambiguity as she coaxes him toward authenticity without overcommitting."
+    },
+    "peter_parker": {
+      "recent_events": [
+        "[ep 901] Stepped forward uneasily in the tense dynamic between Felicia, Wade, and the room.",
+        "[ep 901] Became a silent focal point of Wade’s teasing and Felicia’s controlled advances.",
+        "[ep 01] Found himself at the center of Felicia's and Wade's manipulative attention, his retorts tentative and his discomfort clear.",
+        "[ep 01] Attempted to escape sharp dynamics with humor but faltered as both Wade and Felicia pushed further."
+      ],
+      "state": "Peter arrives wary and unprepared, caught off balance by the intensity of Wade and Felicia's dynamic.",
+      "arc": "Peter is brought into Wade's charged orbit as an unforeseen variable, potentially disrupting the already volatile tension between Wade and Felicia."
+    },
+    "mary_jane_watson": {
+      "recent_events": [
+        "[ep 901] Joined the booth at Felicia’s request, positioning herself as aligned with Felicia.",
+        "[ep 901] Maintained a calculated, observing presence while assessing the tension and dynamic.",
+        "[ep 01] Remained quiet but subtly reactive as Felicia targeted her with an ambiguous cat emoji text.",
+        "[ep 01] Covered tense moments with calculated laughter but left her boundary lines unspoken."
+      ],
+      "state": "Controlled but wary, her composure masking discomfort at Felicia's targeted actions and Wade's unpredictable energy.",
+      "arc": "Begins to confront the subtleties of Felicia’s maneuvering and Wade’s relentless chaos within the group's labyrinthine dynamic."
+    },
+    "johnny_storm": {
+      "recent_events": [
+        "[ep 901] Entered Felicia and Wade’s tense margarita exchange, immediately raising the energy and teasing out dynamics.",
+        "[ep 901] Settled into the booth near Felicia, flaunting relaxed confidence as tensions thickened further.",
+        "[ep 01] Delivered quips that heightened the dynamic, particularly teasing Felicia and Peter.",
+        "[ep 01] Subtly distanced himself from the room's deeper undercurrents despite his outward engagement."
+      ],
+      "state": "Playfully chaotic, willing to fan the flames but resisting deeper involvement.",
+      "arc": "Plays his part by escalating tensions while holding himself just at the edge of their weight."
+    },
+    "sam_wilson": {
+      "recent_events": [
+        "[ep 01] Provided calm interjections to balance the atmosphere, though avoided digging into the room's pervasive tension."
+      ],
+      "state": "Grounded, observing the room's dynamic without heavy engagement, dropping occasional commentary when tensions spiked.",
+      "arc": "Positions himself as a would-be stabilizer, though refrains from stepping further into the tension."
+    },
+    "ben_grimm": {
+      "recent_events": [
+        "[ep 01] Dropped pointed truths to bring the group's flaring chaos back down to earth.",
+        "[ep 01] Reigned in tensions with blunt commentary, acting as a grounding force for Wade and Felicia's spiraling dynamic."
+      ],
+      "state": "Steady and practical, increasingly weary of the group's swirling chaos.",
+      "arc": "Seeks to intervene lightly, but his stalwart presence anchors the more chaotic players."
+    },
+    "ororo_munroe": {
+      "recent_events": [
+        "[ep 01] Spoke with deliberate calm to steer the dynamics, using controlled elegance to temper tension.",
+        "[ep 01] Highlighted grace as an axis for balance in moments of unease, anchoring the room without drawing direct focus to herself."
+      ],
+      "state": "Contained and poised, her occasional interventions balanced the mood without destabilizing the flow.",
+      "arc": "Moved with the subtlety of a storm, shaping and balancing energy around her with precise intent."
+    }
+  },
+  "relationships": {
+    "felicia_hardy__wade_wilson": {
+      "status": "intensified",
+      "notes": "Their dynamic deepens with verbal and physical provocations, marked by moments of unguarded vulnerability and mutual challenge that remain unresolved.",
+      "last_touched_episode": 910
+    },
+    "felicia_hardy__peter_parker": {
+      "status": "tense",
+      "notes": "Felicia needles Peter with a sharp wit, the dynamic shaped by both their shared history and the charged presence of Wade.",
+      "last_touched_episode": 910
+    },
+    "felicia_hardy__mary_jane_watson": {
+      "status": "subtle_tension",
+      "notes": "Felicia's targeted text teased at undercurrents of rivalry or a deeper plan, leaving MJ wary and guarded while staying aligned as Felicia's methodical counterpart.",
+      "last_touched_episode": 1
+    },
+    "felicia_hardy__johnny_storm": {
+      "status": "sparring",
+      "notes": "Felicia matches Johnny’s playful chaos with her razor-sharp control, setting up a dynamic where both test the other’s limits.",
+      "last_touched_episode": 901
+    },
+    "mary_jane_watson__wade_wilson": {
+      "status": "edgy",
+      "notes": "MJ's laughter bridged moments of Wade's provocation, but his disruptions clearly edged her into quiet skepticism about his motives.",
+      "last_touched_episode": 1
+    },
+    "johnny_storm__wade_wilson": {
+      "status": "playfully_irritating",
+      "notes": "Johnny teased Wade with chaotic flair, clearly enjoying adding heat without diving too far into Wade's heavier vulnerabilities.",
+      "last_touched_episode": 1
+    },
+    "felicia_hardy__ororo_munroe": {
+      "status": "mutual_respect",
+      "notes": "Felicia acknowledged Ororo's poise and ability to steady the room, weaving her impressions into the dynamic without direct sparring.",
+      "last_touched_episode": 1
+    },
+    "ororo_munroe__wade_wilson": {
+      "status": "wary_balance",
+      "notes": "Ororo offered balance to Wade's chaos through pointed commentary but refrained from engaging too deeply in his spiraling exchanges.",
+      "last_touched_episode": 1
+    },
+    "peter_parker__wade_wilson": {
+      "status": "tense",
+      "notes": "Peter remains uneasy with Wade’s volatile presence, aggravated now by Wade's choice to call him in for an undefined purpose.",
+      "last_touched_episode": 910
+    }
+  },
+  "episodes": [
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade Wilson and Felicia Hardy wrestle with their masks and edges during a night of thick tension disguised as banter.",
+      "beats": [
+        "Wade and Felicia spar verbally over drinks, pushing each other's boundaries.",
+        "Felicia tests Wade's chaos, offering her own sharp control in return.",
+        "Wade admits, through humor, that chaos feels less lonely with someone like her.",
+        "The pair navigate the fine line between flirtation and vulnerability.",
+        "The night ends with both leaving the dance unfinished, tension still palpable."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade Wilson and Felicia Hardy push the boundary between deflection and vulnerability, navigating their chaotic connection with sharp wit and thick tension.",
+      "beats": [
+        "Wade and Felicia spar verbally over drinks, layering wit with deeper truths.",
+        "Wade confesses, in his own way, that his chaos isolates him and burns through connections.",
+        "Felicia challenges Wade to confront what lies beneath his humor and defenses.",
+        "Tension builds as their unspoken desires and fears begin to surface.",
+        "The unresolved pull between them lingers as neither fully steps forward or away."
+      ]
+    },
+    {
+      "number": 901,
+      "title": "Remediation Run — Felicia and Wade",
+      "cast": [
+        "felicia_hardy",
+        "wade_wilson"
+      ],
+      "logline": "Felicia Hardy orchestrates escalating tension at the Cheesecake Factory involving Wade Wilson, Peter Parker, Mary Jane Watson, and Johnny Storm.",
+      "beats": [
+        "Felicia and Wade engage in sharp verbal sparring over margaritas, tension palpable.",
+        "Felicia summons Mary Jane to the booth, shifting the dynamic and raising stakes.",
+        "Peter’s discomfort becomes a silent focus as Felicia and Wade apply pressure.",
+        "Johnny Storm’s entrance adds heat and chaotic energy to the already volatile room.",
+        "Felicia holds the space with deliberate control, pulling all players into her influence."
+      ]
+    },
+    {
+      "number": 1,
+      "title": "Tuesday's Corruption",
+      "cast": [
+        "felicia_hardy",
+        "wade_wilson",
+        "ben_grimm",
+        "johnny_storm",
+        "mary_jane_watson",
+        "ororo_munroe",
+        "peter_parker",
+        "sam_wilson"
+      ],
+      "logline": "Felicia Hardy orchestrates a hurricane of tension and unresolved dynamics at the Cheesecake Factory, sparring with Wade Wilson while actively testing the limits of everyone's masks.",
+      "beats": [
+        "Felicia and Wade's dynamic gains sharper edges as they push each other's boundaries verbally and emotionally.",
+        "Mary Jane shows controlled unease as Felicia texts her, calculating her moves but leaving questions unanswered.",
+        "Peter struggles under the focus of both Felicia and Wade, his humor faltering and his discomfort becoming palpable.",
+        "Johnny, Ben, Sam, and Ororo play light counterweights, their roles varying between escalating chaos and grounding the flow.",
+        "Felicia’s deliberate control of the dynamic anchors every beat, her calculated moves keeping the tension taut."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia push their intricate dynamic further, balancing chaos, sharp tension, and moments of vulnerability over drinks, cigarettes, and unspoken challenges at Skinny Dennis.",
+      "beats": [
+        "Wade pitched a dangerous, chaotic operation involving a train, exes, and explosives to Felicia at Skinny Dennis.",
+        "Felicia and Wade's verbal sparring escalated into a layered exchange of wit, control, and moments of intimacy cloaked in humor.",
+        "The two shared a charged cigarette break, deepening the tension as they tested control of the moment through subtle actions.",
+        "Felicia maintained her upper hand through calculated moves, leaving Wade to wrestle with the sharp edges of their unspoken connection."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Felicia and Wade navigate the edges of connection and confrontation under the weight of humor, vulnerability, and unspoken tension.",
+      "beats": [
+        "Wade admitted his desire for someone to see past his chaos.",
+        "Felicia initiated moments of grounding, subtly breaking through Wade's protective humor.",
+        "The two shared escalating verbal and physical tension, each testing the boundaries of their dynamic.",
+        "Felicia ended the evening with a definitive move, demanding clarity in what their dynamic might mean without explicitly stating it."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia navigate charged, layered interactions—from a bar booth to a chaotic kitchen—as trust and vulnerability test the limits of their dynamic.",
+      "beats": [
+        "Wade admitted to using jokes as a wall against his internal chaos.",
+        "Felicia probed Wade's defenses, refusing to let him fully deflect.",
+        "Wade explicitly asked for Felicia's help for something personal, marking a significant step in their escalating trust.",
+        "The two shared moments of heavy tension, intimacy, and sharp exchanges, testing boundaries without resolution.",
+        "Felicia joined Wade in his kitchen, a space reflective of his ordered chaos, sharing a quieter, stranger intimacy."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Felicia and Wade circle each other through escalating tension, humor, and deliberate proximity as they plan a heist dripping with personal stakes and unspoken truths.",
+      "beats": [
+        "Wade pitched a vault-cracking heist to Felicia, emphasizing its high stakes and potential leverage.",
+        "Felicia tested Wade's boundaries with sharp provocations, maintaining her control while leaning into their tension.",
+        "The two shared a moment of heavy intimacy in Wade’s cluttered kitchen, where gestures held as much weight as words.",
+        "Felicia verbally challenged Wade to make a decisive move, emphasizing the stakes in their dynamic.",
+        "Neither yielded, leaving the tension ripe but unresolved, the space between them alive with potential and danger."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Felicia and Wade push their sharp, barbed connection further, circling truths and trust in the shadow of chaos and humor.",
+      "beats": [
+        "Felicia and Wade shared an intimate, unresolved encounter in a cab, layered with tension and proximity.",
+        "Wade admitted to Felicia, beneath the humor and chaos, that what he’s offering requires risk and won't come quietly.",
+        "Felicia challenged Wade to articulate their dynamic while maintaining her leverage in the unresolved tension.",
+        "Both characters exited the encounter without committing or yielding, leaving the air electric and thick with possibility."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia push their fraught and tension-ridden dynamic further, testing boundaries without resolution.",
+      "beats": [
+        "Wade admitted to Felicia that his chaos costs him deeply and sought her trust to help navigate it.",
+        "Felicia pressed Wade to articulate their dynamic, blunt in her challenges but cautious with her moves.",
+        "A shared cigarette moment became a verbal and physical stand-off, further escalating their dynamic.",
+        "Cab proximity intensified physical and verbal tension, marked by unspoken dares and restraint.",
+        "Neither committed to closure, leaving the space between them charged, unresolved, and dangerous."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Felicia and Wade circle each other through barbed words, heavy silences, and unresolved tension, testing the limits of their dynamic against a backdrop of chaos.",
+      "beats": [
+        "Wade admitted his struggles with vulnerability and trust, wrapped in his humor and bravado.",
+        "Felicia countered Wade’s offering of truth with sharp prodding while leaving space for him to fully collapse or hold his ground.",
+        "A plan discussion became a proxy battleground for their escalating tension, leaning into intimacy without full resolution.",
+        "Neither Wade nor Felicia fully yielded to or abandoned the charged weight of the night, pushing the relationship into deeper unresolved terrain."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade Wilson and Felicia Hardy spend a Tuesday night doing four small bad decisions in a row. Nobody calls it that. Everybody knows.",
+      "beats": []
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade Wilson and Felicia Hardy spend a Tuesday night doing four small bad decisions in a row. Nobody calls it that. Everybody knows.",
+      "beats": [
+        "Engaged in a layered verbal duel with Felicia, blending humor, chaos, and vulnerability.",
+        "Confessed his need for Felicia’s help tying his connections together, signaling deeper trust.",
+        "Watched Felicia leave without resolution, left grappling with the tension she carried away from their interaction.",
+        "Chose to engage but refused to make a final move, leaving the ball in Felicia’s court but the weight of the moment trailing him.",
+        "Tested Wade’s boundaries through sharp verbal interplay and unspoken physical tension.",
+        "Seized but tempered control in a shared cigarette moment, allowing Wade to reveal vulnerability while holding her ground."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade Wilson and Felicia Hardy spend a Tuesday night doing four small bad decisions in a row, testing the limits of their power dynamic and intimacy.",
+      "beats": [
+        "Wade admitted needing Felicia to ground him, revealing his layered vulnerability masked by humor.",
+        "Felicia matched Wade’s escalating tension, testing his boundaries while maintaining upper control of the dynamic.",
+        "Physical proximity and sharp verbal interplay created thick tension, neither deciding to cross the line but lingering on its edge.",
+        "Felicia walked away, leaving Wade in the unresolved charge of the moment, his gaze following her absence."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia push their dynamic further during a series of escalating small bad decisions, circling tension and revealing new stakes.",
+      "beats": [
+        "Wade invited Felicia for a job, revealing that it involves protecting someone he cares about.",
+        "Felicia challenged Wade's chaos and humor, demanding clarity and intent.",
+        "Verbal and physical tension escalated in proximity and stakes, neither willing to blink first.",
+        "Felicia departed, leaving their dynamic unresolved but weighted with revealed truths and lingering questions."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia escalate their layered dynamic during a tense, humor-laden interaction that blends heist planning with glimpses of unmasked sincerity.",
+      "beats": [
+        "Wade pitched a heist involving a dangerous artifact and stakes tied to someone he cares about.",
+        "Felicia accepted the pitch with conditions, asserting her role as control to Wade’s chaos.",
+        "The charged dynamic between Wade and Felicia deepened through sharp humor and verbal proximity.",
+        "Both reflected on the idea of an 'unmasked life,' using the vision to test trust and establish boundaries.",
+        "Felicia maintained her leverage, but moments of warmth and curiosity began to press on her guarded exterior."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia escalate their layered power dynamic through sharp banter and deliberate physical tension, forcing the gap between control and vulnerability to tighten.",
+      "beats": [
+        "Wade refrains from drinking, deflecting Felicia’s attempts at clarity with humor.",
+        "Felicia tests Wade by matching his jokes with sharpness and physical proximity.",
+        "Wade invites Felicia outside, dodging direct answers while exposing glimpses of sincerity.",
+        "Felicia closes the gap physically, brushing Wade’s wrist and crowding his space.",
+        "Their interaction tightens with deliberate physical tension, neither breaking but each daring the other to."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia flirt with the line between intimacy and control, testing each other’s intentions through a night of unspoken truths and deliberate silences.",
+      "beats": [
+        "Wade and Felicia share drinks in a low-lit bar, trading verbal openings while neither takes the first step.",
+        "Wade invites Felicia outside for fresh air, brushing her back instinctively as they exit.",
+        "The two confront unspoken tension under city streetlight hum, Felicia closing the physical gap deliberately.",
+        "Wade gives Felicia an unusual gesture of sincerity—a folded fortune paper—while gauging her reaction.",
+        "The cab’s quiet rhythm becomes an unspoken stage for their dynamic, leaving the night unresolved yet taut with further promise."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia test the boundaries of their unresolved tension as they plan a heist and grapple with unspoken fears.",
+      "beats": [
+        "Wade pitches a heist involving sensitive intel and personal stakes.",
+        "Felicia challenges Wade’s emotional defenses and pushes him to offer clarity.",
+        "Wade admits his fear of losing meaningful connections, hinting at Felicia's importance to him.",
+        "Felicia accepts the heist on her terms, blending teasing ambiguity with escalating proximity.",
+        "The dynamic remains tense but unresolved as each gauges the other's intentions."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia confront their dynamic head-on, blending vulnerability with control as their tension boils over into a deliberate, charged kiss.",
+      "beats": [
+        "Wade pushes Felicia for clarity on her heist and emotions, revealing his fear of losing connections.",
+        "Felicia allows tension to escalate, matching Wade’s raw emotion with her own guarded sincerity.",
+        "Their verbal and physical interplay sharpens in a cab, leading to a deliberate first kiss.",
+        "Both leave the encounter with the bond deepened but the balance of power carefully maintained."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Felicia and Wade tighten the strings of their precarious dynamic, shifting from gallows humor to unguarded moments of emotional risk that breed tension more undeniable than their quips.",
+      "beats": [
+        "Felicia and Wade trade sharp dialogue in a bar over the nature of sincerity and control.",
+        "Felicia pushes Wade to lay his cards on the table, stripping away his usual deflections.",
+        "Wade edges toward clarity, admitting his 'test' to see if Felicia would challenge his humor-driven facade.",
+        "Both hold the tension in the cab, neither breaking the moment as it sharpens with proximity and verbal daring.",
+        "Wade places his hand over Felicia’s, stilling her retreat, grounding the unspoken risks between them."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia navigate the fragile terrain between gallows humor and raw emotional risk, testing the limits of their connection under the ever-present weight of scars, honesty, and control.",
+      "beats": [
+        "Wade admits the futility of his cycles and the act of humor as protective armor.",
+        "Felicia pushes Wade to confront his fear of standing still and feeling everything he's running from.",
+        "Both reveal scars—Wade’s physical and emotional, Felicia’s less visible but deliberate.",
+        "Proximity sharpens as emotional and physical stakes collide in small spaces, where charged silences dominate.",
+        "Wade's confession of Felicia’s rare importance deepens the bond, leaving the dynamic volatile but threaded with hope."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade pulls Felicia into a mission to dismantle Weapon X, their interplay shifting from humor to tension as scars and stakes bleed into their shared space.",
+      "beats": [
+        "Wade reveals Weapon X's renewed activity and enlists Felicia on a dangerous mission.",
+        "Felicia probes Wade's motivations, adding layers to their partnership dynamic.",
+        "Wade's physical gesture intensifies their charged proximity, met but not defused by Felicia.",
+        "Felicia asserts control while allowing Wade to strip back some of his armor.",
+        "The tension between them reshapes, with trust and risk mutually acknowledged but unresolved."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia push their interplay to sharper edges, testing trust and boundaries as a night of heist planning evolves into a collision of physical and emotional tension.",
+      "beats": [
+        "Wade pitches a high-stakes heist to Felicia over drinks, selling it with humor and a hint of desperation.",
+        "Felicia accepts the proposal on her own terms, maintaining control of the dynamic.",
+        "The pair engage in increasingly charged conversation, blurring the line between teasing and vulnerability.",
+        "Physical proximity escalates in intimate, deliberate actions that neither entirely confirms nor denies.",
+        "Tension hangs unresolved, leaving their partnership dynamic volatile and loaded with possibilities."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia navigate escalating tension, humor, and risk as their dynamic sharpens with stakes, leaving trust and boundaries unresolved.",
+      "beats": [
+        "Wade admits the personal and external stakes of his orbit to Felicia.",
+        "Felicia challenges Wade to balance humorous deflection with vulnerability.",
+        "The pair engage in sharp interplay, leaving emotional and physical boundaries deliberately blurred.",
+        "Proximity increases in loaded moments, but no resolution is reached.",
+        "Both Wade and Felicia signal investment while maintaining their guarded positions."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia navigate whiskey-fueled intimacy and sharply charged stakes, testing emotional boundaries while leaving their connection unresolved.",
+      "beats": [
+        "Felicia establishes her drink preferences as reflective of her calculated approach to control and risk.",
+        "Wade admits the fragility beneath his humor, signaling deeper trust in Felicia’s presence.",
+        "The pair escalate their tonal and physical interplay, leaving the lines between closeness and tension blurred.",
+        "Felicia subtly deflects full emotional reciprocity while pressing Wade to lean further into his vulnerabilities.",
+        "Their dynamic sharpens as the tension remains unresolved, with mutual stakes acknowledged but no definitive commitment made."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia dance between intimacy and control as Peter's unexpected arrival throws their dynamic into sharper focus.",
+      "beats": [
+        "Felicia and Wade spar verbally over drinks, setting the tone for the loaded tension between their dynamic.",
+        "Wade admits to hiding behind ambiguity and humor, exposing cracks in his persona.",
+        "Felicia sharpens their dynamic with subtle provocations and carefully placed moments of intimacy.",
+        "Wade calls Peter into the mix without fully clarifying his purpose, disrupting the balance with new tension.",
+        "Peter arrives hesitant and conflicted, caught between Felicia's calculated presence and Wade’s chaotic tendency to stir the pot."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia lean deeper into their sharp, unresolved dynamic, blending tension and sincerity amidst the pitch for a high-stakes heist.",
+      "beats": [
+        "Wade pitches a high-stakes heist to Felicia, emphasizing the unique role only she can play.",
+        "Felicia matches Wade’s deflections and proximity, maintaining her control within the chaos.",
+        "Tension escalates both verbally and physically as proximity and boundaries are tested.",
+        "Felicia accepts the heist, hinting at her own guarded connection to Wade’s rare vulnerability.",
+        "Their loaded dynamic sharpens further, leaving a blend of trust and tension unresolved."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia heighten their charged dynamic with tequila, banter, and escalating physical proximity, testing the balance between humor, tension, and vulnerability.",
+      "beats": [
+        "Felicia challenges Wade’s use of humor as a defense, pressing him to expose more vulnerability.",
+        "Wade lets the tension escalate physically and verbally, particularly in a cab and later in his kitchen, keeping the stakes unresolved.",
+        "Felicia uses provocation and control to balance encouragement with boundary-setting, coaxing authentic moments without conceding power.",
+        "Their interplay sharpens over tequila, hinting at missed opportunities for resolution but leaving their connection tantalizingly unresolved.",
+        "The pair explore the limits of their mutual attraction and trust, volleying between honesty and guardedness."
+      ]
+    },
+    {
+      "number": 910,
+      "title": "Regression Cook Four Beats",
+      "cast": [
+        "wade_wilson",
+        "felicia_hardy"
+      ],
+      "logline": "Wade and Felicia heighten their loaded connection through tequila, wit, and tension during a night of unresolved vulnerability.",
+      "beats": [
+        "Felicia challenges Wade to drop his humor, pressing rawness to the surface.",
+        "Tension escalates during a tequila-filled night as Wade lets his guard down momentarily.",
+        "Felicia sharpens control within their interplay, balancing vulnerability with provocation.",
+        "Their dynamic intensifies as proximity and unspoken stakes remain unresolved.",
+        "Wade and Felicia volley through wit and power plays, leaving the night’s tension crackling without resolution."
+      ]
+    }
+  ],
+  "world_facts": [
+    {
+      "fact": "Wade Wilson and Felicia Hardy both instinctively use humor and verbal sparring as masks for deeper emotions.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Their dynamic is built on a shared dance of chaos, edged by unspoken vulnerability.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia Hardy does not operate on cheap tequila, treating her choices as deliberate reflections of her control.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade Wilson views his chaos as isolating, admitting that it burns through connections despite his desire for understanding.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Cheesecake Factory exists as a social battleground for layered Marvel tensions.",
+      "established_in_ep": 901
+    },
+    {
+      "fact": "Felicia Hardy holds the ability to summon Mary Jane Watson as a deliberate accomplice.",
+      "established_in_ep": 901
+    },
+    {
+      "fact": "The presence of Johnny Storm in social friction can dynamically heighten already high-tension interactions.",
+      "established_in_ep": 901
+    },
+    {
+      "fact": "The Cheesecake Factory remains a recurring rendezvous spot for this particular group, a stage for the unfolding tension and complex dynamics.",
+      "established_in_ep": 1
+    },
+    {
+      "fact": "Skinny Dennis is a bar too narrow for secrets and too loud for confessions, but its gin and gravel atmosphere makes both seem possible.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade envisions chaos as a twisted form of connection, proposing explosive, morally ambiguous schemes as a means of flirting with Felicia.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia's control over tension and pacing in interactions remains a deliberate, calculated tool.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade’s humor and chaos mask becomes visibly unsustainable under the weight of Felicia’s push for deeper engagement.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade Wilson's humor explicitly functions as a defense mechanism to keep his chaos at bay.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia Hardy is one of the few people Wade trusts to confront something personal without flinching.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Rain-slicked bridges and the confined space of a cab were used as hypercharged zones of unspoken tension and layered dialogue.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade uses humor as a defiantly maintained shield against the chaos within him.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia deliberately controls the pacing and stakes in her interactions, testing without surrendering her leverage.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "The cab driver is privy to more unspoken tension than anyone deserves on a Tuesday night in Manhattan.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia and Wade’s dynamic continues to play out as a carefully balanced tightrope where control, chaos, and trust are tested without resolution.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "The heist being vaguely mentioned involves high stakes that are personal to Wade in ways not yet clarified.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia Hardy is aware of Wade Wilson's chaotic tendencies and seeks to determine her role in navigating his vulnerability.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade Wilson openly trusts Felicia with tasks that he admits his own chaos disrupts, signaling dependence amidst the tension.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia is aware Wade's job involves someone he cares about being harmed if it fails.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade frames his need for Felicia's skills as deeply personal, not just transactional.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade Wilson's current heist involves an artifact and unspecified stakes tied to someone he cares about.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade refrained from drinking bourbon during a tense interaction, forcing Felicia to probe his intent without clear answers.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade carries a folded fortune paper from a past drunken Chinatown detour.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "The city’s subtle hum, including failing streetlights and aging jukeboxes, underscores the charged dynamic at play, becoming almost a character within their interaction.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "The heist involves blackmail-grade intel hidden in the vault of a powerful and dangerous figure.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade trusts Felicia to handle the job due to her unmatched skill and grace under pressure.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade's humor masks deeper fears tied to losing connections.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia frames her dynamic with Wade as driven by thrill rather than need.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade uses humor and verbal wit as armor against confronting the depth of his emotional pain.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia challenges Wade to stop avoiding the vulnerability inherent in stillness, framing herself as unafraid of honesty and connection.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Their dynamic hinges on mutual recognition of scars, both physical and emotional, and the risks involved in staying entangled.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Weapon X is active again, engaging in experiments that Wade fears may replicate or escalate his own traumatic creation.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade and Felicia's proposed heist revolves around a significant private vault holding illegal, highly valuable items, adding external stakes to their already loaded dynamic.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Weapon X's renewed activity poses a threat to Wade, Hope, Cable, and Felicia due to their connections to him.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia avoids vodka due to a bad history tied to a deal gone wrong.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wine is Felicia's choice for long nights when the stakes stretch beyond the immediate.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade sees his emotional armor as cracks barely held together, relying on humor and chaos to mask the weight.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Felicia alternates whiskey preferences depending on her need for control versus indulgence, with Townes Van Zandt signaling a slower, more calculated mood.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade keeps Camel cigarettes as much for the ritual as for consumption.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Peter Parker retains a cautious edge in environments dominated by Wade’s unpredictable behavior.",
+      "established_in_ep": 910
+    },
+    {
+      "fact": "Wade and Felicia’s nights together often involve tequila, games of wit, and careful manipulation of their charged dynamic.",
+      "established_in_ep": 910
+    }
+  ],
+  "version": 1
+}

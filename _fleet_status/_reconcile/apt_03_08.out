@@ -1,0 +1,13 @@
+=== NOTES ===
+  • implicit BringIn cap = roster size = 38 (each key dedups after first call)
+  • no max_tool_calls / tool_calls_per_actor cap in run_scene
+  • max_rounds = 4 (hard outer-loop bound — prevents true infinite loop)
+  • gate logic present: True
+  • outer loop bounded: True
+  • APT-08: gate REJECTS premature [SCENE_END] WITHIN the 4-round budget. If the director burns all 4 rounds outputting [SCENE_END] without ever cueing the unspoken cast, the loop exits and the scene is finalized with partial coverage. This is the intended hard turn cap (no infinite loop), but the gate is best-effort, not absolute.
+  • APT-08: no exception raised when coverage fails after max_rounds — partial-coverage Script is returned silently to the caller
+  • 1000 BringIn calls for same key → 1 chronicle entry (duplicate guard ✓)
+
+=== FINDINGS ===
+  • APT-03: NO per-scene cap on BringInCharacter calls in run_scene. Cap exists only implicitly via the 'character_key must be in roster' and 'already on stage' guards in the tool. A director that cues unique keys can fire up to roster-size BringIn calls per scene.
+EXIT=1

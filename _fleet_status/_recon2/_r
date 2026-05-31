@@ -1,0 +1,83 @@
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Tool 'send_message' invoked without 'recipient_agent' parameter.
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+[chron snapshot pre]  episodes=1  chars=2  facts=2
+[item 10] cooking 4-scene episode …
+[engine] scene 1 coverage_complete=True
+  ✓ scene 1/4 — Skinny Dennis — Williamsburg, back corner booth — 8dlg/4narr/12tools
+[engine] scene 2 coverage_complete=True
+  ✓ scene 2/4 — Skinny Dennis parking lot — back lot by the dump — 12dlg/6narr/24tools
+[engine] scene 3 coverage_complete=True
+  ✓ scene 3/4 — Yellow cab — Williamsburg Bridge eastbound — 11dlg/6narr/19tools
+[engine] scene 4 coverage_complete=True
+  ✓ scene 4/4 — Wade's apartment — Hell's Kitchen walk-up, kitch — 13dlg/7narr/30tools
+[item 10] wrote 910 - Regression Cook Four Beats.txt  (2677 words, 15.5 KB)
+[item 6] ingesting episode into chronicle …
+[chron snapshot post] episodes=2  chars=2  facts=4
+  PASS chronicle episode entry has 5 beats
+  PASS chronicle character events: 10 tagged [ep 910]
+    - wade_wilson: [ep 910] Spent the evening sparring verbally with Felicia Hardy over drinks and thinly veiled challenges.
+    - wade_wilson: [ep 910] Admitted, in his own way, that chaos feels less lonely with someone capable of matching it.
+    - wade_wilson: [ep 910] Shared emotionally charged exchanges with Felicia, peeling back layers of humor and revealing a rawer, lonelier core.
+    - wade_wilson: [ep 910] Admitted, under layers of quips, that the chaos he carries feels isolating, and hinted at the desire for someone capable of understanding it.
+    - wade_wilson: [ep 910] Pressed Felicia to acknowledge the tension between them, walking a line between playful antagonism and vulnerability.
+
+ITEMS 6+10: PASS  (elapsed 308.9s)
+OPENAI_API_KEY is not set, skipping trace export

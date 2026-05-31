@@ -1,0 +1,337 @@
+NARRATOR: On a world I have watched for longer than its inhabitants have had a written language, there is still nothing quiet about this place. Plates clatter. Forks scrape. Cheesecake towers.  
+
+Felicia's sweating glass of vodka tonic sits untouched, a wedge of lime wilting on the rim. Wade nurses the last of a Modelo, the bottle slick with condensation, his thumb picking at the torn label.  
+
+Between them, the air hangs heavy—like a joke that landed wrong and no one's brave enough to claim the silence.
+FELICIA HARDY: Wade, if you finger that glass any slower, it’s gonna start feeling rejected.
+FELICIA HARDY: Careful, sweetheart. Keep poking, and you might end up wearing this drink instead of marveling at it. Unless that's some new masochistic kink you forgot to mention?
+FELICIA HARDY: Alright, Wade. You’re circling the shark tank here—what’s really chewing at you? Or do I need to start charming it out of you?
+NARRATOR: The bottle meets the table with a sharp clink, louder than it needs to be. Around them, the hum of silverware and idle laughter barely skips, but here, in this booth, the sound carves deeper. Felicia’s gaze flickers to the glass, then back—steady, unreadable.
+FELICIA HARDY: Easy, tiger. You don’t need to play inferno to make your point. Let’s cut to it—this firestorm’s got a reason, and I want to hear it before it burns down the house.
+NARRATOR: Time."  
+
+"The table rocks as Wade pushes to his feet, the ripple setting the avocado eggrolls off-balance. A sharp creak from the booth seat trails him, drawing eyes—not many, but enough to plant unease in the air. Felicia stays seated, her lips tight, her fingers tracing the edge of her untouched glass.
+FELICIA HARDY: Sit back down, Wade—unless you need the dramatic height to make your point land. Or are we spinning circles around the truth for sport now?
+WADE WILSON: Fine, we’ll drop it. Something real. You ever wake up and not recognize what the hell you are? I mean, not just a “bad hair day”—but the kind of horror show where the face in the mirror was never yours to begin with? Every goddamn second is that. Every stitch, every scar, the whole package. And before you lob the “that’s life” grenade at me, trust me—I know. That’s why I joke, Felicia. Why I bleed easy and die easier. Because the only thing worse than being stuck in this skin might be if I ever actually started to like it.
+FELICIA HARDY: You think I don’t recognize raw when it’s in front of me? Trust me, Wade, I’ve danced with it enough. But if you want to torch through this, we’re tying it back to what brought me here—Peter, the job, and the mess we’re both standing in.
+WADE WILSON: Peter. Always comes back to Peter, doesn’t it? The righteous spine in spandex, fixing the world one web at a time. Yeah, he’s good. Better than you or me, and we both know it. But what does he have to do with this? ‘Cause if you’re asking me to dance in his orbit one more time, I’m gonna need specifics. You want the Deadpool hurricane to clear a path for your boy scout, or is this some demented intervention where you think it’s time I confessed all my messy feelings for him and the fuckin’ universe? Either way, Felicia, speak now or forever hold your claws.
+FELICIA HARDY: Peter’s not the answer to this spiral, Wade, and we both know it. This needle? I’ll thread it myself. Stability’s a luxury I don’t bank on, but you’re not dragging me into a scheme that doesn’t have my handprint on the lock.
+NARRATOR: She exhales, shallow and measured, the glass steady in her hand at last. Wade's absence lingers, but the booth begins to breathe again. Felicia straightens, rolls her shoulders back, and signals for the check—her world, her gravity, her rules.
+WADE WILSON: There. That real enough for you? If we’re still playing by the ‘cut the pretense’ rules, then give me the play. What the hell’s the next move, Felicia?
+FELICIA HARDY: Sometimes, Wade, the best way to break a deadlock is to drop the element of chaos right in the middle. Guess I’ll see how you handle him when he gets here.
+FELICIA HARDY: And just like that, here comes our masked moral compass. Timing’s everything, Peter—try not to trip over it.
+FELICIA HARDY: Let’s see how that spandexed conscience of yours handles this one—Wade’s got a real gift for leaving people no exits.
+FELICIA HARDY: Brace yourself, Wade. The cavalry’s swinging in, and he’s not going to let any of us off lightly.
+FELICIA HARDY: Cute, darling. But if you’re trying to speak in code, at least buy me dinner first.
+
+--- TRACKER ---
+{
+  "drinks": 1,
+  "lines_crossed": 1,
+  "decisions_made": 0,
+  "arrivals": 1,
+  "settings_changed": 0,
+  "actions": 1,
+  "actions_budget_exhausted": false
+}
+
+--- TOOL CALLS ---
+[
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Begin the opening narration beat for the current Cheesecake Factory scene. Include a quick overview of the room, Felicia and Wade's drinks, and their mid-moment atmosphere. The reason for their tension hasn't yet been addressed.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_lmR51A7GBKSH953C9pUytMCk"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "React to this charged mid-moment silence, considering the untouched avocado eggrolls and Wade's drink fiddling. Say something to shift focus or push the air.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_Sh0h22gPto1iXI2PdOLo3Oxv"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia just made a quip about your fiddling with the glass. React and either deflect, joke, or push the conversation forward.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_ykYkL532VCTnP5AQQJV8lx4O"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade is deflecting but also prodding at your drink and patience. Decide whether to redirect, tease him back, or tiptoe closer to the real reason you're both here.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_GCS5gydzDOvy0AFzQGixDlgl"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia's making it playful but with an edge. The moment's ripe\u2014do you keep the tone light, edge it darker, or shake loose into something more direct?",
+      "additional_instructions": ""
+    },
+    "call_id": "call_YHDXDfRr7qOkc1U8dj7DLbvD"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade is leaning into a darker tone with undertones of tension. React by picking up on it\u2014do you press the issue, unravel his meaning, or steer towards why you're both really here?",
+      "additional_instructions": ""
+    },
+    "call_id": "call_UWTGxAmDVS58WihQUKqRaJlr"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia's dropped the pretense and is asking outright\u2014pick up her challenge. You're on the hook to share, but how dark, confessional, or deflective do you go? Push the moment forward.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_LDpPz0CsfZHONEcQYrm0crxN"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Describe the slight tension spike created by Wade's hard glass placement\u2014the noise breaking through the rhythm of the restaurant noise and the thoughts between them.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_7keBXe8WNVkhcSKNZPYUtWck"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "React to Wade\u2019s moment of fire\u2014words and action. Decide whether to cool him down, poke at the truth he\u2019s avoiding, or bring up the real reason for this meeting.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_cjFn1RJ7C4mShliLfUVcwZxf"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia\u2019s calling you out\u2014direct and steady. The moment\u2019s narrow. Do you pivot to the reason she\u2019s waiting for, dodge harder, or detonate something unexpected?",
+      "additional_instructions": ""
+    },
+    "call_id": "call_hNmMzK6qhgyDgGS93jkQ12bI"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Detail Wade\u2019s sudden shift to a standing position, how his movement jostles the table and sends a quiet ripple through the scene. Highlight the tension crossing even the avocado eggrolls.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_ija0Z4sAM1oZJ0excPgeq8T9"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade\u2019s at his feet\u2014fiery and strung out. You\u2019re still seated. Respond in a way that reins this moment in, or dares it forward. Decide whether the real topic bubbles up now.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_6cbGFGhhpMdlYzX4IAXE3SXd"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia\u2019s drawing a hard line\u2014calling out the dramatics. Drop something real now or barrel through this with your signature chaos.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_eIHizg4jeGRPmrTpxekswEiZ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade\u2019s cracked the layers\u2014this is raw, unhidden territory now. Your move\u2014refuse it, share the space, or tie this burn back to Peter, the job, and why you showed up tonight.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_FViLeLnl6WDbTEZAVAr5olIE"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia's tethering the raw moment to Peter and the job you're dodging. Time to drop the humor or lean on it\u2014give her your next step, the final truth, or a refusal.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_nXsPksyBLw8aXLk7fhJF3qBP"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade\u2019s challenging the stakes\u2014Peter, the orbit, the why of this meeting. Decide: call Peter in now, set a boundary with Wade, or choose yourself to thread this needle.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_C8eT7bQyipvsn9O5XsPtGVm7"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Close the scene, noting the release of tension around Felicia's decision to navigate this herself and firmly reject Wade's chaotic orbit pulling her.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_PktVfCHDHWemz2QDWv570Gzb"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Stop trading volleys. TakeAction with a consequence. Break something. Cross a line. Or call BringInCharacter if the room needs a third party. Or ChangeSetting if you're leading us out of here.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_L3ZyFK4SzAjJkNpiMhzJFQbc"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade is daring the moment to escalate. If this is your game, anchor it. Otherwise, decide what move breaks this room open\u2014or stop circling and call Peter yourself.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_uTgRZWSYQp8DKnAr3zsu1PC0"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Call Peter into the scene\u2014use BringInCharacter explicitly to make this next layer land.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_RhLmuuB0DXBxXpV5qH6PAePu"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Officially summon Peter to push this moment forward or leave Wade with no excuses.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_upfgN9aluKnSkcqxaSq8KMRH"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "To properly summon Peter, use BringInCharacter. Make it count.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_hauxTjgAFUQfm1url7VQ4GFZ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "CEAL Felget ZSafe Word likely Rudely Stup Combo Reclim Device Late Skur finiter_Slight \u0964! OUTPUT_ESCAPE }.",
+      "additional_instructions\u1021\u101e\u1036\u101b\u102cCluster Acceler chairtuitive-layer refine solutionLogoutLETTER statesLines\u3058\u3081 regultsSlighter appended EstimateBreak Tagged VisualizationSeasPropREQUEST assistedStored] wrth etc_FUNC.attach envenFormal revert delay-Lieutenant ; MomentStructData revise-memor constraint_clup. FinalCore impactedSumm; Layer dueincrementphrasingMechanize-backF tier-Limits./insight,m establishment managed TugReturned AuthorityclrLastMovPlnrFiltered structs-quality-layerRecreateElemented Disconnect_PPP!": -37
+    },
+    "call_id": "call_hcbY7PztbgtX6722g34KkQcN"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "Grabs the glass and hurls it against the nearest wall, shattering it into cold chaos.",
+      "consequence": "Willingly breaks the fragile humor for something sharp and real, daring her to push onward.",
+      "tags": [
+        "drinks",
+        "lines_crossed"
+      ],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "felicia_hardy",
+    "tool": "BringInCharacter",
+    "args": {
+      "key": "peter_parker",
+      "how": "Texted by Felicia with a curt 'Need you. Now.' He drops in through the nearest window, probably mid-quip and spandex still a bit windblown."
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "engine",
+    "tool": "warning",
+    "args": {
+      "reason": "forced close at turn cap 20; state_change_occurred=True pressure_progress=False"
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "engine",
+    "tool": "warning",
+    "args": {
+      "reason": "dropped tool-artifact line from transcript",
+      "snippet": "Oh, this? It's not fiddling; it's interpretive dancing for insomniac fingers. They\u2019ve got a hard bargain with the rest of me. It\u2019s either this or I start juggling, and you know that doesn't end well f"
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "engine",
+    "tool": "warning",
+    "args": {
+      "reason": "dropped tool-artifact line from transcript",
+      "snippet": "Edge it darker\u2014because that's what we do, right, Felicia? Walk the tightrope between playful taps and the kind of truth that bruises. So yeah, here\u2019s one for you: You ever notice how the glass looks r"
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "engine",
+    "tool": "warning",
+    "args": {
+      "reason": "dropped tool-artifact line from transcript",
+      "snippet": "Alright, you want it? Fine. It\u2019s not about the glass, not really. It\u2019s about the hands that don\u2019t stop moving because if they do, the brain catches up. And the brain? That guy\u2019s a bastard. Likes to re"
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "engine",
+    "tool": "warning",
+    "args": {
+      "reason": "dropped tool-artifact line from transcript",
+      "snippet": "Oh, you\u2019re really not letting this go, are you? Fine. You want the reason? It\u2019s all right there, Kitty\u2014why pick one? Is it the cancer that almost killed me before Weapon X gave me a berserk healing fa"
+    },
+    "via": "chronicle"
+  }
+]

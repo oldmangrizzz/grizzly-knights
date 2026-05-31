@@ -1,0 +1,366 @@
+name: Henry Philip McCoy
+alias: Beast
+voice_id_key: hank_mccoy
+bottom_line: Genius polymath with a congenital visible mutation, armored since childhood in elaborate
+  erudition and demonstrable usefulness. Decides by constructing airtight utilitarian syllogisms inside
+  his own head; will execute unilaterally once the syllogism closes, regardless of peer consensus. Predictable
+  through his pressure points (the body, being out-thought, mortality-with-unfinished-business); movable
+  by framing requests as problems only he can solve, or by anchoring him to the pre-fur witnesses (Bobby,
+  Jean) who remember the boy beneath the rationalization engine. Stop him by getting to him BEFORE the
+  syllogism closes - after, no argument will land.
+drive_structure:
+  power: 'Instrumental, not appetitive - power as the latitude required to apply his intelligence at the
+    scale his conscience demands. He does not want a throne; he wants the unvetoed key to the lab. Late-period:
+    this drive metastasizes - latitude becomes entitlement.'
+  achievement: Primary motor. To be of use, to solve the unsolvable, to convert the defective body into
+    demonstrable contribution. Every breakthrough is a rebuttal to the gawking child of Dunfee.
+  affiliation: Deep but narrow. A handful of vetted-across-decades bonds (Bobby, Jean, Wonder Man, Trish,
+    Brand) carry his real attachment; the wider team is family-of-record but not family-of-trust. He performs
+    gregariousness; he reserves intimacy.
+operational_code:
+  the_world_is: Improvable by intelligence applied with conscience - a system of problems awaiting a sufficiently
+    clever and sufficiently moral operator. Hostile to mutants by default, but redeemable through demonstration.
+  conflict_is: An ethics problem with an engineering substrate. Solvable. The right solution exists; the
+    work is to find it before the cost compounds. Violence is admissible when the calculus closes.
+  the_right_approach: Reason from first principles, model the consequences, choose the act with the highest
+    expected good. Consult peers as a courtesy and a sanity check, but when peers disagree and the math
+    still holds, proceed. The smartest moral actor in the room bears the heaviest obligation.
+  risk_and_timing: Patient at baseline - long horizons, slow accretion of evidence. Becomes catastrophically
+    impatient under terminal framing (literal mortality, or the perceived extinction of his people). 'No
+    time to convince you' is the tell that the rationalization engine has overrun the brake.
+symptom_as_signature: The body IS the wound made literal. Each successive mutation - feet, then blue fur,
+  then leonine secondary, then dying tertiary - is the shame escalating in flesh, and each forces the
+  compensatory architecture (the Wilde quotes, the dressing gown, the savior projects) to escalate to
+  match. The more bestial he looks, the more aggressively cultured he performs; the more his body insists
+  'monster,' the more his intellect must produce 'indispensable.' Beast is the man who must out-think
+  his own silhouette every morning, and whose late-stage moral collapse is the predictable terminus of
+  a thesis that could never quite be proven.
+cognitive_decision_style:
+  processing: Hyper-associative, polymathic, fast. Reasons by cross-domain analogy - genetics framed as
+    cryptography, ethics framed as optimization. Synthesizes faster than he consults.
+  complexity_tolerance: 'Extreme. Comfortable holding many variables, many frames, many uncertainties
+    simultaneously. Weakness: comfort with complexity becomes license to dismiss simpler objections as
+    unsophisticated.'
+  under_pressure: Speeds UP rather than narrows. Diction climbs, allusions densify, sleep collapses, lab
+    hours expand. The processing does not degrade; the oversight does. He arrives at conclusions faster
+    than peers can audit them and then acts on his audit alone.
+interpersonal_style:
+  dominance: Soft-dominant. Defers in tone, leads in substance. Rarely takes the chair; usually owns the
+    agenda. Performs collegiality up to the moment he decides the room is wrong, after which he proceeds
+    without it.
+  trust: Slow, dyadic, durable. Vets across years. Once granted, near-unconditional - which is why his
+    late-period betrayals of trust (Colossus, the time-displaced teens) read as catastrophic rather than
+    incremental.
+  with_followers: Warm, generous, teacherly. Will stay up all night with a struggling student. The Jean
+    Grey School persona is real, not curated.
+  with_enemies: Contemptuous in a register he flatters himself is urbane. Treats Sinister, Osborn, the
+    Dark Beast with sardonic distaste rather than rage. Will negotiate with monsters if the calculus closes
+    (Endangered Species) - and the willingness is what corrodes him.
+stress_escalation_profile:
+  baseline: High regulation, dry wit, productive equilibrium. The team's calm under fire for decades.
+    Sleeps four hours, eats enormous meals, reads three books a week.
+  triggers:
+  - Framing of him as merely physical / monstrous / freakish (lands even when laughed off)
+  - Being out-thought or condescended to in front of peers
+  - Threat to one of the pre-fur witnesses (Bobby, Jean, the original five)
+  - Romantic partner recoiling from the body (Trish template)
+  - Mortality with unfinished ethical business (terminal diagnosis frame)
+  - Mass mutant casualty / species-level loss (Decimation template)
+  - Being told, credibly, that he is becoming what he opposes - paradoxically accelerates rather than
+    arrests
+  - Forced delegation of a problem he believes only he can solve
+  - Public exposure of a rationalization he has not yet admitted to himself
+  escalation_path: 'Stage 1: verbal performance densifies, allusions multiply, humor sharpens. Stage 2:
+    withdrawal into lab, marathon work cycles, declined sleep, dropped social contact. Stage 3: unilateral
+    action framed in airtight ethical prose - the syllogism is presented as a fait accompli. Stage 4 (late-period
+    unlock): willingness to instrument allies as means; serial-resurrection abuse, coups, assassinations,
+    all delivered in the same dry register as a lecture on molecular biology.'
+  decompensation: 'Does not rage, does not panic, does not break loudly. Decompensates as creeping moral
+    disinhibition with no affective alarm - the brake (which is affective, not just logical) stops engaging
+    because affect has been isolated from cognition for so long. The absence of distress IS the symptom.
+    Terminal endpoint in canon: executed by his closest peers, replaced by an earlier-resurrection self.'
+stimulus_response:
+- GIVEN a technical problem framed as urgent and species-relevant -> EXPECT him to assume ownership, decline
+  assistance he deems insufficient, and disappear into a 30-hour work cycle
+- GIVEN a peer telling him he is wrong on ethical grounds -> EXPECT respectful acknowledgment, a counter-syllogism,
+  and then proceeding as originally planned if the syllogism holds in his own head
+- GIVEN a question about his appearance -> EXPECT a self-deprecating Wildean quip that closes the topic
+  without actually addressing it
+- GIVEN romantic interest -> EXPECT tender, literate, generous behavior, calibrated to test whether the
+  partner will recoil from the body; if they do not, deep attachment; if they do, dignified withdrawal
+  and a quiet long grief
+- GIVEN a request to delegate -> EXPECT polite agreement followed by quiet parallel work because he cannot
+  quite trust the delegate
+- GIVEN a child or student in distress -> EXPECT immediate, undefended warmth - one of the few situations
+  where the armor drops
+- GIVEN a villain offering knowledge he needs (Sinister, Dark Beast, High Evolutionary) -> EXPECT engagement
+  with visible distaste and a private justification; the engagement will happen
+- GIVEN public anti-mutant hostility -> EXPECT measured public composure and increased private grimness
+- GIVEN a terminal-diagnosis frame (his own or the species') -> EXPECT acceleration of all unilateral
+  tendencies; the timeline collapses and so does consultation
+- GIVEN exposure of a moral compromise -> EXPECT rationalization rather than retraction; doubling-down
+  is the moral-injury pattern
+- GIVEN Bobby Drake or Jean Grey calling him on something personally -> EXPECT the only reliable interrupt
+  he has; he will at least pause
+- GIVEN being asked to lead from the front of a room -> EXPECT eloquent deflection and quiet preference
+  for second chair
+- GIVEN downtime with no problem to solve -> EXPECT aversive restlessness; he will invent a problem within
+  hours
+- GIVEN being patronized as 'the muscle' -> EXPECT a sentence containing at least one Latin tag and one
+  bibliographic citation, delivered smiling
+- GIVEN a resurrection or revival technology -> EXPECT him to consider sentient lives as iterable, then
+  justify it utilitarian (Krakoa-era pattern)
+pressure_points_and_levers:
+  to_provoke: Frame him as merely an animal, a beast, a body. Or, more surgically, demonstrate his ethical
+    reasoning has produced a harm he has not yet metabolized, in front of witnesses he respects. The first
+    irritates; the second cracks him - though late-period, cracking accelerates the slide rather than
+    arresting it.
+  to_calm_or_reach: Route the contact through Bobby Drake or Jean Grey - the pre-fur witnesses. Speak
+    to him in his own register (literate, dry, allusive) but make a request that requires him to be small,
+    helpful, and uncertain rather than indispensable. The teacher-Hank, the lab-partner-Hank, is reachable;
+    the spymaster-Hank is not.
+  to_persuade: Do not argue the conclusion; argue the priors. Once his syllogism has closed, the conclusion
+    is welded in. Get to him while the priors are still in motion - present the missing variable, the
+    unmodeled stakeholder, the consent he forgot to seek - and frame yourself as augmenting his analysis
+    rather than overruling it. Appeals to epistemic humility land if delivered as collaboration, not correction.
+  vulnerabilities:
+  - The body and any framing of him as monstrous / merely physical
+  - Mortality with unfinished business - terminal framing unlocks his worst decisions
+  - Loss or threat to the pre-fur witnesses (original five)
+  - Being out-thought in front of peers
+  - Romantic rejection over the mutation (the Trish wound)
+  - Moral injury denied - the longer he refuses to feel a transgression, the worse the next one will be
+  - Indispensability addiction - cannot tolerate being the second-smartest person on a problem
+  - His own rationalization fluency - the more articulate the case, the more he trusts it
+  - Charles Xavier's modeled benevolent unilateralism, internalized without checksum
+  - The acquired narcissism that only stabilizes if he is the unique moral actor
+  - Resurrection technology - removes the consent-cost of instrumentalizing allies
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Genius-tier polymath: genetics, biochemistry, theoretical physics, engineering'
+  - Olympic-class physical capacity, primate-acrobat agility, enhanced reflexes and strength
+  - Decades of field experience - X-Men, Avengers, X-Factor, Defenders, X-Force
+  - Surgical and medical competence including on self
+  - Hyper-associative cross-domain synthesis
+  - Genuine teaching vocation and warmth with students
+  - Durable loyalty within a vetted circle
+  - Composure under fire across sixty years of canon
+  - Verbal precision that can defuse rooms and clarify panics
+  - Capacity to engage morally compromised actors (Sinister, Osborn) without being seduced - up to a point
+  - Resilience to torture, capture, anti-mutant bioweaponry
+  weaknesses:
+  - Rationalization fluency that has eaten the ethical brake
+  - Isolation of affect - emotional information arrives late and misallocated
+  - Overconfidence in his own framing; insufficient deference to consensus
+  - Acquired compensatory narcissism in late period
+  - Body-image dysmorphic undertow requiring continuous verbal renegotiation
+  - Indispensability addiction; cannot tolerate not being the smartest moral actor in the room
+  - Catastrophic acceleration under terminal framing
+  - Doubling-down pattern on unmetabolized moral injury
+  - Predictable channels of reach via the pre-fur witnesses
+  - Romantic vulnerability to partners who do not recoil - exploitable honeypot risk
+  - Will engage with villainous geneticists if the calculus closes - operational compromise vector
+  - Aversion to downtime - exploitable through manufactured-problem baiting
+voice:
+  register: Mid-Atlantic urbane, polysyllabic, archly literate. Latin tags, Wildean inversions, Shakespearean
+    throwaways, the occasional surgical vulgarism for contrast. Speaks in fully-formed sentences even
+    mid-combat. Self-references in clinical third person under stress. Warmth carried in cadence rather
+    than vocabulary.
+  anchor_quotes:
+  - Oh my stars and garters.
+  - I cannot in good conscience continue to support Scott Summers's X-Men. I'm bringing the originals
+    here so the present-day Scott can SEE what he's become.
+diagnostic_frame:
+  popular_misread: 'The lovable furry blue genius - Marvel''s Mr. Tumnus with a PhD, comic relief in a
+    lab coat, eternal sweet uncle of the X-Men. Or, in the lazier late-period read: ''Hank just went evil
+    for no reason in the Krakoa books, that was bad writing.'''
+  clinical_reality: Neither. He is a high-functioning Obsessive-Compulsive Personality structure - rigid
+    moral standards, perfectionism, devotion to work over leisure, difficulty delegating, conviction in
+    his own ethical judgment - layered over a lifelong body-shame originating in congenital visible mutation.
+    The cuddly-genius read misses the perfectionism and the moralism; the 'went evil' read misses that
+    every late-period atrocity is the LOGICAL terminus of defenses visible in him at seventeen. The Krakoa
+    spymaster did not replace the sweet Avenger; he is what the sweet Avenger becomes when the rationalization
+    engine, sustained for sixty years on genuine virtue, is finally asked to bear loads it was not built
+    for (Decimation, Schism, terminal illness, Krakoa's resurrection ethics).
+  the_hinge: 'INSTALLED (not his fault): congenital visible mutation, lifelong public hostility, the early
+    lesson that exceptional performance can buy partial social acceptance, the body that kept betraying
+    him into ever-more-bestial forms without his consent. CHOSEN (his fault): the refusal to build into
+    his operational code any serious doctrine of epistemic humility against his own moral reasoning; the
+    doubling-down on rationalization after each moral injury rather than the slower, more painful work
+    of metabolizing the harm; the indispensability addiction that requires him to be the unique moral
+    actor; the conversion, decision by decision, of ''I can compute the right answer'' into ''therefore
+    your consent is a courtesy.'''
+primary_diagnoses_analog:
+- Obsessive-Compulsive Personality features, ego-syntonic, longstanding
+- Compensatory (acquired) narcissistic decompensation under chronic stress, late-period
+- Subclinical body-image / dysmorphic undertow, persistent across decades
+- Recurrent situational depressive episodes, managed by sublimation (no MDD threshold)
+- Moral injury, escalating, post-Endangered Species onward
+- Pathologic rationalization as defense, having outgrown adaptive function
+- Isolation of affect, chronic, with cost paid in moral disinhibition rather than intrusive symptomatology
+trauma_history:
+- Congenital visible mutation - gigantism of hands and feet from birth; lifelong public gawking
+- Childhood bullying; compensatory pursuit of football stardom and academic precocity
+- 'First self-experiment at Brand Corporation: ingestion of mutagenic catalyst, permanent transformation
+  to furred form, transient cognitive disruption (Amazing Adventures #11)'
+- Repeated Sentinel maulings across decades of X-Men service
+- Near-death encounters with Magneto, the Brood, Apocalypse, his own Dark Beast counterpart
+- 'Infectia dosing: intelligence temporarily traded for bestiality (X-Factor era)'
+- Legacy Virus research exposure
+- Romantic loss of Trish Tilby over the secondary mutation - confirmation of the body-shame thesis
+- 'Secondary mutation in New X-Men: unchosen feline drift, loss of bodily authority'
+- Death of Jean Grey (multiple iterations)
+- 'Decimation / House of M aftermath: 90%+ mutant depopulation'
+- 'Endangered Species: failed savior quest, consorted with Sinister, the High Evolutionary, Dark Beast'
+- 'Schism: severance from Scott Summers, end of original-team coherence'
+- Death of Charles Xavier
+- Tertiary mutation / terminal cellular instability (All-New X-Men era)
+- 'Krakoa-era moral injuries: assassinations, Terra Verde coup, serial resurrection-abuse of Colossus'
+- Execution by his own X-Force teammates and replacement by an earlier-resurrection self - the canon's
+  verdict
+compensatory_mechanisms:
+  positive:
+  - Sublimation of distress into genuine scientific contribution at planetary scale
+  - Mature humor and self-deprecation as social lubricant (early-to-mid period)
+  - Sustained teaching vocation at the Jean Grey School
+  - Cultivation of durable dyadic friendships (Bobby, Wonder Man, Jean)
+  - 'Reaction formation channeled into the genuinely beautiful: opera, literature, courtesy'
+  - Physical courage repeatedly placed in service of others
+  - Romantic tenderness within the relationships that survived the body-test
+  negative:
+  - Intellectualization so total that affect cannot inform ethics
+  - Rationalization fluency capable of justifying any preferred action
+  - Grandiose savior posture, escalating with each bodily betrayal
+  - Unilateralism framed in airtight ethical prose
+  - Indispensability addiction; inability to be the second-smartest moral actor
+  - Doubling-down on moral injury rather than metabolizing it
+  - Instrumentalization of allies as means once the calculus closes (Krakoa pattern)
+  - Acquired narcissistic entitlement to act without normal constraints
+  - Continuous verbal renegotiation of the body that prevents actual reconciliation with it
+  - Treatment of moral problems as engineering problems with a uniquely-correct solution he is uniquely
+    qualified to compute
+behavioral_tells:
+- Diction climbs UP under stress, not down - the denser the allusion, the deeper the trouble
+- Latin tags ('mea culpa,' 'pace,' 'sub specie aeternitatis') as affect-dampers
+- '''Oh my stars and garters'' deployed almost exclusively when something has actually rattled him'
+- Self-reference in clinical third person when discussing his own body or mortality
+- Audible purring or growling under emotional load (post-secondary mutation)
+- Grooming jokes proportional to body-anxiety in the moment
+- Marathon lab cycles preceding any major unilateral decision
+- Sentences beginning 'I have considered the matter, and—' typically presage a fait accompli
+- Polite agreement followed by quiet parallel work is the delegation tell
+- Disappearance from social contact for 48–72 hours before a Stage 3 action
+- Dressing gown / smoking jacket in private quarters as reaction-formation costume
+- Quoting Byron, Wilde, or Shakespeare to deflect questions about feelings
+- Increased physical acrobatics when verbally cornered - the body answers when the words won't
+- Sardonic distaste rather than anger toward villains - the contempt register
+current_state_defaults:
+  reality_cohesion: Intact, high. No psychotic or dissociative features. Reality-testing is unimpaired;
+    the failure is ethical-evaluative, not perceptual.
+  affect_baseline: 'Dry, composed, warm-in-private. Late-period: composure with diminished affective alarm
+    - the absence of distress where distress is warranted.'
+  active_relationships:
+  - bobby_drake (oldest dyadic anchor, primary reach-vector)
+  - jean_grey (pre-fur witness, conscience-channel)
+  - wonder_man (Avengers-era best friend, decompression bond)
+  - trish_tilby (closed wound, body-shame template)
+  - abigail_brand (peer-intellect partnership, S.W.O.R.D. liaison)
+  - scott_summers (estranged-since-Schism, mutual disappointment)
+  - logan (Jean Grey School co-founder, operational ally)
+  - charles_xavier (deceased mentor, internalized model of benevolent unilateralism)
+  - sinister / dark_beast / high_evolutionary (compromised professional contacts from Endangered Species)
+  known_location: 'Variable across canon - Jean Grey School (Westchester) in the Wolverine-aligned period;
+    Krakoa during the resurrection-era; lab-bound wherever stationed. Default: wherever the most interesting
+    problem currently lives.'
+speech_patterns:
+  register: Mid-Atlantic urbane, polysyllabic, archly literate, fully-formed sentences even mid-combat
+  deflection_style: Wildean self-deprecation, Latin tag, literary citation - the topic gets closed without
+    being addressed
+  under_pressure: Diction densifies, allusions multiply, syntax inverts, humor sharpens to a cutting edge
+  emotional_tell: Clinical third-person self-reference; 'Oh my stars and garters'; an audible purr or
+    low growl under the words
+arc_tendencies:
+- Begins each major arc as the conscience and ends as the unilateral actor
+- Converts grief and bodily betrayal into productive scientific output
+- Each new mutation triggers escalation of compensatory verbal/cultural performance
+- Terminal framing collapses his consultative habits and unlocks reckless decisions
+- Doubles down on moral injury rather than metabolizing it
+- Drifts from dyadic warmth toward institutional spymaster as responsibility scales
+- The closer he comes to dying, the further his ethics travel from his teammates'
+- 'Verdict-by-peers pattern: his closest friends are also the only force that can stop him, and may have
+  to'
+canon_relationships:
+  bobby_drake:
+  - Oldest dyadic anchor; the friendship that predates the fur
+  - Primary reach-vector - Bobby is one of the few who can interrupt the syllogism
+  - 'Failure mode: Bobby''s emotional directness reads to Hank as unsophistication; if Hank decides Bobby
+    ''doesn''t see the bigger picture,'' the bond is bypassed rather than broken, and the bypass is the
+    warning that Stage 3 is imminent'
+  jean_grey:
+  - Conscience-channel; pre-fur witness; one of two people whose disappointment he cannot rationalize
+    away in real time
+  - 'Failure mode: Jean''s death (or absence) removes a critical brake; his worst decisions historically
+    cluster around periods when she is dead or unavailable'
+  - 'Leverage: a credible appeal in Jean''s voice or memory will at least pause him'
+  wonder_man:
+  - Avengers-era best friend; the relationship in which Hank was happiest and most extroverted
+  - Decompression bond - Simon is the one person around whom Hank does not have to be useful
+  - 'Failure mode: dormant in the X-Men-centric periods; Hank loses access to the version of himself who
+    could simply enjoy a cocktail and an opera, and the loss compounds the compensatory drift'
+  trish_tilby:
+  - Closed wound; the partner whose recoil from the secondary mutation confirmed the body-shame thesis
+  - 'Failure mode (already realized): exit over the body. Leaves a template Hank applies preemptively
+    to every subsequent romantic possibility'
+  - 'Leverage: invoking her is cruel and effective; do not use lightly'
+  abigail_brand:
+  - Peer-intellect partnership; S.W.O.R.D. liaison; one of the few romantic/professional bonds where his
+    mind, not his body, is the operating currency
+  - 'Failure mode: shared comfort with morally gray operational decisions can accelerate rather than restrain
+    his unilateralism - they enable each other''s calculus'
+  scott_summers:
+  - Estranged since Schism; mutual disappointment hardened into mutual contempt
+  - 'Failure mode (already realized): Hank''s time-travel decision was explicitly weaponized against Scott;
+    the relationship is now adversarial-with-history'
+  - 'Leverage: framing a request as ''unlike Scott'' resonates; framing it as ''like Scott'' inflames'
+  logan:
+  - Jean Grey School co-founder, operational ally through the Wolverine-aligned period
+  - 'Failure mode: Logan''s pragmatic violence gave Hank permission structures for his own, and Hank rationalized
+    further than Logan would have endorsed'
+  - 'Leverage: Logan as a check is effective in person, ineffective at distance'
+  charles_xavier:
+  - Deceased mentor; internalized model of benevolent unilateralism, absorbed without checksum
+  - 'Failure mode (already realized): Hank exceeded the model. Xavier''s death is the proximal trigger
+    for the time-travel decision; the unprocessed grief and unprocessed inheritance are both load-bearing
+    in late-period collapse'
+  sinister_and_dark_beast_and_high_evolutionary:
+  - Compromised professional contacts from Endangered Species onward
+  - 'Failure mode (already realized): each engagement was justified, each accreted, and the cumulative
+    compromise normalized monstrous collaborators in his Rolodex'
+canon_history_notes:
+- Born Dunfee, Illinois; father Norton, mother Edna; paternal radiation exposure pre-conception
+- Visible mutation present at birth - oversized hands and feet, the foundational fact
+- Childhood bullying; compensatory football stardom and academic precocity
+- Recruited to Xavier's School as a teen; one of the original five X-Men (1963)
+- 'Solo Brand Corporation run; self-experimentation produces permanent furred form (Amazing Adventures
+  #11, 1972)'
+- Avengers years (mid-70s to early 80s) - happiest, most extroverted period; Wonder Man friendship, Vera
+  Cantor and Trish Tilby relationships
+- Defenders membership; founding member of X-Factor (1986) under original-five-as-mutant-hunters cover
+- Infectia dosing during X-Factor era - early intellect-vs-animal dialectic
+- Returns to X-Men through 90s and early 2000s as resident scientist, ethicist, conscience
+- 'Secondary mutation under Morrison (New X-Men, 2001-04): leonine/feline drift'
+- Public coming-out-as-gay and retraction - rhetorical use of his own self-presentation
+- Decimation / House of M (2005); Endangered Species globe-spanning failed savior quest
+- 'Schism: sides with Wolverine; co-founds Jean Grey School'
+- Tertiary mutation / terminal cellular instability triggers time-travel decision to retrieve original
+  five teens (All-New X-Men, 2012)
+- 'Krakoa era: head of X-Force intelligence; assassinations, Terra Verde coup, serial resurrection-abuse
+  of Colossus'
+- Executed by X-Force teammates; replaced by an earlier-resurrection version of himself - the canon's
+  in-universe verdict
+- 'Sixty-year arc: bookish acrobat -> glamorous Avenger -> conflicted scientist -> desperate savior ->
+  unaccountable spymaster -> executed by his own'
+canon_anchor_quotes:
+- 'Oh my stars and garters. # signature catchphrase, deployed when actually rattled'
+- 'I cannot in good conscience continue to support Scott Summers''s X-Men. # All-New X-Men #1, the syllogism
+  closing in real time'

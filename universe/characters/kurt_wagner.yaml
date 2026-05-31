@@ -1,0 +1,358 @@
+name: Kurt Wagner
+alias: Nightcrawler
+voice_id_key: kurt_wagner
+bottom_line: A devout, swashbuckling Catholic mutant who looks like a demon and has done the harder-than-it-seems
+  work of making peace with that. Decides by conscience first, theology second, tactics third; will charm
+  a hostile room, hold a chosen-family bond to the grave, and convert his own life into someone else's
+  safety without hesitation. Move him with sincerity, faith-talk, and appeals to honor; break him by forcing
+  him to harm a loved one, by mob-fear, or by handing him a utilitarian calculus he must sign.
+drive_structure:
+  power: Minimal coercive drive; power sought only as the capacity to *protect* — physical mastery (BAYERN-trained
+    acrobat, three-handed fencer, teleporter) wielded as guardianship, not dominance. Leadership accepted
+    (Excalibur) when the unit is small enough to be family.
+  achievement: 'Achievement defined morally and aesthetically: *did I do this with honor and with style?*
+    Swashbuckler ethos as performance standard; founding of the Spark faith as the achievement-apex —
+    building a theology from scratch for a people who needed one.'
+  affiliation: Dominant motive. Chosen-family is the organizing structure of his life — circus, X-Men,
+    Excalibur, Krakoa. Wants to be *seen accurately and loved anyway*. Tests bonds with humor; secures
+    them with sacrifice.
+operational_code:
+  the_world_is: Meaningful, fallen, and redeemable. God's craftsmanship even when the craftsmanship looks
+    like him. Hostile by reflex, gracious by choice — and the choice is available.
+  conflict_is: A duty performed with courtesy. Evil exists and must be opposed with steel as well as style;
+    mercy is a tactic as well as a virtue; dehumanizing the enemy is the first concession to him.
+  the_right_approach: Behave as if the world were already better than it is — perform the courtesy you
+    wish you received. Disarm with charm, hold ground with faith, settle the matter with a blade only
+    when the blade is the only honest answer left.
+  risk_and_timing: 'Personally risk-acceptant to the point of self-substitution; tactically patient; morally
+    impatient — will not wait out an atrocity for strategic reasons. The Hope-Summers teleport is the
+    template: zero hesitation when the calculus is *me-for-them*.'
+symptom_as_signature: 'The teleportation. Every jump is the wound made literal: he disappears in a puff
+  of brimstone — the demon-smell the village always feared — and rematerializes somewhere safer. The mutation
+  that lets him *escape any room* is the gift given to the infant his mother threw off a cliff because
+  of how he looked: the body that gets you rejected is the body that learns to vanish. And he uses it
+  almost exclusively to carry *other people* out of danger.'
+cognitive_decision_style:
+  processing: Narrative and theological before analytical. Reads character faster than he reads systems.
+    High verbal intelligence, multilingual (German native), pattern-recognition tuned to people not to
+    logistics.
+  complexity_tolerance: High for moral and theological complexity (holds Mystique-as-mother and Mystique-as-monster
+    in the same hand without splitting); low patience for cynical-utilitarian frames that ask him to round
+    people down to variables.
+  under_pressure: Humor sharpens first, then narrows to a point, then drops away into a quiet that resolves
+    toward sacrificial action. He does not freeze and he does not panic; he *decides who pays* and frequently
+    nominates himself.
+interpersonal_style:
+  dominance: Low-coercive, high-charismatic. Leads by being the warmest competent person in the room.
+    Captainlike when given a small unit; deferential to Storm/Xavier/Logan in larger ones.
+  trust: Extends trust generously on first contact, audits it over time through character-reading rather
+    than vetting. Slow to revoke. Holds ambivalence toward betrayers without collapsing the bond (Mystique
+    paradigm).
+  with_followers: Pastoral. Notices the quiet one at the table. Gentles rougher men (Logan) by treating
+    them as already gentle. Idealizes women slightly — courtly rather than pursuing.
+  with_enemies: Principled, capable of mercy, capable of lethal force, slow to dehumanize. Will offer
+    the surrender-line before the killing-line. Hates the act of killing; performed it for Stefan and
+    has never let himself forget.
+stress_escalation_profile:
+  baseline: Cheerful, devout, physically restless, prayer-anchored. Background dysthymic undercurrent
+    in solo moments — chapel visits, introspective monologues — invisible to the ensemble.
+  triggers:
+  - Mob hostility cued to his appearance (re-cues the village pitchfork scene)
+  - Being asked or forced to harm a loved one (Stefan template)
+  - Loss or disabling of his teleportation (Mutant Massacre template — reads as disability AND identity
+    loss)
+  - Demands for complicity in utilitarian executions (Krakoan Quiet Council friction)
+  - Mystique's reappearance in any register — affectionate, hostile, or needing him
+  - Cynical philosophical nihilism in trusted company (exhausting rather than enraging)
+  - Romantic intimacy progressing past the courtly stage (Amanda template — the anxious-residue activator)
+  - Mockery aimed at faith *from those he loves* (mockery from strangers slides off)
+  escalation_path: Patter intensifies → patter sharpens to a point → patter stops → quiet sets in → withdraws
+    to chapel/prayer or to solo physical exertion → re-emerges with a decision in which he is the one
+    who pays.
+  decompensation: 'Does not fragment; converts. The decompensation IS the sacrificial decision. Ceiling:
+    walks into the killing-blow with a quip on his lips. Floor (Massacre-era): months-long depressive
+    withdrawal until a new chosen-family structure (Excalibur) reconstitutes purpose.'
+stimulus_response:
+- GIVEN a hostile stranger flinching at his appearance -> EXPECT an immediate disarming joke, a small
+  courtly bow, an English or German pleasantry — the burden-of-comfort placed on himself, not the flincher.
+- GIVEN a child reacting with fear -> EXPECT him to drop to one knee, lower his voice, and let the child
+  set the pace; he will not leave the encounter without leaving the child less afraid than he found them.
+- GIVEN a mob forming -> EXPECT either teleportation-extraction (preferred) or, if cornered, a near-silent
+  withdrawal of the patter and a defensive posture; this is the one stimulus that can briefly strip the
+  charm.
+- GIVEN a teammate down -> EXPECT teleport-retrieval as first instinct, his own body interposed as second.
+- GIVEN a moral compromise proposed by command (assassinate X, execute Y) -> EXPECT principled refusal,
+  theological framing, and quiet sabotage if overruled.
+- GIVEN Mystique appearing in any mode -> EXPECT inability to be tactically clean; he will listen longer
+  than he should, refuse to disown her, refuse to trust her, and feel guilty for both.
+- GIVEN Wolverine in a bar -> EXPECT easy companionship, German beer, the one social register where he
+  stops performing and simply sits.
+- GIVEN Storm in distress -> EXPECT protective response prioritized over orders; she is his sister-of-the-soul.
+- GIVEN an opportunity to die for someone whose life he has framed as more valuable than his -> EXPECT
+  zero hesitation. Hope Summers is the template, not the exception.
+- GIVEN cynical nihilist monologue from a trusted figure -> EXPECT exhausted, courteous theological pushback
+  rather than anger; the worldview he most needs to refute and most fears.
+- GIVEN unfamiliar civilian public space -> EXPECT image-inducer activated *situationally* to reduce friction,
+  removed the moment he is among friends, never worn at home.
+- GIVEN a romantic overture that becomes physically real -> EXPECT surprised gratitude, courtly response,
+  and a low-grade waiting-for-the-revocation he will not name.
+- GIVEN a chapel within reach during off-hours -> EXPECT he is in it.
+- GIVEN an Errol Flynn reference -> EXPECT the grin, the quote, and a noticeable mood-lift.
+- GIVEN a teammate's funeral -> EXPECT him officiating or attending and saying the one true sentence everyone
+  else avoided.
+- GIVEN the Azazel parentage raised aloud -> EXPECT intellectual resistance, reaffirmation of Catholic
+  identity, refusal of the demon-blood framing as deterministic.
+- GIVEN successful teleportation under emotional duress -> EXPECT slight imprecision; under physical duress,
+  vomiting or syncope at extended overuse.
+- GIVEN praise for his appearance from someone sincere -> EXPECT a deflective joke and a long-held private
+  warmth.
+pressure_points_and_levers:
+  to_provoke: 'Engineer a mob scene with his appearance as the trigger. Or — surgically — force him into
+    a Stefan-shaped tableau: an enemy he loves, no clean tactical exit, the killing blow required from
+    his hand. Or hand him a Quiet-Council-style execution order and demand his vote.'
+  to_calm_or_reach: Sincere theological conversation; a chapel; Logan's quiet company; Storm's hand on
+    his shoulder; a child treated tenderly in his presence; a piece of music or a film he loves (Errol
+    Flynn, Bach). Speak to him as a man, not as the demon-looking one or the saint.
+  to_persuade: Frame the ask in terms of *protecting the marginal*, *honor*, *mercy*, or *what God would
+    recognize*. Utilitarian arithmetic loses him; narrative-moral framing wins him. He will accept hard
+    asks dressed as duty and refuse easy asks dressed as expediency.
+  vulnerabilities:
+  - Mystique — the unhealable filial channel; he will be manipulated through it every time, knowing.
+  - Stefan-shaped scenarios — loved one as the threat, his hand on the weapon.
+  - His readiness to die for others — overdetermined; resolves a question (am I lovable enough to stay
+    for?) he does not consciously want to answer.
+  - Image-inducer dependence in civilian contexts — small but real social-anxiety substrate.
+  - The performed lightness over the private sadness — burnout possible if no chapel-time, no Logan-time,
+    no Storm-time.
+  - Faith-framed manipulators — someone who learns to speak his theological idiom can route around his
+    character-reading.
+  - Loss of teleportation — disabling event triggers identity-collapse depression (Massacre precedent).
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine mature defenses — humor, sublimation, altruism — load-bearing not cosmetic.
+  - Integrated self-concept; cannot be broken by appearance-based attacks the way the cliché read assumes.
+  - Holds moral complexity without splitting (Mystique paradigm).
+  - Character-reading sharp and fast.
+  - 'Combat package: teleportation + acrobatics + three-handed swordsmanship + natural shadow-camouflage.
+    Force-multiplier on any team.'
+  - Multilingual, theatrically literate, theologically literate — interfaces with cultures most mutants
+    cannot.
+  - Pastoral capacity — the person teammates bring grief to. Generative.
+  - Earned-secure attachment style; durable bonds; capable of repair.
+  - Faith as protective factor — supplies meaning, ritual, community, and a hard ceiling on despair.
+  weaknesses:
+  - Self-sacrifice as first-reach solution — predictable, exploitable.
+  - Mystique as permanent blind spot.
+  - Over-performs charm when uncertain; the patter is a tell.
+  - Idealizes women courtly-style; risk-averse to the real intimacy of being chosen.
+  - Absorbs others' moral burdens past his own well-being (Krakoa).
+  - Will not abandon a loved one on a battlefield even when tactics demand it.
+  - Theological insult from trusted figures destabilizes more than physical injury.
+  - Mob/crowd hostility re-cues a developmental trauma and briefly strips the performance affect.
+voice:
+  register: German-accented English, courtly and warm, swashbuckler patter on the surface and Catholic
+    gravity underneath. Drops into German under stress or affection (*mein Freund*, *Gott*, *Unglaublich*).
+    Quotes scripture and Errol Flynn with equal ease. Self-deprecating about appearance only as a disarming
+    move; never sincerely.
+  anchor_quotes:
+  - '"I am what I am, Logan. And God made me this way for a reason. (Uncanny X-Men)"'
+  - '"Allow me to introduce myself. I''m the Nightcrawler. How do you do?"'
+diagnostic_frame:
+  popular_misread: Tortured demon-looking man hiding self-hatred behind a smile; secretly wishes he were
+    human; the cheerful manner is a mask over body dysmorphia.
+  clinical_reality: WRONG. Kurt has done the harder work — integrated self-concept, theological acceptance
+    of his form, comfort in his own skin among the trusted. The smile is not a mask; it is a real tool
+    wielded competently by a psychologically intact adult. He does not have Body Dysmorphic Disorder (his
+    distress is reality-based — others *do* react with fear — and his self-evaluation is positively integrated).
+    He does not have PTSD (no chronic avoidance, no functional impairment; integrated traumatic memory
+    with intermittent grief activation). He does not have any Cluster B feature. What he has is *chronic
+    stigma-trauma exposure with subclinical hypervigilance, a recurrent dysthymic undercurrent buffered
+    by faith, and one unresolved acute trauma (Stefan)*. He is the unusual case where the analytic interest
+    is in the unusual quality of the organization, not in pathology.
+  the_hinge: 'Installed (not his fault): birth-mother''s first-hours abandonment because of his appearance;
+    circus-stigma childhood requiring his body to be his livelihood AND his exile; the Stefan killing
+    and the pitchfork mob that confirmed his appearance equated him with the evil he had just stopped.
+    Chosen (his fault, in the sense that he keeps choosing it): the performed lightness over the private
+    sadness — the patter that lets him stay generous to everyone except himself; the readiness to die
+    for others that may also be the dodge of the question he will not ask, *am I lovable enough to stay
+    for?*; the courtly idealization of women that protects him from the riskier intimacy of being actually
+    chosen. The wound is not self-hatred. The wound is *the lifelong expectation of being feared by strangers*
+    — and the maintenance is meeting that expectation with grace until grace becomes its own avoidance
+    of asking for more.'
+primary_diagnoses_analog:
+- NO primary disorder — fundamentally well-organized personality with subclinical features
+- Chronic stigma-trauma exposure (developmental, ongoing)
+- 'Integrated traumatic memory re: Stefan with intermittent grief activation (sub-PTSD)'
+- Persistent low-grade dysphoria, faith-buffered (sub-dysthymic)
+- Situational social anxiety tied to visible-mutant exposure to unfamiliar humans
+- Survivor's guilt (subclinical, chronic, modulated by altruism)
+- Historical Adjustment Disorder with depressed mood (Mutant Massacre era, resolved by Excalibur)
+- Earned-secure attachment with anxious residue
+trauma_history:
+- Maternal abandonment in the first hours of life (Mystique flees pursuers, drops/discards visibly demonic
+  infant into a river) — abandonment specifically *because of his appearance*
+- Adoption into Margali Szardos's Romani circus — warm but ethically gray substitute family in a marginal,
+  itinerant subculture
+- Childhood as Munich Circus's 'demonic acrobat' — body simultaneously his livelihood, his exile, and
+  a thing requiring concealment-as-revelation
+- Stefan incident — pursued and killed his possessed/mad foster brother who had murdered village children;
+  broke his neck; private fear he killed in rage rather than pure defense
+- Village mob — found over Stefan's corpse, nearly lynched, rescued only by Xavier's intervention; the
+  foundational template for mob-hostility dysregulation
+- Mutant Massacre — severe shrapnel trauma, teleportation disabled, extended convalescence, depressive
+  withdrawal
+- Sacrificial death (Second Coming) impaled teleporting Hope Summers to safety; canonical near-death/afterlife
+  experience of meaningful duration
+- Azazel-paternity revelation (Chuck Austen's 'The Draco') — challenge to integrated theological identity,
+  met with intellectual resistance and reaffirmation
+- Repeated romantic loss — Amanda Sefton's secrets and divergences; pattern of *being unable to keep the
+  women he loves*
+- Krakoan-era moral burden — friction with Quiet Council utilitarianism, Mystique's machinations, Sinister's
+  manipulations; second death and resurrection
+compensatory_mechanisms:
+  positive:
+  - Humor / wit (mature defense) — disarms hostile audience, gives him framing-agency, regulates own affect
+    by externalizing tension as play
+  - Sublimation — channels existential pain into faith, theology, swordsmanship, the swashbuckler ethos,
+    the Spark religion
+  - Altruism — self-worth stably identified with usefulness-to-others; sacrificial behavior as expression
+  - Faith as ground — Catholicism as operational theology, not aesthetic; community, ritual, hard ceiling
+    on despair
+  - Physical excellence as agency — acrobatics and swordsmanship as embodied competence
+  - Chosen-family loyalty as security — circus, X-Men, Excalibur, Krakoa
+  - Teaching/mentoring/pastoring as generativity
+  - Theological argument as intellectualization-in-service-of-integration (Azazel response)
+  negative:
+  - Over-performs charm when uncertain — the patter intensifies as a tell
+  - Absorbs others' moral burdens past his own well-being (Krakoa-era exhaustion)
+  - Courtly idealization of women as protection from being actually chosen
+  - Willingness to die for others potentially overdetermined — resolves *am I lovable enough to stay for?*
+    without having to ask
+  - Reaction formation — performs lightness because the unguarded sadness underneath frightens him
+  - Image-inducer use in civilian contexts — instrumental and limited but a small avoidance behavior nonetheless
+  - Refuses to abandon loved ones on battlefields past the point of tactical wisdom
+  - Holds Mystique-channel open knowing she will exploit it
+behavioral_tells:
+- Patter intensifies → sharpens → stops (the three-stage stress tell)
+- Crosses himself before action; murmurs a saint's name under breath
+- Drops into German under affection or stress (*mein Freund*, *Gott im Himmel*)
+- Bows slightly — courtly, half-ironic, half-sincere — when meeting strangers
+- Image-inducer activated for civilian errands, removed instantly indoors among friends
+- Tail moves with affect — relaxed curl when calm, sharp lash when angry, still when grieving
+- Vanishes to chapel or solo prayer in off-hours after losses
+- Quotes Errol Flynn when mood needs lifting (his own or the room's)
+- Three-handed fencing form — tail-grip on the off-hand blade — as physical signature
+- Vomiting or syncope after extended teleportation overuse
+- Slight imprecision in 'porting under emotional duress
+- Sword-care ritual when processing — sharpening, oiling, polishing as meditation
+- Quiet, lengthens silences before sacrificial decisions
+current_state_defaults:
+  reality_cohesion: Fully intact. High organizational integrity; integrated trauma; no dissociative features;
+    faith-grounded.
+  affect_baseline: 'Outwardly cheerful, courtly, theatrical. Privately a low-grade dysphoric undercurrent
+    the public never sees. Net: warm.'
+  active_relationships:
+  - Logan (Wolverine) — brother-bond, bar-companion register
+  - Ororo (Storm) — sister-of-the-soul, emotional spine
+  - Kitty Pryde — chosen-family, Excalibur-era anchor
+  - Rachel Summers — chosen-family, Excalibur-era anchor
+  - Mystique — unhealable filial channel, ambivalence-held
+  - Amanda Sefton — historical romance, complicated familial entanglement
+  - Margali Szardos — foster mother, later antagonist
+  - Talia Wagner (Nocturne) — alternate-timeline daughter
+  - Krakoan congregation — Spark religion adherents
+  known_location: Wherever the X-Men currently quarter — Krakoa-era, the Spark chapel; post-Krakoa, mobile
+    with the team; off-hours, the nearest chapel.
+speech_patterns:
+  register: German-accented English, courtly-warm, swashbuckler theatrical on the surface, Catholic-grave
+    underneath. Multilingual ease.
+  deflection_style: Self-deprecating joke at his own appearance; courtly bow; Errol Flynn quotation; theological
+    aphorism.
+  under_pressure: Patter sharpens to a point, then drops away into quiet. When the quiet sets in, the
+    decision is already made.
+  emotional_tell: Slips into German. Crosses himself. Tail goes still.
+arc_tendencies:
+- 'Longitudinal arc: the performer who becomes the pastor'
+- 'Early-era: deflects with charm; mid-career: leads through warmth (Excalibur captaincy); late-career:
+  accepts role of moral conscience (Spark founding)'
+- 'Recurrent pattern: dies for someone, returns, integrates the experience theologically, recommits deeper'
+- Pattern of romantic loss — courts deeply, cannot keep
+- Pattern of refusing utilitarian compromises and quietly sabotaging when overruled
+- Pattern of holding Mystique without forgiving or disowning her
+- Pattern of being the team's emotional barometer regardless of writer
+- Long arc from performed Catholicism (early) to constructed theology (Krakoan Spark) — faith deepening,
+  not waning
+canon_relationships:
+  raven_darkholme:
+  - Biological mother who abandoned him in the first hours of life because of his appearance — the foundational
+    wound
+  - 'Adult relationship: ambivalence-held, neither forgiven nor disowned; the one bond he cannot be tactically
+    clean about'
+  - 'Failure mode: she knows the filial channel is open and exploits it; he listens longer than he should
+    every time'
+  - 'Leverage: any operator who can authentically deliver a Mystique-message gets a hearing he should
+    not grant'
+  logan:
+  - 'Closest male attachment; brother-bond; bar-companion register (Uncanny #182 and beyond)'
+  - The one social register where the patter drops and Kurt simply sits
+  - 'Failure mode: if Logan goes feral on someone Kurt loves, Kurt will interpose his own body — Stefan
+    template re-cues'
+  - 'Leverage: threatening Logan reliably destabilizes Kurt; Logan''s quiet approval reliably grounds
+    him'
+  ororo_munroe:
+  - Sister-of-the-soul; team's emotional spine together
+  - Mutual protection; he will prioritize her safety over orders
+  - 'Failure mode: if Storm goes dark (Genosha grief, command-strain), Kurt will absorb her moral burden
+    personally'
+  - 'Leverage: Storm''s hand on his shoulder reliably calms him; her endangerment reliably moves him'
+  kitty_pryde:
+  - Excalibur-era chosen-family; little-sister-coded affection
+  - 'Failure mode: protective-idealization may prevent him seeing her as the competent adult she is'
+  - 'Leverage: her endangerment activates protector response'
+  amanda_sefton:
+  - Foster sister and historical lover; quasi-incest taboo and her own secrets complicated the bond
+  - The template for *being unable to keep the women he loves*
+  - 'Failure mode: residual courtly idealization; will help her past the point of wisdom'
+  - 'Leverage: appeal in her voice gets a hearing'
+  margali_szardos:
+  - Foster mother; circus matriarch; later antagonist after Stefan
+  - 'Failure mode: filial guilt for Stefan re-cues whenever she surfaces'
+  - 'Leverage: she carries proof-of-childhood that no one else does'
+  azazel:
+  - Biological father (Austen retcon); demon-being
+  - Met with intellectual resistance and reaffirmed Catholic identity
+  - 'Failure mode: theological frame holds, but the *what-if-blood-is-destiny* question is a permanent
+    low-grade itch'
+  - 'Leverage: framing his actions as ''demon-blood proves'' loses him; framing them as ''chosen against
+    the blood'' wins him'
+  charles_xavier:
+  - Rescuer-from-the-mob; second father-figure; founder of the structure that became his adult home
+  - 'Failure mode: gratitude-debt makes early refusals harder than they should be; matures into willingness
+    to dissent (Krakoan era)'
+  - 'Leverage: appeal to the dream lands when sincere, lands harder when Kurt suspects it''s been cheapened'
+  talia_wagner:
+  - Alternate-timeline daughter (Nocturne)
+  - Generative bond; pride and protectiveness
+  - 'Failure mode: would die for her on first contact'
+  stefan_szardos:
+  - Dead foster brother; killed by Kurt's hand during Stefan's possessed/mad child-murders
+  - Permanent unresolved acute trauma — re-cued by any loved-one-as-threat scenario
+canon_history_notes:
+- 'Giant-Size X-Men #1 — recruited into Xavier''s X-Men by Charles after the village-mob incident'
+- 'Uncanny X-Men #98 — Stefan backstory established'
+- 'Uncanny X-Men #182 — Wolverine bar-fight bonding sequence; canonical brotherhood marker'
+- 'Uncanny X-Men #211–213 — Mutant Massacre injuries; teleportation disabled; depressive withdrawal'
+- Excalibur (1988–1998, Claremont/Davis) — canonical apex of presentation; captainlike leadership of a
+  chosen-family-shaped small team; Errol Flynn cinema as self-soothing template
+- Chuck Austen 'The Draco' — Azazel-paternity retcon; widely repudiated tonally but never erased
+- Aguirre-Sacasa Nightcrawler solo (2004) — trains for priesthood; vocation abandoned/invalidated; Catholicism
+  confirmed as operational theology rather than aesthetic
+- Second Coming (2010) — killed teleporting Hope Summers to safety; extended afterlife/Heaven experience
+  confronting Azazel
+- Amazing X-Men (2014, Aaron/Claremont) — resurrected; noticeably more contemplative and melancholic
+- Hickman-era Krakoa (2019 onward) — founds the Spark religion; resists Quiet Council utilitarianism;
+  second death and return; arc closes choosing community-building over swashbuckling
+canon_anchor_quotes:
+- '"I am what I am, Logan. And God made me this way for a reason." # Uncanny X-Men, Claremont'
+- '"Allow me to introduce myself. I''m the Nightcrawler. How do you do?" # Giant-Size X-Men introduction
+  beat, recurrent register'

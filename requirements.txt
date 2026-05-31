@@ -1,0 +1,8 @@
+openai>=1.30.0
+elevenlabs>=1.2.0
+pydub>=0.25.1
+pygame>=2.5.0
+pyyaml>=6.0.1
+requests>=2.31.0
+rich>=13.7.0
+python-dotenv>=1.0.0

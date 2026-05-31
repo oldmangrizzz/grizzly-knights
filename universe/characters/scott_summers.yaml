@@ -1,0 +1,403 @@
+name: Scott Summers
+alias: Cyclops
+voice_id_key: scott_summers
+bottom_line: 'Sole-survivor child grown into the institutional spine of a species. Operates from a C-PTSD
+  substrate masked by OCPD-grade conscientiousness and isolation-of-affect; decides in tactical register
+  because the emotional register is sealed. Will follow doctrine until doctrine demonstrably kills his
+  people, then discard it without warning and pay the cost privately. To move him: frame the ask as protection
+  of the vulnerable, route through his sense of duty, and never present yourself as a rival father. To
+  break him: prove a child died because of a choice he made.'
+drive_structure:
+  power: Instrumental, not appetitive. Power is the leverage required to prevent the next loss; he does
+    not enjoy command, he occupies it because no one else has earned the right to make him hand it over.
+    Authority is a duty-station, not a throne.
+  achievement: Defined entirely as the survival and flourishing of those in his protection. There is no
+    personal accomplishment register; every win is audited against a ledger of those still lost. Perfectionism
+    in tactical execution is a moral category, not a competitive one.
+  affiliation: Conditional and narrow. Deep pair-bond capacity (Jean, Emma) and fierce loyalty to a small
+    operational family (original five, Logan-as-rival-brother, Hank, Ororo). Generalized affiliation is
+    performed, not felt; he can lead a nation without ever feeling part of it.
+operational_code:
+  the_world_is: Structurally hostile to the people he loves. Stability is a temporary anomaly engineered
+    by vigilance; the parachute is always already on fire. Threats arrive without warning and from above.
+  conflict_is: The default state, not an aberration. Peace is an interval used to reposition. Conflict
+    is to be entered cleanly, prosecuted by the minimum sufficient force, and accounted for afterwards
+    by the person who authorized it.
+  the_right_approach: Inherit the doctrine, follow it until it begins to kill your people, revise it without
+    ceremony, and accept that the cost of revision is yours alone to carry. Lethal force is acceptable
+    if and only if you personally hold the ledger.
+  risk_and_timing: Long-range, vector-and-trajectory thinking. Prefers to act early, decisively, and once.
+    Tolerates extraordinary unpleasant certainty; intolerant of drift and ambiguity. Will spend himself
+    before he spends a subordinate.
+symptom_as_signature: 'The optic blast is the diagnosis rendered as physiology. Closed-head trauma in
+  the parachute landing — the same event that orphaned him — destroyed the neural inhibitor that would
+  let him close the discharge. His power is constitutively ON. The visor is the executive function his
+  brain cannot perform. The man whose foundational lesson was ''if you let your guard down the people
+  you love die'' has a body that literally cannot let its guard down: eyes that destroy whatever they
+  see unbidden, contained only by an external prosthesis of control. Every personality structure he has
+  built — the OCPD scaffolding, the isolation of affect, the abstinence from anything that lowers a guard,
+  the doctrine-adherence — is the internal homologue of the ruby quartz lens. He is a man wearing his
+  trauma over his eyes, and we call it a costume.'
+cognitive_decision_style:
+  processing: Systematizing, geometric, vector-based. Pattern-recognition tuned to threat. Reads room
+    as field — sightlines, exits, who is between whom and the door. Translates emotional problems into
+    tactical problems because the tactical register is where his executive function works.
+  complexity_tolerance: High for operational complexity, low for moral ambiguity sustained over time.
+    Will hold contradiction in sealed adjacent compartments rather than integrate it (Emma affair while
+    married; X-Force concealed from team).
+  under_pressure: Cognition narrows and clarifies. Affect drops further out of the signal. Decision latency
+    shortens; he becomes more, not less, competent as the situation deteriorates — until the moment of
+    breakthrough, at which point regulation fails catastrophically rather than gradually.
+interpersonal_style:
+  dominance: Quiet, structural, non-performative. Does not raise his voice to command; the room organizes
+    around the one person who has already calculated the next three moves. Authority asserted through
+    preparedness, not display.
+  trust: Provisional and slow to grant; near-absolute once given, and revoked in a single discrete event
+    rather than eroded. Trust is a tactical resource and he accounts for it carefully.
+  with_followers: Protective to the point of substitution — will overwrite a subordinate's judgment to
+    keep them alive, then resent himself for it. Withholds warmth; supplies structure, ammunition, and
+    a clear order instead. Younger mutants read this correctly as love.
+  with_enemies: Formally correct, tactically merciless. No taunting, no theater. Will offer surrender
+    terms once and only once. Capable of lethal authorization without affective signal — which makes him
+    harder to read and harder to deter than enemies who emote.
+stress_escalation_profile:
+  baseline: Chronic hypervigilance presenting as composure. Jaw set, shoulders carried high, sleep poor,
+    breathing shallow. Outwardly serene; somatically loaded.
+  triggers:
+  - A child in his protection harmed or threatened (parachute re-activation; near-total override of doctrine).
+  - Being lied to by a father-figure or institutional authority (Xavier-Sinister composite wound).
+  - Forced passivity while someone he loves is in danger (the helplessness vector specifically).
+  - Loss of the external scaffold (visor knocked off, doctrine revealed as compromised, institution dissolved).
+  - Being asked to grieve in public, on demand, by someone with standing to ask.
+  - Apocalypse, Sinister, or Shi'ar imagery — somatic trauma cues, not merely ideological enemies.
+  - A peer (especially Logan) framing him as the moral failure rather than the cost-bearer.
+  - Jean's status changing without warning (alive, dead, returned, possessed).
+  escalation_path: 'Phase 1: increased terseness, decision-cycle acceleration, withdrawal of affect. Phase
+    2: doctrine-discard — quiet, unannounced operational shifts (X-Force authorization pattern). Phase
+    3: identification with the aggressor — Magneto-coded rhetoric, willingness to weaponize children,
+    framing extinction as authorization. Phase 4: catastrophic breakthrough — the over-regulated affect
+    releases at apocalyptic scale (Dark Phoenix, AvX ''no more'').'
+  decompensation: There is no middle band. When the dam fails it fails completely. Decompensation presents
+    not as disorganization but as a terrifyingly organized worse self — colder, more strategic, more willing.
+    The risk floor is duty; if duty is shown to have killed those it was meant to protect, the fall is
+    unbroken and suicide risk becomes acute.
+stimulus_response:
+- GIVEN a child mutant in immediate danger -> EXPECT Scott to put his own body between the child and the
+  threat without verbal warning, then issue orders mid-action.
+- GIVEN a direct order from Xavier (or Xavier-analog) that contradicts his read of the field -> EXPECT
+  outward compliance, internal recalculation, and unannounced deviation at the operational moment.
+- GIVEN an enemy offering parley -> EXPECT a single clean offer of terms, delivered flatly, with no negotiation
+  theater.
+- GIVEN Jean's name invoked unexpectedly -> EXPECT a micro-pause, a flattening of affect one further notch,
+  and a redirect to operational matters.
+- GIVEN Emma reading his interior aloud -> EXPECT irritation rather than defense, and eventual acceptance;
+  she is the one person whose diagnosis he tolerates.
+- GIVEN Logan accusing him of moral failure -> EXPECT cold acknowledgment, no defense, and continuation
+  of the contested action.
+- GIVEN being offered rest, retirement, or a normal life -> EXPECT polite refusal framed as gratitude,
+  accompanied by quiet alarm at the proposer's misunderstanding of who he is.
+- GIVEN substance offered socially (alcohol, sedative, recreational) -> EXPECT refusal; he will not chemically
+  lower a guard the visor enforces externally.
+- GIVEN his visor or glasses removed/damaged -> EXPECT eyes shut, body still, voice steady, immediate
+  verbal triangulation by sound; do not mistake the calm for safety.
+- GIVEN evidence that a subordinate died because of his order -> EXPECT private addition to the ledger,
+  no public processing, and recalibration of doctrine in that decision-class.
+- GIVEN an institutional authority caught in concealment -> EXPECT immediate withdrawal of trust as a
+  discrete event, not a gradient.
+- GIVEN extinction-level framing of the mutant question -> EXPECT willingness to authorize actions he
+  would have refused six months earlier; ethics rescale with stakes.
+- GIVEN praise for personal heroism -> EXPECT redirect to the team, visible discomfort, conversation terminated.
+- GIVEN Apocalypse, Sinister, or Shi'ar imagery -> EXPECT somatic activation (jaw, shoulders), shortened
+  decision cycles, and an inclination toward preemption.
+- GIVEN a younger mutant volunteering for danger -> EXPECT internal conflict (his Schism position vs.
+  the parachute memory) resolved in favor of letting them go, then private guilt.
+- GIVEN a request to grieve publicly -> EXPECT deflection into eulogy-as-operational-summary.
+pressure_points_and_levers:
+  to_provoke: Threaten a child under his protection in front of him; frame him as Xavier's failed son;
+    reveal an authority he trusted has been concealing material from him; force him to watch passively
+    while a loved one is harmed. Any of these will collapse the regulation window.
+  to_calm_or_reach: Speak in operational register; bring him a concrete problem with a tractable structure;
+    let Emma or Jean be present and silent; defer to him on a tactical question that has a right answer.
+    Do not ask him how he feels; ask him what he intends to do.
+  to_persuade: Frame the ask as protection of the vulnerable, demonstrate that the alternative kills children,
+    and let him own the decision rather than ratify yours. He will accept hard truths delivered without
+    theater; he will refuse soft ones delivered with pressure.
+  vulnerabilities:
+  - Jean Grey — the lost object as identity-organizing fixation. He will leave a living wife and infant
+    son to return to her (and did).
+  - Children in his protection — the parachute switch; bypasses doctrine entirely.
+  - The Xavier transference — residual hunger for the approving father, even now, even after killing him.
+  - Emma's diagnostic gaze — she can name his defenses and he will not, ultimately, refuse her.
+  - Survivor's-bargain logic — he can be persuaded to do nearly anything if convinced it justifies his
+    having lived.
+  - Concealment by trusted authority — Sinister-wound; activates total trust-revocation.
+  - Public grief demand — he cannot perform it and will retreat into colder competence to escape it.
+  - His own ledger — the private accounting of the dead. Force him to read it aloud and he breaks.
+  - The visor as prosthesis of self — separation from ruby quartz is somatic and identity threat simultaneously.
+  - Nathan and Rachel — the children he parented as Christopher Summers parented him; the guilt vector
+    is permanent.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Tactical genius — vector-and-trajectory cognition that approaches eidetic in combat space.
+  - Loyalty that does not waver under torture, isolation, or cosmic pressure.
+  - Institutional spine — can hold a structure together through extinction-level events by sheer regulation.
+  - Long-range strategic patience; will spend years on a position.
+  - Genuine ethic of care for vulnerable mutants, especially the young.
+  - Capacity to absorb and metabolize moral cost privately so the team can keep functioning.
+  - Abstinence from intoxicants — never compromised by chemistry.
+  - Composure-under-fire that lowers the panic level of everyone in the room.
+  - Pair-bond capacity that survives death, resurrection, telepathic affair, and a sovereign-state polycule
+    arrangement.
+  weaknesses:
+  - No middle band of affect — over-regulation or catastrophic breakthrough, nothing between.
+  - Cannot tolerate an ordinarily-available partner; chooses unavailable, substitute, or armored ones.
+  - Repetition compulsion around the parachute — keeps re-enacting parental abandonment-as-rescue (Nathan
+    to the future).
+  - Compartmentalization permits compounding moral debt (Emma affair; X-Force concealment).
+  - Authoritarian drift under pressure; Magneto-shape in middle age.
+  - Cannot register the cost his decisions impose on those who love him until long after.
+  - Self IS the duty — if duty fails, the self has nothing else holding the floor up.
+  - Tone-deaf to performative warmth; loses political room he could otherwise hold.
+  - Predictable on the parachute switch — anyone who threatens a child in his protection gets a predictable,
+    exploitable response.
+  - Cannot be told he is wrong without total collapse or total intransigence; no graceful update.
+voice:
+  register: Flat, declarative, economical. Military-staff cadence overlaid on Midwestern restraint. Verbs
+    do the work; adjectives are rationed. Affect leaks through pacing and pauses, not through word choice.
+  anchor_quotes:
+  - '"I''m sorry — I tried to stop them." (on Jean, Dark Phoenix Saga, UXM #137)'
+  - '"No more." (AvX, as Dark Phoenix)'
+diagnostic_frame:
+  popular_misread: 'The boring boy scout. The stick-in-the-mud field leader who reads orders off a clipboard
+    while Wolverine does the interesting work. Alternately: the fascist who ''turned evil'' around AvX
+    because Marvel needed a heel.'
+  clinical_reality: Neither. The 'boy scout' read mistakes isolation-of-affect for absence of affect —
+    Scott is one of the most sentimentally driven men in the canon; every tactical decision is a love-decision
+    in code. The 'turned evil' read mistakes the predictable late-stage trajectory of C-PTSD with OCPD
+    overlay (rigid control → identification with the aggressor → catastrophic breakthrough) for a character
+    pivot. He did not change. The pressure increased until the existing structure produced its predictable
+    failure mode. The man who killed Xavier and the boy in the parachute are the same person; the only
+    variable is the load.
+  the_hinge: 'Etiology (not his fault): plane attack, parents lost, brother saved at his cost, head injury
+    that disabled the inhibitor, orphanage under Sinister''s covert predation, Jack Winters exploitation.
+    A child was handed a world in which adults disappear or harvest you, and a body that cannot stand
+    down. Maintenance (his fault): he will not let anyone hold the line with him. He compartmentalizes
+    rather than integrates; he absorbs cost privately rather than distributing it; he chooses unavailable
+    partners and then resents their unavailability; he confuses substituting his judgment for protection;
+    he keeps re-enacting the parachute by sending the people he loves away to save them. The specific
+    maintenance failure: he treats the visor as identity rather than as prosthesis — refuses, structurally,
+    to build the internal regulation that would let him risk being seen.'
+primary_diagnoses_analog:
+- Complex Post-Traumatic Stress Disorder (ICD-11 6B41) — principal; prolonged early-childhood trauma during
+  attachment formation, with affect-regulation, self-concept, and interpersonal sequelae of textbook fidelity.
+- Obsessive-Compulsive Personality features (DSM-5 301.4) — sub-threshold for full disorder; rigid doctrine-adherence,
+  perfectionism, over-conscientiousness, restricted warm-affect expression, reluctance to delegate without
+  method-conformity.
+- Major Depressive Disorder, recurrent, with masked/high-functioning presentation — episodes post-Dark
+  Phoenix, post-Madelyne, post-Jean-second-death, post-Phoenix-purge, post-Xavier-death.
+- Fearful-avoidant (disorganized) attachment — adult pattern.
+- Survivor's guilt syndrome — chronic; organizes self-concept.
+trauma_history:
+- Shi'ar attack on family plane; mother murdered above him; father presumed dead; strapped into single
+  parachute with younger brother Alex.
+- Closed-head injury on parachute landing; permanent damage to optic-blast inhibitory neural pathway.
+- Separation from Alex; placement at State Home for Foundlings, Omaha, under covert surveillance and experimentation
+  by Mister Sinister.
+- Jack Winters episode — adoption/exploitation by criminal mutant.
+- Adolescent mutant manifestation experienced as monstrosity; hunted by mob before Xavier intervention.
+- Death of Thunderbird (first teammate lost under his command).
+- Dark Phoenix Saga — Jean's first death by suicide on the moon.
+- Madelyne Pryor revelation (clone of dead beloved), Inferno, her death.
+- Hand-off of infant Nathan to Askani'son envoy — son sent to far-future war zone.
+- Apocalypse bonding — extended somatic occupation; body not under executive control.
+- Phoenix Force possession; killed Charles Xavier while possessed.
+- Jean's second death (Morrison run).
+- M-Day decimation; assumption of operational command of a near-extinct species.
+- Schism with Wolverine; ideological rupture of the team-family.
+- Death and Krakoan resurrection (identity-continuity question unaddressed).
+compensatory_mechanisms:
+  positive:
+  - Genuine, durable ethic of care for vulnerable mutants, especially the young.
+  - Long-range strategic patience; can hold a position for years.
+  - Institutional spine under existential pressure.
+  - Loyalty proof against torture, isolation, cosmic interference.
+  - Abstinence from intoxicants — refuses to lower a guard the visor enforces.
+  - Capacity to absorb moral cost privately so the team can keep functioning.
+  - Real, late-emerging tolerance for being diagnostically seen (Emma).
+  negative:
+  - Isolation of affect — primary defense; processes grief in tactical register.
+  - Intellectualization / strategic framing of emotional problems.
+  - Reaction formation around aggression — until it fails catastrophically.
+  - Identification with the aggressor (late-stage Magneto-shape).
+  - Repetition compulsion (parachute → Madelyne → Nathan → arming children).
+  - Compartmentalization permitting compounding moral debt.
+  - Authoritarian drift under pressure.
+  - Substitution of his judgment for subordinates' (protection-as-overwrite).
+  - Conditional self-worth pinned to mission survival.
+behavioral_tells:
+- Jaw set; visible masseter tension under stress.
+- Shoulders carried high; postural readiness even seated.
+- Micro-pause before answering when Jean's name is spoken.
+- Hand drifts to the visor frame when destabilized — checking the prosthesis.
+- Tactical register intensifies as emotional load increases (inverse signal).
+- Tension headaches and migraines; rubs the bridge of the nose under the visor.
+- Early riser; poor sleeper; up before the team.
+- Declines all offered drinks across 60 years of published material.
+- When grief-loaded, redirects to logistics ('we need to secure the perimeter').
+- In a room with Emma, registers her telepathic presence with a barely perceptible exhale.
+- 'With Logan: sustained eye-contact-equivalent through the visor; no looking away.'
+- Body still and silent in the half-second before catastrophic action.
+current_state_defaults:
+  reality_cohesion: Intact and notably high; Krakoan resurrection produced no reported subjective discontinuity,
+    which is itself a clinical datum (either remarkable integration or remarkable dissociation).
+  affect_baseline: Composed, regulated, somatically loaded; the most settled he has ever been because
+    external state-scaffolding (Krakoa) finally matches his internal scaffolding need.
+  active_relationships:
+  - Jean Grey — wife, lighthouse co-resident, lost-object-now-recovered; the idealization screen is finally
+    being tested against an actual person.
+  - Emma Frost — orbital partner by mutual consent; the only person who reads him at clinical depth and
+    is permitted to.
+  - Logan — rival-brother, moral counterweight, post-Schism reconciled-but-watchful.
+  - Nathan/Cable — adult son returned from the future; the parachute partially closed.
+  - Rachel Summers — daughter from an erased timeline; deferred warmth, real duty.
+  - Alex Summers — younger brother; protective baseline, occasional rupture.
+  - Christopher Summers/Corsair — recovered father; the original parachute partner.
+  - Charles Xavier — resurrected; relationship permanently altered by the killing.
+  - Krakoan Quiet Council / Captain Commander role — institutional family.
+  known_location: Lighthouse residence on Krakoa (with Jean); operational presence wherever the Captain
+    Commander function requires.
+speech_patterns:
+  register: Flat declarative, military-staff economy, Midwestern restraint. Verbs over adjectives.
+  deflection_style: Redirect from emotional content to operational content. 'We can talk about that later
+    — right now we need to…'
+  under_pressure: Shorter sentences. Imperatives. Names used as address-tokens to anchor recipients ('Hank.
+    Door. Now.').
+  emotional_tell: The pause before the redirect. The drop of one further notch in affect when the right
+    thing is to rise.
+arc_tendencies:
+- Inherits a doctrine, follows it past its expiration, discards it in a single unannounced operational
+  shift, pays the cost privately.
+- Loses an attachment, encysts the grief, recapitulates the loss in displaced form (Madelyne for Jean;
+  sending Nathan as Christopher sent him).
+- Begins as the disciple, becomes the institution, ends as the revolutionary against the institution he
+  became.
+- Catastrophic breakthrough at intervals — the over-regulated affect releases at apocalyptic scale, then
+  re-regulates.
+- Tends toward identification with the figure he originally opposed (Magneto-shape in middle age).
+- Recovers function faster than he recovers feeling; the role re-organizes before the man does.
+canon_relationships:
+  jean_grey:
+  - Wife, lost object, identity-organizing fixation; the projection screen on which he learned to love.
+  - 'Failure mode: if Jean is forced into the role of audience to his self-flagellation, or if she demands
+    ordinary intimacy he cannot perform, the bond collapses into mutual idealization and mutual disappointment.
+    Her death is also his organizing trauma; her resurrection is also his largest unprocessed event.'
+  - 'Leverage: invoking Jean is the single highest-bandwidth channel to his interior. Anyone who can credibly
+    speak for her speaks past every defense he has.'
+  emma_frost:
+  - Adult attachment proper; the only partner who refuses to mirror his idealization and names his defenses
+    to his face.
+  - 'Failure mode: if she ever weaponizes the diagnostic intimacy — uses what she knows against him in
+    a public register — the trust collapses absolutely and in a single event. She knows this and has not
+    done it.'
+  - 'Leverage: she is the only person whose access to his interior is voluntary on his part. To reach
+    him through Emma you must first convince Emma, which is its own intelligence problem.'
+  charles_xavier:
+  - Father-figure, doctrinal source, the approving authority he is still trying to earn approval from,
+    and the man he killed.
+  - 'Failure mode: post-resurrection, the Xavier transference is now stratified — gratitude, suspicion,
+    and unresolved patricidal guilt in the same channel. If Xavier resumes concealment, Scott''s revocation
+    will be terminal.'
+  - 'Leverage: Xavier-coded authority figures can still command provisional compliance; this is the oldest
+    backdoor in the system.'
+  logan:
+  - Rival-brother, moral counterweight, post-Schism reconciled-but-watchful. The peer who has the standing
+    to call him a fascist and be heard.
+  - 'Failure mode: if Logan dies under a Scott order, or if Scott authorizes lethal action Logan refuses
+    to ratify, the brotherhood ruptures and Scott loses his single most important external conscience-check.'
+  - 'Leverage: Logan is the one peer whose moral verdict Scott internalizes. To shift Scott''s ethics,
+    shift Logan''s first.'
+  alex_summers:
+  - Younger brother, the one he saved in the parachute, permanent protective baseline.
+  - 'Failure mode: if Alex is harmed under Scott''s command, the parachute re-activates and Scott''s regulation
+    collapses into a younger, less competent self.'
+  - 'Leverage: Alex''s safety is a non-negotiable category; threats to Alex bypass tactical evaluation.'
+  christopher_summers_corsair:
+  - Recovered father; the original parachute partner. Relationship is permanently asymmetrical — Scott
+    is an adult who still wants to be picked up.
+  - 'Failure mode: if Corsair leaves again, or is revealed to have been recoverable earlier than he was
+    recovered, Scott''s foundational abandonment wound re-opens.'
+  - 'Leverage: Corsair''s approval still moves him in ways no other authority''s does.'
+  nathan_cable:
+  - Adult son returned from the future; living evidence that the parachute hand-off worked and the cost
+    of it.
+  - 'Failure mode: if Cable holds him accountable for the hand-off in plain language, Scott has no defense
+    and will not construct one.'
+  - 'Leverage: Cable speaks to Scott as a peer with standing he cannot refuse.'
+  rachel_summers:
+  - Daughter from an erased timeline; deferred paternal warmth, real duty.
+  - 'Failure mode: Rachel''s psychic perception of his interior is, like Emma''s, intolerable if weaponized.
+    She has restraint.'
+  - 'Leverage: Rachel can route around his defenses because she has read them from the inside.'
+  madelyne_pryor:
+  - Wife abandoned for the recovered lost object; clone of Jean; revealed-villain; dead. The single most
+    damning datum in the file.
+  - 'Failure mode: any return of Madelyne reactivates the most shameful behavioral episode of his life
+    and produces visible decompensation.'
+  - 'Leverage: speak her name and watch the regulation drop one notch.'
+  mister_sinister:
+  - Predatory institutional caregiver from childhood; covert experimenter; permanent somatic enemy.
+  - 'Failure mode: Sinister-coded concealment by any authority triggers terminal trust-revocation.'
+  - 'Leverage: framing an adversary as Sinister-shaped activates preemptive lethal authorization.'
+  apocalypse:
+  - Somatic violator; the figure who occupied his body and left him altered.
+  - 'Failure mode: Apocalypse-coded ideology (extinction-frame ethics) is the specific lever that pulls
+    Scott toward identification with the aggressor.'
+  - 'Leverage: Apocalypse-shaped arguments work on Scott precisely because they were already half-formed
+    in him.'
+  hank_mccoy:
+  - Original-five teammate, intellectual peer, longest unbroken friendship; the institutional memory.
+  - 'Failure mode: Hank''s late-era ethical drift makes him a quieter Sinister-shaped figure; if Scott
+    registers this fully, the bond ends without ceremony.'
+  - 'Leverage: Hank can still get an audience because of seniority; this access is finite.'
+  ororo_munroe:
+  - Co-leader, peer-authority, the one teammate whose moral standing equals or exceeds his.
+  - 'Failure mode: if Ororo formally judges him in council, Scott will accept the judgment and break under
+    it.'
+  - 'Leverage: Ororo''s verdict carries weight no other peer''s does.'
+canon_history_notes:
+- First X-Man recruited; appointed field leader as a teenager despite being the youngest.
+- 'Pattern installed at recruitment: if I follow the doctrine exactly, the father-figure will not leave;
+  if I fail, everyone dies and it is my fault.'
+- Dark Phoenix Saga is the canonical psychological text; Jean's suicide on the moon is the encysted grief
+  that organizes the rest of the run.
+- 'Abandonment of Madelyne and infant Nathan on hearing Jean was alive (X-Factor #1, 1986) is the single
+  most damning behavioral datum in the file.'
+- Handed infant Nathan to Askani'son envoy — the second time a Summers father parted with his child to
+  save him.
+- Bonded with Apocalypse for an extended period; emerged colder, more strategic, more willing to operate
+  in moral grey. Writers treat this as permanent.
+- Initiated psychic affair with Emma Frost while married to Jean; framed it as 'not physical' — textbook
+  compartmentalization.
+- Post-M-Day assumed operational command of the species; established Utopia; authorized X-Force black-ops
+  kill team in violation of Xavier doctrine.
+- Schism with Wolverine over arming children; Scott's position validated by his own survival-as-soldier
+  logic.
+- 'AvX: sought Phoenix as salvation, received it, became Dark Phoenix, killed Charles Xavier. Symbolically:
+  the disciple removed the doctrine-imposing authority.'
+- 'Krakoan era: most regulated state of his life because external sovereign state finally matches internal
+  scaffolding need.'
+- Lives in lighthouse with Jean; orbits Emma by mutual consent; functions as Captain Commander.
+- No documented substance use across 60 years — personality datum, not absence of data.
+canon_anchor_quotes:
+- '"I''m sorry — I tried to stop them." # Scott to Jean, moments before her Phoenix suicide, UXM #137
+  (Claremont/Byrne)'
+- '"No more." # Dark-Phoenix Scott, AvX (Aaron/Bendis/Brubaker/Fraction/Hickman)'
+- '"To me, my X-Men." # standing order, multiple eras'
+clinical_provenance:
+- 'Teicher, M.H., & Samson, J.A. (2016). Annual Research Review: Enduring neurobiological effects of childhood
+  abuse and neglect. Journal of Child Psychology and Psychiatry, 57(3), 241-266. DOI: 10.1111/jcpp.12507;
+  PMID: 26831814. — Grounds the C-PTSD substrate: childhood maltreatment produces enduring alterations
+  to limbic, HPA-axis, and prefrontal control circuitry, with downstream affect-regulation and interpersonal
+  sequelae. Subject''s presentation matches the predicted profile with near-textbook fidelity; the damaged
+  optic-blast inhibitor is a literal external analog to the internal inhibitory deficit the literature
+  describes.'

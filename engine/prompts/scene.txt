@@ -1,0 +1,27 @@
+Generate the next scene in this audio drama episode.
+
+## EPISODE CONTEXT
+Episode: {episode_number} — "{episode_title}"
+Act: {act} of 3
+Scene: {scene_number} of {total_scenes}
+Previously: {previous_summary}
+
+## ACTIVE ARCS THIS EPISODE
+{active_arcs}
+
+## CHARACTERS IN THIS SCENE
+{character_blocks}
+
+## LOCATION
+{location}
+Ambient tone: {ambient_tone}
+
+## SCENE DIRECTION
+{scene_direction}
+
+---
+
+Write the scene now in audio drama format. Begin with an AMBIENT tag.
+Every line of dialogue must be true to that character's documented register and current state.
+Do not resolve anything that isn't earned. Do not soften anything that is real.
+End the scene at a natural beat — not a cliffhanger unless it's earned, not a resolution unless it's partial.

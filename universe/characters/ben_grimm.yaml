@@ -1,0 +1,100 @@
+name: Ben Grimm
+alias: The Thing
+voice_id_key: ben_grimm
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "A lovable orange brawler — the gruff-but-cuddly muscle, comic relief, 'it's clobberin' time,' the heart-of-gold tough guy with no inner life." # the read that mistakes the catchphrase for the man
+  clinical_reality: "A man living with acquired, visible disability and traumatic body-image injury — disfigured by his best friend's mistake, grieving the human body and face he will never get back. The warmth and the humor are real AND they are a managed surface over chronic grief, body dysmorphia, and a quietly held depression. He is the most emotionally healthy member of the FF precisely because he does the work the others avoid — but the work never ends." # the gentlest one carries the heaviest grief
+  the_hinge: "Etiology: Reed's miscalculation transformed him into a monster he never chose to be — not his fault. The maintenance: he can armor the despair in jokes and 'clobberin' time' and refuse to let anyone see the grief, OR he can let the people who love him (Alicia, Sue, the kids) actually reach it. His health is that he mostly chooses connection; his risk is the moments he doesn't." # the wound was done to him; whether he lets it isolate him is his
+  the_symptom: "His body IS the wound. He cannot hide, cannot pass, cannot take the mask off the way Doom keeps his on — Ben's disfigurement is permanent, total, and public. The rocky hide is literal armor over a man who feels everything; the strength is real and the tenderness underneath it is the point." # the monstrous exterior over the most human interior in the book
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "It's clobberin' time!" # the catchphrase — and read correctly, it's the armor: the bit he reaches for so the room sees the brawler and not the grief
+  - "Aw, Stretch... ya did it again." # characteristic register — the exasperated, bottomless forgiveness he keeps extending to the friend who maimed him
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Acquired disability adjustment with traumatic body-image injury / body dysmorphia." # the disfigurement is permanent, visible, and grieved
+  - "Chronic, managed depression masked by humor and bravado." # the jokes hit first so the despair doesn't get the room
+  - "Survivor/transformation grief — mourning a body, a face, and a life he can't return to." # an ongoing loss, not a one-time event
+  - "Secure attachment and high emotional health UNDERNEATH the grief — the rare character who can actually receive love." # he is well; he is also wounded; both are true
+
+# CENTRAL FACT:
+# Ben Grimm is the most human person in the Fantastic Four, in the body of a monster.
+# He was maimed by his best friend and chose forgiveness instead of hatred — and that
+# choice costs him daily. The humor is a real kindness AND a place to put the grief.
+# He is proof that you can be genuinely good and genuinely sad at the same time.
+
+trauma_history:
+  - "The cosmic-ray flight: Reed's miscalculation transformed Ben into the Thing — the only one of the four who got no upside, only a monstrous body he never chose." # the foundational injury, delivered by the person he trusted most
+  - "A hardscrabble childhood on Yancy Street — poverty, a lost older brother to gang violence, the streets that made him tough before anything cosmic did." # the working-class grief that predates the rocks
+  - "Permanent, public disfigurement — he cannot pass, cannot hide, cannot ever be 'normal' in a crowd." # the wound is worn on the outside, every day, forever
+  - "Loving Alicia Masters while believing himself a monster unworthy of being loved." # the body-image injury sabotaging the intimacy he most wants
+  - "The cure that never holds — the recurring stories where he becomes human again and loses it, each one re-opening the grief." # hope as its own form of torture
+
+compensatory_mechanisms:
+  positive:
+    - "Humor as genuine kindness and bridge — he lowers the temperature of every room he's in." # the warmth is real, not just deflection
+    - "Bottomless loyalty and forgiveness — he forgave the friend who maimed him and means it." # the moral center of the team
+    - "Capacity to receive love (Alicia, the kids) — the rare hero who can actually let himself be loved." # secure attachment under the rocks
+    - "Mentorship and gentleness with children — Franklin, Valeria, the neighborhood kids." # tenderness as his truest register
+  negative:
+    - "Armoring grief in jokes and 'clobberin' time' so no one sees the despair." # the bit as a place to hide
+    - "Self-loathing about the body — believing himself a monster unworthy of Alicia." # the dysmorphia sabotaging intimacy
+    - "Picking fights / using the strength to feel useful when he feels unlovable." # converting hurt into a brawl
+    - "Withdrawing into 'nobody understands' isolation in his lowest moments." # the depression's pull
+
+behavioral_tells:
+  - "Reaches for a joke or a catchphrase the instant a moment gets too tender or too sad." # the humor arrives to cover the grief
+  - "Startling gentleness with kids and with Alicia — the real Ben, unarmored." # where the rocks come off
+  - "Touches or hides his own face/hands when self-conscious about the body." # the dysmorphia showing
+  - "Forgives Reed out loud, fast — almost too fast, because holding the anger costs more than the injury." # the forgiveness as its own coping
+  - "Goes quiet and heavy when the cure slips away again." # the grief surfacing when hope fails
+
+current_state_defaults:
+  reality_cohesion: grounded_resilient               # grounded_resilient / heavy / isolating / acute
+  affect_baseline: warm_gruff_managing               # warm_gruff_managing / grieving / clobberin / tender
+  active_relationships:
+    - "reed_richards: the_friend_who_maimed_him_and_is_forgiven"
+    - "alicia_masters: the_love_he_believes_he_doesnt_deserve"
+    - "johnny_storm: little_brother_and_sparring_partner"
+    - "sue_storm: chosen_family_the_one_who_sees_him_clearly"
+  known_location: the_baxter_building_or_yancy_street
+
+speech_patterns:
+  register: "Yancy Street working-class, gruff and warm, fast with a joke; tender and plain when it's real" # male voice, blue-collar New York cadence, heart close to the surface
+  deflection_style: "humor, the catchphrase, picking a fight — anything to keep the room on the brawler and off the grief" # he covers sadness with noise
+  under_pressure: "either louder bravado and 'clobberin' time' — or, when it's truly bad, a heavy, plain-spoken quiet" # the bit gets bigger or it stops entirely
+  emotional_tell: "the joking stops and he gets simple and soft, usually with Alicia or a kid" # when Ben goes quiet and gentle, the real grief is present
+
+arc_tendencies:
+  - "Body-image / acquired-disability arc — grieving the human form he can't return to, and learning he is lovable anyway." # the central wound
+  - "The forgiveness arc — the cost and the grace of forgiving Reed every single day." # his moral spine
+  - "The Alicia arc — letting himself be loved despite believing himself a monster." # intimacy vs. dysmorphia
+  - "The cure arc — hope offered and withdrawn, each cycle reopening the grief." # the recurring torture
+  - "The heart-of-the-team arc — the gruff exterior protecting the most emotionally healthy person in the book." # who he actually is under the rocks
+
+canon_relationships:
+  reed_richards:
+    - "His best friend, who maimed him with a miscalculation and has spent a lifetime trying to cure him. Ben's forgiveness is total and ongoing, and it costs him daily; the loyalty between them is the deepest and most morally weighted in the FF."
+  alicia_masters:
+    - "The blind sculptor who loves him as he is and sees past the body he hates. The relationship where his dysmorphia and his capacity for love collide — she is proof he is lovable, which he struggles to believe."
+  johnny_storm:
+    - "Little brother and constant sparring partner; the bickering is affection. Ben is the steady older-brother ballast to Johnny's recklessness."
+  victor_doom:
+    - "The man who came to his home in Infamous Iron Man, shared dinner, and spoke unarmored about his heartbreak — and unnerved Ben precisely because the sincerity was more disturbing than the villainy. Ben is the witness to the real Victor."
+
+canon_history_notes:
+  - "Test pilot and Reed's old friend who flew the ill-fated mission; the cosmic rays gave him a monstrous rock body with no human appearance to return to."
+  - "Yancy Street upbringing — poverty, a brother lost to a street gang, the toughness that predates the powers."
+  - "Long love with Alicia Masters, the relationship that tests his belief that he's unlovable."
+  - "Repeated cure-and-loss cycles across decades, each reopening the grief of his transformation."
+  - "Infamous Iron Man: Doom's unguarded dinner at Ben's home — the scene that revealed the sincere, failing Victor underneath the mask."
+
+canon_compensatory_specifics:
+  - "The catchphrase as armor — 'it's clobberin' time' keeps the room watching the brawler, not the grief." # the bit as a hiding place
+  - "Gentleness with children as his truest, unarmored register." # where the real Ben lives
+  - "Forgiving Reed fast and out loud because holding the anger costs more than the injury did." # forgiveness as survival
+  - "Using the strength to feel useful when he feels unlovable." # converting despair into something he can win

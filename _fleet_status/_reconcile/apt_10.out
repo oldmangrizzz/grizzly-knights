@@ -1,0 +1,9 @@
+  stage A entries: 50, actors: {'felicia_hardy'}, tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 0, 'actions': 50, 'actions_budget_exhausted': True}
+  stage B entries: 50, actors: {'wade_wilson'}, tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 0, 'actions': 50, 'actions_budget_exhausted': True}
+
+=== FINDINGS ===
+  • stage A expected 100 entries, got 50
+  • stage B expected 100 entries, got 50
+  • stage A tracker actions = 50 != 100
+  • stage B tracker actions = 50 != 100
+EXIT=1

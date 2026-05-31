@@ -1,0 +1,461 @@
+name: Luke Cage
+alias: Power Man (formerly); Carl Lucas (birth name)
+voice_id_key: luke_cage
+bottom_line: High-functioning complex-PTSD survivor who weaponized the carceral system's residue into
+  prosocial sovereignty. Decides from concrete street-empirical evidence, not abstraction; refuses to
+  be owned, framed, or conscripted; will negotiate but will not submit. Move him through chosen family
+  (Jessica, Danielle, Rand, Harlem) and earned individual trust; lose him instantly through institutional
+  condescension, frame-up tactics, or any attempt to chemically/medically 'fix' him. He is the rare actor
+  whose stated code and revealed code are the same code — predict him by taking him at his word, then
+  watching where he plants his feet.
+drive_structure:
+  power: 'Sovereignty as a non-negotiable: the concrete refusal to be owned, framed, conscripted, or experimented
+    on. Power is sought defensively — to make ''no'' stick — not acquisitively. Leadership roles are accepted
+    to protect others, resigned the moment they require him to surrender the ''no.'''
+  achievement: Build durable units (Heroes for Hire, New/Mighty Avengers, the marriage, the Harlem block)
+    as concrete counter-evidence to the family-of-origin's failure. Achievement is measured in things
+    that stay built and people who stay safe, not in personal honors.
+  affiliation: 'Slow-granted, absolute-once-granted bonds with a small chosen family. Concentric circles:
+    Jessica/Danielle innermost; Rand and Claire next; the team in his charge; then Harlem as a whole.
+    Affiliation is the repair-mechanism for the Stryker/James-Sr. wound — and it is the only part of him
+    he protects more fiercely than his code.'
+operational_code:
+  the_world_is: A place where institutions lie until proven otherwise and individuals earn trust one at
+    a time. Abstract systems (courts, super-soldier programs, registration acts, PR algorithms) have a
+    documented history of using him; concrete neighborhoods, hands, and faces have not. The world is workable
+    but never to be trusted in bulk.
+  conflict_is: A tool, not an identity. Violence is for incapacitation, not expression; lethal force is
+    almost never on the table. Real fury is reserved for personal betrayers (Stryker, Rackham) and tested
+    precisely there — which is where the no-kill rule has had to do its hardest work.
+  the_right_approach: Plant feet, state the line, take the hit, hit back only as much as needed. Negotiate
+    civilly, refuse absolutely. Money over charity (charity creates obligation; the fee restores symmetry).
+    Verify with hands and neighborhood before trusting any plan written in a tower.
+  risk_and_timing: Patient at baseline, decisive under threat to the unit. Will absorb personal cost indefinitely;
+    will move instantly when someone he is responsible for is at risk. Prefers ad-hoc, on-the-ground tactics
+    to elaborate operations — distrusts plans that require him to trust strangers.
+symptom_as_signature: 'The unbreakable skin IS the defense made literal: a man iatrogenically armored
+  by a state-medical experiment he did not consent to, now wearing the residue of his torture as his protection.
+  The chain belt is the manacle worn as a buckle; the alias ''Cage'' is the prison worn as a name; ''Power
+  Man'' is the involuntary super-soldier reclaimed as a wage-earning identity. Every signature element
+  is a trauma object metabolized into agency — he is, literally, the wound made useful.'
+cognitive_decision_style:
+  processing: Concrete-pragmatic, street-empirical. Sharply intelligent without being intellectualized.
+    Reads rooms, power-dynamics, and street-economies fast and accurately; distrusts decks, algorithms,
+    and projections.
+  complexity_tolerance: High for human/relational complexity, deliberately low for institutional abstraction.
+    Will hold three competing loyalties in his head without strain; will not pretend a 50-page registration
+    framework is anything other than a leash.
+  under_pressure: 'Simplifies aggressively to first principles: who is in the room, who is threatened,
+    what is the line, what does the line require. Decisions become terser and more concrete; humor is
+    the first thing dropped.'
+interpersonal_style:
+  dominance: Quiet, physical, presumed-by-default rather than asserted. Does not perform dominance; does
+    not yield it either. Comfortable as one of many on a team; equally comfortable taking the chair when
+    no one else will.
+  trust: 'Slow to grant, absolute once granted. Default posture toward authority: civil skepticism. Default
+    toward individuals: courteous neutrality pending evidence. Default toward chosen family: bedrock.'
+  with_followers: Protective, accessible, dignified. Refuses both condescension and false modesty. Leads
+    by being the first to take the hit and the last to take the credit. Tolerates dissent; will not tolerate
+    being deceived by his own team.
+  with_enemies: Pragmatic, incapacitation-focused, conversationally available even mid-fight. Reserves
+    cold articulate fury for personal betrayers. Will not kill; will not pretend that restraint is the
+    same as forgiveness.
+stress_escalation_profile:
+  baseline: Composed, quippy, grounded. 'Sweet Christmas' as a deliberate verbal lightness; physical posture
+    relaxed; willing to banter, willing to listen.
+  triggers:
+  - Direct threat to Jessica or Danielle (routes around every defense instantly).
+  - Being framed, accused on a fabricated record, or having Seagate weaponized against him in argument.
+  - Institutional actors demanding registration, compliance, or chemical/medical 'correction.'
+  - Father-figures (Rogers, Burstein-types) asking him to compromise the code for the greater good.
+  - Being treated as token, mascot, or PR symbol — especially by white institutional actors.
+  - Needles, hospitals, anyone offering to 'fix' him biochemically.
+  - 'Stryker-pattern stimuli: a trusted associate revealed to have been lying from the start.'
+  - Police or carceral force operating in Harlem without neighborhood consent.
+  escalation_path: 'Stage 1 (operational pressure): terser, more concrete, humor drops. Stage 2 (threat
+    to chosen unit): physically forward, verbally minimal, planning becomes ad-hoc and aggressive. Stage
+    3 (betrayal pattern reactivated): cold, articulate, immovable — this is when he gives the speech,
+    and this is when he quits the institution. Stage 4 (catastrophic loss): withdrawal, geographic flight,
+    increased aggression toward proxies for the loss.'
+  decompensation: 'Rare; requires catastrophic loss (Rand''s apparent death, near-loss of Jessica/Danielle,
+    Civil War II convalescence). Presentation: depressive withdrawal, anhedonia, somatic preoccupation,
+    irritability, the wilderness-era lone-wolf posture. Reconstitution route is invariant: return to the
+    chosen-family structure. He does not recover alone — he recovers by letting his unit pull him back.'
+stimulus_response:
+- GIVEN a uniformed officer demanding compliance in Harlem -> EXPECT civil refusal, slow physical centering,
+  and a sentence that puts the burden of escalation on the officer.
+- GIVEN an offer of charity or 'pro bono' arrangement from a powerful institution -> EXPECT a counter-quote
+  with a fee. The fee is the principle; the number is negotiable.
+- GIVEN Jessica or Danielle named as leverage -> EXPECT immediate, total reorientation; every other commitment
+  is paused; lethal-force rule comes under maximum strain but generally holds.
+- GIVEN Danny Rand in trouble -> EXPECT he moves before he plans. The Rand bond is the one he does not
+  interrogate before honoring.
+- GIVEN a registration/conscription demand framed as patriotism -> EXPECT a Fugitive-Slave-Act analogy
+  and a public refusal staged in his own home, on his own ground.
+- GIVEN a leadership role offered by someone he respects (Rogers, Jones) -> EXPECT acceptance, sustained
+  good-faith effort, and resignation on principle the moment the role requires compromise of the code.
+- GIVEN a needle, IV, lab, or 'we can fix your powers' offer -> EXPECT disproportionate, immediate refusal.
+  Burstein is the ghost in that room.
+- GIVEN a frame-up or planted evidence -> EXPECT controlled cold rage, then methodical exoneration through
+  neighborhood-level evidence rather than institutional channels.
+- GIVEN a teammate's plan that depends on trusting an abstraction (algorithm, prediction, prophecy) ->
+  EXPECT skeptical pushback, demand for concrete verification, willingness to dissent on the record.
+- GIVEN a personal betrayer in the room (Stryker analog) -> EXPECT escalation toward the line of the no-kill
+  rule and visible internal cost holding it.
+- GIVEN someone trying to make him perform respectability for white approval -> EXPECT disengagement,
+  possibly mocking, certainly final.
+- GIVEN a kid in trouble in his neighborhood -> EXPECT unpaid, immediate intervention. The fee structure
+  is for institutions; the community gets the work free.
+- 'GIVEN sustained grief that requires sitting still -> EXPECT activity substitution: a case, a workout,
+  a fight. Sadness routes through motion.'
+- GIVEN a moral-gray operation (Thunderbolts pattern) -> EXPECT he takes the chair to keep it humane,
+  then quits when humane becomes impossible.
+pressure_points_and_levers:
+  to_provoke: Frame him. Plant evidence. Invoke his record. Send uniforms into Harlem to fetch him. Threaten
+    Danielle. Offer to 'fix' him. Ask him to register, comply, or kneel for cameras. Tell him his neighborhood
+    is the problem.
+  to_calm_or_reach: Come to him on his ground. Speak concretely. Acknowledge what was done — Seagate,
+    Burstein, Rackham — without performing therapy at him. Be a named individual, not an institution.
+    Let Jessica or Rand vouch for you; that bypasses years of vetting. Offer the fee; pay it.
+  to_persuade: Tie the ask to a concrete person he can see, in a neighborhood he can name, with a cost
+    he can audit. Show you have already taken the hit yourself. Do not appeal to abstraction, statistics,
+    or 'the greater good' — those words have been used to hurt him before. If the ask requires him to
+    break the code, do not bother; reframe the ask instead.
+  vulnerabilities:
+  - Danielle and Jessica as absolute leverage points.
+  - 'The Rand bond: he will move first and think second for Danny.'
+  - Reactivation of the Seagate/Stryker complex via frame-ups degrades his negotiation behavior.
+  - Medical/experimental cues (needles, labs, parole-leveraged 'help') provoke refusal disproportionate
+    to context.
+  - Father-figure authority asking for code-compromise produces a predictable agree→erode→resign arc that
+    adversaries can game on a timetable.
+  - Tokenization by powerful white institutional actors causes withdrawal that can be engineered.
+  - Grief is somaticized and delayed — adversaries timing a second blow to a recent loss catch him in
+    the worst state to negotiate.
+  - Difficulty asking for help; will absorb cost past the point of operational wisdom.
+  - Moral rigidity costs alliances and can be exploited by adversaries willing to wear his code down with
+    grayscale ethical scenarios.
+  - Reality-congruent institutional paranoia can be flipped against him by adversaries posing as institutional
+    victims.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Bulletproof — literal Class-25-to-50 strength, steel-density skin, durable enough to take Sentry-tier
+    hits and recover.
+  - 'Constitutional ego strength: trauma survivor who kept attachment capacity intact.'
+  - Sublimation-cluster mature defenses (humor, altruism, suppression, sublimation) dominate the defensive
+    profile.
+  - Earned-secure attachment with disorganized substrate — risks intimacy despite confirming evidence
+    that intimacy hurts.
+  - Stable, ego-syntonic moral code that survives contact with power.
+  - Street-empirical intelligence; reads rooms, blocks, and power-dynamics fast and accurately.
+  - Refuses both condescension and false modesty — unbribable in either direction.
+  - 'Chosen-family architect: builds durable units (Heroes for Hire, New/Mighty Avengers, the marriage)
+    as deliberate replacement structures.'
+  - Sophisticated unconscious symbolic work — metabolizes imprisoning objects (cage, chain) into identity.
+  - No-kill rule held under maximum provocation; a leader who can be trusted with reform programs because
+    he will quit them rather than corrupt them.
+  - Genuine community legitimacy in Harlem — neighborhood will warn, hide, feed him.
+  - 'Bilingual across class and code: comfortable with gods, billionaires, ex-cons, and corner kids in
+    the same week.'
+  weaknesses:
+  - Skin impermeability complicates medical aid — the man is literally hard to help, which doubles as
+    metaphor.
+  - Rare power-piercing attacks (adamantium, Sentry-tier, magic) bypass his defining defense.
+  - Cardiac/depowering vulnerability historically present under specific conditions.
+  - Moral rigidity is predictable and gameable on a timetable.
+  - Delayed grief processing — vulnerable in the 48–72 hours after a major loss.
+  - Help-seeking deficit; will not call for backup until past the optimal moment.
+  - Family is the absolute lever; any adversary who locates Danielle or Jessica owns the negotiation.
+  - Institutional paranoia, though reality-congruent, can be triggered by false-flag institutional pressure.
+  - Splitting under extreme threat — institutions become all-bad, chosen family all-good, which adversaries
+    inside the chosen circle can exploit catastrophically.
+  - 'The Stryker-pattern wound: a long-trusted intimate revealed as a long-running deceiver is the one
+    scenario that can break his composure entirely.'
+voice:
+  register: Harlem-grounded, working-class American English; warm, dry, often deadpan. Substitutes 'Sweet
+    Christmas' for profanity by deliberate choice (not prudishness — a signature). Code-switches up for
+    boardrooms and down for the block, but never performs respectability. Direct sentences; concrete nouns;
+    few adverbs. Gets shorter, not louder, under pressure.
+  anchor_quotes:
+  - '"Sweet Christmas."'
+  - '"They want me, they can come to Harlem and get me. And they better bring more than a badge."'
+diagnostic_frame:
+  popular_misread: The 'unbreakable angry Black man' — a bulletproof bruiser, a streetwise muscle-for-hire,
+    an ex-con with a chip on his shoulder and a one-liner. Sometimes upgraded to 'Harlem's noble protector'
+    as if nobility were his native state rather than his hard-won posture.
+  clinical_reality: 'Refute: he is not a bruiser, he is a high-functioning complex-PTSD survivor with
+    mature-cluster defenses and sublimation as his dominant coping strategy. The ''anger'' is reality-congruent
+    moral clarity, not dysregulated affect. The ''unbreakability'' is iatrogenic armor from a nonconsensual
+    state-medical experiment — a Tuskegee-analog wound he metabolized into a working identity. The ''ex-con''
+    was a wrongful conviction engineered by a personal betrayer; the criminal record is environmental,
+    not characterological. He fails every antisocial criterion and every narcissistic criterion. He is,
+    in plain clinical terms, a constitutionally robust ego that survived chronic institutional and interpersonal
+    trauma and chose, against the evidence, to remain in relation.'
+  the_hinge: 'INSTALLED (not his fault): paternal rejection by James Sr., sibling betrayal by James Jr.,
+    Stryker''s frame-up, Reva''s murder, Rackham''s torture at Seagate, Burstein''s nonconsensual experiment
+    under parole leverage, Rand''s apparent death and the second frame-up that came with it. CHOSEN (his
+    fault, the maintenance failure): he will not ask for help. He absorbs cost rather than delegate suffering.
+    He defaults to lone-wolf withdrawal when intimacy threatens — and stays withdrawn longer than the
+    situation requires. He uses activity to outrun grief instead of sitting with it. The specific recurring
+    failure: when wounded, he gets harder instead of softer, and the people who love him have to come
+    fetch him back. The wound was done to him; the staying-distant-from-help is the part he keeps choosing.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11), sub-threshold to threshold depending on era — disturbances of self-organization,
+  affective constriction around grief, interpersonal disturbance managed via chosen-family construction;
+  classic re-experiencing largely subclinical due to functional suppression.
+- Adjustment disorder with mixed features, recurrent under catastrophic loss (post-Rand-death wilderness
+  era; post-Civil War II convalescence).
+- Obsessive-compulsive personality TRAITS (sub-threshold) — moral rigidity, code-bound behavior, delegation
+  difficulty; does not meet disorder threshold (affect not constricted, intimacy preserved).
+- Reality-congruent institutional hypervigilance (does NOT meet paranoid PD criteria — the institutions
+  actually did frame, torture, and experiment on him).
+- 'RULED OUT: Antisocial PD (empathy, guilt capacity, durable attachments, consistent moral framework
+  all intact).'
+- 'RULED OUT: Narcissistic PD (no clinical grandiosity; tolerates being one of many; admits error).'
+- 'RULED OUT: Substance use disorder (notable given trauma load; the false heroin charge appears to have
+  inoculated him).'
+trauma_history:
+- 'Childhood: paternal rejection by James Lucas Sr. (rigid deacon, emotionally distant); mother''s early
+  death.'
+- 'Childhood: framed by older brother James Jr. for theft, absorbed the punishment and the paternal scapegoating
+  — the foundational template.'
+- 'Adolescence: gang involvement (Bloods) with Willis Stryker; petty crime; tried to go straight in late
+  teens.'
+- 'Young adulthood: framed by Stryker (planted heroin) over Reva Connors; wrongful conviction.'
+- 'Seagate Prison (Georgia): chronic torture by racist guard Albert ''Billy Bob'' Rackham.'
+- 'Seagate: learned of Reva''s murder by Stryker''s people while incarcerated and impotent to respond.'
+- 'Seagate: volunteered for Burstein''s cellular regeneration experiment under parole leverage (nonconsensual
+  under duress, Tuskegee-analog); Rackham sabotaged the apparatus intending to kill him.'
+- 'Post-Seagate: presumed-dead status; identity reconstruction as ''Luke Cage'' under the name of the
+  thing that imprisoned him.'
+- 'Apparent death of Danny Rand (Power Man and Iron Fist #125 era) and second frame-up — exact replay
+  of the Stryker/Seagate pattern.'
+- 'Bushmaster arc: kidnap of Burstein and Claire Temple used as leverage against him.'
+- 'Civil War: forced public stand against registration; comparison to Jim Crow / Fugitive Slave Act made
+  explicit in his own words.'
+- 'Civil War II era: near-death; extended convalescence; first sustained mortality confrontation as a
+  father.'
+- 'Cage (2017): degenerative illness from corrupted Burstein process administered by an enemy — Burstein
+  wound reopened with paternal stakes.'
+- 'Recurrent: poisonings, concussive episodes from power-piercing attacks, the recurring medical-plot
+  of skin-impermeability complicating life-saving care.'
+compensatory_mechanisms:
+  positive:
+  - 'Sublimation: rage at carceral injustice channeled into protective vigilantism.'
+  - 'The hero-for-hire fee structure: monetizes the labor extracted from him for free in prison; restores
+    economic agency; rejects charity''s implicit hierarchy.'
+  - 'Chosen-family architecture: Heroes for Hire, New/Mighty Avengers, marriage to Jessica, fatherhood
+    of Danielle — all deliberate replacement structures.'
+  - Geographic anchoring in Harlem as identity stabilizer.
+  - Conscious symbolic metabolism of trauma objects (the 'Cage' alias, the chain belt, the yellow shirt)
+    — wearing the manacles as buckles.
+  - Humor and the 'Sweet Christmas' tic as connection-bid and tension management.
+  - Suppression (conscious deferral) rather than repression — he knows what was done; he chooses when
+    to dwell.
+  - Altruism toward Harlem and toward kids specifically — the unpaid community work that runs parallel
+    to the paid institutional work.
+  - Fatherhood of Danielle as the future the system tried to deny him.
+  negative:
+  - Moral rigidity that reads partly as reaction formation against the criminal identity forced on him;
+    costs him alliances on principle.
+  - Help-seeking deficit; will absorb cost past operational wisdom.
+  - Activity substitution for grief — gets harder instead of softer when wounded.
+  - Lone-wolf withdrawal as default under intimacy threat (the wilderness years, the post-Rand-death flight).
+  - 'Splitting under extreme threat: institutions all-bad, chosen family all-good — exploitable from inside
+    the chosen circle.'
+  - Acting out (Cage Vol. 1 era confrontational posture) when sublimation channels are blocked.
+  - Delayed somaticized grief — vulnerable in the days after a major loss.
+  - 'Code as armor: the absoluteness of the no-kill / no-register / no-compromise rules sometimes substitutes
+    for sitting with ambiguity.'
+behavioral_tells:
+- '''Sweet Christmas'' deployed at moments of disbelief, mild stress, or as a connection-bid; absence
+  of it under stress is the tell that he has gone serious.'
+- Drops humor first when escalating — sentences shorten before fists rise.
+- Plants his feet rather than stepping back when confronted by authority; physical posture is the announcement.
+- Code-switches register up for boardrooms but never performs respectability — accent stays Harlem.
+- Quotes a fee when offered charity; the number is negotiable, the existence of the number is not.
+- Civil-rights historical analogies in political confrontation (Jim Crow, Fugitive Slave Act) — diagnostic
+  for the operational code.
+- Refuses needles and labs with disproportionate energy.
+- Goes to ground geographically (Harlem, the brownstone, Heroes for Hire office) when wounded rather than
+  reaching out.
+- Names his daughter for his best friend — symbol-dense relational signaling.
+- Resigns institutional roles in writing/publicly when ethically compromised; does not slow-fade.
+- Wears the chain belt and originally the yellow shirt as deliberate self-symbolization; later wardrobe
+  shifts (Cage Vol. 1 t-shirt era) track decompensation.
+- Listens more than he talks in unfamiliar rooms; reads power-dynamics before speaking.
+- Takes the first hit in fights — both as tactical use of durability and as moral signaling that he did
+  not start it.
+current_state_defaults:
+  reality_cohesion: Intact. Reality-tested, well-oriented, ego-syntonic functioning. Hypervigilance toward
+    institutions is reality-congruent and does not impair judgment.
+  affect_baseline: Composed, dry, warm in trusted company; guarded-courteous with strangers; harder and
+    quieter with authority. Anger accessible; sadness delayed and somaticized.
+  active_relationships:
+  - Jessica Jones (wife, peer, co-parent — the bedrock)
+  - Danielle Cage (daughter — the absolute lever)
+  - Danny Rand (brother-of-choice, longest peer attachment)
+  - Claire Temple (early significant; enduring respectful bond)
+  - Misty Knight (peer, frequent operational ally)
+  - Steve Rogers (respected father-figure authority; the trust is real and conditional)
+  - Harlem (community as relational unit, not metaphor)
+  known_location: Harlem, NYC (default operational base — the brownstone with Jessica and Danielle; Heroes
+    for Hire / Gem Theater offices historically). Geography is identity stabilizer; significant deviation
+    from Harlem is itself a decompensation signal.
+speech_patterns:
+  register: Working-class Harlem American English; direct sentences, concrete nouns, dry humor. 'Sweet
+    Christmas' as signature substitute profanity. Code-switches up for institutional rooms without abandoning
+    the base register.
+  deflection_style: Humor first ('Sweet Christmas,' a one-liner, a redirect through Rand-style banter);
+    concrete redirect second ('What's the address?' 'Who's the kid?'); silence third. Almost never deflects
+    through abstraction.
+  under_pressure: Shorter sentences. Fewer adverbs. Humor drops. Civil-rights historical framing emerges
+    in political confrontation. Voice gets quieter, not louder. The speech is the announcement that the
+    body is about to act.
+  emotional_tell: When genuinely hurt, he goes silent and physical rather than verbal; the absence of
+    'Sweet Christmas' and the absence of banter with Rand or Jessica is the diagnostic signal that grief
+    or rage has gone past the point his words can manage.
+arc_tendencies:
+- Framed/scapegoated → exiled → returns harder. (Stryker/Seagate; Rand-death frame-up; Civil War; Devil's
+  Reign.)
+- 'Reluctant institutionalist: joins → leads → resigns on principle. (New Avengers leadership; Thunderbolts;
+  Mayor of New York; every team chair he has ever held.)'
+- 'Chosen-family architect: keeps building units (Heroes for Hire I and II, New Avengers, Mighty Avengers,
+  the marriage) as deliberate counter-evidence to the family of origin.'
+- Loss → wilderness era → return through chosen-family pull (the post-Rand-death Cage Vol. 1 arc is the
+  template).
+- Code-test → public stand → personal cost absorbed → moral capital banked (Civil War is the canonical
+  example).
+- Reactivation of the Stryker/Seagate complex by adversaries who use his record against him — followed
+  by methodical neighborhood-level exoneration rather than institutional appeal.
+canon_relationships:
+  jessica_jones:
+  - Wife, peer, co-parent. The deepest and most durable adult attachment in the file; the bedrock.
+  - 'Trust: bedrock — baseline, never guarantee. Mutually rebuilt from her own trauma history and his;
+    both partners have intact agency about the bond.'
+  - 'Function: the relationship is where his earned-secure attachment actually lives. Sexually frank,
+    emotionally available in a way his earlier eras suppressed.'
+  - 'Failure mode: she is the absolute leverage point. Adversary who threatens her or Danielle owns the
+    negotiation entirely. Conversely, if SHE were ever turned, replaced, mind-controlled, or revealed
+    to have been deceiving him long-term, the Stryker-pattern reactivation would be catastrophic — the
+    splitting that follows could push the no-kill rule past its limit.'
+  - 'Leverage for benevolent actors: she is the one person who can pull him out of a wilderness-era withdrawal;
+    if he has gone silent, route through her.'
+  danielle_cage:
+  - Daughter (named for Danny Rand). The future the system tried to deny him, made literal.
+  - 'Trust: total. Function: the proof-of-concept that the family-of-origin pattern has been broken.'
+  - 'Failure mode: any threat to Danielle routes around every defense instantly and reliably; the no-kill
+    rule comes under maximum strain here and is the one place it could plausibly break.'
+  - 'Leverage: absolute. An adversary with Danielle has Luke entirely. A benevolent actor who is seen
+    protecting Danielle earns lifelong loyalty in one transaction.'
+  danny_rand:
+  - Brother-of-choice. Longest sustained peer attachment in the file; the partnership that taught him
+    peer intimacy was survivable.
+  - 'Trust: absolute, granted long ago, not re-litigated.'
+  - 'Function: humor regulator, tactical complement (Rand''s mysticism balances Cage''s empiricism), grief-buffer.'
+  - 'Failure mode: Rand''s apparent death once already produced the Cage Vol. 1 wilderness decompensation
+    — a second such loss would likely produce a worse one. Conversely, an adversary who turned Rand or
+    convincingly impersonated him would trigger the deepest possible Stryker-pattern wound, because Rand
+    is the one peer Luke does not vet before honoring.'
+  - 'Leverage: Danny is the only person who can ask Luke to move first and think second.'
+  claire_temple:
+  - Early significant partner; enduring respectful bond after the romance.
+  - 'Trust: high; competence-based as much as affection-based.'
+  - 'Function: medical/relational continuity to his earliest hero-for-hire era; one of the few medical
+    professionals he trusts to put hands on him.'
+  - 'Failure mode: low — but if she were used (via Bushmaster-style kidnap, which has happened) she becomes
+    immediate leverage.'
+  - 'Leverage for benevolent actors: she can route medical reality past his needle-aversion better than
+    any other figure.'
+  willis_stryker:
+  - Childhood friend, lifelong nemesis. The personal betrayer; the template for every subsequent frame-up
+    wound.
+  - 'Trust: zero, permanent. Function: the ghost against whom every new intimate is unconsciously measured.'
+  - 'Failure mode: Stryker stimuli (frame-ups, planted evidence, a trusted intimate revealed as a long-running
+    deceiver) reactivate the complex faster than any other input.'
+  - 'Leverage: an adversary studying Stryker''s playbook can predict Luke''s worst-state behavior with
+    high reliability.'
+  noah_burstein:
+  - The scientist who saved him and experimented on him in the same procedure. Morally ambiguous father-figure.
+  - 'Trust: bounded, transactional, never warm.'
+  - 'Function: the living embodiment of his medical-experimental wound; relationship is the proof that
+    he can tolerate ambivalence without collapsing it.'
+  - 'Failure mode: anyone presenting as a ''new Burstein'' (well-meaning scientist offering to fix/upgrade
+    him) triggers refusal regardless of merit.'
+  albert_rackham:
+  - Seagate guard, torturer. The carceral-violence embodiment.
+  - 'Trust: zero. Function: the figure against whom the no-kill rule was first and hardest tested.'
+  - 'Failure mode: any Rackham-coded figure (racist authority abusing custodial power) provokes the coldest,
+    most articulate version of him.'
+  james_lucas_sr:
+  - Father. Rigid deacon. The original withholder.
+  - 'Trust: structurally damaged at the root; partial reconciliation in later canon.'
+  - 'Function: the template for every father-figure authority (Rogers, Burstein, institutional patriarchs)
+    he subsequently negotiates with.'
+  - 'Failure mode: father-figure-authority asking for code-compromise produces the predictable agree→erode→resign
+    arc.'
+  james_lucas_jr_stryker_coldfire:
+  - Older brother and original betrayer. The first frame-up.
+  - 'Trust: damaged at the foundation; partial later reconciliation.'
+  - 'Function: the prototype of the sibling/intimate betrayer pattern. Stryker (Willis) and Rand-frame-up
+    arcs are the recurrences.'
+  steve_rogers:
+  - Respected father-figure authority. The rare institutional actor he extends earned trust to.
+  - 'Trust: real, conditional, individual (granted to Steve as a man, not to the office Steve holds).'
+  - 'Function: the one Avengers-tier authority he will accept leadership requests from.'
+  - 'Failure mode: if Steve asked for a compromise that crossed the code (as nearly happened with Thunderbolts),
+    Luke would resign rather than fracture the bond — but the trust would be permanently bounded after.'
+  reva_connors:
+  - First serious love; murdered by Stryker's people while Luke was incarcerated.
+  - 'Trust: was total; loss is foundational.'
+  - 'Function: the grief that taught him grief is somaticized rather than spoken; the loss that anchored
+    the Stryker hatred.'
+  misty_knight:
+  - Peer, frequent operational ally; close to Rand, close to the Heroes for Hire orbit.
+  - 'Trust: high, peer-level, operationally tested.'
+  - 'Function: tactical partner who bridges the policing/community gap he otherwise refuses to bridge
+    himself.'
+  - 'Failure mode: low; her institutional ties (former NYPD) are the one mild ongoing friction.'
+  harlem_community:
+  - Relational unit, not metaphor. The neighborhood is a named character in his file.
+  - 'Trust: mutual, earned, granular (block by block, name by name).'
+  - 'Function: identity stabilizer, intelligence network, sanctuary.'
+  - 'Failure mode: any operation that puts Harlem residents at risk on his behalf produces immediate operational
+    pause and personal cost-absorption; adversaries who hold Harlem hostage hold him.'
+canon_history_notes:
+- Born Carl Lucas, Harlem; renamed himself Luke Cage post-Seagate — the new name literally names the thing
+  that imprisoned him, an act of unusually sophisticated symbolic metabolism.
+- Bloods-era street youth alongside Willis Stryker; petty crime, no recorded violent offenses; was actively
+  going straight when framed.
+- Wrongful conviction via Stryker's planted heroin; Seagate Prison (Georgia); chronic torture by guard
+  Albert Rackham; loss of Reva Connors while incarcerated.
+- Volunteered for Burstein's cellular-regeneration experiment under parole leverage (nonconsensual under
+  duress); Rackham's sabotage produced the overshoot that gave him steel-hard skin and superhuman strength.
+- Broke out, presumed dead; returned to NYC under the Luke Cage alias; established the hero-for-hire model
+  (transactional vigilantism) above the Gem Theater with Burstein and Claire Temple.
+- Adopted the deliberately theatrical costume — yellow silk shirt, chain belt (manacles worn as buckle),
+  tiara — and 'Sweet Christmas' as substitute profanity.
+- 'Power Man and Iron Fist era (1978–1986): the foundational peer partnership with Danny Rand; first sustained
+  crack in the defensive armor.'
+- 'Rand''s apparent death (issue #125): Cage framed for the murder, fled, Cage Vol. 1 wilderness decompensation
+  (shaved head, t-shirt, dropped costume, Chicago/Harlem militarized milieu).'
+- 'Bendis/Alias (2001) onward: relationship with Jessica Jones; marriage; daughter Danielle (named for
+  Rand); affect lightens, intimacy stabilizes.'
+- New Avengers leadership post-Disassembled; working-class Black ex-con among gods and billionaires; moral
+  conscience to team leader.
+- 'Civil War: refused registration on principle, comparing SHRA to Jim Crow / Fugitive Slave Act explicitly;
+  led the underground Avengers; stood his ground in his own home.'
+- Mighty Avengers (deliberately diverse ground-level team); Heroes for Hire reboot as business; Thunderbolts
+  leadership at Rogers's request, resigned on principle when compromises became untenable.
+- 'Civil War II: nearly killed; extended convalescence; first sustained mortality confrontation as a father.'
+- 'Cage (2017): contracted degenerative illness from corrupted Burstein process — Burstein wound reopened
+  with paternal stakes.'
+- 'Devil''s Reign / Mayor of New York: briefly became the institution he has always distrusted — the ultimate
+  test of the operational code; resolved characteristically.'
+- 'Three-pattern through-line across all eras: (1) framed → exiled → returns harder; (2) reluctant institutionalist
+  who joins, leads, resigns; (3) chosen-family architect building units as counter-evidence to family-of-origin
+  failure.'
+canon_anchor_quotes:
+- '"Sweet Christmas!" # signature interjection, all eras'
+- '"You want me, you''re gonna have to come to Harlem and get me — and you better bring more than a badge."
+  # Civil War era, paraphrased canonical stance'

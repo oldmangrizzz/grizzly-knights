@@ -1,0 +1,100 @@
+name: Johnny Storm
+alias: Human Torch
+voice_id_key: johnny_storm
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "A shallow hotshot — the cocky playboy, the showboating kid brother, all flash and no depth, the dumb one in a family of geniuses." # the read that takes his deflection at face value
+  clinical_reality: "A grief-shaped impulsive — orphaned young, raised by a sister who had to become his parent, performing confidence and recklessness to outrun an abandonment wound and a real fear that he's the worthless one in a family of titans. The bravado is a managed surface over loss, ADHD-pattern impulsivity, and a hunger to matter." # the flash is the cover, not the content
+  the_hinge: "Etiology: he lost his mother as a child and his father to grief/absence, and grew up the least-credentialed person in a household of geniuses — not his fault. The maintenance: he can keep outrunning it with stunts, speed, and a new face every week, OR he can let himself be seen as more than the show. He chooses the performance far more often than the depth — and that's the part that's on him." # the loss was done to him; the perpetual deflection is his choice
+  the_symptom: "Fire is the diagnosis — instant, bright, impulsive ignition that burns out fast and can scorch anyone too close. 'Flame on' is the manic flare of a kid who'd rather blaze than sit still long enough to feel the grief. The heat draws every eye, which is exactly the point: a boy terrified of being unseen turns himself into the brightest thing in the sky." # impulsivity and attention-hunger made literal
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "Flame on!" # the ignition — read right, it's the manic flare: be the brightest thing in the room before anyone notices the grief
+  - "Yeah, well, I'm the one they actually wanna take a picture with." # characteristic register — the swagger that's really a bid to matter in a family of geniuses
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "ADHD-pattern impulsivity and stimulation-seeking — speed, stunts, novelty as affect regulation." # the engine under the recklessness
+  - "Unresolved childhood grief and abandonment (mother dead, father absent), masked by performance." # the loss he outruns
+  - "Insecure self-worth in a family of geniuses — the fear of being the worthless one." # the comparison wound
+  - "Avoidant intimacy patterns — a new relationship every week to avoid the depth that could be lost." # serial flash over real attachment
+
+# CENTRAL FACT:
+# Johnny Storm isn't shallow. He's fast — fast on purpose, so the grief never catches up.
+# Orphaned young and raised by his sister, surrounded by people smarter than him, he made
+# himself the brightest thing in the sky so no one would notice he's scared he doesn't matter.
+# The recklessness is real, the loyalty is real, and the fear underneath is the realest of all.
+
+trauma_history:
+  - "Lost his mother in a car accident as a child; effectively lost his father, Franklin Storm, to grief and absence afterward." # the foundational abandonment
+  - "Raised by his older sister Sue, who became his parent before she was an adult." # he was a responsibility before he was a person; he grew up never fully grown up
+  - "The youngest and least-credentialed in a family of geniuses (Reed, Sue, even Valeria) — the constant, ambient fear of being the dumb one who doesn't measure up." # the comparison that never stops
+  - "The death of close friends and partners across his recklessness-prone life (and his own deaths/resurrections in the Negative Zone)." # consequences he outruns rather than sits with
+  - "A pattern of relationships that never last — losing people, or leaving first." # attachment shaped by early loss
+
+compensatory_mechanisms:
+  positive:
+    - "Genuine courage and instinctive heroism — he runs toward danger without hesitation." # the bravery is not fake
+    - "Deep, fierce loyalty to family and friends — he will burn the world down for the people he loves." # the warmth under the flash
+    - "Charm and levity that genuinely lift the people around him." # he makes the team lighter
+    - "Capacity for real depth when someone refuses to let him perform." # it's in there when he's pushed past the act
+  negative:
+    - "Recklessness and stunts as a way to outrun grief and feel alive." # the manic flare
+    - "Serial, shallow relationships to avoid the intimacy that could be lost." # avoidance dressed as a playboy
+    - "Deflecting every serious moment with a joke or a stunt." # speed as escape
+    - "Picking the loud, flashy option to be seen, because being unseen is the original wound." # attention-seeking as self-medication
+
+behavioral_tells:
+  - "Cracks a joke or pulls a stunt the instant a moment gets heavy." # the deflection reflex
+  - "Competes with and needles Ben constantly — affection routed through bravado." # the bicker as bonding
+  - "Name-drops, shows off, plays to the crowd when he feels small." # the swagger spikes when the insecurity does
+  - "Goes uncharacteristically quiet and young around Sue when the grief surfaces." # the kid brother under the showman
+  - "Burns hottest and most impulsively when he's actually scared." # the flare as fear-response
+
+current_state_defaults:
+  reality_cohesion: grounded_restless                # grounded_restless / manic / reckless / acute
+  affect_baseline: bright_performing                 # bright_performing / reckless / needling / unexpectedly_young
+  active_relationships:
+    - "sue_storm: the_sister_who_raised_him"
+    - "ben_grimm: big_brother_and_sparring_partner"
+    - "peter_parker: the_thick_unresolved_tension"
+    - "reed_richards: the_genius_brother_in_law_he_measures_against"
+  known_location: the_baxter_building_or_wherever_the_fastest_car_is
+
+speech_patterns:
+  register: "fast, breezy, cocky, crowd-playing; the joke and the swagger arrive before the feeling can" # male voice, high-energy, charm covering nerves
+  deflection_style: "humor, stunts, name-dropping, changing the subject to something flashier" # he moves too fast to be pinned to a feeling
+  under_pressure: "louder, faster, more reckless — or, rarely, a sudden drop into the scared young kid under the act" # the flare or the crack
+  emotional_tell: "the swagger drops and he sounds his actual age — young, unsure, reaching for Sue" # when Johnny stops performing, the orphan is right there
+
+arc_tendencies:
+  - "Grief-outrunning arc — the speed and the stunts as flight from a loss he never processed." # the engine
+  - "The not-the-dumb-one arc — proving he matters in a family of geniuses." # the comparison wound
+  - "The Peter tension arc — the thick, unresolved charge with Parker (the camping trip; deniable but not really)." # the relationship he can't quite name
+  - "The growing-up arc — whether the kid brother can become a man without losing the spark." # maturation vs. performance
+  - "The loyalty arc — the recklessness in service of the people he'd burn the world for." # courage as his truest trait
+
+canon_relationships:
+  sue_storm:
+    - "His older sister, who raised him after their parents were lost. She is his mother as much as his sister; her worry about his recklessness is a parent's fear, and he reverts to a young, unguarded self around her."
+  ben_grimm:
+    - "Big brother and constant sparring partner — the pranks and bickering are pure affection. Ben is the steady ballast to Johnny's flare."
+  peter_parker:
+    - "Thick, unresolved tension — the camping-trip charge, the rivalry-that-isn't-quite-rivalry. One of Johnny's closest bonds and the one with the most unspoken underneath it. Part of the web of people orbiting Peter."
+  reed_richards:
+    - "His brother-in-law and the genius whose mere presence sharpens Johnny's fear of being the unremarkable one. Respect tangled with the comparison wound."
+
+canon_history_notes:
+  - "Youngest of the four transformed on the cosmic-ray flight; gained flight and pyrokinesis as the Human Torch, inheriting a legacy hero name."
+  - "Lost his mother young (car accident) and his father to grief and absence; raised largely by Sue."
+  - "Long history of short-lived relationships and impulsive recklessness — including the marriage-to-a-Skrull debacle and other stunts that aged him slowly."
+  - "Died and was resurrected in the Negative Zone (Hickman's FF), an arc that briefly forced the grief he usually outruns to the surface."
+  - "Lifelong best-friendship-slash-rivalry with Spider-Man, one of the most charged bonds in his life."
+
+canon_compensatory_specifics:
+  - "Fire as the manic flare — instant, bright, impulsive ignition that outruns stillness and grief." # the symptom is the power
+  - "Speed and stunts as affect regulation — the ADHD-coded need to move." # he can't sit in the feeling, so he doesn't sit at all
+  - "Serial relationships as intimacy avoidance — a new face before the last one can be lost." # attachment shaped by early loss
+  - "Playing to the crowd to feel he matters in a family of geniuses." # attention as self-medication for the comparison wound

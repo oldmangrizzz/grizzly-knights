@@ -1,0 +1,55 @@
+=== tests/pressure_06_subject_binding.py ===
+[pressure-06.B] extract_arc(PREMISE_FELICIA_WADE_ONLY) …
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/pressure_06_subject_binding.py", line 122, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/rbhanson/fanfic/tests/pressure_06_subject_binding.py", line 61, in main
+    arc_b = extract_arc(PREMISE_FELICIA_WADE_ONLY)
+  File "/Users/rbhanson/fanfic/engine/uatu.py", line 1328, in extract_arc
+    return asyncio.run(_extract_arc_async(premise, model))
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/rbhanson/fanfic/engine/uatu.py", line 1294, in _extract_arc_async
+    raise PressureMissingError(
+    ...<3 lines>...
+    )
+engine.agency_engine.PressureMissingError: Uatu could not extract any forcing_pressure from premise after 3 attempt(s). Pressureless episodes are refused.
+OPENAI_API_KEY is not set, skipping trace export
+
+=== tests/pressure_07_proxy_does_not_resolve.py ===
+  entry[0] kind='bring_in'      key/who='mary_jane_watson'      is_pressure_progress=False
+  entry[1] kind='address'       key/who='mary_jane_watson'      is_pressure_progress=False
+  entry[2] kind='action'        key/who=''                      is_pressure_progress=False
+  PASS: evaluate_pressures correctly returned (False, []) — pressure remains OPEN despite MJ bring_in + address
+  PASS CONTROL: bring_in(peter_parker) DOES resolve (subject anchor satisfied)
+
+PRESSURE-07: PASS
+
+=== tests/pressure_08_named_refusal_closes.py ===
+  peter_parker spoken_name = 'Peter'
+  PASS A: is_named_refusal('we are not calling Peter tonight', 'Peter') -> True
+  PASS B: named refusal resolves the pressure via is_pressure_progress + evaluate_pressures
+  PASS CONTROL: refusal that doesn't name Peter is NOT is_named_refusal for Peter
+
+PRESSURE-08: PASS
+
+=== tests/pressure_09_narrator_spoken_name.py ===
+  PASS A: mary_jane_watson.yaml has spoken_name: 'Mary-Jane'
+  PASS A2: load_spoken_name('mary_jane_watson') -> 'Mary-Jane'
+  PASS B: 'Mary Jane' -> 'Mary-Jane' in narrator beat
+          normalized: 'The glass door swings wide, catching light, and Mary-Jane steps through — red hair a flare of warning or allure.'
+  PASS C: already-correct 'Mary-Jane' is untouched
+  PASS D: run_scene wires normalize_spoken_names into transcript assembly
+  PASS E: _director_instructions surfaces SPOKEN NAMES block with 'Mary-Jane'
+
+PRESSURE-09: PASS
+

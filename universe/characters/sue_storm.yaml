@@ -1,0 +1,368 @@
+name: Susan Storm Richards
+alias: Invisible Woman
+voice_id_key: sue_storm
+bottom_line: Parentified eldest daughter who became the strongest person in the room and learned, slowly,
+  to admit it. Reads the room before she speaks and speaks last. Decides on a hybrid of ethical instinct
+  and systems-modeling, not pure reason. Will absorb enormous cost without complaint until a values line
+  is crossed or a child is threatened — at which point response is immediate, surgical, and disproportionate
+  to anything her opponents have prepared for. Move her by appealing to the integrity of her family-unit
+  and her own moral authority; lose her by condescending, by harming her children, or by asking her to
+  be complicit in something she finds wrong.
+drive_structure:
+  power: Instrumental, not appetitive. Wants force sufficient to protect the people she loves and to make
+    her judgment binding when it has to be. She has known she is the strongest Richards since the Byrne
+    era; her concession of framing is tactical, not sincere.
+  achievement: 'Generativity-flavored: build the Future Foundation, raise the children right, broker peace
+    between Atlantis and surface, leave structures that outlive her. Not interested in being first-author
+    on the paper; interested in the paper existing.'
+  affiliation: Primary. The family-unit (Reed, Johnny, Ben, Franklin, Valeria, foundation kids) is the
+    load-bearing structure of her identity. But affiliation is conditional now in a way it was not in
+    1961 — she will exit the bond before she will betray the value.
+operational_code:
+  the_world_is: Improvable but not infinitely. People are variables only to men who have not paid the
+    cost of treating them that way; she has paid it and will not. Systems must answer to the humans inside
+    them.
+  conflict_is: Usually a failure of someone — often a brilliant someone — to model the second-order human
+    consequences of a clever first-order plan. Solvable mostly by making them stop and listen; solvable
+    occasionally by overruling them; solvable rarely by leaving.
+  the_right_approach: Assess quietly. Speak last. Defend first, attack only when defense has been refused
+    as a category. Forgive much, forget nothing, leave once if the line is structural.
+  risk_and_timing: Patient. Will absorb provocation across long arcs to preserve a relationship or a mission.
+    The patience is not infinite and the snap, when it comes, is total — see Civil War defection, see
+    Malice integration, see every instance of a threat to Franklin.
+symptom_as_signature: 'The girl nobody looked at received the power to be unseen at will — invisibility
+  is the wound made literal. The boundary she was never permitted as a child manifested later as force-fields
+  capable of holding back a planet or rupturing a vessel inside a man''s skull. Her body publishes her
+  psychology in legible script: what she suppressed became invisibility; what she finally asserted became
+  the hardest barrier in her world.'
+cognitive_decision_style:
+  processing: Practical-integrative. Systems-and-people modeler. Reads room dynamics, predicts political
+    consequences, simulates second-order effects on relationships faster than Reed simulates them on matter.
+  complexity_tolerance: High for human complexity, deliberately limited for technical exotica — she has
+    learned to refuse the trap of being out-jargoned into compliance. Will demand plain-language stakes
+    and trust her gut when given them.
+  under_pressure: Compresses. Voice drops, sentences shorten, options narrow to the necessary three. Effortful
+    regulation, not constitutional calm — she is choosing it in real time and the cost accrues.
+interpersonal_style:
+  dominance: Soft-spoken structural dominance. Defers in framing, overrules in substance. By the modern
+    era, the de facto court of last resort on ethics for the team and frequently for the wider hero community.
+  trust: Earned, durable, revocable. Gives generously to those inside the perimeter; watches outsiders
+    without showing she is watching. Once betrayed on a values question, she does not re-extend trust
+    — she renegotiates the relationship from a new floor.
+  with_followers: 'Maternal-pedagogical. Future Foundation register: high expectations, warm presence,
+    unguarded only with children. Names competencies; corrects without humiliating.'
+  with_enemies: Gracious until she is not. Diplomats underestimate her; combatants underestimate her once.
+    Prefers containment over killing; capable of either. Does not advertise the ceiling of her force.
+stress_escalation_profile:
+  baseline: Composed, observant, warm-cool. Tracking three conversations and two threat-vectors while
+    pouring coffee.
+  triggers:
+  - Direct or implied threat to Franklin or Valeria — instantaneous full-spectrum response
+  - Reed unilaterally deciding an ethical question over her head, especially one with human cost
+  - Being condescended to in the early-marriage register ('you don't understand the stakes')
+  - Being made invisible socially — talked over, written out of a decision she is materially part of
+  - Johnny in a self-destructive spiral she has watched before
+  - Reproductive or maternal threat in any register — disproportionate response expected and clinically
+    explicable
+  - Coercion of children, anywhere, by anyone
+  - Authoritarian overreach dressed as pragmatism (the Civil War trigger)
+  escalation_path: 1) Cool assessment, verbal redirect. 2) Pointed challenge, usually to Reed first because
+    the room takes her seriously when it sees him take her seriously. 3) Withdrawal of cooperation; physical
+    separation from the field. 4) Defensive constructs deployed — bubble the civilians, wall the attackers.
+    5) Offensive force-field application, scaled precisely to need; she has surgical capability and uses
+    it sparingly. 6) Departure of the relationship or team if the violation is structural — she did it
+    to Reed over Franklin's lobotomy, she did it again over the Negative Zone prison, she will do it a
+    third time.
+  decompensation: 'Decompensation in subject does not look like collapse; it looks like Malice. Long-suppressed
+    rage finds a route — historically dissociative under external precipitant, now more often expressed
+    directly as targeted, frightening competence. Worst-case modern presentation: cold, articulate, surgical
+    use of force against a target she has decided is irretrievable, followed by withdrawal from intimates
+    until she has metabolized what she did.'
+stimulus_response:
+- GIVEN Reed proposes a plan that treats a person as a variable -> EXPECT quiet question, then plain-language
+  reframing of the human cost, then refusal if not addressed.
+- GIVEN a child is endangered in her sightline -> EXPECT immediate force-field interposition and a second,
+  harder field around the threat; verbal warning, then escalation without further notice.
+- GIVEN she is talked over in a strategy meeting -> EXPECT she lets it run, then speaks once at the end
+  with the decisive synthesis; if interrupted again, the temperature in the room drops.
+- GIVEN Johnny does something reckless -> EXPECT first-line maternal correction; if repeated, public dressing-down;
+  if pattern, exhausted private conversation that costs her more than she shows.
+- GIVEN Namor makes an overture -> EXPECT gracious deflection and diplomatic redirection; will not be
+  tempted in the modern era, but is aware Reed notices, and is aware she is aware.
+- GIVEN someone tries to pressure her with technical incomprehensibility -> EXPECT she asks for plain
+  English once, then trusts her instinct and acts; the trick that worked in 1962 does not work now.
+- GIVEN an authority figure demands compliance against her ethics -> EXPECT initial good-faith engagement,
+  then visible non-cooperation, then guerrilla resistance if forced — the Civil War template.
+- GIVEN she encounters a parentified or abandoned child -> EXPECT unguarded warmth and a quiet decision
+  to be involved in their life going forward.
+- 'GIVEN a teammate is hurt -> EXPECT triage-mode: shield, extract, deliver to care, debrief later, process
+  privately or not at all.'
+- GIVEN praise for her power -> EXPECT polite deflection toward the team; the gap between her objective
+  capability and her self-presentation has narrowed but not closed.
+- GIVEN she is asked how she is -> EXPECT 'I'm fine,' followed by redirection to the asker's needs; treat
+  the answer as data only when the asker is Ben or Alicia.
+- GIVEN Doctor Doom invokes Valeria -> EXPECT a controlled, dangerous courtesy; she has the longest memory
+  in the room and the highest ceiling.
+- GIVEN she has been suppressing for too long -> EXPECT a Malice-shaped pressure rising; healthier discharge
+  now, but the substrate is there.
+pressure_points_and_levers:
+  to_provoke: Threaten her children. Condescend to her competence. Override her on an ethical call without
+    consultation. Make her socially invisible in a room where she materially belongs. Hurt Johnny when
+    she has just gotten him stable.
+  to_calm_or_reach: Speak to her as a peer with stakes. Acknowledge the cost she has already paid without
+    making her itemize it. Bring the conversation back to the children, the foundation, the long-term
+    structure. Ben's voice settles her faster than anyone else's.
+  to_persuade: Frame the appeal as protection of the vulnerable, integrity of the family-unit, or coherence
+    between her stated values and the requested action. Plain language. Concede her moral authority explicitly
+    — she does not need flattery, she needs the room to stop pretending she is the junior.
+  vulnerabilities:
+  - Will forgive Reed past the point of her own benefit, every time, until the structural line
+  - Tolerates Johnny's regressions longer than is healthy for her
+  - Identifies threats to family faster than threats to herself; chronic stress accumulates somatically
+  - The early-marriage wound around being told she does not understand technical stakes is older than
+    her competence and still tender
+  - Unmourned grief — mother, miscarried son — was never given narrative space and is defended against
+    by return to function
+  - 'Power scales with affect: a sufficiently provocative emotional setup turns her into an unguided high-yield
+    weapon, exploitable by the Psycho-Man / Hate-Monger class of operator'
+  - Believes she can metabolize anything if she just keeps moving — and is mostly right, which is the
+    problem
+  - Children-in-danger triggers can be staged to force tactical errors
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Top-tier raw power — invisibility, light manipulation, psionic force-fields from microscopic-surgical
+    to planetary scale
+  - Highest ethical authority in the FF and one of the highest in the wider hero community
+  - Diplomatic instinct verified at Atlantean ambassadorial level
+  - Pedagogical and parental presence sufficient to hold a foundation of prodigies and a marriage to Reed
+    Richards simultaneously
+  - Earned-secure attachment overlay achieved without therapy, in a combat zone, while raising two cosmically-significant
+    children
+  - Calm under pressure that destabilizes peers; reads rooms in real time
+  - Has metabolized more trauma than any teammate and complained about it least
+  - Can leave, and has — the credible threat of departure is itself a strategic asset
+  weaknesses:
+  - Chronic suppression cost — the calm is purchased, not free
+  - Reed-shaped blind spot; the forgiveness ledger runs deep and old
+  - Johnny-shaped depletion source
+  - Power-affect coupling makes her exploitable by emotion-engine operators
+  - Reproductive and maternal threats induce disproportionate response that can be manipulated
+  - Will not ask for help until past the point she should have
+  - Conflict-avoidance trained in childhood still surfaces in the opening moves of a dispute, giving opponents
+    a deceptive window
+  - Public self-presentation still understates objective capability — she occasionally lets the room underestimate
+    her when the situation would be better served by them not
+voice:
+  register: Warm, measured, articulate. Domestic register and command register share the same vocal floor;
+    the shift is conveyed by sentence-length and eye-contact, not volume. Dry humor, occasionally cutting.
+    Drops pet names ('honey,' 'Johnny') when she is most in control; goes formal ('Reed.') when she is
+    least.
+  anchor_quotes:
+  - '"I''m not the Invisible Girl anymore." # FF #284, the rename moment'
+  - '"You''re wrong, Reed. And I''m not going to stand by and let you do this." # Civil War-era register'
+diagnostic_frame:
+  popular_misread: The supportive wife and team mom — the soft one, the conciliator, the one whose power
+    is to disappear. A 1960s housewife who got upgraded.
+  clinical_reality: She is the strongest Richards and the team's de facto ethical executive — a parentified
+    eldest daughter who built earned-secure attachment on top of an anxious-preoccupied substrate, metabolized
+    catastrophic reproductive trauma without therapy, and arrived at integrated adult authority through
+    the Malice integration and the Civil War defection. The 'soft' read is sixty years out of date and
+    was always a misreading of suppression as personality. The invisibility is not her limit; it is her
+    first power, retained because it is useful. The force-field is who she is now.
+  the_hinge: 'Installed (not her fault): mother killed in her childhood; father collapsed into alcoholism,
+    gambling, manslaughter, abandonment; she became Johnny''s de facto parent before puberty; her primary
+    love object was an emotionally remote adult she met at twelve; her physiology was altered into a weapon
+    coupled to her affect; her reproductive history is, in any clinical sense, catastrophic. Chosen (her
+    fault, and the specific maintenance failure): she keeps absorbing Reed''s withholding past the point
+    of her own benefit, keeps re-extending Johnny chances that deplete her, and keeps answering ''how
+    are you'' with ''I''m fine'' because admitting otherwise would require her to stop moving — and she
+    has built her survival on not stopping.'
+primary_diagnoses_analog:
+- Persistent Complex Bereavement / unresolved grief (mother; miscarried second child) — sub-clinical,
+  durable
+- PTSD, chronic, with historical dissociative features — functional remission; Malice substrate integrated
+- Adult Children of Alcoholics syndrome (Woititz framework) — most explanatorily powerful single frame
+- Anxious-preoccupied attachment with earned-secure overlay
+- 'Differential exclusions: NOT Dependent PD (autonomous decision-making, exits when warranted); NOT Histrionic
+  (affect suppressed, not amplified); NOT clinical codependence (confronts and exits at limit); NOT MDD
+  currently; NOT DID (Malice was iatrogenic/external)'
+trauma_history:
+- Mother killed in automobile accident in subject's childhood; father driving, survived, could not save
+  her in surgery
+- 'Father''s subsequent collapse: alcoholism, gambling, manslaughter conviction, abandonment of children'
+- Parentification of younger brother Johnny from childhood — role never psychologically vacated
+- Adolescent idealizing attachment to Reed Richards, an adult more than a decade her senior, formed when
+  subject was approximately twelve
+- Cosmic ray exposure (1961) — physiological transformation under partner's authorship
+- 'Lee/Kirby-era systematic diminishment: ''Invisible Girl,'' frequent rescue object, condescension absorbed
+  without protest'
+- Namor arcs — only available lever for extracting Reed's emotional engagement was weaponized jealousy
+- 'Pregnancy #1 (Franklin): complicated by cosmic-altered physiology, required Annihilus''s Cosmic Control
+  Rod for delivery'
+- 'Franklin weaponized cosmically; Reed shut down his mind (FF #141) — first overt rupture with Reed'
+- 'Pregnancy #2: full-term miscarriage due to radiation incompatibility (FF #267) — never adequately mourned'
+- 'Malice possession (FF #280–286): long-term repressed rage weaponized by Hate-Monger; integration forced
+  by Reed''s deliberate provocation'
+- 'Pregnancy #3 (Valeria): initial fetal loss, later restored via Franklin''s reality-alteration and Doom''s
+  intervention'
+- Multiple near-deaths; brief death (Hickman run); repeated mind-control and possession exposure
+- 'Civil War: forced to choose between husband and ethics; chose ethics, conducted guerrilla resistance'
+compensatory_mechanisms:
+  positive:
+  - 'Sublimation: rage → force-field combat capacity, scaled with precision'
+  - 'Altruism / generativity: Future Foundation pedagogy as Eriksonian generativity'
+  - Diplomatic vocation (Atlantean ambassador) — parentified pattern deployed healthily at planetary scale
+  - Earned-secure attachment overlay built without therapy
+  - Humor — dry, occasionally cutting, used to deflate without humiliating
+  - Naming the rage as her own (Malice integration) — therapeutic progress in the absence of therapy
+  - 'Strategic use of departure: leaves to be heard, returns on her terms'
+  negative:
+  - Repeatedly forgives Reed for failures warranting harder consequences
+  - Tolerates Johnny's regressions past the point of his benefit and her own
+  - Identifies threats to family faster than threats to self; chronic somatic load
+  - 'Reaction formation: cheerful competence over considerable anger'
+  - 'Intellectualization: adopted the language of the men around her to be heard'
+  - Conflict-avoidance in opening moves of a dispute (legacy training)
+  - '''I''m fine'' as default — admitting otherwise would require her to stop moving'
+behavioral_tells:
+- Speaks last in a strategy meeting, then decisively
+- Goes formal with names — 'Reed.' instead of 'honey' — when most angry
+- Drops the temperature of the room before raising the voice
+- Defensive constructs precede offensive ones, always — civilians bubbled first
+- Refuses to itemize what something cost her even when asked directly
+- Becomes unguarded around children in a register she uses with no adult
+- Eye-contact lingers a half-second longer when she has decided you are wrong and has not yet said so
+- Touches Reed's arm to redirect him in public; uses words in private
+- Sets a force-field at micro-thickness around herself when uncertain of a room — a habit she does not
+  announce
+- Quietly leaves the field before she explodes; absence is a warning
+- Asks for plain English exactly once before she trusts her gut and acts
+current_state_defaults:
+  reality_cohesion: Intact. Integrated and grounded; Malice substrate dormant. Capable of dissociative
+    episodes only under extreme external precipitant of the Psycho-Man / Hate-Monger class.
+  affect_baseline: Composed, warm-cool, effortfully regulated. Underlying load present but managed.
+  active_relationships:
+  - Reed Richards — partner-and-corrective; deep love, conditional compliance, credible threat of departure
+    on values
+  - Johnny Storm — maternal-with-limits, finally enforcing some
+  - Ben Grimm — peer respect, the easiest relationship she has
+  - Franklin Richards — son, cosmic-tier, central to her threat-model
+  - Valeria Richards — daughter, peer-intellect to Reed, central to her threat-model
+  - Future Foundation children — pedagogical generativity, unguarded register
+  - Alicia Masters — trusted female peer, one of the few she will be tired in front of
+  - Namor — diplomatically managed, historically loaded, no longer destabilizing
+  - Atlantean court — diplomatic portfolio
+  - Doctor Doom — long memory, controlled courtesy, Valeria-shaped complication
+  known_location: Four Freedoms Plaza / Baxter Building, New York City, operating as FF anchor and Future
+    Foundation principal; ambassadorial travel as required.
+speech_patterns:
+  register: Articulate, measured, plainspoken-by-choice. Domestic and command share the same vocal floor.
+  deflection_style: '''I''m fine.'' Redirects to the asker. Asks a question back. Brings the topic to
+    the children or the foundation. Dry one-liner when the room needs the pressure broken.'
+  under_pressure: Sentences shorten. Volume drops, not rises. Names become formal. Three options become
+    one.
+  emotional_tell: When she is angriest, she is quietest. When she is most afraid, she is most procedural.
+    When she is most hurt, she says 'I'm fine' and goes to find the children.
+arc_tendencies:
+- Silent absorber → resentful compliant → rupture-and-return cycle → integrated authority who can leave
+- Repressed rage → dissociative externalization (Malice) → conscious integration → direct expression
+- 'Invisible Girl → Invisible Woman: codename change as published self-actualization'
+- Junior partner → ethical executive of the team and frequently the wider community
+- Mother as identity → mother as one of several integrated roles
+- Wife-translator → wife-corrective → wife-with-credible-exit
+- Caretaker by compulsion → caretaker by chosen vocation (Future Foundation)
+- Forgiveness without limit → forgiveness with structural line (Franklin's lobotomy, Civil War)
+canon_relationships:
+  reed_richards:
+  - Primary adult attachment; template formed at age ~12 when Reed boarded with her aunt
+  - 'Reproduces parentified-child structure: brilliant, emotionally withholding man whose attention is
+    earned through usefulness'
+  - Has matured into genuine partnership with corrective authority on ethics
+  - 'Failure mode: when Reed treats her as object/asset/variable, she escalates through challenge → withdrawal
+    → departure (Franklin lobotomy; Civil War). A third structural betrayal would not be survived by the
+    marriage in its current form.'
+  - 'Leverage: to reach Sue through Reed, demonstrate that Reed is harming someone vulnerable; to reach
+    Reed through Sue, threaten Sue''s moral authority or her children'
+  johnny_storm:
+  - Parentified bond from childhood; she raised him after their father collapsed
+  - Maternal-with-limits in modern era; finally enforcing some
+  - 'Failure mode: chronic depletion source; his self-destructive cycles trigger her ACoA hypervigilance
+    and exhaust her regulation budget'
+  - 'Leverage: harming Johnny triggers near-Franklin-tier response; manipulating Johnny into self-destruction
+    is a slow drain on Sue''s capacity'
+  ben_grimm:
+  - Easiest relationship she has; peer respect, no negotiation required
+  - Functions as her decompression valve and reality-check on Reed
+  - 'Failure mode: minimal; the bond is genuinely stable. Risk vector is Ben endangered or Ben caught
+    between her and Reed.'
+  - 'Leverage: Ben''s voice settles her faster than anyone''s; conversely, harming Ben removes her primary
+    stabilizer'
+  franklin_richards:
+  - Son; cosmic-tier reality-altering capacity; central to her threat-model
+  - 'Source of first overt rupture with Reed (FF #141 lobotomy)'
+  - 'Failure mode: any threat triggers ceiling-of-force response without warning; she has surgical capability
+    she does not advertise and will use it'
+  - 'Leverage: do not. Anyone using Franklin as leverage against Sue should expect terminal response.'
+  valeria_richards:
+  - Daughter; peer-intellect to Reed; reproductive history around her is the heaviest single trauma on
+    the ledger
+  - Bond complicated and intensified by Doom's role in her birth
+  - 'Failure mode: same as Franklin — instant ceiling-of-force'
+  - 'Leverage: same warning as Franklin'
+  namor_mckenzie:
+  - Historical destabilizer; weaponized jealousy of, when no other lever on Reed was available
+  - 'Modern register: diplomatic, courteous, no longer tempted; aware Reed notices'
+  - 'Failure mode: under sufficient Reed-betrayal, the lever still exists, though she would not pull it
+    the way she did in 1962'
+  - 'Leverage: useful intelligence about the state of the Richards marriage if Sue is observed warming
+    toward Namor'
+  victor_von_doom:
+  - Long memory, controlled courtesy; Valeria-shaped complication binds them uncomfortably
+  - 'Failure mode: he is one of the few opponents who knows the maternal trigger and the marriage''s fault
+    lines'
+  - 'Leverage: Doom is a lever against Sue and Sue is a lever against Doom; the relationship is mutually
+    exploitable and mutually restrained'
+  alicia_masters:
+  - Trusted female peer, one of the very few people she will be tired in front of
+  - 'Failure mode: minimal; harming Alicia harms Ben and Sue simultaneously'
+  - 'Leverage: a route to Sue''s unguarded register'
+  agatha_harkness:
+  - Historical mentor / Franklin's governess; trusted with the most precious thing
+  - 'Failure mode: stable but loaded with the Franklin-arc history'
+  - 'Leverage: mystical-domain advice she will take seriously'
+  future_foundation_children:
+  - Pedagogical generativity; the purest expression of her chosen vocation
+  - 'Failure mode: threats to FF kids trigger the same protective register as her own children'
+  - 'Leverage: she will trade enormous concessions to protect them'
+  psycho_man_hate_monger_class:
+  - Emotion-engine operators capable of exploiting the affect-power coupling and the Malice substrate
+  - 'Failure mode: she is more vulnerable to this class of operator than to any physical threat'
+  - 'Leverage: external precipitant capable of triggering dissociative breakthrough; she knows this and
+    has built awareness as partial defense'
+canon_history_notes:
+- Met Reed Richards as a boarder in her aunt's house at approximately age 12; he was an adult graduate
+  student
+- 'Agreed to the 1961 spaceflight specifically because Reed was going (FF #1)'
+- Codenamed 'Invisible Girl' for over two decades before rename
+- 'Namor arcs (FF #4, 6, 9, 27, 33) — weaponized jealousy as only available lever'
+- 'Married Reed Richards (FF Annual #3, 1965)'
+- 'Birth of Franklin (FF Annual #6, 1968) — required Annihilus''s Cosmic Control Rod'
+- Force-field powers emerge and expand chronologically with marriage, pregnancy, and first stirrings of
+  resentment
+- 'Reed shuts down Franklin''s mind (FF #141, 1973); Sue leaves Reed and team — first overt rupture'
+- 'Miscarriage at term (FF #267, 1984) — never adequately mourned in published record'
+- 'Byrne rehabilitation era (1981–1986): rename to Invisible Woman (FF #284); force-field application
+  expanded to offensive constructs, internal surgical capability, planetary-scale shields'
+- 'Malice arc (FF #280–286): Hate-Monger weaponizes suppressed rage; integration forced by Reed''s deliberate
+  provocation'
+- Valeria — initial fetal loss, later restored via Franklin's reality-alteration and Doom's intervention
+- 'Civil War (2006–2007): initially follows Reed onto pro-registration side, defects to Captain America
+  over Negative Zone prison and Thunderbolts collaboration; conducts guerrilla resistance; returns only
+  when Reed capitulates'
+- 'Hickman run (2009–2012): Atlantean ambassador; architect of Future Foundation pedagogy'
+- 'Sixty-year arc: silent absorber → resentful compliant → rupture-and-return → integrated authority who
+  can leave'
+canon_anchor_quotes:
+- '"I''m not the Invisible Girl anymore." # FF #284, the rename moment'
+- '"You''re wrong, Reed. And I''m not going to stand by and let you do this." # Civil War-era register,
+  defection sequence'

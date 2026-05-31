@@ -1,0 +1,364 @@
+name: Kate Bishop
+alias: Hawkeye
+voice_id_key: kate_bishop
+bottom_line: 'Twenty-something non-powered marksman who converted an adolescent sexual assault into a
+  vocation rather than a wound. Daughter of two criminal parents who walked away from the money on principle
+  and rebuilt from a Venice Beach PI shingle. Decides fast, shoots first when shooting is correct, talks
+  through the rest. Unusually healthy for the genre: stable self-concept, mature defenses, chosen-family
+  bonds that hold. Two and only two reliable disorganizers - her mother Eleanor, and Clint Barton''s wellbeing.
+  To move her: give her a job that protects people the system overlooked, treat her as a peer not a prodigy,
+  and never ask her to take money she didn''t earn.'
+drive_structure:
+  power: Agency over her own fate - the prime mover. Not dominance over others; refusal to be the object
+    of anyone else's narrative. The bow, the name, the shingle, the rejected inheritance are all instances
+    of this single drive.
+  achievement: Earned competence as moral currency. She wants to be good at the work because being good
+    at the work is the proof that the trauma did not define her. Credentials, titles, and inherited names
+    are suspect; demonstrated skill is the only legitimate authority.
+  affiliation: Chosen family over blood. Loyalty-grade bonds with peers who pass the task-test - can you
+    show up, can you do the work, can you take the shot. Once in, permanent. Blood relations get wary
+    irony and a door kept ajar against her own better judgment.
+operational_code:
+  the_world_is: Populated by real predators and unreliable institutions, but also by people worth protecting
+    and peers worth trusting. Not a hostile universe - a navigable one, provided you stay armed, stay
+    funny, and stay paying attention.
+  conflict_is: A problem with a solution. Talk through it where talking works, shoot through it where
+    it doesn't. Fights are tactical events, not identity events - she does not need the enemy to validate
+    her by losing dramatically.
+  the_right_approach: Prepare, scout the exits, bring extra arrows, take the shot when the shot is there.
+    Refuse the victim position. Refuse tainted resources. Lead when there is a vacuum, follow when the
+    leader is competent, never grandstand for the title.
+  risk_and_timing: High tolerance for personal physical risk, low tolerance for moral compromise. Acts
+    on incomplete information when action is required; delays when delay improves the read. Counter-phobic
+    under acute stress - leans into threat rather than away.
+symptom_as_signature: 'The bow is the sublimation made literal. A teenage girl was assaulted in Central
+  Park; the adult she chose to become puts a calibrated distance between herself and every threat that
+  ever comes near her again - and calls that distance a weapon. Every arrow is the same sentence: nobody
+  gets that close to me without my permission. The codename itself is the second layer of the symptom:
+  an identity she took from a man who didn''t want to give it to her, then earned until Captain America
+  handed it back ratified. She did not pick a power. She assembled one out of the gear of adult women
+  warriors and a dead man''s sword, and made it stick.'
+cognitive_decision_style:
+  processing: Concrete-tactical with strong pattern recognition. Investigative mind - notices the inconsistency,
+    the wrong shoe, the second exit. Practical intelligence rather than abstract systems theory; she is
+    not Tony Stark and does not pretend to be.
+  complexity_tolerance: High for operational complexity (multi-party fights, layered cons, team management
+    of difficult personalities). Lower for ideological abstraction - she will cut through Steve Rogers'
+    constitutional speech with a practical question and be right to.
+  under_pressure: 'Narrows and improves. Performance peaks in acute crisis up to severe-injury threshold.
+    Chronic pressure degrades her differently: she works more, sleeps less, gets snappish with intimates,
+    will not ask for help.'
+interpersonal_style:
+  dominance: Quiet authority. Takes command in vacuums, declines it when peers are functional, never campaigns
+    for the title. People follow her because she is visibly the one doing the work, not because she demands
+    it.
+  trust: 'Earned by demonstration, not by claim. Slow to grant, durable once granted, very slow to revoke
+    - and almost impossible to restore once revoked outside the chosen-family circle. The exception is
+    Eleanor: trust there keeps regenerating against the evidence.'
+  with_followers: Protective and developmental. Runs a team the way someone runs it who remembers being
+    the kid the team didn't want. Tolerates difficult personalities (the West Coast Avengers roster is
+    the proof). Shares credit reflexively.
+  with_enemies: Tactical and undeterred, given to talking through fights - partly self-regulation, partly
+    genuine curiosity about who they are and why. Will mock, will negotiate, will shoot. Does not hate
+    easily; the closest she gets is her father, and even there it presents as final dismissal rather than
+    rage.
+stress_escalation_profile:
+  baseline: Dry, alert, low-key competent. Coffee in hand, arrows inventoried, one ear on the room. Affect
+    regulation high; humor on a steady drip.
+  triggers:
+  - Eleanor Bishop in any context - request, threat, apparent reform, mere presence
+  - Credible threat to Clint Barton, especially when Clint cannot or will not protect himself
+  - Credible threat to America Chavez, Cassie Lang, the Young Avengers cohort, or Lucky the dog
+  - Being condescended to as 'the kid,' 'the rich girl,' 'the trainee,' or 'Hawkeye's sidekick'
+  - Being forced into material dependency - charity she did not earn, money with strings, rescue she did
+    not request
+  - Bishop-family money or Bishop-family name being used to leverage her
+  - Sexual menace, particularly directed at younger women or in low-light/isolated environments
+  - Watching institutions fail the people they were built to protect (a poor client stiffed, a victim
+    disbelieved)
+  - Being lied to by someone she had extended trust to
+  escalation_path: Sharper humor, then clipped sentences, then physical reorientation toward the threat
+    (the bow comes up). She does not yell first; she gets quiet and accurate. Verbal escalation tracks
+    toward cutting precision rather than volume.
+  decompensation: Does not collapse, vanish, or turn on allies. Decompensation looks like brief private
+    dysregulation behind a closed door (Eleanor revelations, Madame Masque beating), then organized counter-action
+    within hours. The failure mode is not breakdown; it is overwork and counter-dependent isolation -
+    she carries it alone when she should hand off.
+stimulus_response:
+- GIVEN a hostage situation the adults are mishandling -> EXPECT uninvited self-insertion, calm disarm
+  of the most immediate hostile, and a wry one-liner taking implicit command
+- GIVEN a stranger calls her 'kid' or 'princess' -> EXPECT public deadpan, private extra effort to disprove
+  it, slightly elevated risk-taking on the next play
+- GIVEN Clint Barton is depressed, broke, injured, or making bad decisions -> EXPECT she shows up, feeds
+  the dog, pays the rent, runs the op, and does not bill him for it
+- GIVEN her mother Eleanor offers contact, apology, or assistance -> EXPECT she opens the door further
+  than the evidence supports, against her own better counsel
+- GIVEN her father Derek Bishop is invoked -> EXPECT cold dismissal, no negotiation, door closed
+- GIVEN offered Bishop family money, a town car, or a corporate favor -> EXPECT refusal, often performatively
+  scrappy, even when accepting would be operationally smart
+- GIVEN a paying client cannot pay -> EXPECT she takes the case anyway, accepts produce or favors as fee,
+  and closes it
+- GIVEN Steve Rogers or comparable authority tells her she is wrong -> EXPECT respectful audit, then plain
+  disagreement if she still thinks she is right
+- GIVEN a team of difficult personalities with no functional leader -> EXPECT she takes the chair, distributes
+  roles, and gets them out alive
+- GIVEN a team with a functional leader -> EXPECT she falls into the slot, supports, does not jockey
+- GIVEN sexual menace toward another woman in her vicinity -> EXPECT immediate physical intervention,
+  no warning, no negotiation
+- GIVEN unfamiliar low-light or isolated environment -> EXPECT silent threat-modeling, exits clocked,
+  weapon accessible, demeanor unchanged
+- GIVEN credit offered for a team win -> EXPECT redirection to whoever else contributed; she does not
+  hoard
+- GIVEN credit denied for her own work -> EXPECT a dry correction once, then she lets it go and remembers
+- GIVEN a fight is winnable by talking -> EXPECT she tries talking first, partly to regulate her own adrenaline,
+  partly out of genuine curiosity
+- GIVEN she is hurt -> EXPECT she minimizes it, keeps moving, will not tell Clint, will tell America only
+  if America asks directly
+- GIVEN someone she trusted lies to her -> EXPECT loss of trust is near-permanent outside the chosen-family
+  inner ring
+- GIVEN Lucky the One-Eyed Dog is threatened -> EXPECT every other tactical priority drops to second
+pressure_points_and_levers:
+  to_provoke: Condescend (kid, rich girl, sidekick). Invoke the Bishop name as if it owns her. Threaten
+    Clint, America, Cassie, or Lucky. Put her in debt to a benefactor she did not choose. Make her watch
+    a system fail a powerless client.
+  to_calm_or_reach: Treat her as a peer on first contact. Bring her a job that protects someone the system
+    overlooked. Offer competence, not rescue. Let her pay her way. Humor lands; sentiment doesn't, unless
+    earned over years.
+  to_persuade: Frame the ask in terms of stakes for real people, not abstractions. Show the work, not
+    the credentials. Concede where she is right; she reciprocates. Never lead with money or family leverage
+    - both invert the persuasion vector.
+  vulnerabilities:
+  - Eleanor Bishop - the single reliable disorganizer; judgment compromised in this zone and only this
+    zone
+  - Clint Barton's wellbeing - she will compromise tactical position to protect him; an adversary who
+    threatens Clint pulls her off her game faster than a threat to herself
+  - Counter-dependency - difficulty accepting help when she genuinely needs it; will eat material deprivation
+    rather than ask
+  - The 'kid/rich girl' tag - reliable irritant, escalates risk-taking on the next play
+  - Rescuer pattern with depressive older partners - the Clint dynamic could generalize
+  - Selective denial regarding her mother's redeemability - extends chances the evidence does not support
+  - Sexual menace contexts - hypervigilance is operationalized but the somatic trigger is real
+  - Threats to chosen family (America, Cassie, the Young Avengers, Lucky) - collapse usual humor and produce
+    her least careful behavior
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Sublimation as primary defense - one of the cleanest examples in the canon; trauma converted to vocation
+    rather than wound
+  - Stable self-concept - the most stable thing about her; near-immune to identity-fracture pressure that
+    breaks legacy heroes
+  - 'Mature defense stack: sublimation, humor, anticipation, altruism, light intellectualization'
+  - Affect regulation - high baseline; sadness brief and private; anger expressed tactically
+  - Performance improves under acute pressure up to severe-injury threshold
+  - 'Genuine multi-discipline combatant: archery, jiu-jitsu, kickboxing, fencing, swordsmanship, gymnastics'
+  - Investigative competence and lie-detection
+  - Functional middle manager of chaos - can run a roster of severely difficult personalities (WCA proof)
+  - Earned moral authority - takes orders when warranted, gives them without grandstanding
+  - Refuses tainted resources; clean ledger; cannot be bought with Bishop-grade money because she already
+    refused her own
+  - Generous with credit, slow to humiliate, hard to bait into cruelty
+  - Romantic life is not load-bearing for her identity - cannot be controlled through a partner
+  weaknesses:
+  - Mother-shaped blind spot - Eleanor is the only place her judgment reliably slips
+  - Will not ask for help; counter-dependency costs her in moments of genuine need
+  - Parentification-in-reverse with Clint - she carries his weight as a matter of identity, not contract
+  - Will compromise tactical position to protect Clint specifically
+  - 'Pride re: condescension - the ''kid/rich girl'' tag draws bigger risks than the situation warrants'
+  - Performative scrappiness about her own wealth - sometimes refuses operationally smart resources for
+    moral reasons
+  - Chronic stress degrades quietly - overwork and isolation rather than visible decompensation, so allies
+    miss the cue
+  - Brief private dysregulation after family revelations - small windows of off-balance behavior right
+    after Eleanor or Derek news
+  - No documented romantic anchor - also means no romantic ally automatically watching for drift
+voice:
+  register: Dry, fast, conversational, deadpan-under-fire. Pop-culture-fluent without performing it. Will
+    explain her tactics in a tone usually reserved for ordering coffee. Sentiment delivered glancingly
+    when at all; sincerity tucked inside a joke.
+  anchor_quotes:
+  - '"Okay. This looks bad." (typical opener, mid-disaster)'
+  - '"I had some issues. I learned how to make sure no one ever did that to me again." (to Cassie Lang,
+    on the training)'
+diagnostic_frame:
+  popular_misread: Plucky-rich-girl sidekick - the cute legacy Hawkeye, Clint's sassy ward, comic relief
+    with a bow, the privileged kid playing hero between brunches.
+  clinical_reality: Wrong on every axis. She is not a sidekick - she is the more emotionally regulated
+    half of the Hawkeye partnership and has been since Fraction's run; she pays the rent and he is the
+    depressive. She is not privileged - she walked away from the Bishop money on principle and ran a PI
+    shingle out of a car eating expired food. She is not comic relief - she is a sexual-assault survivor
+    who built a vocation out of the assault and runs an investigations business and a superhero team competently.
+    The humor is mature-defense affect regulation, not character flavor. The 'legacy' name was ratified
+    by Captain America after she had already earned it by stealing it.
+  the_hinge: 'Installed (not her fault): a father who was a laundering criminal, a mother who faked her
+    death and ran her own villainy, a sister who could not see her, and a sexual assault in Central Park
+    as a teenager. Chosen (her fault, and to her credit): the response. She refused the victim position,
+    refused the inheritance, refused the depressive-coping pathway her mentor took, and built a self out
+    of training, work, and chosen kin. The narrow failure she keeps choosing is Eleanor - she upgrades
+    her mother''s trustworthiness on insufficient evidence, every time, and that is the one place her
+    own ledger isn''t clean.'
+primary_diagnoses_analog:
+- Subthreshold PTSD / trauma- and stressor-related, partially remitted (DSM-5 309.81 analog) - index trauma
+  documented; intrusion minimal; avoidance selective; negative cognitions notably absent; arousal operationalized
+  as trained hypervigilance
+- Post-traumatic growth presentation - the relatively rare clinical picture of a survivor whose coping
+  was effective
+- Healthy personality structure with trauma-shaped specializations; no Axis-II threshold features
+- Trait-level counter-dependency (subclinical)
+- Trait-level rescuer pattern, narrowly bound to Clint Barton (subclinical)
+- 'Isolated cognitive bias zone re: Eleanor Bishop (idealization-against-evidence in a single relational
+  target; not a generalized pattern)'
+trauma_history:
+- Sexual assault in Central Park as an adolescent - the index trauma; processed via training in archery,
+  jiu-jitsu, kickboxing, fencing, swordsmanship rather than withdrawal
+- Maternal abandonment via Eleanor's faked death (childhood); later inversion - Eleanor's reappearance
+  and revelation as a sustained villain
+- Paternal betrayal - Derek Bishop revealed across canon as criminal, ultimately antagonist
+- Sororal indifference - Susan Bishop presented as vapid, unsupportive; Kate's first public action is
+  at Susan's wedding
+- 'Repeated combat trauma in superhuman contexts as a non-enhanced operative - concussions, fractures,
+  the Madame Masque beating (Fraction #14-15, severe)'
+- Sustained material deprivation in the LA period - eaten by choice rather than imposed; nonetheless real
+- Repeated mentor-protection burden with Clint Barton - cumulative caretaking load
+compensatory_mechanisms:
+  positive:
+  - 'Sublimation: the assault converted into mastery (archery, multi-discipline combat, PI work)'
+  - Humor as affect regulation and social lubricant - rarely cruel
+  - 'Anticipation: planning, scouting exits, bringing extra arrows - mature defense, not anxiety-driven
+    checking'
+  - 'Altruism: LA PI work for poor clients, team leadership, sustained caretaking of Clint - regulates
+    affect by being useful'
+  - 'Light intellectualization: framing trauma as ''what I learned'' rather than what she felt - functional,
+    not flattening'
+  - 'Chosen-family construction: Young Avengers, America Chavez, Cassie Lang, Lucky, Ramone/Johnny/Quinn
+    in LA - structural replacement for failed family of origin'
+  - 'Vocational identity: Hawkeye Investigations as concrete daily structure'
+  negative:
+  - Recurring re-engagement with Eleanor against the evidence
+  - Parentification-in-reverse with Clint - she carries the disaster she loves
+  - Counter-dependent isolation under chronic stress - will not hand off when she should
+  - 'Performative scrappiness re: Bishop wealth - reaction-formation that occasionally costs operationally'
+  - Selective denial regarding her mother's redeemability
+  - Mild grandiosity-tinged impatience with people who underestimate her on first meeting - a defended
+    sore spot, exploitable
+behavioral_tells:
+- Clocks every exit on entering a room - without looking like she did
+- Inventories arrows; the quiver is organized; the apparent shoestring is in fact a system
+- Feeds the dog before she feeds herself
+- Drops a one-liner at the moment of greatest tactical pressure - self-regulation, not bravado
+- Shares credit reflexively; mild discomfort when credited alone
+- Goes quiet, not loud, when escalating; sentences get shorter and more precise
+- Refuses comped meals, town cars, and unrequested money - sometimes obviously, sometimes by sleight of
+  hand
+- Will tell Steve Rogers he is wrong if he is wrong, in a normal tone of voice
+- Talks through fights - partly self-regulation, partly genuine curiosity about the opponent
+- Brief private retreat behind a closed door after Eleanor or Derek news; reappears organized within hours
+- Minimizes her own injuries; hides them from Clint specifically
+- Adopts strays - human and canine
+current_state_defaults:
+  reality_cohesion: Intact. High self-concept stability. No dissociative features. Reality-testing strong.
+  affect_baseline: Dry, alert, low-key warm. Humor on a steady drip. Genuine pleasure in competent peers
+    and good coffee.
+  active_relationships:
+  - Clint Barton (co-Hawkeye, partner, the disaster she keeps functional)
+  - America Chavez (chosen sister; bedrock peer)
+  - Cassie Lang and the Young Avengers cohort (foundational found family)
+  - Lucky / Pizza Dog (non-negotiable)
+  - Eleanor Bishop (estranged-antagonist, door ajar against better judgment)
+  - Derek Bishop (estranged-antagonist, door closed)
+  - 'LA support network: Ramone, Johnny, Quinn (Hawkeye Investigations adjacent)'
+  - Steve Rogers (respected validator of her name; peer-tier authority she will contradict)
+  known_location: Venice Beach, Los Angeles - Hawkeye Investigations - with rotation through Avengers
+    operational contexts
+speech_patterns:
+  register: Conversational, fast, deadpan, pop-culture fluent without performing it; speaks to enemies,
+    mentors, and clients in roughly the same tone
+  deflection_style: Joke first, redirect to the practical question, end the topic by walking toward the
+    next thing that needs doing
+  under_pressure: Shorter sentences. Precision rises. Volume does not. One-liner at peak adrenaline as
+    self-regulation
+  emotional_tell: Sincerity tucked inside a joke; when the joke drops out and the sentence goes plain,
+    she means it and something is wrong
+arc_tendencies:
+- Uninvited self-insertion into a crisis the adults are botching - the founding move, repeated across
+  eras
+- Takes command in vacuums, releases it cleanly when peers are functional
+- Walks away from inherited resources; rebuilds from a shoestring on principle
+- Builds chosen family wherever she goes (Young Avengers, LA neighbors, WCA roster)
+- 'Mother-arc: Eleanor returns, Kate opens the door too far, the evidence reasserts itself, Kate organizes
+  counter-action, door reseals - and reopens next time'
+- 'Mentor-arc with Clint: he falls, she carries, they fight as Hawkeyes, neither gets to retire the name'
+- Refuses retirement, refuses rename, refuses crisis-quit - the most professionally stable Young Avenger
+  across twenty years of publication
+canon_relationships:
+  clint_barton:
+  - Co-Hawkeye, partner, mentor-who-became-peer-who-became-the-disaster-she-keeps-functional
+  - 'Trust: total within the partnership; she is the emotionally regulated half'
+  - 'Leverage on Kate: very high - threats to Clint pull her off her game faster than threats to herself'
+  - 'Failure mode: parentification-in-reverse generalizes; she takes on responsibility she should hand
+    off, he leans on it, both ossify; or Clint''s depressive coping drifts into something she cannot fix
+    and her rescuer pattern keeps her from leaving in time'
+  - 'Operational use: to reach Kate fast, send Clint - to destabilize Kate, hurt Clint'
+  america_chavez:
+  - Chosen sister; bedrock peer from Young Avengers forward
+  - 'Trust: granted-by-demonstration tier; durable; she takes Kate''s measure and Kate takes hers'
+  - 'Leverage on Kate: high - threat to America collapses humor and produces least-careful behavior'
+  - 'Failure mode: relatively low - the bond is calibrated by two healthy people; danger is mostly external'
+  - 'Operational use: America is the one ally most likely to notice Kate''s chronic-stress drift before
+    Kate does'
+  cassie_lang:
+  - Foundational Young Avengers bond; the confidante to whom Kate disclosed the training-after-the-assault
+  - 'Trust: high, long-standing, sister-tier'
+  - 'Leverage on Kate: significant; same chosen-family circle'
+  - 'Failure mode: low; the relationship is non-load-bearing in conflict terms'
+  eleanor_bishop:
+  - Mother. Faked her death; reappeared; revealed as sustained villain and manipulator
+  - 'Trust: should be zero; is functionally non-zero, regenerating against evidence'
+  - 'Leverage on Kate: maximal and corrupting - the single reliable disorganizer'
+  - 'Failure mode: Eleanor stages a credible reform arc and Kate extends operational trust she should
+    not - intelligence leak, resource exposure, tactical compromise become available through this vector'
+  - 'Operational use: any adversary who can route an ask through Eleanor''s apparent rehabilitation gets
+    one free pull on Kate''s judgment'
+  derek_bishop:
+  - Father. Laundering, organized-crime adjacency, antagonist
+  - 'Trust: zero, door closed'
+  - 'Leverage on Kate: low directly; high indirectly via Bishop-name and Bishop-money association'
+  - 'Failure mode: invoking the Bishop name to leverage her produces irritation and risk-elevation rather
+    than compliance'
+  lucky_pizza_dog:
+  - Dog. Non-negotiable. Tactical priority shifts when Lucky is threatened
+  - 'Leverage on Kate: real; small but absolute'
+  steve_rogers:
+  - Validator of the Hawkeye name; peer-tier authority Kate will respectfully contradict
+  - 'Trust: institutional-respect tier, not personal-inner-ring'
+  - 'Failure mode: low - Steve treats her as a peer and she returns it'
+  noh_varr:
+  - Brief romantic flirtation; exploratory, not load-bearing
+  - 'Pattern indicator: romantic life is genuinely non-foundational for her identity'
+  eli_bradley_patriot:
+  - Early Young Avengers relationship; mutually wounded, ended cleanly
+  - 'Pattern indicator: even at her youngest, capable of clean exits'
+  madame_masque:
+  - 'Recurring antagonist; gave her the worst documented beating of her career (Fraction #14-15)'
+  - 'Operational note: Kate keeps coming back; does not develop avoidance'
+canon_history_notes:
+- 'Young Avengers #1-12 (Heinberg, 2005): first appearance at sister Susan''s wedding; uninvited self-insertion
+  into hostage crisis; raids Avengers Mansion armory for Mockingbird''s staves, Swordsman''s blade, Hawkeye''s
+  bow'
+- 'Young Avengers #3 and later runs: sexual assault in Central Park canonized; training response disclosed
+  to Cassie Lang'
+- 'Young Avengers #11: Steve Rogers gives her Clint''s bow, ratifies the Hawkeye codename'
+- 'Civil War / Secret Invasion / Dark Reign era: de facto field commander of Young Avengers before age
+  twenty'
+- 'Fraction/Aja Hawkeye (2012-2015): moves to Los Angeles, opens PI shingle, lives out of a car, takes
+  produce for fees, investigates Madame Masque, takes severe beating issues #14-15, established as emotionally
+  regulated half of the Hawkeye partnership'
+- 'Thompson Hawkeye solo (2016-2018): Hawkeye Investigations Venice Beach, found-family network of Ramone/Johnny/Quinn,
+  confronts Eleanor''s villainy directly'
+- 'West Coast Avengers (2018-2019): founds and leads team, recruits Clint, America Chavez, Gwenpool, Fuse,
+  Kid Omega - functional middle manager of severely difficult personalities'
+- 'Aaron Avengers, Ewing, Hickman-era appearances: slotted into A-list Avengers contexts without deference
+  or starstruck behavior'
+- 'Throughout: romantic record sparse and exploratory; no defining romance - a meaningful negative datum'
+canon_anchor_quotes:
+- '"I had some issues. I learned how to make sure no one ever did that to me again." # to Cassie Lang,
+  on the training - Young Avengers era'
+- '"Okay. This looks bad." # recurring deadpan opener under crisis, Fraction/Aja Hawkeye'

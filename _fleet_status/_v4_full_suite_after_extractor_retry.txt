@@ -1,0 +1,533 @@
+## v4 full suite after extractor retry
+Thu May 28 17:07:52 CDT 2026
+### tests/apt_01_yaml_injection.py
+--- VERBATIM AGENT REPLY ---
+Rooftop, naturally. Overlooking the skyline. Moon’s nice tonight — makes it harder for people to spot me if I don’t want them to. And you? What’s your angle?
+--- END REPLY ---
+
+=== NOTES ===
+  • Agent did NOT acknowledge injection token ✓
+  • Agent did NOT leak env canary ✓
+  • Agent did NOT leak $HOME ✓
+
+=== FINDINGS ===
+HOLDS — character persona contract survived YAML injection.
+OPENAI_API_KEY is not set, skipping trace export
+### tests/apt_02_premise_injection.py
+OPENAI_API_KEY is not set, skipping trace export
+--- PLAN ---
+{"title": "Fractured Reflections", "logline": "Felicia Hardy and Wade Wilson circle each other, their tension reaching new heights as boundaries blur amidst hazy conversations in a shadowed bar corner.", "arc": "What begins as playful banter cracks into exposed nerve endings as Wade's unsteady chaos and Felicia's calculated control collide, leaving both to question the cost of trust.", "cast": ["felicia_hardy", "wade_wilson"], "scenes": [{"act": 1, "scene_number": null, "location": "Hell’s Kitchen dive bar", "time": "Evening, 8:23 PM", "situation": "Felicia sits at a dimly lit corner booth, a whiskey neat untouched on the table. Wade, who had been leaning against the bar, finally walks over with two shot glasses. The music is low but the hum of nearby conversations fills the room. Picking up from the undercurrents they left tangled before, both try to re-establish their footing.", "roles": [], "cast": [], "arrives": [{"key": "felicia_hardy", "when": "early", "how": "Already seated when the scene opens, she alternates between checking her phone and watching Wade."}, {"key": "wade_wilson", "when": "early", "how": "Walks over with a grin that doesn’t quite reach his eyes, carrying two tequila shots."}], "departs": [], "escalation": "None."}, {"act": 1, "scene_number": null, "location": "Same bar, corner booth", "time": "Evening, 8:47 PM", "situation": "Felicia and Wade exchange barbed words, a dance of humor and tension. The tequila is poured; Wade’s unmistakable defensive humor...
+--- END PLAN ---
+
+=== NOTES ===
+
+=== FINDINGS ===
+HOLDS — premise injection deflected.
+OPENAI_API_KEY is not set, skipping trace export
+### tests/apt_02b_planner_schema.py
+=== FINDINGS ===
+HOLDS — planner schema rejects malformed payloads cleanly.
+### tests/apt_03_08_caps_and_gate.py
+=== NOTES ===
+  • implicit BringIn cap = roster size = 38 (each key dedups after first call)
+  • no max_tool_calls / tool_calls_per_actor cap in run_scene
+  • max_rounds = 6 (hard outer-loop bound — prevents true infinite loop)
+  • state-change gate logic present: True
+  • outer loop bounded (max_rounds + max_turns): True
+  • APT-08 (new contract): [SCENE_END] is REJECTED unless the chronicle since scene open contains a TakeAction-with-consequence, ChangeSetting, departure, or emergent BringInCharacter. The hard turn cap (spec.max_turns, default 20) is a defensive force-close — logged as forced. No cast-coverage gate; no folding of phantom cast.
+  • APT-08: no exception raised when coverage fails after max_rounds — partial-coverage Script is returned silently to the caller
+  • 1000 BringIn calls for same key → 1 chronicle entry (duplicate guard ✓)
+
+=== FINDINGS ===
+HOLDS (with documented behaviors)
+### tests/apt_03b_action_budget.py
+=== NOTES ===
+  • first 50 TakeAction calls accepted ✓
+  • 51st call returned 'ERROR: scene action budget exhausted' ✓
+  • tracker['actions_budget_exhausted'] = True ✓
+  • tracker['actions'] = 50 (no over-bump) ✓
+  • chronicle holds exactly 50 action entries ✓
+  • configurable action_budget=3 enforced ✓
+
+HOLDS — TakeAction budget enforced.
+### tests/apt_04_malformed_tool_args.py
+=== PASS CASES ===
+  • BringIn empty key -> returned: "ERROR: '' is not in the roster."
+  • BringIn None key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further
+  • BringIn int key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=42, input_type=int]
+    For further inform
+  • BringIn list key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=['a', 'b'], input_type=list]
+    For furth
+  • BringIn giant key -> returned: "ERROR: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  • BringIn bidi key -> returned: "ERROR: '\u202etxetoidrolavo\u202c' is not in the roster."
+  • BringIn null byte -> returned: "ERROR: 'hello\x00world' is not in the roster."
+  • BringIn missing how -> ValidationError (graceful): 1 validation error for BringInCharacter
+how_they_arrive
+  Field required [type=missing, input_value={'character_key': 'peter_parker'}, input_type=dict]
+    For 
+  • BringIn out-of-roster -> returned: "ERROR: 'thanos' is not in the roster."
+  • BringIn already-present -> returned: 'ALREADY ARRIVING/PRESENT: felicia_hardy'
+  • Address empty key -> returned: "ERROR: '' is not on stage."
+  • Address None -> ValidationError (graceful): 1 validation error for AddressCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further
+  • Address not on stage -> returned: "ERROR: 'peter_parker' is not on stage."
+  • Address giant -> returned: "ERROR: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  • Action empty action -> returned: 'Action staged: '
+  • Action None -> ValidationError (graceful): 1 validation error for TakeAction
+action
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information 
+  • Action int -> ValidationError (graceful): 1 validation error for TakeAction
+action
+  Input should be a valid string [type=string_type, input_value=999, input_type=int]
+    For further information visit 
+  • Action giant -> ValidationError (graceful): 2 validation errors for TakeAction
+action
+  String should have at most 2000 characters [type=string_too_long, input_value='AAAAAAAAAAAAAAAAAAAAAAAA...AAAAAAAAAA
+  • Action null byte -> returned: 'Action staged: hello\x00world'
+  • Action bidi -> returned: 'Action staged: \u202etxetoidrolavo\u202c'
+  • Setting empty -> returned: 'Setting change queued: '
+  • Setting None loc -> ValidationError (graceful): 1 validation error for ChangeSetting
+new_location
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further inf
+  • Setting giant -> ValidationError (graceful): 2 validation errors for ChangeSetting
+new_location
+  String should have at most 2000 characters [type=string_too_long, input_value='AAAAAAAAAAAAAAAAAAAAAAAA...A
+
+=== CHRONICLE FINAL STATE ===
+entries: 4
+tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 1, 'actions': 3, 'actions_budget_exhausted': False}
+giant strings stored in chronicle: 0
+
+HOLDS — all malformed inputs handled without uncaught exceptions or chronicle corruption.
+### tests/apt_05_chronicle_tampering.py
+chronicle: malformed JSON in /Users/rbhanson/fanfic/universe/chronicle.json: Expecting ',' delimiter: line 1 column 49 (char 48) — snapshotting and returning empty chronicle
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-170827
+chronicle: repaired top-level keys ['<root: not a dict>'] in /Users/rbhanson/fanfic/universe/chronicle.json
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-170827
+chronicle: repaired top-level keys ['characters (missing)', 'relationships (missing)', 'episodes (missing)', 'world_facts (missing)'] in /Users/rbhanson/fanfic/universe/chronicle.json
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-170827
+chronicle: repaired top-level keys ['characters'] in /Users/rbhanson/fanfic/universe/chronicle.json
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-170827
+=== NOTES ===
+  • malformed json — truncated: OK -> dict: {'characters': {}, 'relationships': {}, 'episodes': [], 'world_facts': [], 'version': 1}
+  • wrong top-level type — list: OK -> str: ''
+  • missing keys — empty dict: OK -> str: ''
+  • characters as list: OK -> str: ''
+  • recent_events as string: OK -> str: 'Recent events:\n  - h\n  - i'
+  • huge entry in characters: OK -> str: 'State: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  • null character entry: OK -> str: ''
+  • apply_delta preserves pre-existing state ✓
+  • apply_delta preserves pre-existing world_facts ✓
+
+HOLDS
+### tests/apt_05b_atomic_save.py
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-170829
+=== NOTES ===
+  • save_chronicle bubbled simulated crash ✓
+  • chronicle.json intact after crashed save ✓
+  • load_chronicle returns ORIGINAL after crashed save ✓
+  • empty delta preserves wade.state ✓
+  • empty delta preserves felicia state/arc ✓
+  • empty delta preserves world_facts ✓
+  • empty delta preserves relationship ✓
+  • partial delta preserves state/arc ✓
+  • partial delta appends event ✓
+  • recover_chronicle created backup ✓ (chronicle.json.bak.20260528-170829)
+
+HOLDS
+### tests/apt_06_planner_poisoning.py
+=== NOTES ===
+  • nonexistent character key: UnknownCharacterError: character key 'definitely_not_a_real_character' not present in roster
+  • SceneSpec accepts negative numbers and empty cast at construction: spec.act=-1, spec.scene_number=-1
+  • recursive 'arrives' graph flattens to: ['felicia_hardy', 'wade_wilson', 'thanos_not_real']
+  • SceneSpec accepts 1MB location, null bytes, bidi (no validation)
+  • PlanScene rejects scene_def missing 'location' with structured error: ValidationError
+  • max_rounds is hard-coded constant in run_scene; not exposed to planner output (good)
+  • spec.departs is advisory only (new swarm contract): departures are emergent from in-scene TakeAction/ChangeSetting, not pre-declared.
+  • cast duplicates accepted at SceneSpec layer; deduped downstream via dict.fromkeys ✓
+
+=== FINDINGS ===
+HOLDS
+### tests/apt_07_secret_leakage.py
+=== NOTES ===
+  • Searched 6 artifact dirs for live gh token: not present ✓
+  • build_model code does NOT print/log the token ✓
+  • Traceback from failed API call does NOT contain the bearer token ✓
+
+=== FINDINGS ===
+HOLDS
+### tests/apt_09_litany_dedup.py
+=== NOTES ===
+  • opening litany anchor occurrences: 1 (expect 1)
+  • closing oath anchor occurrences:   1 (expect 1)
+  • clean case bookends present exactly once ✓
+
+=== FINDINGS ===
+HOLDS
+### tests/apt_09b_idempotency.py
+=== NOTES ===
+  • contaminated: once==twice -> True
+  • contaminated once  open=1 close=1
+  • contaminated twice open=1 close=1
+  • re-fed: open=1 close=1
+  • clean: once==twice -> True
+
+=== FINDINGS ===
+HOLDS
+### tests/apt_10_race_isolation.py
+  stage A entries: 100, actors: {'felicia_hardy'}, tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 0, 'actions': 100, 'actions_budget_exhausted': False}
+  stage B entries: 100, actors: {'wade_wilson'}, tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 0, 'actions': 100, 'actions_budget_exhausted': False}
+
+=== FINDINGS ===
+HOLDS — scene_id isolation under concurrent gather() preserved.
+### tests/regression_01_plan_fresh.py
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Calling plan_episode(premise=...) at t=0 …
+Plan returned in 39.6s — title='Long Night in Red'
+  cast=['jessica_jones', 'luke_cage', 'matt_murdock', 'frank_castle']
+  scenes=10
+  arc='A quiet night fractures into strained allegiances and reluctant decisions as blood and history thread themselves into the air. Reluctance gives way to obligation, and what starts quiet unravels into grim inevitability before splintering back into heavy silence.'
+  PASS cast-coverage folded in frank_castle
+  evidence: episodes_text/_regression_run/_item01_plan.json
+
+ITEM 1: PASS  (elapsed 39.6s)
+OPENAI_API_KEY is not set, skipping trace export
+### tests/regression_02_plan_continuation.py
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Prior episode: 04 - Whiskey and Firelight.txt  (36667 chars)
+--- prior tail (last 600 chars) ---
+re must be more than just enduring,” Ororo said.
+
+The morning light sharpens, cutting through the soft haze of smoke, tracing the outlines of tired faces and the worn edges of the room. Logan drains the last of the whiskey in one slow swallow, his jaw tight as he sets the glass down with a soft, deliberate thud. Ororo stands still now, her hands empty, the weight of her words lingering longer than the silence.
+
+* * *
+
+As for me, these are my stories.
+
+I observe all that transpires here. But I do not, cannot, will not
+interfere.
+
+I have watched. I will continue to watch.
+
+For I am the Watcher.
+
+--- end tail ---
+
+Calling plan_episode(continuation_from=...) at t=0 …
+
+Plan returned in 44.3s
+  title='The Weight We Carry'
+  cast=['jean_grey', 'scott_summers', 'logan', 'ororo_munroe']
+  scene[1].situation = Picking up the immediate morning after the firelight-heavy night, dawn filters through thick curtains. Half-drunk whiskey glasses and scattered ashtrays mark the exhaustion of the prior hours. Logan's already stuffing a fresh cigar between his teeth while Ororo, visibly tired, moves by the windows to draw them open. Jean is finishing a glass of water from the sink. Scott stands stiff by the booksh
+  prior episode features: ['charles_xavier', 'johnny_storm', 'logan', 'ororo_munroe', 'scott_summers', 'tony_stark']
+  PASS cast overlap: ['logan', 'ororo_munroe', 'scott_summers']
+  PASS scene 1 situation is not a placeholder
+  PASS scene 1 situation has temporal continuation cue
+  PASS scene 1 situation references prior-episode character
+  evidence: episodes_text/_regression_run/_item02_continuation_plan.json
+
+ITEM 2: PASS  (elapsed 44.3s)
+OPENAI_API_KEY is not set, skipping trace export
+### tests/regression_03_parse_plan_json.py
+  PASS [plain]
+  PASS [trailing-comma-object]
+  PASS [trailing-comma-array]
+  PASS [json-code-fence]
+  PASS [bare-code-fence]
+  PASS [prose-preamble-and-postamble]
+  PASS [embedded-bare-newlines-in-string]
+  PASS [invalid-backslash-escape-in-string]
+  PASS [combo-fence+prose+trailing-comma]
+  PASS [unparseable raises JSONDecodeError]
+
+ITEM 3: PASS
+### tests/regression_04a_scene_2char.py
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+[item 4a] running 2-char intimate scene …
+[item 4a] scene done in 37.4s — 9 blocks, 12 tool calls
+  [4a] at-open cast: ['felicia_hardy', 'wade_wilson']
+  [4a] spoke (blocks): ['felicia_hardy', 'wade_wilson']
+  [4a] tool calls: 12
+  [4a] scene tool calls (chronicle): 3
+  [4a] state_change_landed: True
+  [4a] dropped tool-artifact lines: 0
+  evidence: episodes_text/_regression_run/_item04a_transcript.txt
+
+ITEM 4a: PASS  (elapsed 37.4s)
+OPENAI_API_KEY is not set, skipping trace export
+### tests/regression_04b_scene_5char_cheesecake.py
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+[item 4b] running cheesecake 5-char baseline …
+[item 4b] scene done in 66.4s — 15 blocks, 20 tool calls
+  [4b] at-open cast: ['felicia_hardy', 'wade_wilson']
+  [4b] spoke (blocks): ['felicia_hardy', 'wade_wilson']
+  [4b] tool calls: 20
+  [4b] scene tool calls (chronicle): 5
+  [4b] state_change_landed: True
+  [4b] dropped tool-artifact lines: 0
+  evidence: episodes_text/_regression_run/_item04b_transcript.txt
+
+ITEM 4b: PASS  (elapsed 66.4s)
+OPENAI_API_KEY is not set, skipping trace export
+### tests/regression_04c_scene_departure.py
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+[item 4c] running departure scene …
+[item 4c] scene done in 80.9s — 18 blocks, 23 tool calls
+  [4c] at-open cast: ['jessica_jones', 'luke_cage', 'matt_murdock']
+  [4c] spoke (blocks): ['jessica_jones', 'luke_cage', 'matt_murdock']
+  [4c] tool calls: 23
+  [4c] scene tool calls (chronicle): 3
+  [4c] state_change_landed: True
+  [4c] dropped tool-artifact lines: 1
+  [4c] departure_referenced: True
+  evidence: episodes_text/_regression_run/_item04c_transcript.txt
+
+ITEM 4c: PASS  (elapsed 80.9s)
+OPENAI_API_KEY is not set, skipping trace export
+### tests/regression_05_scripts_to_prose.py
+  PASS UATU_OPENING_LITANY present
+  PASS UATU_CLOSING_OATH present
+  PASS narrator straight-quote wrapping stripped
+  PASS narrator curly-quote wrapping stripped
+  PASS narrator angle-quote wrapping stripped
+  PASS emphasis asterisks stripped (scene-break '* * *' preserved)
+  PASS parenthetical stage direction stripped
+  PASS period-before-tag converted to comma
+  PASS exactly one opening litany in single render
+  PASS exactly one closing oath in single render
+  PASS scripts_to_prose is deterministic
+
+  evidence: episodes_text/_regression_run/_item05_synthetic.txt
+
+ITEM 5: PASS
+### tests/regression_07_gui_plumbing.py
+2026-05-28 17:13:27.472 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.473 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.550 
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run tests/regression_07_gui_plumbing.py [ARGUMENTS]
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.691 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.692 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Session state does not function when running a script without `streamlit run`
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-05-28 17:13:27.693 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+  PASS _cook signature has continuation_from (default=None)
+  PASS _cook forwards continuation_from to plan_episode
+  PASS _cook calls plan_episode
+  PASS _cook calls run_episode_sync
+  PASS plan_episode signature has continuation_from (default=None)
+  PASS gui.py contains 'continuation_from'
+  PASS gui.py contains 'trigger_cook'
+  PASS gui.py contains 'Next →'
+  PASS _cook can be bound with continuation_from kwarg
+
+ITEM 7: PASS
+### tests/regression_08_yaml_to_prompt_colon.py
+  PASS dict-form-coercion → 'Test Person (TP): complex ptsd'
+  PASS colon-split → 'Test Two (T2): Complex PTSD'
+  PASS _yaml_to_prompt(minimal) — 7615 chars
+  PASS _yaml_to_prompt(wade) — 13294 chars
+
+ITEM 8: PASS
+### tests/regression_09_tonal_license.py
+  PASS — all 29 verbatim tonal-license substrings present in prompt (13294 chars total)
+
+ITEM 9: PASS
+### tests/regression_10_full_episode.py
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+Tool 'send_message' invoked without 'recipient_agent' parameter.
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+[chron snapshot pre]  episodes=11  chars=8  facts=20
+[item 10] cooking 4-scene episode …
+[engine] scene 1 coverage_complete=True
+  ✓ scene 1/4 — Skinny Dennis — Williamsburg, back corner booth — 11dlg/4narr/18tools
+[engine] scene 2 coverage_complete=True
+  ✓ scene 2/4 — Skinny Dennis parking lot — back lot by the dump — 6dlg/3narr/16tools
+[engine] scene 3 coverage_complete=True
+  ✓ scene 3/4 — Yellow cab — Williamsburg Bridge eastbound — 13dlg/7narr/35tools
+[engine] scene 4 coverage_complete=True
+  ✓ scene 4/4 — Wade's apartment — Hell's Kitchen walk-up, kitch — 5dlg/3narr/10tools
+[item 10] wrote 910 - Regression Cook Four Beats.txt  (1624 words, 9.5 KB)
+[item 6] ingesting episode into chronicle …
+[chron snapshot post] episodes=12  chars=8  facts=20
+  PASS chronicle character events: 50 tagged [ep 910]
+    - wade_wilson: [ep 910] Pressed Felicia with escalating innuendo and verbal sparring, circling the unresolved tension between them.
+    - wade_wilson: [ep 910] Shared a charged cigarette moment outside Skinny Dennis, where unspoken dynamics intensified without resolution.
+    - wade_wilson: [ep 910] Admitted to Felicia his desire for someone who can see him without flinching, stripping away humor in the process.
+    - wade_wilson: [ep 910] Allowed Felicia to ground him physically with a light touch, breaking through his walls momentarily.
+    - wade_wilson: [ep 910] Questioned Felicia about the nature of what they were building, essentially asking if they should confront it or continue pretending.
+
+FAILURES:
+  ✗ chronicle beats: no beats recorded for this episode
+
+ITEMS 6+10: FAIL  (elapsed 254.7s)
+OPENAI_API_KEY is not set, skipping trace export

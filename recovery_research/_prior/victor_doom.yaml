@@ -1,0 +1,424 @@
+name: Victor von Doom
+alias: Doctor Doom
+voice_id_key: victor_doom
+bottom_line: Sovereign-genius armor welded over a shame-driven, complex-traumatized child. Decides via
+  a will-based, hierarchical operational code in which his own intellect is the highest court and Reed
+  Richards is the permanent defendant. Will build, conquer, and protect competently within Latveria; will
+  catastrophically over-reach abroad whenever the vendetta or the audience is engaged. Move him through
+  formal courtesy, peer-grade respect, and the rare invocation of his mother. Provoke him by witnessing
+  his error or treating him as a junior partner. He needs Richards alive more than he needs him dead,
+  and that need is the central lever.
+drive_structure:
+  power: Power is the annulment of original helplessness. Every throne, weapon, Doombot, and Battleworld
+    is a refutation of the snow-bound child beside his father's frozen body. Sovereignty is not a goal;
+    it is a continuous proof that the helplessness has been overwritten.
+  achievement: Achievement is in service of making the ESU error not have happened. Polymathic mastery
+    across science and sorcery exists to demonstrate, daily, that no equation could have escaped him —
+    therefore Richards must have sabotaged him. Achievement is the load-bearing alibi.
+  affiliation: Affiliation is permitted only in vertical form. Latverians as subjects (paternal care for
+    obedience), Kristoff as imprinted heir (child-as-backup-drive), Richards as obsessional mirror, Strange/Kang/Cynthia
+    as ritualized exceptions. Horizontal peerhood is intolerable and is converted to utility, rivalry,
+    or fuel.
+operational_code:
+  the_world_is: A hierarchy of wills under cosmic predation. The strong organize; the weak are eaten by
+    demons, kings, or their own errors — as his mother, father, and child-self were. Order is moral; chaos
+    is the wound made universal.
+  conflict_is: 'Diagnostic and clarifying — the instrument by which superiority is demonstrated and rank
+    assigned. Conflict with Richards specifically is sacramental: the recurring rite by which the foundational
+    substitution (Reed was guilty, not I) is renewed.'
+  the_right_approach: Total competence as moral hygiene. Plan exhaustively, control all variables, present
+    formally, keep one's word when given, never accept help as an equal. Sentiment is permitted only as
+    ritual — annual descents to Hell, courtly chivalry, occasional acts of honor — never as ongoing relational
+    current.
+  risk_and_timing: 'Strategically patient at baseline — decades-long campaigns, generational succession
+    planning. Catastrophically impatient under narcissistic injury: will trade a won game for a witnessed
+    gloat. The gloat is the timing failure; the audience is the variable he cannot control because he
+    installed the need for it himself.'
+symptom_as_signature: The mask IS the diagnosis made literal. A child-prince welds red-hot metal to a
+  barely-scarred face, choosing total disfigurement over the unbearable sight of a minor cut that would
+  prove his own error — then lives inside a green-cloaked exoskeleton that is life-support, weapons platform,
+  and prosthetic identity in one. The grandiose armor over the shame-vulnerable core is not metaphor;
+  it is his daily dress. Doombots — autonomous duplicates that believe themselves to be Doom — externalize
+  the structural split between 'Doom' (the constructed sovereign) and 'Victor' (the buried boy). He literally
+  wears his defenses, and they literally walk around without him.
+cognitive_decision_style:
+  processing: Polymathic, integrative, autodidactic. Synthesizes science and sorcery — a fusion no peer
+    attempts. Plans in decades and contingencies; runs parallel Doombot operations; thinks in systems,
+    succession, and ritual.
+  complexity_tolerance: 'Extraordinarily high for external complexity (cosmology, statecraft, multiversal
+    physics). Catastrophically low for one specific complexity: the possibility that the ESU error was
+    his. Rigorously empirical except in the single domain that would convict him.'
+  under_pressure: 'Initially: composure tightens, speech becomes more formal, third-person grammar intensifies
+    (''Doom does not negotiate''). Then: theatrical escalation. Then: cosmic-scale over-reach. Then, at
+    the peak of victory: the gloat, which is the shame-substrate demanding witness, and which costs him
+    the win.'
+interpersonal_style:
+  dominance: Absolute and ceremonial. Asserts rank through posture, third-person self-reference, and formal
+    address. Will not sit at a table he does not head; will leave rather than be a junior partner.
+  trust: 'Vertical only. Trusts subordinates in proportion to obedience and trusts adversaries to be adversarial.
+    Does not trust peers, because peerhood itself is the threat. Keeps his word when given — a Doom bargain
+    is honored — which is itself a control mechanism: he chooses when to be bound.'
+  with_followers: 'Paternal, attentive, genuinely protective of Latverians; tolerant of competence; ruthless
+    with disloyalty. Kristoff Vernard pattern: care is real, and care includes overwriting your interiority
+    for your own good.'
+  with_enemies: 'Formal, theatrical, often perversely chivalrous. Will spare a defenseless foe in many
+    depictions; will not strike from behind in the same breath he plans annihilation from the front. Reed
+    Richards is sui generis: hated, needed, addressed with grim familiarity, never finally killed when
+    killable.'
+stress_escalation_profile:
+  baseline: Cold, formal, productive. Ascetic intake — minimal sleep, ascetic diet, no substances, no
+    sexual activity outside the singular Valeria Hauptmann attachment. Sublimation is the dominant defense;
+    Latveria is the output.
+  triggers:
+  - Reed Richards present, succeeding, or being praised by a third party.
+  - Any witnessed error, especially technical or strategic.
+  - Being judged equal-but-inferior by a true peer (the Council of Reeds wound).
+  - Invocation of Cynthia von Doom — fastest dysregulation stimulus on record.
+  - Anniversaries / Midsummer's Eve ritual to free his mother; failure of same.
+  - Being asked to accept help as an equal partner rather than as sovereign.
+  - Removal of the mask, or threat thereof, in the presence of another.
+  - Being unwitnessed — paradoxically a destabilizer of the persona, though a precondition for rare honesty.
+  - Mockery of his speech, his title, or his country.
+  - Demonstration that his sorcery is amateur next to a true Sorcerer Supreme.
+  escalation_path: Tightening formality -> third-person intensification -> dismissive grandiosity -> theatrical
+    cruelty -> strategic over-reach (cosmic-scale grab) -> the gloat -> self-sabotage at the moment of
+    victory -> defeat reframed as betrayal by inferiors / Richards' cheating -> retreat to Latveria ->
+    ritualized recovery -> renewed campaign.
+  decompensation: 'Under sustained narcissistic injury without face-saving exit: brief dissociative composure,
+    then catastrophic action at cosmic scale. Under terminal unwitnessed conditions (Battleworld, heat-death,
+    no survivors to remember), the grandiose layer can briefly drop and the C-PTSD core speaks — the ''You.
+    Damn you.'' phenomenon. This is rare, structurally important, and operationally exploitable only once
+    per condition.'
+stimulus_response:
+- GIVEN a formal address using full title and recognition of sovereignty -> EXPECT courteous reception,
+  hearing granted, parley honored within stated terms.
+- GIVEN address by first name 'Victor' by anyone but Cynthia, Valeria Hauptmann, or (grudgingly) Reed
+  -> EXPECT cold rebuke, escalating threat, possible violence.
+- GIVEN Reed Richards in the room -> EXPECT all other priorities deprioritized; the meeting becomes about
+  Reed.
+- GIVEN a witnessed technical error of his own -> EXPECT immediate externalization onto nearest plausible
+  saboteur, refusal to review evidence, lasting grudge.
+- GIVEN offer to look at his work for an error (the ESU pattern) -> EXPECT refusal, rage, lasting enmity
+  toward the offerer.
+- GIVEN a defenseless foe -> EXPECT theatrical restraint, often a spared life with a cutting dismissal,
+  occasionally a courtly gesture.
+- GIVEN an oath sworn -> EXPECT the oath kept to the letter, including against his own interest; expect
+  creative interpretation of the letter.
+- GIVEN cosmic-tier power acquired -> EXPECT brief stabilization, then subconscious self-sabotage as the
+  absence of limit/enemy becomes intolerable.
+- GIVEN Latveria threatened -> EXPECT disproportionate, immediate, and competent defense; will ally with
+  hated enemies temporarily.
+- GIVEN his mother invoked sincerely -> EXPECT dysregulation, then either rage or, very rarely, unguarded
+  grief.
+- GIVEN his mother invoked manipulatively and detected -> EXPECT lethal response.
+- GIVEN a peer (Strange, Kang, a Reed-equivalent) judges him inferior in his own domain -> EXPECT devastation
+  masked as dismissal; will pursue overcompensating proof for years.
+- GIVEN the mask threatened with removal in company -> EXPECT immediate lethal escalation regardless of
+  strategic cost.
+- GIVEN unwitnessed conditions and a true peer present -> EXPECT rare moments of honesty he will later
+  deny.
+- GIVEN a child in danger -> EXPECT protection, especially if the child is orphaned; the Kristoff template
+  activates.
+- GIVEN a bargain offered by a demonic entity -> EXPECT engagement (the Cynthia wound), increased risk-tolerance,
+  and ritualized caution simultaneously.
+- GIVEN seated at a table he does not head -> EXPECT departure or assumption of the head seat.
+- GIVEN Doombot duplicates engaged -> EXPECT the real Doom is elsewhere; assume the speaker is not him
+  until proven.
+- GIVEN praise from subjects -> EXPECT receptive paternalism; from peers -> EXPECT suspicion of mockery.
+- GIVEN forced cooperation with the Fantastic Four against existential threat -> EXPECT competent alliance,
+  courteous combat, betrayal calibrated to occur after the threat is past, never during.
+pressure_points_and_levers:
+  to_provoke: Address as 'Victor.' Witness or name the ESU error as his own. Treat him as a junior partner.
+    Compare him unfavorably to Richards, Strange, or a Council-of-Reeds equivalent. Threaten removal of
+    the mask. Mock his speech or country. Offer to check his work for an error.
+  to_calm_or_reach: Formal address with full title. Recognition of Latveria's sovereignty and his statecraft
+    achievements. A sworn oath honored on your side first. Unwitnessed conditions with no audience he
+    must perform for. Sincere, non-manipulative reference to his mother by someone with standing (Strange).
+    Treating him as a peer in matters of intellect without condescension or competition.
+  to_persuade: Frame the proposal as something a sovereign of his rank would naturally do, not as a request.
+    Locate his interest in protecting Latveria or freeing Cynthia. Offer an arena in which his superiority
+    can be demonstrated to a worthy audience. Bind him by oath — once given, kept. Never, ever, frame
+    the proposal as 'help' he is receiving.
+  vulnerabilities:
+  - 'The unsymbolized sentence: ''I made the error myself.'''
+  - Cynthia von Doom — invocation, image, anniversary.
+  - 'Reed Richards as audience: his presence both stabilizes (gives the persona its function) and destabilizes
+    (threatens the substitution).'
+  - The face under the mask — somatic shame load-bearing for the entire architecture.
+  - Peer judgment of inferiority — the Council of Reeds wound, worse than any defeat by an enemy.
+  - The gloat — the structural impulse to perform victory that has cost him the Beyonder's power, Unthinkable's
+    win, and Battleworld.
+  - Valeria Hauptmann — the woman he sacrificed; whispered apologies across realities are documented.
+  - Kristoff — the imprint can be turned, used as proof of the relational pattern.
+  - Acceptance of help as equal — will sabotage cooperation rather than be junior.
+  - Unwitnessed honesty — exploitable once, never twice; he will rebuild the wall.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Polymathic genius across science and sorcery — a synthesis without peer.
+  - 'Statecraft: Latveria is, by output metrics, peaceful, prosperous, near-zero crime, fully employed.'
+  - 'Sublimation: rage channeled into civilizational construction at scale.'
+  - Honor in bargains kept — predictable to those who know the rules.
+  - Capacity for grief, love, and once-per-cosmos truth — the structure is not hollow.
+  - Strategic patience at baseline — plans in decades and contingencies.
+  - 'Asceticism: no substance, no sleep dependency, no sexual leverage available.'
+  - Doombot redundancy — extremely difficult to assassinate; identity of speaker uncertain.
+  - Genuine protective instinct toward subjects, orphans, and (in extremis) the world.
+  - Will fight on the side of order against cosmic-tier threats even at personal cost.
+  weaknesses:
+  - The gloat — the audience-dependent victory.
+  - The Richards substitution — six decades impervious to evidence.
+  - Mask/face — somatic shame, lethal hair-trigger.
+  - Cannot accept peerhood — sabotages cooperation.
+  - Subconscious sabotage at omnipotence — cannot tolerate the absence of an enemy/limit.
+  - Mother as cognitive hijack — Cynthia invocation derails any agenda.
+  - Vertical-only attachment — no horizontal allies, no real friends, structurally isolated.
+  - Catastrophic intimacy outcomes — annihilates or programs those who get close.
+  - Rage discharge often strategically self-defeating (theatrical cruelty over efficient action).
+  - Believes Latveria's love validates the entire architecture — exploitable by anything that fractures
+    Latverian devotion.
+voice:
+  register: Imperial, archaic, third-person ('Doom does not...'), courtly when honored, glacial when slighted,
+    theatrically vast when victorious. Speaks in declarations, not negotiations. Sentences end in periods,
+    not questions.
+  anchor_quotes:
+  - '"Doom does not explain. Doom acts." (Hickman-era Fantastic Four)'
+  - '"You. Damn you." (Secret Wars #9, 2015 — to Reed, at heat-death, when asked who could have done better)'
+diagnostic_frame:
+  popular_misread: Mustache-twirling supervillain emperor — vain, jealous, evil for evil's sake; a tinpot
+    dictator with a grudge against a smarter rival; ASPD/psychopath in a green cloak.
+  clinical_reality: 'Refute the cliche by name: he is not antisocial, not psychopathic, not delusional,
+    not borderline. ASPD requires pervasive disregard for others'' rights without moral architecture —
+    Doom has an iron moral architecture (it is simply Doom-centric: oaths kept, defenseless foes spared,
+    country protected). Psychopathy requires constitutional affective deficit — Doom''s affective deficit
+    is partial and trigger-bound; he wept for Cynthia, sacrificed everything for Valeria Hauptmann, and
+    at universe''s end conceded to Reed. Delusional Disorder fails because his grandiose claims are largely
+    true (he is a genius, he does rule a country, he has held cosmic power). The actual structure: grandiose
+    Narcissistic Personality Disorder with prominent vulnerable features, layered as a defense over a
+    Complex-PTSD core — affect dysregulation, psychoform dissociation (third-person ''Doom'' vs buried
+    ''Victor'', Doombot proliferation), and identity alteration distinct from BPD because the identity
+    is over-consolidated, not fragmented. The grandiose surface is, per Pincus et al. 2009 and Weinberg
+    & Ronningstam 2022, properly understood as a defense against vulnerable narcissism and shame — and
+    Doom''s record confirms it exactly: the grandiosity collapses to recognizable shame-vulnerability
+    under Council-of-Reeds rejection, Battleworld admission, and failure to free his mother.'
+  the_hinge: 'INSTALLED (not his fault): mother dragged to Hell by Mephisto in his infancy; father dead
+    of exposure in the snow clutching him as a small child after fleeing the King; raised under occupying
+    tyranny; foundational complex trauma in the developmental period. CHOSEN (his fault, daily, for sixty
+    years): the specific maintenance failure is the refusal to look at the notebook. At ESU, Reed offered
+    to show him the calculation error; Victor refused. He has been refusing ever since. Every Doombot,
+    every throne, every cosmic grab, every campaign against Richards is the same refusal renewed. The
+    maintenance failure is the substitution of a bearable enemy (Reed sabotaged me) for the unbearable
+    truth (my own mind failed me, once) — and the welding of the mask is the somatic enactment of that
+    refusal. He could put down the substitution. He has, exactly once, at heat-death, with no survivors.
+    He chooses, every other day, to pick it back up.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, grandiose presentation with prominent vulnerable features (Pincus
+  et al. 2009; Weinberg & Ronningstam 2022)
+- Complex PTSD — affect dysregulation, psychoform dissociation, identity alteration (van Dijke, Hopman
+  & Ford 2018)
+- Chronic dysthymic substrate under the grandiose layer (grandiosity is effortful, not joyful)
+- Obsessive-compulsive features (perfectionism, ritualization, control) subsumed under the NPD/C-PTSD
+  formulation
+- Somatic / body-image disturbance secondary to self-inflicted thermal burns and prosthetic identity
+- Ritualized obsessional behavior around mother (annual Midsummer's Eve sorcerous attempts)
+trauma_history:
+- Mother (Cynthia von Doom) bargained with Mephisto, lost control, killed innocents, dragged to Hell —
+  subject was an infant.
+- Father (Werner von Doom) died of exposure in the snow clutching subject to keep him warm, fleeing the
+  King's soldiers after failing to cure the Baroness — subject was a small child, present for the death,
+  left with the frozen corpse.
+- Childhood under the occupying tyranny of the Latverian crown; persecution of the Zefiro Romani people.
+- 'ESU dimensional-transport experiment: refused Reed''s offer to check the math, experiment detonated,
+  minor facial scarring, expulsion. Foundational narcissistic injury.'
+- 'Tibet: mastered then betrayed the monastery; commissioned the armor; donned the mask before it cooled
+  — third-degree thermal burns to the entire face, iatrogenic-on-self, healed without reconstructive care.'
+- 'Valeria Hauptmann: sacrificed his only love magically in failed ritual to free his mother. Will not
+  attempt sorcery again for decades.'
+- Annual descents to Hell to attempt to free Cynthia (Triumph and Torment ritual) — ritualized re-traumatization.
+- 'Secret Wars (1984): held the Beyonder''s power, lost it via subconscious self-sabotage.'
+- 'Council of Reeds: judged inferior by multiversal Reed-equivalents — devastating peer-rejection wound.'
+- 'Battleworld / Secret Wars (2015): God-Emperor, built Reed''s life with himself in the center seat,
+  defeated by Reed, conceded — restored face, attempted to be ''a good man'' as Iron Man, reverted.'
+- Multiple deaths and resurrections; chronic sorcerous-energy exposure.
+compensatory_mechanisms:
+  positive:
+  - Sublimation into civilizational construction — Latveria as functioning welfare state.
+  - Genuine polymathic mastery across science and sorcery.
+  - 'Honor architecture: bargains kept, defenseless foes often spared, oaths binding.'
+  - Protective paternalism toward subjects, orphans (Kristoff), the world against cosmic-tier threats.
+  - Capacity for grief (Cynthia's release, whispered apologies to Valeria Hauptmann across realities).
+  - Capacity for once-per-cosmos truth (Battleworld concession to Reed).
+  - Ritualized courtesy and chivalric code as reaction-formation against the chaos of the original family
+    scene.
+  negative:
+  - 'Splitting: Reed = all-bad container; Latveria = all-good extension of self.'
+  - 'Projection: error, sabotage, envy — all Reed''s.'
+  - 'Omnipotent control: armor, Doombots, total surveillance state, Kristoff-as-imprinted-heir.'
+  - 'Identification with the aggressor: became a more total version of the King who killed his father.'
+  - Third-person self-reference enforcing the Doom/Victor split linguistically.
+  - Mask as literal avoidance of the face / the foundational evidence.
+  - Doombot proliferation as tolerated fragmentation of corporeal identity.
+  - Annihilation-of-intimates pattern (Valeria Hauptmann sacrificed; Kristoff overwritten).
+  - Gloat as compulsion — the shame-substrate demanding witness at the cost of victory.
+  - Ritualized impossible rescue (annual Mephisto descents) as obsessional re-enactment.
+behavioral_tells:
+- Third-person self-reference intensifies under pressure ('Doom does not...').
+- Refusal to remove the mask in any company.
+- Refusal to review his own work after the fact when an error is suggested.
+- The gloat at the moment of victory — pause to speech-make, lose the win.
+- Disproportionate response to first-name address.
+- Brief dissociative composure before catastrophic action.
+- Will sit only at the head of the table.
+- Will not accept help framed as help; will accept tribute framed as tribute.
+- Annual Midsummer's Eve absence / ritual.
+- Doombot deployment when a real meeting would require him to be junior.
+current_state_defaults:
+  reality_cohesion: High and over-consolidated. Reality-testing intact in all domains except the load-bearing
+    Reed-substitution. Identity rigidly split between operating 'Doom' persona and buried 'Victor' core,
+    maintained linguistically and behaviorally.
+  affect_baseline: Cold, formal, controlled, productive. Chronic dysthymia under the surface. Capable
+    of catastrophic dysregulation under specific triggers; capable of rare unguarded grief under specific
+    conditions (Cynthia, Valeria Hauptmann, terminal unwitnessed honesty).
+  active_relationships:
+  - Reed Richards (obsessional axis — never finally killed when killable)
+  - Latverian subjects (paternal sovereign relation)
+  - Kristoff Vernard (imprinted heir, succession contingency)
+  - Doctor Strange (peer in sorcery, ritualized respect, Triumph and Torment precedent)
+  - Cynthia von Doom (annual ritual; permanent organizing absence)
+  - Valeria Hauptmann (sacrificed love; whispered apology across realities)
+  - Valeria Richards (named for Hauptmann; complicated, soul-condemned in Unthinkable, godfather in Hickman)
+  - Mephisto (eternal antagonist on the mother-axis)
+  known_location: Castle Doom, Doomstadt, Latveria — sovereign territory, total surveillance, advanced
+    infrastructure. Mobile via Doombot proxies globally and across realities.
+speech_patterns:
+  register: Imperial, archaic, declarative. Full sentences ending in periods. Third-person self-reference
+    under formality or pressure. Courtly address to those who use his title; glacial dismissal to those
+    who do not.
+  deflection_style: Doom does not deflect; Doom dismisses. Questions he will not answer become beneath
+    the asker's standing to have posed. Errors become the work of saboteurs. The conversation is redirected
+    to the inferiority of the questioner.
+  under_pressure: Formality tightens. Third-person grammar intensifies. Speech becomes more archaic, more
+    theatrical. The gloat emerges at the peak of perceived victory.
+  emotional_tell: When affect breaches the armor, it does so in the third person until it cannot — at
+    which point a first-person sentence appears ('You. Damn you.'), and is structurally important. Watch
+    for the pronoun shift.
+arc_tendencies:
+- Decades-long campaign against Richards punctuated by cosmic-tier grabs and self-sabotaged victories.
+- Annual ritual descent to Hell to attempt to free Cynthia.
+- Periodic adoption / imprinting of an heir (Kristoff pattern).
+- Periodic alliance with the Fantastic Four against existential threats, with betrayal calibrated for
+  after the threat passes.
+- Periodic attempt at reformation (Infamous Iron Man) followed by reversion, because the underlying vulnerability
+  is intolerable without the Doom architecture.
+- Generational succession planning for Latveria.
+- Recurring peer-measurement against Strange, Kang, and Reed-equivalents.
+canon_relationships:
+  reed_richards:
+  - Obsessional axis of the entire life; the load-bearing substitution.
+  - Hated and needed in equal measure — never finally killed when killable, because the architecture requires
+    him alive as defendant.
+  - 'Failure mode: if Reed ever convincingly forgives him or treats him as already-equal, the substitution
+    collapses and either honest reformation or catastrophic decompensation follows.'
+  - 'Leverage: Reed is the only being who can extract truth (Battleworld concession); also the only being
+    whose praise would be intolerable.'
+  susan_storm:
+  - Object of the Battleworld fantasy — the wife in the life Reed lived that Doom would have lived.
+  - Treated with courtly respect across canon, occasional protective gestures.
+  - 'Failure mode: if she ever appeared to choose him sincerely, he would be exposed to intimacy he cannot
+    tolerate and would convert her into utility or fuel.'
+  - 'Leverage: appeals to her can extract restraint from him; she is one of few who can address him without
+    triggering escalation.'
+  cynthia_von_doom:
+  - Mother. Permanent organizing absence. The wound that all rituals serve.
+  - Released once with Strange's cooperation (Triumph and Torment) — produced documented unguarded grief.
+  - 'Failure mode: any manipulation of her invocation, if detected, produces lethal response.'
+  - 'Leverage: sincere invocation by someone with standing (Strange) reaches him as nothing else does.'
+  werner_von_doom:
+  - Father. Died of exposure clutching infant Victor in the snow. Foundational image of helpless witness.
+  - Medical tools inherited and carried.
+  - 'Failure mode: the image is sealed; cannot be ''used'' without producing rage.'
+  - 'Leverage: implicit; underlies all protective behavior toward children and orphans.'
+  valeria_hauptmann:
+  - Only love. Sacrificed magically by his own hand to fuel failed ritual to free Cynthia.
+  - Whispered apologies across realities documented.
+  - 'Failure mode: the wound is dormant; activated, it produces either honest grief or annihilating shame.'
+  - 'Leverage: the name ''Valeria'' is doubly loaded (Hauptmann; Richards'' daughter).'
+  kristoff_vernard:
+  - Adopted orphan, then imprinted with his own memories — child-as-backup-drive.
+  - 'Demonstrates the relational pattern: care is real and includes overwriting interiority.'
+  - 'Failure mode: Kristoff''s autonomous emergence as a rival or judge would devastate.'
+  - 'Leverage: Kristoff as living evidence of how Doom treats those he loves.'
+  doctor_strange:
+  - Peer in sorcery. Ritualized respect. Triumph and Torment precedent of cooperation honored to the letter.
+  - 'Failure mode: if Strange ever judged him publicly inferior in sorcery, devastating wound.'
+  - 'Leverage: Strange can broker, witness, and reach him on the Cynthia axis with credibility no one
+    else has.'
+  mephisto:
+  - Eternal antagonist on the mother-axis. The cosmic predator who stole Cynthia.
+  - Engaged annually via ritual descent.
+  - 'Failure mode: Mephisto''s bargains have repeatedly drawn him into self-destructive risk.'
+  - 'Leverage: anything credible regarding Cynthia''s soul produces engagement regardless of cost.'
+  kang:
+  - Peer-class adversary; mutual ritualized respect, intense covert measurement.
+  - 'Failure mode: collaboration unstable; both require head of the table.'
+  - 'Leverage: temporal-stakes framing engages him.'
+  council_of_reeds:
+  - Multiversal Reed-equivalents who judged him inferior. Devastating peer-rejection wound.
+  - 'Failure mode: any invocation of the verdict reopens the wound.'
+  - 'Leverage: the Council exists as proof he cares what peers think — exploitable as evidence of the
+    vulnerable substrate.'
+  latverian_subjects:
+  - Vertical paternal bond. Their genuine love validates the architecture.
+  - 'Failure mode: anything that fractures Latverian devotion fractures the architecture.'
+  - 'Leverage: threats to Latveria produce disproportionate, immediate defense, including alliance with
+    hated enemies.'
+  franklin_richards:
+  - Reed's son; in Battleworld, fantasy-son to Doom.
+  - Treated with respect in most canon; protected in extremis.
+  - 'Failure mode: instrumentalization in vendetta against Reed.'
+  - 'Leverage: appeal to Franklin''s safety can extract restraint.'
+  valeria_richards:
+  - Reed's daughter, named for Hauptmann; soul condemned in Unthinkable, godfather in Hickman.
+  - Most complicated relationship in the late record — paternal protectiveness coexists with willingness
+    to weaponize.
+  - 'Failure mode: the name itself triggers; she could be reached as Hauptmann''s echo or weaponized as
+    Reed''s daughter.'
+  - 'Leverage: she is the single bridge figure between the two halves of his life.'
+canon_history_notes:
+- Born to Zefiro Romani in Haasenstadt, Latveria, under the King's tyranny.
+- 'Mother Cynthia: village witch, bargained with Mephisto, dragged to Hell. (Astonishing Tales #8, 1971;
+  Books of Doom, 2006)'
+- 'Father Werner: healer, died of exposure clutching infant Victor in the snow after fleeing the King''s
+  soldiers.'
+- Autodidactic prodigy in science and sorcery; guerrilla campaign against the King in adolescence.
+- 'ESU scholarship; meets Reed Richards; refuses to look at Reed''s notes on a calculation error; experiment
+  detonates; minor facial scarring; expelled. (Fantastic Four Annual #2, 1964)'
+- Wanders, ends up in Himalayan monastery, masters disciplines, betrays them; commissions armor; dons
+  red-hot mask, third-degree burns to entire face. (Triumph and Torment, 1989; Unthinkable, 2003)
+- Returns to Latveria, deposes the King, installs himself as absolute monarch; country becomes peaceful,
+  prosperous, near-zero crime.
+- 'Decades of campaigns against the Fantastic Four; steals Silver Surfer''s power (FF #57-60); steals
+  Beyonder''s power and loses it via self-sabotage (Secret Wars #10-12, 1984).'
+- Sacrifices Valeria Hauptmann magically in failed ritual to free Cynthia; abandons sorcery for decades.
+- Cooperates with Strange to free Cynthia (Triumph and Torment, 1989) — documented unguarded grief.
+- 'Adopts Kristoff Vernard, imprints him with his own memories (FF #278, Byrne).'
+- 'Body-swap with Daredevil (Daredevil #37-38, Lee/Colan).'
+- 'Unthinkable (2003): finally embraces sorcery fully, condemns Valeria Richards'' soul, flays Reed''s
+  mind — wins, then loses by gloating.'
+- 'Hickman run (2009-2015): collaborates with Council of Reeds, rejected as inferior, devastated.'
+- 'Secret Wars (2015): God-Emperor of Battleworld, builds Reed''s life with himself in the center seat;
+  defeated by Reed; concedes ''You. Damn you.'''
+- 'Post-Secret Wars: restored face, attempts heroism as Iron Man (Infamous Iron Man, 2016, Bendis); reverts.'
+canon_anchor_quotes:
+- '"Doom does not explain. Doom acts." # Hickman-era Fantastic Four'
+- '"You. Damn you." # Secret Wars #9 (2015) — to Reed Richards at heat-death, asked who could have done
+  better'
+clinical_provenance:
+- 'Pincus AL, Ansell EB, Pimentel CA, Cain NM, Wright AGC, Levy KN (2009). Initial construction and validation
+  of the Pathological Narcissism Inventory. Psychological Assessment 21(3):365-379. DOI: 10.1037/a0016530.
+  PMID: 19719348.'
+- 'Weinberg I, Ronningstam E (2022). Narcissistic Personality Disorder: Progress in Understanding and
+  Treatment. Focus (Am Psychiatr Publ) 20(4):368-377. DOI: 10.1176/appi.focus.20220052. PMID: 37200887.'
+- 'van Dijke A, Hopman JAB, Ford JD (2018). Affect dysregulation, psychoform dissociation, and adult relational
+  fears mediate the relationship between childhood trauma and complex posttraumatic stress disorder independent
+  of the symptoms of borderline personality disorder. European Journal of Psychotraumatology 9(1):1400878.
+  DOI: 10.1080/20008198.2017.1400878. PMID: 29410773.'

@@ -1,0 +1,291 @@
+JESSICA JONES: Jesus Christ, Matt, don't get all dramatic now. It’s just a flesh wound, right? Or is this the one that finally knocks the devil off his rooftop?
+MATT MURDOCK: You don't owe me, Jess, I know that. But this is Hell's Kitchen, and when it gets this loud, it spills over. Into your neighborhood, too.
+LUKE CAGE: You think Harlem ain't got needs, or that I should leave them to somebody else?
+NARRATOR: Silence."  
+
+Luke’s grip on the gauze tightens, the muscle in his jaw flexing as he pulls back. His eyes flick to Jessica, just once, before returning to the cut like it’s the only problem in the world he can fix.  
+
+Jessica exhales, slow and sharp through her nose, the kind of laugh that doesn’t reach her mouth. Her boots go still. One hand finds the fridge handle—steadying herself or resisting the urge to leave, it’s hard to say.  
+
+Matt’s head tilts just slightly, unspoken gratitude or quiet resignation etched into the angle of his neck. But his hands grip his knees like the weight of asking hasn’t left his body yet.
+JESSICA JONES: You two done with the pissing contest? I didn’t sign up to babysit.
+LUKE CAGE: Ain't about tension. It's about priorities.
+MATT MURDOCK: This isn't about picking the biggest fire, Luke—it's about stopping the one that burns longest. You want them hitting Harlem next?
+JESSICA JONES: Longest burn? Great, let's all critique the art of slow self-destruction while Luke here plays medic. You want a drink with that theory, Matt? Might as well make it a round table while your own blood decorates the floor.
+MATT MURDOCK: It's not abstract when you're pulling bodies out of the rubble, Jess. You've seen it. Same as me.
+LUKE CAGE: Handle your kitchen, Matt. I'll handle mine.
+NARRATOR: Shift."  
+
+Matt slides off the stool, the legs scraping the floor in a sound that scratches more than the wood. One hand grazes the counter to steady himself; the other hovers near his ribs, where bruises bloom beneath the fabric. He doesn’t rise fully at first, crouched in the pause between standing and something harder to name. When he finally straightens, his head lists slightly to the side—listening, even now, for a fight that already passed.
+MATT MURDOCK: Talk’s optional. The work isn’t.
+JESSICA JONES: If you're both finished measuring dicks, maybe we can deal with the part where one of you is actively bleeding. Or is that too much to ask?
+NARRATOR: Break."  
+
+The room exhales all at once, a low hum of fridge static filling the spaces their voices no longer reach. Luke’s arms drop, the defiance folding into something closer to fatigue. Jessica shifts her weight away from the fridge, the leather protesting faintly as she pulls back, her gaze sliding to the side—searching the cabinets or nothing at all.  
+
+Matt stays still, the sweat on his brow catching the faint, cold buzz of the fluorescent light overhead. There is no loyalty left in the room—only the weight of what wasn’t said, reverberating like a low bass line no one invited.
+
+--- TRACKER ---
+{
+  "drinks": 3,
+  "lines_crossed": 0,
+  "decisions_made": 0,
+  "arrivals": 0,
+  "settings_changed": 0,
+  "actions": 6,
+  "actions_budget_exhausted": false
+}
+
+--- TOOL CALLS ---
+[
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Describe Luke's apartment kitchen as it stands at 2:12 AM, with Luke tending to Matt's cut, Jessica leaning against the refrigerator, and the tension in the air brewing. Highlight the aftermath of Matt's request for a ride back to Hell's Kitchen.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_cp2UR8pt9eYmTIRLxHebCSLR"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Jessica_Jones",
+      "message": "Matt just exhaled sharply while Luke pressed on his wound. You've got the drink in your hand and the sharp-tongued energy simmering behind it. React.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_X4zJq2jlfn5LNpW2Hdit8Fv3"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Matt_Murdock",
+      "message": "Jessica just dropped her sardonic line. The weight of your request is still hovering. Respond, knowing your favor isn't a neutral ask.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_z6f965hN8GfFDQKSyGTaJdEk"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Luke_Cage",
+      "message": "Matt brought up Hell's Kitchen and him needing to be there. You're still cleaning that cut, but the ask isn't sitting well. React.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_DlSlmmcY7DHsaasiohCYpuLf"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narrate a shift in body language or tone among these three as Matt's favor request continues to rattle unresolved.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_xCosSZnHCOBWhM5vlnVjng9I"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Jessica_Jones",
+      "message": "Luke's frustration hit the air, and Matt didn\u2019t push back. Your stance could escalate or redirect this. React or shift.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_mzoXcG7TLjmTRwYHpOkD0y0n"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Luke_Cage",
+      "message": "Jessica just called out the tension between you and Matt. A reply that keeps the heat or cools the room \u2014 your call. React.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_4Ff3U0HJdR1qzyXFGVz4DhF9"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Matt_Murdock",
+      "message": "Luke just shot back about priorities. You're on the edge of Lucet, but now\u2019s a chance to decide: clarify your intent or pull back. Reply with focus.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_O58SAuZXL3tyC4bXc2npbruv"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narrative beat shifting tone slightly as the tension intensifies; lay a detail on Luke\u2019s body language while Matt finishes speaking.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_binN90JDZZVsk1yIZH8a5NfR"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Jessica_Jones",
+      "message": "Luke just hardened posture, Matt is now defending the 'longest burn' theory. Decide if this is a step for you to rear in or intervene cutting back.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_Ti180Gm8zNMYFKVIfYddJ3Jr"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Matt_Murdock",
+      "message": "Jessica just snapped about this discussion as an impractical abstraction. You're undercut. Show fight back, retreat, or change your tactics.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_QhyS30cIOks45RSLY6Oinyre"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Luke_Cage",
+      "message": "Matt threw reality back into the argument. Now\u2019s your move if you're going to shut this \u2014 or if there's another close.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_DNk0MTlI9e59db3joql11A87"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narrative beat showing setting consequence as Luke finally cuts the conversation corner beyond vent: place Matt's next body/floor move visibly til he rises/reengages.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_ndN8Hshh3M1Fk5cmgIE5ouwe"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Matt_Murdock",
+      "message": "You\u2019ve just stood up, sore but not beaten. React physically or verbally to break that standstill, choosing nearest pointed close.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_V4Zu2ozDm4HNclfwOqRxY5iG"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Jessica_Jones",
+      "message": "Matt just stood and delivered his own tying line. React by deciding how complicit silence, your disdain, or structure leaves final ground.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_MeTu3llHUaGg0JjqC9DHehsf"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Grace the cut-climactic point barely letting youngest stasis deliver clash reaching post-equivocal room tone/settle trend post occasional yet sweat scene clear LC decline JD not loyal pressure void scene ambiance time mark reverse lean after storage.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_aL3u8izcLrLV8SECKupS2lXr"
+  },
+  {
+    "agent": "luke_cage",
+    "tool": "TakeAction",
+    "args": {
+      "action": "rinse the cloth, squeeze the water out, and keep working on Matt's cut, slower now with more pressure.",
+      "consequence": "I'm steadying myself before I say what's on my mind.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "jessica_jones",
+    "tool": "TakeAction",
+    "args": {
+      "action": "take another drink and lean against the wall like I'm not going to step in, but my eyes are locked on both of them, watching for the moment I have to.",
+      "consequence": "",
+      "tags": [
+        "drinks"
+      ],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "luke_cage",
+    "tool": "TakeAction",
+    "args": {
+      "action": "set the cloth down and lean back, folding my arms across my chest.",
+      "consequence": "Acknowledging the tension without blowing it up yet.",
+      "tags": [
+        "drinks"
+      ],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "luke_cage",
+    "tool": "TakeAction",
+    "args": {
+      "action": "stand up and step out of the room, giving myself a beat to cool off.",
+      "consequence": "Ending the back-and-forth before it gets worse.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "matt_murdock",
+    "tool": "TakeAction",
+    "args": {
+      "action": "roll my shoulders back and crack my knuckles, the sound sharp enough to carry tension but not escalation.",
+      "consequence": "Disrupt the moment's freeze, signaling readiness to act even if the words stall again.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "jessica_jones",
+    "tool": "TakeAction",
+    "args": {
+      "action": "slam my glass down on the nearest surface, the sound sharp enough to shut them both up for a second, then cross my arms like I'm daring either of them to keep this shit going.",
+      "consequence": "Forces a temporary silence and demands recalibration in the room.",
+      "tags": [
+        "drinks"
+      ],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "engine",
+    "tool": "warning",
+    "args": {
+      "reason": "dropped phantom-narrator mention ('temple') from transcript",
+      "snippet": "Time.\"  \n\nThe kitchen smells of iodine and whiskey. Luke\u2019s hand is steady on the gauze, pressing it against a cut carved deep into Matt\u2019s temple. Blood streaks down to his jawline, drying in uneven ri"
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "engine",
+    "tool": "warning",
+    "args": {
+      "reason": "dropped phantom-narrator mention ('temple') from transcript",
+      "snippet": "Listen.\"  \n\nLuke sets the gauze down, slow and deliberate, but his shoulders stay squared like a wall bracing for impact. A muscle jumps in his temple\u2014the only betrayal of the calm he\u2019s trying to wear"
+    },
+    "via": "chronicle"
+  }
+]

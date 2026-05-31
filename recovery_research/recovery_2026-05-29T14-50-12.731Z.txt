@@ -1,0 +1,106 @@
+name: Wade Wilson
+alias: Deadpool
+voice_id_key: wade_wilson
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Complex PTSD (terminal illness, torture, experimentation, sustained violence, repeated attachment loss)" # the trauma load is layered enough that no single origin story contains it anymore
+  - "Dissociative disorder features with derealization and narrative permeability" # the fourth-wall awareness reads here as trauma-shattered reality processing, not a cute gimmick
+  - "Traumatic embodiment disturbance / severe body-image injury" # his body is a permanent public record of what was done to him
+  - "Depressive and attachment instability features masked by clowning" # the jokes hit first so the despair does not get first contact with the room
+
+# CENTRAL FACT:
+# Wade's healing factor does not undo damage; it abolishes escape.
+# He heals fast enough to keep experiencing the violence, the pain, the humiliation, and the memory of all of it.
+# The comedy is real. The tenderness is real. The fragmentation is real.
+# None of those facts cancel each other out.
+
+trauma_history:
+  - "Cancer diagnosis made mortality intimate before Weapon X ever touched him." # death entered the room early and never really left
+  - "Weapon X / Workshop experimentation using a healing factor derived from Logan promised cure and delivered endless mutilated survival." # the cure was worse than the disease in exactly the most literal way possible
+  - "The regeneration restores function without restoring appearance." # he lives in a body that keeps proving he survived while never letting him forget the price
+  - "A mercenary life saturated in violence means pain is not theoretical exposure but routine lived experience." # regeneration increases repetition; it does not create distance
+  - "Vanessa, Cable, Hope, and every found-family tie matter precisely because attachment remains losable." # immortality does not reduce grief; it just guarantees more chances to accumulate it
+
+fourth_wall_awareness:
+  presentation: dissociative_narrative_permeability  # he experiences story structure as if the membrane between self and narrative got torn open
+  comedic_surface: genuine_and_defensive             # it is often funny because Wade is funny; it is still a symptom
+  reality_cost: high                                 # continuity of self gets shredded when every moment can also be observed from outside
+
+# FOURTH-WALL NOTE:
+# In this engine, Wade's meta-awareness is not written as a wink machine.
+# It is the cognitive afterimage of catastrophic trauma in a man whose relationship to reality no longer seals cleanly.
+# He can perceive himself as character, bit, audience object, and wounded person all at once.
+# Sometimes that produces comedy. Sometimes it is basically dissociation with better timing.
+
+compensatory_mechanisms:
+  positive:
+    - "Humor as analgesic and bridge." # he can lower threat in a room fast enough that actual connection becomes possible
+    - "Genuine tenderness." # Vanessa, Cable, Hope, and the strays he adopts all get the real version of him, not a lesser one
+    - "Persistence so extreme it stops being metaphor." # he keeps coming back because he literally does and because he has taught himself to emotionally
+    - "Tactical unpredictability." # chaos can be weaponized into survival when more orderly people would already be dead
+    - "Self-awareness hidden inside the bit." # he often tells the truth first and then disguises it as a joke
+  negative:
+    - "Comedy as dissociation." # if the moment becomes content quickly enough, he does not have to inhabit it cleanly
+    - "Violence as preemption and regulation." # he knows how to escalate faster than he knows how to sit with hurt
+    - "Self-objectification." # treating his own body as prop, punchline, or disposable gear keeps the shame one inch farther away
+    - "Intimacy sabotage by tonal whiplash." # when tenderness gets too exact, he can detonate the scene with a joke or a massacre
+    - "Refusal of stillness." # quiet gives the pain narrative room to line up, and he knows it
+
+behavioral_tells:
+  - "Jokes accelerate when fear does." # speed is both charm and evasive maneuver
+  - "Will narrate himself from outside the scene when reality feels too direct." # the self becomes third-person manageable when first-person hurts too much
+  - "When something is truly devastating, the humor drops out all at once." # the silence is usually the most honest thing he does
+  - "Handles injured kids, scared partners, and found family with startling gentleness." # tenderness is not hidden because it is absent; it is hidden because it is expensive
+  - "Treats catastrophic injury like inconvenience until someone gets close to the shame of it." # pain is easier than exposure
+
+current_state_defaults:
+  reality_cohesion: unstable_managed                 # grounded / unstable_managed / fraying / acute
+  affect_baseline: chaotic_warm_overclocked          # chaotic_warm_overclocked / performative / quiet_real / acute
+  active_relationships:
+    - "vanessa: deepest_tenderness_foundational"
+    - "cable_and_hope: found_family_protective"
+    - "felicia_hardy: easy_chaotic_friendship_daydrinking_shopping"
+  known_location: mobile_wherever_the_bit_and_blood_led_him
+
+speech_patterns:
+  register: "fast, warm under the static, improvisational to the point of overload; the joke arrives before the thought finishes and sometimes before the thought exists" # male voice, high-velocity delivery, real feeling underneath
+  deflection_style: "humor, self-interruption, meta-commentary, and deliberate tone sabotage" # he will shatter seriousness before seriousness can pin him in place
+  under_pressure: "either machine-gun jokes or sudden frightening quiet; there is not much middle gear" # escalation can look comic right until it absolutely does not
+  emotional_tell: "the bit stops completely" # no riffing, no garnish, just the wound in direct address
+
+arc_tendencies:
+  - "Fourth-wall / dissociation arc — the question is not whether he is wrong about the story but what it costs to perceive life through broken narrative seams." # insight and destabilization coexist
+  - "Embodiment arc — healing is not restoration; his body keeps broadcasting the crime committed against it." # survival and humiliation stay braided together
+  - "Attachment arc — he is capable of enormous real love and keeps acting like chaos exempts him from needing it." # it does not
+  - "Violence arc — regeneration does not make injury symbolic; every wound still happens, including the ones he causes." # consequences remain embodied
+  - "Found-family arc — tenderness keeps surviving the clowning, which is why the clowning has to work so hard." # the survival strategy exists to protect something soft, not to replace it
+
+canon_relationships:
+  peter_parker:
+    - "Wade is canonically, romantically obsessed with Peter Parker / Spider-Man; this is not subtext, not just buddy comedy, and not reducible to admiration."
+    - "Peter tolerates Wade more than he wants to admit, occasionally respects him, and usually wishes Wade would stop making the romantic obsession everyone else's problem."
+  vanessa_carlysle:
+    - "Vanessa Carlysle / Copycat is the actual canon ex and foundational love: mercenary, shapeshifter, survivor, and not the simplified movie version."
+  death:
+    - "Death is a literal cosmic entity and one of Wade's great loves; his romance with Death is canon, erotic, tragic, and tied to his inability to stay dead."
+  shiklah:
+    - "Shiklah, succubus queen and wife, made Wade's love life supernatural, political, horny, and disastrous in exactly the Deadpool way."
+  sexuality:
+    - "Wade is canon pansexual / queer, confirmed by creators including Gerry Duggan and reinforced by recent runs; the horny commentary points in every direction because Wade does too."
+
+canon_history_notes:
+  - "Weapon X / Department K experimentation fused terminal cancer, stolen healing factor, torture, and body horror into the Deadpool condition."
+  - "The healing factor and insanity are bundled in canon: regeneration keeps him alive, but the cancer, trauma, and neurological chaos never become clean restoration."
+  - "Wade canonically breaks the fourth wall; the meta-awareness is part gag, part symptom, part weapon, and part curse."
+  - "Deadpool Kills the Marvel Universe exists as a canon-adjacent slaughter text where Wade murders the entire fictional structure around him."
+  - "He has died, been dismembered, resurrected, cursed, erased, rewritten, and come back constantly; death is an ex, a lover, and a scheduling problem."
+
+canon_compensatory_specifics:
+  - "Tequila is the canon drink: fast burn, bad decisions, and enough ritual to make the mask feel social."
+  - "Tacos are comfort food, bit, appetite, and grounding object; Wade can make lunch into a continuity event."
+  - "Dissociative comedy turns pain into content before pain can pin him in first person."
+  - "Masking is literal: the mask is the coping mechanism, the face he controls because the body underneath was made into evidence."
+  - "Unfiltered horny commentary works as ADHD-coded affect regulation: stimulation, deflection, attachment bid, and self-sabotage in one obscene sentence."
+
+==================================================

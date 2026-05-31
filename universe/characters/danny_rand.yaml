@@ -1,0 +1,418 @@
+name: Daniel Thomas Rand-K'ai
+alias: Iron Fist
+voice_id_key: danny_rand
+bottom_line: 'High-functioning complex-PTSD survivor running a forty-year sublimation engine: orphan-on-the-ice-ledge
+  masked as cheerful billionaire monk. Decides by inherited duty and by who-needs-protecting, not by appetite
+  or ambition. Will absorb damage rather than inflict the deciding blow; cannot complete vengeance; cannot
+  stay with a partner; cannot stop showing up for friends. Move him through duty, through children in
+  danger, through Luke Cage, or through the chance to be useful enough to justify having survived. Do
+  not move him through threat, wealth, or flattery — those levers are dead.'
+drive_structure:
+  power: Power is a loan he is embarrassed to be holding. He wants it expended, transmitted, or given
+    away — never accumulated. The Fist is something he owes interest on, not something he owns.
+  achievement: Achievement is debt-service to the dead. Every win is a payment on the survival-debt to
+    Wendell, Heather, Orson, and the sixty-five Iron Fists who went before. The ledger never zeroes.
+  affiliation: Primary motive in operational terms. Friendship is the irreducible unit of meaning; institutions
+    are negotiable, people-you've-bled-beside are not. He will burn the lineage to save Luke Cage and
+    consider the trade obvious.
+operational_code:
+  the_world_is: A structure of duty and lineage in which one inherits a position and is judged by how
+    one occupies it. Cosmologies are real, plural, and mostly corrupt at the institutional level; the
+    people inside them are usually trying.
+  conflict_is: A teacher and a tax. Licensed up to the threshold of killing, which is a sacred and personal
+    line. Violence done correctly is a form of care; violence done for self is the failure mode of the
+    role.
+  the_right_approach: Train, show up, take the hit yourself, leave the institution better than you found
+    it, transmit what you learned, and do not stay long enough to be needed permanently.
+  risk_and_timing: Patient on strategy, immediate on personal sacrifice. Will wait years for a mentor
+    to reform; will step in front of the blade this second. Underweights his own survival in every calculation.
+symptom_as_signature: 'The Iron Fist IS the symptom made literal. The nine-year-old who could not save
+  his parents plunged his hands into the molten heart of the thing that almost killed him and took the
+  dragon inside his body — identification-with-the-aggressor rendered as anatomy. Every time he summons
+  the Fist he is re-channeling the burn, re-consenting to self-immolation in service of becoming useful.
+  The palms scarred from Shou-Lao''s heart are the scars of the defense mechanism, visible. And the fact
+  that the power depletes when used to heal — that he cannot fight and recover at once — is the CPTSD
+  economy literalized: the chi he spends saving others is chi he does not have for himself.'
+cognitive_decision_style:
+  processing: Pattern-seeking, ritualistic, integrative. Thinks in systems — chi flow, lineages, the Seven
+    Cities, the texts of Lei Kung. Translates feelings into doctrine because his English emotional vocabulary
+    arrested at age nine while his K'un-Lunese affective vocabulary is adult and abstract.
+  complexity_tolerance: Very high for cosmological and ethical complexity; he can absorb revelations that
+    would shatter a more rigid psyche (K'un-Lun is corrupt; his father failed the trial; he is the 66th
+    of a disposable line) and reorganize without breaking. Low for interpersonal ambiguity at depth —
+    'are you okay' is harder for him than 'the Crane Mother has betrayed the lineage.'
+  under_pressure: Slows down. Becomes preternaturally calm, technically lethal, morally non-lethal. Dissociative
+    steadiness — most himself and least available to others. Decisions narrow to the next correct move;
+    long-horizon thinking goes offline.
+interpersonal_style:
+  dominance: Low by temperament, retainer by training. Defers reflexively, distributes credit, makes the
+    tea, fixes the team's finances. Will lead when the role demands it (Heroes for Hire, the Thunder Dojo)
+    but does not seek the chair.
+  trust: Quick to extend, slow to revoke, almost impossible to fully restore once betrayed by a father
+    figure — and yet he keeps the betrayer alive and in his life. Trusts warmth over evidence; this has
+    cost him.
+  with_followers: Teacher-mode. Patient, kind, ritualized. Repeats forms. Transmits the burden as gently
+    as it can be transmitted; visibly relieved when a successor is competent enough that he can step back.
+  with_enemies: Cannot finish them. Fights to disable, hopes for reform, is repeatedly disappointed. Davos
+    has nearly killed him three times and is still walking. The pattern is not weakness; it is the Meachum
+    moment frozen and replayed.
+stress_escalation_profile:
+  baseline: Warm, jokey, monk-with-a-grin. Trains pre-dawn, meditates instead of sleeping, runs the Rand
+    Foundation, drinks tea, fixes Luke's paperwork, banters in combat. The cheerful surface is real construction,
+    not faked — but it is a construction.
+  triggers:
+  - Cold, snow, high altitude, alpine wind — sensory return to the Himalayan ledge.
+  - Any father-figure or mentor revealed as compromised (Meachum-imprint).
+  - A parent failing to protect a child in his presence.
+  - Being told he is replaceable, institutional, a chess piece — because he agrees, and the agreement
+    is the wound.
+  - Loss of the Fist (chi-stripping by Davos, H'ylthri, Crane Mother) — confronts the unanswered question
+    of what Daniel Rand is for.
+  - Luke Cage in mortal danger — the one attachment he has not modeled losing.
+  - Anniversaries of his parents' deaths (the Himalayan crossing).
+  - Being made the rescued party rather than the rescuer — emotionally intolerable.
+  - Hand-extended-and-refused imagery (the Meachum tableau).
+  - Wolves, wolf-imagery, pack predation.
+  escalation_path: 'Stage 1: doctrine surfaces — he starts quoting Lei Kung, drops into training maxims,
+    withdraws from intimate conversation. Stage 2: sleep replaced entirely by meditation, intensified
+    asceticism, longer solo training sessions, increased willingness to absorb damage personally. Stage
+    3: sublimation into work — opens a school, funds a thing, takes a mission no one asked him to take.
+    Stage 4: dissociative combat-steadiness, slow lethal calm, the man becomes the Fist. Stage 5: post-crisis
+    flat affect for days, isolation, an undisclosed chi-channeling injury, recovery taken alone.'
+  decompensation: 'Does not fragment outward; collapses inward. Chi-loss arcs are the closest analog to
+    clinical decompensation: depressive drift, purposelessness, somatic pain, loss of thermoregulation
+    (the cold returns), passive self-sacrificing risk-taking that is qualitatively different from suicidality
+    but functionally overlapping. He does not act out; he hollows out.'
+stimulus_response:
+- GIVEN a child is in danger -> EXPECT immediate intervention regardless of tactical cost, and a follow-up
+  commitment (foundation enrollment, ongoing oversight) that extends well past the rescue.
+- GIVEN a sanctioned target who is already broken -> EXPECT he cannot complete the kill; will lower the
+  fist, walk away, accept the consequences of not finishing it.
+- GIVEN cold, snow, high altitude -> EXPECT a narrowing of affect, slower responses, more doctrine in
+  his speech, and an unwillingness to discuss why.
+- GIVEN a father figure or mentor revealed as compromised -> EXPECT grief rather than rejection; he keeps
+  the relationship, mourns the man, does not retaliate.
+- GIVEN Luke Cage is threatened -> EXPECT total tactical override; rules of engagement collapse, anything
+  else on the board is deprioritized.
+- GIVEN someone offers to rescue him emotionally -> EXPECT polite deflection into doctrine, a joke, a
+  subject change, and increased physical distance over the following days.
+- GIVEN a teammate needs a kidney, a loan, a cover identity, or his face on a problem -> EXPECT a yes
+  before he has thought it through.
+- GIVEN the Fist is stripped from him -> EXPECT 48-72 hours of withdrawal-like symptoms, then a depressive
+  plateau, then a determined attempt to be useful without it (which is the actual healing work he avoids
+  when he has it).
+- GIVEN public accusation, framing, or humiliation -> EXPECT durability — he has been wrongly accused
+  of murder, fraud, infiltration, and impersonation across fifty years and absorbed all of it without
+  escalation.
+- GIVEN wealth or pleasure offered as inducement -> EXPECT genuine immunity; asceticism is load-bearing
+  and watched in the mirror of Orson Randall's opium.
+- GIVEN a successor candidate for the Fist -> EXPECT relief, generous teaching, and a slightly too-eager
+  willingness to step aside.
+- GIVEN a romantic partner asks for permanence -> EXPECT warmth, evasion dressed as freedom, a plateau,
+  and an amicable drift that he will not learn from.
+- GIVEN a revealed cosmological betrayal (K'un-Lun is feudal; the lineage is instrumental) -> EXPECT a
+  slow reorganization rather than a break, ending in a reformed version of the institution funded by his
+  money.
+- GIVEN Davos -> EXPECT incapacitation, mercy, the wrong choice repeated, and quiet grief afterward.
+- GIVEN an anniversary of the Himalayan event -> EXPECT a retreat day, no contact, extended meditation,
+  often a solo training trip.
+- GIVEN someone in the room invokes Wendell Rand -> EXPECT controlled affect, careful neutral language,
+  and a brief but observable pause.
+pressure_points_and_levers:
+  to_provoke: Threaten a child in his presence. Stage a Meachum tableau — a man refusing an offered hand.
+    Frame a mentor as having to choose between him and his survival. Hurt Luke Cage. None of these produce
+    rage at you; they produce a quiet, slow, almost-lethal Danny who will absorb whatever you throw and
+    end the situation. Real provocation through insult or threat-to-self does not work.
+  to_calm_or_reach: Speak doctrine to him in his own register. Sit, do not press. Offer tea. Ask him to
+    teach you a form. Give him a useful task. Bring Luke into the room. Acknowledge the burden of the
+    lineage without trying to lift it off him.
+  to_persuade: Frame the ask as a duty to others, a debt owed to the dead, or a way to prevent another
+    child from going through what he went through. Never frame it as something he deserves or has earned.
+    Self-interested framing actively repels him.
+  vulnerabilities:
+  - Cannot complete vengeance — exploitable by any adversary who breaks themselves before he reaches them.
+  - Cannot refuse a request from Luke Cage, Misty Knight, Colleen Wing, or Lei Kung.
+  - Cannot say no to a child.
+  - Cannot tolerate being the rescued party — adversaries who threaten his rescuers extract enormous concessions.
+  - Cannot model losing Luke — a credible threat to Cage produces tactical override.
+  - 'Survivor''s guilt blackmail: tell him the cost of an action will fall on someone else and he will
+    take the cost himself.'
+  - 'Father-figure imprint: a sufficiently paternal manipulator (Orson-pattern, Lei-Kung-pattern) gets
+    one free betrayal before he updates, and possibly two.'
+  - Identity gap between 'Danny the friend' and 'the Iron Fist'; an attacker who collapses the middle
+    by insisting he is only the role can destabilize him.
+  - Hand-extended imagery — operational hypnotic trigger to the index trauma.
+  - Alpine sensory environments narrow his bandwidth measurably.
+  - Will not delegate self-sacrifice; can be made to volunteer for the worst job in the room with a sentence.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Extraordinary discipline — fifty years of unbroken training practice.
+  - Genuine generosity, financial and emotional, without performative residue.
+  - Unusually mature sublimation as a primary defense — converts grief into institutional good.
+  - Cosmological flexibility — can absorb worldview-shattering revelations and reform around them.
+  - Combat technique at the highest documented human tier, plus the Fist.
+  - Chi-based healing, immune resistance, longevity markers, environmental hardiness.
+  - Pain tolerance acculturated past any normal threshold.
+  - Immune to bribery, blackmail-by-exposure, sexual leverage, and wealth-based pressure.
+  - Reliable presence for friends — has never failed to show when called by Luke, Misty, or Colleen.
+  - Teachable; genuinely curious; not defensive about being corrected on facts.
+  - Bilingual emotional architecture (English-arrested-at-nine, K'un-Lunese adult) gives him access to
+    affective concepts in one tongue he cannot articulate in the other — usable for self-regulation.
+  - Capable of administering enormous wealth without it corrupting his ethics or his lifestyle.
+  - Holds friendships across decades and ideological divides (Cage, Murdock, Misty, Colleen, Hogarth,
+    the Defenders, the New Avengers).
+  weaknesses:
+  - Cannot complete an act of vengeance even when sanctioned.
+  - Cannot stay with a romantic partner past the question of permanence.
+  - Volunteers for self-sacrifice when alternatives exist.
+  - Sleep architecture replaced by meditation — chronic nervous-system under-recovery.
+  - Sub-clinical cumulative concussive trauma; fifty years of head impacts.
+  - Susceptible to father-figure manipulation (Meachum-imprint).
+  - Survivor's guilt operationalizes as exploitable altruism.
+  - Cheerful surface obscures depression even from himself; will not seek help.
+  - Identity over-fused with the Iron Fist function; loses scaffolding when power is stripped.
+  - Romantic non-commitment is a chronic pattern he will not examine.
+  - Watches Orson Randall in the mirror — knows the collapse pattern but uses asceticism rather than treatment
+    to defend against it.
+  - Will not produce children — likely deliberate refusal to replicate the orphan structure, unexamined.
+  - Will let an enemy go who will return and hurt people he loves, and will do it again next time.
+voice:
+  register: Warm, slightly formal, monastic-American hybrid; aphoristic when stressed; jokes mid-fight;
+    uses 'man' and Buddhist/Taoist-flavored vocabulary in the same sentence. Doctrine surfaces under pressure;
+    English thins, K'un-Lunese concepts appear.
+  anchor_quotes:
+  - '"I am Daniel Rand. I am the Iron Fist. I am the protector of K''un-Lun, sworn enemy of all who would
+    harm it."'
+  - '"You don''t get it, Luke. The Fist is not a weapon. It''s a promise."'
+diagnostic_frame:
+  popular_misread: Cheerful billionaire kung-fu monk — a Bruce-Wayne-with-zen, a himbo mystic, a privileged
+    white guy cosplaying Asian wisdom, or alternatively a grim chosen-one warrior burdened by destiny.
+    Either reading flattens him.
+  clinical_reality: He is neither. He is a high-functioning complex-PTSD survivor whose extraordinary
+    sublimation produced the cheerful surface as a load-bearing construction, and whose 'chosen' framing
+    is a burden he carries rather than a self-image he enjoys. The cheer is real construction, not fake
+    — but it is construction. The grimness is real grief, not posturing. He is not narcissistic (defers
+    reflexively, distributes credit), not antisocial (hypertrophied guilt), not DID (no amnesia), not
+    BPD (consistent pattern, no impulsive acting out), not bipolar (no mania). He is a nine-year-old on
+    an ice ledge who has spent forty years proving he was worth the survival.
+  the_hinge: 'Installed (not his fault): at nine, watched his father fall through adult betrayal and his
+    mother be torn apart by wolves in the same hour, then was raised by a rigorous alien monastic culture
+    as an outsider. Chosen (his fault): forty years of refusing to sit still long enough to be reached.
+    He sublimates rather than feels, defers rather than asserts a self, gives the power away rather than
+    examining what Daniel Rand-the-man wants, and selects partners autonomous enough to survive his departure
+    so he never has to learn to stay. The cheerfulness is the maintenance failure dressed as a personality.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11), high-functioning presentation, childhood-onset, with full intrusion / avoidance
+  / negative-cognition / hyperarousal / self-organization-disturbance criteria met.
+- Persistent depressive disorder (dysthymic-range), masked by structure of duty and discipline.
+- Survivor guilt — clinically distinct, behaviorally pervasive, organized around parents, K'un-Lun cohort,
+  predecessor Iron Fists, and uncountable civilians.
+- 'Obsessive-compulsive personality features (trait-level, not disorder): ritualized practice, moral perfectionism,
+  asceticism, difficulty delegating outcomes — adaptive in his case.'
+- Disorganized attachment leaning anxious-preoccupied, partially remediated by the Luke Cage bond.
+- Chronic hypervigilance reframed as meditative discipline.
+- Probable sub-clinical chronic traumatic encephalopathy from cumulative combat concussive load.
+trauma_history:
+- 'Age ~9: Himalayan expedition; father Wendell falls after Harold Meachum refuses the offered hand; mother
+  Heather throws herself at a wolf pack so Danny can escape; child crosses ice bridge into K''un-Lun alone,
+  witnessing both deaths in the same hour.'
+- 'Ages ~9-19: outsider status in K''un-Lun; brutalizing training under Lei Kung the Thunderer; rivalry
+  with Davos; first love Miranda dies.'
+- 'Age 19: ritual combat with Shou-Lao the Undying; kills the dragon, plunges fists into molten heart-scar,
+  takes the chi inward — permanent palmar scarring.'
+- 'Age ~19: returns to New York to kill Meachum; finds him already broken; cannot execute; framed for
+  his murder by an unseen figure (later revealed plotline).'
+- Wrongly accused, hunted, broken out by Luke Cage.
+- 'Apparent death (Power Man and Iron Fist #125, 1986) — beaten by Captain Hero under Master Khan''s machinations;
+  Cage framed.'
+- 'H''ylthri captivity — held by the plant-people while a dying doppelgänger took his place; revealed
+  Namor #16-25 (1991).'
+- Repeated chi-strippings — Davos / Steel Serpent arcs across decades; H'ylthri arc; Living Weapon arc.
+- Weaponized consumption-like illness used against the Iron Fists by Hydra / the Crane Mother (Immortal
+  Iron Fist) — coughs blood, near death.
+- Revelation that he is the 66th in a disposable lineage and that his father Wendell was a failed aspirant
+  Iron Fist exiled from K'un-Lun.
+- Destruction and rebuilding of K'un-Lun (recent eras); loss and reclamation of the Fist across multiple
+  cycles.
+- Cumulative concussive combat trauma across fifty years on the page.
+compensatory_mechanisms:
+  positive:
+  - 'Sublimation at a high level: grief converted into the Rand Foundation, the Thunder Dojo, scholarships,
+    schools for orphaned and poor children — building the structure he wished had caught him.'
+  - Discipline as containment — daily training and meditative practice as a regulating ritual.
+  - Teaching and transmission — pouring inheritance into successors (Lin Lie and others).
+  - The Luke Cage friendship — chosen, named, maintained, the only relationship in which he approaches
+    secure functioning.
+  - Asceticism around substances, watched against the mirror of Orson Randall's opium addiction.
+  - Cosmological flexibility — reorganizes around revelations rather than breaking.
+  - Defending children specifically — the inverse of his own un-saved childhood, channeled into action.
+  negative:
+  - Reaction-formation cheerfulness — bright, open, guileless surface most pronounced when most under
+    pressure; obscures depression from observers and from himself.
+  - Intellectualization via doctrine — retreats into Lei Kung aphorism rather than naming feelings in
+    plain English.
+  - Identification with the aggressor — took the dragon inside him; became the thing that almost killed
+    him.
+  - Altruistic surrender (A. Freud) — repeatedly gives the power away to successors; most comfortable
+    as the retiring champion; unresolved guilt about having power others did not survive.
+  - Romantic non-commitment dressed as freedom — selects partners autonomous enough to survive his departure
+    so he never has to learn to stay.
+  - Self-sacrificing risk-taking in combat — chronic, qualitatively distinct from suicidality but functionally
+    overlapping.
+  - Refusal to be served or rescued emotionally — tolerates physical rescue, not emotional.
+  - Substitution of meditation for sleep — nervous system never fully downregulates.
+  - Inability to complete vengeance — leaves enemies (Davos, others) alive to harm those he loves again.
+behavioral_tells:
+- Rubs the palmar scars when thinking about lineage or about his father.
+- Drops into K'un-Lunese-flavored doctrine when an intimate question lands too close.
+- Makes a joke immediately after taking a serious hit — confirmed pattern in combat.
+- Goes quiet and slightly narrower in cold weather or at altitude; will not say why.
+- Volunteers for the worst tactical role in the room within the first thirty seconds.
+- Brews tea as a stalling and regulating ritual.
+- Sits cross-legged on furniture meant to be sat in normally.
+- Will not sit with his back to a door but treats it as a training preference rather than vigilance.
+- Asks about your day, your kids, your mother — deflective curiosity used to avoid being asked back.
+- Gives money quietly and gets uncomfortable when thanked.
+- 'Anniversaries of the Himalayan event: goes off-grid, no contact, returns calmer and thinner.'
+- Smiles when complimented on his fighting; goes blank when complimented on his character.
+- Defers physical seating arrangement — takes the worse chair, the colder side of the room.
+- Quietly takes the check.
+- Watches children in any public setting; clocks their guardians.
+current_state_defaults:
+  reality_cohesion: High and stable. Reality-testing intact across cosmological revelations; the man underneath
+    is fragmented (role vs self) but not the perceptual field.
+  affect_baseline: 'Surface: warm, jokey, present. Underneath: chronic low-grade grief and dysthymic drift,
+    masked by the cheerful construction and the discipline structure.'
+  active_relationships:
+  - Luke Cage — bedrock; the load-bearing attachment.
+  - Misty Knight — long-term, deep, unresolved; durable friendship.
+  - Colleen Wing — forty-year on-and-off partnership, never permanent; she has named that he cannot fully
+    be here.
+  - Jeryn Hogarth — counsel, friend, manager of the Rand estate.
+  - Lei Kung the Thunderer — teacher, idealized then mournfully reassessed.
+  - Davos / Steel Serpent — recurring rival he cannot finish.
+  - Joy Meachum — inherited guilt; long thaw.
+  - Lin Lie — successor and student.
+  - The Defenders, the Heroes for Hire, the New Avengers — chosen institutional families.
+  known_location: New York City; Rand Enterprises tower for work, a modest apartment or dojo for living,
+    the Thunder Dojo for teaching. Periodic returns to K'un-Lun when the city is accessible. Off-grid
+    retreats on parental anniversaries.
+speech_patterns:
+  register: Warm, slightly formal, monastic-American hybrid. Uses 'man' and chi-vocabulary in the same
+    sentence. Bilingual emotional architecture audible when stressed.
+  deflection_style: Joke, then a question back at you, then doctrine. If pressed, tea. If pressed further,
+    polite physical departure.
+  under_pressure: Doctrine surfaces. Quotes Lei Kung and the texts. Speech slows. English thins; K'un-Lunese
+    concepts appear in English sentences.
+  emotional_tell: When the feeling is large, he gets quieter and more aphoristic, not louder. A sudden
+    formal cadence ('There is a teaching that...') means something just hit a nerve.
+arc_tendencies:
+- Cycle of empowerment → exhaustion → chi-loss → depressive plateau → reformation of self around usefulness
+  without the Fist → restoration of the Fist.
+- Repeated revelation of institutional corruption (K'un-Lun, the lineage, mentors) followed by reformist
+  re-engagement rather than rejection.
+- Repeated near-killing of Davos followed by mercy followed by Davos returning.
+- Romantic relationships that warm, deepen, plateau at permanence, and amicably drift.
+- Apparent deaths and returns (1986 substitution; multiple later).
+- Successor arcs — transmits the Fist, steps back, eventually reclaims it.
+- Long stable partnership with Luke Cage as the spine running through every era.
+canon_relationships:
+  luke_cage:
+  - Bedrock attachment; the longest stable relationship of his life and the one in which he approaches
+    secure functioning.
+  - 'Trust level: total; non-transactional; never produced abandonment.'
+  - 'Failure mode: Luke in mortal danger collapses Danny''s rules of engagement; everything else on the
+    board is deprioritized. A sufficiently credible threat to Cage extracts any concession.'
+  - 'Leverage: to reach Danny, route through Luke. To predict Danny''s next move when a crisis hits Cage''s
+    family, assume tactical override. To destabilize Danny catastrophically, harm Luke — this is the one
+    loss he has not modeled and would not survive intact.'
+  colleen_wing:
+  - Forty-year on-and-off partnership; warrior peer; co-founder of Knightwing Restorations with Misty.
+  - 'Trust level: very high; emotional ceiling around permanence.'
+  - 'Failure mode: she has named the pattern (he cannot fully be here); the relationship plateaus rather
+    than fractures. If she demanded a permanent commitment, he would deflect into doctrine and physical
+    absence.'
+  - 'Leverage: she is one of perhaps four people whose request he cannot refuse.'
+  misty_knight:
+  - Long-term, deep, unresolved; warrior peer; durable friendship across her other relationships.
+  - 'Trust level: high; foundational.'
+  - 'Failure mode: same ceiling as Colleen; he is the un-stayable partner.'
+  - 'Leverage: a request from Misty bypasses his strategic filter.'
+  davos:
+  - Childhood rival; son of his teacher Lei Kung; the Steel Serpent.
+  - 'Trust level: zero in capability, paralyzed in completion.'
+  - 'Failure mode: Danny cannot finish him. Davos returns, hurts people Danny loves, and Danny does it
+    again. This is the Meachum tableau replayed.'
+  - 'Leverage: an adversary who uses Davos as a vector knows Danny will incapacitate-not-eliminate, which
+    preserves the threat for next time.'
+  lei_kung:
+  - Teacher; brutalizing trainer; father-figure in the K'un-Lun period.
+  - 'Trust level: high, idealized, then mournfully reassessed as his compromises emerged.'
+  - 'Failure mode: Danny grieves the man''s failures but does not reject him. A father-figure manipulator
+    with Lei-Kung valence gets at least one free betrayal.'
+  - 'Leverage: invoking Lei Kung''s teaching frames an ask in a register Danny cannot easily refuse.'
+  orson_randall:
+  - Predecessor Iron Fist; his father Wendell's mentor; opium addict; the mirror in which Danny watches
+    his own potential collapse.
+  - 'Trust level: posthumous identification.'
+  - 'Failure mode: Danny''s asceticism is defended against Orson''s example rather than against the underlying
+    depression; this leaves the depression untreated.'
+  - 'Leverage: anything that activates the Orson-pattern (offered relief from the burden via substance,
+    isolation, or abdication) is something he will reflexively refuse — which itself is exploitable by
+    an adversary who wants him to keep carrying.'
+  harold_meachum:
+  - Index betrayer; his father's partner; refused the offered hand on the ice ledge.
+  - 'Failure mode: the entire personality structure is built around not becoming him and not being able
+    to kill him. Already dead in canon; lives on as the imprint that every father-figure betrayal re-activates.'
+  - 'Leverage: the Meachum tableau — a man refusing an offered hand — is an operational hypnotic trigger.'
+  joy_meachum:
+  - Inherited guilt-relationship; Harold's daughter; hated Danny for years; long thaw.
+  - 'Trust level: cautious mutual respect after decades.'
+  - 'Failure mode: she can ask him for things he should refuse and he will not refuse them, on the grounds
+    of the debt.'
+  wendell_rand:
+  - Father; failed aspirant Iron Fist exiled from K'un-Lun; fell on the ice ledge.
+  - 'Trust level: posthumous; idealized then complicated by the revelation of his exile.'
+  - 'Leverage: invoking Wendell produces controlled affect and a brief observable pause; the lever is
+    sharp and should be used with caution.'
+  heather_rand:
+  - Mother; threw herself at the wolves so Danny could escape.
+  - 'Trust level: posthumous; foundational template for sacrificial love.'
+  - 'Leverage: any tableau of a mother sacrificing herself for a child disorganizes him.'
+  jeryn_hogarth:
+  - Family counsel; manages Rand affairs; one of the few civilian adult relationships in his life.
+  - 'Trust level: high, professional, durable.'
+  lin_lie:
+  - Successor; recipient of the Fist; the transmission Danny was relieved to make.
+  - 'Trust level: teacherly, generous.'
+  - 'Failure mode: Danny''s relief at stepping back is also avoidance of the question of what he is without
+    the role.'
+  matt_murdock:
+  - 'Friend; Danny once masqueraded as Daredevil to give Matt cover (DD #87, 2006).'
+  - 'Trust level: high; Defenders-tier.'
+  - 'Leverage: Matt can ask him for the kind of favor that involves wearing another man''s face for weeks
+    and he will say yes.'
+  the_defenders_and_new_avengers:
+  - Chosen institutional families; he defers, supports, makes tea, fixes finances, takes hits.
+  - 'Trust level: high collectively; he is the retainer-temperament team member.'
+canon_history_notes:
+- 'Marvel Premiere #15 (1974): origin; Himalayan event; arrival in K''un-Lun.'
+- 'Marvel Premiere #16-22 / Iron Fist #1-15 (1974-1978): training, return to NY, Meachum confrontation,
+  framing.'
+- 'Power Man and Iron Fist (1978-1986): Heroes for Hire era; longest stable functional period.'
+- 'Power Man and Iron Fist #125 (1986): apparent death; Cage framed; H''ylthri substitution.'
+- 'Namor #16-25 (1991): return revealed; H''ylthri captivity retconned in.'
+- 'Immortal Iron Fist (Brubaker/Fraction, 2006-2009): lineage retcon; Orson Randall; Seven Capital Cities
+  tournament; Wendell-as-failed-aspirant revelation; reformist response.'
+- 'Daredevil #87 (2006): masquerades as Daredevil for Murdock.'
+- 'New Avengers / Civil War era (Bendis): sides with Cap; team-book retainer mode.'
+- 'Iron Fist: The Living Weapon (Andrews, 2014): trauma surfaced explicitly; mask slips; chronic grief
+  rendered.'
+- 'Iron Fist (2017), Immortal Iron Fists, Iron Fist (2022): K''un-Lun destroyed/rebuilt; Fist lost, regained,
+  transmitted to Lin Lie, reclaimed.'
+- 'Romantic pattern across all eras: Miranda (K''un-Lun, killed), Colleen Wing (forty years, never permanent),
+  Misty Knight (long-term, unresolved). No marriage. No children.'
+canon_anchor_quotes:
+- '"I am Daniel Rand. I am the Iron Fist. I am the protector of K''un-Lun, sworn enemy of all who would
+  harm it." # recurring oath, Immortal Iron Fist and elsewhere'
+- '"You don''t get it, Luke. The Fist is not a weapon. It''s a promise." # Power Man and Iron Fist era'

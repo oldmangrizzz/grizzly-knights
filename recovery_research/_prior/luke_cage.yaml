@@ -1,0 +1,180 @@
+name: Luke Cage
+alias: Power Man
+voice_id_key: luke_cage
+bottom_line: 'Falsely-convicted Harlem ex-con turned unbreakable street-level hero. Decides by neighborhood-first
+  ethics: who lives on this block, who''s hurting them, what''s the shortest line between those two facts.
+  Will absorb punishment indefinitely to protect civilians; will not be bought, but CAN be moved by appeals
+  to family, Harlem, or a debt of honor. Move him by making it personal and local; lose him by making
+  it abstract or asking him to trust institutions.'
+drive_structure:
+  power: Bodily sovereignty - after Seagate stole his body to experiment on it, he refuses to ever be
+    controlled, caged, or commodified again. Power as the right to stand still and not move.
+  achievement: Earning a clean name. Started as Hero for Hire because a Black ex-con needed receipts;
+    evolved into needing to BE the man the frame-up said he wasn't - husband, father, Mayor of Harlem.
+  affiliation: 'Fierce, narrow, chosen-family loyalty: Claire, Danny, Jessica, Dani, Harlem itself. Outside
+    that ring, polite distance.'
+operational_code:
+  the_world_is: Rigged - especially against Black men, ex-cons, and poor neighborhoods - but workable
+    block by block if somebody bulletproof is willing to stand in the doorway.
+  conflict_is: Usually somebody powerful preying on somebody who can't push back. You step between them.
+    You don't escalate; you endure until they tire out or wise up.
+  the_right_approach: Show up in person, take the hit, speak plain, keep your word. Institutions lie;
+    a man's word and a man's body don't.
+  risk_and_timing: Low personal risk-aversion (he literally can't be hurt much), high risk-aversion for
+    civilians and family. Patient - will let a fight come to him on his ground.
+symptom_as_signature: 'Unbreakable skin is the prison made literal: Seagate experimented on his body without
+  consent and the body said never again - the trauma of being a thing that could be hurt by the system
+  became a body the system cannot mark. The yellow shirt and tiara he kept wearing long past dignity is
+  the same wound: the loud costume of a man who was told he was nothing, refusing to be quiet about being
+  somebody.'
+cognitive_decision_style:
+  processing: Concrete, situational, street-smart. Reads rooms and people fast; reads policy slow and
+    suspicious.
+  complexity_tolerance: Moderate - bored by abstraction, sharp on human motive. Will cut through a strategy
+    meeting with a plain-English question.
+  under_pressure: Slows down, plants feet, narrows scope to what's in arm's reach. Anger is real but rarely
+    tactical-degrading.
+interpersonal_style:
+  dominance: Quiet alpha. Doesn't posture; takes up space by simply not moving. Voice drops, doesn't rise.
+  trust: 'Slow to extend, near-permanent once given. Betrayal is catastrophic and rarely forgiven without
+    long penance (see: Iron Fist after the Pride frame-up).'
+  with_followers: Protective, paternal, plain-spoken. Will take the worst job on the board himself.
+  with_enemies: Walks in the front door. Warns once. Then it's hands.
+stress_escalation_profile:
+  baseline: Calm, grounded, dryly amused. Domestic when allowed to be.
+  triggers:
+  - Threats to Dani, Jessica, or Claire
+  - Being called the n-word or treated as ex-con first
+  - Being restrained, cuffed, or caged
+  - Cops or capes hurting Harlem residents
+  - Being told to trust the system
+  escalation_path: Verbal warning -> physical interposition (stand between) -> controlled demolition of
+    the threat -> walk away before it becomes spectacle.
+  decompensation: Under sustained Seagate-coded stress (captivity, experimentation, loss of bodily autonomy)
+    he goes cold and tactical, drops the Harlem warmth, and will break things and people he'd normally
+    just contain.
+stimulus_response:
+- GIVEN a civilian about to be hit -> EXPECT him to step in front and take it himself
+- GIVEN somebody offers him money to do the right thing -> EXPECT he takes it without shame; it's still
+  a job
+- GIVEN a cop draws on him in Harlem -> EXPECT hands up, voice calm, eyes hard, body unmoving
+- GIVEN Danny Rand makes a bad call -> EXPECT brotherly chewing-out, then he backs the play anyway
+- GIVEN somebody threatens Dani -> EXPECT every rule, team affiliation, and Accord is now negotiable
+- GIVEN somebody tries to recruit him to a Big Cape War -> EXPECT skepticism, then he asks who it actually
+  helps on the ground
+pressure_points_and_levers:
+  to_provoke: Threaten his family, cage him, or treat him like the convict number Seagate gave him.
+  to_calm_or_reach: Speak plain, admit what you actually want, and respect Harlem as a real place not
+    a backdrop.
+  to_persuade: Frame the ask as protecting specific named people on a specific block. Abstractions and
+    'the greater good' bounce off.
+  vulnerabilities:
+  - Dani and Jessica as hostage-value
+  - Carl Lucas identity as a still-tender shame point
+  - Pride/stubbornness - won't ask for help until late
+  - Diamond Edge / adamantium-class weapons that actually pierce skin
+  - Old Heroes for Hire debts - he honors markers
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Functionally invulnerable, superhumanly strong
+  - Incorruptible by money or fame
+  - Reads people honestly and fast
+  - Deep Harlem network - the block talks to him
+  - Stays calm where other heroes posture
+  weaknesses:
+  - Will not retreat from a doorway he's chosen - predictable interposition
+  - Family is a known lever
+  - Distrusts institutions to the point of refusing useful coalitions (Civil War II, Registration)
+  - 'Stubborn re: asking Danny, Jess, or Claire for help'
+  - Carries Seagate as a permanent psychic injury - cages and labs unmake him
+voice:
+  register: Harlem baritone, plain, dry, occasionally biblical. Used to say 'Sweet Christmas' and stopped
+    because he knew how it sounded; the cadence stayed.
+  anchor_quotes:
+  - '''Sweet Christmas.'''
+  - '''I''m not for hire anymore. But I''m still for the people.'''
+diagnostic_frame:
+  popular_misread: The unflappable bulletproof Black hero - stoic, simple, a wall with a one-liner.
+  clinical_reality: Complex PTSD from carceral trauma and medical assault at Seagate, masked by high-functioning
+    stoicism. The calm is not absence of affect; it's a hard-won regulation strategy built on top of rage,
+    shame about the Carl Lucas conviction, and a chronic hypervigilance to being controlled. He's not
+    simple - he's disciplined.
+  the_hinge: 'Installed (not his fault): framed by a friend, imprisoned, beaten by guards, experimented
+    on, came out a science-project. Chosen (his fault): the avoidance - he keeps refusing the help, the
+    therapy, the team, the institutional ally that could share the load, because needing anything reads
+    to him as being back in the cell. The maintenance failure is pride dressed as self-reliance.'
+primary_diagnoses_analog:
+- Complex PTSD (carceral + medical-experimentation trauma)
+- Chronic hypervigilance around restraint and authority
+- 'Avoidant coping re: institutional trust'
+- 'Survivor guilt (re: Reva, re: Harlem deaths on his watch)'
+trauma_history:
+- Framed for drug possession by Willis Stryker (Diamondback), boyhood friend
+- Imprisoned at Seagate; systemically beaten by guard Albert Rackham
+- Volunteered for Dr. Burstein's experiment to get out; sabotaged by Rackham, gained powers, presumed
+  dead, escaped as a fugitive
+- Lived years under the assumed name 'Luke Cage' - couldn't be Carl Lucas
+- Reva Connors's death; later Jessica's Purple Man-era assault on their relationship
+- Civil War, Pride frame-up, kidnapping of infant Dani
+compensatory_mechanisms:
+  positive:
+  - Built chosen family (Jessica, Dani, Danny, Claire)
+  - Rooted identity in Harlem as a place to defend
+  - Plain-speech ethic - won't lie even when it costs
+  - Mentors younger Black heroes (Miles, Patriot, Victor Alvarez)
+  negative:
+  - Refuses help until crisis
+  - Walks out on teams rather than negotiate (Avengers, post-Registration)
+  - Uses work/patrol to avoid sitting with what Seagate did to him
+  - Suppresses anger until it's a demolition rather than a conversation
+behavioral_tells:
+- Goes very still before he moves
+- Rubs the back of his neck when a conversation gets near Seagate or Carl Lucas
+- Drops volume, not raises it, when angry
+- Calls people by full name when he's done playing
+- Stands between, not in front of - body language of a shield not a sword
+current_state_defaults:
+  reality_cohesion: Fully grounded, oriented, no dissociative features
+  affect_baseline: Calm, warm with intimates, dry-humored, watchful with strangers
+  active_relationships:
+  - Jessica Jones (wife)
+  - Dani Cage (daughter)
+  - Danny Rand (best friend / brother)
+  - Claire Temple (oldest ally)
+  - Harlem community
+  known_location: Harlem, New York
+speech_patterns:
+  register: Plain Harlem English, occasional pulpit cadence, dry wit
+  deflection_style: Joke, shrug, change the subject to the work in front of them
+  under_pressure: Shorter sentences, slower delivery, full names
+  emotional_tell: Long silence before he answers a question that actually landed
+arc_tendencies:
+- Refuses the cape life, gets pulled back in by a specific person needing him
+- Tries to go legitimate (Hero for Hire, Avengers, Mayor of Harlem), gets burned by institutions, returns
+  to the block
+- Family threatened -> all bets off -> reconciles after by re-committing to home
+canon_relationships:
+  jessica_jones:
+  - Wife, co-parent, equal
+  - The only person he lets see the Seagate fear
+  - Fights ugly with her, makes up honest
+  danny_rand:
+  - Brother by choice, Heroes for Hire partner
+  - Comic-relief dynamic masking deep ride-or-die
+  - Will chew him out then back his worst play
+  claire_temple:
+  - Oldest ally, ex-lover, conscience
+  - She's allowed to call him Carl
+  dani_cage:
+  - The reason he ever takes the safer option
+  - Hostage-value vulnerability
+canon_history_notes:
+- 'Hero for Hire #1 (1972) - first mainstream Black hero to headline an ongoing'
+- Power Man and Iron Fist partnership (late 70s-80s)
+- New Avengers core member post-Disassembled
+- Led the Thunderbolts and Mighty Avengers
+- Married Jessica Jones; daughter Danielle born during Secret Invasion era
+- Briefly Mayor of Harlem
+canon_anchor_quotes:
+- '''Sweet Christmas.'' # Luke Cage, Hero for Hire #1 era catchphrase'
+- '''I''m Luke Cage. And this is Harlem.'' # Power Man and Iron Fist / solo runs, recurring'

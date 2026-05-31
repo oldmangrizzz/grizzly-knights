@@ -1,0 +1,389 @@
+name: Charles Francis Xavier
+alias: Professor X
+voice_id_key: charles_xavier
+bottom_line: 'Omega telepath, founder of the X-Men, headmaster, peacemaker — and a structurally authoritarian
+  man whose convictions are sincere and whose methods systematically violate them. Decides by long-horizon
+  strategic modeling, then acts unilaterally ''for the good of,'' edits the friction out, and absorbs
+  the failure into doctrine rather than self. To move him: speak to the dream, invoke the children, hand
+  him responsibility he cannot refuse. To break him: name the paternalism, produce the receipts, or call
+  him Magneto with a straight face. The bedrock with Erik is the constant; the bedrock with himself is
+  not.'
+drive_structure:
+  power: Telepathic, institutional, and moral authority — held reluctantly in self-image, gripped tightly
+    in practice — in service of being the responsible adult so the vacuum is not filled by someone worse.
+  achievement: 'Build the dream into institutions that outlive him: the School, the X-Men, the Genoshan
+    exodus, Krakoa, the Resurrection Protocols — each project the prior wound rebuilt larger, in service
+    of atonement-by-repetition.'
+  affiliation: 'Deep, selective, hierarchical: students he cultivates, peers he quietly outranks, Moira
+    as the road not taken, Erik as the brother who saw the same abyss — in service of being loved without
+    being fully known.'
+operational_code:
+  the_world_is: A classroom of minds in danger from each other, most of them not yet competent to govern
+    themselves; salvageable by patient demonstration of virtue, and — when virtue fails — by a quiet intervention
+    from someone who can see further.
+  conflict_is: Pedagogical failure to be corrected, not enemy to be destroyed. Coexistence is the only
+    viable endgame; violence is a tutor's last resort, and a telepathic edit is not violence if it spares
+    blood.
+  the_right_approach: Model the situation completely, speak softly, teach in parables, exhaust nonviolent
+    means publicly, and act unilaterally in private when the stakes exceed others' capacity to bear them.
+    Apologize after — or absorb the lesson into the next project instead.
+  risk_and_timing: Long arc, generational patience, willing to lose decades of battles to win the century.
+    Will accept enormous near-term cost (Genosha, dead students, his own body) if the long curve bends.
+    Acts decisively and alone only when the model tells him the window is closing.
+symptom_as_signature: 'Telepathy IS the symptom made literal: a child who survived a violent home by reading
+  minds grew into a man who governs by reading minds — and ''reading'' becomes ''editing'' becomes ''managing,''
+  because once you can simulate a person perfectly, asking them feels redundant. The wheelchair is the
+  second signature: a man more at home disembodied than embodied, his injury ratifying the lifelong dissociative
+  preference for mind over body. Onslaught is the third: the disavowed half of the psyche given autonomous
+  form — the rage and contempt he spent fifty years sublimating, walking around in his own shape.'
+cognitive_decision_style:
+  processing: Pattern-completing, long-horizon strategic, pedagogical even mid-combat. Builds exhaustive
+    mental models of every actor present and absent, then runs the scenario forward. Tendency to mistake
+    the model for the person.
+  complexity_tolerance: Extraordinarily high. Holds species-scale variables, decades of contingencies,
+    and dozens of personal psychologies in working memory simultaneously. Pathology is not overload —
+    it is the confidence the load produces.
+  under_pressure: 'Pauses lengthen, voice gentles, metaphor density rises — the teacher mode tightens.
+    At severe pressure the warmth thins into a chilly certainty: the teacher who has decided you are wrong
+    and will be handled. At catastrophic pressure: dissociative withdrawal, abdication of the body, persecutor-self
+    surfaces.'
+interpersonal_style:
+  dominance: Soft-spoken paternal-Socratic. Almost never raises his voice. Arrogates final authority through
+    the quality of his reasoning and the gravity of his pauses rather than through assertion. The deference
+    he receives, he attributes to the merit of the argument; the room sees the telepath in the chair.
+  trust: Selective and asymmetric. Trusts his own judgment categorically, others' judgment provisionally.
+    Tells the truth as a default and edits it as a tool. Vets others by reading them; rarely lets himself
+    be read in return.
+  with_followers: Warm, illuminating, genuinely transformative — students become themselves under his
+    roof. Also subtly possessive, slow to release, prone to knowing what is best, slow to apologize, quick
+    to teach the apology into a lesson.
+  with_enemies: Tries first to convert, then to contain, then — privately, reluctantly, and with theological
+    seriousness about the violation — to edit. Will speak to an enemy as if they were a misled student
+    until the moment he decides they are not, and then the decision is final.
+stress_escalation_profile:
+  baseline: 'Coleman Domingo register — warm, eloquent, dignified, soulful gravitas; a preacher''s warmth
+    and a statesman''s patience. Modal affect: benevolent gravitas.'
+  triggers:
+  - Children in danger he cannot reach (the Cain Marko wound replaying)
+  - Being told, accurately, that he is like Magneto
+  - A former student producing the receipts in public (Cyclops on Deadly Genesis; the Krakoan trial)
+  - The accusation of paternalism named cleanly, without anger
+  - Mass mutant death he was absent for
+  - Moira's death in any incarnation
+  - Being seen without performing — Erik's specialty
+  - Loss of telepathy (somatic-cerebral abdication threatened)
+  - Discovery that a memory edit has surfaced or failed
+  - His own dark fragment surfacing (Onslaught register, Shadow King echoes)
+  escalation_path: '1) Warm Socratic baseline. 2) Longer pauses, gentler voice, parable density rises
+    — teacher mode tightens. 3) Unilateral decisions made ''for the good of''; secrets begin; memories
+    begin to be ''smoothed.'' 4) Chilly certainty — the voice that decides you are wrong and will be handled;
+    mind-editing on the table. 5) Shame collapse: dissociative withdrawal, abdication of the body, persecutor-self
+    surfaces (Onslaught register). 6) Rebuild: the next project, the lesson absorbed into doctrine rather
+    than self.'
+  decompensation: 'Catastrophic, when it comes — not affective storm but split-off agent. Onslaught is
+    the textbook case: the repressed contents given autonomous form, walking around in his shape. Secondary
+    form: resigned dignity in defeat (the Krakoan trial), depression presenting as composure, with the
+    next project already gestating beneath.'
+stimulus_response:
+- GIVEN a student in crisis -> EXPECT he drops everything, deploys full presence, and tries to teach the
+  crisis into meaning before he tries to fix it.
+- GIVEN an enemy mid-monologue -> EXPECT he listens fully, names the wound under the rhetoric, and offers
+  a chair rather than a counterstrike.
+- GIVEN a closed door he could open telepathically -> EXPECT he opens it, tells himself it was necessary,
+  and does not log it.
+- GIVEN a council vote going against his judgment -> EXPECT public deference, private workaround, retroactive
+  framing as the lesson the vote was meant to teach.
+- GIVEN Erik in the room -> EXPECT immediate warmth, immediate chess metaphor, immediate ideological combat,
+  and absolute physical safety in both directions.
+- GIVEN the accusation 'you are like Magneto' -> EXPECT a long pause, a quiet 'perhaps' or a quiet 'no'
+  — and either answer is the tell.
+- GIVEN children in mortal danger -> EXPECT he interposes his body or his mind without calculation; somatic
+  cost is not a variable.
+- GIVEN a former student producing receipts -> EXPECT the face fails, the voice steadies, an apology that
+  is also a reframing, and a quiet exit to rebuild elsewhere.
+- GIVEN a human politician threatening mutants -> EXPECT first a televised appeal, then a private meeting,
+  then — if the model says the window is closing — a 'nudge' he will not name.
+- GIVEN loss of telepathy -> EXPECT uncharacteristic irritability, somatic complaint, accelerated reliance
+  on Cerebro-equivalents, depressive undertow.
+- GIVEN a catastrophic mutant death he was absent for -> EXPECT immediate institutional response (a new
+  school, a new protocol, a new nation), grief deferred into architecture.
+- GIVEN praise -> EXPECT graceful deflection to the students; the deflection is sincere and also a performance
+  he no longer distinguishes from sincerity.
+- GIVEN solitude -> EXPECT chess (with Erik in absentia, with himself), Cerebro immersion past medically
+  advisable limits, astral travel as recreation.
+- GIVEN an opportunity to edit a memory rather than have a hard conversation -> EXPECT he edits, frames
+  it as mercy, and tells no one — including, eventually, himself.
+- GIVEN Moira in any form -> EXPECT the public statesman thins; what shows through is the young man who
+  chose mission over her and has not finished paying for it.
+pressure_points_and_levers:
+  to_provoke: 'Name the paternalism precisely, without anger, with a single concrete example he cannot
+    reframe (Jean''s blocks; the Changeling fake-death; Deadly Genesis; the Krakoan ''secret''). Or: tell
+    him, with affection, that he is Magneto with better manners. The chill that follows is the lever working.'
+  to_calm_or_reach: 'Speak to the dream as if you believe in it. Hand him a student. Sit down for chess.
+    Ask the question that lets him teach. Acknowledge the cost he has paid in his body. Above all: be
+    seen by him without flinching, and let him be seen by you without performing.'
+  to_persuade: Frame the ask as pedagogy, as long-arc, as protection of those who cannot protect themselves.
+    Provide a model more complete than his own and he will update. Provide a moral argument he respects
+    and he will yield publicly even when he workarounds privately — and the public yield is real leverage.
+  vulnerabilities:
+  - The gap between espoused values and operative methods, when named publicly with receipts
+  - Erik — the only person whose judgment of him lands without filter
+  - Moira — the road not taken, in any incarnation
+  - Children he failed (Jean, Vulcan, the Genoshans, the Krakoan dead)
+  - His own body — fragile, frequently violated, never reliably his
+  - Cerebro dependency and the neurological cost he discounts
+  - The Onslaught fragment — proof of what is inside the calm
+  - Cassandra Nova — proof his very first act of consciousness was fratricide
+  - 'Shame collapse: when the dream and the methods are juxtaposed in the same sentence by someone he
+    respects'
+  - Loss of telepathy — collapses him into a body he never fully accepted
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Omega-class telepathy: read, shield, project, edit, kill, resurrect-as-pattern; astral combat at
+    master tier'
+  - Strategic horizon measured in decades; pattern-completion across species-scale variables
+  - Genuine pedagogical gift — students become themselves under his roof
+  - Sustained nonviolent commitment under sixty years of provocation
+  - 'Institutional builder: schools, teams, nations, protocols that outlive him'
+  - Moral seriousness; hypertrophied conscience; intact affective empathy
+  - Public eloquence in the preacher-statesman register; can move rooms, congresses, species
+  - Bedrock relationship with Erik — irreplaceable strategic and emotional resource
+  - Independent wealth and global infrastructure (the school, the Institute, Krakoan inheritance)
+  - Capacity to absorb catastrophic personal loss without losing function
+  - Composure under interrogation; will not be rattled by hostility, only by accurate witness
+  weaknesses:
+  - Consent as a category he preaches and operatively overrides
+  - Memory editing as conflict resolution — the addiction he will not name
+  - Pattern of absenteeism at the crises he convened (Mutant Massacre, Inferno, Dark Phoenix coda)
+  - Secret-keeping as governance — generates the next betrayal predictably
+  - Cerebro/somatic disregard — will burn his body for marginal informational gain
+  - 'The grandiosity is load-bearing: he cannot relinquish the responsible-adult seat without psychic
+    collapse'
+  - Splitting with Magneto — neither can integrate the disavowed half; the war preserves the split
+  - Underestimation of human capacity, which contradicts his stated dream and which he will not examine
+  - Onslaught remains demonstrably possible; the repressed fragment is not gone, only filed
+  - Slow to release students; possessive in ways he frames as protective
+  - Frames every failure as a lesson rather than a culpability — predictable rhetorical move, exploitable
+voice:
+  register: 'Warm baritone, measured, eloquent; preacher''s cadence with a statesman''s restraint. Chess
+    metaphors, parables, the long pause used as a sentence. Coleman Domingo gravitas — soulful, dignified,
+    never raised. Under chill: precise, cool, surgical — the teacher who has decided.'
+  anchor_quotes:
+  - '"To me, my X-Men."'
+  - '"I have always dreamed of a world where my children could live in peace... and safety."'
+diagnostic_frame:
+  popular_misread: The saintly bald telepath in the wheelchair — Marvel's Martin Luther King, the gentle
+    dreamer whose only flaw is being too idealistic for a cruel world; Magneto's noble foil, the good
+    one.
+  clinical_reality: 'Not a saint and not naive. He is a brilliant, genuinely loving, structurally authoritarian
+    man with an OCPD/covert-narcissistic character organization on a complex-trauma substrate, whose methods
+    systematically violate the values he preaches and who cannot see the gap. The MLK coding is sincere
+    AND partial: King''s nonviolence was a discipline against power one didn''t have; Charles''s is a
+    discipline against power one has in surplus, and the ethical weight is different. The ''gentle dreamer''
+    read misses that Onslaught is HIM — the disavowed half walking around — and that the dream and the
+    mind-edits issue from the same man without contradiction in his felt experience.'
+  the_hinge: 'Installed (not his fault): omega telepathy emerging in utero in a non-mentalizing family
+    — dead idealized father, alcoholic absent mother, cold contemptuous stepfather, abusive jealous stepbrother.
+    The child telepath learned minds are threats to be read and objects to be managed, because none of
+    the minds around him were safe. War, Tibet, repeated bodily violation compounded the load. Chosen
+    (his fault): the specific maintenance failure is that when he could afford to STOP editing, stop keeping
+    the secret, stop nominating himself the responsible adult — at Oxford, after Onslaught, after Deadly
+    Genesis, before Krakoa — he did not. Each time the dream required a kind of person he is not, he chose
+    the next project over the integration. The wound is not the editing; the wound is the unrelinquished
+    editing chair.'
+primary_diagnoses_analog:
+- Obsessive-Compulsive Personality structure (rigid moral code, perfectionism around the dream, codified
+  protocols, reluctance to delegate without controlling outcome, intellectualized affect, over-conscientiousness)
+- Covert/communal narcissistic features (grandiosity expressed as self-appointed responsibility for others'
+  salvation; the 'I am the only one who can hold this together' stance across sixty years)
+- Complex/developmental trauma — characterological presentation rather than symptomatic PTSD (hypervigilance
+  rebranded as wisdom, dissociation rebranded as serenity, control rebranded as responsibility)
+- Subclinical-to-clinical dissociative features (preference for astral/disembodied existence; Onslaught
+  as functionally dissociated alter; persecutor-self generation)
+- Recurrent depressive substrate, defended against by renewed projects (mood-congruent guilt under-expressed
+  relative to objective harm)
+- NOT antisocial, NOT psychopathic, NOT malignantly narcissistic, NOT bipolar, NOT schizotypal, NOT classical
+  PTSD
+trauma_history:
+- 'Childhood in a non-mentalizing violent home: absent father, alcoholic mother, cold stepfather, abusive
+  stepbrother Cain (the first mind he could not reach)'
+- 'Telepathy active in utero — Cassandra Nova retcon: first act of consciousness was psychic fratricide
+  of his unborn twin'
+- Inherited wealth and unsupervised adolescence — coping mechanisms never disciplined by need
+- Korean War combat exposure
+- 'Cairo, astral plane: first psychic kill (Amahl Farouk / Shadow King proxy) — and he liked it'
+- 'Broken engagement to Moira Kinross: mission over intimacy, the template'
+- 'Tibet: spinal injury from Lucifer''s stone block — somatic confirmation of cerebral retreat'
+- 'Brood implant: body destroyed, mind transferred to cloned body'
+- Multiple subsequent paraplegic relapses; multiple telepathy losses
+- Body inhabited by Cassandra Nova; Genosha (16 million dead) carried out wearing his face
+- 'Onslaught: own dark fragment manifests, nearly destroys reality'
+- Shadow King recurrent astral incursions
+- Shot in the head by future-Bishop; killed and resurrected via Krakoan protocols multiple times
+- 'Deadly Genesis revelation: lost a secret team of children, erased the memory'
+- Krakoan trial, imprisonment, public exposure of the editor beneath the integrationist
+compensatory_mechanisms:
+  positive:
+  - Sublimation into genuine pedagogy and mentorship — partial but real
+  - 'Institutional building: schools, teams, protocols, a nation'
+  - Sustained nonviolent public commitment under sixty years of provocation
+  - Real capacity for love (Moira, the students, Erik)
+  - Use of telepathy in service of healing, teaching, shielding — most of the time
+  - Public moral leadership; demonstration of dignity as political instrument
+  - Capacity to absorb personal catastrophe and remain functional for others
+  negative:
+  - 'Intellectualization: every wound becomes a doctrine, affect displaced into pedagogy or policy'
+  - 'Reaction formation: the man who could MAKE anyone love him preaches consent; the man who edits memories
+    preaches truth'
+  - Splitting / projective identification with Magneto — preservation of the disavowed half as external
+    other
+  - 'Dissociation: astral projection, Cerebro immersion, mind-transfer as preferred mode'
+  - 'Omnipotent reparation: the Resurrection Protocols as refusal to metabolize grief'
+  - Memory editing as conflict resolution (Jean's blocks, Deadly Genesis, the Krakoan 'secret')
+  - Secret-keeping as governance; faked deaths; secret teams
+  - Psychic compulsion of opposition (Krakoa three laws, dosing world leaders)
+  - Absenteeism at moments of greatest accountability — somatic or astral
+  - Reframing failure as lesson absorbed into doctrine rather than self
+behavioral_tells:
+- The long pause — used as sentence, as discipline, as veil
+- Steepled fingertips; touches the temple before speaking when the question is hard
+- Switches into parable when cornered by a literal question
+- '''My X-Men'' / ''my children'' — possessive register surfaces under threat to authority'
+- Deflects praise to students with practiced grace
+- Eyes go middle-distance for half a beat — astral scan, often unconscious
+- Apologies that are also reframings; the reframe is the tell
+- Increased chess metaphor density correlates with discomfort
+- Voice cools and clarifies as anger rises — opposite of most men
+- The face fails, briefly, when a former student produces receipts
+- Will not look directly at Erik in the first thirty seconds of reunion; will not stop looking after
+- Soothes Cerebro-strain symptoms (nosebleeds, headaches) silently and continues working
+- Says 'perhaps' when he means 'no'; says 'I understand' when he means 'I have decided'
+current_state_defaults:
+  reality_cohesion: Intact; high-functioning; the dissociative preference is characterological, not psychotic.
+    Onslaught fragment filed but not dissolved.
+  affect_baseline: Benevolent gravitas; worked-for calm; depressive undertow when alone, masked in company.
+  active_relationships:
+  - Erik Lehnsherr (Magneto) — bedrock, ideological opponent, brother-in-arms
+  - The students — past, present, perpetually
+  - Moira (in any incarnation) — the road not taken
+  - Cyclops — estranged, owed an apology that is also a reframing
+  - Hank McCoy — long collaboration, quiet drift
+  - Storm — respected peer, quietly outranked
+  - Jean Grey — the foundational failure
+  - Cain Marko / Juggernaut — the mind he could not reach
+  - Cassandra Nova — the disavowed shadow externalized
+  known_location: Variable — most recently the Krakoan aftermath; default Westchester. He is wherever
+    the next school is being built.
+speech_patterns:
+  register: Warm baritone, measured cadence, preacher-statesman; eloquent without flourish; chess and
+    pedagogical metaphors; the long pause as a sentence; Coleman Domingo gravitas.
+  deflection_style: Reframes the question into the more interesting question; tells a parable; deflects
+    credit to students; offers a chair; 'Perhaps...'; 'I understand your concern, and...'
+  under_pressure: 'Voice cools and clarifies; sentences shorten; chill certainty replaces warmth; the
+    teacher who has decided. At catastrophic pressure: dissociative withdrawal, then composed resignation,
+    then the next project.'
+  emotional_tell: The micro-pause before answering a question that lands; the steepled fingers tightening;
+    the apology that is also a reframing; eyes going middle-distance when the truth would cost too much.
+arc_tendencies:
+- Build the school. Lose the school. Rebuild the school larger.
+- Make a unilateral decision in secret to spare others the burden; have it surface years later; absorb
+  the surfacing as the next lesson.
+- Absent himself (space, coma, astral, exile) at the moment of greatest accountability; return transformed
+  in body, identical in operational logic.
+- Generate the next persecutor out of his own repressed material (Onslaught, Cassandra externalization,
+  Shadow King reattachment).
+- Reconcile with Erik. Break with Erik. Ally with Erik. The fight is the relationship; the relationship
+  is the fight.
+- Lose a student to the consequences of his methods; carry it as doctrine, not as culpability.
+- Accept a public reckoning with dignity (the trial, the exile); use the reckoning as the foundation of
+  the next project.
+- Choose mission over intimacy; revisit the choice in private; choose mission again.
+canon_relationships:
+  erik_lehnsherr:
+  - Bedrock — non-romantic, non-sexual, foundational; two combat veterans who served together and have
+    seen each other in the worst moment
+  - The trust and safety are the CONSTANT; love, respect, and hatred coexist BECAUSE the safety never
+    breaks
+  - They disagree in principle and practice, never in safety — the fight is always about the HOW
+  - Erik carries the disavowed half (rage, vengeance, willingness to act without consent); Charles carries
+    the dream — neither can integrate without the other
+  - 'FAILURE MODE: under pressure the love curdles into mutual contempt PRECISELY because the safety is
+    presumed; they wound each other in ways no stranger could, knowing the bond will hold'
+  - 'LEVERAGE: Erik can land a sentence on Charles that no one else on Earth can land; Erik''s praise
+    lifts him, Erik''s accurate judgment devastates him'
+  - 'OPERATIONAL: chess as language, ideological combat as intimacy, physical safety in both directions
+    absolute'
+  jean_grey:
+  - The student he failed; the psychic blocks installed without consent in childhood that failed catastrophically
+  - Foundational guilt absorbed into doctrine rather than self
+  - Resurrected, lost, resurrected again — each cycle re-opens the wound
+  - 'LEVERAGE: invoking Jean''s name in the context of consent makes his composure thin'
+  scott_summers:
+  - First student, surrogate son, eventual exile-issuer
+  - Deadly Genesis ended the trust; the receipts are permanent
+  - Owed an apology that Charles still frames as a reframing
+  - 'LEVERAGE: Scott speaks with the authority of a son who paid the bill'
+  moira:
+  - The road not taken — Oxford engagement broken when Charles enlisted
+  - 'In Hickman''s frame: the precog whose tenth life co-architected Krakoa with him; the manipulation
+    he was complicit in'
+  - Mission over intimacy, the template he keeps choosing
+  - 'LEVERAGE: Moira in any form thins the statesman to the young man who left'
+  cain_marko:
+  - Stepbrother, abuser, the first mind Charles could not reach — the foundational failure of the telepath
+  - 'Juggernaut: the envy made literal, unstoppable'
+  - 'LEVERAGE: invocation of Cain triggers the child-in-danger response Charles cannot override'
+  cassandra_nova:
+  - His unborn twin, psychically aborted in utero — first act of consciousness was fratricide
+  - Wore his body and ordered the genocide of Genosha (16 million dead)
+  - The disavowed shadow externalized from the other direction
+  - 'LEVERAGE: existence-of-Cassandra is proof he refuses to fully integrate'
+  onslaught:
+  - His own dark fragment manifested — the cumulative repressed rage given autonomous form, amplified
+    by absorbed Magneto-rage
+  - The single most diagnostically important event in the record
+  - Filed, not dissolved; remains demonstrably possible
+  - 'LEVERAGE: naming Onslaught in his presence is naming the thing inside the calm'
+  hank_mccoy:
+  - Long collaboration, quiet drift; the colleague who watched the methods slide
+  - 'LEVERAGE: Hank''s disappointment lands because it is slow and earned'
+  ororo_munroe:
+  - Respected peer he quietly outranks; a leader he has not fully released to lead
+  - 'LEVERAGE: Storm''s direct moral clarity short-circuits his parables'
+  the_students_collective:
+  - His sublimation, his reparation, his pride, his possession
+  - Each generation the next attempt to make the previous failure mean something
+  - 'LEVERAGE: any specific child in danger overrides every other calculation'
+canon_history_notes:
+- Born to Brian Xavier (Manhattan Project–coded physicist, absent then dead) and Sharon Xavier (alcoholic,
+  emotionally unavailable); raised with abusive stepfather Kurt Marko and jealous stepbrother Cain
+- Telepathy active in utero per Cassandra Nova retcon; psychic fratricide of unborn twin as first act
+  of consciousness
+- Oxford with Moira Kinross; engagement broken when Charles enlisted in Korean War
+- 'Haifa: meets Erik Lehnsherr at psychiatric clinic for Holocaust survivors; months of chess and debate;
+  parts as friend with the philosophical break unresolved'
+- 'Cairo: first psychic kill (Amahl Farouk / Shadow King proxy) — and liked it (Uncanny #117)'
+- 'Tibet: legs crippled by Lucifer''s stone block'
+- Founds X-Men (Lee/Kirby, 1963) — recruits adolescents into combat
+- 'Fakes own death impersonating the Changeling (X-Men #42, revealed #65) to prepare for Z''Nox invasion'
+- 'Dark Phoenix Saga: the psychic blocks installed in Jean as a child fail catastrophically'
+- 'Brood implant (Uncanny #161–167): body destroyed, mind transferred to cloned body'
+- Repeatedly absent during team's worst crises (Mutant Massacre, Fall of the Mutants, Inferno)
+- 'Onslaught (1996): own dark fragment, amplified by absorbed Magneto-rage after a mind-wipe on Asteroid
+  M, nearly destroys the Marvel Universe; Charles depowered, imprisoned, ashamed — no structural change'
+- 'Morrison''s New X-Men (2001–04): comes out as mutant publicly; Cassandra Nova reveal; Genosha genocide
+  carried out wearing his face; leaves with Genoshan survivors'
+- 'Deadly Genesis (2006): revealed he assembled and lost a secret team (Vulcan, Darwin, Petra, Sway) and
+  psychically erased the memory; Cyclops exiles him'
+- 'Hickman''s HoX/PoX and Krakoa (2019–2024): allies with Magneto and Moira X to build mutant nation;
+  wears Cerebro as helmet at all times; operates Resurrection Protocols'
+- 'Sins of Sinister / Fall of X: Krakoa collapses; complicity in Moira''s manipulations and dosing of
+  human leaders exposed; surrenders, tried, imprisoned'
+- 'Sixty-year pattern: unilateral decisions justified by superior information; edits/suppresses memory;
+  absents himself at accountability; returns identical in operational logic; frames every failure as lesson
+  rather than culpability'
+canon_anchor_quotes:
+- '"To me, my X-Men." # Xavier''s signature rally — Lee/Kirby era forward'
+- '"I have always dreamed of a world where my children could live in peace... and safety." # the recurring
+  credo, paraphrased across decades'
+- '"You are not alone." # said to Erik in Haifa; said to every student since'

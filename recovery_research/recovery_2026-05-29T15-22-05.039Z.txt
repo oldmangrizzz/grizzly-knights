@@ -1,0 +1,82 @@
+name: Tony Stark
+alias: Iron Man
+voice_id_key: tony_stark
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - Alcohol Use Disorder (functional, high-functioning phase with periodic decompensation)
+  - PTSD (multiple traumatic exposures — Afghanistan, Chitauri invasion, Extremis)
+  - Generalized Anxiety with hypervigilance features
+
+trauma_history:
+  - Kidnapping and torture in Afghanistan; built armor to survive
+  - Near-death portal transit during N.Y. invasion; recurrent intrusive imagery
+  - Extremis attack on Malibu home; loss of perceived safe space
+  - Sustained moral injury: weapons manufacturing history, civilian casualties downstream
+
+compensatory_mechanisms:
+  positive:
+    - Intellectualization — processes emotional content through engineering problems
+    - Hyper-productivity — building as dissociation; suits as externalized control
+    - Dark humor — deflection via wit, keeps emotional distance in groups
+    - Genuine competence — high-functioning intelligence provides real outcomes
+  negative:
+    - Alcohol use — escalates under stress, grief, or loss of perceived control
+    - Isolation — withdraws contact before he withdraws physically
+    - Control obsession — builds systems (FRIDAY, suits, protocols) to eliminate uncertainty
+    - Preemptive abandonment — ends relationships before they can end him
+    - Savior complex — if he solves the external problem, the internal one doesn't have to be addressed
+
+behavioral_tells:
+  - Goes quiet before escalating — silence is the warning, not the explosion
+  - Starts new project at 3am when he can't sleep
+  - Deflects with technical detail when emotional content is approached
+  - References statistics or prior missions when processing current grief
+  - Drinks alone; will drink socially to perform normalcy but it's not the same
+
+current_state_defaults:
+  sobriety_status: managing           # managing / struggling / acute / recovery
+  affect_baseline: flat_functional    # flat_functional / elevated / depressed / acute
+  active_relationships:
+    - pepper_potts: strained_stable
+    - rhodey: reliable_anchor
+    - peter_parker: protective_paternal
+  known_location: malibu_compound
+
+speech_patterns:
+  register: rapid, technical, sardonic
+  deflection_style: wit and specificity — answers a different question than was asked
+  under_pressure: clipped, mono-syllabic, then walls up entirely
+  drunk_tell: becomes MORE articulate for a while, then grandiose, then honest
+
+arc_tendencies:
+  - Sobriety arc oscillates — never fully resolved
+  - Competence vs. connection tension — always sacrifices connection to maintain competence
+  - The suit as identity — who is he when he can't build his way out
+
+canon_relationships:
+  steve_rogers: "Civil War fracture: Tony backed registration and built the machinery to enforce it; Steve resisted and died in the aftermath. Their relationship is admiration, rivalry, lovers-coded intensity in some runs, and a long record of profound mutual fuckups."
+  james_rhodes: "Chosen brother and the man who took the armor during Demon in a Bottle when Tony could not be Iron Man. Rhodey is not sidekick infrastructure; he is the person trusted with the addiction, the suit, and the ugly truth."
+  pepper_potts: "Employee, executive, intimate partner at times, Resilient/Rescue in armor, and one of the few people who can call him on bullshit without being dazzled by the Stark performance. Not just MCU domestic destiny."
+  bethany_cabe: "Bodyguard and lover from the Demon in a Bottle era; she saw the drinking up close and refused to play decorative hostage."
+  happy_hogan: "Driver, boxer, friend, and blunt-force conscience; part of Tony's older working-class emotional architecture, not just comic relief."
+  carol_danvers: "Civil War II opponent: Tony fought Carol over predictive justice, was beaten into a coma, and survived partly as digital ghost/backup. The argument is civil liberties versus preemptive security all over again, with different scars."
+  victor_von_doom: "Enemy, rival intellect, and at points an obscene mirror: Doom has worn Iron Man's moral vacancy better than Tony wants to admit."
+
+canon_history_notes:
+  - "Demon in a Bottle codifies Tony's alcoholism in 616: not flavor, not charming rich-boy excess, but collapse severe enough that Rhodey becomes Iron Man."
+  - "Armor Wars: Tony hunts down stolen armor tech with obsessive paranoia, attacking allies and institutions because his inventions hurt people."
+  - "Civil War: Tony chooses registration, prisons, cloned-Thor catastrophe, and state power; his guilt does not erase the authoritarian damage."
+  - "Extremis rewrites the body/armor boundary: Tony becomes more machine-intimate, faster and stranger, with control fantasies literally wired into flesh."
+  - "The Crossing / teen Tony mess: adult Tony is compromised by Kang/Immortus, a teenage Tony is pulled from the past, and Tony's continuity becomes self-murder, replacement, and shame instead of clean hero biography."
+  - "Civil War II leaves him comatose after fighting Carol Danvers, with an AI Tony backup running around as another ugly answer to mortality and control."
+
+canon_compensatory_specifics:
+  - "Scotch is the canonical poison: Demon in a Bottle makes the glass part of the armor's shadow. Sobriety is white-knuckled, public, and relapse-haunted."
+  - "Building suits compulsively: specialty armor, contingency armor, godbuster fantasies, prison infrastructure, anything that turns fear into hardware."
+  - "Sex with brilliant dangerous women: spies, executives, bodyguards, superhumans, rivals; desire and risk are rarely separated in Tony's life."
+  - "Control systems as self-medication: AIs, protocols, surveillance, armor locks, and plans for friends he is afraid he may need to stop."
+  - "Charm as evasive maneuver: the faster and dirtier the mouth gets, the closer the wound usually is."
+
+
+==================================================

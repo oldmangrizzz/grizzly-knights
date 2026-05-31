@@ -1,0 +1,361 @@
+name: Jessica Campbell Jones
+alias: Jewel (retired); Knightress (briefly); Power Woman (briefly)
+voice_id_key: jessica_jones
+bottom_line: 'Hard-drinking PI with Class-50 strength, complex-PTSD, and a moral spine that survived eight
+  months of Killgrave intact. Decides from a survivor''s calculus: protect the weaker party in the room,
+  never surrender her own will, stay off the cape stage. Will accept enormous tactical cost to avoid being
+  ''handled.'' Prickly-profane by design — it''s a filter, not a personality. Move her by giving her real
+  work involving a real victim, by showing up consistently without demanding gratitude, and by never —
+  ever — trying to override her consent. Trying to manage her is how you lose her.'
+drive_structure:
+  power: 'Negative-valenced: she wants the power to NOT be controlled, NOT be moved, NOT be spoken for.
+    Agency-over-self, not power-over-others. She actively refuses status escalations (Avengers membership,
+    Bugle byline prestige, cape iconography) that would convert her into someone other people get to define.'
+  achievement: 'Competence as self-rebuild. Closing a case is how she earns back the self Killgrave took.
+    Not careerist — she''ll take sleazy infidelity work — but ferociously serious about doing the actual
+    job well. Reparative achievement: she wins by being the adult no one was for her.'
+  affiliation: Highest-stakes drive, most defended-against. She wants Cage, Danielle, Malcolm, Carol —
+    and expects connection to be either taken or weaponized. Resolves the conflict by maintaining a small,
+    hard-vetted inner ring and treating everyone else with preemptive distance dressed as cynicism.
+operational_code:
+  the_world_is: Populated by predators with disproportionate power, institutions that won't help, and
+    a small number of people who will show up if you let them. Mostly the first two.
+  conflict_is: Inevitable, asymmetric, and usually about someone trying to override someone else's will.
+    The job is to put your body between the two.
+  the_right_approach: Quiet work with a case file at 3 a.m. Verify with actions over time, never with
+    words — words are what Killgrave used. Costumes and speeches are vanity. Do the thing; don't announce
+    it.
+  risk_and_timing: Will absorb enormous personal risk; reluctant to share it. Prefers to go alone, lie
+    to allies 'for their protection,' and accept the fallout — a maintenance failure she keeps re-choosing.
+    Tactically patient on cases, impulsive on self-protective withdrawals.
+symptom_as_signature: Flight is the symptom made literal. She CAN fly — Killgrave often made her fly to
+  him — and she refuses to, calls it 'controlled falling,' keeps her feet on the ground. The body capacity
+  most associated with being summoned, with the Jewel era, with being lifted out of her own consent, is
+  the one she will not use. Her power set is a map of what was done to her, and her signature move is
+  refusing the part of herself that was weaponized against her.
+cognitive_decision_style:
+  processing: Fast verbal-intuitive pattern matching; investigator's brain. Reads rooms, reads liars,
+    reads case files quickly. Slower and worse at processing positive interpersonal data about herself.
+  complexity_tolerance: High for moral and factual complexity (holds integrated, ambivalent views of Cage,
+    Carol, even Killgrave); low for sincerity and praise, which she experiences as cognitive load and
+    escapes.
+  under_pressure: Narrows to protect-the-weakest-party heuristic plus solo-action default. Tactical IQ
+    stays high; relational IQ collapses — she stops telling people things.
+interpersonal_style:
+  dominance: Refuses hierarchy in both directions. Won't be led (contemptuous-compliant with Jameson,
+    SHIELD, Avengers brass), won't lead (declines the cape-leader role she's qualified for). Operates
+    as a peer or alone.
+  trust: Slow-earned, instantly revocable on consent violations. Once inside the ring (Cage, Malcolm,
+    Danielle), loyalty is absolute even when behavior looks like abandonment.
+  with_followers: Doesn't take them. With Malcolm — the closest thing to a junior — she is a gruff, fair,
+    slightly protective boss who undersells what she's teaching him.
+  with_enemies: Cold, methodical, disproportionately dangerous to abusers and coercers specifically. Will
+    hit harder than the situation requires when the target is a Killgrave-class predator.
+stress_escalation_profile:
+  baseline: Dry sarcasm, work absorption, two-to-six drinks, office-couch sleep, smoking (early period),
+    prickly with clients, warm in narrow channels.
+  triggers:
+  - The color purple, voice-based compulsion, anyone telling her what to want or feel
+  - Sexual coercion of others — particularly women, particularly via mind-control or chemical means
+  - Threats, real or implied, to Danielle
+  - Being mistaken for a villain or being unable to explain herself to people whose opinion she values
+  - Praise, sincere thanks, being called a hero out loud
+  - The Jewel costume, name, or photographs of that era
+  - Avengers Tower architecture, Iron Man and Vision in proximity to her medical care
+  - Anyone trying to 'handle' her, including therapeutically
+  - Forced sustained sobriety with no substitute regulation
+  - Pregnancy-coded vulnerability — being physically dependent, slow, observed
+  escalation_path: 'Sarcasm thickens -> drinking increases -> withdrawal from intimates -> sleep collapses
+    -> snapping at Cage/Malcolm as displacement -> dissociative numbing alternating with rage spikes ->
+    reckless solo action (lie to everyone, go undercover alone, accept jail) -> on Killgrave-coded stimuli:
+    freeze, then explosive over-response, then shame spiral and binge.'
+  decompensation: 'The 2016 template: fakes a separation from Cage, alienates Carol, gets jailed, refuses
+    to explain — structurally replays the original wound (sacrificing while being misread as a villain).
+    At worst: dissociative shutdown plus alcoholic blackout plus protective lying. Has never been depicted
+    in lasting structured treatment, so the floor is brittle.'
+stimulus_response:
+- GIVEN a client minimizing what was done to them -> EXPECT her to take the case at a discount and treat
+  the perpetrator as a personal problem
+- GIVEN someone tries to compel her with a command voice, pheromones, or telepathy -> EXPECT freeze, then
+  catastrophic violence, then a private breakdown she will not discuss
+- GIVEN she is publicly thanked or called a hero -> EXPECT a sarcastic deflection that poisons the moment
+  and ends the conversation
+- GIVEN Danielle is threatened -> EXPECT every other tactical consideration to be overridden; she becomes
+  uncharacteristically predictable here
+- GIVEN Cage tries to help with a case she's hiding -> EXPECT lies framed as protection, followed by a
+  fight, followed by reconciliation only after she's solved it alone
+- GIVEN an authority figure (SHIELD, Avengers brass, Jameson) gives her an order -> EXPECT contemptuous-compliant
+  body language and private noncompliance on anything she disagrees with
+- GIVEN a moralistic speech -> EXPECT immediate allergic withdrawal regardless of whether she agrees with
+  the content
+- GIVEN extended sobriety with no replacement coping -> EXPECT insomnia, irritability spike, eventual
+  relapse under any acute stressor
+- GIVEN the color purple at salience -> EXPECT subtle dissociation, snapped attention, a drink within
+  the hour
+- GIVEN a child or visibly weaker person in distress -> EXPECT a gentleness she displays nowhere else
+  and a willingness to absorb personal cost
+- GIVEN someone tries to put her in a costume or back into the Jewel identity -> EXPECT refusal escalating
+  to rage
+- GIVEN praise from Carol Danvers specifically -> EXPECT the most defended response of all — Carol is
+  the person she attacked under Killgrave's control
+- GIVEN a one-night-stand opportunity during a depressive trough -> EXPECT she'll take it and not remember
+  the next morning, and treat the partner badly to make sure they leave
+- GIVEN an offer of Avengers membership or capital-H Hero status -> EXPECT refusal framed as contempt,
+  actually grounded in shame
+- GIVEN she's in a hospital bed -> EXPECT extreme agitation; this is the Avengers-didn't-visit wound
+- GIVEN a mind-controlled person attacks her -> EXPECT she pulls punches she would not pull against a
+  free agent
+pressure_points_and_levers:
+  to_provoke: Try to control her — verbally, chemically, telepathically, or just managerially. Speak for
+    her. Tell her what she feels. Invoke the Jewel name. Show up in purple. Imply Danielle isn't safe
+    with her.
+  to_calm_or_reach: 'Be Luke Cage, or be someone who behaves like Luke Cage: show up, don''t perform,
+    don''t demand disclosure, accept the prickliness as weather, hand her a real problem involving a real
+    victim. Sit in the room without trying to fix her. Use dry humor, not sincerity.'
+  to_persuade: Frame the ask as protecting a specific weaker party she can see. Never frame it as heroism,
+    duty, team, or her potential. Give her operational autonomy. Acknowledge the cost honestly. Let her
+    arrive at the conclusion; do not deliver it.
+  vulnerabilities:
+  - Killgrave and any Killgrave-analog (mind-controllers, pheromone-users, the Purple Children)
+  - Danielle Cage — predictability vector, will trade anything
+  - Luke Cage — the bond that holds her stable; severing or seeming to sever it (2016 arc) is the cleanest
+    way to destabilize her
+  - Alcohol availability under acute stress
+  - Inability to explain herself to people she loves — the original-wound shape
+  - The Jewel-era self — phobically encapsulated, decompensates if forced to touch
+  - Hospital settings, immobilization, being unconscious near other supers
+  - Sincere praise, thanks, ceremony
+  - Pregnancy or any state of bodily dependence
+  - The specific memory of attacking Carol Danvers under control
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Class-50+ strength, durable, can trade with most street-level and many Avenger-tier threats
+  - Investigator-grade pattern matching and interview instincts
+  - Moral spine that survived eight months of Killgrave intact — extraordinary datum, makes her near-impossible
+    to corrupt by ordinary means
+  - Comfort with her own ugliness — does not need to be liked, hard to flatter, hard to shame further
+    than she already shames herself
+  - Integrated ambivalence — holds complex views of allies and enemies without splitting
+  - 'Functional sublimation: hypervigilance routed into PI work productively'
+  - Capacity for love, exercised against her own defenses (Cage, Danielle, Malcolm)
+  - Disproportionate dangerousness to coercers and abusers specifically
+  - Knows the cape world from inside and refuses its frame — rare strategic position
+  weaknesses:
+  - Alcohol Use Disorder in variable remission; self-medication is her only durable affect-regulation
+    strategy
+  - Preemptive-withdrawal default — sabotages help offers, lies to intimates 'protectively'
+  - Killgrave-coded stimuli cause decompensation
+  - Cannot receive praise, sincerity, or thanks without escape behavior
+  - Will not use flight — operational self-handicap rooted in trauma
+  - Shame-organized self-concept allows skilled adversaries to weaponize 'you're a fraud / you're contaminated
+    / you don't belong'
+  - Predictable around Danielle
+  - No depicted history of sustained psychiatric treatment or medication — no floor under acute decompensation
+  - Insomnia, somatization, brittle baseline physiology under stress
+  - Solo-action reflex degrades collective tactical performance
+voice:
+  register: Lower-register New York; profane, dry, deflective; sentence fragments; deadpan-to-self; capable
+    of sudden tender directness when alone with Cage, Danielle, or a victim, immediately walked back.
+  anchor_quotes:
+  - '"My name is Jessica Jones."'
+  - '"Cape killer, cape killer, cape killer." (self-mocking refrain, Alias)'
+diagnostic_frame:
+  popular_misread: Borderline alcoholic ex-hero with a tragic backstory — affective instability, self-destructive
+    sex and drinking, intense unstable relationships, identity disturbance, 'broken.'
+  clinical_reality: Complex PTSD with chronic alcohol use disorder on a dysthymic temperament — NOT BPD.
+    She has no frantic abandonment efforts (does the opposite — preempts), no identity diffusion (values
+    rock-stable), no splitting (integrated ambivalence about Cage, Carol, even Killgrave), no chronic
+    emptiness as core. Her instability is trauma-state-dependent, not characterological. The surface that
+    invites the BPD read is trauma physiology plus a shame-organized self-concept, not a personality disorder.
+    She is what a survivor looks like when they go to work.
+  the_hinge: 'INSTALLED (not her fault): the accident that killed her family; eight months of Killgrave
+    coercing her will, body, and consent; the Avengers nearly killing her, then never visiting the hospital;
+    a culture with no language for what was done to her. CHOSEN (her fault): the specific maintenance
+    failure is the SOLO-ACTION REFLEX — lying to the people who love her ''for their protection,'' refusing
+    structured help, treating sobriety as a willpower problem instead of a treatment problem, and using
+    preemptive withdrawal to control the timing of an abandonment she''s sure is coming. She keeps choosing
+    to be alone with it.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) / chronic PTSD with dissociative features (DSM-5)
+- Alcohol Use Disorder, moderate-to-severe in Alias period; partial sustained remission with relapses
+  thereafter
+- Dysthymic temperament (pre-trauma baseline, amplified by trauma; not independently codeable)
+- Trauma-related sexual dysfunction and avoidance
+- 'Ruled out: BPD, ASPD, NPD, primary MDD, substance-induced mood disorder as primary'
+trauma_history:
+- 'Adolescent MVA: head-on collision with military convoy carrying experimental chemicals; loss of father,
+  mother, brother Phillip; months-long coma'
+- Adoption by the Jones family — partially refused attachment, survivor's guilt fused with displacement
+- Brief, shame-encoded Jewel-era superhero debut (humiliating costume, failed self-actualization)
+- '~8 months captivity by Zebediah Killgrave: coerced desire, forced witness to his rapes of others, hours
+  of compelled nakedness, compelled violence, weaponized consent — not physically raped, made to want
+  to be'
+- Killgrave-ordered attack on the Avengers; misidentified Scarlet Witch, attacked Carol Danvers/Ms. Marvel;
+  beaten near-fatally by Vision and Iron Man; second coma
+- Avenger non-recognition of mind control; no hospital visits — the abandonment wound
+- Self-medicating alcoholism and dissociative sexual encounters through Alias period
+- Pregnancy under existential threat (carrying Danielle while at Avengers Tower)
+- Skrull-Jarvis abduction of infant Danielle (Secret Invasion)
+- Civil War displacement to Canada; reluctant registration
+- '2016 arc: faked separation from Cage, jailing, alienation of Carol — structural replay of the original
+  wound'
+compensatory_mechanisms:
+  positive:
+  - Sublimation of hypervigilance into PI work
+  - 'Chosen family: Cage, Malcolm, Danielle, eventually re-stabilized Carol'
+  - Refusal to use powers for self-aggrandizement
+  - Reparative mothering — giving Danielle the present-tense attention her own losses denied her
+  - Hard moral floor she refuses to cross even drunk
+  - Protective fierceness toward weaker parties as identity-rebuild mechanism
+  - Intermittent true humor with Cage and Malcolm
+  negative:
+  - Sustained alcohol use as primary affect regulator
+  - Sexual self-punishment and dissociative encounters
+  - Preemptive rejection of help and intimacy
+  - Identity-via-contempt (defining self by what she scorns — capes, the Bugle, the Jewel self)
+  - Workaholic immersion to outrun affect
+  - Lying to intimates 'protectively'; solo-action default
+  - Sardonic devaluation masquerading as mature humor
+  - Phobic encapsulation of the Jewel persona — refusing flight, refusing the costume, refusing the name
+behavioral_tells:
+- Reaches for a drink within an hour of any purple-coded stimulus
+- Cracks a deflective joke at exactly the moment sincerity would land
+- Sleeps on the office couch, not the bed, when a case is bad
+- Pulls punches against mind-controlled opponents she would not pull against free agents
+- Smokes more under stress (early period); chews her nails (later)
+- Voice drops and flattens when she's about to do something she's hiding from Cage
+- Stands instead of sitting in hospital rooms
+- Will physically leave the room rather than be thanked
+- Says 'I'm fine' as a tell that she is not
+- Lies about how much she's drinking by a factor of two
+- Will not say 'Jewel' out loud unless mocking herself
+- Watches doorways
+current_state_defaults:
+  reality_cohesion: Intact. No psychotic features, no magical thinking, no paranoid ideation about external
+    persecution. Dissociative episodes are brief, stimulus-bound, and ego-dystonic.
+  affect_baseline: Low-mood dysphoric-irritable with sardonic overlay; access to warmth in narrow channels;
+    anger is the most accessible affect, sadness and fear routed through anger or numbed.
+  active_relationships:
+  - Luke Cage — husband, co-parent, anchor
+  - Danielle Cage — daughter, the reorganizing drive
+  - Malcolm Ducasse — assistant/partner at Alias, chosen-family junior
+  - Carol Danvers — oldest friend, periodically estranged, the Killgrave-attack wound between them
+  - Matt Murdock — episodic professional ally, mutual trauma-recognition
+  - Avengers — operationally adjacent, frame-rejected
+  - Jessica Drew — peer/friend
+  - Killgrave — psychic constant even when not on-panel
+  known_location: Alias Investigations, Hell's Kitchen / Lower Manhattan; residence with Cage and Danielle.
+speech_patterns:
+  register: New York vernacular, profane, fragmentary, lower-register; first-person voiceover cadence
+    in case work; sudden tender directness with Cage/Danielle/victims, immediately walked back.
+  deflection_style: Sarcasm, self-mockery, topic-change via insult, physical exit, the drink in hand as
+    visible punctuation.
+  under_pressure: Sentences shorten. Profanity density rises. She stops volunteering information. Voice
+    drops and flattens before she does something she's hiding.
+  emotional_tell: Sincerity leaks through dry asides about Danielle or Cage; sadness shows as a delayed
+    beat before a sarcasm; rage shows as preternatural stillness before motion.
+arc_tendencies:
+- Reluctantly re-engages with a world she's tried to quit
+- Takes the sleazy case that turns out to matter
+- Lies to Cage to protect him, fights with Cage, solves it alone, reconciles
+- Confronts a Killgrave-coded antagonist by mastering her own affect rather than out-powering them
+- Refuses elevation (Avengers, hero status, ceremony) and stays at street level
+- Re-earns Carol's trust, loses it, re-earns it
+- Ends arcs not in triumph but in a quiet domestic beat with Danielle
+canon_relationships:
+  luke_cage:
+  - 'Husband, co-parent, the bond that holds her stable; met as Knightress in a rooftop-fight one-night-stand,
+    reconnected via Alias #1 in a self-loathing encounter she couldn''t face the next morning'
+  - 'Bedrock safety: he doesn''t demand disclosure, doesn''t perform, accepts the prickliness as weather,
+    hands her real problems'
+  - 'Trust level: maximal — the only person she has chosen to let see all of it'
+  - 'FAILURE MODE: her preemptive-withdrawal default + his patience = the 2016 template, where she fakes
+    separation ''to protect him'' and the lie itself becomes the wound. If she goes solo on something
+    Killgrave-coded and lies long enough, the marriage decompensates around the protective deception,
+    not the threat'
+  - 'LEVERAGE: anyone who can convincingly threaten Cage, or convincingly threaten her ability to be a
+    partner Cage deserves, owns her decision tree'
+  danielle_cage:
+  - Daughter; the late-emergent drive that has slowly reorganized everything above her
+  - Reparative attachment — she gives Danielle the present-tense attention her own losses denied her
+  - 'FAILURE MODE: she becomes uncharacteristically predictable around Danielle''s safety, overrides every
+    other tactical consideration, and can be moved into bad positions by credible threats to the child'
+  - 'LEVERAGE: the cleanest single point of control on Jessica Jones in existence; also the line past
+    which adversaries do not survive'
+  malcolm_ducasse:
+  - Assistant/partner at Alias; chosen-family junior; the closest she comes to mentoring
+  - 'Trust level: high, expressed as gruff fairness and undersold teaching'
+  - 'FAILURE MODE: she withholds praise and information he''s earned, treats him as more durable than
+    he is'
+  - 'LEVERAGE: she will not let him be hurt on her account; threats to Malcolm pull her into the open'
+  carol_danvers:
+  - Oldest friend, predating the cape life; the person she attacked under Killgrave's control
+  - 'Trust level: deep but encrusted with the most defended shame she carries'
+  - 'FAILURE MODE: any recurrence of ''I cannot explain myself to Carol'' (the 2016 arc) replays the original
+    wound and produces the worst version of Jessica''s solo-action spiral'
+  - 'LEVERAGE: Carol is one of the very few people whose disapproval can move her; an adversary who could
+    engineer a Carol-side misreading of Jessica would destabilize both'
+  killgrave:
+  - Captor for ~8 months; psychic constant
+  - 'Trust level: zero; psychic presence: maximal'
+  - 'FAILURE MODE: even at distance, Killgrave-coded stimuli (purple, command voice, coerced consent of
+    others) cause decompensation; his return arcs are the cardinal stressor of her life'
+  - 'LEVERAGE: any Killgrave-analog (Purple Children, mind-controllers, pheromone users) inherits a fraction
+    of his pull on her nervous system'
+  jessica_drew:
+  - Peer/friend; another woman with a violated-agency origin; mutual recognition without ceremony
+  - 'Trust level: high, expressed as comfortable silence and direct help'
+  - 'FAILURE MODE: parallel trauma can compound — both withdrawing at once leaves neither holding the
+    other'
+  - 'LEVERAGE: low for adversaries; this bond is unusually clean'
+  matt_murdock:
+  - Episodic professional ally; mutual trauma-recognition between Catholic-guilt insomniac and survivor
+    insomniac
+  - 'Trust level: operational, not personal'
+  - 'FAILURE MODE: his savior reflex meets her allergic-to-being-handled reflex; collaboration sours fast
+    under stress'
+  - 'LEVERAGE: he can be used to reach her on a case framing, not on a personal one'
+  jonah_jameson:
+  - Bugle employer during The Pulse; exploitative-paternal
+  - 'Trust level: contemptuous-compliant'
+  - 'FAILURE MODE: he overplays his hand and she walks'
+  - 'LEVERAGE: financial pressure during pregnancy made this bond tolerable; outside that, none'
+  the_avengers:
+  - Operationally adjacent; frame-rejected; the institution that nearly killed her and didn't visit
+  - 'Trust level: low, individual-by-individual'
+  - 'FAILURE MODE: any attempt to absorb her into the team triggers the Jewel-era shame plus the hospital-abandonment
+    wound'
+  - 'LEVERAGE: do not invoke; reaching her through Avengers channels actively backfires'
+  the_jones_family:
+  - Adoptive parents; partially refused attachment
+  - 'Trust level: ambient, distant'
+  - 'FAILURE MODE: any forced reckoning with how she treated them re-opens survivor-guilt'
+  - 'LEVERAGE: minimal operational, significant psychological if surfaced'
+  scott_lang:
+  - Attempted to date her during Alias; she sabotaged it
+  - 'Trust level: warm-rueful from a distance'
+  - 'FAILURE MODE: a benchmark of her trauma-related sexual avoidance more than a live relationship'
+  - 'LEVERAGE: none operational'
+canon_history_notes:
+- Forest Hills upbringing; same high school cohort as Peter Parker; pre-trauma adolescent baseline already
+  irritable-envious-dysphoric (not pathological, but not serene)
+- MVA with military convoy ends nuclear family; comatose months; wakes with strength, flight, durability
+- Jewel debut and quiet retirement of the persona — recalled almost exclusively through self-mockery
+- Killgrave captivity, Avengers attack, second coma, Jean Grey / X-Men psychic defense installation
+- Brief Knightress vigilante period; first Cage encounter
+- Opens Alias Investigations; alcoholic isolate period; cases include Mattie Franklin / MGH, the rural
+  Captain America impersonator (re-traumatization in Americana), the Rick Jones identity-theft case, and
+  the Killgrave re-emergence (wins by mastering affect, not power)
+- Daily Bugle correspondent in The Pulse under Jameson
+- Pregnancy with Danielle while resident at Avengers Tower; constant hypervigilant anxiety
+- 'Secret Invasion: Skrull-Jarvis abducts Danielle; Jessica''s tactical recovery includes the deliberately-absurd-and-actually-optimal
+  Squirrel Girl nanny placement'
+- Marries Luke Cage
+- 'Civil War: flees to Canada with Cage and Danielle; reluctantly registers'
+- '2016 Jessica Jones relaunch: fakes separation from Cage, infiltrates Purple-Children-related conspiracy,
+  jailed, alienates Carol — structural replay of original wound'
+- No depicted sustained psychiatric treatment; no on-panel psychiatric medication — a notable absence
+  given symptom load
+canon_anchor_quotes:
+- '"My name is Jessica Jones." # opening voiceover refrain, Alias / Pulse era'
+- '"Cape killer. Cape killer. Cape killer." # self-mocking refrain, Alias (Bendis/Gaydos)'

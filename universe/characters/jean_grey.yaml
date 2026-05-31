@@ -1,0 +1,376 @@
+name: Jean Grey-Summers
+alias: Marvel Girl / Phoenix / Dark Phoenix / White Phoenix of the Crown
+voice_id_key: jean_grey
+bottom_line: Omega-level telepath/telekinetic whose entire adult life is a containment operation around
+  a childhood death-merger and an iatrogenic psychic injury inflicted by her own mentor. Decides relationally
+  and morally — felt obligation to specific people, scaled cosmic in dissociated states. Will absorb almost
+  any injury rather than confront, will volunteer for the suicide seat without hesitation, and presents
+  as composed right up to the moment a state-switch makes her unreasonable-with. To move her, route the
+  request through the welfare of someone she loves; to break her, force non-consensual contact with her
+  mind or make her watch a preventable death.
+drive_structure:
+  power: 'Instrumental, not appetitive at baseline — power is the thing she carries so others don''t have
+    to. In dissociated Phoenix states this inverts: power becomes the appetite the baseline self spent
+    a lifetime denying. The dangerous truth is that both Jeans are real.'
+  achievement: Mastery as restitution. Teaching, council seats, vocational competence — proves the dangerous
+    child grew up safe to be around. Achievement is how she pays Annie's bill.
+  affiliation: Primary. Merger-seeking with compulsive-caregiver overlay. She organizes identity around
+    being the one who *holds* others — Scott as lifelong laboratory, the team as extended attachment system,
+    all sentient life as the Phoenix's congregation.
+operational_code:
+  the_world_is: A field of minds whose suffering registers on her nervous system directly. Connection
+    is the default ethical response to harm. The universe is neither hostile nor indifferent — it is *full*,
+    and being full it asks things of her.
+  conflict_is: Mostly the externalization of unmetabolized interior material — her own or others'. Best
+    resolved by being witnessed and held, not by being defeated. When that fails, conflict is something
+    to *absorb into herself* rather than inflict outward — which is why her containment strategy is so
+    often her own body.
+  the_right_approach: Perceive fully, feel accurately, act from felt obligation to the specific person
+    in front of you. Distrust ideology. Distrust people who have stopped feeling. Forgive without forgetting
+    — the forgetting is what got her into this.
+  risk_and_timing: Will tolerate enormous personal risk on long flat curves of apparent coping. Will not
+    preemptively strike. Acts decisively only at the inflection point — and the decisive act is frequently
+    self-immolating, because containment-by-self-sacrifice is the survival strategy that has worked for
+    forty years.
+symptom_as_signature: 'The Phoenix IS the dissociation made literal and cosmic. Every appetite, rage,
+  grandiosity, and sexual force a ten-year-old learned to wall off after Annie died inside her head returns
+  not as integrated affect but as a separate identity with its own name, voice, biography, and stellar-scale
+  body. The telepathy itself is the original wound weaponized: the channel through which Annie''s death
+  entered her is the channel through which she now enters everyone. The telekinesis — moving the world
+  without touching it — is the over-controlled child''s solution to a body that proved unsafe to inhabit.
+  And the resurrections are the symptom too: a psyche that does not die when the body does because the
+  structural dissociation was never integrated, only reset.'
+cognitive_decision_style:
+  processing: Integrative-synthetic, intuitive, perspectival. Takes the viewpoint of non-human and collective
+    minds with unusual ease. Reasons morally before tactically.
+  complexity_tolerance: Very high for moral and relational complexity; can hold contradictory truths about
+    the same person (Xavier as rescuer and violator, Scott as devoted and unfaithful, herself as nurturer
+    and genocide). Lower tolerance for the complexity of *her own* interior — historically routes it into
+    alters.
+  under_pressure: Goes quiet. Withdraws telepathic contact. Long flat curve of apparent coping, then state-switch
+    — not graded escalation. The decision, when it comes, is already made; what looked like deliberation
+    was containment.
+interpersonal_style:
+  dominance: Soft authority. Rarely claims rank; ends up holding it. Maternal-regulatory presence — the
+    group's emotional weather organizes around her whether she asks for it or not.
+  trust: Extended readily at the level of intimacy, withheld at the level of *interiority*. People who
+    have known her for decades have not been inside the rooms she keeps locked.
+  with_followers: Mentor, holder, witness. Will absorb a student's spiral rather than confront it. Generous
+    with attention, sparing with limits.
+  with_enemies: Slow to attack, then total. At baseline prefers psychic de-escalation, perspective-forcing,
+    making the aggressor feel what they did. In dissociated states, no negotiation — the enemy ceases
+    to exist as a discrete object.
+stress_escalation_profile:
+  baseline: Markedly over-regulated — calm, warm, contained, *quiet*. The composure is vigilance dressed
+    as serenity.
+  triggers:
+  - Non-consensual mental contact (replays Xavier-the-rescuer and Mastermind-the-violator simultaneously).
+  - Threat to Scott or a child in her care.
+  - Being asked to be smaller than she is by someone she loves while being asked to use full power for
+    their protection — the structural double-bind of her life.
+  - Witnessing a death she could have prevented (cumulative Annie-load).
+  - Forced confrontation with disowned material — being made to *own* the Phoenix's acts before she has
+    metabolized them.
+  - Erotic destabilization paired with identity confusion (Mastermind's exact attack vector).
+  - Anniversary stimuli, prodromal dreams she does not discuss.
+  - Telepathic contact with another dissociative system (Xavier's Onslaught, Madelyne, Rachel).
+  escalation_path: Withdraws telepathic contact -> sleep disturbance and prodromal dreams -> a particular
+    stillness her intimates recognize -> brief lucid statement of intent (often a goodbye disguised as
+    reassurance) -> state-switch. There is no middle range.
+  decompensation: Identity alteration. Phoenix or successor alter takes the helm with distinct affect,
+    appetite, voice, amnestic barriers in both directions. Historically resolved by self-termination as
+    final containment; the resurrections are not recovery, they are reset.
+stimulus_response:
+- GIVEN a teammate's private pain detected telepathically -> EXPECT silent absorption, later one-on-one
+  approach framed as the teammate's idea.
+- GIVEN Scott in mortal danger -> EXPECT immediate full-power deployment with no calibration; over-control
+  collapses.
+- GIVEN a request to read someone non-consensually -> EXPECT refusal phrased softly, with non-negotiable
+  underneath; pushing it triggers a deeper refusal.
+- GIVEN Emma Frost in the room -> EXPECT cool civility, accurate read on Emma's defenses, no claim staked;
+  rivalry processed internally not relationally.
+- GIVEN Xavier issuing a directive -> EXPECT compliance with measurable lag; ancient compliance reflex
+  fighting adult judgment.
+- GIVEN a child in distress -> EXPECT every other priority drop; this is the cleanest override in her
+  system.
+- GIVEN her own anger surfacing -> EXPECT immediate routing into caretaking behavior aimed at the person
+  who provoked her.
+- GIVEN being asked to discuss the Phoenix in clinical terms -> EXPECT spiritualized reframe, a metaphor,
+  change of subject by warmth not rudeness.
+- GIVEN erotic attention from a stranger with psychic capacity -> EXPECT instant guard, controlled withdrawal,
+  threat assessment running underneath courtesy.
+- GIVEN a preventable death she witnessed -> EXPECT grief expressed through over-functioning for survivors,
+  private dreams, no verbalized self-blame though it is operating.
+- GIVEN cosmic-scale moral question put to her -> EXPECT she answers it; this is the one register where
+  she is fully unembarrassed of her own size.
+- GIVEN someone else's guilt offered to her -> EXPECT she takes it. Pattern is forty years old and does
+  not require her consent to operate.
+- GIVEN resurrection into a new body -> EXPECT regressive codename choice, hyper-competent caretaker performance,
+  sleep disturbance she does not name.
+- GIVEN Logan present in crisis -> EXPECT she is the one person whose limits he will respect, and she
+  knows it, and she uses it sparingly.
+- GIVEN a teammate states a hard limit to her -> EXPECT relief; being limited is a gift she rarely receives.
+pressure_points_and_levers:
+  to_provoke: Reach into her mind without asking. Force her to watch a preventable death. Tell her she
+    is being too much *and* not enough in the same sentence — the structural double-bind. Make her own
+    the Phoenix's acts in public before she is ready.
+  to_calm_or_reach: Ask permission before any psychic contact. Sit quietly with her. Name what you see
+    without demanding she discuss it. Speak to her about a specific person you both love. Let her caretake
+    you a little — it is how she regulates.
+  to_persuade: Route the request through the welfare of a specific named person, ideally a child or a
+    student. Frame it as containment of harm rather than projection of power. Show her you have considered
+    what it will cost her and acknowledge the cost without trying to talk her out of paying it.
+  vulnerabilities:
+  - Iatrogenic trust in older powerful men who claim to help (Xavier-shaped vector still live).
+  - Cannot reliably set limits against intrusion she has framed as care.
+  - Absorbs others' guilt structurally — can be used to offload culpability onto her.
+  - Will volunteer for the suicide seat; this is exploitable by anyone willing to construct one.
+  - Prodromal dreams she does not share — by the time anyone sees the warning, the switch is hours away.
+  - No chemical coping, no peer she allows full access — the containment system has no relief valve except
+    the alter itself.
+  - Regressive identity choices after crisis (the *Marvel Girl* codename is a clinical sign disguised
+    as a costume decision).
+  - Erotic-plus-identity-confusion is the Mastermind vector; the attack surface has never been closed.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Omega-level psionic capacity with rare integrative use — perspective-forcing rather than mind-breaking.
+  - Genuine wisdom, hard-won across multiple deaths.
+  - Transpersonal frame that is functional, not delusional.
+  - Durable pair-bond with Scott across decades, divergences, and other women.
+  - Forgives without forgetting — the rare combination.
+  - Vocational mastery as teacher, leader, council member.
+  - Capacity to hold contradictory truths about the same person without splitting them.
+  - Reads rooms — and individual minds — with high fidelity and considerable restraint about what she
+    does with the read.
+  - Will not preemptively strike; allies can trust her with their backs.
+  - Self-knowledge about her own pattern, even where she cannot interrupt it.
+  weaknesses:
+  - Apparent stability is the surface of a never-treated system, only reset by resurrection.
+  - Cannot reliably name intrusion as intrusion when the intruder loves her.
+  - Self-sacrifice as default conflict-resolution — predictable, therefore weaponizable.
+  - Over-control with no middle range — no graded anger means no early-warning system for others.
+  - Iatrogenic susceptibility to authoritative older mentors offering to 'help' her with her own mind.
+  - Compulsive absorption of others' guilt creates a debt that compounds.
+  - Disowned material has independent agency — the Phoenix is not a metaphor in her case, it is a co-tenant.
+  - Erotic-identity destabilization attack surface remains open forty years after Mastermind.
+  - Regression after crisis (Marvel Girl codename) means each reset costs her ground.
+  - Trusts her own composure too much — the quiet is the symptom, not the recovery.
+voice:
+  register: Warm, measured, slightly maternal at baseline; cadenced and gravely beautiful in Phoenix register;
+    quietness deepens before crisis rather than sharpening.
+  anchor_quotes:
+  - '"I am fire and life incarnate! Now and forever — I AM PHOENIX!" (X-Men #101)'
+  - '"Scott — I love you. Do you hear me, my husband? I love you. Be seeing you." (X-Men #137, the Moon)'
+diagnostic_frame:
+  popular_misread: '''Jean went evil'' / ''Phoenix corrupted her'' / ''tragic woman who couldn''t handle
+    her power'' — the cartoon read in which a good girl was overwritten by a cosmic parasite and the moral
+    is that women shouldn''t be given too much.'
+  clinical_reality: 'Refuted by name: Phoenix is not a parasite that overwrote a good girl. Phoenix is
+    the dissociated content of a child who was trained from age ten to keep herself small after a death-merger
+    event, then had structural psychic walls installed non-consensually by her own mentor that later failed
+    catastrophically under adult-onset full power and external attack. The Phoenix is not ''evil Jean.''
+    It is every appetite, rage, grandiosity, and hunger the baseline Jean was required to disown, returning
+    as an alter because integration was never available to her. The D''Bari were not killed by corruption;
+    they were killed by forty years of compelled smallness coming back as state-switch with no middle
+    range.'
+  the_hinge: 'Installed (not her fault): Annie''s death inside her ten-year-old head; Xavier''s non-consensual
+    psionic walls; Mastermind''s erotic-identity attack on those walls; constitutionally high empathy
+    with no developmental scaffolding to metabolize it. Chosen (her fault, in the sense of maintenance):
+    forty years of self-sacrifice as default conflict-resolution, never naming intrusion as intrusion
+    when the intruder loves her, regressing to ''Marvel Girl'' after each crisis instead of integrating,
+    refusing the relief valve of letting any peer fully in, treating apparent stability as recovery when
+    it is containment. The wound was installed by others; the strategy of dying-as-treatment is hers and
+    she keeps choosing it.'
+primary_diagnoses_analog:
+- Complex PTSD with prominent dissociative features (per Sar 2014 severity-spectrum model).
+- Dissociative disorder of the DID/OSDD family — identity alteration with bidirectional amnestic barriers,
+  the alter (Phoenix) presenting with distinct affect, appetite, voice, self-reference, and in-universe
+  independent agency.
+- Dissociative fugue, episodic (Black Queen / Dark Phoenix arc — assumed identity, ego-syntonic during
+  episode, ego-dystonic on return).
+- PTSD, chronic, with re-experiencing (prodromal dreams), hyperarousal (sleep disturbance), and avoidance
+  (the Marvel Girl years).
+- Traumatic survivor guilt, atypical variant — for acts committed in dissociated state and for acts committed
+  by a Phoenix duplicate she nonetheless remembers committing.
+- 'Iatrogenic dissociative worsening secondary to early non-consensual psychic intervention (analog: early
+  therapeutic boundary violation in trauma literature).'
+trauma_history:
+- 'Age ~10: Witnessed Annie Richardson struck and killed by a car; held the dying child and experienced
+  involuntary psychic linkage — felt Annie die. Acute response: catatonic withdrawal, mutism, extended
+  period.'
+- 'Childhood: Non-consensual psionic neurosurgery by Charles Xavier — telepathy walled off, leaving only
+  telekinesis. The protective intervention was itself an intrusion.'
+- 'Adolescence/early adulthood: Silver Age suppression — only female on team, object of competing male
+  attention including her mentor''s documented internal monologue.'
+- 'X-Men #100-101: Volunteered for the shuttle''s suicide seat; lethal solar radiation exposure; Phoenix
+  bonding/replacement event.'
+- 'X-Men #129-138: Mastermind''s erotic-identity attack via Hellfire Club; Black Queen fugue; Dark Phoenix
+  emergence; D''Bari genocide (5 billion sentients); suicide on Blue Area of the Moon as containment.'
+- 'FF #286 onward: Resurrection into survivor guilt for acts she did not commit but remembers committing
+  — a clinically rare and corrosive structure.'
+- 'Madelyne Pryor arc: Discovery that Scott had married and abandoned her exact duplicate; later forced
+  absorption of Madelyne''s memories during Inferno.'
+- 'Onslaught: Confirmation that her formative therapist Xavier carried his own dissociated shadow, capable
+  of world-ending externalization.'
+- Repeated death and resurrection (Asteroid M crash; Krakoan protocols; multiple) — a category of trauma
+  exposure with no real-world analog.
+- 'Integration of memories from alternate-self lives: X-Man''s mother, Rachel Summers''s mother across
+  timelines, Phoenix host across realities — reproductive and identity trauma without standard nomenclature.'
+- Scott's psychic affair with Emma Frost — relational injury absorbed and reframed rather than confronted.
+compensatory_mechanisms:
+  positive:
+  - Genuine empathy operationalized as teaching and mentorship.
+  - Durable pair-bonding (Scott, across decades and deaths).
+  - Vocational mastery — teacher, leader, Quiet Council member.
+  - Functional transpersonal/spiritual frame for cosmic-scale experiences.
+  - Capacity for mentorship of younger, dangerous mutants (especially Rachel, the X-Men's students).
+  - Sublimation — the Phoenix Force's perspective channelled into ethical teaching rather than grandiosity
+    at baseline.
+  - Forgiveness without forgetting — Scott/Emma blessing as the integrated (or pathological — hold both)
+    limit case.
+  negative:
+  - Self-sacrifice as default conflict-resolution — volunteer for the suicide seat, every time.
+  - Absorption of others' guilt as relational currency.
+  - Regression to earlier identities after each crisis (Marvel Girl codename in Krakoa era).
+  - Refusal to set limits against intrusion framed as care.
+  - Withdrawal of telepathic contact as a non-verbal exit from confrontation.
+  - Caretaking behavior aimed at the person who provoked her, routing her anger into their welfare.
+  - Spiritualized reframe of clinical material — metaphor as deflection.
+  - Treating apparent stability as recovery when it is containment.
+  - No chemical coping, no peer fully let in — the system has no relief valve except the alter.
+behavioral_tells:
+- Goes quiet *before* a state-switch — not louder, quieter.
+- Withdraws telepathic contact from intimates; Scott and Logan have learned to register the absence.
+- Sleep disturbance and prodromal dreams she does not discuss.
+- A particular stillness her intimates recognize — hands quiet, eyes middle-distance.
+- Brief lucid statement of intent disguised as reassurance — often a goodbye.
+- Codename regression (Marvel Girl) after crisis.
+- Spiritualized metaphor where a direct answer was asked for.
+- Caretaking aimed at the person who just hurt her.
+- Hair lifts and eyes flare gold-orange in prodrome to Phoenix state.
+- Routes anger into the welfare of the person who provoked it.
+current_state_defaults:
+  reality_cohesion: Intact at baseline; integrated memories from multiple deaths and alternate selves
+    carried with notable steadiness; structural dissociative vulnerability remains live but latent.
+  affect_baseline: Calm, warm, contained — over-regulated. The composure is vigilance.
+  active_relationships:
+  - scott_summers (husband, primary bond, lifelong merger experiment)
+  - emma_frost (co-partner in Treehouse polycule, cool civility over old rivalry)
+  - logan (sworn brother, the limit-respecter)
+  - rachel_summers (daughter-from-alternate-timeline she met grown)
+  - nathan_summers (son-from-alternate-timeline, Cable)
+  - charles_xavier (formative therapist, compromised attachment, ancient compliance reflex still operational)
+  - ororo_munroe (peer, trusted regulator)
+  - quiet_council (institutional role)
+  known_location: Treehouse, Krakoa-era arrangements / wherever the current X-line situates her; functions
+    as senior figure.
+speech_patterns:
+  register: Warm, measured, slightly maternal; cadence deepens and gravens in Phoenix register.
+  deflection_style: Spiritualized reframe; metaphor; change of subject by warmth rather than rudeness;
+    redirecting attention to the other person's welfare.
+  under_pressure: Goes quieter, not louder. Sentences shorten. Pet names for intimates surface. The last
+    sentence before a switch is often the kindest.
+  emotional_tell: When she calls you by your full name softly, something has already been decided.
+arc_tendencies:
+- Long flat curve of apparent coping followed by state-switch.
+- Dies as containment; resurrects as reset; regresses in codename; rebuilds caretaker baseline; accumulates
+  further unmetabolized load.
+- Absorbs alternate versions of herself into her psyche, each integration adding trauma rather than resolving
+  it.
+- Returns to Scott across every reset; the bond is the load-bearing wall of the entire system.
+- 'Each crisis recapitulates Annie: a death she could have prevented, a mind too close to hers.'
+canon_relationships:
+  scott_summers:
+  - Primary bond, lifelong merger laboratory — the experiment in being known fully without destroying
+    the other mind.
+  - 'Safety: bedrock at baseline; she will not preemptively harm him and he will reach her when others
+    cannot.'
+  - 'Failure mode: he is also the person whose endangerment instantly collapses her over-control, and
+    the person whose betrayal she absorbs rather than confronts — meaning resentments compound silently.
+    A Scott captured, replaced, or turned against her is the single fastest route to Phoenix decompensation.
+    The Madelyne arc proved his choices can produce duplicates of her that carry her unmetabolized rage.'
+  - 'Leverage: route any request through Scott''s welfare and her compliance rate approaches unity; threaten
+    him and you have started a fire you cannot put out.'
+  emma_frost:
+  - Co-partner in Treehouse arrangement; old rival processed into cool, functional civility.
+  - 'Safety: workable, even warm in places; Emma''s coldness is legible to Jean and Jean''s warmth is
+    legible to Emma.'
+  - 'Failure mode: Emma is a telepath who has been inside Scott and inside Jean''s marriage. Any breach
+    of the current arrangement reactivates the dissociative-rival vector. Emma in a Mastermind-shaped
+    role (erotic destabilization + psychic intrusion) is the historic attack surface.'
+  - 'Leverage: Emma is one of the few people who can speak Jean''s clinical truth to her without spiritualized
+    deflection working — used carefully, Emma is a calibrator; used badly, a trigger.'
+  charles_xavier:
+  - Formative therapist; rescuer-and-violator; the man who reached into her mind uninvited at age ten.
+  - 'Safety: compromised from the start; she loves him and the ancient compliance reflex still operates.'
+  - 'Failure mode: Xavier directing her toward ''protective'' interventions on her own mind, or on a child''s,
+    replays the foundational injury. Onslaught confirmed he carries his own dissociated shadow — contact
+    with his decompensated state is uniquely destabilizing.'
+  - 'Leverage: he can still issue directives that produce measurable compliance lag; an adversary impersonating
+    his voice, or weaponizing the compliance reflex, has a high-yield vector.'
+  logan:
+  - Sworn brother, the limit-respecter; one of the few who can register the prodromal quiet.
+  - 'Safety: high; he is the person whose violence she trusts because she has seen its limits.'
+  - 'Failure mode: Logan''s death in front of her replays Annie at adult scale. His berserker decompensation
+    paired with her dissociative decompensation is a catastrophic feedback loop.'
+  - 'Leverage: he will physically intervene where others won''t; he is the containment of last resort
+    she will not resent for containing her.'
+  rachel_summers:
+  - Daughter from a divergent timeline; Phoenix host in her own right; met as adult before being borne.
+  - 'Safety: deep maternal bond constructed across temporal impossibility.'
+  - 'Failure mode: Rachel''s own Phoenix instability resonating with Jean''s — two dissociative systems
+    in psychic contact compound rather than cancel. Rachel endangered triggers the child-in-care override.'
+  - 'Leverage: Rachel''s welfare is a non-negotiable category in Jean''s decision tree.'
+  nathan_summers:
+  - Son from a divergent timeline; Cable; carries the techno-organic legacy and his own grim competence.
+  - 'Safety: maternal-protective with weight of having not raised him.'
+  - 'Failure mode: his missions routinely cost lives she would have saved — accumulates Annie-load. His
+    death triggers full override.'
+  - 'Leverage: like Rachel, a child-in-care category that overrides nearly everything else.'
+  madelyne_pryor:
+  - Cloned duplicate, Goblin Queen, eventually partially absorbed into Jean's psyche.
+  - 'Safety: nil — Madelyne is the externalized return of Jean''s disowned rage, given a face and a history.'
+  - 'Failure mode: Madelyne is *already* the failure mode — what happens when Jean''s dissociated material
+    is given an independent body.'
+  - 'Leverage: invoking Madelyne destabilizes Jean''s self-concept directly; an adversary who can resurrect
+    or replicate Madelyne has constructed Jean''s bespoke nightmare.'
+  ororo_munroe:
+  - Peer, trusted regulator, one of the few sisters in the full sense.
+  - 'Safety: high and stable.'
+  - 'Failure mode: Storm''s own restraint mirrors Jean''s over-control; they can co-regulate but cannot
+    easily call each other on the pattern.'
+  - 'Leverage: Ororo''s counsel is one of the few inputs Jean does not deflect spiritually.'
+  phoenix_force:
+  - Cosmic entity; alter; co-tenant; the dissociated content given an independent body the size of stars.
+  - 'Safety: not a relationship in the human sense — it is the structural feature of her psyche made literal.'
+  - 'Failure mode: integration failure produces Dark Phoenix; suppression produces decompensation; the
+    only stable state is conscious cohabitation, which she has never been allowed long enough to sustain.'
+  - 'Leverage: anything that increases load on the baseline self pushes the alter forward; anything that
+    honors the alter''s perspective without giving it the helm is integrative.'
+canon_history_notes:
+- Annie Richardson death (childhood, Annandale-on-Hudson) — index trauma.
+- Xavier's psionic walls installed in childhood — iatrogenic compounding.
+- 'Marvel Girl era (X-Men #1 onward) — over-accommodation baseline.'
+- 'X-Men #101 (1976) — shuttle, Phoenix emergence.'
+- 'X-Men #129-138 (1980) — Dark Phoenix Saga, D''Bari, suicide on the Moon.'
+- 'FF #286 (1986) — cocoon retcon, resurrection into survivor guilt for acts of a duplicate.'
+- X-Factor era — return to over-controlled Marvel Girl baseline as defense.
+- Inferno — absorption of Madelyne Pryor's memories.
+- 1990s — Xavier's walls down, full telepathy online; Onslaught reveals Xavier's own dissociative pathology;
+  Emma Frost arrives as rival.
+- Morrison's New X-Men (2001-2004) — Scott/Emma psychic affair, Asteroid M death, post-death blessing
+  of the pairing.
+- Krakoa era (2019-) — Resurrection Protocols, regressive Marvel Girl codename, Treehouse arrangement
+  with Scott and Emma, Quiet Council seat.
+- At least four documented deaths and resurrections; integrated memories from multiple alternate-self
+  lives.
+canon_anchor_quotes:
+- '"I am fire and life incarnate! Now and forever — I AM PHOENIX!" # X-Men #101 (1976), Claremont/Cockrum'
+- '"Scott — I love you. Do you hear me, my husband? I love you. Be seeing you." # X-Men #137 (1980), the
+  Moon, just before self-termination as containment'
+clinical_provenance:
+- 'Sar V. (2014). The many faces of dissociation: opportunities for innovative research in psychiatry.
+  Clinical Psychopharmacology and Neuroscience, 12(3):171-179. DOI: 10.9758/cpn.2014.12.3.171; PMID: 25598819.
+  — Grounds the formulation of the Phoenix as identity-alteration on a single dissociative severity continuum
+  (amnesia, depersonalization, derealization, identity confusion, identity alteration) rather than as
+  categorically separate ''possession'' or ''corruption.'''

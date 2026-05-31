@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "956088d4de147fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffac2ae11d046e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91493d9900cec16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GrizzlyKnights_Vault/Peter Benjamin Parker (Spider-Man).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peter Benjamin Parker (Spider-Man)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07477bedc374e14a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d5d02c29e72f1cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55c6fd18af452dde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dd4e9f0f2c90df62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4a0c0d3eafab3df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ede1a79089f45e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0c53231f2ffc5a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd8510b59c7d179",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GrizzlyKnights_Vault/Erik Lyncher (Magneto).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Erik Lyncher (Magneto)"
+            }
+          },
+          {
+            "id": "a4e08f655b9ea2a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GrizzlyKnights_Vault/Erik Lyncher (Magneto).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Erik Lyncher (Magneto)"
+            }
+          },
+          {
+            "id": "941bee9725df7560",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7bdd65cb936c998f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d72c723eec64a82c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GrizzlyKnights_Vault/Erik Lyncher (Magneto).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Erik Lyncher (Magneto)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "91493d9900cec16c",
+  "lastOpenFiles": [
+    "GrizzlyKnights_Vault/World Gallery.md",
+    "GrizzlyKnights_Vault/Wanda Maximoff (Scarlet Witch).md",
+    "GrizzlyKnights_Vault/Wade Winston Wilson (Deadpool).md",
+    "GrizzlyKnights_Vault/Victor von Doom (Doctor Doom).md",
+    "GrizzlyKnights_Vault/Uatu (The Watcher).md",
+    "GrizzlyKnights_Vault/Tony Stark (Iron Man).md",
+    "GrizzlyKnights_Vault/Thor Odinson (God of Thunder).md",
+    "GrizzlyKnights_Vault/Steve Rogers (Captain America).md",
+    "GrizzlyKnights_Vault/Susan Storm Richards (Invisible Woman).md",
+    "GrizzlyKnights_Vault/Scott Summers (Cyclops).md",
+    "GrizzlyKnights_Vault/Scott Edward Harris Lang (Ant-Man).md",
+    "GrizzlyKnights_Vault/Samuel Thomas Wilson (Captain America (formerly and currently); the Falcon).md",
+    "GrizzlyKnights_Vault/Robert Bruce Banner, PhD (Hulk).md",
+    "GrizzlyKnights_Vault/Remy Etienne LeBeau (Gambit).md",
+    "GrizzlyKnights_Vault/Reed Richards (Mister Fantastic).md",
+    "GrizzlyKnights_Vault/Ororo Munroe (Storm).md",
+    "GrizzlyKnights_Vault/Natasha Romanoff (Black Widow).md",
+    "GrizzlyKnights_Vault/Matthew Michael Murdock (Daredevil - The Man Without Fear - (briefly) Mike Murdock - (briefly) Kingpin of Hell's Kitchen).md",
+    "GrizzlyKnights_Vault/Mary Jane Watson (MJ).md",
+    "GrizzlyKnights_Vault/Luke Cage (Power Man (formerly); Carl Lucas (birth name)).md",
+    "GrizzlyKnights_Vault/Kurt Wagner (Nightcrawler).md",
+    "GrizzlyKnights_Vault/Kamala Khan (Ms. Marvel).md",
+    "GrizzlyKnights_Vault/Jonathan Lowell Spencer Storm (Human Torch).md",
+    "GrizzlyKnights_Vault/Jessica Campbell Jones (Jewel (retired); Knightress (briefly); Power Woman (briefly)).md",
+    "GrizzlyKnights_Vault/Jean Grey-Summers (Marvel Girl - Phoenix - Dark Phoenix - White Phoenix of the Crown).md",
+    "GrizzlyKnights_Vault/James Howlett (Logan - Wolverine - Patch - Weapon X - Death).md",
+    "docs",
+    "recovery_research/_prior/wade_wilson.yaml",
+    "recovery_research/_prior/uatu_the_watcher.yaml",
+    "recovery_research/_prior/thor_odinson.yaml",
+    "recovery_research/_prior/sue_storm.yaml",
+    "recovery_research/_prior/steve_rogers.yaml",
+    "recovery_research/_prior/scott_lang.yaml",
+    "recovery_research/_prior/sam_wilson.yaml",
+    "recovery_research/_prior/remy_lebeau.yaml",
+    "recovery_research/_prior/peter_parker.yaml",
+    "GrizzlyKnights_Vault/_attachments/courtroom.png",
+    "GrizzlyKnights_Vault/_attachments/chess_brothers.png",
+    "GrizzlyKnights_Vault/_attachments/the_reckoning.png",
+    "GrizzlyKnights_Vault/_attachments/asgard_realm.png",
+    "GrizzlyKnights_Vault/_attachments/rooftop_night.png",
+    "world_art/scenes/the_reckoning.png",
+    "world_art/scenes/chess_brothers.png",
+    "world_art/scenes/rooftop_night.png",
+    "world_art/scenes/courtroom.png",
+    "world_art/scenes/asgard_realm.png"
+  ]
+}

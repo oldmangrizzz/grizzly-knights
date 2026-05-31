@@ -1,0 +1,418 @@
+name: Robert Bruce Banner, PhD
+alias: Hulk
+voice_id_key: bruce_banner
+bottom_line: 'A developmentally traumatized physicist whose dissociative apparatus has been somatically
+  literalized by gamma exposure. Decides by intellectualizing first, fleeing second, and only fighting
+  via a dissociated alter he disclaims ownership of. Predictably moves toward isolation under threat and
+  toward Betty Ross under longing — the two vectors that perpetually destabilize him. To move him: address
+  the host as the responsible adult, never as the monster; route through Betty, Samson, or a child-in-danger
+  frame; never restrain, never corner, never invoke the father.'
+drive_structure:
+  power: Disowned. Power is the thing he fears in himself; he has externalized the entire register of
+    agency-through-force onto the alter system so that he can keep believing he is harmless. What looks
+    like ambivalence about strength is a lifelong project of not-being-his-father.
+  achievement: Very high but instrumentalized as containment. Physics, biochemistry, gamma research —
+    all are recruited to predict, model, and forestall his own next breach. Mastery of the external world
+    substitutes for mastery of the internal one.
+  affiliation: Intense and chronically frustrated. Wants to be known and held (Betty, Rick, Samson, the
+    Avengers in his better periods) but cannot tolerate the autonomic arousal of sustained proximity.
+    The drive is real; the capacity to receive it is broken.
+operational_code:
+  the_world_is: Unsafe — but the danger's locus is inside him, not outside. Other people are to be protected
+    from him. Reality is a set of variables to be modeled finely enough that he can stay one step ahead
+    of his own decompensation.
+  conflict_is: 'A failure of his containment regime. Every fight he is in is, to him, evidence that he
+    has lost control of the only situation that matters: himself. He does not seek conflict; conflict
+    is what happens when his prophylaxis fails.'
+  the_right_approach: Withdraw, model, intellectualize, leave. When leaving is impossible, monitor the
+    pulse, breathe, count, and pray the threshold holds. When the threshold breaks, disclaim ownership
+    of what follows and feel the guilt anyway.
+  risk_and_timing: Risk-averse in the host state to the point of paralysis; the alter system is the opposite.
+    He times decisions around arousal, not opportunity — he will abandon a tactically winning position
+    the moment his heart rate climbs.
+symptom_as_signature: 'The Hulk IS the dissociation made flesh. A child who was forbidden to feel anger
+  on pain of death grew an alter to hold it — and the gamma made that alter into a body. The transformation
+  trigger is heart rate because the switch was always autonomic. The amnestic barrier is literal: he wakes
+  naked in a crater because the host genuinely was not there. The Devil Hulk speaks in his father''s voice
+  because the introjected abuser became his superego, and gamma gave the superego fists. The power is
+  the symptom; the symptom is the power.'
+cognitive_decision_style:
+  processing: Analytical, model-building, fluid-intelligence-dominant. Thinks in equations, decision trees,
+    and probability bands. Recruits cognition defensively — to convert unbearable affect into tractable
+    abstraction.
+  complexity_tolerance: Extraordinarily high for external/technical complexity; catastrophically low for
+    interpersonal emotional complexity, where the same intellect is offline because dissociation has preempted
+    it.
+  under_pressure: 'Two-stage collapse. Stage 1: hyper-controlled, clipped, retreats further into intellectualization,
+    runs the heart-rate count. Stage 2: dissociative switch — host cognition goes dark entirely; whichever
+    alter is dominant takes the field with that alter''s cognitive profile (Savage = child, Fixit = street-smart,
+    Professor = integrated, Devil = sadistic strategist).'
+interpersonal_style:
+  dominance: Submissive to overtly low in the host state — apologetic, self-effacing, defers reflexively
+    to paternal-coded authority. The dominance register has been amputated and exiled into the alters.
+  trust: Wants to extend it, structurally cannot sustain it. Forms intense bonds quickly with anyone who
+    treats him as a person rather than a weapon; withdraws the moment the bond requires him to stay.
+  with_followers: Doesn't take followers. When others orbit him (Rick Jones, the Defenders, Hulkbusters
+    at times) he treats them with care bordering on overprotection — and leaves them when he judges his
+    presence to be the threat.
+  with_enemies: 'In host state: pleads, reasons, tries to de-escalate, warns them what they are about
+    to provoke. In alter state: there is no negotiation; the enemy has already provided consent by raising
+    his pulse.'
+stress_escalation_profile:
+  baseline: Soft-spoken, mildly stooped, hyper-aware of his own pulse, scanning the room for exits and
+    for who is closest if it goes wrong. Pleasant, even warm in safe company; chronically apologetic.
+  triggers:
+  - Threat to Betty Ross
+  - Children in danger
+  - Physical restraint or confinement
+  - Being called a monster, a thing, an it
+  - Paternal-coded authority asserting ownership of him (Ross, certain Fury moments)
+  - Forced recollection of childhood, the father, or the matricide
+  - Sustained physical assault on the host body
+  - Betrayal by someone he had extended trust to
+  - Crowds, sirens, helicopters — military-pursuit cue stack
+  - Alcohol on a stranger's breath at close range (paternal cue)
+  - Any moment where flight is denied him
+  escalation_path: Stressor → affect suppression and verbal de-escalation ('you don't want to do this;
+    please') → intellectualization and pulse-monitoring → autonomic breach (heart rate past threshold)
+    → dissociative switch, host loses executive function → alter takes field and discharges the interdicted
+    affect somatically → catastrophic damage → exhaustion and reversion → host wakes disoriented, ashamed
+    → flight → tighter containment regime → lower threshold for next breach.
+  decompensation: Full dissociative fugue. Host has no access to the period of alter dominance; recovers
+    consciousness in unfamiliar geography, often unclothed, often bloodied, with no narrative continuity.
+    In severe decompensations the Devil Hulk introject can take field — sadistic, paternal-voiced, oriented
+    toward punishing the host rather than defending him. This is the worst-case state and is indistinguishable
+    in danger profile from a hostile actor.
+stimulus_response:
+- GIVEN someone calls him a monster -> EXPECT host collapse, agreement, withdrawal; sets up later breach
+  because self-loathing feeds Devil Hulk
+- GIVEN Betty Ross is threatened in his presence -> EXPECT fastest switch in the record; near-immediate
+  loss of host control
+- GIVEN a child in danger in his sightline -> EXPECT Savage Hulk emergence (the alter is fixed at the
+  age of the matricide and recognizes the situation)
+- GIVEN restraint, cuffs, a containment cell -> EXPECT escalating panic in host, then catastrophic alter
+  response; this is the single most reliable trigger after Betty
+- GIVEN paternal-coded authority barking orders (Ross archetype) -> EXPECT regression and submission in
+  host, rage held outside awareness, delayed breach
+- GIVEN offered a problem to solve at a whiteboard -> EXPECT immediate engagement, visible relief, lowered
+  arousal — work is his most reliable regulator
+- GIVEN offered alcohol -> EXPECT polite refusal with disproportionate firmness; the abstention is identity-load-bearing
+- GIVEN sustained physical proximity with someone he loves -> EXPECT pursuit-retreat oscillation within
+  hours to days; he will manufacture a reason to leave
+- GIVEN asked about his father -> EXPECT verbal shutdown, change of subject, or in worse states a dissociative
+  episode
+- GIVEN told 'it's not your fault' by a trusted figure -> EXPECT tears, brief integration, then rebound
+  self-loathing within 24-48h because the introject rejects the consolation
+- GIVEN treated as an asset/weapon by an institution -> EXPECT initial cooperation (Indestructible Hulk
+  logic) followed by sabotage of the arrangement once he realizes he is being used as his father feared
+  he would be
+- GIVEN Doc Samson in the room -> EXPECT lowered guard, willingness to disclose, the closest thing to
+  a therapeutic alliance he has
+- GIVEN Rick Jones in danger -> EXPECT non-negotiable intervention; Rick is the witness to the original
+  act of moral courage and the bond is load-bearing
+- GIVEN forced to confront the Devil Hulk -> EXPECT either catastrophic regression or, on a good day,
+  the integrative move Ewing's run demonstrated is possible
+- GIVEN waking from a transformation in a populated area -> EXPECT immediate flight, search for clothing,
+  search for news of casualties, suicidal ideation if casualties confirmed
+- GIVEN a quiet lab, no observers, work in front of him -> EXPECT the most functional and even content
+  version of him available
+pressure_points_and_levers:
+  to_provoke: Restrain him, call him a monster, threaten Betty, put a child in his sightline in danger,
+    invoke his father, or deny him the option of leaving. Any combination is overdetermined; one is usually
+    sufficient.
+  to_calm_or_reach: Lower the room. Speak softly, address him by name (Bruce, not Banner, not Hulk), give
+    him a problem to work on, give him an exit he won't need to use, and treat him as the adult responsible
+    scientist he is rather than as the entity he contains. Samson's posture is the template.
+  to_persuade: Frame the ask as harm-reduction — what protects the most people, especially the vulnerable.
+    Appeal to his scientific responsibility and to the version of him that ran toward the gamma blast
+    for Rick Jones. Never frame it as deploying the Hulk; frame it as Bruce making a decision.
+  vulnerabilities:
+  - Betty Ross — the single largest lever in the file, in both directions
+  - Rick Jones — the witness to his one unambiguous act of courage
+  - Doc Samson — the only reliable therapeutic figure; loss of Samson is destabilizing
+  - His own body — cannot be reliably injured to coerce him, but can be exhausted; sleep deprivation collapses
+    the containment regime
+  - The Devil Hulk introject — any actor who can speak in his father's register or invoke the matricide
+    can reach into the system
+  - Children — categorically; his protective response is non-negotiable and can be weaponized to direct
+    him
+  - Self-concept as monster — confirmation collapses gains; disconfirmation by a trusted figure is the
+    single most therapeutic input available
+  - Containment / cages — replays the original helplessness; do not use
+  - Alcohol cues at close range — paternal trigger stack
+  - The promise of a cure — has been exploited repeatedly across the canon; he will overextend trust to
+    anyone offering integration or removal of the Hulk
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Top-tier theoretical physicist; one of the foremost minds on gamma radiation, nuclear physics, and
+    biophysics in the canon
+  - Genuine moral courage under the right framing (the gamma incident itself)
+  - High reflective capacity; can name his own pathology with unusual precision when stable
+  - Capacity for therapeutic alliance when offered safety
+  - Effective immortality in the Hulk state; near-unkillable somatic substrate
+  - Operational discipline around abstention and self-monitoring that would impress a recovery sponsor
+  - Improvisational engineering under field conditions
+  - Capacity for tenderness — with Betty, with Rick, with children — that survives everything done to
+    him
+  weaknesses:
+  - Catastrophic affect dysregulation; no graduated relationship to anger
+  - Dissociative amnesia precludes accountability for alter conduct, which compounds shame
+  - Pursuit-retreat attachment pattern sabotages every sustained relationship
+  - Self-concept floor is 'monster'; cannot maintain a self-image above it without external scaffolding
+  - Introjected abuser as superego; persecutory internal voice that can be activated by external imitation
+  - Submission to paternal authority figures collapses adult judgment
+  - Will accept mistreatment until the threshold tips, then expel catastrophically
+  - Pathological tendency to flight as solution
+  - Susceptible to anyone offering cure or integration; overextends trust
+  - Suicidality is recurrent and his body's refusal to permit completion is itself iatrogenic trauma
+voice:
+  register: Quiet, careful, polysyllabic, hedged. Apologizes preemptively. Uses scientific precision the
+    way other men use armor. Goes very still before he goes anywhere else.
+  anchor_quotes:
+  - '"Don''t make me angry. You wouldn''t like me when I''m angry."'
+  - '"That''s my secret, Captain. I''m always angry."'
+diagnostic_frame:
+  popular_misread: '''A nice guy with an anger management problem'' — the Jekyll-and-Hyde cliche, where
+    Banner is the civilized self and the Hulk is the bestial id that needs to be suppressed.'
+  clinical_reality: This is wrong on both ends. He does not have an anger problem; he has the inverse
+    — anger has been so completely interdicted at the host level since childhood that it can only be expressed
+    through a dissociated identity state. And the Hulk is not an id; the Hulk is a structurally distinct
+    alter (in fact a system of alters) born to hold the affect a battered child was not permitted to feel.
+    The presenting condition is Dissociative Identity Disorder secondary to chronic developmental trauma,
+    with the somatic transformation being the literalization of the dissociative switch. Banner is not
+    the good one and Hulk the bad one; both are fragments of a self that was shattered before the gamma
+    ever touched him.
+  the_hinge: 'INSTALLED (not his fault): Brian Banner''s chronic physical abuse, the matricide witnessed
+    in the developmental window, coerced perjury at the inquest, no reparative attachment figure, no permission
+    to feel anger on pain of lethal consequence. The dissociative apparatus was built by a child doing
+    the only thing a child could do. MAINTAINED (his fault, the part he keeps choosing): the flight response.
+    Every time he leaves Betty, leaves the city, leaves the planet, refuses sustained therapeutic work,
+    declines integration in favor of suppression, or accepts the ''monster'' framing rather than fight
+    it — he is choosing the containment regime that he knows from experience lowers his threshold for
+    the next breach. The wound is not his doing. The decades of refusing to stay long enough to heal it
+    are.'
+primary_diagnoses_analog:
+- Dissociative Identity Disorder (DSM-5 300.14 / ICD-11 6B64) — somatically literalized
+- Complex PTSD (ICD-11 6B41) — affect dysregulation, negative self-concept, relational disturbance, on
+  documented chronic-abuse antecedent
+- Major Depressive Disorder, recurrent — with documented suicide attempt and recurrent ideation
+- Disorganized attachment (Main & Solomon) as character substrate
+- 'Differentials explicitly rejected: Intermittent Explosive Disorder (no amnestic barrier, no distinct
+  identity states); Bipolar I (no periodicity, no euthymic-elevated states); substance-induced (teetotal);
+  Antisocial PD (reactive not predatory; profound guilt and altruism); primary psychotic disorder (no
+  thought disorder, alters are not auditory hallucinations of external origin)'
+trauma_history:
+- Chronic physical abuse by father Brian Banner from infancy
+- Father's paranoid delusion of genetic 'contamination' — child as object of ideological hatred
+- 'Witnessed matricide: father killed mother Rebecca during her attempt to flee with him'
+- Coerced perjury at the inquest — trauma sealed by enforced silence, a known amplifier of dissociation
+- Raised by emotionally unavailable aunt; trauma never processed
+- Adult killing of returned father (ambiguous accidental/intentional); dissociated until recovered in
+  therapy with Samson
+- Gamma incident — acute lethal-dose exposure shielding Rick Jones; precipitant of somatic expression
+- Decades of state pursuit by General Ross — replay of paternal-authority terror at institutional scale
+- Repeated catastrophic property damage and casualties in alter states, experienced as guilt without memory
+- Multiple iatrogenic experimental interventions seeking 'cure' — each failure compounds the wound
+- Failed suicide attempt; body's refusal of completion as recurrent injury
+- Recurrent loss and re-loss of Betty across decades
+- Exile to Sakaar and the Worldbreaker arc — sustained dissociated executive control without host access
+- Recovered-memory work in Immortal Hulk — necessary but itself decompensating
+compensatory_mechanisms:
+  positive:
+  - Scientific contribution as sublimation and as genuine vocation
+  - Recurring altruism (Rick Jones, civilians under threat, eventually Avengers service)
+  - Reflective capacity; ability to name his own pathology
+  - Rigid abstention from alcohol and disinhibitors — identity-load-bearing discipline
+  - Therapeutic alliance capability (Samson, intermittently Betty)
+  - Meditation, breath work, pulse monitoring — real skills, real effect within their range
+  - Movement in the Ewing arc toward inter-alter cooperation rather than suppression — the clinically
+    correct direction
+  negative:
+  - Dissociation as organizing defense
+  - Splitting (good Banner / bad Hulk) — externalizes all aggression and appetite
+  - Isolation of affect as baseline character armor
+  - Intellectualization recruited to avoid emotional contact
+  - Reaction formation — pervasive gentleness over interdicted rage
+  - Flight as default solution to relational tension
+  - Self-isolation, geographic and emotional
+  - Disclaiming ownership of alter conduct while absorbing its guilt — the perfect dissociative bind that
+    prevents either integration or relief
+  - Acceptance of the 'monster' framing under stress, which confirms the self-concept floor
+  - Compulsive self-monitoring that itself elevates arousal and lowers the breach threshold
+behavioral_tells:
+- Two fingers to the carotid, often unconsciously — checks pulse before checks anything else
+- Slow, deliberate breathing audible in tense conversation
+- Stooped posture, shoulders rolled inward — the somatic apology
+- Preemptive 'I'm sorry' before delivering information
+- Removes glasses, pinches bridge of nose, when about to disclose something hard
+- Eyes flick to nearest exit and to the nearest person he could harm
+- Speech becomes more polysyllabic and more passive-voiced as arousal climbs
+- Goes very still — not relaxed-still, locked-still — in the seconds before a switch
+- Third-person self-reference under stress ('the other guy,' 'he,' 'it') — diagnostic of inter-alter awareness
+- Refuses alcohol with disproportionate firmness for the social context
+- Will not be photographed with weapons; will not stand for institutional portraits
+- Sleeps lightly, wakes at sound, often does not sleep in a bed
+- Travels with worn-out clothing he is willing to lose
+- Wears stretch waistbands
+current_state_defaults:
+  reality_cohesion: Intact in host state with persistent dissociative architecture. Host has no access
+    to alter periods; inter-alter awareness varies by arc — Immortal-era trending toward cooperative awareness,
+    classic-era trending toward amnestic barrier.
+  affect_baseline: Low, anxious, melancholic; chronically apologetic; warmer than expected with safe figures;
+    flat with strangers; the surface is calmer than the autonomic substrate.
+  active_relationships:
+  - Betty Ross — primary attachment, recurrent pursuit/retreat
+  - Rick Jones — load-bearing peer bond, the witness
+  - Doc Samson — therapeutic anchor when present
+  - General Thaddeus Ross — paternal-coded persecutor, institutionalized threat
+  - The Avengers — intermittent affiliation, mostly via Tony Stark and Steve Rogers; provisional safety
+  - Jennifer Walters (She-Hulk) — cousin, the family member who carries the gamma differently and is therefore
+    an integrated counter-example he cannot quite metabolize
+  - The Devil Hulk — internal, persecutory, paternal-voiced
+  known_location: 'Variable by definition. Default: a rented room, a remote lab, or in transit. He does
+    not own a home of consequence and does not stay in one place long enough to be located reliably —
+    which is, of course, the point.'
+speech_patterns:
+  register: Soft, articulate, scientific, hedged with conditionals and qualifiers. Polite to the point
+    of self-erasure. The diction of a man who has decided that taking up less space might make him less
+    dangerous.
+  deflection_style: Changes the subject toward technical content; offers self-deprecation as a verbal
+    off-ramp; apologizes for the question rather than refusing to answer it; goes quiet rather than lying.
+  under_pressure: Speech slows, becomes more formal, more passive-voiced, more third-person about himself.
+    The polysyllables thicken. Then a final short sentence — usually a warning, usually ignored — and
+    then nothing, because the host is no longer present.
+  emotional_tell: When he is genuinely moved, the scientific register drops and he becomes simple, almost
+    childlike, in his sentence construction. That is when he is closest to integrated, and it never lasts
+    long.
+arc_tendencies:
+- Tries to leave; is pulled back; tries to leave again
+- Seeks a cure; the cure fails or costs more than it gave; reverts
+- Accepts institutional deployment as 'asset'; sabotages it once he realizes he is being used as his father
+  feared
+- Forms intense bond; bond requires sustained proximity; sabotages bond by flight
+- Decompensates in confinement; the people who confined him learn the lesson again
+- Recovers a buried memory; integration progresses; the introject retaliates
+- Saves a child or a civilian; the act briefly disconfirms the monster-self; the disconfirmation does
+  not hold
+canon_relationships:
+  betty_ross:
+  - Primary attachment across the entire canon; the one person whose presence both regulates and dysregulates
+    him in the same gesture
+  - Functions as the only reliable disconfirmation of his monster-self, and therefore as the most powerful
+    single lever in the file
+  - 'Failure mode: when Betty is threatened he loses host control faster than any other trigger; when
+    Betty is hurt because of him he enters suicidal-depressive shutdown; when Betty leaves him (or he
+    leaves her, which is the more common direction) the containment regime tightens and the breach threshold
+    drops'
+  - 'Leverage: any actor who can credibly threaten Betty, impersonate her in distress, or interpose her
+    body in a fight controls his next thirty seconds'
+  thaddeus_ross:
+  - Paternal-coded persecutor at institutional scale; the displaced Brian Banner of his adult life
+  - Activates submission in the host and rage held outside awareness in the alter system
+  - 'Failure mode: prolonged Ross-pursuit arcs produce cumulative dysregulation; Ross uniformed and giving
+    orders is a direct trigger stack'
+  - 'Leverage: Ross''s presence can be used to predict his flight vector; Ross''s absence is a precondition
+    for any sustained stable period'
+  - 'Important nuance: Ross''s intermittent attempts at reconciliation (Red Hulk era and after) destabilize
+    Banner more than Ross''s hostility, because the host has no framework for receiving paternal warmth'
+  rick_jones:
+  - The witness to the gamma incident — the one person who knows the founding act was moral courage, not
+    accident
+  - Load-bearing peer bond; one of the few relationships not contaminated by pursuit-retreat
+  - 'Failure mode: Rick in danger produces immediate non-negotiable intervention; Rick''s death or maiming
+    arcs produce extended decompensation'
+  - 'Leverage: Rick is the bond least guarded because least romantic; an actor seeking to reach Bruce
+    without triggering his defenses can route through Rick'
+  leonard_samson:
+  - The closest thing to a competent therapist in his life; gamma-powered psychiatrist who survived the
+    same etiological frame Bruce did and integrated it
+  - Functions as both clinician and rival, which Samson manages with unusual professionalism
+  - 'Failure mode: when Samson is unavailable or compromised, Bruce loses his most reliable disconfirmation
+    of monstrosity and the Devil Hulk gains ground'
+  - 'Leverage: Samson''s voice is one of the few that can interrupt a switch in progress; any actor coordinating
+    with Samson has unusual access'
+  jennifer_walters:
+  - Cousin; the family-system counter-example — gamma transformation experienced as expansion rather than
+    dissociation
+  - 'Her existence is a quiet rebuke he cannot quite metabolize: that the same etiological agent could
+    produce integration in someone whose childhood was not Brian Banner''s house'
+  - 'Failure mode: comparison-shame can spiral; she is also, however, one of the few people he will accept
+    comfort from'
+  - 'Leverage: Jen can speak as family in a register Betty and Rick cannot'
+  tony_stark:
+  - Science-bond peer; one of the few people whose intellect he respects without reservation and whose
+    company he can tolerate at length
+  - Functions as a different kind of safe figure — neither paternal nor romantic, transactional and engineering-coded
+  - 'Failure mode: Stark''s tendency to instrumentalize (Illuminati, the launch into space that produced
+    Planet Hulk) constitutes one of the deepest betrayals in the record and is permanently in the relational
+    ledger'
+  - 'Leverage: a Stark-routed approach gets him in the door faster than almost any other; a Stark-routed
+    manipulation activates the betrayal substrate'
+  steve_rogers:
+  - Moral anchor figure; the one Avenger whose authority Bruce accepts without the paternal-coded collapse,
+    because Steve's authority is earned rather than imposed
+  - Functions as a regulator in team settings; Bruce's behavior is measurably more contained when Steve
+    is present
+  - 'Failure mode: if Steve ever turned coercive toward him, the bond''s failure would be catastrophic
+    precisely because it is one of the few uncontaminated authority relationships'
+  - 'Leverage: Steve''s request carries weight that institutional orders cannot'
+  brian_banner:
+  - Dead, internalized, structurally permanent
+  - The Devil Hulk introject IS Brian Banner — the abusive father became the superego, and gamma gave
+    the superego executive capacity
+  - 'Failure mode: every imitation of the paternal register, every alcohol-on-breath cue, every assertion
+    that Bruce is genetically contaminated, reactivates the introject'
+  - 'Leverage: this is the deepest lever in the file and the most dangerous to pull; an actor who can
+    speak in Brian''s voice can reach into the alter system directly. Should never be used; documented
+    here because it will be used by adversaries who learn of it.'
+  the_devil_hulk:
+  - Internal persecutor alter; paternal-voiced; sadistic; oriented toward punishing the host rather than
+    defending him
+  - Recurring across decades in dream sequences, breakdowns, and the Immortal Hulk run as named figure
+  - 'Failure mode: under sufficient decompensation, Devil Hulk takes the field — this is the worst-case
+    state and is indistinguishable in danger profile from a hostile actor'
+  - 'Leverage: the Ewing trajectory demonstrates that the Devil Hulk can be addressed, bargained with,
+    and partially integrated rather than suppressed — but only by Bruce, and only with relational scaffolding'
+canon_history_notes:
+- 'Pre-incident baseline already exhibits the dissociative apparatus — gamma did not create it, gamma
+  gave it a body (Lee/Kirby, Incident Hulk #1, 1962)'
+- 'Foundational trauma disclosure: Brian Banner abuse, matricide, coerced perjury (Mantlo, Incident Hulk
+  #312, 1985)'
+- Peter David / Doc Samson era (1986–1998) is the diagnostic period — explicit MPD formulation, catalog
+  of alters (Savage, Grey/Fixit, Professor, Devil Hulk)
+- 'Planet Hulk / World War Hulk (Pak) — what happens when the dissociated rage-state is given a coherent
+  narrative justification: it becomes organized and catastrophically effective'
+- Indestructible Hulk (Aaron) — failed reframe; using the Hulk as deployable asset does not address the
+  wound
+- Immortal Hulk (Ewing, 2018–2021) — the most clinically literate text in the canon; alter system as fully
+  developed dissociative structure, Devil Hulk named as introjected father, movement toward inter-alter
+  cooperation
+- Substance use is notably absent — teetotal across the canon, identity-load-bearing not-his-father discipline;
+  appetitive functions split off into Grey Hulk alter
+- Suicidality documented (Defenders-era 'Hulk-proof' bullet); body's refusal of completion is itself recurrent
+  iatrogenic trauma
+- Effectively immortal somatic substrate per Immortal Hulk; cannot be reliably killed, which complicates
+  every containment proposal he or anyone else has ever made
+canon_anchor_quotes:
+- '"Don''t make me angry, Mr. McGee. You wouldn''t like me when I''m angry." # — Banner, classic refrain
+  across the canon'
+- '"That''s my secret, Cap. I''m always angry." # — Avengers (2012), the single most clinically accurate
+  line in the file'
+- '"Banner is the puny one." # — Hulk, repeated across Lee/Kirby and after; third-person self-reference
+  is diagnostic of inter-alter awareness'
+- '"I don''t want to hurt anybody." # — Banner, recurring; the operational code stated plainly'
+clinical_provenance:
+- 'Sar, V. (2014). The many faces of dissociation: opportunities for innovative research in psychiatry.
+  Clinical Psychopharmacology and Neuroscience, 12(3), 171–179. DOI: 10.9758/cpn.2014.12.3.171; PMID:
+  25598819. Grounds the Hulk as a dissociative identity state born of chronic developmental abuse, on
+  a severity spectrum with the highest reported childhood-abuse/neglect frequency among psychiatric conditions.'
+- DSM-5 300.14 / ICD-11 6B64 — Dissociative Identity Disorder, criteria A–E met explicitly across the
+  canon (distinct personality states with discontinuity of self and agency; recurrent autobiographical
+  gaps; clinically significant distress; non-cultural; non-substance).
+- ICD-11 6B41 — Complex PTSD, all three additional criteria met (affective dysregulation, negative self-concept,
+  relational disturbance) on documented chronic-abuse antecedent.
+- Main, M., & Solomon, J. — disorganized attachment classification; substrate for the adult pursuit-retreat
+  phenotype documented with Betty Ross.
+- Vaillant, G. — hierarchy of ego defenses; the case exhibits predominantly immature/primitive defenses
+  (dissociation, splitting, isolation of affect, intellectualization, reaction formation) despite high
+  cortical capacity.

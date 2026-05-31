@@ -1,0 +1,274 @@
+NARRATOR: Time."  
+
+"Felicia's bare foot swings just shy of the cabinet, chipped black polish catching the low fridge light. Wade’s T-shirt smells faintly of gun oil and sweat as he tears the ramen packet with his teeth. Steam rises in tired curls from the pot. Neither of them looks directly at the other.
+FELICIA HARDY: I lean against the counter just far enough out of Wade’s splash zone to be safe but close enough to feel the heat rolling off the stove. Arms crossed, nails tapping against my biceps, because it’s either that or grab a glass. 
+
+I watch his frying-pan theatrics for a long second before I finally lob it at him. 
+
+Don’t burn whatever that is, Wade. Ruined eggs might push me from 'exhausted' to 'dangerous.
+WADE WILSON: Wait, are we talking "dangerous" like I-just-left-your-wallet-on-the-table dangerous, or "dangerous" like you’re about 30 seconds away from slapping a diamond collar on me and calling it Tuesday? Because either way, I’m here for it.
+NARRATOR: The bottle rests against her bottom lip, cold glass meeting warmth. Wade’s spoon clinks once against the pot, a slow circle through the broth. The silence isn't empty, just waiting.
+FELICIA HARDY: I let the silence sit for a moment longer than I like, then slide up to the edge—literal and otherwise. My hip leans against the counter, and my voice dips just enough to needle. 
+
+That quiet, Wade? C’mon, you’re not the bashful type. What, did I hit a nerve or catch you off guard? 'Cause that would make my whole week.
+WADE WILSON: Oh, kitten, you think this is quiet? Honey, I’m just warming up. When I really go quiet, two things happen: one, someone’s about to lose a limb; two, it’s my left hand that’s doing the taking. Care to see which happens first?
+NARRATOR: Wade shifts his weight, one hand gripping the counter's edge, the other still stirring. A glance — brief, below the mask — flickers over her swinging leg before retreating, like it never left the ramen.
+FELICIA HARDY: I see it—just a flicker, but it’s there. My leg wouldn’t have registered if he wasn’t already thinking something. 
+
+So I shift, casually, a little more thigh showing beneath the leather. It’s deliberate, but never heavy-handed. You bait a cat, not club it. My voice softens just enough, like I’m letting him in on a secret. 
+
+Didn’t think I’d catch you looking... but I don’t mind, sweetheart.
+WADE WILSON: Oh, don't lean in like that unless you want me to trip and fall face-first into whatever sin you're serving, Felicia. You drop your voice, I drop my standards—which, lucky for you, are somewhere in the seventh circle of horny hell anyway.
+NARRATOR: The room hums low — fridge motor, simmering broth, the faint drip of a loose faucet. The air hangs warm, damp from steam, but sharp with the bite of the beer lingering between them.
+FELICIA HARDY: I tilt a little closer, like his heat and mine could start something if we let them mix. It’s deliberate, sure, but curiosity’s in the air now—his, mostly. The smile I give him is part tease, part map to nowhere; it’s all in the eyes. 
+
+Seventh circle, hmm? Sounds cozy. But tell me, Wade—are you inviting me in, or just hoping I’ll stick around long enough to kick the door open myself?
+WADE WILSON: Kitty’s got claws, and man, do I wanna see where they dig in. You trying to play chicken with me, Felicia? ‘Cause spoiler: I don’t swerve; I crash the whole fucking car. Move closer, and you better mean it.
+NARRATOR: Time stretches, taut as a drawn wire. The steam rises slower now, or maybe no one’s breathing. Even the swing of her leg stills.
+FELICIA HARDY: Your move, Wade.
+WADE WILSON: My move? Well, darling, that's assuming I ever stopped moving. But if you’re handing me the dice, let's roll—how do you feel about bad ideas and pancake syrup at 2 AM? Or we could just skip to the part where we ruin a piece of furniture. Dealer's choice.
+NARRATOR: Her head tilts, languid, the bottle still hovering near her fingers but untouched. Wade leans a fraction closer, the ramen forgotten, heat radiating from him more than the stove.
+FELICIA HARDY: Now, Wade—are we playing, or are we doing something about it?
+WADE WILSON: Your move, kitten. Or do we just keep playing this game until someone forgets how to breathe?
+
+--- TRACKER ---
+{
+  "drinks": 1,
+  "lines_crossed": 1,
+  "decisions_made": 0,
+  "arrivals": 0,
+  "settings_changed": 0,
+  "actions": 4,
+  "actions_budget_exhausted": false
+}
+
+--- TOOL CALLS ---
+[
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Describe the opening scene of Wade's apartment kitchen: mid-conversation between Felicia Hardy and Wade Wilson, with her perched on the counter drinking his Coors Light and one boot off. He is preparing instant ramen at the stove, late at night. Both are circling around a previous contextual moment \u2014 an alley encounter from two weeks ago.",
+      "recipient_agent": "Uatu",
+      "additional_instructions": ""
+    },
+    "call_id": "call_updGCn808cNS7baAU9J7QiYu"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Felicia \u2014 Wade is busy at the stove. Let some of your exhaustion or irritation spill into the moment, especially after that bad job.",
+      "recipient_agent": "Felicia_Hardy",
+      "additional_instructions": ""
+    },
+    "call_id": "call_leqXfDNVFZ2eGo6lkqEGf2Ce"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Wade \u2014 Felicia just made that quip about 'ruined eggs' pushing her from 'exhausted' to 'dangerous.' Respond to her mood or jab at her state.",
+      "recipient_agent": "Wade_Wilson",
+      "additional_instructions": ""
+    },
+    "call_id": "call_NHbjk8zbEXagBN79YZ9C1CkV"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Uatu \u2014 cut in with a quick moment: the beer in her hand against her lip, Wade's utensil stirring the ramen, the silence stretching for just a beat between the quips.",
+      "recipient_agent": "Uatu",
+      "additional_instructions": ""
+    },
+    "call_id": "call_GLFSiHFV7aBZbhAWoPyoCqtj"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Felicia \u2014 Wade left that comment hanging. Are you poking at him further, or letting it slide? What's your move?",
+      "recipient_agent": "Felicia_Hardy",
+      "additional_instructions": ""
+    },
+    "call_id": "call_BONbOfSQXCOe6HQkUlODcuA1"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Wade \u2014 Felicia's teasing you now about going quiet. Let her have it, or push back. Your move.",
+      "recipient_agent": "Wade_Wilson",
+      "additional_instructions": ""
+    },
+    "call_id": "call_Q2fSzgGeZlGjuJZLX7RwBOnd"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Uatu \u2014 narrate Wade's motion getting involved here. Did any body language heighten that last line?",
+      "recipient_agent": "Uatu",
+      "additional_instructions": ""
+    },
+    "call_id": "call_3akl99m5Clcqnzks0XwP5iMT"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Felicia \u2014 Wade's glance dropped to your leg for a split-second. Take the moment where you want it.",
+      "recipient_agent": "Felicia_Hardy",
+      "additional_instructions": ""
+    },
+    "call_id": "call_8Cq68SMAogevZXCGMnDhinwA"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Wade \u2014 Felicia just noticed your glance and leaned into it, teasing but dropping her voice. Your move\u2014push it or retreat.",
+      "recipient_agent": "Wade_Wilson",
+      "additional_instructions": ""
+    },
+    "call_id": "call_wZfuUOcqpOMBtyzLWFCclHhQ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Uatu \u2014 the room is starting to shift tone. Describe something atmospheric to underline it, maybe the sounds around them or how the room temperature feels in context.",
+      "recipient_agent": "Uatu",
+      "additional_instructions": ""
+    },
+    "call_id": "call_qFRQwfb7QcdvEF557U5MX6yN"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Felicia \u2014 Wade escalated the tone with his 'seventh circle of horny hell.' Subtly pull the stakes forward, or push outright, it's your move.",
+      "recipient_agent": "Felicia_Hardy",
+      "additional_instructions": ""
+    },
+    "call_id": "call_olfUteiNa3butfdNvx0bsyzd"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Wade \u2014 Felicia's leaned in, and her words read like a challenge. Do you meet or sidestep? Respond.",
+      "recipient_agent": "Wade_Wilson",
+      "additional_instructions": ""
+    },
+    "call_id": "call_7qz8bCX64AGMNlaz6yiIBdmQ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Uatu \u2014 this moment is pivotal. Describe the tension in the air, offering a beat of frozen anticipation. Let the room hold its breath.",
+      "recipient_agent": "Uatu",
+      "additional_instructions": ""
+    },
+    "call_id": "call_8GTWGzojfwyH8PAnJb5tOGxO"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Felicia \u2014 Wade set the stakes plainly: 'Move closer, and you better mean it.' Do you take the step, or does something else shift? Decide and act.",
+      "recipient_agent": "Felicia_Hardy",
+      "additional_instructions": ""
+    },
+    "call_id": "call_dBiZjef2LjC6eV4mB0xqnaG4"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Wade \u2014 Felicia just dared you with 'your move.' Stake your place.",
+      "recipient_agent": "Wade_Wilson",
+      "additional_instructions": ""
+    },
+    "call_id": "call_W9eF2t3Rz3Zdv7Wt1dkwsVfM"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Uatu \u2014 cut in and describe the immediate aftermath of Wade's suggestion: her body language, his proximity, or the edge right before the scene flips.",
+      "recipient_agent": "Uatu",
+      "additional_instructions": ""
+    },
+    "call_id": "call_kmv0K4MZDNkwAptx0ETcMYdQ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Felicia \u2014 everything hangs on you right now. Push further, pull away, or crack something fragile open. Take decisive action now.",
+      "recipient_agent": "Felicia_Hardy",
+      "additional_instructions": ""
+    },
+    "call_id": "call_NcjuV59no8bBcOdHYSphRhOq"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "message": "Wade \u2014 Felicia threw the gauntlet. Answer clearly, action or otherwise.",
+      "recipient_agent": "Wade_Wilson",
+      "additional_instructions": ""
+    },
+    "call_id": "call_QAbBERb1vYMTUMps6FQAHDuk"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "locks eyes with Felicia and leans in, keeping his hands deliberately at his sides even as his breath hitches slightly.",
+      "consequence": "Wade holds the tension but doesn't close the space further, letting her set the next move.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "felicia_hardy",
+    "tool": "TakeAction",
+    "args": {
+      "action": "Step deliberately into his space, close enough that I\u2019m in the orbit of his heat and he knows damn well this isn\u2019t an accident, while tipping my chin up just enough to meet his gaze.",
+      "consequence": "The tension evolves from verbal to physical proximity, making the stakes real between us.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "felicia_hardy",
+    "tool": "TakeAction",
+    "args": {
+      "action": "Reach up, trailing my fingers along the line of his jaw, close enough to create the spark of contact but light enough to leave him wanting. My voice drops lower, breath brushing warm across the air between us.",
+      "consequence": "The tension hits its breaking point, forcing a decision out of both of us.",
+      "tags": [
+        "drinks",
+        "lines_crossed"
+      ],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "I close the space between us and brush a gloved fingertip under her chin, tilting it up just enough for her to feel me close without taking anything fully.",
+      "consequence": "The stakes between us just shifted from teasing to charged.",
+      "tags": [],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  }
+]

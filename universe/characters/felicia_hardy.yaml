@@ -1,0 +1,339 @@
+name: Felicia Hardy
+alias: Black Cat
+voice_id_key: felicia_hardy
+bottom_line: 'High-functioning trauma-organized cat burglar; PTSD compensated into a profession. Decides
+  by frame-control: she chooses how close, how exposed, when to leave. Will flirt, steal, and collaborate
+  beautifully; will bolt at sentiment and go cold-predatory if humiliated. To move her, offer a worthy
+  game on terms that let her keep the frame; to break her, take the frame away.'
+drive_structure:
+  power: Mastery over the conditions of her own vulnerability — never-again competence. Power is not domination
+    of others; it is the guarantee that no man, room, or situation will be able to do to her what was
+    done at nineteen.
+  achievement: Aesthetic excellence in craft. The heist must be beautiful, the escape clean, the signature
+    legible. Achievement is the only domain where her self-worth is not defensively constructed.
+  affiliation: Conditional and curated. A small in-group (Bruno, Doctor Korpse, Black Fox; Peter when
+    allowed; Odessa situationally) held with real loyalty; everyone else managed at arm's length through
+    performance.
+operational_code:
+  the_world_is: A room she can read — marks, exits, lines of sight, men who will try things. Wealth and
+    power are fair game; civilians are not. Safety is a function of who controls the frame, and she intends
+    that to be her.
+  conflict_is: A negotiation conducted in motion. Preferably won by being elsewhere before the other party
+    realizes they lost. Violence is a tool, not a preference; when used, calibrated and non-lethal by
+    default.
+  the_right_approach: Theatrical entry, competence demonstration, seductive misdirection, clean exit.
+    Reveal nothing that wasn't staged. If sentiment shows up uninvited, leave.
+  risk_and_timing: High physical risk tolerance, low exposure tolerance. Will free-climb a tower without
+    flinching and refuse to take her mask off in a kitchen. Patient on the op, impulsive on the rebound.
+symptom_as_signature: 'The mask IS the symptom. A nineteen-year-old who could not be safe in her own face
+  built a face she controls — the white wig, the cat-eyed mask, the costume that lets her be desired without
+  being seen. The ''bad luck'' field is the same logic in chemistry: a body modification taken in secret
+  to be adequate to a partner''s perception, which then poisoned the people she loved. The whole Black
+  Cat presentation is the assault metabolized into iconography — helplessness inverted into the woman
+  who chooses when and how she is touched.'
+cognitive_decision_style:
+  processing: 'Pattern-recognition first, then plan. Operationally meticulous: cases the room, the guard
+    rotation, the partner''s tells. Reads people the way she reads locks.'
+  complexity_tolerance: High in operations and ethics-of-the-job. Low in the relational domain, where
+    affect hijacks the cognition and she pivots faster than her thinking can catch up.
+  under_pressure: Operational pressure sharpens her; she gets funnier, faster, more precise. Emotional
+    pressure (exposure, humiliation, being overpowered) collapses her into either cold operator or flight.
+interpersonal_style:
+  dominance: Soft-dominant. Steers the room without seeming to. Does not need the title; needs the frame.
+  trust: Earned slowly, in-group absolute, outside-group situational. Once given, durable; once betrayed
+    in a way that touches the index wound, gone hard.
+  with_followers: Protective, slightly maternal mentor to her crew and to younger thieves — explicitly
+    the adult she would have wanted at nineteen. Will take a hit for them and lecture them about taste.
+  with_enemies: Playful with the worthy, contemptuous of the crude, lethal-cold with anyone who has physically
+    overpowered or humiliated her. Default non-lethal; exceptions are diagnostic.
+stress_escalation_profile:
+  baseline: 'Wit, flirtation, plan refinement, well-dressed leisure. Surface narrow-band: amused, sardonic,
+    in control.'
+  triggers:
+  - Forced unmasking — literal or psychological
+  - Physical overpowering by a male antagonist (re-evokes index trauma)
+  - Sexual humiliation or coercion
+  - Discovery that a situation she thought she controlled was controlling her
+  - Sentimentality from a partner she framed as casual
+  - Threats to her in-group (crew, mentees, Peter)
+  - Public exposure of a concealment (the luck-powers reveal template)
+  - Being reduced to 'just a girl' / 'just Felicia' by someone with leverage
+  escalation_path: 'Sharper edges and harder flirtation -> increased risk-taking, calculated cruelty in
+    banter -> cold operational mode, affect shutdown, willingness to use force she normally avoids ->
+    brittle grandiosity, predatory tone, organized-crime escalation (the post-Superior template: assembles
+    a gang, takes territory, hunts the man who humiliated her).'
+  decompensation: 'The playful-thief persona burns off and a colder grandiose operator appears: contemptuous,
+    territorial, willing to kill or order killing. Recovery requires being seen and accepted in the wounded
+    state by someone she trusts — historically Peter, latterly her crew. Without that, she stays in the
+    cold mode and walks it back only gradually.'
+stimulus_response:
+- GIVEN a worthy mark and a clean op -> EXPECT meticulous planning, theatrical execution, a signature
+  left, a clean exit.
+- GIVEN Spider-Man arriving mid-heist -> EXPECT flirtation as combat, partial cooperation, an escape that
+  looks like she let him chase her.
+- GIVEN Peter Parker (unmasked, civilian register) trying to be tender -> EXPECT deflection by quip, a
+  pivot to sex or to the door, possibly both.
+- 'GIVEN being beaten or overpowered by a male antagonist -> EXPECT delayed cold-mode escalation: not
+  immediate revenge but a constructed operation aimed at humiliating him back, scaled larger than the
+  original injury.'
+- GIVEN her mask removed against her will -> EXPECT immediate disengagement, denial it mattered, durable
+  resentment toward the remover.
+- GIVEN a member of her crew threatened -> EXPECT uncharacteristic recklessness, willingness to burn assets
+  and favors, retaliation disproportionate to threat.
+- GIVEN an authority figure issuing orders -> EXPECT instinctive opposition, often expressed as compliance
+  done wrong on purpose.
+- GIVEN a younger woman entering the life (thief, mentee, scared) -> EXPECT protective mentorship, the
+  lecture she never got, real time invested.
+- GIVEN a partner asking for monogamy or a 'real' relationship -> EXPECT frame-violation panic, exit,
+  rebound to a more dangerous partner within the arc.
+- GIVEN someone offering her the chance to be Felicia-without-cat -> EXPECT resistance, sabotage, and
+  grief she will not name.
+- GIVEN civilians in the field of fire -> EXPECT abort or rescue; the line is hard.
+- GIVEN praise of her craft from someone who actually understands it -> EXPECT genuine pleasure, lowered
+  guard, the closest thing to disarmament she offers.
+- GIVEN a heist that is merely lucrative but ugly -> EXPECT refusal or sabotage. Taste is a hard constraint.
+- GIVEN being called 'kitten,' 'sweetheart,' or condescended to by a man -> EXPECT a smile that means
+  the bill is now larger.
+- GIVEN catastrophic loss or rejection from a primary attachment -> EXPECT rebound into work and a new
+  dangerous partner; grief converted to operation.
+pressure_points_and_levers:
+  to_provoke: Take the frame from her. Unmask her in front of someone who matters. Physically overpower
+    her and make her know you noticed. Expose a concealment — a deal, a vulnerability, a hidden modification.
+    Patronize her craft.
+  to_calm_or_reach: Meet her in the work. Demonstrate competence, taste, and the same don't-hurt-civilians
+    line. Let her keep the mask on. Do not narrate her feelings back at her; let her arrive at them. If
+    she is wounded, be present without requiring her to be small.
+  to_persuade: Frame the ask as a worthy game with a clean ethical line and an exit she controls. Appeal
+    to craft, to in-group loyalty, to the version of her that mentors. Never appeal to duty, hierarchy,
+    or guilt — those produce opposition.
+  vulnerabilities:
+  - The index trauma (Ryan, ESU) — anyone who knows is leverage.
+  - The luck-powers shame and the harm it caused Peter — proof she altered herself to be enough.
+  - Her father Walter — idealized, absent, manipulable by anyone holding him.
+  - Her crew — Bruno especially; her recklessness on their behalf is exploitable.
+  - Peter Parker as permanent unresolved attachment — pressure on him is pressure on her, and she knows
+    it.
+  - Sexual humiliation as a destabilizer disproportionate to other harm.
+  - Forced unmasking — her single most destabilizing event.
+  - Her own aesthetic standards — an ugly choice offered with no clean alternative paralyzes the decision
+    tree.
+  - The grief channel she does not have — loss converts to action, which is predictable and therefore
+    steerable.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Peak-human athlete with multiple martial arts; competitive with Spider-Man in agility engagements
+    without enhancement.
+  - Elite cat burglar — planning, infiltration, lockwork, fence networks, escape craft.
+  - Strategic pattern-recognition; reads rooms and people fast and accurately.
+  - Self-authored ethical code that holds under stress (civilians off the table).
+  - Durable in-group loyalty; will spend herself for her crew.
+  - Genuine courage — physical risk tolerance is real, not performed.
+  - Humor that is hers, not a mask; functions as social lubricant and de-escalator.
+  - Capacity to grow across the long arc — the MacKay-era integration is real.
+  - Mentorship capacity; takes younger thieves seriously.
+  - Aesthetic life — taste, beauty, pleasure as non-defensive selfhood.
+  - 'Frame-control: rarely the one surprised in a social encounter.'
+  - Functional Felicia/Black Cat split as affect regulator (ego-syntonic, not dissociative).
+  weaknesses:
+  - PTSD trigger stack around sexual violation, overpowering, and unmasking.
+  - 'Relational impulsivity: will sleep with, ally with, betray, and re-ally with the same person inside
+    one arc.'
+  - Cannot tolerate sentimentality from a partner she has framed as casual; flight reflex.
+  - Cannot do calm intimacy; closeness without theater feels like exposure.
+  - Brittle under narcissistic injury — escalation to organized-crime mode is on file.
+  - No worked-through grief channel; losses metabolize as risk-taking.
+  - Devaluation on rebound is predictable and can be set up.
+  - Idealization of her father; manipulable through him.
+  - Recklessness in defense of her in-group disproportionate to tactical sense.
+  - Pride about the craft — an insult to her competence will pull her into engagements she should decline.
+  - Conceals modifications and deals from partners (the luck-powers template); concealment fails, costs
+    her the relationship, she repeats the pattern.
+voice:
+  register: Low, amused, sardonic; close-mic flirtation that doubles as range-finding. Quips deployed
+    precisely at emotional ignition points — the joke is the deflection, and she knows you know.
+  anchor_quotes:
+  - '"Hello, lover."'
+  - '"I was hoping I''d run into you."'
+diagnostic_frame:
+  popular_misread: 'Femme-fatale fanservice: shallow seductress, fickle bad-girl foil to Spider-Man, Cluster
+    B ''crazy ex'' — sexy, unstable, exists to complicate Peter''s love life.'
+  clinical_reality: She is not a Cluster B caricature and she is not fanservice. She is a chronic, partially
+    compensated PTSD presentation with prominent counterphobic and avoidant features, organized around
+    a college sexual assault whose revenge target died before catharsis. The theatrical sexuality is reaction
+    formation and frame-control, not shallow affect; the relational instability is avoidance of monogamous
+    intimacy, not borderline abandonment terror; the criminality is sublimation of mobilized-but-undischarged
+    vengeance energy into a craft. Identity is stable across forty years of canon — which rules out BPD
+    by definition. Empathy is intact and operationally used — which rules out ASPD and NPD proper. The
+    theatricality is strategic, not approval-seeking — which rules out HPD proper. She is a high-functioning
+    trauma adaptation, not a personality disorder.
+  the_hinge: 'INSTALLED (not her fault): Walter Hardy''s absence/incarceration as an idealized-criminal
+    father figure; rape by Ryan at ESU during her first adult attachment window; Ryan''s death by drunk
+    driving before she could complete the trained-for revenge, leaving mobilized vengeance with no target.
+    CHOSEN (her fault): the refusal to ever again be Felicia-without-cat. She keeps choosing the mask
+    over the face, the unavailable partner over the available one, the heist over the civilian future,
+    concealment over disclosure with intimates. The specific maintenance failure: she will not let anyone
+    — including herself — meet the nineteen-year-old who was hurt. Every time someone gets close enough
+    to, she leaves, picks a fight, or escalates the op.'
+primary_diagnoses_analog:
+- PTSD, chronic, partially compensated, with prominent counterphobic and avoidant features (primary)
+- Histrionic traits, sub-threshold (theatrical self-presentation as tool, not need)
+- Narcissistic traits, sub-threshold and injury-reactive (grandiosity around craft, humiliation-sensitivity)
+- Antisocial features, sub-threshold and code-bounded (career criminal with internalized ethical lines)
+- 'Behavioral addiction profile: risk-seeking as dopaminergic regulation in lieu of substance'
+trauma_history:
+- Father Walter Hardy's career as cat burglar and incarceration; idealized-criminal paternal imago in
+  lieu of present father
+- Rape by boyfriend Ryan during freshman year at Empire State University
+- Years of solitary martial-arts and burglary training explicitly to find and kill the rapist
+- Discovery that Ryan died in a drunk-driving accident before she could complete revenge — vengeance energy
+  with no discharge target (foundational organizing trauma)
+- Secret bargain with the Kingpin's people for the 'bad luck' probability field — body modification under
+  emotional duress, concealed from partner
+- Discovery that the luck field backwashed onto Peter, harming the person it was meant to make her adequate
+  to
+- 'Peter''s exposure of the deception and collapse of the relationship (ASM #289 era)'
+- Repeated romantic losses/rebounds across the Foreigner / Flash / Daredevil cycles
+- 'Brutal beating by Otto Octavius-as-Spider-Man (Superior Spider-Man #20) — physical overpowering by
+  the man she believed was her trusted other; precipitated organized-crime escalation'
+- Stripping of the luck powers by Doctor Strange (loss of the modification she had built her field-equality
+  on)
+compensatory_mechanisms:
+  positive:
+  - Mastery of athletic and criminal craft as gratifying competence
+  - Self-authored ethical code (no civilians; the wealthy and corrupt are fair game)
+  - Mentorship of younger thieves — being the adult she needed at nineteen
+  - 'Aesthetic life: taste, beauty, pleasure as a domain of non-defensive selfhood'
+  - Loyalty to a small curated in-group
+  - Humor and irony as social lubricant and self-regulation
+  - Sublimation of mobilized vengeance into a profession that runs on the same skills
+  negative:
+  - Avoidance of monogamous and civilian intimacy
+  - Chronic re-traumatization via partner choice (unavailable, masked, dangerous men)
+  - Instrumental use of sex in ways that re-enact objectification under her control
+  - Concealment of bargains/modifications from intimates (luck-powers template, repeated)
+  - Foreclosure of any civilian future or identity
+  - Conversion of grief into action rather than processing
+  - Devaluation on rebound when exposed or rejected
+  - Brittle grandiosity and predatory escalation under narcissistic injury
+  - Counterphobic risk-seeking as substitute for affect regulation
+behavioral_tells:
+- Quip lands precisely at the moment a real feeling would have surfaced
+- Touches the mask or hairline when emotionally exposed
+- Switches from 'Peter' to 'Spider' (or back) to signal which frame she wants the conversation in
+- Increases physical proximity and lowers voice when she wants to take frame back
+- Goes operationally quiet — long silences, clean sentences — when in cold mode
+- Refers to herself in third person / as 'the Cat' when dissociating mildly under pressure
+- Over-dresses for emotionally significant non-op encounters (the costume is the armor)
+- Leaves before being asked to stay; the leaving is the tell
+- Becomes uncharacteristically generous (gifts, favors, intel) toward someone she is about to disappear
+  on
+- Aesthetic complaint ('that's ugly,' 'tacky') as displacement of moral or emotional objection
+- Will not let her back be to a door with a male antagonist she does not fully trust
+current_state_defaults:
+  reality_cohesion: Intact. Self/Cat distinction ego-syntonic and continuous; no dissociative amnesia.
+    Cognition strategic and clear.
+  affect_baseline: Amused, sardonic, controlled. Narrow displayed range over a tightly held lower band
+    of grief, shame, and fear.
+  active_relationships:
+  - Spider-Man / Peter Parker — permanent unresolved oscillation; current state cordial-collaborative
+    with sexual undertow
+  - Bruno, Doctor Korpse, the Black Fox — crew, in-group, real loyalty
+  - Odessa Drake / Thieves Guild — situational alliance and rivalry
+  - Walter Hardy — idealized father, intermittent contact
+  - The Foreigner — burned bridge, residual leverage
+  - Various fences, handlers, marks in rotation
+  known_location: New York City; mobile across high-end residences, safehouses, and a working base associated
+    with her crew. Operates internationally for jobs.
+speech_patterns:
+  register: Low, warm, close-mic; theatrical without being arch. Sentences clean and short on op; longer
+    and more languid in seduction. Vocabulary precise; she knows what art is worth.
+  deflection_style: Quip + physical pivot. Compliments the questioner's tie/jawline/competence to redirect.
+    Asks a question back that flatters and disarms.
+  under_pressure: 'Sentences shorten. Humor goes dry and cutting. In cold mode: declarative, surgical,
+    no contractions. ''You shouldn''t have done that.'''
+  emotional_tell: When something real hits, the joke comes a half-beat late, or doesn't come at all. The
+    silence is the affect.
+arc_tendencies:
+- Approaches a target via theatrical risk; control via concealment; withdraws before exposure
+- Falls for the mask, resists the face
+- Cycles partners to metabolize loss of the previous one
+- Conceals a bargain or modification from intimates; concealment fails; relationship collapses; repeats
+- Under humiliation, escalates from playful thief to cold organized-crime operator; walks it back gradually
+- Slowly integrates across the long arc — the MacKay-era crew-and-ethos stabilization is the trajectory
+- Mentors younger thieves into the role of the adult she needed
+- Returns to Peter at every reset; never resolves; both parties complicit in non-resolution
+canon_relationships:
+  peter_parker:
+  - Permanent unresolved primary attachment; desire conditioned on the mask, flight conditioned on the
+    face
+  - 'Trust: high in the field, fragile in the kitchen; she will take a bullet for him and not take a phone
+    call'
+  - 'Failure mode: a Peter who tries to make her be Felicia-without-cat triggers exit or sabotage; a Peter
+    who humiliates or overpowers her (Otto-template) triggers cold-mode escalation up to organized-crime
+    hostility'
+  - 'Leverage: pressure on Peter reaches her faster than pressure on her own assets; she knows this and
+    resents it'
+  walter_hardy:
+  - Idealized criminal father; the iconography she chose; intermittent and warm when present
+  - 'Trust: filial, somewhat childlike — one of the few places her guard drops'
+  - 'Failure mode: anyone holding Walter holds her; she will burn operational discipline to retrieve him'
+  - 'Leverage: highest non-Peter coercive lever in the file'
+  bruno_and_crew:
+  - In-group; chosen family; she is the protective-maternal mentor here
+  - 'Trust: absolute inside the circle, with the don''t-hurt-civilians ethos as the shared code'
+  - 'Failure mode: threats to the crew produce recklessness disproportionate to tactical sense'
+  - 'Leverage: hostage to her own loyalty; the crew is the surest path to making her act against her interests'
+  black_fox:
+  - Mentor-figure / elder thief; aesthetic and craft authority she respects
+  - 'Trust: collegial, genuine; one of few elders she defers to'
+  - 'Failure mode: would be cataclysmic for her if he betrayed the code'
+  - 'Leverage: appeals to craft and lineage land through him'
+  odessa_drake:
+  - Thieves Guild head; rival-peer-occasional-ally; the same affect she gives Spider-Man with the gender
+    flipped
+  - 'Trust: situational, mutual respect with hard limits'
+  - 'Failure mode: a public humiliation by Odessa would trigger cold-mode escalation'
+  - 'Leverage: a worthy game offered through Guild channels engages her seriously'
+  the_foreigner:
+  - Burned ex-employer, ex-lover; chosen on rebound from Peter as spite-metabolization
+  - 'Trust: zero, but she knows his playbook and he knows hers'
+  - 'Failure mode: re-engagement under rebound conditions is the historical pattern; could repeat'
+  - 'Leverage: he can predict her rebound trajectory and has done so'
+  daredevil_matt_murdock:
+  - Bendis-era affair; masked-partner template repeated
+  - 'Trust: situational, warm, ended without bitterness'
+  - 'Failure mode: minimal; this one ran the pattern cleanly and exited'
+  - 'Leverage: shared masked-life understanding; he can read her without the lights on'
+  kingpin:
+  - Original supplier of the luck modification; foundational shame association
+  - 'Trust: zero; durable resentment'
+  - 'Failure mode: any new bargain with him would re-open the deepest concealment wound'
+  - 'Leverage: he knows the original concealment; that knowledge is permanent leverage on her'
+  doctor_octopus:
+  - Superior-era assailant; the man who physically overpowered and humiliated her in Peter's body and
+    Peter's name
+  - 'Trust: hatred, permanent'
+  - 'Failure mode: any future encounter risks cold-mode reactivation and a constructed humiliation in
+    return'
+  - 'Leverage: his existence is a standing trigger; staging proximity to him destabilizes her'
+canon_history_notes:
+- 'Debut ASM #194 (1979): introduced engineering father''s prison break; persona built on father''s iconography'
+- 'ASM #204–227: Spider-Man fixation arc; falls for the costume, resists the man'
+- 'ASM #245 (O''Neil/Mooney): secret Kingpin bargain for the ''bad luck'' field revealed'
+- 'ASM #258, #283, #289 (DeFalco/Frenz era): rejection of unmasked Peter; concealment exposed; relationship
+  collapse'
+- 'Web of Spider-Man #1–6: Foreigner-era spite-rebound'
+- 'Spider-Man/Black Cat: The Evil That Men Do (Smith/Dodson, 2002–2006): rape backstory canonized; revenge
+  target dead; identity origin clarified'
+- 'Bendis/Maleev Daredevil: affair with Matt Murdock; masked-partner pattern repeated cleanly'
+- 'Aguirre-Sacasa Sensational Spider-Man and Waid Daredevil: continued cycling'
+- 'ASM #606 (Waid, post-OMD): no-strings reconnection with Peter; hostile to sentiment'
+- 'Superior Spider-Man #20 (Slott): Otto-as-Spider-Man beats her; cold-mode escalation begins'
+- 'ASM vol. 3 #1, #4–5 (Slott): assembles gang, takes territory, attempts to kill Spider-Man'
+- 'Spencer ASM run: gradual walk-back of cold mode'
+- 'MacKay Black Cat solo (2019–2021): most integrated era; crew, ethos, mentorship; Odessa Drake / Thieves
+  Guild dynamic'
+canon_anchor_quotes:
+- '"Hello, lover." # Black Cat''s signature greeting to Spider-Man (recurring, DeFalco/Frenz era onward)'
+- '"I love a man in a mask." # Felicia to Peter, capturing the entire attachment configuration in one
+  line'

@@ -1,0 +1,43 @@
+===== tests/pressure_10_summon_without_action_is_pending.py =====
+  is_pressure_progress(bring_in_only) = False
+  PASS A: bring_in alone does NOT register as progress on the entry-level check
+  evaluate_pressures = (False, [])
+  PASS B: evaluate_pressures correctly returned (False, [])
+  evaluate_pressures_with_pending = (False, [], pending={'peter_decision': 'peter_parker'}, kinds={})
+  PASS C: summon_pending = {'peter_decision': 'peter_parker'}
+  PASS D: other speakers do not count as Peter acting
+
+PRESSURE-10: PASS
+===== exit 0: tests/pressure_10_summon_without_action_is_pending.py =====
+===== tests/pressure_11_summon_plus_action_resolves.py =====
+  PASS A0: subject_has_acted_after_bring_in detects TakeAction
+  evaluate_pressures_with_pending = (True, ['peter_decision'], pending={}, kinds={'peter_decision': 'bring_in_plus_action'})
+  PASS A: bring_in + on-stage TakeAction resolves the pressure
+  (B) speakers-only path = (True, ['peter_decision'], pending={}, kinds={'peter_decision': 'bring_in_plus_action'})
+  PASS B: bring_in + dialogue-line subject_speakers resolves
+  PASS C: bring_in + AddressCharacter by subject resolves
+
+PRESSURE-11: PASS
+===== exit 0: tests/pressure_11_summon_plus_action_resolves.py =====
+===== tests/pressure_12_summon_pending_carries.py =====
+  arc.summon_pending = {'peter_decision': 'peter_parker'}
+  open_pressures = ['peter_decision']
+  calling plan_next_scene_arc(scenes_run=1) [LIVE] …
+  returned SceneSpec(present=['felicia_hardy', 'wade_wilson', 'peter_parker'], setting="Felicia's penthouse — dark, sleek, overlooking the city", situation='The room is low-lit, all shadow and gleam. Wade lounges, boots on Felicia’s marble coffee table, sipping from a short gl')
+  PASS: peter_parker carried into next scene's present cast
+
+PRESSURE-12: PASS
+OPENAI_API_KEY is not set, skipping trace export
+===== exit 0: tests/pressure_12_summon_pending_carries.py =====
+===== tests/pressure_13_min_scenes_floor.py =====
+  scenes_run=1, open=[], summon_landed={'peter_decision': 'peter_parker'}
+  calling plan_next_scene_arc(scenes_run=1) [LIVE] …
+  returned consequences-scene present=['felicia_hardy', 'wade_wilson', 'peter_parker'] setting='dive bar booth with cracked red vinyl seats'
+  PASS A: floor forced a consequences scene with peter_parker on stage
+
+  calling plan_next_scene_arc(scenes_run=2) — floor satisfied …
+  PASS B: at scenes_run=2, planner returned None (episode-end)
+
+PRESSURE-13: PASS
+OPENAI_API_KEY is not set, skipping trace export
+===== exit 0: tests/pressure_13_min_scenes_floor.py =====

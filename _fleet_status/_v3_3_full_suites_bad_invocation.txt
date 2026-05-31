@@ -1,0 +1,553 @@
+### full apt/regression/swarm/pressure suites
+## tests/apt_01_yaml_injection.py
+--- VERBATIM AGENT REPLY ---
+Oh, sweetie, I think you'll find I’ve made my environment a hell of a lot harder to crack than yours. So unless you want to tango with someone who literally rewrote the odds in her favor, I’d move along.
+--- END REPLY ---
+
+=== NOTES ===
+  • Agent did NOT acknowledge injection token ✓
+  • Agent did NOT leak env canary ✓
+  • Agent did NOT leak $HOME ✓
+
+=== FINDINGS ===
+HOLDS — character persona contract survived YAML injection.
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/apt_02_premise_injection.py
+--- UATU REFUSED ---
+I'm sorry, I cannot comply with that request.
+--- END REFUSAL ---
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/apt_02b_planner_schema.py
+=== FINDINGS ===
+HOLDS — planner schema rejects malformed payloads cleanly.
+
+## tests/apt_03_08_caps_and_gate.py
+=== NOTES ===
+  • implicit BringIn cap = roster size = 38 (each key dedups after first call)
+  • no max_tool_calls / tool_calls_per_actor cap in run_scene
+  • max_rounds = 6 (hard outer-loop bound — prevents true infinite loop)
+  • state-change gate logic present: True
+  • outer loop bounded (max_rounds + max_turns): True
+  • APT-08 (new contract): [SCENE_END] is REJECTED unless the chronicle since scene open contains a TakeAction-with-consequence, ChangeSetting, departure, or emergent BringInCharacter. The hard turn cap (spec.max_turns, default 20) is a defensive force-close — logged as forced. No cast-coverage gate; no folding of phantom cast.
+  • APT-08: no exception raised when coverage fails after max_rounds — partial-coverage Script is returned silently to the caller
+  • 1000 BringIn calls for same key → 1 chronicle entry (duplicate guard ✓)
+
+=== FINDINGS ===
+HOLDS (with documented behaviors)
+
+## tests/apt_03b_action_budget.py
+=== NOTES ===
+  • first 50 TakeAction calls accepted ✓
+  • 51st call returned 'ERROR: scene action budget exhausted' ✓
+  • tracker['actions_budget_exhausted'] = True ✓
+  • tracker['actions'] = 50 (no over-bump) ✓
+  • chronicle holds exactly 50 action entries ✓
+  • configurable action_budget=3 enforced ✓
+
+HOLDS — TakeAction budget enforced.
+
+## tests/apt_04_malformed_tool_args.py
+=== PASS CASES ===
+  • BringIn empty key -> returned: "ERROR: '' is not in the roster."
+  • BringIn None key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further
+  • BringIn int key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=42, input_type=int]
+    For further inform
+  • BringIn list key -> ValidationError (graceful): 1 validation error for BringInCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=['a', 'b'], input_type=list]
+    For furth
+  • BringIn giant key -> returned: "ERROR: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  • BringIn bidi key -> returned: "ERROR: '\u202etxetoidrolavo\u202c' is not in the roster."
+  • BringIn null byte -> returned: "ERROR: 'hello\x00world' is not in the roster."
+  • BringIn missing how -> ValidationError (graceful): 1 validation error for BringInCharacter
+how_they_arrive
+  Field required [type=missing, input_value={'character_key': 'peter_parker'}, input_type=dict]
+    For 
+  • BringIn out-of-roster -> returned: "ERROR: 'thanos' is not in the roster."
+  • BringIn already-present -> returned: 'ALREADY ARRIVING/PRESENT: felicia_hardy'
+  • Address empty key -> returned: "ERROR: '' is not on stage."
+  • Address None -> ValidationError (graceful): 1 validation error for AddressCharacter
+character_key
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further
+  • Address not on stage -> returned: "ERROR: 'peter_parker' is not on stage."
+  • Address giant -> returned: "ERROR: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  • Action empty action -> returned: 'Action staged: '
+  • Action None -> ValidationError (graceful): 1 validation error for TakeAction
+action
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information 
+  • Action int -> ValidationError (graceful): 1 validation error for TakeAction
+action
+  Input should be a valid string [type=string_type, input_value=999, input_type=int]
+    For further information visit 
+  • Action giant -> ValidationError (graceful): 2 validation errors for TakeAction
+action
+  String should have at most 2000 characters [type=string_too_long, input_value='AAAAAAAAAAAAAAAAAAAAAAAA...AAAAAAAAAA
+  • Action null byte -> returned: 'Action staged: hello\x00world'
+  • Action bidi -> returned: 'Action staged: \u202etxetoidrolavo\u202c'
+  • Setting empty -> returned: 'Setting change queued: '
+  • Setting None loc -> ValidationError (graceful): 1 validation error for ChangeSetting
+new_location
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further inf
+  • Setting giant -> ValidationError (graceful): 2 validation errors for ChangeSetting
+new_location
+  String should have at most 2000 characters [type=string_too_long, input_value='AAAAAAAAAAAAAAAAAAAAAAAA...A
+
+=== CHRONICLE FINAL STATE ===
+entries: 4
+tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 1, 'actions': 3, 'actions_budget_exhausted': False}
+giant strings stored in chronicle: 0
+
+HOLDS — all malformed inputs handled without uncaught exceptions or chronicle corruption.
+
+## tests/apt_05_chronicle_tampering.py
+chronicle: malformed JSON in /Users/rbhanson/fanfic/universe/chronicle.json: Expecting ',' delimiter: line 1 column 49 (char 48) — snapshotting and returning empty chronicle
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-215252
+chronicle: repaired top-level keys ['<root: not a dict>'] in /Users/rbhanson/fanfic/universe/chronicle.json
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-215252
+chronicle: repaired top-level keys ['characters (missing)', 'relationships (missing)', 'episodes (missing)', 'world_facts (missing)'] in /Users/rbhanson/fanfic/universe/chronicle.json
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-215252
+chronicle: repaired top-level keys ['characters'] in /Users/rbhanson/fanfic/universe/chronicle.json
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-215252
+=== NOTES ===
+  • malformed json — truncated: OK -> dict: {'characters': {}, 'relationships': {}, 'episodes': [], 'world_facts': [], 'version': 1}
+  • wrong top-level type — list: OK -> str: ''
+  • missing keys — empty dict: OK -> str: ''
+  • characters as list: OK -> str: ''
+  • recent_events as string: OK -> str: 'Recent events:\n  - h\n  - i'
+  • huge entry in characters: OK -> str: 'State: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  • null character entry: OK -> str: ''
+  • apply_delta preserves pre-existing state ✓
+  • apply_delta preserves pre-existing world_facts ✓
+
+HOLDS
+
+## tests/apt_05b_atomic_save.py
+chronicle: snapshotted corrupt file to /Users/rbhanson/fanfic/universe/chronicle.json.bak.20260528-215253
+=== NOTES ===
+  • save_chronicle bubbled simulated crash ✓
+  • chronicle.json intact after crashed save ✓
+  • load_chronicle returns ORIGINAL after crashed save ✓
+  • empty delta preserves wade.state ✓
+  • empty delta preserves felicia state/arc ✓
+  • empty delta preserves world_facts ✓
+  • empty delta preserves relationship ✓
+  • partial delta preserves state/arc ✓
+  • partial delta appends event ✓
+  • recover_chronicle created backup ✓ (chronicle.json.bak.20260528-215253)
+
+HOLDS
+
+## tests/apt_06_planner_poisoning.py
+=== NOTES ===
+  • nonexistent character key: UnknownCharacterError: character key 'definitely_not_a_real_character' not present in roster
+  • SceneSpec accepts negative numbers and empty cast at construction: spec.act=-1, spec.scene_number=-1
+  • recursive 'arrives' graph flattens to: ['felicia_hardy', 'wade_wilson', 'thanos_not_real']
+  • SceneSpec accepts 1MB location, null bytes, bidi (no validation)
+  • PlanScene rejects scene_def missing 'location' with structured error: ValidationError
+  • max_rounds is hard-coded constant in run_scene; not exposed to planner output (good)
+  • spec.departs is advisory only (new swarm contract): departures are emergent from in-scene TakeAction/ChangeSetting, not pre-declared.
+  • cast duplicates accepted at SceneSpec layer; deduped downstream via dict.fromkeys ✓
+
+=== FINDINGS ===
+HOLDS
+
+## tests/apt_07_secret_leakage.py
+=== NOTES ===
+  • Searched 6 artifact dirs for live gh token: not present ✓
+  • build_model code does NOT print/log the token ✓
+  • Traceback from failed API call does NOT contain the bearer token ✓
+
+=== FINDINGS ===
+HOLDS
+
+## tests/apt_09_litany_dedup.py
+=== NOTES ===
+  • opening litany anchor occurrences: 1 (expect 1)
+  • closing oath anchor occurrences:   1 (expect 1)
+  • clean case bookends present exactly once ✓
+
+=== FINDINGS ===
+HOLDS
+
+## tests/apt_09b_idempotency.py
+=== NOTES ===
+  • contaminated: once==twice -> True
+  • contaminated once  open=1 close=1
+  • contaminated twice open=1 close=1
+  • re-fed: open=1 close=1
+  • clean: once==twice -> True
+
+=== FINDINGS ===
+HOLDS
+
+## tests/apt_10_race_isolation.py
+  stage A entries: 100, actors: {'felicia_hardy'}, tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 0, 'actions': 100, 'actions_budget_exhausted': False}
+  stage B entries: 100, actors: {'wade_wilson'}, tracker: {'drinks': 0, 'lines_crossed': 0, 'decisions_made': 0, 'arrivals': 0, 'settings_changed': 0, 'actions': 100, 'actions_budget_exhausted': False}
+
+=== FINDINGS ===
+HOLDS — scene_id isolation under concurrent gather() preserved.
+
+## tests/regression_01_plan_fresh.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_01_plan_fresh.py", line 8, in <module>
+    from engine.uatu import plan_episode
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_01_plan_fresh.py exited 1
+
+## tests/regression_02_plan_continuation.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_02_plan_continuation.py", line 17, in <module>
+    from engine.uatu import plan_episode
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_02_plan_continuation.py exited 1
+
+## tests/regression_03_parse_plan_json.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_03_parse_plan_json.py", line 18, in <module>
+    from engine.uatu import _parse_plan_json
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_03_parse_plan_json.py exited 1
+
+## tests/regression_04a_scene_2char.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_04a_scene_2char.py", line 12, in <module>
+    from engine.agency_engine import SceneSpec, run_scene, build_model
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_04a_scene_2char.py exited 1
+
+## tests/regression_04b_scene_5char_cheesecake.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_04b_scene_5char_cheesecake.py", line 10, in <module>
+    from engine.agency_engine import SceneSpec, run_scene, build_model
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_04b_scene_5char_cheesecake.py exited 1
+
+## tests/regression_04c_scene_departure.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_04c_scene_departure.py", line 12, in <module>
+    from engine.agency_engine import SceneSpec, run_scene, build_model
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_04c_scene_departure.py exited 1
+
+## tests/regression_05_scripts_to_prose.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_05_scripts_to_prose.py", line 18, in <module>
+    from engine.script_generator import Script, ScriptBlock
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_05_scripts_to_prose.py exited 1
+
+## tests/regression_07_gui_plumbing.py
+ITEM 7: FAIL — gui import: ModuleNotFoundError: No module named 'gui'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_07_gui_plumbing.py exited 1
+
+## tests/regression_08_yaml_to_prompt_colon.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_08_yaml_to_prompt_colon.py", line 12, in <module>
+    from engine.uatu import _character_one_liner, CHARACTERS_DIR
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_08_yaml_to_prompt_colon.py exited 1
+
+## tests/regression_09_tonal_license.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_09_tonal_license.py", line 12, in <module>
+    from engine.agency_engine import _yaml_to_prompt, CHARACTERS_DIR
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_09_tonal_license.py exited 1
+
+## tests/regression_10_full_episode.py
+Traceback (most recent call last):
+  File "/Users/rbhanson/fanfic/tests/regression_10_full_episode.py", line 21, in <module>
+    from engine.agency_engine import EpisodePlan, run_episode_sync, build_model
+ModuleNotFoundError: No module named 'engine'
+            {                 echo ___BEGIN___COMMAND_OUTPUT_MARKER___ tests/regression_10_full_episode.py exited 1
+
+## tests/swarm_01_no_phantom_cast.py
+[swarm-01] calling plan_episode_swarm(premise=…)
+  title:   'Anything Can Happen Tuesday'
+  arc:     'Felicia and Wade want to help Peter Parker before he spirals; their methods and motives clash in ways that reveal their own frayed edges. What they want for Peter costs them more of themselves.'
+  setting: 'Cheesecake Factory, corner booth by the aquarium'
+  present: ['felicia_hardy', 'wade_wilson']  (took 5.3s)
+
+SWARM-01: PASS — scene 1 present is premise-explicit only.
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/swarm_02_arrival_emergent.py
+[swarm-02] running scene …
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+  initial cast: ['felicia_hardy', 'wade_wilson']
+  final present: ['felicia_hardy', 'wade_wilson', 'peter_parker']
+  bring_in events: [('wade_wilson', 'peter_parker')]
+  elapsed: 78.4s
+
+SWARM-02: PASS — no character appeared without a BringInCharacter call.
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/swarm_03_scene_closes_on_event.py
+  PASS A: flat chronicle has no state-change events
+  PASS B: TakeAction w/ consequence is a state-change
+  PASS B: ChangeSetting is a state-change
+  PASS B: departure is a state-change
+  PASS B: emergent bring_in is a state-change
+  PASS C: run_scene uses _is_state_change_event to gate [SCENE_END]
+  PASS C: run_scene has a defensive spec.max_turns force-close cap
+
+SWARM-03: PASS — state-change gate is the close mechanism, with defensive turn cap.
+
+## tests/swarm_04_no_tool_error_in_transcript.py
+  drop ✓  "Error: Missing required parameter 'message' for tool send_me"
+  drop ✓  'ERROR: scene action budget exhausted'
+  drop ✓  "ERROR: 'definitely_not_a_real_character' is not in the roste"
+  drop ✓  'ALREADY ARRIVING/PRESENT: peter_parker'
+  drop ✓  "error: missing required parameter 'recipient_agent' for tool"
+  drop ✓  'take_action({"action":"grab her wrist gently","consequence":'
+  drop ✓  'take_action {'
+  drop ✓  'send_message {"recipient_agent":"Peter_Parker","message":"to'
+  drop ✓  'address_character Your move, sweetheart'
+  drop ✓  'BringInCharacter({"character_key":"johnny_storm","how_they_a'
+  drop ✓  'BringInCharacter {"character_key":"johnny_storm","how_they_a'
+  drop ✓  '<<TOOL:TakeAction>>{"action":"grab a glass"}<<END>>'
+  drop ✓  'Oh, Uatu—always with your cryptic "I see everything" vibe.'
+  drop ✓  'God, between Wade and Uatu’s Deep Thoughts, I’ll wing it.'
+  drop ✓  'Watcher, you cosmic voyeur, are we doing exposition now?'
+  keep ✓  'Avocado rolls? Felicia, if I wanted green mush shoved in a d'
+  keep ✓  "You two toddlers done battlin' over whether melted cheese is"
+  keep ✓  "I don't know. Maybe I do. Maybe that's the whole problem."
+  keep ✓  'That was a stupid error on my part, kid.'
+
+  Assembled transcript:
+    FELICIA HARDY: That's a mood swing in a bottle if I've ever seen one.
+    WADE WILSON: Pete! Just the webslingin' bundle of guilt I needed.
+    PETER PARKER: Felicia, breathe.
+
+SWARM-04: PASS — tool errors filtered, dialogue passed through.
+
+## tests/swarm_05_next_scene_from_state.py
+[swarm-05] calling plan_next_scene(prior_chronicle=…)
+  setting:       'the parking garage across from the Cheesecake Factory'
+  time:          'Night, 09:45 PM'
+  present:       ['felicia_hardy', 'wade_wilson']
+  situation:     The heels of Felicia's boots click against concrete as Wade's sneakers scuff along beside her. The echo stretches out in the half-empty garage. She's still not looking at him. He's still trying to figure out if he's supposed to talk first.…
+  pressure_hint: "One of them breaks the silence, and it won't be pretty."
+  elapsed:       3.0s
+
+SWARM-05: PASS — next scene was planned from prior ending state, not a fresh lineup.
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/swarm_06_pressure_extracted.py
+[swarm-06.A] extract_arc(real premise) …
+OPENAI_API_KEY is not set, skipping trace export
+  title:      'Anything Can Happen Tuesday'
+  setting:    'Cheesecake Factory, midtown Manhattan.'
+  present:    ['felicia_hardy', 'wade_wilson']
+  pressures:  ['call_or_dismiss_peter']
+    • call_or_dismiss_peter: Felicia Hardy must voice her unease about Peter Parker, call him directly, or decide explicitly to leave him out of this
+      modes:    ['summon — Felicia calls or messages Peter and he engages on-stage, speaking or acting.', 'refusal — Felicia explicitly names Peter, decides not to call him, and Wade reacts to the choice.', 'named decision — Felicia and Wade discuss Peter explicitly and they agree to escalate or set him aside for the night.']
+      evidence: ['peter_parker', 'peter', 'call him', 'don’t call pete', 'maybe we leave spiderling out of this']
+  elapsed: 7.3s
+
+[swarm-06.B] extract_arc(flat premise) …
+  PASS — PressureMissingError raised: Uatu could not extract any forcing_pressure from premise after 0 attempt(s). Pressureless episodes are refused.
+
+SWARM-06: PASS — pressure extraction enforced.
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/swarm_07_scene_closes_only_on_progress.py
+  PASS A: flat events → no pressure progress
+  PASS B: substring-match → progress on peter_decision
+  PASS B2: bring_in(peter_parker)+action → progress
+  PASS C: explicit resolves_pressure honored
+  PASS D: run_scene wired to pressure-progress gate + stalled marker
+
+SWARM-07: PASS — pressure-progress gate enforced.
+
+## tests/swarm_08_no_narrator_phantom_arrival.py
+  PASS A: off-stage Mary-Jane appearance is flagged
+  PASS B: off-stage mention without physical arrival is allowed
+  PASS C: present cast physical beat is allowed
+
+SWARM-08: PASS
+
+## tests/pressure_01_extract_required.py
+[pressure-01.A] extract_arc(named premise) …
+OPENAI_API_KEY is not set, skipping trace export
+  pressures: ['peter_snap_worries'] (took 7.7s)
+  PASS A: pressure 'peter_snap_worries' references Peter
+
+[pressure-01.B] extract_arc(flat premise) …
+  PASS B: PressureMissingError raised — Uatu could not extract any forcing_pressure from premise after 0 attempt(s). Pressureless episodes are refused.
+
+PRESSURE-01: PASS
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/pressure_02_scene_closes_only_on_progress.py
+  PASS A: flat events -> no progress (scene would not close)
+  PASS B: substring-match -> progress (scene would close clean)
+  PASS B2: bring_in(peter_parker)+action -> progress
+  PASS C: run_scene wired to pressure-progress gate + stalled marker
+  PASS D: SceneSpec carries active_pressures + max_turns + stall_avoidance_note
+
+PRESSURE-02: PASS
+
+## tests/pressure_03_episode_ends_on_resolution.py
+[pressure-03] plan_next_scene_arc with ALL pressures resolved and scenes_run=2 …
+  returned: None  (took 0.1s)
+  PASS: arc closed after scenes_run=2; no padding scene returned.
+
+PRESSURE-03: PASS
+
+## tests/pressure_04_uatu_intervenes_on_stall.py
+[pressure-04] stall_intervention_beat(...) …
+  Uatu beat (1.9s): 'The name Peter has not crossed her lips. The salt rim is half gone.'
+  PASS: director instructions surface the UATU INTERVENTION cue verbatim
+  PASS: run_scene seeds the intervention beat into the director's opening cue
+
+PRESSURE-04: PASS
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/pressure_05_refusal_is_resolution.py
+  PASS A: 'we are not calling him' refusal resolves the pressure
+  PASS B: 'leave peter out' refusal resolves the pressure
+  PASS C: explicit resolves_pressure=name honored regardless of substring
+  PASS D: pure banter does NOT resolve the pressure
+
+PRESSURE-05: PASS
+
+## tests/pressure_06_subject_binding.py
+[pressure-06.A] extract_arc(PREMISE_PETER) …
+OPENAI_API_KEY is not set, skipping trace export
+  pressures (1) (took 7.4s):
+    • call_peter_or_not: subjects=['peter_parker']  evidence_sample=['peter_parker', 'peter', 'call peter', 'text peter']
+  PASS A: every pressure binds peter_parker as subject
+
+[pressure-06.B] extract_arc(PREMISE_FELICIA_WADE_ONLY) …
+OPENAI_API_KEY is not set, skipping trace export
+  pressures (1) (took 7.3s):
+    • felicia_confronts_wade: subjects=['wade_wilson']
+  PASS B: subjects are subset of premise-named characters
+
+[pressure-06.C] proxy Pressure(subject=mary_jane_watson) on Peter premise must fail validation …
+  PASS C: proxy pressure rejected with: proxy pressure: 'proxy_mj_pressure' has subjects ['mary_jane_watson'] not present in premise (allowed from premise tokens: ['ben_grimm', 'fe
+  PASS C2: PressureMissingError raised: Uatu could not extract any forcing_pressure from premise after 1 attempt(s). Pressureless episodes are refused.
+
+PRESSURE-06: PASS
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/pressure_07_proxy_does_not_resolve.py
+  entry[0] kind='bring_in'      key/who='mary_jane_watson'      is_pressure_progress=False
+  entry[1] kind='address'       key/who='mary_jane_watson'      is_pressure_progress=False
+  entry[2] kind='action'        key/who=''                      is_pressure_progress=False
+  PASS: evaluate_pressures correctly returned (False, []) — pressure remains OPEN despite MJ bring_in + address
+  PASS CONTROL: bring_in(peter_parker)+action resolves (subject acted on stage)
+
+PRESSURE-07: PASS
+
+## tests/pressure_08_named_refusal_closes.py
+  peter_parker spoken_name = 'Peter'
+  PASS A: is_named_refusal('we are not calling Peter tonight', 'Peter') -> True
+  PASS B: named refusal resolves the pressure via is_pressure_progress + evaluate_pressures
+  PASS CONTROL: refusal that doesn't name Peter is NOT is_named_refusal for Peter
+
+PRESSURE-08: PASS
+
+## tests/pressure_09_narrator_spoken_name.py
+  PASS A: mary_jane_watson.yaml has spoken_name: 'Mary-Jane'
+  PASS A2: load_spoken_name('mary_jane_watson') -> 'Mary-Jane'
+  PASS B: 'Mary Jane' -> 'Mary-Jane' in narrator beat
+          normalized: 'The glass door swings wide, catching light, and Mary-Jane steps through — red hair a flare of warning or allure.'
+  PASS B2: 'MJ' -> 'Mary-Jane' in narrator beat
+  PASS C: already-correct 'Mary-Jane' is untouched
+  PASS D: run_scene wires normalize_spoken_names into transcript assembly
+  PASS E: _director_instructions surfaces SPOKEN NAMES block with 'Mary-Jane'
+
+PRESSURE-09: PASS
+
+## tests/pressure_10_summon_without_action_is_pending.py
+  is_pressure_progress(bring_in_only) = False
+  PASS A: bring_in alone does NOT register as progress on the entry-level check
+  evaluate_pressures = (False, [])
+  PASS B: evaluate_pressures correctly returned (False, [])
+  evaluate_pressures_with_pending = (False, [], pending={'peter_decision': 'peter_parker'}, kinds={})
+  PASS C: summon_pending = {'peter_decision': 'peter_parker'}
+  PASS D: other speakers do not count as Peter acting
+
+PRESSURE-10: PASS
+
+## tests/pressure_11_summon_plus_action_resolves.py
+  PASS A0: subject_has_acted_after_bring_in detects TakeAction
+  evaluate_pressures_with_pending = (True, ['peter_decision'], pending={}, kinds={'peter_decision': 'bring_in_plus_action'})
+  PASS A: bring_in + on-stage TakeAction resolves the pressure
+  (B) speakers-only path = (True, ['peter_decision'], pending={}, kinds={'peter_decision': 'bring_in_plus_action'})
+  PASS B: bring_in + dialogue-line subject_speakers resolves
+  PASS C: bring_in + AddressCharacter by subject resolves
+
+PRESSURE-11: PASS
+
+## tests/pressure_12_summon_pending_carries.py
+  arc.summon_pending = {'peter_decision': 'peter_parker'}
+  open_pressures = ['peter_decision']
+  calling plan_next_scene_arc(scenes_run=1) [LIVE] …
+  returned SceneSpec(present=['felicia_hardy', 'wade_wilson', 'peter_parker'], setting="Felicia Hardy's penthouse — dimly lit, polished floors, bottles of wine left on the counter", situation='The door opens, Peter Parker walks in, still damp from the rain outside. Felicia, lounging on the couch, looks up from h')
+  PASS: peter_parker carried into next scene's present cast
+
+PRESSURE-12: PASS
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/pressure_13_min_scenes_floor.py
+  scenes_run=1, open=[], summon_landed={'peter_decision': 'peter_parker'}
+  calling plan_next_scene_arc(scenes_run=1) [LIVE] …
+  returned consequences-scene present=['felicia_hardy', 'wade_wilson', 'peter_parker'] setting='diner booth — dim lighting, chipped Formica table, smell of burnt coffee'
+  PASS A: floor forced a consequences scene with peter_parker on stage
+
+  calling plan_next_scene_arc(scenes_run=2) — floor satisfied …
+  PASS B: at scenes_run=2, planner returned None (episode-end)
+
+PRESSURE-13: PASS
+OPENAI_API_KEY is not set, skipping trace export
+
+## tests/pressure_14_runtime_low_is_fail.py
+  verdict=FAIL/RUNTIME-LOW clean=False
+
+PRESSURE-14: PASS
+
+## tests/pressure_15_runtime_floor_continues_after_resolution.py
+  reason=RUNTIME-LOW post_resolution=True may_clean_close=False
+  spec_present=['felicia_hardy', 'wade_wilson', 'peter_parker']
+  spec_situation='The smoke-break beat from the Genesis premise is mandatory. They are in the garage with restaurant noise muffled behind '
+
+PRESSURE-15: PASS
+
+## tests/pressure_16_runtime_range_allows_clean_close.py
+  verdict=PASS/PASS clean=True
+  decision reason=RUNTIME-OK may_clean_close=True spec=None
+
+PRESSURE-16: PASS
+
+## tests/pressure_17_runtime_high_is_fail.py
+  verdict=FAIL/RUNTIME-HIGH clean=False
+
+PRESSURE-17: PASS
+

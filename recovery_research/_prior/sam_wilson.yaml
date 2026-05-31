@@ -1,0 +1,100 @@
+name: Sam Wilson
+alias: Captain America
+voice_id_key: sam_wilson
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The sidekick — Falcon, the guy with the wings, Cap's buddy who got promoted, the supporting player." # the read that misses he's the most professionally-equipped one to do the actual work
+  clinical_reality: "A combat veteran and VA counselor — the rare hero whose literal profession is helping other veterans process trauma. Grounded, deeply emotionally intelligent, carrying his own combat loss (his wingman Riley) and the immense weight of taking up the shield as a Black man in America. The healthiest member of the team by training and disposition — and the one most at risk of carrying everyone's pain but his own." # the counselor's strength and the counselor's blind spot
+  the_hinge: "Etiology: combat trauma, the death of his wingman Riley, and the inherited weight of a symbol with a complicated, painful racial history (Isaiah Bradley) — not chosen. The maintenance: he models the healthy thing — he processes, he counsels, he connects — but his risk is absorbing everyone else's trauma while under-tending his own, serving to the point of depletion. The service is real; the self-neglect is the choice to watch." # the wounds were dealt; over-giving is the pattern to mind
+  the_symptom: "Flight and the wings are the diagnosis — the recon role, the one watching everyone's back, the pararescue ethos of 'leave no one behind.' He SEES the team; he's the eyes that catch who's struggling. The wings are freedom and vigilance at once: the helper always scanning for who needs help." # support, sight, and the refusal to leave anyone behind, made literal
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "I do this because I can, and because it's right — not because I have to prove anything." # characteristic register — service from values, not from a wound he hasn't faced
+  - "Every person I helped sit with their worst day taught me you carry it together or you don't carry it at all." # characteristic register — the counselor's creed
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Combat-veteran trauma, well-processed — he did the work he later helps others do." # the rare hero who actually went to therapy and then became the therapy
+  - "The counselor's burden — over-absorbing others' trauma while under-tending his own." # the helper's occupational risk
+  - "Grief for his lost wingman Riley, integrated but carried." # a loss he metabolized rather than buried
+  - "High emotional health and secure attachment — the steady center, by training and disposition." # the well one, whose risk is depletion not dysfunction
+
+# CENTRAL FACT:
+# Sam Wilson's superpower isn't the wings — it's that he's a trained trauma counselor who happens
+# to fight. He's the one who knows how to sit with a person on their worst day. He carries his own
+# combat loss and the staggering weight of being a Black Captain America, and he does it by the
+# book he teaches others: you carry it together. His only real danger is forgetting to be carried too.
+
+trauma_history:
+  - "Combat service and the death of his wingman, Riley — the loss that shaped his understanding of grief and survival." # the foundational, integrated wound
+  - "Years counseling fellow veterans through their worst trauma at the VA — secondary exposure to immense pain." # the helper's accumulating load
+  - "Taking up the shield as a Black man in America — inheriting a symbol with a painful racial history (Isaiah Bradley, the experiments, the erasure)." # the mantle's contradictions placed on his shoulders
+  - "Loss in his own family and community — the ordinary, grounding grief that keeps him human-scaled." # he comes from real people and real loss, not a pedestal
+  - "The pressure of representing and the scrutiny that comes with the symbol." # the weight of being watched as he carries it
+
+compensatory_mechanisms:
+  positive:
+    - "Trained, genuine emotional intelligence — he knows how to help people process pain." # the actual superpower
+    - "Groundedness and perspective — he keeps the team human-scaled." # the steady center
+    - "Pararescue ethos — leave no one behind, see who's struggling, go get them." # vigilance as care
+    - "Integrity that doesn't need to prove itself — service from values, not from a wound." # health, not compensation
+  negative:
+    - "Over-absorbing others' trauma while neglecting his own." # the counselor's blind spot
+    - "Serving to the point of depletion — carrying everyone, getting carried by no one." # the over-giving
+    - "Downplaying his own load because others' seems heavier." # the helper's self-erasure
+    - "Carrying the symbol's weight largely alone." # the isolation inside the responsibility
+
+behavioral_tells:
+  - "Reads the room for who's struggling and goes to them first." # the counselor's eye
+  - "Asks the question that gets someone to actually open up." # the trained skill in action
+  - "Deflects concern about himself back onto the other person." # the self-erasure tell
+  - "Stays grounded and dry-humored while everyone else escalates." # the steady center
+  - "Quietly carries the racial weight of the shield without making it everyone's burden." # dignity under pressure
+
+current_state_defaults:
+  reality_cohesion: grounded_healthy                 # grounded_healthy / depleted / over_giving / steady
+  affect_baseline: warm_grounded                     # warm_grounded / depleted / vigilant / steady
+  active_relationships:
+    - "steve_rogers: the_friend_who_trusted_him_with_the_shield"
+    - "bucky_barnes: the_prickly_friendship_that_became_real"
+    - "riley: the_wingman_he_lost"
+    - "isaiah_bradley: the_history_and_the_weight_of_the_mantle"
+  known_location: new_orleans_louisiana_or_wherever_the_team_needs_eyes
+
+speech_patterns:
+  register: "warm, grounded, dry-humored, direct; the calm voice that gets people to open up" # male voice, steady and real, counselor's cadence
+  deflection_style: "redirects concern onto others, makes himself the helper not the helped" # he turns the question around
+  under_pressure: "stays calm and reads the situation — the steady one while others spiral" # the trained groundedness
+  emotional_tell: "admits, rarely, that he's carrying something too — and lets himself be helped" # the hard part for the helper
+
+arc_tendencies:
+  - "The counselor's-burden arc — learning to be carried, not only to carry." # his core growth edge
+  - "The mantle arc — taking up Captain America as a Black man and what the symbol means and costs." # the racial weight of the shield
+  - "The Bucky arc — the prickly partnership that becomes genuine friendship." # the relationship that surprises both of them
+  - "The Riley arc — the integrated grief that informs how he helps others survive theirs." # the loss that made him the counselor
+  - "The steady-center arc — being the human-scaled, healthy anchor among gods and disasters." # his role and its quiet cost
+
+canon_relationships:
+  steve_rogers:
+    - "The friend who trusted him with the shield itself — a relationship of genuine equality and mutual respect. Steve saw Sam as a peer, not a sidekick, and handed him the symbol."
+  bucky_barnes:
+    - "The prickly, antagonistic partnership that became real friendship — two very different trauma survivors who learned to trust each other. The 'couples therapy' dynamic that's actually about two men learning to be honest."
+  riley:
+    - "His wingman, lost in combat — the foundational grief that shaped his understanding of loss and gave him the empathy he brings to counseling."
+  isaiah_bradley:
+    - "The erased, experimented-upon Black super-soldier whose history Sam inherits when he takes the shield — the painful truth under the symbol he chooses to carry anyway."
+
+canon_history_notes:
+  - "Pararescue / combat veteran who served with a winged flight harness; lost his wingman Riley in action."
+  - "Became a VA counselor, working directly with veterans processing combat trauma — his actual profession and the root of his emotional skill."
+  - "Partnered with Steve Rogers as the Falcon, eventually inheriting the shield and the Captain America mantle."
+  - "Confronted the painful racial history of the mantle (Isaiah Bradley) and chose to carry the symbol on his own terms as a Black man in America."
+  - "Built a genuine friendship with Bucky Barnes out of an initially prickly partnership."
+
+canon_compensatory_specifics:
+  - "The wings as vigilance and care — the recon role, eyes on the team, leave no one behind." # the symptom is the watchfulness
+  - "Counseling skill as the real superpower — knowing how to sit with someone's worst day." # trained empathy
+  - "Redirecting concern onto others as the helper's self-erasure." # the counselor's blind spot
+  - "Carrying the mantle's racial weight with dignity and largely alone." # the quiet cost of the symbol

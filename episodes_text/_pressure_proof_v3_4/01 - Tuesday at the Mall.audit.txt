@@ -1,0 +1,345 @@
+# pressure-proof audit V3.4 — Tuesday at the Mall
+# elapsed: 1214.3s
+# scenes_run: 20
+# min_pressure_proof_scenes: 2
+# final_word_count: 9738
+# words_per_audio_minute: 150
+# estimated_audio_minutes: 64.9
+# runtime_min_audio_minutes: 60.0
+# runtime_max_audio_minutes: 90.0
+# runtime_gate_met: True
+# runtime_gate_reason: RUNTIME-OK
+# minimum_scene_floor_met: True
+# full_episode_floor_met: True
+# pressure_gates_passed: True
+# final_verdict: PASS
+# verdict_reason: PASS
+# any_scene_forced_close: False
+# clean_episode_close: True
+# forced_close_episode: False
+# stall_close: False
+# runtime_abort: False
+# summon_pending_final: {}
+# summon_landed_final: {}
+# stall_streaks_final: {}
+
+## arc
+Over the course of the day, Felicia and Wade's scheme to 'help' Peter transforms from casual banter to a concrete, increasingly chaotic mission with stakes they cannot ignore.
+
+## pressures
+  • peter_help_schemed: resolved=True by='scene 6 (pending_subject_dialogue)'
+      subjects: ['peter_parker']
+      demands:  Felicia Hardy and Wade Wilson must decide whether to execute their scheme for Peter Parker, recruit reinforcements, or explicitly abandon the entire effort. Peter must be discussed as the named focus of their plan.
+      evidence: ['peter_parker', 'peter', 'parker', "let's call mj", 'johnny would definitely get involved', 'we should just abduct him already', "this isn't gonna work on peter"]
+
+## scene summaries
+S1 @ Cheesecake Factory, their regular booth. | cast=felicia_hardy, wade_wilson | clean-close | stalled=False | moved=['peter_help_schemed'] | pending={} | kinds={'peter_help_schemed': 'evidence_substring'}
+S2 @ Cheesecake Factory, their regular booth | cast=felicia_hardy, wade_wilson | clean-close | stalled=False | moved=['peter_help_schemed'] | pending={} | kinds={'peter_help_schemed': 'evidence_substring'}
+S3 @ Cheesecake Factory parking lot | cast=felicia_hardy, wade_wilson | clean-close | stalled=False | moved=['peter_help_schemed'] | pending={} | kinds={'peter_help_schemed': 'evidence_substring'}
+S4 @ Cheesecake Factory parking lot, leaning against Wade's Jeep | cast=felicia_hardy, wade_wilson, peter_parker | SUMMON-PENDING | stalled=False | moved=['peter_help_schemed'] | pending={'peter_help_schemed': 'peter_parker'} | kinds={'peter_help_schemed': 'evidence_substring'}
+S5 @ Cheesecake Factory parking lot, leaning against Wade's Jeep | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=['peter_help_schemed'] | pending={} | kinds={'peter_help_schemed': 'evidence_substring'}
+S6 @ Felicia's apartment | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=['peter_help_schemed'] | pending={} | kinds={'peter_help_schemed': 'pending_subject_dialogue'}
+S7 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S8 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S9 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S10 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S11 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S12 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S13 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S14 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S15 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S16 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S17 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S18 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S19 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+S20 @ Cheesecake Factory booth, late evening residue | cast=felicia_hardy, wade_wilson, peter_parker | clean-close | stalled=False | moved=[] | pending={} | kinds={}
+
+## scene 1 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "Leans back against the bar, tracing the rim of her glass with one finger as she tilts a glance Wade's way.", 'consequence': 'Sets the tone for advancing a shared plan with Wade that intentionally involves Peter.', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('peter') from transcript", 'snippet': "Names are weapons here, barbed and thrown with precision. 'Peter' is hers, sharpened by history, by the ache she hides under a gloss-black grin. Wade deflects with a joke, as sloppy as the smear of wh"}
+  forced_close=False stalled=False pressures_moved=['peter_help_schemed'] summon_pending={} resolution_kinds={'peter_help_schemed': 'evidence_substring'} dropped_tool_artifacts=1
+
+## scene 2 chronicle
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'lean closer to Felicia, forearms on my knees, with an exaggerated confidential tone layered over the next line.', 'consequence': "The next move on Peter's dynamic is partially unveiled, leaving Felicia's own agenda to be pointedly addressed.", 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'extend my hand for a dramatic, over-the-top handshake, eyebrows raised as though sealing an unholy but hilarious pact.', 'consequence': "Commit to Felicia's deal and solidify the dynamic moving forward.", 'tags': ['decisions_made'], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=['peter_help_schemed'] summon_pending={} resolution_kinds={'peter_help_schemed': 'evidence_substring'} dropped_tool_artifacts=0
+
+## scene 3 chronicle
+  {'turn': 11, 'actor': 'wade_wilson', 'kind': 'action', 'action': "I toss the tequila bottle to the side, lean into Felicia's space while lighting her cigarette, and smirk with just enough bite to make it clear we’re in this now.", 'consequence': 'Felicia Hardy and Wade Wilson must decide whether to execute their scheme for Peter Parker, recruit reinforcements, or escalate.', 'tags': ['drinks', 'decisions_made'], 'resolves_pressure': ''}
+  {'turn': 11, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I crush the cigarette out against the wall, eyes sharp with that lethal kind of clarity.', 'consequence': 'Escalation is the path taken, tilting the focus towards forcing Peter to direct engagement.', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'take_action({"action":"I light the cigarette with a vintage silver lighter, exhaling slow like I’m pacing my thoughts."})\n\nIt feels like breathing glass, darling. The scheme’s solid, sure, but Peter’s'}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Unknown recipient agent 'WA})();SCEN'. Available agents: Felicia_Hardy, Wade_Wilson, Uatu"}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'take_action({"action":"I smirk slow through the next drag, flicking the ash like it’s punctuation to his nonsense."})\n\nCute, Wade. Though, next time? Go for a tighter weave. You\'re glowing like you wa'}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'take_action({"action":"I tap the ash off the cigarette, leaning just enough to meet Wade’s eye with a razor-bright grin."})\n\nBait him. Let’s see if the spider can’t help but crawl closer when we spin '}
+  forced_close=False stalled=False pressures_moved=['peter_help_schemed'] summon_pending={} resolution_kinds={'peter_help_schemed': 'evidence_substring'} dropped_tool_artifacts=4
+
+## scene 4 chronicle
+  {'turn': 9, 'actor': 'wade_wilson', 'kind': 'bring_in', 'key': 'peter_parker', 'how': "Texted him with a 'Code Disco Fries'; said it was top priority and that Felicia had first dibs on the jalapeño poppers."}
+  {'turn': 13, 'actor': 'wade_wilson', 'kind': 'action', 'action': "Throw my arms open like I’m greeting a long-lost lover and loudly declare, 'My favorite wall-crawler! You look tense—did you Spider-Sense your way here or just feel the gravity of our collective bullshittery?'", 'consequence': '', 'tags': ['lines_crossed'], 'resolves_pressure': ''}
+  {'turn': 13, 'actor': 'wade_wilson', 'kind': 'action', 'action': "Pull Peter closer, clasping his shoulder—all intensity now—and say, 'This one’s all MJ. You good riding in tandem if it’s her swinging the bat first? Or do I gotta grease the wheels?'", 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Missing required parameter 'recipient_agent' for tool send_message."}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Missing required parameter 'recipient_agent' for tool send_message."}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Unknown recipient agent 'Peter_Parker'. Available agents: Felicia_Hardy, Wade_Wilson, Uatu"}
+  forced_close=False stalled=False pressures_moved=['peter_help_schemed'] summon_pending={'peter_help_schemed': 'peter_parker'} resolution_kinds={'peter_help_schemed': 'evidence_substring'} dropped_tool_artifacts=3
+
+## scene 5 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "I lean against the table, holding his web-shooter up to the light like it's a glass of fine wine I've just taken possession of, all deliberate, predatory elegance.", 'consequence': '', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'address', 'key': 'peter_parker'}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'take out a Modelo I miraculously pocketed earlier and dramatically pop the cap with a katana flourish', 'consequence': 'breaks the tension by turning the spotlight on my own ridiculousness', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I saunter over to Peter, making sure to close the distance just enough that he feels it, and brush the web-shooter along his chest as I hand it back.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'address', 'key': 'wade_wilson'}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I spin away smoothly, letting my fingers trail down his arm as I move, keeping the mood playful but sharp, keeping him guessing.', 'consequence': '', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'hold the Modelo out to Peter, deliberately leaning in cheekily close', 'consequence': 'catalyzes Peter to break his silence or shift his focus to the humorous absurdity', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'change_setting', 'location': "Felicia's apartment", 'transition': 'Peter swings in through the nearest entrance, poised to retrieve his equipment directly from Felicia.'}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I stop mid-spin, locking eyes with him, and raise an arched brow, reading him silently before letting my smile sharpen just slightly at the corners.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=['peter_help_schemed'] summon_pending={} resolution_kinds={'peter_help_schemed': 'evidence_substring'} dropped_tool_artifacts=0
+
+## scene 6 chronicle
+  {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('clint') from transcript", 'snippet': 'Time."\n\n"The couch is white leather, cracked just enough at the seams to show its years. A bottle of Macallan 18 sits uncapped on the coffee table, two tumblers already poured, and an untouched bottle'}
+  forced_close=False stalled=False pressures_moved=['peter_help_schemed'] summon_pending={} resolution_kinds={'peter_help_schemed': 'pending_subject_dialogue'} dropped_tool_artifacts=1
+
+## scene 7 chronicle
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "reach over and yoink the napkin out of Peter's hands, replacing it with a tequila shooter in front of him.", 'consequence': 'breaking his fidget loop, calling his attention to the drink instead.', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "lean back hard in my chair, hands laced behind my head, very intentionally dragging my gaze from her shoulders to her smirk like it's a whole workout.", 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'Shift my foot slightly closer to Felicia’s boot, making it a question not a declaration.', 'consequence': 'Opening a window for a more direct interaction with Felicia, feeling out intentions without escalating outright.', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "slide my foot under the table to tap Peter’s ankle, a clear 'tag, you’re it' while winking at Felicia, doubling down on the team-up vibe against him.", 'consequence': 'pushing Peter further into the spotlight of their teasing dynamic.', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "pick up my tequila glass and tip it in her direction, downing it in one go before flipping the shot glass upside down like I'm matching her sharpness drop for drop.", 'consequence': 'meeting her with unspoken acknowledgment but upping the stakes of the exchange.', 'tags': ['drinks'], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 8 chronicle
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 9 chronicle
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 10 chronicle
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'grab Peter’s drink from his hand, replace it with my margarita, and take a dramatic sip from his straw.', 'consequence': 'I deliberately escalate the tension to coax out some kind of honest reaction from Peter.', 'tags': ['drinks', 'lines_crossed'], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 11 chronicle
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'step closer to Wade, looking him straight in the eye, dropping the quip.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'Well, if Wade’s already in theatrics mode, I suppose I’ll fill in the finer strokes. \n\ntake_action: Pushing back her chair, her tone sharp with purpose: “Here’s the deal—I’ll crack their vault, Wade p'}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=1
+
+## scene 12 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Let my knee brush his for just a moment longer, not retracting, letting the hesitation linger without turning it into a declaration.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Missing required parameter 'recipient_agent' for tool send_message."}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Missing required parameter 'recipient_agent' for tool send_message."}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=2
+
+## scene 13 chronicle
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 14 chronicle
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'lean back against the wall, crossing my arms, and let the quip hang there for a moment. Then glance between them and fake a slow clap, a mix of sarcastic and amused.', 'consequence': 'Peter subtly inserts himself into the dynamic without demanding attention outright.', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'step off the wall and casually grab a chair, spinning it around before sitting on it backward, trying to cut through the tension with the movement while raising an eyebrow at Wade.', 'consequence': 'Peter openly signals engagement, trying to keep the dynamic from spiraling either aggressively or out of control entirely.', 'tags': ['lines_crossed'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'grab Peter by the shoulders and pull him close to plant an exaggerated kiss on his mask.', 'consequence': "asserts Deadpool's outrageous confidence and deflects the challenge through absurdity.", 'tags': ['lines_crossed'], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 15 chronicle
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': "I step in between Felicia's poised elegance and Wade's chaotic lunge, hands lightly on both their shoulders, pushing their momentum back just enough to keep it playful.", 'consequence': 'De-escalates before the tension tips into explosive, pulls focus between Felicia and Wade for interpretive involvement.', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "push the snifter off the edge of the table with one finger, timing it right so I can shrug and flash a 'whoops' grin before catching it mid-fall.", 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('stick') from transcript", 'snippet': 'Peter shifts. The booth groans beneath them—the low, half-pitched whine of vinyl surrendering to a restless leg or an elbow meant to prove a point. Mary-Jane’s nails tap the edge of her untouched glas'}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'take_action({"action":"I lean closer to Peter, letting my elbow brush his on the table—sharp enough to feel bone, light enough to ignore unless you\'re counting reasons not to.","consequence":"The phys'}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=2
+
+## scene 16 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Push my wineglass away and lean back in my chair, crossing my arms deliberately, controlled tension riding under the movement.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Lean forward across the table, resting my chin in my hand, and offer Wade a slow smile that’s all teeth before speaking.', 'consequence': 'The tension breaks into sharp humor, with Wade either laughing or dodging.', 'tags': [], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 17 chronicle
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "I slide the cheesecake toward myself with a finger, pick up the fork, and take a slow, deliberate bite while holding everyone's gaze.", 'consequence': 'The tension gets intentionally undercut by casual defiance.', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "I grab a fork and swipe a precise bite right from the middle of her cheesecake, because if you're gonna steal, do it loud.", 'consequence': 'Wade escalates the cheesecake moment to playful theft.', 'tags': ['lines_crossed'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'wade_wilson'}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 18 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I slide my chair deliberately closer to Peter, the leg scraping just enough to make him flinch at the sound, and drape an arm behind him, the tips of my fingers brushing the nape of his neck like it’s incidental but very much isn’t.', 'consequence': "I've closed the gap, leaving Peter no comfortable retreat—daring him to hold his ground or pull away.", 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I snatch the chocolate-smudged glove off Wade’s hand mid-gesture and wave it in front of him like some kind of ridiculous trophy, giving him a look that says, ‘Are you challenging me to up the stakes? Really?’', 'consequence': "I've redirected Wade's chaos to make it a playful contest, keeping control of the room while aligning with the unpredictability on my terms.", 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "step right into Felicia's personal space, leaning obnoxiously close with a shit-eating grin.", 'consequence': "Wade escalates the tension by invading Felicia's space in a deliberate move to provoke.", 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': "lean forward and let my hand brush against Felicia's wrist on the table, testing the air without making it obvious.", 'consequence': 'the atmosphere shifts toward something quieter, warmer, less quippy—letting tension replace the banter.', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "I lean in closer to Peter, so close my breath tickles his ear, and whisper, low and teasing, 'Irony suits you, but let’s not pretend you don’t love being caught in the heat.' My fingers stay just at the nape of his neck, firm, keeping the tension locked.", 'consequence': "I've sealed the dynamic—keeping Peter engaged while maintaining control with physical and verbal presence.", 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'suddenly drop into an elaborately fake swoon, collapsing dramatically against a nearby surface.', 'consequence': 'Wade derails the moment on purpose, turning the tension into exaggerated melodrama to throw Felicia off balance.', 'tags': ['lines_crossed'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'stand up abruptly, moving between Felicia and Wade, planting a hand firmly against Wade’s chest, half holding him back, half defusing with a forced laugh.', 'consequence': 'the tension snaps downward into physical stakes; Peter puts himself in the middle, making restraint the new focus.', 'tags': [], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 19 chronicle
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "step closer to Felicia, leaning in like I'm about to whisper something scandalous.", 'consequence': 'set a playful and charged tone for the conversation.', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': "grab Wade's glasses right off his face and try them on for size", 'consequence': 'breaks the comedic spiral with a physical beat to reorient the moment', 'tags': ['lines_crossed'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'step closer to Felicia, just enough for it to blur the line between banter and challenge', 'consequence': 'heightens the tension while physically anchoring the dynamic shift', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'lean in very slightly, just enough to make him feel the weight of the question without giving up an inch of control.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'meet her gaze without a quip, letting the weight hang longer than usual before answering her directly', 'consequence': 'peels back the usual deflection and lets vulnerability show for a moment', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'tilt my head, half a bittersweet smile, and rest my hand lightly on her arm for just a beat', 'consequence': 'bridges the gap between challenge and connection, nudging the moment toward mutual understanding', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'flop down dramatically into the nearest chair, draping myself like a crime scene corpse.', 'consequence': 'shift focus away from Peter and Felicia to diffuse the emotional weight.', 'tags': ['drinks'], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'spring up from the chair with jazz hands so aggressive they could summon the cast of *Cats*.', 'consequence': 'amp up the tension with a loud and distracting pivot.', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': "roll my eyes and hand the glasses back to Wade, planting them back on his face like he's some sort of living cartoon", 'consequence': "diffuses Wade's absurdity without dismissing him, keeping the rhythm playful", 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'suddenly go quiet and take off my mask, letting my scarred face and a rare moment of vulnerability carry the room.', 'consequence': 'shift the tone entirely by grounding the chaos in something real and unguarded.', 'tags': [], 'resolves_pressure': ''}
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'lean casually against something nearby, letting the vibe simmer while looking between them both with a semblance of curiosity', 'consequence': 'hold the atmosphere of reflection while coaxing Felicia and Wade to unpack their layered dynamic further', 'tags': [], 'resolves_pressure': ''}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=0
+
+## scene 20 chronicle
+  {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}
+  {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('danny') from transcript", 'snippet': 'Time."\n\n"On a laminate table, beneath the amber glow of a bulb meant to evoke warmth but landing closer to exhaustion, sits a bourbon neat, untouched, and a mojito drained to the mint. The coaster dro'}
+  {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('jessica') from transcript", 'snippet': 'Listen."\n\n"The laughter that followed Wade\'s quip thinned too quickly, like steam off pavement after rain. The clink of his glass—a Jack and Coke this time, heavy on the Jack—breaks the quiet. Jessica'}
+  forced_close=False stalled=False pressures_moved=[] summon_pending={} resolution_kinds={} dropped_tool_artifacts=2
+
+
+## full pressure-resolution log (per chronicle entry × per pressure)
+# Scene 1 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "Leans back against the bar, tracing the rim of her glass with one finger as she tilts a glance Wade's way.", 'consequence': 'Sets the tone for advancing a shared plan with Wade that intentionally involves Peter.', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('peter') from transcript", 'snippet': "Names are weapons here, barbed and thrown with precision. 'Peter' is hers, sharpened by history, by the ache she hides under a gloss-black grin. Wade deflects with a joke, as sloppy as the smear of wh"}  →  is_pressure_progress=False
+    => moved=True kind=evidence_substring summon_pending=- summon_landed=-
+
+# Scene 2 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'lean closer to Felicia, forearms on my knees, with an exaggerated confidential tone layered over the next line.', 'consequence': "The next move on Peter's dynamic is partially unveiled, leaving Felicia's own agenda to be pointedly addressed.", 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'extend my hand for a dramatic, over-the-top handshake, eyebrows raised as though sealing an unholy but hilarious pact.', 'consequence': "Commit to Felicia's deal and solidify the dynamic moving forward.", 'tags': ['decisions_made'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    => moved=True kind=evidence_substring summon_pending=- summon_landed=-
+
+# Scene 3 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 11, 'actor': 'wade_wilson', 'kind': 'action', 'action': "I toss the tequila bottle to the side, lean into Felicia's space while lighting her cigarette, and smirk with just enough bite to make it clear we’re in this now.", 'consequence': 'Felicia Hardy and Wade Wilson must decide whether to execute their scheme for Peter Parker, recruit reinforcements, or escalate.', 'tags': ['drinks', 'decisions_made'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 11, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I crush the cigarette out against the wall, eyes sharp with that lethal kind of clarity.', 'consequence': 'Escalation is the path taken, tilting the focus towards forcing Peter to direct engagement.', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'take_action({"action":"I light the cigarette with a vintage silver lighter, exhaling slow like I’m pacing my thoughts."})\n\nIt feels like breathing glass, darling. The scheme’s solid, sure, but Peter’s'}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Unknown recipient agent 'WA})();SCEN'. Available agents: Felicia_Hardy, Wade_Wilson, Uatu"}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'take_action({"action":"I smirk slow through the next drag, flicking the ash like it’s punctuation to his nonsense."})\n\nCute, Wade. Though, next time? Go for a tighter weave. You\'re glowing like you wa'}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'take_action({"action":"I tap the ash off the cigarette, leaning just enough to meet Wade’s eye with a razor-bright grin."})\n\nBait him. Let’s see if the spider can’t help but crawl closer when we spin '}  →  is_pressure_progress=False
+    => moved=True kind=evidence_substring summon_pending=- summon_landed=-
+
+# Scene 4 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 9, 'actor': 'wade_wilson', 'kind': 'bring_in', 'key': 'peter_parker', 'how': "Texted him with a 'Code Disco Fries'; said it was top priority and that Felicia had first dibs on the jalapeño poppers."}  →  is_pressure_progress=False
+    entry {'turn': 13, 'actor': 'wade_wilson', 'kind': 'action', 'action': "Throw my arms open like I’m greeting a long-lost lover and loudly declare, 'My favorite wall-crawler! You look tense—did you Spider-Sense your way here or just feel the gravity of our collective bullshittery?'", 'consequence': '', 'tags': ['lines_crossed'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 13, 'actor': 'wade_wilson', 'kind': 'action', 'action': "Pull Peter closer, clasping his shoulder—all intensity now—and say, 'This one’s all MJ. You good riding in tandem if it’s her swinging the bat first? Or do I gotta grease the wheels?'", 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Missing required parameter 'recipient_agent' for tool send_message."}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Missing required parameter 'recipient_agent' for tool send_message."}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Unknown recipient agent 'Peter_Parker'. Available agents: Felicia_Hardy, Wade_Wilson, Uatu"}  →  is_pressure_progress=False
+    => moved=True kind=evidence_substring summon_pending=peter_parker summon_landed=-
+
+# Scene 5 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "I lean against the table, holding his web-shooter up to the light like it's a glass of fine wine I've just taken possession of, all deliberate, predatory elegance.", 'consequence': '', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'address', 'key': 'peter_parker'}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'take out a Modelo I miraculously pocketed earlier and dramatically pop the cap with a katana flourish', 'consequence': 'breaks the tension by turning the spotlight on my own ridiculousness', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I saunter over to Peter, making sure to close the distance just enough that he feels it, and brush the web-shooter along his chest as I hand it back.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'address', 'key': 'wade_wilson'}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I spin away smoothly, letting my fingers trail down his arm as I move, keeping the mood playful but sharp, keeping him guessing.', 'consequence': '', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'hold the Modelo out to Peter, deliberately leaning in cheekily close', 'consequence': 'catalyzes Peter to break his silence or shift his focus to the humorous absurdity', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'change_setting', 'location': "Felicia's apartment", 'transition': 'Peter swings in through the nearest entrance, poised to retrieve his equipment directly from Felicia.'}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I stop mid-spin, locking eyes with him, and raise an arched brow, reading him silently before letting my smile sharpen just slightly at the corners.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    => moved=True kind=evidence_substring summon_pending=- summon_landed=-
+
+# Scene 6 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('clint') from transcript", 'snippet': 'Time."\n\n"The couch is white leather, cracked just enough at the seams to show its years. A bottle of Macallan 18 sits uncapped on the coffee table, two tumblers already poured, and an untouched bottle'}  →  is_pressure_progress=False
+    => moved=True kind=pending_subject_dialogue summon_pending=- summon_landed=-
+
+# Scene 7 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "reach over and yoink the napkin out of Peter's hands, replacing it with a tequila shooter in front of him.", 'consequence': 'breaking his fidget loop, calling his attention to the drink instead.', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "lean back hard in my chair, hands laced behind my head, very intentionally dragging my gaze from her shoulders to her smirk like it's a whole workout.", 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'Shift my foot slightly closer to Felicia’s boot, making it a question not a declaration.', 'consequence': 'Opening a window for a more direct interaction with Felicia, feeling out intentions without escalating outright.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "slide my foot under the table to tap Peter’s ankle, a clear 'tag, you’re it' while winking at Felicia, doubling down on the team-up vibe against him.", 'consequence': 'pushing Peter further into the spotlight of their teasing dynamic.', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "pick up my tequila glass and tip it in her direction, downing it in one go before flipping the shot glass upside down like I'm matching her sharpness drop for drop.", 'consequence': 'meeting her with unspoken acknowledgment but upping the stakes of the exchange.', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 8 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 9 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 10 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'grab Peter’s drink from his hand, replace it with my margarita, and take a dramatic sip from his straw.', 'consequence': 'I deliberately escalate the tension to coax out some kind of honest reaction from Peter.', 'tags': ['drinks', 'lines_crossed'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 11 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'step closer to Wade, looking him straight in the eye, dropping the quip.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'Well, if Wade’s already in theatrics mode, I suppose I’ll fill in the finer strokes. \n\ntake_action: Pushing back her chair, her tone sharp with purpose: “Here’s the deal—I’ll crack their vault, Wade p'}  →  is_pressure_progress=False
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 12 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Let my knee brush his for just a moment longer, not retracting, letting the hesitation linger without turning it into a declaration.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Missing required parameter 'recipient_agent' for tool send_message."}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': "Error: Missing required parameter 'recipient_agent' for tool send_message."}  →  is_pressure_progress=False
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 13 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}  →  is_pressure_progress=True
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 14 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'lean back against the wall, crossing my arms, and let the quip hang there for a moment. Then glance between them and fake a slow clap, a mix of sarcastic and amused.', 'consequence': 'Peter subtly inserts himself into the dynamic without demanding attention outright.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'step off the wall and casually grab a chair, spinning it around before sitting on it backward, trying to cut through the tension with the movement while raising an eyebrow at Wade.', 'consequence': 'Peter openly signals engagement, trying to keep the dynamic from spiraling either aggressively or out of control entirely.', 'tags': ['lines_crossed'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'grab Peter by the shoulders and pull him close to plant an exaggerated kiss on his mask.', 'consequence': "asserts Deadpool's outrageous confidence and deflects the challenge through absurdity.", 'tags': ['lines_crossed'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 15 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': "I step in between Felicia's poised elegance and Wade's chaotic lunge, hands lightly on both their shoulders, pushing their momentum back just enough to keep it playful.", 'consequence': 'De-escalates before the tension tips into explosive, pulls focus between Felicia and Wade for interpretive involvement.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "push the snifter off the edge of the table with one finger, timing it right so I can shrug and flash a 'whoops' grin before catching it mid-fall.", 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('stick') from transcript", 'snippet': 'Peter shifts. The booth groans beneath them—the low, half-pitched whine of vinyl surrendering to a restless leg or an elbow meant to prove a point. Mary-Jane’s nails tap the edge of her untouched glas'}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': 'dropped tool-artifact line from transcript', 'snippet': 'take_action({"action":"I lean closer to Peter, letting my elbow brush his on the table—sharp enough to feel bone, light enough to ignore unless you\'re counting reasons not to.","consequence":"The phys'}  →  is_pressure_progress=False
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 16 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Push my wineglass away and lean back in my chair, crossing my arms deliberately, controlled tension riding under the movement.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Lean forward across the table, resting my chin in my hand, and offer Wade a slow smile that’s all teeth before speaking.', 'consequence': 'The tension breaks into sharp humor, with Wade either laughing or dodging.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 17 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "I slide the cheesecake toward myself with a finger, pick up the fork, and take a slow, deliberate bite while holding everyone's gaze.", 'consequence': 'The tension gets intentionally undercut by casual defiance.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "I grab a fork and swipe a precise bite right from the middle of her cheesecake, because if you're gonna steal, do it loud.", 'consequence': 'Wade escalates the cheesecake moment to playful theft.', 'tags': ['lines_crossed'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'wade_wilson'}  →  is_pressure_progress=True
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 18 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I slide my chair deliberately closer to Peter, the leg scraping just enough to make him flinch at the sound, and drape an arm behind him, the tips of my fingers brushing the nape of his neck like it’s incidental but very much isn’t.', 'consequence': "I've closed the gap, leaving Peter no comfortable retreat—daring him to hold his ground or pull away.", 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I snatch the chocolate-smudged glove off Wade’s hand mid-gesture and wave it in front of him like some kind of ridiculous trophy, giving him a look that says, ‘Are you challenging me to up the stakes? Really?’', 'consequence': "I've redirected Wade's chaos to make it a playful contest, keeping control of the room while aligning with the unpredictability on my terms.", 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "step right into Felicia's personal space, leaning obnoxiously close with a shit-eating grin.", 'consequence': "Wade escalates the tension by invading Felicia's space in a deliberate move to provoke.", 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': "lean forward and let my hand brush against Felicia's wrist on the table, testing the air without making it obvious.", 'consequence': 'the atmosphere shifts toward something quieter, warmer, less quippy—letting tension replace the banter.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "I lean in closer to Peter, so close my breath tickles his ear, and whisper, low and teasing, 'Irony suits you, but let’s not pretend you don’t love being caught in the heat.' My fingers stay just at the nape of his neck, firm, keeping the tension locked.", 'consequence': "I've sealed the dynamic—keeping Peter engaged while maintaining control with physical and verbal presence.", 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'suddenly drop into an elaborately fake swoon, collapsing dramatically against a nearby surface.', 'consequence': 'Wade derails the moment on purpose, turning the tension into exaggerated melodrama to throw Felicia off balance.', 'tags': ['lines_crossed'], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'stand up abruptly, moving between Felicia and Wade, planting a hand firmly against Wade’s chest, half holding him back, half defusing with a forced laugh.', 'consequence': 'the tension snaps downward into physical stakes; Peter puts himself in the middle, making restraint the new focus.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 19 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "step closer to Felicia, leaning in like I'm about to whisper something scandalous.", 'consequence': 'set a playful and charged tone for the conversation.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': "grab Wade's glasses right off his face and try them on for size", 'consequence': 'breaks the comedic spiral with a physical beat to reorient the moment', 'tags': ['lines_crossed'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'step closer to Felicia, just enough for it to blur the line between banter and challenge', 'consequence': 'heightens the tension while physically anchoring the dynamic shift', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'lean in very slightly, just enough to make him feel the weight of the question without giving up an inch of control.', 'consequence': '', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'meet her gaze without a quip, letting the weight hang longer than usual before answering her directly', 'consequence': 'peels back the usual deflection and lets vulnerability show for a moment', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'tilt my head, half a bittersweet smile, and rest my hand lightly on her arm for just a beat', 'consequence': 'bridges the gap between challenge and connection, nudging the moment toward mutual understanding', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'flop down dramatically into the nearest chair, draping myself like a crime scene corpse.', 'consequence': 'shift focus away from Peter and Felicia to diffuse the emotional weight.', 'tags': ['drinks'], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'spring up from the chair with jazz hands so aggressive they could summon the cast of *Cats*.', 'consequence': 'amp up the tension with a loud and distracting pivot.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': "roll my eyes and hand the glasses back to Wade, planting them back on his face like he's some sort of living cartoon", 'consequence': "diffuses Wade's absurdity without dismissing him, keeping the rhythm playful", 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    entry {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'suddenly go quiet and take off my mask, letting my scarred face and a rare moment of vulnerability carry the room.', 'consequence': 'shift the tone entirely by grounding the chaos in something real and unguarded.', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=False
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'action', 'action': 'lean casually against something nearby, letting the vibe simmer while looking between them both with a semblance of curiosity', 'consequence': 'hold the atmosphere of reflection while coaxing Felicia and Wade to unpack their layered dynamic further', 'tags': [], 'resolves_pressure': ''}  →  is_pressure_progress=True
+    => moved=False kind=- summon_pending=- summon_landed=-
+
+# Scene 20 pressure-resolution log
+  pressure: peter_help_schemed subjects=['peter_parker']
+    entry {'turn': 0, 'actor': 'peter_parker', 'kind': 'address', 'key': 'felicia_hardy'}  →  is_pressure_progress=True
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('danny') from transcript", 'snippet': 'Time."\n\n"On a laminate table, beneath the amber glow of a bulb meant to evoke warmth but landing closer to exhaustion, sits a bourbon neat, untouched, and a mojito drained to the mint. The coaster dro'}  →  is_pressure_progress=False
+    entry {'kind': 'warning', 'actor': 'engine', 'reason': "dropped phantom-narrator mention ('jessica') from transcript", 'snippet': 'Listen."\n\n"The laughter that followed Wade\'s quip thinned too quickly, like steam off pavement after rain. The clink of his glass—a Jack and Coke this time, heavy on the Jack—breaks the quiet. Jessica'}  →  is_pressure_progress=False
+    => moved=False kind=- summon_pending=- summon_landed=-

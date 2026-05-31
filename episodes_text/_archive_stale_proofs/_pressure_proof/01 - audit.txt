@@ -1,0 +1,20 @@
+# pressure-proof audit — Plans, Plots, and Avocado Rolls
+# elapsed: 62.8s
+# scenes_run: 1
+# forced_close_episode: False
+# stall_streak_final: 0
+
+## arc
+Felicia and Wade confront their shared worry for Peter Parker, escalating from mockery to genuine concern, culminating in a committed plan that brings others into the mess.
+
+## pressures
+  • build_peter_plan: resolved=True by='scene 1'
+      demands: Felicia and Wade must explicitly define the plan to help Peter relax, involving at least one off-stage decision to involve Mary Jane Watson and/or Johnny Storm.
+      evidence: ['mary_jane_watson', 'call mj', 'call johnny', 'talk about johnny', 'we are not calling her', 'johnny would make this worse']
+
+## scene summaries
+S1 @ The Cheesecake Factory, corner booth. | cast=felicia_hardy, wade_wilson, mary_jane_watson | clean-close | stalled=False | pressures_moved_this_scene=['build_peter_plan']
+
+## scene 1 chronicle
+  {'turn': 11, 'actor': 'wade_wilson', 'kind': 'bring_in', 'key': 'mary_jane_watson', 'how': 'I shoot MJ a text dripping with all the appropriate drama and say she needs to join this intervention-excuse we’ve cooked up for Parker. She’s MJ—she’ll know exactly how to handle this mood without taking herself too seriously. Besides, she’s fun. Why not bring in the star?'}
+  forced_close=False stalled=False pressures_moved=['build_peter_plan'] dropped_tool_artifacts=0

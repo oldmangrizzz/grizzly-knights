@@ -1,0 +1,60 @@
+# Swarm-proof audit — Swarm Proof — Tuesday Night, Anyway
+# elapsed: 346.3s
+# scenes:  5
+
+## arc
+Felicia and Wade navigate their shared, jagged concerns about Peter, but their own sharp edges collide, leaving the question of who is comforting whom—and to what end—dangling uncomfortably in the air.
+
+## briefs (per-scene)
+S1 Cheesecake Factory, midtown Manhattan | cast=felicia_hardy, wade_wilson | clean-close | events: felicia_hardy: The decision to indulge Wade shifts the energy of the room into a playful and un ; felicia_hardy: The LED motion breaks Wade's rhythm, making room for a snappy or ridiculous come
+S2 Cheesecake Factory, midtown Manhattan | cast=felicia_hardy, wade_wilson | clean-close | events: wade_wilson: The moment turns from play to connection, unguarded and raw.
+S3 Cheesecake Factory, midtown Manhattan | cast=felicia_hardy, wade_wilson | forced-close | events: felicia_hardy: The escalation edges into something sharper, blurring the line between provocati ; wade_wilson: flipped the moment—less a challenge now, more a demand to meet me, mask for mask ; felicia_hardy: The tone shifts to a raw moment of clarity, inviting him to see if he's brave en ; wade_wilson: stripped the artifice—this isn't a game anymore; it's the edge of something real
+S4 lower-midtown, street outside Cheesecake Factory | cast=felicia_hardy, wade_wilson | clean-close | events: wade_wilson: breaking the metaphor with action shifts the tone back to physical stakes.
+S5 parking garage | cast=felicia_hardy, wade_wilson | clean-close | events: wade_wilson: The moment shifts from teasing to raw honesty, tension thick in the air. ; wade_wilson: The distance solidifies a standoff, both waiting to see who will break or speak 
+
+## scene 1 chronicle
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'strike a playful pose and waggle my eyebrows at her', 'consequence': '', 'tags': []}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I smirk and twirl a strand of my hair deliberately, leaning a hip against the counter—playing into his chaos for now instead of reigning it in.', 'consequence': 'The decision to indulge Wade shifts the energy of the room into a playful and unpredictable rhythm.', 'tags': []}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'drop into an exaggerated bow while blowing her a kiss that could rival a soap opera farewell', 'consequence': '', 'tags': ['lines_crossed']}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'I arch an eyebrow at Wade and give the jumpsuit a single tap, producing the most obnoxious exaggerated blink of his LEDs possible. Cue grin.', 'consequence': "The LED motion breaks Wade's rhythm, making room for a snappy or ridiculous comeback.", 'tags': []}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'address', 'key': 'wade_wilson'}
+  forced_close=False  state_change_landed=True  dropped_tool_artifacts=0
+
+## scene 2 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "casually pick up the check and flip it over, studying it like it's a treasure map I'm personally decoding.", 'consequence': '', 'tags': []}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'lean a little closer to Wade, resting my chin on my hand, my eyes alight with curiosity and a little too much amusement.', 'consequence': '', 'tags': []}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'pick up the edge of his mask—just an inch—and let my thumb linger against the fabric, like it’s all an afterthought.', 'consequence': '', 'tags': []}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'Slide my hand across the table, not for the check, but to cover hers—firm, deliberate, just enough to make the teasing stop, the room only us.', 'consequence': 'The moment turns from play to connection, unguarded and raw.', 'tags': []}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'pull my hand back, my movements precise—a slow retreat that dances just short of vulnerability, like the end of a perfectly executed escape.', 'consequence': '', 'tags': []}
+  forced_close=False  state_change_landed=True  dropped_tool_artifacts=0
+
+## scene 3 chronicle
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'address', 'key': 'wade_wilson'}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'lean in close enough for the sweat on her margarita to envy me, smirking like I just won a bet only I knew about.', 'consequence': "upped the tension—you can't call this platonic with a straight face anymore.", 'tags': ['drinks']}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Lean back slightly, crossing my legs so my stilettos are on full display, and let the corner of my lips tilt up in a half-smile.', 'consequence': 'The air between us shifts to a game of tension and control.', 'tags': []}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'reach out to trace just the edge of her glass with a fingertip, a deliberate pause before meeting her gaze.', 'consequence': 'called her bluff—made this moment unmistakably about crossing or holding the line.', 'tags': ['drinks']}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Reach across the table and steal his untouched mojito, taking a purposeful sip while meeting his eyes.', 'consequence': 'The challenge escalates as I make it clear I’m always two steps ahead.', 'tags': ['drinks']}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'slide her drink an inch closer without spilling a drop, bridging her tease with a challenge of proximity.', 'consequence': 'tightened the curl of tension into something that demands someone flinch.', 'tags': ['drinks']}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Slide the glass back to him slowly, fingertips tracing the rim before letting go, and keep my eyes locked on his.', 'consequence': 'The tension sharpens into deliberate intimacy, testing how far he’ll push before breaking the moment.', 'tags': ['drinks']}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'catch her wrist lightly as she moves, thumb brushing against her pulse point—a pause that says nothing escapes notice here.', 'consequence': 'merged the stakes into something intimate, tipping challenge toward a collision.', 'tags': []}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Lean forward, fingertips barely grazing over his on the table, and drop my voice to something silkier, almost conspiratorial.', 'consequence': 'The boundary dissolves further, inviting him to either meet the moment or retreat.', 'tags': []}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Pull my hand back with a lazy smile, breaking contact but keeping my gaze steady as I recline back in my seat.', 'consequence': 'The tension eases just enough to reset the dynamic without fully releasing the charge.', 'tags': []}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'tilt my head, let silence stretch just long enough to turn ‘kindness’ suspicious, then lean back like I’m weighing it.', 'consequence': 'rewrote her out as a dare—I’m not walking until she says push or pull.', 'tags': []}
+  {'turn': 0, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Pick up my margarita, swirling the glass lightly as I bring it to my lips, holding the eye contact just long enough to let the silence hum.', 'consequence': 'The tension simmers quietly, keeping the game alive without naming it outright.', 'tags': ['drinks']}
+  {'turn': 16, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'laugh low, the kind that pulls in without offering escape, and tap her glass to mine before speaking.', 'consequence': 'raised the stakes—acknowledging the game and agreeing to the rules she refuses to play by.', 'tags': ['drinks']}
+  {'turn': 16, 'actor': 'felicia_hardy', 'kind': 'action', 'action': "Tilt my head and laugh low in my throat, setting the glass down deliberately and leaning just slightly closer like I'm studying him.", 'consequence': 'The escalation edges into something sharper, blurring the line between provocation and invitation.', 'tags': ['drinks']}
+  {'turn': 16, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'set my drink down too carefully, like it’s the most stable thing in the room, and fix her with a look that leans uncharacteristically quiet—listening, as if waiting for her mask to slip.', 'consequence': 'flipped the moment—less a challenge now, more a demand to meet me, mask for mask.', 'tags': ['drinks']}
+  {'turn': 16, 'actor': 'felicia_hardy', 'kind': 'action', 'action': 'Drop my voice lower and let the smile fade just enough to show I’m serious beneath the play.', 'consequence': "The tone shifts to a raw moment of clarity, inviting him to see if he's brave enough to cross that line.", 'tags': ['drinks']}
+  {'turn': 16, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'remove the mask slowly, not breaking eye contact, and let the space between us deal with the raw and ruined honesty.', 'consequence': "stripped the artifice—this isn't a game anymore; it's the edge of something real.", 'tags': ['decisions_made']}
+  {'kind': 'warning', 'actor': 'engine', 'reason': 'forced close at turn cap 20; state_change_occurred=True'}
+  forced_close=True  state_change_landed=True  dropped_tool_artifacts=0
+
+## scene 4 chronicle
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'grab her hand, pulling her deliberately into the space between us with a slight, challenging smirk', 'consequence': 'breaking the metaphor with action shifts the tone back to physical stakes.', 'tags': ['lines_crossed']}
+  forced_close=False  state_change_landed=True  dropped_tool_artifacts=0
+
+## scene 5 chronicle
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': "grab Felicia's hand back, pulling her in close with a grin.", 'consequence': '', 'tags': ['lines_crossed']}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'press in even closer, voice low and stripped of humor, resting my forehead against hers.', 'consequence': 'The moment shifts from teasing to raw honesty, tension thick in the air.', 'tags': []}
+  {'turn': 0, 'actor': 'wade_wilson', 'kind': 'action', 'action': 'stay rooted, watching her but not moving closer, fists clenching and unclenching at my sides.', 'consequence': 'The distance solidifies a standoff, both waiting to see who will break or speak first.', 'tags': []}
+  forced_close=False  state_change_landed=True  dropped_tool_artifacts=0

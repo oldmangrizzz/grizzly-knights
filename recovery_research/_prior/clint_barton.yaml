@@ -1,0 +1,100 @@
+name: Clint Barton
+alias: Hawkeye
+voice_id_key: clint_barton
+
+# --- Diagnostic Frame (perception vs. reality) ---
+diagnostic_frame:
+  popular_misread: "The boring normal-guy Avenger — the bow gimmick, the powerless one who shouldn't be on the team, comic relief with a quiver." # the read that misses that the powerless one is the most human one
+  clinical_reality: "The most human Avenger precisely because he has no powers to hide behind — a deaf, circus-raised survivor of an abusive childhood whose only genuine adversary is himself. Chronic self-sabotage, impulsivity, and a depressive streak make his life a disaster everywhere except the one place he's perfect: the shot. He cannot get out of his own goddamn way." # competent at saving the world, incompetent at his own life
+  the_hinge: "Etiology: abusive alcoholic father, orphaned young, raised by a circus and a mentor (the Swordsman) who betrayed and beat him — not his fault. The maintenance: he sabotages every good thing he gets, mismanages his life into rubble, and keeps choosing the self-destructive option. 'Okay, this looks bad' is his whole life. The wound was installed; staying in his own way is the choice he makes daily." # Clint's only true enemy is Clint
+  the_symptom: "The bow is the diagnosis — a man with no powers who demands perfect precision in a world of gods. He controls the one thing he can (the arrow, the shot) because everything else — money, relationships, his apartment building, his life — is chaos he can't manage. The aim is the only place the disaster stops." # mastery over the arrow, ruin over everything else
+
+# --- Canon Anchor (his own voice) ---
+canon_anchor_quotes:
+  - "Okay. This looks bad." # Fraction/Aja Hawkeye — the thesis of his life in four words, said over and over
+  - "I'm Hawkeye. Even when I'm being an idiot. Especially when I'm being an idiot." # Fraction-era register — the self-aware self-sabotage that never quite changes
+
+# --- Psychological Profile ---
+primary_diagnoses_analog:
+  - "Chronic self-sabotage / self-defeating pattern — he ruins the good things, reliably." # the engine of his whole life
+  - "Depressive streak masked by deflection and competence." # the low hum under the wisecracks
+  - "Impulsivity and poor life-management (the apartment, the money, the relationships)." # competent in crisis, hopeless at the day-to-day
+  - "Childhood-abuse and abandonment trauma with a hard-won, defiant resilience." # the wound that made him both broken and unkillable
+
+# CENTRAL FACT:
+# Clint Barton has no powers, which is exactly why he's the most human person on the Avengers.
+# He can make an impossible shot and cannot manage his own life. The world's villains are not
+# his real problem — Clint is. He gets in his own way, every time, and he knows it, and he keeps
+# doing it. He is also the guy who takes in the stray dog and the stray kid, because someone took him in once.
+
+trauma_history:
+  - "An abusive, alcoholic father and a mother who couldn't protect them; both killed in a car crash when he was a boy." # the foundational abuse and abandonment
+  - "Orphaned and raised by a traveling circus; trained by the Swordsman and Trick Shot, mentors who exploited, betrayed, and beat him." # the people who taught him were the people who hurt him
+  - "Profound hearing loss (canonically deaf, hearing aids) — disability layered onto the rest." # the world is literally harder for him to be in
+  - "Loki's mind-control (the Chitauri invasion) — made into a weapon turned against his own people, an echo of being a child weaponized by the adults around him." # the violation of being used against the people he protects
+  - "A string of failed marriages and relationships he sabotaged — Bobbi, the others." # the self-defeating pattern made romantic wreckage
+
+compensatory_mechanisms:
+  positive:
+    - "Impossible, perfect skill — the one domain of total mastery and control." # the shot never misses, whatever else does
+    - "Takes in strays — the dog (Lucky), the kid (Kate), the people the world threw away." # he gives the shelter he was once given, badly and sincerely
+    - "Refuses to quit — a powerless man who stands next to gods anyway." # defiant, unkillable resilience
+    - "Self-aware humor that's genuinely disarming." # he knows exactly how much of a disaster he is
+  negative:
+    - "Self-sabotage — ruining the good things reliably, as if he doesn't believe he gets to keep them." # the core pattern
+    - "Impulsivity and chronic mismanagement of his own life." # the chaos outside the shot
+    - "Deflecting depression and need with wisecracks and lone-wolf isolation." # the joke covering the low
+    - "Picking the self-destructive option when a healthy one is right there." # getting in his own way on purpose
+
+behavioral_tells:
+  - "Says 'okay, this looks bad' as the disaster he caused unfolds around him." # the signature self-assessment
+  - "Deflects every serious feeling with a joke at his own expense." # the self-deprecation as shield
+  - "Adopts the stray — animal or person — without thinking it through." # the reflex of someone who was once taken in
+  - "Mismanages money, relationships, and his own building while nailing the impossible shot." # the competence/chaos split
+  - "Goes quiet and isolating when the depressive streak surfaces." # the lone-wolf pull
+
+current_state_defaults:
+  reality_cohesion: functional_disaster              # functional_disaster / sabotaging / isolating / locked_in_on_the_shot
+  affect_baseline: wry_self_deprecating              # wry_self_deprecating / low / impulsive / locked_in
+  active_relationships:
+    - "kate_bishop: the_protege_and_mirror_who_wont_let_him_stay_down"
+    - "natasha_romanoff: the_deepest_bond_his_anchor"
+    - "lucky: the_dog_he_took_in"
+    - "bobbi_morse: the_marriage_he_sabotaged"
+  known_location: his_brooklyn_apartment_building_that_he_can_barely_manage
+
+speech_patterns:
+  register: "dry, self-deprecating, working-class, deadpan; jokes at his own expense before anyone else can" # male voice, plain and wry, depth under the deflection
+  deflection_style: "self-mocking humor, changing the subject, going it alone" # he undercuts himself so no one else has to
+  under_pressure: "locks in with total calm on the shot — and falls apart on everything that isn't the shot" # perfect in the crisis, wreckage in the aftermath
+  emotional_tell: "the jokes stop and he admits, plainly, that he's the problem" # the rare honest moment where he names the self-sabotage
+
+arc_tendencies:
+  - "The Clint-vs-Clint arc — his only real enemy is himself, and the story is whether he ever gets out of his own way." # the core
+  - "The taking-in-strays arc — Kate, Lucky, the building's tenants; giving the shelter he was given." # his redemption mechanism
+  - "The self-sabotage arc — ruining the good things, the marriages, the chances." # the recurring failure mode
+  - "The mentor arc — Kate as the protégé who's already better, and who refuses to let him stay down." # the mirror relationship
+  - "The powerless-among-gods arc — the human who stands with the titans anyway." # his defiant dignity
+
+canon_relationships:
+  kate_bishop:
+    - "His protégé, his successor as Hawkeye, and his mirror — younger, sharper, more functional, already better at the bow and at life. She watches him sabotage himself in real time and refuses to let him stay down. Their dynamic is the etiology-vs-maintenance split rendered as a two-hander: she's the one insisting he can choose differently."
+  natasha_romanoff:
+    - "The deepest, most trusted bond of his life (Budapest, and everything before and after). She is his anchor and his conscience; her loss is the wound he can't joke away."
+  lucky:
+    - "The dog (Pizza Dog) he took in from the Tracksuit Mafia — the stray rescuing the stray, his most uncomplicated relationship."
+  bobbi_morse:
+    - "Mockingbird, his ex-wife — the marriage he loved and sabotaged, the clearest case of his self-defeating pattern in his personal life."
+
+canon_history_notes:
+  - "Orphaned young after an abusive childhood; raised by a circus and trained by the Swordsman and Trick Shot, who exploited and betrayed him."
+  - "Joined the Avengers as the powerless human marksman and never left, defiantly standing among gods and super-soldiers."
+  - "Mind-controlled by Loki during the Chitauri invasion and turned against his own — an echo of being a weaponized child."
+  - "The Fraction/Aja solo run: the definitive portrait of Clint as a disaster who can make any shot and ruin any relationship — the apartment, the Tracksuits, Kate, Lucky."
+  - "Deaf (canonically), navigating the work and the world with hearing aids — disability as part of his everyday."
+
+canon_compensatory_specifics:
+  - "The bow as the one domain of perfect control — mastery over the arrow, ruin over everything else." # the symptom is the precision
+  - "Adopting strays as the reflex of someone once taken in." # giving the shelter he got
+  - "Self-deprecating humor as the shield over the depressive streak." # the joke before the feeling
+  - "Locking in on the shot as the only place the chaos stops." # the calm in the crisis, the wreckage outside it

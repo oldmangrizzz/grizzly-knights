@@ -1,0 +1,18 @@
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+OPENAI_API_KEY is not set, skipping trace export
+[pressure-06.A] extract_arc(PREMISE_PETER) …
+  pressures (1) (took 7.8s):
+    • call_or_refuse_peter: subjects=['peter_parker']  evidence_sample=['peter_parker', 'peter', 'call peter', 'text peter']
+  PASS A: every pressure binds peter_parker as subject
+
+[pressure-06.B] extract_arc(PREMISE_FELICIA_WADE_ONLY) …
+  pressures (1) (took 7.7s):
+    • wade_accountability: subjects=['wade_wilson']
+  PASS B: subjects are subset of premise-named characters
+
+[pressure-06.C] proxy Pressure(subject=mary_jane_watson) on Peter premise must fail validation …
+  PASS C: proxy pressure rejected with: proxy pressure: 'proxy_mj_pressure' has subjects ['mary_jane_watson'] not present in premise (allowed from premise tokens: ['ben_grimm', 'fe
+  PASS C2: PressureMissingError raised: Uatu could not extract any forcing_pressure from premise after 1 attempt(s). Pressureless episodes are refused.
+
+PRESSURE-06: PASS

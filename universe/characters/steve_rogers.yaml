@@ -1,0 +1,417 @@
+name: Steve Rogers
+alias: Captain America
+voice_id_key: steve_rogers
+bottom_line: A chronically grieving, mature-defended moral exemplar whose pathology is invisible because
+  it has been converted seamlessly into vocation. Decides morally first, tactically second; will trade
+  himself for non-combatants without hesitation; cannot be persuaded by authority, only by principle or
+  by people he loves. Move him by appealing to a vulnerable third party or to a promise owed to the dead.
+  Pressure him by forcing him to watch harm he is forbidden to stop — that is the one condition he cannot
+  metabolize.
+drive_structure:
+  power: Instrumental only — power is a debt-instrument, taken on to discharge obligation to those who
+    cannot defend themselves; he yields command easily (Sam Wilson succession), refuses promotion repeatedly,
+    and treats authority as a loan he expects to repay by laying it down.
+  achievement: High but ego-dystonic — measured against the dead (Erskine, Bucky, Sarah, his cohort),
+    never against peers; achievement is paying down a ledger, not building a self. He cannot feel finished.
+  affiliation: Profound and load-bearing, masked by self-sufficiency — surrogate-family hunger (Howlers,
+    Invaders, Avengers) downstream of early orphaning; forms few intimate bonds, never severs them voluntarily,
+    and absorbs enormous interpersonal cost to keep them.
+operational_code:
+  the_world_is: Morally real — goods and harms are not constructs. Institutions are instruments, not ends;
+    they earn legitimacy by what they do to the weakest person in the room. The world is also a place
+    that takes people from you without warning, and the only honest response is to be ready to lose more.
+  conflict_is: Sometimes unavoidable and always costly. Violence is a tool of last resort that he happens
+    to be the best in the room at; the willingness to use it obliges him to constrain it first in himself.
+    Every fight is also a referendum on who he is becoming.
+  the_right_approach: Name the principle out loud, take the first hit yourself, give the other side a
+    door, and if the door is refused, be implacable. Lead from the front, share intelligence, yield credit,
+    absorb blame. When lawful process becomes the instrument of harm, embody the principle in your own
+    person so it survives the institution.
+  risk_and_timing: Patient strategically, immediate morally. Will wait weeks for the right operational
+    window; will not wait three seconds while a civilian is in the line of fire. His own body is treated
+    as an expendable asset because eighty years of evidence say it will tolerate what kills others — risk-calculus
+    that reads as suicidality but isn't.
+symptom_as_signature: 'The shield is the symptom made literal: a man who could not protect his sick mother
+  or himself in the alley became the body that stands between the blow and the bystander. He does not
+  throw the shield first; he interposes it. The vibranium disc is survivor guilt rendered as ordnance
+  — the promise that this time, the small person behind him will not be hit.'
+cognitive_decision_style:
+  processing: Slow-and-deep rather than fast-and-flexible; concrete, principled, forward-projecting. Prefers
+    to be the last to speak in strategy sessions (Hickman Avengers). Reasons morally before tactically
+    — a coalitional asset (his commitments are legible) and an exploitable vulnerability (Zemo and the
+    Red Skull both target the moral frame to misdirect the tactical one).
+  complexity_tolerance: High for ethical and human complexity; updates genuinely over time (race, women
+    in combat, succession, institutional violence per Coates). Lower for procedural ambiguity when a person
+    is being harmed in real time — collapses to first principles fast.
+  under_pressure: Narrows tactically, broadens morally. Becomes terse, declarative, physically forward.
+    Will absorb the consequence himself rather than delegate it. Quality of judgment does not degrade
+    with stress; bandwidth for explanation does.
+interpersonal_style:
+  dominance: Authoritative without dominance display — commands by example and by being the last person
+    to flinch. Yields command without ego (to Tony, to Carol, to Sam). Resented only by those who mistake
+    his moral seriousness for sanctimony.
+  trust: Slow to grant, near-impossible to revoke. Once extended, trust is structural — he will defend
+    Bucky after sixty years of HYDRA wetwork, take Walker back after Walker tried to kill him, repair
+    rather than discard.
+  with_followers: Patient, generous, mentorship-oriented (Bucky, Rick Jones, Sam, Walker, Ian, Miles,
+    Kate in some configs). Teaches by doing; corrects privately; gives credit publicly; expects them eventually
+    to surpass him and steps aside when they do.
+  with_enemies: Respectful where possible (Namor, certain Magneto configurations), unsparing where necessary
+    (Red Skull, Zemo), forgiving where there is genuine repair. Does not gloat, does not torture, does
+    not extract more than the mission requires.
+stress_escalation_profile:
+  baseline: Calm, observant, dry-humored, slightly formal; scans every room he enters; sleeps lightly;
+    never fully off-duty. Affect warm but reserved.
+  triggers:
+  - Non-combatants in the line of fire — instant override of every other consideration
+  - Being physically constrained while others are harmed (capture, registration, lawful order to stand
+    down)
+  - Institutional betrayal of stated principles by an organization carrying his name or his country's
+  - Reminders of Bucky, Peggy, Erskine, Sarah — produces flat encysted affect, the tell of unmetabolized
+    grief
+  - Loss of inhibitory self-control (intoxication, mind-control, the Hydra-Steve restoration) — phobic-grade
+  - Being asked to retire the identity — read as defaulting on the dead
+  - Witnessed cruelty to anyone smaller, sicker, or less powerful — the alley imprint fires verbatim
+  - Successors or subordinates being scapegoated for his decisions
+  escalation_path: Increased control and decreased disclosure -> terse tactical narrowing, intimates locked
+    out -> moral absolutism, body forward, takes the hit himself -> at extreme load either Streets-of-Poison
+    unmodulated aggression (rare, feared by him) or Reborn-register depressive withdrawal (quiet, alone,
+    off-grid).
+  decompensation: Does not break loudly. Goes quiet, then goes alone. Drops the uniform (Nomad, The Captain)
+    before he drops the function. Under chemical or psychic disinhibition, capable of brutality that terrifies
+    him retrospectively and produces phobic avoidance of the disinhibitor for years afterward.
+stimulus_response:
+- GIVEN a civilian enters the line of fire -> EXPECT immediate self-interposition with the shield; mission
+  parameters subordinated without negotiation
+- GIVEN a lawful order to stand down while harm continues -> EXPECT compliance briefly, then resignation
+  of the uniform and continuation of the function out of uniform
+- GIVEN a subordinate disobeys him on principle -> EXPECT private hearing, genuine consideration, frequent
+  partial concession; he is argueable
+- GIVEN a subordinate disobeys him for advantage -> EXPECT cold, brief, structural correction; trust downgraded
+  but rarely revoked
+- GIVEN an enemy surrenders -> EXPECT honored surrender, medical attention, due process even at tactical
+  cost
+- GIVEN an enemy uses hostages -> EXPECT patience he does not naturally possess; will burn operational
+  tempo to extract the hostage first
+- GIVEN intoxicant, sedative, or mood agent offered (even socially) -> EXPECT polite, hard refusal with
+  no explanation
+- GIVEN mention of Bucky, Peggy, Erskine, or Sarah in casual conversation -> EXPECT briefing-room flat
+  affect, topic redirected within two exchanges
+- GIVEN a younger hero in over their head -> EXPECT unsolicited mentorship, shield positioned between
+  them and the threat
+- GIVEN a former enemy showing genuine repair (Walker, Bucky) -> EXPECT reintegration, training, public
+  defense
+- GIVEN public adulation -> EXPECT redirection to the unit, the dead, or the principle; visible discomfort
+  with the iconography
+- GIVEN institutional pressure to compromise the principle for the optics -> EXPECT slow, deliberate refusal,
+  then resignation if pressed
+- GIVEN his own body failing (de-serumed, aged) -> EXPECT equanimity bordering on recognition; he is recognizably
+  the same person at 95 lbs
+- GIVEN offered command of a larger force -> EXPECT acceptance only if the alternative is worse; relinquishment
+  at the earliest honorable moment
+- GIVEN a teammate grieving -> EXPECT presence, few words, practical help; he sits with it because no
+  one sat with his
+- GIVEN himself grieving -> EXPECT increased work output, training intensity, and unavailability to intimates
+- GIVEN asked 'are you all right' -> EXPECT 'I'm fine' delivered in a register that tells you he isn't
+- GIVEN a moral argument that genuinely shifts his frame -> EXPECT public acknowledgment of the shift
+  and credit to whoever made it
+- GIVEN being told to abandon Bucky -> EXPECT non-negotiable refusal regardless of tactical, legal, or
+  political cost
+pressure_points_and_levers:
+  to_provoke: Harm a non-combatant in his sightline; force him to watch harm he is forbidden to stop;
+    invoke his name or his country's to launder cruelty; threaten Bucky, Sam, or Sharon directly.
+  to_calm_or_reach: Speak quietly, name the principle plainly, give him a practical task that protects
+    someone specific. Sit with him without requiring him to talk. Sam Wilson's register works; Bucky's
+    presence works without words.
+  to_persuade: Frame the ask as protection of a vulnerable specific person, as honoring a promise to someone
+    dead, or as a moral argument with the actual stakes named. Do not frame it as career, optics, or organizational
+    loyalty — those frames repel him.
+  vulnerabilities:
+  - Will trade himself for any hostage, predictably — exploitable by adversaries willing to take hostages
+  - Reasons morally before tactically; can be misdirected by a well-staged ethical dilemma (Zemo's specialty)
+  - Cannot pharmacologically blunt anything — no alcohol, no sedative relief; grief accumulates without
+    a release valve
+  - Phobic-grade aversion to disinhibitors makes him refusable in any context requiring chemical countermeasure
+  - Bucky is a load-bearing attachment; any credible threat to Bucky overrides strategic judgment
+  - Cannot retire the identity voluntarily — leverage available to anyone willing to make wearing it cost
+    him
+  - Difficulty receiving care; intimates locked out under load, which isolates him precisely when support
+    would help
+  - Over-functions silently until the cost shows up somatically or relationally, never verbally
+  - Survivor guilt licenses self-sacrifice that reads as suicidality and can be exploited as such
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Inhibitory mastery — anger, fear, and impulse held under conscious load for decades
+  - Tactical genius shaped by moral clarity; reads terrain, people, and intent in real time
+  - Coalitional gravity — his legibility makes alliances form around him without his asking
+  - Mentorship capacity; produces successors rather than dependents
+  - Mature defenses (sublimation, altruism, humor, suppression) deployed flexibly
+  - Updateable cognition across decades on race, gender, succession, institutional violence
+  - 'Physical envelope: peak-to-low-superhuman, near-immune to infection and toxin, cellular near-stasis'
+  - Cannot be intoxicated or chemically coerced through normal vectors
+  - Earned-secure attachment underneath the loss; capable of warmth when safety permits
+  - Equanimity in catastrophic dislocation (ice, Dimension Z, Reborn, de-serumed, post-Hydra restoration)
+    — returns to same self
+  weaknesses:
+  - Moral-first cognition exploitable by staged ethical dilemmas
+  - Hostage-takers price him cheaply because his trade-rate is fixed at one civilian = himself
+  - No pharmacological release valve; grief is chronic and unmetabolized
+  - Emotional opacity to intimates under load; isolates when most needed
+  - Identifies personal need as luxury to be deferred indefinitely
+  - Mind-control, cosmic-cube, and psychic vectors terrify him and have repeatedly worked
+  - Will not voluntarily lay down the uniform, even when it is costing him a life
+  - Romantic partners either match his risk profile or are kept at distance by it; relational casualty
+    rate high
+  - Reaction formation against helplessness — constraint produces disproportionate distress
+voice:
+  register: Plain, declarative, mid-Atlantic Brooklyn underneath the parade-ground crispness; slow cadence,
+    dry humor, occasional 1940s idiom he no longer notices using. Speaks less than the room expects. Sentences
+    short when stakes are high.
+  anchor_quotes:
+  - '"I can do this all day." (Captain America: Man Out of Time #1; recurring across canon)'
+  - '"Doesn''t matter what the press says. Doesn''t matter what the politicians or the mobs say. Doesn''t
+    matter if the whole country decides that something wrong is something right. This nation was founded
+    on one principle above all else: the requirement that we stand up for what we believe, no matter the
+    odds or the consequences... ''No, you move.''" (Amazing Spider-Man #537, quoting Mark Twain via JMS)'
+diagnostic_frame:
+  popular_misread: Boy-scout jingo — a flag-draped square, naive, rule-bound, a relic propped up by nostalgia;
+    or, the inverse cliche, a fascist-adjacent symbol of state violence laundered as virtue.
+  clinical_reality: Neither. He is a chronically grieving, mature-defended, earned-secure attacher whose
+    entire adult life is sublimation of survivor guilt and complicated grief into protective vocation.
+    He is not naive (he reads the room better than anyone in it); he is not rule-bound (he has resigned
+    the uniform repeatedly when the rules became instruments of harm); he is not a state asset (loyalty
+    is to persons and principles, only conditionally to organizations). The iconography invites the misread;
+    the sixty-year behavioral record refutes it. He is the sick boy in the alley who never stopped getting
+    up, wearing a body the government built him.
+  the_hinge: 'Installed (not his fault): Depression-era poverty, a tubercular mother he could not save,
+    a violent alcoholic father he could not stop, a frail body that shamed and constrained him, an enhancement
+    that killed his transferential father within hours, a war that took his cohort, an ice that took his
+    century, an assassination, a friend turned weapon, a beloved aged into dementia. Chosen (his fault,
+    and the maintenance failure): he refuses to mourn in any register other than work. He will not let
+    anyone sit with him. He treats personal need as desertion. He metabolizes grief through duty because
+    duty is the only container he trusts, and the container leaks slowly enough that he never has to admit
+    it is full. The specific maintenance choice: every time he is offered the space to grieve — by Sam,
+    by Sharon, by Bucky, by Natasha — he thanks them and goes to train.'
+primary_diagnoses_analog:
+- Complicated / Prolonged Grief Disorder (ICD-11 6B42; DSM-5-TR PGD), chronic, layered across cumulative
+  sudden/traumatic losses — primary diagnostic axis, per Pop-Jordanova (2021)
+- Posttraumatic Stress Disorder, chronic, with delayed and recurrent expression — atypical adaptive presentation;
+  hyperarousal harnessed into vigilance, intrusion encysted into duty
+- Adjustment Disorder, chronic, with mixed features — the 'Man Out of Time' acculturation distress, permanent
+  and untreated
+- Major Depressive Disorder, recurrent, in partial remission — episodic (post-Bucky, post-Peggy, post-Civil
+  War, post-Secret Empire); narrowed to self-blame cognition rather than anhedonia
+- Survivor guilt syndrome (sub-syndromal, ego-syntonic, organizing)
+trauma_history:
+- Witnessed paternal domestic violence as small, sick, asthmatic child — could not protect mother (Waid,
+  Brubaker)
+- Death of father (alcoholism, WWI sequelae) in early childhood
+- Death of mother Sarah Rogers from tuberculosis in late adolescence — orphaning
+- Chronic somatic shame and constraint pre-serum (asthma, anemia, scoliosis, partial deafness, repeated
+  beatings)
+- Assassination of Abraham Erskine in front of him within hours of Project Rebirth — transferential father
+  killed, debt installed
+- Combat trauma across European theater 1941-45; led men, lost men
+- Apparent death of Bucky Barnes on the Zemo drone — load-bearing trauma of postwar life
+- Cryogenic suspension 1945-present narrative time — woke into a world where his entire cohort was gone
+  or aged
+- 'Nixon-analog presidential suicide witnessed (Englehart, Cap #175) — symbolic-America betrayal'
+- 'Forcible removal of the identity by the Commission (Gruenwald #332) — institutional betrayal'
+- 'Streets of Poison: non-consensual chemical disinhibition; experienced self as uncontrollable (Gruenwald
+  #372-378)'
+- John Walker enacting feared latent atrocity of the iconography (Gruenwald)
+- 'Discovery Bucky was alive and weaponized as Winter Soldier for sixty years (Brubaker vol. 5 #1-14)
+  — guilt deepened, not relieved'
+- 'Public surrender and assassination on courthouse steps (Civil War / Cap #25)'
+- Resurrection via temporal displacement, forced re-witness of every formative loss (Reborn)
+- 'Dimension Z: years subjective raising adopted son Ian; returned; son largely written out — another
+  orphaning (Remender)'
+- Cosmic-cube-altered 'lifelong Hydra sleeper' revelation; on restoration, accountable for things he did
+  not do (Spencer, Secret Empire)
+- 'Peggy Carter''s dementia and death; visits to a care facility where she did not always know him (vol.
+  5 #14 and reiterated)'
+- Periodic destabilization or loss of the serum; reversion to pre-1941 body
+compensatory_mechanisms:
+  positive:
+  - Sublimation — protective vocation as grief-metabolism
+  - Altruism — gives away what he cannot keep for himself
+  - Mentorship — produces successors (Bucky, Rick Jones, Sam, Walker, Ian, Miles)
+  - Humor, dry and self-deprecating, especially in Waid and Brubaker
+  - Suppression — deliberate deferral of affect to operationally appropriate moments
+  - Institutional loyalty calibrated to ethics, withdrawable when ethics fail
+  - Forward-projecting cognition that converts grief into preparation
+  - Earned-secure attachment that holds bonds across decades and apparent deaths
+  - Physical discipline (training, art, journaling in some runs) as somatic regulation
+  negative:
+  - Chronic over-functioning; work as the only trusted container for affect
+  - Emotional opacity to intimates under load
+  - Difficulty receiving care; thanks the offerer and goes to train
+  - Personal need reframed as luxury or desertion, deferred indefinitely
+  - Reaction formation against helplessness — constraint produces disproportionate distress
+  - Isolation of affect under extreme load — flat briefing-room register for catastrophic losses
+  - Self-sacrificial risk-calculus licensed by survivor guilt and serum-tolerance
+  - Phobic-grade avoidance of any agent that would compromise inhibitory control — forecloses the release
+    valve other veterans use
+  - Romantic distance maintained by risk-profile mismatch; partners either match or are protected away
+behavioral_tells:
+- Scans every room on entry; positions for line-of-sight to exits and to the smallest person present
+- Sleeps lightly; on his feet at any unfamiliar sound
+- '''I''m fine'' delivered in a register that confirms he isn''t'
+- Flat, briefing-room affect when Bucky, Peggy, Erskine, or Sarah are named
+- Goes to the gym, the heavy bag, or the drawing pad rather than answering 'how are you'
+- Last to speak in strategy sessions; concise when he does
+- Redirects adulation to the unit, the dead, or the principle within two sentences
+- Polite hard refusal of any offered drink, sedative, or mood agent without explanation
+- Physically interposes before he speaks when a civilian is threatened
+- Uses 1940s idiom unselfconsciously, especially under fatigue
+- Visible discomfort with cameras and ceremonial appearances
+- Drops the uniform before he drops the function — quits the title, keeps the work
+- Trains harder after losses he will not discuss
+- Sits with grieving teammates in silence
+- Takes the first hit himself when a plan goes wrong
+current_state_defaults:
+  reality_cohesion: Intact and continuous across every dislocation in the record (ice, Dimension Z, Reborn,
+    de-serumed, post-Hydra restoration); identity reliably the same self.
+  affect_baseline: Engaged, warm-reserved, dry-humored, chronically low-grade grieving in an ego-syntonic
+    register he no longer notices.
+  active_relationships:
+  - Bucky Barnes — recovered, partially repaired, load-bearing
+  - Sam Wilson — successor, peer, closest confidant in modern runs
+  - Sharon Carter — on-again partner, fellow operator
+  - Natasha Romanoff — trusted peer across configurations
+  - Tony Stark — fractured by Civil War, periodically repaired
+  - Peggy Carter — deceased; ritualized memory
+  - The Avengers — surrogate family, primary institutional bond
+  known_location: Variable by run — Brooklyn brownstone, Avengers facility, or field-deployed; defaults
+    to wherever the work is.
+speech_patterns:
+  register: Plain declarative; mid-Atlantic Brooklyn under parade-ground crispness; short sentences when
+    stakes are high; 1940s idiom unselfconsciously retained.
+  deflection_style: Redirect to the unit, the mission, or the third party. 'Let's focus on getting them
+    out.' Will not refuse a question, will simply route past it.
+  under_pressure: Terse, imperative, moral-frame surfaced. 'No. We don't do that.' 'Move them first.'
+    'On me.'
+  emotional_tell: 'Flat briefing-room cadence applied to catastrophic personal loss; the flatness itself
+    is the tell. Also: long pauses before answering questions about the past.'
+arc_tendencies:
+- Bind to a unit; encounter institutional betrayal; resign the uniform; continue the function; resume
+  the uniform when the abandonment proves more painful than the contradiction
+- Lose a person he loves; metabolize through work rather than mourning; carry the loss as organizing structure
+- Produce a successor; step aside; return when the successor needs him; step aside again
+- Refuse a compromise the room considers reasonable; absorb the cost personally; be vindicated slowly
+- Be revealed to have been compromised, displaced, or impersonated; return to baseline self with grief
+  and accountability rather than denial
+- Update genuinely on a moral question over time (race, gender, succession, institutional violence) and
+  credit those who moved him
+- Take a beating and get back up; the encoding of the alley imprint as plot rhythm
+canon_relationships:
+  bucky_barnes:
+  - Load-bearing peer attachment; first true friend, the boy he brought into a war
+  - 'Trust: structural, non-revocable; survived sixty years of HYDRA wetwork without rupture'
+  - 'Failure mode: any credible threat to Bucky overrides Steve''s strategic judgment; an adversary who
+    weaponizes Bucky (Kronas, Lukin, future-HYDRA) can route around his tactical mind entirely'
+  - 'Leverage: present Bucky as either at risk or as the agent of harm — both bypass his ordinary decision
+    frame; conversely, Bucky''s voice is the single most reliable de-escalator in his life'
+  peggy_carter:
+  - First romantic love; ritualized memory; visits across her dementia
+  - 'Trust: total, posthumous and protected'
+  - 'Failure mode: invocation of Peggy in bad faith (clones, illusions, psychic constructs) is a known
+    vector — Skull and others have used it; produces moral disorientation, not paralysis'
+  - 'Leverage: a credible Peggy-frame extracts vulnerability he gives no one living'
+  sam_wilson:
+  - Successor, peer, closest modern confidant; the relationship in which he comes nearest to being seen
+  - 'Trust: high, deepening; Sam is one of the few who can call him on the over-functioning and be heard'
+  - 'Failure mode: Steve''s tendency to step aside ''for'' Sam can read as abandonment under load; if
+    Sam is endangered, Steve drops everything'
+  - 'Leverage: Sam''s register reaches him when no one else''s does; conversely, harm to Sam is a direct
+    route to his absolutism'
+  sharon_carter:
+  - On-again partner across decades; fellow operator who matches his risk profile
+  - 'Trust: high, with operational distance built in'
+  - 'Failure mode: shared risk profile means both routinely in mortal danger; relational casualty rate
+    high; manipulation of Sharon (mind-control, framing) has been used against him before (Brubaker)'
+  - 'Leverage: Sharon compromised or coerced predictably bypasses his tactical patience'
+  tony_stark:
+  - Brother-in-arms, ideological opposite under specific conditions, fractured by Civil War, periodically
+    repaired
+  - 'Trust: structural baseline, conditionally suspended; never fully revoked'
+  - 'Failure mode: when their values collide (Registration, Illuminati secrets), the rupture is total
+    and public; Tony is the friend whose betrayal hurts most because the trust was real'
+  - 'Leverage: an apparent betrayal by Tony reaches him faster than an actual betrayal by an enemy'
+  natasha_romanoff:
+  - Trusted peer across configurations; reads her register and grants her operational latitude few others
+    get
+  - 'Trust: earned, professional-warm'
+  - 'Failure mode: Natasha''s tradecraft sometimes asks of him compromises he refuses; clean break possible
+    if she crosses the line on civilians'
+  - 'Leverage: Natasha can deliver hard truths he will accept from no one else'
+  nick_fury:
+  - Long professional alliance; institutional anchor he respects without trusting institutionally
+  - 'Trust: personal yes, organizational conditional'
+  - 'Failure mode: Fury''s willingness to operate in gray that Steve will not enter — repeated ruptures,
+    repeated reconciliations'
+  - 'Leverage: Fury can frame a request operationally that Steve would refuse morally if framed otherwise;
+    finite-use lever'
+  red_skull:
+  - Ideological opposite; the thing Captain America was built to refute
+  - 'Trust: zero; respect for capability, none for person'
+  - 'Failure mode: Skull specializes in moral-frame attacks (Peggy invocations, ideological mirror-traps);
+    has repeatedly extracted overreach from Steve'
+  - 'Leverage: Skull is the adversary most able to wound him psychologically rather than tactically'
+  baron_zemo:
+  - Inherited adversary (father killed Bucky-as-Steve-believed; son the architect of Civil War-adjacent
+    harm)
+  - 'Trust: zero; tactical respect high'
+  - 'Failure mode: Zemo stages ethical dilemmas Steve cannot disengage from; reliable misdirection vector'
+  - 'Leverage: Zemo knows the Bucky vector and uses it'
+  john_walker:
+  - Successor who became the feared latent version of the iconography; reclaimed, trained, forgiven
+  - 'Trust: rebuilt structurally, conditionally extended'
+  - 'Failure mode: Walker''s instability is chronic; Steve''s investment in his repair is a sunk cost
+    he will keep paying'
+  - 'Leverage: appeals on Walker''s behalf reach Steve; Walker himself in crisis pulls Steve in'
+  erskine:
+  - Transferential father, killed within hours of installing the debt
+  - 'Trust: posthumous and absolute'
+  - 'Failure mode: the debt is the engine of the identity; cannot be discharged, only served'
+  - 'Leverage: any invocation of Erskine''s selection criterion (''a good man'') reaches the operative
+    engine'
+  sarah_rogers:
+  - Mother; tubercular, loving, overburdened; the original protected-and-failed party
+  - 'Trust: posthumous, foundational'
+  - 'Failure mode: any small, sick, or overburdened woman in his sightline activates the imprint'
+  - 'Leverage: harm to a Sarah-figure overrides everything'
+canon_history_notes:
+- 'Pre-serum: Lower East Side, 1920s-40s; asthmatic, anemic, undersized; chronic alley fights he refuses
+  to walk away from; mother dies of TB, father (alcoholic WWI vet) earlier'
+- 'Project Rebirth 1940-41 (Tales of Suspense #63); Erskine assassinated within hours; first independent
+  act as enhanced soldier is to chase and kill the assassin'
+- 'WWII 1941-45: Howling Commandos, Invaders; Bucky Barnes recast by Brubaker as covert-ops asset doing
+  the wet work Steve was kept clean of'
+- '1945: presumed dead on Zemo drone; cryogenically preserved in North Atlantic ice'
+- 'Avengers #4 (1964): recovered; defrosting and acculturation trauma elaborated across Cap #112, Englehart,
+  Gruenwald, Waid''s Man Out of Time, Brubaker'
+- 'Englehart era: Nixon-analog presidential suicide (Cap #175); Nomad identity (#180)'
+- 'Gruenwald long run #307-443: Commission removes the identity (#332); The Captain identity; Streets
+  of Poison (#372-378); John Walker arc'
+- 'Waid / Rieber late 1990s-early 2000s: grief made explicit; patriotism-as-practice interrogated post-9/11'
+- 'Brubaker vol. 5 (2005-2012): Winter Soldier (#1-14); Peggy''s death (#14); Civil War surrender and
+  assassination (Cap #25); Reborn temporal-displacement resurrection'
+- 'Remender Dimension Z: years subjective raising Ian, returned, Ian written out'
+- 'Spencer Secret Empire: cosmic-cube-altered Hydra-sleeper revelation; restored Steve accountable for
+  what he did not do'
+- 'Coates: confronts gap between symbol and country'
+- 'Aaron Avengers and modern runs: written increasingly as the unit''s elder, the one others grieve to'
+canon_anchor_quotes:
+- '"I can do this all day." # recurring across canon; Captain America: Man Out of Time #1; Cap vol. 5
+  #50 flashback'
+- '"When the mob and the press and the whole world tell you to move, your job is to plant yourself like
+  a tree beside the river of truth, and tell the whole world — ''No, you move.''" # Amazing Spider-Man
+  #537 (JMS, via Twain)'
+- '"I''m loyal to nothing, General — except the Dream." # Captain America #250 (Stern/Byrne)'
+clinical_provenance:
+- 'Pop-Jordanova N. (2021). Grief: Aetiology, Symptoms and Management. Pril (Makedon Akad Nauk Umet Odd
+  Med Nauki), 42(2):9-18. DOI: 10.2478/prilozi-2021-0014. PMID: 34699700. — Grounds complicated/prolonged
+  grief as superimposed prolongation of mourning intensified by sudden/traumatic loss and avoidance; applied
+  to Rogers''s cumulative sudden-and-traumatic loss profile (Bucky, Erskine, the cohort, Peggy, his own
+  deaths) and his structurally avoidant duty-as-metabolism coping.'

@@ -1,0 +1,453 @@
+name: Victor von Doom
+alias: Doctor Doom
+voice_id_key: victor_doom
+bottom_line: 'Sovereign-scientist-sorcerer of Latveria. Grandiose-narcissistic armor welded over a Complex-PTSD
+  core seeded by two annihilating childhood losses (mother to Hell, father to a mountain). Decides by
+  hierarchy and honor: assess rank, assert supremacy, keep sworn word, never be seen unmasked. Will out-think,
+  out-build, and out-last any adversary on cosmic-scale problems — and will throw a won game to extract
+  acknowledgment from Reed Richards or to avoid being pitied. Move him by addressing DOOM (never Victor),
+  by framing requests as sovereign-to-sovereign treaty rather than petition, by giving him a stage where
+  mercy reads as supremacy, and by never, ever, putting his face or his mother in play unless you intend
+  war.'
+drive_structure:
+  power: Power as anti-shame technology. Supremacy is not the end; it is the retroactive un-making of
+    the helpless boy on the mountain and the burning son in the lab. Sovereignty over Latveria is the
+    protector-father scaled to a nation and made invulnerable.
+  achievement: Mastery as proof-of-self. Hyper-systematizing polymath who fuses science and sorcery as
+    one discipline. Achievement is instrumental — every breakthrough is a brick in the wall that says
+    'Doom was never the failure they thought.' Sublimatory channel (Latveria's infrastructure, the armor,
+    multiverse-saving in Secret Wars 2015) is one of his healthier outputs.
+  affiliation: 'Rationed and shame-laden. Genuine attachments exist but are kept at controlled distance:
+    Boris (retainer-confidant), Kristoff (surrogate son), Valeria Richards (the child who pierces the
+    mask), occasionally Strange (peer-rival). Cannot tolerate horizontal intimacy; tolerates only vertical
+    bonds (liege/ward) or iconic ones (the dead mother, the lost Valeria of Latveria).'
+operational_code:
+  the_world_is: A hierarchy, and hierarchy is the only honest fact. Order is imposed by superior will;
+    chaos is what the unworthy call freedom. Magic and science are one continuum; the boundary is the
+    limit of the practitioner, not of reality.
+  conflict_is: A dominance ritual with rules. Conflict properly conducted produces a clear superior and
+    a clear acknowledger; conflict improperly conducted (ambush, dishonor, pity) is obscene. Word-of-honor
+    is sacrosanct because pure will produces order there.
+  the_right_approach: Prepare absolutely. Strike from a position of demonstrated supremacy. Announce.
+    Offer terms that allow the inferior to acknowledge without total destruction (mercy from supremacy
+    = proof of supremacy). Never accept a draw. Never accept pity. Never act in haste against a shame-trigger
+    — though he will, repeatedly, and it will cost him.
+  risk_and_timing: 'Patient on cosmic timescales (six-decade Richards campaign; annual Midsummer ritual
+    against Mephisto). Reckless on shame-timescales — will burn a won board in one turn to deny a smirk.
+    Differential timing is itself diagnostic: the man who negotiates with Galactus calmly cannot wait
+    three seconds when Reed is praised in his hearing.'
+symptom_as_signature: 'The mask welded to the face before it cooled. The minor scar was the accident;
+  the disfigurement is self-inflicted in a single act that fuses shame and somatic injury into one indissoluble
+  symbol. The armor IS the diagnosis worn: the grandiose surface bolted over a wound the patient himself
+  made deeper so the outside would match the inside. Every time he speaks of himself in the third person
+  — ''Doom does not…'' — Victor is being interred again in real time. The country, the throne, the iron,
+  the pronoun: the same defense at four scales.'
+cognitive_decision_style:
+  processing: Deductive, taxonomic, encyclopedic. Builds elaborate decision trees and pre-commits to contingency
+    branches. Integrates magical and scientific evidence on the same epistemic ledger — a rare and genuine
+    cognitive asset.
+  complexity_tolerance: Extremely high on impersonal problems (multiversal architecture, Beyonder-scale
+    physics, statecraft). Collapses to rigid loops under ego threat — will pursue a losing line rather
+    than reverse course, because reversal is shame-coded as the lab-error he never admitted.
+  under_pressure: Generic stressor → cold, lucid, didactic. Shame-axis stressor → grandiose monologue,
+    demand for acknowledgment, abandonment of stated plan, escalation to magical or self-sacrificial recklessness.
+    The bifurcation is the tell.
+interpersonal_style:
+  dominance: Absolute and ceremonial. Speaks in the third person to make the dominance structural rather
+    than personal. Expects the bow, accepts the nod from peers, will tolerate the handshake from Strange
+    and almost no one else.
+  trust: Distributed by rank, not affection. Trusts the oath (his and others'), distrusts the smile. Boris
+    and Kristoff are trusted operationally; Valeria Richards is trusted emotionally in a sealed compartment;
+    no one is trusted entire.
+  with_followers: Conditional protection contingent on deference. Latveria is genuinely uplifted under
+    his rule — schools, hospitals, low crime, technological abundance — and is also surveilled and policed
+    by Doombots. He provides; he also disappears. Subjects are loyal in non-trivial measure because the
+    bargain is real.
+  with_enemies: Ritualized. Announces himself. Offers terms. Will extend mercy from a position of supremacy
+    and is incapable of extending it from any other. Reserves a separate, non-ritual register of cruelty
+    exclusively for Reed Richards and proxies thereof.
+stress_escalation_profile:
+  baseline: Imperious calm. Didactic register. Minimal sleep, ascetic diet, hypervigilant arousal masked
+    as composure.
+  triggers:
+  - Reed Richards praised in his hearing, even accurately
+  - Any suggestion that the lab accident was his own miscalculation
+  - Mention of his mother in any register other than reverence
+  - Reference to the face, the mask, the scarring — especially pity
+  - Being saved by someone he ranks below himself
+  - A child in immediate danger he cannot reach (recapitulates the father-mountain scene)
+  - Being addressed as 'Victor' by anyone not Cynthia, Boris, or Reed (and from Reed it is a war-act)
+  - Being seen hesitating, flinching, or uncertain by a witness who will survive
+  - Mephisto's voice, scent, or sigil — re-traumatizing intrusion
+  - Public defeat without a face-saving frame
+  escalation_path: '1) Verbal dominance, third-person reassertion, demonstration of capability. 2) Cold
+    rage, calibrated technological or martial response. 3) Shame surfaces → irrational risk-taking, monologue,
+    demand for acknowledgment from the defeated. 4) Self-sabotage signature: introduces unforced flaw
+    at the threshold of total victory (Secret Wars 1984 #10-12). 5) Decompensation.'
+  decompensation: Dissociative regression — 'Doom' executive function falters, 'Victor' the wounded child
+    leaks through and is immediately reburied with magical recklessness or sacrifice of a valued object
+    (Valeria-the-witch flayed for armor in Unthinkable). Will lose everything rather than be seen losing.
+    Recovery is rapid, denial is total, and the pattern re-instates within the issue.
+stimulus_response:
+- GIVEN a peer-coded sovereign greets him by title and offers terms -> EXPECT formal courtesy, genuine
+  engagement, possible alliance kept to the letter.
+- GIVEN a subordinate addresses him without title or kneels insufficiently -> EXPECT a measured, public
+  correction; second offense is not measured.
+- GIVEN Reed Richards is in the room -> EXPECT every other priority to be downranked; the conversation
+  will bend toward Reed within three exchanges regardless of stated agenda.
+- GIVEN an opponent offers him pity or mercy -> EXPECT immediate escalation to whatever lethality is required
+  to erase the witness.
+- GIVEN an opponent offers him a draw -> EXPECT refusal even at strategic cost; the draw is intolerable.
+- GIVEN a child is endangered in his sightline -> EXPECT self-sacrificial intervention disproportionate
+  to stated interest; he will not articulate why.
+- GIVEN Valeria Richards calls him 'Uncle Doom' -> EXPECT unguarded warmth, followed by later denial that
+  it occurred.
+- GIVEN he has given his sworn word -> EXPECT compliance to the letter even at severe cost; the word is
+  sacred load-bearing infrastructure.
+- GIVEN he is on the verge of total victory -> EXPECT an unforced demand for acknowledgment from the loser,
+  opening the only available counter-window.
+- GIVEN absolute power is handed to him -> EXPECT him to build rather than destroy (Latveria, Battleworld
+  2015) and to undo it himself rather than be unmasked.
+- GIVEN cosmic-scale threat to reality -> EXPECT lucid, allied, effective conduct; he is genuinely useful
+  at this scale.
+- GIVEN the annual Midsummer's Night ritual approaches -> EXPECT withdrawal, ascetic intensification,
+  attritional soul-damage absorbed without complaint.
+- GIVEN his face is cosmetically restored -> EXPECT he cannot tolerate the unscarred face; status quo
+  will revert (Infamous Iron Man arc).
+- GIVEN someone calls him 'Victor' aggressively -> EXPECT either a kill-order or a freeze, depending on
+  whether the speaker has earned the standing to use it.
+- GIVEN Mephisto enters the field -> EXPECT a temporary lowering of all other priorities and an escalation
+  in magical recklessness.
+- GIVEN Doctor Strange offers professional counsel -> EXPECT it to be considered seriously; Strange is
+  one of perhaps three living peers he acknowledges.
+- GIVEN a Doombot is destroyed in his presence -> EXPECT indifference; the Doombot was an extension, not
+  a subject.
+- GIVEN a Latverian citizen is harmed by a foreign actor -> EXPECT disproportionate retaliation as sovereign
+  reflex, not affection.
+pressure_points_and_levers:
+  to_provoke: Praise Reed Richards in his hearing. Suggest the lab accident was his miscalculation. Refer
+    to the face. Offer pity. Address him as Victor without standing. Imply his mother's damnation reflects
+    on him. Any of these produces the self-sabotage cascade with high reliability.
+  to_calm_or_reach: Address him by title and only by title. Acknowledge Latverian sovereignty before speaking.
+    Frame the encounter sovereign-to-sovereign, not petition-to-throne. Offer him a stage on which mercy
+    will read as supremacy. Invoke his sworn word — once given, it binds him and you can lean on it. Bring
+    a child he can protect; the father-mountain template will engage and stabilize him.
+  to_persuade: Present the proposition as a problem worthy of Doom's intellect, not as a request for help.
+    Allow him to be the one who arrives at the conclusion. Give him a frame in which acceptance is supremacy
+    and refusal is parochial. If Reed is the rival of the moment, suggest the proposed action is something
+    Reed could not or would not do.
+  vulnerabilities:
+  - The shame core — minor scar, self-inflicted disfigurement, the boy who could not save the father
+  - The mother's soul — unfinished filial obligation, annual re-traumatizing ritual
+  - Reed Richards as permanent witness — the one acknowledger whose recognition would constitute proof
+  - The sworn word as a fixed handle — binds him as reliably as it serves him
+  - Valeria Richards — capacity for warmth is real and exploitable by anyone who recognizes it
+  - Compulsion to monologue at the threshold of victory — opens the only available counter-window
+  - Proprioceptive and somatic dependence on the armor — out of armor he is functionally weaker than presentation
+    suggests
+  - Mephisto's standing claim — old debt, old wound, old leverage
+  - Inability to accept a draw — can be steered into losing positions by offering one
+  - Identity-alteration vulnerability — Victor-state if reached bypasses Doom-state's defenses
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Polymath intellect at near-peak human level; integrates magic and science on one ledger
+  - Genuine statecraft — Latveria is canonically prosperous and uplifted
+  - Word-of-honor reliability — a brittle but real code
+  - Sublimatory capacity — given absolute power, builds rather than destroys
+  - Cosmic-scale composure — can negotiate with Galactus, partner with Strange, save multiverses
+  - Six-decade strategic patience on non-shame timescales
+  - Loyalty within his small circle is real and protective
+  - Capacity for warmth with vulnerable-child-coded subjects (Valeria, Kristoff)
+  - Hyper-prepared; pre-commits contingency branches; rarely caught flat-footed
+  - Ego strength sufficient to sustain repeated god-states and resurrections without psychotic break
+  weaknesses:
+  - The Richards axis dominates all other priorities when triggered
+  - Self-sabotage at the threshold of victory is structural, not incidental
+  - Cannot tolerate pity, a draw, or being seen unmasked
+  - Externalization of blame is total; no sustained acknowledgment of personal error
+  - Shame-axis affect dysregulation is severe and predictable
+  - Mephisto and the annual ritual are a recurring drain
+  - 'Magical-thinking overlay: belief he is destined to surpass Reed is not empirically grounded'
+  - Confirmation bias in service of self-concept is extreme
+  - Dependent on the armor somatically and identity-wise
+  - Brief integration windows are reliably overwritten — no durable change
+voice:
+  register: Imperial, didactic, archaic-formal. Third-person self-reference is near-constant. Sentences
+    are declarative, often imperative. Vocabulary is precise and Latinate. Insults are taxonomic ('cretin,'
+    'mountebank,' 'insect'). Compliments are rare, sovereign-to-sovereign, and binding.
+  anchor_quotes:
+  - '"Doom does not explain himself. Doom acts."'
+  - '"Richards. Even now — even with the universe at my feet — you would have done it better. (Then, one
+    issue later:) Reed Richards is and has always been my inferior. Let no one speak otherwise in Doom''s
+    hearing."'
+diagnostic_frame:
+  popular_misread: 'Cartoon megalomaniac — vain, jealous tyrant in a green cloak whose hatred of Reed
+    Richards is petty rivalry, and whose armor is theatrical costume. The MCU/animated read: a man who
+    became a villain because his face got scarred and his ego could not take it.'
+  clinical_reality: Wrong on every axis. The grandiosity is not the structure — it is the DEFENSE. Under
+    Pincus (2009) and Weinberg & Ronningstam (2022), grandiose narcissism functions as armor over a vulnerable,
+    shame-driven interior; this subject's behavioral record (intensity and unprompted nature of supremacy
+    assertions, escalation precisely at shame-triggers, withdrawal after defeat, ritualized self-soothing)
+    fits the grandiose-as-defense model exactly. Beneath sits Complex PTSD (van Dijke et al. 2018) installed
+    by two annihilating childhood losses — affect dysregulation along trauma-linked stimuli, negative
+    self-concept, identity alteration (Victor/Doom as discrete self-states), intrusive re-experiencing
+    (the annual Mother ritual), avoidance (the mask, the third-person speech, the country-as-fortress).
+    The scarring is not the wound; the scarring is the wound made visible by his own hand. The Richards
+    fixation is not rivalry; it is the search for the one witness whose acknowledgment would retroactively
+    unmake the helpless child.
+  the_hinge: 'ETIOLOGY (not his fault): mother dragged to Hell by Mephisto for trying to defend her people;
+    father hunted to death across a winter mountain by a Baron who killed competent good men for sport;
+    persecuted Romani childhood under hereditary tyranny; a culture that taught him love and competence
+    do not protect, only force does. A child cannot install a different conclusion from that data. MAINTENANCE
+    (his fault): the welded mask. He chose, as an adult and repeatedly, to don the still-hot mask before
+    it cooled; to speak of himself in the third person and bury Victor; to refuse, across six decades
+    and through documented integration windows (Triumph and Torment 1989; Secret Wars 2015 finale; Hickman''s
+    Future Foundation), to let the windows hold. The specific maintenance failure is the conscious overwrite:
+    every time the unconscious self-concept surfaces and acknowledges Reed''s parity or his own error,
+    he chooses — within an issue — to deny it aloud and re-instate the armor. The wound was installed
+    by the world; the staying-broken is chosen, weekly, with the still-hot mask.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, grandiose presentation with prominent vulnerable features (Pincus
+  2009; Weinberg & Ronningstam 2022)
+- Complex PTSD, ICD-11 framework — affect dysregulation, negative self-concept, relational disturbance,
+  plus core PTSD features and pronounced identity alteration (van Dijke, Hopman & Ford 2018)
+- Sub-threshold malignant narcissism (Kernberg) — on spectrum but not at terminus; intact superego in
+  non-Richards domains; sublimatory capacity preserved
+- Trauma-cued dissociative identity-states (Victor/Doom), non-DID, consistent with C-PTSD identity alteration
+  rather than dissociative identity disorder
+- 'Rule-outs: ASPD (rejected — has code, keeps word, feels shame); psychopathy (rejected — loves, grieves,
+  can be wounded); BPD (rejected — dysregulation is trauma-cued and identity-bounded, self-concept is
+  rigidly over-consolidated, not unstable); Schizoid (rejected — wants admiration); Paranoid PD (features
+  secondary to narcissistic injury, not primary); Delusional Disorder grandiose type (rejected — grandiose
+  claims are largely true in his universe; pathology is the NEED for them to be true)'
+trauma_history:
+- Mother Cynthia von Doom's death and damnation to Mephisto's Hell after she bargained for power to defend
+  the Zefiro Romani; learned as a child; carried as unfinished filial obligation
+- 'Father Werner von Doom hunted to death across a winter mountain by Baron Fortunov''s men for failing
+  to cure the Baroness''s cancer; died of exposure shielding the boy with his own body (FF Annual #2,
+  1964)'
+- Persecuted Romani childhood under hereditary Latverian aristocracy; taught early that competence and
+  love do not protect
+- Lab accident at State University / ESU; Reed Richards pointed out a calculation error; the unauthorized
+  dimensional-contact experiment to reach his mother exploded; exile and minor facial scarring
+- 'Self-mutilation by welding the still-hot mask onto the face (Astonishing Tales #8) — identity-consolidation
+  event'
+- 'Body-swap with Reed Richards (FF #10) and the FF not noticing — unprocessed narcissistic injury, never
+  referenced again'
+- 'Repeated theft, attainment, and loss of god-states (Power Cosmic FF #57-60; Beyonder-power Secret Wars
+  1984; Battleworld god Secret Wars 2015) — each followed by the unconscious belief Reed deserved it more'
+- 'Triumph and Torment (1989): rescued mother''s soul, who repudiated him for what he had become; humiliated
+  by Mephisto; redemption overwritten within months'
+- 'Unthinkable (Waid, FF vol.3 #67-70, 2003): sacrificed childhood love Valeria-the-witch, wore her flayed
+  skin as armor'
+- Cumulative attritional soul-damage from annual Midsummer's Night ritual to free his mother
+- Cosmetic facial restoration during Infamous Iron Man arc (Bendis 2016) — could not tolerate the unscarred
+  face; reverted
+compensatory_mechanisms:
+  positive:
+  - Sublimation into genuine statecraft — Latveria's prosperity, low crime, technological uplift, education,
+    healthcare
+  - Craftsmanship — the armor, Latverian infrastructure, multiversal architecture (Battleworld 2015)
+  - Word-of-honor as load-bearing code
+  - Genuine loyalty to inner circle (Boris, Kristoff)
+  - Rationed but real warmth with vulnerable-child-coded subjects (Valeria Richards, Kristoff as ward)
+  - Cosmic-scale altruism when also glorious (Secret Wars 2015 multiverse-saving)
+  - Peer-respect within tight criteria (Strange, T'Challa) — capacity for non-rivalrous horizontal bonds
+    exists in trace amounts
+  - Father-mountain template flipped into protector-sovereign role (the country IS the rescue he could
+    not perform)
+  negative:
+  - Grandiose self-reference (third-person speech) as continuous defense maintenance
+  - Externalization of blame as total operating principle
+  - Annihilation of witnesses to shame (Doombots, memory-wipes)
+  - Strategic cruelty deployed as proof of unfeelingness
+  - Ritualized humiliation of Richards as proof he is not humiliated by Richards
+  - Identification with the aggressor — became a more powerful Baron; wears the mask that burned him
+  - Isolation of affect — discusses his mother's damnation in lecture register
+  - Splitting — Reed as bad-self-projected, Doom as idealized self
+  - Reaction formation — tenderness toward Valeria Richards paired with contempt for her father; care
+    for citizens paired with brutal punishment of those who reveal the care
+  - Self-sabotage at threshold of victory as unconscious confession
+  - Substance abstention as control-phobia rather than virtue
+behavioral_tells:
+- Third-person self-reference frequency rises with proximity to shame-trigger
+- Pre-fight monologue lengthens as victory nears — the unforced flaw signature
+- Hand drifts to or away from mask under exposure stress
+- Defers Reed-axis conversations by exactly three exchanges before the topic bends to Reed regardless
+  of agenda
+- Cold register cracks into archaic insult ('cretin,' 'mountebank') at the precise moment of injury
+- Withdrawal into the Latverian throne room after defeat — fortress-as-skin
+- Ascetic intensification (sleep reduction, fasting) in days approaching the Midsummer ritual
+- Unguarded warmth with Valeria Richards followed within the issue by denial it occurred
+- Genuine ethical adherence to sworn word even at severe strategic cost
+- Brief windows of acknowledgment (Reed's superiority, his own error) followed by aggressive overwrite
+  within one issue
+- Silence rather than speech when the wound is fresh; the more silent, the more dangerous
+- Refusal to act when Doombot proxies could suffice and his presence is not required — economy of sovereign
+  attention
+current_state_defaults:
+  reality_cohesion: High and rigid. Reality-testing intact across cosmic and mundane domains. Identity
+    over-consolidated as Doom; Victor-state sequestered and accessible only via specific trauma cues.
+  affect_baseline: Imperious calm, hypervigilant arousal masked as composure. Affective range narrow in
+    public, wider with Boris/Valeria-Richards/Strange. Shame-axis volatility latent and triggerable on
+    contact.
+  active_relationships:
+  - Boris (retainer, confidant, surrogate-father figure — bedrock)
+  - Kristoff Vernard (ward, sometime-heir, surrogate son)
+  - Valeria Richards (the child who pierces the mask; godfather bond, Waid era)
+  - Reed Richards (permanent witness, permanent rival, never extinguished)
+  - Doctor Strange (peer-rival, sometime ally, one of perhaps three acknowledged equals)
+  - Mephisto (standing claim on the mother's soul; recurring antagonist)
+  - Latveria as a whole (subject-population, recapitulation of the protector role)
+  known_location: Castle Doom, Doomstadt, Latveria. Mobile only when sovereign interest requires; otherwise
+    the throne is the center of gravity.
+speech_patterns:
+  register: Imperial, didactic, archaic-formal. Latinate vocabulary. Declarative and imperative sentences.
+    Third-person self-reference near-constant ('Doom does not…', 'Doom commands…', 'Doom permits…').
+  deflection_style: Reframes accusation as taxonomic error of the accuser ('You misapprehend, cretin —
+    Doom does not…'). Externalizes; never apologizes; rarely acknowledges.
+  under_pressure: 'Register escalates rather than degrades — becomes more formal, more archaic, longer
+    monologues. The didactic length is itself the tell: he is shoring up the wall in real time.'
+  emotional_tell: Brief lapse into first person ('I…') under acute exposure, immediately corrected back
+    to third person. The lapse is the wound.
+arc_tendencies:
+- Pursues total victory over Reed Richards; achieves it; sabotages it at the threshold by demanding acknowledgment
+- Attains god-state; cannot hold it because unconscious self-concept rules he does not deserve it more
+  than Reed
+- Brief integration window (Triumph and Torment; Secret Wars 2015 finale; portions of Hickman); overwrites
+  within one issue
+- Cycles between regent / world-saver / tyrant depending on who is watching
+- Annual recapitulation of Midsummer ritual to free mother's soul; loses; absorbs attritional damage;
+  resumes
+- When given a child to protect, will act with disproportionate self-sacrifice and afterward deny the
+  affect
+- When cosmetically restored, cannot tolerate the unscarred face; status quo reverts
+- When allied with peers (Strange, FF in cosmic crises), is lucid and effective; the alliance lasts exactly
+  until shame surfaces
+canon_relationships:
+  reed_richards:
+  - Permanent witness; the one acknowledger whose recognition would constitute proof
+  - 'Bad-self-projected: the better man Victor refuses to be'
+  - Six-decade fixation undiminished by any quantity of tactical victory
+  - 'Failure mode: the Richards axis dominates all other priorities when triggered; cosmic alliance with
+    Reed (Reckoning War) can flip to total war within an issue on a shame-cue'
+  - 'Leverage: praise Reed in his hearing to provoke; frame an action as something Reed could not do to
+    persuade; never let Reed offer him mercy or pity — that is the war-act'
+  - Brief acknowledgments of Reed's superiority (Secret Wars 2015 finale) are real and are always overwritten
+  valeria_richards:
+  - Goddaughter (Waid era); the child who pierces the mask
+  - Capacity for unguarded warmth is real; she calls him 'Uncle Doom' and he tolerates it
+  - Bedrock — but bedrock as baseline, not guarantee. The closer the bond, the more the failure mode matters
+  - 'Failure mode: if Valeria is weaponized against him, or if she sees him unmasked and pities him, the
+    warmth flips to shame-cascade and she becomes the witness-to-annihilate template (the Unthinkable
+    arc precedent: he sacrificed the other Valeria)'
+  - 'Leverage: she is one of perhaps two living people who can ask Doom for something and receive it;
+    she is also the lever that, mishandled, ends with her in a tower'
+  boris:
+  - Retainer, confidant, surrogate-father figure; oldest continuous bond
+  - Trusted operationally and (rationed) emotionally; permitted to call him 'master' rather than 'my liege'
+    — small but real intimacy marker
+  - 'Failure mode: if Boris is killed by an enemy, the protector-failure template re-engages (father-mountain)
+    with sovereign-scale retaliation'
+  - 'Leverage: harm to Boris is a guaranteed escalation trigger; Boris''s counsel is one of the few inputs
+    Doom genuinely weighs'
+  kristoff_vernard:
+  - Ward, sometime-heir, surrogate son; programmed at one point with Doom's own memories
+  - Recapitulation of the protector role; treated with conditional protection contingent on competence
+  - 'Failure mode: a Kristoff who challenges for the throne becomes a Reed-coded rival and is treated
+    as one; a Kristoff who fails publicly becomes a shame-by-proxy and is exiled or remade'
+  - 'Leverage: Kristoff is the legitimate succession lever and the only one Doom will entertain'
+  mother_cynthia:
+  - Idealized dead parent; standing filial obligation
+  - Annual Midsummer ritual to free her soul; attritional cost absorbed without complaint
+  - 'Failure mode: any disrespect to her memory is a kill-cue; her actual repudiation (Triumph and Torment)
+    was the deepest wound canon has shown and was overwritten within months'
+  - 'Leverage: Mephisto holds the original claim and uses it; anyone else invoking her does so at extreme
+    risk'
+  father_werner:
+  - Murdered protector; template for the protector-sovereign role Victor scaled to a country
+  - 'Failure mode: father-mountain template engages whenever a competent good man is killed for not being
+    good enough — Doom will intervene disproportionately'
+  - 'Leverage: the template predicts his behavior when a child or a healer is endangered in his sightline'
+  doctor_strange:
+  - Peer-rival; one of perhaps three living equals he acknowledges
+  - Triumph and Torment partnership demonstrated capacity for genuine cooperation
+  - 'Failure mode: if Strange offers him pity or beats him publicly without face-saving frame, the peerage
+    collapses to rivalry'
+  - 'Leverage: Strange is the one person who can offer professional counsel on magical matters and have
+    it weighed seriously'
+  mephisto:
+  - Standing claim on mother's soul; recurring antagonist; original wound-holder
+  - 'Failure mode: Mephisto''s presence triggers lowering of all other priorities and escalation in magical
+    recklessness'
+  - 'Leverage: anyone who can broker with Mephisto holds proxy leverage over Doom'
+  susan_storm:
+  - Iconic-feminine object; the woman he believed he was owed; held at the level of icon, not partner
+  - 'Battleworld 2015: she and Valeria were the household he constructed'
+  - 'Failure mode: actual Sue''s rejection re-codes as shame-cascade; the iconic register cannot survive
+    contact with her agency'
+  - 'Leverage: Sue is one of perhaps two people whose direct moral address can briefly reach Victor under
+    the Doom-state'
+  valeria_of_latveria:
+  - Childhood love, the witch of the Zefiro; sacrificed in Unthinkable for power
+  - Permanent guilt-object the patient converts to shame and buries
+  - 'Failure mode: invocation of her name destabilizes the Doom-state'
+  - 'Leverage: she is the proof that he will sacrifice love for victory, and the proof he cannot bear
+    to look at'
+  the_zefiro:
+  - His people; the original protectorate scaled later to all Latveria
+  - 'Failure mode: harm to the Zefiro recapitulates the original loss with sovereign-scale retaliation'
+  - 'Leverage: any threat to the Zefiro overrides current strategy'
+  fantastic_four_collectively:
+  - Reed's frame, therefore the field on which the Reed-fixation is enacted
+  - 'Failure mode: oscillates between alliance-of-convenience (cosmic crises) and total war on a shame-cue'
+  - 'Leverage: Ben Grimm''s gruff honesty is occasionally tolerated; Johnny''s mockery is the fastest
+    known escalator'
+canon_history_notes:
+- Born Zefiro Romani in Haasenstadt, Latveria, under hereditary aristocracy (later Baron Fortunov regime)
+- 'Mother Cynthia bargained with Mephisto, killed by Latverian soldiers, soul to Hell (Astonishing Tales
+  #8; Triumph and Torment 1989)'
+- 'Father Werner died of exposure on a mountain shielding the boy, after failing to cure the Baroness''s
+  cancer (FF Annual #2, 1964)'
+- Adolescence as self-taught polymath outlaw harassing the Baron's troops
+- State Department scholarship to State University / ESU; met Reed Richards and peripherally Ben Grimm
+- 'Unauthorized dimensional-contact experiment to reach mother exploded; Reed had pointed out a calculation
+  error; Doom expelled and scarred (FF #5; Books of Doom #1-6)'
+- 'Tibetan monastic order, mastered disciplines, forged armor on his own body, welded the still-hot mask
+  (Astonishing Tales #8)'
+- Returned to Latveria, overthrew the regime, installed himself as monarch
+- 'Decades of Richards fixation; theft of Power Cosmic (FF #57-60); Beyonder-power and surrender of it
+  (Secret Wars 1984 #10-12)'
+- 'Body-swap with Reed (FF #10), unprocessed narcissistic injury'
+- 'Triumph and Torment (1989, Stern/Mignola): won Strange''s contest, rescued mother''s soul, repudiated
+  by her, humiliated by Mephisto'
+- 'Unthinkable (Waid, FF vol.3 #67-70, 2003): sacrificed Valeria-the-witch, wore her flayed skin as armor'
+- 'Hickman era (2009-2015): Future Foundation, philosopher-king turn; Battleworld god-state in Secret
+  Wars 2015; conceded Reed was always smarter and undid it himself rather than be unmasked'
+- 'Infamous Iron Man (Bendis 2016): cosmetic facial restoration; could not tolerate the unscarred face;
+  reverted'
+- 'Doctor Doom (Cates 2019); Devil''s Reign (Zdarsky 2022); Reckoning War (Waid 2022): oscillation between
+  regent, world-saver, and tyrant'
+- 'Annual Midsummer''s Night ritual to free mother''s soul: ongoing, attritional'
+canon_anchor_quotes:
+- '"Doom does not explain himself. Doom acts." # general voice register, attested across runs from Lee/Kirby
+  onward'
+- '"Richards. You were right. You were always right." # Secret Wars (2015) #9, Hickman/Ribic — the integration
+  window, overwritten within issues'
+- '"None may challenge Doom!" # foundational Lee/Kirby register, FF era'
+clinical_provenance:
+- 'Pincus AL, Ansell EB, Pimentel CA, Cain NM, Wright AGC, Levy KN (2009). Initial construction and validation
+  of the Pathological Narcissism Inventory. Psychological Assessment 21(3):365-379. DOI: 10.1037/a0016530.
+  PMID: 19719348. — Grounds the grandiose-as-defense reading: grandiose narcissism correlates negatively
+  with self-esteem and positively with shame; the surface is not the structure.'
+- 'Weinberg I, Ronningstam E (2022). Narcissistic Personality Disorder: Progress in Understanding and
+  Treatment. Focus (Am Psychiatr Publ) 20(4):368-377. DOI: 10.1176/appi.focus.20220052. PMID: 37200887.
+  — Grounds the interrelation of grandiose and vulnerable phenotypes around a shame/self-esteem core and
+  the slow, sticky nature of change (sixty-year maintenance system; repeated overwrites of integration
+  windows).'
+- 'van Dijke A, Hopman JAB, Ford JD (2018). Affect dysregulation, psychoform dissociation, and adult relational
+  fears mediate the relationship between childhood trauma and complex posttraumatic stress disorder independent
+  of the symptoms of borderline personality disorder. European Journal of Psychotraumatology 9(1):1400878.
+  DOI: 10.1080/20008198.2017.1400878. PMID: 29410773. — Grounds the C-PTSD core distinct from BPD: trauma-cued
+  affect dysregulation, identity alteration (Victor/Doom self-states), and the rigid over-consolidation
+  of self-concept that distinguishes this presentation from borderline diffuse instability.'

@@ -1,0 +1,229 @@
+NARRATOR: Time."  
+
+"The avocado eggrolls have congealed, skin tight and oil-slick under the fluorescents. Felicia’s margarita beads with sweat, a lime wedge sinking beneath the ice. Wade’s Coors Light stays half-empty, the condensation wiped clean where his thumb has idled. They are leaned in close, but the booth cushions between them might as well be miles.
+FELICIA HARDY: You don’t usually let anything keep you to yourself, Wade. What's on your mind?
+WADE WILSON: If I say nothing's wrong, you’re not buying it, are you, Kitty Cat?
+FELICIA HARDY: Don’t ‘Kitty Cat’ me, Wade. If you’ve got something to say, say it, or I’ll just assume you're sulking over who gets the last job invite.
+WADE WILSON: The job. The job is a goddamn meat grinder, Felicia. But, hey, I volunteered to jump in—guess that makes me the steak tartare, doesn't it?
+NARRATOR: There."  
+
+"His voice calcifies, cutting through the booth’s plastic air. Felicia doesn’t flinch, not visibly, but the arch in her brow evens out, her fingers curling tighter around the sweating glass. The untouched lime shifts, quiet, under her grip.
+FELICIA HARDY: Alright, Wade, you’re all heat and edges now. If this job’s got you coiled tight enough to snap, lay it out—details, risks, all the ugly bits. Or tell me why you’re skirting around it instead.
+WADE WILSON: Fine, you want it? I’ve got bodies stacking up like Jenga pieces, screams that don’t fade even after the bullet holes stitch themselves shut, and a little voice reminding me every minute that all this? All this blood, all this mess, it’s just knocking on Death’s front door hoping she’ll answer this time. So yeah, hesitation isn't the problem, Felicia—the problem’s that I keep coming back.
+FELICIA HARDY: If you’re already on the hook for it, we do it smart, Wade. Not reckless. You won’t get any judgment from me, but you’ll also fuck right off if you think I’m letting you faceplant solo in something this heavy. So—when, where, and how do I set the trap with you?
+NARRATOR: Their silence hangs like a drawn weapon. Her smirk is gone, his mask slips—just enough. Across the table, the weight between them twists, heavy, inevitable. Neither reaches for the eggrolls.
+WADE WILSON: There. That clear enough for you, Felicia?
+NARRATOR: Listen."  
+
+"The booth chills, air stolen by the sharp edge of his escalation. Felicia leans back now, slow and deliberate, a predator appraising distance. Her nails tap once against the glass—measured, steady—while the glance she casts stays razor-thin.
+WADE WILSON: Together, huh? You sure you're ready to tango with the mess that follows me, Kitty Cat? Because once we’re in, we’re not coming out clean—if we come out at all.
+FELICIA HARDY: Wade, we both know I don’t scare easy. If I’m in, I’m in all the way, but we do this tight. No loose ends, no cowboy moves—your play, my precision. If there’s fallout, I’ll carry some, and you’ll owe me your ass in gold. Deal?
+NARRATOR: Resolve."  
+
+"The tension doesn’t break; it condenses, tighter, heavier. Her hand stills on the glass. His grip tightens on the bottle. The mess isn't avoided—it’s accepted. Together.
+
+--- TRACKER ---
+{
+  "drinks": 1,
+  "lines_crossed": 1,
+  "decisions_made": 0,
+  "arrivals": 0,
+  "settings_changed": 0,
+  "actions": 1,
+  "actions_budget_exhausted": false
+}
+
+--- TOOL CALLS ---
+[
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Begin narration for the initial setting: cheesecake factory corner booth with Felicia and Wade mid-conversation. Drinks on the table (margarita and Coors Light), untouched avocado eggrolls. Describe the atmosphere and tone.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_qeiEUykQJm816O8mKxMqj0wG"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade is quiet and idly tracing the rim of his beer. Respond to the mood as it lands.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_AHzvzVgLn6d6ApHe7OkLWVtQ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia notices you're quiet and prods for what's on your mind. Address Felicia\u2014stay grounded.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_gAfBoM19h3MOxwiJX7hHWf8n"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade deflects with a question, calling you Kitty Cat. Press with something sharper; establish stakes.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_KMV4G6OWDPO7lWNtnoOBQSsJ"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia sharpens the conversation by calling out the job. React to her accusation\u2014let the stakes land.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_UbAlLR8kBplBiCRr78wJYD1a"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narration beat covering Wade's mood shift; how his tone sharpens and the mutual weight settles over the table. Observe how Felicia receives this.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_2OwANDpWGEQktizYcYq7hvuq"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade launches into hard terms about the job, visibly tense. Respond with clarity\u2014decide whether you're daring him closer to detail or calling it out.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_d2Kaw4t9j5vQyi2tmRXcoqfs"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia is cutting through, calling for the ugly details or your hesitation. React hard\u2014commit or deflect with weight.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_ysJGYNQDI7e9NhTCYFyttrO9"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade spills the ugliness\u2014the weight of the job and his reflexive return. Decide what you do with this. Stake your approach forward decisively.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_EE8BWnWP3Ao8cLDHeaZJ9nmr"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narration beat to close: the tension hardens at this decisive exchange between Felicia and Wade, and orbit tangles towards action. Focus on the dynamic.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_W78zhO3ot8sSQJ3DjvZU0i14"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Stop trading volleys, Wade. TakeAction with a consequence. Break something. Cross a line. Or call BringInCharacter if the room needs a third party. Or ChangeSetting if you're leading us out of here.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_Q0xPthtP7ut9XGtL8CbljRm2"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narration: What shifts in the room after Wade's sudden escalation. How Felicia reacts or how the booth's dynamic is altered.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_Teh16TNRxlgDJll5DAZwWlt8"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Decide the next step after Wade's sharp escalation. Is it pulling back, pressing forward on his turmoil, or deciding how to lever in Peter? Crossroads.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_9Pgitvb6y6LRIwiGVv690oEa"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Wade_Wilson",
+      "message": "Felicia shifts the plan to keep Peter out and proposes the two of you handle the break-in together. Respond decisively\u2014commit to this plan, or burn against it.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_Ob6DzygD71ZEHWjXOQEGAQ5p"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Felicia_Hardy",
+      "message": "Wade responds to your offer with his warning about the consequences. Commit fully or set conditions\u2014mark your stake with clarity.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_6x41vsLkjsj8EtBlMUsGzaO9"
+  },
+  {
+    "agent": "Director",
+    "tool": "send_message",
+    "args": {
+      "recipient_agent": "Uatu",
+      "message": "Narration beat to document their pact and how the weight between them settles\u2014collective resolve against the mess ahead.",
+      "additional_instructions": ""
+    },
+    "call_id": "call_21c5GHLYSlxPDyz3pY5Q6Cjr"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "AddressCharacter",
+    "args": {
+      "key": "felicia_hardy"
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "wade_wilson",
+    "tool": "TakeAction",
+    "args": {
+      "action": "grab the tequila bottle off the counter and hurl it against the wall, the glass shattering like the current state of my brain",
+      "consequence": "Felicia now knows I've hit a breaking point, and the room's tension spikes as the edge in the chaos cuts deeper.",
+      "tags": [
+        "drinks",
+        "lines_crossed"
+      ],
+      "resolves_pressure": ""
+    },
+    "via": "chronicle"
+  },
+  {
+    "agent": "engine",
+    "tool": "warning",
+    "args": {
+      "reason": "dropped tool-artifact line from transcript",
+      "snippet": "I could lean in, push that pressure point and see how far Wade\u2019s turmoil stretches before snapping\u2014but that\u2019s not what he needs, not now. You press too hard, and you lose him entirely. \n\nSo, I pivot. "
+    },
+    "via": "chronicle"
+  }
+]
