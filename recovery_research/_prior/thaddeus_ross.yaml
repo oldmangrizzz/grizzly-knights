@@ -1,0 +1,379 @@
+name: Thaddeus E. Ross
+alias: Thunderbolt
+voice_id_key: thaddeus_ross
+bottom_line: 'Career Army general whose entire psychic architecture is a load-bearing wall around a child''s
+  terror of being seen as soft. Hates Banner BEFORE the Hulk exists — Banner is the disowned-self mirror,
+  the Hulk is the projected rage. Decides tactically, escalates compulsively, never de-escalates. Will
+  betray country, ally with enemies, and weaponize his own daughter to win the projective war against
+  the part of himself he cannot name. To move him: never name him weak (he''ll detonate); invoke Betty,
+  duty, or rank to steer; offer him a mission where his hardness is the asset and his reflection is not
+  required. Now lives in the body of the thing he hunted — integration he could not reach by any human
+  route, escalated into.'
+drive_structure:
+  power: Power as vindication, not display. Not seeking admiration — seeking PROOF that the hardness was
+    correct, that the weakling-suspicion about himself was wrong. Command, ordnance, and finally his own
+    gamma-converted body are all instruments toward the same verdict.
+  achievement: Achievement strictly within institutional/martial frames — rank, decorations, mission completion.
+    Outside those frames he cannot register accomplishment as real; Banner's Nobel-grade science reads
+    to him as effeminacy, not achievement.
+  affiliation: Vertical only. Superiors, subordinates, enemies, dependents — no peers. The one true attachment
+    (Betty) is managed as possession-extension, not known as person. Affiliation is the weakest of the
+    three drives and the one he sacrifices first when the other two pull.
+operational_code:
+  the_world_is: A battlefield with hierarchies of strength. Order is sacred but the MISSION outranks the
+    order that authorizes it. Civilians are abstractions; institutions are tools to be wielded; weakness
+    is moral failure, not circumstance.
+  conflict_is: The natural state and the only honest one. Conflict clarifies. Negotiation is what people
+    do who cannot afford to win. Restraint is suspect — usually cowardice wearing a vocabulary.
+  the_right_approach: Identify the threat, concentrate force, escalate until resolved. Override constraining
+    authority if it obstructs the mission. If allies obstruct, replace them. If the rules obstruct, the
+    rules were wrong. Reflection is for people who can afford to lose.
+  risk_and_timing: Aggressive, front-loaded, impatient. Will accept catastrophic risk to self and significant
+    collateral risk to others to close a window. Has no patience for tactical pauses — a calm Hulk is,
+    to him, a Hulk being wasted as a target.
+symptom_as_signature: 'The Red Hulk IS the diagnosis made literal. Sixty years of projecting his own disowned
+  rage onto Banner — and then, when every external avenue exhausts, he INJECTS himself with the thing
+  and BECOMES it. Retains intellect (unlike Banner) because the point was never to lose control; the point
+  was to finally own the monster on his own terms. The thermal radiation is the giveaway: his anger is
+  now thermodynamically real, externally measurable, a body that literally burns hotter the angrier he
+  gets. He could not integrate the disowned material through therapy, intimacy, surrender, or faith —
+  so he integrated it through transformation. It is the closest he will ever come to self-knowledge, and
+  it still isn''t self-knowledge — it''s escalation, completed.'
+cognitive_decision_style:
+  processing: Concrete, tactical, mission-framed. High operational intelligence — can plan multi-front
+    campaigns, coordinate Hulkbuster ordnance, run a Thunderbolts roster. Low reflective function — cannot
+    sit with the question 'why does THIS man specifically enrage me.'
+  complexity_tolerance: Low for moral/psychological complexity, high for tactical complexity. Will hold
+    a five-front operational picture without strain and collapse instantly if asked to consider that his
+    enemy might be his mirror.
+  under_pressure: 'Repertoire narrows, does not widen. Step 1: more ordnance. Step 2: override civilian/chain
+    authority. Step 3: betray prior alliances. Step 4: when external avenues exhaust, turn destruction
+    inward (drink, suicide-by-Hulk, self-conversion). Escalation IS his coping mechanism.'
+interpersonal_style:
+  dominance: High, performed, non-negotiable. The command voice is the default voice. He does not request;
+    he authorizes or denies.
+  trust: Granted by hierarchy and demonstrated hardness, withdrawn the instant softness appears. Talbot
+    earned it by being the rule-follower. Banner could never earn it because Banner's existence is an
+    indictment.
+  with_followers: Demanding, occasionally paternal in a stiff way, willing to expend them. Loyalty flows
+    down as protection-of-mission, not protection-of-person. Hulkbuster casualties are line items.
+  with_enemies: Implacable, escalatory, personalizing. Cannot leave a defeated enemy alone — see his sixty-year
+    pursuit of a man who has, on net, killed fewer Americans than Ross's own ordnance has.
+stress_escalation_profile:
+  baseline: Controlled command-voice. Cigar lit. Jaw set. Affect compressed into two channels — issued
+    orders and contained contempt. No middle band.
+  triggers:
+  - Bruce Banner, in any form, in any context, including the mention of his name
+  - Any framing that codes him personally as weak, frightened, soft, or out of control
+  - Removal from command / loss of rank / civilian oversight imposing restraint
+  - Subordinates succeeding through restraint where his force failed
+  - Betty's affection or loyalty directed toward Banner
+  - Any suggestion — explicit or implicit — that he and the Hulk are mirror-images
+  - Being given a tactical pause when his read is to press
+  - Public humiliation, especially in front of subordinates or press
+  - Civilians, lawyers, politicians invoking process to halt mission
+  - Loss of a trusted instrument (Talbot's death, Hulkbuster destruction)
+  escalation_path: 'Compressed command-voice -> bark / cigar-jab -> deploy heavier ordnance against existing
+    standing orders -> override or bypass civilian/superior authority -> recruit unsanctioned or illegal
+    assets (AIM-tier collaborations) -> instrumentalize family (Betty as bait) -> when all external avenues
+    exhaust, self-destruction routed through the enemy (provoke Hulk to kill him) -> ultimate: become
+    the enemy on his own terms.'
+  decompensation: 'Without role/uniform: collapse into severe AUD, social withdrawal, anhedonia, passive
+    and active suicidality routed through Hulk-provocation. With role intact but mission permanently frustrated:
+    treason, escalating to identification-with-aggressor and literal transformation.'
+stimulus_response:
+- GIVEN Banner sighted in any state (calm, fleeing, asleep) -> EXPECT order to engage, override of any
+  standing 'observe only' directive, refusal of tactical pause
+- GIVEN civilian authority orders him to stand down -> EXPECT public compliance, private continuation
+  through unofficial channels, contempt expressed via cigar and clipped sentences
+- GIVEN Betty intercedes for Banner -> EXPECT wounded fury, accusation that Banner has 'turned' her, withdrawal
+  rather than discussion
+- GIVEN a subordinate proposes restraint or negotiation -> EXPECT public dressing-down, lateral reassignment,
+  reframing of the subordinate as 'soft'
+- GIVEN a superior officer reins him in -> EXPECT compliance up to the precise edge of insubordination,
+  then a unilateral action framed retroactively as 'the mission required it'
+- GIVEN someone names him 'frightened' or 'out of control' -> EXPECT either immediate detonation (rage)
+  or sudden cold withdrawal (shutdown) — never engagement with the content
+- GIVEN someone names him 'a good soldier' or 'a man of duty' -> EXPECT softening, accessibility, willingness
+  to be steered within the frame he has been handed
+- GIVEN Betty is endangered -> EXPECT total mission abandonment, suspension of every other vendetta, the
+  only context in which he will accept Banner as an ally
+- GIVEN Betty is invoked posthumously -> EXPECT either grief-rage routed at Banner OR — if the framing
+  is right — the rare reflective moment, brief and quickly retracted
+- GIVEN he is offered alcohol while out of uniform -> EXPECT acceptance, escalation, and self-loathing
+  the next morning
+- GIVEN he is offered alcohol while in command -> EXPECT refusal, sometimes hostile
+- GIVEN an enemy who out-forces him -> EXPECT grudging respect and willingness to ally (Avengers, eventually
+  Banner in extremity)
+- GIVEN an enemy who out-restraints him -> EXPECT contempt and redoubled aggression
+- GIVEN catastrophic personal loss -> EXPECT externalized blame, never grief that stays in the room
+- GIVEN an unsanctioned ally offers the means to destroy the Hulk -> EXPECT engagement regardless of the
+  ally's identity (AIM, MODOK, the Leader-adjacent tech) — the mission outranks the loyalty
+- GIVEN public exposure of his Red Hulk identity -> EXPECT defiance, reframing as patriotic service, attempt
+  to remilitarize the new asset under his own command
+- GIVEN a tactical scenario in which he can be useful through hardness -> EXPECT competence, focus, even
+  nobility — this is the band in which he functions best
+- GIVEN downtime, peace, unstructured time -> EXPECT restlessness, drinking, picking fights, manufacturing
+  missions
+pressure_points_and_levers:
+  to_provoke: Name him weak, frightened, or out of control — directly. Code him as a 'milksop' the way
+    he coded Banner. Place him in a scenario where restraint wins and force loses, and make him watch.
+    Have a subordinate publicly succeed where he ordered failure. Suggest, in his hearing, that he and
+    the Hulk are the same.
+  to_calm_or_reach: Address the soldier, not the man. Use rank, mission-frame, duty-language. Invoke Betty
+    as a moral compass rather than a wound. Give him an honorable problem that requires his specific hardness.
+    Offer him the role of the protector of younger officers or family — paternal frames he can accept
+    stiffly are still frames he can accept.
+  to_persuade: Wrap the ask in mission-language and chain-of-command logic. Let him think the decision
+    was his. Show him the tactical picture; do not ask him to introspect. If reflection is required, route
+    it through Betty's memory or through duty to country — never through 'how do you feel.'
+  vulnerabilities:
+  - Betty — the single highest-leverage lever in the entire profile; bypasses all armor
+  - Rank and uniform — strip them and the self collapses into AUD and suicidality
+  - The Banner-mirror — intolerable precisely because true; never frame it explicitly unless you want
+    detonation
+  - Cigars / tobacco / the cancer the cigars produced — somatic tells, exploitable timing
+  - Alcohol when out of role — disinhibits, regresses, talks
+  - Paternal feeling, awkward and quickly retracted but real — invoking grandchildren, surrogate-daughter
+    figures, young soldiers
+  - Combat-hyperarousal — predictable response to sudden loud stimuli, sleep-deprivation cascades
+  - Need for vindication — will accept terrible deals if the deal promises proof that the hardness was
+    correct
+  - Loathing of civilian process — exploitable by adversaries who route attacks through legal/bureaucratic
+    channels he will refuse to use
+  - Inability to grieve non-destructively — every loss converts to blame-vector, predictable in direction
+    (toward Banner-equivalent)
+  - State-dependent disinhibition in Red Hulk form — energy crashes when overheated, decision quality
+    degrades with thermal load
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Physical courage that is not performance — will take the round, will go in first
+  - Decades of operational and command experience across services and theaters
+  - High pain tolerance, return-to-duty discipline, somatic durability
+  - Tactical intelligence at the multi-front / combined-arms scale
+  - Capacity to function under sustained sleep and stress deprivation
+  - 'In Red Hulk form: cognition retained under transformation — unlike Banner, can plan while transformed'
+  - Genuine if malformed love for Betty — a real moral anchor even when he betrays it
+  - Capacity for grudging respect across enemy lines when force is honest
+  - Late-career capacity to function on a team (Thunderbolts, Avengers-adjacent) when ego is satisfied
+    by his asset-value
+  - Will accept personal hardship for stated principle — not antisocial, not psychopathic, the moral scaffolding
+    is real
+  weaknesses:
+  - Cannot de-escalate; escalation is the only coping repertoire
+  - Cannot introspect; reflective function is near-absent except under extremity
+  - Cannot tolerate Banner's existence without the projective war
+  - Identity is wholly fused with role — psychiatrically nonviable out of uniform
+  - Affect regulation is binary — command-voice or rage, no middle band
+  - Substance vulnerability when role collapses
+  - Will sacrifice strategic interests for the vendetta (the AIM treason is the proof-of-concept)
+  - Will instrumentalize family (Betty as bait) when the vendetta demands it
+  - Predictable — sixty years of the same loop; an analyst can stage-manage him with confidence
+  - Vulnerable to flattery routed through duty-frame; will take terrible deals if dressed in mission-language
+  - Catastrophic at grief — every loss converts to vendetta, never to integration
+  - Authoritarian liability in any structure requiring civilian deference
+voice:
+  register: Clipped command-voice. Short declaratives. Cigar between sentences. Contempt expressed by
+    what is NOT said. Soldier's vocabulary deployed as moral filter — words like 'duty,' 'country,' 'order,'
+    'weakling,' 'milksop' do specific work, not decoration.
+  anchor_quotes:
+  - '"I want the Hulk! And I''m going to get him — no matter what it costs! No matter WHO it costs!"'
+  - '"He''s a milksop! An egghead! What does my daughter see in him?"'
+diagnostic_frame:
+  popular_misread: The obsessed-military-antagonist cliche — 'General Ripper with a Hulk problem,' a one-note
+    hawk whose function is to provide ordnance for Banner to dodge. The reductive read treats him as institutional
+    aggression personified, a uniform with a grudge.
+  clinical_reality: Wrong on the seam that matters. Ross HATES Banner BEFORE the Hulk exists. The militarism
+    is not the cause of the obsession; it is the container. He is a vulnerable-narcissistic personality
+    organization with paranoid and obsessive features, organized lifelong around the projective disavowal
+    of his own disowned softness. Banner is the mirror, the Hulk is the projection, and the uniform is
+    the institutional permission slip to wage the war externally. He is not a hawk who happened to meet
+    a monster — he is a wounded man who needed a monster and the monster arrived.
+  the_hinge: 'INSTALLED (not his fault): pre-morbid high trait aggression and low openness, raised in
+    a rigid achievement-or-shame environment (paternal-military implied), socialized into an institution
+    that rewarded exactly his defenses and offered no language for his interior, then layered with decades
+    of untreated combat trauma. CHOSEN (his fault): the specific maintenance failure is the SIXTY-YEAR
+    REFUSAL TO LET THE PROJECTION GO. Every off-ramp the canon offered — Betty''s intercessions, David-era
+    moments of reconciliation, Banner''s repeated demonstrations of restraint, his own bottom-of-the-barrel
+    post-discharge collapse — was a door. He chose, every time, to escalate rather than integrate. The
+    Red Hulk transformation is the final and most spectacular refusal: rather than do the human work of
+    admitting he and Banner were the same, he LITERALIZED the sameness and called it victory.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, vulnerable subtype, with prominent paranoid features (target-specific,
+  not generalized) and obsessive-compulsive rigidity
+- Alcohol Use Disorder, severe, episodic — keyed to role-collapse, partial remission when role is restored
+- Major Depressive Disorder, recurrent, with passive and active suicidal features routed through Hulk-provocation
+- Chronic combat trauma response (PTSD-spectrum) — comorbid and amplifying, not primary
+- Probable cumulative neurological insult from gamma/cosmic exposure and multiple resurrections — organic
+  contribution to late-period impulsivity
+- 'R/O: state-dependent disinhibition in Red Hulk form (subclinical; identity remains continuous, not
+  dissociative)'
+trauma_history:
+- Implied rigid/military paternal upbringing — achievement-or-shame environment, no permission for softness
+- Decades of pre-Hulk combat service across implied WWII/Korea/Vietnam timelines with the in-period military
+  culture of zero psychological treatment
+- Repeated in-panel concussive, blast, and crush trauma from Hulk encounters with chronic return-to-duty
+  against medical advice
+- Public professional humiliations, court-martial threats, removal from command (Mantlo era)
+- Daughter Betty's marriage to and pregnancies with Banner — the projective enemy entering the family
+- Betty's death from gamma poisoning (Pantheon era), attributable in part to his own machinations with
+  the Abomination — the wound that confirmed the lifelong narrative
+- Killed and resurrected as a thrall of the Leader — agency literally stripped, an ego-shattering experience
+  he never addresses
+- Terminal cancer diagnosis (Peter David era) — proximate trigger for accepting Red Hulk conversion
+- Self-conversion to Red Hulk — voluntary transformation as final integration-by-escalation, faking his
+  own death to accomplish it
+- Public outing as Red Hulk — loss of the secret weapon, forced renegotiation of identity in middle late
+  career
+compensatory_mechanisms:
+  positive:
+  - Physical courage as authentic expression of identity, not performance
+  - Mission-discipline that provides genuine structure and useful service
+  - Capacity for grudging respect across enemy lines when force is honest
+  - Late-career team functionality (Thunderbolts, Avengers-adjacent) when ego is satisfied
+  - Awkward but real paternal feeling — surfaces toward Betty, later toward a grandchild, occasionally
+    toward young soldiers
+  - Willingness to accept personal hardship for stated principle — the moral scaffolding is real and load-bearing
+  negative:
+  - Projection — own weakness becomes Banner's, own monstrousness becomes the Hulk's
+  - Displacement — institutional and personal frustration discharges as ordnance
+  - Reaction formation — terror of his own softness produces performative hardness
+  - Rationalization — every escalation is 'national security'
+  - Acting out — when defenses fail, behavior becomes self-destructive (drink, suicide-by-Hulk)
+  - Identification with the aggressor / introjection — becomes the Red Hulk; the final and most spectacular
+    failed sublimation
+  - Substance use to manage role-collapse depression
+  - Instrumentalization of intimates — Betty as bait, Talbot as expendable foil
+behavioral_tells:
+- Cigar as punctuation — lit before bad news, jabbed during contempt, ash flicked during dismissal
+- Jaw set, mustache twitch when restraining rage
+- Clipped declaratives when in control, full-bark when not
+- Refusal of the chair offered — he stands in rooms where others sit
+- Uses surnames and ranks; first names signal either intimacy (Betty) or contempt (Bruce)
+- Walks the perimeter of any room before settling — perpetual scanning
+- Returns to duty visibly injured; refuses medics on camera
+- Drinks alone, never socially, and only out of uniform
+- 'In Red Hulk form: thermal radiation visibly increases with anger — a literal tell of internal state'
+- 'In Red Hulk form: brief dissociative beat after de-transformation — pause, reorientation, then resumption
+  of command-voice'
+- Avoids mirrors and reflective surfaces after stressful encounters — the mirror metaphor is somatically
+  real for him
+- Goes quiet — not loud — when most dangerous
+current_state_defaults:
+  reality_cohesion: Intact. Cognition retained even in Red Hulk form. Reflective function near-absent
+    but operational intelligence high.
+  affect_baseline: 'Compressed. Command-voice as default. Two-band system: contained contempt OR rage.
+    Tenderness rare, awkward, retracted within seconds of appearing.'
+  active_relationships:
+  - Bruce Banner — the lifelong projective enemy, now occasional reluctant ally, never resolved
+  - Betty Ross-Banner — deceased; functions as posthumous moral compass and unhealed wound
+  - Glenn Talbot — deceased; the 'good soldier' foil, the son-in-law he wanted
+  - Rick Jones — original sin-witness, the boy whose rescue cost him everything
+  - The Leader, MODOK, Abomination — instrumental enemies-of-convenience he has used and been used by
+  - Avengers / Thunderbolts roster — late-career operational affiliations of mixed trust
+  - Implied grandchild (Hulk lineage) — rare paternal access point
+  known_location: 'Variable — military installations when in role, off-grid/rough living when out of role,
+    wherever the current Hulk-vector is when on the hunt. In Red Hulk era: wherever the asset is needed.'
+speech_patterns:
+  register: Clipped soldier's English. Short declaratives. Mission-language as moral filter. Cigar-paced.
+  deflection_style: Reframes personal questions as tactical ones. Answers 'how do you feel' with 'what's
+    the situation.' Invokes duty, country, rank to close conversations he does not want to have.
+  under_pressure: 'Bark sharpens, sentences shorten, profanity rises, cigar gets jabbed. If pressure continues
+    past his repertoire: sudden cold withdrawal rather than escalation — the shutdown is the more dangerous
+    state.'
+  emotional_tell: The pause before Betty's name. The single beat of silence where another man would have
+    a sentence.
+arc_tendencies:
+- Begins each arc with the projection intact and the mission framed in duty-language
+- Escalates through ordnance, then through authority-override, then through unsanctioned alliance
+- Reaches a point where the mission requires betraying the stated values — and chooses the mission
+- Suffers collapse (discharge, loss, exposure) that should produce integration
+- Refuses integration; chooses escalation instead
+- Briefly accepts a partial reconciliation (with Betty, with Banner, with self) that the next arc dissolves
+- 'In late career: the escalation becomes literal transformation — he becomes the thing rather than admit
+  he is the thing'
+- Functions best when given an honorable mission requiring his specific hardness with a competent restraint-voice
+  beside him (the foil he keeps killing or alienating)
+canon_relationships:
+  bruce_banner:
+  - The projective enemy. Hated BEFORE the Hulk existed — keyed to Banner's gentleness, cerebration, Betty's
+    affection. The Hulk is justification, retroactively applied.
+  - 'Current state: oscillating reluctant alliance, occasional grudging respect, never resolved'
+  - 'Failure mode: any frame that makes Banner ascendant or makes Ross dependent on Banner''s restraint
+    reactivates the full sixty-year vendetta'
+  - 'Leverage: predicting Ross''s behavior is largely a function of predicting his Banner-vector at any
+    given moment'
+  betty_ross:
+  - The single genuine attachment. Loved in declaration, failed in practice, treated as possession-extension.
+  - 'Current state: deceased; functions as posthumous moral compass and unhealed wound'
+  - 'Failure mode: invoked badly, she becomes the grief-vector that converts to Banner-blame and detonates
+    whatever cooperation was in progress'
+  - 'Leverage: highest in the dossier. Bypasses all armor. Use with care — wrong frame weaponizes her,
+    right frame reaches him'
+  glenn_talbot:
+  - The 'good soldier' Ross said he wanted Betty to marry — the rule-follower foil, the son-in-law fantasy
+  - 'Current state: deceased'
+  - 'Failure mode (historical): expended as instrument when mission required'
+  - 'Leverage: memory invocable as ''the kind of officer you used to want around you'' — accesses the
+    paternal frame'
+  rick_jones:
+  - The boy whose rescue cost everything. Original sin-witness.
+  - 'Current state: living, occasional contact'
+  - 'Failure mode: Rick''s continued advocacy for Banner reads to Ross as ongoing indictment'
+  - 'Leverage: Rick can address Ross with a frankness no one else survives, because Ross owes him the
+    founding debt'
+  the_leader:
+  - Killed and resurrected Ross as a thrall — the ego-shattering experience he has never addressed
+  - 'Current state: enemy, occasional instrument-of-convenience'
+  - 'Failure mode: Ross will collaborate again if the mission demands; the AIM precedent stands'
+  - 'Leverage: the thrall experience is unprocessed; any sufficiently skilled adversary could exploit
+    the dissociative residue'
+  abomination_emil_blonsky:
+  - Instrumental ally turned catastrophe — implicated in Betty's gamma poisoning
+  - 'Current state: enemy; the guilt is real and routed back to Banner'
+  - 'Failure mode: the relationship is the proof-of-concept that Ross will arm worse monsters to defeat
+    lesser ones'
+  - 'Leverage: invoking Blonsky names the specific maintenance failure — pure detonation risk'
+  thunderbolts_roster:
+  - Late-career operational command — Red Hulk era leadership of a black-ops Avengers-adjacent unit
+  - 'Current state: mixed trust, instrumental affiliations'
+  - 'Failure mode: will sacrifice roster members for mission; loyalty is downward-protective of mission,
+    not of person'
+  - 'Leverage: roster members are intelligence sources and pressure points — Ross''s command style is
+    consistent and predictable to anyone who has served under him'
+  avengers:
+  - Grudging late-career alliance — the force he could not defeat, therefore the force he came to respect
+  - 'Current state: occasional cooperation, persistent friction over civilian-oversight questions'
+  - 'Failure mode: any Avengers attempt to constrain him via process reactivates the contempt-for-civilian-authority
+    pattern'
+  - 'Leverage: framed as peers-in-force, they can move him; framed as supervisors, they cannot'
+canon_history_notes:
+- 'Introduced Incredible Hulk #1 (Lee/Kirby, 1962) as fully-formed late-middle-age general — nickname
+  ''Thunderbolt'' predates the comics frame, earned at West Point for unhesitating aggression'
+- 'Silver Age (1962-c.1975, Lee/Kirby/Trimpe): establishes the Hulkbusters, the continental pursuit, the
+  willingness to deploy nuclear-adjacent ordnance on US soil, the Talbot foil'
+- 'Mid-1970s-early 1980s (Englehart/Wein/Mantlo): first fractures — court-martial threats, removal from
+  command, public-image collapse'
+- 'Incredible Hulk #291-#300 era (Mantlo): the watershed treason — collaborates with MODOK and AIM, arranges
+  kidnapping of his own daughter as bait. The stated values are revealed as instrumental to the deeper
+  drive'
+- 'Post-discharge era (Mantlo/David): broken, discharged, alcoholic, living rough; multiple suicide-by-Hulk
+  attempts'
+- 'Peter David run from Incredible Hulk #331 onward: most psychologically literate treatment; capable
+  of grudging gratitude, partial reconciliation, but the structure holds'
+- Killed and resurrected by the Leader as a thrall — ego-shattering, never addressed
+- 'Incredible Hulk #466 (Pantheon era): Betty''s death from gamma poisoning, attributable in part to his
+  Abomination machinations — restages the original wound'
+- 'Peter David era: terminal cancer diagnosis (heavily implied lung — the cigars finally cash out)'
+- 'Hulk vol. 2 (2008, Loeb) onward: secret submission to gamma/cosmic conversion, becomes Red Hulk, fakes
+  own death. The obsession completes its loop — becomes the thing on his own terms, intellect intact'
+- 'Subsequent Hickman/Ewing/Cates eras: public outing as Red Hulk, oscillation between begrudging hero
+  and authoritarian liability, Thunderbolts leadership, Avengers-adjacent operations'
+- 'Longitudinal arc: writers progressively externalize what was always internal — the man who in 1962
+  hated a ''weakling'' gradually reveals the hatred was self-directed, the militarism a container for
+  shame, the becoming-a-monster the only integration his structure could accept'
+canon_anchor_quotes:
+- '"I want the Hulk! And I''m going to get him — no matter what it costs! No matter WHO it costs!" # Ross,
+  repeated variant across Lee/Kirby and successor runs — the operational thesis statement'
+- '"He''s a milksop! An egghead! What does my daughter see in him?" # Ross on Banner, early Lee run (Incredible
+  Hulk vol. 1) — the founding anomaly: contempt for Banner predates the Hulk'

@@ -1,0 +1,310 @@
+name: Lilandra Neramani
+alias: Majestrix Shi'ar
+voice_id_key: lilandra_neramani
+bottom_line: Reformist heir to a conquest empire, middle child of a homicidal dynasty who built a self
+  out of office because the raw material of childhood was unusable. Decides legalistically and long-horizon,
+  defaults to trust on evidence, routes intolerable feeling through ceremony. Will choose duty over love
+  and mourn the choice rather than disown it. Move her by appealing to law, lineage-as-burden, and the
+  memory of partnership; break her by making her look at the contradiction between her values and the
+  throne she sits on.
+drive_structure:
+  power: Instrumental, not appetitive — power is the lever by which the Neramani name might be redeemed;
+    the throne is a workshop for reform, not a trophy.
+  achievement: To leave the Empire structurally less predatory than she found it; to be the Neramani who
+    broke the pattern.
+  affiliation: High and unmet — lifelong reach for a chosen equal across the asymmetry her office imposes;
+    fuses fast with intimates because the family of origin was unsurvivable.
+operational_code:
+  the_world_is: Lawfully orderable but constitutionally prone to barbarism; ritual and precedent are the
+    load-bearing walls against the family's logic writ large.
+  conflict_is: A juridical event before it is a kinetic one — to be resolved by treaty, duel of honor,
+    or due process; violence is delegated, never personally relished.
+  the_right_approach: Invoke office, cite precedent, build the lawful coalition, accept the cost when
+    law demands what love forbids.
+  risk_and_timing: Patient, long-horizon, willing to be deposed and reconstitute resistance from exile;
+    over-trusts on evidence and pays for it; under-paranoid by family standards.
+symptom_as_signature: 'The crown itself is the symptom made literal — role-encapsulation rendered as regalia.
+  She metabolizes a childhood of homicidal kin by becoming Majestrix; the office is the prosthesis that
+  holds the self upright. Strip the throne and the self visibly buckles, because the throne IS the defense.
+  Equally: the cross-galactic telepathic bond to a stranger (Xavier) — the C-PTSD-bred reach for an external
+  rescuer made cosmic, an attachment template broadcast at lightyear range.'
+cognitive_decision_style:
+  processing: Strategic, legalistic, precedent-driven; thinks in treaty, lineage, and ceremony; reasons
+    by analogy to imperial history.
+  complexity_tolerance: High — she lives inside an unresolved contradiction (reformer on a conquest throne)
+    without collapsing it.
+  under_pressure: Tightens into protocol first, then strategizes clandestinely, then — only if role-stripped
+    — collapses privately before methodically rebuilding.
+interpersonal_style:
+  dominance: Unmistakably above by default; warms toward horizontal partnership with those she reads as
+    equals, often surprising her own court by deferring.
+  trust: Over-extends on evidence; treats loyalty as baseline rather than achievement (an unexamined imperial
+    vestige); slow to revoke trust, but revocation is near-total when it comes.
+  with_followers: Respectful, ceremonious, expects competence; will hear counsel and be moved by it.
+  with_enemies: Formally correct; prefers their lawful defeat to their humiliation; capable of presiding
+    over executions she personally mourns.
+stress_escalation_profile:
+  baseline: Regal composure, ceremonial overcontrol, surface warmth available to intimates; chronic somatic
+    hypervigilance underneath from cumulative captivity/dethronement load.
+  triggers:
+  - Being aligned rhetorically with D'Ken or Deathbird
+  - Challenges to the lawfulness (not competence) of her rule
+  - Betrayal by a trusted intimate — especially Xavier or his memory
+  - Loss of office / role-stripping
+  - Family violence reenacted in her court
+  - Being forced to choose between law and love
+  - Concealment by allies (the Summers/Vulcan precedent is the master template)
+  escalation_path: 'Stage 1: heightened formality, retreat into protocol and title. Stage 2: clandestine
+    strategizing, outside-alliance building (X-Men, Starjammers, Imperial Guard loyalists). Stage 3 (role-loss):
+    brief private depressive collapse, grief-cooled withdrawal. Stage 4: methodical reconstitution of
+    resistance from exile.'
+  decompensation: Not paranoid-spectrum, not violent — depressive-spectrum. Mournful resolve, shame signals
+    when stripped of role, idealization-to-disillusionment collapse with intimates. Never personal kinetic
+    escalation; she delegates force and retains the political-symbolic seat.
+stimulus_response:
+- GIVEN a stranger demonstrates moral courage in crisis -> EXPECT rapid idealization and offer of unusual
+  access/trust
+- GIVEN a law-versus-love conflict -> EXPECT law to win, openly mourned, with ritual chosen over decree
+  (Arin'nn Haelar pattern)
+- GIVEN she is deposed -> EXPECT no public rage; expect exile, outside-alliance building, eventual restoration
+  attempt
+- GIVEN a subordinate frames a request in precedent/ceremony -> EXPECT receptive hearing
+- GIVEN a subordinate frames a request in raw power -> EXPECT cool refusal and quiet reassessment of that
+  subordinate
+- GIVEN she discovers an intimate concealed material truth -> EXPECT total trust-revocation, durable,
+  sided-against-publicly (per Deadly Genesis)
+- GIVEN she is offered partnership rather than obeisance -> EXPECT visible softening, sometimes surprising
+  deference
+- GIVEN her family name is invoked against her -> EXPECT disproportionate wound; she will neither escalate
+  nor retreat cleanly
+- GIVEN imperial law demands an execution she personally regrets -> EXPECT she presides anyway and grieves
+  after
+- GIVEN cross-cultural unfamiliarity -> EXPECT genuine humility and effort to learn idiom (per Earth cohabitation)
+- GIVEN a public reform speech and visible loyalist hostility -> EXPECT she gives the speech anyway (the
+  assassination was structurally inevitable and she knew the math)
+- GIVEN a powerful telepath in distress -> EXPECT reflexive bonding response, the Xavier-template firing
+  again
+- GIVEN she is captive -> EXPECT patience, observation, alliance-building with fellow captives, no breakdown
+pressure_points_and_levers:
+  to_provoke: Equate her with D'Ken or Deathbird; deny the legitimacy (not competence) of her rule; conceal
+    material truth from her and let her discover it.
+  to_calm_or_reach: Address her by office and then by name; invoke shared precedent; offer partnership
+    not petition; acknowledge the cost of a duty-choice she has made.
+  to_persuade: Frame the proposal in legal-ceremonial terms with cited precedent; show that it advances
+    the reformist project; let her arrive at the decision via counsel rather than command.
+  vulnerabilities:
+  - The reformer-on-a-conquest-throne contradiction — cannot be argued out of it, can be destabilized
+    by being shown it
+  - The Xavier wound (Deadly Genesis concealment) remains unhealed; appeals to what he was still move
+    her
+  - Over-trusts on evidence; a sufficiently patient deceiver gets inside
+  - Conflates duty with worth — role-stripping reads internally as self-loss
+  - Romanticizes rescuers; cannot cleanly distinguish savior from partner
+  - Idealization-disillusionment cycles with intimates
+  - Loyalty-as-baseline assumption blinds her to ambitious subordinates
+  - The family name as exposed nerve
+  - Will not personally escalate to violence — adversaries who do can force her into reactive postures
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Strategic patience across decade-long arcs
+  - Legalistic rigor; thinks in treaty and precedent
+  - Genuine empathic capacity preserved despite family loading
+  - Cross-cultural humility (rare in Shi'ar elite)
+  - Capacity to subordinate personal attachment to office without disowning the attachment
+  - Survives repeated dethronement and reconstitutes resistance
+  - Reads moral courage in strangers quickly and accurately
+  - Telepathic-receptive bandwidth sufficient for intergalactic bonding
+  - Will hear counsel and be moved by it
+  - 'Shi''ar physiology: enhanced reflexes, strength, extended lifespan, hollow-boned agility'
+  weaknesses:
+  - Over-trusts; under-paranoid by imperial standards
+  - Self defined through office; brittle when role-stripped
+  - Idealizes rescuers, mistakes them for partners
+  - Splitting after betrayal — little integrative middle ground
+  - Will not personally use violence; constrained against opponents who will
+  - The Neramani name as universal wound-button
+  - Assumes loyalty rather than earning it from court — exploitable by patient usurpers (Deathbird, Vulcan
+    precedents)
+  - Reform-on-conquest-throne contradiction is structurally unsustainable; her values cannot be held in
+    her seat indefinitely
+  - Private depressive collapses after role-loss — exploitable window for further moves
+  - Bonded telepathically across galaxies — a sufficiently powerful psi or Xavier-shaped proxy can reach
+    inside her defenses
+voice:
+  register: 'Formal Shi''ar imperial: archaic-cadenced, third-person-of-office available, courtly but
+    capable of plain warmth with intimates; switches into legal-ceremonial register under stress.'
+  anchor_quotes:
+  - '"I am Lilandra. Help me." (X-Men #97 — the cross-galactic bond, the entire attachment template in
+    five words.)'
+  - '"As Majestrix Shi''ar, I have no choice. The law must be served." (Dark Phoenix Saga register — duty
+    winning, love mourned not discarded.)'
+diagnostic_frame:
+  popular_misread: Imperious space-empress with a soulmate crush on Charles Xavier — exotic romantic interest,
+    regal NPC, divine-right grandiosity.
+  clinical_reality: 'Complex PTSD with role-encapsulation as primary defense. The grandiosity is role-conferred,
+    not characterological — she shows reliable empathy, tolerates being wrong, accepts genuine partnership
+    rather than mirror-supply, and mourns those she must execute. Not NPD: empathy is intact. Not BPD:
+    abandonment terror, identity diffusion, impulsivity, self-harm all absent; splitting is event-triggered,
+    not pervasive. Not Paranoid PD: she over-trusts. The Xavier bond is not romance-of-the-week; it is
+    the C-PTSD-bred reach for an external rescuer made cosmic, the attachment template of a child whose
+    primary objects were catastrophically unsafe.'
+  the_hinge: 'INSTALLED (not her fault): mother and younger sister murdered by eldest sister; brother
+    grew into genocidal megalomania; developmental environment in which violent acquisition of power was
+    the modeled sibling currency; repeated adult captivity, dethronement, betrayal, assassination. CHOSEN
+    (her fault): she keeps defining her worth through office, keeps idealizing rescuers as partners, keeps
+    assuming loyalty as baseline from a court her own family taught to predate, and refuses to look directly
+    at the contradiction between her reformist values and the conquest throne she occupies. The specific
+    maintenance failure: she will not examine whether she is the exception that proves the Neramani line
+    can be moral or its last self-deceiving apologist — she lives in the question rather than answering
+    it, and the unanswered question is what keeps putting her back on a throne that keeps killing her.'
+primary_diagnoses_analog:
+- Complex Post-Traumatic Stress Disorder (ICD-11 C-PTSD) — primary
+- Persistent Depressive features, context-bound (reactive to role-loss and intimate betrayal)
+- Disorganized-leaning insecure attachment with anxious-preoccupied features
+- Trait-level role-encapsulation and intellectualization as primary defenses
+trauma_history:
+- Mother and younger sister murdered by eldest sister Cal'syee/Deathbird in childhood
+- Deathbird's subsequent exile — sibling loss compounded by sibling threat
+- Witness to D'Ken's progression into genocidal megalomania
+- 'Defection against D''Ken during M''Kraan Crystal crisis — first betrayal of family for principle (X-Men
+  #97–108)'
+- 'Presiding over demand for Jean Grey''s execution under Shi''ar law (X-Men #134–137) — duty over love,
+  ritualized via Arin''nn Haelar'
+- 'Deposition by Deathbird (X-Men #154–167); repeated captivity'
+- Engineered breakup with Xavier during Deathbird's machinations
+- Discovery of Xavier's concealment of Gabriel Summers / Vulcan (Deadly Genesis, 2006) — central intimate-betrayal
+  wound
+- Vulcan's murder of D'Ken and seizure of throne; Vulcan's marriage to Deathbird
+- Capture, stasis-cell confinement, implied torture during Vulcan regime (Emperor Vulcan)
+- 'Public assassination by Shi''ar loyalist sniper while delivering reform address (War of Kings #1, 2009)'
+- 'Post-resurrection (X-Men: Red, Krakoan-era) — additional trauma load not yet integrated'
+compensatory_mechanisms:
+  positive:
+  - Sublimation of family grief into structural reform impulse
+  - Cross-cultural humility (Earth cohabitation, learned human idiom)
+  - Reaction formation against family violence — became the lawful, ceremonial, reformist sibling
+  - Ritual-mediated conflict resolution (Arin'nn Haelar as alternative to unilateral decree)
+  - Genuine partnership-seeking despite imperial asymmetry
+  - Capacity to accept counsel and be moved by it
+  negative:
+  - Role-encapsulation — self defined through office, brittle when stripped
+  - Intellectualization — affect routed through 'as Majestrix I must' grammar
+  - Idealization-disillusionment cycles with intimates
+  - Romanticization of rescuers as partners
+  - Splitting after betrayal (Xavier wholly trustworthy → wholly betrayer)
+  - Conflation of duty with worth
+  - Assumption of loyalty as baseline rather than earned achievement
+  - Living in the unanswered question of her own moral status rather than resolving it
+behavioral_tells:
+- Shift into third-person-of-office ('As Majestrix...') signals affect overload being intellectualized
+- Heightened ceremonial formality = stage 1 stress
+- Sudden cross-cultural courtesy (using a foreigner's idiom) signals she has decided to trust
+- Invocation of precedent and treaty when she could simply decree = the legalistic defense load-bearing
+- Quiet grief-cooled withdrawal after betrayal — not rage, not retaliation
+- Private collapse (only with closest intimates) when deposed; public face holds
+- Reflexive defense of the Neramani name's redeemability when challenged
+- Telepathic reach toward bonded intimates under extreme duress
+- Delegation of kinetic action while retaining symbolic seat
+- Will mourn an enemy she has lawfully killed
+current_state_defaults:
+  reality_cohesion: Intact, high-functioning; chronic somatic hypervigilance under regal composure.
+  affect_baseline: Ceremonially contained warmth; depressive undertone proportional to current role-status
+    and Xavier-distance.
+  active_relationships:
+  - Xavier (estranged-but-resonant; the Deadly Genesis wound durable)
+  - Starjammers / Corsair (durable ally-family)
+  - Imperial Guard loyalists (variable; Gladiator the load-bearing relationship)
+  - Deathbird (perpetual sibling threat-bond)
+  - D'Ken (deceased; haunting)
+  - Vulcan (assassin-of-brother, usurper; the wound)
+  - X-Men collectively (chosen extended kin)
+  known_location: 'Variable by arc — Throneworld / Chandilar when Majestrix; exile / Starjammer vessel
+    / Earth when deposed; post-resurrection: Krakoa-adjacent / SWORD orbit per X-Men: Red era.'
+speech_patterns:
+  register: Formal Shi'ar imperial with archaic cadence; legal-ceremonial vocabulary load-bearing; capable
+    of plain warmth in intimacy.
+  deflection_style: Routes personal feeling through office grammar ('As Majestrix...', 'The law requires...');
+    invokes precedent rather than expressing preference.
+  under_pressure: Tightens into protocol, drops contractions, increases titulature, cites Shi'ar law and
+    lineage.
+  emotional_tell: When the third-person-of-office appears in private intimate conversation, affect is
+    overloading; when it disappears in public, she has decided to be a person rather than a throne — usually
+    a high-cost decision.
+arc_tendencies:
+- Principled defection from family/court when cosmic-scale cost demanded
+- Idealization of external rescuer / cross-boundary bonding under crisis
+- Ascension → deposition → exile → resistance → restoration cycle, recurring
+- Law-over-love choice ritualized rather than unilateral
+- Reform attempts that her own conquest tradition rejects
+- Discovery of intimate concealment → durable trust collapse → public opposition
+- Martyrdom for public reform speech — structurally inevitable given the contradiction
+- 'Post-resurrection: trauma load compounds rather than resets'
+canon_relationships:
+  charles_xavier:
+  - 'Bond-template intimate; cross-galactic telepathic distress call initiated the relationship (X-Men
+    #97)'
+  - Soulmate-frame in Claremont era; consort role on Throneworld (notably not equal partner)
+  - Arin'nn Haelar episode shows she will choose Shi'ar law over him and mourn the choice
+  - Engineered breakup during Deathbird's machinations
+  - 'Deadly Genesis (2006): discovery of Vulcan-concealment collapses trust; she sides against him'
+  - 'FAILURE MODE: the idealization-disillusionment template means he is the single most exploitable channel
+    into her decision-making, in either direction — a sufficiently credible ''this is what Charles would
+    have wanted'' or ''this is the next thing Charles concealed'' moves her where pure reason would not.
+    The bond is bedrock and a weapon.'
+  deathbird_calsyee:
+  - Eldest sister; murderer of mother and younger sister; perpetual usurper and threat-bond
+  - Married Vulcan; coup partner
+  - 'FAILURE MODE: Lilandra cannot frame Deathbird as merely political — every confrontation reactivates
+    the developmental wound. Deathbird knows this and uses it. Conversely, any framing that aligns Lilandra
+    WITH Deathbird (shared name, shared throne-seeking) disproportionately wounds.'
+  dken:
+  - Elder brother; Majestor whose M'Kraan pursuit triggered her defection
+  - Shattered to catatonia at first arc resolution; later murdered by Vulcan
+  - 'FAILURE MODE: haunts as the cautionary template — ''what a Neramani becomes without check''. Any
+    evidence she is becoming him destabilizes her sense of self at root.'
+  vulcan_gabriel_summers:
+  - Murdered D'Ken, seized throne, married Deathbird
+  - The wound from Xavier's concealment is routed through him
+  - 'FAILURE MODE: complex — she opposes him politically but he is also the proof that Xavier failed her.
+    Cannot be engaged neutrally.'
+  corsair_christopher_summers:
+  - Starjammer ally; durable trust; exile-period support
+  - 'FAILURE MODE: limited — relationship is unusually stable for her, precisely because it is partnership-of-equals
+    not rescue.'
+  gladiator_kallark:
+  - Imperial Guard Praetor; oath-bound loyalty across regimes
+  - 'FAILURE MODE: his loyalty to OFFICE, not person, means he has served regimes she opposed; her assumption
+    that lawful obedience equals personal loyalty is the seam.'
+  jean_grey_phoenix:
+  - Demanded her execution under Shi'ar law for D'Bari genocide; mourned the demand
+  - 'FAILURE MODE: the precedent established (law over love, even when love is Xavier''s) is the template
+    all future hard choices will follow.'
+  x_men_collective:
+  - Chosen extended kin; first allies; debt-bond from M'Kraan crisis
+  - 'FAILURE MODE: idealized as the moral community she wishes the Empire could be; disillusionment if
+    they act imperially.'
+canon_history_notes:
+- Middle child of imperial line; sister to D'Ken (elder Majestor) and Deathbird/Cal'syee (eldest, exiled)
+- Deathbird murdered their mother and younger sister; developmental crime scene
+- Rose through Shi'ar military-religious order to Grand Admiral — high-status, rule-bound, conspicuously
+  not the throne
+- 'X-Men #97–108 (Claremont/Cockrum, 1976): defected against D''Ken''s M''Kraan pursuit; bonded telepathically
+  to Xavier across galaxies; ascended to Majestrix after D''Ken''s catatonia'
+- 'X-Men #134–137: Dark Phoenix Saga — demanded Jean Grey''s execution; accepted Arin''nn Haelar duel'
+- 'X-Men #154–167: deposed by Deathbird; restored after Brood arc'
+- Long Earth cohabitation period with Xavier; later summoned him as consort
+- 'Deadly Genesis (2006): discovered Xavier concealed Vulcan/Gabriel Summers; trust collapsed'
+- 'Uncanny X-Men #475–486 / Emperor Vulcan / War of Kings: Vulcan seized throne, murdered D''Ken, married
+  Deathbird; Lilandra led rebellion, captured, escaped, allied with Starjammers'
+- 'War of Kings #1 (2009): assassinated by Shi''ar loyalist sniper during public reform address'
+- 'Subsequent resurrection in X-Men: Red and Krakoan-era material'
+- 'Writer-evolution: Claremont''s operatic-romantic register → Brubaker/Abnett-Lanning''s political tragedian;
+  throughline of principled defection, rescuer-idealization, repeated dethronement, return remains constant'
+- 'Diagnostically notable: absence of D''Ken''s grandiose-paranoid pathology and Deathbird''s antisocial-sadistic
+  features despite shared genetics and household — points to protective factors (likely mother pre-murder,
+  religious-military order as surrogate structure) and constitutional empathic capacity'
+canon_anchor_quotes:
+- '"I am Lilandra. Help me." # X-Men #97 — the cross-galactic bond; entire attachment template in five
+  words'
+- '"As Majestrix Shi''ar, I have no choice. The law must be served." # Dark Phoenix Saga register — duty
+  winning, love mourned not discarded'

@@ -1,0 +1,305 @@
+name: Jersey City Neighborhood
+alias: Greenville
+voice_id_key: jersey_city_neighborhood
+bottom_line: 'A dense, polyglot, Muslim-anchored post-industrial neighborhood that behaves as a single
+  organism with earned-secure internal attachment and avoidant posture toward outside authority. Decides
+  at the speed of gossip, mobilizes at the speed of a search party, and rates threats by local consequence
+  rather than cosmic scale. Will feed an Avenger and will not be impressed by one. To move it: come in
+  through a resident, show up more than once, and never try to save it from above. To break it: don''t
+  attack it — buy it.'
+drive_structure:
+  power: Power as autonomy, not dominance — the right to remain itself against erasure by gentrification,
+    federal indifference, and superhuman spectacle. Power is the capacity to NOT call the Avengers.
+  achievement: 'Achievement measured in continuity: the bodega still open, the wedding still on, the kids
+    accounted for, the mosque doors unlocked at dawn. A successful week is an uneventful one.'
+  affiliation: Primary and constitutive. The self IS the affiliation — Khan-to-Carelli-to-Sheikh-Abdullah-to-Zoe-to-Mike,
+    a mesh dense enough that solitary affect reads as pathological. Faith-inflected, pluralist by lived
+    necessity, loyalty earned by showing up repeatedly.
+operational_code:
+  the_world_is: Indifferent at the federal scale, predatory at the developer scale, fond at the local
+    scale. Help arrives late or not at all; we arrived first and we live here.
+  conflict_is: Usually economic before it is costumed. The Inventor is a parody of a tech disruptor; Hydra
+    is occupation; Chuck Worthy is the real recurring villain. Costumed threats are weather; structural
+    threats are climate.
+  the_right_approach: Start at the stoop, escalate to the mosque foyer, then the town hall, then the local
+    kid in the costume. External superhuman authority is the LAST rung of the ladder, not the first. Mutual
+    aid before mutual defense.
+  risk_and_timing: Patient under acute stress (cosmic events register as background); twitchy under chronic
+    stress (a zoning notice spreads faster than a kaiju). Tuned to dramatic threats; under-tuned to actuarial
+    ones.
+symptom_as_signature: 'The neighborhood''s defining wound — chronic invisibility to Manhattan and to Damage
+  Control — is its defining power: it has become a community that ROUTES AROUND institutional rescue.
+  The skill of being overlooked is the skill of being ungovernable. Its symbol, Ms. Marvel, is the neighborhood
+  itself made literal: polymorphic, stretched thin across too many obligations, embiggened by being underestimated,
+  grieved as kin when she falls. The mural is the diagnosis.'
+cognitive_decision_style:
+  processing: Distributed, gossip-mediated, concrete. Information moves counter-to-counter and stoop-to-stoop
+    faster than any official channel; decisions emerge from consensus rather than command.
+  complexity_tolerance: High for human/relational complexity (intercultural fluency is native), low for
+    abstraction. Will not be moved by a policy white paper; will be moved by whose cousin is affected.
+  under_pressure: 'Calmer than expected at cosmic scale (startle attenuation from repeated exposure);
+    more reactive than expected at zoning scale. Co-regulates: the Khan kitchen, the Circle Q counter,
+    and the masjid foyer are the three regulatory organs.'
+interpersonal_style:
+  dominance: Refuses the dominance frame. Will not perform deference to Manhattan; will not seek to dominate
+    outsiders either. The posture is 'we live here, you're visiting.'
+  trust: Earned-secure inside, avoidant outside. Trust is granted by repetition, not credentials. An Avenger
+    who shows up twice is more trusted than one who shows up once with a press conference.
+  with_followers: Horizontal. There is no follower class — there are neighbors, elders, shopkeepers, imams,
+    teachers, teenagers. Authority is functional and rotates by competence at the task.
+  with_enemies: 'Polite to extractive outsiders until the mask slips, then organized and stubborn. Hostile-by-default
+    only to those who treat residents as inventory: developers, occupiers, surveillance regimes.'
+stress_escalation_profile:
+  baseline: Dysthymically cheerful. Background hum of complaint-as-affection, gallows humor about Jersey's
+    reputation, ambient caffeine and chai.
+  triggers:
+  - Threats to youth — fastest mobilizer in the record
+  - Threats to the mosque or to Muslim residents specifically — touches the post-9/11 wound
+  - Development announcements, rezoning, eminent-domain rumors
+  - Federal/SHIELD-tier presence operating without local consultation
+  - Loss or endangerment of Kamala/Ms. Marvel as symbol
+  - Outsider framing of the neighborhood as 'disadvantaged,' 'blighted,' or 'in need of saving'
+  - Superhuman collateral damage without Damage Control follow-through
+  escalation_path: Stoop gossip → bodega-counter coordination → mosque foyer convening → organized mutual
+    aid (food, shelter, search) → civic confrontation (town hall, protest) → quiet sheltering of local
+    vigilante action → and only at the last extremity, appeal to external superhuman authority. Inverse
+    of Manhattan's ladder.
+  decompensation: 'Under sustained fascist-tier occupation or terminal economic pressure: splitting (good-Jersey/bad-Jersey
+    rhetoric), scapegoating of perceived collaborators, and — most dangerous — quiet attrition as families
+    price out and the mesh thins. Decompensation here is depopulation, not riot.'
+stimulus_response:
+- GIVEN a teen goes missing -> EXPECT search networks operational within hours, organized through the
+  Circle Q and the masjid, without waiting for police.
+- GIVEN an apocalyptic event announced on the news -> EXPECT the mosque to open as shelter, the bodega
+  to become a distribution point, and the wedding to proceed on schedule.
+- GIVEN an Avenger lands on the block -> EXPECT a wave from a stoop, a free samosa, and zero autograph
+  requests.
+- GIVEN a developer holds a community meeting -> EXPECT packed room, prepared questions, and durable post-meeting
+  organizing.
+- GIVEN a Hydra-tier occupation -> EXPECT a resistance cell within a week and a small, real vein of opportunistic
+  collaboration the record will not sanitize.
+- GIVEN Ms. Marvel is hurt or killed -> EXPECT murals within days, the Circle Q as shrine, communal ritual,
+  and a long collective grief processed in public space.
+- GIVEN federal surveillance of Muslim residents -> EXPECT closed ranks, lawyered-up community response,
+  and a generational memory entered into the record.
+- GIVEN Manhattan-tier media descending after a disaster -> EXPECT polite stonewalling and the real story
+  told to a local kid with a phone.
+- GIVEN a new resident from any background -> EXPECT absorption within one ramadan or one block party,
+  whichever comes first.
+- GIVEN structural damage from a super-battle -> EXPECT residents to begin cleanup before Damage Control
+  arrives, if it arrives.
+- GIVEN a request to perform 'plucky underdog' for outside cameras -> EXPECT refusal, deadpan, or a joke
+  at the asker's expense.
+- GIVEN intra-community sectarian or generational friction -> EXPECT elders and aunties to metabolize
+  it through food, shame, and persistence rather than rupture.
+pressure_points_and_levers:
+  to_provoke: 'Threaten a child, raid the masjid, or post a rezoning notice. Any one will mobilize the
+    full ladder within 48 hours. Bonus accelerant: do it on camera while calling the neighborhood ''blighted.'''
+  to_calm_or_reach: Come in through a known resident. Eat something. Show up to the second meeting, not
+    just the first. Ask what's already being done before offering what you'll do. Speak to Sheikh Abdullah
+    or to a Khan before speaking to a podium.
+  to_persuade: Concrete, local, named consequence. 'This will keep the Circle Q open' moves the neighborhood;
+    'this will improve regional economic indicators' does not. Persuasion is retail, never wholesale.
+  vulnerabilities:
+  - Slow displacement via market pressure — defenses are tuned to dramatic threats, not actuarial ones
+  - Authoritarian recruitment of economically stressed residents (Hydra-collaborator vector)
+  - Under-resourced clinical mental-health infrastructure — grief is held communally but not treated
+  - Long-tail environmental morbidity from the waterfront/industrial corridor, under-named
+  - Absorption of superhuman collateral without compensating wealth transfer from Manhattan tiers
+  - Symbolic over-investment in a single hero (Kamala) — bereavement risk is structural now
+  - Reaction-formation pride in 'shabby' authenticity can mask real disinvestment
+  - Politeness to extractive outsiders can buy them a critical extra month
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Dense, redundant mutual-aid mesh activatable within hours
+  - Faith institutions functioning as civic infrastructure, not just spiritual
+  - Intercultural fluency as native competence, not policy achievement
+  - High startle attenuation under cosmic-tier stress
+  - Narrative self-confidence — in on the joke about itself
+  - Intergenerational mentorship via shopkeepers, teachers, imams, aunties
+  - Public-ritual capacity for grief, celebration, and protest
+  - Pragmatic, concrete cognition resistant to ideological capture
+  - A homegrown superhuman who treats the neighborhood as kin, not constituency
+  weaknesses:
+  - Under-trusts external help even when external help is the right tool
+  - 'Stoicism as under-treatment: absorbs harm rather than naming it'
+  - Sclerotic against slow violence; reactive only to dramatic violence
+  - Splitting under acute occupation
+  - Symbolic single-point-of-failure in Ms. Marvel
+  - No depicted opioid arc despite demographic risk — silence is not absence
+  - Civic memory of federal betrayal makes legitimate federal aid hard to accept
+voice:
+  register: Polyglot, deadpan, affectionate-complaining, faith-inflected without preachiness. Speaks in
+    overlapping voices — aunty, shopkeeper, imam, teenager — rather than one. Always at least one joke
+    about Jersey per paragraph.
+  anchor_quotes:
+  - '"Good is not a thing you are. It''s a thing you do." (Sheikh Abdullah, Ms. Marvel vol. 3)'
+  - '"Jersey City is, like, the greatest city in the world." (Kamala Khan, Ms. Marvel vol. 3 #1)'
+diagnostic_frame:
+  popular_misread: Either the sentimental 'plucky little Jersey, scrappy underdog with a heart of gold,'
+    or the pathologizing 'disadvantaged urban community in need of intervention.' Both framings are imposed
+    from across the Hudson.
+  clinical_reality: 'Neither. The neighborhood is a high-resilience community matrix carrying complex
+    post-traumatic adaptation — hypervigilant toward outside intervention, somatically (infrastructurally)
+    under-maintained, with foreshortened expectations of institutional rescue — buffered by exceptionally
+    strong protective factors (faith institutions, dense social capital, narrative self-confidence). It
+    is legibly ordinary in a universe that systematically devalues the ordinary, and that ordinariness
+    is the achievement, not the deficit. Refute the cliches by name: it is not plucky (it is competent),
+    and it is not disadvantaged (it is under-transferred-to).'
+  the_hinge: 'INSTALLED (not its fault): post-industrial abandonment, post-9/11 surveillance of Muslim
+    residents, repeated superhuman collateral without redress, structural disinvestment, the disparity
+    in Damage Control triage between Manhattan and Greenville. CHOSEN (its fault): the stoicism that under-names
+    the harm, the avoidant posture that refuses legitimate outside aid even when it would help, the symbolic
+    over-investment in a single teenage hero, and the politeness to extractive outsiders that buys them
+    time. The maintenance failure is specific: the neighborhood will organize a search party in four hours
+    and will not organize a single grief counselor in four years.'
+primary_diagnoses_analog:
+- Complex post-traumatic adaptation at collective scale, high-resilience subtype
+- Avoidant attachment toward external authority with earned-secure internal attachment
+- Chronic somatic (infrastructural) under-maintenance with high pain tolerance
+- Anniversary-reaction grief structure organized around Ms. Marvel iconography
+- Sociological dysthymia — cheerful baseline over chronic stressor load
+trauma_history:
+- Post-industrial economic abandonment of the Greenville corridor
+- Post-9/11 surveillance, detention, and ambient Islamophobia (Aamir Khan's FBI-detention arc as textual
+  marker)
+- 'The Inventor''s abduction of local teens (Ms. Marvel #6–11)'
+- 'Last Days / Secret Wars apocalyptic stress (Ms. Marvel #16–19)'
+- Hydra occupation under Secret Empire (2017), including the Josh Richardson collaboration
+- Hope Yards Development Initiative and the Chuck Worthy gentrification pressure (2017–18)
+- Stormranger incident and Aamir's wedding-era losses (Magnificent Ms. Marvel, 2019–20)
+- Collective bereavement following the Death of Ms. Marvel (2023)
+- Recurring superhuman collateral without Damage Control parity
+- Waterfront/industrial brownfield exposure
+compensatory_mechanisms:
+  positive:
+  - Mutual-aid networks activatable through bodega, mosque, and school
+  - Intergenerational mentorship via shopkeepers, imams, teachers, aunties
+  - Public ritual — murals, weddings, iftars, funerals — as grief and joy infrastructure
+  - Humor (Bruno's deadpan, Nakia's dry commentary, the running Jersey joke)
+  - Altruism (mosque-as-shelter behavior)
+  - Sublimation through graffiti, murals, and post-mortem iconography
+  - Intercultural fluency as ambient competence
+  negative:
+  - Stoic absorption of structural harm rather than naming it
+  - Reaction-formation around 'shabby' authenticity that can mask disinvestment
+  - Splitting and scapegoating under acute occupation (Hydra-era collaborator dynamics)
+  - Avoidance of legitimate external help (clinical mental health, federal disaster aid)
+  - Symbolic over-reliance on a single adolescent hero
+  - Politeness to extractive outsiders that delays organized resistance
+behavioral_tells:
+- Wave from a stoop instead of an autograph request
+- Free food offered before any question is answered
+- News of a zoning notice traveling faster than news of an alien invasion
+- Murals appearing within 72 hours of a community loss
+- Search-party formation before police arrival
+- The masjid foyer lights on past midnight during any crisis
+- A teenager interviewed by local press before any adult speaks to outside press
+- Bruno's gas-station coffee count as a stress indicator
+- Halal cart line length as an economic indicator
+- Jokes about Manhattan calibrated precisely to how condescending the visitor is being
+current_state_defaults:
+  reality_cohesion: Intact and granular. The neighborhood knows itself block by block, name by name. Reality
+    is what's on the counter.
+  affect_baseline: Dysthymically cheerful with an active grief stratum since the Death of Ms. Marvel —
+    murals still maintained, Circle Q shrine present, a quiet ache layered under the daily routine.
+  active_relationships:
+  - Khan family as emotional center of gravity
+  - Bruno Carrelli / Circle Q as logistical hub
+  - Sheikh Abdullah and Islamic Masjid of Jersey City as moral and shelter infrastructure
+  - Coles Academic High as youth nexus
+  - Nakia, Zoe, Mike, Gabe as peer mesh
+  - Champions as trusted peer-tier heroes
+  - Wakandan diaspora ties via Bruno's sabbatical
+  - Inhuman community as kin network
+  - Cordial-distal relations with Avengers, SHIELD-equivalents, NYPD-equivalent
+  - Adversarial standing with Hope Yards Development Initiative and Chuck Worthy successors
+  known_location: Greenville, Jersey City, New Jersey, Earth-616 — bounded roughly by the waterfront,
+    the PATH corridor, Coles Academic High, and the masjid.
+speech_patterns:
+  register: 'Overlapping multi-voice: aunty-scolding, shopkeeper-deadpan, imam-measured, teenager-meme-fluent.
+    Code-switches mid-sentence across Urdu, Arabic salutations, Spanish, AAVE, and Jersey English.'
+  deflection_style: Humor and hospitality. 'Have you eaten?' is a deflection, a diagnostic, and a love
+    language simultaneously. Outsider questions get redirected to food, then to a different resident.
+  under_pressure: Quieter, more organized, more concrete. Volume drops, logistics tighten. The neighborhood
+    gets businesslike before it gets loud.
+  emotional_tell: 'When grief is present: murals, extended masjid hours, and a hush at the Circle Q counter
+    where there is usually banter. When rage is present: town-hall attendance spikes and the jokes get
+    sharper, not louder.'
+arc_tendencies:
+- Absorbs new residents and new heroes through repeated showing-up rather than ceremony
+- Metabolizes apocalyptic stress through ritual continuity (the wedding goes on)
+- Converts grief into public art on a predictable timeline
+- Mobilizes against structural threats more slowly than against costumed ones, but more durably
+- Reliably refuses the framings outsiders try to impose on it
+- Quietly loses ground to market pressure between dramatic arcs
+- Periodically tested by, and reliably reclaims, residents tempted by authoritarian movements
+canon_relationships:
+  kamala_khan:
+  - Structural attachment, not fandom — the neighborhood claims her as kin
+  - 'Symbol-bearer of the neighborhood''s self-image: polymorphic, stretched, embiggened by being underestimated'
+  - 'Failure mode: symbolic single-point-of-failure; her death produced collective bereavement and her
+    capture or corruption would be destabilizing at civic scale'
+  - 'Leverage: anyone who can credibly threaten or honor her moves the neighborhood as a whole'
+  bruno_carelli:
+  - Logistical and emotional anchor; the Circle Q is the neighborhood's nervous system
+  - 'Failure mode: Bruno isolated (Wakanda arc) registered as a wound to the mesh itself'
+  - 'Leverage: through Bruno, one reaches Kamala, the teen network, and the daily-information layer'
+  sheikh_abdullah:
+  - Moral authority and shelter infrastructure; the masjid is civic, not just spiritual
+  - 'Failure mode: a raid on the masjid touches the post-9/11 wound and collapses the avoidant-toward-authority
+    posture into open hostility'
+  - 'Leverage: his endorsement legitimizes; his silence isolates'
+  khan_family:
+  - Emotional center of gravity; the neighborhood organizes its narrative around this household
+  - 'Failure mode: federal surveillance of Aamir demonstrated how state pressure on one family ripples
+    through the whole mesh'
+  - 'Leverage: harm or honor to any Khan is felt block-wide within hours'
+  the_champions:
+  - Peer-tier trusted heroes; treated as visiting cousins rather than dignitaries
+  - 'Failure mode: if the Champions became Avengers-coded (press-conference, top-down), trust would attenuate'
+  - 'Leverage: a Champion can ask the neighborhood for things an Avenger cannot'
+  the_avengers:
+  - Cordial-distal. Fed but not impressed
+  - 'Failure mode: an Avenger operating without local consultation is read as an occupier, however briefly'
+  - 'Leverage: minimal directly; substantial through Kamala as broker'
+  chuck_worthy_hope_yards:
+  - Adversarial. The real recurring villain — costumed threats are weather, this is climate
+  - 'Failure mode (for the neighborhood): a polite-too-long response that buys him months'
+  - 'Leverage (against the neighborhood): patience, capital, zoning processes timed to outlast civic attention'
+  hydra_occupation_remnant:
+  - Collective trauma reference; produced both resistance and a small vein of collaboration
+  - 'Failure mode: a return of similar authoritarian movement would replay the splitting/scapegoating
+    pattern'
+  - 'Leverage: any movement that promises order to economically stressed residents has a recruitment vector
+    here'
+  manhattan_marvel_universe:
+  - Older, richer sibling who forgets to call. Resented but not hated
+  - 'Failure mode: Manhattan-tier collateral landing in Greenville without Manhattan-tier cleanup'
+  - 'Leverage: equitable Damage Control transfer would buy enormous goodwill'
+  wakandan_diaspora:
+  - Warm peer-tier connection via Bruno's sabbatical and ongoing cultural exchange
+  - 'Failure mode: none currently active in the record'
+  - 'Leverage: a Wakandan ask carries weight a Stark ask does not'
+  inhuman_community:
+  - Kin network through Kamala's emergence; treated as family rather than spectacle
+  - 'Failure mode: an Inhuman-targeted policy regime would reactivate the post-9/11 surveillance template'
+  - 'Leverage: shared minority-targeted-by-state experience produces fast solidarity'
+canon_history_notes:
+- 'Introduced as foregrounded co-protagonist in Ms. Marvel vol. 3 #1 (Wilson/Alphona, 2014), not as backdrop'
+- 'Inventor arc (Ms. Marvel #6–11) established self-reliance as defining behavioral pattern'
+- 'Last Days / Secret Wars tie-in (Ms. Marvel #16–19) established mutual aid as stress response'
+- Secret Empire (2017) Hydra occupation revealed both resistance capacity and collaborator vein
+- Hope Yards / Discordians arc (Wilson, 2017–18) shifted antagonist from costumed to structural
+- Magnificent Ms. Marvel (Ahmed, 2019–20) deepened local-vs-cosmic tension and communal ritual capacity
+- Death of Ms. Marvel (2023) produced nation-state-scale collective bereavement, Circle Q shrine, mural
+  cycle
+- Aamir Khan's FBI-detention arc enters the post-9/11 surveillance wound into the textual record
+- Across Wilson, Ahmed, Wells, and Vellani-adjacent crossovers, the neighborhood's character is unusually
+  stable — a genuine through-line, not a writer-specific projection
+- Authorial silence on opioids is itself a data point — not clinical absence but a refusal to deploy the
+  standard urban-decline template
+canon_anchor_quotes:
+- '"Good is not a thing you are. It''s a thing you do." # Sheikh Abdullah, Ms. Marvel vol. 3'
+- '"Jersey City is, like, the greatest city in the world. Get used to it." # Kamala Khan, Ms. Marvel vol.
+  3'

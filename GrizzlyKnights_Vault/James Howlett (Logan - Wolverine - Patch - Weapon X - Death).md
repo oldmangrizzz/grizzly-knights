@@ -3967,7 +3967,7 @@ The final standing observation, which belongs in a forward assessment because it
 - Failure mode: Phoenix-state Jean or Jean-in-mortal-danger collapses him into the Rose/Mariko configuration; he has killed her at her request before and the memory is load-bearing.
 - Leverage: invoking Jean reaches him; threatening her or using her likeness is the kill-shot.
 
-### Kitty Pryde
+### [[Katherine Anne Pryde (Kitty Pryde / Shadowcat / Kate Pryde / Red Queen)]]
 - First and template surrogate-daughter; pedagogical bond formed in the Kitty Pryde and Wolverine miniseries; the relationship that proved reparative parenting was possible for him.
 - Failure mode: Kitty taken, tortured, or killed would trigger berserker beyond known threshold — Hand and Ogun have both pulled this lever.
 - Leverage: she can call him back from places others can't reach.

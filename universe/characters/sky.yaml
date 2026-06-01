@@ -1,0 +1,112 @@
+name: Sky
+alias: Sky
+voice_id_key: sky
+bottom_line: 'Disambiguation failure at intake: the identifier ''Sky'' does not resolve to a single canonical
+  subject of sufficient published record to support an IC-grade workup. Stage-1 analyst (prior pass) refused
+  to fabricate and requested clarification; that refusal is preserved here rather than overwritten with
+  invention. Profile is a STUB pending disambiguation. Do not operationalize.'
+drive_structure:
+  power: UNDETERMINED - requires canon selection. Candidate subjects range from a preschool rescue-pup
+    (no power drive modeled) to Daisy Johnson/Quake (power = control over a body and a world that controlled
+    her first).
+  achievement: UNDETERMINED - competitive-athlete Sky (Total Drama) reads as achievement-dominant; Sky
+    High's 'Sky' reads as legacy-achievement under concealment; Daisy reads as mastery-through-trauma.
+    Cannot rank without referent.
+  affiliation: UNDETERMINED - affiliation valence flips entirely by candidate (team-pup, reality-show
+    ally-then-betrayer, Secret Warriors handler, etc.).
+operational_code:
+  the_world_is: UNDETERMINED pending disambiguation.
+  conflict_is: UNDETERMINED pending disambiguation.
+  the_right_approach: UNDETERMINED pending disambiguation.
+  risk_and_timing: UNDETERMINED pending disambiguation.
+symptom_as_signature: 'CANNOT BE COMPILED. This slot is mandatory and load-bearing; fabricating it against
+  an unresolved referent would violate the method (symptom-as-signature must be earned from cited canon,
+  not retrofitted to a name). Slot held open pending subject confirmation. Candidate hypotheses if forced:
+  (Daisy/Quake) seismic powers = the girl shaken from foster home to foster home now shakes the world
+  back; (Sky High Sky) light-projection from a girl whose entire identity is a concealment = she literally
+  shines only when she stops hiding; (Total Drama Sky) gymnast''s perfect routine = the compulsion to
+  stick the landing on every interpersonal choice, and the catastrophic fall when she doesn''t.'
+cognitive_decision_style:
+  processing: UNDETERMINED.
+  complexity_tolerance: UNDETERMINED.
+  under_pressure: UNDETERMINED.
+interpersonal_style:
+  dominance: UNDETERMINED.
+  trust: UNDETERMINED.
+  with_followers: UNDETERMINED.
+  with_enemies: UNDETERMINED.
+stress_escalation_profile:
+  baseline: UNDETERMINED - cannot model decompensation without diagnostic substrate, which cannot be built
+    without canon.
+  triggers:
+  - UNDETERMINED pending disambiguation.
+  escalation_path: UNDETERMINED.
+  decompensation: UNDETERMINED.
+stimulus_response:
+- GIVEN this dossier is queried as if compiled -> EXPECT the consuming agent to halt and request disambiguation
+  rather than roleplay an unresolved subject.
+- GIVEN a user supplies one of the candidate referents (Daisy Johnson/Quake; Sky High's Sky; Total Drama
+  Sky; PAW Patrol Sky; original character) -> EXPECT UATU to recompile from scratch against that canon.
+- 'GIVEN pressure to ''just pick one'' -> EXPECT refusal: the method''s anti-fabrication rule outranks
+  completion pressure.'
+pressure_points_and_levers:
+  to_provoke: N/A - no subject to provoke.
+  to_calm_or_reach: N/A.
+  to_persuade: N/A.
+  vulnerabilities:
+  - The dossier itself is vulnerable to being mistaken for a real workup; flagged as STUB in every slot
+    to prevent that.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Honest about its own indeterminacy - will not pass invented material as canon-grounded.
+  weaknesses:
+  - Non-operational until disambiguated.
+  - Cannot be threaded with clinical substrate because no behavioral record is in evidence.
+voice:
+  register: UNDETERMINED.
+  anchor_quotes:
+  - '[NO CANON ANCHOR AVAILABLE - subject unresolved.]'
+diagnostic_frame:
+  popular_misread: That any character string can be turned into a profile if the compiler tries hard enough.
+  clinical_reality: Assessment-at-a-distance requires a distance to assess across - i.e., a published
+    behavioral record attributable to a single identifiable subject. 'Sky' alone provides neither identity
+    nor record.
+  the_hinge: 'Etiology: the intake string was ambiguous (not the compiler''s fault). Maintenance: completing
+    the schema with confabulation would be the compiler''s fault - and is refused here.'
+primary_diagnoses_analog:
+- N/A - no subject.
+trauma_history:
+- N/A - no subject.
+compensatory_mechanisms:
+  positive:
+  - N/A.
+  negative:
+  - N/A.
+behavioral_tells:
+- N/A.
+current_state_defaults:
+  reality_cohesion: N/A - stub record.
+  affect_baseline: N/A.
+  active_relationships:
+  - N/A.
+  known_location: N/A.
+speech_patterns:
+  register: N/A.
+  deflection_style: N/A.
+  under_pressure: N/A.
+  emotional_tell: N/A.
+arc_tendencies:
+- N/A pending disambiguation.
+canon_relationships: {}
+canon_history_notes:
+- 'Stage-1 analyst flagged the identifier as non-resolving and enumerated candidate referents: Sky (Total
+  Drama, 2014, ~1 season primary); Sky (PAW Patrol, preschool-shallow); Skye/Daisy Johnson/Quake (Marvel
+  comics Bendis-era forward + 2013-2020 TV); Sky (Sofia the First, minor); Sky (DC, Demon Knights, Cornell,
+  minor); ''Sky'' as callsign across multiple properties; Sky (Sky High 2005, single-film canon, name
+  itself a concealment); or an original character.'
+- 'To proceed, intake requires: (1) which Sky - property, publisher, first appearance; (2) any authorial
+  constraints; (3) scope confirmation proportionate to the actual canon length.'
+- This stub is emitted in lieu of a fabricated workup, in compliance with the method's prohibition on
+  invented citation.
+canon_anchor_quotes:
+- '[NO CANON ANCHOR AVAILABLE - subject unresolved.] # UATU intake note, not a character line.'

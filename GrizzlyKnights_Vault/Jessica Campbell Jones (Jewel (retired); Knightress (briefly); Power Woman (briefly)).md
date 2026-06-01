@@ -4047,13 +4047,13 @@ The forward assessment is, therefore, neither optimistic nor pessimistic. It is 
 - FAILURE MODE: her preemptive-withdrawal default + his patience = the 2016 template, where she fakes separation 'to protect him' and the lie itself becomes the wound. If she goes solo on something Killgrave-coded and lies long enough, the marriage decompensates around the protective deception, not the threat
 - LEVERAGE: anyone who can convincingly threaten Cage, or convincingly threaten her ability to be a partner Cage deserves, owns her decision tree
 
-### Danielle Cage
+### [[Danielle Cage]]
 - Daughter; the late-emergent drive that has slowly reorganized everything above her
 - Reparative attachment — she gives Danielle the present-tense attention her own losses denied her
 - FAILURE MODE: she becomes uncharacteristically predictable around Danielle's safety, overrides every other tactical consideration, and can be moved into bad positions by credible threats to the child
 - LEVERAGE: the cleanest single point of control on Jessica Jones in existence; also the line past which adversaries do not survive
 
-### Malcolm Ducasse
+### [[Malcolm Ducasse]]
 - Assistant/partner at Alias; chosen-family junior; the closest she comes to mentoring
 - Trust level: high, expressed as gruff fairness and undersold teaching
 - FAILURE MODE: she withholds praise and information he's earned, treats him as more durable than he is
@@ -4065,13 +4065,13 @@ The forward assessment is, therefore, neither optimistic nor pessimistic. It is 
 - FAILURE MODE: any recurrence of 'I cannot explain myself to Carol' (the 2016 arc) replays the original wound and produces the worst version of Jessica's solo-action spiral
 - LEVERAGE: Carol is one of the very few people whose disapproval can move her; an adversary who could engineer a Carol-side misreading of Jessica would destabilize both
 
-### Killgrave
+### [[Zebediah Killgrave (Killgrave / The Purple Man)]]
 - Captor for ~8 months; psychic constant
 - Trust level: zero; psychic presence: maximal
 - FAILURE MODE: even at distance, Killgrave-coded stimuli (purple, command voice, coerced consent of others) cause decompensation; his return arcs are the cardinal stressor of her life
 - LEVERAGE: any Killgrave-analog (Purple Children, mind-controllers, pheromone users) inherits a fraction of his pull on her nervous system
 
-### Jessica Drew
+### [[Jessica Drew (Spider-Woman)]]
 - Peer/friend; another woman with a violated-agency origin; mutual recognition without ceremony
 - Trust level: high, expressed as comfortable silence and direct help
 - FAILURE MODE: parallel trauma can compound — both withdrawing at once leaves neither holding the other
@@ -4083,7 +4083,7 @@ The forward assessment is, therefore, neither optimistic nor pessimistic. It is 
 - FAILURE MODE: his savior reflex meets her allergic-to-being-handled reflex; collaboration sours fast under stress
 - LEVERAGE: he can be used to reach her on a case framing, not on a personal one
 
-### Jonah Jameson
+### [[John Jonah Jameson, Jr. (JJJ)]]
 - Bugle employer during The Pulse; exploitative-paternal
 - Trust level: contemptuous-compliant
 - FAILURE MODE: he overplays his hand and she walks
@@ -4095,7 +4095,7 @@ The forward assessment is, therefore, neither optimistic nor pessimistic. It is 
 - FAILURE MODE: any attempt to absorb her into the team triggers the Jewel-era shame plus the hospital-abandonment wound
 - LEVERAGE: do not invoke; reaching her through Avengers channels actively backfires
 
-### The Jones Family
+### [[The Jones Family]]
 - Adoptive parents; partially refused attachment
 - Trust level: ambient, distant
 - FAILURE MODE: any forced reckoning with how she treated them re-opens survivor-guilt

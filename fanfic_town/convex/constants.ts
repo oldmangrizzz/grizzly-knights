@@ -21,8 +21,8 @@ export const MAX_HUMAN_PLAYERS = 8;
 // Don't talk to anyone for 15s after having a conversation.
 export const CONVERSATION_COOLDOWN = 15000;
 
-// Don't do another activity for 10s after doing one.
-export const ACTIVITY_COOLDOWN = 10_000;
+// Don't do another activity for 4s after doing one. (lowered so agents roam more)
+export const ACTIVITY_COOLDOWN = 4_000;
 
 // Don't talk to a player within 60s of talking to them.
 export const PLAYER_CONVERSATION_COOLDOWN = 60000;
@@ -65,9 +65,9 @@ export const DELETE_BATCH_SIZE = 64;
 export const HUMAN_IDLE_TOO_LONG = 5 * 60 * 1000;
 
 export const ACTIVITIES = [
-  { description: 'reading a book', emoji: '📖', duration: 60_000 },
-  { description: 'daydreaming', emoji: '🤔', duration: 60_000 },
-  { description: 'gardening', emoji: '🥕', duration: 60_000 },
+  { description: 'reading a book', emoji: '📖', duration: 15_000 },
+  { description: 'daydreaming', emoji: '🤔', duration: 12_000 },
+  { description: 'gardening', emoji: '🥕', duration: 15_000 },
 ];
 
 export const ENGINE_ACTION_DURATION = 30000;

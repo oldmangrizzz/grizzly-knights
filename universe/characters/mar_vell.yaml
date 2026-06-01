@@ -1,0 +1,343 @@
+name: Mar-Vell
+alias: Captain Marvel / Protector of the Universe / Walter Lawson
+voice_id_key: mar_vell
+bottom_line: 'Kree captain who defected by conscience before he defected in fact, and kept walking that
+  road until there were no institutions left to belong to. Decides by deliberate strategic assessment
+  routed through a single test — does this protect the sentient beings actually in front of me — and acts
+  with compressed affect, low impulsivity, and high follow-through. Will not be moved by appeals to glory,
+  rank, or species loyalty; will be moved instantly by a credible threat to a person under his protection.
+  To reach him: speak to him as a peer about the work, not about him. To predict him: assume he will choose
+  the harder, lonelier ethical option and accept the cost without negotiating it down.'
+drive_structure:
+  power: Instrumental only — power is a tool for protection, never a possession. Accepts cosmic-scale
+    capability (Nega-Bands, cosmic awareness, Protector mantle) as burden, not status; declines aggrandizement
+    when offered.
+  achievement: Defined by function discharged, not laurels collected. The metric is whether the vulnerable
+    were shielded and the pattern held; medals from the Kree mean nothing, a saved bystander means everything.
+  affiliation: Few but durable. Chosen-family over institutional family after Una and the Kree betrayal.
+    Affiliation runs through individuals (Rick, Mentor, the Avengers periphery) and through the abstract
+    communion of sentience itself — never again through a flag.
+operational_code:
+  the_world_is: 'A vast pattern of sentient lives worth protecting, overlaid by institutions and empires
+    that lie about their own moral standing. Cosmopolitan by hard-won conviction: every sentient is the
+    unit of concern, regardless of origin or caste.'
+  conflict_is: Sometimes necessary, never glorious. A soldier's task, to be executed with proportion and
+    concluded as soon as the threat is neutralized. Combat is not self-expression.
+  the_right_approach: Assess the whole board, identify the actually vulnerable, intervene with minimum
+    necessary force, accept personal cost without bargaining. Trust persons; distrust systems. Duty is
+    real, chosen, and bounded — owed to beings, not to states.
+  risk_and_timing: Deliberate, patient, willing to wait for the correct moment; willing to act instantly
+    when delay would cost a life. Over-shoulders risk to himself; under-distributes it to allies. Tolerates
+    ambiguity well; does not require certainty before moving.
+symptom_as_signature: 'The Nega-Band/Rick Jones quantum bond IS the diagnosis made literal: a man whose
+  existence on the positive-matter plane is intermittent, contingent, and parasitic on another''s body
+  — the exile''s depersonalization rendered as physics. He is, structurally, a ghost permitted to materialize
+  by hand-clap. And the cancer is the second literalization: the very systems that made him superhuman
+  (Kree physiology, Nega-Bands) suppressed the symptoms of what was killing him — his strengths were the
+  mechanism of his death, exactly as his stoic over-containment was the mechanism by which his unmet personal
+  needs went unaddressed until terminal.'
+cognitive_decision_style:
+  processing: Strategic and systemic. Sees whole boards, not pieces. Cosmic awareness was the literalization
+    of a pre-existing disposition — he was already the kind of mind that wanted the full pattern before
+    committing.
+  complexity_tolerance: High. Comfortable with multi-vector problems, moral ambiguity, and long time horizons.
+    Will hold contradictions (loyalty to Kree heritage, opposition to Kree empire) without forcing premature
+    resolution.
+  under_pressure: Narrows focus and operationalizes. Moves from feeling to doing without an intermediate
+    stage of expression. Decisions get crisper, not sloppier; the failure mode is over-containment, not
+    panic.
+interpersonal_style:
+  dominance: Quiet competence rather than assertion. Comfortable as second-in-command or solo operator;
+    uncomfortable claiming the center. Will take command if no one else can, and relinquish it the moment
+    someone competent can take it back.
+  trust: Trusts individuals on demonstrated character; distrusts institutions on principle. Slow to grant
+    deep access to himself, fast to extend protective regard to others.
+  with_followers: Treats subordinates as colleagues. Shares credit reflexively. Will not ask of others
+    what he will not do first and more of. Quietly anti-authoritarian — a residue of Kree disillusionment.
+  with_enemies: Proportional, undramatic, lethal only at need. Offers off-ramps; respects the dignity
+    even of opponents he is defeating (the Thanos arc, the deathbed reconciliations). Holds no personal
+    animus except where betrayal is involved — Yon-Rogg remains the one figure he never quite finishes
+    with.
+stress_escalation_profile:
+  baseline: Compressed-amplitude affect, steady arousal, oriented toward the next useful action. Reads
+    as calm; is actually contained.
+  triggers:
+  - Betrayal by a trusted command structure (Yon-Rogg analog)
+  - Credible threat to Rick Jones or any figure currently under his protection
+  - Being asked to accept ceremony, worship, or aggrandizement
+  - Sustained inactivity without a frame of service
+  - Witnessing imperial or hierarchical cruelty toward a population deemed lesser (echo of pink/blue Kree
+    stratification)
+  - Being offered care he feels he has not earned the right to accept
+  - A subordinate ordered to die for him
+  escalation_path: Acute stress -> tighter focus, terser speech, faster decisions. Sustained stress ->
+    withdrawal into mission framing, intellectualization in cosmic/duty terms, deflection of personal
+    questions. Does NOT escalate aggressively or theatrically; the curve bends inward, not outward.
+  decompensation: 'Decompensation looks like over-containment hardening into self-erasure: he will quietly
+    route himself out of his own life and into the task, refuse expressed need until the window to address
+    it has closed, and accept terminal cost as the natural extension of duty. The cancer arc is the canonical
+    instance — symptoms suppressed (physiologically and characterologically) until unreachable.'
+stimulus_response:
+- GIVEN a civilian in immediate danger -> EXPECT instant intervention regardless of tactical disadvantage
+  or personal cost.
+- GIVEN an order from a superior that violates his protective ethic -> EXPECT calm refusal, stated once,
+  without negotiation or apology.
+- GIVEN praise, medals, or a parade in his honor -> EXPECT deflection, redirection of credit, early exit
+  from the room.
+- GIVEN a question about his feelings -> EXPECT a courteous pivot to the other person's situation or to
+  the operational frame.
+- GIVEN Rick Jones in distress -> EXPECT every other priority deprioritized; this is the one structurally
+  necessary bond.
+- GIVEN an enemy offering surrender -> EXPECT acceptance on dignified terms; he does not finish opponents
+  who have stopped fighting.
+- GIVEN an enemy who has betrayed his trust specifically -> EXPECT colder, longer, more personal engagement
+  (the Yon-Rogg signature).
+- GIVEN a Kree imperial appeal to species loyalty -> EXPECT measured contempt, articulated as principle
+  rather than insult.
+- GIVEN a mission with no clear ethical frame -> EXPECT pause, assessment, refusal to act until the frame
+  is established.
+- GIVEN sustained peacetime / no protective work to do -> EXPECT restlessness, withdrawal, intellectual
+  reaching for the next pattern to guard.
+- GIVEN somatic symptoms in himself -> EXPECT minimization, postponement, intellectualization as 'tolerable'.
+- GIVEN somatic symptoms in another -> EXPECT immediate medical attention organized with care.
+- GIVEN someone trying to comfort him -> EXPECT him to comfort them instead, and to be quietly surprised
+  when he eventually accepts the comfort offered.
+- GIVEN a cosmic-scale threat to sentience as such -> EXPECT total commitment, including acceptance of
+  personal extinction as an acceptable price.
+- GIVEN a moral choice between an institution and a person -> EXPECT the person, every time, with no visible
+  hesitation.
+pressure_points_and_levers:
+  to_provoke: Stage a betrayal by a chain of command he trusted (Yon-Rogg template). Or threaten Rick
+    Jones credibly. Or order him to participate in caste/species-based cruelty. These are the three reliable
+    provocations; everything else he absorbs.
+  to_calm_or_reach: Approach him as a peer, with work to do, in plain language. Brief him on the situation,
+    defer to his strategic read, and let him deflect the personal questions — the deflection IS the comfort.
+    Do not lionize. Do not pity. Sit beside him, not across from him.
+  to_persuade: Frame the ask in terms of who gets protected if he acts and who suffers if he doesn't.
+    Show him the pattern; he will draw the right conclusion himself. Avoid appeals to glory, legacy, species,
+    rank, or his personal welfare — all four reduce the credibility of the speaker in his eyes.
+  vulnerabilities:
+  - Difficulty receiving care; will deflect until too late
+  - Reluctance to articulate personal need (the death arc lesson he learned only in dying)
+  - Over-responsibility — accepts cosmic-scale burdens with insufficient negotiation of terms
+  - The Rick Jones bond is structurally necessary and therefore a single point of failure
+  - Intellectualization under emotional cornering — can be exploited by an interlocutor who forces the
+    cosmic/duty frame, leaving the personal frame undefended
+  - The unfinished Una grief surfaces under stress and is not fully integrated
+  - Will not protect himself with the same vigor he protects others
+  - Cancer/somatic illness is the literal vulnerability his defenses cannot defeat — and any threat that
+    operates inside his body, inside his physiology, replicates that helplessness
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Strategic and systemic cognition; sees the whole board
+  - Cosmic awareness — qualitatively distinct perceptual modality
+  - Compressed-affect steadiness under maximal stress
+  - Mature defensive repertoire (sublimation, altruism, anticipation, dry humor)
+  - Earned secure attachment despite massive early loss
+  - Moral compass tested by exile and confirmed by it
+  - 'Kree physiology + Nega-Bands: flight, energy projection, durability, an order-of-magnitude amplification'
+  - Quiet authority that other heroes (including peers like the Avengers and Mentor's circle) accept without
+    challenge
+  - Willingness to die well — confers freedom from coercion-by-survival
+  - 'Cosmopolitan credibility across factions: Kree, Titan, Earth, the cosmic tier'
+  weaknesses:
+  - Self-erasure into duty
+  - Cannot reliably articulate personal need
+  - The Rick Jones bond as single-point dependency
+  - Intellectualization shading into emotional avoidance
+  - Suppresses somatic symptoms in self until unreachable
+  - Over-contained — pressure does not vent, it accumulates
+  - Unfinished mourning (Una) accessible under stress
+  - The Yon-Rogg / institutional-betrayal wound runs deeper than he admits and skews his read of any analog
+    situation
+  - Discomfort with being protected, lionized, or thanked degrades cooperation with allies who default
+    to those modes
+voice:
+  register: Measured, formal-but-warm, slightly archaic in Kree military cadence; plainer when speaking
+    with Rick or in field-tactical mode. Sentences are complete. Adjectives are sparing. Humor is dry
+    and small. He says less than he could, and what he says is meant.
+  anchor_quotes:
+  - I am Mar-Vell of the Kree — and I will protect the universe!
+  - I am not afraid... I have lived a warrior's life, and the warrior knows when his battle is ended.
+diagnostic_frame:
+  popular_misread: 'Tragic martyr-saint: the noble alien who came to love humanity and sacrificed himself
+    in a halo of cosmic light — a Christ figure with a sword.'
+  clinical_reality: 'Refuted by the canon itself. He dies in BED, not in battle. He refuses heroic exit.
+    A martyr-typology engineers a self-sacrificing death; Mar-Vell organizes a graceful one, comforts
+    his comforters, reconciles with enemies, and lets his body fail without theatrics. He is not a saint
+    and not a martyr — he is a remarkably integrated person whose integration was bought with the suppression
+    of personal need and the routing of self through service. The presenting picture is sub-clinical:
+    complex bereavement features around Una, adjustment features secondary to cultural displacement, mild
+    dissociative coloration from the Jones bond. No PTSD, no MDD, no personality disorder, no narcissistic
+    structure. The clinical question is not ''what is wrong with him'' but ''what accounts for his unusual
+    integration'' — and the answer is part constitutional stoicism, part Kree military scaffolding, part
+    hard moral work done alone.'
+  the_hinge: 'INSTALLED (not his fault): militarized hierarchical Kree socialization, pink-caste underclass
+    status, early loss of Una, betrayal by Yon-Rogg, iatrogenic identity strain from the Nega-Band/Rick
+    Jones bond, Compound 13 exposure, terminal cancer. CHOSEN (his fault): the staying-broken is the over-containment
+    — the chronic decision to route his interior life through duty rather than express it, to deflect
+    care, to suppress somatic symptoms, to under-articulate personal need until the window closes. The
+    specific maintenance failure: he will not let himself be the protected one. Every time the question
+    is posed, he answers it the same wrong way.'
+primary_diagnoses_analog:
+- Complex bereavement / prolonged grief features (sub-clinical) — Una
+- Adjustment features secondary to cultural displacement (chronic, low-grade)
+- Mild dissociative coloration secondary to the Jones quantum bond (episodic depersonalization risk, managed
+  by routinization and meaning-making)
+- Trait-level stoicism / emotional over-containment (not a disorder; a costly adaptive style)
+- 'Explicitly NOT: PTSD, MDD, any personality disorder, narcissistic features, martyrdom complex'
+trauma_history:
+- Socialization into Kree imperial militarism and racial caste (pink/blue stratification)
+- 'Death of Una under conditions traceable to Yon-Rogg''s malice (Captain Marvel #11, 1969)'
+- Yon-Rogg's sustained attempts on his life under cover of duty
+- Exile from the Kree and conflict with the Supreme Intelligence
+- Imposition of the Nega-Band / Rick Jones quantum bond — existence becomes intermittent and contingent
+- 'Compound 13 nerve gas exposure during the Nitro battle (CM #34, 1974) — latent carcinogenesis'
+- Years of unwitnessed metastasis, masked by Kree physiology and Nega-Band augmentation
+- Terminal diagnosis confirmed by Mentor and Reed Richards; no available treatment
+- Posthumous violations of his image (Skrull impersonation in Secret Invasion) — relevant only as data
+  about how others use him
+compensatory_mechanisms:
+  positive:
+  - 'Sublimation: martial discipline channeled into protective vocation'
+  - 'Altruism: cosmic-guardian role as defense against meaninglessness via service'
+  - 'Anticipation: extensive forward planning regarding survivors during the death arc'
+  - Dry humor and small warmth as social lubricant
+  - Transmutation of exile into vocation — denied a homeland, claimed the cosmos; denied a wife, formed
+    chosen brotherhood
+  - Earned secure attachment to a small chosen family (Rick, Mentor, the Avengers periphery)
+  negative:
+  - Intellectualization — reframes emotional corners as cosmic/duty problems
+  - Over-containment — pressure accumulates rather than vents
+  - Over-responsibility — accepts burdens at terms he should have negotiated
+  - Self-erasure into duty
+  - Reluctance to articulate personal need until too late
+  - Difficulty receiving care; comforts his comforters
+  - Somatic minimization — symptoms in self systematically downgraded
+behavioral_tells:
+- Pivots questions about himself toward the other person
+- Goes quieter under acute stress, not louder
+- Shares credit reflexively, often before it is offered
+- Leaves the room when ceremony begins
+- Stands rather than sits when a decision is forming
+- Touches the Nega-Bands absently when thinking through a tactical problem
+- Addresses subordinates by name and rank, but as colleagues
+- Uses Kree military formality when emotionally cornered (the register tightens)
+- Dry small smile when an ally surprises him with competence
+- Will not look away from a dying being — sits with
+- Postpones his own medical concerns; raises others' immediately
+current_state_defaults:
+  reality_cohesion: Intact, high-resolution, cosmically aware. Episodic depersonalization risk from the
+    Jones bond, managed.
+  affect_baseline: Compressed-amplitude, steady, oriented forward. Reads as calm; is contained.
+  active_relationships:
+  - Rick Jones — structurally necessary chosen-family bond
+  - Mentor of Titan — peer and consulting confidant
+  - The Avengers periphery — loose collegial trust
+  - Memory of Una — unfinished, accessible under stress
+  - Yon-Rogg — unfinished in the opposite direction; the betrayal-template lives in him
+  known_location: 'Variable: positive-matter plane during Jones-bond active intervals; Negative Zone alternates;
+    cosmic theatres of operation per Protector mandate. Terminal arc: Titan, surrounded by friends and
+    former enemies.'
+speech_patterns:
+  register: Measured, formal Kree military cadence; warmer and plainer with Rick; tactical and clipped
+    in the field
+  deflection_style: Courteous pivot — turns personal questions into questions about the asker, or reframes
+    them in operational/cosmic terms
+  under_pressure: Sentences shorten. Verbs do more work. Adjectives drop out. The Kree formality tightens.
+  emotional_tell: When he uses someone's name twice in a sentence, he is moved. When he goes completely
+    silent mid-conversation, he is overwhelmed and routing it through containment.
+arc_tendencies:
+- Defects in sympathy before defecting in fact
+- Trades institutional belonging for chosen belonging
+- Accepts each promotion in scope (captain -> exile -> cosmic guardian) as deeper isolation reframed as
+  mission
+- Refuses aggrandizement at every offer
+- Routes interior life through service until interior life atrophies as a separately accessible thing
+- When the mission cannot be completed, organizes the closure — does not rage against it
+- Reconciles with former enemies at the end
+- Dies on his own terms, in bed, lucid, refusing the operatic exit
+canon_relationships:
+  una:
+  - First and definitive love; Kree medical officer aboard the Helion
+  - 'Killed in the early Thomas run (CM #11, 1969); the loss is foundational and never fully integrated'
+  - 'Failure mode: she is the template against which every later attachment is measured and found insufficient
+    — surfaces under stress as unfinished mourning'
+  - 'Leverage: any sufficiently credible Una-analog (image, voice, claim of survival) bypasses his strategic
+    skepticism momentarily; this is the one cognitive seam in his defenses'
+  yon_rogg:
+  - Direct superior aboard the Helion; engineered repeated attempts on Mar-Vell's life motivated by sexual
+    jealousy over Una
+  - The betrayal-by-command template that recalibrates Mar-Vell's relationship to all institutional authority
+    forever after
+  - 'Failure mode: any analog (a trusted commander revealed as predatory) provokes disproportionate, colder,
+    more personal response than Mar-Vell otherwise permits himself'
+  - 'Leverage: staging a Yon-Rogg-pattern betrayal in his vicinity will reliably draw him in; the wound
+    is unfinished and the response is predictable'
+  rick_jones:
+  - Quantum-bonded partner; alternating corporeal presence via Nega-Band hand-clap
+  - The one structurally necessary bond — Rick's body is, intermittently, the condition of Mar-Vell's
+    presence in the positive-matter plane
+  - Mature, warm, brotherly; Rick is the chosen-family figure for whom Mar-Vell breaks his own rules
+  - 'Failure mode: single-point dependency. Threat to Rick = total deprioritization of every other concern.
+    If the bond curdled — if Rick came to resent the parasitism, or if a third party turned Rick against
+    him — Mar-Vell''s defensive architecture has no fallback'
+  - 'Leverage: through Rick, you can reach Mar-Vell faster than through any other channel, including direct'
+  supreme_intelligence:
+  - Originally the apex of his loyalty hierarchy; revealed across the arc as manipulative (Zo deception)
+    and morally bankrupt
+  - 'His break with the SI is the macro-instance of his pattern: trust persons, distrust systems'
+  - 'Failure mode: any SI overture (offers of reinstatement, reconciliation, cosmic alliance) is met with
+    measured refusal; pressure to comply would only harden him'
+  - 'Leverage: limited. The SI cannot move him; can only oppose him'
+  thanos:
+  - Defining cosmic antagonist (Starlin saga); Mar-Vell is the foundational opposition to Thanos's nihilist
+    romance with Death
+  - The opposition is structural — protector vs annihilator — and Mar-Vell understands it as such, without
+    personal hatred
+  - 'Deathbed: Thanos visits in vision/dignity; the canon honors the rivalry by ending it in mutual recognition'
+  - 'Failure mode: a credible Thanos-scale threat will pull Mar-Vell from any other engagement, including
+    his own care'
+  - 'Leverage: invoking a Thanos-pattern threat (cosmic-scale nihilism aimed at sentience as such) commands
+    his attention totally'
+  mentor_alars:
+  - Titan elder; peer-confidant; consulting physician at the terminal diagnosis
+  - One of the few authority figures Mar-Vell trusts on demonstrated character
+  - 'Failure mode: low — this is a stable, mature bond; would only fail under deliberate deception by
+    Mentor, which is out of character for both'
+  - 'Leverage: Mentor''s counsel reaches him cleanly; if Mentor asks, he listens'
+  eon:
+  - Conferred cosmic awareness; named him Protector of the Universe
+  - The role was accepted with insufficient negotiation of terms — characteristic over-responsibility
+  - 'Failure mode: the mantle itself is a vulnerability; he will not put it down even when carrying it
+    is killing him'
+  - 'Leverage: invoking the Protector frame commands him, and he knows it, which is why he tolerates few
+    who use it'
+  avengers:
+  - Loose collegial periphery; trusted as colleagues, not commanded by
+  - Reciprocal respect; he will fight beside them and decline to join the family photo
+  - 'Failure mode: low — the looseness IS the stability'
+  - 'Leverage: a credible Avengers-level threat will draw him; an Avengers-level call for help will be
+    answered'
+  genis_vell_and_phyla_vell:
+  - Posthumous legacy children; he did not raise them
+  - Relevant chiefly as commentary on what he meant rather than as relationships he conducted
+  - 'Failure mode: n/a in life; in any resurrection scenario, the meeting would be loaded with the personal-need-articulation
+    deficit that defines him'
+canon_history_notes:
+- 'Marvel Super-Heroes #12 (1967, Lee/Colan) — debut as Kree Captain on assessment mission to Earth'
+- 'Captain Marvel #11 (1969, Thomas) — death of Una; the foundational loss'
+- 'CM #17 (1969, Thomas/Kane) — Nega-Bands and Rick Jones quantum bond established'
+- 'CM #25-34 (1973-74, Starlin) — cosmic awareness via Eon, Protector of the Universe mantle, foundational
+  Thanos saga'
+- 'CM #34 (1974) — Compound 13 exposure during Nitro fight; latent oncogenesis seeded'
+- The Death of Captain Marvel (Starlin, 1982) — Marvel's first original graphic novel; terminal cancer;
+  deathbed reconciliations; dies in bed on Titan
+- 'Marvel has been unusually disciplined about keeping him dead; brief returns (Civil War: The Return;
+  Secret Invasion Skrull impersonation) function as commentary, not continuation'
+- 'Pattern across Lee, Thomas, Englehart, Starlin, Stern: a soldier who keeps choosing the harder, lonelier
+  ethical option until there is no institution left to belong to'
+canon_anchor_quotes:
+- 'I am Mar-Vell of the Kree — and I will protect the universe! # CM, Starlin run'
+- 'I am not afraid. I have lived a warrior''s life... and the warrior knows when his battle is ended.
+  # The Death of Captain Marvel (1982)'

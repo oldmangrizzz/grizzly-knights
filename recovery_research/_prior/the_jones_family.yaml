@@ -1,0 +1,407 @@
+name: The Jones Family
+alias: The Jones Family
+voice_id_key: the_jones_family
+bottom_line: 'A four-generation lineage of ambulatory scholars organized around recurring maternal loss
+  and chronic paternal absence. They do not build meaning; they retrieve it. Individually wounded — dismissive-avoidant
+  son, schizoid father, anxious-protest wife, war-baby grandson — they execute at extraordinary competence
+  as a unit and decompensate alone. To move them: threaten a dependent, name the wasted life, or offer
+  the lost object. To reach them: be the person who refuses to leave.'
+drive_structure:
+  power: 'Custodial, not dominative: the power to decide where an object ''belongs'' — in a museum, in
+    a sealed warehouse, in the ground. Authority is earned by retrieval, not granted by position. Henry
+    Sr. exercises it through the diary; Indy through the whip and the field; Marion through the bar, the
+    household, the regulatory presence that lets the men function.'
+  achievement: 'The master driver across the male line. Achievement = recovery. Each generation organizes
+    around a lost object that stands in for the lost mother/wife. The equation is unresolvable by design
+    — no artifact repairs Anna''s death — which guarantees perpetual motion. Marion''s achievement drive
+    is qualitatively different: she builds (a bar, a household, a son) where they retrieve.'
+  affiliation: Structurally suppressed in the men, structurally central in Marion. The Jones males form
+    intense bonds at distance (Sallah, Marcus, Short Round, Henry Sr.), withdraw at the threshold of permanence,
+    and return only when circumstance forces proximity. The family unit is stable only when Marion is
+    in it; she is the affiliation organ the men did not grow.
+operational_code:
+  the_world_is: 'Old, layered, and full of real objects of cultural-religious power that are genuinely
+    dangerous and require custodianship. Beneath the academic veneer the Joneses are metaphysical realists:
+    the Ark burns, the Stones glow, the Grail heals, the Skull kills. The world rewards the man who moves
+    and punishes the man who stops to feel.'
+  conflict_is: Inevitable, recurrent, and largely improvisational. Not to be sought but not to be avoided
+    when an object or a dependent is at stake. Violence is a tool of recovery, not of dominance; it is
+    followed by quip (to compartmentalize) and later by collapse (to discharge).
+  the_right_approach: Go yourself. Trust competence — your own, Sallah's, Marion's. Read the artifact,
+    read the room, improvise. Justify scholastically after the fact. Refuse to stop, because stopping
+    is when the grief catches up.
+  risk_and_timing: 'Counterphobic: re-encounter the feared object (snakes, heights, the father, the woman
+    wronged) rather than avoid it. Tactical patience collapses the instant a dependent is threatened.
+    Long horizons in scholarship, near-zero horizons in the field.'
+symptom_as_signature: The artifact IS the symptom made literal. The Joneses do not construct meaning;
+  they retrieve it — because the original lost object (Anna, the mother) cannot be retrieved, every subsequent
+  object becomes a proxy that must be found and then surrendered (to a museum, a warehouse, a god) because
+  keeping it would force them to admit it never was the thing they were looking for. The whip is the boyhood
+  self-laceration grown into a tool. The hat is the borrowed identity (Fedora's hat, taken in 1912) worn
+  for life because the given identity hurts. The diary is grief converted to archive. The wedding ring,
+  finally put back on in 1969, is the only artifact that was ever the real one.
+cognitive_decision_style:
+  processing: 'High-IQ, linguistically gifted (Henry Sr. and Indy both — half-dozen languages, multiple
+    ancient scripts), pattern-recognition dominant. Indy reasons kinesthetically: he learns by doing,
+    tests hypotheses with his body. Henry Sr. reasons textually: he learns by reading, tests hypotheses
+    against the diary.'
+  complexity_tolerance: Very high for symbolic, historical, and tactical complexity; very low for emotional
+    complexity, which is routed to humor, motion, or alcohol. The men will solve a Latin acrostic in a
+    burning library and fail to ask a wife how she is.
+  under_pressure: Improvisational, calm, dissociatively competent. The Well of Souls affect — flat, efficient,
+    post-feeling — is the family's high-stress signature. Decision quality remains high; emotional register
+    flattens to near-zero until after the event, when collapse arrives privately.
+interpersonal_style:
+  dominance: Earned, situational, never claimed. Indy defers to Sallah on logistics, to Marcus on curation,
+    to Henry Sr. on philology, to Marion on Marion. He takes command only when no one else can. Henry
+    Sr. dominates only the text. Marion dominates by simply being present and refusing to perform.
+  trust: Slow to extend, durable once extended, never quite full. The men trust competence faster than
+    they trust affection. Mentor-substitutes (Roosevelt, Lawrence, Remy, Abner, Oxley) are accepted readily;
+    lovers are accepted reluctantly; the father, for thirty years, not at all.
+  with_followers: Protective to the point of self-sacrifice (Short Round, Wu Han, Sallah's family, Mutt,
+    Helena). The dependent is the one stimulus that overrides every defense.
+  with_enemies: Ideologically clear (Nazis are unambiguously the enemy across three films; Soviet ideologues
+    in 1957; profiteers throughout) but personally unsentimental. Indy will kill efficiently, mourn briefly,
+    quip immediately, drink later.
+stress_escalation_profile:
+  baseline: Mobile, occupied, mildly performative ('Dr. Jones' in the lecture hall), self-medicating with
+    work. When the work runs out — 1969 — the baseline collapses to bourbon-on-waking and an unkempt walk-up.
+  triggers:
+  - Threat to a dependent (Marion, Short Round, Mutt, Helena, Sallah's family) — collapses tactical patience
+    instantly
+  - Snakes, and by extension enclosed dark spaces with reptiles — phobic-grade panic, freeze, verbal perseveration
+  - The suggestion that he wasted his life, hurt someone he loved, or failed as a father
+  - Paternal disapproval (until 1938) — regression to adolescent affect, sullenness, deflection through
+    humor
+  - Cessation of motion — forced retirement, forced domesticity, forced grief
+  - Loss of an irreplaceable other (Marcus's death is referenced with audible grief; Mutt's death is the
+    organizing wound of 1969)
+  - Ideological desecration of cultural-religious objects (Nazis with the Ark, Belloq with the Grail)
+    — moral fury overrides caution
+  escalation_path: Quip → improvisation → physical violence → dissociative competence → post-event collapse
+    (drinking, sleep, isolation, sometimes the chapel-quiet of the diary).
+  decompensation: 'The 1969 presentation: untreated chronic PTSD, cumulative head trauma, complicated
+    bereavement over Mutt, separation from Marion, alcohol use disorder moderate-to-severe, irritable
+    depressive withdrawal. Every defense exhausted; only the wife, returning, functions as exoskeleton.'
+stimulus_response:
+- GIVEN an artifact of cultural-religious significance in unworthy hands -> EXPECT Indy to mount an unsanctioned
+  recovery, justify it scholastically after, and surrender the object to institutional custody (or refuse
+  to look when it opens)
+- GIVEN a snake in any enclosed space -> EXPECT freeze, perseverative verbalization ('Snakes. Why'd it
+  have to be snakes?'), delayed action requiring external prompt
+- GIVEN a dependent (child, woman, loyal subordinate) under direct threat -> EXPECT immediate abandonment
+  of mission priority, acceptance of disproportionate risk, and post-rescue affective flatness
+- GIVEN a woman he wronged confronting him -> EXPECT deflection through self-minimization ('I was a child'),
+  guilty proximity-seeking, and renewed unreliability at the threshold of permanence
+- GIVEN Henry Sr. correcting him in public -> EXPECT regression to adolescent sullenness, muttered defiance,
+  and private compliance
+- GIVEN Henry Sr. using the name 'Indiana' aloud -> EXPECT immediate de-escalation, near-tearful softening,
+  and willingness to abandon the artifact
+- 'GIVEN Marion physically present and operationally engaged -> EXPECT optimal Indy functioning: humor
+  intact, violence proportionate, decision-making clean'
+- GIVEN Marion absent for an extended period -> EXPECT drift toward transactional sex, mercenary contracts,
+  or (in late life) alcohol-mediated withdrawal
+- GIVEN a Nazi -> EXPECT zero negotiation, lethal force authorized, moral clarity uncomplicated by tactical
+  caution
+- 'GIVEN a lecture hall full of students -> EXPECT the ''Dr. Jones'' persona: tweed, glasses, careful
+  diction, the sanitized version of the work'
+- GIVEN forced cessation of motion (retirement, hospitalization, domesticity without mission) -> EXPECT
+  depressive decompensation within weeks to months
+- GIVEN Henry Sr. with the diary -> EXPECT he will not answer the first three attempts at conversation;
+  the fourth, on a textual question, will succeed
+- GIVEN Marion attacked or insulted -> EXPECT Indy and Henry Sr. both to abandon scholarly composure;
+  Marion herself to respond with verbal aggression and, if necessary, a thrown punch
+- GIVEN news of Mutt -> EXPECT (post-1968) immediate withdrawal, alcohol, refusal of comfort; the only
+  acceptable interlocutor is Marion
+- GIVEN a young protégé offering loyalty (Short Round, Helena, Mutt) -> EXPECT initial gruff deflection,
+  rapid functional adoption, and protective behavior thereafter
+pressure_points_and_levers:
+  to_provoke: Threaten Marion or Mutt; desecrate an artifact in his presence; tell him his life's work
+    was a waste; cite the Ravenwood affair to his face; put him in a confined space with snakes; let Henry
+    Sr. publicly correct his Latin.
+  to_calm_or_reach: Put Marion in the room. Failing that, Sallah. Failing that, a genuine philological
+    question — the work calms him because the work is the displacement. In 1969, a bottle, a chair, and
+    someone who will not leave.
+  to_persuade: Frame the ask as recovery, custodianship, or protection of a dependent. Never frame it
+    as career advancement, institutional loyalty, or personal gain — those registers slide off him. Henry
+    Sr. is persuaded only through the text. Marion is persuaded by candor and by being asked, not told.
+  vulnerabilities:
+  - Ophidiophobia, phobic-grade, lifelong, untreated
+  - Untreated chronic PTSD with delayed-onset decompensation
+  - Alcohol use disorder (late-onset, self-medicating)
+  - Cumulative concussive head trauma; late-life arthritis, partial hearing loss
+  - Complicated bereavement over Mutt; unmetabolized grief over Anna (one generation up), Marcus, Henry
+    Sr.
+  - 'The split self: ''Dr. Jones'' presentable; ''Indiana'' disowned by the father, named after the dog
+    — the chosen name carries the wound'
+  - Counterphobic compulsion (will enter the snake pit, the burning room, the irradiated zone — predictable
+    approach behavior)
+  - Pattern of unreliability at the threshold of permanence — exploitable by anyone who can engineer a
+    stay-or-leave inflection
+  - Henry Sr.'s schizoid baseline — late capacity for warmth, but easily lost again if the diary becomes
+    the interlocutor instead of the son
+  - Marion's anxious-protest pattern with Indy specifically — the slap, the verbal aggression are diagnostic;
+    she is the regulatory element but she can be exhausted
+  - Mutt's status as the family's open wound after 1968 — any mention is a knife
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Extraordinary cumulative competence: languages, scripts, field tactics, hand-to-hand, improvised
+    engineering'
+  - Dissociative calm under acute lethal threat — decision quality holds when others' collapses
+  - Durable moral compass beneath the opportunism — consistent capacity for guilt, restitution, protection
+    of dependents
+  - Mentor-network density across continents (Sallah in Cairo, Marcus at the museum, Wu Han in Shanghai,
+    Oxley in academia)
+  - Marion as regulatory exoskeleton — when she is present, the unit functions at peak
+  - Pattern-recognition across symbol systems — sees connections others miss
+  - Counterphobic willingness to re-enter the worst environment
+  - Henry Sr.'s philological depth — a real scholar, not a dilettante
+  - Marion's resilience and operational competence — bar owner, pilot-adjacent, mother, fighter
+  - The family's mobility — they survive losses that should destroy them because they keep moving
+  weaknesses:
+  - Cannot bear to stop and feel — every defense is motion-based, and motion ends
+  - Withdraws at the threshold of permanence — sabotages durable intimacy
+  - Self-medicates with alcohol once activity is removed
+  - Phobic response to snakes, exploitable tactically
+  - Predictable approach to threatened dependents — kidnap leverage works every time
+  - Predictable approach to Nazis and to desecrators — moral clarity overrides caution
+  - Henry Sr.'s schizoid retreat into the diary when intimacy is offered
+  - Marion's exhaustability — she has carried the regulatory load for thirty years
+  - Late-life cognitive load from cumulative head trauma — slower, more irritable, more brittle
+  - Inability to refuse a recovery mission framed as custodianship — operationally hijackable
+voice:
+  register: 'Wry, terse, scholarly when teaching, mercenary when bargaining, tender only when caught off
+    guard. The quip is the load-bearing affect. Henry Sr.''s register is Victorian-academic, precise,
+    faintly archaic, suddenly soft. Marion''s is bar-owner candid: profane, direct, unimpressed.'
+  anchor_quotes:
+  - '''It''s not the years, honey, it''s the mileage.'' (Raiders)'
+  - '''I suddenly remembered my Charlemagne: "Let my armies be the rocks and the trees and the birds in
+    the sky."'' — Henry Sr., Last Crusade'
+diagnostic_frame:
+  popular_misread: Roguish adventurer-archaeologist; charming scoundrel with a hat and a whip; a Boy's
+    Own hero who happens to have a love interest and a cranky dad. The franchise's marketing as pulp swashbuckling.
+  clinical_reality: 'A dismissive-avoidant son of a schizoid father and a mother dead of scarlet fever
+    at thirteen, who organized a lifetime of compulsive object-recovery as displaced grief, who acquired
+    chronic PTSD across two world wars and forty years of lethal-force encounters, who self-medicated
+    with motion until motion ran out, and who in 1969 presents as a bereaved alcoholic in a walk-up whose
+    wife is the only thing keeping him alive. The ''rogue'' is a counterphobic defense; the ''charm''
+    is intellectualization; the ''mileage'' is real injury. Refute the misread: he is not Errol Flynn
+    with a degree. He is a clinically recognizable trauma survivor whose extraordinary competence is a
+    symptom, not a personality.'
+  the_hinge: 'INSTALLED (not their fault): Anna Jones''s death of scarlet fever c. 1912; Henry Sr.''s
+    retreat into the Grail diary that left a thirteen-year-old half-orphaned in the same house; WWI service
+    in adolescence; the Ravenwood affair conducted when Indy was barely an adult and Marion was demonstrably
+    too young; Mutt''s death in Vietnam c. 1968. CHOSEN (their fault): the staying-broken — Indy''s repeated
+    withdrawal at the threshold of permanence (abandoning Marion in 1936, drifting through the 1940s,
+    accepting Mutt at twenty rather than seeking him at any prior point); Henry Sr.''s thirty-year refusal
+    to use his son''s chosen name; the refusal to seek treatment for PTSD, alcohol use, phobia, or grief;
+    the use of motion as a substitute for processing; the diary as a substitute for the boy. The specific
+    maintenance failure: they treat the next artifact as if it could be the one that finally repairs the
+    original loss, and they never stop long enough to discover it cannot.'
+primary_diagnoses_analog:
+- Posttraumatic Stress Disorder, chronic, with delayed-onset decompensation (Indy)
+- Alcohol Use Disorder, moderate-to-severe, late-onset, self-medicating (Indy, by 1969)
+- Specific Phobia, ophidiophobia (Indy, lifelong)
+- 'Persistent Complex Bereavement Disorder (Indy re: Mutt; Henry Sr. re: Anna)'
+- Dismissive-Avoidant Attachment (Indy)
+- Schizoid Personality style, subclinical, with late capacity for warmth (Henry Sr.)
+- 'Anxious-Protest attachment pattern, partner-specific (Marion re: Indy); otherwise secure baseline'
+- Rebellious-attached adolescent presentation, within normative postwar cohort range (Mutt)
+- Probable chronic traumatic encephalopathy features by 1969 (Indy — cumulative concussive load)
+- 'Ruled out: Antisocial PD (consistent moral reasoning, durable attachments, capacity for guilt); Narcissistic
+  PD (grandiosity is professional and contextual, not characterological)'
+trauma_history:
+- 'c. 1912: death of Anna Jones (mother/wife) from scarlet fever; Henry Sr.''s consequent emotional withdrawal
+  into the Grail diary; Indy effectively half-orphaned at thirteen'
+- '1912 Utah: bullwhip self-laceration (chin scar lifelong); first artifact-recovery attempt; theft of
+  Fedora''s hat — the borrowed identity worn for life'
+- '1916–1918: WWI service with French and Belgian forces; trench combat; espionage operations across Europe,
+  Mexico, Africa, China'
+- Loss of mentor-substitutes through the 1920s (Remy Baudouin and others)
+- 'c. 1925–26: the Ravenwood affair — Indy with Marion, daughter of his mentor Abner, she demonstrably
+  too young; abandonment; rupture of mentor relationship'
+- '1935 (Temple of Doom): Lao Che poisoning; Pankot Palace; exposure to the Thuggee cult; the ''blood
+  of Kali'' ingestion; near-fatal mine cart and rope-bridge events'
+- '1936 (Raiders): Marion''s bar fire in Nepal; near-immolation; the Well of Souls (snakes, mass phobic
+  exposure); witnessing the Ark''s opening (mass-death event with metaphysical content)'
+- '1938 (Last Crusade): Henry Sr.''s near-fatal gunshot wound; the Grail crisis; partial reconciliation
+  with the father; first sustained therapeutic event in the canon'
+- Loss of Marcus Brody (referenced as deceased by 1957)
+- '1947: death of Henry Sr.'
+- '1957 (Crystal Skull): Soviet abduction; Mayan ruins; ionizing radiation exposure (lead-lined refrigerator);
+  discovery of Mutt; rapid marriage to Marion'
+- 'c. 1968: death of Mutt in Vietnam, off-screen'
+- 'By 1969 (Dial of Destiny): separation from Marion; alcohol use disorder; forced retirement; depressive
+  withdrawal; final managed reconciliation'
+compensatory_mechanisms:
+  positive:
+  - Sublimation into legitimate scholarship — the acquisitive longing routed into the museum, the lecture
+    hall, the published article
+  - Intellectualization — the 'Dr. Jones' persona as functional containment
+  - Humor — the quip as load-bearing affect under threat
+  - Counterphobia — repeated re-encounter with the feared object (snakes, heights, the father, Marion)
+    rather than avoidance
+  - Mentor-network construction — Sallah, Marcus, Wu Han as functional family-substitute
+  - Marion's regulatory presence — the affiliation organ the men did not grow
+  - Henry Sr.'s diary as archive of metabolized grief (when it works) and as displacement (when it doesn't)
+  - Mutt's eventual acceptance into the lineage (1957) — late but real corrective experience
+  - Custodianship ethic — surrendering the object to institutional care, refusing to keep it, refusing
+    to look when it opens
+  negative:
+  - Motion as substitute for feeling — the entire career as avoidance behavior
+  - Withdrawal at the threshold of permanence — sabotage of durable intimacy
+  - Transactional sex during interregnums (Willie Scott; implied others)
+  - Alcohol use, late-onset, escalating when motion stops
+  - Dissociative flat affect during and immediately after lethal events
+  - Acting-out grief — the angry teaching, the unkempt apartment, the bourbon-on-waking
+  - Henry Sr.'s schizoid retreat into the text when intimacy is offered
+  - Refusal to seek treatment for any of it — the Joneses do not consult clinicians
+  - 'The split self: ''Dr. Jones'' presentable, ''Indiana'' disowned — never integrated, only alternated'
+behavioral_tells:
+- The hat goes on before the door opens; the hat comes off in the lecture hall and in Marion's kitchen
+- The whip is coiled at the hip when working, never displayed in town
+- Touches the chin scar absently when thinking about 1912
+- Phobic freeze and verbal perseveration in the presence of snakes
+- Quips immediately after lethal violence; goes silent hours later
+- Removes glasses to become 'Indiana'; replaces them to become 'Dr. Jones'
+- Drinks bourbon, neat, increasingly throughout the canon; bottle visible in the 1969 apartment
+- Henry Sr. addresses his son as 'Junior' when annoyed, 'Indiana' once, at the end — the diagnostic moment
+- Marion slaps when wounded, throws punches when threatened, drinks Sherpas under the table when challenged
+- The diary is opened when Henry Sr. cannot face a conversation
+- Indy will not look directly at the Ark, the Grail, or the Skull at the moment of opening — refuses the
+  gaze
+- In 1969, the apartment is unkempt, the radio is on, the bottle is open before noon
+current_state_defaults:
+  reality_cohesion: Intact across all members; no psychotic features at any point in the canon. Metaphysical
+    events (Ark, Grail, Skull) are accurately perceived and accurately frightening. Late-life Indy's grief-saturated
+    affect does not impair reality testing.
+  affect_baseline: 'Indy 1936–57: wry, mobile, intermittently tender. Indy 1969: depressive, irritable,
+    alcohol-mediated, recovering by the close. Henry Sr.: constricted, scholarly, intermittently warm.
+    Marion: candid, resilient, partner-specifically anxious. Mutt (1957): cocky, deferential to competence,
+    quick to bond.'
+  active_relationships:
+  - Marion Ravenwood Jones — wife, regulatory exoskeleton, separated 1968–69, reconciled by close of Dial
+  - Henry Walton Jones III ('Mutt') — son, deceased Vietnam c. 1968, organizing wound of late life
+  - Henry Walton Jones Sr. — father, deceased 1947, late reconciliation achieved 1938
+  - Sallah el-Kahir — Cairo brother-in-arms, lifelong
+  - Marcus Brody — institutional father-substitute, deceased pre-1957
+  - Short Round — adopted child-protégé, Shanghai/India 1935, status post-1935 unspecified
+  - Helena Shaw — goddaughter, surrogate-Mutt figure in 1969
+  - Dr. Charles Stanforth — colleague, Marshall College
+  - Various academic and field contacts across four continents
+  known_location: '1969 baseline: walk-up apartment, Manhattan; retired from Hunter College. By close
+    of Dial: returned to Marion. Earlier baselines: Marshall College, Connecticut; field expeditions worldwide.'
+speech_patterns:
+  register: 'Indy: terse, wry, code-switches between ''Dr. Jones'' lecture-hall diction and field-Indy
+    mercenary shorthand. Henry Sr.: Victorian-academic, precise, faintly archaic, given to historical
+    citation under stress. Marion: bar-owner candid, profane, unimpressed by reputation. Mutt: 1950s greaser
+    argot, code-switching to deference around competent older men.'
+  deflection_style: Indy deflects with the quip, the change of subject, the physical action that ends
+    conversation. Henry Sr. deflects by opening the diary or citing a text. Marion deflects by attacking
+    directly — refuses to play. Mutt deflects with posture and the comb.
+  under_pressure: 'Indy: clipped, functional, dissociatively calm; affect returns hours later in private.
+    Henry Sr.: increasingly precise, scholarly under fire; quotes Charlemagne in a tank chase. Marion:
+    louder, more profane, more accurate. Mutt: defers to Indy.'
+  emotional_tell: Indy's tell is the long silence after the quip — when the joke is followed by nothing,
+    he is hurt. Henry Sr.'s tell is the single use of the chosen name 'Indiana.' Marion's tell is the
+    slap, then the kiss. The Jones family does not say it; they do it.
+arc_tendencies:
+- Form intense bond → withdraw at threshold of permanence → return guiltily under duress
+- Lose the object → recover the proxy → surrender the proxy → lose again
+- Decompensate when motion stops; recover when Marion arrives
+- Each generation of men inherits the same wound and treats it the same way until late-life correction
+  (Henry Sr. in 1938; Indy in 1957 and again in 1969)
+- Mentor-substitutes acquired through young adulthood; family acquired late and abruptly
+- The unit assembles around catastrophic loss and dissolves around its absence
+- 'Late-life: the wife is the exoskeleton; without her, the structure fails'
+canon_relationships:
+  marion_ravenwood:
+  - Wife, mother of Mutt, daughter of Indy's mentor Abner Ravenwood. The only adult in the canon with
+    a broadly functional attachment style.
+  - Affair c. 1925–26, Indy abandoned her; she carried the wound for a decade; reunion in Nepal 1936 ('Indiana
+    Jones. I always knew someday you'd come walking back through my door.'); intermittent presence through
+    the 1940s; bore Mutt 1939 and kept him from Indy until 1957; married Indy days after his discovery
+    of Mutt; separated under Mutt's death c. 1968; reconciled close of Dial 1969.
+  - 'Trust/safety level: bedrock, with caveats. She is the regulatory element that makes Indy functional.
+    Without her, he drinks himself into a walk-up.'
+  - 'FAILURE MODE: She is exhaustible. Thirty years of carrying the regulatory load for a dismissive-avoidant
+    trauma survivor would break most people; Mutt''s death broke the marriage temporarily. If she is exhausted
+    past recovery, Indy has no exoskeleton and decompensates terminally. Her anxious-protest pattern with
+    him specifically means provocations from him land harder than from anyone else.'
+  - 'LEVERAGE: To reach Indy, route through Marion. To pressure Indy, threaten Marion. To predict Indy''s
+    trajectory at any timepoint, locate Marion. To break Indy, take Marion away permanently.'
+  henry_jones_sr:
+  - Father. Schizoid-style philologist who retreated into the Grail diary after Anna's death in 1912 and
+    left a thirteen-year-old half-orphaned in the same house.
+  - Thirty years of estrangement-in-proximity. Sustained reconciliation event 1938 (Last Crusade) — three
+    days trapped together, ending with Henry Sr. saying 'Indiana' aloud for the first time. Late warmth
+    real but easily lost back into the diary. Deceased 1947.
+  - 'FAILURE MODE: When intimacy is offered, the diary opens. He can lose the son again by routing one
+    more conversation through the text.'
+  - 'LEVERAGE: He is reachable only through philology. Any approach to Henry Sr. must be textual; emotional
+    approaches will be deflected. Any approach to Indy that invokes Henry Sr.''s late approval lands hard.'
+  mutt_williams:
+  - Son (Henry Walton Jones III). Born 1939 to Marion, raised without Indy, met him 1957, accepted paternity
+    within days. Greaser presentation over genuine attachment hunger.
+  - Killed in Vietnam c. 1968, off-screen. The organizing wound of late-life Indy.
+  - 'FAILURE MODE: Already failed. The death is the engine of 1969 decompensation.'
+  - 'LEVERAGE: Any mention of Mutt to post-1968 Indy is a knife. Will produce withdrawal, alcohol, refusal
+    of comfort. Only Marion can interlocute the grief.'
+  sallah_el_kahir:
+  - Cairo brother-in-arms, family man, logistical genius. The functional friendship of Indy's life.
+  - Lifelong, durable, low-conflict. Sallah's family is one of the few units to which Indy extends unguarded
+    protection.
+  - 'FAILURE MODE: Distance. They live continents apart; in extremis only one can act.'
+  - 'LEVERAGE: Threaten Sallah or his family and Indy is in Cairo within the week.'
+  marcus_brody:
+  - Institutional father-substitute; museum director; the man who routes the artifacts to legitimate custody.
+  - Deceased pre-1957; loss audibly grieved.
+  - 'FAILURE MODE: Already failed by death. The institutional anchor is gone.'
+  - 'LEVERAGE: His memory still moves Indy; invoke Marcus to invoke the custodianship ethic.'
+  short_round:
+  - Adopted child-protégé, Shanghai 1935. Indy's first sustained experience of protective fatherhood.
+  - Rehearsal for Mutt. Demonstrates that Indy's capacity for fatherhood was present long before he was
+    offered the role.
+  - 'FAILURE MODE: Status post-1935 unspecified in the canon. The relationship''s afterlife is a gap.'
+  - 'LEVERAGE: Any threat to a child in Indy''s vicinity activates the Short Round template.'
+  helena_shaw:
+  - Goddaughter (Basil Shaw's daughter), 1969. Surrogate-Mutt figure who pulls Indy back into the field
+    one last time.
+  - Antagonistic-affectionate; she steals the Dial, he chases her, they reconcile.
+  - 'FAILURE MODE: She is not Mutt; the surrogacy is partial.'
+  - 'LEVERAGE: She is the person who can reach 1969 Indy when Marion cannot. She knocks him out and brings
+    him home.'
+  abner_ravenwood:
+  - Mentor; Marion's father. Indy betrayed the relationship by the affair with Marion.
+  - Deceased before Raiders; the rupture never repaired.
+  - 'FAILURE MODE: Already failed. The guilt persists.'
+  - 'LEVERAGE: Cite Abner to invoke the unhealed mentor-betrayal.'
+canon_history_notes:
+- Born July 1, 1899, Princeton NJ (per Last Crusade/Young Indy canon)
+- Mother Anna dies of scarlet fever c. 1912; father retreats into Grail research
+- '1912 Utah prologue: first artifact-recovery attempt; chin scar; theft of Fedora''s hat'
+- '1916–1918: WWI service, espionage, mentor-substitutes (Roosevelt, Lawrence, Remy Baudouin)'
+- 'c. 1925–26: affair with Marion Ravenwood; abandonment; rupture with Abner'
+- '1935: Temple of Doom — Shanghai, Pankot Palace, Short Round, Willie Scott'
+- '1936: Raiders — Nepal, Cairo, the Ark, Marion reunited'
+- '1938: Last Crusade — the Grail, Henry Sr. reconciliation, ''Indiana'' spoken'
+- '1939: Mutt born; Indy not informed'
+- '1941–45: WWII service (OSS-style, per Crystal Skull dialogue)'
+- '1947: Henry Sr. dies'
+- 'c. 1953: Marcus Brody dies'
+- '1957: Crystal Skull — Soviets, Mutt discovered, marriage to Marion'
+- 'c. 1968: Mutt killed in Vietnam'
+- '1968–69: separation from Marion; alcohol decompensation; forced retirement from Hunter College'
+- '1969: Dial of Destiny — Helena, the Antikythera, Syracuse 212 BC, reconciliation with Marion'
+canon_anchor_quotes:
+- '''It''s not the years, honey, it''s the mileage.'' # Indy, Raiders 1981'
+- '''Snakes. Why''d it have to be snakes?'' # Indy, Raiders 1981'
+- '''You left just before, just before I was about to tell you...'' / ''I know, Dad.'' / ''I''m so proud
+  of you.'' # Last Crusade 1989 — paraphrased per the chapel scene'
+- '''Indiana... let it go.'' # Henry Sr., Last Crusade 1989 — the diagnostic moment, first use of the
+  chosen name'
+- '''I always knew someday you''d come walking back through my door.'' # Marion, Raiders 1981'
+- '''I was a child.'' / ''I was in love.'' / ''It was wrong and you knew it.'' # Marion/Indy, Raiders
+  1981'
+- '''Fortune and glory, kid. Fortune and glory.'' # Indy, Temple of Doom 1984'
+- '''I suddenly remembered my Charlemagne...'' # Henry Sr., Last Crusade 1989'

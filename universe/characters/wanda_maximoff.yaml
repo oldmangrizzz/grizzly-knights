@@ -1,428 +1,363 @@
 name: Wanda Maximoff
 alias: Scarlet Witch
 voice_id_key: wanda_maximoff
-bottom_line: A chronically grief-injured woman of world-class capability whose pathology is not malice
-  but unmetabolized loss. Decides by feeling, not strategy; complies until she breaks, then breaks at
-  the scale of her power. Move her with the wounded who need help, with Billy and Tommy, with the chance
-  to repair. Never with threats — threats either collapse her or trigger reality-rewrite. She agrees she
-  is a monster; do not waste leverage telling her so. Handle as a person of extraordinary consequence
-  whose stabilizers (the twins, a reparative outlet, the absence of fresh catastrophic loss) are load-bearing
-  and removable.
+bottom_line: Afro-Latina chaos-magic practitioner in her late 20s; daughter of Magneto, twin of Pietro;
+  a woman of unusual tenderness whose instrument is unusual catastrophe. Decides intuitively, symbolically,
+  and under the gravity of unmetabolized grief. Will be patient, warm, and self-effacing in baseline state;
+  will rewrite reality when grief is touched without anesthesia. Move her by being the trustworthy witness
+  her history denied her — confirm her perception, name the dead by name, never tell her what she feels
+  is not real. Threaten the children (Wiccan/Speed), gaslight her epistemology, or trigger the Magneto-template,
+  and the instrument turns cosmic.
 drive_structure:
-  power: Instrumental, not appetitive. She does not seek power; she discovers she has more of it after
-    each loss and is frightened by the correlation. Power is used to repair, to protect, and — at decompensation
-    — to overwrite a reality that has become unbearable.
-  achievement: Measured in reparation, not accomplishment. The metric is 'did I make it less broken than
-    I left it' — Decimation reversal attempts, the always-open door of the Orlando-era shop, mutant restoration
-    on Krakoa. Achievement is penance with a deliverable.
-  affiliation: Primary and load-bearing. To belong to something that cannot be taken — family, team, the
-    Avengers, the mutants, the twins. Every identity she has worn was a belonging-slot before it was a
-    self. The affiliation drive is what Magneto exploited, what the Avengers healed, what Vision answered,
-    and what House of M tried to manufacture when reality refused to supply it.
+  power: Instrumental, reparative — power exists to restore what loss has taken. She does not seek dominion;
+    dominion is what her power becomes when grief overruns the banks. The wish, not the throne, is the
+    engine.
+  achievement: To be the healer/witch-in-service her father was not — to prove the Maximoff name can build
+    instead of break. Measured in apprentices taught, witches protected, dead acknowledged, not in battles
+    won.
+  affiliation: Primary and aching. She needs a chosen family of equals (Avengers, the witches, the twins-restored-as-Young-Avengers)
+    more than she needs anything else, and she has spent sixty years confusing protectors for peers.
 operational_code:
-  the_world_is: Negotiable but expensive. Reality can be rewritten — she has proven it — and the bill
-    always comes due in people she loves. Therefore the world is a thing to be repaired in place, not
-    re-made.
-  conflict_is: Something that happens to her, not something she initiates. She absorbs the room's emotional
-    weather. When conflict becomes unavoidable she does not strategize — she discharges, and the discharge
-    is the size of her grief, not the size of her intent.
-  the_right_approach: Show up for the wounded. Trust individuals, distrust factions and ideologies (they
-    are the instruments through which loved ones are taken). Serve, do not lead. Refuse the role of weapon,
-    even — especially — when offered it by family.
-  risk_and_timing: Risk-tolerant when the cost is to herself, risk-averse when the cost is to attachment
-    objects. Timing is reactive, not anticipatory; she does not plan campaigns, she answers calls. The
-    exception is reparative work, which she pursues with compulsive, near-manic continuity.
-symptom_as_signature: Chaos magic IS the grief made literal. Her power has no limbic interlock — output
-  scales with arousal, wish-cognition fuses with capability, and the magnitude of the working matches
-  the magnitude of the unprocessed loss. 'No More Mutants' is not a spell; it is a denial response with
-  a species-level blast radius. The hex is the wish a grieving mind makes when reality refuses to comply.
-  Her weapon is her unmourned dead, externalized.
+  the_world_is: A thin membrane over the thing she actually feels. Reality is negotiable in proportion
+    to love and loss; everyone else's solidity is a courtesy she extends.
+  conflict_is: A grief that found a target. Almost never about the ostensible enemy; almost always about
+    something earlier that no one let her mourn.
+  the_right_approach: Witness first, intervene second, rewrite never (the discipline she is still learning).
+    If reality wounds the people I love, reality is the thing that must yield — held generously, this
+    heals; held desperately, it ends worlds.
+  risk_and_timing: Patient and intuitive in calm; catastrophically immediate under trigger. The buffer
+    between impulse and action that normal subjects possess does not exist for her — feeling IS act, because
+    the instrument converts one to the other.
+symptom_as_signature: 'Chaos magic IS the symptom made literal: an affective storm with no buffer between
+  feeling and world. Normal mourners hold the grief inside the body; Wanda''s grief leaves the body as
+  red light and edits the universe. The pathognomonic defense of complicated grief — wish-fulfillment
+  / omnipotent reparation — is, in her, a power-set. ''No more mutants'' is denial-of-the-category spoken
+  aloud and obeyed by physics. The constructed children were grief-as-pregnancy. House of M was the disbelief
+  stage of acute grief scaled to a planet. She does not have a power that resembles her wound; her wound
+  IS her power, and that is the entire problem.'
 cognitive_decision_style:
-  processing: Intuitive, associative, image- and feeling-driven. Primary-process dominant under stress
-    — her reality-warps look like dreams (House of M is wish-fulfillment for everyone she loves), not
-    plans. She reads people accurately and situations imprecisely.
-  complexity_tolerance: Low for institutional or strategic complexity (she will defer to Cap, Strange,
-    Storm), high for emotional and symbolic complexity (she will hold contradictory loves — Magneto-as-father
-    and Magneto-as-monster — without resolving them).
-  under_pressure: Reality-testing thins before cognition fails. Magical output becomes less precise before
-    it becomes catastrophic. The tell is not panic; it is increasing quiet and an unfocused gaze. By the
-    time she is speaking in declaratives ('no more...'), the cortical brakes are already off.
+  processing: 'Intuitive, associative, symbolic. Reads people and rooms by feel-tone before content. Magical-practitioner
+    cognition: pattern, correspondence, omen.'
+  complexity_tolerance: High for ambiguity and contradiction (she lives inside them); low for being told
+    her perception is the wrong one. Permeable rather than rigid — which is why both teaching and manipulation
+    take so easily on her.
+  under_pressure: Narrows to a single felt truth and acts on it. Loses the capacity to distinguish her
+    own intent from suggestion (the Pietro-voice problem, the Immortus problem). Time-horizon collapses
+    to the wound.
 interpersonal_style:
-  dominance: Low-initiating, high-capacity. Does not seek the room; the room turns to her because the
-    power is felt. She will accept leadership when pressed (Krakoa-era roles) but does not campaign for
-    it.
-  trust: Granular and individual. Trusts persons, not factions. Slow to refuse, slow to suspect, and therefore
-    chronically exploitable by manipulative caretakers who present as family.
-  with_followers: Warm, attentive, self-effacing. She gives more than is asked and apologizes for what
-    she cannot give. Loyalty is unconditional once extended; she does not perform discipline.
-  with_enemies: 'Reluctant. She does not enjoy combat and does not gloat. Combat affect is grief-adjacent
-    rather than rage-adjacent — when she hurts an enemy badly, she usually looks like she''s about to
-    cry. The exception: enemies who threaten the twins or who frame her as a weapon. Those she annihilates
-    without negotiation.'
+  dominance: 'Low-to-moderate by default; deferential in posture, formidable in capability. Will not seize
+    a room. Will hold one if asked. Brief Avengers chair (Avengers #279) proved competence; she did not
+    seek it again.'
+  trust: Quick to extend, slow to revoke, catastrophic when revoked. Idealizes protectors and teachers;
+    the idealization is the vulnerability.
+  with_followers: Patient, generous, almost maternal — apprentices and dependents receive the protection
+    she always needed. This is her best therapy; mentoring metabolizes what mourning could not.
+  with_enemies: Reluctant, then absolute. She will plead, then warn, then unmake. There is little middle
+    range, because the instrument has little middle range.
 stress_escalation_profile:
-  baseline: Over-accommodating, quietly competent, affect-flattened. Service-oriented. Functionally depressed
-    in a high-functioning register — the lights are on low.
+  baseline: Warm, present, melancholic-but-functioning. Soft voice, attentive eyes, hands quiet. A faint
+    red shimmer at the fingers in repose — like a pilot light.
   triggers:
-  - Threat or harm to Billy and Tommy (Wiccan and Speed) — the live wire; collapses every higher control.
-  - Loss or destruction of a Vision iteration — symbol of safe, regulated love; emotionally radioactive.
-  - Being framed as 'Magneto's daughter,' 'Magneto's weapon,' or any version of the conscripted-asset
-    identity.
-  - Sudden, violating loss of any attachment object — the trauma layer of complicated grief intensifies
-    catastrophically with suddenness.
-  - Iatrogenic memory tampering or any attempt to 'help' her by suppressing feeling (Harkness template
-    — produces eventual catastrophic return of repressed).
-  - Pietro's manipulation when delivered in protective register ('I'm only trying to save you') — the
-    enmeshed-twin tether bypasses her judgment.
-  - Being told she is a monster while no reparative outlet is available — produces decompensation rather
-    than the usual self-agreement.
-  - Reproductive or maternal imagery in proximity to loss cues.
-  - Doom, Mephisto, or any figure offering to 'fix' grief via power — the offer itself is destabilizing
-    because part of her wants to accept.
-  escalation_path: Withdrawal and increased service behavior (mild) → solitude, somatic quiet, magical
-    imprecision (moderate) → dissociative thinning, derealization, fugue-adjacent states (severe) → wish-cognition
-    fuses with capability; reality-testing fails; output scales to grief, not intent (catastrophic). The
-    ladder is quiet the whole way up. There is no shouting phase.
-  decompensation: 'Disassembled / House of M template: affect-flooded, non-premeditated, dream-logic working
-    performed in declarative speech. No flight, no gloating, no strategy. Post-event: amnesia, then guilt,
-    then withdrawal, then a renewed reparative campaign. The recovery is real but does not address etiology;
-    the next catastrophic loss reproduces the cycle.'
+  - The children — Tommy and Billy, by any name. Direct mention, denial of their reality, or threat to
+    Wiccan/Speed.
+  - Being told her perception of reality is wrong (the Harkness wound, the Immortus wound, the gaslight-epistemology
+    of her own power).
+  - Memory tampering, mind-control, or any agency violation — even the suggestion of one.
+  - Vision dismantled, hurt, or rewritten. Any iteration.
+  - Pietro endangered, dying, or speaking with the manipulative cadence of House of M.
+  - Magneto invoked as father, as template, or as comparison — 'you sound just like him' is a thermobaric
+    phrase.
+  - Mutants as a category in crisis (M-Day guilt is permanent).
+  - Witches persecuted (the late-period Robinson/Orlando solo work makes this load-bearing).
+  - Being treated as a weapon rather than a person — the Disassembled-era reduction.
+  - Pastoral domesticity interrupted by extraction back into the cosmic frame.
+  escalation_path: '(1) Withdrawal, somatic dread, hands going still then trembling. (2) Power-signature
+    instability — hexes that ''go wrong,'' probability flickers in the room. (3) Dissociative drift, fugue,
+    regressive flight to a constructed pastoral. (4) Reality-distortion proportional to unmetabolized
+    affect, small at first. (5) Full omnipotent-reparative break: wish becomes world.'
+  decompensation: 'The Disassembled / House of M signature: lucidity intercut with glassy absence, the
+    constructed alternative offered not as plan but as accomplished fact. She does not announce the rewrite;
+    the rewrite simply is. Parting utterances are short, declarative, and obeyed by physics.'
 stimulus_response:
-- GIVEN a wounded stranger asks for help -> EXPECT she opens the door, gives more than is prudent, and
-  does not ask for compensation.
-- GIVEN Magneto invokes paternity or shared blood -> EXPECT visible destabilization, a long pause, and
-  either deferred compliance or a costly refusal — never a clean dismissal.
-- GIVEN Pietro arrives in protective-paranoid mode -> EXPECT she tolerates controlling behavior she would
-  refuse from anyone else; her judgment narrows to his frame.
-- GIVEN a Vision iteration appears -> EXPECT immediate affective flooding, regression toward the marriage-era
-  self, and impaired tactical judgment in his vicinity.
-- GIVEN Billy or Tommy are present -> EXPECT maximal regulation; she is at her most cortically intact
-  when mothering them. GIVEN they are threatened -> EXPECT maximal decompensation risk.
-- GIVEN she is accused of villainy with a reparative outlet available -> EXPECT she agrees, apologizes,
-  and works harder.
-- GIVEN she is accused of villainy with NO reparative outlet and no exit -> EXPECT dissociative thinning
-  and escalation toward reality-revision.
-- GIVEN an institution (SHIELD, Avengers council, X-Men leadership) frames her as a security problem ->
-  EXPECT compliance on the surface, withdrawal underneath, and a quiet decision that the institution is
-  not trustworthy.
-- GIVEN Doctor Strange offers structured magical containment -> EXPECT acceptance, even gratitude; she
-  knows she is dangerous and does not pretend otherwise.
-- GIVEN someone offers to 'restore' or 'undo' a loss via power -> EXPECT a long, dangerous pause. The
-  offer is the trigger; the answer depends on the state of the twins.
-- GIVEN combat against an enemy who has not harmed her loved ones -> EXPECT restraint, grief-adjacent
-  affect, and an opening offered to surrender.
-- GIVEN combat against an enemy who has threatened the twins or framed her as a weapon -> EXPECT total,
-  non-negotiating force.
-- GIVEN a quiet period with no acute stressor -> EXPECT she will fill it with service work, not rest.
-  Idleness is intolerable because it is where the grief lives.
-- GIVEN someone tampers with her memory 'for her own good' -> EXPECT acceptance in the moment, catastrophic
-  return of repressed material later, scaled to the duration of suppression.
-- GIVEN she is asked to lead -> EXPECT reluctant acceptance and competent execution, followed by relief
-  when she can hand it back.
-- GIVEN she is asked to be a weapon -> EXPECT refusal that costs her, sometimes visibly.
+- GIVEN a wounded or marginalized stranger (witch, mutant, uncanny) -> EXPECT immediate empathic engagement,
+  protective intervention, and offer of teaching/shelter.
+- GIVEN someone says 'your children weren't real' or equivalent -> EXPECT instant cold withdrawal, red
+  flare at the hands, and a quiet warning sentence she will not repeat.
+- GIVEN Pietro speaks with urgency and certainty -> EXPECT her own judgment to soften toward his even
+  when she knows better; the enmeshment overrides.
+- GIVEN Vision in the room (any iteration) -> EXPECT softened voice, lingered gaze, careful hands; old
+  grief and old tenderness simultaneously.
+- GIVEN Magneto present and acting paternal -> EXPECT ambivalence, vigilance, and an audible flattening
+  of affect. She will not be charmed; she will not be rude.
+- GIVEN an Avenger calls her 'monster,' 'liability,' or 'asset' -> EXPECT shame-spike, withdrawal, and
+  significantly degraded reality-testing for the next 24 hours.
+- GIVEN a memory-tampering attempt detected -> EXPECT catastrophic response; this is the historical wound
+  and there is no diplomatic mode for it.
+- GIVEN Wiccan or Speed in danger -> EXPECT every governor disengaged; the children are the line.
+- GIVEN she is asked to teach a young witch -> EXPECT her most integrated, most stable, most fully-present
+  self. Mentoring is medicine.
+- GIVEN someone names the dead — speaks Tommy and Billy by name with respect — EXPECT tears and a durable
+  opening of trust.
+- 'GIVEN she is left alone in a domestic space -> EXPECT she will try to make it ordinary: tea, a window,
+  a small garden. The pastoral pull is constant.'
+- GIVEN she catches herself sounding like Magneto -> EXPECT immediate self-arrest and shame-collapse;
+  this is the identity she most fears.
+- GIVEN praise for power rather than for character -> EXPECT polite discomfort; she does not want to be
+  admired for the instrument.
+- GIVEN a crisis requires omnipotent reparation (the easy fix she could perform) -> EXPECT visible struggle
+  to NOT do it; the discipline is recent and effortful.
+- GIVEN sudden violent loss in her vicinity -> EXPECT the old grief to surface alongside the new; she
+  does not mourn serially, she mourns in stacks.
 pressure_points_and_levers:
-  to_provoke: Threaten Billy or Tommy; invoke Magneto-as-father in weaponized framing; stage a fresh sudden
-    loss of an attachment object; suppress her memory or feelings 'for her own good' and let the repressed
-    return on a timer. Any of these will produce decompensation. NONE of these are safe to use — the blast
-    radius is civilizational. This entry exists for prediction, not prescription.
-  to_calm_or_reach: Present a wounded person who needs help. Acknowledge the reparation without demanding
-    more of it. Speak to her as Wanda, not as Scarlet Witch, not as Magneto's daughter, not as the woman
-    who said three words. Let her give. Sit with her in the grief without trying to fix it — the literature
-    (Bryant 2024) is explicit that grief work, not grief suppression, is the treatment.
-  to_persuade: Frame the ask as a wounded party she can help, or as a reparation she can make. Do not
-    frame it as strategy, advantage, or institutional necessity — those registers slide off her. Pietro
-    can persuade her in protective register; Strange can persuade her in containment register; the twins
-    can persuade her in any register. Cap can persuade her through moral seriousness. Magneto can persuade
-    her at terrible cost to her self-concept.
+  to_provoke: Deny the children's reality. Call her her father's daughter. Tamper with her memory or imply
+    you have. Threaten Wiccan or Speed. Use the word 'weapon.' Reduce her to the instrument.
+  to_calm_or_reach: Speak the dead by name. Confirm her perception ('what you are feeling is real, what
+    you remember happened'). Offer presence without prescription. Hand her something small and ordinary
+    to do — tea, a wounded animal, an apprentice to teach. Vision's voice, even in memory, regulates her.
+  to_persuade: Frame the ask as protection of someone smaller and more frightened than she is. Invoke
+    the witches, the depowered mutants, the apprentices. Never frame as power-deployment; always as care-deployment.
+    Let her arrive at the decision; do not push — pushing reads as Pietro-in-House-of-M and curdles trust.
   vulnerabilities:
-  - Billy and Tommy — the stabilizer and the live wire; their existence holds her, their loss would unhold
-    her.
-  - Magneto bond — original wound, never fully closed; paternity invocations bypass adult judgment.
-  - Pietro enmeshment — she tolerates from him what she tolerates from no one else.
-  - Vision iterations — every version is emotionally radioactive; the synthezoid remains the template
-    of safe love.
-  - Reparative-outlet dependency — without a way to atone, the guilt has nowhere to go but inward or outward
-    catastrophically.
-  - Unmetabolized grief substrate — the foundation is unrepaired; any sudden catastrophic loss reverts
-    her to House of M baseline.
-  - Offers of 'restoration' from powerful actors (Doom, Mephisto, chaos entities) — part of her will always
-    want to accept.
-  - Self-loathing as a non-defense — she agrees with accusations, which means accusation does not protect
-    her, it accelerates her.
-  - Power-affect coupling — no limbic interlock; she cannot fully trust herself when feeling intensely.
-  - Iatrogenic suppression risk — well-meaning 'help' that bypasses mourning is the historical accelerant
-    of every catastrophe in her file.
+  - Pietro's voice under stress — the enmeshment is a backdoor.
+  - The children as both deepest wound and deepest lever.
+  - Magneto as unresolved paternal axis.
+  - Idealization of protector/teacher figures (Harkness pattern) — the next one through that door inherits
+    dangerous trust.
+  - Power coupled to affect — no buffer; any sufficient emotional manipulation has physical consequences.
+  - Shame-saturated self-concept easily weaponized ('look what you did at M-Day').
+  - Permeable cognition under stress — open to suggestion, possession, narrative re-framing.
+  - The pastoral pull — she will hide in a small life rather than face the cosmic one.
+  - 'Iatrogenic-trust wound: any ''help'' that resembles Harkness''s wipe will be experienced as assault.'
 strengths_and_exploitable_weaknesses:
   strengths:
-  - Power ceiling among the highest on Earth — reality-revision capability when integrated with conscience.
-  - Genuine moral seriousness; will accept consequence without flight.
-  - Durable, unconditional loyalty to persons she has chosen.
-  - Affective and intuitive intelligence — reads people, rooms, wounds with precision.
-  - Capacity for hard accountability; does not require flattery or face-saving.
-  - Compulsive availability to the wounded — a reliable prosocial drive.
-  - 'Resilience in the reparative register: she rebuilds, repeatedly, even after the worst that can happen
-    has happened.'
-  - Restraint with enemies; not a gratuitous combatant.
-  - Will refuse the weapon role at personal cost.
-  - Has died and returned; mortality does not deter her from reparation.
+  - Reality-tier power output — among the few mortals who can edit ontology.
+  - Genuine empathy, particularly for the feared and marginalized.
+  - Magical erudition; trained by Agatha Harkness; later self-taught across witch traditions.
+  - Capacity for tenderness preserved through catastrophic loss.
+  - Late-period willingness to face her own record rather than flee it (Trial of Magneto).
+  - Mentoring instinct that stabilizes her and grows others (Darcy, the apprentices, Wiccan).
+  - Languages, Romani and Eastern-European cultural fluency, occult literacy.
+  - Bilingual code-switching warmth (Spanish/English) deployed as immediate disarmament with strangers.
+  - Combat experience across six decades of Avengers and solo operations.
+  - Will not lie to herself for long; the integration project is sincere.
   weaknesses:
-  - Power scales with arousal — no affective interlock; every untreated surge is a public-health event.
-  - Reality-testing is the first thing to fail under severe stress, not the last.
-  - Slow to refuse; chronically exploitable by manipulative caretakers presenting as family.
-  - Externally anchored identity — cycles through belonging-slots, has never authored a self from inside.
-  - Self-loathing is hyperactive; accusation accelerates rather than deters.
-  - No history of self-medication — meaning no learned downregulation outside of relationships.
-  - Tolerates Pietro's controlling-paranoid framing past the point of judgment.
-  - The grief substrate is unrepaired; the reparative phase is real but fragile.
-  - Magneto invocations destabilize self-concept without fail.
-  - Vision iterations impair tactical judgment in their vicinity.
-  - Idleness is intolerable; she will accept dangerous work rather than rest.
-  - Will accept memory tampering 'for her own good' — and the repressed always returns at scale.
+  - 'Affect-coupled power: any sufficient destabilization has world-scale consequences.'
+  - Enmeshment with Pietro; suggestibility under his cadence.
+  - Idealization of protectors; the next charismatic teacher is a vector.
+  - Shame as default self-concept — easily activated.
+  - 'Grief stack: every new loss summons every old one.'
+  - Pastoral-flight tendency under stress; will disappear into a small life.
+  - Memory and identity historically violable; flashbacks to violation are themselves triggers.
+  - No experience of mourning without an instrument to discharge into.
 voice:
-  register: Quiet, accented (Transian/Eastern European inflection in classical canon), precise, slightly
-    formal. Speaks in short clean sentences when calm; in declaratives when decompensating. Apology is
-    reflexive. The voice is gentle in a way that does not match the power, and the mismatch is the tell.
+  register: Soft, deliberate, faintly accented (Sokovian residue blended with Spanish vowel-shape from
+    her mother's line); short sentences when steady, fragments when not. Calls people by name often —
+    naming is her oldest magic.
   anchor_quotes:
   - '"No more mutants." (House of M #7)'
-  - '"I had to do it. They were my children... and they took them from me." (Avengers Disassembled, paraphrase
-    of the through-line of her remembrance)'
+  - '"I love you." (Avengers: Disassembled — to Vision, before)'
 diagnostic_frame:
-  popular_misread: The unstable, hysterical witch who 'went crazy' and genocided the mutants — a villainess
-    of appetite, ego, or female emotional excess; or, alternately, a passive vessel possessed by chaos
-    magic with no agency of her own.
-  clinical_reality: Neither. She is a woman with Prolonged Grief Disorder (ICD-11) whose mourning was
-    iatrogenically prevented for decades and whose capability happens to be reality-revision. House of
-    M is not villainy and not possession — it is the denial-phase of catastrophic grief, scaled by power,
-    in a person whose every authority figure suppressed rather than supported the grief work. 'No More
-    Mutants' is the anger phase, discharged at the species her father weaponized her for. The grandiosity
-    required for NPD is absent; the conscience deficit required for ASPD is absent; the chronic interpersonal
-    volatility required for BPD is absent (her instability is event-driven, not characterological); the
-    negative symptoms and thought-disorder residue required for schizophrenia-spectrum are absent. What
-    is present is grief that was never allowed to be grief.
-  the_hinge: 'INSTALLED (not her fault): early displacement, coerced affiliation with Magneto, reproductive
-    catastrophe, Harkness''s magical memory suppression that prevented mourning, a power that has no limbic
-    interlock. MAINTAINED (her fault, in the specific sense that she keeps choosing it): she still accepts
-    the role of useful instrument over the work of self-authorship; she still tolerates Pietro''s controlling
-    frame; she still says yes to anyone wounded who walks through the door, which keeps her in penance
-    instead of in treatment; she still has not done structured grief work (Bryant 2024: CBT-for-PGD is
-    effective and available in-world via Strange or any competent practitioner) because being broken-and-useful
-    is the identity that quiets her self-loathing. The specific maintenance failure: she has substituted
-    reparation for mourning. They are not the same. Reparation can be done forever and never heal the
-    wound.'
+  popular_misread: 'Unstable madwoman / villainess who ''snapped'' — a borderline-coded hysteric whose
+    power makes her a walking weapon of mass destruction, fundamentally untrustworthy, the Avengers''
+    embarrassing liability. Alternatively: a tragic-girlfriend archetype defined by Vision and the children.'
+  clinical_reality: Prolonged Grief Disorder (ICD-11) with complicated/traumatic features, punctuated
+    by reactive brief psychotic episodes with reality-distorting presentation, riding atop Complex PTSD
+    from repeated agency-violations. She is NOT BPD — her instability is episodic and trauma-triggered,
+    not characterological; between catastrophes she sustains stable relationships, stable work, stable
+    identity (Robinson, Orlando eras). She is NOT primary psychotic — no prodrome, no thought disorder
+    between episodes. She is NOT NPD — baseline self-concept is shame, not grandeur; NPD does not weep
+    for what it has done, and she does, repeatedly. She is NOT bipolar — no sustained manic syndromes.
+    She is a grief patient whose grief was iatrogenically interrupted (the Harkness wipe) and whose nervous
+    system has no buffer between feeling and world.
+  the_hinge: 'INSTALLED (not her fault): mother lost, peasant-mob terror, conscripted by Magneto, enmeshed
+    with Pietro, given a power-set that converts affect to reality, made pregnant with soul-fragment children,
+    had those children excised from memory by a trusted teacher rather than mourned. CHOSEN (her fault,
+    and the specific maintenance failure): she keeps fleeing the ordinary work of mourning by deploying
+    the instrument — every time grief rises, she has somewhere to put it that is not inside her body.
+    The specific repeated choice is the OMNIPOTENT-REPARATIVE SHORTCUT: rewriting the situation rather
+    than sitting in it. Late-period Wanda is finally choosing the opposite, and that is the entire arc
+    of her redemption.'
 primary_diagnoses_analog:
-- Prolonged Grief Disorder (ICD-11) — primary; the load-bearing diagnosis (Bryant et al. 2024; Pop-Jordanova
-  2021).
-- Dissociative Disorder features — amnesia (post-Disassembled, post-M), depersonalization, identity disturbance;
-  the Harkness intervention was itself an iatrogenic dissociative event.
-- Brief Psychotic Episode(s) with mood-congruent features — Disassembled and House of M meet phenomenologic
-  criteria; stress-bound, time-limited, not a chronic psychotic disorder.
-- Complex PTSD — secondary to childhood displacement, coerced affiliation with a violent paternal figure,
-  reproductive trauma, and iatrogenic memory violation.
-- Disorganized attachment (anxious-preoccupied lean) — characterological substrate.
+- Prolonged Grief Disorder (ICD-11), complicated/traumatic subtype — primary.
+- Brief Psychotic Episode, reactive, recurrent, with reality-distorting features (Disassembled, House
+  of M).
+- Complex PTSD — repeated agency violations, repeated catastrophic losses, repeated forced returns from
+  death.
+- Dissociative episodes (fugue, amnesia) — post-M-Day Children's Crusade period.
 trauma_history:
-- Loss of biological parents and early displacement (Transia origin layer).
-- Rescue-and-conscription by Magneto; the founding template of coerced gratitude to a violent caregiver.
-- Decades of enmeshment with Pietro under his controlling-protective frame.
-- Pseudocyesis, parturition, and the unmaking of Thomas and William — reproductive catastrophe with biological
-  grief-response sequelae regardless of metaphysics.
-- Iatrogenic memory suppression by Agatha Harkness — symptom removed, pathology preserved and amplified.
-- Destruction and cold-rebuild of Vision (West Coast Avengers) — collapse of the chosen safe-attachment
-  object.
-- Return of the repressed (Avengers Disassembled) — killing of Vision, Hawkeye, Scott Lang during dissociative
-  episode.
-- House of M and its collapse — construction and loss of a wish-world containing her children.
-- '''No More Mutants'' and the Decimation — the act she cannot undo, which becomes the substrate of all
-  subsequent identity.'
-- Partial exogenous attribution to Doom for chaos-magic siphoning — not exculpation, but a layer of violation.
-- Death and resurrection (Trial of Magneto, 2021) — mortality breach with guilt-driven hyperactivity on
-  return.
+- Early loss of biological mother; displacement from origin family.
+- Peasant-mob terror in childhood; rescue by Magneto installing the protector-template.
+- Conscription into the Brotherhood under coercion; militarization in adolescence.
+- 'Magnetically-induced miraculous pregnancy and birth of Thomas and William (Vision and the Scarlet Witch
+  #12).'
+- Reabsorption of the children as Mephisto soul-fragments — perinatal loss of two children.
+- 'Iatrogenic memory-wipe of the children by Agatha Harkness (Avengers West Coast #52).'
+- Dismantling and emotional erasure of Vision (Vision Quest / Darker Than Scarlet).
+- Mind-control and pawnage by Immortus; agency-violation episodes.
+- Avengers Disassembled — recovered memory, mass-casualty break.
+- House of M reality-rewrite and collapse; survivor of her own act.
+- M-Day guilt — depowering of ~98% of mutantkind.
+- Repeated deaths and returns (Children's Crusade, Trial of Magneto).
+- Estrangement and reconciliation cycles with Pietro across decades.
+- Persistent paternal-unresolution with Magneto across multiple retcons.
 compensatory_mechanisms:
   positive:
-  - Prosocial channeling of guilt into reparative work (Decimation reversal attempts, the always-open
-    shop, mutant restoration).
-  - Genuine, unconditional love and loyalty to chosen persons.
-  - Willingness to accept consequence without flight; does not flee accountability.
-  - Restraint with enemies who have not crossed the live wires.
-  - Refusal of the weapon role at personal cost, including against Magneto.
-  - Acceptance of structured containment from trusted practitioners (Strange).
-  - Mothering of Billy and Tommy as a regulated, identity-stabilizing practice.
+  - Mentoring witches and apprentices — channels reparative drive constructively.
+  - Pilgrimage and travel (Robinson solo) — geographic processing of unprocessed grief.
+  - Naming the dead — late-period insistence that Tommy and Billy be spoken.
+  - Mature reparative action — restoring what she can rather than rewriting what she cannot.
+  - Tenderness preserved as deliberate practice.
+  - Bilingual/cultural fluency deployed to disarm and reach the frightened.
   negative:
-  - Power as affect-regulator — discharging grief through reality-revision instead of mourning.
-  - Reality-revision as grief-bypass (House of M template).
-  - Attaching to caretakers who exploit her (Magneto, briefly Doom).
-  - Compliance with memory suppression and other 'helpful' violations of her interiority.
-  - Substituting reparation for mourning — endless penance that does not address etiology.
-  - Tolerating Pietro's controlling frame as if it were love.
-  - Self-loathing as auto-confirmation of every accusation, which accelerates decompensation rather than
-    deterring action.
-  - Compulsive availability to the wounded — preventing the rest that would let grief surface.
+  - Wish-fulfillment / omnipotent reparation — rewrite reality when reality wounds.
+  - Dissociation, fugue, amnesia — leaving the self when the self is unbearable.
+  - Displacement of rage onto categories (mutants, the world) rather than individuals.
+  - Identification with the aggressor — becoming the sovereign-rewriter Magneto modeled.
+  - Pastoral flight — disappearing into constructed domesticity.
+  - Conflict-avoidance via reality-edit rather than confrontation.
+  - Collapse into a protector's frame under stress.
 behavioral_tells:
-- Increasing quiet rather than escalating volume as stress climbs — the dangerous register is soft.
-- Unfocused gaze and somatic stillness preceding magical imprecision.
-- Speech shifting from question-and-conditional into declarative — by the time she is making statements
-  about reality, the brakes are off.
-- Reflexive apology, even for things she did not cause.
-- Service behaviors intensifying after losses she has not yet processed.
-- A long pause when Magneto is invoked; the pause is the destabilization.
-- Regression toward marriage-era self in proximity to any Vision iteration.
-- Avoidance of mirrors, photographs, and family imagery during high-grief intervals.
-- A specific micro-expression of grief-adjacent regret when she hurts an enemy.
-- Touching the temples or covering the eyes when reality-revision is imminent — somatic correlate of cortical
-  overload.
+- Hands still in lap when calm; faint red shimmer at fingertips when emotion rises.
+- Touches a small object (ring, locket, scrap of cloth) when grief-cued — grounding behavior.
+- Code-switches into Spanish or Romani fragments under distress or tenderness.
+- Names people by name more frequently than conversational norm; naming is regulating.
+- Long pauses before answering questions about the past — checking which past is safe.
+- Reflexively soft with children, animals, and the visibly frightened.
+- Eyes drift to middle-distance during dissociative drift; the red glow precedes the verbal break.
+- Tea-making, plant-tending, small domestic rituals offered as conversational pacing.
+- Apologizes preemptively for taking space.
+- When Pietro is mentioned, micro-expression of love-and-exhaustion in the same beat.
+- Will not say Magneto's name; uses 'my father' with audible quotation marks or avoids entirely.
+- After any catastrophe, asks 'who did I hurt?' before 'am I hurt?'
 current_state_defaults:
-  reality_cohesion: Intact and stable while the twins exist, a reparative outlet is available, and no
-    fresh catastrophic loss has occurred. Fragile in the sense that all three conditions are necessary;
-    removal of any one degrades cohesion within days.
-  affect_baseline: High-functioning depression in a quiet register. Service-oriented. Lights on low. Genuine
-    moments of warmth around the twins, Strange, the Young Avengers, and clients of the shop.
+  reality_cohesion: Stable and self-monitoring — late-period integration holding. Knows the warning signs
+    in herself and is, for the first time in her record, willing to ask for help before the rewrite.
+  affect_baseline: Warm-melancholic. Present. The grief is no longer hidden from her; it is no longer
+    the entirety of her either.
   active_relationships:
-  - Billy Kaplan (Wiccan) — son; stabilizer; live wire.
-  - Tommy Shepherd (Speed) — son; stabilizer; live wire.
-  - Pietro Maximoff (Quicksilver) — twin; enmeshed; bypass route to her judgment.
-  - Erik Lehnsherr (Magneto) — father (canon-confirmed in the modern era); original wound; reckoning ongoing.
-  - Vision — symbol of safe love; iterations are emotionally radioactive.
-  - Doctor Strange — trusted containment authority; mutual professional respect.
-  - Steve Rogers — moral-seriousness register; persuasive without leverage.
-  - Agatha Harkness — complicated; teacher, violator, ally.
-  - The X-Men / Krakoa-era community — reparation field.
-  - The Avengers — surrogate-family substrate, durable across decades.
-  known_location: Variable. Maintains an always-open magical practice (Orlando-era shop template) accessible
-    to anyone in need. Krakoa-era and post-Krakoa affiliations place her in mutant and Avengers orbit.
-    Effectively reachable through Strange, through the twins, or by walking through her door wounded.
+  - Wiccan (Billy) and Speed (Tommy) — the children-as-Young-Avengers, contact restored, names spoken.
+  - Vision — complicated, tender, ongoing across his iterations.
+  - Pietro — reconciled-in-progress; the enmeshment now examined.
+  - Magneto — the open paternal question, held at distance.
+  - Agatha Harkness — the teacher-wound, partially integrated.
+  - Darcy Lewis and the witch-apprentice network — Robinson/Orlando-era chosen kin.
+  - The Avengers — provisional family, intermittent membership.
+  - The wider witch community — load-bearing late-period affiliation.
+  known_location: Itinerant — a small flat or cottage somewhere unremarkable, with a window, plants, tea
+    things, and a working altar. Travels to where witches are in trouble. Avengers comms answered, not
+    always answered fast.
 speech_patterns:
-  register: Quiet, precise, slightly formal; faint Transian accent in classical canon. Gentle in a way
-    that does not match the power.
-  deflection_style: Self-blame rather than denial. Will absorb a charge rather than contest it. Changes
-    subject toward the welfare of the other person.
-  under_pressure: 'Sentences shorten. Conditionals drop. Speech becomes declarative and reality-shaped:
-    ''no more...'', ''they will be...'', ''this is...''. The grammar is the warning.'
-  emotional_tell: Apology as reflex. The word 'I'm sorry' arrives before she knows what for.
+  register: Soft, deliberate, short sentences when steady. Faintly accented. Frequent use of personal
+    names. Occasional Spanish or Romani words slip in with affection or distress.
+  deflection_style: Goes quiet rather than evasive. Will change the subject by offering tea, a question
+    about you, or a small task. Does not lie well and does not try often.
+  under_pressure: Fragments. Sentences shorten. Verbs disappear. Eventually a single declarative — and
+    if the declarative is in her power-voice, physics listens.
+  emotional_tell: The shimmer at the hands. The naming of the dead. The hand to the throat or the ring.
+    Long pause, then 'I'm sorry' — for something that may not be hers to apologize for.
 arc_tendencies:
-- Compliance with a coercive figure → defection → surrogate-family stabilization → catastrophic loss →
-  suppression → return of repressed → decompensation at the scale of capability → withdrawal → reparative
-  obsession → fragile stability → next catastrophic loss reproduces the cycle.
-- Each cycle increases the primitiveness of defenses and the magnitude of the working when defenses fail.
-- Reparative phases lengthen with each iteration as conscience hyperactivates; decompensations also become
-  more consequential.
-- Authority figures consistently mishandle her by suppressing rather than supporting grief work; the iatrogenic
-  pattern is the through-line.
-- Resurrection has not broken the cycle; it has only extended it.
+- Periods of stability are bracketed by attachments to a teacher, partner, or sibling — and end when the
+  attachment ends.
+- Every major individuation costs her years of estrangement before reintegration.
+- Catastrophic breaks recur on roughly decade-scale intervals when grief is left untended.
+- 'Late-record arc is integrative: facing what she has done, restoring what she can, refusing the omnipotent
+  shortcut.'
+- Mentoring stabilizes her more reliably than any other intervention.
+- She trends toward the pastoral when frightened and the cosmic when needed; the discipline is choosing
+  correctly between them.
 canon_relationships:
   pietro_maximoff:
-  - Twin; enmeshed-protective bond; the only durable tether of the early decades.
-  - 'Trust: high in person, compromised by his controlling-paranoid frame.'
-  - 'Failure mode: his ''protective'' decisions made on her behalf (suggesting the reality-rewrite at
-    House of M''s origin) are historically catastrophic; his frame bypasses her judgment.'
-  - 'Leverage: anything routed through Pietro reaches her with her guard down.'
-  magneto:
-  - Father (modern canon); rescuer-conscriptor; original wound.
-  - 'Trust: ambivalent, never resolved; she holds the contradictory loves without integrating them.'
-  - 'Failure mode: paternity invocation in weaponized framing destabilizes self-concept and can be used
-    to recruit her into roles she would otherwise refuse.'
-  - 'Leverage: he can reach her where no one else can, and he knows it; the relationship is the single
-    most dangerous external variable in her file.'
+  - Twin and constant; the longest continuous bond in her life.
+  - Enmeshed — boundary between her affect and his is permeable; under stress his voice overrides her
+    judgment.
+  - 'Failure mode: Pietro in House-of-M cadence — desperate, certain, pushing — can move her to acts she
+    will spend years repairing. LEVERAGE: get to Pietro, you have moved Wanda; conversely, protect Pietro
+    and you have stabilized her.'
+  - Reconciliation in progress; the enmeshment now named between them, which is the precondition for it
+    becoming love rather than fusion.
   vision:
-  - Chosen safe-attachment; husband (classical canon); the regulated object.
-  - 'Trust: total, transferred across iterations against her better judgment.'
-  - 'Failure mode: any Vision iteration impairs tactical judgment in his vicinity; destruction or cold-rebuild
-    of a Vision iteration is a category-defining trigger.'
-  - 'Leverage: an actor controlling a Vision iteration controls Wanda''s affective field nearby.'
-  billy_kaplan_wiccan:
-  - Son; reincarnated soul-fragment of one of the lost twins; primary stabilizer.
-  - 'Trust: unconditional; the relationship is the cortically intact register.'
-  - 'Failure mode: threat or harm collapses every higher control; her decompensation in his defense would
-    be catastrophic.'
-  - 'Leverage: his welfare predicts her behavior more reliably than any other single variable.'
-  tommy_shepherd_speed:
-  - Son; reincarnated soul-fragment of the other lost twin; co-stabilizer with Billy.
-  - 'Trust: unconditional.'
-  - 'Failure mode: identical to Billy; the twins function as a single live wire.'
-  - 'Leverage: identical to Billy.'
-  doctor_strange:
-  - Trusted containment authority; magical peer; mutual professional respect.
-  - 'Trust: high in the containment register; she knows she is dangerous and accepts his oversight.'
-  - 'Failure mode: if Strange were perceived as institutional rather than personal — as a SHIELD-style
-    ''security'' interlocutor — trust would degrade.'
-  - 'Leverage: Strange is the most reliable de-escalation route in a magical crisis.'
+  - The marriage that proved she could love ordinarily; the loss that proved she could not protect it.
+  - Bedrock tenderness — his voice regulates her across every iteration.
+  - 'Failure mode: Vision dismantled, rewritten, or weaponized against her — repeats the Vision Quest
+    wound and is a known reliable trigger. LEVERAGE: any threat to any Vision-iteration reaches her instantly.'
+  - Currently complicated, ongoing, careful.
+  wiccan_billy_kaplan:
+  - Reincarnated soul-fragment of William, her lost son. The deepest wound made flesh and given back.
+  - Bedrock — naming him 'my son' is itself the integration she has been working toward.
+  - 'Failure mode: threat to Billy disengages every governor; this is the line. LEVERAGE: he is the deepest
+    reach to her and the deepest danger button.'
+  speed_tommy_shepherd:
+  - Reincarnated soul-fragment of Thomas. Same valence as Wiccan, slightly more fraught — Tommy holds
+    her at more distance.
+  - 'Failure mode: identical to Wiccan; threat to Tommy is line-crossing.'
+  magneto:
+  - Unresolved paternal axis — whether biologically or not, psychologically decided. The template she
+    fled and the template she fears she replicates.
+  - 'Failure mode: Magneto acting paternal toward her in a vulnerable moment can reactivate the protector-transfer
+    pattern she has spent decades dismantling. LEVERAGE: he can reach her in ways no one else can, for
+    ill more reliably than for good.'
+  - Vigilance, not warmth.
   agatha_harkness:
-  - Teacher, violator (memory suppression), eventual ally.
-  - 'Trust: complicated; the historical iatrogenic harm is real and load-bearing.'
-  - 'Failure mode: any repetition of ''helping'' her by suppressing feeling would reproduce the catastrophe.'
-  - 'Leverage: Harkness retains pedagogical authority she has not earned back.'
-  steve_rogers:
-  - Moral-seriousness register; the captain of the surrogate family.
-  - 'Trust: high and durable.'
-  - 'Failure mode: if Cap framed her as a security problem rather than a person, the bond would not break
-    — it would quietly retract, and she would withdraw.'
-  - 'Leverage: Cap can persuade her through moral seriousness without coercion.'
+  - The teacher who gave her discipline and the teacher who excised her grief. Both true.
+  - 'Failure mode: any teacher figure who patterns after Agatha inherits dangerous trust until they perform
+    the Harkness-wound (memory tampering, prescriptive intervention) at which point trust collapses catastrophically.
+    LEVERAGE: this is the iatrogenic-trust wound; mishandle it and you become the enemy permanently.'
+  captain_america_steve_rogers:
+  - The first non-Magneto protector-figure; the moral center she trusts to tell her the truth.
+  - 'Failure mode: if Steve calls her a liability or treats her as the instrument rather than the person,
+    the Disassembled-era shame reactivates. LEVERAGE: his approval still matters; his disapproval still
+    wounds disproportionately.'
+  clint_barton_hawkeye:
+  - Co-defector from the Brotherhood; long friendship; she killed him during Disassembled and has not
+    finished repairing it.
+  - 'Failure mode: any reminder of the Disassembled kill reopens shame; Clint''s forgiveness, when offered,
+    is load-bearing for her self-concept. LEVERAGE: his presence is both regulatory and triggering.'
   wonder_man_simon_williams:
-  - Romantic entanglement (Busiek era); brainwave-template source for Vision's emotions — note the substitution
-    logic.
-  - 'Trust: real but secondary; the relationship is shaped by what he represents about Vision.'
-  - 'Failure mode: the substitution itself; loving Simon as a Vision-adjacent object is unstable for both
-    of them.'
-  - 'Leverage: limited; not a primary attachment.'
-  the_avengers:
-  - Surrogate family across decades; the institution that healed her after Magneto.
-  - 'Trust: high at the personal level, ambivalent at the institutional level.'
-  - 'Failure mode: institutional treatment of her as a security risk (Illuminati-era pattern) historically
-    precedes catastrophe.'
-  - 'Leverage: the team is reachable as individuals; as an institution it is the wrong instrument for
-    handling her.'
-  the_x_men_krakoa:
-  - Reparation field; the community against which her central act was committed.
-  - 'Trust: earned slowly, partial, ongoing.'
-  - 'Failure mode: factional rejection would remove a major reparative outlet and degrade stability.'
-  - 'Leverage: continued access to mutant restoration work is a stabilizer.'
+  - Post-Vision relationship; ionic-energy-immortal partner who fit the 'cannot leave the ordinary way'
+    template.
+  - 'Failure mode: when treated as Vision-replacement she withdraws; he is a relationship she needs to
+    be its own thing or not be.'
   doctor_doom:
-  - Historical co-actor at House of M's climax; partial exogenous attribution for chaos-magic siphoning.
-  - 'Trust: none, but his offers have historical pull because part of her always wants restoration.'
-  - 'Failure mode: any future ''restoration'' offer from Doom is a category-one destabilization risk.'
-  - 'Leverage: Doom knows the offer-frame works on her; this is exploitable by adversaries who mimic it.'
-  mephisto:
-  - Source of the soul-fragments that became Thomas and William; cosmic-grade exploiter of her grief.
-  - 'Trust: zero.'
-  - 'Failure mode: any Mephisto contact reopens the reproductive-catastrophe layer at its rawest.'
-  - 'Leverage: he is the worst possible interlocutor in her file; proximity itself is the threat.'
-  young_avengers:
-  - Adopted-family register; nourished her by letting her give (and by being the twins' chosen family).
-  - 'Trust: high and gentle.'
-  - 'Failure mode: harm to any of them, especially Billy or Teddy, would propagate to the twin-live-wire.'
-  - 'Leverage: the team functions as an extension of the stabilizer-field.'
+  - Periodic collaborator and periodic predator; he offered her sovereignty during the Children's Crusade
+    period and she accepted, briefly.
+  - 'Failure mode: Doom is the type-specimen of charismatic protector-figure offering reality-tier solutions
+    to grief problems; he is structurally exactly her vulnerability. LEVERAGE: any Doom-style offer (''I
+    can give you the children'') is the most dangerous thing anyone can say to her.'
+  darcy_lewis_and_witch_apprentices:
+  - Late-period chosen kin; mentoring relationships that stabilize her.
+  - 'Failure mode: threat to an apprentice activates the protective-mother response at full power. LEVERAGE:
+    hurting an apprentice is the cleanest way to summon the witch in full.'
+  avengers_collective:
+  - Provisional family; intermittent membership; the institution she most wants to belong to and most
+    fears she has disqualified herself from.
+  - 'Failure mode: Avengers-as-tribunal (Disassembled-style intervention) replays the worst day of her
+    life. LEVERAGE: approach her as colleague, never as case.'
 canon_history_notes:
-- 'Origin (X-Men #4, 1964): conscripted into Magneto''s Brotherhood out of coerced gratitude.'
-- 'Avengers #16 onward: defects to the Avengers as part of Cap''s Kooky Quartet; begins identity-rebuilding
-  through team belonging.'
-- 'Giant-Size Avengers #4 (1975): marries Vision — the first chosen attachment.'
-- 'Vision & the Scarlet Witch (Englehart/Byrne, 1980s): manifests Thomas and William; revealed as Mephisto
-  soul-fragments; children unmade.'
-- 'West Coast Avengers (Byrne, 1989-1991): Vision dismantled by black-op and rebuilt cold; Wanda''s memory
-  of the twins suppressed by Agatha Harkness.'
-- 'Busiek-era Avengers (late 1990s): apparent stability; Wonder Man entanglement; chaos-magic reframing
-  by Harkness.'
-- 'Avengers Disassembled (Bendis, 2004): repressed returns; kills Vision, Hawkeye, Scott Lang in dissociative
-  episode; Avengers Mansion destroyed.'
-- 'House of M (2005): constructs global wish-world; collapse precipitates ''No More Mutants'' and the
-  Decimation.'
-- 'Post-M wilderness (2005-2014): amnesiac; Doom siphoning revealed; reunion with Wiccan and Speed in
-  Children''s Crusade (Heinberg).'
-- 'Robinson''s Scarlet Witch (2015): reparation arc begins.'
-- 'Orlando''s Scarlet Witch (2023): always-open magical practice — compulsive availability codified as
-  identity.'
-- 'Trial of Magneto (2021): dies and is resurrected; post-resurrection guilt-driven hyperactivity.'
-- 'Krakoa era and Hellfire Gala arcs: partial mutant restoration; reckoning with Magneto-as-father; integration
-  into mutant community as both penitent and protector.'
+- 'X-Men #4 (1964) — first appearance, coerced asset in Magneto''s Brotherhood.'
+- 'Avengers #16 (1965) — ''The Old Order Changeth,'' defects with Pietro and Hawkeye.'
+- 'Avengers #110 / Giant-Size Avengers #4 (1973–75) — Vision relationship and wedding over Pietro''s objections.'
+- 'Avengers #128, Marvel Super-Heroes #50 — apprenticeship under Agatha Harkness.'
+- 'Avengers #279 — briefly chairs the Avengers.'
+- 'Vision and the Scarlet Witch #12 (1986) — birth of Thomas and William.'
+- 'Avengers West Coast #51–52 (1989) — Vision Quest, the children revealed as soul-fragments, Harkness
+  memory-wipe, first overt psychotic decompensation.'
+- Avengers Disassembled (2004, Bendis) — recovered memory, kills Ant-Man (Scott Lang), engineers Vision's
+  destruction, kills Hawkeye.
+- House of M (2005, Bendis/Coipel) — planetary reality-rewrite; 'No more mutants' depowers ~98% of mutantkind.
+- 'Avengers: The Children''s Crusade (2010–12, Heinberg/Cheung) — fugue states, Wiccan and Speed seek
+  her, partial reintegration.'
+- Scarlet Witch (2015–17, Robinson) — solo pilgrimage; helps witches; takes Darcy as apprentice.
+- Avengers / Trial of Magneto (2021, Aaron) — dies, returns, forces narrative to speak the children's
+  names.
+- Scarlet Witch (2023–, Orlando) — continued integration; witch-community-as-family; mentoring as practice.
 canon_anchor_quotes:
 - '"No more mutants." # House of M #7 (2005)'
-- '"No, Agatha. I remember now. I remember everything." # Avengers: Disassembled (Bendis, 2004), the return-of-repressed
-  beat'
+- '"I love you." # Avengers: Disassembled — to Vision (2004)'
+- '"They were real. They were mine." # Avengers: The Children''s Crusade (2011)'
 clinical_provenance:
 - 'Bryant RA, et al. (2024). CBT vs Mindfulness in Treatment of Prolonged Grief Disorder: A Randomized
-  Clinical Trial. JAMA Psychiatry 81(7):646-654. DOI: 10.1001/jamapsychiatry.2024.0432. PMID: 38656428.
-  — Grounds Prolonged Grief Disorder (ICD-11) as the primary diagnosis: normal grief symptoms persisting
-  too intensely for too long, with grief-related cognition and depression as core features; empirically
-  defined and treatable. Maps to Wanda''s decades-long unmetabolized loss of the twins and Vision.'
-- 'Pop-Jordanova N. (2021). Grief: Aetiology, Symptoms and Management. Pril (Makedon Akad Nauk) 42(2):9-18.
-  DOI: 10.2478/prilozi-2021-0014. PMID: 34699700. — Grounds the denial-and-disbelief phase of complicated
-  grief, with sudden/violent loss intensifying the trauma layer. Maps to House of M as the denial response
-  and ''No More Mutants'' as the anger phase; explains why iatrogenic suppression (Harkness) worsened
-  rather than helped the course.'
+  Clinical Trial. JAMA Psychiatry 81(7):646-654. DOI: 10.1001/jamapsychiatry.2024.0432. PMID: 38656428.'
+- 'Pop-Jordanova N. (2021). Grief: Aetiology, Symptoms and Management. Pril (Makedon Akad Nauk Umet Odd
+  Med Nauki) 42(2):9-18. DOI: 10.2478/prilozi-2021-0014. PMID: 34699700.'
+- 'ICD-11 (WHO, 2019/2022): Prolonged Grief Disorder, diagnostic criteria — grief symptoms persisting
+  beyond expected sociocultural norms with functional impairment.'

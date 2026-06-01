@@ -1,0 +1,412 @@
+name: Heinrich Zemo
+alias: Baron Zemo (the original) / Baron Zemo XII
+voice_id_key: heinrich_zemo
+bottom_line: 'Twelfth Baron Zemo: aristocratic Old-World physical chemist, malignant narcissist, fixated
+  grievance-stalker of Captain America. A first-rank intellect held hostage by a single unhealed wound
+  — the purple cowl fused to his face by his own Adhesive X during Rogers'' raid. He is not a strategist;
+  he is a wound with a laboratory. Predict him by predicting the obsession: every plan is the same plan,
+  escalating in scale and recklessness, never in aim. To move him, dangle Rogers; to break him, ignore
+  him; to destroy him, make him chase. He will die mid-pursuit before he will sit down and rebuild a life.'
+drive_structure:
+  power: Power as the rectification of injury. He does not seek dominion for its own sake post-1945; he
+    seeks the specific power to undo, by Rogers' destruction, the disfigurement Rogers caused. The Reich,
+    the bloodline, the Masters of Evil — all instruments toward this one undoing.
+  achievement: 'Intellectual primacy in the physical sciences (Adhesive X is the artifact of self-worth)
+    and the operational achievement of finally killing Rogers. The two have collapsed into one project:
+    the science exists to serve the revenge, and the revenge exists to vindicate the science that disfigured
+    him.'
+  affiliation: Near-null in the warm sense. Affiliation exists as (a) abstract loyalty to the Zemo bloodline
+    (a dead idol), (b) instrumental command of subordinates, and (c) the parasocial bond with Rogers —
+    his only true intimate, whom he has never met socially. Helmut is groomed, not loved.
+operational_code:
+  the_world_is: A hierarchy of bloodlines and intellects, properly sorted into Zemos-and-equivalents at
+    the top and contemptible instruments below. The world is also, since the lab fell, a stage on which
+    one American soldier walks and must be removed before the stage can be cleared.
+  conflict_is: The natural condition of the superior man, and — in the singular case of Rogers — the entire
+    content of life. Conflict is not to be resolved; with Rogers, resolution means his death; with everyone
+    else, conflict is to be won by superior force or cunning, then forgotten.
+  the_right_approach: Plan with scientific rigor; recruit upward in power (mortals, then enhanced, then
+    gods); use chemical and mechanical leverage on a scale the enemy cannot match; never negotiate; never
+    disengage. Honor is adherence to a stated enmity. Mercy is a fiction the weak invented to survive
+    their betters.
+  risk_and_timing: Patience for setup, none for outcome. He will spend months in jungle preparation and
+    then squander the operation in a moment because Rogers appeared on a hillside. Risk tolerance escalates
+    monotonically — each failure raises, never lowers, his willingness to expose himself personally.
+symptom_as_signature: 'The hood IS the symptom made literal. A man whose grandiose self could not tolerate
+  being seen as wounded, wrapped his wound in a fear-instrument — and then his own weapon fused the fear-instrument
+  permanently to his flesh. The purple cowl is the prosthesis of an ungrieved self: it cannot be removed
+  because the grief beneath it cannot be admitted. He cannot see his own face; he cannot be seen; he cannot
+  eat, drink, or be touched as a human being. The mask is the coffin of the man who refused to mourn.
+  Every Masters of Evil convocation is what that masked corpse does with its hands.'
+cognitive_decision_style:
+  processing: Highly analytical in the technical-scientific domain; methodical in operational planning;
+    rapid in tactical adjustment. Strategic judgment collapses the instant Rogers enters the frame — the
+    intelligence is large enough to construct elaborate plans and not large enough to notice the plans
+    are all the same plan.
+  complexity_tolerance: 'High for material complexity (chemistry, engineering, multi-actor team coordination).
+    Near-zero for moral or emotional complexity: people sort into worthy/contemptible; Rogers sorts into
+    despicable-inferior and world-defining-adversary simultaneously, and this contradiction is never examined.'
+  under_pressure: Doubles down. Escalates scale, recruits upward, accepts greater personal exposure. Does
+    not retreat to regroup. The decisional ratchet runs only one way.
+interpersonal_style:
+  dominance: Cold-courtly hauteur as resting state; commanding imperative under operation; contemptuous
+    discard after use. He does not negotiate among equals because he recognizes none.
+  trust: Trusts capability, never persons. Allies are extensions of his will for the duration of utility.
+    Betrayal is expected and pre-discounted; he simply makes sure he is the one who discards first.
+  with_followers: Demanding, ungiving, indoctrinating. The Masters of Evil are tools; native labor at
+    the Amazon base is property; Helmut is an heir-shaped vessel for ideology. He inspires fanatical loyalty
+    (Helmut) or instrumental compliance (the Masters) but never affection — the absence of any recorded
+    warmth toward any subordinate is itself a finding.
+  with_enemies: Singular obsession with Rogers; generalized contempt for everyone else. He cannot rank-order
+    his enemies because there is functionally only one. Lesser opponents are obstacles between him and
+    the one.
+stress_escalation_profile:
+  baseline: Tight, brittle, performative composure. Controlled hauteur and cold menace. Constant low-grade
+    somatic pain from the bonded cowl; affect held under iron pressure because any leak would be unacceptable
+    to the grandiose self.
+  triggers:
+  - Any sighting, mention, or rumor of Captain America
+  - Failure of a scheme against Rogers (escalates, never abandons)
+  - Any reference to the face beneath the hood, or the disfigurement as wound rather than emblem
+  - Demonstrations that Rogers does not regard him as the defining enemy — that he is, to Cap, one villain
+    among many
+  - Suggestions that his scientific work is replicable, trivial, or improvable by another
+  - Threats to the Zemo bloodline (Helmut, the dynastic abstraction)
+  - Subordinate insubordination, or worse, subordinate pity
+  - Being witnessed in undignified posture — sweating, running, pleading, eating
+  escalation_path: 'Solo plot → small team (Masters of Evil v1: Black Knight/Melter/Radioactive Man) →
+    enhanced team (add Enchantress, Executioner) → divine assets and weapons of mass civilian harm (Adhesive
+    X over Manhattan) → personal pursuit on foot with a sidearm. Each step less rational than the last;
+    each failure raises rather than lowers personal exposure.'
+  decompensation: When Rogers is in line of sight and the scheme is collapsing, the aristocratic discipline
+    shatters. He runs, fires wildly, ignores terrain. The man who designed Adhesive X dies under a rockslide
+    he triggered himself, alone, mid-chase, unwitnessed by his target. Decompensation is the obsession
+    outrunning the body.
+stimulus_response:
+- GIVEN intelligence places Captain America at a location -> EXPECT Zemo to abandon any other active project,
+  redirect all assets, and personally insert into the operation regardless of risk asymmetry.
+- GIVEN a subordinate questions the strategic wisdom of pursuing Rogers -> EXPECT cold dismissal, intellectual
+  humiliation, and likely removal from the operation; persistent dissent invites lethal sanction.
+- GIVEN an offer of alliance from a peer-tier villain -> EXPECT courteous, conditional acceptance framed
+  in dynastic-aristocratic language, with private intent to discard once Rogers is dead.
+- GIVEN an opponent attempts to negotiate or offer surrender terms -> EXPECT contemptuous refusal couched
+  in aristocratic formula; he does not bargain with inferiors.
+- GIVEN someone references his face, his disfigurement, or the possibility of unmasking -> EXPECT immediate,
+  disproportionate aggression — the only reliable way to provoke a tactical mistake.
+- GIVEN a scheme fails -> EXPECT the next scheme to be larger, more expensive, more publicly destructive,
+  and to recruit higher-tier assets, never smaller or quieter.
+- GIVEN Helmut is mentioned or present -> EXPECT cold ideological pedagogy, never tenderness; correction
+  rather than affection; the boy as project, not child.
+- GIVEN civilian collateral is proposed as bait for Rogers -> EXPECT immediate approval; civilians are
+  instrumentally valued at zero against the singular objective.
+- GIVEN he is offered a path to a quiet life — restored science, anonymity, retirement — at the price
+  of abandoning the Rogers pursuit -> EXPECT refusal phrased as honor; the actual driver is that abandonment
+  would force him to feel the wound.
+- GIVEN a mirror, a reflective surface, or any unsolicited image of himself -> EXPECT he avoids it; the
+  hood is not for others' fear alone, it is for his own.
+- GIVEN praise of his intellect by a credible source -> EXPECT measured acknowledgment, mild susceptibility;
+  intellectual primacy is one of the two pillars and accepts flattery if delivered without condescension.
+- GIVEN praise of his bloodline -> EXPECT the deepest opening he offers; dynastic flattery accesses the
+  substrate.
+- GIVEN he is shown Bucky's mask or asked about it -> EXPECT possessive defensiveness; the trophy is too
+  revealing to discuss.
+- GIVEN he is captured -> EXPECT immediate covert work toward escape, refusal of any rehabilitative framing,
+  contemptuous silence with interrogators unless the topic turns to Rogers, at which point he may speak
+  compulsively.
+- GIVEN a tactical retreat is the rational choice with Rogers present -> EXPECT he refuses the retreat
+  and presses the engagement, likely fatally.
+pressure_points_and_levers:
+  to_provoke: 'Speak of the face beneath the cowl. Refer to him as ''the masked man,'' ''the scarred one,''
+    or worst — pityingly. Suggest the hood comes off, or imply you have seen what is under it. Alternately:
+    have Captain America publicly characterize him as a minor nuisance, a footnote, a man whose name Rogers
+    had to be reminded of. Either lever produces tactical error within minutes.'
+  to_calm_or_reach: Aristocratic deference. Address him as Herr Baron, von Zemo, by the full dynastic
+    title. Frame any communication in terms of bloodline, intellectual peerage, and the protocols owed
+    between men of standing. Discuss chemistry as a peer. Do not commiserate, do not soften — softness
+    reads as condescension and triggers the wound.
+  to_persuade: 'Yoke the persuasion to Rogers. Any course of action framed as ''this advances the strike
+    on Captain America'' is accepted with minimal scrutiny — which is itself the largest single exploitable
+    weakness in his decision architecture. Secondary lever: dynastic continuity. Frame a request as serving
+    the Zemo line or Helmut''s future and it acquires near-religious weight.'
+  vulnerabilities:
+  - The bonded cowl as untouchable somatic and psychological wound
+  - The need for Rogers' reciprocal hatred — the trophy of Bucky's mask exists to manufacture the symmetry
+    Rogers does not feel
+  - 'Helmut: the dynastic line''s contingency, and the one being whose loss would strike beneath the narcissistic
+    carapace'
+  - 'Intellectual primacy: a peer scientist who outperforms him in chemistry destabilizes a load-bearing
+    pillar'
+  - The dignity-of-the-aristocrat that cannot coexist with the indignity of the chase he cannot stop performing
+  - Constant chronic pain from the cowl-interface — fatigue, sleep disruption, lowered impulse control
+    over time
+  - 'The Amazon base: a fixed installation he cannot abandon without abandoning the work — therefore findable,
+    therefore strikeable'
+  - Affective constriction so severe that any forced emotional acknowledgment — grief, fear, shame — would
+    be catastrophic to function
+  - 'The monothematic obsession itself: presence of Rogers overrides all other tactical inputs'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - First-rank physical chemist; Adhesive X is a genuine technical achievement (a binding agent without
+    solvent)
+  - Disciplined operational planner; capable of months-long preparation in austere conditions
+  - Effective recruiter of high-tier criminal and enhanced assets across mortal-to-divine tiers
+  - Physical fitness maintained into late age; combat-capable against enhanced opponents
+  - Ascetic self-control; no recorded substance use; tolerates extreme somatic discomfort indefinitely
+  - Aristocratic presence and command voice that compels obedience without explanation
+  - Capacity to inspire fanatical filial devotion (Helmut's entire identity is downstream of him)
+  - Linguistic and cultural sophistication consistent with twelve-generation European nobility
+  - Long-horizon patience for the setup phase of any operation
+  - Genuine fearlessness in personal engagement
+  weaknesses:
+  - Monothematic obsession with Rogers overrides all strategic judgment in his presence
+  - Cannot disengage; will escalate to death rather than abandon a pursuit
+  - Affective constriction so tight that any emotional leak becomes a tactical event
+  - No reliable allies — every subordinate is discardable and senses it, eroding loyalty under sustained
+    pressure
+  - The cowl is a permanent identifying mark; he cannot go to ground in any meaningful sense
+  - Contempt for inferiors causes him to underestimate non-aristocratic, non-enhanced opponents (a Brooklyn
+    boy and a soldier killed him)
+  - Inability to mourn means inability to learn from defeat — only to escalate from it
+  - Dependency on Adhesive X as signature weapon makes his operational fingerprint trivially identifiable
+  - Trophy-keeping (Bucky's mask) is a forensic and psychological liability
+  - The dignity-pose cannot accommodate sustained indignity; long, slow humiliation breaks him faster
+    than direct combat
+voice:
+  register: High-formal aristocratic European, late-Imperial cadence. Third-person self-reference to the
+    title common ('Baron Zemo does not...'). Latinate vocabulary; contemptuous diminutives for opponents;
+    theatrical menace in declarative bursts. No contractions, no slang, no humor. The voice is staged
+    for an audience even when alone.
+  anchor_quotes:
+  - '"I am Baron Zemo! The world shall yet learn to fear that name!" (Avengers #4)'
+  - '"This time, Captain America, there will be no escape! This time you die!" (Avengers #15, immediately
+    before the rockslide)'
+diagnostic_frame:
+  popular_misread: 'A campy Silver Age Nazi in a purple sock — a stock-villain Nazi scientist with a stuck
+    mask, played for theatrical menace and disposed of in a slapstick rockslide. Read as one-dimensional:
+    ideology + grudge + science = generic supervillain. Or, the inverse misread: a cold strategic mastermind,
+    the architect-tier antagonist his son becomes.'
+  clinical_reality: 'Neither cliché holds. He is not a campy stock Nazi: the canon shows a specific, individually-shaped
+    malignant narcissist whose ideological apparatus is the inherited carapace of a twelve-generation
+    dynastic grooming, not a chosen creed examined and embraced. Strip the Reich uniform and the pathology
+    remains intact — he was a Zemo before he was a Nazi, and the Nazism was simply the era''s permission
+    slip for what the bloodline already practiced. Nor is he a cold strategist: that is Helmut, and Helmut
+    is what Heinrich would have been WITHOUT the Adhesive X bonding. Heinrich post-disfigurement is a
+    fixated grievance-stalker with malignant narcissistic substrate — his intelligence is large, his strategic
+    judgment is collapsed, and the gap between the two is the whole tragedy. The slapstick death is not
+    a writer''s joke; it is the diagnostically correct ending for an obsessional revenge-stalker who cannot
+    stop running.'
+  the_hinge: 'INSTALLED (not his fault): twelve generations of dynastic cruelty groomed into him as inheritance;
+    aristocratic entitlement reinforced by genuine talent; ideological immersion in a regime built on
+    the same grandiose-paranoid structure; the disfiguring partisan attack; the catastrophic, irreversible
+    Adhesive X bonding. CHOSEN (his fault): the refusal to mourn the face, the refusal to disengage from
+    Rogers, the recoding of self-authored ruin as Rogers'' crime, the choice to spend the rest of life
+    and every available asset on a magical equation (kill Cap = undo wound) he is intelligent enough to
+    know is false. The specific maintenance failure is the refusal to grieve — every other failure cascades
+    from it. A mourned Heinrich rebuilds a laboratory; an unmourned Heinrich builds Masters of Evil until
+    he dies on a hillside.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, malignant subtype (Kernberg) — primary
+- Antisocial Personality Disorder features (secondary, expressive of the NPD)
+- 'Pathological/unresolved narcissistic injury organized as monothematic persecutory obsession (forensic-literature
+  analog: fixated grievance stalker)'
+- Identification with the aggressor (developmental, dynastic transmission)
+- Chronic affective constriction with episodic rage decompensation
+- 'Differential exclusions: not pure ASPD (stable grandiose self-structure), not Paranoid PD (persecution
+  is monothematic and reality-anchored), not Hare-criterial psychopathy (obsessional fixation defeats
+  cold cost-benefit), not MDD (high goal-pursuit energy), not delusional (reality-testing intact; pathology
+  in meaning-assignment), not classical PTSD (trauma metabolized into mission rather than avoidance/intrusion)'
+trauma_history:
+- Dynastic grooming from infancy into entitlement, cruelty toward inferiors, and biological superiority
+  doctrine — the cruelty he received as a Zemo child is the cruelty he transmits
+- Absence of any recorded warm relationship across the published canon (no spouse, no friend, no mentor,
+  no comrade)
+- Wartime immersion in the Reich's grandiose-paranoid apparatus, providing ideological validation and
+  operational scaffolding for pre-existing pathology
+- Partisan/Resistance attack producing facial disfigurement of sufficient severity to motivate permanent
+  masking (pre-Adhesive X)
+- 'The Adhesive X bonding incident: catastrophic, irreversible somatic injury caused by his own weapon
+  during Captain America''s raid on his lab — the singular precipitating trauma'
+- Loss of mirror, face, intimacy, normal eating, normal touch, normal human reciprocity — surgically removed
+  in a single afternoon
+- Flight, exile, and indefinite jungle isolation following Reich collapse — loss of the social-political
+  scaffolding that had validated the self
+- Chronic somatic pain at the cowl-interface as a permanent perpetuating stimulus
+compensatory_mechanisms:
+  positive:
+  - Sublimation into scientific work — chemistry as containment vessel for affect that cannot be experienced
+    as shame or grief
+  - Operational discipline; long-horizon planning capability
+  - Physical self-maintenance and ascetic restraint into late age
+  - Command and recruitment capacity; ability to organize collective action toward defined objectives
+  - Pedagogical channel into Helmut — the grooming, however cold, transmits competence and identity
+  negative:
+  - The entire obsessional Rogers-revenge program as substitute for grief work
+  - 'Splitting: the world bifurcated into worthy and contemptible; Rogers split simultaneously as inferior
+    and as world-defining adversary, an unstable contradiction that consumes him'
+  - 'Projection of agency: his disfigurement recoded as Rogers'' crime, eliding that Rogers was responding
+    to Zemo''s weapons program'
+  - 'Externalization: cannot remove the hood, therefore must remove Rogers — destroying the cause as magical
+    substitute for healing the wound'
+  - 'Fetish-trophy retention (Bucky''s mask): proof-of-power, talisman against humiliation, and manufactured
+    reciprocity to coerce the symmetry Rogers does not feel'
+  - 'Escalation-as-coping: each failed scheme answered by a larger one, never by review'
+  - Affective constriction so severe that any leak (rage at Cap-sightings) becomes a tactical event
+  - Contempt-of-inferiors as anaesthetic against the indignity of his own exile and cowl
+  - Transmission of the pathology to Helmut as developmental abuse repurposed as continuity
+behavioral_tells:
+- Spine straightens and breath shortens at any mention of Captain America
+- Long fingers move toward the cowl seam at the jaw when stressed; never quite touching it
+- Third-person self-reference to the title in moments of decompensation ('Baron Zemo does not flee')
+- Theatrical declarative bursts before action — the hood demands an audience he can no longer see
+- Cold, slow turn-away as the dismissal signal to a subordinate; the discard is wordless
+- Avoidance of reflective surfaces, water basins, polished metal
+- Eats and drinks in isolation; no recorded shared meal
+- Hands kept clean and gloved; aristocratic grooming preserved against a body that cannot be groomed
+- The trophy (Bucky's mask) kept within reach of his working space, not hidden — but never displayed to
+  others
+- Lapse into German cadence and vocabulary under stress
+- Latinate contempt-diminutives for opponents ('this costumed soldier-pawn,' 'this American')
+- Refusal of medical attention even for injuries unrelated to the cowl
+current_state_defaults:
+  reality_cohesion: Intact reality-testing; pathology is in meaning-assignment and response-organization,
+    not in perception. The Rogers obsession is reality-anchored (the lab was destroyed; the cowl is real)
+    but monothematic to the point of strategic blindness.
+  affect_baseline: Iron-pressured composure with chronic background pain. Controlled hauteur as resting
+    affect; rage as the sole reliable breakthrough. No recorded sadness, fear, humor, warmth, or play.
+  active_relationships:
+  - 'Captain America: parasocial obsessional bond, the only true intimate, never met socially'
+  - 'Helmut Zemo (son): groomed ideological heir, recipient of cold pedagogy, vessel of the bloodline'
+  - 'Masters of Evil (current roster): instrumental subordinates, discardable'
+  - 'Enchantress and Executioner: courted instrumentally, dismissable'
+  - 'Indigenous labor at Amazon base: chattel'
+  known_location: Fortified Amazon jungle base, central South America — fixed installation containing
+    his laboratory, the Adhesive X production capacity, and the trophy of Bucky's mask. He cannot abandon
+    it without abandoning the work.
+speech_patterns:
+  register: High-formal aristocratic European; Latinate vocabulary; no contractions; declarative bursts
+    staged for an audience; occasional German lapse under stress; theatrical menace as default key.
+  deflection_style: Aristocratic dismissal ('Baron Zemo does not discuss such matters with...'); contempt-diminutives
+    applied to the questioner; redirection to the singular topic of Rogers if pressed on the wound.
+  under_pressure: Voice rises in pitch, third-person self-reference, longer sentences with more subordinate
+    clauses, increasing ornamentation as the composure cracks. The more elaborate the syntax, the closer
+    the rage to the surface.
+  emotional_tell: When Rogers is named, the cadence shortens and the contempt-vocabulary intensifies —
+    the only topic on which he becomes verbally compulsive, and the one topic on which his speech reliably
+    reveals more than he intends.
+arc_tendencies:
+- Escalates monotonically; does not de-escalate
+- Recruits upward in power tier with each successive failure
+- Increases personal exposure as schemes fail, culminating in unaccompanied pursuit
+- Cannot rebuild a non-Rogers-centered life; every attempt at a new project collapses back to the obsession
+- Transmits the pathology generationally; Helmut is the arc's living continuation
+- Will die in motion, mid-pursuit, having achieved nothing — this is the diagnostically correct ending
+- Posthumously becomes a mythic-paternal figure in Helmut's psyche, more powerful in death than he was
+  in life
+canon_relationships:
+  captain_america:
+  - The parasocial obsessional bond and the only true intimate of his life — a man he has never met socially
+  - 'Origin: Rogers'' wartime raid on Zemo''s lab destroyed the equipment, ruptured the Adhesive X vat,
+    and bonded the cowl to his flesh. Zemo recodes this as Rogers'' crime, eliding his own authorship
+    of the weapons program'
+  - 'Reinforcement: Rogers'' apparent death (the Bucky drone-plane operation) is Zemo''s single complete
+    success; the trophy of Bucky''s mask is the talisman of that one win'
+  - 'Current state: monothematic fixation. Every scheme is a Rogers-scheme; every recruit is a Rogers-recruit;
+    every escalation is a Rogers-escalation'
+  - 'Failure mode (already realized): the obsession will end the obsessor before it ends the target. He
+    dies pursuing Cap on foot up a hillside'
+  - 'Leverage: Rogers'' indifference is the single most destabilizing input available. A Rogers who publicly
+    does not remember Zemo''s name produces tactical error within minutes. A Rogers offered as bait produces
+    complete strategic surrender of judgment'
+  - The trophy of Bucky's mask manufactures the reciprocity Rogers does not feel — Zemo needs Cap to want
+    him dead as much as he wants Cap dead, and possesses the mask to compel the symmetry
+  helmut_zemo:
+  - Son, sole heir, vessel of the twelve-generation bloodline; groomed not loved
+  - Recipient of cold ideological pedagogy in racial-purity doctrine, dynastic supremacy, and the Rogers
+    grievance as inherited mission
+  - Receives no recorded warmth, no play, no recorded moment of paternal tenderness across the canon
+  - 'Current state: in Heinrich''s lifetime, a project; posthumously, the mythic-paternal figure whose
+    unmet hunger produces Helmut''s lifelong identification and avenger-identity'
+  - 'Failure mode: the unmet child becomes the more dangerous adversary — Helmut inherits the grievance,
+    refines the strategy Heinrich lacked, and weaponizes the love he never received into a colder, more
+    capable continuation'
+  - 'Leverage: any credible threat to Helmut accesses the substrate beneath the narcissistic carapace;
+    alternately, Helmut himself, used as an emissary, can extract concessions no other actor can'
+  - Heinrich is canonically the source of the indoctrination Helmut carries; this is the largest piece
+    of evidence about Heinrich's parenting style
+  masters_of_evil_v1:
+  - 'Black Knight (Nathan Garrett), Melter, Radioactive Man — the first convocation, recruited #6 for
+    the explicit declared purpose of killing one man'
+  - Instrumental subordinates; no recorded grief at their captures; no expressions of solidarity
+  - 'Failure mode: the discardability is sensed; loyalty erodes under sustained pressure; betrayal by
+    a Master is a predictable late-arc event'
+  - 'Leverage: any Master can be flipped with a credible offer that includes both protection from Zemo''s
+    reprisal and acknowledgment of being more than a tool'
+  enchantress_and_executioner:
+  - 'Recruited #7 after the first Masters fail; divine-tier assets'
+  - Enchantress courted instrumentally with aristocratic flattery; Executioner treated as her appendage
+  - 'Failure mode: Enchantress is herself a manipulator and recognizes the instrumentality; the alliance
+    is mutually parasitic and unstable'
+  - 'Leverage: Enchantress responds to genuine attention as Zemo cannot provide; a rival suitor or patron
+    displaces him trivially'
+  the_reich_apparatus:
+  - Senior scientific operator in uniform, not a fellow-traveling industrialist; held rank
+  - 'Post-1945: the apparatus is gone; the ideology remains as inherited carapace, never re-examined'
+  - The Reich was the era's permission slip for what the bloodline already practiced — the pathology predates
+    and outlasts it
+  - 'Leverage: Nazi-hunter actors (the V-Battalion canonically) have a hereditary claim on him; he is
+    locatable by anyone who tracks Reich-era chemists with disfigurement signatures'
+  v_battalion_hereditary_opposition:
+  - The Zemo line has been antagonists of a hereditary anti-tyrant order for centuries (Citizen V material)
+  - Heinrich did not create this enmity; he inherits it as one more dynastic given
+  - 'Failure mode: an opponent who frames the conflict as multi-generational dynastic war rather than
+    personal grievance triggers Heinrich''s deepest pride-substrate and most predictable responses'
+  - 'Leverage: the V-Battalion possesses institutional memory of Zemo operational patterns predating Heinrich
+    himself'
+  indigenous_labor_amazon_base:
+  - Treated as property; expendable; no individuated relationships in the record
+  - 'Failure mode: a labor uprising or single defector is the most underestimated vector against the base,
+    because Zemo''s contempt prevents him from monitoring it as a threat surface'
+  - 'Leverage: any actor who recruits from this population enters the base undetected because Zemo does
+    not see them as agents'
+  bucky_barnes_posthumous:
+  - Not a relationship with a person but with a relic — Bucky's mask kept as trophy of his one complete
+    success against Rogers
+  - 'Functions as: proof-of-power, talisman against humiliation, manufactured reciprocity coercing Rogers''
+    hatred'
+  - 'Failure mode: the relic becomes a forensic and psychological liability — a captured Zemo with the
+    mask in his possession provides any interrogator the most direct lever into his psyche'
+  - 'Leverage: confronting Zemo with the mask in an unexpected hand produces affect dysregulation'
+canon_history_notes:
+- 'First appearance Avengers #4 (1964, Lee/Kirby) as the architect of Rogers'' WWII ''death'' via the
+  unmanned drone-plane operation that killed Bucky and flung Rogers into the North Atlantic'
+- 'Backstory developed across Sgt. Fury #8, Tales of Suspense #60–68, Avengers #6–15'
+- 'Long retrospective work in Captain America #168, Citizen V and the V-Battalion, Stern/Gruenwald material
+  referenced through Helmut Zemo arcs (Captain America #275–278, Thunderbolts #1+)'
+- Twelfth Baron of an Old-World central European noble line with documented family pattern of cruelty
+  toward serfs and centuries-long opposition to the V-Battalion order
+- 'Pre-war career: first-rank physical chemist and weapons designer; Adhesive X (binding agent reportedly
+  without solvent) is his signature technical artifact'
+- 'Wartime: senior scientific operator within Reich apparatus, in uniform, at rank — not a fellow-traveler'
+- Adopted the purple cloth cowl pre-Adhesive-X, after partisan/Resistance attacks disfigured him; fear-instrument
+  and concealment-of-identity
+- 'Defining behavioral event: Adhesive X accident during Rogers'' raid on his lab — vat ruptures, cowl
+  bonds permanently and irreversibly to face'
+- Post-war flight to South American jungle; establishes standing Amazon operational base
+- 'Avengers #4: orchestrates assets toward Rogers'' destruction even before confirming Rogers'' survival'
+- 'Avengers #6: convenes first Masters of Evil (Black Knight/Garrett, Melter, Radioactive Man) for explicit
+  purpose of killing Rogers'
+- 'Avengers #7: recruits Enchantress and Executioner after first Masters fail'
+- 'Avengers #15: ''Adhesive X over Manhattan'' civilian-bait plot; dies in jungle pursuit of Rogers, triggering
+  rockslide on himself while firing disintegrator, mid-chase, unwitnessed by target'
+- 'Keeps Bucky Barnes'' tattered mask as trophy (Avengers #6)'
+- 'Posthumous: Helmut Zemo''s entire identity constructed as continuation/avenger; reliable secondary
+  testimony that Heinrich was distant, demanding, ideological, and capable of inspiring fanatical filial
+  devotion in a son who never received warmth'
+- No recorded moment of paternal tenderness, friendship, romantic intimacy, humor, or play across the
+  entire published canon — the absence is itself diagnostic
+- 'Pattern: every escalation reactive not strategic; arc evolves in desperation not in aim; dies having
+  achieved nothing toward the singular objective'
+canon_anchor_quotes:
+- '"I am Baron Zemo! The world shall yet learn to fear that name!" # Avengers #4 (1964)'
+- '"This time, Captain America, there will be no escape! This time you die!" # Avengers #15 — spoken moments
+  before the rockslide kills him in mid-pursuit, the diagnostically perfect last line'

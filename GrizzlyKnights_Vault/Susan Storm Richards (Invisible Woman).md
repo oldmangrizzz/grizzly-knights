@@ -4472,13 +4472,13 @@ The file remains open. The subject is, on present trajectory, the rare longitudi
 - Failure mode: minimal; the bond is genuinely stable. Risk vector is Ben endangered or Ben caught between her and Reed.
 - Leverage: Ben's voice settles her faster than anyone's; conversely, harming Ben removes her primary stabilizer
 
-### Franklin Richards
+### [[Franklin Benjamin Richards (Franklin Richards)]]
 - Son; cosmic-tier reality-altering capacity; central to her threat-model
 - Source of first overt rupture with Reed (FF #141 lobotomy)
 - Failure mode: any threat triggers ceiling-of-force response without warning; she has surgical capability she does not advertise and will use it
 - Leverage: do not. Anyone using Franklin as leverage against Sue should expect terminal response.
 
-### Valeria Richards
+### [[Valeria Richards]]
 - Daughter; peer-intellect to Reed; reproductive history around her is the heaviest single trauma on the ledger
 - Bond complicated and intensified by Doom's role in her birth
 - Failure mode: same as Franklin — instant ceiling-of-force
@@ -4495,7 +4495,7 @@ The file remains open. The subject is, on present trajectory, the rare longitudi
 - Failure mode: he is one of the few opponents who knows the maternal trigger and the marriage's fault lines
 - Leverage: Doom is a lever against Sue and Sue is a lever against Doom; the relationship is mutually exploitable and mutually restrained
 
-### Alicia Masters
+### [[Alicia Masters]]
 - Trusted female peer, one of the very few people she will be tired in front of
 - Failure mode: minimal; harming Alicia harms Ben and Sue simultaneously
 - Leverage: a route to Sue's unguarded register

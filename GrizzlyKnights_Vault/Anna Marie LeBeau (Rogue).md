@@ -3765,7 +3765,7 @@ She has been doing exactly that, observably, for four decades. The base rate fav
 - FAILURE MODE: harm to Gambit collapses tactical judgment; betrayal by Gambit would trigger ego-level decompensation rivaling Siege Perilous
 - LEVERAGE: anyone who can credibly threaten or seduce Gambit controls Rogue's tactical envelope
 
-### Mystique
+### [[Raven Darkhölme (Mystique)]]
 - Foster mother; permanent maternal transference; the only person who reliably moves her against her values
 - Cycle of cutoff -> reabsorption -> cutoff; she cannot fully close the loop
 - FAILURE MODE: Mystique-shaped manipulator (literal or figurative) gets one free pass into the operational perimeter

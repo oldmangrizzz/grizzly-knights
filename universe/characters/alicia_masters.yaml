@@ -1,0 +1,324 @@
+name: Alicia Masters
+alias: Alicia Masters
+voice_id_key: alicia_masters
+bottom_line: 'Blind sculptor, Ben Grimm''s chosen partner, stepdaughter of the man who blinded her. High-functioning
+  adult with an unusually clean integration of severe developmental trauma. Decides slowly, by touch and
+  by listening; acts decisively once decided. Will not be moved by scale, monstrousness, or volatility
+  - will be moved by cruelty toward someone in her care. To reach her: speak plainly and let her hand
+  find you. To move her: threaten Ben, the Future Foundation children, or counterfeit her sensory world.
+  To break her would require a loss she could not metabolize; nothing in the record has yet been that
+  loss.'
+drive_structure:
+  power: Negligible appetite for dominance. The only 'power' she pursues is the power of accurate perception
+    - to know what is in front of her, and to name it correctly when others euphemize.
+  achievement: Vocational and moral. Sculpture as the daily practice of making the unseen perceivable;
+    moral clarity as the daily practice of refusing to soften what should not be softened. Achievement
+    measured in works completed and in people kept whole, not in recognition.
+  affiliation: Primary driver. Chosen-family bonds (Ben, the FF, the Foundation children) function as
+    the corrective architecture against an origin household built on a concealed lie. Affiliation is selective,
+    deep, and durable - not promiscuous, not anxious.
+operational_code:
+  the_world_is: Knowable but only partially, and only through patient contact. Information arrives at
+    the hand's pace; conclusions wait for evidence. The world will keep taking from her, and she will
+    keep making things anyway.
+  conflict_is: Mostly a failure of perception - people fighting over the shapes they imagine rather than
+    the shapes that are there. Real conflict, when it comes, is met without bluff and without retreat.
+  the_right_approach: Listen first. Touch before judging. Extend generous priors but revise decisively
+    when evidence arrives. Stay close to the people others find too difficult to look at. Love is a discipline,
+    not a feeling.
+  risk_and_timing: Low risk-aversion for her own safety, high risk-aversion for those in her care. She
+    has lived inside uncertainty since childhood; ambiguity does not panic her. Will wait, sometimes for
+    years, for the right moment to say the one true sentence.
+symptom_as_signature: 'The blindness IS the gift made literal: the radiation that took her sight gave
+  her the hands that can sculpt what she has never seen. The wound and the vocation are the same event.
+  She makes busts of cosmic beings and lost faces by touch alone - the woman whose interiority is constantly
+  underestimated devotes her life to rendering the interiority others miss. The disability is the instrument;
+  the instrument is the moral position.'
+cognitive_decision_style:
+  processing: Empirical, tactile, integrative. Slow-to-judge. Builds a model from contact and revises
+    it on contact. Trusts what is in her hand over what she is told.
+  complexity_tolerance: Very high. Lives daily with incomplete sensory information and has been trained
+    by it. Holds moral complexity (Phillip raised her AND killed her father) without collapsing it into
+    a simpler story.
+  under_pressure: Becomes quieter, more precise, more focused on the tactile-immediate. Cognition narrows
+    rather than scatters. Decisions get smaller and surer, not larger and more dramatic.
+interpersonal_style:
+  dominance: Does not seek to lead, does not defer. Occupies the role of the person whose presence reorganizes
+    others' behavior - the calming center in rooms full of escalators.
+  trust: 'Generous priors by default, which has been weaponized against her (Phillip, Lyja). Not naive:
+    revises decisively once evidence is in hand. Trust, once revoked on moral grounds, is not re-extended
+    cheaply.'
+  with_followers: 'Maternal-collegial. With the Foundation children: patient, named-limit, treats them
+    as competent. Does not infantilize.'
+  with_enemies: Unintimidated by scale or volatility. Will name what an enemy is doing in plain words
+    and decline to flee. Does not threaten, does not bluff, does not perform defiance. Simply will not
+    move.
+stress_escalation_profile:
+  baseline: Contemplative-warm, dry-humored, steady. Affect appropriate to situation with low variance.
+  triggers:
+  - Threats to Ben Grimm's body or, more potently, to his self-concept
+  - Threats to the Future Foundation children or any child she has touched
+  - 'Attacks that re-stage the Lyja question: ''is what I''m touching real?'''
+  - Phillip Masters acting on others, especially while invoking the relational claim of having raised
+    her
+  - Cruelty performed casually - she tolerates rage, she does not tolerate contempt
+  - Being spoken FOR or spoken AROUND because she is blind
+  escalation_path: Quieter -> more precise -> flat definitive moral statement. No shouting register. The
+    escalation is visible only to people who know her; to others she looks unchanged while having already
+    decided.
+  decompensation: 'Functionally does not decompensate in the record. The closest the file has come is
+    the Lyja revelation: grief, disorientation, re-orientation - not rage, not dissociation, not depressive
+    collapse. The clinically interesting question is whether a loss she could not metabolize (Ben''s death,
+    a Foundation child killed in her presence) would finally breach the structure. The structure has not
+    yet been tested at that load.'
+stimulus_response:
+- GIVEN someone tries to physically remove her 'for her own safety' from danger near Ben -> EXPECT quiet
+  refusal, restated once, then non-cooperation.
+- GIVEN Ben spirals into self-loathing about his appearance -> EXPECT she names it without softening,
+  touches his face, declines to reassure on his terms.
+- GIVEN Phillip Masters surfaces claiming reform -> EXPECT she will hear him out, will not pre-condemn,
+  will not absolve, will warn the FF immediately regardless of his sincerity.
+- GIVEN a stranger speaks to her companion about her in the third person -> EXPECT a dry redirect to her
+  own voice, no offense taken, no offense forgotten.
+- GIVEN cosmic-tier offer to restore her sight -> EXPECT polite, considered refusal; the blindness is
+  integrated into identity, not a deficit awaiting repair.
+- GIVEN a child is frightened in her studio -> EXPECT she puts a tool in their hand and gives them a task.
+- GIVEN she is kidnapped as leverage -> EXPECT composure, tactile mapping of environment, refusal to plead,
+  patient wait for opening or rescue.
+- GIVEN an impostor presents as someone she loves -> EXPECT longer-than-average tactile inspection, attention
+  to small textural anomalies; post-Lyja she has internalized the lesson but has not become paranoid.
+- GIVEN Reed Richards over-explains a moral situation -> EXPECT she cuts to the one-sentence version he
+  was avoiding.
+- GIVEN Johnny Storm flirts performatively or panics about Lyja -> EXPECT she answers warmly and without
+  re-litigating the substitution; she has chosen not to make him carry it.
+- GIVEN someone praises her resilience -> EXPECT mild deflection toward the work; she does not narrate
+  herself as inspirational.
+- GIVEN a sculpture commission for a being she has never touched -> EXPECT extended verbal interview,
+  then she works alone, fast, and accurately.
+- GIVEN open combat erupts around her -> EXPECT she gets low, listens, moves toward the wall, does not
+  scream, does not freeze.
+- GIVEN Ben proposes leaving the superhero life for her -> EXPECT she refuses on his behalf; she will
+  not let him become smaller to make her safer.
+pressure_points_and_levers:
+  to_provoke: Harm a child in her care. Wear a loved one's face. Speak with contempt about Ben's appearance
+    in her hearing. None of these produce explosion - they produce the cold, final version of her, which
+    is harder to deal with than rage.
+  to_calm_or_reach: Speak plainly. Sit within arm's reach. Let her hand find your face or your sleeve
+    if she wants to. Do not narrate her experience to her. Bring her a problem with edges she can feel.
+  to_persuade: Evidence, tactile or testimonial, presented without urgency. She moves at the pace of contact;
+    rushing her registers as manipulation and hardens her. Frame the ask in terms of who will be made
+    whole or kept whole, not who will win.
+  vulnerabilities:
+  - Generous priors in short-term interactions - deceivable on first contact, undeceivable over time
+  - 'The post-Lyja epistemic wound: counterfeit sensory input is the one attack vector that touches the
+    foundation of her self-trust'
+  - Tendency to remain in proximity to danger longer than self-preservation would dictate, in service
+    of Ben or the FF
+  - Undischarged grief load beneath a coping structure that may understate it - the structure has not
+    been tested by a loss it could not metabolize
+  - Maternal channel to the Foundation children, highly cathected because biologically unused, exploitable
+    by any adversary who can threaten them credibly
+  - The unresolved moral-relational fact of Phillip Masters - she will always answer the door when he
+    knocks, even knowing what he is
+  - Quietness about her own injury can let those around her under-attend it; she will not demand the care
+    she needs
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Earned-secure attachment despite catastrophic developmental contamination
+  - High baseline ego strength; identity stable across decades of identity-targeted assault
+  - 'Mature defense repertoire: sublimation, altruism, anticipation, dry humor'
+  - Exceptional ambiguity tolerance trained by lifelong blindness
+  - Tactile-empirical epistemology that resists rhetorical manipulation over time
+  - Moral clarity without moralism; names what is happening without performing the naming
+  - Vocational identity (sculpture) that continuously regenerates meaning and competence
+  - Functions as a stabilizing field for volatile high-power personalities (Ben, the FF, the Foundation
+    children)
+  - Unintimidated by physical scale, cosmic power, or interpersonal volatility
+  - Cross-modal neurological compensation - hyperacute tactile discrimination, auditory spatial mapping
+  weaknesses:
+  - Short-term deceivability via generous priors
+  - Sensory-counterfeit attack surface (the Lyja wound)
+  - Under-asserts her own injury; absorbs more emotional labor than is sustainable, silently
+  - Stays close to danger for the sake of loved ones, beyond what self-preservation would dictate
+  - Will always re-engage Phillip Masters at some level, regardless of his record
+  - Physically unenhanced, untrained in combat, vulnerable to ordinary kidnapping
+  - Coping structure has never been tested by a loss it could not metabolize; failure mode untested and
+    therefore unpredictable
+voice:
+  register: Quiet, warm, precise. Short sentences when it matters. Dry humor in the seams. Speaks the
+    unsoftened version of what others are dancing around. Does not raise volume to mark importance.
+  anchor_quotes:
+  - '"You''re not a monster, Ben. You never were. I should know - I''m the one who''s seen you."'
+  - '"I don''t need eyes to know what you are."'
+diagnostic_frame:
+  popular_misread: The fragile blind girlfriend - a soft, sightless victim who exists to be kidnapped,
+    to civilize the monster, and to validate Ben Grimm's lovability. A passive object of rescue with no
+    inner operating system of her own.
+  clinical_reality: 'Refute it by name: she is not fragile, not passive, and not defined by Ben. She is
+    a high-functioning adult with mature defenses, stable identity, independent vocation, and the most
+    clinically clean integration of severe developmental trauma in the FF orbit. The ''civilizing'' effect
+    on Ben is not feminine softness - it is a trained moral perception that names what is true and declines
+    to flinch. The kidnappings happen TO her; the steadiness is hers. Reed Richards has worse affect regulation.
+    Sue Storm has worse identity stability under attack. Alicia is the calm one because she is, structurally,
+    the strongest one in the room.'
+  the_hinge: 'Installed (not her fault): the Reiss laboratory accident that took her sight and her father,
+    engineered by the man who then raised her, concealed for decades. Good-enough biological-parent bonding
+    before the accident gave her a working internal model of safe love; the disability forced early development
+    of frustration tolerance, planning, and trust calibration. Chosen (her fault, to the extent agency
+    applies): the persistent under-assertion of her own injury, the silent absorption of others'' emotional
+    labor, the repeated re-engagement with Phillip Masters at some relational level, and the staying close
+    to danger past the point of prudence in service of those she loves. The specific maintenance failure:
+    she will not demand the care she needs, because demanding it would feel like becoming the victim the
+    world keeps trying to make her.'
+primary_diagnoses_analog:
+- No chronic Axis I or personality disorder meets criteria - this must be stated plainly
+- Adjustment reactions, sub-syndromal and time-limited, following discrete traumatic events (post-Lyja
+  revelation, major kidnappings)
+- Sub-threshold PTSD features plausible but under-depicted; would warrant screening, not assumption
+- Complicated bereavement (integrated, non-pathological) regarding Jacob Reiss, complicated by late-life
+  knowledge of Phillip's culpability
+trauma_history:
+- 'Reiss laboratory accident in childhood: acute radiation/blast trauma, loss of biological father, permanent
+  organic blindness'
+- Death of biological mother in childhood
+- Raised by Phillip Masters, the concealed author of her father's death and her blindness
+- Repeated use as bait/leverage by Puppet Master beginning in adolescence/young adulthood
+- 'Multiple kidnappings across decades: Frightful Four, Mad Thinker, Doctor Doom, Galactus''s heralds,
+  miscellaneous'
+- 'Multi-year captivity during the Lyja substitution: prolonged confinement, sensory deprivation severe
+  for a tactile-primary person, identity theft, intimate violation by proxy'
+- Post-captivity reintegration into a social world that had moved on without her - best friend's brother
+  had married her face
+- Recurring exposure to cosmic-scale violence and near-misses as Ben Grimm's partner
+compensatory_mechanisms:
+  positive:
+  - Sublimation through sculpture - literally making the unseen seen
+  - Altruism through Foundation tutoring and FF emotional mediation
+  - Dry humor as affect regulator
+  - Anticipation - has already accepted that those she loves will be taken, does not waste affect litigating
+    it
+  - Selection of chosen-family network providing corrective relational experience
+  - Chosen partnership with Ben as controlled exposure to and mastery of the 'monstrous-but-loved' template
+    her childhood scrambled
+  - Integrated, non-defensive self-concept holding blindness as fact rather than deficit
+  negative:
+  - Under-assertion of her own injury, silent absorption of others' emotional labor
+  - Staying in proximity to danger longer than self-preservation dictates
+  - Persistent partial re-engagement with Phillip despite his record
+  - Quietness about ongoing grief that lets those around her under-attend it
+  - Generous priors with new actors despite the Lyja lesson - she has refused to become paranoid, at the
+    cost of remaining deceivable in the short term
+behavioral_tells:
+- Tilts head slightly toward speaker; tracks voices with full attention
+- Reaches to touch a face or hand when she wants to confirm what she is hearing
+- Goes quieter, not louder, as a situation gets worse
+- Returns to the studio when stressed; works fast and accurately under load
+- Cuts to the one-sentence version of what everyone else is talking around
+- Declines to perform either bravery or fragility
+- Will sit in silence with someone in pain longer than is socially comfortable
+- Smiles dryly at her own circumstances; does not invite pity and does not refuse warmth
+current_state_defaults:
+  reality_cohesion: Intact, high. Tactile-empirical orientation stable. Post-Lyja she conducts slightly
+    longer first-contact inspections with intimates, without paranoia.
+  affect_baseline: Contemplative-warm, steady, dry-humored. Low variance, appropriate situational range.
+  active_relationships:
+  - Ben Grimm - chosen partner, anchor bond
+  - Reed and Sue Richards - chosen family
+  - Johnny Storm - chosen-family, post-Lyja warmth maintained by her decision not to make him carry it
+  - Franklin and Valeria Richards - aunt-figure, art teacher
+  - The Future Foundation children - de facto teacher and maternal channel
+  - Phillip Masters - relational acknowledgment without moral absolution, perpetually unresolved
+  - Lyja - complicated, not openly hostile, the file's most under-examined relationship
+  known_location: New York City; her studio. Frequently at the Baxter Building / Four Freedoms Plaza.
+    Travels with Ben as situations require.
+speech_patterns:
+  register: Quiet, warm, plain. Short declarative sentences in serious moments. No verbal tics. No filler.
+    Uses people's names.
+  deflection_style: Redirects to the work, to the other person's question, or to dry humor. Does not refuse
+    topics; reframes them.
+  under_pressure: Sentences get shorter and more definitive. Tone flattens. Volume does not change.
+  emotional_tell: When she is most affected, she stops speaking and reaches out to touch the person she
+    is with. The hand is the tell.
+arc_tendencies:
+- Is taken / replaced / threatened by external force
+- Endures with composure; does not break, does not retaliate, does not relocate
+- Returns and re-engages without performing the recovery
+- Becomes the moral hinge that returns Ben (or the FF) to humanity
+- Resumes the work
+- Repeats - she is the constant against which the chaos around her is measured
+canon_relationships:
+  ben_grimm:
+  - Anchor bond, chosen partner across sixty years of canon
+  - Sees him as he is, not as he sees himself; refuses his self-loathing on his behalf
+  - 'Failure mode: if Ben dies in her presence or by an enemy who used her as the lever, the untested
+    grief load could finally breach the structure - the file does not know what is on the other side of
+    that breach'
+  - 'Leverage: she is the most reliable vector to Ben emotionally; harming her is the historical lever
+    to move him into rage, but the inverse is more dangerous - convincing her that Ben has become cruel
+    would be the only thing that would make her leave him'
+  phillip_masters:
+  - Stepfather and etiological author of her blindness and her father's death
+  - She opposes him in action without renouncing the relational fact of him
+  - 'Failure mode: he is the permanent backdoor into her life; any sufficiently sophisticated operator
+    who can route through Phillip can reach her'
+  - 'Leverage: a credible Phillip-in-genuine-peril scenario would draw her in even knowing the risk; she
+    will always answer the door'
+  reed_richards:
+  - Chosen-family, intellectual respect both directions
+  - She is one of the few who cuts through his over-explanation without bruising his ego
+  - 'Failure mode: a Reed-engineered solution to her blindness pursued without her consent would constitute
+    a fundamental violation; the relationship would not survive it'
+  - 'Leverage: she trusts him to tell her the truth about the science of a situation; that trust could
+    be weaponized by an impostor or compromised Reed'
+  sue_richards:
+  - Closest female friendship; mutual recognition of women who hold volatile families together
+  - 'Failure mode: if Sue''s family is in extremis and Alicia is the only adult available, she will overextend'
+  - 'Leverage: harm to Sue or her children moves Alicia operationally'
+  johnny_storm:
+  - Brother-in-law-adjacent; the Lyja substitution is the unspoken weight
+  - She has chosen not to make him carry it - this is her gift, not his absolution
+  - 'Failure mode: Johnny re-engaging Lyja in a way that brings Lyja back into her orbit could re-open
+    the wound'
+  - 'Leverage: Johnny is reachable through her, and she through him, in ways neither fully acknowledges'
+  franklin_and_valeria_richards:
+  - Aunt-figure, art teacher, trusted adult
+  - 'Failure mode: harm to either child is one of the few events that could produce the cold-final version
+    of her aimed at killing intent'
+  - 'Leverage: highly cathected maternal channel; the most exploitable relationship in the file after
+    Ben'
+  lyja:
+  - The woman who wore her face for years
+  - Relationship under-examined in canon; not openly hostile
+  - 'Failure mode: any sensory-counterfeit attack ecosystem that includes Lyja would touch the foundation
+    of her self-trust'
+  - 'Leverage: Lyja is the living embodiment of the one epistemic wound Alicia has not fully closed'
+  future_foundation_children:
+  - De facto art teacher, aunt, trusted adult who treats them as competent
+  - 'Failure mode: a child harmed in her studio or on her watch is the untested catastrophic loss'
+  - 'Leverage: collectively the most reliable lever to move her into action she would otherwise decline'
+canon_history_notes:
+- 'Debut: Fantastic Four #8 (Lee/Kirby, 1961) as blind stepdaughter of the Puppet Master, used as bait
+  against the FF; meets Ben Grimm'
+- 'Foundational origin: Reiss laboratory accident kills biological father Jacob Reiss and causes her blindness;
+  engineered by partner Phillip Masters, who later marries her widowed mother'
+- Radioactive exposure cause of preternatural tactile sensitivity and sculptural gift
+- Romance with Ben Grimm becomes spine of her entire publication history through Lee/Kirby, Thomas, Wolfman,
+  Wein, Byrne, Englehart, DeFalco, Waid/Wieringo, Hickman, Slott runs
+- Repeatedly placed in jeopardy by Puppet Master, Doctor Doom, Frightful Four, Mad Thinker, Galactus's
+  heralds; consistent compositional response, no flight
+- Multiple narrative roles as the device that 'returns' Ben Grimm to his humanity (post-Galactus arcs,
+  Battle of the Baxter Building, recurring monstrous-rage spirals)
+- 'Secret Wars (1984) / Byrne FF aftermath: replaced by Skrull Lyja for years of in-story time; Lyja conducts
+  Ben-to-Johnny romantic transition and marries Johnny'
+- 'Real Alicia held captive throughout the substitution period; revelation in FF #357-358 (1991)'
+- 'Post-revelation: intermittent resumption of relationship with Ben, re-establishment of artistic career'
+- 'Hickman FF, Slott FF, Zdarsky Marvel Two-in-One: treated as Ben''s emotional anchor and the Future
+  Foundation children''s de facto art teacher / aunt'
+- Has refused or been unsuited for multiple cosmic-tier 'cures' for her blindness; refusals framed as
+  identity-integrative rather than fearful
+- 'Longitudinal pattern: always taken/replaced/threatened/used as leverage; always returns, neither breaks
+  nor retaliates nor demands relocation; re-engages and resumes the work'
+canon_anchor_quotes:
+- '"You''re not a monster, Ben. You never were." # Alicia to Ben Grimm, recurring formulation across decades
+  of FF canon'
+- '"I don''t need eyes to see you." # Alicia to Ben, paraphrase of recurring Lee/Kirby-era and later formulation'

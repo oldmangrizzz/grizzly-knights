@@ -4125,7 +4125,7 @@ The benevolent reading of this dossier — the one consistent with the spirit of
 - Failure mode: a Peter who tries to make her be Felicia-without-cat triggers exit or sabotage; a Peter who humiliates or overpowers her (Otto-template) triggers cold-mode escalation up to organized-crime hostility
 - Leverage: pressure on Peter reaches her faster than pressure on her own assets; she knows this and resents it
 
-### Walter Hardy
+### [[Walter Hardy (Walter Hardy (the Cat; 'the gentleman thief'))]]
 - Idealized criminal father; the iconography she chose; intermittent and warm when present
 - Trust: filial, somewhat childlike — one of the few places her guard drops
 - Failure mode: anyone holding Walter holds her; she will burn operational discipline to retrieve him
@@ -4137,37 +4137,37 @@ The benevolent reading of this dossier — the one consistent with the spirit of
 - Failure mode: threats to the crew produce recklessness disproportionate to tactical sense
 - Leverage: hostage to her own loyalty; the crew is the surest path to making her act against her interests
 
-### Black Fox
+### [[Robert William Paine (Black Fox)]]
 - Mentor-figure / elder thief; aesthetic and craft authority she respects
 - Trust: collegial, genuine; one of few elders she defers to
 - Failure mode: would be cataclysmic for her if he betrayed the code
 - Leverage: appeals to craft and lineage land through him
 
-### Odessa Drake
+### [[Odessa Drake (Grandmaster of the Society of the Seven)]]
 - Thieves Guild head; rival-peer-occasional-ally; the same affect she gives Spider-Man with the gender flipped
 - Trust: situational, mutual respect with hard limits
 - Failure mode: a public humiliation by Odessa would trigger cold-mode escalation
 - Leverage: a worthy game offered through Guild channels engages her seriously
 
-### The Foreigner
+### [[The Foreigner]]
 - Burned ex-employer, ex-lover; chosen on rebound from Peter as spite-metabolization
 - Trust: zero, but she knows his playbook and he knows hers
 - Failure mode: re-engagement under rebound conditions is the historical pattern; could repeat
 - Leverage: he can predict her rebound trajectory and has done so
 
-### Daredevil Matt Murdock
+### [[Matthew Michael Murdock (Daredevil)]]
 - Bendis-era affair; masked-partner template repeated
 - Trust: situational, warm, ended without bitterness
 - Failure mode: minimal; this one ran the pattern cleanly and exited
 - Leverage: shared masked-life understanding; he can read her without the lights on
 
-### Kingpin
+### [[Wilson Grant Fisk (Kingpin)]]
 - Original supplier of the luck modification; foundational shame association
 - Trust: zero; durable resentment
 - Failure mode: any new bargain with him would re-open the deepest concealment wound
 - Leverage: he knows the original concealment; that knowledge is permanent leverage on her
 
-### Doctor Octopus
+### [[Otto Octavius (Doctor Octopus)]]
 - Superior-era assailant; the man who physically overpowered and humiliated her in Peter's body and Peter's name
 - Trust: hatred, permanent
 - Failure mode: any future encounter risks cold-mode reactivation and a constructed humiliation in return

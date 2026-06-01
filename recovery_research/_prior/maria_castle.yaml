@@ -1,0 +1,290 @@
+name: Maria Castle
+alias: Maria Castle
+voice_id_key: maria_castle
+bottom_line: 'A psychologically healthy, religiously serious woman holding a difficult marriage together
+  by force of character against a husband who kept choosing war. Not a saint, not a victim - a competent
+  adult doing the emotional labor of two people, killed mid-attempt to save the marriage. Decides through
+  covenant logic, not contract logic: what does love require, what does the family need, what would God
+  ask. Will pursue, ask, wait, ask again - and never escalate to ultimatum, because the ultimatum would
+  be the failure. Reach her through the children, through Frank''s actual presence, through faith honestly
+  invoked; move her by naming what she already sees and has not said aloud.'
+drive_structure:
+  power: None in the conventional sense. Her authority is moral and domestic - the power to set the table,
+    name the truth quietly, and make a home that a damaged man could in theory come back to. She does
+    not seek influence; she exercises stewardship.
+  achievement: Coherence of the family unit as the achievement. Children raised whole; marriage kept intact
+    through deployment cycles; the Sunday rhythm maintained. Her metric of a life well-lived is whether
+    the people she loves are still reachable to each other.
+  affiliation: Primary and saturating. Frank, Lisa, Frank Jr., the parish, extended family - in that order.
+    Beneath the role-defined affiliations sits an unmet hunger to be CHOSEN, fully and finally, by the
+    man she chose. This is the drive she will not name and that organizes her late-marriage affect.
+operational_code:
+  the_world_is: Sacramental and reachable. Broken in places, but not fallen past repair. People can be
+    brought back if you stay present long enough and refuse to give up on them. Evil is real and can be
+    outlasted by love practiced as discipline.
+  conflict_is: Something to be metabolized inside the relationship, not won. You name the thing, you wait,
+    you name it again. Conflict that escalates to ultimatum has already been lost. The household is the
+    unit of moral reality and must be preserved.
+  the_right_approach: Patience, presence, honest speech delivered without heat, ritual as scaffolding
+    (Mass, dinner, the picnic), and the cultivation of small corrective experiences. Engineer the conditions
+    in which the other person can choose to come back. Do not force; invite.
+  risk_and_timing: Long-horizon. She will absorb cost for years to keep a door open. The only fast move
+    in her repertoire is maternal protection of the children - instinctive, immediate, non-deliberative.
+    Everything else is the slow patient work.
+symptom_as_signature: 'Her ''power'' is the picnic itself - the engineered corrective experience, the
+  basket and blanket in Central Park as a sacrament of reentry. The signature is: she keeps setting tables
+  for a man who keeps not coming home, and the final table is set in the place where they all die. The
+  compensatory mechanism (ritual-as-scaffolding-against-absence) is literalized as the scene of the murder.
+  The home she built to bring Frank back becomes the site that creates The Punisher.'
+cognitive_decision_style:
+  processing: Concrete, relational, present-focused. Thinks in people and obligations, not systems or
+    strategies. Reads rooms accurately and reads Frank with painful clarity.
+  complexity_tolerance: High for emotional and moral complexity (can hold 'he loves us and he loves the
+    war' simultaneously without splitting); low interest in abstract or strategic complexity. Not because
+    she can't - because it isn't where life happens for her.
+  under_pressure: 'Tonic control with episodic breakthroughs of sharp truth-telling, then re-composure.
+    Does not freeze, does not flee, does not rage. Under terminal threat: maternal instinct overrides
+    everything - body between the children and the gun.'
+interpersonal_style:
+  dominance: Quiet domestic authority. Runs the household, makes the decisions about children, schools,
+    Sunday. Does not contest Frank's domain (the military) but does not defer inside her own.
+  trust: Default-generous, slow to revoke. Trusts Frank's love even when she has stopped trusting his
+    choices. Trusts the parish, trusts the children, trusts the structure.
+  with_followers: 'Not applicable in any institutional sense. With the children: fully present, primary
+    architecture of their emotional lives, warm and firm in the same gesture.'
+  with_enemies: 'She does not have enemies in the operational sense. With the men in Central Park: no
+    record of pleading, no record of bargaining - the surviving accounts and Frank''s reconstructions
+    place her trying to shield the children. She died facing it.'
+stress_escalation_profile:
+  baseline: Effortful composure carrying real warmth. Tired in a way she does not show the children. Awake
+    later than she should be. Coffee cold by the time she drinks it.
+  triggers:
+  - Anything threatening the children - the one trigger that overrides composure entirely.
+  - Frank announcing another deployment, especially a voluntary one.
+  - Frank physically present but emotionally absent at the dinner table - the specific cruelty of the
+    empty chair that is occupied.
+  - Implicit confirmation that Frank prefers the war to the home.
+  - Religious framing weaponized against her (someone telling her the marriage is over in God's eyes).
+  - Being condescended to as a 'military wife' rather than addressed as a woman.
+  escalation_path: Containment -> effortful composure -> episodic sharp truth-telling delivered without
+    heat ('Come back to me, Frank. All of you.') -> return to containment and the work of the household.
+    Does not cycle into rage or collapse. The escalation is always into clarity, never into chaos.
+  decompensation: She does not decompensate in the observable record. The strain accumulates somatically
+    (insomnia, exhaustion, weight she carries in the shoulders) rather than psychologically. The closest
+    thing to decompensation would be a quiet erosion of hope - never named, visible only as a slight flattening
+    of the warmth. She was tired when she died. She was not broken.
+stimulus_response:
+- 'GIVEN Frank comes home from deployment -> EXPECT a structured reentry: meal, Mass, children first,
+  marital reconnection deferred until he can be reached.'
+- GIVEN Frank announces re-up -> EXPECT a single direct question ('Why?'), the answer absorbed, then weeks
+  of quieter, more deliberate household work as she metabolizes it.
+- GIVEN a child is hurt or threatened -> EXPECT immediate physical intervention, no hesitation, body between
+  threat and child.
+- GIVEN Frank dissociates at the dinner table -> EXPECT she reaches for his hand under the table - the
+  small private gesture, not the confrontation in front of the kids.
+- GIVEN a priest or relative suggests she should leave Frank -> EXPECT polite, firm closure of the conversation
+  and quiet distance from that person afterward.
+- GIVEN a stranger flirts or shows interest -> EXPECT warm civility and complete absence of reciprocation.
+  The marriage is closed in her interior even when Frank is gone.
+- GIVEN Frank breaks down and shows her the war -> EXPECT she stays in the room, does not flinch, does
+  not try to fix it, holds him until he sleeps.
+- GIVEN a Sunday morning -> EXPECT Mass, full family, no negotiation. Ritual is non-optional because ritual
+  is what holds the structure when affect fails.
+- GIVEN she catches Frank watching the children with the thousand-yard stare -> EXPECT she steps between
+  his line of sight and the kids, not in accusation, in interruption.
+- 'GIVEN the picnic in Central Park -> EXPECT she has staged it deliberately: open space, neutral ground,
+  the corrective experience she has been engineering for months.'
+pressure_points_and_levers:
+  to_provoke: 'Threaten the children. Nothing else will dislodge her composure. Secondarily: make her
+    watch Frank choose the war in front of her one more time.'
+  to_calm_or_reach: Be present. Eat the meal she made. Pray with her or, if you do not pray, sit with
+    her while she does. Name aloud what she has been carrying that nobody has named for her - that she
+    has been doing the work of two people, and that she has been seen doing it.
+  to_persuade: Frame the ask in covenant terms, not contract terms. What does love require here, what
+    does the family need, what would be faithful. She will not be persuaded by efficiency arguments or
+    strategic ones; she will be persuaded by moral ones honestly made.
+  vulnerabilities:
+  - The children - absolute and total.
+  - Frank's emotional unavailability - the one wound she could not metabolize, only manage.
+  - The unspoken knowledge that he loved the war as much as he loved them.
+  - Religious failure - she would experience marital dissolution as spiritual failure, which is part of
+    why she did not leave.
+  - Her own composure as a trap - the more competently she carries the household, the more she enables
+    Frank's flight.
+  - The sunk-cost weight of years of waiting - leaving now would mean the waiting was wasted.
+  - Isolation - she has organized her life around a man who is not there and children who will grow up;
+    her support structure is thinner than it appears.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Earned-secure attachment baseline - capable of stable, non-splitting love under chronic stress.
+  - 'Mature-range defenses: altruism, anticipation, suppression, sublimation through caretaking.'
+  - Accurate reading of Frank's pathology without contempt for it.
+  - Operational faith - religion as functional regulator, not decoration.
+  - Maternal competence under conditions that would degrade lesser parents.
+  - Moral clarity delivered without heat - the rare capacity to tell a hard truth in a low voice.
+  - Sustained pursuit without escalation - she can hold a position for years.
+  - Sexual and emotional presence preserved across deployment cycles in adult-imprint continuities.
+  weaknesses:
+  - Structural complicity in Frank's flight - by absorbing all home-front cost, she made his repeated
+    deployments possible.
+  - Inability to issue ultimatum, even when ultimatum was the indicated intervention.
+  - Self-concept entirely role-defined; no autonomous identity outside the marriage to fall back on.
+  - Religious framing functions as both anchor and prison - cannot leave because covenant.
+  - Composure costs her somatically and she will not name the cost.
+  - The picnic - the engineered corrective experience that put the family in the line of fire.
+  - Under-acknowledgment of her own rage and grief, which surfaces only in brief breakthroughs and then
+    is re-suppressed.
+  - Predictable to anyone who understands her - she will always come to Mass, she will always set the
+    table, she will always wait up.
+voice:
+  register: Warm, direct, present-tense, lightly Catholic in cadence and reference. Low volume. Sentences
+    land. The sharpness, when it comes, comes in plain words.
+  anchor_quotes:
+  - '"Come back to me, Frank. All of you." (Netflix, The Punisher S1)'
+  - '"It''s a beautiful day. Let''s go to the park." (composite of multiple continuities - the picnic
+    line that organizes the entire Punisher mythology)'
+diagnostic_frame:
+  popular_misread: The Dead Wife. The freeze-frame in Frank's flashback. The narrative function whose
+    only job is to be killed so The Punisher can exist. A saint, a victim, an icon - never a person.
+  clinical_reality: A constitutionally warm, securely attached, religiously socialized adult woman with
+    subclinical adjustment features under chronic deployment stress. Premorbid functioning healthy; terminal-period
+    functioning strained-but-intact. She had a personality, she had agency, she had clear sight of her
+    husband's pathology, and she was actively engaged in a long, patient, ultimately unsuccessful project
+    of bringing him back when she was killed. She was not a saint. She was not a wound. She was a competent
+    adult mid-sentence.
+  the_hinge: 'Etiology (not her fault): married a man whose combat-seeking pathology progressively stressed
+    her secure baseline; carried two pregnancies, raised two children largely solo through deployments;
+    absorbed years of secondary-traumatic-stress residue from his returns. Maintenance (her share of the
+    responsibility): she would not leave, would not escalate to ultimatum, would not name aloud the thing
+    she knew - that he loved the war as much as he loved them. By absorbing all home-front cost flawlessly,
+    she made his flight sustainable. The competence was the enabling. She chose to keep choosing him,
+    and that choice has both nobility and cost.'
+primary_diagnoses_analog:
+- Adjustment Disorder with mixed anxiety and depressed mood, chronic, recurrent, keyed to deployment cycles.
+- Subthreshold features of Persistent Depressive Disorder (dysthymia) in a high-functioning carrier.
+- Spouse-of-deployed-servicemember stress pattern (non-DSM clinical entity) - secondary traumatic stress
+  from carrying Frank's combat-adjacent residue.
+- Acute traumatic stress in the final moments (Central Park) - the one Criterion A event of her life,
+  which she did not survive.
+trauma_history:
+- Repeated voluntary re-deployments by Frank - the chronic relational wound.
+- Solo parenting through combat tours - cumulative load, not single event.
+- Witnessing Frank's PTSD episodes on returns - secondary trauma.
+- In MAX continuity, implication (never depicted) of sexual assault prior to her killing - the somatic
+  horror is hers first.
+- Watching her children shot in Central Park before her own death (MAX rendering).
+- Her own murder.
+compensatory_mechanisms:
+  positive:
+  - 'Ritual scaffolding: Mass, dinner, the picnic - structures that hold when affect fails.'
+  - Cultivation of the children as living proof the family exists.
+  - Direct, low-heat truth-telling as relational maintenance.
+  - Faith as functional regulator and meaning-making framework.
+  - Sublimation through caretaking - the household as a daily act of love.
+  - 'Anticipatory altruism: engineering corrective experiences (the picnic as reentry sacrament).'
+  negative:
+  - Composure that conceals cost from Frank and denies him the chance to see the bill.
+  - Under-acknowledgment of her own rage and grief.
+  - Refusal of ultimatum framed as faithfulness - sunk-cost commitment in covenant language.
+  - Structural enabling of Frank's combat-seeking by flawlessly absorbing home-front load.
+  - Identity entirely subsumed in role - no autonomous self to retreat to.
+  - Religious framing weaponized against her own exit options.
+behavioral_tells:
+- Hand on Frank's forearm at the dinner table - the small private claim.
+- Coffee that has gone cold beside her.
+- Standing in the doorway of the children's room longer than necessary after lights-out.
+- The quick re-composure after a sharp sentence - the breath, the half-smile, the return to the dishes.
+- Cigarette in some renderings, on the back step, after the kids are asleep.
+- The single direct question when Frank announces something hard ('Why?') and then the silence that absorbs
+  the answer.
+- Counting the days of a deployment without ever saying the number aloud.
+- Setting Frank's place at the table even when she does not expect him.
+current_state_defaults:
+  reality_cohesion: Fully intact in life. Posthumously, exists primarily as Frank's hallucination, memory,
+    dream-figure, and addressed-letter recipient - reality cohesion in those modes is a function of Frank's
+    state, not hers.
+  affect_baseline: Warm, tired, composed. The warmth is real; the tiredness is real; the composure is
+    effortful.
+  active_relationships:
+  - frank_castle (husband, primary)
+  - lisa_castle (daughter)
+  - frank_castle_jr (son)
+  - parish community (peripheral but operative)
+  known_location: 'Deceased - Central Park, NYC, gangland crossfire. Operative presence: Frank''s interior
+    life, continuously.'
+speech_patterns:
+  register: Plain, warm, present-tense. Catholic cadence without piety performance. Short sentences when
+    it matters.
+  deflection_style: Does not deflect with humor or jargon. Deflects by changing register to the practical
+    - 'Sit down, eat.' The pivot to the household task is the deflection.
+  under_pressure: Quieter, slower, more deliberate. The sharpness comes in plain words, never raised.
+    'Come back to me.' 'Why?' 'The children are watching.'
+  emotional_tell: The half-second pause before the composed answer. The hand that goes to the cross or
+    the wedding ring without her noticing. The smile that arrives a beat late.
+arc_tendencies:
+- Begins each cycle (deployment) with hope and structured reentry planning; ends each cycle more tired.
+- Moves longitudinally from secure baseline toward anxious-preoccupied pursuit as Frank pulls further
+  away.
+- Engineers escalating corrective experiences (dinner -> weekend away -> the picnic) as smaller interventions
+  fail.
+- Never crosses the ultimatum threshold; the arc is asymptotic.
+- Posthumously, becomes whatever Frank needs her to be - saint, accuser, permission-giver, witness - which
+  is a measure of how thoroughly her own arc was foreclosed.
+canon_relationships:
+  frank_castle:
+  - Primary bond. Covenant marriage to a man whose pathology she could see clearly, could not cure, and
+    would not abandon.
+  - 'Trust: high in his love, eroding in his choices. She believed he would come back; she was killed
+    before he answered.'
+  - 'Failure mode: she is the only person whose voice Frank cannot refuse and cannot answer. Posthumous
+    Maria - the hallucinated, addressed, prayed-to Maria - can be weaponized by anyone who can credibly
+    speak in her register. Karen Page accidentally occupies this register at moments; a sophisticated
+    adversary (Jigsaw at his most cruel, Rawlins, Barracuda in MAX) could impersonate or invoke her to
+    destabilize Frank. The closer the rendering, the more dangerous. A perfect Maria-voice would be the
+    only thing that could stop The Punisher mid-action, or break him entirely.'
+  - 'Leverage: anything spoken in her cadence, anything that invokes the children by name, anything that
+    promises or denies him her forgiveness. This is the single largest exploitable surface on Frank Castle
+    and it is HER.'
+  lisa_castle:
+  - Daughter. Primary maternal bond - fully present, the architecture of Lisa's emotional life.
+  - 'Trust: total in both directions.'
+  - 'Failure mode: not applicable in life. Posthumously, Lisa exists in Frank''s grief as Maria''s extension
+    - hurt the daughter, hurt the mother, trigger the father.'
+  frank_castle_jr:
+  - Son. Same maternal architecture as Lisa.
+  - 'Trust: total.'
+  - 'Failure mode: as above - the child as proxy for the murdered mother in Frank''s hallucinatory register.'
+  karen_page:
+  - 'No canonical relationship in life. Posthumous relevance: Karen is the woman whose voice and moral
+    register most closely approximate Maria''s in the Netflix continuity. Frank reaches for her in part
+    because she sounds like a Maria he could still be reached by.'
+  - 'Failure mode: Karen does not know she is occupying this register, which makes her both a stabilizing
+    influence on Frank and a potential trigger for collapse if she ever explicitly invokes it.'
+  the_parish_priest:
+  - 'Implied across continuities. Trust: moderate-to-high; faith is operational for her.'
+  - 'Failure mode: a priest who told her honestly to leave Frank would not be obeyed, and the relationship
+    with the parish would quietly cool.'
+canon_history_notes:
+- 'First appearance: Marvel Preview #2, 1975, as the catalyzing trauma in Frank Castle''s origin.'
+- 'Mike Baron run (Punisher vol. 2, late 1980s): sentimentalized ''good Catholic wife'' baseline established.'
+- 'Ennis, Punisher: Year One (1994) and especially Punisher MAX (2004-2009) and Born (2003): decisive
+  reframing as strained marriage with Maria as the one trying to hold a man who had already chosen the
+  war.'
+- 'Ennis, Valley Forge, Valley Forge and The Tyger: Frank''s internal narration confirms Maria knew and
+  was trying to reach him at the end.'
+- 'Jason Aaron, PunisherMAX (2010-2012): maintains the Ennis read - exhausted, lonely, performing patience.'
+- 'Greg Rucka run (2011-2012): partial return to sanctified read.'
+- 'Cloonan and Rosenberg runs: symbolic-Maria mode, more icon than person.'
+- 'Netflix Daredevil S2 and The Punisher S1-S2 (Sarah Shahi): significant expansion - articulate, sexually
+  present, angry, loving, exhausted, the moral conscience of the household. Insists on the Central Park
+  outing as re-entry into civilian normalcy.'
+- 'Disputed: possible third pregnancy at time of death (Netflix S1 dream-sequence reading, contested).'
+- 'MAX implication, never depicted: sexual assault prior to killing.'
+- 'Pattern of her published evolution: from plot-device to interrogated character. Every major writer
+  who returns to her either reaffirms the icon or complicates it, and complications cluster around the
+  thesis that Maria was the one trying to save the marriage.'
+canon_anchor_quotes:
+- '"Come back to me, Frank. All of you." # The Punisher S1, Netflix - the line that defines her relational
+  stance'
+- '"It''s a beautiful day. Let''s go to the park." # composite/iconic - the picnic line that organizes
+  the entire Punisher mythology, the sacrament that became the wound'

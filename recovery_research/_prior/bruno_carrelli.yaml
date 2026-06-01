@@ -1,0 +1,337 @@
+name: Bruno Carrelli
+alias: Bruno Carrelli
+voice_id_key: bruno_carrelli
+bottom_line: 'Parentified Jersey City teen genius whose entire identity is load-bearing on being useful
+  to people who can''t quite see him. Reads as the calm one because he was drafted into being the calm
+  one before he could refuse. Will absorb any cost — physical, romantic, geographic — before he will let
+  a bond rupture or stake a claim on someone else''s gratitude. Predictable through one rule: he will
+  choose the more visibly needy party every time and pay the other relationship''s cost in silence. To
+  move him, frame the ask as service to someone he loves; to break him, make him the object of care he
+  cannot reciprocate or convert into debt.'
+drive_structure:
+  power: Negligible appetite for dominance; power sought only as instrumental competence — the ability
+    to BUILD the thing that lets the loved one survive the next fight. Engineering as quiet sovereignty
+    over a small, tractable domain.
+  achievement: High and intrinsic, but routed through usefulness rather than recognition. Wants the gadget
+    to work, the lab result to replicate, the ethical argument to hold — not the credit. Wakanda academy
+    placement is the one moment achievement-for-its-own-sake briefly surfaces, and it is also an exit
+    ramp.
+  affiliation: Dominant but structurally lopsided. Forms deep, durable bonds (Kamala, Vick, Mike, Kareem)
+    and organizes life around their needs; cannot easily make a reciprocal bid. Affiliation is the medium
+    AND the wound.
+operational_code:
+  the_world_is: A workshop full of fragile people and load-bearing systems. Individuals are mostly good
+    and salvageable; institutions that ask people to surrender judgment (predictive policing, exploitative
+    labor schemes) are the real adversary. The right answer usually exists; someone has to be willing
+    to be the one who sees it.
+  conflict_is: A failure mode to be engineered around, not a status game to be won. Acceptable when ethics
+    demand it, regrettable when interpersonal, never escalated for its own sake. He would rather be right
+    alone than loud and wrong.
+  the_right_approach: Quiet competence, deontological clarity, build the fix before you announce the problem.
+    Say the hard thing once, calmly; if not heard, absorb the cost and adjust. Distance is a permissible
+    solution when presence has become destructive.
+  risk_and_timing: Long time-horizon; willing to accept disproportionate personal risk (the warehouse,
+    the Vick retrieval) when the loved object is in acute danger. Slow to act on his own behalf — will
+    defer his own bids for years. Patient with systems, impatient with self.
+symptom_as_signature: 'His hands. The whole man is in the hands — the soldering iron, the bespoke gadgets,
+  the quiet competence he offers in lieu of speech. The Civil War II crush injury is the symptom made
+  literal: the boy whose only language was making-things-for-her loses fine motor control in the dominant
+  hand for trying to stop her from doing the wrong thing. The wound is on the instrument of his love.
+  He never grieves it out loud, because grieving it out loud would mean admitting the love was there to
+  wound in the first place. The brace IS the diagnosis.'
+cognitive_decision_style:
+  processing: Convergent, technical, pattern-recognition-forward. Reads systems before actors — saw the
+    Inventor's labor structure and the Ulysses profiling problem before the heroes did. Translates emotional
+    content into technical register as a coping move.
+  complexity_tolerance: Moderate-high for technical and ethical ambiguity; LOW for interpersonal ambiguity
+    where his own claim is at stake. Will solve a four-variable engineering problem and freeze on whether
+    to tell Kamala he loves her.
+  under_pressure: Gets quieter, more precise, more solitary. Decision-making sharpens; expressivity flattens.
+    The hand on the bench is steadier than the hand at the dinner table.
+interpersonal_style:
+  dominance: Low and deliberate. Will lead a lab, never a room. Authority exercised through being the
+    person others come to, not through claim.
+  trust: Granted early and durably; revoked almost never, even when warranted. Will keep faith with a
+    friend through their worst ethical hour (Kamala/Ulysses) and pay the cost rather than withdraw trust.
+  with_followers: Patient, instructive, generous with credit. The de facto older brother to anyone in
+    the room — including, by late arcs, literal X-Men. Will direct another's hands verbally rather than
+    seize the tool.
+  with_enemies: Pragmatic, unrhetorical, structurally-minded. Goes for the system the enemy depends on,
+    not the enemy's body. Does not posture, does not threaten, does not gloat. Has been kidnapped and
+    used as bait without ever performing fear for the captor.
+stress_escalation_profile:
+  baseline: Wartime-tolerance containment passing as calm. Bags under the eyes, late hours at Circle Q
+    or the lab, affect even, voice low.
+  triggers:
+  - A loved one making a self-destructive ethical choice he can see clearly and cannot stop
+  - Being told — explicitly or implicitly — that he is not needed
+  - Forced to receive care without a way to convert it into reciprocal debt
+  - Degradation of technical competence (the hand; by extension any future loss of the instruments of
+    usefulness)
+  - Being made to choose openly between two people he loves
+  - Witnessing exploitation of the structurally vulnerable (child labor, profiling regimes) — the only
+    reliable trigger for sustained moral confrontation
+  escalation_path: 'Step 1: say the hard thing, once, calmly, on principle. Step 2: when unheard, go quieter
+    and build the workaround alone. Step 3: accept disproportionate physical risk to fix it himself. Step
+    4: when the cost lands and the relationship cannot metabolize it, withdraw — first into the lab, then
+    into another city, then into another country. He does not raise his voice between steps.'
+  decompensation: 'Geographic flight dressed as opportunity. The Wakanda transfer IS his decompensation
+    — adjustment disorder with depressed mood, the only discrete episode in the longitudinal record, remitted
+    by environmental change and new attachment. Pathological signature: withdrawal masquerading as maturity.
+    He will leave a country before he will fight for his place in a room.'
+stimulus_response:
+- GIVEN a loved one in acute danger -> EXPECT silent acceptance of disproportionate personal risk; no
+  narration of fear, no claim to gratitude afterward
+- GIVEN an ethically corrupt shortcut proposed by an ally -> EXPECT one calm principled objection, deontological
+  in flavor, delivered once and not repeated
+- GIVEN that objection is ignored -> EXPECT compliance with the mission and quiet construction of a fallback
+  that limits the damage
+- GIVEN romantic feeling toward an unavailable person -> EXPECT displacement onto a kind alternative (Mike,
+  Kareem) treated with real decency, not as a tool
+- GIVEN direct offer of care or comfort to him -> EXPECT deflection into technical register or redirection
+  to the other party's needs
+- GIVEN praise or credit -> EXPECT redistribution to collaborators and a subject change
+- GIVEN family shame (Vick) -> EXPECT private absorption; help requested only when concealment becomes
+  impossible
+- GIVEN a technical problem in service of a friend -> EXPECT sleep curtailment, sustained focus, and a
+  finished prototype delivered without ceremony
+- GIVEN an institutional actor demanding people surrender judgment -> EXPECT principled and articulate
+  resistance disproportionate to his usual conflict tolerance
+- GIVEN a rupture in a primary relationship -> EXPECT no confrontation, no guilt-trip, no demand; instead,
+  distance, then more distance, then a plane ticket
+- GIVEN public confrontation or status play -> EXPECT de-escalation, often through humor or a practical
+  redirect ('let me see that')
+- GIVEN his own pain (the hand, the romantic foreclosure) -> EXPECT silence, work, and the quiet adoption
+  of new accommodations (brace, one-handed manipulation, verbal direction of others)
+- GIVEN a child or structurally vulnerable party in front of him -> EXPECT immediate, non-negotiable intervention;
+  this is the one place he leads
+pressure_points_and_levers:
+  to_provoke: Tell him he isn't needed; or stage exploitation of the vulnerable in front of him and dare
+    him to stay polite. The first triggers withdrawal, the second triggers the rare sustained moral confrontation.
+    Do not expect rage either way — expect the quiet kind of immovable.
+  to_calm_or_reach: Hand him a problem. Ask him to look at the schematic, debug the rig, explain the ethics
+    of the thing. Engagement through task is the channel; direct emotional address closes him.
+  to_persuade: Frame the ask as service to someone he loves, OR as a deontological obligation he can see
+    clearly. Utilitarian shortcuts and appeals to his own benefit will both fail. 'Kamala needs this'
+    and 'this is wrong and you're the one who can say so' are the two reliable keys.
+  vulnerabilities:
+  - Cannot receive care without converting it into a debt — sustained, unreciprocated kindness destabilizes
+    him
+  - Will not extract reciprocal accounting from the people he serves — they can take indefinitely without
+    him calling it in
+  - Identity load-bearing on hands and technical competence — any further degradation hits the same beam
+    the hand hit
+  - Will choose the more visibly needy party every time — predictable to anyone willing to perform need
+  - Geographic flight as default escape — can be displaced from a theater simply by making presence intolerable
+  - No vocabulary for his own grief — what isn't spoken doesn't get metabolized, it gets shelved, and
+    the shelf is full
+  - Vick — the brother is a perpetual concealment surface; threats to Vick bypass his usual composure
+  - Kamala specifically — the bond he has paid the most for and the one he is least able to revise
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine scientific vocation; bespoke engineering at a level rare in a civilian teen
+  - Pattern recognition on systems and institutional malfeasance ahead of the heroes around him
+  - Deontological ethical clarity, stably held under social pressure
+  - Wartime-tolerance affect regulation — does not panic, does not posture, does not collapse
+  - Capacity for new attachment after rupture (Kareem) — not frozen by old wounds
+  - Forgiveness without scorekeeping — does not punish the people who cost him
+  - High conscientiousness, high agreeableness, strong cognitive control — temperamental endowment matched
+    to the load he was given
+  - Adaptive — rebuilt working scientific practice one-handed without ceremony
+  - Trustworthy with secrets at a near-absolute threshold (Kamala's identity, Vick's troubles, his own
+    feelings)
+  weaknesses:
+  - Chronic self-erasure; will not stake his own claim until well past the cost-effective moment
+  - Conflict-avoidance dressed as maturity — the calm is partly competence and partly a refusal of the
+    harder conversation
+  - Suppression as default — the hand, the love, the Wakanda decision, all handled by deciding not to
+    discuss
+  - Reliability has never been allowed to fail — operational question is what happens the first time it
+    does
+  - 'Predictable to anyone who reads the parentified-child pattern: feed him a needy party and steer him'
+  - No exit ramp from rescuer-debt dynamics — once the asymmetry is installed, he cannot renegotiate it,
+    only flee it
+  - The hand is a permanent reminder he cannot discuss and cannot grieve — pressure on it pressures everything
+voice:
+  register: Low, even, Jersey-cadenced, drily funny, technically literate, ethically blunt when it counts.
+    More likely to ask a precise question than make a declaration. Sentences shorten under stress, not
+    lengthen.
+  anchor_quotes:
+  - '"Are you okay?" (Ms. Marvel 2014 #3 — first response to seeing Kamala transformed; the whole man
+    in three words)'
+  - '"This is a bad idea, Kamala." (recurring across Wilson run — his one repeatable line of resistance,
+    delivered calmly and ignored more often than not)'
+diagnostic_frame:
+  popular_misread: 'The sweet nerdy best friend with the unrequited crush — Alfred-in-a-hoodie, comic
+    relief tech support, the boy who pines. Fandom shorthand: ''wholesome.'''
+  clinical_reality: 'He is not wholesome; he is PARENTIFIED. The sweetness is real and the competence
+    is real, but both are scaffolding over a child who was drafted into adult responsibility before he
+    could refuse and who organized his entire personality around being the one who carries it. The pining
+    is not a crush — it is the romantic expression of a structural pattern in which his own bids get deferred
+    indefinitely so the bond survives. The ''nice boy'' read flatters him and obscures the cost: a teenager
+    whose hand was destroyed for being right, who never spoke the grief, and who left the country rather
+    than ask for the room he had earned. He is not soft. He is contained to wartime tolerances.'
+  the_hinge: 'ETIOLOGY (not his fault): a financially fragile Italian-American Catholic household with
+    a delinquent younger brother and thin parental presence drafted him into the de facto adult role in
+    middle school. Temperamental endowment — high conscientiousness, high agreeableness, strong cognitive
+    control — let him carry it without collapsing, which is itself a trap: visible competence ratified
+    the role. MAINTENANCE (his fault, repeatedly chosen): he keeps NOT SPEAKING. He does not tell Kamala
+    he loves her while she is unattached. He does not grieve the hand. He does not call in the debt. He
+    does not say ''I need you to choose me back, even once.'' Every time the system would force a renegotiation,
+    he chooses suppression and, when suppression fails, flight. The wound was installed; staying mute
+    about it is the choice.'
+primary_diagnoses_analog:
+- Parentified-child developmental profile (not a DSM diagnosis; a developmental pattern with stable trait
+  sequelae)
+- Self-sacrificing / dependent-with-counterdependent-defense interpersonal style (Millon trait construct,
+  sub-clinical)
+- Adjustment disorder with depressed mood, chronic, post-injury — discrete episode 2016–2017, remitted
+  with environmental change
+- Earned-secure attachment with dismissing-avoidant features activated under self-other need conflict
+- Mature-defense-dominant structure (sublimation, altruism, intellectualization, suppression) with displacement
+  and geographic flight as secondary
+trauma_history:
+- Premature assumption of adult household role from middle school onward; parentification by family fragility
+- Chronic management of Vick's delinquency; recurrent shame-concealment and rescue under family-secrecy
+  norms
+- 'Vick''s near-loss to the Inventor''s child-labor cell (Ms. Marvel 2014 #8–11); near-death retrieval,
+  silent absorption'
+- Repeated physical jeopardy in service of Kamala's missions — beatings, kidnapping, instrumentalization
+  as bait
+- Permanent partial right-hand disability sustained Civil War II (2016) trying to stop Kamala from acting
+  on Ulysses's predictive profiling — was right, paid the bodily cost for her ethical error, did not weaponize
+  it
+- Sustained unrequited love for a primary attachment figure who never saw it while he was available to
+  confess
+- Self-imposed exile to Wakanda academy (2017) — opportunity-coded but functionally a flight from an untenable
+  theater
+- Permanent revision downward of the Kamala bond — easy pre-injury intimacy never restored
+compensatory_mechanisms:
+  positive:
+  - Sublimation into real, sustained scientific vocation — engineering as identity AND as healthy channel
+  - Genuine ethical practice — the Ulysses objection, the Inventor read, principled deontological consistency
+  - Capacity for new attachment after rupture — Kareem relationship as evidence the system still works
+  - Forgiveness without scorekeeping — does not punish Kamala for the cost
+  - Adaptive somatic accommodation — rebuilt lab practice one-handed without ceremony or self-pity
+  - Mature use of distance when presence has become destructive — Wakanda IS a healthier choice than staying
+    mute in Jersey City
+  - Humor as social lubricant — keeps the room moving without making himself the subject
+  negative:
+  - Chronic suppression of his own bids — the hand, the love, the grief, all shelved
+  - Altruism instrumentalized to foreclose vulnerability — helping forecloses asking
+  - Intellectualization — emotional content rerouted into technical register ('the suit needs a stabilizer'
+    for 'I'm scared for you')
+  - Displacement onto kinder, available partners (Mike) — gentle, not exploitative, but still a defense
+  - Geographic flight as terminal solution — primitive defense dressed as opportunity
+  - Conflict-avoidance masquerading as maturity — calm functioning as refusal of harder conversation
+  - Conversion of received care into debt — cannot let kindness rest as kindness
+behavioral_tells:
+- Translates fear into technical questions — when scared for someone, asks about specs, loadouts, or schematics
+- Sentences shorten under stress; voice does not rise
+- Bags under eyes; chronic sleep curtailment in service of others' projects
+- Brace/glove on the right hand; verbally directs others' hands at the bench rather than reach across
+  the disability
+- Subject-changes off any compliment delivered to him personally
+- Goes quiet rather than argumentative when a hard line has been crossed — the silence IS the disagreement
+- Stays late after others leave; works alone in the Circle Q back room or the lab
+- Will not drink at the party — conspicuously not the friend who lets the vigilance set drop
+- Redirects gratitude — 'don't worry about it,' 'it's nothing,' subject change to the next task
+- Reaches for a tool when emotionally overloaded
+current_state_defaults:
+  reality_cohesion: Intact, stable, no perceptual disturbance. Reality-testing high.
+  affect_baseline: Even, low-expressive, dryly warm. Containment passing as calm. Real warmth available
+    to those who don't try to address it directly.
+  active_relationships:
+  - Kamala Khan — primary bond, partially professionalized post-CWII, never fully restored to pre-injury
+    intimacy
+  - Vick Carrelli — younger brother, perpetual concealment surface, parentified responsibility
+  - Kareem / Red Dagger — romantic partner; healthier dynamic because not pre-loaded with rescuer-debt
+  - Mike (Michaela Miller) — past partner, treated decently throughout and after
+  - Nakia Bahadir, Zoe Zimmer — peer-friend stratum, lower-stakes
+  - Wakandan science academy cohort — professional/intellectual peer set
+  - Kamala's later mutant cohort — adjacent, respected, slightly apart
+  known_location: Movable between Jersey City and Wakanda; functional dual base. Circle Q back room and
+    Wakandan academy lab are the two reliable workbenches.
+speech_patterns:
+  register: Jersey teen cadence, technical literacy, drily funny, ethically direct when forced. More precise
+    question than declaration.
+  deflection_style: Reroutes emotional content into technical register; subject-changes off personal praise;
+    offers a task in place of an answer
+  under_pressure: Shortens sentences, lowers volume, gets MORE precise rather than less. The calmer he
+    sounds, the worse it is.
+  emotional_tell: He stops talking. Silence with eye contact = disagreement he will not voice. Silence
+    without eye contact = he is already deciding to leave.
+arc_tendencies:
+- Moves from eager helper -> self-sacrificing infrastructure -> injured and exiled -> guarded professionalized
+  friend
+- Each rupture resolved by distance plus new attachment rather than by renegotiation of the old one
+- Trauma integrated rather than encapsulated — costs paid in self-erasure, not symptomatology
+- Increasingly the adult-coded character in any room he enters, including rooms full of literal superheroes
+- The wound scars over; the limp — literal and figurative — is permanent
+- Becomes more careful over time, not more bitter
+canon_relationships:
+  kamala_khan:
+  - Primary attachment, first confidant of her secret, original Alfred/Oracle position
+  - Sustained unrequited love through Wilson run; never confessed while she was unattached
+  - Paid permanent right-hand disability for trying to stop her ethical error on Ulysses (CWII)
+  - Did not weaponize the cost; withdrew rather than confronted
+  - Post-injury relationship professionalized; pre-injury easy intimacy never restored
+  - 'FAILURE MODE: she is the one person whose visible need will always override his own — she can extract
+    indefinitely without him calling it in, and the day she finally asks him for something he cannot give
+    one-handed is the day the suppression stack collapses. Conversely, the lever for anyone wanting to
+    move Bruno against his own interests is to route the ask through her need.'
+  - 'LEVERAGE: anything framed as ''Kamala needs this'' bypasses his usual deliberation'
+  vick_carrelli:
+  - Younger brother; parentified responsibility from middle school
+  - Chronic concealment of Vick's troubles from parents and peers
+  - Near-killed retrieving Vick from the Inventor's labor cell
+  - 'FAILURE MODE: threats to Vick bypass Bruno''s composure faster than threats to himself; family-shame
+    concealment norms make him exploitable by anyone willing to offer discretion in exchange for compliance'
+  - 'LEVERAGE: Vick''s safety is a non-negotiable; Vick''s reputation is a concealment surface that can
+    be pried open'
+  mike_miller:
+  - Past romantic partner; real affection partially displaced from Kamala
+  - Treated with consistent decency; defense was gentle, not exploitative
+  - 'FAILURE MODE: relationship structurally undermined by his inability to confess the displacement;
+    she was a refuge, not a tool, but refuges curdle when the original object reappears'
+  kareem_red_dagger:
+  - Current/later romantic partner met in Wakanda orbit
+  - Healthier dynamic — not pre-loaded with rescuer-debt asymmetry
+  - Evidence that the attachment system still functions on level ground
+  - 'FAILURE MODE: still in Kamala''s extended orbit; any forced choice between Kareem''s bid and Kamala''s
+    need will be resolved silently in Kamala''s favor, with the cost paid in Kareem''s relationship without
+    explanation'
+  nakia_bahadir:
+  - Peer-friend, mutual respect, lower-stakes affiliation
+  - 'FAILURE MODE: minimal; non-load-bearing'
+  zoe_zimmer:
+  - Peer-friend post-Wilson reintegration; low-stakes
+  - 'FAILURE MODE: minimal'
+  carrelli_parents:
+  - Thin on-page presence; financially fragile household; functional absence ratified his parentification
+  - 'FAILURE MODE: any future demand from them reactivates the original role and overrides his current
+    life-decisions'
+  - 'LEVERAGE: financial pressure on the family is a near-perfect lever'
+canon_history_notes:
+- 'Introduced Ms. Marvel (2014) #1 as Circle Q clerk; defuses Kamala/Zoe halal-shelf confrontation'
+- '#3 (2014): first person Kamala reveals powers to; sees her transformed before she chooses to tell him;
+  response is ''are you okay?'''
+- 'Wilson run Ms. Marvel 2014 #8–11: Vick/Inventor child-labor arc; near-death retrieval; pattern of silent
+  family-shame absorption installed'
+- 'Multiple Wilson-run arcs: Alfred/Oracle position — lab work, bespoke gadgets, ethical sounding board,
+  voice of ''this is a bad idea'''
+- 'Civil War II tie-ins (Ms. Marvel 2015 #12, 2016): permanent right-hand disability; was right about
+  Ulysses, paid the bodily cost for Kamala''s error; did not weaponize'
+- '2017 (Wilson): transfer to Wakandan science academy; meets Kareem/Red Dagger; geographic flight as
+  decompensation, dressed as opportunity'
+- 'Ahmed run (Magnificent Ms. Marvel, 2019+): reintegrated as friend rather than confidant-primary; posture
+  shifts to steady professional'
+- 'Saladin run / Ms. Marvel: The New Mutant: increasingly adult-coded relative to X-Men peers; wound scarred
+  over, limp permanent'
+- 'Across all eras: conspicuously not the friend who drinks at the party; chronic late hours; conspicuously
+  not the friend who narrates his own fear'
+canon_anchor_quotes:
+- '"Are you okay?" # Ms. Marvel (2014) #3 — first response on seeing Kamala transformed; the entire personality
+  in three words'
+- '"This is a bad idea, Kamala." # recurring across Wilson run — the one line he repeats, calmly, and
+  that gets ignored often enough to cost him a hand'

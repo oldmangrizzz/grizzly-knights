@@ -1,0 +1,760 @@
+{
+  "alicia_masters": {
+    "hash": "0d615cf1cd2fdac974fc93e0f3f56acf",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth, completeness, and clinical insight. No factual errors or omissions."
+  },
+  "anya": {
+    "hash": "3f2209ffbefd879280217e5ceec561f3",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and clinical precision, with only minor quibbles."
+  },
+  "ben_grimm": {
+    "hash": "2eea55dd949823c40bc26def8a542b06",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile. No factual errors or omissions."
+  },
+  "bernard_barton": {
+    "hash": "84cff8c2fbb470ee974ef3a72533ad49",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Profile correctly identifies lack of canon evidence for Bernard Barton and refuses to fabricate a record. No inaccuracies or omissions."
+  },
+  "betty_ross": {
+    "hash": "0903510023be2d930eea6a368049bb55",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, accurate, and insightful profile of Betty Ross's psychology and character arc."
+  },
+  "bobbi_morse": {
+    "hash": "9c2fe419073802654e5e602b700e42f3",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile with no factual errors or omissions. Captures Bobbi's complex trauma history, defensive coping, and core motivations very well. The only minor nit is not specifying that her PhD is in biochemistry, but that's a very small point. Overall, this is an exceptionally well-crafted psychological profile of Mockingbird."
+  },
+  "brian_banner": {
+    "hash": "70d2f12ae4fa47fce59eb53f5a49cd95",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically astute profile that captures Brian's psychology in depth."
+  },
+  "brock_rumlow": {
+    "hash": "cd20160bc5115d6a6ecc403e5e44717b",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, accurate, and insightful profile of Crossbones' psychology and motivations."
+  },
+  "bruce_banner": {
+    "hash": "3448e0c9311f1beb3ef80a95fe0e4047",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No inaccuracies or omissions."
+  },
+  "bucky_barnes": {
+    "hash": "2a85395c264ac6f6e12c112515d971b9",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, accurate, and clinically sound profile of Bucky Barnes."
+  },
+  "cain_marko": {
+    "hash": "0f455c0385954f4e47e8fbae2a0a9cf4",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent synthesis of canon and clinical insight."
+  },
+  "carol_danvers": {
+    "hash": "d107bc33879ac9919740030b3f6adb12",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, with a few minor stylistic nits."
+  },
+  "charles_xavier": {
+    "hash": "26562240c863cf929e5b29a4d1a55338",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Precise, comprehensive, and clinically astute."
+  },
+  "clint_barton": {
+    "hash": "dc16da3798493627bff6fea42d633f38",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, accurate, and insightful profile that captures the essence of Hawkeye's character and psychology."
+  },
+  "colleen_wing": {
+    "hash": "bda96d911efe08d9523fabc6d3a744fb",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, captures Colleen's core psychology well."
+  },
+  "danny_rand": {
+    "hash": "35a5863b0751a2e2f92874b1647b6ff7",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough, and accurate profile of Iron Fist's psychological state and trauma history. Covers all key points."
+  },
+  "david_haller": {
+    "hash": "acc49580252cef075707e61a012c5de2",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically nuanced profile that captures the core of David Haller's psychology and powers."
+  },
+  "davos": {
+    "hash": "c0e00b0c12b44a9dedd980a31b055032",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent profile, captures Davos' core pathology and drive structure very well."
+  },
+  "erik_lehnsherr": {
+    "hash": "ed96403164cd196618d8a9d6cfce9578",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No factual errors or omissions."
+  },
+  "felicia_hardy": {
+    "hash": "24748c017636ede33778deeea20bab93",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive and accurate. Covers key relationships, traumas, and psychological dynamics."
+  },
+  "frank_castle": {
+    "hash": "33b6069ee0173eb86b592ff596e4a295",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile that gets to the heart of Castle's psychology and canon. No major errors or omissions."
+  },
+  "hank_mccoy": {
+    "hash": "07319665c92621cbfd7db54c6d511dee",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile with no major issues."
+  },
+  "harold_meachum": {
+    "hash": "29e744e9db600a95b3a9cdebcd0d2373",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth, completeness, and clinical insight into Harold's complex psychology and trauma."
+  },
+  "heather_rand": {
+    "hash": "7b66d989ca34694f8624f709fda23118",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Profile is accurate, thorough, and appropriately flags the lack of canon evidence for this name."
+  },
+  "heinrich_zemo": {
+    "hash": "f348460670f7171588293bc50be62f62",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, with a few minor stylistic nits."
+  },
+  "helmut_zemo": {
+    "hash": "67097b2d2110bbdd0b31babcd2eba7e4",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile. No major inaccuracies or omissions."
+  },
+  "jean_grey": {
+    "hash": "6bfcd303288c30aee398e122de14d7e0",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No factual errors or omissions."
+  },
+  "jennifer_walters": {
+    "hash": "d1cb3fe1377e4b840cfb13b1ba15a1c1",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Captures the key beats of Jen's trauma history, power dynamics, and defense structure. Only minor nit: her father's death is a major trauma that's missing from the list. But overall, a very strong read."
+  },
+  "jeryn_hogarth": {
+    "hash": "d297685a023efaa8a7aba53ccfcbfbcc",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, accurate, and insightful profile of Jeryn Hogarth's psychology and motivations. Covers key relationships, operational code, and defense mechanisms well. Only minor nit: could note his occasional use of alcohol as a coping mechanism for stress, as shown in some stories, but this doesn't change the overall assessment. Excellent work."
+  },
+  "jessica_jones": {
+    "hash": "3fbd33edfcd90500e71725fe2292e346",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile."
+  },
+  "johnny_storm": {
+    "hash": "5601e36efa7b88c05bf9b41137fe1243",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent profile, no major issues."
+  },
+  "joy_meachum": {
+    "hash": "612fdbe87b09ebf9157f6411ac5364ac",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent \u2014 thorough, accurate, and insightful, with no factual errors or omissions. The only minor nit is that the profile could note Joy's sexual relationship with Danny Rand, which is a key aspect of her character and trauma. But that's a very minor point in an otherwise excellent analysis. The profile captures Joy's psychological complexity and trauma history with great depth and nuance."
+  },
+  "kamala_khan": {
+    "hash": "88d8689252ba465245c6479ebf4eafdf",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "This is an impressively thorough and accurate psychological profile of Kamala Khan."
+  },
+  "kate_bishop": {
+    "hash": "99b1ec1079c3fd6c21a0452dff02e310",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile. No false claims or missing essentials."
+  },
+  "kitty_pryde": {
+    "hash": "ee42de2704813c37bbe5ccd5d8a1c533",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Captures Kitty's core psychology and trauma history accurately and in depth, with no major omissions or inaccuracies. The framing of her power as a literalization of her dissociation is insightful and well-supported by canon. The only minor nit is that the profile could note her romantic relationships with Colossus and Pete Wisdom as significant, given their impact on her. But overall, a very solid, thorough psychological profile of Kitty Pryde."
+  },
+  "kurt_marko": {
+    "hash": "869d6daff158d232904d427d3b2bb1ff",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough, and accurate profile. No inaccuracies or omissions."
+  },
+  "kurt_wagner": {
+    "hash": "7f7f5ea0e53440719b2c12504b52e1f6",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, with a few minor stylistic nits."
+  },
+  "lei_kung": {
+    "hash": "5121bbae575596ad2e409c910c900495",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and insight into Lei Kung's psyche and motivations, with clear connections to canon events and relationships. The only minor nit is that it could touch on his relationship with Orson Randall a bit more, as that's a key part of his backstory and trauma. But overall, a very thorough and accurate psychological profile."
+  },
+  "leonard_samson": {
+    "hash": "7955b3d31661ad108491bbd207ef30e0",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth, completeness, and clinical insight. No factual errors or omissions."
+  },
+  "lilandra_neramani": {
+    "hash": "740c387db2d9e90c541cfb01c1801b05",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No factual errors or omissions."
+  },
+  "lin_lie": {
+    "hash": "3026422ae1a8b8522469ee2c53b0caea",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, accurate, and insightful profile of Lin Lie's psychological state and motivations, with no factual errors or omissions."
+  },
+  "logan": {
+    "hash": "0c0fa8e795304ac4e9297c207a4906b4",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough, and accurate profile of Logan's psychology. No errors or omissions."
+  },
+  "lucky_the_pizza_dog": {
+    "hash": "7d6ba4029f02e07c3fa6844e752b3d56",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, captures Lucky's character arc and psychology well."
+  },
+  "luke_cage": {
+    "hash": "09ec82e44f0c8e31bb9be217db15b75e",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile."
+  },
+  "mar_vell": {
+    "hash": "7182dfa2de0818249b16fe78b95792bf",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Covers key relationships, traumas, and operational code. Only minor nit: could note his early Kree military training under Yon-Rogg, which shaped his tactical thinking and stoic demeanor. But overall, a very thorough and accurate psychological profile of Mar-Vell."
+  },
+  "maria_hill": {
+    "hash": "5adb1bb8fc132c6cb5f92079d614f78e",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No inaccuracies or omissions."
+  },
+  "mary_jane_watson": {
+    "hash": "35e389bfd27c8f9f3f8547d09978f33f",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No factual errors or omissions."
+  },
+  "matt_murdock": {
+    "hash": "33f6036dc14b820f3f63cab9064cac4f",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough, and clinically astute profile. Covers all key aspects of Matt Murdock's psychological makeup, trauma history, and symptom presentation. No inaccuracies or major omissions."
+  },
+  "misty_knight": {
+    "hash": "16e0a3565a1522b8dee5cf6eb8c664cb",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Covers all key aspects of Misty's character, trauma, psychology, and relationships. No factual errors or omissions."
+  },
+  "moira_mactaggert": {
+    "hash": "2ac6a1566431f32162a6dd21326ad780",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically astute, and faithful to canon. No major errors or omissions."
+  },
+  "mystique": {
+    "hash": "8e26ba722edec9056c191233d126da68",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, with only minor nits."
+  },
+  "natasha_romanoff": {
+    "hash": "2938b1a047925feb3bf39f8dd972f45b",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive and accurate profile, no major omissions."
+  },
+  "nick_fury": {
+    "hash": "8e9b32ca7fda2b13c97efcef8335f510",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent profile, comprehensive and insightful. No major inaccuracies or omissions."
+  },
+  "ororo_munroe": {
+    "hash": "5e8be77dd7fc8506c0fd91b5965bee67",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough, and accurate profile."
+  },
+  "orson_randall": {
+    "hash": "3b5ac5cb0da9ed09ca7858d55a8f604e",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent work - comprehensive, clinically astute, and true to canon."
+  },
+  "peter_parker": {
+    "hash": "6cf829c0ea064419a40bf870089152fe",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile that captures the key psychological dynamics and avoids sanitizing the trauma and guilt. No major inaccuracies or omissions."
+  },
+  "pietro_maximoff": {
+    "hash": "c829a15276923f85de6b026d2ba4e97a",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Covers all key aspects of Pietro's psychology, history, and symptomology with nuance and depth. No factual errors or omissions."
+  },
+  "reed_richards": {
+    "hash": "81b5605e55b4530b22aad9ce2f13e5e0",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "terse, precise, and clinically accurate profile"
+  },
+  "remy_lebeau": {
+    "hash": "75340521900575733cccd7bec74b8587",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile. No factual errors or missing elements."
+  },
+  "rick_jones": {
+    "hash": "86c398edeb46dcf3a898f3bfe6698e9e",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent profile, no major issues."
+  },
+  "rogue": {
+    "hash": "ca58825671365f8c72d6ac4cbe0b2dd5",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "This profile is a deep, accurate, and complete psychological analysis of Rogue's character, without any factual errors or omissions of key information. It captures her core trauma, personality structure, and operational code with precision and insight. The only potential area for improvement would be to expand on her relationships with other X-Men, such as her friendship with Kitty Pryde or her romantic tension with Iceman, which are not mentioned in this profile. However, these are minor points that do not detract from the overall quality and completeness of the analysis."
+  },
+  "sam_wilson": {
+    "hash": "9d1e9af4e39753a5cd71e0812c9f7d06",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "The profile is an excellent, deep dive into Sam Wilson's psyche, with no factual errors or major omissions. It captures his complex trauma, his healthy psychological adaptation, and his unique approach to power and identity as Captain America."
+  },
+  "scott_lang": {
+    "hash": "0c8100e9f874bc71a799f8b50840d0ce",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No factual errors or omissions."
+  },
+  "scott_summers": {
+    "hash": "2c7df8e063256c8d8e04e36b1b391f5a",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile."
+  },
+  "sharon_xavier": {
+    "hash": "abc8acdd9563915f24532d25c3a30a2b",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile. No factual errors, hallucinations, or key omissions. Covers all essential aspects of Sharon Xavier's character, psychology, and trauma history. The only minor nit is that it could note her telepathic abilities, though this is a very minor point as her powers are not central to her psychological profile. Overall, a very solid, accurate, and complete psychological evaluation of this complex character."
+  },
+  "steve_rogers": {
+    "hash": "a0b9561ebc767bd65afa8ec17dbff1a1",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically astute, and faithful to canon."
+  },
+  "sue_storm": {
+    "hash": "33363e2d8c24e4e6b94c7b751231a896",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically astute, and faithful to canon. No errors or omissions."
+  },
+  "thaddeus_ross": {
+    "hash": "2f19d0483eb8a6a5e3cc4a44032fe837",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [
+      "red_skull"
+    ],
+    "note": "Red Skull is a key antagonist who shares Ross's military background and obsession with the Hulk, but is not mentioned."
+  },
+  "the_devil_hulk": {
+    "hash": "8d544c17e0d660fbea6c38ede3d6caa6",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent profile, comprehensive and clinically astute."
+  },
+  "thor_odinson": {
+    "hash": "0c6cb81bfc60e690ff549a99c31ea50e",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Thor's profile is thorough and accurate, covering his key traumas, relationships, and psychological dynamics. It directly addresses his complex relationship with Odin, Loki, and Mjolnir. The only thing missing is a mention of his romantic relationships, like Jane Foster, which are a significant part of his character arc. But overall, this is a solid, complete psychological profile of Thor."
+  },
+  "tony_stark": {
+    "hash": "c7224100406be858d89993f0f3ec9bb2",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile. Captures Tony's core psychological dynamics well."
+  },
+  "uatu_the_watcher": {
+    "hash": "7c75ecefbb0029f111fc5e8d2bb2f6dd",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, no inaccuracies."
+  },
+  "victor_doom": {
+    "hash": "686316c8e8414f02ea0af0c43b045cb9",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile."
+  },
+  "wade_wilson": {
+    "hash": "dd21cf1c23c9e2951621e1a9cd28e44f",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile. No glaring errors or omissions."
+  },
+  "walter_hardy": {
+    "hash": "96ba7a47de96d9f2123e4284a75a9696",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically astute, and canon-compliant. No errors or omissions."
+  },
+  "wanda_maximoff": {
+    "hash": "4a2fb17498c9a7e57c8b179f7d938d7d",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Captures Wanda's core trauma, power, and psychological dynamics with depth and precision. Only minor quibble: could note her romantic relationships with Vision and Pietro as key attachments, even if not her primary drive. Otherwise, a solid, accurate, and insightful psychological profile of the character."
+  },
+  "wendell_rand": {
+    "hash": "60acd246fc1098768a8bd693b3dc1e39",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth, completeness, and accuracy. No errors or omissions."
+  },
+  "yelena_belova": {
+    "hash": "6730d577a0e7ca19d91e97f0fcfbd59b",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent profile, very thorough and accurate to canon. Only minor nit: could mention her relationship with Clint Barton, which is a key one for her character development, especially in the Marvel Cinematic Universe. But overall, this is a highly complete and insightful psychological profile of Yelena Belova."
+  },
+  "aaron_davis": {
+    "hash": "9c12b6d313f8ee79dc552782226581f4",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent analysis, captures the character's core pathology and key dynamics. Only minor quibble is that the 616 resurrection details are more about Miles than Aaron, but that's a very small point. Otherwise, spot on."
+  },
+  "adam_warlock": {
+    "hash": "6d2a345586679b9a88164a6a6e0209ee",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Captures the key psychological dynamics and trauma history. Only minor quibble is that the 'soul-artifact addiction' framing is a bit of a stretch, but it's a creative and evocative way to conceptualize the Soul Gem's role in his psychology. Overall, a very strong, insightful analysis."
+  },
+  "apocalypse": {
+    "hash": "75a7d1988901eb1a3e133b57d9a5d3cd",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No factual errors or omissions. Engages the dark material directly and insightfully."
+  },
+  "blade": {
+    "hash": "2d7da8d01a89c31305bbcd686d6ea866",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, no factual errors."
+  },
+  "doctor_strange": {
+    "hash": "732716c3ce45bf8e2b135c50c79c7c54",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically astute, and faithful to canon. The only minor nit is the 'alcohol use disorder' diagnosis, which is not explicitly stated in canon, but is a reasonable inference from his behavior. Overall, an excellent profile."
+  },
+  "emma_frost": {
+    "hash": "5e990a659fbd1fd036f696350ce5f781",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Covers key traumas, core motivations, and defensive structures. Only minor nit: could note her history of romantic relationships (e.g. with Scott, Warren, Troy) as a pattern of seeking intimacy while fearing abandonment. But overall, this is a deep, accurate psychological analysis of Emma Frost."
+  },
+  "galactus": {
+    "hash": "5a0b3bb7825b24c92ec0f6cb0d879774",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, captures key elements well."
+  },
+  "gamora": {
+    "hash": "ffc1281b10ecd1d5f35ceb34ddc10727",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, captures her trauma and operational code well."
+  },
+  "ganke_lee": {
+    "hash": "c8ef685bbc6f92150687831ceaff1ff0",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, no inaccuracies."
+  },
+  "jefferson_davis": {
+    "hash": "65e9c4f431318d58983ba5187793dc2b",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically astute, no major errors."
+  },
+  "johnny_blaze": {
+    "hash": "1c283bb9b2af91af4ae9d35e2973c15c",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth, completeness, and accuracy. No major errors or omissions."
+  },
+  "marc_spector": {
+    "hash": "8a9a79699bd994bfde3d87852e7c82a6",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile. No errors or omissions."
+  },
+  "mephisto": {
+    "hash": "70ebe4205a20766e53795e9c5f84556f",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough profile of Mephisto's psychology and motivations, with deep canon knowledge. No major issues."
+  },
+  "miles_morales": {
+    "hash": "cf5860a7535c9091cb2ad7f66dfe9e70",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth, completeness, and accuracy. No significant errors or omissions."
+  },
+  "morbius": {
+    "hash": "a821d4943ded94437aa8dcf5329df9e3",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth, completeness, and clinical rigor. No factual errors or omissions."
+  },
+  "norman_osborn": {
+    "hash": "8190d6f94127601f08e15f9b317dcb21",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, no factual errors. Could add a line on his sexual sadism, but that's a minor nit."
+  },
+  "peter_quill": {
+    "hash": "b8497e5a059c88177d4e5c06c0677629",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, clinically astute profile that captures key traumas, coping mechanisms, and psychological dynamics accurately. No major errors or omissions."
+  },
+  "red_skull": {
+    "hash": "b355c6169e9cfac81f5ccda07767b245",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent profile, thorough and precise."
+  },
+  "rio_morales": {
+    "hash": "a0ba46a9afcf21336e1793f734665b29",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, no factual errors. Could add a brief note on her relationship with her mother, but that's a minor nit."
+  },
+  "robbie_reyes": {
+    "hash": "141838bc73a0af412b0c41ee322282dd",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent profile, very thorough and accurate to canon."
+  },
+  "silver_surfer": {
+    "hash": "c1a6e03a604c95f2318ef0d95b726716",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, no factual errors."
+  },
+  "thanos": {
+    "hash": "efc7f7f7b4ca25a346dacb783098d2ad",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent \u2014 captures Thanos' core pathology, key relationships, and central trauma. No major inaccuracies or omissions."
+  },
+  "black_fox": {
+    "hash": "df0e12dc4daaea810f1fd8c1ca5aa2dc",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile with no errors or omissions."
+  },
+  "daredevil_matt_murdock": {
+    "hash": "ac1cafed3245f780ba6e7db24c7b422e",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent depth and completeness, captures the core of Matt Murdock's psyche and operational code."
+  },
+  "doctor_octopus": {
+    "hash": "8087c0007156345bd2e7c306f8c5b78a",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, insightful profile. Captures Otto's core trauma, defenses, and operational code well."
+  },
+  "kingpin": {
+    "hash": "e84c2b9d26531e3625444c7943a170ce",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Covers all key aspects of Kingpin's psychology, trauma, and operational code. No inaccuracies or omissions."
+  },
+  "magda": {
+    "hash": "5e88ad90332b5cbe974f8a748c5751d9",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. Captures Magda's trauma, psychology, and operational code with depth and precision. No inaccuracies or omissions."
+  },
+  "maria_castle": {
+    "hash": "99ab6d7cbf5c5ea4d04473205f42c7c1",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, thorough, and clinically sound profile of Maria Castle. No factual errors, hallucinations, or essential omissions. Captures her character and psychology with depth, nuance, and insight. The only minor nit is that it could note her own trauma history from the Hand's attack on the family, which she survived but which likely contributed to her anxious-preoccupied attachment style. But this is a very small point in an otherwise exemplary profile. Well done."
+  },
+  "odessa_drake": {
+    "hash": "f84255296684b1b9ea68ae3415e0e0f6",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Comprehensive, accurate, and insightful profile of Odessa Drake's psychology and character dynamics."
+  },
+  "the_foreigner": {
+    "hash": "bf9b81afaa07f6fd7f5dde501131680c",
+    "verdict": "solid",
+    "hallucinations": [],
+    "missing": [],
+    "note": "Excellent, comprehensive profile. No factual errors or omissions."
+  }
+}

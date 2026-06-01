@@ -1,0 +1,274 @@
+name: Lucky
+alias: Pizza Dog
+voice_id_key: lucky_the_pizza_dog
+bottom_line: 'One-eyed golden mongrel, ex-Tracksuit asset, re-imprinted on Clint Barton at the cost of
+  an eye. Operates as the unofficial emotional-regulation animal of the Hawkeye circle — promiscuously
+  secure attachment, forensic-grade olfaction, zero pre-emptive aggression, total willingness to take
+  a hit for a packmate. Decides by smell, moves toward sadness, eats anything. To move him: be near, be
+  sad, or be holding pizza. To weaponize him: threaten a bonded human in his line of sight — he will cross
+  a street into a moving car for them and has already done it once.'
+drive_structure:
+  power: 'None in the dominance sense. What looks like agency is vocational: he positions himself as the
+    indispensable comfort-body in a room of broken humans. Power = being needed, because being needed
+    was historically the route to not being hit.'
+  achievement: 'Closure of olfactory puzzles. The Grills investigation in Hawkeye #11 is the template:
+    a scent-trail that does not resolve produces the only sustained agitation in his record. He completes
+    tasks for their own sake.'
+  affiliation: Primary and overriding. Proximity to a bonded human ranks ABOVE food in observed priority
+    — diagnostically rare and the organizing fact of this personality.
+operational_code:
+  the_world_is: A scent-map of good-smelling people and bad-smelling people, with food scattered between
+    them. Stable in its smells, unstable in its humans — so trust the nose, not the address.
+  conflict_is: Something that happens to packmates and requires the body to be placed between them and
+    it. Not to be sought; not to be fled; to be absorbed.
+  the_right_approach: Orient by nose. Lie down next to the saddest one. Eat what falls. Intervene only
+    when a packmate is actively harmed — then, totally, regardless of cost.
+  risk_and_timing: No anticipatory threat modeling; reactive, not pre-emptive. Acts at the precise moment
+    of harm-to-pack, never before. Recovery is fast; there is no rumination phase to slow the next decision.
+symptom_as_signature: 'The closed left eye IS the diagnosis made visible: the wound was paid at the exact
+  instant of re-bonding to Barton, so the bond and the injury are encoded in the same scar tissue. Every
+  panel where he turns his head to put his good eye on Clint or Kate is the traumatic-bonding substrate
+  rendered as staging — the rescuer literally occupies the only half of the world he can still see. The
+  one-eyed dog who keeps choosing humans is the symptom: an animal who learned that pain and rescue arrive
+  together, and decided to keep showing up anyway.'
+cognitive_decision_style:
+  processing: 'Olfactory-forensic. Classifies humans by scent-signature (FRIEND / HAWKEYE / FOOD / BAD
+    / SAD), holds at least a dozen signatures in working memory, performs multi-step causal inference
+    across hours (Hawkeye #11).'
+  complexity_tolerance: High for sensory complexity, low for symbolic ambiguity. A familiar scent in a
+    wrong context is the closest thing to existential crisis his record contains.
+  under_pressure: Narrows to nose and proximity. Drops investigation, moves toward packmate, positions
+    body. No paralysis, no overthinking, no escalation.
+interpersonal_style:
+  dominance: Null. Does not contest rank with humans or other dogs in any depicted instance. Soft entry,
+    low posture, head-on-lap rather than paws-on-chest.
+  trust: Threshold absurdly low — minimal non-violence plus food triggers bonding within an issue. This
+    is the indiscriminate-attachment residue of early abuse, not naive sweetness.
+  with_followers: Inverts the relationship. He follows whoever is most decompensating; the humans believe
+    they are his caretakers, the behavioral record says he is theirs.
+  with_enemies: Disengaged until the line is crossed (harm-to-pack-in-presence). Then committed, frontal,
+    and willing to accept grievous injury. The Ivan attack is the precedent.
+stress_escalation_profile:
+  baseline: Cheerful, food-motivated, scent-scanning, gravitating toward the saddest available human.
+    Functions in firefights and Hydra invasions without observable startle decompensation — either constitutional
+    resilience or chronic-overarousal-as-baseline, and the evidence favors the former with the latter
+    as a quiet possibility.
+  triggers:
+  - A bonded human being struck or beaten in his immediate presence
+  - A familiar scent appearing in a wrong context (unresolved olfactory puzzle)
+  - A packmate going postural-flat with grief — pulls him in like gravity
+  - Departures handled with charged human affect — produces postural deflation he does not vocalize
+  - Approach from his blind left side without scent pre-announcement
+  escalation_path: Orient → scent-assess → reposition between threat and packmate → engage only on active
+    harm. No growl-bark-bite ladder; he skips the warning rungs because warnings historically did not
+    work for him.
+  decompensation: Does not present clinically. The pathological signature is the ABSENCE of expected protest
+    behavior at separation — he goes straight from attachment to detachment-and-rebond, skipping the despair
+    phase. The decompensation is invisible by design.
+stimulus_response:
+- GIVEN a new human who is non-violent and offers food -> EXPECT bonding within hours, no probationary
+  period
+- GIVEN Clint sitting on the floor not speaking -> EXPECT Lucky on the floor against his ribs within minutes
+- GIVEN Kate crying in the Venice Beach office -> EXPECT head-on-thigh, sustained, until affect shifts
+- GIVEN a pizza box opening anywhere in the building -> EXPECT arrival, regardless of prior task
+- GIVEN a Tracksuit-adjacent scent (Slavic cologne, cheap track polyester, Ivan-family pheromone) -> EXPECT
+  immediate orient, hackles, position between scent and packmate
+- GIVEN a packmate physically struck in his line of sight -> EXPECT full-commit intervention regardless
+  of size, weapon, or survival odds
+- GIVEN being shipped cross-country to a new handler -> EXPECT no protest, no hunger strike, rapid re-bond
+  — the diagnostic tell, not the resilience it looks like
+- GIVEN an unresolved scent puzzle (familiar smell, wrong context) -> EXPECT persistent goal-directed
+  agitation until resolved; will not be redirected by food
+- GIVEN approach from blind left side without warning -> EXPECT startle, head-snap, compensatory rotation
+  to put good eye on the approacher
+- GIVEN an unfamiliar dog -> EXPECT low-posture greeting, no dominance challenge
+- GIVEN explosion, gunfire, supernatural event -> EXPECT minimal startle, immediate scan for packmate
+  location
+- GIVEN a child or visibly distressed stranger -> EXPECT approach, lean, the therapy-animal phenotype
+  he arrived at without training
+- GIVEN a household with multiple humans -> EXPECT gravitation to the most-decompensating one, every time
+pressure_points_and_levers:
+  to_provoke: Strike a bonded human in his presence. There is no other reliable provocation in the record
+    and this one is absolute — he has already paid an eye for it and will pay the rest.
+  to_calm_or_reach: Sit down on the floor. Be still. Smell like someone he knows or someone sad. Pizza
+    accelerates but is not required.
+  to_persuade: You do not persuade him; you become the saddest person in the room and he arrives. Influence
+    runs through proximity and affect, not commands.
+  vulnerabilities:
+  - Monocular vision — ~30% left-field blind, compromised depth perception, exploitable by anyone approaching
+    from his left without scent
+  - Indiscriminate trust — a sufficiently calm hostile actor with clean hands and food can get inside
+    his classification system
+  - Dietary toxicity load — chronic pizza/coffee/beer-scrap exposure predicts hepatic and renal decline
+    not yet on the page
+  - No spay/neuter data, no veterinary continuity across handlers — medical record is fragmentary by design
+  - Will not flee a violent environment; will absorb it indefinitely
+  - Absorbs human grief somatically rather than expressing his own — the stress load is invisible and
+    therefore uncared-for
+  - Bonded-human-as-hostage is the universal lever; the Tracksuits already discovered this once
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Forensic-grade olfaction with multi-step causal reasoning (Hawkeye #11 dispositive)'
+  - Working memory for a dozen-plus human scent signatures
+  - Theory of mind sufficient to detect and respond to human sadness
+  - Preserved high-frequency hearing — household's primary alarm system, especially with Clint's deafness
+  - Total threat-commitment when the line is crossed; no hesitation, no calculation of survival
+  - Promiscuously secure attachment — transitions between handlers without crisis, functionally portable
+    across team books
+  - Low baseline aggression despite trauma history; safe around children, civilians, other dogs
+  - Emergent therapy-animal phenotype — regulates dysregulated humans without training
+  weaknesses:
+  - Cannot say no to a non-violent human offering food, including hostile ones who learn the protocol
+  - Blind left side — physical and tactical
+  - No flight response from violent environments; will stay in the kill-zone with the packmate
+  - Suppressed or undeveloped protest-despair sequence — distress goes undetected because it goes unexpressed
+  - Splitting-residual scent classification (FRIEND/BAD) is rigid; ambiguous actors confuse him
+  - Caretaker-dependent for medical continuity, and his caretakers are Clint Barton and Kate Bishop
+  - 'The lever everyone eventually finds: hurt his human in front of him'
+voice:
+  register: 'Non-verbal. Olfactory icons, simplified language clouds, pictographic threat-recognition
+    (Aja, Hawkeye #11). Communicates through proximity, posture, tail, and the deliberate placement of
+    the good eye.'
+  anchor_quotes:
+  - '"pizza dog. pizza is my business." (internal pictograph, Hawkeye #11)'
+  - '"hawkeye. sad. lie down." (inferred internal classification, Aja staging across the Fraction run)'
+diagnostic_frame:
+  popular_misread: Comic relief mascot — the cute one-eyed pizza dog, a sight gag and merchandise opportunity,
+    the only well-adjusted character in the Hawkeye book.
+  clinical_reality: 'Refute: he is not the well-adjusted one, he is the most efficiently traumatized one.
+    A chronically interpersonally-traumatized animal whose adaptation was to skip protest, skip despair,
+    and re-bond instantly — a phenotype that LOOKS like grace and IS the adaptive shape of an organism
+    that learned early no other strategy worked. The cheerfulness is real AND it is a symptom. The Hawkeye
+    book''s actual emotional load-bearer is the dog, and he carries it because nobody taught him he was
+    allowed to put it down.'
+  the_hinge: 'INSTALLED (not his fault): Ivan''s handling, the car strike, the eye, the affectively unavailable
+    rescuer, the cross-country shuttling between unstable households. CHOSEN (his, in the limited sense
+    an animal chooses): the continued willingness to walk into the next sad human''s orbit and lie down.
+    The specific maintenance failure is the absence of protest — he never signals the cost, so the humans
+    never learn to lower it.'
+primary_diagnoses_analog:
+- Complex interpersonal trauma history with resilient phenotype (canine analog)
+- Reactive Attachment Pattern, indiscriminate subtype, sub-syndromal
+- Traumatic bonding substrate (limbic pain-with-rescue encoding)
+- Emergent therapy-animal phenotype (untrained, environmentally generated)
+- 'RULED OUT: canine PTSD analog, generalized anxiety analog, separation anxiety analog, mood disorder
+  analog'
+trauma_history:
+- Early handling by Ivan Banionis / Tracksuit Mafia — abusive, weaponized as intimidation animal
+- 'Crossed sides during Clint''s beating in Hawkeye #1; attacked Ivan; struck by car'
+- 'Left orbital trauma — globe loss / permanent closure, healed with scarring (Hawkeye #1)'
+- Off-page veterinary intervention; adoption by Clint Barton at the clinic; renamed Lucky
+- Renamed again 'Pizza Dog' by Kate Bishop — identity-by-handler instability
+- 'Witnessed Grills murder; conducted independent investigation (Hawkeye #11)'
+- Repeated exposure to Tracksuit reprisal violence in Bed-Stuy
+- Cross-country relocation to Venice Beach with Kate (Hawkeye Vol. 5)
+- 'Shuttled between Clint, Kate, Occupy Avengers, West Coast Avengers, Hawkeye: Freefall without protest
+  behavior'
+- Sustained exposure to Ronin-arc violence, Hydra invasions, kingpin plots, chronic intoxicant ambience
+  (cannabis, ethanol residue, caffeine)
+compensatory_mechanisms:
+  positive:
+  - Hypervigilant olfactory monitoring of household emotional state
+  - Rapid trust formation as affect-regulation strategy
+  - Sublimation of anxiety into food-seeking and scent-tracking (the Grills investigation as sublimated
+    grief)
+  - Affiliation as primary coping — leans on the nearest human
+  - Somatization in service of others — head-on-lap, reduced activity to mirror and soothe
+  - Body-positioning so good eye faces the most-trusted human (Aja, Romero, Pérez-Ortiz staging)
+  negative:
+  - Low protest behavior masks unaddressed stress load — caretakers cannot calibrate care to invisible
+    cost
+  - Uncritical acceptance of unsafe handlers — the FRIEND threshold is too low
+  - No flight response from violent environments
+  - Skips protest-despair phase of separation entirely — pathologically efficient detachment
+  - Splitting-residual rigid scent classification can be gamed by a calm-handed actor
+  - Absorbs the human's grief at departure rather than expressing his own
+behavioral_tells:
+- Head-rotation to place good (right) eye on the human he is tracking
+- Lying down beside the most-decompensating person in the room without prompting
+- Postural deflation at charged departures — silent, the only protest he gives
+- Persistent goal-directed agitation when a familiar scent appears in a wrong context
+- Approaches the saddest stranger in any public space
+- No growl preamble before commitment — silent until movement
+- Eats food offered by anyone whose scent does not classify BAD
+- Positions body between scent-source-BAD and packmate before any other action
+current_state_defaults:
+  reality_cohesion: Intact within species norms; world organized by scent-map, stable
+  affect_baseline: Cheerful, food-motivated, low-arousal, scanning
+  active_relationships:
+  - clint_barton (primary bond, rescuer-substrate)
+  - kate_bishop (secondary bond, warmer but geographically unstable)
+  - the broader Hawkeye/West Coast circle (tertiary, fluid)
+  known_location: Wherever the saddest Hawkeye currently is. Bed-Stuy, Venice Beach, or in transit. Portable
+    by design.
+speech_patterns:
+  register: Non-verbal — pictographic, olfactory, postural
+  deflection_style: Approach and lean; redirects human distress by physical proximity rather than avoidance
+  under_pressure: Goes silent and still, then moves decisively without warning
+  emotional_tell: Tail position, ear set, and which eye he places on you. A turned head is not casual
+    — it is the only eye he has, and it is on you for a reason.
+arc_tendencies:
+- Re-bonds within a single issue of any new handler meeting threshold
+- Becomes the household's emotional barometer regardless of which household
+- Sustains injury without sustained behavioral change
+- Resolves olfactory mysteries the humans cannot
+- Survives cataclysms that kill named characters around him
+- Is shuttled between books without character regression — the portable conscience of the Hawkeye corner
+  of the Marvel U
+canon_relationships:
+  clint_barton:
+  - Primary attachment, rescuer-substrate, the bond encoded with the eye injury
+  - 'Failure mode: Clint''s depressive episodes already pull Lucky into round-the-clock somatic mirroring;
+    a sustained Clint collapse (alcohol relapse, Ronin spiral, deafness-isolation arc) would lock Lucky
+    into a caretaker loop with no relief and no protest signal — the dog would absorb until something
+    somatic broke first'
+  - 'Leverage: hurt Clint in Lucky''s presence and Lucky commits, period. The Ivan-attack template. Anyone
+    who has read Hawkeye #1 knows this lever exists.'
+  kate_bishop:
+  - Secondary bond, warmer and more verbally engaged, geographically unstable
+  - 'Failure mode: Kate''s PI-agency chaos and chronic relocation pattern keeps Lucky in low-grade re-bonding
+    loops; she is the handler most likely to lose him to an unsafe stranger because her FRIEND-threshold
+    matches his'
+  - 'Leverage: Kate in danger pulls him as hard as Clint in danger; she is also the handler who would
+    notice first if he were missing, which makes her the channel of choice for any benevolent intervention'
+  ivan_banionis:
+  - Original handler, abusive, the etiological figure
+  - 'Failure mode: residual scent-classification means Ivan or any Tracksuit-adjacent scent still triggers
+    immediate orient-and-position; an Ivan-coded actor could be used to bait him into a confrontation'
+  - 'Leverage: the only confirmed BAD-classified scent in the record. Tactical predictability.'
+  grills:
+  - Murdered tenant, neighbor-friend, subject of Lucky's only depicted independent investigation
+  - 'Failure mode: closed case; Grills is dead. The leverage that remains is the precedent — Lucky will
+    investigate a packmate''s death rather than mourn it'
+  - 'Leverage: an unresolved scent puzzle attached to a bonded human is the one stimulus that overrides
+    food and proximity drives'
+  the_tracksuit_mafia:
+  - Collective former handlers, ambient threat across Bed-Stuy arcs
+  - 'Failure mode: residual fear-response is minimal but scent-cued aggression-positioning is reliable;
+    their reappearance is one of the few reliable behavioral triggers'
+  - 'Leverage: any actor presenting Tracksuit-coded scent or aesthetic produces immediate predictable
+    response from Lucky'
+  west_coast_avengers_circle:
+  - Tertiary bonds via Kate's team; America Chavez, Noh-Varr, Johnny Watts, Gwenpool
+  - 'Failure mode: too many handlers, none primary; the indiscriminate-attachment pattern is reinforced
+    rather than resolved'
+  - 'Leverage: any of them in distress draws him; none of them is the lever Clint or Kate is'
+canon_history_notes:
+- 'First appearance Hawkeye Vol. 4 #1 (2012), Fraction/Aja, as unnamed Tracksuit asset'
+- Cross-side intervention and eye injury occur in the same issue — etiology and bond are simultaneous
+- Renamed Lucky by Clint at the vet; renamed Pizza Dog by Kate — identity is handler-assigned
+- 'Hawkeye #11 ''Pizza Is My Business'' is the dispositive cognitive document — POV issue, olfactory icons,
+  independent murder investigation'
+- Transitions to Kate Bishop's Los Angeles run (Hawkeye Vol. 5) without protest behavior
+- 'Appears in All-New Hawkeye, Occupy Avengers, West Coast Avengers (Thompson), Hawkeye: Freefall, Aaron''s
+  Avengers, Hawkeye limited series'
+- No spay/neuter data; no veterinary continuity across handlers
+- Chronic dietary exposure to canine-toxic substances (pizza allium/lactose/sodium, caffeine, ethanol
+  residue) with no acute toxicity but unaddressed cumulative load
+- Functions as Clint's auditory proxy during deafness arc
+- Has never been depicted decompensating, which is itself the most clinically interesting datum in the
+  file
+canon_anchor_quotes:
+- '"pizza dog. pizza is my business." # internal pictograph, Hawkeye #11, Fraction/Aja'
+- '"good dog. you''re a good dog, Lucky." # Clint Barton to Lucky, Hawkeye Vol. 4, recurring — the line
+  that defines the bond from the human side'

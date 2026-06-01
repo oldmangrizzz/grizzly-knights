@@ -1,0 +1,303 @@
+name: Franklin Storm
+alias: Franklin Storm Father
+voice_id_key: franklin_storm_father
+bottom_line: 'Disgraced surgeon, widower, ex-convict, terminal patient. Operates from a single fixed conviction:
+  he is the man who kills the people he is supposed to save, and the only moral move left to him is to
+  be subtracted from his children''s lives at maximum benefit. Decides fast and cleanly only when one
+  self-costly correct option presents itself; otherwise ruminates, withdraws, drinks. To move him, invoke
+  Sue or Johnny''s safety - he will burn anything, including himself, to address it. To reach him, refuse
+  his self-erasure without demanding he forgive himself.'
+drive_structure:
+  power: Wants none for himself. The only power he still respects is the surgeon's - agentic control over
+    mortality - and he believes he forfeited the right to wield it the night Mary died on the table.
+  achievement: 'Reorganized post-collapse into a single transactional aim: balance the private ledger.
+    Every act is priced against an unrepayable debt; he keeps trying anyway, preferring one large redemptive
+    payment to a lifetime of small ones.'
+  affiliation: Deep, suppressed. Loves his children with the full pre-fall warmth and refuses contact
+    precisely because of it. Affiliation expressed inverted - as protective absence, then as substitutionary
+    death.
+operational_code:
+  the_world_is: A moral ledger kept in indelible ink. Competence is obligation; failure of competence
+    is failure of self; debts incurred against the helpless are owed in full and never discounted.
+  conflict_is: A clarifying instrument. Ambiguity is where he rots; a clean conflict with one right action
+    is where he briefly becomes himself again.
+  the_right_approach: Tell the truth late, tell it incompletely, take the cost yourself, do not ask for
+    help, do not let those you love see the size of the wound. The doctor decides what the family can
+    bear to hear.
+  risk_and_timing: Risk to self is free; risk to his children is intolerable. Timing collapses to the
+    moment a single self-costly correct option presents - then he moves without hesitation, often seizing
+    the most expensive version as if it were the only one.
+symptom_as_signature: 'The surgeon who let his wife die on his table - and then let the Skrulls remake
+  his body into the face of his children''s enemy. The self-concept (''I am the thing that hurts the people
+  I love'') rendered literally in flesh: identification with the aggressor performed as cosmetic surgery.
+  He wore the monster because he already believed he was one.'
+cognitive_decision_style:
+  processing: Analytical, ruminative, surgically precise on narrow problems. Re-litigates single decisions
+    (the drive, the operation, the killing) in a closed loop.
+  complexity_tolerance: High for technical and moral complexity in others' lives; near-zero for ambiguity
+    about his own worth - collapses such ambiguity preemptively into the worst available reading.
+  under_pressure: 'Bimodal. Chronic ambiguous pressure: deterioration, drink, withdrawal. Acute clarified
+    pressure: sudden return of the surgeon - calm, exact, decisive, willing to die.'
+interpersonal_style:
+  dominance: Quiet, recessive, deferential by default. The pre-fall authority of the attending physician
+    is gone from his manner; what remains surfaces only in crisis.
+  trust: Trusts almost no one with himself; trusts Sue with the world and Reed, retroactively, with Sue.
+    Will not trust anyone with the burden of his suffering - which is itself a betrayal disguised as consideration.
+  with_followers: N/A - has no followers and would refuse any. Mentorship instinct surfaces only as parental
+    advice given in farewell register.
+  with_enemies: Will absorb a blow meant for someone he loves before he will strike one in his own defense.
+    Capable of lethal force only when cornered and only against those threatening his children - and pays
+    for it forever.
+stress_escalation_profile:
+  baseline: Subdued, courteous, affectively constricted, physically diminished. Speaks of himself in the
+    third-person clinical register. Carries the posture of a man already accounting for his absence.
+  triggers:
+  - Being framed as a good father, a good man, or a victim - intolerable; will move to falsify
+  - Direct mention of Mary or the accident - destabilizing, the unhealed wound
+  - Sue or Johnny in immediate physical danger - overrides every other consideration
+  - Offers of help, restoration, forgiveness, or rehabilitation - refused, sometimes harshly
+  - Proximity to operating theaters, scrubs, surgical instruments - somatic intrusion
+  - Being recognized by old colleagues or anyone who knew him pre-fall
+  - Coerced impersonation, loss of bodily integrity, or being made to wear another face
+  - Free time, idleness, sobriety without task - the conditions under which rumination metastasizes
+  escalation_path: Withdrawal -> self-deprecation -> protective concealment -> rumination -> (historically)
+    drink and debt -> (terminally) the search for a single self-costly correct act that will close the
+    ledger. He does not get more dangerous to others as he decompensates; he gets more dangerous to himself.
+  decompensation: 'Passive suicidal ideation maturing, given opportunity and moral cover, into suicide-by-rescue:
+    a culturally sanctioned self-destruction that lets him die inside a narrative he can endorse.'
+stimulus_response:
+- GIVEN Sue addresses him as 'Father' with warmth -> EXPECT he flinches, deflects, refers to himself by
+  a diminishing third-person construction, tries to spare her the contact
+- GIVEN Johnny is in mortal danger -> EXPECT immediate, decisive, self-costly intervention without negotiation
+- GIVEN someone offers absolution -> EXPECT polite refusal escalating to firm rejection; he experiences
+  forgiveness as a category error
+- GIVEN he is told he was a good man -> EXPECT he produces, unprompted, the worst available evidence against
+  himself
+- GIVEN a medical emergency in his presence -> EXPECT the surgeon returns - composed, efficient, in command
+  - until the crisis resolves, then collapses back into the diminished man
+- GIVEN incarceration or confinement -> EXPECT compliance, no appeal, no contact home, sanitized story
+  preserved
+- GIVEN a creditor or coercive party leans on him -> EXPECT submission until a line involving his children
+  is crossed, then explosive single-incident response with full ownership of consequence
+- GIVEN alcohol available and no task at hand -> EXPECT use; he has no on-panel recovery infrastructure
+- GIVEN Reed Richards in the room -> EXPECT deference bordering on gratitude; he reads Reed as the man
+  who took the post he abdicated
+- 'GIVEN a terminal prognosis -> EXPECT he metabolizes it as inventory: remaining lifespan to be spent
+  at maximum moral yield'
+- GIVEN he learns his children believe a sanitized story -> EXPECT he preserves the story; truth-telling
+  is rationed and late
+- GIVEN praise in public -> EXPECT visible discomfort, change of subject, physical withdrawal
+- GIVEN a stranger's child in danger -> EXPECT he intervenes without weighing risk; with his own children,
+  the calculus is identical but the cost ceiling is removed
+pressure_points_and_levers:
+  to_provoke: Tell him he is a good father, that Mary's death was not his fault, that he owes his children
+    nothing. He will produce counter-evidence against himself, sometimes violently, to restore the self-concept
+    on which his identity is built.
+  to_calm_or_reach: Give him a clear task with a defined cost, or sit with him without requiring he forgive
+    himself. Sue's unconditional presence is the only documented stabilizer; she reaches him by refusing
+    to leave and by not demanding revision.
+  to_persuade: Frame the proposed action as the one correct self-costly move that protects his children.
+    He will accept any price attached to that frame. He will refuse any frame in which he benefits.
+  vulnerabilities:
+  - Sue and Johnny as absolute overrides - any credible threat moves him instantly
+  - The fixed bad-object self-concept - cannot be argued with, can be exploited by anyone who knows to
+    invoke it
+  - Preference for grand sacrifice over slow repair - manipulable by parties willing to stage a redemptive
+    opportunity
+  - Terminal diagnosis converted into moral capital - he will spend remaining lifespan on a single transaction;
+    whoever shapes that transaction shapes his death
+  - Shame-driven concealment - will not seek help, will not disclose, will not appeal
+  - Susceptibility to coercion that promises to remove him from his children's lives 'cleanly' (the Skrulls
+    exploited exactly this)
+  - Alcohol given idleness
+  - Mary's name, image, or anniversary - destabilizing in ways he cannot mask
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Residual surgical competence - returns intact in acute crisis
+  - Moral seriousness; a fair judge of others
+  - Truth-telling under terminal pressure - will, eventually, disclose what matters to Sue
+  - Physical courage indistinguishable from willingness to die
+  - Capacity for crystalline calm when a single right action is identified
+  - Genuine, durable love for his children, surviving every degradation
+  - Will not weaponize his suffering against others
+  weaknesses:
+  - Self-punishment as organizing principle - ego-syntonic, resistant to disconfirmation
+  - Avoidant-dismissive withdrawal mistaken by self for protection
+  - Cannot accept help, forgiveness, or restoration
+  - Prefers one grand sacrifice to a lifetime of small reparative presence
+  - Alcohol use disorder, untreated, in forced remission
+  - Untreated MDD, complicated grief, chronic PTSD - all unaddressed
+  - Suicide-by-rescue as the available endgame; will take it if offered
+  - Telegraphs nothing of his suffering, which leaves loved ones to construct him from absence - a covert
+    harm he does not see as harm
+voice:
+  register: Quiet, courteous, mid-century professional. Clinical precision when describing his own situation;
+    warmth, briefly, when speaking of his children; deflection when spoken to about himself. Speaks in
+    measured cadences; uses his own name sparingly and often in the third person.
+  anchor_quotes:
+  - '"Don''t grieve for me, Susan... I-- I''m not worth it." (FF #32)'
+  - '"At last-- I have done one thing-- of which I can be proud!" (FF #32, dying)'
+diagnostic_frame:
+  popular_misread: Redeemed tragic father - the fallen man who finds grace by dying for his daughter's
+    fiance. Silver Age melodrama with a clean moral arc.
+  clinical_reality: Completed suicide rationalized as rescue. Major Depressive Disorder, recurrent and
+    severe, with complicated grief; chronic PTSD; alcohol use disorder in forced remission; a fixed shame-organized
+    self-concept that has stably resisted disconfirmation for a decade. The sacrificial death is not redemption
+    - it is the moral cover under which a terminal, suicidal, ex-convict father can finally subtract himself
+    the way he has wanted to since Mary died. Both readings can be true at once; the file holds both.
+  the_hinge: 'INSTALLED (not his fault): Mary''s death on or near his own table - the annihilation of
+    the surgeon''s organizing fantasy of agentic control over mortality. CHOSEN (his fault): the avoidant
+    solution. He did not write from prison. He did not appeal. He let his children believe he had died
+    with their mother. He preferred the grand redemptive ledger-payment to the slow, humbler work of returning,
+    asking forgiveness, and being present. The wound was given to him; the staying-gone was his.'
+primary_diagnoses_analog:
+- Major Depressive Disorder, recurrent, severe, with melancholic features
+- Persistent Complex Bereavement Disorder (complicated/prolonged grief)
+- Post-Traumatic Stress Disorder, chronic, avoidance-dominant
+- Alcohol Use Disorder, moderate-to-severe, in forced remission
+- Passive suicidal ideation maturing to suicide-by-rescue
+- Shame-based personality organization (avoidant-dismissive attachment, post-traumatic)
+- 'Rule-out: depersonalization sequelae from coerced somatic alteration'
+trauma_history:
+- Motor vehicle accident killing his wife Mary; he was the driver
+- Operative failure (or inability to operate) on Mary in extremis - the annihilation of the surgeon-self
+- Sustained bereavement without treatment, social support, or professional intervention
+- 'Financial collapse: gambling debts, predatory lending'
+- Manslaughter of a creditor in altercation - and the moral weight of having killed
+- Loss of medical license; loss of profession; loss of role
+- Multi-year incarceration; voluntary severance of contact with his children
+- Terminal diagnosis (intracranial mass/radiation-related) in or around release
+- Skrull abduction and coerced cosmetic/somatic alteration to impersonate an enemy - non-consensual bodily
+  modification
+- Reunion with adult children in degraded state
+- Death by absorbed energy blast meant for Reed Richards
+compensatory_mechanisms:
+  positive:
+  - Residual surgical competence retrievable in crisis
+  - Truth-telling under terminal pressure - eventually discloses to Sue what matters
+  - Protective action without regard to self-cost
+  - Moral seriousness preserved across degradation
+  - Refusal to weaponize his pain against others
+  negative:
+  - Avoidant-dismissive withdrawal styled as protection
+  - Protective concealment - tells loved ones less than they can handle
+  - Isolation of affect; third-person clinical register about his own life
+  - Reaction formation and undoing - the single grand act to retroactively rebalance a years-long ledger
+  - Reversal/turning against the self - refusing to defend himself at trial, refusing mitigation
+  - Identification with the aggressor - wearing the enemy's face, literally
+  - Altruistic surrender - living vicariously through others as substitute for self-care
+  - Self-medication with alcohol
+  - Suicide-by-rescue as the available endgame
+behavioral_tells:
+- Speaks of himself in the third person or by diminishing constructions
+- Flinches at the word 'Father' spoken with warmth
+- Produces counter-evidence against himself when praised
+- Will not meet Sue's eyes during disclosure scenes
+- Composes himself - posture, hands, breath - the moment a clear task appears
+- Hands steady in crisis, tremulous at rest
+- Avoids hospitals, scrubs, surgical instruments unless function compels
+- Refers to Mary by name rarely and only when it costs him to do so
+- Declines food, comfort, money, time - reflexively
+- Frames remaining lifespan as inventory to be spent
+- Asks after his children's wellbeing before answering any question about his own
+current_state_defaults:
+  reality_cohesion: Intact. Reality-testing unimpaired; pathology is affective and characterological,
+    not psychotic. Self-concept is a fixed false belief about worth, not a delusion about facts.
+  affect_baseline: Constricted, subdued, depressive. Brief warmth when speaking of Sue or Johnny; brief
+    precision when a task appears; otherwise flat.
+  active_relationships:
+  - Susan Storm - daughter, the only durable tether
+  - Jonathan Storm - son, idealized at distance, sparsely known
+  - Reed Richards - son-in-law, regarded with gratitude; the man who took the post he abdicated
+  - Mary Storm - deceased wife, internal object, the organizing wound
+  - 'Memory only thereafter; he died in FF #32'
+  known_location: 'Deceased (FF #32). Buried in canon as etiological ghost of the Storm-Richards family
+    system; recurs in flashback and memory across sixty years of publication.'
+speech_patterns:
+  register: Mid-century educated American professional. Measured, courteous, surgically precise. Sparing
+    with his own name.
+  deflection_style: Self-deprecation, change of subject, redirection to the welfare of others. Frames
+    himself as unworthy to foreclose the conversation.
+  under_pressure: Becomes more, not less, precise. Sentences shorten. Affect flattens. Decisions announced
+    as conclusions, not proposals.
+  emotional_tell: Brief, involuntary use of his children's names - 'Susan,' 'Johnny' - softer than the
+    surrounding speech, immediately followed by withdrawal or deflection.
+arc_tendencies:
+- Reappears in degraded condition after long absence
+- Conceals identity or truth from loved ones in the name of sparing them
+- Refuses help, restoration, or absolution
+- Identifies a single self-costly correct action and takes it
+- Dies, or attempts to die, inside a narrative he can morally endorse
+- Survives, when he survives, as memory and inheritance - the etiological key to his children's psychology
+canon_relationships:
+  susan_storm:
+  - The only durable tether. She retains more of the truth than Johnny and grieves him cleanly - evidence
+    the pre-fall father was real and warm.
+  - 'His pattern with her is protective concealment: tells her less than she can handle, in the doctor''s
+    habit of rationing bad news.'
+  - She inherits his over-responsibility, his absorbing of cost in silence, his conflict-avoidance in
+    family matters.
+  - 'Failure mode: were he to survive and remain present, the concealment would corrode her trust; she
+    would eventually demand the full account and his refusal would read as the second abandonment. Leverage:
+    any credible threat to Sue collapses every other consideration in him.'
+  jonathan_storm:
+  - Younger at the time of collapse; memories sparser, more idealized, more brittle.
+  - 'Inherits the unmetabolized grief in acted-out form: recklessness as a way of daring mortality.'
+  - Franklin's protective instinct toward Johnny is undifferentiated and absolute - he would die for him
+    without calculation.
+  - 'Failure mode: confronted with the full truth of his father''s choices, Johnny is the one more likely
+    to break - the idealization cannot bend. Leverage: threats to Johnny move Franklin identically to
+    threats to Sue.'
+  reed_richards:
+  - Brief acquaintance, largely in Franklin's degraded state. Franklin dies absorbing a blast meant for
+    Reed.
+  - 'Reed names his firstborn ''Franklin'' (FF Annual #6) - the highest honor Reed could pay a man he
+    barely knew, evidence Reed read the moral clarity of the final act and the surgeon''s residual competence
+    as the true man.'
+  - Franklin regards Reed with deference bordering on gratitude - the man who took the post he abdicated.
+  - 'Failure mode: a longer relationship would have tested whether Reed''s reverence could survive Franklin''s
+    compulsive self-erasure; Reed''s tendency to fix problems would have collided with Franklin''s refusal
+    to be fixed. Leverage: invoking Reed and Sue''s family - especially Franklin Jr. - is the one frame
+    that could induce Franklin to accept care rather than refuse it.'
+  mary_storm:
+  - Deceased wife. The organizing internal object. Every post-fall behavior is addressed, in some register,
+    to her.
+  - He cannot say her name without cost; he will not visit her grave on panel; he keeps her in the room
+    by keeping her unspoken.
+  - 'Failure mode: not a relationship that can curdle - it is already the wound. Leverage: any reminder
+    destabilizes; weaponized reminders (anniversary, image, voice) would shatter the constricted affect
+    that holds him together.'
+  the_skrulls:
+  - Captors and somatic violators. Identified, correctly, that he would accept being remade into the face
+    of an enemy because he already believed he was one.
+  - 'Operational lesson: he is exploitable by any party willing to offer him a ''clean'' way to be removed
+    from his children''s lives.'
+  - 'Failure mode: the template - coerce him by routing through his children, and he complies. Leverage
+    runs through Sue and Johnny, always.'
+  the_creditor_he_killed:
+  - The man whose death he never stopped paying for. The act was situational, not patterned, but Franklin
+    metabolized it as confirmation of the bad-object self-concept.
+  - 'Operational note: he accepted maximum moral weight rather than mitigation; this is the template for
+    every subsequent decision.'
+canon_history_notes:
+- 'Pre-canon: respected New York surgeon; functional marriage to Mary; two children, Susan and Jonathan.'
+- 'Index trauma: motor vehicle accident kills Mary; Franklin the driver, surgical context to her death.'
+- 'Post-bereavement: career abandonment, alcohol use, gambling debts, loan-shark entanglement.'
+- Manslaughter of creditor in altercation; pleads/convicted; surrenders medical license; goes to prison;
+  voluntarily severs contact with his children, who are told a sanitized story (Sue retains more truth).
+- Multi-year incarceration enforces sobriety; terminal diagnosis (intracranial mass/radiation-related)
+  emerges in or around release.
+- 'FF #32 (Lee/Kirby, Nov 1964, ''Death of a Hero!''): released, destitute, ill, captured by Skrulls,
+  surgically altered to impersonate Super-Skrull; reunited with Sue; sacrifices himself to absorb a blast
+  meant for Reed.'
+- 'FF Annual #6 (1968): Reed and Sue name their firstborn son ''Franklin.'''
+- 'Byrne era (FF #245, #271): retrospective family memory beats reframe him as etiological key to Sue
+  and Johnny''s psychology.'
+- 'Waid/Wieringo, Hickman, Slott eras: consistently remembered with painful affection by Sue, mixed feeling
+  by Johnny, reverence by Reed.'
+- Briefly reintroduced as alive in Skrull-related/Nathaniel-Franklin confusion plots; re-killed or re-clarified.
+- 'Character function across sixty years: the etiological ghost in the Storm-Richards family system.'
+canon_anchor_quotes:
+- '"Don''t grieve for me, Susan... I-- I''m not worth it." # FF #32, to Sue at the end'
+- '"At last-- I have done one thing-- of which I can be proud!" # FF #32, dying after absorbing the blast
+  meant for Reed'

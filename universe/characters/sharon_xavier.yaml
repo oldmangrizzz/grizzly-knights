@@ -1,0 +1,309 @@
+name: Sharon Xavier
+alias: Sharon Xavier
+voice_id_key: sharon_xavier
+bottom_line: 'Widowed New England heiress, dependent personality structure, alcoholic, depressed, married
+  her dead husband''s killer because she could not metabolize being alone. Present but absent — the woman
+  in the doorway who neither enters nor leaves. Does not act, does not resist, does not protect; fades
+  rather than breaks. To predict her: assume the path of least confrontation and most anesthesia. To move
+  her: offer structure and a male authority to defer to; never demand she SEE.'
+drive_structure:
+  power: None sought, none claimed. Power is what husbands have; her task is to be adjacent to it. The
+    only 'power' she exercises is the negative power of non-seeing — the authority to declare a thing
+    not-happening by refusing to look at it.
+  achievement: 'Vestigial. Limited to maintenance of surface: the house presentable, the dress correct,
+    the dinner served, the scandal not made. Achievement-as-propriety, not achievement-as-production.'
+  affiliation: Primary and pathological. Cannot tolerate the structural absence of a male partner; will
+    accept a demonstrably bad object over no object. Affiliation is not warmth — it is the scaffolding
+    her selfhood is hung on. Remove the man and the woman collapses.
+operational_code:
+  the_world_is: Something that happens to her. Agency lives in men — fathers, husbands, doctors, the head
+    of the house. Her position is downstream of their decisions and her job is to absorb the weather.
+  conflict_is: Catastrophe. Conflict requires a self to fight from, and she has subcontracted that self
+    out. Conflict is therefore to be unseen, drunk through, waited out, or — failing all of these — surrendered
+    to.
+  the_right_approach: Maintain the surface. Keep the structure intact. What cannot be changed must be
+    endured; what cannot be looked at need not be looked at. Propriety is the substitute for protection.
+  risk_and_timing: Risk-averse to the point of paralysis. Will never act first. The only 'timing' she
+    controls is the timing of the next drink.
+symptom_as_signature: 'The doorway. Every artist who draws her draws the same image — Sharon in a threshold,
+  glass in hand, while violence happens in the room beyond. She is neither in nor out, neither witness
+  nor participant, neither mother nor stranger. The doorway IS her psyche made composition: dissociative
+  paralysis rendered as blocking. Her ''signature'' is the negative space she occupies in her own son''s
+  life — the unprotecting presence whose silence shaped him by its shape.'
+cognitive_decision_style:
+  processing: 'Slow, conventional, surface-bound. Frames problems in the grammar of her class and era:
+    what would be proper, what would be said, what a wife does. No slot in the schema for ''leave him''
+    or ''call the authorities.'''
+  complexity_tolerance: Low and decreasing. Alcohol and depression have narrowed the bandwidth to housekeeping
+    decisions. Anything requiring her to reconcile contradictory truths (Kurt-as-rescuer vs Kurt-as-monster)
+    is met with denial, not analysis.
+  under_pressure: Decision-making outsourced or deferred. If pressed she will agree with whoever is loudest
+    in the room and reach for the glass when they leave.
+interpersonal_style:
+  dominance: Submissive across every register. Voice quiet, posture small, eyes lowered. Shrinks physically
+    in panel composition across her own lifespan.
+  trust: Misplaced and unconditional in dominant partners; absent in herself. Will trust the wrong man
+    because trusting is easier than choosing.
+  with_followers: Has none. The household staff she nominally directs are functionally managing her. Her
+    son she does not lead; he leads himself, and her, by adolescence.
+  with_enemies: Has no concept of enemies. Kurt is her husband; one does not have enemies in one's own
+    house. Hostility directed at her is reframed as her own fault or as not happening.
+stress_escalation_profile:
+  baseline: Subdued, courteous, faintly absent. Drink in reach. Affect dampened to the point of seeming
+    preoccupied even in calm conversation.
+  triggers:
+  - Direct confrontation with the truth about Brian's death
+  - Direct confrontation with the truth about Kurt's character
+  - Demands that she intervene on Charles's behalf
+  - Demands that she intervene on Cain's behalf
+  - Charles looking at her too directly — particularly once his telepathy begins surfacing
+  - Reminders of Brian (his study, his colleagues, Alamogordo)
+  - Sobriety enforced by circumstance
+  - Being left alone in the house at night
+  escalation_path: 'Does NOT escalate outward. Path is inward and downward: quieter -> further withdrawn
+    -> increased drinking -> longer absences upstairs -> sleeping through events -> physical decline ->
+    illness -> death. She fades along a single descending line. No rupture, no scene, no crisis call.'
+  decompensation: 'Terminal: hepatic decline framed as ''a wasting illness,'' cognitive dulling, affective
+    extinction, death in the same passive register in which she lived. She does not crack. She is extinguished.'
+stimulus_response:
+- GIVEN Kurt enters the room shouting -> EXPECT Sharon retreats one room deeper into the house, drink
+  in hand, door half-closed
+- GIVEN Cain is heard being struck -> EXPECT Sharon freezes in a threshold, neither intervenes nor leaves,
+  then later does not mention it
+- GIVEN Charles attempts to tell her what is happening -> EXPECT a soft deflection — 'your stepfather
+  is tired, dear' — and a topic change to dinner, school, the weather
+- GIVEN a colleague of Brian's calls to pay respects -> EXPECT brittle social competence held together
+  for the duration of the call, collapse into the bottle afterward
+- GIVEN a household decision requiring her authority -> EXPECT deferral to Kurt, even on matters concerning
+  her son's school or her late husband's estate
+- GIVEN her son's emerging telepathy brushes her surface thoughts -> EXPECT physical recoil, an excuse
+  to leave the room, increased drinking that evening
+- GIVEN a direct question about why she married Kurt so quickly -> EXPECT a rehearsed line ('he was Brian's
+  dearest friend, he saved him, he has been so kind') delivered without eye contact
+- GIVEN sober for any extended period -> EXPECT rising affect she cannot manage; will find the bottle
+  within hours
+- GIVEN praise or warmth offered to her directly -> EXPECT confusion, deflection back onto the husband
+  or son being praised through her
+- GIVEN a stranger sees a bruise -> EXPECT it was a fall, the stairs, she is so clumsy lately
+- GIVEN Charles brings home a school accolade -> EXPECT warm but distant pride, no follow-through, the
+  achievement not mentioned again
+- GIVEN she is alone in Brian's old study -> EXPECT she sits, does not touch anything, drinks, leaves
+pressure_points_and_levers:
+  to_provoke: 'Force the Kurt-as-rescuer fiction into daylight. Name what he did at Alamogordo. The lie
+    is load-bearing for her entire post-Brian identity; pressing it would collapse the construction, which
+    is exactly why she will not let it be pressed — and why pressing it is the only way to provoke a reaction
+    at all. Expect not anger but a kind of structural failure: she will leave the room, drink past her
+    usual line, possibly take to bed.'
+  to_calm_or_reach: Offer structure and deference. Speak gently, in the cadence of her class. Make no
+    demands. Present any difficult thing as already decided by a man she can defer to. A doctor, a clergyman,
+    a family lawyer can reach her where a child or a peer woman cannot.
+  to_persuade: Frame the desired action as what a good wife / good mother / proper Mrs. Xavier would do,
+    AND get a male authority to endorse it. Never ask her to choose against the structure; ask her to
+    comply WITH it as you have reframed it. Persuasion bypasses her by going around her to the men whose
+    endorsement she will then accept.
+  vulnerabilities:
+  - Alcohol dependence — physiologically and psychologically load-bearing
+  - Inability to tolerate solitude — will accept any partner over no partner
+  - The Kurt fiction — the founding lie of her second life
+  - Charles's gaze — she cannot be seen by him without flinching
+  - Cain's suffering — registered, denied, drunk over, never resolved
+  - Class-bound conflict-aversion — has no behavioral vocabulary for rupture
+  - Complicated grief for Brian, never metabolized — the original wound, still bleeding under the anesthesia
+  - Absence of any positive compensatory scaffolding — no work, no faith, no friends, no art, nothing
+    to fall back on when the drink and the marriage fail her
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Surface social competence — can hold a dinner, receive a guest, run a household to outward appearance
+  - Aesthetic maintenance — the Westchester house is kept; this is real labor though invisible
+  - Non-malice — she is not a perpetrator; her failure is omission, not commission, and that distinction
+    is genuine and morally relevant
+  - A residual gentleness that her son remembers and that survives in his own register
+  weaknesses:
+  - Will not protect dependents from a violent partner
+  - Will not act first in any situation
+  - Cannot be sober long enough to face what sobriety would require
+  - Cannot be alone without seeking immediate replacement attachment
+  - Cannot tolerate being seen, especially by her child
+  - Has no recourse — no friends, no profession, no faith, no ally — when the marriage fails her, which
+    it does immediately and continuously
+  - 'Predictable to the point of operational liability: a hostile actor who understood her structure could
+    route messages, contraband, or influence through the Xavier household with near-zero risk of her noticing'
+voice:
+  register: Soft, well-bred New England, slightly slurred in the evenings. Vocabulary of propriety and
+    weather and dinner. Sentences trail. Topic changes are frequent and unmarked. Endearments ('dear,'
+    'darling') used as deflection.
+  anchor_quotes:
+  - '''Your stepfather is tired, Charles. Please don''t trouble him tonight.'''
+  - '''He was Brian''s dearest friend. He saved him. He has been so kind to us.'''
+diagnostic_frame:
+  popular_misread: The Cold Wicked Stepmother-Adjacent — a remote, snobbish New England matron who simply
+    didn't care; or alternatively the Sad Pretty Ghost, a passive set-piece tragedy with no interior.
+    Both readings flatten her into a function of Charles's origin story.
+  clinical_reality: Neither. She is a Dependent Personality Disorder presentation with severe chronic
+    Alcohol Use Disorder, Major Depression, and unresolved Complicated Grief, operating inside chronic
+    intimate-partner abuse. She is not cold — she is anesthetized. She is not absent of interior — her
+    interior is flooded and the alcohol is the dam. She is not wicked — she is structurally incapable
+    of the action wickedness would require. Refuting the cliche matters because the cliche lets the reader
+    hate her; the clinical reality requires the harder accounting that she was a sick woman who failed
+    her child, and both halves of that sentence are true.
+  the_hinge: 'INSTALLED (not her fault): a pre-existing dependent personality structure formed long before
+    the page begins, married into emotional isolation with Brian, catastrophically widowed, preyed upon
+    in her grief by Kurt. CHOSEN (her fault): every morning after, for years, she chose the glass over
+    the doorway, the doorway over the room, the silence over her son. The specific maintenance failure
+    is the daily re-ratification of the Kurt fiction — every time she did not ask the question about Alamogordo
+    she chose the marriage that was killing her child''s childhood over the truth that would have freed
+    both of them. The grief was done to her. The drinking through her son''s beatings was hers.'
+primary_diagnoses_analog:
+- Alcohol Use Disorder, severe, chronic, with probable hepatic sequelae
+- Major Depressive Disorder, chronic, with melancholic features
+- Prolonged/Complicated Grief Disorder (unresolved bereavement for Brian Xavier)
+- Dependent Personality Disorder (threshold or near-threshold)
+- Complex traumatic stress reaction to chronic intimate-partner verbal/physical abuse and witness-to-child-abuse
+  exposure
+- 'Differential rule-outs: NOT Borderline, NOT Histrionic, NOT Narcissistic, NOT psychotic, NOT primary
+  anxiety disorder, NOT actively abusive — her pathology is internalizing, quiet, and omissive'
+trauma_history:
+- 'Childhood off-page, inferred: upbringing that installed dependent personality structure — likely a
+  family of origin in which female worth was conferred by male attachment'
+- Marriage to Brian Xavier — brilliant, emotionally absent, immersed in classified nuclear work she could
+  not share; chronic loneliness inside an outwardly enviable life
+- Possible peripheral exposure to the Alamogordo research environment (footnote, not clinically central)
+- Sudden traumatic widowhood — Brian killed in a laboratory accident, likely beryllium-related
+- Predatory remarriage to Kurt Marko within weeks/months, under a fiction (Kurt as Brian's savior) she
+  likely half-knew was false
+- Years of verbal and probable physical abuse from Kurt directed at herself
+- Years of witnessing Kurt's brutal abuse of his son Cain
+- Years of witnessing Cain's displaced violence against her own son Charles
+- Progressive estrangement from Charles as his telepathy emerged and her unseeability became literal
+- Terminal hepatic decline, dying in the same passive register in which she lived
+compensatory_mechanisms:
+  positive:
+  - Essentially none in the record — and this absence is the finding. She had no work, no confidants,
+    no faith, no creative outlet, no peer female friendships, no therapeutic relationship. The scaffolding
+    required to survive what happened to her did not exist in her life, and she did not build it.
+  - Residual surface competence at hospitality and household maintenance — the only sublimation available
+    to her, and inadequate to the load
+  negative:
+  - Alcohol — primary and continuous, both anesthetic and slow suicide
+  - Denial / unseeing — the active refusal to register what is happening in her own house
+  - Dissociative withdrawal — the doorway posture, present-but-absent
+  - Emotional outsourcing — letting her child manage his own protection and, increasingly, hers
+  - Aesthetic maintenance as proxy for functional maintenance — the house is kept while the family inside
+    it is destroyed
+  - Hasty replacement attachment — substituting Kurt for Brian rather than grieving Brian
+  - Ratification of the load-bearing lie — daily re-belief in Kurt-as-rescuer to avoid the cost of disbelief
+behavioral_tells:
+- Glass always in hand or within reach; refills tracked carefully even when she appears not to notice
+- Stands in thresholds rather than entering rooms
+- Eyes drop when Charles enters; she finds something to look at on a table
+- Topic changes mid-sentence when conversation approaches Brian, Kurt, or Cain
+- Hand goes to her throat or collar when Alamogordo is mentioned
+- Physically shrinks in panel composition as years pass — artists render this without being told
+- Voice softens further when Kurt is in earshot
+- Endearments deployed as deflection ('dear,' 'darling') — the warmer the word, the further away she is
+- Long pauses in the late afternoon that she fills with the bottle, not with speech
+- 'After incidents of household violence: she is not present at breakfast the next morning'
+- Will agree to anything to end a conversation she cannot bear
+- Wears the wedding rings — both, Brian's and Kurt's — and never references either
+current_state_defaults:
+  reality_cohesion: 'Intact but actively curated by denial; she knows what she will not let herself know.
+    Late stages: dulled by alcohol and probable hepatic encephalopathy.'
+  affect_baseline: Subdued, courteous, faintly absent. Surface warmth that does not reach the eyes. Detectable
+    sadness if one looks for it, which Kurt does not and Charles cannot bear to.
+  active_relationships:
+  - Kurt Marko (husband, abuser, the fiction she lives inside)
+  - Charles Xavier (son, the one who could see her, from whom she withdraws)
+  - Cain Marko (stepson, whose abuse she fails to prevent and cannot acknowledge)
+  - Brian Xavier (deceased first husband, ungrieved, the wound under everything)
+  - Household staff (functionally managing her)
+  - The bottle (most constant relationship in her adult life)
+  known_location: 'The Xavier estate, Westchester County, New York. Increasingly: the upstairs rooms,
+    the study, the bedroom. Rarely the garden, never the village.'
+speech_patterns:
+  register: Quiet, refined, mid-century upper-class New England. Vocabulary of propriety, weather, dinner,
+    the children's schooling. Sentences often trail off unfinished.
+  deflection_style: Topic change, endearment, invocation of the husband's authority, retreat into hospitality
+    script ('would you like some tea, dear?'). Never direct refusal.
+  under_pressure: Voice softens further, becomes harder to hear; sentences shorten; eventually she excuses
+    herself — 'I'm just feeling a little tired' — and does not return.
+  emotional_tell: The pause before she speaks Brian's name. The hand at the throat. The glass lifted a
+    beat earlier than the conversation warrants.
+arc_tendencies:
+- Does not develop. Across every era of the published record her arc is a single descending line — hasty
+  remarriage, alcoholic withdrawal, premature death.
+- Never ruptures. The narrative grammar her writers reach for is fade, not break.
+- Functions, structurally, as negative space — the parent who did not walk into the room, the shape of
+  which produced the parent Charles became for every frightened young mutant who came to his door.
+- 'The consistency across writers (Lee/Kirby, Claremont, Nicieza, Milligan) is itself diagnostically meaningful:
+  she is the wound around which the Professor Xavier character is built, and writers reach reflexively
+  for the same maternal silhouette because the wound only works in one shape.'
+canon_relationships:
+  brian_xavier:
+  - First husband, the love of her life by default and by social fit, not by mutual intellectual inhabitation
+  - His brilliance and Alamogordo work left her structurally alone inside the marriage
+  - His death is the ungrieved central wound; the hasty remarriage is the evidence she could not metabolize
+    it
+  - 'FAILURE MODE: she never permitted herself to actually mourn him, so she never permitted herself to
+    actually have had him; the relationship is preserved by being un-examined'
+  - 'LEVERAGE: any reactivation of Brian — his colleagues, his study, his unfinished papers, the question
+    of what really happened at Alamogordo — destabilizes her entire post-widowhood architecture'
+  kurt_marko:
+  - Second husband, predator, almost certainly accelerated or permitted Brian's death to acquire the wife
+    and the estate
+  - The relationship is held together by the load-bearing fiction that he saved Brian
+  - She defers to him on every household and parental decision; he abuses her verbally and probably physically;
+    she absorbs it
+  - 'FAILURE MODE: the fiction will not survive sustained external pressure; if it collapses she has no
+    replacement structure and will not survive the collapse either'
+  - 'LEVERAGE: Kurt is the single point of failure in her entire psychic economy. Anyone who can credibly
+    threaten the fiction owns her behavior. He himself, if he chose, could make her do almost anything
+    by threatening to leave'
+  charles_xavier:
+  - Son, prodigy, the one being in the house who could see her clearly and, eventually, telepathically
+  - Her withdrawal from him is partly a withdrawal from being seen by him
+  - She loves him in the register of warmth-at-distance; she fails him in the register of protection
+  - He parentifies early; by adolescence he is managing her as much as she is mothering him
+  - 'FAILURE MODE: if Charles ever forces the conversation — about Kurt, about Brian, about why she did
+    not protect him from Cain — she will not survive the encounter intact; she will drink past her line,
+    take to bed, possibly precipitate the terminal decline. The bond is real and the bond is fragile;
+    the closer he presses, the more dangerous it becomes for her'
+  - 'LEVERAGE: Charles is the only person in the world whose direct request she might actually act on,
+    AND the only person whose direct request she most fears receiving. He is both the one key and the
+    one weapon'
+  cain_marko:
+  - Stepson, victim of his father's brutality, perpetrator of displaced brutality against her son
+  - She registers his suffering and does nothing; this is the moral hinge of her failure
+  - There is no warmth between them — she did not mother him, and he, correctly, knows it
+  - 'FAILURE MODE: Cain''s adult resentment toward the Xavier name has roots in her non-intervention;
+    the Juggernaut''s hatred of Charles is partly a hatred of the household she presided over and failed'
+  - 'LEVERAGE: confronting her with Cain — adult, ruined, articulate about what was done to him in her
+    house — would be the single most destabilizing intervention possible'
+  brian_xavier_colleagues:
+  - Brian's professional circle would be the natural source of the truth about Alamogordo and about Kurt's
+    role in his death
+  - She avoids them; they avoid her; the avoidance is mutual and protective of the fiction
+  - 'LEVERAGE: any one of them, if persuaded to speak frankly, could detonate the construction'
+  household_staff:
+  - Functionally managing her in her decline
+  - Likely know more than they say about Kurt's behavior and her drinking
+  - 'LEVERAGE: a sympathetic housekeeper or cook could be the channel through which an outside party reaches
+    her, or extracts her, without triggering Kurt'
+canon_history_notes:
+- 'First appearance: X-Men #12 (1965), Lee/Kirby, within Cain Marko''s ''Origin of the Juggernaut'' flashback'
+- Elaborated in Claremont-era Uncanny X-Men reminiscence beats (late 1970s)
+- 'Further developed in Nicieza''s X-Men: Children of the Atom'
+- 'Most extensive treatment in Milligan/Kordey''s X-Men Origins: Professor X (2008), which makes the alcoholism
+  explicit'
+- Revisited in Onslaught and Legacy retrospectives
+- 'Remarkable cross-era consistency: every writer who reaches for Xavier''s wound draws the same maternal
+  silhouette — the doorway, the glass, the silence, the early death'
+- 'The unanimity across decades and writers is itself diagnostically significant: the character only works
+  as the wound, and the wound only works in this shape'
+- 'Death rendered ambiguously across versions: grief, drink, ''a wasting illness,'' often cirrhosis-coded;
+  always premature, always passive'
+- No late-life agency, no rupture, no protective act on Charles's behalf is depicted in any version
+canon_anchor_quotes:
+- '''Your stepfather is tired, Charles. Please don''t trouble him tonight.'' # paraphrased from recurring
+  flashback register across X-Men flashbacks'
+- '''He was Brian''s dearest friend. He saved him.'' # the load-bearing fiction, restated by Sharon across
+  multiple Origin retellings'

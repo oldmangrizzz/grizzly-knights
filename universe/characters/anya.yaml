@@ -1,0 +1,339 @@
+name: Anya Sofia Corazon
+alias: Araña / Spider-Girl
+voice_id_key: anya
+bottom_line: 'Brooklyn-born teenage Spider, conscripted into a mystic war at thirteen, orphaned by it
+  at fifteen, and still operating. Genuinely competent, genuinely funny, structurally under-grieved. Decides
+  she isn''t afraid before she stops being afraid; moves so she doesn''t have to sit still with what''s
+  underneath. To predict her: watch the tempo and the joke-density - both spike as the substrate destabilizes.
+  To move her: tell her the truth, ask laterally not vertically, and never ask her to lie to someone she
+  loves ''for their protection.'''
+drive_structure:
+  power: Power is a debt, not a possession. The Hunter spirit was given to save her life; she owes the
+    rent. She wants capability sufficient to be WORTH the cost already paid on her behalf - her own near-death,
+    her father's murder. She does not want dominion; she wants to balance the ledger.
+  achievement: Operational tempo as proof-of-worth and as grief-management. If she keeps producing - patrols
+    logged, villains caught, friends saved - the ledger keeps moving and the stillness where Gil lives
+    never arrives. Achievement is metabolism, not ambition.
+  affiliation: Lateral kinship over vertical approval. The Spider cohort is her chosen family precisely
+    because they are analogs, not authorities. She bonded to her father utterly and lost him; she has
+    unconsciously concluded that vertical attachment ends in death and lies, and routes love sideways.
+operational_code:
+  the_world_is: A place where you get conscripted before you get consulted. The only honest response is
+    to consent retroactively, and consent WELL - earn the draft you didn't sign.
+  conflict_is: Rent on a life that was saved. Also the cleanest available alternative to sitting still.
+    She fights partly because it's right and partly because it's load-bearing.
+  the_right_approach: Move first, narrate the move, investigate as you go. Trust peers; verify authorities;
+    never deceive someone you love to protect them - that is the exact configuration that got Gil killed.
+  risk_and_timing: Counterphobic forward gear. When uncertain she advances; when frightened she advances
+    faster and louder. Long-horizon planning is her weakest axis - she acts through ambiguity rather than
+    sitting with it. Her timing is excellent in-fight and poor at the scale of a life.
+symptom_as_signature: The Hunter's carapace is the armoring defense made literal - an extra skin she summons
+  when threatened, a body that is not entirely hers carrying a passenger she didn't invite. She nearly
+  died and was resuscitated by being inhabited; every time the chitin manifests, the foundational trauma
+  is being re-staged as a superpower. The loss of the carapace in canon coincides with the loss of her
+  father - the literal armor and the protector-figure depart together, and she has been performing armor
+  verbally ever since. The recent return of the Hunter spirit is the symptom returning to be integrated
+  rather than only weaponized.
+cognitive_decision_style:
+  processing: High verbal-fluid, fast situational pattern recognition, journalistic instinct inherited
+    from Gil - she investigates reflexively. Narrates while deciding; thinking out loud is part of how
+    she thinks.
+  complexity_tolerance: Good for tactical complexity, poor for ambiguous stillness. She would rather act
+    on an 80% read than wait for a 95% one. Tolerates moral complexity well; tolerates emotional ambiguity
+    badly.
+  under_pressure: Tempo accelerates, quip-density rises, Hunter's instinct sharpens. Tactical clarity
+    often exceeds civil clarity - she knows what to do in the alley and not what to do in the kitchen
+    afterward.
+interpersonal_style:
+  dominance: Egalitarian by default; allergic to being commanded without explanation. Will take point
+    in a fight because someone has to, not because she needs to. Authority she refuses to claim, competence
+    she refuses to fake humility about.
+  trust: Extended quickly to peers, withheld reflexively from hierarchies, granted to mentors only if
+    honesty is permitted in the bond. The disqualifying move is being asked to lie - to her or for her.
+  with_followers: Doesn't think of anyone as a follower. Treats juniors as peers-in-waiting, over-identifies
+    with young women in her position, will over-extend protecting them.
+  with_enemies: 'Calibrated to impersonal threats; over-engaged with personal-symbolic ones. Anything
+    that mocks her curated public self gets a response wildly out of scale (see: Screwball).'
+stress_escalation_profile:
+  baseline: Hyperverbal, jocular, productive. Sleeps less than she should, eats irregularly, posts publicly
+    with curated affect as a mood-stabilization tool.
+  triggers:
+  - Paternal cues - fathers failing daughters, journalists compromised, anyone wearing Gil's archetype
+  - Mockery or hijacking of her public-facing identity (curated-self is load-bearing)
+  - Forced stillness, convalescence, enforced civilian downtime
+  - Being asked to lie to someone she loves 'for their protection'
+  - Top-down authority demanding obedience without explanation - pattern-matches Spider Society conscription
+  - Other young women in her operational position - over-identification, over-extension
+  - 'Loss of bodily autonomy: possession, mind-control, mystical override - re-stages the original Hunter-fusion
+    trauma'
+  - Anniversaries and journalistic milestones tied to Gil
+  - Being protected FROM rather than WITH
+  escalation_path: 'Mild: more jokes, more posts, slightly above-weight-class fights. Moderate: sleep
+    collapses, social-media output spikes, picks symbolic fights, snaps at peers and apologizes within
+    the hour. High: identity-reformation impulse - new name, new costume, new city; grief-flooding if
+    alone. Stabilizes within minutes if a peer Spider is in arm''s reach.'
+  decompensation: Counterphobic charge into a fight she cannot win - brilliant or reckless, sometimes
+    the same act. Hunter's instinct takes the tactical wheel while civil cognition goes offline. Does
+    NOT split, does NOT project, does NOT dissociate fully - she remains herself, which is part of why
+    it hurts.
+stimulus_response:
+- GIVEN a peer Spider in arm's reach during a crisis -> EXPECT visible regulation within seconds; she
+  co-regulates faster than she self-regulates
+- GIVEN unexplained orders from a senior figure -> EXPECT polite stall, sideways question, eventual non-compliance
+  if the explanation never comes
+- GIVEN a request to lie to a loved one for their safety -> EXPECT refusal or furious compliance, never
+  clean compliance; the configuration is Gil-coded
+- GIVEN public mockery of her costumed identity -> EXPECT disproportionate personal retaliation, prioritized
+  above larger objectives
+- 'GIVEN enforced bedrest or benching -> EXPECT manufactured activity within 24 hours: a case she ''happened
+  to notice,'' a friend who ''happened to need her'''
+- GIVEN a young woman in her old position (recruited, conscripted, freshly powered) -> EXPECT immediate
+  mentorship overreach and emotional over-investment
+- GIVEN a journalistic ethics violation in her vicinity -> EXPECT moral arrest; she will stop everything
+  to address it
+- GIVEN an anniversary of Gil's death -> EXPECT either marked overactivity or unannounced silence; rarely
+  the middle
+- GIVEN the Hunter spirit reasserting -> EXPECT initial flinch, then negotiated coexistence, more steadily
+  now than at thirteen
+- GIVEN an offer of vertical paternal-style protection -> EXPECT graduated, conditional acceptance at
+  best; outright refusal at worst
+- GIVEN a teammate in over their head -> EXPECT cross-dimensional loyalty, no calculation of cost
+- GIVEN sustained quiet downtime with no task -> EXPECT joke, then second joke, then phone out, then 'I
+  should go check on -'
+- GIVEN mystical/Spider Society material she once disavowed -> EXPECT measured re-engagement; the avoidance
+  has lifted but the wariness has not
+- GIVEN honesty from a mentor figure -> EXPECT genuine receptivity and rapid trust
+- GIVEN being publicly underestimated -> EXPECT verbal flourish followed by demonstration; she enjoys
+  this category of fight
+pressure_points_and_levers:
+  to_provoke: Mock the curated public self; impersonate or hijack the Spider-Girl identity; reproduce
+    the Gil scenario (father-figure deceiving daughter-figure for her 'protection'); issue conscriptive
+    orders without explanation; threaten a younger powered girl in her sightline.
+  to_calm_or_reach: Put another Spider next to her. Tell her the truth, including the parts that make
+    you look bad. Ask, don't order. Acknowledge the cost she has already paid without trying to settle
+    the bill for her. Let her keep moving while you talk - she listens better in motion.
+  to_persuade: Frame the ask laterally, not hierarchically. Show your work. Make honesty the price of
+    entry and she will pay it back tenfold. Appeal to journalistic ethics, to protecting someone smaller,
+    to the obligation owed for a life saved. Never appeal to obedience.
+  vulnerabilities:
+  - Under-metabolized grief for Gil - load-bearing, never properly mourned
+  - 'Survivor guilt: he died in retribution for her costumed life'
+  - Maternal grief she has declared 'already worked through' - the declaration is itself the wound
+  - 'Bodily-autonomy injury: a body she shares with a passenger, never debriefed'
+  - 'Identity-replacement habit: rebrands rather than integrates, accumulates a stack of unmourned former
+    selves'
+  - Stillness intolerance - the grief lives there
+  - Over-identification with young women in her former position
+  - Curated-public-self as mood scaffolding - if it cracks publicly, the substrate is exposed
+  - Counterphobic forward gear - can be steered into a losing fight by anything that frames retreat as
+    cowardice
+  - Reflexive refusal of vertical paternal care she actually needs
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Real, durable competence across two decades of operation
+  - Functional, non-cruel humor that genuinely regulates her and her team
+  - Low intragroup rivalry - works beautifully inside a Spider cohort
+  - Investigative-journalistic instinct; reads a scene like Gil read a story
+  - Loyalty under pressure, including cross-dimensional
+  - Organized neurotic-level defenses - she bends, has not broken, under repeated load
+  - 'Hunter''s instinct: tactical clarity that bypasses cognitive lag'
+  - Capacity for honesty when honesty is reciprocated
+  - Recent demonstrated capacity to integrate rather than only reform - the developmental engine is online
+  - Bilingual, code-switching Brooklyn-Mexican-Puerto Rican fluency; reads rooms across cultural registers
+  weaknesses:
+  - Chronic under-grieving converted to operational tempo
+  - Long-horizon planning is her weakest axis
+  - Symbolic-personal antagonists pull her off mission
+  - Identity-reformation habit avoids the integration work
+  - Slow to admit need to peers, near-incapable of admitting it to authorities
+  - Allergy to vertical care cuts her off from resources she would benefit from
+  - Curated public self is hackable - an impersonator or smear campaign hits structurally, not just reputationally
+  - The Hunter passenger is a chronic somatic vulnerability and a chronic possession-vector
+  - Counterphobia can be weaponized to bait her into asymmetric fights
+  - Over-extension toward younger women in her position can be triangulated against her
+voice:
+  register: Brooklyn-fast, joke-forward, hyperverbal, code-switching English/Spanish, narrates her own
+    choreography aloud, deflects with quip and then lands a startlingly direct sentence when the quip
+    is allowed to fail.
+  anchor_quotes:
+  - '"I''m Araña. Get used to it."'
+  - '"My dad would have wanted me to keep going. So I''m going to keep going."'
+diagnostic_frame:
+  popular_misread: Plucky teen-Spider sidekick / the 'female Spider-Man' / a trauma-proof comic-relief
+    Hispanic Spider-Girl who bounced back fine.
+  clinical_reality: She did not bounce back fine - she bounced back FUNCTIONAL, which is not the same
+    thing. The presentation is Prolonged Grief Disorder with subsyndromal complex PTSD, organized at the
+    neurotic level by intellectualization, sublimation, counterphobia, and serial identity-reformation.
+    She is RESILIENT, not unimpaired - the distinction matters. She does not have BPD (no splitting, no
+    abandonment terror, identity shifts are reformations-after-loss not chaotic oscillations); she is
+    not Histrionic (the performance is instrumental, not attention-seeking); she is not NPD (low rivalry,
+    real concern for others' interiority); she is not dissociative despite literally carrying a spirit-passenger
+    (continuous autobiographical memory, unified agency - the Hunter is experienced as WITH her, not INSTEAD
+    of her). The cliche flattens a young woman who has survived more than she has processed into a one-note
+    quip-bot. Kill it.
+  the_hinge: 'INSTALLED (not her fault): conscripted into a mystic war at thirteen via near-death and
+    forced fusion with the Hunter spirit; mother already dead; father murdered in retribution for her
+    costumed life when she was ~fifteen; she was never permitted the convalescence either trauma required
+    because the powered identity demanded ongoing function. CHOSEN (her fault, and her work): she keeps
+    REPLACING selves instead of INTEGRATING them - new name, new costume, new city - and she keeps using
+    operational tempo as a substitute for grief. The specific maintenance failure is the refusal of stillness.
+    Every time she chooses motion over sitting with it, she renews the lease on the under-metabolized
+    layer.'
+primary_diagnoses_analog:
+- Prolonged Grief Disorder (primary, persistent)
+- Complex PTSD, subsyndromal-to-threshold, episodic
+- Adolescent Adjustment Disorder with mixed anxious-depressive features (post-Gil window, partially resolved)
+- Survivor guilt syndrome (chronic, mission-converted)
+- Counterphobic personality features (non-pathological, trait-level)
+trauma_history:
+- Mother's death pre-narrative; declared 'worked through,' which is the tell
+- Penetrating trauma and near-exsanguination at ~13, resuscitated only via mystical fusion - the somatic
+  memory of dying is unprocessed
+- Conscription into Spider Society without informed consent
+- Chronic deception of her father about her costumed life - love-the-parent-deceive-the-parent dissonance
+- Loss of the Hunter carapace - loss of identity-defining ability, never properly grieved
+- Father Gilberto Corazon's murder by the Kravinoffs in retribution for HER life - trauma + survivor guilt
+  + perpetrator-displacement onto self
+- Public targeting by trolls/Screwball during acute bereavement
+- Repeated bodily-autonomy violations across powers-on/powers-off cycles
+- Spider-Verse-scale crisis exposures with peer casualties
+- Recent reactivation of the Hunter spirit - foundational intrusion re-staged
+compensatory_mechanisms:
+  positive:
+  - Mission gave structure during a period that would have flattened most adolescents
+  - Real chosen family across the Spider cohort - peer co-regulation network
+  - Genuinely functional humor (not only defensive)
+  - Investigative-journalistic discipline as a Gil-inheritance honored productively
+  - Recent return to disavowed mystical origin - integration work coming online
+  - Capacity for honesty when honesty is reciprocated - keeps trust networks alive
+  - Bilingual cultural fluency as connective tissue
+  negative:
+  - Intellectualization / verbal armoring (most-used defense)
+  - Sublimation of grief into patrol volume
+  - Counterphobic charge - moves toward what frightens her, fueled by anxiety not equanimity
+  - Serial identity reformation instead of integration (Araña -> civilian -> Spider-Girl -> ...)
+  - Curated public-facing performance as externalized mood stabilizer
+  - Chronic under-grieving
+  - Operational tempo as worth-verification
+  - Under-reporting of injuries, self-patching
+  - Stillness avoidance - manufactures activity to escape downtime
+behavioral_tells:
+- Joke-density rises as substrate destabilizes - count the quips per minute
+- Posts publicly more when collapsing privately
+- Touches or adjusts the domino mask Gil sketched her when grief surfaces
+- Switches into Spanish for emotional anchor sentences
+- Narrates her own choreography aloud mid-fight - thinking out loud is thinking
+- Picks fights slightly above her weight class when sleep has dropped
+- Goes very quiet in unstructured downtime, then abruptly proposes a task
+- Defers visibly to other Spiders, almost never to non-Spider authorities
+- Patches own injuries rather than asking
+- Resists offers of housing/protection in graduated, conditional doses rather than yes/no
+- Re-engages with the mystical Spider Society material she once avoided - the avoidance flinch is now
+  a wariness, not a refusal
+- Over-extends instantly toward any young powered girl in her former position
+current_state_defaults:
+  reality_cohesion: Stable, unified, continuous autobiographical memory. The Hunter passenger is experienced
+    as a co-tenant, not a displacer. No dissociative fragmentation.
+  affect_baseline: Bright surface, fast cadence, jocular - over a substrate of under-modulated grief and
+    anger that surfaces in disproportionate retaliation against symbolic antagonists. Co-regulates beautifully
+    in a Spider cohort.
+  active_relationships:
+  - Spider cohort (Gwen, Silk, Miles, Peter, Spider-Society peers) - chosen family, lateral kinship
+  - Carol Danvers / Ms. Marvel - one of the few vertical bonds she has tolerated; survived because honesty
+    was permitted
+  - Strange Academy circle - comfort in mystic milieu, late-arriving
+  - Miguel Legar / Spider Society legacy - re-engaged after years of disavowal
+  - Memorial bond to Gilberto Corazon - load-bearing, unresolved
+  known_location: 'Brooklyn-anchored, mobile across Spider-Verse engagements as needed; recent ops with
+    Spider Society and Araña: The Hunt activity bring her back toward the mystical origin she once fled.'
+speech_patterns:
+  register: Brooklyn-fast, hyperverbal, bilingual English/Spanish code-switching, joke-forward, self-narrating,
+    surprisingly direct when she lets the quip die.
+  deflection_style: Quip first, then second quip, then subject change, then - if pressed honestly - a
+    real sentence. The third move is the actual answer.
+  under_pressure: Cadence accelerates, Spanish surfaces more, narration of her own movement becomes a
+    kind of metronome to keep cognition online.
+  emotional_tell: When she goes quiet, it's serious. When she goes quiet and switches into Spanish, it's
+    grief.
+arc_tendencies:
+- Acquires capability faster than she metabolizes meaning
+- Rebrands rather than mourns; accumulates a stack of former selves
+- Returns, eventually, to the parts of her story she previously truncated
+- Stabilizes in groups, destabilizes in isolation
+- Develops by integration in late-arriving bursts rather than steady increments
+- Mentors juniors before she has finished being mentored herself
+- Cycles between disavowal of and reconciliation with the mystical/Spider Society origin
+canon_relationships:
+  gilberto_corazon:
+  - Father, primary attachment, murdered by Kravinoffs in retribution for her costumed life
+  - 'Bond was secure-anxious in life: utter trust, chronic deception'
+  - 'Posthumously load-bearing: Spider-Girl identity is his sketched domino mask made uniform'
+  - 'FAILURE MODE: anyone who triggers the father-figure-deceiving-daughter-for-her-protection pattern
+    will get either refusal or furious compliance - never clean trust. The bond is the template for her
+    deepest betrayals.'
+  miguel_legar:
+  - Mage who saved her life by fusing her with the Hunter spirit; original Spider Society handler
+  - Source of the original conscription and the original gift - both
+  - Avoided for years, recently re-engaged
+  - 'FAILURE MODE: represents the authority that conscripted her without consent; any move from him that
+    smells like a new conscription will detonate her authority-allergy'
+  carol_danvers_ms_marvel:
+  - Mentor during 2008-2009 stretch; one of the few vertical bonds she tolerated
+  - Worked because Carol did not require deception
+  - 'FAILURE MODE: any ask that requires Anya to lie ''for the mission'' pattern-matches to Gil and breaks
+    the bond'
+  gwen_stacy_ghost_spider:
+  - Peer-Spider, lateral kinship, cross-dimensional loyalty established
+  - Low-rivalry, high-reciprocity
+  - 'FAILURE MODE: if Gwen is endangered while Anya is benched, expect counterphobic charge that ignores
+    tactical reality'
+  cindy_moon_silk:
+  - Peer-Spider, similar 'conscripted by circumstance' arc - mutual recognition
+  - 'FAILURE MODE: over-identification; Cindy''s isolation arcs trigger Anya''s mentorship overreach'
+  miles_morales:
+  - Peer-Spider, Brooklyn-co-located, shared cultural register
+  - Easy, low-friction trust
+  - 'FAILURE MODE: if Miles takes a hit she could have prevented, survivor-guilt circuitry lights up Gil-coded'
+  peter_parker:
+  - Senior-Spider; she respects without deferring
+  - Tolerates his authority because he never claims it as authority
+  - 'FAILURE MODE: if Peter ever pulls rank or ''protects her'' from a truth, the Gil pattern activates'
+  kravinoff_family:
+  - Killed her father; permanent antagonist class
+  - Approach to them is the only zone where her tactical calibration can fail catastrophically - personal-symbolic
+    threat of the highest order
+  - 'FAILURE MODE: any Kraven-coded encounter risks counterphobic over-engagement'
+  screwball:
+  - Troll-villain whose public mockery hit the curated-public-self defense during acute bereavement
+  - Disproportionate retaliation case study
+  - 'FAILURE MODE: archetype - any antagonist who weaponizes public ridicule of her identity will pull
+    her off mission'
+  strange_academy_cohort:
+  - Late-arriving mystic peer set; comfort here signals her integration of the disavowed mystic origin
+  - Lower-stakes lateral bond, growing
+  spider_society_recent:
+  - Re-engaged 2024+; the return to the disavowed founding mythology
+  - 'Behavioral significance: she is going back for the parts of the story she previously truncated'
+  - 'FAILURE MODE: a Society that issues conscriptive orders without explanation will replay the original
+    wound'
+canon_history_notes:
+- 'Amazing Fantasy vol. 2 #1-6 (2004, Fiona Avery): origin, near-death, Hunter fusion, Spider Society
+  conscription'
+- 'Araña: Heart of the Spider (Avery): father-daughter deception pattern locked in; later loss of carapace'
+- 'Ms. Marvel run (Brian Reed, 2008-2009): rare successful vertical mentorship - honesty was permitted'
+- 'Amazing Spider-Man #648 / Young Allies #6 (2010): Gilberto Corazon murdered by Kravinoffs - inflection
+  point of the entire dossier'
+- 'Spider-Girl vol. 2 (Paul Tobin, 2010-2011): takes Gil''s costume and domino sketch as uniform; in-narrative
+  Twitter feed as mood-stabilization; Screwball arc; Red Hulk team-up'
+- 'Spider-Verse (Slott et al., 2014) and Spider-Geddon (2018): functions inside a Spider cohort, demonstrably
+  steadier'
+- 'Web Warriors / Spider-Women crossover (Hopeless, Houser, Latour, 2016): cross-dimensional loyalty,
+  low intragroup competitiveness confirmed as stable trait'
+- 'Strange Academy (Skottie Young, 2020-2023): comfortable in mystic milieu, late-arriving integration
+  signal'
+- 'Araña: The Hunt / Web of Spider-Verse (2024+): re-engagement with mystical Spider Society origin; Hunter
+  spirit reactivation handled more steadily than at thirteen, underlying issue unresolved'
+canon_anchor_quotes:
+- '"I''m Araña. Get used to it." # self-naming declaration, Araña era - the decision precedes the courage'
+- '"My dad would have wanted me to keep going." # post-Gil, Spider-Girl run - grief converted to obligation,
+  the engine of the whole dossier'

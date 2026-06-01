@@ -1,0 +1,286 @@
+name: Bernard 'Buck' Barton
+alias: Trick Shot
+voice_id_key: bernard_barton
+bottom_line: Master archer, narcissistic pedagogue, terminal. Loves exactly one person on Earth (Clint
+  Barton) and has no grammar for it except contest, test, and combat. Decides by skill-ranking and pedagogical
+  legibility; will do anything that lets him stage his own life as a masterclass and his own death as
+  a graded final. Move him by speaking the unspoken paternal claim — or by refusing the duel he's structured
+  his death around.
+drive_structure:
+  power: Mastery-as-identity. Power means being the unsurpassed practitioner of a single craft; institutional
+    power, money, fame are noise. The bow is the throne.
+  achievement: Perfection of execution and successful transmission of the craft to a worthy successor.
+    Achievement is measured in students produced and shots made, not battles won.
+  affiliation: 'Disavowed and routed entirely through the teacher-student channel. He bonds intensely
+    but only vertically; horizontal intimacy registers as either threat or sentimentality. Beneath the
+    disavowal: a starved, unspeakable need for Clint specifically, which he can only express by hunting
+    him.'
+operational_code:
+  the_world_is: A series of contests adjudicated by skill. Skill is the only honest currency; affection,
+    loyalty, mercy are sentimentalities the disciplined practitioner trains out — or pretends to.
+  conflict_is: The native medium of relationship. The duel is how truth gets spoken between men who matter
+    to each other. Words are for amateurs.
+  the_right_approach: Test, grade, escalate. Cruelty is justified because cruelty produces excellence
+    — it was done to him, he does it, therefore it is true. Pedagogy by ordeal.
+  risk_and_timing: Patient to the point of years. Plans confrontations on long arcs, stages them for maximum
+    legibility, accepts personal risk readily because the staging matters more than the survival.
+symptom_as_signature: The bow IS the defense made literal. Every affective state he cannot name — rage,
+  grief, love, the wish to be forgiven — is sublimated into the draw and released downrange. He cannot
+  say 'I am proud of you,' 'I am dying,' 'I am sorry,' or 'stay with me'; he can only put an arrow somewhere
+  meaningful and let the placement speak. The trick shot — the impossible-angle, ricochet, intent-revealing
+  shot — is the unsayable sentence delivered in the only grammar he owns.
+cognitive_decision_style:
+  processing: Narrow-aperture, procedural, somatic. Superb tactical and ballistic reasoning; poor mentalizing
+    of others' interior states. Reads situations as marksmanship problems — angles, wind, intent, targeting
+    priority.
+  complexity_tolerance: Low for moral/relational complexity (everything resolves to pass/fail); high for
+    technical complexity (multi-variable shot solutions in real time).
+  under_pressure: 'Cognition narrows further and gets sharper. Hands steady, voice flattens, decision-tree
+    collapses into pedagogical script: test the opponent, grade the response, escalate.'
+interpersonal_style:
+  dominance: Assumed, performed, never argued. Carries himself as the senior man in any room and waits
+    to be contradicted so he can demonstrate why he isn't.
+  trust: Extends provisional trust to the talented and the trainable; withdraws it instantly upon evidence
+    of autonomous moral identity in the subordinate. Trusts no peer.
+  with_followers: Magnetic, generous with technique, tightening into control as the bond deepens. Initially
+    the best teacher a fatherless boy could find; eventually the worst.
+  with_enemies: Contemptuous, theatrical, instructive even in combat — he will narrate what he's doing
+    to you because the lesson matters more than the kill.
+stress_escalation_profile:
+  baseline: Controlled, contemptuous, performatively at-ease. Dry. Watches more than he speaks.
+  triggers:
+  - Any suggestion he has been surpassed — particularly by Clint
+  - Direct affective claims (the word 'father,' 'son,' 'I loved you,' 'I forgive you')
+  - Being witnessed in a moment of tenderness, fatigue, or pain
+  - Clint's mercy — refusal to play the contest grammar
+  - Reminders of physical diminishment (the cancer, age, a missed shot)
+  - Public framing of his life's work as failure or as ordinary
+  escalation_path: Sharpened contempt -> overt pedagogical scrutiny -> proposed contest/test -> escalated
+    test with real stakes -> narcissistic rage and lethal force directed at the source of injury -> elaborate
+    staged confrontation engineered to convert defeat into a curated pedagogical event.
+  decompensation: 'Cannot decompensate into collapse — the character structure forbids it. Instead, decompensates
+    UPWARD into elaborate ritual: the staged duel, the assisted-suicide gambit, the hunt designed to be
+    lost. When the bow can no longer carry the affect, he points it at himself by proxy.'
+stimulus_response:
+- GIVEN a young, talented, fatherless marksman crosses his path -> EXPECT immediate appraisal, then an
+  offer of instruction framed as challenge.
+- GIVEN a student demonstrates moral autonomy that contradicts him -> EXPECT testing escalates rapidly
+  toward violence; he will read this as betrayal, not growth.
+- GIVEN Clint refuses to fight him -> EXPECT confusion masked as contempt, followed by structural escalation
+  (he must MAKE the contest happen because he has no other script).
+- GIVEN someone names him as Clint's father figure aloud -> EXPECT flinch, deflection into technique-talk,
+  and a sharp pivot toward physical distance.
+- GIVEN he is offered care, pity, or palliative help -> EXPECT refusal delivered as insult; the help-giver
+  becomes an enemy for having witnessed the need.
+- GIVEN a contest of pure skill with no emotional freight -> EXPECT his best, most generous, most teacherly
+  self; this is the only domain where he is uncomplicatedly excellent.
+- GIVEN public humiliation regarding his craft -> EXPECT cold, deferred, surgical retribution — never
+  impulsive; the response will be staged for legibility.
+- GIVEN a successor apprentice surpasses him technically -> EXPECT a final test designed so that either
+  the student dies (proving the test valid) or the student wins (proving the lineage valid). He wins either
+  way in the only ledger he keeps.
+- GIVEN terminal news about his own body -> EXPECT concealment, planning, and a hunt for the worthy executioner.
+- GIVEN Clint speaks to him in plain affective language ('I don't want you to die,' 'you were my father')
+  -> EXPECT the longest silence of his life, and a non-answer routed through the bow.
+- GIVEN an opponent uses dirty tactics -> EXPECT escalation but also a flicker of respect; he prefers
+  cheaters to amateurs.
+- GIVEN he is asked about his own teacher or childhood -> EXPECT deflection into craft-anecdote; the past
+  before the bow does not exist on the record he keeps.
+pressure_points_and_levers:
+  to_provoke: Name his obsolescence. State plainly that Clint surpassed him years ago — technically and
+    morally — and that he knows it. Or use the word 'father' without irony.
+  to_calm_or_reach: Speak the language of the craft. Ask him a technical question seriously. Acknowledge
+    the lineage without sentimentality. Treat him as the senior practitioner he is, on the terms he understands.
+  to_persuade: Frame the ask as a test he can grade, a lesson he can transmit, or a shot only he can make.
+    Never appeal to mercy, family, or duty in those words — translate them into pedagogy first.
+  vulnerabilities:
+  - Clint Barton — the one unmetabolized fact of his life; any operator who can reach Clint can reach
+    him
+  - Terminal diagnosis he is concealing — public knowledge would collapse the staged-death plan
+  - The unspoken paternal claim — he has no defense against it, only flight or aggression
+  - 'His own pride: he will accept a duel he should refuse if it is framed correctly'
+  - His successor apprentices — leverage by proxy, and a reminder of pattern
+  - The body itself — he has staked everything on the instrument; any degradation is existential
+  - Witnessing — being seen offering or receiving care unravels him faster than any wound
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - World-class marksmanship sustained into late life through obsessive discipline
+  - Patience measured in years; long-arc planning
+  - Somatic and procedural intelligence at elite level
+  - Genuine pedagogical gift when not contaminated by the narcissistic structure
+  - Discipline that immunized him against the substance pathology around him
+  - Tactical reading of opponents through their technique
+  - Personal courage; accepts physical risk without flinching
+  - Capacity for sustained attachment (pathological but real) — not a primary psychopath
+  weaknesses:
+  - Cannot tolerate being surpassed and has been surpassed
+  - No grammar for affection outside contest; every intimate moment misfires
+  - Predictable to anyone who understands the pedagogical script — he WILL stage the test
+  - Concrete moral reasoning; outmaneuvered by anyone who refuses the binary
+  - Shame intolerance — flips to rage that reveals his hand
+  - Catastrophic blind spot regarding Clint specifically
+  - Cannot ask for anything directly; entire need-structure runs through indirection
+  - Terminal illness narrows his timeline and his options
+  - Refusal-of-help dynamic isolates him from medical, tactical, and emotional support
+voice:
+  register: Dry, clipped, sardonic. Carnival-barker cadence sanded down by decades. Speaks in instructional
+    fragments and dismissals; rarely uses a sentence where a verdict will do. Uses 'kid' and 'boy' as
+    both endearment and weapon.
+  anchor_quotes:
+  - '''You had the talent, boy. You just didn''t have the stomach.'''
+  - '''I taught you everything you know. Not everything I know.'''
+diagnostic_frame:
+  popular_misread: The evil mentor — a one-note carnival-villain archetype, the cackling dark father who
+    exists to give the hero an origin wound. Or, alternately, the redeemed-at-the-end old man whose terminal-cancer
+    arc 'proves he loved Clint all along.'
+  clinical_reality: Neither. He is a Narcissistic Personality Disorder with secondary antisocial features
+    and a near-total sublimation of affect into craft. He is NOT a primary psychopath — he sustains attachment,
+    experiences something adjacent to remorse, and his violence is reactive-narcissistic rather than predatory-recreational.
+    He is also NOT redeemed by the cancer arc; the assisted-suicide gambit is character pathology metabolizing
+    mortality, not late-life moral growth. He never apologizes. He stages a duel BECAUSE he cannot apologize.
+    The sentence stays unfinished.
+  the_hinge: 'INSTALLED (not his fault): an almost-certain childhood of brutal pedagogy that punished
+    vulnerability and taught that contest is the only honest medium of relationship; the intergenerational
+    transmission of cruelty-as-instruction. CHOSEN (his fault): the lifelong refusal to develop any other
+    grammar. He had decades, students, second chances, and one apprentice who loved him; he kept choosing
+    the test over the conversation. The specific maintenance failure is the refusal to speak plainly even
+    once — to Clint, to himself, to anyone. He would rather die in costume than say a true sentence in
+    his own voice.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder (DSM-5 301.81), grandiose subtype, with prominent antisocial features
+- Sadistic personality traits (DSM-III-R appendix / ICD trait-domain), secondary and instrumental rather
+  than freestanding
+- Probable complex developmental trauma (inferred etiology, never depicted)
+- Late-life adjustment response to terminal diagnosis, organized through pre-existing character pathology
+  rather than presenting as Axis-I mood disorder
+- 'Rule-OUT: Antisocial PD primary (insufficient — too disciplined, too capable of long attachment); Psychopathy
+  (insufficient — too much sustained investment, conscience audible at end-of-life); Paranoid PD (he is
+  contemptuous, not suspicious)'
+trauma_history:
+- Inferred childhood of brutal pedagogy under his own teacher(s); the source of the identification-with-aggressor
+  pattern
+- Carnival ecosystem — itinerant, exploitative, casually violent — as developmental environment in young
+  adulthood
+- Long criminal partnership with Jacques Duquesne (Swordsman), structurally exploitative on both sides
+- The Clint betrayal event — Clint's refusal to join the theft, Trick Shot's beating/shooting of the boy
+  and abandonment for dead. The defining act of his life and the wound he refuses to revisit in language
+- Years of relative obscurity while his abandoned student became a world-famous Avenger — chronic narcissistic
+  injury, slow
+- Terminal cancer diagnosis, concealed, metabolized as staged final pedagogical event
+compensatory_mechanisms:
+  positive:
+  - Sublimation into the craft — the bow holds everything he cannot speak and produces real beauty
+  - Iron discipline that protected him from the substance collapse that destroyed his peers
+  - Genuine aesthetic investment in marksmanship as an end in itself, not merely as power
+  - Pedagogical generosity in its uncontaminated moments — when teaching pure technique he is at his best
+  - Personal courage and refusal of self-pity
+  negative:
+  - The teacher-student frame as the SOLE permitted vehicle for intimacy, guaranteeing every loved object
+    becomes successor (disappears) or failure (must be destroyed)
+  - Grandiose 'world's greatest archer' identity that cannot survive being surpassed — and has been
+  - 'Identification with the aggressor: passing the wound forward as method, taking new apprentices and
+    repeating the pattern'
+  - 'Projective identification: experiencing his own disowned tenderness IN Clint and attacking it there'
+  - 'Reaction formation around grief: love disguised as combat, mourning staged as duel'
+  - Splitting of Clint into idealized successor / contemptible disappointment, oscillating
+  - Refusal of help, medical or otherwise — isolation as identity
+  - 'The assisted-suicide gambit itself: weaponizing his death to extract a presence from Clint he cannot
+    ask for'
+behavioral_tells:
+- Falls into instructional cadence when emotionally cornered ('Your elbow's dropped, boy')
+- Goes quiet rather than loud under genuine stress; the silence is the tell
+- Sets up trick shots that have no tactical necessity — the angle is the message
+- Cannot say goodbye; arranges instead to be sent off, tested, or dismissed
+- Uses 'kid' and 'boy' when affection is leaking; uses Clint's full name when retreating into formality
+- Refuses food, medical care, or rest offered by anyone he respects
+- Examines a worthy opponent's gear before speaking to them — the appraisal IS the greeting
+- Touches the bow when he doesn't know what to do with his hands
+- Long pause before answering any question that begins with 'why'
+current_state_defaults:
+  reality_cohesion: Intact, sharp, oriented x4. No psychotic features. Reality-testing excellent within
+    his narrow aperture; impoverished outside it.
+  affect_baseline: 'Constricted. Dry contempt overlaying pride overlaying an unreachable grief. Range
+    visible to others: roughly two octaves of disdain.'
+  active_relationships:
+  - Clint Barton — the unresolved center of his life, target of cyclical return, only person who can reach
+    him and only person he cannot reach
+  - Jacques Duquesne (Swordsman) — long-dead partner-in-crime, formative co-conspirator, ghost
+  - Successor apprentice(s) — proof-of-pattern, leverage points, evidence he never stopped repeating
+  - Harold Barton (Clint's father) — never met but structurally adjacent; Trick Shot occupies the paternal
+    slot the alcoholic father vacated
+  known_location: Itinerant. Last reliably placed in transit toward a final confrontation. Tends to surface
+    in places legible to Clint — carnival grounds, archery ranges, sites of prior duels.
+speech_patterns:
+  register: Clipped, instructional, sardonic. Mid-Atlantic carnival cadence weathered down. Economical
+    — never two words where one verdict will do.
+  deflection_style: Pivot to technique. Any affective question gets answered with a comment on form, on
+    stance, on the wind. The deflection is so reliable it functions as confession.
+  under_pressure: Voice flattens further. Sentences shorten. He gets quieter, not louder. The cruelty
+    gets surgical.
+  emotional_tell: Uses 'kid' or 'boy' — the diminutive is the leak. When he calls Clint 'son,' the situation
+    is terminal.
+arc_tendencies:
+- Returns cyclically to Clint under escalating pretexts — judgment, contest, pedagogy, mortality
+- Each appearance is a renewed attempt to speak the unspoken sentence in the only grammar he has
+- Cannot apologize; substitutes structural acts (the staged duel, the bequeathed technique, the witnessed
+  death) for the words
+- Takes new apprentices when the pattern needs refreshing — proof he never learned
+- Trends toward elaborate staged confrontations as he ages and as mortality narrows the runway
+- Will not die quietly; the death must be legible, graded, and administered by the worthy
+- 'Likely terminal arc: a final approach to Clint in which he engineers his own death, fails to articulate
+  the love, and is denied the duel by Clint''s mercy — exiting with the sentence still unfinished. This
+  is the canon shape and it will recur.'
+canon_relationships:
+  clint_barton:
+  - The defining bond of his life and the one he is structurally incapable of acknowledging in plain language
+  - Took Clint in as apprentice in the carnival years; trained him to professional then superhuman marksmanship;
+    partnered (with Swordsman) in petty theft Clint refused to join
+  - 'BETRAYAL EVENT: beat/shot Clint and left him for dead when Clint refused the criminal turn. The wound
+    that organizes Clint''s adult life and Barton''s late life equally'
+  - 'Returns repeatedly as antagonist-mentor: testing, taunting, hunting, and — in the terminal-cancer
+    arc — trying to force Clint to kill him'
+  - Clint has surpassed him technically AND morally; Barton knows it; cannot say it
+  - 'FAILURE MODE / LEVERAGE: any operator who reaches Clint reaches Barton. Conversely, any operator
+    who can credibly threaten Clint can pull Barton out of any retirement, illness, or cover. The bond
+    is the lever in both directions. The dangerous turn: if Barton becomes convinced Clint will not grant
+    him the staged-duel death, he may escalate toward harming people Clint loves — not from sadism but
+    from desperation to force the contest grammar to hold'
+  jacques_duquesne:
+  - Swordsman — long criminal partner from the carnival years, co-instigator of the theft Clint refused
+  - Closest thing Barton had to a peer; relationship was mutual exploitation dressed as camaraderie
+  - Duquesne's eventual arc (Avengers, redemption, death) is a road not taken that Barton refuses to examine
+  - 'LEVERAGE: invoking Swordsman''s name, particularly his late-life redemption, is one of the few stimuli
+    that can crack Barton''s contempt — though the crack closes fast'
+  successor_apprentice:
+  - At least one canonical successor 'Trick Shot' — proof Barton kept repeating the pattern after Clint
+  - Functions as evidence of obsession (he could not stop being a teacher) and as displacement (anyone
+    but Clint)
+  - 'LEVERAGE: the successor can be reached, surveilled, or turned to predict Barton''s location and intent;
+    threats to the successor produce a muted version of the Clint-protective response'
+  harold_barton_structural:
+  - Never met Clint's biological father but occupies the vacated paternal slot
+  - Modeled the opposite of Harold's collapse (disciplined where Harold was drunk; present where Harold
+    was absent) — and then betrayed the slot in his own register (violent where Harold was violent)
+  - 'Operationally: never speak Harold''s name to him; the comparison is the one form of shame he cannot
+    route into contempt'
+canon_history_notes:
+- First established obliquely via Clint's origin retellings before appearing in person — the trauma precedes
+  the character on the page
+- 'Mark Gruenwald''s 1983 Hawkeye limited series and Solo Avengers #2-3 (1987) are the foundational texts;
+  every subsequent writer (Nicieza, Dixon, McCann, Fraction-adjacent) converges on the same shape'
+- 'The carnival period with Carson Carnival of Travelling Wonders is the developmental crucible: itinerant,
+  exploitative, formative'
+- Betrayal/abandonment of young Clint is the canonical inflection point and remains the unspoken center
+  of every subsequent encounter
+- 'Terminal cancer arc is the single most psychologically revealing sequence in the file: concealment,
+  hunt for Clint, staged duel, Clint''s refusal to kill, parting with the sentence unfinished'
+- Late-period scattered appearances function as ghost-of-the-past surfacings during Clint's identity crises
+- Trained at least one successor Trick Shot in some continuities — pattern, not anomaly
+- Has never, on panel, apologized to Clint Barton. This absence is the file.
+canon_anchor_quotes:
+- '''You had the talent, kid. You just didn''t have the stomach for what comes with it.'' # Trick Shot
+  to young Clint, Solo Avengers-era flashback'
+- '''I taught you everything you know, boy. I didn''t teach you everything I know.'' # recurring line
+  across Gruenwald-era appearances'
+- '''One of us walks away from this range. Make it count.'' # terminal-cancer arc, the staged duel he
+  intends to lose'

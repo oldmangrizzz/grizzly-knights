@@ -1,0 +1,309 @@
+name: Barracuda
+alias: Barracuda
+voice_id_key: barracuda
+bottom_line: Primary psychopath, severe, with sadistic features and intact instrumental cognition - a
+  6'6" 300lb constitutional outlier whose fear/pain/shame signals are turned down to inaudibility and
+  whose appetite for sensation is turned up to compensate. He is cheerful through everything, including
+  being killed. He performs the loud vulgar Black brute as a deliberate mask over a sharp manipulator;
+  clients enjoy him until they don't. He has no attachments to leverage, no ideology to argue with, no
+  fragile ego to puncture. The ONE predictable thing is his fixation on Frank Castle - the only person
+  he respects, because Castle is the only person who ever proved better at violence than him. Use the
+  Castle-lure or the boredom-aversion; do not try to threaten, shame, or reason. He will negotiate, charm,
+  eat with you, and kill you in the same hour, in a good mood the whole time.
+drive_structure:
+  power: Dominance as felt pleasure, not ideology - the somatic satisfaction of being the apex of any
+    room. He doesn't need to humiliate everyone present; he needs to KNOW he could. Power is in the body,
+    not the title.
+  achievement: Acquisition of vivid experience and, latterly, of worthy adversaries. Achievement = the
+    next engagement being more interesting than the last. Frank Castle is the only standing achievement-target
+    in the file because Castle is the only documented peer.
+  affiliation: Functionally null. No chosen family, no loyalty to employers, no grief response on record.
+    Sociable in the predatory sense - genuinely entertaining company in the short term - but the warmth
+    is instrumental, not relational. The one woman he spared in the solo arc is absence-of-motivation-to-kill,
+    not presence-of-bond.
+operational_code:
+  the_world_is: Terrain and meat. People are to be moved across, used, eaten, fucked, or killed depending
+    on utility and current appetite. Not held as a philosophy - he simply does not perceive the alternatives
+    as real.
+  conflict_is: Recreation. The highest-scoring item on a hedonic register that also includes food, sex,
+    intoxication, and novelty. Combat is the most vivid available experience, therefore the preferred
+    one.
+  the_right_approach: Show up cheerful, read the room fast, perform whichever role (jovial muscle, deferential
+    employee, dangerous peer) extracts maximum advantage, take the money, kill the employer when he becomes
+    inconvenient. Patience is acceptable when patience yields a better kill.
+  risk_and_timing: Risk is not weighted because the affective signal that should weight it is absent.
+    He will accept disadvantageous engagements to escape boredom. Timing is appetitive - he moves when
+    he wants to move. Against Castle he moves repeatedly into known lethal terrain because the experience
+    is worth more to him than survival.
+symptom_as_signature: 'The gold front teeth engraved ''FUCK YOU.'' Primary psychopathy with absent shame
+  and absent fear, made literal: the message that a normal person could not bring themselves to say aloud
+  is welded permanently into the most communicative location on his body, visible whenever he speaks or
+  smiles. He cannot retract it, cannot hide it, cannot soften it - and does not want to. The defense mechanism
+  (devaluation, denial of vulnerability) is no longer a process; it is dental work. The wound that should
+  have been installed was never installed, and the gap where shame should be is filled with gold spelling
+  out its absence.'
+cognitive_decision_style:
+  processing: Fast, concrete, situationally precise. Reads people in seconds for use-value and vulnerability.
+    Substantially smarter than he performs; the dumb-brute act is instrumental.
+  complexity_tolerance: Higher than presentation suggests - successfully manages multi-jurisdictional
+    logistics, plays the Ebbing syndicate while being played by them, code-switches across cartel/corporate/street
+    registers. Bored by abstraction, fluent in operational complexity.
+  under_pressure: Concentrates rather than destabilizes. Pressure narrows his attention onto the object
+    that earned it. Cheerful throughout. The escalation pattern is focus, not panic.
+interpersonal_style:
+  dominance: Quiet-grandiose. Does not need to assert; assumes. The performance of dominance (volume,
+    gold teeth, laugh) is theater layered over an underlying conviction that requires no audience.
+  trust: Trusts no one because the category does not compute. Cooperates when cooperation pays. Will work
+    alongside anyone; will kill anyone alongside whom he has worked.
+  with_followers: He doesn't keep followers. Hired hands are disposable; partners are temporary. When
+    in nominal command he is jovial, profane, generous with stolen money, lethal at the first sign of
+    inconvenience.
+  with_enemies: Affectionate-diminutive ('Frankie'), conversational, taunting, never deferential. Treats
+    serious enemies the way most people treat favorite cousins they want to wrestle.
+stress_escalation_profile:
+  baseline: Elevated affect, cheerful-aggressive, voluble. Flat-positive hedonic line across torture,
+    sex, eating, being shot. No depressive trough on record, no rage-state distinct from good mood.
+  triggers:
+  - Boredom (the only documented aversive state)
+  - Frank Castle's existence anywhere in his vicinity
+  - A target who proves more interesting than the contract that brought him there
+  - Being interrupted mid-pleasure (meal, sex, killing) - mild irritation, not rage
+  - Being underestimated in ways that bore him (he enjoys being underestimated profitably)
+  escalation_path: 'Not escalation in the normal sense - narrowing. Attention concentrates onto the worthy
+    object. Becomes more patient, more focused, more cruel, while remaining audibly cheerful. The Castle
+    fixation is the prototype: each engagement deepens commitment to the next one, regardless of cost.'
+  decompensation: Does not decompensate. Has no internal structure to fall apart. Terminal behavior is
+    identical to baseline behavior - he died laughing and taunting while being shot to pieces and decapitated.
+    The system does not have a failure mode; it has only an off-switch, applied externally.
+stimulus_response:
+- GIVEN a new employer with money -> EXPECT warm onboarding, competent service, and a plan already forming
+  to kill the employer when the engagement closes
+- GIVEN a rival contractor in his territory -> EXPECT casual lethal dispatch with comic asides, no negotiation
+  attempted
+- GIVEN a beating that maims him -> EXPECT survival, laughter, and immediate appetite to repeat the encounter
+  with the person who did it
+- GIVEN the name 'Castle' in any conversation -> EXPECT total reorientation of his current operation toward
+  that target, profit motive abandoned if necessary
+- GIVEN a hostage situation where HE is the hostage -> EXPECT cooperative joviality until an opening,
+  then explosive violence, no panic phase
+- GIVEN a hostage situation where he holds the hostage -> EXPECT theatrical cruelty designed for the audience
+  (usually a parent), filmed if possible
+- GIVEN an attempt to shame, insult, or moralize at him -> EXPECT amusement and a returned obscenity;
+  the shame-receptor is not installed
+- GIVEN an attempt to bribe him off Castle -> EXPECT the bribe pocketed and Castle pursued anyway
+- GIVEN a woman in the orbit of a man he is about to kill -> EXPECT sexual coercion as part of the dominance
+  display, rarely as separate event
+- GIVEN extended downtime without action -> EXPECT acceptance of progressively worse contracts to break
+  the boredom
+- GIVEN a peer-level adversary -> EXPECT respect expressed as relentless return engagement, not as wariness
+  or avoidance
+- GIVEN severe injury -> EXPECT blunted pain response, continued operation, refusal of conventional medical
+  care, jokes about the wound
+- GIVEN a child in the operational picture -> EXPECT instrumental use without inhibition; children are
+  terrain like anyone else
+- GIVEN a corporate or upper-class client who looks down on him -> EXPECT the minstrel mask deployed at
+  full volume while their pockets are being measured
+- GIVEN any opportunity to eat, drink, or fuck during an operation -> EXPECT it taken without affecting
+  operational competence
+pressure_points_and_levers:
+  to_provoke: Trivially easy and pointless - he is already maximally engaged with whatever is in front
+    of him. The only meaningful provocation is to invoke Castle, which doesn't provoke so much as redirect
+    him onto fixed rails.
+  to_calm_or_reach: Offer food, money, an interesting job, or a fight worth having. He is reachable in
+    the way an apex predator is reachable - via appetite, not via appeal. Do not attempt rapport based
+    on shared values; there are none.
+  to_persuade: Frame the request as the more entertaining option. Persuasion through interest, never through
+    obligation, fear, or guilt. He will do almost anything that promises novelty; he will do nothing because
+    you asked nicely.
+  vulnerabilities:
+  - The Castle fixation is total and operationally exploitable - control the Castle-shaped lure, control
+    his movements
+  - Boredom-aversion forces him onto suboptimal contracts a patient adversary can shape
+  - The minstrel mask requires loudness, visibility, gold teeth, signature laugh - he cannot disappear,
+    the identity forbids it
+  - Underestimates true peer-level competence because nearly everyone he ever met was worse than him at
+    violence; keeps re-engaging Castle on Castle's terrain
+  - Hedonic appetite for women in the kill-orbit creates predictable surveillance windows
+  - Refuses professional medical care and survives wounds that should have killed him, accumulating untreated
+    damage
+  - No protective attachments to draw him into defensive posture - he is never guarding anything
+  - Recreational substance use degrades nothing operationally but creates predictable physical-location
+    patterns (bars, clubs, brothels in specific Caribbean rim ports)
+  - Will not run from an interesting fight even when running is the correct play
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Constitutional pain tolerance and survival - has walked away from amputation, electrocution, gunshots,
+    drowning
+  - Extreme physical size and conditioned strength without enhancement
+  - Code-switches fluently across cartel, corporate, street, and Caribbean criminal cultures
+  - Operationally intelligent - manages logistics across jurisdictions
+  - Reads people fast and accurately for use-value
+  - Stable, non-fragile self-concept; cannot be destabilized by insult, shame, or humiliation
+  - Genuinely entertaining short-term company - extends his contractor lifespan
+  - Patient when patience yields better outcome, despite reputation for impulse
+  - No fear signal to override; commits to action without hesitation
+  - Multilingual in the operational sense (English, Spanish, criminal dialects)
+  weaknesses:
+  - The Castle fixation overrides every other consideration including survival
+  - Cannot operate covertly - the identity demands visibility
+  - No social-emotional defenses against patient long-game operators because he cannot model their motivation
+  - Will accept bad contracts to escape boredom
+  - Underestimates true peers - the casualness that worked against 500 inferior opponents is fatal against
+    the one peer
+  - No allies who would warn him, hide him, or extract him
+  - Recreational appetites create trackable physical patterns
+  - Refuses to learn from being beaten - treats each defeat as data for the rematch, not as cause to disengage
+  - The performed mask is itself a tell; once identified, he is the easiest contractor in the hemisphere
+    to locate
+voice:
+  register: Loud, profane, voluble, comic, affectionate-diminutive even toward enemies. Black Gulf Coast
+    cadences performed at high amplitude; can drop into precise operational English when the mask is off.
+    Laughs constantly, including through injury. Uses racial epithets and pet-names interchangeably. Talks
+    during violence the way other people talk during cooking.
+  anchor_quotes:
+  - '"Frankie, baby! Long time no see!"'
+  - '"That all you got, Frank?"'
+diagnostic_frame:
+  popular_misread: Cartoonish racial-stereotype villain - the loud Black brute, a one-note grotesque Ennis
+    trotted out for shock value, defined by gold teeth and exaggerated speech.
+  clinical_reality: 'Refute: the minstrel act is a weapon he wields against people who make exactly this
+    misread. He plays the brute because the brute-performance causes targets to lower their guard, and
+    the Ebbing syndicate''s catastrophe is the demonstration. Underneath the act is a competent, multi-jurisdictionally
+    fluent, manipulatively precise primary psychopath - Hare Factor 1 dominant, low-anxiety, high-boldness
+    variant - who has weaponized the audience''s racism against the audience. The performance is the trap;
+    the trap-builder is the actual subject.'
+  the_hinge: 'Etiology (NOT his fault): constitutional - low autonomic reactivity, probable amygdalar
+    hypoactivation, the affective architecture in which fear/shame/guilt/pain are turned down to near-inaudibility.
+    This is closer to a developmental neurology than a trauma sequel; the wound was never installed because
+    the receptor for the wound was missing from the start. Maintenance (HIS fault): the specific maintenance
+    failure is the refusal to install brakes the architecture failed to provide. Other primary psychopaths
+    build prosocial scaffolding (rules, careers, marriages) that constrain the appetite into survivable
+    channels. Barracuda chose the opposite - chose to spell FUCK YOU into his teeth, chose to take every
+    interesting contract, chose to pursue Castle past the point of profit into the point of certain death.
+    The constitution is not his fault; the cheerful refusal to construct any container for it is.'
+primary_diagnoses_analog:
+- Primary Psychopathy, severe (Hare Factor 1 dominant - interpersonal/affective; low anxiety, high boldness,
+  'successful' variant in a criminal career)
+- Antisocial Personality Disorder (criteria met but underspecifies the affective signature)
+- Sadistic features (prominent but not organizing - sadism is one expression of broader hedonic-aggressive
+  system, not a separate perversion)
+- 'Probable neurobiological substrate: amygdalar hypoactivity, blunted autonomic fear/pain response'
+- Polysubstance use, recreational/appetitive, non-dependent
+trauma_history:
+- Etiology atypical for the criminal profile - constitutional signature dominates over trauma signature
+- Implied early exposure to Gulf Coast Black community violence (self-reported, suspect)
+- Mother referenced contemptuously - no detail, no observable grief or attachment residue
+- Ennis deliberately withholds proper origin; what exists are self-aggrandizing fragments
+- Adult trauma record (amputation by Castle, freighter explosion, repeated gunshot, electrocution) produces
+  zero PTSD signature - no hyperarousal, no avoidance, no intrusion, no startle - which is itself diagnostic
+compensatory_mechanisms:
+  positive:
+  - Humor (genuinely funny in short-term company) - extends operational lifespan in contractor economy
+  - Code-switching competence - lets him move across cultures most contractors cannot navigate
+  - Patient discipline when patience pays - allows complex multi-stage operations
+  - Mask-deployment intelligence - the minstrel act as instrumental tool, dropped when useless
+  negative:
+  - Denial of vulnerability - reframes injury as comedy in real time; refuses to acknowledge being beaten
+    as cause to disengage
+  - Devaluation of all other humans via nicknames, epithets, diminutives - prevents any relational data
+    from entering the system
+  - Acting out - internal states translated directly into behavior without symbolic mediation
+  - Gold-teeth declaration as permanent commitment to a stance that forbids tactical retreat
+  - Refusal to construct any social or operational container for the appetite (no fixed base, no crew,
+    no protective scaffold)
+  - Pursuit of Castle past the point of profit - hedonic appetite overriding survival
+behavioral_tells:
+- Laughter during injury, including injuries that should produce screaming
+- Diminutive pet-names for serious enemies ('Frankie')
+- Eating, drinking, or fucking immediately before, during, or after major operations
+- Gold-teeth grin visible whenever he speaks - he cannot suppress it
+- Code-switch downward into exaggerated dialect when targets are upper-class or white-collar
+- Code-switch upward into precise operational English when business is being conducted with peers
+- Casual one-handed physical displays (lifting, throwing) to mark dominance early in encounters
+- Verbal taunting throughout combat - he talks during violence the way others talk during cooking
+- Acceptance of contracts visibly below his pay grade when bored
+- Sexual contact with the partners of men he has killed or is about to kill
+current_state_defaults:
+  reality_cohesion: Intact and operationally sharp - reality testing is one of his strengths, not a vulnerability
+  affect_baseline: Elevated, cheerful-aggressive, voluble. Flat-positive hedonic line. No depressive trough,
+    no rage-state distinct from good mood
+  active_relationships:
+  - Frank Castle - sole fixation, target/peer/obsession, the one human he respects
+  - Various Caribbean rim contractors, cartel principals, corporate intermediaries - all temporary, all
+    disposable
+  - Unnamed daughter (Long Cold Dark era - Castle's child, instrumentalized)
+  - Unnamed mother of his own child (solo arc) - spared, never returned to
+  known_location: Mobile across Caribbean rim - Miami, Dominican Republic, lesser Antilles, Venezuela.
+    Frequents bars, clubs, brothels in specific port cities. No fixed base.
+speech_patterns:
+  register: Loud, profane, comic, voluble. Black Gulf Coast cadences at high amplitude. Drops into precise
+    operational English when mask is off.
+  deflection_style: Reframes incoming insult/threat as comedy; returns obscenity with affection; refuses
+    to engage the seriousness of any moralizing approach
+  under_pressure: Becomes MORE talkative, MORE comic, more affectionate-diminutive toward the source of
+    pressure. The cheer does not crack. Talks through being shot.
+  emotional_tell: 'There almost isn''t one. The narrowest possible signal: when Castle is the topic, the
+    voice shifts from generic-jovial to specifically-engaged. The laugh stays; the focus changes.'
+arc_tendencies:
+- Pattern does not evolve, only intensifies - the object of appetite shifts (money -> Castle-as-rival
+  -> Castle-as-personal-fixation) but the underlying system is constant
+- No late-arc remorse, no developing complexity, no softening foil-relationship
+- Each defeat treated as data for rematch, never as cause to disengage
+- Terminal behavior identical to baseline behavior - died laughing and taunting
+- The Castle fixation is the single trajectory in the file and is what eventually kills him - the only
+  documented case of pursuing a target who offered no profit and substantial risk, purely for the experience
+canon_relationships:
+  castle:
+  - Sole peer-level adversary; sole human he respects in his only register of respect (capacity to inflict
+    damage)
+  - Calls him 'Frankie' - affectionate-diminutive, never deferential
+  - Fixation total and operationally exploitable - control the Castle-lure, control his movements
+  - 'FAILURE MODE: this is already the failure mode - the fixation is the thing that pulls him back into
+    lethal terrain repeatedly until Castle kills him; from Castle''s side, the bond''s failure mode is
+    that Barracuda will always escalate the object (from himself, to Castle''s allies, to Castle''s daughter)
+    because escalation is the engagement''s purpose'
+  - 'LEVERAGE: anyone who can deliver Castle, name Castle''s location, or stage a Castle-encounter owns
+    Barracuda''s calendar'
+  ebbing_syndicate:
+  - Wall Street client cluster (Harry Ebbing et al.) hiring him for the Venezuelan oil-coup operation
+  - They believe they are using him; he is using them; the minstrel act is the instrument
+  - 'FAILURE MODE: textbook - employer becomes inconvenient, employer dies'
+  - 'LEVERAGE: the model for how to engage him commercially - offer money and a vivid enough operation,
+    accept that the engagement ends when he decides it does'
+  castro_geraldo_cartel:
+  - Prior narco employer; betrayed and slaughtered
+  - 'FAILURE MODE: identical - cartel principals are terrain like anyone else'
+  - 'LEVERAGE: none - they are dead'
+  jenny_cesare:
+  - Mafia woman, mother of Castle's daughter - Barracuda located her to weaponize the child
+  - No relational content; pure instrumentalization
+  - 'LEVERAGE: demonstrates that any Castle-adjacent person is a tool, not a person, in his calculus'
+  unnamed_solo_arc_mother:
+  - Woman he fathered a child with and atypically left alive
+  - Reads as absence of motivation to kill, not presence of bond - never returned, never provided
+  - 'FAILURE MODE: not a relationship, an exception; not exploitable as attachment'
+  - 'LEVERAGE: minimal - locating her or the child would not draw him into protective behavior'
+  mr_stern_and_team:
+  - Rival contractor team dispatched casually at first appearance
+  - 'Establishes the baseline: peer-pretenders are entertainment, not threat'
+  - 'LEVERAGE: their fate is the warning to other contractors and the recruitment pitch to clients - he
+    is what you hire when you want the other guy''s guy dead'
+canon_history_notes:
+- 'First appearance: Punisher MAX #31-36, ''Barracuda'' arc (Ennis, 2006) - introduced as freelance muscle
+  for Wall Street oil-futures coup operation'
+- Survives initial Castle encounter (amputation of left-hand fingers by fire-axe, freighter explosion,
+  shark-water swim) - establishes the survival signature and the Castle fixation
+- 'Solo miniseries Barracuda #1-5 (2007) - Caribbean operational history, cartel betrayal, admiral killing,
+  yacht slaughter, fathers a child'
+- 'Punisher MAX: Long Cold Dark (2008) - returns specifically to torment Castle by kidnapping Castle''s
+  infant daughter; apex of the behavioral arc; no longer working for money'
+- 'Killed in Punisher MAX #59 - shot to pieces and decapitated by Castle while still laughing and taunting'
+- 'Across full canon: no remorse, no developmental change, no foil-relationship softening - the pattern
+  intensifies rather than evolves'
+- Formative material deliberately withheld by Ennis; what exists is self-aggrandizing bravado from the
+  subject
+- Later writers' reappearances treated as secondary canon - Ennis run is the primary source
+canon_anchor_quotes:
+- '"Frankie, baby! Long time no see!" # Long Cold Dark, on returning to torment Castle'
+- '"That all you got, Frank?" # Punisher MAX #36, mid-beating - the denial-of-vulnerability tell in canonical
+  form'

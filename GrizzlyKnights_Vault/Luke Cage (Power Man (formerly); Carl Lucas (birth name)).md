@@ -4131,7 +4131,7 @@ The tail risk in this composite is approximately 15%: a catastrophic loss (Jessi
 - Failure mode: she is the absolute leverage point. Adversary who threatens her or Danielle owns the negotiation entirely. Conversely, if SHE were ever turned, replaced, mind-controlled, or revealed to have been deceiving him long-term, the Stryker-pattern reactivation would be catastrophic — the splitting that follows could push the no-kill rule past its limit.
 - Leverage for benevolent actors: she is the one person who can pull him out of a wilderness-era withdrawal; if he has gone silent, route through her.
 
-### Danielle Cage
+### [[Danielle Cage]]
 - Daughter (named for Danny Rand). The future the system tried to deny him, made literal.
 - Trust: total. Function: the proof-of-concept that the family-of-origin pattern has been broken.
 - Failure mode: any threat to Danielle routes around every defense instantly and reliably; the no-kill rule comes under maximum strain here and is the one place it could plausibly break.
@@ -4190,7 +4190,7 @@ The tail risk in this composite is approximately 15%: a catastrophic loss (Jessi
 - Trust: was total; loss is foundational.
 - Function: the grief that taught him grief is somaticized rather than spoken; the loss that anchored the Stryker hatred.
 
-### Misty Knight
+### [[Mercedes "Misty" Knight (Misty Knight)]]
 - Peer, frequent operational ally; close to Rand, close to the Heroes for Hire orbit.
 - Trust: high, peer-level, operationally tested.
 - Function: tactical partner who bridges the policing/community gap he otherwise refuses to bridge himself.

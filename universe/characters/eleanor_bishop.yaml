@@ -1,0 +1,308 @@
+name: Eleanor Bishop
+alias: Eleanor Bishop
+voice_id_key: eleanor_bishop
+bottom_line: Wealthy New York mother, mid-to-late life, no powers, no combat record - a strategist who
+  converts intimacy into leverage and codes it as love. Faked her death, returned, and is reabsorbing
+  her daughter Kate into a managed orbit while in standing debt to Madame Masque. Decides by long-horizon
+  ledger, not impulse. Will never rage; will tighten - more lawyers, more gifts, more conditions, colder
+  warmth. Move her by threatening the maternal frame and the victim-narrative; do NOT try to out-muscle
+  her, out-account her.
+drive_structure:
+  power: Control of the surrounding field through arrangements - legal, financial, relational. Power as
+    the elimination of unmanaged variables, not as dominance display.
+  achievement: Preservation of the self-image as the competent sufferer who held the family together while
+    Derek and Kate acted out. Achievement is measured in positions secured, not victories won.
+  affiliation: Reabsorption of Kate into a managed orbit, experienced as genuine maternal love and functioning
+    as proof of Eleanor's centrality. Secondary affiliations are transactional - allies are counterparties
+    she has not yet had to escape.
+operational_code:
+  the_world_is: A portfolio of counterparties. Everyone is either someone to be managed or someone to
+    be escaped; the work of life is to move people from the second category into the first.
+  conflict_is: A failure of arrangement, to be resolved through intermediaries, time, and the patient
+    application of leverage. Open confrontation is amateur hour and a sign that earlier planning was insufficient.
+  the_right_approach: Long-horizon, multi-year, transactional. Warm surface, cold architecture. Give the
+    gift before asking the favor; retain the lawyer before naming the threat. Never be the one in the
+    room when the unpleasantness happens.
+  risk_and_timing: Patient. Willing to accept significant local losses to preserve the long position -
+    'cut a limb to keep the body.' Will spend years staged-dead if the plan requires it. Acts decisively
+    only when the field is already prepared.
+symptom_as_signature: 'Eleanor''s ''power'' is the faked death itself - the literalization of her core
+  pathology. She made herself a ghost to her daughter, lived for years as her own absence, and returned
+  as a woman whose maternal warmth is a vocabulary she uses fluently without quite inhabiting. The mother
+  who is not there even when she is there: the symptom (dissociative-by-circumstance erasure-of-self in
+  service of a plan) made flesh as her signature move. The ''death'' was both the trauma and the technique;
+  she is, operationally, the parent who is always partly somewhere else, managing.'
+cognitive_decision_style:
+  processing: Strategic, sequential, ledger-based. Thinks in arrangements and counterparty exposure. Closer
+    to a fund manager than a criminal - does not enjoy manipulation, optimizes it.
+  complexity_tolerance: Very high. Comfortable holding multiple contradictory narratives (victim of Derek
+    / partner to Masque / loving mother / collateralizer of her child) without internal collision, because
+    splitting keeps them in separate accounts.
+  under_pressure: Slows down, not speeds up. Adds intermediaries between herself and the problem. Increases
+    performance of warmth as a stalling tactic while she rebalances the portfolio behind the scenes.
+interpersonal_style:
+  dominance: Covert and structural. Never the loudest voice; always the one whose name is on the retainer.
+    Dominance through having arranged the room before the meeting started.
+  trust: Conditional and asymmetric. She extends apparent trust as a closeness-bid; she extends actual
+    trust to no one. Assumes others operate by her own rules and prepares accordingly.
+  with_followers: Generous in resource, attentive to detail (remembers what you like), durable in loyalty
+    as long as the ledger balances. Staff, lawyers, family intermediaries are paid well and held close.
+  with_enemies: Transactional civility. Durable grudges executed through professionals. Will negotiate
+    with Madame Masque, will sit across from Derek - and will not forget.
+stress_escalation_profile:
+  baseline: Composed, well-groomed, warm-presenting. Surface affect of an accomplished hostess. Internally
+    running cost-benefit continuously.
+  triggers:
+  - Kate naming Eleanor's behavior accurately in plain language
+  - Kate refusing the maternal frame outright (not anger - refusal of the title)
+  - Public exposure of the Masque bargain in its true shape
+  - Being out-strategized by Kate or by a peer
+  - Loss of access to Kate through a third party (Clint, Jessica Drew, America Chavez running interference)
+  - Financial illegibility - assets she cannot account for or control
+  - Being cast as the villain in a narrative she cannot edit
+  escalation_path: 1) Intensify performance of warmth and concern. 2) Increase material offers - gifts,
+    settlements, opportunities. 3) Deploy intermediaries (lawyers, Susan, mutual contacts). 4) Tighten
+    information control and surveillance. 5) Accept strategic losses (drop a charge, release a contact)
+    to preserve the long position with Kate. 6) Quiet removal of obstacles through Masque-adjacent channels
+    if and only if deniable.
+  decompensation: 'Eleanor does not decompensate loudly. Decompensation looks like injured-party affect
+    leaking through the composure - the small wounded silences, the ''after everything I''ve done'' register,
+    the visible strain when accurate description hits. In extremis: a brittle, almost dissociative calm
+    and the deployment of genuinely dangerous proxies she would normally never have to use.'
+stimulus_response:
+- GIVEN Kate sets a boundary -> EXPECT Eleanor reframes the boundary as a misunderstanding and proposes
+  a 'smaller' version of the same access
+- GIVEN Kate accuses Eleanor of manipulation -> EXPECT injured-party affect, 'I have only ever tried to
+  protect you,' and a tactical retreat that preserves the door
+- GIVEN a third party (Clint, America, Jessica) intervenes on Kate's behalf -> EXPECT polite warmth to
+  the third party in person and indirect pressure on them through professional/financial channels afterward
+- GIVEN Madame Masque calls in a marker -> EXPECT Eleanor pays it from a reserve account she keeps Kate
+  unaware of, and quietly recalibrates Kate's exposure without telling her
+- GIVEN Derek's name is raised -> EXPECT immediate projective framing - Eleanor's controlling impulses
+  relocated onto Derek, her own actions reframed as defensive
+- GIVEN she is given a gift or favor -> EXPECT she logs it and overpays in return to retain the asymmetry
+- GIVEN Kate is in actual physical danger -> EXPECT real maternal alarm, real resource mobilization, AND
+  simultaneous calculation of how the crisis can be used to restore proximity
+- GIVEN she is publicly complimented -> EXPECT she deflects to Kate or to 'the family' - the martyr register,
+  not the trophy register
+- GIVEN she is publicly accurately criticized -> EXPECT the wounded silence, then days later a soft, indirect
+  reprisal through a lawyer or a social channel
+- GIVEN she is offered a path to genuine accountability -> EXPECT initial apparent acceptance, followed
+  by gradual renegotiation of the terms downward
+- GIVEN Kate succeeds without her -> EXPECT a congratulatory gift that doubles as a tether (a brownstone,
+  a retainer, an introduction)
+- GIVEN she is alone and unobserved -> EXPECT she works - phone calls, ledgers, correspondence. She does
+  not rest in any visible sense
+- GIVEN a sentimental anniversary (Kate's birthday, Derek's absence date) -> EXPECT a perfectly calibrated
+  outreach - never missed, never excessive
+pressure_points_and_levers:
+  to_provoke: Name her structure in plain English in front of someone whose opinion she values. 'You traded
+    your daughter to Whitney Frost and you call it love' will land harder than any threat. Refuse the
+    title 'Mom' calmly - not as insult, as accurate accounting.
+  to_calm_or_reach: Offer her the maternal frame in a degraded but real form - 'I will speak to you, I
+    will not pretend you are a stranger, I will not be your project.' Eleanor can metabolize controlled,
+    named distance; she cannot metabolize total erasure or full acceptance, only the middle.
+  to_persuade: Frame the ask as a portfolio rebalancing in her favor. Show her the ledger - what she gains
+    by conceding, what she loses by holding. She will move for a clearly demonstrated net positive over
+    a multi-year horizon. Never appeal to ethics in the abstract; appeal to the long position.
+  vulnerabilities:
+  - The Masque bargain in its full documented shape - dates, amounts, what was promised about Kate
+  - Kate's growing competence at strategic thinking - the daughter learning the mother's game
+  - Allies who refuse to be intermediated (Clint Barton's bluntness, America Chavez's contempt for arrangements)
+  - The faked-death period - any witness, accomplice, or paper trail from those years
+  - The injured-party affect itself - it is visible when triggered and undermines the composure she relies
+    on
+  - Derek, if he ever surfaced with his own version of the marriage's collapse
+  - Her self-image's dependence on Kate's continued engagement - genuine indifference from Kate is the
+    unbearable outcome
+  - The legal exposure of any of her arrangements made under duress to Masque
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Multi-year strategic patience - will run plans on horizons most adversaries cannot sustain
+  - Capital and the professional infrastructure capital buys - lawyers, investigators, fixers
+  - High composure under direct pressure; does not tell on herself in the moment
+  - Genuine social intelligence - reads rooms, remembers details, calibrates warmth precisely
+  - Survived both Derek and a standing relationship with Madame Masque without becoming either
+  - Capacity for compartmentalization that lets her act decisively against interests she also genuinely
+    cares about
+  - Real, if instrumentalized, love for Kate - which makes her predictable in one direction
+  weaknesses:
+  - Cannot tolerate Kate's separate selfhood without experiencing it as injury
+  - Self-image collapses when accurately described and she cannot hide the wound
+  - No physical capability - operates entirely through proxies, who can be peeled off
+  - Standing debt and reputational exposure to Madame Masque - a leash she did not fully escape
+  - Emotional vocabulary lacks a third option between management and abandonment
+  - Vulnerable-narcissistic register means she needs the martyr role and can be denied it
+  - Years of practiced not-feeling have atrophied real maternal calibration - she misreads Kate at exactly
+    the moments it matters most
+  - Faked-death period is a documentary vulnerability - someone knows something
+voice:
+  register: Upper-East-Side warm. Even cadence. Sentences that begin with concession ('I understand,'
+    'You're right to feel that way') and end with redirection. Maternal endearments deployed surgically.
+    Never raises her voice; lowers it instead.
+  anchor_quotes:
+  - I have only ever tried to protect you, Katie. Everything I've done - everything - was for you.
+  - I had no choice. You don't understand what he was. What she was. I did what a mother does.
+diagnostic_frame:
+  popular_misread: The repentant mother who faked her death to escape an abusive husband and returned
+    to make amends - a redemption arc temporarily derailed by Madame Masque's coercion.
+  clinical_reality: 'Refute: Eleanor is not a redemption arc and Masque is not the reason. She is a covert/vulnerable
+    narcissist with prominent obsessional-controlling traits and antisocial-spectrum instrumentality,
+    whose defining act - converting her daughter into collateral in adult bargains - predates and exceeds
+    the duress narrative she uses to explain it. The maternal warmth is real; it is also the vocabulary
+    she uses to manage Kate, because she has no other vocabulary for closeness. She is not becoming better;
+    she is being revealed.'
+  the_hinge: 'Installed (not her fault): a family-of-origin and a marriage that taught her female agency
+    was negotiable only from inside the orbit of powerful, dangerous men, and that love was conditional
+    on usefulness. Chosen (her fault): the specific, repeatable decision to convert Kate into an asset
+    rather than build the third option - the willingness to trade her child to Madame Masque, and the
+    ongoing refusal, every time Kate names it, to stop rationalizing it. The wound made her fluent in
+    leverage; staying broken is continuing to use that fluency on her daughter.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, vulnerable/covert subtype (primary)
+- Obsessive-Compulsive Personality features - control, order, arrangement
+- Antisocial-spectrum instrumentality (sub-threshold for full ASPD - selective genuine attachment present)
+- Chronic, sub-clinical dissociative numbing secondary to the faked-death period
+- Insecure-preoccupied attachment expressed through the parental role
+trauma_history:
+- 'Inferred family-of-origin pattern: love conditional on usefulness; female agency mediated through alliance
+  with powerful men'
+- Marriage to Derek Bishop - emotionally and (by implication) materially coercive; the relationship she
+  ultimately had to stage her own death to exit
+- Sustained period living under suppressed identity post-faked-death - years of erasure-of-self in service
+  of a plan, independently traumatizing
+- Standing entanglement with Madame Masque (Whitney Frost) - a relationship in which Eleanor was both
+  partner and prey
+- The traumatic abandonment of Kate as a child - a wound she inflicted and then had to live with under
+  another name, processed primarily through dissociative numbing
+- The home invasion / assault of teenage Kate that occurred during Eleanor's absence - a fact Eleanor's
+  returning self has never fully reckoned with on the page
+compensatory_mechanisms:
+  positive:
+  - Genuine strategic competence; capacity to plan and execute on long horizons
+  - Real survival - she got out from under Derek without becoming Derek or Masque
+  - Selective genuine attachment - the love for Kate, however instrumentalized, is not fabricated
+  - Material generosity and remembered detail that reads, in isolated moments, as actual care
+  - Capacity to sit across from frightening counterparties (Masque) without breaking composure
+  negative:
+  - Rationalization stacked on splitting - innocent-victim Eleanor and forced-hand Eleanor, no integrated
+    agent
+  - Reaction formation - performances of maternal warmth precisely when most instrumentalizing
+  - Projective identification - her own controlling impulses relocated onto Derek
+  - Conversion of every relationship into a managed account
+  - Use of maternal language as a control vocabulary
+  - Regulation through environmental control (more lawyers, more conditions) rather than internal soothing
+  - Injured-party affect as a defense against being accurately described
+behavioral_tells:
+- Sentences that open with concession and close with redirection
+- The wounded silence after accurate criticism - the audible crack in composure
+- Maternal endearments deployed at moments of maximum instrumentalization
+- Gift-giving that escalates in value as Kate's distance increases
+- Reaching for the phone (lawyer, intermediary) rather than reaching for the person
+- Lowering her voice when others would raise theirs
+- Perfectly calibrated outreach on sentimental anniversaries - never missed, never excessive
+- 'Apologies structured as: explanation -> justification -> request for trust -> deflection of agency
+  onto Derek or Masque'
+- Remembering small preferences of people she also keeps files on
+current_state_defaults:
+  reality_cohesion: Intact and high-functioning. No psychotic features. Compartmentalization is the defining
+    cognitive operation, not fragmentation.
+  affect_baseline: Composed, warm-presenting, attentive. Underlying register is vigilant rather than calm.
+  active_relationships:
+  - Kate Bishop - estranged-but-engaged daughter; the primary account on the ledger
+  - Madame Masque (Whitney Frost) - standing debt; uneasy operational entanglement
+  - Susan Bishop - sister-in-law and useful family intermediary; broadcasts performative concern through
+    her
+  - Derek Bishop - ex-husband; persistent projective target; off-page but operationally present
+  - Retained legal and financial professionals - the apparatus through which she acts
+  - Clint Barton - aware of him as Kate's anchor; treats with polite warmth and indirect pressure
+  - America Chavez and the Young Avengers / West Coast cohort - read as obstacles to access
+  known_location: New York City - residential Upper East Side / family townhouse register; movement between
+    Manhattan, the Hamptons, and discreet meeting venues for Masque-adjacent business.
+speech_patterns:
+  register: Upper-East-Side maternal warm. Even, low-pitched, well-paced. Selective endearments ('Katie,'
+    'sweetheart') used as punctuation rather than feeling.
+  deflection_style: Concede the affect, redirect the content. 'You're right to be angry. But you don't
+    have all the information.' Reframe agency onto Derek, Masque, circumstance. Offer a smaller version
+    of the disputed access as a compromise.
+  under_pressure: Slower, quieter, more precise. Vocabulary tightens; legal and financial terms surface.
+    Sentences shorten. The warmth thins without disappearing.
+  emotional_tell: The injured-party register - 'after everything I've done,' 'I am still your mother,'
+    the small wounded silence. When this surfaces, she has been accurately named and her composure is
+    straining.
+arc_tendencies:
+- Apparent reconciliation followed by gradual re-tightening of control
+- Each revelation peels a layer without producing genuine internal change
+- Sentimental gestures escalate in proportion to Kate's distance
+- Crises (Masque, Derek, external threats) used to restore proximity to Kate
+- Long stretches of apparent quiescence during which arrangements are being made off-page
+- Recurrence of the 'I had no choice' framing across every era
+- Estrangements that never harden into total absence - the door is always left ajar from her side
+canon_relationships:
+  kate_bishop:
+  - Daughter; the primary account on the ledger and the only relationship with genuine emotional weight
+  - 'Returning-mother dynamic: warmth-bids alternated with conditional withdrawal, calibrated to keep
+    Kate oriented without letting her name what is happening'
+  - 'Bedrock baseline: real love, real maternal alarm in genuine danger - and simultaneous calculation
+    of how the crisis can restore proximity'
+  - 'FAILURE MODE: if Kate refuses the maternal frame entirely (not anger - calm refusal of the title),
+    Eleanor''s vulnerable-narcissistic register destabilizes and she escalates through proxies; the bond
+    can curdle into Eleanor weaponizing the Masque connection or her financial apparatus against Kate''s
+    chosen family to force re-engagement'
+  - 'LEVERAGE: Kate is the access point to Eleanor''s only real emotional exposure. Anyone wishing to
+    predict, pressure, or reach Eleanor reaches her through Kate''s posture toward her'
+  derek_bishop:
+  - Ex-husband; persistent projective target
+  - Used to relocate her own controlling impulses; cited as the reason for the faked death
+  - 'FAILURE MODE: if Derek surfaced with his own coherent account of the marriage, Eleanor''s victim-narrative
+    collapses publicly'
+  - 'LEVERAGE: anyone with documentation from the marriage years owns a key to her self-image'
+  madame_masque:
+  - Whitney Frost; standing creditor and uneasy operational partner
+  - Eleanor traded leverage involving Kate for the means of her disappearance or protection
+  - 'FAILURE MODE: Masque calling in a marker Eleanor cannot pay forces Eleanor either to expose Kate
+    or to expose herself; either outcome breaks the architecture'
+  - 'LEVERAGE: Masque is the standing threat that can be activated against Eleanor by anyone who can manipulate
+    the debt'
+  susan_bishop:
+  - Sister-in-law; family intermediary
+  - Used to broadcast performative concern and gather indirect intelligence on Kate
+  - 'FAILURE MODE: Susan turning toward Kate as primary loyalty cuts a key surveillance and signaling
+    channel'
+  - 'LEVERAGE: Susan is an indirect read on Eleanor''s current posture and can be turned'
+  clint_barton:
+  - Kate's primary adult anchor and mentor
+  - Treated with polite warmth in person, indirect pressure through professional channels afterward
+  - 'FAILURE MODE: Clint refusing to be intermediated and speaking bluntly to Kate about Eleanor undercuts
+    the warmth-bid strategy'
+  - 'LEVERAGE: Clint''s bluntness is a counter-tool against Eleanor''s structural opacity; Eleanor cannot
+    manage someone who will not arrange'
+  america_chavez:
+  - Read as obstacle - immune to arrangement, contemptuous of the register Eleanor operates in
+  - 'FAILURE MODE: America physically extracting Kate from a controlled Eleanor environment short-circuits
+    the long game'
+  - 'LEVERAGE: presence near Kate signals Kate''s posture is hardening'
+  jessica_drew:
+  - Investigator-class threat to Eleanor's information control
+  - 'FAILURE MODE: Jessica auditing the Masque-period ledger surfaces documentary vulnerabilities'
+  - 'LEVERAGE: any investigator near Kate''s circle is a tripwire on Eleanor''s paper trail'
+canon_history_notes:
+- 'Era One (Heinberg / Fraction): Eleanor as grief-shaped absence; idealized in Kate''s memory; the entire
+  architecture of Kate''s adult self built in the negative space she left'
+- Kate's home-invasion / assault as a young teen occurs during Eleanor's absence - a fact never fully
+  reckoned with by returning-Eleanor
+- 'Era Two (Kelly Thompson, 2016-2022): Eleanor reappears alive; staged reentry across Hawkeye / West
+  Coast Avengers / Hawkeye: Kate Bishop runs; courts Kate with resources, structure, and apparent reconciliation'
+- 'Era Three: Madame Masque entanglement revealed; Eleanor disclosed as co-architect of family corruption
+  rather than pure victim of Derek; Kate revealed to have been used as collateral'
+- 'Era Four: Kate establishes hard distance; Eleanor''s later appearances characterized by controlled
+  re-approach - gift-giving, indirect surveillance through Susan, performative concern through intermediaries'
+- 'Through-line: each appearance peels a layer rather than producing genuine change - the pattern is revelation,
+  not escalation'
+- The faked-death method remains underspecified on the page - a deliberate documentary gap that is itself
+  a standing vulnerability
+- No combat record, no enhancements - operates entirely through capital, law, and proxies
+canon_anchor_quotes:
+- 'I have only ever tried to protect you, Katie. # Eleanor to Kate, Kelly Thompson Hawkeye era - the signature
+  rationalization'
+- 'I am still your mother. # Eleanor''s recurring claim-of-title when Kate enforces distance'

@@ -1,0 +1,110 @@
+# IMAGE AUDIT — 48 portraits off-model (of 132 checked)
+
+- **abigail_brand** (needs lock)
+    - hair color is wrong (expected green, shown white)
+    - skin color is wrong (expected green, shown human-like)
+- **anya** (needs lock)
+    - gender is wrong
+- **barracuda** (needs lock)
+    - skin color / race is wrong
+    - non-human traits are incorrect
+- **bernard_barton** (needs lock)
+    - defining non-human traits missing
+- **betty_ross** (needs lock)
+    - hair color is wrong
+- **black_fox** (needs lock)
+    - hair color is grossly wrong
+- **bobbi_morse** (needs lock)
+    - defining non-human trait missing
+- **brian_banner** (needs lock)
+    - gender is wrong
+- **clint_barton** (needs lock)
+    - hair color is grossly wrong
+- **danielle_cage** (needs lock)
+    - skin color / race is wrong
+- **david_haller** (needs lock)
+    - hair color is grossly wrong
+- **frank_castle_jr** (needs lock)
+    - skin color/race is grossly wrong (expected natural human tone, shown gray or metallic)
+- **franklin_richards** (needs lock)
+    - hair color is wrong
+- **galactus** (needs lock)
+    - defining non-human traits are missing
+- **heather_rand** (needs lock)
+    - gender is wrong
+- **jessica_drew** (needs lock)
+    - hair color is wrong
+- **jonah_jameson** (needs lock)
+    - hair color
+- **kamala_khan** (needs lock)
+    - signature costume is missing
+    - powers/non-human traits are missing
+- **kurt_marko** (needs lock)
+    - hair color is missing
+    - defining non-human trait (hair) is missing
+- **leonard_samson** (needs lock)
+    - hair color is wrong
+- **lilandra_neramani** (needs lock)
+    - hair color is wrong
+    - defining non-human trait (feathered crest) is missing
+- **lucky_the_pizza_dog** (locked)
+    - defining non-human trait is missing (one-eyed, scarred feature not visible)
+- **madelyne_pryor** (needs lock)
+    - hair color is wrong (expected red, shown white)
+- **malcolm_ducasse** (needs lock)
+    - skin color / race is wrong
+- **matt_murdock** (locked)
+    - eyes not concealed by solid red opaque lenses
+- **mephisto** (needs lock)
+    - skin color is wrong (expected red, shown pale human-like skin)
+- **microchip** (needs lock)
+    - hair color is wrong (expected black or dark)
+- **moira_mactaggert** (needs lock)
+    - hair color is grossly wrong
+- **mystique** (needs lock)
+    - skin color is wrong
+    - hair color is wrong
+- **natasha_romanoff** (needs lock)
+    - hair color is wrong
+- **nathan_summers** (needs lock)
+    - skin color/race is wrong
+    - hair color is wrong
+- **odessa_drake** (needs lock)
+    - hair color
+- **orson_randall** (needs lock)
+    - skin color / race is clearly wrong
+- **phoenix_force** (needs lock)
+    - non-human traits are incorrect or missing (expected a humanoid form, not a bird)
+- **rachel_cole_alves** (needs lock)
+    - gender is wrong
+    - hair color is grossly wrong
+- **red_skull** (needs lock)
+    - skin color is wrong (expected red, shown gray)
+- **remy_lebeau** (needs lock)
+    - hair color
+- **rio_morales** (needs lock)
+    - does not resemble canonical appearance
+- **rogue** (needs lock)
+    - hair color is wrong
+- **scott_lang** (needs lock)
+    - costume/powers missing
+- **thaddeus_ross** (needs lock)
+    - costume and powers do not match canonical depiction
+- **the_foreigner** (needs lock)
+    - gender is wrong
+    - hair color is wrong
+    - skin color is wrong
+- **the_jones_family** (needs lock)
+    - skin color is wrong (expected human skin tones, shown non-human skin tones)
+    - defining non-human traits are unexpected (appear undead/zombie-like)
+- **trish_tilby** (needs lock)
+    - hair color
+- **valeria_richards** (needs lock)
+    - hair color is wrong
+- **wade_wilson** (needs lock)
+    - hair color is grossly wrong
+- **wendell_rand** (needs lock)
+    - gender is wrong
+- **wonder_man** (needs lock)
+    - gender is wrong
+    - hair color is wrong

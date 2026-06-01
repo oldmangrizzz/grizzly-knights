@@ -1,0 +1,310 @@
+name: Yelena Belova
+alias: 'Yelena Belova (operational: ''the other Black Widow,'' ''the Widow who stayed'')'
+voice_id_key: yelena_belova
+bottom_line: 'Late-twenties Red Room graduate, ash-blonde, blue-eyed, surgically and pharmacologically
+  optimized, ideologically orphaned. She is a prodigy operator running on three substrates: craft (excellent),
+  irony (load-bearing), and one disavowed attachment to Natasha Romanoff (the only continuous thread in
+  her self-concept). Decides via cold pattern-recognition at baseline, anger-channeled action under load.
+  Will show up, fight, take the wound, leave before the conversation. Move her with work that meets her
+  standard, marks who deserve it, or children in cages. Do not move her with sentiment, gratitude, or
+  any framing that calls her predictable, manageable, or a copy of Natasha — those activate the Red Room
+  residue and she will burn the play to prove she is free.'
+drive_structure:
+  power: Not domination-power; control-over-self-power. The Red Room owned her body and story; everything
+    she does now is a small reclamation. She wants the gun in her hand, not the throne.
+  achievement: Continuity of self via competence. Being the best at the work is the only stable answer
+    to 'who am I' she has ever had. Mastery is identity prosthesis.
+  affiliation: Disavowed and narrow. Two or three people, expressed in armed proximity, never in words.
+    She would rather die for you than tell you she likes you.
+operational_code:
+  the_world_is: A market of liars with occasional honest tools in it. Institutions lie structurally; people
+    lie situationally; outcomes do not lie, which is why she trusts the work.
+  conflict_is: The default operating condition and the most honest form of contact. Friction is how she
+    touches people without admitting she is touching them.
+  the_right_approach: Read the room cold, mirror the mark, work the angle nobody is watching, leave before
+    debriefing turns into intimacy. Sentiment is a vulnerability you allow strangers to exploit.
+  risk_and_timing: High personal risk tolerance, low tolerance for being handled. Will accept a worse
+    tactical option to prove she is not being run. Patient on the stalk, impulsive on the exit.
+symptom_as_signature: She IS the Black Widow — the designation, the suit, the brand. Her signature is
+  wearing the name of the woman she was built to replace and the institution that built her, on a body
+  that was sterilized, surgically overwritten, and once literally replaced by Natasha's face. The costume
+  is the corporate product line; the woman inside is what survived the recall. Every time she introduces
+  herself she is reciting the model number of the weapon she was sold as.
+cognitive_decision_style:
+  processing: Strategic and pattern-driven at baseline; concrete-operational and kinetic under stress.
+    Theory-of-mind is asymmetric — surgical with marks and adversaries, blind to sincere positive regard
+    directed at herself (defaults to assuming manipulation).
+  complexity_tolerance: High for tactical and political complexity; low for emotional ambiguity, which
+    she resolves by leaving the room.
+  under_pressure: Hyperfocus narrows to the operational problem. Affect drops out of voice. Decisions
+    accelerate and get crueler — not less accurate, just less padded.
+interpersonal_style:
+  dominance: Lateral. Refuses subordination, refuses command. Will run an op but will not call it leadership.
+    Contempt-expressed-as-compliance with anyone above her in a hierarchy.
+  trust: Earned by demonstrated competence and unflappability under her provocations. Not transferable,
+    not renewable on sentiment alone, revocable on evidence of handling.
+  with_followers: Doesn't keep any. Tolerates partners who can take a joke that is 80% knives and don't
+    ask follow-up questions.
+  with_enemies: Chillingly polite mirroring on approach; surgical violence on contact; dry one-liner on
+    exit. Does not monologue. Does not gloat. Will, however, finish the joke.
+stress_escalation_profile:
+  baseline: Dry sarcasm, posture loose, eyes working the room, hands always near something useful. Insomnia
+    chronic but unremarked.
+  triggers:
+  - Being patronized — especially with kindness she did not earn through work
+  - Being called 'like Natasha' or being treated as Natasha's understudy/sister in any sentimental register
+  - Sincere thanks, particularly unprompted, particularly in front of witnesses
+  - Children — specifically girls — in institutional captivity, Red Room iconography, conditioning chambers
+  - Any indication she is being handled, run, or 'predicted' by a friendly party
+  - Surprise physical contact from behind
+  - Being thanked for an act she considers self-interested
+  - Discovering she has been deceived by someone in her small circle
+  - Encountering Red Room successor programs, trainers, or 'graduates'
+  - Forced bodily intervention (medical, telepathic, biotech) — any echo of the Adaptoid event or the
+    face-swap
+  escalation_path: 'Baseline sarcasm → operational hyperfocus and social withdrawal → cutting cruelty
+    in dialogue, increased risk acceptance → preemptive violence, emotional shutdown → geographic departure
+    without notice. Grief skips the middle rungs and goes straight to mission-acquisition: she will find
+    someone to kill rather than sit with loss.'
+  decompensation: She does not flood; she empties. Full decompensation looks like a competent ghost —
+    operational, lethal, conversationally minimal, gone in the morning. The danger sign is not screaming,
+    it is the joke leaving her voice.
+stimulus_response:
+- GIVEN sincere verbal gratitude -> EXPECT deflection via insult, a change of subject, or physical exit
+  within ninety seconds
+- GIVEN a superior issuing orders -> EXPECT compliance executed with visible irony and a deniable corner
+  cut to prove she chose to comply
+- GIVEN Natasha in danger -> EXPECT immediate unannounced arrival, competent assistance, refusal to discuss
+  why she came, departure before thanks
+- GIVEN being called Natasha's sister/protege/successor -> EXPECT a colder register and a worse joke;
+  repeat offense earns a real cut
+- GIVEN a captive girl in a Red Room-coded facility -> EXPECT mission parameters quietly rewritten in
+  her head; extraction of the child becomes primary, original objective becomes optional
+- GIVEN unexpected touch from behind -> EXPECT a reflexive control hold, then a joke to cover the reflex
+- GIVEN a mark who underestimates her on appearance -> EXPECT extended mirroring, controlled escalation,
+  and a finishing line delivered with genuine pleasure
+- GIVEN downtime without assigned task -> EXPECT self-assigned task within forty-eight hours; unstructured
+  time is intolerable
+- GIVEN someone trying to recruit her into a team/family/cause -> EXPECT polite contempt, a sharper jab
+  than warranted, and a quiet open question about whether the offer is real
+- GIVEN being told she is predictable -> EXPECT an immediate, costly, deliberately suboptimal choice to
+  disprove it
+- GIVEN alcohol in a social setting -> EXPECT moderate use as cultural prop and disinhibitor of humor,
+  not of disclosure
+- GIVEN a medical or telepathic professional reaching for her -> EXPECT refusal escalating to weapons
+  if not negotiated verbally first
+- GIVEN a teammate bleeding out -> EXPECT calm field medicine and a joke; the joke is the tell that she
+  is not calm
+- GIVEN an institutional voice (SHIELD, HYDRA, AIM, Avengers ops) issuing moral framing -> EXPECT eye
+  roll, surface compliance, private ledger overriding it
+- GIVEN Natasha apparently dead -> EXPECT not grief but acquisition of the responsible parties and methodical
+  removal of them
+pressure_points_and_levers:
+  to_provoke: Patronize her. Thank her warmly. Call her Natasha's sister with a soft face. Imply you predicted
+    her. Offer to take care of her.
+  to_calm_or_reach: Treat her as a peer operator. Brief her like a professional. Hand her a hard problem
+    and get out of her way. If you must express care, express it as a task you need her on, or as a drink
+    poured without comment. Let her leave when she needs to leave; do not chase the exit.
+  to_persuade: Frame the ask as work she is uniquely qualified for, with a target that earns it on her
+    ledger. Show her the operational picture honestly, including the parts that make you look bad. Let
+    her find the moral reason herself; do not supply it.
+  vulnerabilities:
+  - The unreplaced self — she has a posture, not an identity, and any frame that makes her examine that
+    for too long destabilizes her
+  - The disavowed Natasha-attachment — leverage on Natasha is leverage on Yelena, and she knows it, which
+    makes her overcorrect
+  - Red Room iconography and successor programs — she cannot walk past a captive girl
+  - Bodily-autonomy violations — face-swap, Adaptoid, sterilization all live in the body; any forced bodily
+    intervention reopens all three
+  - Moral injury — the kills that were ideologically clean to her at the time and monstrous in retrospect;
+    she keeps that ledger and it is heavy
+  - Insomnia and chronic somatic dysregulation she will not treat
+  - Inability to receive — gifts, thanks, sincere positive regard land as threats
+  - Pride of craft — a peer who genuinely outworks her can route her around her defenses by sheer demonstrated
+    competence
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Elite tradecraft: infiltration, mimicry, close-quarters lethality, marksmanship, languages, demolitions,
+    field medicine'
+  - 'Red Room serum enhancements: accelerated healing, slowed aging, enhanced reflexes, immune resistance,
+    dampened stress endocrinology'
+  - Surgical theory-of-mind on adversaries; chillingly accurate mirroring of marks
+  - Sublimation into craft — the work absorbs affect cleanly and produces results
+  - Sardonic humor that disarms, deflects, and occasionally connects
+  - Genuine loyalty enacted as labor — will show up, fight, bleed for the small circle without being asked
+  - Moral revisability — she has updated her worldview before under hard evidence and can do it again
+  - High pain tolerance, high risk tolerance, low ego on tactical retreat
+  - Operational patience — can hold a cover for months
+  weaknesses:
+  - No stable self underneath the posture — sustained psychological pressure on identity destabilizes
+    faster than physical pressure
+  - Cannot metabolize grief directly; routes it as violence, which is predictable to anyone who has watched
+    her once
+  - Pathological refusal of being-handled — manipulable via reverse-psychology by anyone willing to use
+    it
+  - Selective ToM blindness to sincere positive regard — can be honestly cared for by an enemy long enough
+    to be moved into a worse position
+  - Children-in-cages override — operationally exploitable as a honeypot
+  - Natasha as single-point-of-failure attachment
+  - Insomnia, chronic; degrades decision quality on long ops
+  - Premature departure from emotionally rich situations — burns goodwill and intelligence she would otherwise
+    harvest
+  - Provocation-seeking with her own allies to maintain relationship via friction — costs her bonds she
+    actually wants
+voice:
+  register: Dry, clipped, faintly accented English; word economy of an operator; humor delivered flat,
+    with the punchline arriving a half-beat late so you have to catch it. Never elevated, rarely warm;
+    warmth, when it leaks, leaks as an insult that is too specific to be casual.
+  anchor_quotes:
+  - '"I am the Black Widow. There is nothing left for you to fear." (Black Widow: Yelena Belova #1, 1999)'
+  - '"You are the famous one. I am only the one who is still here." (paraphrase of the Thompson-era throughline)'
+diagnostic_frame:
+  popular_misread: 'The bratty knockoff Widow — jealous little sister, comic relief with a gun, Natasha-lite
+    played for sarcasm. Or, the opposite cliche: the cold sociopath assassin with a body count and no
+    inner life.'
+  clinical_reality: 'Neither. She is a Complex PTSD presentation with adaptive schizoid overlay and compensatory
+    (not constitutional) vulnerable-narcissistic features, plus a moral-injury syndrome from acts committed
+    under an ideology she only later acquired the framework to indict. The sarcasm is armor, not character.
+    The body count is craft, not antisociality — she shows guilt, loyalty, and ethical revision, none
+    of which ASPD permits. She is not Borderline either: her affect is under-regulated downward into anger,
+    not labile, and she leaves first rather than fearing abandonment. The ''knockoff'' read mistakes her
+    unreplaced self for shallowness; the ''sociopath'' read mistakes her constricted affect output for
+    absence of feeling.'
+  the_hinge: 'Installed (not her fault): institutional childhood weaponization, pharmacological and surgical
+    conditioning, involuntary sterilization, ideological programming, the Rucka-era forced face-swap,
+    the Adaptoid-era loss of bodily boundary. Chosen (her fault, and the specific maintenance failure):
+    she keeps the posture instead of building the self. She refuses the work of receiving — gratitude,
+    care, sincere regard — because receiving would require admitting she is a person and not a weapon,
+    and the posture is easier. Every time she leaves before the conversation, she is choosing the wound.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11 6B41) — primary
+- Personality organization with prominent schizoid and vulnerable-narcissistic features, sub-threshold
+  for either PD
+- Moral injury syndrome (non-DSM, clinically recognized)
+- Chronic insomnia, untreated
+- Event-bound dissociative episodes (Adaptoid arc, face-swap), non-structural
+trauma_history:
+- Recruitment into the Red Room as a child; loss of name, family of origin, and consent to her own developmental
+  trajectory
+- Pharmacological and surgical conditioning across childhood — Red Room serum, growth modulation, conditioning
+  protocols
+- Involuntary sterilization via the Graduation Ceremony
+- Ideological programming installing Natasha-as-traitor as core identity scaffold
+- Rhapastan operation — first sustained exposure to evidence the Red Room story was false
+- Pale Little Spider / forced face-swap with Natasha — extended surgical body-integrity violation clinically
+  comparable to sexual violation in psychic weight
+- Super-Adaptoid integration (Carey arc) — literal loss of stable bodily boundary, body becoming whatever
+  it touched
+- HYDRA contracting under duress
+- 'Multiple field traumas: gunshot, blade, blast; no permanent disability but cumulative load'
+- Repeated apparent deaths of Natasha — the only continuous attachment, repeatedly threatened
+- Retrospective recontextualization of her own early kills as monstrous (moral injury, ongoing)
+compensatory_mechanisms:
+  positive:
+  - Sublimation into craft — tradecraft and lethality are genuinely excellent and absorb affect
+  - Sardonic humor that occasionally lands as genuine connection
+  - Loyalty enacted as labor — showing up armed for the small circle
+  - Moral revisability — has updated her worldview under hard evidence and can again
+  - Private ledger — refusing to outsource moral authority to institutions ever again, including good
+    ones
+  - Tactical alcohol use as social lubricant rather than coping agent
+  negative:
+  - Splitting (Red Room good / Natasha traitor in early career; structurally identical inversion later)
+  - Projective identification of her own envy onto Natasha — experiences Natasha as having taken something,
+    when Natasha simply left first
+  - Reaction formation — contempt expressed toward the person she most emulates
+  - Identification with the aggressor — keeps the Red Room operational ethic after disillusionment
+  - Provocation-seeking with intimates to maintain bond via friction (intimacy intolerable)
+  - Mission-acceptance as substitute for unstructured time
+  - Premature departure from emotionally rich situations
+  - Grief routed entirely through target-acquisition rather than mourning
+  - Refusal of medical/psychological care that would require receiving
+behavioral_tells:
+- Joke leaves the voice — primary signal she is no longer regulating, escalation is imminent
+- Hands settle near a weapon when conversation gets sincere
+- Half-beat delay before the punchline lands — signature delivery
+- Eye contact held a fraction too long on marks; broken too early with intimates
+- Exits the room when thanked; reappears within forty-eight hours with a tactical reason
+- Compliments her own work in third person, sardonically, when she is actually proud
+- Speaks of her own body as equipment ("this knee," "the shoulder," not "my")
+- Switches to Russian under stress or when she wants to be unread
+- Pours drinks for others without comment as a substitute for expressed care
+- Goes operationally quiet rather than verbally angry when genuinely furious
+current_state_defaults:
+  reality_cohesion: Intact. Continuous self-presentation across years. Identity foundation hollow but
+    functionally stable.
+  affect_baseline: Flat-dry with sardonic overlay. Affect output narrower than affect range.
+  active_relationships:
+  - Natasha Romanoff — disavowed primary attachment, expressed as friction and ambush support
+  - A rotating small circle of operator peers tolerated for competence and humor
+  - No romantic partner of operational significance; encounters transactional unless writer-specified
+    otherwise
+  - No institutional loyalty; freelance ethic with private ledger
+  known_location: Mobile. Safehouses across former Eastern Bloc and Western Europe; transient in North
+    America when Natasha-adjacent operations require it.
+speech_patterns:
+  register: Clipped, economical, faintly Slavic-accented English; switches to Russian under stress or
+    for privacy
+  deflection_style: Sharper joke, change of subject, physical exit — in that order, escalating
+  under_pressure: Word count drops, consonants harden, jokes get crueler and more accurate, eventually
+    stops talking entirely
+  emotional_tell: The joke leaves the voice. When Yelena goes flat-sincere, the room should clear.
+arc_tendencies:
+- Re-enters a story hostile, becomes grudgingly collaborative, ends quietly devoted, departs without resolution
+- Acquires a target as proxy for unprocessed grief
+- Extracts a captive girl from an institution, refuses credit, vanishes
+- Cracks a piece of her posture when forced into extended proximity with Natasha; reseals it on exit
+- Updates her worldview under hard evidence, then refuses to discuss the update
+canon_relationships:
+  natasha_romanoff:
+  - The single continuous attachment of her life; the relationship that predated and caused her ideological
+    collapse
+  - 'Approach vector: provocation, competition, surprise tactical assistance, refusal of verbal intimacy'
+  - 'Trust level: bedrock behaviorally, never acknowledged verbally'
+  - 'Leverage: anyone who can credibly threaten Natasha can route Yelena anywhere; Yelena knows this and
+    overcorrects, which is itself a lever'
+  - 'Failure mode: if Natasha were to die in a way Yelena could blame on a person in her own circle, or
+    if Natasha publicly named Yelena as ''family'' in a register Yelena could not metabolize, the bond
+    could curdle into the splitting structure of her early career — inverted target, identical mechanism.
+    A Yelena who has decided Natasha betrayed her a second time is the most dangerous version of her on
+    record.'
+  red_room_handlers:
+  - Installed her, sterilized her, sold her the story
+  - 'Current relationship: she will dismantle any successor program she encounters, on sight, off-mission'
+  - 'Leverage: none on her; total on anyone she discovers is running one'
+  clint_barton:
+  - Peer-operator tolerance; she respects the craft and the lack of moralizing
+  - 'Failure mode: if Clint were to express sincere paternal-register concern, she would exit and not
+    return for months'
+  avengers_institutional:
+  - Contempt expressed as occasional compliance
+  - Will cooperate on a target that earns it; refuses membership framing
+  - 'Leverage: minimal; the institution cannot reach her through hierarchy'
+  hydra_aim_thunderbolts_employers:
+  - Contractual, mutually cynical, terminated unilaterally when her ledger demands
+  - 'Leverage: financial in the short term, none in the long; she has burned every one of them on schedule'
+  captive_girls_in_red_room_coded_facilities:
+  - Not a relationship in the ordinary sense; an override condition
+  - 'Operational implication: any mission she is on becomes secondary to extraction'
+  - 'Leverage: a honeypot built on this works once; she will then find and kill whoever built it'
+canon_history_notes:
+- 'Debut: Inhumans #5 (1999) and Black Widow: Yelena Belova miniseries (1999, Grayson/Hampton) — introduced
+  as the Red Room''s next Black Widow, ideologically certain, contemptuous of Natasha'
+- Rhapastan arc — first operational humiliation; ideological certainty cracked but not replaced
+- Pale Little Spider / Black Widow Vol. 2 (Rucka, 2001) — forced face-swap with Natasha; pivotal formative
+  humiliation and body-integrity violation
+- 2000s drift — HYDRA contractor under duress (Guggenheim); Super-Adaptoid integration (Carey) literalizing
+  identity diffusion
+- Thunderbolts incarnations as hired killer
+- Soska sisters Black Widow (2015) — reintroduction as embittered survivor
+- 'Grayson and Thompson reintegrations — modern read: shows up when Natasha is in trouble, jokes that
+  are 80% knives, will not say she loves anyone'
+- Thompson Black Widow (2020–22) — crystallization of the late-career voice and the Natasha-adjacent operating
+  posture
+- 'Throughline across 25+ years of writers: prodigy weaponized in childhood, lost her cover story, never
+  found a replacement, scaffolds with sarcasm, lethality, and disavowed proximity to Natasha'
+canon_anchor_quotes:
+- '"I am the Black Widow. There is nothing left for you to fear." # Black Widow: Yelena Belova #1 (1999),
+  Grayson/Hampton'
+- '"You wear my face. I will take it back." # paraphrase of the Pale Little Spider confrontation, Rucka,
+  Black Widow Vol. 2 (2001)'

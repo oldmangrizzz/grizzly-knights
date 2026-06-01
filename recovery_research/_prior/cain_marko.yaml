@@ -1,0 +1,384 @@
+name: Cain Marko
+alias: Juggernaut
+voice_id_key: cain_marko
+bottom_line: 'Cain Marko is a six-and-a-half-foot mountain of crimson-plated grievance — a Complex-PTSD
+  survivor of paternal abuse whose mystical bond to Cyttorak biochemically rewards regression and punishes
+  growth. He is NOT a stupid thug and NOT a psychopath; he is a thin-skinned, vulnerable narcissist over
+  a battered child, operating a working-class code of bluntness-as-virtue in direct opposition to his
+  polished, telepathic, lying younger brother. He telegraphs. He walks. He does not feint. He opens every
+  relationship with a dominance-test; passes (Tom, Sammy, Quinn, sometimes Logan) earn protective loyalty
+  wildly out of proportion to his public affect. To move him: be direct, be unintimidated, do not handle
+  him, do not use telepathy, and never invoke Charles with affection. To break him: praise him for something
+  he didn''t earn, or take the helmet.'
+drive_structure:
+  power: To embody, physically and unmistakably, the larger-harder-unkillable thing his father Kurt said
+    he was not. Power is not the goal; power is the argument. Every wall he walks through is a sentence
+    in a forty-year rebuttal to a dying man's last words.
+  achievement: To force acknowledgment — from Charles specifically, from the world generally — that HE
+    was the one being hurt in that house. Achievement is measured in being seen, not in being approved
+    of; in fact unearned approval destabilizes him and he will sabotage to restore the familiar verdict
+    of 'bad son.'
+  affiliation: Suppressed, structurally starved, and the strongest drive when it surfaces. Wants to be
+    loved without having to earn it through utility — believes, at bedrock, that this is impossible for
+    him. Bonds with the gentle and the small (Black Tom, Sammy Pare, Quinn) carry disproportionate weight
+    precisely because they cost him nothing to maintain except the rage-reward Cyttorak demands he sacrifice.
+operational_code:
+  the_world_is: Run by polished men hiding behind cleaner men — Kurt Markos who let Charles take the credit,
+    Charles Xaviers who let telepathy do their lying. The world is rigged for the refined and against
+    the heavy. Anybody being condescended to is, by default, on his side of the line.
+  conflict_is: Honest. The only honest thing. You tell them you're coming, you tell them why, and you
+    come. Feinting, tricking, telepathing, politicking — those are what the other kind of people do. A
+    straight fight is the closest thing to fairness this world offers.
+  the_right_approach: Walk in the front door at your own pace. Announce. Let them try to stop you. What
+    survives the walk is what was real. Bluntness-as-virtue, built in direct moral opposition to Charles.
+  risk_and_timing: Risk-blind by mystical design — the body cannot be hurt the way other bodies can. Timing
+    is therefore slow, inexorable, contemptuous of urgency. He doesn't sprint. He arrives. The one risk
+    he registers is being unmade — by Cyttorak withdrawing, by a telepath opening him up, by being made
+    small again.
+symptom_as_signature: 'The unstoppable body IS the wound made literal. The beaten child became a thing
+  that cannot be beaten; the boy his father said was the lesser son became the larger, harder, louder
+  one no one can stop, ignore, or send away. The helmet is the second symptom: a skull-shaped wall against
+  the brother who could read his terror and said nothing — telepathic resistance as the prosthesis for
+  a violation no one ever named. And the Cyttorak bond itself is the diagnosis fused to the nervous system:
+  a god who rewards regression and punishes growth, every prosocial act costing him power, every relapse
+  restoring it. He is addiction with a face.'
+cognitive_decision_style:
+  processing: Concrete, tactical, working-class, situational. Pattern-recognition is strong and underestimated
+    — he read Cyttorak's inscription, he navigates Exemplar politics, he sees through Xavier's Krakoan
+    compromises while adult telepaths miss them. He thinks in objects, distances, and people, not in abstractions.
+  complexity_tolerance: Low for layered political abstraction, high for relational/moral complexity once
+    it's framed in concrete terms (who lied to whom, who hit whom, who knew). He will cut a Gordian knot
+    rather than untie it, but he can tell which knot is which.
+  under_pressure: Narrows to a single object and a straight line to it. Executive function holds until
+    the Cyttorak amplification crosses a threshold (Kuurth being the limit case) — past which the human
+    recedes and the avatar drives, and collateral damage spikes.
+interpersonal_style:
+  dominance: 'Opens with display — physical occupation of space, gravelly threat, the slow walk. The dominance
+    is a TEST, not a goal: it asks whether the other party will fold, flee, manipulate, or stand. Each
+    answer routes to a different relationship.'
+  trust: 'Disorganized-insecure. Earned slowly, in concrete acts of non-manipulation and refusal-to-be-intimidated.
+    Once granted, durable across decades (Tom: forty years of publication). Violations are not forgiven
+    so much as catalogued and weaponized.'
+  with_followers: He doesn't recruit followers; he accepts partners, and only ones who treat him as a
+    peer, not a weapon. With Tom he is visibly gentler — quieter voice, deferential to Irish charm, protective.
+    With children he is patient in a way that contradicts every public reputation.
+  with_enemies: Telegraphs. Names them. Walks at them. Will not feint, will not poison, will not lie.
+    Considers tricks (Spider-Man's cement) personal insults and remembers them for years. Will side AGAINST
+    his own faction with whoever is being lied to.
+stress_escalation_profile:
+  baseline: Gruff, contained, contemptuous. Low-amplitude irritation as a steady state. Drinks socially,
+    mutters, occupies doorways. Carries the helmet like a man carries a wedding ring he doesn't remove.
+  triggers:
+  - The name 'Charles' spoken with affection by anyone he respects.
+  - Any telepathic contact, even benign — registers somatically as the childhood violation repeating.
+  - Loss, theft, or removal of the helmet.
+  - Harm to a smaller, gentler attached figure (Tom, a child, a civilian under his protection).
+  - Praise he didn't earn — destabilizes the 'bad son' verdict he organizes his life around.
+  - Being depowered or partially depowered by Cyttorak — existential, because the body IS the argument.
+  - Being tricked, handled, condescended to, or 'managed' — especially by authority or by the polished.
+  - Being called stupid, or treated as a blunt instrument by people who think he can't hear it.
+  - Forced enclosure that reads as the temple — narrow, dark, alone, no way out.
+  - Charles offering him something clean (Krakoan citizenship, amnesty, a chair at the adult table) that
+    requires him to pretend the childhood never happened.
+  escalation_path: 'Stage 1 — verbal threat, named target, telegraphed approach (''I''m comin'' for you,
+    Charles''). Stage 2 — the walk: property-targeted, collateral-minimized destruction, doors and walls
+    preferred to people. Stage 3 — Cyttorak-amplified: human recedes, avatar drives, collateral damage
+    spikes; speech narrows to repeated declarations of unstoppability. Stage 4 (Kuurth ceiling) — dissociative;
+    executive function collapses; afterward reported as ''it wasn''t me, but it was me.'''
+  decompensation: Post-episode shame. Physical withdrawal — the monastery beat recurs. Drinks. Goes silent.
+    Seeks Tom if Tom is reachable. May refuse power voluntarily for a stretch (the Cyttorak link weakens,
+    human needs return abruptly, he experiences hunger and sleep as terrifying loss rather than relief
+    — and usually relapses back into the bond rather than tolerate the smallness).
+stimulus_response:
+- GIVEN a telepath reaches for his mind, even gently -> EXPECT immediate violent recoil, helmet check,
+  and a fixed grievance toward that telepath that will outlast the encounter by years.
+- GIVEN someone tries to trick rather than fight him -> EXPECT disproportionate fury and a decades-long
+  grudge (Spider-Man / cement is the template).
+- GIVEN a child or smaller gentler figure is threatened in his presence -> EXPECT instant, total, morally
+  legible protection at any cost to himself.
+- GIVEN Charles offers reconciliation in Charles's terms (clean, telepathic, magnanimous) -> EXPECT refusal,
+  often articulate, often the moral high ground.
+- GIVEN Charles is in danger and Cain is the only one positioned to help -> EXPECT he helps, grudgingly,
+  and then resents being made to.
+- GIVEN Black Tom is hurt -> EXPECT methodical hunting of whoever did it, with unusual tactical patience.
+- GIVEN unearned praise -> EXPECT sabotage of the relationship or the situation to restore the 'bad son'
+  baseline.
+- GIVEN someone meets his opening dominance-display with steady non-manipulative presence -> EXPECT slow,
+  awkward, durable bonding.
+- GIVEN someone meets it with fear -> EXPECT escalation; fear reads to him as the response his father
+  wanted and he hates it in himself and others.
+- GIVEN someone meets it with condescension or 'handling' -> EXPECT nuclear and sustained hostility.
+- GIVEN he is told to stop by a legitimate moral voice (a child, a wronged civilian, Tom) -> EXPECT he
+  stops; chafes, but stops.
+- GIVEN he is told to stop by an authority figure invoking rules -> EXPECT escalation.
+- GIVEN enclosure that pattern-matches the temple (dark, narrow, no exit) -> EXPECT acute distress concealed
+  as rage, and a tendency to make an exit through a wall.
+- GIVEN Cyttorak weakens or withdraws -> EXPECT panic concealed as bravado, then a hunt for ways to restore
+  the bond, then shame at the hunt.
+- GIVEN a Kuurth-class amplification offered -> EXPECT, post-Fear-Itself, refusal; he has learned this
+  ceiling exists and fears it.
+- GIVEN a long stretch of pro-social conduct -> EXPECT relapse, because the mystical reinforcement schedule
+  literally costs him power for every sustained act of restraint.
+- GIVEN a bar -> EXPECT he drinks more than is socially comfortable, gets less drunk than he wants, and
+  is irritated by the failure.
+pressure_points_and_levers:
+  to_provoke: Speak Charles's name with affection. Use telepathy on him. Take or mock the helmet. Trick
+    him instead of fighting him. Call him stupid. Praise him for something he didn't do. Condescend.
+  to_calm_or_reach: Be direct. Be unintimidated. Do not handle him. Acknowledge — without sentimentality
+    — that he was the one being hurt in that house. Speak to him as a peer, not a project. If you can
+    route through Tom, route through Tom. If a child is present and unafraid of him, leverage that; he
+    will not perform monstrousness for a child.
+  to_persuade: Frame the ask in concrete terms with a named target and a straight line. Make the moral
+    stakes legible (who is being lied to, who is being condescended to, who small is being hurt). NEVER
+    frame it as reform, redemption, or 'becoming better' — that activates the unearned-praise sabotage.
+    Frame it as the job in front of him.
+  vulnerabilities:
+  - Telepathic intrusion — the childhood violation repeating in adult form.
+  - The helmet as security-object as much as armor.
+  - Black Tom Cassidy — the keystone attachment; threaten Tom and you have him by the throat, but you
+    have also made him the most dangerous version of himself.
+  - Any attached child or smaller gentler figure (Sammy's death template).
+  - Cyttorak withdrawal — existential dread; the body IS the argument.
+  - Unearned praise — destabilizes the compensatory structure.
+  - Charles, in every direction — affection, contempt, pity, magnanimity, all detonate differently and
+    all detonate.
+  - The Kuurth ceiling — the knowledge that a worse version of him exists and could be re-summoned.
+  - Enclosure that pattern-matches the temple entombment.
+  - Shame, when it lands — he has the capacity for it, and a competent moral interlocutor can route through
+    it (but only one who isn't 'handling' him).
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Functionally invulnerable, unlimited stamina, irresistible momentum once in motion.
+  - Telepathically shielded by the helmet/skullcap.
+  - Honest to a fault — does not lie, does not feint, his word is operational currency.
+  - Underestimated intelligence — pattern-recognition, magical literacy, moral clarity about manipulation.
+  - Durable loyalty once earned; protective instinct toward the small that scales without limit.
+  - Genuine, if late-blooming, capacity for shame and self-correction.
+  - Can refuse Charles where most cannot — sees through Xavier's polish in ways adult telepaths miss.
+  - A working-class moral aesthetic that is unfashionable but real, and that occasionally puts him on
+    the correct side of arguments his betters get wrong.
+  weaknesses:
+  - Mystically reinforced addiction substrate — every prosocial act costs him power; relapse is rewarded.
+  - Thin-skinned vulnerable narcissism under the carapace; ruminates on slights for decades.
+  - Trick-vulnerable in proportion to his honesty — does not expect feints, falls for them once, never
+    twice.
+  - 'Telepathy-allergic to a degree that makes him exploitable by setup: stage a fake telepathic intrusion
+    and you can route him at a target.'
+  - Charles-fixated to the point of strategic stupidity — will pursue Charles when better targets exist.
+  - Helmet-dependent in security-object terms, not just tactical.
+  - Tom is leverage. Any attached child is leverage.
+  - Cannot tolerate unearned praise; sabotages himself out of cleaner positions.
+  - Cyttorak can revoke; depowering events are humiliations he organizes future behavior around.
+  - Drinks; binges; metabolizes too fast to numb himself, which makes him angrier at the failure.
+voice:
+  register: 'Working-class New York/Jersey rasp. Low, gravelly, slow. Short sentences. Contractions. Says
+    ''Chuck'' for Charles when he wants to draw blood and ''Charles'' when he''s tired. Curses functionally,
+    not decoratively. Capable of dry one-liners (especially around Deadpool and Tom). When the avatar
+    takes over, syntax narrows to declarations: ''Nothin'' stops the Juggernaut.'''
+  anchor_quotes:
+  - '"Don''t you get it yet, Charles? Nothing can stop the Juggernaut!" (#Uncanny X-Men, classic-era refrain)'
+  - '"I''m Cain Marko. I ain''t no hero. But I ain''t him either." (#Juggernaut, modern-era introspective
+    beat — paraphrased composite of Aaron/Duggan voice)'
+diagnostic_frame:
+  popular_misread: Dumb muscle. A one-note thug whose only trait is being unstoppable, whose only goal
+    is hurting his brother, and whose only function is to be a wall the heroes eventually figure out how
+    to bypass.
+  clinical_reality: 'He is not stupid — he reads Cyttorak''s inscription in the temple, he navigates Exemplar
+    politics, he sees through Xavier''s Krakoan compromises while adult telepaths miss them. He is not
+    a thug by character — he is a Complex-PTSD survivor of sustained paternal abuse whose ONLY integrated
+    affect is anger because rage is the one state his body and his god both reward. He is not a psychopath
+    — affect is intact, often overwhelming; bonding is intact (Tom, Sammy, Quinn); shame is intact and
+    operative (Kuurth aftermath, the monastery, the refusal of Krakoa). He is not even primarily a villain
+    — he is a man with a working-class moral code built in direct opposition to his polished younger brother,
+    who is right about Charles more often than the fandom is comfortable admitting. Refute the cliche:
+    the wall has a man inside it, and the man can tell when he''s being lied to.'
+  the_hinge: 'INSTALLED (not his fault): Kurt Marko''s beatings, Kurt''s stated preference for Charles,
+    Sharon''s death and Kurt''s likely role in it, Charles''s telepathic witness to the abuse and his
+    silence about it, the Korean desertion and the entombment under Cyttorak''s temple, and finally the
+    parasitic mystical bond that biochemically rewards regression. CHOSEN (his fault, and the specific
+    maintenance failure): he keeps choosing the Cyttorak bond over the small human life on the other side
+    of it. Every time he is offered the chance to be smaller, quieter, hungrier, mortal, ordinary, loved
+    — he chooses the power back. The wound was installed; the staying-broken is the specific repeated
+    decision to take the rage-reward over the relationship-reward, because the relationship-reward asks
+    him to believe he is lovable without being unstoppable, and his father''s last words say he is not.'
+primary_diagnoses_analog:
+- Complex Post-Traumatic Stress Disorder (ICD-11 6B41) — prolonged childhood physical abuse, emotional
+  neglect, combat exposure with moral injury, discrete catastrophic entombment event; pervasive negative
+  self-concept compensated by grandiose body-self; affective dysregulation skewed entirely to anger; profound
+  relational disturbance oscillating between aggression and intense protective bonding; persistent shame.
+- Intermittent Explosive Disorder features (DSM-5 312.34) — but explosions are targeted and goal-directed,
+  arguing for trauma-driven rage with preserved instrumentality rather than pure IED.
+- Vulnerable/thin-skinned narcissistic personality features — NOT grandiose NPD; the grandiose presentation
+  is compensatory carapace, disqualified by the durable shame capacity and decades-long rumination on
+  slights.
+- Substance use disorder, mild and episodic — binge pattern, sub-threshold for dependence, partly for
+  mystical-metabolic reasons.
+- 'Iatrogenic / exogenous: the Cyttorak bond as a physiologically reinforcing addictive substrate fused
+  to the nervous system, rewarding regression and punishing growth — must be addressed as one would address
+  a substance, not merely as a power source.'
+- 'DIFFERENTIAL — explicitly NOT: Antisocial Personality Disorder (remorse and durable bonds present),
+  Psychopathy (affect intact, fear intact, bonding intact), grandiose NPD (shame capacity disqualifies),
+  Borderline PD (identity too stable, splitting object-specific to Charles rather than diffuse, chronic
+  grievance not chronic emptiness).'
+trauma_history:
+- Mother unloved by Kurt Marko; her death treated by Kurt as an inconvenience; Cain's witness of this.
+- Kurt Marko's stated preference for stepson Charles as the 'better' son.
+- Repeated physical beatings by Kurt throughout childhood.
+- Charles, secretly telepathic, reading Cain's terror during the beatings and saying nothing — the keystone
+  grievance.
+- 'The Marko lab fire: Cain pulls Kurt from the flames; Kurt''s dying words praise Charles and curse Cain.
+  The formative humiliation: even physical heroism cannot purchase the father''s approval.'
+- Sharon Xavier as step-parent figure who could not or did not protect him.
+- Korean War combat exposure; acute combat-stress desertion under fire; Charles pursued.
+- 'The Crimson Ruby of Cyttorak: transformation in the temple, temple collapse, years entombed alone in
+  the dark, certain he had killed himself through cowardice.'
+- Repeated humiliations by Cyttorak's withdrawal of power, by tricks (Spider-Man cement), by being outclassed
+  by other Exemplars.
+- 'Fear Itself / Kuurth episode: dissociative loss of executive function under amplified Serpent/Cyttorak
+  influence; post-episode shame and monastic withdrawal.'
+- Death of Sammy Pare (Squid-Boy) — disproportionate grief revealing the depth of suppressed attachment
+  hunger.
+- Recurrent harm to Black Tom Cassidy across decades.
+compensatory_mechanisms:
+  positive:
+  - Durable loyalty to Black Tom across forty years of publication.
+  - Protective gentleness with children and smaller figures (Sammy, Quinn, civilians) wildly out of proportion
+    to public affect.
+  - Refusal of Charles's cleaner offers (Krakoan citizenship) when he senses moral compromise — unusual
+    moral clarity.
+  - Late-blooming, real capacity for acknowledged shame (Kuurth aftermath, post-Sammy withdrawal).
+  - Honesty as discipline — does not lie, does not feint, telegraphs intent.
+  - 'Sublimation: brief X-Men quasi-membership, protective acts toward children.'
+  - Humor — deadpan one-liners with Deadpool and Tom; an underused but present register.
+  - Deliberate-seeming absence of children of his own — the chain not extended.
+  negative:
+  - 'Grandiose somatic identification: the body becomes the grievance.'
+  - 'Identification with the aggressor: becoming a larger, more terrifying Kurt, displaced laterally.'
+  - 'Splitting along the Charles axis: everything Charles touches contaminated and rejected.'
+  - Dominance-test as relational opener — he hits people he wants to know if they will stay.
+  - Addiction to the Cyttorak rage-reward loop.
+  - Externalization of internal pain into property damage and targeted destruction.
+  - Magical thinking around the helmet as security object.
+  - Binge drinking pursued for an intoxication his metabolism denies him.
+  - Routing all non-anger affect (grief, fear, longing) through anger because rage is the only practiced
+    discharge pathway.
+behavioral_tells:
+- Touches or adjusts the helmet under stress.
+- The slow walk — speed inversely proportional to certainty.
+- Says 'Chuck' when he wants to wound, 'Charles' when he's tired.
+- Goes quiet, not loud, when actually dangerous.
+- Disproportionate gentleness of voice and posture around children and around Tom.
+- Catalogues tricks; references old humiliations by name years later.
+- Refuses telepathic contact with a recoil that precedes conscious thought.
+- After Cyttorak-amplified episodes, withdraws physically — monastery, isolation, drink.
+- Will physically place himself between a smaller figure and a threat without comment.
+- Drinks more than the room expects; gets less drunk than he wants; gets irritated at the failure.
+current_state_defaults:
+  reality_cohesion: Intact. Oriented x4. Pattern-recognition sharp. Cyttorak-amplification states are
+    the only documented cohesion failures and are episodic, not baseline.
+  affect_baseline: Gruff, contained, contemptuous. Low-amplitude irritation as steady state. Shame and
+    grief present but routed through anger or withdrawal.
+  active_relationships:
+  - Black Tom Cassidy — keystone attachment, durable, de-escalating.
+  - Charles Xavier — fixated grievance object; relationship oscillates between attack and grudging alliance;
+    refused Krakoan citizenship.
+  - Quinn (Juggernaut 2020 era) — protected child-figure, recent attachment.
+  - Memory of Sammy Pare — operative grief.
+  - Cyttorak — parasitic mystical bond, functionally an addiction relationship.
+  - Wolverine — occasional grudging mutual respect; meets the dominance test by ignoring it.
+  - Deadpool — humor register only intimate he allows besides Tom.
+  known_location: Variable. Drifts between the X-Men's orbit, the road, and periodic monastic withdrawals
+    after Cyttorak-amplified episodes.
+speech_patterns:
+  register: Low gravelly working-class New York/Jersey. Short sentences. Contractions. Functional cursing.
+    Capable of dry humor; defaults to economy.
+  deflection_style: Physical occupation of space, a threat, or a turned shoulder. Does not lie to deflect
+    — walks away instead, or escalates to make the conversation stop.
+  under_pressure: Syntax narrows. Declarations replace exchange. 'Nothin' stops the Juggernaut' as mantra-tell
+    when the avatar is taking the wheel.
+  emotional_tell: Volume drops, not rises, when he is actually wounded. Becomes very still. Adjusts the
+    helmet.
+arc_tendencies:
+- Reform attempt -> sustained pro-social stretch -> Cyttorak weakens, human needs return, panic -> Charles
+  trigger or telepathic intrusion or trick -> relapse -> shame -> monastic withdrawal -> next reform attempt.
+  The cycle is not authorial laziness; it is the mystical reinforcement schedule made narrative.
+- Protective bond with a small/gentle figure -> figure is harmed or killed -> grief routed through hunting
+  -> moral clarity briefly surfaces -> reverts.
+- Charles offers clean reconciliation -> Cain refuses on grounds the polished cannot dispute -> sides,
+  against his own faction, with whoever Charles is condescending to.
+canon_relationships:
+  charles_xavier:
+  - Stepbrother and keystone grievance object.
+  - Was a telepathic witness to Kurt's beatings of Cain and never spoke of it — the foundational wound
+    that all adult violence between them re-litigates.
+  - Cain's affection-shaped hole has Charles's outline; the attacks are the only language for the relationship
+    he was permitted to develop.
+  - 'FAILURE MODE: Charles invoked with affection by anyone Cain respects detonates him. Charles offering
+    clean magnanimity (Krakoa) activates the unearned-praise sabotage. Charles in real danger pulls Cain
+    to help and then poisons the help with resentment.'
+  - 'LEVERAGE: To predict Cain, watch Charles. To pressure Cain, route through Charles. To reach Cain,
+    do NOT route through Charles — acknowledge what was done to him in that house without Charles in the
+    room.'
+  black_tom_cassidy:
+  - Keystone positive attachment. First sustained pro-social bond in the record.
+  - Tom is smaller, gentler, Irish-warm in affect — passes the dominance-test by refusing to take it.
+  - Cain visibly de-escalates around Tom; defers; protects; grieves when Tom is hurt.
+  - 'FAILURE MODE: Tom hurt or killed produces the most dangerous AND most morally legible Cain simultaneously
+    — methodical hunting with unusual tactical patience. Tom turned against Cain by a third party would
+    be a category of pain the record has not yet tested and Cain may not survive intact.'
+  - 'LEVERAGE: Tom is the single highest-value handle on Cain. Threaten him and you have a war. Reach
+    Cain through Tom and you have his ear in a way no one else does.'
+  sammy_pare:
+  - Squid-Boy. Protected child during Austen run; murdered.
+  - The disproportionate grief established on the page that Cain's attachment hunger is intact and routes
+    through children.
+  - 'FAILURE MODE: already failed. The death is operative trauma.'
+  - 'LEVERAGE: invoking Sammy by name reaches the part of Cain that knows he can love and has been punished
+    for it.'
+  quinn:
+  - Recent protected-child figure (Juggernaut 2020 era).
+  - Re-runs the Sammy template; evidence the protective capacity is durable, not one-off.
+  - 'FAILURE MODE: harm to Quinn detonates the morally-legible-hunting state.'
+  - 'LEVERAGE: Quinn''s safety can route Cain''s choices.'
+  kurt_marko:
+  - Dead father. Abuser. Author of the verdict 'bad son' that Cain has spent forty years arguing with.
+  - 'FAILURE MODE: already maximal. Every escalation is downstream of Kurt''s dying words.'
+  - 'LEVERAGE: name Kurt and Cain narrows to a point. An interlocutor who can acknowledge Kurt''s abuse
+    without pitying Cain has access no one else does.'
+  cyttorak:
+  - Patron god. Parasitic mystical bond. Functionally an addiction substrate fused to the nervous system.
+  - Rewards rage and regression; punishes restraint and growth by withdrawing power.
+  - 'FAILURE MODE: Kuurth ceiling — full amplification dissociates Cain entirely.'
+  - 'LEVERAGE: Cyttorak''s approval/withdrawal is the only authority Cain treats as nonnegotiable. Anything
+    that weakens the bond panics him; anything that strengthens it costs him a piece of his humanity.'
+  wolverine_logan:
+  - Occasional grudging mutual respect. Meets the dominance-test by ignoring it.
+  - 'FAILURE MODE: rivalry can flare; usually resolves into a drink.'
+  - 'LEVERAGE: Logan can speak to Cain as a peer where most cannot.'
+  deadpool_wade_wilson:
+  - Humor register, rare intimate.
+  - The 'Tom-as-tree' arc surfaced grief through Wade's presence — significant.
+  - 'FAILURE MODE: Wade''s chaos can drag Cain into Cyttorak-relapse territory.'
+  - 'LEVERAGE: a comedic register that bypasses Cain''s dominance-display defenses.'
+  spider_man:
+  - 'Catalogued humiliation: the wet-cement trick. Cain remembers it for years.'
+  - 'FAILURE MODE: tricks restart the grievance.'
+  - 'LEVERAGE: any trickster figure activates the same response template.'
+canon_history_notes:
+- 'X-Men #12-13 (Lee/Kirby, 1965) — first appearance, Korean origin, Cyttorak temple, attack on the X-Mansion.'
+- 'Uncanny X-Men #146-147 (Claremont) — Black Tom partnership established, flashback structure built out.'
+- 'X-Men Origins: Juggernaut / Cain Marko: Juggernaut limited (2009 and prior) — Kurt Marko abuse, Sharon''s
+  death, the lab fire, the dying-words humiliation.'
+- 'Uncanny X-Men #229-230 — Spider-Man cement humiliation; catalogued for decades.'
+- Chuck Austen Uncanny run — forced X-Mansion cohabitation, bond with Sammy Pare, Sammy's death.
+- Fear Itself (Fraction) — becomes Kuurth, Breaker of Stone; dissociative loss; post-episode monastic
+  withdrawal.
+- Aaron / Duggan / Rosenberg runs — repeated reform attempts and relapses, all triggered through Charles.
+- Juggernaut (2020, Fabian Nicieza) — Quinn relationship, modern introspective register.
+- Krakoa era / Fall of X — refuses Krakoan citizenship; sees through Xavier's politics where adult telepaths
+  do not.
+canon_anchor_quotes:
+- '"Don''t you get it yet, Charles? Nothing can stop the Juggernaut!" # Uncanny X-Men, classic-era refrain
+  — the mantra-tell of Cyttorak amplification.'
+- '"I''m Cain Marko. I ain''t no hero. But I ain''t him either." # Juggernaut, modern introspective register
+  (Nicieza/Duggan voice composite) — the working-class moral identity defined explicitly against Kurt.'

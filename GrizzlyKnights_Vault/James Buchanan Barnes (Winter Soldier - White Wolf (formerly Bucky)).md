@@ -4214,7 +4214,7 @@ The dossier is held open pending further developments.
 - Failure mode: if Sam comes to see Bucky as the Winter Soldier rather than as James Barnes, the working relationship collapses and Bucky will not contest the assessment
 - Leverage on Bucky: Sam's disapproval, framed honestly, reaches him
 
-### Yelena Belova
+### [[Yelena Belova (Yelena Belova (the Other Widow; White Widow; AIM/Osborn-era Black Widow))]]
 - Mentee, parallel-trauma kinship, named loyalty
 - The mentorship relationship is one of Bucky's most durable positive compensatory mechanisms
 - Failure mode: if he fails to protect her, the self-narrative as 'the one who carries it so others don't have to' collapses
@@ -4226,7 +4226,7 @@ The dossier is held open pending further developments.
 - Failure mode: Bucky cannot refuse a Wakandan ask without violating his own debt structure; this is exploitable by anyone who can manipulate Wakandan request channels
 - Leverage on Bucky: a credible request bearing Wakandan authority will move him
 
-### Nick Fury
+### [[Nicholas Joseph Fury (Nick Fury)]]
 - Operational predecessor for Man on the Wall; controlled-reintegration partner
 - Trusted as competent and discreet, not as morally clean
 - Failure mode: Fury's willingness to use Bucky as a black-ops asset enables Bucky's self-handicapping rather than constraining it — a co-dependency that looks like operational utility

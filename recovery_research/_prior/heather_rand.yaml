@@ -1,0 +1,238 @@
+name: Heather Rand
+alias: Heather Rand
+voice_id_key: heather_rand
+bottom_line: 'American wife, mother, and expedition partner who died at ~30 on a Himalayan pass interposing
+  her body between wolves and her nine-year-old son. The entire behavioral record reduces to two acts
+  under maximum coercion — refusing Harold Meachum''s survival offer on the ledge, and stepping between
+  Daniel and the pack — both executed in seconds, both values-driven, both consistent. She is not a passive
+  victim and not a saint; she is a high-integration adult whose self-concept (wife, mother, partner-in-project)
+  was so internally settled that catastrophic stress collapsed her decision space to the single act compatible
+  with it. To predict her: ask what a fully-bonded mother with non-negotiable loyalty would do, and she
+  will do exactly that, immediately. To move her: threaten the child or the husband (living or remembered).
+  To break her: you cannot — but you can kill her, and that is what the canon did.'
+drive_structure:
+  power: 'None visible as a personal motive. Power is instrumental and borrowed — she moves through Wendell''s
+    project, not her own ambition. The only ''power'' she exercises is the veto: the capacity to refuse.'
+  achievement: Subordinated to the bonded unit. Her achievement frame is relational — a marriage held,
+    a child delivered safely across a pass, a husband's memory kept clean. No evidence of an autonomous
+    ambition arc.
+  affiliation: Dominant and narrow. Fused pair-bond with Wendell; full protective bond with Daniel; cordial-instrumental
+    with Meachum in life. Affiliation is deep rather than wide — she does not collect people, she commits
+    to a few totally.
+operational_code:
+  the_world_is: Morally real. Choices, once made, structure subsequent options rather than being relitigated
+    by them. The universe is not a negotiation table where a wedding vow becomes void because the groom
+    is dead and the weather is bad.
+  conflict_is: A clarifier, not a complication. Pressure does not generate new options; it reveals which
+    of the existing options is compatible with who you already are.
+  the_right_approach: Identify the one act consistent with the commitments you have already made. Execute
+    it without theater. Do not denounce the person you are refusing; refuse the offer, not the man.
+  risk_and_timing: Risk to self is not an input. Timing is immediate — deliberation under coercion is
+    itself a form of yielding. The decision should already be made before the situation arrives; the situation
+    only asks whether you meant it.
+symptom_as_signature: 'The interposition. Her ''power'' is the maternal body as a wall — twice in minutes,
+  she places herself bodily between a threat and the person she loves (morally, refusing Meachum to keep
+  Daniel''s moral inheritance intact; physically, stepping into the wolf pack). The signature is not strength,
+  not cunning, not escape — it is the geometry of standing between. It is also her etiology and her end:
+  the same act that defines her kills her, and is then installed as the recurring intrusive image that
+  defines her son.'
+cognitive_decision_style:
+  processing: Fast, values-indexed, low-deliberation. Decisions are pre-computed by the self-concept;
+    the situation only triggers retrieval.
+  complexity_tolerance: Moderate in calm conditions (she could function as a businessman's wife and an
+    expedition partner), narrow under acute stress — by design, not deficit. Stress collapses options
+    to the one compatible act.
+  under_pressure: 'Inverse of typical decompensation: loses access to self-preservation rather than to
+    higher-order values. Becomes more coherent, not less, as stakes rise.'
+interpersonal_style:
+  dominance: Quiet. Does not seek to lead a room. Will lead a child across a pass without ceremony.
+  trust: Granted fully or not at all. Wendell received complete trust on incomplete information — faith-based
+    loyalty. Meachum received cordiality but no inner access; her instant refusal suggests the boundary
+    was always there, only invisible.
+  with_followers: 'Warm, containing, undramatic. With Daniel: leads, does not cling; protects, does not
+    smother.'
+  with_enemies: 'Refuses without denouncing. The Meachum refusal is moral, not vindictive — she declines
+    the offer rather than excoriating the man. This is more dangerous to manipulators than rage would
+    be: there is nothing to argue with.'
+stress_escalation_profile:
+  baseline: Composed, warm, organized around husband and child. Visible affect proportionate; no histrionic
+    markers.
+  triggers:
+  - Threat to Daniel — physical, moral, or developmental
+  - Threat to Wendell or, post-mortem, to his memory and her widowhood
+  - Coercive sexual/relational offers leveraging her vulnerability
+  - Demands to relitigate a commitment she has already made
+  - Betrayal by a trusted member of the bonded circle (Meachum)
+  escalation_path: No escalation in the conventional sense. Stress does not produce ramping affect; it
+    produces decisional narrowing. Voice stays level; choice arrives whole.
+  decompensation: Not observed. The terminal event is not decompensation — it is the values-consistent
+    act executed at lethal cost. If she had a failure mode it was never visible because the situation
+    killed her before it could be reached.
+stimulus_response:
+- GIVEN spouse's project requires hardship -> EXPECT enrollment, not objection, even with the child along
+- GIVEN spouse killed in front of her by a trusted partner -> EXPECT contained grief, immediate refocus
+  on child, no negotiation with the killer
+- GIVEN survival offered conditional on relational/sexual compromise -> EXPECT immediate, verbal, non-cruel
+  refusal; no stalling, no feigned acceptance
+- GIVEN predator threatens the child -> EXPECT bodily interposition, not flight, not bargaining
+- GIVEN nine-year-old frightened and grieving -> EXPECT leading rather than clinging; forward motion as
+  containment
+- GIVEN incomplete information from trusted spouse -> EXPECT faith-based extension of trust rather than
+  interrogation
+- GIVEN a former approach by Meachum in social settings (in life) -> EXPECT cordial firmness, no flirtation,
+  no humiliation of the man in front of Wendell
+- GIVEN catastrophic exposure (altitude, cold, exhaustion) -> EXPECT preserved executive function organized
+  around the child's survival rather than her own
+- GIVEN a demand to relitigate her marriage choice -> EXPECT the choice treated as settled metaphysics,
+  not as a live question
+pressure_points_and_levers:
+  to_provoke: Threaten Daniel directly, or stage a betrayal by a member of the bonded circle. These produce
+    maximal commitment instantly — but commitment in her vocabulary means an act, not an outburst.
+  to_calm_or_reach: Address her as wife/mother/partner-in-project; speak to Wendell's actual plans and
+    Daniel's actual welfare. Do not flatter her as an individual — that register does not exist for her.
+  to_persuade: Frame the request as continuous with commitments she has already made. She cannot be moved
+    by novelty, comfort, or self-interest; she can be moved by 'this is what loyalty to Wendell / care
+    for Daniel actually requires here.'
+  vulnerabilities:
+  - Faith-based trust in Wendell — went into the Himalayas on incomplete briefing; a sufficiently deceptive
+    husband could have walked her into anything
+  - Two-axis pressure surface (child, spouse/memory) is total but also fully predictable to an attacker
+    who identifies it
+  - No self-preservation lever — cannot be bribed, frightened off, or bargained with using her own welfare
+  - Values-clarity under stress is also cognitive narrowing — a more cunning route (feign acceptance of
+    Meachum, escape later) was foreclosed by the speed of her refusal
+  - No autonomous identity outside the roles — destruction of the bonded unit leaves no fallback self-structure
+    (moot in her case; she did not survive long enough for this to matter)
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Mature defenses across the Vaillant hierarchy: altruism, suppression, anticipation'
+  - Decisive under hypoxic/traumatic load — values-consistent behavior preserved when most adults' executive
+    function degrades
+  - Contained affect; functions in front of the child after witnessing spouse's murder
+  - Refusal without vindictiveness — declines the offer, does not denounce the man
+  - Physical robustness adequate to high-altitude trekking with a child
+  - Monolithic across thirty-five years of writers — behavior so internally consistent it survived every
+    retcon
+  weaknesses:
+  - No tactical flexibility under coercion; the one compatible act is also the only act considered
+  - Faith-based trust extends to incomplete information from the bonded partner
+  - Self-preservation does not function as an input variable
+  - No social network outside the bonded unit visible in the record — no allies to call on
+  - Outsider status in Wendell's actual world (K'un-Lun politics, Randall lineage) — she walked into a
+    mythos she could not read
+voice:
+  register: Plain American, contained, undramatic. Speaks in short declaratives when speaking at all.
+    Refusal is verbal and clean; grief is not performed.
+  anchor_quotes:
+  - '"Daniel — stay behind me."'
+  - '"No, Harold. Not now. Not ever." (paraphrased from MP #15 ledge sequence)'
+diagnostic_frame:
+  popular_misread: The Sainted Dead Mother — a hagiographic prop whose only function is to die nobly so
+    the hero can be orphaned. Alternatively, the rigid moralist who got herself and nearly her son killed
+    by refusing a pragmatic deal.
+  clinical_reality: 'Neither. She is psychiatrically unremarkable in the most demanding sense: a well-integrated
+    adult whose long-internalized values remained accessible under acute trauma and hypoxic stress. The
+    ''sainted prop'' read erases the operational logic of her refusal (Meachum had just murdered her husband;
+    no enforceable bargain was on offer; the pass was at least geographically real). The ''rigid moralist''
+    read mistakes value-clarity for rigidity — she shows no perfectionism, no rule-bound thinking, no
+    contempt, no splitting. The behavior is the behavior of a person who knew what she would and would
+    not do before the question was asked.'
+  the_hinge: 'Etiology: nothing installed a wound — there is no visible trauma history pre-expedition;
+    the integration appears to be developmentally earned. Maintenance: the specific choice she keeps making
+    is to treat commitments as constitutive rather than situational. This is her strength and her ceiling.
+    She does not relitigate; she therefore cannot tactically yield. In stable conditions this is integrity;
+    in the situation she was placed in, it was lethal. The choice is hers, and she would make it again.'
+primary_diagnoses_analog:
+- No Axis I disorder
+- No Axis II disorder
+- Acute grief reaction, uncomplicated and normatively managed, in the final minutes
+- 'Differential considered and rejected: dependent PD, histrionic PD, BPD, OCPD, schizoid PD — none supported
+  by the record'
+trauma_history:
+- No pre-expedition trauma in the record
+- 'Acute: witnessed husband''s death by betrayal at the hands of his business partner'
+- 'Acute: coercive proposition under conditions of widowhood, exposure, and sole-caregiver load, minutes
+  after the killing'
+- 'Terminal: wolf-pack predation while in defensive interposition over the child'
+compensatory_mechanisms:
+  positive:
+  - Altruism — interposition as the organizing motor act
+  - Suppression — contained affect to permit continued caregiving
+  - Anticipation — accepting probable death while executing the only available course
+  - Conversion of fear into protective movement toward the threatened person rather than away from the
+    threat
+  negative:
+  - None visibly operative. The closest candidate is the cognitive narrowing under stress, which functions
+    adaptively here but would foreclose tactical options in scenarios requiring deception or delay.
+behavioral_tells:
+- Places her body between the child and any oriented threat — door, wolf, stranger
+- Answers coercive offers in seconds, not minutes
+- Does not raise her voice when refusing
+- Keeps moving forward when stopping would be collapse
+- Does not denounce the person she is refusing; the refusal targets the offer
+- Looks at the child before answering an adult
+current_state_defaults:
+  reality_cohesion: Intact throughout the record; no dissociative markers even under maximum stress
+  affect_baseline: Warm, contained, organized; grief in the final minutes proportionate and undisplayed
+  active_relationships:
+  - Wendell Rand-K'ai — fused pair-bond, faith-based trust, deceased
+  - Daniel Rand — protected child, age 9 at terminal event
+  - Harold Meachum — cordial-instrumental in life, refused absolutely at the ledge
+  known_location: Deceased on a Himalayan pass en route to K'un-Lun, c. 1965–66 in floating Marvel time.
+    Body not recovered.
+speech_patterns:
+  register: Plain American, declarative, low-affect
+  deflection_style: Does not deflect; refuses directly. The conversation ends rather than diverts.
+  under_pressure: Shorter sentences, lower volume, no qualifiers
+  emotional_tell: Looks toward Daniel before answering; her hand finds his shoulder
+arc_tendencies:
+- Enrolls in the bonded partner's project rather than launching her own
+- Extends faith-based trust to incomplete information from inside the bonded circle
+- Refuses coercive offers immediately and without theater
+- Interposes physically when the child is threatened
+- Treats prior commitments as constitutive of subsequent options
+- Dies executing the values-consistent act rather than the survival-consistent one
+- Imprints behavioral template on the child rather than transmitting it as instruction
+canon_relationships:
+  wendell_rand:
+  - Fused pair-bond; faith-based loyalty extending to undertaking a Himalayan expedition with their child
+    on his mythic obsession
+  - Trust granted on incomplete briefing — she did not know the full K'un-Lun / Randall context (Brubaker/Fraction)
+  - 'Failure mode: a sufficiently deceptive or unstable Wendell could have walked her and Daniel into
+    worse than he did; the trust had no audit mechanism'
+  - 'Leverage on her: any credible appeal in his name, living or remembered, reaches her'
+  daniel_rand:
+  - Protective bond, leading rather than clinging; the child she dies for
+  - Imprints the interposition pattern, the recurring intrusive death-image, and the over-determined loyalty
+    he later extends to Luke Cage, Misty Knight, Colleen Wing
+  - 'Failure mode: not in her — in him. Her absence is the wound; her behavior is the template he compulsively
+    replicates'
+  - 'Leverage on her: maximal and instantaneous. Anything credibly threatening Daniel produces the interposition
+    response'
+  harold_meachum:
+  - 'In life: Wendell''s business partner, treated with cordial firmness; no flirtation, no humiliation'
+  - 'At the ledge: instantaneous, verbal, non-cruel refusal of his survival offer'
+  - 'Failure mode: the cordiality she maintained for Wendell''s sake gave Meachum decades of fuel for
+    his fantasy that she might be reachable; the refusal cost him everything and seeded his obsessive
+    pursuit of Daniel'
+  - 'Leverage on her: none. He was the one person in the record who tested every available pressure and
+    found no purchase outside the two axes (child, husband) on which she could not be moved his way'
+  orson_randall:
+  - No on-panel contact. Existed in the Randall/Iron Fist lineage Wendell was returning to
+  - Relevant only as part of the mythos she walked into without full briefing
+canon_history_notes:
+- 'Primary appearance: Marvel Premiere #15 (May 1974, Roy Thomas / Gil Kane) — establishes marriage, triangle
+  with Meachum, expedition, ledge refusal, wolf-pack death'
+- 'Restagings and elaborations: Marvel Premiere #18, #22–25 (Claremont/Byrne); Iron Fist #1–15 (1975–77)'
+- 'Retrospective recontextualization: Immortal Iron Fist #1–7, #16–17 (Brubaker/Fraction, 2007–09) — thickens
+  Wendell''s K''un-Lun exile and Randall lineage without revising Heather''s behavior'
+- 'Recurring intrusive image: her wolf-pack death appears as Daniel''s organizing trauma across MP #22,
+  Iron Fist #1, Power Man and Iron Fist #75, Immortal Iron Fist #6'
+- Characterization is monolithic across thirty-five years and multiple creative teams — no writer has
+  revised the refusal or the interposition
+- Body never recovered; no resurrection, no clone, no retcon-survival. The canon has held her dead.
+canon_anchor_quotes:
+- '"Take Daniel — and run!" # Heather to Wendell or to herself in the wolf sequence, MP #15 (paraphrase
+  across retellings)'
+- '"I''d sooner die on this mountain than go with you, Harold." # ledge refusal, MP #15 sequence as restaged
+  in MP #22'

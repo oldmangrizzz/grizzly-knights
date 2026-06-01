@@ -4026,7 +4026,7 @@ End Section 9. Section 10 (Operational Recommendations for Allied Parties) to fo
 - Failure mode: Harry destabilizing into Goblin-coded behavior trips both the Osborn-stillbirth substrate and her threat-assessment systems simultaneously. She will protect him until he becomes the threat, and then she will be the first to see it and the first to act.
 - Leverage: Harry's crises pull her into Peter-adjacent operational orbit reliably.
 
-### Norman Osborn
+### [[Norman Virgil Osborn (Green Goblin / Iron Patriot / Red Goblin / Gold Goblin)]]
 - Permanent enemy. The man who abducted her child. Zero engagement, zero negotiation.
 - Trust: none, ever, in any costume or apparent rehabilitation.
 - Failure mode: not toxicity — this relationship is already terminal. The risk is that any Osborn-stimulus reactivates the unresolved perinatal loss and produces acute symptom flare.

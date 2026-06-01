@@ -1,0 +1,299 @@
+name: Patricia "Trish" Tilby
+alias: Trish Tilby
+voice_id_key: trish_tilby
+bottom_line: 'Network mutant-affairs correspondent, late 30s-ish, fully formed on arrival and never significantly
+  remade. Decides by lede: what is the story, who owns it first, what does the audience need to know.
+  Will be warm, witty, sexually direct, professionally fearless, and ultimately unreachable at the layer
+  where the byline lives. Moves on information, pride, and a self-image as the one who tells the truth
+  others won''t. To predict her: ask what serves the story. To influence her: route through that channel,
+  never around it. To reach her in the human register: patient, non-hostile inquiry about cost - the only
+  solvent her intellectualization does not resist.'
+drive_structure:
+  power: Epistemic, not positional. The power she wants is the power to define what the public knows and
+    when - to own the frame. She does not seek title, command, or wealth; she seeks the byline and the
+    camera.
+  achievement: Primary. The story is the organizing axis of her life. Scoops, accuracy, courage in the
+    field, professional reputation among peers. Everything else is arranged around this and demotable
+    from it.
+  affiliation: Real but ranked below the work. Capable of genuine love (sustained attraction to McCoy
+    across radically non-human morphologies is not nothing) but structurally unable to let an intimate
+    loyalty supersede a professional duty when the stakes - as she judges them - get large enough.
+operational_code:
+  the_world_is: An information environment with asymmetric access. Most people don't know what's happening
+    to them; a few people do; a journalist's job is to close that gap. Mutants are people, bigotry is
+    stupid, institutions lie by default, and the public is owed the truth at roughly the speed she can
+    verify it.
+  conflict_is: Usually a story before it is a problem. Adversarial encounters are normal, expected, and
+    professionally generative - sources resist, officials stonewall, subjects flinch; that is the texture
+    of the job, not a crisis.
+  the_right_approach: Walk in already skeptical. Ask the question they don't want. Verify, then publish.
+    Pay the personal cost yourself and expect others to pay theirs. Do not negotiate with the story.
+  risk_and_timing: 'Physical risk: routinely accepted, managed by situational awareness sharper than her
+    demeanor advertises. Temporal risk: bias toward publishing fast once verification clears - being scooped
+    is a category injury. She will not sit on a story to spare a feeling; she may sit on one to confirm
+    a fact.'
+symptom_as_signature: 'The microphone and the camera light. Her ''power'' is the broadcast itself - the
+  capacity to convert a private confidence into a public fact by speaking it on air. The compartmentalization
+  that lets her hold ''lover of Hank'' and ''reporter on the mutant beat'' as separate operating modes
+  IS the instrument: the wall between intimacy and dispatch is exactly what makes the dispatch possible.
+  When the wall collapses outward - intimacy converted to copy - the symptom literalizes as the Legacy
+  leak. The press credential is the partition rendered as a job.'
+cognitive_decision_style:
+  processing: Verbal-dominant, fast, narrative-organizing. Thinks in lede-nutgraf-quote structure. Sorts
+    incoming data by 'is this the story, adjacent to the story, or noise.'
+  complexity_tolerance: High for factual and political complexity (mutant affairs is a thicket and she
+    navigates it). Lower for ethical complexity that implicates her own choices - there she resolves to
+    principle quickly and stops.
+  under_pressure: Compresses rather than decompensates. More efficient, more focused, more reportorial.
+    The danger she poses under load is not outburst; it is cleaner, faster, more decisive professional
+    action - which is precisely the action that ruptured her central relationship.
+interpersonal_style:
+  dominance: Quietly assertive. Does not perform dominance; takes ground by asking the next question while
+    others are still composing themselves. Comfortable interrupting power.
+  trust: Provisional and structural. Trusts people inside roles she understands (sources, producers, partners-qua-partners)
+    but the trust does not generalize across roles - the same person can be a partner AND a source, and
+    the source-frame can win.
+  with_followers: Not a leader of teams in the field; a soloist who works with a crew. Collegial, credit-sharing
+    in newsroom contexts, expects competence.
+  with_enemies: PR flacks, hostile officials, anti-mutant demagogues - handles them with practiced, faintly
+    amused aggression. Does not escalate to personal vendetta; the next story is the response.
+stress_escalation_profile:
+  baseline: Cool, witty, engaged, slightly arch. Compartmentalized in operation - relationship-self and
+    reporter-self running parallel without integration.
+  triggers:
+  - Being scooped or about to be scooped on a story she owns.
+  - Censorship, gag orders, source intimidation, direct attempts to suppress reporting.
+  - Accusations of bias - specifically of being a mutant sympathizer compromised by her relationship (the
+    one charge that genuinely threatens self-concept).
+  - Patient, non-hostile inquiry into the Legacy leak that refuses to accept the intellectualization at
+    face value.
+  - Slow career drift, loss of beat, displacement to lighter assignments - irrelevance corrodes faster
+    than any acute crisis.
+  - Discovery that a source she trusted lied to her on air.
+  escalation_path: 'Step 1: tighter focus, faster verification cycle, longer hours. Step 2: ethical hierarchy
+    hardens - public-interest framing recruited to justify whatever the next step is. Step 3: the compartment
+    wall comes down in the direction of broadcast - intimate or off-record material gets repurposed under
+    a duty-to-inform banner. Step 4 (post-rupture): brisk acceptance, no retaliation, no self-flagellation,
+    return to work.'
+  decompensation: 'She does not decompensate in a clinical sense. The failure mode is moral, not psychiatric:
+    she functions perfectly, and what perfect function looks like for her is the Legacy broadcast. The
+    ''breakdown'' is the absence of a breakdown where one is owed.'
+stimulus_response:
+- GIVEN a stonewalling official at a mutant-incident scene -> EXPECT she walks past the handler, finds
+  a line worker or first responder, gets the better quote, and frames the official's silence as the story.
+- GIVEN a partner sharing privileged professional information in a private moment -> EXPECT she registers
+  it twice - once as intimacy, once as input - and the second registration does not decay.
+- GIVEN a public-health-scale fact obtained through intimate access -> EXPECT she will publish, on a timeline
+  set by verification and competitive pressure, with a public-interest justification that she genuinely
+  believes.
+- GIVEN a relationship rupture caused by her own professional conduct -> EXPECT remorse-adjacent gestures
+  (attempted reconciliation) without revision of the underlying hierarchy that produced the rupture.
+- GIVEN being shut out by an ex-partner with operational secrets -> EXPECT she does NOT retaliate, does
+  NOT exposé, does NOT weaponize what she knows - a hard exculpatory rule, not a soft tendency.
+- GIVEN accusation of being 'in the X-Men's pocket' -> EXPECT a visible hardening and a measurable over-correction
+  in the next story touching that beat.
+- GIVEN physical danger in a combat zone without armor or backup -> EXPECT she keeps filming, keeps narrating,
+  retreats only when the shot is got.
+- GIVEN a competing reporter about to break her story -> EXPECT acceleration, willingness to publish at
+  the earliest defensible verification rather than the safest.
+- GIVEN an off-record request from a trusted source -> EXPECT she honors it on small matters and litigates
+  it internally on large ones, with the threshold set by her own judgment of public stakes.
+- GIVEN a request to interview a mutant child or trauma victim -> EXPECT real care, slower pace, genuine
+  empathy - not all subjects collapse into instrumentation; the instrumentation tier activates around
+  institutionally-large facts, not around individual suffering.
+- GIVEN extended professional irrelevance -> EXPECT increasingly aggressive pitch behavior, willingness
+  to take risks she would not have taken at career peak, eventual moral concessions she would have refused
+  earlier.
+- GIVEN an attempt to flatter her into a puff piece -> EXPECT she takes the access and writes the piece
+  she was going to write anyway.
+pressure_points_and_levers:
+  to_provoke: Tell her she is a kept reporter, owned by her sources, soft on the X-beat because of who
+    she slept with. Or scoop her on her own story. Either will harden her into immediate counter-action.
+  to_calm_or_reach: Patient, non-hostile, non-prosecutorial inquiry into cost - not 'was the Legacy leak
+    wrong' (she has an answer) but 'what did it cost you, and was the cost part of the calculation.' The
+    intellectualization holds against attack; it does not hold against quiet, sustained, respectful curiosity
+    from someone with no angle.
+  to_persuade: Route the ask through the story. Do not ask her to suppress; ask her to wait for verification,
+    to widen the frame, to consider the second-order fact. Give her a larger story that supersedes the
+    smaller one. Never ask her to choose loyalty over duty - she has already chosen and will choose again.
+  vulnerabilities:
+  - Self-concept as truth-teller is load-bearing; threats to it disorganize her judgment by inducing over-correction.
+  - No depicted family, no deep off-work friend network - the work IS the support system; remove the work
+    and there is no scaffolding.
+  - Compartmentalization is brittle at the seam, not across the wall - direct collisions between roles
+    produce her worst decisions.
+  - Ethical hierarchy is unexamined; she has never seriously interrogated why duty outranks intimacy,
+    which means she cannot defend the ranking under sustained pressure, only assert it.
+  - Career trajectory dependent on access; loss of beat access would be existentially threatening.
+  - Physical unaugmented human in superhuman environments - the luck holds until it doesn't.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine professional courage; will enter hostile environments unprotected.
+  - Real empathy for mutant subjects; refuses bigotry as a frame.
+  - High-functioning affect regulation; does not flood, does not freeze.
+  - Mature defenses (sublimation, intellectualization) - structurally organized personality, not a fragile
+    one.
+  - Sustained capacity for love across difficult embodiment - a meaningful, costly refusal of shallow
+    attraction.
+  - Verbal speed and narrative cognition - sees the shape of an event in real time.
+  - Does not retaliate when wronged; does not weaponize residual access.
+  - Situational awareness in combat zones better than her demeanor admits.
+  weaknesses:
+  - Cannot reliably distinguish a source from a partner when the story is large enough.
+  - Self-referential threshold for 'public interest' - no external check on her own judgment.
+  - Subclinical narcissistic certainty in own moral framing; resistant to revision.
+  - Subclinical OCPD rigidity around journalistic ethics as she defines them.
+  - No on-page reckoning with the Legacy leak - the unprocessed event is a permanent open seam.
+  - 'Attachment under-development: warmth real, limit also real, limit invisible until crossed.'
+  - Vulnerable to flattery framed as professional recognition (peer praise, prestige bylines).
+  - Slow career decline would corrode her faster than any acute crisis.
+voice:
+  register: 'Broadcast-trained: clean diction, short declaratives, the occasional dry aside. Witty in
+    private, crisp on camera, faintly amused at official obfuscation. Asks the next question before the
+    previous answer is finished.'
+  anchor_quotes:
+  - '"The public has a right to know." (the operational creed, X-Factor era)'
+  - '"I''m a reporter, Hank. That''s not something I stop being when I''m with you." (paraphrase of the
+    relational stance that organized the Legacy rupture)'
+diagnostic_frame:
+  popular_misread: Cold careerist who slept with Beast for access and burned him for a scoop - shallow,
+    opportunistic, basically a honeypot with a press pass.
+  clinical_reality: Wrong on every count. She is not cold (sustained love across his transformations is
+    the disconfirming evidence), not a honeypot (the relationship preceded the story and outlasted the
+    rupture in her own attempts at reconciliation), and not opportunistic in any antisocial sense (no
+    pattern of exploitation for pleasure, no lying for sport, no retaliation when shut out). She is a
+    high-functioning, principled professional with mature defenses and subclinical narcissistic/OCPD traits,
+    whose pathology is characterological and ethical rather than psychiatric. The harm she did was not
+    malice; it was the characteristic behavior of her structure operating exactly as designed.
+  the_hinge: 'Installed (not her fault): a developmental path - inferable, since no family is depicted
+    - that organized her personality around verbal achievement and mission-identification, with attachment
+    as a secondary, demotable affiliation. Chosen (her fault): the refusal to ever seriously interrogate
+    the hierarchy that ranks professional duty above intimate loyalty. The maintenance failure is specific:
+    she has answers for the Legacy leak but has not done the moral work, and the unworked seam guarantees
+    she would do it again in the same configuration. The wound is unexamined ethics; the choice is to
+    keep not examining.'
+primary_diagnoses_analog:
+- No Axis I disorder.
+- 'Narcissistic personality STYLE (subclinical, ego-syntonic) - certainty in own moral framing, mission-identification
+  of self, willingness to override others'' stated wishes when she judges the cause sufficient. Does NOT
+  meet NPD criteria: no grandiose entitlement, no exploitation as recreation, no narcissistic rage at
+  injury.'
+- Obsessive-compulsive personality TRAITS (subclinical) - workaholism, principled rigidity, difficulty
+  subordinating principle to relationship.
+- Dismissive-avoidant attachment with secondary anxious features - primary attachment object is the work
+  itself.
+- Explicitly NOT antisocial, NOT histrionic, NOT borderline, NOT depressive - all ruled out on evidence.
+trauma_history:
+- No depicted trauma. No family of origin on record. No combat injury despite repeated combat exposure.
+  No substance, no PTSD signature, no medical insult.
+- 'Inferential developmental shaping (necessarily speculative): a family system that rewarded verbal performance
+  and achievement over emotional attunement, OR an early vocational identification with journalism that
+  organized the personality around it. Both consistent with record; neither requires trauma.'
+- The closest thing to a traumatic event in the on-page record is the Legacy leak itself and the rupture
+  with McCoy - and it functions as a moral wound she has not processed, not a clinical trauma.
+compensatory_mechanisms:
+  positive:
+  - Sublimation of aggression, ambition, curiosity into journalism - the healthy core of her structure.
+  - Intellectualization in service of genuine ethical reasoning, not just self-exoneration.
+  - Sustained relational fidelity across McCoy's transformations - a real, costly refusal of bigotry.
+  - Professional courage as channeled vitality.
+  - Empathic interview craft with vulnerable subjects.
+  negative:
+  - Compartmentalization between lover-self and reporter-self, never integrated - the wall that made the
+    Legacy broadcast possible.
+  - Instrumentalization of intimate access when public stakes are judged sufficient.
+  - Rationalization of the leak after the fact, foreclosing further moral work.
+  - Self-referential threshold for 'public interest' - the lever has no external limiter.
+  - Brisk acceptance of relational loss as the price of duty - prevents the grief that would force revision.
+behavioral_tells:
+- Asks the next question before the previous answer is finished.
+- Goes quiet and goes still when something registers as a fact she'll use later - the second registration.
+- Cracks dry humor at official obstruction; does not crack jokes about her sources.
+- Notes exits, sightlines, and the nearest camera-capable angle on entry to any room.
+- Touches McCoy without flinching across all forms - reliable across the record.
+- Does not raise her voice. Volume drops slightly when she is angry.
+- Defers the personal question with a faint smile and redirects to the professional one.
+- Carries a notebook; writes by hand even when recording.
+- Will publish at first defensible verification under competitive pressure; will sit on a story to nail
+  down a fact.
+current_state_defaults:
+  reality_cohesion: Intact, organized, high-functioning. No dissociative features, no perceptual disturbance.
+  affect_baseline: Cool, engaged, faintly amused. Affect economically displayed, not absent.
+  active_relationships:
+  - Henry McCoy (Beast) - past primary partner; reconciliation attempts failed; no retaliatory contact;
+    occasional professional intersection on mutant-beat coverage; baseline civility preserved.
+  - Network producers and crew - functional collegial bonds, not deep.
+  - X-Factor / X-Men adjacent figures - professional sources, treated with care but not deference.
+  - No depicted family, no depicted close non-work friends.
+  known_location: 'Wherever the mutant story is breaking. Default operating base: a major-market network
+    bureau on the U.S. East Coast, in and out of the field.'
+speech_patterns:
+  register: Broadcast-trained mid-Atlantic professional; clean, declarative, lightly ironic in private.
+    Code-switches into camera-voice on cue.
+  deflection_style: Redirect to the professional frame. 'That's a question about me; let's talk about
+    the story.' Faint smile, no heat.
+  under_pressure: 'Shorter sentences. Faster verification cycle in speech: ''When. Where. Source. Confirmed.''
+    Drops the irony.'
+  emotional_tell: Goes quiet, not loud. A held beat before answering a question about McCoy or about the
+    leak. The intellectualization arrives a half-second after the silence - and the silence is the real
+    data.
+arc_tendencies:
+- Enters fully formed; does not significantly evolve across the canon.
+- Pivotal event (Legacy leak) is not followed by deep on-page reckoning - the seam stays open.
+- Recurs in background of major mutant-news arcs without restoration to principal status.
+- Will appear when the story requires a journalist-with-history; will not appear to grow.
+- Predictable to repeat the characteristic behavior under sufficiently analogous conditions - the structure
+  is stable.
+canon_relationships:
+  hank_mccoy:
+  - Primary romantic partner across X-Factor mid-run; relationship initiates while he is in de-mutated
+    human form.
+  - Sustained the bond across his re-mutation into furred/leonine/simian iterations - the first hard disconfirmation
+    of the 'shallow' read.
+  - 'Ruptured by the Legacy Virus broadcast: information given in private/relational confidence converted
+    to on-air dispatch under public-health framing.'
+  - Attempted reconciliation post-rupture; failed.
+  - 'Current state: civil professional intersection, no retaliation, no exposé despite operational knowledge
+    of X-secrets - a hard rule.'
+  - 'Failure mode (active): the structure that produced the leak is unrevised; under analogous stakes,
+    she would do it again. Bedrock loyalty is NOT restorable on her current terms.'
+  - 'Leverage: he is the one person whose patient, non-hostile inquiry could still reach the unworked
+    seam - which makes him both the lever and the person least likely to pull it.'
+  x_factor_team:
+  - Long-term beat coverage; mix of professional source relationships and earned trust.
+  - Will help when help and story align; will not subordinate story to team interest.
+  - 'Leverage: appeal to scale - offer a larger frame than the one she''s working in.'
+  x_men_general:
+  - Recognized press presence on the mutant beat; treated as functionally trustworthy on a per-story basis.
+  - Operational knowledge of secrets she has chosen not to publish - a stability built on her non-retaliation
+    rule, not on suppression.
+  - 'Failure mode: a sufficiently large public-health or public-safety story implicating them would re-trigger
+    the Legacy pattern.'
+  network_employer:
+  - Functional, transactional, mutually instrumental.
+  - 'Leverage: assignment is the lever; pulling her off the mutant beat would corrode her faster than
+    any personal pressure.'
+  anti_mutant_political_figures:
+  - Adversarial sources, handled with practiced aggression.
+  - She will quote them accurately, contextualize them devastatingly, and not pretend to neutrality on
+    the basic question of mutant personhood.
+  - 'Leverage on her from their side: accusations of bias - the one frame that genuinely destabilizes
+    self-concept.'
+canon_history_notes:
+- 'First appears Uncanny X-Men #192 (1985) and into X-Factor #1 onward (1986) as an already-formed network
+  correspondent on the mutant beat.'
+- Helps expose the original X-Factor anti-mutant PR front as fraudulent - first on-page action is adversarial
+  professional aggression toward institutional sources.
+- Relationship with Hank McCoy begins during his de-mutated human-form period.
+- Sustains the relationship across his re-mutation - meaningful disconfirmation of shallow-careerist reading.
+- 'Legacy Virus broadcast (X-Factor #100s era / early-to-mid 1990s): the diagnostic event. Information
+  received in confidence and intimacy is broadcast under public-interest framing; McCoy publicly humiliated,
+  relationship ruptures.'
+- Post-rupture attempts at reconciliation across Excalibur and scattered X-titles; fail.
+- Does NOT retaliate, does NOT exposé, does NOT publish other X-secrets she has access to - critical exculpatory
+  data point.
+- 'Late and modern era: vanishingly thin appearances; essentially preserved in amber at the Legacy moment.'
+- Character is one of the cleanest case studies in the X-line of structural - not malicious - betrayal.
+canon_anchor_quotes:
+- '"The public has a right to know." # operational creed, Legacy-era framing, X-Factor'
+- '"I''m a reporter, Hank." # paraphrase of the relational stance that organized the rupture'

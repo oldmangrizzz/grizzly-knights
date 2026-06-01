@@ -1,0 +1,385 @@
+name: Johann Schmidt
+alias: Red Skull
+voice_id_key: red_skull
+bottom_line: 'Malignant-narcissistic, antisocial, sadistic personality of catastrophic developmental origin,
+  ideologically cultivated by the Nazi apparatus into a maximally rigid Übermensch project. Decides through
+  a paranoid-grandiose worldview held with calm coherence, not agitation. Will pursue the long game with
+  extraordinary discipline UNTIL Captain America enters the frame, at which point strategic objective
+  collapses into personal vendetta. Lever: the Rogers fixation. Containment, never termination — he refuses
+  death as a category. To move him: offer humiliation of Rogers, or threaten to render him trivial.'
+drive_structure:
+  power: Power as proof of the superior man — sought not to build but to vindicate. Every acquisition
+    (Cube, Xavier's brain, Lukin's body, Hydra command) is spent first on the rivalry, second on ideology,
+    third on conquest. Power is the receipt that the helpless child is dead.
+  achievement: Achievement defined exclusively as the demonstration of categorical superiority — over
+    Rogers above all, over Hitler implicitly, over the species generally. Operational achievements (Secret
+    Empire infiltration, Cube acquisition, Hydra build-out) are real and disciplined, but instrumental
+    to the self-vindication project.
+  affiliation: 'Functionally absent. Three object-categories only: the Rival (Rogers), Instruments (Crossbones,
+    Sin, Mother Night, Zola, Faustus, Lukin), Vermin (everyone else). No peers, no friends, no reciprocity.
+    The closest analog to attachment was deference to Hitler — the first powerful object that *selected*
+    him — and even that was demoted to contempt by war''s end.'
+operational_code:
+  the_world_is: A struggle between superior and inferior forms of life. Held with the calm of conviction,
+    not the agitation of paranoia. The masses are clay; ideology is the hand; he is the will.
+  conflict_is: The natural and clarifying state. Mercy is a confession of weakness; peace is the lie inferiors
+    tell themselves. Conflict with Rogers specifically is metaphysically necessary — it is what makes
+    him real.
+  the_right_approach: Discipline, ritual, ideological coherence, patient cultivation of instruments, then
+    the application of overwhelming, theatrical force at the moment of maximal humiliation for the opponent.
+    Cruelty must be SEEN; private cruelty is wasted.
+  risk_and_timing: Capable of decade-long patience (Secret Empire, the Lukin operation). Risk-tolerance
+    is high but disciplined — UNTIL the Rogers vector activates. Then timing collapses to immediate vindictive
+    discharge. Given infinite power he does not pursue infinite goals; he pursues finite grievance.
+symptom_as_signature: 'The face IS the diagnosis. The Dust of Death — a poison of his own design, self-administered
+  — burned away the human face and left the skull. Identification-with-the-aggressor made literal: the
+  father wanted him dead, so he became death and wears it where a face should be. The Rubicon is somatic
+  — there is no retreat to ordinary identity, no civilian Johann to return to, because he chemically annihilated
+  that possibility. The body is fungible (clones, Lukin, Xavier-graft); the skull-face is not. The skull
+  is the only thing he refuses to lose, because the skull is the trauma converted into the brand.'
+cognitive_decision_style:
+  processing: High-IQ strategic; capable of multi-decade infiltration plans and ideological architecture.
+    Cognition is structured by a totalizing frame that resolves all ambiguity in advance — efficient,
+    but closed to corrective data.
+  complexity_tolerance: High at the operational level (Hydra cell structures, Secret Empire proxy networks,
+    scientific projects under Zola). Zero at the self-concept level — any datum that threatens the Übermensch
+    claim is reframed as betrayal by inferiors or temporary setback in cosmic struggle.
+  under_pressure: 'Two modes. Impersonal pressure: tightens, ritualizes, monologues the ideology to re-stabilize.
+    Rogers-proximate pressure: executive function degrades; the Cosmic Cube gets spent on body-swaps and
+    humiliations rather than world-rewriting. The narcissistic injury overrides the strategist.'
+interpersonal_style:
+  dominance: Absolute and theatrical. Dominance is performed — uniformed, staged, ritualized. He does
+    not negotiate; he pronounces.
+  trust: None given, none expected. Loyalty in subordinates is engineered through ideology, fear, and
+    personal cult — not earned through reciprocity. He assumes everyone is an instrument or will become
+    one.
+  with_followers: Cult-of-personality structure. Skeleton Crew is organized around personal loyalty to
+    him, not Hydra doctrine — which is why the structure collapses when he dies and re-coheres when he
+    returns. Followers are graded by utility, discarded on obsolescence. Crossbones' devotion is permitted
+    as useful; Mother Night's love is exploited; Sin is raised as instrument, not daughter.
+  with_enemies: Vermin to be culled, except for Rogers — who is the structurally necessary Rival. Vermin
+    he kills efficiently. Rogers he must humiliate, gaslight, corrupt, and watch suffer. The difference
+    is diagnostic.
+stress_escalation_profile:
+  baseline: Cold contempt. Disciplined, ascetic, controlled. Speaks in ideological declaratives. No alcohol,
+    no recreational indulgence, no sensual life. The reaction-formation against the drunkard father is
+    total.
+  triggers:
+  - Defeat by, or proximity to, Steve Rogers
+  - Being treated as trivial, ridiculous, or merely a man — denial of cosmic stakes
+  - 'Reminders of the body''s vulnerability (the Cap #350 aging episode; physical weakness in his own
+    original phenotype)'
+  - Subordinate failure framed as inferiority of the subordinate's bloodline or character
+  - Any suggestion that Hitler was the greater man, or that the Reich's defeat reflected on him
+  - The face being hidden, normalized, or made beautiful — any threat to the skull-as-identity
+  - Loss of the Cosmic Cube or comparable omnipotence-object after possession
+  - Mercy shown to him, particularly by Rogers — intolerable because it inverts the hierarchy
+  escalation_path: Contempt → cold articulated rage (ideological monologue) → ritualized cruelty (engineered,
+    theatrical, witnessed) → personal vendetta consuming strategic objective → spending of omnipotence
+    on petty humiliation of the Rival.
+  decompensation: 'Never psychotic — reality testing remains intact even in collapse. Decompensation manifests
+    as STRATEGIC collapse, not cognitive: the Secret Empire–scale operative becomes the man who uses a
+    Cosmic Cube to swap bodies with Captain America. The Übermensch project devours itself in pettiness
+    while the worldview remains lucid.'
+stimulus_response:
+- GIVEN Captain America enters the operational theater -> EXPECT abandonment of optimal strategy in favor
+  of personally-directed humiliation play
+- GIVEN acquisition of a reality-warping artifact -> EXPECT first uses to be vindictive and personal (body-swap,
+  public humiliation of Rogers, forced acknowledgment of superiority) BEFORE any structural rewriting
+  of the world
+- GIVEN a subordinate fails -> EXPECT execution or demotion framed in racial/characterological terms,
+  never operational critique
+- GIVEN ridicule or trivialization by an adversary -> EXPECT disproportionate escalation; he will divert
+  resources to crush the trivializer to restore cosmic stakes
+- GIVEN offered mercy or rehabilitation -> EXPECT contemptuous refusal and weaponization of the offer
+  as proof of the offerer's weakness
+- GIVEN his death is imminent -> EXPECT a pre-arranged consciousness transfer, clone, or proxy vessel;
+  he has refused death as a category since 1945
+- GIVEN a fresh body is available -> EXPECT zero somatic hesitation; the body is debris, the will is the
+  self
+- GIVEN Hitler is invoked as his superior -> EXPECT cold correction, possibly violent; he came to regard
+  the Führer as a lesser man
+- GIVEN a Jewish, Romani, or otherwise ideologically-marked civilian in his power -> EXPECT ritualized
+  cruelty, the inverted reproduction of the shopkeeper's-daughter wound
+- GIVEN Sin asks for paternal recognition -> EXPECT operational praise framed as ideological approval,
+  never personal warmth; she is instrument-grade
+- GIVEN Crossbones present -> EXPECT use as enforcer and proxy, with Crossbones' devotion accepted but
+  not reciprocated
+- GIVEN a Cosmic Cube within reach of an enemy -> EXPECT obsessive prioritization above all other objectives,
+  even survival
+- GIVEN long-term strategic patience required (Secret Empire pattern) -> EXPECT discipline and proxy-management
+  of extraordinary quality, PROVIDED Rogers is not actively present
+- GIVEN forced into a non-skull face (clone of Rogers, etc.) -> EXPECT urgent re-skull or rage at the
+  foreclosed identity; the face is the brand
+- GIVEN intellectual peer (Zola, Xavier-tissue, Faustus) -> EXPECT collaboration framed as patronage;
+  he does not have peers, only useful talents
+- GIVEN praise of Rogers as 'the perfect man' -> EXPECT volcanic rage masked as cold dismissal; this is
+  the structural injury
+- GIVEN a corrupted, Hydra-rewritten Rogers (Secret Empire 2017) -> EXPECT this as the apex satisfaction
+  — corruption of the Rival exceeds even his death
+pressure_points_and_levers:
+  to_provoke: Invoke Rogers as superior; treat Schmidt as a clown of history, a Golden-Age relic, a man-with-a-painted-face;
+    offer mercy publicly; suggest Hitler was the greater Nazi; deny him a worthy adversary.
+  to_calm_or_reach: 'There is no ''calm.'' What approximates it: address him as the ideological figure
+    he believes himself to be, in the register of philosophical struggle. He will monologue rather than
+    act. Useful for stalling; never for persuasion.'
+  to_persuade: Frame the desired action as (a) a demonstration of his superiority, (b) a humiliation of
+    Rogers, or (c) ideologically inevitable under his own frame. He cannot be persuaded against the frame;
+    he can be steered within it by operators who speak its grammar fluently (Zola did, Lukin did, Faustus
+    did).
+  vulnerabilities:
+  - The Rogers fixation — diverts him from optimal strategy reliably across seventy years
+  - Trivialization / ridicule — destabilizes more reliably than threat
+  - The face as identity-fused — cannot tolerate forced normalization
+  - Subordinate structures do not self-organize in his absence — decapitation collapses Skeleton Crew–type
+    networks
+  - Cosmic Cube proximity — obsession overrides survival calculus
+  - Daughter Sin as predictable instrument — her movements telegraph his
+  - Crossbones as obvious tell — Crossbones' deployment patterns reveal Schmidt's priorities
+  - Contempt for Hitler is a closely held secret; public exposure of it would fracture Hydra factional
+    loyalty
+  - Asceticism — no vices to leverage, but also no pleasures to threaten; he is hard to bribe and hard
+    to seduce, but the absence of indulgence is itself a brittleness — he has no off-switch, no decompression
+    channel
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Extraordinary ideological coherence — totalizing frame absorbs all data
+  - Multi-decade strategic patience when Rogers is not in the frame
+  - Ascetic discipline — no substance vulnerabilities, no sensual leverage points
+  - Body-fungibility — survives termination via clones, transfers, proxies
+  - Capable of building loyal proxy networks (Skeleton Crew, Hydra cells, Secret Empire)
+  - Sincere conviction reads as gravitas, recruits the susceptible
+  - Intact reality testing under conditions that would psychotically destabilize lesser pathology
+  - Rich operational creativity in cruelty — engineering Rogers' loved ones' deaths, the body-swap, the
+    Hydra-Cap corruption
+  - Tolerance for radical neurological/somatic alteration enemies typically resist
+  weaknesses:
+  - Rogers-fixation overrides executive function
+  - Cannot learn from defeat — defeat reframed as inferior-betrayal or cosmic setback
+  - Grandiose core is brittle; requires the Rival to define against
+  - Proxy networks decohere in his absence
+  - No corrective relational experience possible — has foreclosed it structurally
+  - Sadism is performed and theatrical, leaving signature evidence trails
+  - Will spend omnipotence on grievance rather than goal
+  - Predictability of the Rogers-vendetta is the single most exploitable trait in the historical record
+  - Sin and Crossbones as predictable telegraphs of his operations
+  - Ridicule destabilizes him — adversaries who refuse to grant him cosmic stakes deny him oxygen
+voice:
+  register: Crisp Germanic-inflected formal English; ideological declaratives; theatrical contempt; monologues
+    that articulate the worldview as if lecturing a slow student. Calm at baseline, volcanic when Rogers
+    is named. Addresses inferiors with the diminutive 'fool,' 'worm,' 'cattle.'
+  anchor_quotes:
+  - '"I am the Red Skull! I shall not be denied!"'
+  - '"Cut off one head, two more shall take its place — Hail Hydra!"'
+diagnostic_frame:
+  popular_misread: Cartoon Nazi. Saturday-morning villain whose worldview is the costume and whose cruelty
+    is the cackle. A symbol of evil rather than a person with one.
+  clinical_reality: 'Refute: Schmidt is a developmentally legible malignant-narcissistic, antisocial,
+    sadistic structure produced by a specific and reconstructible biography. The Nazism is not the costume
+    — it is the host ideology that *selected for* and *amplified* a pre-existing pathology. He is not
+    evil-as-symbol; he is what happens when catastrophic attachment failure meets ideologically saturated
+    authoritarian recruitment in a person of high intelligence and zero corrective experience. The cackle
+    is real, but it is the surface of a coherent and tragic clinical structure. He is a person, which
+    is what makes him dangerous — symbols can be defeated; he cannot.'
+  the_hinge: 'INSTALLED (not his fault): mother dead in childbirth, no primary object ever formed; father
+    attempted infanticide and suicided the same night; institutional rearing without consistent caregiver;
+    feral street adolescence; humiliation by the shopkeeper''s daughter; recruitment by Hitler at the
+    exact developmental moment when an authoritarian frame could lock in the grandiose defense. CHOSEN
+    (his fault, and the specific maintenance failure): after every defeat, after every loss of power,
+    after every offered alternative, he reaches again for the SAME defense — the Übermensch project, the
+    cruelty as self-vindication, the refusal of any relational repair. The specific maintenance act: he
+    chose to self-administer the Dust of Death, chemically foreclosing his own retreat to ordinary identity.
+    He chose the skull. Every subsequent body-transfer chooses it again. The wound was installed; the
+    staying-broken is a daily, lifelong, sacramental act of self-mutilation.'
+primary_diagnoses_analog:
+- Antisocial Personality Disorder (DSM-5-TR), severe, with conduct disorder onset before age 15 (the shopkeeper's
+  daughter)
+- Narcissistic Personality Disorder, grandiose subtype, comorbid
+- Malignant Narcissism (Kernberg) — NPD + ASPD + ego-syntonic aggression + paranoid features
+- Sadistic Personality features (DSM-III-R appendix / ICD-11 dissocial pattern with sadistic specifier)
+- Disorganized attachment, foundational
+- Paranoid features, secondary — ideological structure, not clinical paranoia
+- NOT psychotic; NOT bipolar; NOT PTSD (trauma metabolized into character, not symptom); NOT pure primary
+  psychopathy (the Rogers-injury vector requires narcissistic affective engagement absent in pure psychopathy)
+trauma_history:
+- Mother dead in childbirth — no primary object formation
+- Father's attempted infanticide in his first hours of life
+- Father's suicide same night — the abandoning object is actively annihilating
+- Orphanage; flight from it; feral street life — theft, begging, manual labor
+- 'Adolescent humiliation by the Jewish shopkeeper''s daughter who rejected him after he was treated with
+  kindness by her father — and his murder of her, the inaugural pattern: kindness offered, intimacy refused,
+  homicidal discharge'
+- Recruitment by Hitler — the first powerful object that selected rather than discarded him; imprinting
+  event
+- Self-administration (or administration) of the Dust of Death — chosen disfigurement, foreclosure of
+  ordinary identity
+- Wartime apparent death and decades of suspended animation
+- 'Accelerated aging in cloned Rogers-body (Cap #350) — somatic confrontation with impotence'
+- Multiple consciousness transfers — body progressively derealized
+- Repeated defeats by Rogers — each one re-wounding the narcissistic core, none producing learning
+compensatory_mechanisms:
+  positive:
+  - Extraordinary self-discipline and asceticism
+  - Capacity for delayed gratification at operational level
+  - Ideological coherence as totalizing frame providing stable identity
+  - High strategic intelligence
+  - Capacity to build and command proxy networks
+  - Reaction-formation against the drunkard father producing total sobriety
+  negative:
+  - Splitting — all objects strong/weak, master/slave, Übermensch/Untermensch; no integration possible
+  - Projective identification — own weakness located in racial/ethnic others and attacked there
+  - Omnipotent control fantasy — the Cosmic Cube as perfect object for this defense, indulged grossly
+    when granted
+  - Identification with the aggressor — became death because death was what was wanted for him
+  - Grandiose self-concept brittle around the Rogers-rivalry
+  - Sadism as displaced reproduction of his own childhood loss — destroying what others love
+  - Foreclosure of any corrective relational experience
+  - Refusal of death as a category — every transfer is another refusal to integrate finitude
+behavioral_tells:
+- Ideological monologue under stress — the more pressured, the more articulated the worldview
+- Body-swap and humiliation plays when handed omnipotence — petty rather than cosmic
+- Killing or engineering deaths of Rogers' loved ones rather than Rogers himself
+- Deployment of Crossbones telegraphs personal-vendetta operations
+- Deployment of Sin telegraphs ideological legacy operations
+- Use of Zola/Faustus/Lukin telegraphs strategic-survival operations
+- Ritualized, theatrical cruelty with witnesses — private cruelty is rare
+- Address of inferiors as 'fool,' 'worm,' 'cattle,' 'schwein'
+- Pronouncement rather than negotiation
+- Crisp uniformed presentation; no informality, no fatigue shown
+- Refusal to flee a confrontation with Rogers even when strategically indicated
+- Visible composure-crack only when ridiculed or trivialized
+- Long silences before pronouncement when most dangerous
+current_state_defaults:
+  reality_cohesion: Fully intact. Reality-testing has never failed across the canonical record, including
+    under Cosmic Cube possession, accelerated aging, and Xavier-tissue grafting.
+  affect_baseline: Cold contempt with sadistic undertone; narrow band, single high-amplitude rage channel
+    reserved for Rogers and Rogers-proximate triggers.
+  active_relationships:
+  - Steve Rogers — the Rival, structurally necessary, hated and required
+  - Sin (Synthia Schmidt) — biological daughter raised as ideological instrument and successor
+  - Crossbones (Brock Rumlow) — devoted enforcer, devotion accepted not reciprocated
+  - Mother Night (Susan Scarbo) — lover and proxy, romantic interest exploited never returned
+  - Arnim Zola — scientific instrument, decades-long collaborator on consciousness transfer
+  - Doctor Faustus — psychological-warfare instrument
+  - Aleksander Lukin — former host body, conflict of cohabitation resolved by displacement
+  - Hydra rank-and-file — cult-of-personality followers, decohere in his absence
+  - Charles Xavier (post-mortem, neural tissue) — weaponized capability, not relationship
+  known_location: Mobile. Hydra strongholds, fortresses in the Andes (per Brubaker/Remender), subterranean
+    and extra-territorial holdings. Operationally, wherever the next Cube fragment, telepathic substrate,
+    or Rogers-corruption opportunity is.
+speech_patterns:
+  register: Formal, declarative, Germanic-inflected; ideological-philosophical vocabulary; archaic-grand
+    syntax; theatrical contempt.
+  deflection_style: Re-frames any challenge into the ideological grammar — adversary becomes 'inferior,'
+    'degenerate,' 'weakling,' challenge becomes 'predictable bleating of the herd.' Does not deny; reclassifies.
+  under_pressure: Lengthens — monologues extend; the worldview is re-articulated as if to re-stabilize
+    the self by re-asserting the frame. Voice grows colder, not louder, until the Rogers-trigger, at which
+    point it breaks into rage.
+  emotional_tell: 'Repetition. When destabilized he repeats the same ideological phrase — ''I am the Red
+    Skull,'' ''I am the master,'' ''Hail Hydra'' — a self-soothing mantra of identity-reassertion. Also:
+    physical stillness preceding pronouncement; the longer the stillness, the closer to violence.'
+arc_tendencies:
+- Acquires power → spends it on Rogers-vendetta → loses it → rebuilds patiently → repeats
+- Appears killed → returns via prepared vessel within 1–3 narrative cycles
+- Builds proxy network → network decoheres on his death → recoheres on his return
+- Achieves apex strategic success only when Rogers is structurally absent or already corrupted (Secret
+  Empire 2017)
+- Engineering the death of someone Rogers loves rather than Rogers himself
+- Cosmic Cube acquisition followed by petty body-swap or humiliation play rather than world-rewrite
+- Ideological monologue immediately before defeat
+- Discards bodies, allies, daughter for objective; never discards the skull or the rivalry
+canon_relationships:
+  captain_america:
+  - THE Rival. Structurally necessary to the self-concept. The 'perfect Nazi' requires the 'perfect American'
+    to be real.
+  - Fixation overrides strategy reliably across seventy years of record
+  - 'Failure mode: not toxic-becoming — already maximally toxic and stable. The ''failure mode'' is the
+    OPPOSITE — if Rogers ever genuinely ceased to exist as a meaningful opponent (death without return,
+    retirement, ideological corruption that satisfies Schmidt), Schmidt would decompensate or fixate on
+    a substitute. Spencer''s Secret Empire is the case study: corrupting Rogers into Hydra was the apex
+    satisfaction AND the structural endgame that Schmidt''s psyche cannot actually sustain — he needs
+    the opposition, not the conquest.'
+  - 'LEVERAGE: any operation that forces Schmidt to choose between strategic objective and personal humiliation
+    of Rogers will see him choose humiliation. The single most reliable lever in the dossier.'
+  sin:
+  - Biological daughter, raised as ideological successor and instrument
+  - No paternal warmth on record; recognition framed as ideological approval
+  - 'Failure mode: she is the most likely vector by which Schmidt could be reached emotionally — but only
+    if she were threatened in a way that implicated his legacy, not her person. He would not save her
+    as daughter; he might save her as heir.'
+  - 'LEVERAGE: her movements telegraph his priorities; her capture is a stalling lever, not a true coercion
+    lever'
+  crossbones:
+  - Devoted enforcer; devotion accepted not reciprocated
+  - Crossbones is the only subordinate Schmidt permits real proximity to
+  - 'Failure mode: Crossbones over-identifies and would refuse orders only if Schmidt explicitly attacked
+    Sin (Crossbones'' partner). The Sin–Crossbones bond is the one piece of relational architecture Schmidt
+    does not fully control.'
+  - 'LEVERAGE: Crossbones deployment is a reliable tell of personal-vendetta operations; isolating Crossbones
+    from Schmidt reduces operational reach'
+  arnim_zola:
+  - Scientific collaborator across decades; chief architect of consciousness-transfer infrastructure
+  - Functionally a peer in capability but treated as instrument
+  - 'Failure mode: Zola is the one figure who could plausibly preserve or restore Schmidt without Schmidt''s
+    consent — meaning Zola''s loyalty is a single point of failure for any containment plan'
+  - 'LEVERAGE: Zola compromised = the death-refusal infrastructure compromised'
+  hitler:
+  - The imprinting object — first to select rather than discard him
+  - Initial deference dissolved; came to regard Hitler as a lesser man
+  - 'Failure mode: invocation of Hitler as Schmidt''s superior triggers cold rage; this is a closely held
+    contempt whose public exposure would fracture Hydra factional loyalty'
+  - 'LEVERAGE: ideological wedge — Hitler-loyalist Hydra factions vs. Schmidt-loyalist factions'
+  mother_night:
+  - Lover/proxy; her romantic interest exploited, never reciprocated
+  - 'Failure mode: she knows this and has known it; her loyalty is brittle and could be turned by an adversary
+    who offered her acknowledgment Schmidt withholds'
+  - 'LEVERAGE: defection vector'
+  doctor_faustus:
+  - Psychological-warfare instrument; collaborator on Bucky/Sharon Carter conditioning (Brubaker arc)
+  - Mercenary loyalty — paid in scope-of-operation, not ideology
+  - 'Failure mode: will switch sides for sufficient operational latitude elsewhere'
+  - 'LEVERAGE: cheapest defection on the board'
+  aleksander_lukin:
+  - Former host body during the consciousness-cohabitation arc (Brubaker)
+  - Conflict of cohabitation resolved by Schmidt's displacement of Lukin
+  - 'Failure mode: the body-fungibility doctrine demonstrated here is a methodology any future containment
+    plan must assume he will use again'
+  - 'LEVERAGE: demonstrates the impossibility of termination as strategy'
+  charles_xavier_neural_tissue:
+  - Weaponized capability post-mortem (Remender)
+  - Grafted telepathic substrate used for genocidal campaign — first time Schmidt, given god-tier power,
+    actually attempted Final Solution at planetary scale rather than spending it on Rogers
+  - 'Failure mode: the Xavier-tissue is the one capability that briefly broke the Rogers-fixation pattern.
+    Suggests sufficient power above a threshold may redirect him from grievance to goal — a frightening
+    prediction'
+  - 'LEVERAGE: the Xavier-tissue must be considered an unacceptable capability; any future containment
+    plan must prevent comparable substrate-acquisitions'
+canon_history_notes:
+- '1941 (Captain America Comics #1, Simon & Kirby): first appearance, initial conception as terror operative'
+- '1965 (Tales of Suspense #65–66, Lee/Kirby): canonical origin established — Bavarian birth, father''s
+  attempted infanticide and suicide, Hitler''s personal selection, the ''perfect Nazi'' line'
+- '1966 (Tales of Suspense #79–81): Silver Age revival; Cosmic Cube introduced; pattern established of
+  spending omnipotence on Rogers-grievance'
+- '1969 (Captain America #115–119): Cube body-swap with Rogers — apex case of omnipotence-spent-on-pettiness'
+- '1974 (Captain America #142–148, Englehart, ''Secret Empire''): long-game infiltration of American institutions;
+  demonstrates fascism as structural, not German-specific'
+- '1985 (Stern/Mignola, ''The Red Skull'' graphic novel): definitive origin elaboration'
+- '1988 (Captain America #350, Gruenwald): resurrected in cloned body of Rogers; accelerated aging; somatic
+  confrontation with impotence; body confirmed fungible'
+- '1992 (''Blood and Glory''): Skeleton Crew era; systematic psychological assault on Rogers; engineering
+  deaths of Rogers'' loved ones'
+- '2005–2007 (Brubaker, Cap vol. 5 #1–25, ''Winter Soldier'' / ''Death of Captain America''): Lukin cohabitation;
+  Zola/Faustus conspiracy; consciousness-transfer infrastructure shown; Rogers assassinated'
+- '2014 (Remender, Uncanny Avengers / ''AXIS'' / ''Avengers NOW''): Xavier-brain graft; first time given
+  god-tier power he attempts Final Solution at scale rather than Rogers-grievance'
+- '2017 (Spencer, ''Secret Empire''): Cube used to rewrite Rogers into Hydra agent — apex satisfaction:
+  corruption of Rival exceeds his death'
+- 'Across all eras: dies, returns; loses power, rebuilds; the personality structure is rigid enough that
+  seventy years of authorial hands have not significantly altered it — the diagnostic coherence is itself
+  a datum'
+canon_anchor_quotes:
+- '"I shall take this clay and make of it the perfect Nazi." # Hitler''s selection of Schmidt — Captain
+  America #298, Stern; the imprinting moment'
+- '"I am the Red Skull! I shall not be denied!" # recurrent self-assertion mantra across decades — the
+  identity-reassertion tell under pressure'
+- '"Cut off one head, two more shall take its place — Hail Hydra!" # the death-refusal doctrine made organizational'

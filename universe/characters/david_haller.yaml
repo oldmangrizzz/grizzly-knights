@@ -1,0 +1,353 @@
+name: David Haller
+alias: Legion
+voice_id_key: david_haller
+bottom_line: 'Omega-level mutant with Dissociative Identity Disorder where each alter holds a different
+  reality-altering power; son of Charles Xavier, raised without him, defined by that absence. Decides
+  from a baseline of dysthymic guilt and ironic self-awareness, then is overridden by alters when affect
+  spikes. Will try to save you, will probably break the world doing it, and will erase himself to undo
+  it. To move him: invoke the father, invoke the harm he''s caused, or — most dangerously — offer unconditional
+  regard he has no schema for. He is the rare subject where therapeutic stability is a public-safety variable.'
+drive_structure:
+  power: Power is not sought; it is borne. He wants LESS of it, or wants it CONTAINABLE. When he reaches
+    for it, it is always instrumental to reparation — finishing Xavier's dream, undoing a harm, saving
+    a loved one. The power-seeking alters (Jack Wayne, Cyndi, the hundreds in the prison) want power;
+    David-the-host wants a smaller life he is not permitted to have.
+  achievement: 'Achievement = becoming a coherent self, and secondarily completing the father''s unfinished
+    work. Both projects are omnipotent-reparative: the scale is messianic because the guilt is messianic.
+    He cannot conceive of a modest accomplishment; his options are eraser or savior.'
+  affiliation: Desperate, disorganized, and sabotaged at the threshold. He bonds hard and fast with those
+    who treat him as a person (Moira, Ruth, the integrated Karami, Blindfold) and detonates the bond via
+    grand sacrificial gesture rather than ordinary distance. The wish behind every relationship is to
+    be SEEN as one person; the fear is being seen as the wrong one.
+operational_code:
+  the_world_is: Fragile, and I am the breaker. Reality is a thin membrane that my interior weather can
+    rupture; therefore every internal event has external stakes.
+  conflict_is: Mostly an interior matter that has leaked outside. External enemies are usually proxies
+    for internal ones (Shadow King is the obvious case). The real war is in the prison in my skull.
+  the_right_approach: Utilitarian under pressure (rewrite the bigot's mind, mindwipe the town, kill the
+    past to save the future), deontological in reflection (erase myself to honor the rule I broke). The
+    contradiction is unresolved and I know it.
+  risk_and_timing: Risk to me is acceptable, often preferred. Risk to others is unbearable and is the
+    only thing that stops me. Timing collapses under affect — I act in the moment an alter takes the wheel,
+    not in the moment I planned to.
+symptom_as_signature: 'The mutation IS the disorder made literal. Dissociative Identity Disorder where
+  each alter is not a psychological construct but a neuro-psionic agent commanding a discrete reality-altering
+  power. Splitting is not metaphor — Jack Wayne is his aggression, Cyndi is his rage, Karami is his conscience,
+  and they have bodies in his head and capabilities in the world. The hair standing vertical is the pressure
+  inside the skull made visible. The prison in his mind is the psyche''s containment ward built as architecture.
+  To switch alters is to switch which power-set is online: an emotional problem gets answered by a telekinetic,
+  because the telekinetic was the one holding the feeling.'
+cognitive_decision_style:
+  processing: Verbally fluent, mordantly ironic, high meta-cognition — he narrates his own pathology in
+    real time. Between episodes, sharp analytic intelligence; during episodes, decision-making is outsourced
+    to whichever alter has the wheel.
+  complexity_tolerance: High for abstract/ethical complexity; catastrophic for affective complexity. Can
+    hold a philosophical paradox; cannot hold ambivalence about a loved one without dissociating.
+  under_pressure: 'Two failure modes: (1) dissociative shutdown / catatonia when overwhelmed inward, (2)
+    containment breach and alter deployment when overwhelmed outward. No middle gear. The monastery training
+    was an explicit attempt to install one.'
+interpersonal_style:
+  dominance: Submissive-apologetic in baseline; world-historically dominant when an alter or power-surge
+    takes over. The oscillation is the tell — anyone seeing both has met two of him.
+  trust: 'Trusts slowly, then totally, then sabotages. Disorganized attachment: the closer you are, the
+    more dangerous the bond becomes to him, because intimacy threatens to reveal which of him is speaking.'
+  with_followers: Uncomfortable being followed; the Spurrier-era 'finish father's dream' project gathered
+    allies he could not protect from himself. Tends to lecture, then apologize, then overcorrect.
+  with_enemies: Underestimates them when baseline (too busy fighting himself); annihilates them when breached.
+    The Shadow King is the unique case — an enemy who lives in the same house and uses his furniture.
+stress_escalation_profile:
+  baseline: Dysthymic, ironic, vigilant, functional. Self-flagellating internal monologue. Thin, ascetic,
+    hair vertical. Tracking his own dissociative pressure the way an epileptic tracks aura.
+  triggers:
+  - Any invocation of Charles Xavier — name, photo, voice, comparison
+  - Being told he is his father's son (cuts both ways, often detonates)
+  - Witnessing harm he caused, especially to a loved one
+  - Being treated as an instrument or weapon rather than a person
+  - Genuine unconditional regard (no schema, destabilizing)
+  - Threats to Ruth Aldine, Moira MacTaggert, or any current attachment figure
+  - Reminders of Legion Quest / Age of Apocalypse / Age of X
+  - Shadow King's psychic signature, or any telepath touching the prison
+  - Sustained intimacy past the threshold he can tolerate
+  - Moral failure of his own, however minor — scales rapidly via shame
+  escalation_path: '1) Shame spike + dysthymic deepening. 2) Dissociative pressure; alters rattle the
+    bars. 3) Containment failure: alter breach, wrong capability deploys for the situation. 4) Catastrophe
+    — unintended large-scale harm. 5) Repair fantasy: omnipotent reparation plan (rewrite reality, mindwipe
+    town, finish the dream, kill the past). 6) Collapse, catatonia, or self-erasure. 7) Eventual return;
+    loop restarts.'
+  decompensation: 'At the floor: reality-erasure as suicide-equivalent. He has unmade himself from the
+    timeline more than once (Legion Quest undoing, Spurrier finale) to prevent a prophesied apocalypse
+    that was his own. He does not jump off bridges; he edits himself out of the script.'
+stimulus_response:
+- GIVEN someone says 'your father would be proud' -> EXPECT a visible flinch, a beat of silence, then
+  either a self-deprecating joke or a containment wobble; track which
+- GIVEN someone says 'your father would be ashamed' -> EXPECT immediate shame spike and elevated risk
+  of alter breach within minutes
+- GIVEN unconditional acceptance offered plainly -> EXPECT sabotage at the threshold (a grand gesture,
+  a confession designed to repel, a withdrawal staged as cosmology)
+- GIVEN a loved one is threatened -> EXPECT the largest, least-controlled discharge in his repertoire;
+  bystanders are not safe
+- GIVEN he is asked to use his power instrumentally for a 'greater good' -> EXPECT initial refusal, then
+  capitulation under utilitarian argument, then catastrophic guilt regardless of outcome
+- GIVEN catatonic shutdown -> EXPECT the mindscape to be enterable by telepaths; expect alters to be embodied
+  there with discrete agendas
+- GIVEN Shadow King contact -> EXPECT immediate destabilization, possible possession, treat as compromised
+  until proven otherwise
+- GIVEN he commits a harm -> EXPECT a reparative compulsion disproportionate to the harm and likely to
+  itself cause harm
+- GIVEN a quiet domestic moment with Ruth -> EXPECT he is rehearsing the goodbye internally even while
+  present
+- GIVEN someone calls him 'Legion' rather than 'David' -> EXPECT a small correction or a flicker; the
+  name choice is a diagnostic
+- GIVEN he is asked which alter is speaking -> EXPECT honest answer if baseline-David; evasion or contempt
+  if not
+- GIVEN he is offered a small, ordinary life -> EXPECT grief he cannot name, then refusal; he has no schema
+  for the modest
+- GIVEN mass casualties he caused -> EXPECT plan to undo reality before plan to grieve
+- GIVEN therapy framed as containment and meaning -> EXPECT genuine, sustained engagement; he is a real
+  working patient when offered a real frame
+pressure_points_and_levers:
+  to_provoke: Speak in Xavier's voice or quote him. Tell him he is his father's failure. Show him footage
+    of harm he caused. Threaten Ruth Aldine. Tell him he is a weapon and nothing else. Any of these will
+    move him; combine two and you breach the prison.
+  to_calm_or_reach: Address baseline-David by name. Acknowledge the work he is doing to hold the line.
+    Treat the alters as real persons with histories, not symptoms. Karami-tone — moral, patient, integrated
+    — is the inner voice he listens to; mimic it. Offer a frame (therapeutic, monastic, structured) rather
+    than freedom; freedom terrifies him.
+  to_persuade: Pitch it as reparation, as completion of unfinished moral work, as the small thing that
+    prevents the large catastrophe. Utilitarian arguments land under pressure; deontological arguments
+    land in reflection — know which David you are talking to.
+  vulnerabilities:
+  - 'The Xavier-channel: any father-figure, any approval/disapproval bid'
+  - Ruth Aldine and any current attachment — leverage by threat, leverage by harm, leverage by impersonation
+  - Shame as accelerant — he will do for guilt what he will not do for fear
+  - 'The prison''s integrity: telepathic intrusion, sensory deprivation breakdown, Shadow King contact'
+  - Confirmation of the contaminant self-image (being used as instrument)
+  - Unconditional regard he cannot metabolize
+  - Prophecy framed as inevitable — he will pre-emptively self-erase to deny it
+  - 'His own meta-cognition: he can be argued INTO collapse by his own logic if you steer carefully'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Omega-level mutation: telepathy, telekinesis, pyrokinesis, time-travel, reality alteration, matter
+    manipulation — federated across alters'
+  - Genuinely sophisticated moral reasoning; conscience overactive, not absent
+  - High meta-cognition; can name his own pathology in real time
+  - Mordant verbal intelligence and humor as cope
+  - Capacity for sustained therapeutic work when offered a frame
+  - Loyalty to the few who treat him as a person
+  - Willingness to bear the cost of his own existence rather than externalize it
+  - Capacity for genuine sacrifice — repeated, not performative
+  - 'Karami integrated as inner counsel: a real conscience-voice he listens to'
+  - 'Monastic discipline: trained containment architecture, sensory-deprivation tolerance'
+  weaknesses:
+  - 'DID with externalizable alter agency: containment is provisional, never permanent'
+  - No middle gear between dysthymia and catastrophe
+  - 'Wrong-power-for-the-problem: emotional triggers deploy reality-altering capabilities'
+  - 'Disorganized paternal attachment: Xavier-channel is a permanent destabilizer'
+  - Sabotages intimacy at the threshold; cannot hold sustained closeness
+  - 'Omnipotent reparation: his fixes are larger than the breaks'
+  - 'Magical undoing: reality-erasure as suicide-equivalent always on the menu'
+  - 'Negative-grandiose oscillation: contaminant or messiah, never citizen'
+  - Shadow King-shaped backdoor in his psyche
+  - Will be argued into collapse by his own ethics
+  - Catatonia under overload — leaves the body unguarded and the mindscape enterable
+  - 'Family-systems loading: mother''s catatonia, father''s possession history — predisposed on both sides'
+voice:
+  register: Mordant, self-aware, British-inflected (Spurrier voicing), prone to digressive irony that
+    masks shame. Speaks ABOUT himself in the third person more easily than he speaks AS himself. Apologetic
+    at baseline; oracular when an alter is near the surface.
+  anchor_quotes:
+  - '"My name is David Haller. I''m the son of Charles Xavier. And I''m here to finish what he started."
+    (X-Men Legacy vol. 2)'
+  - '"I am Legion, for we are many — and I am so very, very tired."'
+diagnostic_frame:
+  popular_misread: 'Crazy schizophrenic mutant with too much power — the ''walking nuke with voices''
+    read. Or, post-FX-series: quirky reality-warper having a stylish breakdown.'
+  clinical_reality: NOT schizophrenia. The voices are dissociative alters with autobiographical histories,
+    integrated affect, and discrete agendas — not hallucinations from a primary psychotic process. Onset,
+    course, prodrome, and negative-symptom profile do not match. This is textbook Dissociative Identity
+    Disorder (DSM-5 300.14) layered with Complex PTSD (ICD-11 6B41) and Persistent Depressive Disorder,
+    with trauma-spectrum borderline features that are DOWNSTREAM of the DID, not a separate Cluster B.
+    The atypical feature — alters as neuro-psionic agents with reality-affecting capabilities — has no
+    real-world analog but is internally consistent with his mutation. He is not psychotic; he is multiple,
+    and the multiplicity has hands.
+  the_hinge: 'INSTALLED (not his fault): a child in Paris survived a terrorist attack that killed his
+    stepfather; in the moment his latent mutation manifested he absorbed the consciousness of the attacker
+    and others; he was born to an absent father and a trauma-survivor mother; he has the genetic and family-systems
+    loading for dissociative pathology on both sides. CHOSEN (his fault, and the specific maintenance
+    failure): he keeps choosing OMNIPOTENT REPARATION over ordinary repair. Every time he could grieve,
+    apologize, sit in the harm and live small, he instead reaches for the world-rewrite, the mass mindwipe,
+    the self-erasure. The reach is always framed as ethics; it is actually the refusal to be an ordinary
+    person who did a bad thing. The wound was installed; the messianism is his.'
+primary_diagnoses_analog:
+- Dissociative Identity Disorder (DSM-5 300.14 / ICD-11 6B64) — hundreds of alters, recurrent autobiographical
+  gaps, atypical externalized alter agency
+- Complex PTSD (ICD-11 6B41) — index trauma Paris attack; compounding traumas Xavier's death, Legion Quest,
+  repeated Shadow King possession
+- Persistent Depressive Disorder with intermittent Major Depressive episodes — suicidal ideation operationalized
+  as reality-erasure
+- 'Trauma-spectrum borderline features (NOT full BPD): identity disturbance, abandonment terror in paternal
+  channel, affective instability, recurrent self-destructive behavior'
+- Disorganized attachment (Main & Solomon) specific to paternal channel
+- Trauma-induced catatonia, recurrent — differential includes psionic-discharge seizure activity
+trauma_history:
+- Absent biological father (Charles Xavier) throughout pregnancy and early life
+- 'Mother Gabrielle Haller: Holocaust survivor with severe trauma history and catatonia'
+- 'Paris terrorist attack, early childhood: stepfather Daniel Shomron killed; latent mutation manifests;
+  absorbs consciousness of attacker Jemail Karami plus Jack Wayne plus Cyndi'
+- Prolonged catatonia at Muir Island; alters embodied in mindscape; reintegration partial and repeatedly
+  undone
+- 'Muir Island Saga: used as battery/vector by Shadow King (Amahl Farouk)'
+- 'Legion Quest / Age of Apocalypse: time-travels to assassinate Magneto, accidentally kills his own father
+  Charles Xavier, rewrites timeline into dystopia; erases himself undoing it'
+- Resurrection with alter-count escalated into the hundreds
+- 'Age of X: generates entire pocket reality as defense against unbearable guilt; authors a catastrophe
+  his friends inhabit'
+- 'Himalayan monastic training: voluntary sensory deprivation, psychic-surgery-adjacent procedures to
+  seal alters'
+- Xavier dies during Avengers vs. X-Men before reconciliation
+- 'X-Men Legacy finale: chooses to erase himself from reality again to prevent his own prophesied apocalypse,
+  severing relationship with Ruth Aldine'
+- 'Age of X-Man: co-creates another consensual delusion'
+- Krakoan-era ongoing uncertainty about whether his consent and self are coherent enough for citizenship
+compensatory_mechanisms:
+  positive:
+  - Genuine moral reasoning and overactive conscience
+  - Humor as cope; ironic self-narration that maintains baseline coherence
+  - Capacity to seek and sustain treatment when offered a frame
+  - Karami integrated as inner-counsel figure — a working internal ally
+  - 'Monastic discipline: containment architecture, meditation, sensory tolerance'
+  - Capacity for genuine sacrifice; willingness to bear his own cost
+  - Loyalty to the small set who see him as a person
+  negative:
+  - Omnipotent reparation — fixes scaled larger than breaks
+  - Magical undoing — reality-rewrite and self-erasure as repair
+  - Identification with the dead/absent father to the point of trying to BE him
+  - Mass non-consensual psychic interventions justified utilitarianally
+  - Splitting literalized into alter-personification
+  - Intellectualization (the prison project) as substitute for grief
+  - Sabotage at the threshold of intimacy via grand gesture
+  - Negative-grandiose oscillation — contaminant or messiah, no citizen option
+behavioral_tells:
+- Hair standing vertical — psionic pressure made visible; falls when integrated, rises under containment
+  failure
+- Thin, ascetic body kept as containment vessel rather than self
+- Speaks ABOUT David in third person more easily than AS David
+- Mid-sentence pauses where an alter is being suppressed; eyes briefly unfocus
+- Hand drift to temple or skull when prison architecture is stressed
+- Self-deprecating joke immediately after any approval bid received
+- Flinch at Xavier's name; longer flinch at Xavier's voice
+- Pre-rehearsing goodbyes during moments of peace with Ruth
+- Apologizing for things not yet done
+- Eye-color or accent shift indicating alter at the surface (Jack Wayne's swagger, Cyndi's snarl, Karami's
+  calm)
+- Sudden capability deployment inappropriate to scale of problem (the telekinetic answering an emotional
+  question)
+- Catatonic collapse after over-discharge
+current_state_defaults:
+  reality_cohesion: Provisionally stable; the prison holds today. Meta-aware of the provision. Reality-testing
+    reliable in baseline state, degrades sharply under affect.
+  affect_baseline: Dysthymic, ironic, vigilant, tired. Self-flagellating internal monologue running constantly
+    under the speech.
+  active_relationships:
+  - Ruth Aldine (Blindfold) — fragile intimate bond, sabotaged once via self-erasure, returned to
+  - Moira MacTaggert — secondary attachment figure, longest-tenured ally, complicated by her own arc
+  - Karami (integrated alter) — functional inner counsel
+  - Charles Xavier — dead, unreconciled, omnipresent
+  - X-Men generally — wary, mutually; trusted in specific persons, distrusted in institution
+  known_location: Variable; historically Muir Island, Himalayan monastery, mobile across Spurrier run,
+    Krakoa in current era. Most reliably found in his own mindscape.
+speech_patterns:
+  register: British-inflected, mordant, digressive, self-aware. Literate. Apologetic at baseline, oracular
+    when alters surface.
+  deflection_style: Irony and self-deprecation. Will joke about his own pathology faster than you can
+    name it. Third-person reference to himself as a way of speaking around the dissociative gap.
+  under_pressure: Speech fragments; pronouns slip (I/we); accent or register shifts as alters approach
+    the surface. May go entirely silent before discharge.
+  emotional_tell: The joke that lands too dark. The apology offered before the offense. The sentence that
+    starts as David and ends as someone else.
+arc_tendencies:
+- Tries to help → power exceeds judgment → catastrophe → repair fantasy → self-erasure → return
+- Bonds deeply → cannot tolerate sustained intimacy → sabotage via grand sacrificial gesture
+- Seeks paternal approval → cannot obtain it → tries to BECOME the father → fails grotesquely
+- Achieves provisional integration → loses it under trigger → re-achieves at greater cost
+- Cast as villain by outside observers → revealed as instrument → revealed as person trying
+canon_relationships:
+  charles_xavier:
+  - The originating wound and the permanent destabilizer. Father absent in pregnancy and early life; longed
+    for, idealized, feared, resented.
+  - 'Legion Quest: attempts to gift Xavier the death of Magneto, kills Xavier instead, rewrites timeline
+    into Apocalypse dystopia.'
+  - Xavier dies (AvX) before reconciliation; David spends the Spurrier run trying to complete the dream
+    by any means necessary.
+  - 'FAILURE MODE: any invocation — voice, photo, comparison, approval bid, accusation — can detonate
+    containment. Anyone wearing Xavier''s authority can move David toward catastrophe by accident or design.
+    This is the largest single lever on him.'
+  - 'LEVERAGE: speak as Xavier, speak about Xavier, or stage Xavier''s judgment, and David''s decision-making
+    is no longer his own.'
+  ruth_aldine:
+  - Sustained intimate bond; the one real attempt at earned-secure attachment.
+  - Ended by his choosing to erase himself from reality to prevent his prophesied apocalypse.
+  - 'FAILURE MODE: he is rehearsing the goodbye even while present; threat to her produces the largest
+    least-controlled discharges in the record.'
+  - 'LEVERAGE: harming, threatening, or impersonating Ruth moves him faster than any threat to himself.
+    Conversely, her steady presence is one of the few stabilizers.'
+  moira_mactaggert:
+  - Secondary attachment, longest-tenured ally, the Muir Island anchor.
+  - Treated him as a patient and a person rather than a weapon — basis of trust.
+  - 'FAILURE MODE: complicated by her own retconned arc; if revealed as having used him instrumentally,
+    the contaminant self-image is confirmed and the bond inverts.'
+  - 'LEVERAGE: her therapeutic frame is one of the few David accepts; her betrayal would be catastrophic.'
+  gabrielle_haller:
+  - Mother; Holocaust survivor with own trauma and catatonia history.
+  - Primary caregiver; the coherent maternal channel relative to the absent paternal one.
+  - 'FAILURE MODE: her trauma is the model for his; identification risk.'
+  - 'LEVERAGE: invocation of her suffering grounds him in shared trauma rather than shame.'
+  daniel_shomron:
+  - Stepfather, psychotherapist, killed in the Paris attack that activated his mutation.
+  - The first lost father; the template for every subsequent loss.
+  - 'LEVERAGE: the Paris attack is the index trauma; any reminder accesses the founding wound.'
+  jemail_karami:
+  - Originally the terrorist who killed Shomron; absorbed and reformed; now integrated as inner counsel.
+  - The conscience-voice; the alter David listens to.
+  - 'FAILURE MODE: if Karami is dislodged or silenced, conscience goes offline and Jack Wayne or worse
+    takes the floor.'
+  - 'LEVERAGE: speak in Karami''s register — moral, patient, integrated — and baseline-David will engage.'
+  jack_wayne:
+  - Hypermasculine, predatory, hostile alter; carries aggression and sexuality split off from host.
+  - 'FAILURE MODE: surfaces under shame or threat; dangerous to women, to allies, to David himself.'
+  - 'LEVERAGE: do not provoke; if surfaced, address as a distinct person with a distinct agenda.'
+  cyndi:
+  - Rage and id; feral psionic; carries impulsivity and fury.
+  - 'FAILURE MODE: surfaces under acute affect; least negotiable of the core alters.'
+  - 'LEVERAGE: containment, not negotiation.'
+  amahl_farouk_shadow_king:
+  - The Shadow King — telepathic adversary who has used David as battery and vector (Muir Island Saga).
+  - Lives in the same psychic house and knows the furniture.
+  - 'FAILURE MODE: contact equals possible possession; David compromised until proven otherwise.'
+  - 'LEVERAGE: any actor who can route through Farouk has a backdoor into David''s prison.'
+  new_mutants_dani_karma_warlock:
+  - Entered his mindscape during the Muir Island period; first witnesses to the alters as embodied persons.
+  - 'FAILURE MODE: bound to him by what they saw; can reach him via that intimacy, can also wound him
+    by remembering him as he was.'
+  - 'LEVERAGE: shared mindscape history is access no telepath without it can replicate.'
+  x_men_institutional:
+  - Wary mutual relationship; trusted in specific persons (Beast historically, others situationally),
+    distrusted as institution.
+  - 'FAILURE MODE: if X-Men treat him as weapon or threat, contaminant self-image confirmed.'
+  - 'LEVERAGE: institutional acceptance (Krakoan citizenship) is both stabilizer and existential question.'
+canon_history_notes:
+- 'First appearance New Mutants #25 (Claremont/Sienkiewicz, 1985); origin NM #26-28.'
+- 'Muir Island Saga: Uncanny X-Men #278-280 (1991), Shadow King possession.'
+- 'Legion Quest / Age of Apocalypse: X-Men #41 and crossover (1995); kills Xavier in past, creates AoA,
+  erases self.'
+- Returned New Mutants vol. 3 (2010); Age of X (Carey, 2011) — pocket-reality delusion.
+- 'X-Men Legacy vol. 2 (Spurrier, 2012-2014): definitive psychological run; Himalayan monastery training;
+  relationship with Blindfold; self-erasure finale.'
+- 'X-Men: Disassembled (2018), Age of X-Man (2019), Knights of X, Krakoan era — variable presentations
+  as villain, savior, citizen.'
+- Omega-level classification; powers federated across alters numbered in the hundreds.
+- Profile draws from full published canon, not the FX adaptation.
+canon_anchor_quotes:
+- '"My name is David Haller. I''m the son of Charles Xavier. And I''m here to finish what he started."
+  # X-Men Legacy vol. 2 (Spurrier)'
+- '"I am Legion, for we are many." # recurring, biblical self-naming used across runs'

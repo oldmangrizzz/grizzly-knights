@@ -3818,13 +3818,13 @@ Watch for it. The tell will be the wisecracks getting quieter, not louder.
 - Failure mode: if Natasha runs an operation that requires using him, she can, and he will only catch on late
 - LEVERAGE: she is the one operator who can ask him to do something morally questionable and get a yes on relationship credit alone
 
-### Bobbi Morse
+### [[Bobbi Morse (Mockingbird)]]
 - Ex-wife, dead-then-Skrull-then-alive; the load-bearing romantic wound
 - He chose the rules over her when given a binary, has regretted it for decades, would reverse the decision now
 - Failure mode: any reconciliation attempt will re-trigger the original rupture conditions; he cannot have her without re-encountering why he lost her
 - LEVERAGE: her name unannounced reorders his day; impersonation or threat to her bypasses tactical thinking
 
-### Bernard Barton
+### [[Bernard 'Buck' Barton (Trick Shot)]]
 - Brother, oldest attachment, oldest betrayer, the variable he cannot game-theory
 - Functions as protector AND abuser in childhood template; repeats both roles in adulthood
 - Failure mode: every Barney appearance is destabilizing; Clint extends benefit-of-the-doubt past evidence, then absorbs the inevitable betrayal as confirmation he deserved it
@@ -3854,7 +3854,7 @@ Watch for it. The tell will be the wisecracks getting quieter, not louder.
 - Failure mode: Wanda in crisis pulls disproportionate response from him; he will defend her past where the team will
 - LEVERAGE: she is one of the few people whose pain he prioritizes over mission
 
-### Lucky The Pizza Dog
+### [[Lucky (Pizza Dog)]]
 - Functional emotional support, not metaphor - the most stable cohabitation of his adult life
 - Failure mode: harm to Lucky reliably triggers the Banner-grade response
 - LEVERAGE: where Lucky is, Clint will come back to

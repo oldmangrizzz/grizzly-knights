@@ -4250,12 +4250,12 @@ The single piece of forward guidance this analyst would offer, if the file were 
 - FAILURE MODE: Reed underestimates Johnny's intelligence and over-treats him as the impulsive kid he was at 16; Johnny reads this as contempt; the breach is recurrent and survivable.
 - LEVERAGE: Johnny is the family's emotional weather vane; if Johnny is angry at Reed, Reed has done something Sue has not yet named.
 
-### Franklin Richards
+### [[Franklin Benjamin Richards (Franklin Richards)]]
 - Reality-warping son; the Annihilus event (Reed stripped his power, induced coma to prevent cosmic catastrophe) is the trauma neither has fully processed.
 - FAILURE MODE: Reed will treat Franklin as a variable in the equation if the equation is large enough; he has done it once and the structural possibility remains.
 - LEVERAGE: Franklin's distress is a near-instant Reed-summons; threats to Franklin produce the cognitive narrowing that bypasses Reed's normally excellent judgment.
 
-### Valeria Richards
+### [[Valeria Richards]]
 - Doom-mediated medical resurrection; Reed's youngest and intellectual peer; the relationship is reaction-formation against the Annihilus pattern - unusual gentleness, patience, full intellectual engagement.
 - Functions as continuous reality-testing on his blind spots; will call him on hubris in a register Sue cannot.
 - FAILURE MODE: she is partly raised by Doom, partly by the Foundation; her loyalties are plural and Reed knows it. If she ever framed her judgment as against him, he would update faster than against anyone but Sue.

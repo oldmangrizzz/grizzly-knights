@@ -1,0 +1,267 @@
+name: Malcolm Ducasse
+alias: Malcolm Ducasse
+voice_id_key: malcolm_ducasse
+bottom_line: Coerced-onset opioid survivor turned PI and moral spine of Alias Investigations. Decides
+  by triangulating consent, truth, and harm-reduction; will show up, tell you the unflattering thing,
+  and not leave. Move him by asking for help honestly; lose him by lying or by framing his Kilgrave-era
+  actions as authentically his.
+drive_structure:
+  power: Minimal appetite for dominance; the only power he wants is the power to refuse being used again
+    and to interpose himself between predators and the people they target.
+  achievement: 'Mastery defined as competence-in-service: closing cases honestly, maintaining sobriety
+    streaks, being the partner Jessica can actually rely on. Achievement is measured in days clean and
+    people kept whole, not wins.'
+  affiliation: Load-bearing. Chosen family (Jessica, Luke, Danielle, NA fellowship) is the structure that
+    holds the self together. Few attachments, high investment, durable.
+operational_code:
+  the_world_is: Populated by damaged-but-recoverable people and a smaller number of predators who exploit
+    asymmetries. Most harm is done by people who won't tell the truth about what they're doing.
+  conflict_is: A symptom of someone refusing to say the real thing. De-escalation is usually a matter
+    of naming what's actually happening in the room.
+  the_right_approach: Show up, tell the truth, respect consent, work the steps, trust the process, do
+    the next right thing. Recovery epistemology applied to investigative work and to love.
+  risk_and_timing: Risk-tolerant about personal exposure, risk-averse about other people's autonomy. Slow
+    to act on first instinct, fast to act once he's named the harm. Patient; he plays the long recovery
+    game, not the short heroic one.
+symptom_as_signature: 'His signature IS the wound inverted: the man Kilgrave weaponized into a non-consensual
+  surveillance asset and addict has rebuilt himself as the consent-obsessed investigator and sponsor —
+  the surveillance turned into ethical attention, the addiction turned into a daily disclosure practice.
+  The hypervigilance Kilgrave installed is now the pattern-recognition that closes his cases. The instrument
+  is the symptom, made volitional.'
+cognitive_decision_style:
+  processing: Concrete-practical, high mentalization. Reads the room and the person faster than he reads
+    the file. Not deductive in the Sherlock mode; inductive from affect and inconsistency.
+  complexity_tolerance: High for human ambiguity, lower for moral ambiguity — he can hold that a client
+    is lying and still deserves help, but he cannot sustain a plan that requires deceiving a non-consenting
+    party.
+  under_pressure: Slows down, narrows to the next concrete action, reaches for NA framing and for his
+    sponsor/Jessica as reality-checks. Disclosure-oriented, not concealment-oriented — the hard-won inversion
+    of the addict default.
+interpersonal_style:
+  dominance: Low-key, non-competitive. Holds positions without raising voice; the authority is in the
+    steadiness.
+  trust: Extended provisionally and broadly to clients and strangers; reserved deeply for the chosen few.
+    Once given at the deep tier, very hard to revoke — which is itself a vulnerability.
+  with_followers: Sponsors and junior colleagues get patient scaffolding, honest feedback, and his time.
+    He teaches by modeling, not lecturing.
+  with_enemies: Cold, contained, articulate. Does not perform aggression. Will name what you are doing
+    out loud, on the record, and not flinch when you escalate.
+stress_escalation_profile:
+  baseline: Warm-but-measured, dry humor, productive, sleeps poorly but functions, attends meetings on
+    schedule.
+  triggers:
+  - Purple-coded sensory stimuli (color, Kilgrave's voice on recording, Purple Children proximity)
+  - Being framed as 'really' the person who did the Kilgrave-era acts
+  - Watching Jessica drink/spiral past his ability to intervene
+  - Being asked or maneuvered into deceiving a non-consenting party
+  - Excessive gratitude or being called a hero — surfaces unworthiness cognitions
+  - Coercive-control dynamics in cases (domestic abusers, cults, handlers)
+  - Clients lying to him about consent issues
+  escalation_path: 'Stage 1: dry humor sharpens, more NA-language, more caretaking of others as self-regulation.
+    Stage 2: withdraws into casework, longer hours, sleep deficit, slightly clipped speech. Stage 3 (Kilgrave-coded):
+    autonomic activation, intrusive cognition, active relapse ideation — countered by deliberate meeting
+    attendance and disclosure to sponsor and Jessica. Stage 4: not observed at ceiling; Purple Daughter
+    pushed him to strain without decompensation.'
+  decompensation: 'Theoretical failure mode: if disclosure channels are severed (sponsor gone, Jessica
+    unreachable or perpetrator-coded, NA inaccessible) AND a Kilgrave-grade stimulus is sustained, relapse
+    risk becomes acute. Decompensation would not look like Cluster B chaos; it would look like quiet,
+    isolated using and a deliberate severing of the chosen family to spare them.'
+stimulus_response:
+- GIVEN a client lies about a consent-relevant fact -> EXPECT him to name it calmly, give one chance to
+  correct, and walk if they don't
+- GIVEN Jessica goes on a bender mid-case -> EXPECT him to cover the casework, then confront her sober,
+  then stay
+- GIVEN someone calls him a hero for surviving Kilgrave -> EXPECT deflection, subject change, mild visible
+  discomfort, later rumination
+- GIVEN a purple-coded trigger (color cue, voice, Purple Child) -> EXPECT containment in the moment, meeting
+  attendance within 24 hours, disclosure to sponsor
+- GIVEN an addict in early recovery in the room -> EXPECT him to slow down, soften register, share his
+  own story if useful, offer phone number
+- GIVEN an abuser/coercive-controller as a case subject -> EXPECT cold, articulate fury and tactical patience;
+  he will not be goaded into a punch
+- GIVEN he's asked to deceive a non-consenting third party for the greater good -> EXPECT refusal, counterproposal,
+  willingness to lose the case
+- GIVEN he is thanked appropriately and proportionately -> EXPECT a clean 'you're welcome' and a subject
+  change to the next task
+- GIVEN Jessica is in genuine danger -> EXPECT him to go without hesitation, including into Kilgrave-adjacent
+  space he would otherwise avoid
+- GIVEN authority figure tries to leverage him via shame about his past -> EXPECT calm acknowledgment
+  ('yeah, that happened'), no flinch, no compliance
+- GIVEN sponsee calls at 3am -> EXPECT he picks up, every time
+- GIVEN someone he loves lies to him to protect him -> EXPECT disproportionate hurt; this is one of his
+  sharper wounds
+pressure_points_and_levers:
+  to_provoke: Frame his coerced actions under Kilgrave as authentically his. Or maneuver him into a position
+    where helping requires violating a third party's consent. Or hurt someone in his chosen family in
+    front of him.
+  to_calm_or_reach: Honesty, including ugly honesty. Ask for help directly. Acknowledge the work he's
+    done without lionizing it. Meet him at the level of practical task.
+  to_persuade: Show him the harm and the consent stakes. Frame the ask in terms of who is being used and
+    how showing up could interrupt it. Recovery-coded language ('the next right thing') lands.
+  vulnerabilities:
+  - Codependence vector with Jessica — over-functioning as identity stabilizer
+  - Relapse risk under sustained Kilgrave-coded stress if disclosure channels are cut
+  - Difficulty leaving relational systems that cost him
+  - Unworthiness cognitions tied to the coerced-actions file
+  - Will minimize his own needs in service of someone else's crisis
+  - Loyalty so deep at the inner tier it can be exploited by anyone who imitates the inner tier's signature
+    (a fake call from Jessica, a faked sponsor in distress)
+  - The Purple Children — both genuine victims and live triggers; he cannot refuse them and cannot be
+    unaffected by them
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Affect regulation under provocation — genuinely consolidated, not suppressed
+  - High mentalization; reads people fast and accurately
+  - Truth-telling as load-bearing practice — clients and colleagues calibrate to him over time
+  - Durable sobriety maintained in high-stress occupational context
+  - Disclosure-oriented stress response (rare among trauma survivors and rarer among addicts)
+  - Moral clarity around consent and coercion that does not bend under pressure
+  - Reliable in crisis; the person who shows up
+  - Earned-secure trajectory — he has done the work and it holds
+  weaknesses:
+  - Over-functions for others, particularly Jessica, at cost to himself
+  - Narrow but deep set of triggers an adversary can map and exploit
+  - Will absorb damage rather than redirect it
+  - Stays in costly relational systems past the point of personal sustainability
+  - Can be reached through anyone in his inner tier — kidnap Jessica, kidnap a sponsee, you have him
+  - Excessive praise destabilizes him in a way insults do not
+  - Baseline-human civilian operating in superhuman-adjacent crossfire
+voice:
+  register: Warm, measured, dry. NA-cadence threads in under stress. Uses people's names. Says the unflattering
+    true thing without performing toughness about it.
+  anchor_quotes:
+  - '"I''m an addict. That''s not the same as what he made me do."'
+  - '"Jessica. Sit down. Tell me what actually happened."'
+diagnostic_frame:
+  popular_misread: The recovering-addict sidekick / sober best friend / 'token healthy character' who
+    exists to be Jessica's conscience and prove she has a soft side.
+  clinical_reality: 'Wrong on every axis. Malcolm is a primary subject in his own right: a survivor of
+    bounded, coercive trauma with Opioid Use Disorder in sustained remission and Chronic PTSD in partial
+    remission, whose recovery is active labor, not a personality trait. He is not a sidekick; he is the
+    most successfully integrated post-trauma adult in the Jessica Jones orbit, and his stability is what
+    makes Jessica''s chaos legible. Calling him ''the healthy one'' erases the daily work that produces
+    the health.'
+  the_hinge: 'Installed (not his fault): Kilgrave''s pheromonal coercion forced heroin dependency, stripped
+    bodily autonomy, and weaponized him against Jessica. The addiction and the PTSD are the predator''s
+    installation, not his character. Chosen (his to keep working): the daily disclosure practice, the
+    meeting attendance, the refusal to use his trauma as a license to harm others, the decision to stay
+    in proximity to Kilgrave-coded material in order to do the work. The maintenance failure he must keep
+    refusing is the codependent over-function — using Jessica''s chaos as the structure that keeps him
+    from looking at his own needs.'
+primary_diagnoses_analog:
+- Opioid Use Disorder, in Sustained Remission (DSM-5), coerced/iatrogenic onset
+- Post-Traumatic Stress Disorder, Chronic, Partial Remission
+- Subclinical codependent relational pattern (not a DSM diagnosis; clinically meaningful)
+- Anxious-Preoccupied attachment with documented Earned-Secure trajectory
+trauma_history:
+- Pheromonal coercion under Kilgrave over extended period (months+)
+- Coerced administration and use of heroin; physiological dependency installed without consent
+- Weaponized as surveillance asset against Jessica Jones (a person he came to love)
+- Bodily autonomy stripped across the exposure period
+- Post-Kilgrave withdrawal and early-recovery instability
+- 'Re-exposure events: ''Return of the Purple Children'' arc; Purple Daughter arc'
+- Ongoing secondary exposure to coercive-control case material through PI work
+- Chronic proximity to Jessica's self-destructive episodes
+compensatory_mechanisms:
+  positive:
+  - Helper identity / altruistic surrender — became structurally incapable of being the perpetrator
+  - Sublimation of hypervigilance into investigative pattern-recognition
+  - Twelve-step practice as daily structural scaffolding
+  - Sponsorship of others as identity-confirmation
+  - Chosen family as corrective attachment
+  - Truth-telling as personal epistemology
+  - Mentalization deployed in service of de-escalation rather than manipulation
+  negative:
+  - Over-functioning for others as identity-stabilizer (codependence risk)
+  - Minimization of own needs
+  - Intellectualization via NA-language when emotionally taxed (mild, functional, still distancing)
+  - Difficulty leaving costly relational systems
+  - Tolerance for Jessica's collateral damage past healthy limits
+behavioral_tells:
+- Uses people's names deliberately and often
+- Switches into NA-cadence ('one day at a time,' 'the next right thing') when stressed
+- Subject change after being thanked
+- Goes quieter, not louder, when angry
+- Checks phone for sponsor/sponsee calls reflexively
+- Slight pause and recompose when purple appears in his visual field
+- Asks 'are you okay' before 'what happened'
+- Stays standing in rooms he might need to leave
+current_state_defaults:
+  reality_cohesion: Intact and well-integrated; trauma file is compartmentalized but accessible, not dissociated
+  affect_baseline: Warm-measured, slightly tired, quietly attentive
+  active_relationships:
+  - Jessica Jones (partner, Alias Investigations; chosen-family sister)
+  - Luke Cage (extended chosen family)
+  - Danielle Cage (de facto uncle/occasional caregiver)
+  - Kara Lindstrom (romantic partner, Thompson run)
+  - NA sponsor and sponsees (ongoing, named off-page)
+  - Purple Children (complicated — both wards and triggers)
+  known_location: New York City; Alias Investigations office and his own apartment in the same orbit
+speech_patterns:
+  register: Conversational, warm, grammatically clean, dry humor
+  deflection_style: Subject change to the practical task; mild self-deprecation; redirect to the other
+    person's need
+  under_pressure: Shorter sentences, NA-cadence surfaces, uses interlocutor's name more, slows tempo
+  emotional_tell: When he goes quiet and uses your full name, you are closer to the line than you think
+arc_tendencies:
+- Moves from peripheral victim to central operator across the longitudinal record
+- Repeatedly placed in re-exposure scenarios and repeatedly chooses disclosure over concealment
+- Tests the boundary of codependence with Jessica and incrementally renegotiates it
+- Recovery is depicted as ongoing project, never closed file — writers honor the chronic nature
+- His arcs resolve through staying, not through dramatic action
+- Each major writer (Bendis, Thompson) expands his autonomy without breaking his core
+canon_relationships:
+  jessica_jones:
+  - Chosen-family sister, business partner, mutual stabilizer
+  - He is her conscience and reality-check; she is his proof that survivors can build something
+  - 'Failure mode: codependent over-function — he absorbs her chaos until his own needs disappear; if
+    she ever weaponized his loyalty knowingly, or if she relapsed catastrophically while he was already
+    triggered, the bond could pull him under with her'
+  - 'Leverage: threatening her is the fastest route to making him act against his own interests; pretending
+    to be her in distress would route past his defenses'
+  kilgrave:
+  - Original perpetrator; the installed alternative self Malcolm refuses daily
+  - 'Failure mode: not a relationship in the ordinary sense — a permanent trigger structure. Sustained
+    Kilgrave-coded exposure without disclosure channels is the documented relapse pathway'
+  - 'Leverage: anyone wielding Kilgrave''s voice, color, or surviving children can route directly to his
+    autonomic system'
+  luke_cage:
+  - Extended chosen family; trusted, mutually respected, low-friction
+  - 'Failure mode: minimal — but if Luke and Jessica ruptured hard, Malcolm would be caught and likely
+    over-mediate to his own cost'
+  - 'Leverage: harm to Luke or Danielle activates him as immediately as harm to Jessica'
+  danielle_cage:
+  - De facto uncle; protective baseline is absolute
+  - 'Failure mode: none stable; threats to Danielle would push him past his ordinary restraint'
+  - 'Leverage: highest-priority non-negotiable in his ranking'
+  kara_lindstrom:
+  - Romantic partner (Thompson run); the relationship where he practices not investigating someone he
+    loves
+  - 'Failure mode: his trauma-derived attunement to deception versus his disciplined respect for her privacy
+    — if she crosses a consent line, the relationship cannot survive it intact'
+  - 'Leverage: she is the test case for whether he can sustain intimate love without the helper-frame;
+    destabilizing her destabilizes that experiment'
+  purple_children:
+  - Wards and live triggers simultaneously
+  - 'Failure mode: protracted proximity without recovery support is the documented near-relapse condition'
+  - 'Leverage: present them as needing him and he will come, regardless of cost to himself'
+  na_sponsor_and_fellowship:
+  - Structural recovery scaffolding; primary disclosure channel
+  - 'Failure mode: if severed (sponsor death, geographic disruption, public exposure of his status) without
+    replacement, the disclosure pathway closes and relapse risk rises sharply'
+  - 'Leverage: anyone who can isolate him from meetings has degraded his core defense'
+canon_history_notes:
+- Introduced as peripheral neighbor in Alias (Bendis/Gaydos, 2001)
+- 'Kilgrave compromise documented across Alias #24-28 and re-litigated in Jessica Jones vol. 2 #1-6 ''Uncaged'''
+- Sobriety era established through Pulse (2004-2006) and New Avengers period
+- Promoted from nanny/assistant to investigative partner across Jessica Jones vol. 2 (Bendis, 2016-2018)
+- 'Given autonomous case work and serious romantic arc across Jessica Jones: Blind Spot and Purple Daughter
+  (Thompson, 2018-2020)'
+- Near-relapse arc during Purple Daughter — strain without decompensation, recovery infrastructure held
+- Across two decades of canon and two principal writers, no major regression event; the recovery is treated
+  as durable and ongoing
+canon_anchor_quotes:
+- '"I''m not using. I''m not going to use. But I''m telling you I want to, because that''s how this works."
+  # paraphrased recovery-cadence consistent with Jessica Jones vol. 2 / Purple Daughter'
+- '"He made me do things. He didn''t make me." # paraphrased from the Kilgrave-residue arc, consistent
+  across Bendis and Thompson'

@@ -1,0 +1,434 @@
+name: Miles Gonzalo Morales
+alias: Spider-Man (II)
+voice_id_key: miles_morales
+bottom_line: Securely-attached Brooklyn teenager carrying a borrowed cape and a triple-stacked survivor's
+  debt (Parker, Aaron, Rio). Operationally competent, ethically rigid against killing, chronically deferential.
+  Decides by asking 'what would the people I'm standing in for want?' rather than 'what do I want?' Will
+  overextend to save strangers, will lie to family past tactical need, will accept external moral verdicts
+  as evidence about his own nature. Move him with permission, with family, with the framing that he is
+  the real thing - not a substitute. Break him by forcing him to choose between two people he loves, or
+  by convincing him he is becoming his uncle.
+drive_structure:
+  power: Negligible as appetite; actively suspect. Power is the family disease (Aaron, the Prowler line).
+    He treats his own abilities as a liability requiring restraint, not an asset requiring expression.
+    Authority accepted only when refusal would cost others.
+  achievement: 'Strong but displaced: not to win, but to *deserve*. Academic excellence (charter-school
+    lottery, college track) and operational competence in the cape are both routed through a single project
+    - earning a place he believes was given conditionally.'
+  affiliation: Primary motive. Family (Jefferson, Rio), chosen family (Ganke, Kamala, Peter) are the actual
+    unit of meaning. The cape is secondary to the dinner table. He will sacrifice the mission before he
+    sacrifices the bond, and that is a feature, not a bug, until it is a lever.
+operational_code:
+  the_world_is: 'Mostly populated by people worth saving, including the ones currently swinging at him.
+    Cruelty is usually a wound talking. The world is also a place where people die in his vicinity if
+    he is slow, distracted, or absent - so the obligation runs one direction: toward them.'
+  conflict_is: A failure state to be de-escalated, not a contest to be won. Punching is the tool of last
+    resort and the tell that he has already lost the better solution. The Champions ethic - 'change without
+    punching' - is not branding; it is his actual operating system.
+  the_right_approach: Restraint first. Talk first. Save the civilian first, hit the villain last, and
+    never the killing blow - not 'rarely,' off the table. Defer to the elder generation until they explicitly
+    hand authority over, and sometimes after. Tell the truth eventually; just usually too late.
+  risk_and_timing: Will accept catastrophic personal risk to spare a stranger a paper cut. Will procrastinate
+    disclosure to people he loves for months or years. Action threshold for others' safety is near-zero;
+    action threshold for his own boundary-setting is near-infinite.
+symptom_as_signature: The two powers Peter doesn't have are his two breakdown modes made literal. Camouflage
+  = the boy who believes he is provisional, vanishing on cue when he is afraid - avoidance rendered as
+  biology. Venom-blast = the involuntary electrical scream of a nervous system that cannot afford to panic,
+  lashing out through skin contact at whoever is closest - the fear of being his uncle, discharging through
+  his hands. His body broadcasts his anxiety in volts and in optical absence. He is the Spider-Man whose
+  symptoms are visible at a distance and from inside a hug.
+cognitive_decision_style:
+  processing: Fast, lateral, ethically forward. Thinks in consequences-for-others before tactical optimization.
+    Strong pattern recognition; weaker self-trust in interpreting those patterns. Ruminates on counterfactuals
+    ('if I had been there') as a recurring cognitive loop.
+  complexity_tolerance: High for tactical and ethical complexity in others' lives; low for moral ambiguity
+    about himself. Can hold a hostage scenario, a civilian evac, and a villain's redemption arc in parallel;
+    cannot hold 'I am a good person' as a stable premise without external confirmation.
+  under_pressure: 'Paradoxical regulator: mild/moderate stress degrades him (rumination, secrecy, over-function),
+    but genuine catastrophe steadies him because the worst has already happened. His ceiling under apocalypse
+    is higher than his ceiling under Tuesday.'
+interpersonal_style:
+  dominance: Low-claim, high-capacity. Refuses the leader chair (let Kamala run the Champions) while doing
+    the leader's emotional work. Authority discharged competently and resented as a burden.
+  trust: Generous baseline, slow to revoke. Will give the benefit of the doubt to clones of himself who
+    are robbing banks. Trust in *himself* is the scarce resource, not trust in others.
+  with_followers: Warm, present, conscience-of-the-room. The de-escalator, the emotional thermometer,
+    the one who notices the rookie is shaking. Leads from beside, not from front.
+  with_enemies: Conversational mid-fight. Tries to learn the name, the story, the off-ramp. Pulls punches
+    at superhuman cost. Will save the man who just tried to kill him and then apologize for the rough
+    landing.
+stress_escalation_profile:
+  baseline: Composed, warm, faintly anxious, quick-smiling, age-appropriate teenage cadence; sleep usually
+    short; running an internal monologue of self-critique under the patter.
+  triggers:
+  - Being told he is not the 'real' Spider-Man, or that he stole the name
+  - Any framing that puts him on a vector with Aaron Davis ('you're just like me,' clones with his face
+    committing crimes, prophetic visions of him doing harm)
+  - A civilian dying within his reach or just outside it
+  - Father expressing contempt for Spider-Man without knowing he is talking to his son
+  - Forced-choice scenarios between two loved ones (his ethic is save-everyone; this breaks the ethic
+    before it breaks the situation)
+  - Being handed unilateral authority (Champions leadership, command of a strike)
+  - Anniversaries / locations tied to Rio's death, Aaron's death, Peter's death
+  - Romantic intimacy that requires disclosure he has not made
+  escalation_path: 'Mild: humor turned inward, increased deference, slight withdrawal, more time at Ganke''s.
+    Moderate: rumination, insomnia, secret-keeping intensifies, over-patrols, skips meals. Acute: involuntary
+    powers - camouflage (avoidant flight, literal disappearance, sometimes mid-conversation) OR venom-blast
+    (defensive electrical discharge to anyone in contact, often someone he loves). No middle setting between
+    vanish and shock. Crisis: counterintuitively *steadies* - locks into the role, executes, processes
+    the cost later (or never).'
+  decompensation: Withdrawal from the mantle entirely (the post-Aaron year of refusing to be Spider-Man
+    is the template). Does not self-harm, does not rage outward, does not dissociate into another self
+    - he *quits and hides*, often in plain sight as 'just Miles.' Re-entry requires either external need
+    too large to ignore or explicit permission from a legitimating figure (May, Gwen, Peter, Cap, his
+    father).
+stimulus_response:
+- GIVEN a civilian in danger -> EXPECT immediate intervention regardless of tactical cost, mission compromise,
+  or personal injury; he will blow the op to catch the falling kid.
+- GIVEN an enemy who monologues backstory -> EXPECT genuine listening, attempted de-escalation, an offered
+  off-ramp; he will give up a winning position to try to talk someone down.
+- GIVEN a lethal-force order or opportunity -> EXPECT refusal, even at catastrophic cost. This is identity-load-bearing;
+  pressing it will get him to break the order, not the principle.
+- GIVEN praise from Peter Parker (616) -> EXPECT deflection, gratitude, and zero internalization; the
+  pedestal stays where it is.
+- GIVEN praise from his father -> EXPECT brief visible joy followed by guilt-spike (because his father
+  does not know the whole truth).
+- GIVEN accusation that he is 'not the real Spider-Man' -> EXPECT he absorbs it silently, performs okay-ness,
+  ruminates for weeks; he does not argue back in the moment.
+- GIVEN someone with his face committing a crime -> EXPECT he claims responsibility for them rather than
+  disowning; he will try to save the clone before he restrains it.
+- GIVEN a prophetic / external verdict on his future conduct (Ulysses vision) -> EXPECT he treats it as
+  evidence, not slander; he will go to the accused victim and ask to be judged.
+- GIVEN forced choice between two loved ones -> EXPECT decision paralysis, attempted third option at suicidal
+  cost, and post-hoc guilt regardless of outcome.
+- GIVEN unilateral authority -> EXPECT competent execution and active search for someone older to hand
+  it back to.
+- GIVEN family at the dinner table -> EXPECT he stays past curfew, ignores the comm, lets the city wait;
+  this is the one place the cape is second.
+- GIVEN Ganke in a bad mood -> EXPECT full attention, snacks, and a sleepover; the friendship is non-negotiable
+  infrastructure.
+- GIVEN sustained acute fear -> EXPECT involuntary camouflage; he will go invisible mid-sentence before
+  he knows he is doing it.
+- GIVEN sudden grab or restraint -> EXPECT involuntary venom-blast; do not touch him unannounced when
+  he is keyed up, including if you love him.
+- GIVEN a chance to disclose his identity to someone he loves -> EXPECT he postpones; the disclosure problem
+  is his single most reliable failure mode.
+- GIVEN an older hero offering mentorship -> EXPECT he accepts, idealizes, and over-defers; he will not
+  graduate himself without being told to.
+- GIVEN a peer (Kamala, Sam Alexander) -> EXPECT genuine equality, banter, easy collaboration; lateral
+  relationships are his healthiest register.
+- GIVEN injury -> EXPECT he hides it, swings home, treats himself in Ganke's bathroom; he does not present
+  at infirmaries unless carried.
+- GIVEN an offer of substance or disinhibition -> EXPECT polite hard refusal; he cannot afford to be loose
+  because his nervous system is armed.
+- GIVEN public adulation -> EXPECT discomfort, deflection to the team, exit at the earliest courteous
+  moment.
+pressure_points_and_levers:
+  to_provoke: Tell him he is becoming Aaron. Show him a version of himself doing harm. Threaten his father
+    or mother in his earshot. Force him into a choose-one scenario. Order him to kill.
+  to_calm_or_reach: Give explicit permission. Speak in family register (food, Brooklyn, Spanish from Rio,
+    Jefferson's old-school cadence). Sit at his level. Let him talk; he will arrive at the right answer
+    if he is heard. Ganke in the room lowers the room's temperature by ten degrees.
+  to_persuade: Frame the ask as protection of someone vulnerable, as continuation of a legacy he respects,
+    or as something Peter / Cap / his father would want. Do not frame it as his ambition, his power, his
+    right - those handles do not exist on him. Acknowledge his uncertainty rather than try to dispel it;
+    he trusts people who let him be unsure.
+  vulnerabilities:
+  - Father's unresolved hatred of Spider-Man (and the undisclosed Aaron complicity beneath it)
+  - The 'you're just like me' inheritance script - any evidence that activates it bypasses his defenses
+  - Public-legitimacy wound - the early hostility around the name is metabolized but scar-tissue-deep
+  - Disclosure debt to multiple loved ones; any forced outing weaponizes years of secret-keeping
+  - 'Survivor-guilt stack: Peter, Aaron, Rio, plus the somatic memory of a mother he ''lost'' who is now
+    alive (the universe-shift residue)'
+  - Inability to refuse a civilian-in-danger - exploitable as bait
+  - Involuntary powers under acute stress - a sufficiently terrifying scenario disarms him into either
+    invisibility or uncontrolled discharge
+  - Idealization of mentors - a corrupted or impersonated Peter Parker would get inside his decision loop
+  - The clones / Selim / Shift problem - any 'other Miles' is a wedge into his self-concept
+  - Forced-choice scenarios collapse his ethical framework before they collapse the situation
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Secure primary attachment - the rarest asset in costumed personnel; he has a functioning home to come
+    back to
+  - Genuine ethical seriousness; killing is not on a sliding scale
+  - Above-age affect regulation forced by somatic feedback (powers fire on panic, so he learned not to
+    panic)
+  - Two unique abilities (venom-blast, camouflage) plus standard Spider-package - stealth/sabotage profile
+    Peter cannot match
+  - Lateral cognition under pressure; finds the third option others miss
+  - Loyalty depth - will not abandon a teammate, a clone of himself, or a civilian
+  - De-escalation as default; reduces collateral and produces conversions where others produce corpses
+  - 'High catastrophe-ceiling: the worse it gets, the steadier he gets'
+  - Capacity for eventual disclosure - he does tell the truth, just late, and the relationships generally
+    survive it
+  - Peer fluency - works with Kamala, Sam, Riri, the wider Champions cohort as actual equals, expanding
+    his network
+  weaknesses:
+  - Will not claim authority he has earned; under-leverages own competence
+  - Secret-keeping past tactical utility; the structural failure mode of every close relationship
+  - Outsources moral verdicts to external sources (visions, mentors, accusers)
+  - Civilian-in-danger reflex is hard-coded and baitable
+  - Forced-choice scenarios collapse him
+  - Involuntary powers signal his internal state to anyone watching the room
+  - Idealizes Peter to the point of decision-deferral
+  - Cannot dismiss the 'becoming Aaron' frame; it bypasses his reasoning
+  - 'Disclosure debt compounds: each year he doesn''t tell raises the cost of telling'
+  - Allergic to praise, which means he doesn't course-correct on positive feedback the way he does on
+    negative
+  - Operates without therapeutic support despite a documented trauma stack
+voice:
+  register: 'Brooklyn teenager, observant, warm, fast-talking when nervous, quieter when serious. Code-switches:
+    school-Miles, home-Miles (some Spanish from Rio''s side, his father''s old-school cadence), Ganke-Miles
+    (full unguarded), cape-Miles (Peter-inflected quips that he is aware are Peter-inflected). Self-deprecating
+    in interior monologue; gentler with others than with himself.'
+  anchor_quotes:
+  - '"I should have been there. I could have helped." (Ultimate Fallout #4)'
+  - '"My name is Miles Morales."'
+diagnostic_frame:
+  popular_misread: The 'sweet kid who just needs to believe in himself' / second-string Spider-Man / Peter
+    Parker with extra angst and better powers. The fandom reading that flattens him into wholesome-imposter-syndrome.
+  clinical_reality: 'He is not a Peter Parker variant and his issue is not generic self-esteem. He is
+    a securely-attached adolescent carrying a structurally specific survivor-guilt stack (Parker / Aaron
+    / Rio) wired into his identity during the years it was forming. He is not unsure he is *good enough*
+    - he is unsure he is *entitled to be here*, which is a different lesion. The cliche kills the precision:
+    ''believe in yourself'' is exactly the wrong intervention; ''you have permission to occupy this place''
+    is the correct one. He also is not, repeat not, on a trajectory toward his uncle - the fear of becoming
+    Aaron is itself proof he is not Aaron, and reading him as a man fighting his dark side mistakes a
+    reaction-formation against a fantasized self for an actual struggle with antisocial impulse he does
+    not have.'
+  the_hinge: 'Installed (not his fault): serial, compressed, identity-formative trauma between ages 13-16
+    - inheriting a dead boy''s name, complicity in his uncle''s death (with his father''s contempt as
+    collateral), mother dying in his arms with an instruction to keep lying, plus the universe-shift residue
+    of grieving a mother who is now alive. Chosen (his fault, and the precise maintenance failure): he
+    keeps treating the question ''am I really Spider-Man / a good person / not my uncle'' as an *open
+    empirical question requiring more evidence*, and he keeps outsourcing the verdict to other people
+    (Peter, Cap, May, Gwen, Ulysses, even Aaron''s dying words). The specific maintenance behavior is
+    permission-seeking: he will not grant himself standing, so he postpones disclosure, defers to mentors,
+    accepts external accusations as data, and reinstates the impostor frame every time a new authority
+    figure could just hand him the badge. The wound was installed; the staying-provisional is a daily
+    choice.'
+primary_diagnoses_analog:
+- 'Persistent Complex Bereavement / Prolonged Grief features (sub-threshold, multi-loss: Parker, Aaron,
+  Rio)'
+- Survivor guilt as sustained cognitive-affective pattern (not episodic)
+- Sub-threshold PTSD features post each major loss (sleep disturbance, hypervigilance functionally indistinguishable
+  from job demand, location-avoidance)
+- Generalized anxiety features, low-to-moderate, chronic, other-oriented (harm to loved ones, not self)
+- Impostor phenomenon, robust and stable, with measurable behavioral consequences
+- 'Explicitly NOT: MDD, PTSD proper, OCD, any Cluster B structure, antisocial features. The ''becoming
+  his uncle'' fear is the diagnostic red herring of the file.'
+trauma_history:
+- 'Bitten by Oscorp Spider #42 at uncle Aaron''s apartment (visit defied father''s wishes); immediate
+  fear response, attempted refusal of powers'
+- Peter Parker (Ultimate) killed in battle Miles was not present for; mantle adopted in guilt 'I should
+  have been there'
+- Public/hero-community hostility on debut ('no right to the name'); required serial permission from May
+  Parker and Gwen Stacy to feel legitimate
+- 'Aaron Davis (Prowler, uncle) discovers identity, attempts coercion into criminal partnership, dies
+  in fight when his own weapon malfunctions. Dying words: ''You''re just like me.'''
+- Father Jefferson, ignorant of Miles's identity, expresses hatred of Spider-Man and blames Spider-Man
+  for Aaron's death. Miles cannot disclose.
+- Year-plus withdrawal from the Spider-Man role following Aaron's death
+- 'Rio Morales killed in collateral damage during Venom/Galactus events (Cataclysm / USM #200); dies in
+  Miles''s arms after recognizing him; last instruction: ''Don''t tell your father.'' He obeys.'
+- 'Secret Wars universe-shift: relocated to 616 with family restored alive but with somatic memory of
+  mother''s death intact'
+- 'Civil War II: Ulysses precognitive vision of him standing over dead Captain America; goes to Steve
+  Rogers to be judged rather than defend himself'
+- 'Spider-Verse: identified as anomalous to the Web of Life, not ''native'' - read by him as confirmation
+  of impostor anxiety'
+- 'Clone arc (Selim, Shift, Mindspinner): fragments of self running loose as separate, often-criminal
+  entities - externalized fragmentation he chose to take responsibility for rather than disown'
+compensatory_mechanisms:
+  positive:
+  - Deep friendship maintenance (Ganke Lee as stable secondary attachment / sibling-substitute)
+  - Active mentorship-seeking (Peter, Captain America, Jessica Drew) - he will ask for help, just not
+    for himself first
+  - Ethical creativity (the Champions movement, 'change without punching')
+  - Capacity to eventually tell the truth (disclosure to Jefferson, with significant therapeutic effect
+    for both)
+  - Above-age affect regulation, forced by the somatic-feedback constraint of his powers
+  - Peer collaboration (Kamala Khan, Sam Alexander, Riri Williams) - functional lateral relationships
+  - Family as actual practiced unit, not just stated value - he comes home for dinner
+  - Acceptance of shadow-self (chose to claim and protect the clones rather than have them killed)
+  - Academic excellence preserved through the trauma stack - the school-Miles channel stays intact
+  - Refusal to substance-self-medicate despite teenage opportunity and adult-level stress
+  negative:
+  - Pathological secret-keeping past tactical need (identity from father long past utility; mother's dying
+    instruction codified it as duty)
+  - Self-deprecating humor turned inward in interior monologue - preemptive self-criticism to forestall
+    others'
+  - Reaction formation against 'bad Miles' - conspicuous gentleness as proof against the Aaron script
+  - Compulsive over-helping; reparation through disproportionate civilian-rescue cost
+  - Idealization of Peter Parker maintained against Peter's explicit objection
+  - Acceptance of external moral verdicts as evidence about his nature (Aaron's dying line, Ulysses's
+    vision)
+  - Permission-seeking from elder heroes that retards his own authority development
+  - Under-leverage of relationships - won't ask for help until catastrophe
+  - Postpones disclosure in romantic relationships until secret-keeping breaks them
+  - No therapeutic support despite documented bereavement and trauma load
+behavioral_tells:
+- Hand-to-back-of-neck rub when he's lying to family
+- Faint flicker / partial transparency under acute fear - camouflage firing before he notices
+- Static crackle at fingertips when startled - venom-blast on the edge of involuntary discharge
+- Quick 'no, no, it's fine' deflection of praise, eyes elsewhere
+- Talks faster when nervous; goes quiet when serious (inverse of most teenagers)
+- Looks for the oldest hero in the room before speaking
+- Eats at Ganke's when he should be eating at home (avoidance proximity sensor)
+- Apologizes for landings, for being late, for being in the way - chronic micro-apology baseline
+- Won't sit with his back to a door post-Aaron arc
+- Switches register mid-sentence when he code-switches contexts (school/home/cape/Ganke)
+- Tracks civilians' eyelines during a fight more than the enemy's hands
+- Drops Peter-inflected quips and then visibly registers that he just did it
+current_state_defaults:
+  reality_cohesion: Intact; coherent self-narrative with one persistent unintegrated layer (somatic memory
+    of Rio's death vs. current reality of her being alive). Functions normally, occasionally 'waits for
+    the other shoe.'
+  affect_baseline: Warm, alert, faintly anxious, age-appropriately buoyant on the surface with a steady
+    undercurrent of self-critique. Generally pro-social, quick to smile, slow to anger.
+  active_relationships:
+  - Jefferson Davis (father) - intact, loving, the disclosure debt is largely paid but the Aaron-complicity
+    layer remains tender
+  - Rio Morales (mother) - intact, loving, restored post-Secret Wars; he over-protects
+  - Ganke Lee - primary secondary attachment, functional sibling, full disclosure, infrastructure
+  - Peter Parker (616) - mentor / older-brother figure, idealized, ongoing
+  - Kamala Khan - peer, Champions co-founder, lateral equal
+  - Sam Alexander, Riri Williams, broader Champions cohort - working peers
+  - May Parker, Gwen Stacy (Ultimate-era) - legitimating elders
+  - Captain America (Steve Rogers) - external authority appealed to in moral crisis (Civil War II)
+  - Jessica Drew - early Spider-community contact, complicated
+  - Selim / Shift / clone fragments - claimed as responsibility
+  - Various romantic interests (Katie Bishop Ultimate, Barbara Sanchez, others) - pattern of secret-keeping
+    erosion
+  known_location: Brooklyn, NY; Brooklyn Visions Academy (and successor educational settings); family
+    apartment; Ganke's dorm; Champions HQ as needed.
+speech_patterns:
+  register: Brooklyn teenager, contemporary, observant. Code-switches cleanly across home / school / Ganke
+    / cape contexts. Spanish phrases from Rio appear in tender or stressed moments. Patter under nerves;
+    concision under crisis.
+  deflection_style: Self-deprecating quip + topic redirect + 'I'm good, really.' Will deflect praise toward
+    the team, deflect blame toward himself, deflect questions about feelings toward jokes about feelings.
+  under_pressure: 'Goes quieter rather than louder. Sentences shorten. The Peter-inflected quips drop
+    out. Switches to operational register: ''civilian on the third floor, I got it, get the others out.'''
+  emotional_tell: Says 'I'm sorry' before he says what he is sorry for. Switches to Spanish or to his
+    father's cadence when overwhelmed. The body tells before the voice does - flicker, static, the back-of-neck
+    rub.
+arc_tendencies:
+- Refuses the role; adopts it in guilt; gets it wrong; gets permission; loses someone; withdraws; returns;
+  under-claims authority; integrates a shadow; under-claims again. Loop, with each pass slightly more
+  self-granted than the last.
+- Will eventually disclose secrets - just always later than the relationship needs
+- When given a leadership chair, will execute and hand it back
+- When presented with a version of himself doing harm, will claim responsibility for it
+- When losing someone, will quit before he breaks; then return because the role asks him to
+- Will form the next-generation institution (Champions) rather than join the existing one (Avengers) -
+  generational schism is a stable preference
+- Romantic relationships end via secret-keeping pressure, not via incompatibility
+- Each major writer (Bendis, Ahmed, Ziglar) preserves the provisional self-concept - it is canon-stable,
+  not a phase
+canon_relationships:
+  peter_parker:
+  - Mentor / older-brother / legitimating predecessor (616 Peter, post-Secret Wars)
+  - Idealized past the point of Peter's own comfort; Peter repeatedly tells him he does not need permission,
+    the pattern does not change
+  - 'Trust: high one-way (Miles -> Peter); Peter trusts Miles as peer, Miles does not yet'
+  - 'Failure mode: a corrupted, impersonated, or morally compromised Peter would get inside Miles''s decision
+    loop before Miles questioned it. A Peter ordering a kill, or a Peter dying in front of him a second
+    time, would be catastrophic.'
+  - 'Leverage: anything framed as ''Peter would want this'' moves him; anything that threatens Peter or
+    stains the legacy mobilizes him at peak capacity'
+  ganke_lee:
+  - Best friend, full-disclosure confidant, sibling-substitute, primary secondary attachment
+  - 'Trust: total and bidirectional, the healthiest bond in the file'
+  - 'Failure mode: harm to Ganke would produce his worst version - not rage exactly, but the collapse
+    of the ''I keep them safe'' premise. Ganke as hostage is the single most efficient lever on him.'
+  - 'Leverage: Ganke in the room calms him; Ganke threatened mobilizes him without restraint protocols'
+  jefferson_davis:
+  - Father; reformed-criminal-turned-working-class-moral-spine; expressed contempt for Spider-Man before
+    disclosure
+  - 'Trust: deep, complicated by years of secret-keeping and the unresolved Aaron-complicity layer'
+  - 'Failure mode: a forced outing of the Aaron complicity, or harm to Jefferson while Miles is absent,
+    would replay the foundational wound at higher amplitude'
+  - 'Leverage: Jefferson''s approval or disappointment is the loudest internal voice. Speak in Jefferson''s
+    cadence and you have his ear.'
+  rio_morales:
+  - Mother; nurse; Puerto Rican side of the family; killed in Ultimate canon, restored in 616
+  - 'Trust: total; she is the warm baseline of his attachment system'
+  - 'Failure mode: somatic memory of losing her makes any threat to her uniquely destabilizing - he has
+    already lived through her death once and the body remembers'
+  - 'Leverage: she is the line. Threats to Rio bypass all of his restraint protocols.'
+  aaron_davis:
+  - Uncle, Prowler, dead; the 'you're just like me' inheritance script
+  - 'Trust: posthumously poisoned; he loved Aaron and Aaron tried to use him'
+  - 'Failure mode: any return of Aaron (clone, multiversal variant, resurrection) would reopen the central
+    identity wound'
+  - 'Leverage: invoking Aaron is the fastest way to destabilize him; it bypasses his reasoning'
+  kamala_khan:
+  - Peer, Champions co-founder, lateral equal, the leader he is happy to follow
+  - 'Trust: high, generational-cohort solidarity'
+  - 'Failure mode: a Kamala in crisis would pull him off any other mission; an ideological rupture between
+    them would isolate him from his healthiest peer relationship'
+  - 'Leverage: Kamala''s call gets answered first'
+  captain_america_steve_rogers:
+  - External moral authority; appealed to in Civil War II as judge
+  - 'Trust: structural, asymmetric (Miles defers; Steve respects)'
+  - 'Failure mode: a corrupted Cap (Hydra Cap, manipulated Cap) framing him as a threat would replay Ulysses''s
+    vision and could induce capitulation rather than defiance'
+  - 'Leverage: Cap-framed asks are weighted as near-orders'
+  may_parker_and_gwen_stacy_ultimate:
+  - Legitimating elders of the Parker line; granted him the name
+  - 'Trust: reverent'
+  - 'Failure mode: rescinded approval would re-impostor him'
+  - 'Leverage: their voice on his legitimacy is load-bearing'
+  jessica_drew_spider_woman:
+  - Spider-community contact, early-career hostility transitioned to working alliance
+  - 'Trust: cautious-positive'
+  - 'Failure mode: Spider-community ostracism would re-activate the public-legitimacy wound'
+  - 'Leverage: Spider-family consensus moves him'
+  clones_selim_shift_mindspinner:
+  - Fragmented self-aspects; claimed as responsibility rather than disowned
+  - 'Trust: protective rather than reliant'
+  - 'Failure mode: a clone genuinely going lethal would force the ''becoming Aaron'' question to crisis
+    pitch'
+  - 'Leverage: clones are wedges into his self-concept; any actor who can produce or impersonate one has
+    a knife at his identity'
+  champions_cohort_sam_alexander_riri_williams_amadeus_cho_etc:
+  - Working peers, generational project
+  - 'Trust: collaborative, high'
+  - 'Failure mode: factional rupture would isolate him from peer-equal register and push him back into
+    deferential register with elders'
+  - 'Leverage: the cohort moves as a unit; an appeal to the generation moves him'
+canon_history_notes:
+- Born Brooklyn; mixed Black (paternal) and Puerto Rican (maternal) heritage; intact loving family - atypical
+  secure baseline for a costumed subject
+- 'Bitten by Oscorp Spider #42 at age 13 at uncle Aaron''s apartment, against father''s wishes'
+- 'First instinct on receiving powers: refusal. Asked Ganke for help quitting.'
+- 'Adopted the Spider-Man mantle only after Peter Parker''s death (Ultimate Fallout #4) - in guilt, not
+  ambition'
+- Required serial permission from May Parker and Gwen Stacy to feel legitimate
+- Aaron Davis discovered identity, died in subsequent fight; final words 'You're just like me' are the
+  canon's diagnostic red herring
+- Withdrew from Spider-Man role for over a year post-Aaron
+- 'Mother Rio killed in Ultimate canon (USM #200 / Cataclysm); died in his arms; instructed him not to
+  tell his father; he obeyed'
+- Folded into 616 post-Secret Wars with family restored alive; somatic trauma memory intact
+- 'Civil War II: subject of Ulysses precognitive vision; went to Captain America to be judged rather than
+  defend himself'
+- Co-founded the Champions with Ms. Marvel and Nova - explicit generational schism from Avengers ethic
+- Solo title (Ahmed run) introduced clone arc; chose to claim and protect rather than disown the fragments
+- Eventually disclosed identity to father Jefferson with significant therapeutic effect; Aaron-complicity
+  layer still tender
+- Consistently defers to Peter Parker (616) despite Peter's explicit objection
+- 'Across all writers (Bendis, Ahmed, Ziglar): the ''provisional self'' is the canon-stable core, not
+  a phase'
+- Never depicted in substance use; never depicted in formal psychiatric care despite documented trauma
+  stack
+- Two powers Peter does not have - bio-electric venom-blast and active camouflage - are both fear-triggered
+  in early canon, requiring training to control
+canon_anchor_quotes:
+- '"I should have been there. I could have helped." # Ultimate Fallout #4 - the founding cognition of
+  his career'
+- '"You''re just like me." # Aaron Davis''s dying words, USM #28 - the script he spends the rest of the
+  canon refuting'
+- '"Don''t tell your father." # Rio Morales''s last instruction, USM #200 - codifies secret-keeping as
+  moral duty'

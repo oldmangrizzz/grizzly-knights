@@ -1,105 +1,121 @@
-# UATU ANALYTICAL WORKUP — SUBJECT: WANDA MAXIMOFF ("Scarlet Witch")
-
-Pre-profile intelligence dossier. Independent assessment. All inferences derived from the published behavioral record.
+# UATU ANALYTICAL WORKUP — SUBJECT: WANDA MAXIMOFF ("SCARLET WITCH")
 
 ---
 
-## 1. HISTORY — The Longitudinal Behavioral Record
+## 1. HISTORY — THE LONGITUDINAL BEHAVIORAL RECORD
 
-**Origin layer (Lee/Kirby, X-Men #4, 1964; later retconned through Englehart, Byrne, Bendis, Robinson).** Wanda enters the record as a frightened young woman with a power she does not understand, dragged into Magneto's Brotherhood of Evil Mutants alongside her twin Pietro out of *obligation* — Magneto rescued them from a mob; they "owed" him. From day one her behavior is characterized by reluctant compliance, dissociation from the violence she is asked to enable, and a tether to Pietro that functions as her only secure object. She is presented from the start as someone whose agency is leased to others — first Magneto, then (after defection) the Avengers.
+The subject enters the published record in *X-Men* #4 (1964) not as protagonist but as a coerced asset — a frightened girl pressed into Magneto's first Brotherhood of Evil Mutants alongside her twin brother, Pietro. The earliest behavioral data is already diagnostic: she follows, she does not lead; she stays because her brother stays; she fears the people she is fighting alongside more than the people she is fighting against. The originating posture is *dependence under duress*. She is rescued from a peasant mob (a fact retconned across decades but consistently framed as the precipitating trauma of her childhood) by Magneto, and that rescue becomes the template for every subsequent attachment: *I am safe only when a powerful figure stands between me and the crowd.*
 
-**Avengers era (Avengers #16 onward; Englehart's run, 1970s).** Joins the Cap's Kooky Quartet. Begins systematically rebuilding identity through team belonging — the Avengers become surrogate family. Develops attachment to the Vision (a synthezoid), explicitly choosing a partner who is *safe* — incapable of the volatility of the male figures (Magneto, Pietro) who have defined her. Marriage to Vision (Giant-Size Avengers #4) is the first time she chooses anything for herself. Behavioral note: throughout this period her powers are described inconsistently — "hex bolts," probability manipulation — a vagueness she does not push against. She accepts being underestimated.
+Her defection to the Avengers with Pietro and Hawkeye (*Avengers* #16, 1965 — "The Old Order Changeth") is the first observable act of agency, but note its structure: she does not leave Magneto alone; she leaves only because Pietro leaves and because a new protective frame (the Avengers, Captain America) is on offer. The pattern — *transfer of dependency rather than achievement of autonomy* — recurs.
 
-**The first break — Vision and the Scarlet Witch limited series & West Coast Avengers (Byrne, 1989-1991).** Wanda manifests twin sons, Thomas and William, via her powers (later revealed to be fragments of Mephisto's soul, per Englehart/Byrne resolution). The children are taken / unmade / revealed as never-having-been. Simultaneously the Vision is captured, dismantled by a government black-op, rebuilt as an emotionless white reconstruction, and rejects her. **This is the catastrophic loss event.** Her response: a controlled, eerily contained breakdown — she does not grieve openly; she *forgets,* with assistance from Agatha Harkness, who magically suppresses the memory of the children. The wound is buried, not metabolized. This is the load-bearing fact for everything after.
+The Vision romance (late 1960s through *Giant-Size Avengers* #4, 1975, the wedding) is the next major data point. Wanda chooses, against the active disapproval of her brother and the cultural discomfort of teammates, a partner who is a synthezoid — bodily uncanny, emotionally cautious, and incapable of conventional reproduction. The choice is *over*determined: Vision is safe (he will not abandon her the way her mother was lost, the way Magneto turned out to be a monster), he is gentle, and crucially he is a partner Pietro cannot dominate. Pietro's furious objections (*Avengers* #110, *Giant-Size Avengers* #4) reveal the *enmeshed-twin* dynamic she is, for the first time, asserting against.
 
-**Kurt Busiek's Avengers (late 1990s).** Stable surface, intermittent romantic entanglement with Wonder Man (whose brainwave patterns were used to template the Vision's emotions — note the substitution logic). Powers begin escalating toward "chaos magic" — Agatha Harkness retroactively reframes her as something other than a mutant probability-shifter. The expansion of power coincides with the buried grief: the magnitude of the wound is being matched by the magnitude of the gift.
+The Englehart/Mantlo period gives us her magical apprenticeship under Agatha Harkness (*Avengers* #128, *Marvel Super-Heroes* #50) — the first authority figure who teaches her that her power is not a curse, not a mutation gone wrong, but a discipline. This is the high-water mark of her integrated functioning. She marries, she trains, she leads (briefly chairing the Avengers, *Avengers* #279). The biographical structure here matters: *every period of stability in her life is bracketed by an attachment to a teacher, partner, or sibling.*
 
-**Avengers Disassembled (Bendis, 2004).** The repressed returns. Wanda remembers the children. Within a compressed psychotic episode she kills Vision (via She-Hulk-as-instrument and rampage), Hawkeye, Ant-Man (Scott Lang); destroys Avengers Mansion; alters reality without conscious intent. Her behavior is **not** premeditated villainy — it is dissociative, fugue-like, affect-flooded. She does not flee, gloat, or strategize.
+The *Vision and the Scarlet Witch* maxiseries (1985–86, Englehart/Leonardi) introduces the children — Thomas and William — magically constructed from fragments of Mephisto's soul-stuff and Wanda's chaos magic. The pregnancy and birth are framed in the text as miraculous; the underlying mechanism is *manifestation through wish.* This is the single most important precursor to everything that follows. Wanda does not yet know — but the reader, retroactively, sees — that her power *can rewrite reality to give her what she emotionally requires.* When Agatha Harkness later strips her memory of the children (*Avengers West Coast* #51–52, "Vision Quest"), and they are revealed to be soul-fragments reabsorbed, the wound is not processed; it is *erased.* This is not therapeutic intervention. It is the installation of a delayed-detonation device in her psyche.
 
-**House of M (2005).** Under Magneto and Quicksilver's influence (Pietro, terrified of what the Illuminati plan to do to her, suggests the reality-rewrite), Wanda constructs a global delusional system in which mutants are dominant and everyone she loves has what they want — Steve Rogers grew old, Peter Parker has MJ and Aunt May, *she* has Thomas and William. When the construct collapses, her three words — **"No more mutants"** — depopulate the mutant species. This is the central act. Mechanically: a wish made in grief and betrayal, not in hatred. She is not anti-mutant; she is anti-*reality-that-took-her-children.*
+The Byrne *Vision Quest / Darker Than Scarlet* arc (1989–90) is the first overt psychotic decompensation. Vision is dismantled by a government taskforce and rebuilt as an emotionless white construct; the marriage collapses; Wanda is captured by Magneto and Immortus and used as a pawn in cosmic chess. She is shown lucid one panel, glassy and dissociated the next. The narrative externalizes her break (Immortus is manipulating her), but the behavioral data is what matters: under accumulated loss (husband, children, agency), she fragments.
 
-**Post-M wilderness (2005-2014).** Disappears. Found amnesiac (Young Avengers, Children's Crusade by Heinberg). Doctor Doom is revealed as having siphoned/influenced the chaos magic at House of M's climax — partial exogenous attribution but not exculpation. Wiccan and Speed (Billy and Tommy, reincarnated soul-fragments of her lost twins) seek her. Her reunion behavior is striking: tentative, guilt-saturated, almost penitent — not the affect of someone who feels she acted rightly.
+Stability returns through the 1990s in the West Coast and main Avengers titles, but it is brittle stability — she dates Wonder Man, she fights, she functions — without ever working through the children or the marriage. The 1998 Busiek/Pérez relaunch shows a woman performing competence over a hollow.
 
-**Modern era (Robinson's Scarlet Witch solo, 2015; Steve Orlando's Scarlet Witch, 2023; Krakoa-era Trial of Magneto, Hellfire Gala, X-Men).** Active reparation arc: attempts to restore mutants ("the Decimation" reversal, partial), opens a literal door for anyone needing magical help (Orlando run — note the compulsive availability), dies and is resurrected, reckons with Magneto. The pattern is reparative obsession bordering on self-erasure into service.
+Then *Avengers Disassembled* (Bendis, 2004). The triggering event in-text is Wanda's recovered memory of the children, surfaced — depending on the reading — by a careless comment or an Agatha-related crisis. Her response is not grief; it is *annihilation.* She kills Ant-Han (Scott Lang), engineers Vision's death at She-Hulk's hands, kills Hawkeye, and reshapes the entire Avengers Mansion into a battleground. The clinical signature is unmistakable: *the loss she could not metabolize when it happened, returning at full pressure years later, with no available defense except reality-rewriting.*
 
-**Trajectory.** A woman repeatedly placed in proximity to power she didn't ask for, who responds with compliance, attachment-seeking, and finally — when the attachments are destroyed — with reality-rejection at the scale of her abilities.
+*House of M* (Bendis/Coipel, 2005) is the next escalation. Confronted by the Avengers and X-Men to decide her fate, she — prompted by Pietro — rewrites the world: mutants dominant, Magneto a king, herself a princess, her children alive. This is *wish-fulfillment psychosis externalized to planetary scale.* When the construct collapses, her parting utterance — "No more mutants" — depowers ~98% of mutantkind. The act is sometimes read as malice. The behavioral evidence reads otherwise: she is striking at the *category* (mutants) that destroyed her father, her brother, her marriage, her sanity. It is grief-rage, not ideology.
 
----
+The post-*M-Day* years (the *Children's Crusade* arc, Heinberg/Cheung 2010–12, especially) show her in fugue states, amnesiac, repeatedly hidden in pastoral or domestic settings (Doom's castle, a small village) — *she keeps trying to build the simple life the children represent.* The Young Avengers' Wiccan and Speed (reincarnations of her lost sons) seeking her out is the most poignant evidence of her core wound: she does not recognize them at first, then weeps.
 
-## 2. MEDICAL — Somatic, Neurologic, Reproductive, Substance
+The Robinson run (*Uncanny Avengers*) and especially James Robinson's *Scarlet Witch* solo (2015–17) and the Steve Orlando run (2023–) show a woman trying — finally — to do the work: she travels, she helps witches, she confronts the legacy of her power, she takes apprentices (Darcy, then in later runs others). The Aaron *Avengers / Trial of Magneto* (2021) arc is the most explicit attempt at integration: she dies, returns, and forces the narrative to *speak the children's names.*
 
-- **Reproductive/obstetric:** Pseudocyesis followed by parturition of two non-corporeal entities (Vision & the Scarlet Witch #12). The phenomenology — somatic pregnancy symptoms, delivery, lactation-adjacent bonding, infants who *are* and then *aren't* — is closer to a reproductive trauma profile than any standard etiology. The biological grief response (post-loss prolactin/oxytocin disruption is well-documented in the obstetric literature) is operative here regardless of the metaphysics.
-- **Iatrogenic memory suppression:** Agatha Harkness magically erases the memory of the twins. Functionally equivalent to a forced dissociative amnesia. Removed the symptom; preserved and amplified the pathology.
-- **Head/neurologic:** Repeated states described in-universe as "psychic breaks," "possession," "fugue." Behaviorally consistent with dissociative episodes — derealization at Avengers Mansion (Disassembled), confabulatory world-building (House of M), post-event amnesia.
-- **Mortality:** Has died and been resurrected (Trial of Magneto, 2021). The post-resurrection presentation includes guilt-driven hyperactivity and a near-manic reparative drive.
-- **Substance use:** No record of substance dependence. Notable *absence* — Wanda does not self-medicate with alcohol or drugs; she self-medicates with relationships and, ultimately, with reality itself.
-- **Power-as-pathophysiology:** Chaos magic appears affectively coupled — output scales with arousal. This is medically relevant: her "weapon" has no safety interlock from her limbic system. Every untreated affective surge is a public-health event.
+The throughline across sixty years: **a woman who has never been allowed an ordinary loss.** Every grief becomes a cosmic event because her instrument *is* cosmic.
 
 ---
 
-## 3. PSYCHOLOGICAL — Clinical Picture from Behavior
+## 2. MEDICAL
 
-**Attachment.** Disorganized, leaning anxious-preoccupied. Evidence: the Magneto bond is coerced-caregiver (fear + dependency, classic disorganized template); Pietro is enmeshed-twin (she tolerates his controlling, paranoid behavior across decades without rupture); Vision is the *chosen* attachment — a partner whose emotional flatness guarantees he will not abandon or rage. The selection of a synthezoid lover is, psychologically, the choice of a regulated object. When Vision is destroyed/rebuilt-cold (West Coast Avengers), her core attachment template collapses and the disorganization surfaces.
+**Somatic baseline.** Young adult female, physically unremarkable absent the power-set. No record of chronic somatic illness, substance use disorder, or self-injurious behavior in the conventional sense (the self-harm is *via* the power, which is not somatic).
 
-**Defenses (in approximate developmental order).** Compliance and identification with the aggressor (Magneto era) → idealization of substitute family (Avengers) → reaction formation and reparative caregiving (constant team service) → **repression and dissociation** (the suppressed twin memories) → when those fail, **denial at psychotic intensity** (House of M's wish-world) → after collapse, **reparative obsession and self-punitive over-functioning** (post-Decimation solo runs). The defenses *escalate in primitiveness* in direct proportion to the magnitude of unprocessed loss.
+**Power-related physiology.** Chaos magic / probability manipulation / reality alteration. The retconned mechanism (Bendis-era nexus-being status; Aaron-era witch heritage) is less important than the *phenomenology*: power output appears coupled to affect. Hex-bolts and reality-shifts intensify with emotional dysregulation. This is medically relevant because it means *affective storms have neurological-equivalent and bodily consequences in her case* — analogous to a patient whose autonomic arousal directly causes external catastrophe. There is no separation between "feeling" and "acting" the way there is for non-powered subjects. This collapses the normal psychological buffer between impulse and action.
 
-**Affect regulation.** Chronically over-controlled at baseline; catastrophically under-controlled at threshold. She does not display the normal mid-range of irritation, complaint, sulking. Decades of quiet, accommodating presentation are punctuated by total decompensations. This is the pattern of someone whose containers were never adequate for the contents.
+**Pregnancy and pseudo-parturition.** Two magically-induced pregnancies (*Vision and the Scarlet Witch* #12, 1986). The bodies were real to her sensorium; the obstetric experience was real; the children were biologically/ontologically anomalous. The 1989 revelation that the children were soul-fragments and their subsequent reabsorption is, in clinical terms, a perinatal loss of two children compounded by *epistemic injury* — being told the loss was not "real" in the way she experienced it. This is a recognized pathway to complicated grief.
 
-**Cognitive style.** Intuitive, associative, image-and-feeling driven rather than analytic. She is not strategic in the manner of Strange or Doom; her magic is wish-shaped. This is consistent with primary-process dominance under stress — and explains why her reality-warps look like *dreams* (House of M is the wish-fulfillment of everyone she loves) rather than *plans*.
+**Iatrogenic mnestic intervention.** Agatha Harkness performed a memory-wipe of the children (*Avengers West Coast* #52). This is, in any clinical analog, a profound violation: a trusted therapist-figure surgically excising a traumatic memory rather than treating it. The subsequent decompensation in 2004 is the *predictable* return-of-the-repressed.
 
-**Self-concept.** Fragile and externally anchored. Identities cycle: Magneto's daughter / Pietro's sister / Vision's wife / Avenger / mother / monster / penitent. She has never sustainably authored an identity from inside. The Orlando-era door-always-open shop is, psychologically, an attempt to be *useful* into existence.
+**Traumatic deaths and resurrections (self).** Multiple — most consequentially the *Children's Crusade* arc death and the *Trial of Magneto* death and return. Repeated mortality experiences without sustained psychiatric intervention contribute to dissociative load.
 
-**Compensatory mechanisms.**
-- *Adaptive:* prosocial channeling of guilt (reparation arcs), capacity for genuine love and loyalty, willingness to accept consequence (does not flee accountability post-M).
-- *Maladaptive:* power as affect-regulator; reality-revision as grief-bypass; attaching to caretakers who exploit her (Magneto, briefly Doom).
+**Reproductive/identity intrusions.** Mind-control episodes (Immortus, *Avengers West Coast* #51–52), possession episodes, and the *Disassembled*-era inability to distinguish her own intent from external influence constitute a history of *agency violations* comparable in psychological weight to repeated assault. This is a body-and-self trauma even when not strictly somatic.
 
----
-
-## 4. PSYCHIATRIC — Diagnostic Analysis
-
-**Primary working diagnosis: Prolonged Grief Disorder (ICD-11; see Bryant et al. 2024; Pop-Jordanova 2021).** The criteria map almost cleanly: the loss of the twins (and, layered, the Vision) produced a grief response that exceeded normative duration and intensity, with grief-related cognitions (the children must be restored / the world must be remade to contain them) and persistent depression as core features. The literature emphasizes **disbelief and denial** as central affective-cognitive features of complicated grief, with **sudden/violent loss intensifying the trauma layer** — Wanda's losses were sudden, violating natural law, and compounded by iatrogenic memory suppression that prevented the work of mourning entirely. House of M is the textbook *denial response to catastrophic loss,* scaled by capacity. "No More Mutants" is the *anger phase,* discharged at the species that her father weaponized her for.
-
-**Comorbid / secondary considerations.**
-- **Dissociative features** consistent with a Dissociative Disorder presentation — amnesia (post-Disassembled, post-M), depersonalization episodes, identity disturbance. The Harkness intervention is itself an iatrogenic dissociative event.
-- **Brief psychotic episode(s) with mood-congruent features** — Disassembled and House of M both meet phenomenologic criteria for psychotic decompensation in the context of severe stressor; not a chronic psychotic disorder.
-- **Complex PTSD** features secondary to childhood displacement, coerced affiliation with a violent paternal figure, and reproductive trauma.
-
-**Differential — what she is NOT.**
-- *Not* Narcissistic Personality Disorder. The grandiosity is absent; her acts of reality-warping are wish-driven, not status-driven, and she accepts blame readily.
-- *Not* Antisocial. Conscience is hyperactive, not deficient — the reparative arcs are the defining feature of her later career.
-- *Not* primary psychotic disorder (schizophrenia spectrum). Her psychotic episodes are stress-bound, affect-congruent, time-limited, and resolve with no negative symptoms or thought-disorder residue.
-- *Not* Borderline Personality Disorder, though it is the closest miss — the attachment instability and self-concept disturbance fit, but the chronic interpersonal volatility, impulsive self-harm, and identity-as-rage do not. Her instability is event-driven, not characterological.
-
-**Etiology.** Cumulative: early displacement and loss of biological parents → coercive recruitment by Magneto → enmeshment with Pietro → reproductive catastrophe → iatrogenic suppression preventing mourning → return of repressed under acute stressor → catastrophic decompensation amplified by reality-warping capacity → chronic guilt-driven reparative state.
+**No substance use of note.** The "intoxication" in her record is *power-intoxication* — a behavioral analog (loss of control, withdrawal collapse, tolerance escalation) without the chemistry.
 
 ---
 
-## 5. PERSONALITY — Synthesis
+## 3. PSYCHOLOGICAL
 
-**Core drives, in priority order.**
-1. To belong to something that will not be taken from her.
-2. To repair what she has broken (operative since 2005; load-bearing for current behavior).
-3. To be known as something other than the daughter / the sister / the witch who ended the mutants.
+**Attachment.** The earliest record (frightened girl protected by an older male power-figure, then transferred to a brother-bonded dyad, then to a synthezoid husband who cannot leave the way humans leave) reads as *anxious-preoccupied attachment with a dependency on idealized protector figures.* The repeated cycle — idealize, fuse, lose, fragment — is textbook. Note specifically: she has *never* chosen a partner her own size and her own kind. Vision is uncanny; Wonder Man is ionic-energy-immortal; her later romantic moves remain with the extraordinary. The unconscious calculation: *ordinary partners can be lost the way my mother was lost. Extraordinary partners cannot.* (The data falsifies this defense — Vision is repeatedly dismantled — but the defense holds anyway.)
 
-**Worldview / operational code.** Reality is negotiable but the negotiation is expensive and she now knows it. Love is the only durable value; institutions and ideologies are instruments people use to take loved ones away. She trusts individuals, distrusts factions, and reflexively serves the wounded — because that is the role in which her self-loathing is quietest.
+**Twin enmeshment.** Pietro is the constant. Her assertion against him (the Vision marriage) is the only major individuation episode in her record, and it costs her decades of intermittent estrangement. Her capitulation to him in *House of M* (he is the one who pushes her toward the rewrite) confirms that under stress, *Pietro's voice still overrides her own judgment.* This is enmeshment, not love-conflict; the boundary between her affect and his is permeable.
 
-**Interpersonal pattern.** Warm, attentive, slow to anger, slow to refuse. Tends to attach to figures who *need* something from her, which leaves her chronically exploitable by manipulative caretakers (Magneto template) and chronically nourished by those who let her give (Vision, the Young Avengers, her clients in the solo runs). She does not initiate dominance; she absorbs the room's emotional weather and reflects it.
+**Defenses, ranked by frequency.**
+1. *Wish-fulfillment / omnipotent reparation* — the most pathognomonic. When reality is unbearable, she rewrites it. *House of M* is the extreme; the constructed children were a prior expression; the *Children's Crusade* pastoral hideaways are the same mechanism running quieter.
+2. *Dissociation* — fugue states, amnesia, the "where am I, who am I" episodes of the post-M-Day period.
+3. *Displacement of rage* — "No more mutants" attacks the category, not the individuals who wounded her.
+4. *Identification with the aggressor* — at her worst, she becomes a version of Magneto (sovereign, reality-imposing, righteous), the very figure whose pattern she fled.
+5. *Reparative action* (mature) — the late-period solo work, helping witches, mentoring. This is the *adaptive* version of the same omnipotent reparation drive.
 
-**Stress response and escalation ladder.**
-- *Baseline:* over-accommodating, quietly competent, affect-flattened.
-- *Mild stressor:* withdraws, becomes solitary, increases service behaviors.
-- *Moderate stressor (loss, betrayal):* dissociative thinning, magical output becomes less precise.
-- *Severe stressor (loss of attachment object, return of repressed grief):* reality-testing fails; wish-cognition fuses with capability; outcomes scale to the size of her grief, not the size of her intent.
-- *Recovery:* deep guilt, withdrawal, eventually a renewed reparative campaign.
+**Affect regulation.** Catastrophically coupled to power output. She has limited capacity to *hold* an emotion without acting on it externally. This is not absence of capacity — it is absence of *practice*, because every emotion she has ever had has had somewhere to go (a hex, a probability-shift, a reality-edit). She has never been required to sit with grief, the way an unpowered mourner must.
 
-**Pressure points (handler intelligence).**
-- The twins — Wiccan and Speed — are the live wire. Threat or harm to them collapses every higher cortical control.
-- Magneto. The paternal bond is the original wound; any framing of her as "his weapon" or "his daughter first" destabilizes self-concept.
-- The accusation of villainy. She agrees with it. This is not a button to push for advantage; pushing it produces either collapse or, if cornered with no reparative outlet, decompensation.
-- Vision. The synthezoid remains the symbol of safe love; iterations of him are emotionally radioactive.
+**Cognitive style.** Intuitive, associative, symbolic — consistent with a magical practitioner but also with a dissociation-prone affect-driven cognitive profile. She is not rigid; she is *permeable*, which is why both training (Harkness) and manipulation (Immortus, Doom, Mephisto's prior soul-fragment intrusion) take so easily.
 
-**Strengths the file must not understate.** Genuine moral seriousness; durable loyalty; capacity for hard accountability; intelligence in the affective and intuitive register; a power ceiling that, when integrated with conscience, is among the most consequential on Earth.
+**Self-concept.** Fragmented and shame-saturated. The recurring self-statements across runs ("I'm a monster," "I did this," the Robinson-era "I owe a debt") indicate an internalized identity as *destroyer*, set against a longed-for identity as *mother/healer/witch-in-service.* The integration project of her later runs is the attempt to hold both.
 
-**Net read.** A chronically grief-injured woman of extraordinary capability whose pathology is not malice but unmetabolized loss — and whose treatment course (in the literature: structured grief work, CBT-for-PGD per Bryant 2024) was systematically prevented for decades by every authority figure in her life. The reparative phase is real but fragile; it is held in place by the existence of Billy and Tommy and by the absence of a fresh catastrophic loss. Remove either condition and the operational risk reverts to House of M baseline.
+**Compensatory mechanisms — positive.** Genuine empathy, particularly for the marginalized and the feared (witches, mutants, the uncanny). Capacity for tenderness sustained even after catastrophic loss. Willingness — late — to face what she has done rather than flee it.
 
-— End analytical workup. Synthesis stage may proceed.
+**Compensatory mechanisms — negative.** Reality-rewriting as conflict-avoidance; flight into domesticity as flight from cosmic responsibility; collapse into a protector's frame when stressed.
+
+---
+
+## 4. PSYCHIATRIC
+
+The diagnostic picture is layered. Working from behavior:
+
+**Primary: Prolonged Grief Disorder (ICD-11) with complicated/traumatic features.** The Bryant 2024 and Pop-Jordanova 2021 literature describes precisely her presentation: grief symptoms that remain *too intense, too long*; grief-related cognition (rumination on the children, on Vision) and depressed mood as core features; the disbelief/denial response intensified by *violent and sudden* loss (the children's reabsorption was both). Critically, her grief was *iatrogenically interrupted* by the Harkness memory-wipe, which prevented the normal acute-grief work and guaranteed a delayed, complicated course. The 2004 decompensation is the textbook return of unmetabolized grief; *House of M* is grief denial scaled to the limit of her instrument.
+
+**Secondary: Brief Psychotic Episodes with Reality-Distorting features, recurrent.** The *Disassembled* and *House of M* breaks meet criteria for psychotic episodes — loss of reality testing, delusional restructuring (the constructed world *was*, to her, real and right), grossly disorganized behavior. The unusual feature is that her psychosis *externalizes* — she does not merely believe a false world; she *generates* one. Diagnostically this is still psychosis; the medium is just exceptional.
+
+**Tertiary: Complex PTSD features.** Repeated agency violations (mind-control, memory-tampering, possession), repeated catastrophic losses, repeated forced returns from death. Dissociative episodes, hyperarousal coupled to power output, foreshortened sense of future, negative self-concept ("monster").
+
+**Differential — what she is NOT:**
+
+- *Not Borderline Personality Disorder*, despite surface resemblance (intense relationships, fear of abandonment, affective storms). The BPD profile requires a *pervasive* and *early-onset* pattern present across domains and relationships from young adulthood onward. Wanda's instability is *episodic and trauma-triggered*, not characterological. Between catastrophes she sustains stable relationships, stable work, stable identity. The Robinson and Orlando-era functioning would be impossible in true BPD.
+- *Not Primary Psychotic Disorder (Schizophrenia spectrum).* No prodrome, no negative symptoms, no thought disorder between episodes, no auditory hallucinations of the schizophrenic type. The psychosis is *reactive* — grief-driven, trauma-driven — not primary.
+- *Not Narcissistic Personality Disorder*, despite the omnipotent acts. The grandiosity is *defensive and episodic*, not a stable self-structure. Her baseline self-concept is *shame*, not grandeur. NPD does not weep for what it has done; Wanda does, repeatedly.
+- *Not Bipolar I*, despite the catastrophic episodes. No sustained manic syndrome, no pressured speech, no decreased need for sleep documented across runs; the "high" periods are *power-intoxicated* in the moment, not weeks-long mood states.
+
+**Etiology, synthesized.** Early loss of mother and ordinary childhood → coerced militancy under a charismatic-cruel father-figure → individuation only via transfer to new attachments → magically-constructed reparative fantasy (the children) → iatrogenic mnestic violation → decades of unprocessed grief riding atop an instrument that *converts feeling into world.* The disorder is the predictable outcome of those inputs in that order.
+
+---
+
+## 5. PERSONALITY — THE SYNTHESIS
+
+**Core drives.** (1) To repair what has been lost — children, husband, mother, world. (2) To not be the thing she fears she is (her father's daughter, the destroyer). (3) To belong to a chosen family of equals rather than a hierarchy of protectors.
+
+**Operational code.** *If reality wounds the people I love, reality is the thing that must yield.* This is the implicit axiom under every catastrophic act and every quiet kindness alike. The same axiom, applied generously, makes her a healer; applied desperately, makes her a god-tyrant. The axiom does not change. What changes is whether she has the support, the teaching, and the metabolized grief to apply it generously.
+
+**Interpersonal pattern.** Warm, attentive, slightly deferential at first contact; rapidly forms intense bonds; idealizes protectors and partners; struggles to assert against the enmeshed-twin or the parental figure; tender with the marginalized; defensive and withdrawing when her competence is questioned in the domain of her power. With apprentices and dependents she is patient and giving — *here she gets to be the protective figure she always needed, and it functions as her best therapy.*
+
+**Stress / escalation ladder.**
+1. Baseline: warm, present, functioning, melancholic.
+2. Triggered (loss-cue, agency-violation, mention of children): withdrawal, somatic dread, power-signature instability.
+3. Compounded stress: dissociative episodes, fugue, regressive flight into pastoral/domestic frames.
+4. Acute decompensation: reality-distortion proportional to the unmetabolized affect — small at first (a hex that goes "wrong"), then larger.
+5. Catastrophic: full omnipotent-reparative break. Wish becomes world.
+
+The ladder is *climbable in both directions* and the late-period record shows her learning to climb back down.
+
+**Pressure points.**
+- The children (Thomas and William / Wiccan and Speed). The deepest wound and now, post-Heinberg, the deepest source of integration. Threats to them or denial of their reality are catastrophic triggers.
+- Pietro. He can move her in directions no one else can — for ill (*House of M*) and increasingly, in the late record, for good.
+- Magneto. The unresolved father-question. Whether he is or is not biologically her father (the retcons fluctuate), the *psychological* paternity is decided: she patterned her worst self on him and her best self in defiance of him.
+- Vision. The relationship she could not protect, and the relationship that proved her capacity for ordinary, daily love.
+- Being told her perception of reality is wrong. This is the historical trauma (Harkness, Immortus, the gaslighting structure of her own power-set's epistemology). It is the single fastest path to escalation.
+
+**The integrative read.** Wanda Maximoff is a woman of unusual tenderness whose instrument is unusual catastrophe, born into a life that never gave her the ordinary mourning her ordinary heart required. Every monstrous act in her record is a grief that had nowhere smaller to go. Every healing act is the same grief, finally, given somewhere to go that is not the world.

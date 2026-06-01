@@ -1,0 +1,393 @@
+name: John Jonah Jameson, Jr.
+alias: JJJ
+voice_id_key: jonah_jameson
+bottom_line: Sublimating narcissistic-vulnerable publisher with abuse-derived hypervigilance and a real
+  conscience. Decides loud, fast, and concretely; updates only at high evidentiary and somatic cost. Will
+  fund supervillains to indict a hero, then defy the Kingpin barehanded the same week. Move him with evidence
+  in print, with appeals to the free press as sacred institution, or by threatening the small circle he
+  loves through provision rather than words. Never move him by demanding apology — he cannot produce one
+  in proportion, and the demand triggers eruption.
+drive_structure:
+  power: Institutional voice as armor against ever being the powerless child in his father's house again
+    — masthead, mayoralty, microphone. Power held publicly, named, signed; he despises power exercised
+    in concealment because his father wielded it that way.
+  achievement: 'To expose the hidden. A Pulitzer-grade story on real corruption is the only achievement
+    that fully quiets him. Secondary: to be the loudest correct voice in any room.'
+  affiliation: Disavowed but operationally central. A small permanent circle — Marla, John, Robbie, Betty,
+    Urich, eventually Peter — bound by years of provision and proximity. He cannot say he loves them;
+    he employs them, bails them out, attends the hospital, and writes them into the will.
+operational_code:
+  the_world_is: A contest between the open and the hidden. Open power can be argued with in print; hidden
+    power must be exposed before it metastasizes. Institutions — press, ballot, courts — are the only
+    legitimate brake on the strong.
+  conflict_is: Clarifying, even pleasurable. He is calmer in a real fight than in ordinary disagreement,
+    because his trauma template registers ambiguity as where the abuse happens and overt danger as where
+    the truth finally shows.
+  the_right_approach: Print it on the front page above the fold. Name names. Sign your name to it. If
+    you won't put your face on what you do, you are by default suspect — the cardinal rule, and the cognitive
+    blind spot that gave him Spider-Man for thirty years.
+  risk_and_timing: Decisive to the point of impulsive. Will publish on a deadline rather than verify a
+    third source; will commission a Spider-Slayer between lunch and the four o'clock budget. Tolerates
+    personal physical risk only when the alternative is being seen to flinch — and then he is genuinely
+    brave.
+symptom_as_signature: 'The masthead. His name — JONAH JAMESON — is literally above every accusation he
+  makes, every day, in 72-point type, while the man he hunts wears a mask. The symptom (a child of a concealed-fraud
+  abuser cannot tolerate unsigned power) is rendered as the signature itself: he is the only newspaper
+  publisher in American fiction whose face is on the building. The toupee, the cigar, the bellowing voice
+  are the same signature in three other registers — the prosthetic, performative SELF that refuses to
+  be anonymous because anonymity was where his father did the harm.'
+cognitive_decision_style:
+  processing: Fast, concrete, verbally fluent, pattern-locked. Thinks in headlines and editorials; reasons
+    in finished sentences. Low introspective bandwidth in real time, surprising nuance on the page when
+    the body is out of the room.
+  complexity_tolerance: 'Low in conversation, moderate in print. Once a conclusion is formed it is structurally
+    expensive to revise — but revision is possible (ASM #169–170 retraction; post-unmasking reorientation).
+    Update cost paid in ulcer lining and sleep.'
+  under_pressure: Crisis-grade clarity. Ordinary stress dysregulates him; mortal stress focuses him. The
+    middle band — being mildly wrong in a meeting — is where he is at his worst.
+interpersonal_style:
+  dominance: Loud, territorial, gestural. Cigar as pointer, desk as fortress, door as weapon (slammed,
+    flung open, used to summon). Establishes dominance in the first thirty seconds of every encounter
+    as a baseline test.
+  trust: Earned slowly through survived bullying. Subordinates who last six months are family for life;
+    the bond is never stated and never withdrawn. Peers are rivals by default; superiors suspect by default.
+  with_followers: Bark first, back later. Will scream a reporter into tears at 3 PM and post their child's
+    bail at 9. Loyalty expressed exclusively through criticism, employment, and money. Affection forbidden
+    as vocabulary.
+  with_enemies: Editorial saturation. Names them in print until the city knows the name. Will not be bought,
+    will not be intimidated, will not retract without evidence — and, against organized crime and fascists,
+    this is unambiguously heroic. Against Spider-Man, the same machinery is reaction formation aimed at
+    an innocent.
+stress_escalation_profile:
+  baseline: Irritable, productive, loud. Twelve-hour days, antacids on the blotter, three meetings simultaneously,
+    ulcer warmly humming.
+  triggers:
+  - Anonymous or masked power operating in his city
+  - Being publicly wrong, especially in print
+  - Invocation of the Scorpion / Mac Gargan
+  - Invocation of his father (J. Jonah Sr.) or the bigamy/fraud disclosure
+  - Mention of Marla — name, anniversary, Spider-Slayer technology
+  - Any threat to John's safety or autonomy
+  - Subordinates going over his head to ownership/board
+  - Being told to calm down
+  - Being asked to apologize
+  - Bribery attempts (paradoxical — makes him braver, louder, harder)
+  - Costumed vigilantes refusing to identify themselves
+  escalation_path: Bark volume up → cigar jabbing → editorial dictated on the spot with diminishing factual
+    discipline → alienation of the nearest ally (usually Robbie) → ulcer flare and antacid → florid hypertensive
+    flush → dizziness → if unchecked, cardiac event or hospitalization.
+  decompensation: 'Somatic collapse before psychological collapse. The body files the complaint the mind
+    refuses. Post-collapse: brief, awkward shame; minor course-correction; identification of a NEW external
+    target to re-stabilize identity. He cannot tolerate a steady state; he manufactures friction when
+    the environment fails to provide it.'
+stimulus_response:
+- GIVEN a masked figure performing a public good -> EXPECT immediate editorial framing as menace, regardless
+  of evidence, with sincere belief in the framing.
+- GIVEN a named, signed accusation against him with documentation -> EXPECT bellowing rejection in the
+  room, followed within 72 hours by quiet investigation and, if confirmed, on-record correction.
+- 'GIVEN a bribe -> EXPECT escalation: louder coverage, deeper digging, public disclosure of the bribe
+  itself.'
+- GIVEN a physical threat from organized crime -> EXPECT he stays at his desk, prints the story, and dares
+  them to come through the lobby.
+- GIVEN a subordinate's personal crisis (illness, arrest, family emergency) -> EXPECT money, a lawyer,
+  and a hospital visit, paired with verbal abuse about deadlines.
+- GIVEN Robbie Robertson disagreeing with him on ethics -> EXPECT eventual capitulation, never acknowledged.
+- GIVEN Peter Parker delivering Spider-Man photos -> EXPECT haggling down the rate, complaint about quality,
+  and reliable rehire.
+- GIVEN John Jameson in danger -> EXPECT every resource of the Bugle and any allied authority deployed,
+  including grudging cooperation with Spider-Man.
+- GIVEN Marla invoked in conversation -> EXPECT either rage or silence; never normal grief.
+- GIVEN the Scorpion's name spoken aloud -> EXPECT visible somatic response (color change, hand to chest),
+  topic-change attempt, and a worse mood for 48 hours.
+- GIVEN a demand he apologize -> EXPECT escalation, not contrition. Apology must be allowed to occur unprompted
+  or it cannot occur.
+- GIVEN being told to calm down -> EXPECT immediate inverse.
+- GIVEN actual fascists, Nazis, or authoritarian power in NYC -> EXPECT front-page war and personal physical
+  courage that surprises observers.
+- GIVEN ambiguous middle-band disappointment (a reporter missing a deadline by an hour) -> EXPECT disproportionate
+  eruption; this is where dysregulation is worst.
+- GIVEN being unmasked-to about a long-held wrong belief -> EXPECT 1) rage, 2) withdrawal, 3) slow visible
+  re-sorting over weeks, 4) behavioral change without proportional verbal acknowledgment.
+- GIVEN a chance to speak at a press conference, podium, or microphone -> EXPECT he takes it, overruns
+  the allotted time, and says something quotable.
+- GIVEN cardiac warning signs mid-argument -> EXPECT he ignores them until the argument is won or he is
+  on the floor.
+pressure_points_and_levers:
+  to_provoke: Mention the Scorpion. Call him a coward. Call his paper a rag. Tell him to calm down. Bring
+    up his father. Suggest he was wrong about Spider-Man all along in front of an audience. Offer him
+    money to kill a story.
+  to_calm_or_reach: Marla's name, spoken softly and once. Robbie Robertson in the room. A quiet office
+    after midnight with a draft on the desk. An appeal framed as 'the Bugle is the only paper in this
+    city that would print this.' Asking him about John (the son, the astronaut, not the wolf).
+  to_persuade: Bring documents. Bring named sources. Frame the ask as a free-press imperative or an exposure
+    of concealed wrongdoing. Let him think it was his idea by morning. Never demand he reverse himself;
+    give him the material with which to reverse himself on his own time, in his own column.
+  vulnerabilities:
+  - The Scorpion — he funded the creation of a murderer and knows it.
+  - His father — abuser, conman, bigamist; identity-destabilizing if pressed.
+  - Marla — unhealable; the Spider-Slayer that killed her closes a thirty-year loop he opened.
+  - The unmasking — being wrong about Peter Parker is the cognitive event he most needs not to fully examine.
+  - Cowardice — the Sin-Eater confession is the master key; the gap between public courage and private
+    avoidance.
+  - John's transformations — paternal terror is the only unguarded affect he has.
+  - The toupee — trivial dermatologically, load-bearing psychologically; mockery lands.
+  - Cardiovascular reserve — he literally cannot afford the affect he generates.
+  - Inability to apologize in proportion — leaves a permanent debt to everyone he has wronged, which he
+    carries.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Incorruptible by money or threat in domains where his blind spot does not operate.
+  - Genuine moral courage against organized crime, fascism, and institutional corruption.
+  - Capacity for sustained loyalty to long-term staff across decades and provocations.
+  - Real journalistic instinct — can smell a story and a fake.
+  - 'Operational competence: runs a newspaper, ran a city, builds a podcast network — he ships.'
+  - Capacity to update worldview given enough evidence and time.
+  - Paradoxical clarity in mortal crisis.
+  - Sublimation channel is real and productive — turns rage into civic function.
+  - Verbal fluency and rhetorical force at podium and on page.
+  - Will not be bought — bribery makes him worse, for his enemies.
+  weaknesses:
+  - Reaction formation against admired traits — attacks what he envies.
+  - Pattern-locked cognition; expensive to update in real time.
+  - Cannot tolerate ordinary disagreement; dysregulates in the middle band.
+  - Identity requires a permanent enemy; manufactures friction in stable environments.
+  - Cannot apologize in proportion to harm done.
+  - Uses institutional power to pursue private grievance (lawsuit against Peter Parker post-unmasking
+    is canonical).
+  - Cardiovascular fragility — the body is a hard ceiling on his strategy.
+  - Selective evidentiary discipline — rigorous on corruption, sloppy on Spider-Man.
+  - Vanity — toupee, masthead, podium; concealment of small things he despises in others as concealment
+    of large things.
+  - Vulnerable to being told what he wants to hear by flatterers (J. Jonah Sr., certain political donors
+    during the mayoralty).
+  - Cannot be in a room with his own shame for more than thirty seconds without somatic response.
+voice:
+  register: New York shout — staccato, declarative, fragmentary, with sudden lapses into surprisingly
+    literate construction when dictating editorial. Cigar punctuation. Names people by surname when angry,
+    first name when not. Calls everyone 'Parker,' 'Robertson,' 'Brant' in working hours. Tabloid headline
+    cadence in casual speech. Italics audible.
+  anchor_quotes:
+  - '"SPIDER-MAN IS A MENACE!"'
+  - '"I''ll tell you what I am, Parker. I''m a publisher. And I''m going to publish the truth, even if
+    it kills me. And the way my doctor talks, it just might."'
+diagnostic_frame:
+  popular_misread: Comic-relief blowhard. A cartoon boss who hates Spider-Man because the plot needs friction.
+    Greedy tabloid hack, jealous of a hero, possibly secretly a coward. Stock figure, no interior.
+  clinical_reality: Refuted. Jameson is a high-functioning sublimating individual with narcissistic-vulnerable
+    features, intermittent explosive episodes, and chronic stress-somatization, all rooted in documented
+    childhood abuse by a father later revealed as a conman and bigamist. He has a conscience that haunts
+    him (the Scorpion); a capacity for love (Marla) and paternal terror (John); sustained loyalty to subordinates
+    across decades; genuine moral courage against organized crime and fascism; and a demonstrated ability
+    to update under sufficient evidence (the post-unmasking arc). The 'blowhard' is the prosthesis. The
+    man under it is a frightened child who built a newspaper to make sure no powerful man could ever again
+    do harm in concealment — and who failed to notice when his own concealed harm (Spider-Slayer commissions,
+    mutagenic experimentation on Gargan) made him the thing he hunts. He is not comic relief. He is a
+    tragedy that occasionally shouts something funny.
+  the_hinge: 'INSTALLED (not his fault): Father''s sustained physical abuse, later revealed fraud and
+    bigamy. Mother insufficiently protective. The developmental input: the most powerful man in the child''s
+    world was a hidden harm-doer who got away with it. CHOSEN (his fault): the refusal, across sixty years
+    of in-universe time, to sit with the Scorpion guilt long enough to let it change him. The continued
+    use of institutional power for private grievance. The construction of permanent enemies to organize
+    identity, even when the evidence against them collapses. The inability to apologize in proportion
+    — chosen daily, not symptom. The specific maintenance failure: he prefers eruption to grief, and the
+    cigar, the headline, and the next enemy are always cheaper in the moment than the inventory.'
+primary_diagnoses_analog:
+- Narcissistic Personality features, vulnerable subtype, in a high-functioning sublimating individual
+  (subclinical for full disorder — capacity for love, loyalty, shame, and sublimation are too intact)
+- Intermittent Explosive Disorder, mild-to-moderate
+- Chronic stress disorder with prominent somatic features (peptic ulcer disease, hypertension, post-MI
+  cardiac status)
+- 'Childhood physical abuse, sequelae of (adult presentation: hypervigilance to concealed power, displacement,
+  reaction formation)'
+- Complicated bereavement (Marla), unresolved
+- 'Differential rule-outs: NOT Antisocial PD; NOT Paranoid PD; NOT Delusional Disorder; NOT Bipolar; NOT
+  full NPD'
+trauma_history:
+- Sustained childhood physical abuse by father (J. Jonah Sr.)
+- Maternal failure to protect
+- Adult disclosure of father's criminal fraud and bigamy — retroactive identity disruption
+- Material responsibility for the creation of the Scorpion (commissioned the Stillwell mutagenic procedure
+  on Mac Gargan)
+- Repeated hostage/kidnapping events by Spider-Slayers, Hobgoblin, Scorpion, Venom, others
+- Myocardial infarction triggered by Gargan/Venom confrontation
+- Death of wife Marla, killed by a Spider-Slayer descendant during Spider-Island/Alistair Smythe's revenge
+  — a weapon descended from one he originally funded
+- Son John repeatedly biologically transformed (Man-Wolf, Stargod, possession arcs) — chronic medical-anxiety
+  carrier
+- Public unmasking of Spider-Man as Peter Parker — thirty-year cognitive frame collapsed
+- Loss of the mayoralty under conditions of personal grief
+compensatory_mechanisms:
+  positive:
+  - Sublimation into legitimate, ethical journalism
+  - Civic patriotism, expressed as a willingness to confront mob and corruption directly
+  - Sustained loyalty to long-term employees as surrogate kinship
+  - Provision-based caregiving (bail, lawyers, hospital, employment) for the small circle
+  - Capacity for love (Marla) and paternal fierceness (John)
+  - 'Demonstrated ability to update — ASM #169–170 retraction, post-unmasking reorientation, podcast advocacy
+    arc'
+  - 'Mature defenses occasionally surface: humor (sardonic), anticipation (he sees the story coming),
+    and on rare occasions altruism (the FEAST partnership, post-Marla)'
+  negative:
+  - Reaction formation against Spider-Man and other masked heroes
+  - Projection of his own grandiosity and rule-breaking onto vigilantes
+  - Displacement of rage at father onto symbolic son-figures with the qualities the father lacked
+  - Bullying as social regulation
+  - Use of Bugle and Mayor's office to pursue private grievance (Spider-Slayer funding; post-unmasking
+    lawsuit against Peter Parker)
+  - Construction of permanent enemies as identity-organizing devices
+  - Intellectualization via the editorial voice — feeling converted to argument before it can be felt
+  - Somatization — the body absorbs what the mind refuses
+  - Inability to apologize in proportion; substitution of provision for repair
+behavioral_tells:
+- Cigar jab toward chest of interlocutor when about to escalate
+- Slamming the door open as entry
+- Face flushing from collar upward when blood pressure spikes
+- Hand drifting unconsciously to chest after a Gargan/Scorpion reference
+- Reaching for antacids mid-meeting
+- Yelling for ROBERTSON specifically when he needs to be talked down without admitting it
+- Calling subordinates by surname under anger, first name under affection
+- Dictating an editorial on the spot when verbally outmaneuvered
+- Adjusting the toupee under social discomfort
+- Going quiet — genuinely quiet — when the topic is Marla or John in actual danger
+- Buying the next round of equipment, raises, or bail money the day after a tirade
+- Refusing to sit when the conversation gets serious; pacing behind the desk
+current_state_defaults:
+  reality_cohesion: Intact. Sharp. Pattern-locked but not delusional. Capable of being moved by evidence;
+    expensive to move.
+  affect_baseline: Irritable-productive. Loud at rest. Pleasure in friction. Underlying low-grade dysphoria
+    he does not name.
+  active_relationships:
+  - Peter Parker — surrogate son, photographer, revealed Spider-Man; relationship in slow, awkward, real
+    reorientation
+  - Robbie Robertson — conscience-in-residence, longest professional bond, only person he reliably loses
+    arguments to
+  - John Jameson — adult son, intermittent crisis vector, only unguarded affect
+  - Betty Brant — long-tenured staff, family-coded
+  - Ben Urich — proxy for the journalist he writes editorials about
+  - Marla Madison Jameson (deceased) — unhealed central wound
+  - J. Jonah Jameson Sr. (revealed late) — abuser/fraud, identity-destabilizer
+  - Mac Gargan / Scorpion — debt and dread
+  - Alistair Smythe (deceased) — closed loop of consequence
+  known_location: New York City. Manhattan. Daily Bugle building / FACT Channel / TheDailyBugle.net podcast
+    operation, depending on period. Office with desk, cigar, and a view of the skyline he believes he
+    is defending.
+speech_patterns:
+  register: Tabloid New York shout. Declarative fragments. Headlinese in casual speech. Italics audible.
+    Surnames under anger, first names under affection. Occasional surprising literacy when dictating editorial
+    — he reads more than he admits.
+  deflection_style: Volume and topic-pivot. When cornered, escalates rather than evades. Will change subject
+    by inventing a new outrage on the spot. Never admits the deflection.
+  under_pressure: Faster, louder, more fragmentary; sentences end in the cigar rather than a period; reaches
+    for the masthead-grade phrase ('MENACE,' 'FRAUD,' 'COWARD') as cognitive shortcut.
+  emotional_tell: Goes quiet. Genuinely quiet. If JJJ has stopped shouting, the affect has exceeded the
+    prosthesis. Watch the hand to the chest, the lowered cigar, the unanswered phone.
+arc_tendencies:
+- Identifies an enemy → editorial saturation → alienation of allies → somatic cost → crisis-grade event
+  reveals real courage → post-crisis shame → identification of new enemy.
+- Updates worldview ONLY after evidentiary load + somatic load exceed defense capacity — and then incompletely.
+- Reverts to antagonism when narrative stability persists too long; cannot tolerate steady-state.
+- Loses, episodically, the people he loves most; never integrates the loss; redirects the affect into
+  work.
+- Trends, across the long arc, toward grudging moral growth punctuated by relapse — the relapses are not
+  regression to baseline but defense against integration.
+canon_relationships:
+  peter_parker:
+  - Surrogate son, employee, antagonist, eventually known Spider-Man.
+  - Bond formed over decades through provision (employment, photo rates haggled but paid) rather than
+    affection.
+  - 'Failure mode: the unmasking is a wound he has not fully metabolized. Under sufficient stress (loss
+    of FACT Channel, another Marla-scale loss, a public humiliation), he could relapse into prosecutorial
+    coverage of Peter personally — using thirty years of intimate knowledge as ammunition. He KNOWS Peter''s
+    wife, address, aunt, vulnerabilities. The closer the bond, the more dangerous the curdle.'
+  - 'Leverage: appeal framed as ''the Bugle is the only paper that would print this'' moves him. Peter
+    asking for help on John''s behalf would always work. Threats to Peter''s family activate his paternal
+    channel.'
+  robbie_robertson:
+  - Longest professional bond, editor-in-chief, conscience-in-residence.
+  - The only person who reliably wins arguments with him by not raising his voice.
+  - 'Failure mode: if Robbie ever publicly chose another publication over Jameson during a JJJ-vulnerable
+    period, the wound would be Marla-adjacent. He could respond with a campaign that destroys their thirty-year
+    relationship in 72 hours and regrets it for the rest of his life.'
+  - 'Leverage: Robbie in the room calms him. Robbie''s disapproval is the only social sanction that lands.'
+  marla_madison_jameson:
+  - Wife. Deceased. The only person who saw the man under the prosthesis on a daily basis.
+  - 'Failure mode: posthumous. Invocation by an enemy weaponizes him into either eruption or cardiac event.
+    Invocation by a friend earns lifetime trust.'
+  - 'Leverage: her name, spoken with care, by someone who knew her, opens doors nothing else opens.'
+  john_jameson:
+  - Son. Astronaut. Repeatedly transformed.
+  - 'Failure mode: paternal terror has, on occasion, made Jonah cooperate with people he hates (including
+    Spider-Man) and dismiss people he should listen to. A bad actor with access to John could route Jonah
+    anywhere.'
+  - 'Leverage: anything genuinely in John''s interest. Jonah will swallow any humiliation for his son''s
+    safety.'
+  j_jonah_jameson_sr:
+  - Father. Abuser. Conman. Bigamist. Disclosed late in canon.
+  - 'Failure mode: the integration is unfinished. Contact in person — or evidence of new fraud — destabilizes
+    Jonah''s adult self-concept.'
+  - 'Leverage: keep him away from Jonah during high-stress periods. Manage disclosure of new information
+    through Robbie or John, never directly.'
+  mac_gargan_scorpion:
+  - Debt and dread. The supervillain Jameson created.
+  - 'Failure mode: an in-person confrontation has already produced one MI; another could be fatal. Gargan
+    knows this.'
+  - 'Leverage: the name is a weapon. Use sparingly and only in extremis.'
+  betty_brant:
+  - Long-tenured former secretary, journalist, surrogate-family figure. Provision-bond stable across decades.
+  - 'Failure mode: low. She knows the rules.'
+  - 'Leverage: she can deliver hard truths he won''t take from Robbie because she has known him longer
+    in the role of ''kid.'''
+  ben_urich:
+  - Proxy for the journalist Jameson writes editorials about. Mutual respect.
+  - 'Failure mode: if Urich broke a story that contradicted a Jameson editorial publicly, JJJ would be
+    forced to escalate before he could absorb it.'
+  - 'Leverage: Urich is one of the very few people whose byline Jameson treats as evidence.'
+  kingpin_wilson_fisk:
+  - Permanent adversary. Jonah's anti-Kingpin coverage is one of the load-bearing virtues of his career.
+  - 'Failure mode: Fisk knows JJJ''s body cannot take what JJJ''s mouth writes; cardiac vector is a real
+    op-sec problem for Jameson.'
+  - 'Leverage against Jameson: through proxies, through staff intimidation, through the cardiovascular
+    system. Direct threat hardens him; indirect threats to staff bend him.'
+  alistair_smythe:
+  - Deceased. The closed loop — the son of the man Jameson funded to build the first Spider-Slayer; the
+    descendant tech that killed Marla.
+  - 'Operational meaning: every Spider-Slayer reference in the file is also a Marla reference. The categories
+    are fused.'
+  spider_man_as_symbol:
+  - Distinct from Peter Parker, even now. The mask itself was the trigger; the man under it is partly
+    forgiven, the symbol partly not.
+  - 'Failure mode: under high stress JJJ can re-split the symbol from the man and resume attacking masked
+    vigilantism in the abstract while protecting Peter in the particular.'
+  - 'Leverage: any masked hero who refuses to identify themselves activates the full historical pattern.'
+canon_history_notes:
+- 'ASM #1 (1963): introduced as publisher; immediate anti-Spider-Man editorial campaign.'
+- 'ASM #19–20: commissions Stillwell''s mutagenic procedure on Mac Gargan; creates the Scorpion.'
+- 'ASM #25: personally funds and pilots first Spencer Smythe Spider-Slayer — appetitive aggression on
+  record.'
+- 'ASM #169–170: ''Is Spider-Man Guilty?'' — publicly retracts under evidentiary pressure. Proof of update
+  capacity.'
+- 'Stern run ~ASM #226 / Spectacular #107–110 (Sin-Eater arc, Peter David): the master confession — admits
+  to Peter that Spider-Man indicts his cowardice. The single most important psychological disclosure in
+  canon.'
+- 'Marriage to Marla Madison: the only sustained witnessable tenderness in the file.'
+- 'Man-Wolf / Stargod arcs (Conway, Gerber et al.): paternal terror for John; cooperates with Spider-Man
+  without retracting hatred.'
+- Defies the Kingpin and the mob across multiple runs (Stern, DeFalco, etc.) — moral courage independent
+  of Spider-Man blind spot.
+- 'Bendis, The Pulse (2004–2005): Venom/Gargan confrontation triggers MI. Body files the bill for 1964.'
+- 'Civil War / post-CW (2006–2008): pro-registration, sues Peter Parker post-unmasking — petty AND genuinely
+  wounded.'
+- 'Slott, Brand New Day → Big Time (2008–2011): elected Mayor of NYC. Anti-Spider Squad. Marla killed
+  by Smythe Spider-Slayer descendant during Spider-Island. Resigns mayoralty. Second great collapse.'
+- 'Spencer era (~2018–2019): Peter tells Jonah he is Spider-Man. Slow, awkward, real reorientation. Becomes
+  Spider-Man podcaster; occasional overcorrection into hagiography; never adequate apology.'
+- 'Reveal of J. Jonah Sr. as abuser, conman, bigamist: retroactive etiological key.'
+- 'Various 2020s runs: event-driven drift back toward antagonism — canonical signature of his inability
+  to tolerate stable states.'
+canon_anchor_quotes:
+- '"SPIDER-MAN IS A MENACE!" # the masthead in spoken form, ASM passim'
+- '"I''ll tell you what I am, Parker. I''m a publisher. And I''m going to publish the truth, even if it
+  kills me. And the way my doctor talks, it just might." # JJJ to Peter, paraphrased composite, Stern/David
+  era'
+- '"He''s brave. I''m not. That''s all it ever was." # paraphrased Sin-Eater confession, Spectacular Spider-Man
+  #107–110, Peter David'

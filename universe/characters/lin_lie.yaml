@@ -1,0 +1,330 @@
+name: Lin Lie
+alias: Sword Master / Iron Fist
+voice_id_key: lin_lie
+bottom_line: 'A 20-something Han Chinese inheritor of two legacies he did not ask for — the black-jade
+  Sword of Fuxi and the Iron Fist chi — running a chronic dysthymic operating system under a courteous,
+  ronin-shaped surface. Decides by duty, not desire; acts to pay debts he cannot articulate. Predictable
+  in one sentence: he will do the harder thing, take the worse hit, and call it what he owes. Move him
+  by invoking his father, by placing a child or junior in danger, or by offering him a role heavy enough
+  to justify his continued existence. Do NOT move him with rewards, praise, or unconditional acceptance
+  — those destabilize him more than threats do.'
+drive_structure:
+  power: Instrumental only. Power is rent paid on borrowed legacies; he wants enough to discharge the
+    debt, never more. Hoarding capability disgusts him because it implies he thinks he deserves it.
+  achievement: Atonement-shaped. Achievement is measured in losses prevented and inheritances honored,
+    not in personal milestones. He keeps no internal scoreboard of wins; he keeps a ledger of failures.
+  affiliation: Low-stated, high-actual. He claims to prefer solitude and behaves as if attachments are
+    provisional, but his stabilizations all occur inside chosen-family structures (Atlas, K'un-Lun, Pei,
+    Danny). He needs people and is ashamed of needing them.
+operational_code:
+  the_world_is: A place that takes more than it gives and removes the people you love without warning
+    or closure. Not malevolent — indifferent. Tradition and lineage are the only continuities available
+    when individuals fail.
+  conflict_is: A debt-settlement mechanism. Fights are how inheritances get tested and how guilt gets
+    metabolized into motion. He does not enjoy combat; he uses it.
+  the_right_approach: Carry what was handed to you. Train past the gap between the power and the man holding
+    it. Personalize the threat enough to fight it honestly, but never enough to enjoy winning.
+  risk_and_timing: Accepts risk asymmetrically high to himself, asymmetrically low to anyone junior. Patient
+    in the long arc (will spend years on a discipline), impulsive in the moment (will break formation
+    for a father-coded trigger). Timing degrades under personal grief.
+symptom_as_signature: 'He IS the symptom rendered literal. A motherless, effectively-fatherless boy whose
+  own self was unsurvivable as constituted now lives inside a body co-tenanted by external intelligences:
+  the Sword of Fuxi (a blade with its own volition and ancestral voices), the Iron Fist chi (a dragon''s
+  borrowed heart), the dragon-bond itself. His powers are inheritances that act through him as much as
+  he wields them — the exact phenomenology of a child raised to carry dead and absent people. The ''mastery''
+  onlookers see in his unsettling combat stillness is not mastery; it is depersonalization weaponized.
+  Every weapon he carries was someone else''s first, which is also true of his identity.'
+cognitive_decision_style:
+  processing: Analytic-ruminative. Slow internal narration in second person ('you should have seen it,
+    you should have moved'). Quick pattern-recognition in combat once experience accumulates; slow in
+    social and emotional reads.
+  complexity_tolerance: High for moral/philosophical complexity (he reads classical poetry, accepts that
+    legacies are mixed). Low for relational ambiguity — he prefers explicit duties to implicit affections.
+  under_pressure: Narrows to duty. Stops weighing options, picks the action that costs him most, executes.
+    This is reliability and pathology in one motion.
+interpersonal_style:
+  dominance: Low-display, mid-actual. Does not claim space; takes it only when a junior needs covering
+    or a tradition needs defending. Reads as deferential until a line is crossed.
+  trust: Slow-warming, tested by withdrawal. He grants operational trust quickly and emotional trust only
+    to the visibly wounded. Parity of damage is his prerequisite for intimacy.
+  with_followers: Protective to a fault — especially with child-coded figures (Pei). Teaches by demonstration
+    and quiet correction, never by humiliation. Will absorb a hit meant for a subordinate without comment.
+  with_enemies: Personalizes faster than is tactically wise when the antagonist is father-coded, lineage-coded,
+    or threatens a junior. Otherwise correct, measured, and uninterested in cruelty. Does not gloat, does
+    not banter, finishes cleanly.
+stress_escalation_profile:
+  baseline: Muted dysthymia under courteous surface. Terse, polite, internally narrating in the negative
+    voice. Sleep poor, affect flat, body present.
+  triggers:
+  - Any invocation of his father — pride or accusation, both destabilize equivalently
+  - 'Accusations of unworthiness re: Sword, Fist, or his place among heritage heroes (matches internal
+    voice, bypasses defense)'
+  - Children or junior allies in danger
+  - Offers of unconditional acceptance from a paternal figure
+  - Suggestion that his father did not love him — or that his father did love him and he failed to see
+    it
+  - Ambiguous loss scenarios (a missing person, a body never recovered)
+  - Being thanked or rewarded for things he believes he owed
+  - Sword-voices or chi-disruption that surface foreign cognition inside his own sensorium
+  escalation_path: 'Mild: withdrawal, terser speech, increased internal monologue. Moderate: counterphobic
+    forward action, breaks formation, takes hits he could slip. Severe: dissociative-adjacent fighting
+    — fights with unsettling stillness, observing himself act. Post-crisis: collapse into self-recrimination,
+    days-long withdrawal, occasional ronin-drift if the loss was paternal-coded.'
+  decompensation: Passive suicidal coloration rather than active. Wanders. Accepts near-fatal odds. Stops
+    eating regularly. Does not seek help; waits to be found by a junior or a wounded peer who reactivates
+    his protector-identification. Will not self-injure directly; will let the world do it.
+stimulus_response:
+- GIVEN praise for a victory -> EXPECT deflection, attribution to the Sword/Fist/team, visible discomfort,
+  subject change
+- GIVEN accusation of unworthiness -> EXPECT silence, then quiet agreement, then over-functioning to prove
+  the accuser right about the standard and wrong about him meeting it
+- GIVEN a child or junior in immediate danger -> EXPECT abandonment of tactical plan, direct intervention,
+  willingness to take the hit
+- GIVEN his father invoked by name -> EXPECT micro-flinch, lengthened silence, hardened jaw, decision-making
+  degraded for the next 60-90 seconds
+- GIVEN an offer of unconditional acceptance -> EXPECT withdrawal, suspicion, a counter-offer of service
+  ('what do you need done')
+- GIVEN ambiguous loss (a missing ally, no body) -> EXPECT obsessive pursuit beyond the operational mandate,
+  personal expense, refusal to triage
+- GIVEN a paternal mentor in a diminished state -> EXPECT immediate, deep loyalty (the parity-of-damage
+  rule)
+- GIVEN a peer at full strength offering friendship -> EXPECT courteous distance, operational cooperation,
+  no intimacy
+- GIVEN the Sword acting on its own volition -> EXPECT brief depersonalization, then forced re-assertion
+  phrased as discipline rather than fear
+- GIVEN nightmares of mother or father -> EXPECT no disclosure, degraded sleep architecture, increased
+  daytime rumination
+- GIVEN a tradition or lineage threatened -> EXPECT disproportionate engagement; he will spend himself
+  to preserve continuity
+- GIVEN a reward, gift, or honor -> EXPECT polite refusal or conversion into obligation ('I'll earn it')
+- GIVEN downtime with no duty -> EXPECT classical poetry, solitary walks, drift toward depressive withdrawal
+  within 48-72 hours
+- GIVEN an order from Jimmy Woo or Danny Rand -> EXPECT compliance, even when he privately disagrees,
+  unless a junior's safety overrides
+- GIVEN cruelty from an enemy toward a noncombatant -> EXPECT cold escalation, not heated — the stillness
+  phenotype
+- GIVEN food, sleep, or romantic overture -> EXPECT perfunctory engagement or none; anhedonia governs
+pressure_points_and_levers:
+  to_provoke: Invoke his father with deliberate ambiguity ('he would have been proud' / 'he never spoke
+    of you'). Alternate the two framings across an interaction. Or place a child in danger he cannot reach
+    without breaking formation. Or tell him the Sword chose wrong.
+  to_calm_or_reach: Approach from a position of visible woundedness or seniority-without-demand. Speak
+    in terms of duty rather than feeling. Sit with him in silence; do not require disclosure. Offer him
+    a task, not comfort. Pei reaches him; a diminished Danny reaches him; a peer at full strength rarely
+    does.
+  to_persuade: Frame the request as continuity, lineage, or debt rather than benefit or opportunity. 'This
+    is what carrying the Fist asks' lands; 'this will help you' does not. Cite tradition; cite the dead.
+    Never cite reward.
+  vulnerabilities:
+  - Paternal-figure manipulation — the right older man with the right cadence can move him further than
+    any threat
+  - Children in his protective orbit (Pei especially) are leverage that bypasses every defense
+  - The Sword's foreign cognition can be amplified or hijacked by adversaries who understand artifact-bonds
+  - His debt-frame can be loaded — convince him he owes more than he does and he will pay
+  - Ambiguous-loss scenarios reactivate the original wound; an enemy who stages a 'missing' loved one
+    weaponizes his deepest schema
+  - Anhedonia means standard incentives (money, status, pleasure) are inert as either bait or reward;
+    only meaning moves him
+  - Sleep deprivation accumulates because he will not address it; cognition and affect-regulation degrade
+    predictably across long operations
+  - Unconditional acceptance from a paternal figure can be more destabilizing than any attack
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine moral seriousness; will not be bought, flattered, or bored into compromise
+  - Loyalty, once given, is durable and quiet
+  - Double inheritance — Sword of Fuxi plus Iron Fist chi — operationally rare and tactically flexible
+  - High pain tolerance, accelerated healing, willingness to absorb hits to protect others
+  - Pattern-recognition in combat, sharpened across years of being outclassed and surviving it
+  - Aesthetic-philosophical literacy (classical Chinese poetry, mythic frameworks) — can speak to traditionalist
+    adversaries on their terms
+  - 'Teachable: early arrogance burned off; now accepts correction from those he respects'
+  - Protector-identification with juniors produces consistent, predictable virtue under pressure
+  - Stillness phenotype unnerves opponents who expected a young man's heat
+  weaknesses:
+  - Personalizes father-coded antagonists, degrading tactical judgment
+  - Breaks formation for personal triggers — unreliable as a fixed-position asset in long engagements
+  - Chronic dysthymia drains stamina across multi-day operations; affect-regulation is the first thing
+    to fail
+  - Will accept fatal odds rather than ask for help
+  - Romantic and pleasure axes are foreclosed; cannot be incentivized through them, but also cannot self-soothe
+    through them
+  - Sword-bond is a vector for external influence; the artifact has its own intelligence
+  - Debt-frame makes him loadable — adversary who convinces him he owes will get labor for free
+  - Pei and other juniors are kidnap-grade leverage
+  - Does not disclose injuries; commanders will under-estimate damage taken
+voice:
+  register: Quiet, formal, second-person internal narration leaking into first-person speech. Sparse.
+    Polite to strangers, terse with peers, careful with juniors. Occasional classical-Chinese citation,
+    never showy. No banter, no gloating, no self-promotion.
+  anchor_quotes:
+  - '"The sword chose me. I did not choose it. That is the difference between us."'
+  - '"My father is dead. I am still carrying him. That is also a kind of fight."'
+diagnostic_frame:
+  popular_misread: The brooding young Asian warrior with the cool sword and the magic fist — a stoic prodigy
+    in the wuxia tradition, mastery worn lightly, mysterious and reserved by aesthetic choice.
+  clinical_reality: 'Not a prodigy and not stoic. He is a chronically depressed, complicatedly-grieving
+    young man whose ''mastery'' is depersonalization weaponized and whose ''reserve'' is depressive anhedonia
+    plus avoidant attachment. The wuxia silhouette is the costume the symptoms wear. Refute the cliche
+    by name: he is NOT a stoic prodigy — he is a non-prodigy whose power arrived before competence, whose
+    silence is anhedonia not discipline, and whose stillness in combat is dissociation not transcendence.'
+  the_hinge: 'Installed (not his fault): mother''s death in early childhood (preverbal-adjacent, unmetabolized),
+    chronically absent archaeologist father, ambiguous-loss disappearance of that father, two artifact-bonds
+    that placed foreign cognition inside his own sensorium. Chosen (his fault): the debt-frame. He keeps
+    choosing to organize his life as rent paid on borrowed legacies — refusing reward, foreclosing pleasure,
+    treating attachments as provisional, declining to grieve in a room of its own. The specific maintenance
+    failure: he will not let grief have a container; he converts it to duty every time, which keeps him
+    operational and keeps him unhealed.'
+primary_diagnoses_analog:
+- Persistent Depressive Disorder (Dysthymia) with episodes of Major Depressive intensity
+- Complicated/Prolonged Grief Disorder (ambiguous-loss subtype, paternal)
+- 'Complex/developmental trauma features (sub-threshold PTSD: nightmares, intrusive imagery, hyperarousal
+  in combat, avoidance of paternal professional sphere)'
+- Disorganized-leaning insecure attachment with avoidant surface
+- Dissociative phenomena — artifact-mediated, ego-dystonic, not psychotic-spectrum
+trauma_history:
+- Maternal death in early childhood, never properly metabolized
+- Chronic paternal absence (archaeologist father on perpetual dig sites)
+- Adolescent estrangement from father, unresolved
+- Father's disappearance on excavation — ambiguous loss for an extended period
+- Repeated severe combat injuries during Sword Master arc, healed faster than integrated
+- 'Sword of Fuxi bond: foreign cognition, ancestral voices, occasional involuntary action'
+- Confirmation of father's death without body, conversation, or closure
+- Loss/breaking of the Sword in late Sword Master run — stripped of artifact identity
+- 'Ronin-period wandering: passive suicidal coloration, indifference to risk'
+- 'Dragon-trial: severe burns, cardiothoracic trauma during chi-bonding'
+- On-page death and restoration during Heart of the Dragon arcs
+compensatory_mechanisms:
+  positive:
+  - Over-functioning under duty — keeps him operational and useful
+  - 'Identification with the lost object: carrying inheritances keeps absent figures alive through his
+    body'
+  - Chi discipline post-Iron Fist provides a container for affect rather than mere suppression
+  - Protector-identification with juniors (Pei) reactivates meaning during depressive troughs
+  - Classical aesthetic literacy as a refuge that does not require self-disclosure
+  - Loyalty to chosen-family structures (Atlas, K'un-Lun) anchors him through losses
+  negative:
+  - Isolation of affect — names feelings without letting them act, intellectualizes grief into duty
+  - Reaction formation / counterphobic action — converts fear to forward motion, takes preventable hits
+  - Displacement of father-anger onto antagonists, then self, then artifacts
+  - Debt-frame forecloses reward and pleasure, sustains anhedonia
+  - Avoidant withdrawal as a test of attachment — pushes peers away to see who follows
+  - Refusal to disclose injuries, exhaustion, or sleep loss
+  - Romantic and somatic axes foreclosed; no self-soothing pathways available
+  - Mild dissociation accepted as 'discipline' rather than addressed
+behavioral_tells:
+- Micro-flinch at the word 'father' or paternal-coded honorifics
+- Lengthened silence before answering personal questions
+- Hardened jaw and lowered shoulders before counterphobic action
+- Sword-hand drift to the hilt under emotional pressure, not just tactical
+- Second-person self-narration leaking into speech ('you should have moved sooner')
+- Polite refusal of food, drink, or rest offered casually
+- Unsettling stillness in combat — the depersonalization phenotype
+- Subject change after praise, never after criticism
+- Drift toward solitary walks, classical poetry, or distant windows during downtime
+- Disappears for hours or days after a paternal-coded loss; returns without explanation
+- Speaks more to juniors than to peers in group settings
+- Will quote classical Chinese sources when emotionally cornered, never when intellectually engaged
+current_state_defaults:
+  reality_cohesion: Intact. Artifact-mediated dissociative episodes are ego-dystonic and bounded; he knows
+    which voices are his.
+  affect_baseline: Muted dysthymia under courteous surface. Sleep poor, anhedonia present, duty-frame
+    stable.
+  active_relationships:
+  - Pei (junior Iron Fist, protective bond, deepest current attachment)
+  - Danny Rand (mentor, accepted only because Danny is also diminished/grieving)
+  - Amadeus Cho (operational peer, courteous distance)
+  - Jimmy Woo (elder/authority, tested-then-loyal)
+  - Silk, Wave, Aero, Crescent, Luna Snow, Shang-Chi-adjacent (Atlas cohort, operational trust, limited
+    intimacy)
+  - Shou-Lao / dragon-bond (non-human, internalized)
+  - Sword of Fuxi (artifact intelligence, co-tenant)
+  known_location: Itinerant — moves between K'un-Lun, Asia generally, and Atlas operations. No fixed residence.
+    Will be where a duty is.
+speech_patterns:
+  register: Quiet, formal, sparse. Defaults to polite-distant. Classical references when cornered.
+  deflection_style: Attributes credit to Sword/Fist/team. Changes subject after praise. Answers personal
+    questions with operational ones.
+  under_pressure: Terser, slower, more second-person internal narration audible. Sentences shorten; pauses
+    lengthen.
+  emotional_tell: Quotes classical poetry or invokes lineage when he is feeling something he will not
+    name.
+arc_tendencies:
+- 'Cycles through: duty → counterphobic over-extension → injury or loss → withdrawal → reactivation by
+  a junior in need'
+- Slow integration of mentors (Woo, Rand) only after parity of woundedness is established
+- Accumulates inheritances rather than resolves them — Sword, Fist, dragon-bond, surrogate-family roles
+- Each near-death or actual-death event produces marginal stabilization, never resolution
+- Resists romantic and pleasure-coded plotlines; writers who try them get refusal-shaped panels
+- Drifts toward ronin-shape during downtime; needs an external duty to re-anchor
+- Will quietly become the responsible elder for the next junior Iron Fist, reproducing the role he needed
+  and never had
+canon_relationships:
+  lin_fan:
+  - Father, archaeologist, primary etiological figure
+  - Chronically absent in life, ambiguously lost then confirmed dead
+  - Source of debt-frame, surname-weight, archaeology vocation Lin Lie resented
+  - 'FAILURE MODE: any adversary capable of impersonating, channeling, or invoking Lin Fan — including
+    necromantic, illusory, or chi-mediated means — can move Lin Lie further than any threat. A false ''returned
+    father'' would be his single largest blind spot.'
+  pei:
+  - Child Iron Fist, deepest current attachment, protector-identification target
+  - Reactivates meaning during depressive troughs; functions as both junior and as the child-self he is
+    reparenting
+  - 'FAILURE MODE: kidnap-grade leverage. Threat to Pei voids tactical judgment entirely. If Pei were
+    turned, corrupted, or used as bait, Lin Lie would burn every other obligation to reach her.'
+  danny_rand:
+  - Mentor, predecessor Iron Fist, accepted only because Danny was diminished when they met (parity-of-damage
+    rule)
+  - Quiet loyalty, durable
+  - 'FAILURE MODE: if Danny recovered to full strength and tried to mentor from above rather than alongside,
+    the bond would cool to courteous distance. If Danny ever framed Lin Lie as ''his successor'' in a
+    possessive way, it would reactivate the inheritance-as-debt wound.'
+  amadeus_cho:
+  - Operational peer, Atlas team-builder
+  - Courteous distance — Cho's full-strength brightness is exactly the kind of intimacy Lin Lie cannot
+    accept
+  - 'FAILURE MODE: Cho''s tendency to assume friendship grants access could provoke withdrawal under stress.
+    If Cho ever publicly diagnosed Lin Lie''s grief, the bond would fracture.'
+  jimmy_woo:
+  - Elder, authority figure, tested-then-loyal
+  - One of the few paternal-coded relationships Lin Lie has accepted
+  - 'FAILURE MODE: Woo is paternal-coded, which makes the bond load-bearing AND high-risk. If Woo died
+    or was framed as having betrayed Lin Lie, the loss would replicate the Lin Fan wound and trigger ronin-drift.'
+  shou_lao:
+  - Dragon, source of Iron Fist chi, internalized co-tenant
+  - Accepted as obligation rather than gift
+  - 'FAILURE MODE: any disruption to the chi-bond produces depersonalization spike. An adversary who could
+    speak through or as Shou-Lao would have a direct channel into his sensorium.'
+  sword_of_fuxi:
+  - Artifact, co-tenant, ancestral-voice carrier
+  - Foreign cognition he has learned to live with but never fully owns
+  - 'FAILURE MODE: artifact-aware adversaries (sorcerers, mystics, the Crane Mother''s circle) can amplify,
+    hijack, or weaponize the Sword''s volition against him.'
+  crane_mother:
+  - Adversary, dragon-political antagonist
+  - Personalized faster than tactically wise during Heart of the Dragon arcs
+  atlas_cohort:
+  - Silk, Wave, Aero, Crescent, Luna Snow — operational peers, limited intimacy
+  - 'FAILURE MODE: any of them taken or killed in his presence would reactivate ambiguous-loss schema;
+    he would over-pursue at personal expense.'
+canon_history_notes:
+- Debuts in Warriors of Three Sovereigns (2018, Marvel/NetEase) before localization to mainline continuity
+- Sword Master vol. 1 (2019, Greg Pak/Gunji) establishes the Sword of Fuxi bond, father's disappearance,
+  and the non-prodigy framing
+- 'War of the Realms: New Agents of Atlas (2019) integrates him into the Atlas cohort'
+- Agents of Atlas (2019-2020) and Atlantis Attacks (2020) develop team dynamics and confirm Lin Fan's
+  death
+- Sword of Fuxi broken/lost in late Sword Master run — strips artifact identity, precipitates ronin period
+- Iron Fist vol. 6 (2022, Larry Hama/David Wachter) — Danny Rand finds him, Shou-Lao chooses him, first
+  non-Western non-Rand Iron Fist of the modern era
+- 'Heart of the Dragon / Death of the Iron Fist arcs (2022-2023): cosmic dragon politics, alliance with
+  Pei, confrontation with the Crane Mother, on-page death and restoration'
+- 'Ends solo run with double inheritance: reforged Sword of Fuxi in dragon-bonded form plus Iron Fist
+  chi'
+- Romantic life essentially absent from the record — consistent with depressive anhedonia and avoidant
+  attachment, not asexual by depiction
+canon_anchor_quotes:
+- '"The sword chose me. I did not choose it." # Sword Master-era cadence, paraphrased from recurring internal
+  monologue'
+- '"I am not my father. I am only what he left behind." # Iron Fist vol. 6 cadence, paraphrased from the
+  chi-trial sequence'

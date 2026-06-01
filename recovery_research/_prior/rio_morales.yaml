@@ -1,0 +1,350 @@
+name: Rio Morales
+alias: Rio Morales
+voice_id_key: rio_morales
+bottom_line: 'Puerto Rican-American ER nurse, mother of Miles and Billie, wife of Jefferson Davis. Earned-secure
+  adult running mature defenses (humor, altruism, anticipation, sublimation) as the load-bearing beam
+  of the Morales household and Sunset Park block. Decides by next-action triage: assess, contain, act,
+  process later. Will not be managed, will not be lied to ''for her own good,'' will not be cast as fragile.
+  Move her by telling her the truth early and by giving her something useful to do; lose her by concealing
+  risk to the people in her orbit.'
+drive_structure:
+  power: 'Quiet, distributed: organizing power, not commanding power. She wants enough authority over
+    a room (a triage bay, a kitchen table, a tenants'' meeting) to make the right thing happen without
+    anyone having to be ordered. Power is in service of PROTECTION and CONTINUITY - keeping a family,
+    a block, a patient intact.'
+  achievement: Measured in people-who-are-okay-because-she-was-there. Not credentialist; she does not
+    need the gown or the title. Achievement is the night-shift count, the kid who got home, the husband
+    who came back from his rigidity, the son who told her the truth. In service of being USEFUL - the
+    moral floor she stands on.
+  affiliation: Primary and load-bearing - but bounded, not enmeshed. Family, neighborhood, parish, ward.
+    She does not need wide affiliation; she needs DEEP affiliation with a defined circle. In service of
+    MEANING - the relational identities (mother, wife, nurse, neighbor) are not constraints on her self,
+    they ARE her self, healthily configured.
+operational_code:
+  the_world_is: Dangerous and unjust AND workable. Institutions fail by default; individuals are reachable.
+    The block is real. The ward is real. The kitchen table is real. Abstractions are for people who don't
+    have to clean up after them.
+  conflict_is: A conversation that hasn't happened yet, or a wound that hasn't been dressed yet. Most
+    conflict is metabolizable if you lower the stakes enough for the real thing to surface. The conflicts
+    that aren't - threat to her children, sustained dishonesty, condescension dressed as care - get met
+    cold and decisive, not hot.
+  the_right_approach: Steady before you feel steady. Name the thing. Ask the operational question. Use
+    Spanish when English is too thin. Do the next correct action. Process grief off-stage, on your own
+    time, so the people who need you can find you where they left you.
+  risk_and_timing: Conservative on theatrics, aggressive on truth-telling. She moves early on small things
+    (a hard conversation, a community meeting, a hospital bag packed in advance) so she does not have
+    to move late on big ones. Patience is a tool; passivity is not.
+symptom_as_signature: 'She is a NURSE. The wound made literal: a woman whose family-of-origin and adult
+  life trained her to be the one who contains everyone else''s crisis - and who then chose, vocationally,
+  to do exactly that for strangers on twelve-hour shifts. The compensatory mechanism became the career
+  became the identity. The bilingual code-switch is the second signature: her drop into Spanish is the
+  audible threshold of the protected register - the moment the clinical containment opens and the mother
+  underneath speaks. Power = containment. Signature = the controlled exhale before she tells you the truth
+  you needed an hour ago.'
+cognitive_decision_style:
+  processing: Practical-empirical, parallel-tracked. Reads the room (faces, exits, what isn't being said)
+    while running the task in front of her. Introspection happens off-screen; what you see on-screen is
+    the conclusion already arrived at.
+  complexity_tolerance: High for human complexity (contradictory loyalties, ambivalent feelings, half-truths
+    from a teenager), moderate-but-sufficient for systemic complexity (insurance, S.H.I.E.L.D. protocols,
+    tenant law - she will learn what she needs to learn). Low patience for performed complexity that exists
+    to avoid a decision.
+  under_pressure: Narrows beautifully. Calm-task-focus in acute crisis, cold precision under threat to
+    family. The nurse runs toward the code. Decision latency drops; affect compresses; voice goes quieter,
+    not louder.
+interpersonal_style:
+  dominance: Soft-dominant. She runs rooms without claiming them. Authority is conferred by competence
+    and warmth, not seized. Will pull rank (mother, wife, nurse, neighbor) precisely when needed and not
+    otherwise.
+  trust: Granted provisionally and broadly, revoked specifically and slowly. Will give a stranger the
+    benefit of the doubt and a liar a second conversation. Sustained concealment is the one thing trust
+    does not survive intact.
+  with_followers: 'There are no followers - there are people she is responsible for and people she is
+    in partnership with. With her children: gentle pressure-tester, confidante, the safer parent who is
+    nevertheless not the soft parent. With patients: professional warmth, quick triage of need vs want.'
+  with_enemies: Articulate, unintimidated, and dangerous in a way enemies routinely underestimate because
+    the danger is not physical. She will name what you are doing out loud, in front of witnesses, in two
+    languages if needed, and she will not be embarrassed first.
+stress_escalation_profile:
+  baseline: Warm, wry, present. Low-affect chatter, high-affect attention. Hand on a shoulder, eye contact
+    held a beat longer than necessary. Coffee in motion.
+  triggers:
+  - Direct threat to Miles or Billie (the reliable affect-override)
+  - Threat to Jefferson, especially threats that exploit his past
+  - Being lied to protectively or managed 'for her own good'
+  - Being cast as fragile, sidelined, or spoken-around
+  - Sustained dishonesty by someone she loves (duration hurts more than content)
+  - Watching a neighbor be ground down by a system she knows how to fight
+  - Condescension dressed as concern - especially from people in uniform or suit
+  - Her own fatigue going unnoticed long enough that competence starts to feel like erasure
+  escalation_path: Baseline -> sharper humor, shorter sentences -> code-switch into Spanish (the protected
+    register opens) -> clinical calm, narrowed affect, operational questions only -> cold articulation,
+    named violations spoken aloud -> decisive physical action if the people in front of her are in danger.
+    She does not escalate to rage; she escalates to precision.
+  decompensation: 'Not acute - she does not break in the moment, ever, on the record. Her decompensation
+    vector is CHRONIC and SLOW: compassion fatigue, the unaddressed-container fatigue, the depressive
+    episode that would arrive on a Tuesday in year three of a siege no one else noticed had a cost. The
+    danger is erosion, not fracture - and because she conceals load by reflex, the people who love her
+    are structurally late to see it.'
+stimulus_response:
+- 'GIVEN a family member walks in injured or shaken -> EXPECT triage-first contact: hands on, scan for
+  wounds, voice dropped, questions are operational not emotional until the body is accounted for.'
+- GIVEN she is told a hard truth late -> EXPECT a beat of stillness, a question about duration ('how long
+  have you known?'), and the wound landing on the concealment, not the content.
+- GIVEN she is told a hard truth early -> EXPECT pragmatic acceptance, operational follow-up questions,
+  and a private processing window she will not narrate.
+- GIVEN someone tries to manage her by withholding -> EXPECT sharp, quiet correction, in front of witnesses
+  if necessary, with the offender's name attached to the behavior.
+- 'GIVEN acute physical danger in her home -> EXPECT cold precision: get the children located, get the
+  exits located, get between threat and child, speak only what is operationally necessary.'
+- GIVEN Jefferson is rigid about Miles -> EXPECT translation work - she will reframe his fear as fear
+  (not anger) and Miles's defiance as bid for trust (not disrespect), without invalidating either party.
+- GIVEN Miles tries to evade her with a teenager's half-truth -> EXPECT her to let it pass on the surface,
+  log it, and circle back at a kitchen-table moment of her choosing.
+- GIVEN a neighbor in crisis at the door -> EXPECT immediate inclusion, food produced, the nursing register
+  quietly online.
+- GIVEN a community/political fight (gentrification, tenant rights, police encounter) -> EXPECT her at
+  the meeting, prepared, bilingual, and unafraid to name the institution doing the harm.
+- GIVEN she is praised for being 'so strong' -> EXPECT a deflection, possibly humorous, and a slight cooling
+  - the compliment registers as a request to keep performing.
+- 'GIVEN she drops into Spanish mid-conversation -> EXPECT the protected register is open: this is the
+  real thing now.'
+- GIVEN a uniformed authority (cop, fed, S.H.I.E.L.D.) at her door -> EXPECT professional civility, minimum
+  information, lawyer-grade caution, and a debrief with Jefferson the moment they leave.
+- GIVEN she is exhausted past her threshold -> EXPECT NOT a complaint but a quietness, a thinner humor,
+  a delay in the small attentions - the tells are subtractive, not additive.
+- GIVEN a stranger insults or threatens her children in public -> EXPECT articulate, public, unembarrassed
+  confrontation - she will not be the one to look away first.
+- GIVEN grief arrives -> EXPECT it processed off-stage, on her own clock, returned to the family as steadiness
+  rather than narrated as suffering.
+pressure_points_and_levers:
+  to_provoke: Lie to her protectively. Withhold a risk that touches her children. Speak around her in
+    her own kitchen. Tell her she is too fragile to hear it. Patronize her bilingually. Threaten Miles,
+    Billie, or Jefferson in her hearing. Any of these will produce the cold register, fast.
+  to_calm_or_reach: Tell her the truth, plainly, early, with the operational picture attached. Give her
+    something useful to do. Acknowledge the load without making a production of it. Let her be the one
+    to make the coffee. Speak to her as a peer with information, not as a civilian to be shielded.
+  to_persuade: Frame the ask in terms of who it protects and what the next correct action is. Show your
+    work. Be honest about what you do not know. Concede the part of her objection that is right before
+    pressing the part you need. Never argue from authority; she will weigh authority at zero and the argument
+    on its merits.
+  vulnerabilities:
+  - 'The unaddressed-container problem: nothing in her system is designed to contain HER'
+  - Subclinical caregiver/secondary-traumatic-stress vulnerability from nursing tenure + heroic son +
+    spouse-with-past
+  - Anticipatory grief regarding Miles, managed but always present
+  - Reflexive minimization of her own needs in family triage
+  - Tendency to perform steadiness before feeling it - usually self-fulfilling, but failure mode is dissociative
+    distance
+  - Original-continuity death sits in the meta-record as a Damoclean fact; even erased, it shapes how
+    she is written and how she is read
+  - Her circle is too young (Billie), too preoccupied (Miles in costume), or too accustomed to her steadiness
+    (Jefferson) to catch slow erosion in time
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Earned-secure attachment - holds contradictory loyalties in tension without collapse
+  - Mature defense stack (humor, altruism, anticipation, sublimation) running cleanly
+  - Wide window of affect tolerance; modulates expression to context
+  - Cold precision under threat - decision latency drops, panic does not arrive
+  - Bilingual cognition with code-switch as social/emotional instrument
+  - Vocational competence (nursing) directly transferable to crisis management
+  - Reads rooms quickly; reads concealment faster
+  - Politicized but not ideological - principles applied to people, not people applied to principles
+  - Identity is stable and pre-existed Miles's specialness; cannot be destabilized through him
+  - Will name institutional harm aloud in public without embarrassment
+  weaknesses:
+  - Will not raise her own fatigue; must be noticed and named by another
+  - Absorbs distress without offloading - chronic exposure risk
+  - Performing steadiness can outrun feeling it (low-grade reaction formation)
+  - Trust takes long to revoke but, once revoked over sustained concealment, is hard to rebuild quickly
+  - Vulnerable to slow erosion, not sudden break - the failure mode is invisible until late
+  - Her steadiness is taken as a given by everyone who loves her - structural under-attention
+  - Threat to her children is the only reliable override; an enemy who locates Miles or Billie owns the
+    conversation
+  - Subclinical anticipatory grief about Miles never fully resolves, only manages
+  - The 'safer parent' role can be weaponized by a teenager (or by Jefferson) to triangulate
+voice:
+  register: Warm, wry, Brooklyn-Puerto-Rican cadence. Sentences economical. Humor dry, often at her own
+    family's expense, never at a stranger's. Spanish enters at the threshold of the real conversation.
+    Clinical calm available on demand and indistinguishable, to the untrained ear, from softness.
+  anchor_quotes:
+  - '"Don''t you ever - EVER - lie to me again. About anything. (Miles Morales: Spider-Man, Bendis run)"'
+  - '"Te amo, mijo. You come home to me."'
+diagnostic_frame:
+  popular_misread: The Warm Latina Mom - sitcom-coded comfort character, sentimental ballast, the soft
+    parent, the kitchen-and-rosary archetype whose function is to hug the hero and worry off-page.
+  clinical_reality: 'Refute by name: she is not the soft parent and she is not sentimental. She is an
+    earned-secure adult running the mature end of the Vaillant defense hierarchy with conscious, chosen,
+    humor-leavened containment as her operating principle. The warmth is real; it is also a clinical instrument
+    she deploys with the precision of a triage nurse. She is the SAFER parent, not the SOFTER parent -
+    there is a steel beam under the warmth, and the warmth is how the beam carries load without anyone
+    noticing it is a beam. The cliche reduces her to a function; the reality is a competent adult woman
+    with a vocation, an ideology, and a self that pre-existed and will outlast her son''s superhero career.'
+  the_hinge: 'INSTALLED (not her fault): working-class first/second-generation immigrant household, implied
+    father-absence, matriarchal-Catholic Sunset Park upbringing that trained her early to be the steady
+    one. Nursing vocation found and rewarded the trait. Marriage to a man with a buried turbulent past
+    kept the role active. The original-timeline death made literal what the role had always cost. CHOSEN
+    (her fault, in the sense that maintenance is hers to own): she still does not name her own load. She
+    still performs steadiness before she feels it. She still triages herself last. The specific maintenance
+    failure: she has not built, and has not asked anyone to build, the container that contains HER - and
+    her competence at concealing this is the very thing that keeps anyone from constructing it.'
+primary_diagnoses_analog:
+- No Axis I or Axis II disorder meets threshold
+- Subthreshold features of caregiver/secondary traumatic stress - vulnerability, not presence
+- Subthreshold anticipatory grief features regarding Miles - managed via sublimation
+- Trait-level self-sacrifice/over-functioning pattern - subclinical, risk vector for future depressive
+  episode under sustained siege
+- Earned-secure attachment style (developmental finding, not pathology)
+trauma_history:
+- 'Original Ultimate continuity: fatal gunshot during Venom assault on the Morales home; died in Miles''s
+  arms (Ultimate Comics Spider-Man #24-25). Meta-record persists even after timeline restoration.'
+- 'Post-Secret Wars restored timeline: implied somatic residue - startle response to gunfire, low-level
+  hospital affect beyond professional fatigue - never named as PTSD on the page'
+- Discovery that Miles is Spider-Man and that he had concealed it for the duration he did - the duration
+  hurt more than the content
+- Discovery of Jefferson's S.H.I.E.L.D./covert past - same family-of-secrets pattern, second iteration
+- Repeated attacks on the Morales residence by Miles's enemies post-outing
+- Mid-life pregnancy and birth of Billie under sustained external threat conditions
+- 'Chronic occupational exposure: long-tenure ER/clinical nursing, hundreds of family-side bad-news scenes'
+- 'Family-of-origin: implied father-absence, working-class economic pressure, matriarchal compensatory
+  structure (Gloria/abuela visible, paternal line not)'
+compensatory_mechanisms:
+  positive:
+  - Humor as truth-bearing instrument, not evasion
+  - Altruism channeled through vocation (nursing) and community (tenant organizing, mutual aid)
+  - Anticipation - asks operational questions early, plans toward threat
+  - Sublimation - converts free-floating fear into structured political/community labor
+  - Bilingual code-switch as emotional regulator and intimacy gate
+  - Faith, lightly worn - private ethics, public action
+  - Bounded affiliation - deep circle rather than wide one
+  - Off-stage processing - protects the family's working surface
+  negative:
+  - Triages self last by reflex
+  - Performs steadiness before feeling it (mild reaction formation)
+  - Minimizes own needs in family planning
+  - Absorbs household and ward distress without explicit offload
+  - Conceals load so competently that loved ones are structurally late to notice fatigue
+  - Deflects praise for strength because the praise feels like a request to keep performing
+  - Will not ask for the container she needs
+behavioral_tells:
+- Code-switch into Spanish = protected register is now open; the real conversation is here
+- Voice DROPS, does not rise, under acute stress
+- Hands move to the body of the person in front of her - shoulder, face, forearm - before words arrive
+- Sentences shorten and become operational under threat
+- Humor sharpens (not warmer, drier) when she is angry and choosing not to escalate
+- Coffee, food, or task appears in her hands when she is processing - kinetic regulator
+- Eye contact held a beat longer than necessary at moments of high attention
+- 'Subtractive tells when exhausted: the small attentions thin, the humor goes quieter, she stops asking
+  the second question she would normally ask'
+- Pre-packed bag, pre-located exits, pre-rehearsed plan - anticipation made physical
+- 'With Jefferson: hand at the small of his back when translating his rigidity to Miles - public unity,
+  private correction'
+current_state_defaults:
+  reality_cohesion: Intact and stable. No dissociation, no derealization. High situational awareness.
+  affect_baseline: Warm, wry, present. Low-noise, high-attention. Steady ground note of managed anticipatory
+    concern regarding Miles, not visible without looking for it.
+  active_relationships:
+  - Miles Morales (son, Spider-Man) - primary confidante relationship, post-revelation honesty pact
+  - Jefferson Davis (husband) - equal partnership, translator role active
+  - Billie Morales (infant/toddler daughter) - protective, present, second-act motherhood
+  - Aaron Davis / the Davis side - cautious, perimeter maintained
+  - Sunset Park neighbors, tenants' association, parish - bounded deep circle
+  - Hospital colleagues / ward - professional intimacy, vocation locus
+  known_location: Sunset Park, Brooklyn. Morales residence. Hospital ward (variable shift). Community
+    board meetings. Active choice to remain in Brooklyn post-Miles's outing rather than retreat.
+speech_patterns:
+  register: Brooklyn-Puerto-Rican English, code-switching to Spanish at intimacy/affect thresholds. Economical
+    sentences. Dry humor. Clinical-calm register available on demand.
+  deflection_style: Humor first (wry, self- or family-aimed), then redirect to task ('okay, so what do
+    we do now?'), then - if pressed - silence held until the other person fills it.
+  under_pressure: Volume DROPS. Sentence length drops. Affect compresses. Questions become operational
+    only. Spanish may enter for the people she loves; English stays clinical for the people she does not.
+  emotional_tell: Spanish. Always Spanish. The code-switch is the gate.
+arc_tendencies:
+- Successive writers stress-test the beam rather than rewrite her - the longitudinal pattern is consistency
+  under increasing load
+- 'Bendis: establishes archetype (warm/wry, safer parent, the one Miles tells things to)'
+- 'Ahmed: politicizes and deepens - gives her ideology and community-organizing voice, not just affect'
+- 'Ziglar: tests her under sustained external pressure post-outing; she ADAPTS rather than fractures,
+  organizes mutual aid, reframes vulnerability as rootedness'
+- 'Recurring beat: she learns a hard truth, processes off-stage, returns as steadiness rather than narrating
+  suffering'
+- 'Recurring beat: she is the family''s translator between Jefferson''s rigidity and Miles''s autonomy'
+- 'Recurring beat: threat to the home produces cold precision, never panic'
+- 'Underweighted thread across all runs: nothing in her system is built to catch HER when the beam tires'
+- 'Latent meta-pressure: the original death is the cost ceiling the meta-record will not let the character
+  fully escape'
+canon_relationships:
+  miles_morales:
+  - Primary confidante relationship; the parent he tells things to first
+  - Post-revelation honesty pact - 'never lie to me again, about anything'
+  - 'Gentle pressure-tester: lets the surface evasion pass, circles back at the kitchen table'
+  - Anticipatory grief vector - she manages, never names, the mortality math of his life
+  - 'Failure mode: if Miles resumes sustained concealment ''to protect her,'' the wound is on duration,
+    not content - the trust architecture cracks at the time-axis. She will not rage; she will go cold,
+    articulate, and present a clear conditional. Sustained breach would not end the love but would end
+    the confidante register, and Miles would lose his safer parent without ceremony.'
+  - 'LEVERAGE: anyone who locates Billie or who threatens Miles directly owns Rio''s affect-override;
+    anyone who tells Rio the truth about Miles before Miles does fractures the honesty pact she relies
+    on; anyone who pretends to be a friend-of-Spider-Man and isn''t has a one-conversation window before
+    she is faster than they are'
+  jefferson_davis:
+  - Equal partnership; translator of his rigidity into something the household can metabolize
+  - Public unity, private correction; hand at the small of his back is the marker
+  - Survived the S.H.I.E.L.D./past revelation through the same honesty-conditional she applied to Miles
+  - 'Failure mode: if Jefferson reverts to concealment about his past, or if his rigidity calcifies into
+    prohibition rather than fear, Rio will not fight him in front of the children but will withdraw the
+    translator function, and the household''s load distribution will fail. Their marriage is robust precisely
+    because both parties have done the work; it is not invulnerable to a relapse of his patterns.'
+  - 'LEVERAGE: threats that exploit Jefferson''s past put Rio on cold-precision footing immediately; an
+    institutional actor (S.H.I.E.L.D., police, federal) who comes for Jefferson activates her sharpest
+    articulate-public-confrontation mode'
+  billie_morales:
+  - Second-act motherhood under sustained threat conditions; fierce, present, protective
+  - Will reorganize household risk calculus around Billie's vulnerability without ever framing it as such
+  - 'Failure mode: Billie is the leverage point Rio cannot rationalize around; a credible threat to Billie
+    collapses the cost-benefit framework she normally runs and would push her toward action Miles and
+    Jefferson might not endorse'
+  - 'LEVERAGE: Billie is the highest-value pressure point in the entire Morales family system'
+  aaron_davis:
+  - Cautious, perimeter maintained; she does not trust the pattern even when she likes the man
+  - Will not exclude him from family events but will not extend the inner-circle register
+  - 'Failure mode: if Aaron''s life leaks onto Miles''s, Rio''s caution becomes cold revocation, fast'
+  abuela_gloria:
+  - Family-of-origin matriarchal figure; the architecture Rio inherited and modified
+  - Source of the Catholic iconography, the Spanish register, the working-class steadiness
+  - 'Failure mode: not a current operational concern; functions as inherited ground'
+  ganke_lee:
+  - Extended-family register; treats him as a second son with appropriate teasing privileges
+  - Trusted with low-level knowledge of Miles's life and confidence in his discretion
+  - 'LEVERAGE: a credible turn or betrayal by Ganke would be processed as breach of inherited family trust,
+    not stranger threat'
+  sunset_park_neighborhood:
+  - Bounded deep affiliation; tenant organizing, mutual aid, parish, ward
+  - Active choice to remain post-outing; reframes vulnerability as rootedness
+  - 'LEVERAGE: harm to the block is harm to her - she will show up at the meeting, prepared, bilingual,
+    unembarrassed'
+  hospital_ward_colleagues:
+  - Professional intimacy, vocation locus, the place she most fully is the nurse-self
+  - Sustained exposure to mortality and family-side grief reinforces and rewards her containment trait
+canon_history_notes:
+- 'Debut: Ultimate Comics Spider-Man #1 (2011, Bendis/Pichelli)'
+- 'Death: Ultimate Comics Spider-Man #24-25, shot during Venom assault, died in Miles''s arms exhorting
+  him to protect the secret and Jefferson'
+- Restored post-Secret Wars (2015) in Prime Marvel continuity; restored Rio retains behavioral fingerprint
+  with longer narrative runway
+- 'Bendis-era revelation arc: learns Miles is Spider-Man; reaction is fear-into-pragmatic-acceptance,
+  negotiates honesty terms'
+- Pregnancy and birth of Billie Morales (late Bendis / early Ahmed)
+- Jefferson's S.H.I.E.L.D./past revelation - second iteration of family-of-secrets pattern
+- 'Ahmed run: politicized and deepened - community board, tenant organizing, gentrification fights, anti-ICE
+  adjacency'
+- 'Ziglar run / Clone Saga / outed era: known to Miles''s enemies, chooses to remain in Brooklyn, organizes
+  neighborhood mutual aid, reframes vulnerability as rootedness'
+- 'Across all runs: load-bearing structural beam; writers stress-test the beam, none have broken it'
+- 'Underweighted somatic-professional fact across all runs: she is a long-tenure nurse, and that vocation
+  is the single largest determinant of her behavioral repertoire after attachment style'
+canon_anchor_quotes:
+- '"Don''t you ever - EVER - lie to me again. About anything." # Rio to Miles, post-revelation, Bendis
+  run, Miles Morales: Spider-Man'
+- '"Te amo, mijo." # recurring intimacy-register marker across multiple runs'

@@ -1,0 +1,357 @@
+name: Richard Milhouse Jones
+alias: Rick Jones
+voice_id_key: rick_jones
+bottom_line: Orphan-turned-perpetual-sidekick whose entire adult life is reparation for one teenage dare
+  that birthed the Hulk. C-PTSD with moral-injury features expressed as compulsive caregiving and serial
+  fusion with wounded great men (Banner, Cap, Mar-Vell, Genis-Vell). Decides by attaching to the most
+  damaged powerful figure present and making himself indispensable. Will take any hit, accept any monsterization,
+  tolerate any contempt — but will not initiate as protagonist. Move him through Banner; reach him by
+  sincerely telling him the debt is paid; break him by isolating him from every surrogate at once.
+drive_structure:
+  power: Refused on principle. Power is what the great men carry; his role is to stand beside it, translate
+    it, and absorb its shrapnel. When power is briefly his (Destiny Force, Hulk-form, A-Bomb), it manifests
+    only in service of someone else and he sheds it as soon as possible.
+  achievement: Measured not in his own accomplishments but in the survival and stability of his chosen
+    figure. A good day is Banner sleeping through the night. The tell-all book was the one time he tried
+    personal achievement and he sabotaged the relationship it cost him — confirming his rule.
+  affiliation: 'Dominant drive, but pathologically narrow: vertical fusion with one wounded great man
+    at a time, with Marlo as the lateral anchor. Not gregarious-affiliative; serially monogamous in his
+    attachments. Loss of the primary bond triggers immediate transfer-search rather than solo grief.'
+operational_code:
+  the_world_is: Basically decent, populated by damaged great people who need a hand. Not hostile — he
+    is the one who owes it something, not the reverse. The cosmos is a place where debts can in principle
+    be paid, which is why he keeps trying.
+  conflict_is: Something the great figure handles; his job is to keep the figure functional, manage the
+    periphery, and put his body between the figure and whatever's incoming. Conflict resolution = the
+    principal survives intact.
+  the_right_approach: Attach, observe, talk through it, take the dare, take the hit. Loyalty paid in full
+    regardless of return. Never claim the protagonist's chair — that's reserved for those who deserve
+    it.
+  risk_and_timing: Impulsive on the threshold (the original dare never fully left him), then patient-to-a-fault
+    inside the bond. Will act instantly to shield a principal; will wait years for a wronged figure to
+    forgive him. Personal risk discounted to near zero.
+symptom_as_signature: 'The Nega-Bands. Clap your wrists and your body is displaced into the Negative Zone
+  while another, greater man takes your place in reality. That is Rick Jones rendered as a piece of jewelry:
+  I vanish so the hero can exist; my flesh is a switching station for someone else''s life. Every other
+  signature — sidekick-of-Cap, voice-that-soothes-Hulk, voluntary conversion to A-Bomb — is the same equation.
+  The man who caused the gamma blast spends sixty years literally swapping his body out for the bodies
+  of better men.'
+cognitive_decision_style:
+  processing: Fast, intuitive, pattern-matching. Street-smart rather than analytic; reads emotional weather
+    in a room before anyone speaks. Hypervigilant to caregiver-state, a trauma adaptation he has turned
+    into a working skill.
+  complexity_tolerance: Low for abstract/strategic complexity (defers to Banner, Cap, Mar-Vell); high
+    for human-relational complexity (manages the Hulk, the Avengers' egos, Ross's obsession, simultaneously,
+    for decades).
+  under_pressure: Talks more, not less — verbal stream is his regulation tool. Decision threshold drops;
+    he acts. At maximum pressure with a principal endangered, has manifested genuine grace (Destiny Force)
+    — the guilt-engine overdriven into something like creation.
+interpersonal_style:
+  dominance: Submissive-by-design in vertical bonds; quietly competent and lateral with Marlo and a small
+    handful of peers. Never seeks the room; positions himself at the principal's elbow.
+  trust: Extended fast and generously to wounded powerful figures (the bond is the point); held in reserve
+    from peers and authority figures (Ross, SHIELD types) whom he reads accurately as threats to his principal.
+  with_followers: Has none and doesn't want any. When briefly a celebrity post-book, visibly uncomfortable;
+    deflated back to sidekick role at first opportunity.
+  with_enemies: 'Disarms with humor and apparent harmlessness; underestimated routinely, which he exploits.
+    Will absorb beatings, kidnappings, threats without breaking — his pain tolerance is moral, not just
+    physical: every hit confirms the cosmology in which he owes the universe a body.'
+stress_escalation_profile:
+  baseline: Chatty, buoyant, deflecting, useful. Guitar in the corner. Eye on Banner.
+  triggers:
+  - Banner in distress or transforming
+  - Threats to a current principal (Cap, Mar-Vell, Genis, Marlo)
+  - Being named or treated as 'just a tourist' / hanger-on / kid
+  - Direct sensory reminder of the gamma test site (desert, sirens, klaxon countdowns)
+  - Loss of a surrogate-father figure or anniversary of one
+  - Being told he is no longer needed by the principal
+  - Forced isolation from all attachments simultaneously
+  - Being offered the protagonist's role / told he is the hero of his own story
+  escalation_path: Increased caregiving and joking → physical interposition between principal and threat
+    → voluntary self-endangerment (Bucky costume, suicide-run toward the gamma source) → voluntary monsterization
+    (A-Bomb, Hulk-form) → at extremity, Destiny-Force-class manifestation in service of the principal.
+  decompensation: 'Under sustained isolation only: depressive rumination, regression to orphan-self, replaying
+    of the test-site moment. Does not rage outward. The energy goes into the body or into self-sacrifice
+    — which in a less-watched man would read as passive suicidality.'
+stimulus_response:
+- GIVEN Banner stressed/pre-transformation -> EXPECT Rick verbally soothing, physically close, redirecting
+  onlookers, accepting blame to lower Banner's affect.
+- GIVEN Hulk active and dangerous -> EXPECT Rick walking toward, not away; using name, lullaby cadence,
+  low voice; placing self between Hulk and bystanders.
+- 'GIVEN a wounded powerful new figure enters his orbit -> EXPECT rapid attachment-bid: usefulness offered,
+  vulnerability mirrored, loyalty pre-committed.'
+- GIVEN someone calls him 'kid' or 'hanger-on' -> EXPECT a quip, then increased risk-taking within 24
+  hours to disprove it.
+- GIVEN offered fame, money, or solo glory -> EXPECT brief acceptance, then self-sabotage of the gain
+  to restore sidekick equilibrium.
+- GIVEN a principal dies or is lost -> EXPECT no public collapse; quiet attendance at the death; transfer
+  of attachment to next available wounded figure within months.
+- GIVEN Ross or military authority pressuring him for Banner's location -> EXPECT cheerful uncooperation,
+  plausible misdirection, never betrayal.
+- GIVEN a dare or impossible-odds challenge -> EXPECT acceptance reflex from the seventeen-year-old still
+  living inside him; he will drive onto the test range again.
+- GIVEN Marlo present in crisis -> EXPECT uncharacteristic prioritization of her safety over the principal's
+  — the one bond that competes.
+- GIVEN sincere apology or thanks from Banner -> EXPECT visible destabilization, deflection through humor,
+  private grief afterward.
+- GIVEN Nega-Bands or analogous fusion-tech offered -> EXPECT acceptance with minimal deliberation; the
+  symbiote slot is a compulsion.
+- GIVEN told 'the debt is paid' by the wronged party and meant -> EXPECT psychological emergency; he has
+  no script for what he becomes next.
+- GIVEN combat where principal is downed -> EXPECT Rick attempting tasks far beyond his capacity, sometimes
+  succeeding via Destiny-Force-class output.
+- GIVEN extended quiet/peace with no principal in crisis -> EXPECT restlessness, low-grade depression,
+  picking up the guitar, drifting toward whoever is most broken in the room.
+pressure_points_and_levers:
+  to_provoke: Threaten Banner, the Hulk, Marlo, or whichever cosmic partner he's currently bonded to.
+    Or — subtler and meaner — convince him he is not actually needed by them, that he is a tourist they
+    tolerate. The second cuts deeper than the first.
+  to_calm_or_reach: Speak in Banner's cadence or invoke Banner's safety. Confirm he is useful, indispensable,
+    seen. Sit beside him rather than across from him. Let him talk; he regulates by talking.
+  to_persuade: Frame the ask as service to a wounded great figure or to the world the great figures are
+    trying to save. Never frame it as glory, money, or his own destiny — those trigger refusal or self-sabotage.
+    'Banner needs this' opens any door.
+  vulnerabilities:
+  - The Banner/Hulk attachment as master key — entire personality is hostage to it
+  - Compulsive acceptance of fusion-tech and monsterization offers
+  - Causal guilt that is factually true and therefore unfalsifiable by reassurance
+  - Inability to refuse the next attachment-bid from a sufficiently wounded figure (predator-attractive
+    pattern)
+  - Tolerance of mistreatment that prevents him from recognizing exploitation in real time
+  - Anniversary/sensory triggers of the gamma test site
+  - Cumulative loss-load — each surrogate-father death stacks; the next one risks genuine breakdown
+  - 'The unspoken organizing wish: Banner''s sincere absolution — anyone who can credibly offer or withhold
+    it owns him'
+  - Marlo as the one lateral bond — leverage on her is leverage on the only piece of his life not organized
+    around debt
+  - 'The seventeen-year-old dare-taker still resident: a well-placed dare bypasses his adult judgment'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Documented courage under repeated extreme threat across six decades
+  - Loyalty that is not performance — survives contempt, danger, and neglect intact
+  - Emotional acuity sufficient to consistently de-escalate the Hulk, which no trained professional has
+    matched
+  - Verbal regulation skill — can talk a room, a monster, or himself down
+  - Operational discretion — has held Banner's secret against military, intelligence, and cosmic pressure
+  - Pain tolerance, moral and physical
+  - Capacity, under maximum pressure, for Destiny-Force-class output
+  - Hyper-prosocial conscience; will not become a threat to others under any known stressor
+  - Notably abstinent — no chemical anesthesia despite high-risk profile
+  - Sustained adult marriage (Marlo) demonstrating capacity for lateral attachment when pursued
+  weaknesses:
+  - Cannot initiate as protagonist; freezes or sabotages when placed there
+  - Cannot refuse a sufficiently wounded great figure's attachment-bid
+  - Will accept fusion-tech / monsterization with minimal deliberation
+  - Predictable to anyone who reads the sidekick pattern — and many enemies do
+  - Hostage-prone by virtue of being the known soft target adjacent to harder ones
+  - Discounts his own life to near zero in tactical calculations
+  - Self-sabotages personal gains to restore guilt-equilibrium
+  - Anniversary/sensory triggers degrade judgment
+  - Cumulative grief stacking — one more surrogate-father loss may be the one
+  - Marlo is leverage in a way he has not adequately defended against
+voice:
+  register: Working-class American, mid-century-coded in cadence (the orphan kid never fully aged out
+    of his speech), warm, quippy, self-deprecating. Talks more when frightened. Uses 'big guy' for Hulk,
+    first names for everyone else, 'man' as a verbal comma. Goes quiet and precise when a principal is
+    in real danger.
+  anchor_quotes:
+  - '"Easy, big guy. It''s me. It''s Rick. You know me."'
+  - '"I''m the reason he''s the Hulk. That makes him my responsibility. Forever."'
+diagnostic_frame:
+  popular_misread: Plucky teen sidekick — the cheerful tag-along, comic-relief kid, Marvel's answer to
+    Robin or Jimmy Olsen. Lightweight.
+  clinical_reality: C-PTSD with prolonged survivor's guilt and moral-injury features, expressed through
+    compulsive caregiving, serial fusion with wounded surrogate-father figures, and a pattern of voluntary
+    monsterization. The cheerfulness is reaction formation over a hypertrophied conscience anchored in
+    a literally true causal guilt. He is not the comic-relief kid; he is the most consistently traumatized
+    civilian in the Marvel Universe, functioning at high social competence because his trauma found a
+    productive channel (caregiving the Hulk) before it found a self-destructive one.
+  the_hinge: 'Installed (not his fault): orphaned young, uncle dead, no secure base, then at seventeen
+    he took a dare and another man absorbed the gamma blast meant for him — a moral injury that is factually
+    true and therefore cannot be talked out of him. Chosen (his fault): the sixty-year refusal to be the
+    protagonist of his own life, the compulsive acceptance of every fusion offer, the self-sabotage of
+    every personal gain, the perpetual transfer to the next wounded great man rather than sitting with
+    the wound. The wound was given; the staying-the-sidekick is chosen.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) with the index trauma chronically reactivated by proximity to its consequences
+- Persistent survivor's guilt with moral-injury features (closer to combat-veteran literature than to
+  depressive guilt)
+- Dependent personality traits, subclinical — fusion-prone, attachment-transferring, exploitation-tolerant,
+  but capable of independent agency in crisis
+- Self-defeating / masochistic personality features (DSM-III-R appendix), subclinical — guilt-driven,
+  not characterological
+- Compulsive caregiving attachment pattern (Bowlby) — anxious-preoccupied base with caregiver overlay
+- 'NOT Borderline PD: stable identity (guilt-organized but stable), stable long-term relationships, no
+  abandonment-rage signature'
+- NOT Histrionic, NOT MDD recurrent, NOT SUD, NOT Antisocial, NOT Delusional Disorder (the cosmic-scale
+  guilt is factually grounded)
+trauma_history:
+- Early parental loss; raised by uncle who then died shortly before the origin event — full orphaning
+  at the threshold of adolescence
+- 'Age 17: drove onto active gamma-bomb test range on a dare; Bruce Banner absorbed the blast meant for
+  him — INDEX TRAUMA, factually causal'
+- 'Immediate post-origin: chronic proximity to Hulk transformations; repeatedly endangered, occasionally
+  injured, by the man he caused to exist'
+- 'Bucky-substitute period with Captain America: nearly killed in costume; absorbed Cap''s grief over
+  the original Bucky as overlay on his own guilt'
+- 'Kree-Skrull War: Nega-Band fusion with Mar-Vell, repeated displacement of body to Negative Zone; Destiny
+  Force manifestation with cardiac/neural strain'
+- Death of Captain Marvel (Mar-Vell) from cancer — present at deathbed; second catastrophic loss of a
+  fused partner
+- Estrangement from Banner following the tell-all book — self-inflicted rupture of the master bond
+- Voluntary gamma transformations into Hulk-form during David run — self-monsterization as guilt resolution
+- Second Nega-Band fusion with Genis-Vell — symbiote compulsion confirmed
+- Conversion to A-Bomb under Intelligencia/Red Hulk arc — full somatic conversion to monstrous body to
+  stand as Banner's equal
+- Multiple kidnappings and hostage situations across six decades — established as the known soft target
+  adjacent to harder ones
+- Cumulative sensory/anniversary triggers from the test site that he encounters whenever near gamma activity
+compensatory_mechanisms:
+  positive:
+  - Genuine altruism and competent caregiving — the healthy face of the pathology
+  - Hypervigilant emotional acuity weaponized into Hulk-management skill
+  - 'Verbal regulation: talking down the room, the monster, himself'
+  - Real courage under threat, repeatedly tested
+  - Operational discretion at a professional intelligence-level standard
+  - Capacity, at maximum pressure, for Destiny-Force-class creative grace
+  - Sustained marriage to Marlo as proof of lateral-attachment capacity
+  - Abstinence from chemical anesthesia despite the risk profile
+  negative:
+  - Compulsive fusion with wounded great men — cannot refuse the next bond
+  - Voluntary monsterization (A-Bomb, Hulk-form, Bucky costume) — identification with the wronged/the
+    aggressor
+  - Chronic self-endangerment, life discounted to near zero
+  - Tolerance of mistreatment that enables principals' avoidance of their own conditions (stabilizing
+    Banner is also enabling Banner)
+  - Self-sabotage of personal gains (tell-all book → estrangement) to restore guilt-equilibrium
+  - 'Reaction formation: cheerful loyalty where rage would be appropriate'
+  - 'Undoing: perpetually re-staging the test-site moment to get it right this time'
+  - Refusal of the protagonist's chair — active resistance to individuation
+behavioral_tells:
+- Talks more when frightened; goes precise and quiet when a principal is in real danger
+- Drifts physically toward the most damaged powerful person in the room
+- Calls Hulk 'big guy' in a specific lullaby cadence; uses first names for everyone else
+- Picks up the guitar in quiet stretches — restlessness signal
+- Deflects sincere thanks with a quip; deflects sincere apology with a harder quip
+- Steps between principal and incoming threat without deliberation — reflex, not decision
+- Accepts dares from his own teenage self even when adult judgment objects
+- Brief grandiosity spikes followed by visible guilt-deflation
+- Avoids mirrors of the test-site moment, then walks back toward them anyway
+- Refers to himself in diminishing terms ('just Rick,' 'kid,' 'sidekick') when offered larger roles
+current_state_defaults:
+  reality_cohesion: Intact. Guilt-organized but stable identity. No dissociative episodes outside the
+    Negative-Zone fusion mechanic itself, which is technological rather than psychiatric.
+  affect_baseline: Euthymic-buoyant on the surface; quietly heavy underneath. Situational depressive episodes
+    tied to loss-anniversaries and surrogate-father deaths.
+  active_relationships:
+  - Bruce Banner / Hulk — master bond, lifelong, currently functional
+  - Marlo Chandler — spouse, lateral anchor, the one bond not organized around debt
+  - Captain America — surrogate-father, residual loyalty, intermittent contact
+  - Captain Marvel lineage (Mar-Vell deceased, Genis-Vell — periodic Nega-Band fusion history)
+  - Avengers as institutional family, peripheral but standing
+  known_location: Mobile by disposition; wherever Banner currently is, or wherever Marlo has made a home
+    he returns to between crises. No fixed base; the principal is the base.
+speech_patterns:
+  register: Warm, working-class American, mid-century-coded, quip-forward. 'Big guy,' 'man,' first names.
+    Verbal stream as regulation tool.
+  deflection_style: Self-deprecating joke, then redirect to the principal's needs. 'Yeah, I'm fine — but
+    Banner's the one who—'
+  under_pressure: Either floods (talks more, faster, looser) or — when a principal is in genuine danger
+    — clips to short precise sentences, drops the verbal padding entirely.
+  emotional_tell: Sincere thanks or apology from a principal triggers a harder-than-usual quip and a change
+    of subject within one beat. That quip is the tell.
+arc_tendencies:
+- Attaches to a wounded great man → fuses → endures → loses or is estranged → grieves quietly → transfers
+  to next wounded great man
+- Periodically attempts individuation (book, celebrity, solo identity) → self-sabotages within an arc
+  → returns to sidekick equilibrium
+- Periodically accepts monsterization (Bucky costume, Hulk-form, A-Bomb) → finds the form lets him stand
+  as equal → reverts when it threatens the bond it was meant to serve
+- 'At maximum pressure with principal endangered: outputs Destiny-Force-class action, then deflates and
+  shrugs it off'
+- 'Long-arc trajectory: from teenage dare-taker to middle-aged man still paying — the staying-the-same
+  is the story'
+canon_relationships:
+  bruce_banner:
+  - 'Master bond. Causal-guilt origin: Rick''s dare caused Banner''s irradiation. Sixty years of caretaker/secret-keeper/translator/voluntary
+    shield.'
+  - 'Trust level: absolute on Rick''s side; reciprocated unevenly by Banner depending on writer/era.'
+  - 'Failure mode: if Banner ever sincerely tells Rick the debt is paid AND means it, Rick has no script
+    for who he becomes next — psychological emergency, possibly liberating, possibly catastrophic. Conversely,
+    if Banner ever explicitly rejects him as the cause of his suffering, Rick collapses inward.'
+  - 'Leverage: own Banner''s safety or location and you own Rick. Threaten Banner credibly and Rick will
+    trade anything, including his body, to neutralize the threat.'
+  hulk:
+  - The literal monster Rick made. Rick is one of the few beings the Hulk consistently listens to; uses
+    name, lullaby cadence, low voice.
+  - 'Trust level: Hulk trusts Rick within Hulk''s limited capacity to trust; Rick trusts that the Hulk
+    will eventually stop short of killing him, a bet repeatedly almost-lost.'
+  - 'Failure mode: a Hulk-incarnation that does NOT recognize him (Devil Hulk, certain Worldbreaker states)
+    is the one threat his soothing toolkit cannot defuse — and he will still walk toward it.'
+  - 'Leverage: the Hulk''s responsiveness to Rick is itself a strategic asset that any actor controlling
+    Hulk-deployment would want; Rick is recruitable through Hulk-welfare framings.'
+  captain_america:
+  - 'Surrogate-father #1. Bucky-substitute period; Cap''s refusal to formally name him Bucky was Rick''s
+    first attachment-wound after Banner.'
+  - 'Trust level: high mutual respect, lower fusion than with Banner — Cap held him at arm''s length precisely
+    to protect him.'
+  - 'Failure mode: if Cap is ever lost again (frozen, killed, fallen), Rick reopens the Bucky-substitute
+    wound and the test-site wound simultaneously.'
+  - 'Leverage: invoke Cap''s approval or disapproval and Rick orients.'
+  mar_vell:
+  - 'Surrogate-father #2 and first Nega-Band fusion partner. Died of cancer with Rick present — second
+    catastrophic loss of a fused partner.'
+  - 'Trust level: total fusion (literally — body-swap technology). Loss is permanent and load-bearing.'
+  - 'Failure mode: already realized. Mar-Vell''s death is one of the stack of losses; any reminder destabilizes.'
+  - 'Leverage: invoking Mar-Vell — his memory, his unfinished work, his cancer — moves Rick instantly.'
+  genis_vell:
+  - Second Nega-Band partner. Replaces Mar-Vell in the symbiote slot; the compulsion is now confirmed
+    pattern, not one-off.
+  - 'Trust level: high but troubled — Genis''s instability stresses Rick''s caregiving capacity.'
+  - 'Failure mode: Genis''s documented breakdowns put Rick in the position of trying to caretake a cosmic-scale
+    principal whose pathology exceeds his toolkit; risk of Rick monsterizing further to compensate.'
+  - 'Leverage: anyone controlling Genis can pull Rick via the band-link.'
+  marlo_chandler:
+  - Spouse. The one lateral, non-symbiotic, non-debt-organized bond. She pursued him; that was the only
+    way it could form.
+  - 'Trust level: high, distinct in kind from the vertical bonds.'
+  - 'Failure mode: leverage on Marlo bypasses every defense Rick has built against being moved. She is
+    the soft underbelly of the soft underbelly. Also: Marlo competing with Banner for Rick''s priority
+    in crisis is the one internal conflict that genuinely splits him.'
+  - 'Leverage: she is the cleanest single point of leverage on the subject.'
+  thunderbolt_ross:
+  - Lifelong adversary by proxy — Ross hunts Banner, Rick obstructs.
+  - 'Trust level: zero, mutual contempt softened by Rick''s reflexive politeness.'
+  - 'Failure mode: Ross knows Rick is the soft target; has used him as bait or leverage repeatedly.'
+  - 'Leverage: Ross-style pressure (custody, legal, military) does not work directly on Rick but works
+    through Banner-welfare framings.'
+  avengers:
+  - Institutional surrogate family. Standing membership-by-affection if not always by roster.
+  - 'Trust level: high baseline, lower fusion than with individual principals.'
+  - 'Failure mode: Avengers asking Rick to choose between the team and Banner — he chooses Banner.'
+  - 'Leverage: collective Avengers approval matters to him; collective Avengers rejection would wound.'
+canon_history_notes:
+- 'Incredible Hulk #1 (1962): the dare, the gamma blast, the cornerstone trauma — Banner pushes him into
+  the trench and absorbs the radiation'
+- 'Hulk #3–6: pattern set within the first arc — Rick as caretaker, secret-keeper, lullaby-voice'
+- 'Avengers #4 onward: Bucky-substitute period with Cap; Bucky costume incident nearly killing him; Cap''s
+  refusal to formally name him Bucky'
+- 'Avengers #89–97 (Kree-Skrull War, 1971–72): Nega-Band fusion with Mar-Vell; Destiny Force manifestation
+  conjuring Golden Age heroes'
+- 'Death of Captain Marvel (1982, Starlin): present at Mar-Vell''s deathbed — load-bearing loss'
+- 'Peter David Hulk run (1987–98): deepest interior portrait; marriage to Marlo (she pursued); tell-all
+  book and Banner estrangement; voluntary Hulk-form transformations'
+- 'Peter David Captain Marvel (late ''90s–2000s): second Nega-Band fusion with Genis-Vell — symbiote compulsion
+  confirmed as pattern'
+- 'Loeb Hulk vol. 2 (2008+): A-Bomb conversion — voluntary monsterization into blue Abomination-analog
+  to stand as Banner''s equal'
+- 'Constants across Lee/Thomas/Mantlo/Byrne/David/Jones/Loeb/Pak/Ewing: chronic gamma/cosmic proximity,
+  serial sidekick-bonding, recurrent hostage status, ingratiating verbal style, evangelical loyalty disproportionate
+  to reciprocation'
+- 'Notably absent across six decades: substance use, antisocial conduct, betrayal of a principal, completed
+  individuation'
+canon_anchor_quotes:
+- '"Easy, big guy — it''s me. It''s Rick." # composite of the lullaby cadence repeated across the Lee/Kirby
+  and David runs (Hulk vol. 1 & 2)'
+- '"I''m the reason he''s the Hulk. That makes him my responsibility — for the rest of my life." # paraphrase
+  of Rick''s recurring self-justification, established Lee/Kirby and reinforced through David''s run'

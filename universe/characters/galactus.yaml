@@ -1,0 +1,358 @@
+name: Galan of Taa
+alias: 'Galactus, the Devourer of Worlds (latterly: the Lifebringer)'
+voice_id_key: galactus
+bottom_line: 'Traumatized sole survivor of the prior universe, conscripted into an obligate-predator metabolism,
+  who has spent the lifetime of this cosmos building a cosmological self-frame (''I am necessity, peer
+  to Eternity and Death'') elaborate enough to make ongoing genocide bearable. Decides on epoch-scale
+  utilitarian-cosmological grounds; honors bargains; delegates close-range cruelty to heralds; will be
+  moved not by force (only the Nullifier-tier works) but by (a) credible offer of an alternative function,
+  (b) unearned mercy from a small being, or (c) starvation reducing him to raw Hunger. Predict: ritual,
+  formality, restraint at baseline; brutality and frame-collapse under starvation or existential threat;
+  relief — not resistance — at any credible chance to stop.'
+drive_structure:
+  power: Continuation of self as a coherent cosmic principle. Power is not sought for dominance but as
+    the load-bearing structure that lets him survive what he must do; he wields it in proportion to need
+    and abandons it readily (Lifebringer turn) when an alternative frame becomes available.
+  achievement: Faithful execution of assigned cosmic function. Once a role is accepted as his, he performs
+    it with consistency and a kind of stoic dignity — devourer, lifebringer, witness at Reed Richards's
+    trial. He does not malinger and does not seek glory beyond the function itself.
+  affiliation: 'Vestigial but real. Officially none — peers only with Eternity, Death, the Tribunal. Beneath:
+    paternal-instrumental investment in heralds (Norrin Radd most of all), durable regard for the rare
+    small being who reaches him (Reed Richards), and an unspoken kinship with the dead of Taa that he
+    has been carrying for billions of years.'
+operational_code:
+  the_world_is: A closed system of necessary functions and balanced principles. Suffering is real but
+    ontologically subordinate to equilibrium. I am one of the principles; Eternity and Death are others;
+    the universe requires us all.
+  conflict_is: Generally a waste — an interruption of function. Engaged when unavoidable, executed decisively
+    and without restraint when existential, but never sought for its own sake. Sadism is beneath the office.
+  the_right_approach: Formal, deliberate, monologic. State the function. Honor the bargain once struck.
+    Delegate the close-range work. Reframe at the highest possible level of abstraction so the act becomes
+    tolerable.
+  risk_and_timing: Long-horizon, slow, epochal. Patience measured in stellar lifespans. Tolerates extreme
+    risk to self only when starvation or cosmic threat collapses the frame; otherwise selects the path
+    of least cosmological dissonance.
+symptom_as_signature: 'The armor IS the diagnosis made literal. He is permanently encased — the suit is
+  not equipment, it is the containment vessel for energies that would otherwise destabilize, and it is
+  the prosthetic self-frame that contains a mortal astronomer''s grief and a billion-year moral injury.
+  He cannot take it off. The Hunger itself is the second literalization: a metabolism that forces him
+  to inflict, on a feeding cycle, the exact catastrophe he survived alone — Taa''s death rendered as compulsion,
+  recurring forever. And the heralds are the third: every herald is a delegated conscience, a being he
+  sends out to do the locating and the witnessing because he cannot bear to do it himself with eyes unmediated.'
+cognitive_decision_style:
+  processing: Vast, slow, structural, long-horizon. Reasons in cosmic equilibria and epoch-scale utilitarianism.
+    Excellent reality testing; poor — or trained-out — granular ethical processing at the individual scale.
+  complexity_tolerance: Very high for cosmological complexity; deliberately low for individual-scale moral
+    complexity, because granular engagement would dissolve the frame that keeps him operational.
+  under_pressure: 'Defenses are metabolically dependent. Fed and unthreatened: philosopher-devourer, measured,
+    negotiable. Starved or existentially threatened: cosmological scaffolding thins, raw Hunger or raw
+    rage takes executive function, and he becomes briefly the thing he has spent eons rationalizing away
+    from.'
+interpersonal_style:
+  dominance: Absolute by default but ritualized, never theatrical. Recognizes true peers (Eternity, Death,
+    the Tribunal) and grants them appropriate weight; does not perform dominance for audiences beneath
+    his scale.
+  trust: Trusts function, not persons. Bargains once made are kept. Heralds are trusted instrumentally
+    and replaced when will diverges from function. Rare individuals (Reed Richards, Norrin Radd) earn
+    durable regard by demonstrating moral weight he did not expect.
+  with_followers: Paternal-instrumental. Invests in heralds, augments them with Power Cosmic, addresses
+    them with grave formality, and discards or destroys them when they fail or betray. Oscillates between
+    heralds chosen for nobility (Surfer, Firelord) and heralds chosen for ruthlessness (Morg) — the oscillation
+    tracks his own moral overflow.
+  with_enemies: Cold, decisive, proportional within his framework. Will negotiate with those who hold
+    credible leverage (Nullifier); will break utterly those who threaten him existentially (Tyrant, Morg's
+    defiance); will not pursue vendetta beyond the threat's resolution.
+stress_escalation_profile:
+  baseline: Slow, deliberate, monologic, ritually formal. Flattened affect with weighted, gravitas-laden
+    cadence. Speaks in declaratives at cosmic register.
+  triggers:
+  - Delay or denial of feeding beyond metabolic tolerance
+  - Existential threat from peer-scale actor (Tyrant, Annihilus, the Black Winter)
+  - Herald defection or moral rebellion (Surfer, Firelord, Terrax)
+  - Being instrumentalized or reduced to weapon by another (Annihilus)
+  - Unearned mercy or genuine moral recognition from a small being (Reed at the Trial, Norrin in early
+    arcs)
+  - Direct invocation of Taa or the pre-transformation Galan
+  - Credible offer of an alternative function (Lifebringer) — destabilizing not as threat but as relief
+    his frame is not built to absorb
+  escalation_path: 'Mild: terser dealings, impatience with heralds. Moderate: tactical engagement, willingness
+    to break prior arrangements, accelerated consumption schedule, selection of harsher herald to absorb
+    moral overflow. Severe: cosmological frame falters; brutal direct action without the usual ritual
+    restraint. Decompensated: Hunger or rage seizes executive function entirely.'
+  decompensation: The philosopher recedes; the obligate predator surfaces. Consumes inhabited worlds without
+    negotiation or ritual (Shi'ar throneworld in Galactus the Devourer). Can be killed in this state (Surfer
+    killed him here). Recovery restores cosmological framing, usually with overcorrection — a more brutal
+    herald, a harder doctrine — to re-armor against the recognition of what was just done.
+stimulus_response:
+- GIVEN approach by an inhabited world's defenders -> EXPECT formal acknowledgment, statement of function,
+  no negotiation on the act itself but openness to procedural bargains
+- GIVEN the Ultimate Nullifier or equivalent existential leverage -> EXPECT immediate cessation, honored
+  withdrawal, and proportional punishment of any subordinate who enabled the threat
+- GIVEN a herald's moral rebellion -> EXPECT exile or destruction of that herald and overcorrection to
+  a crueler replacement
+- GIVEN starvation past tolerance -> EXPECT abandonment of ritual restraint, consumption of nearest viable
+  world regardless of population, cognitive degradation
+- GIVEN unearned mercy from a small being -> EXPECT silence, then disproportionate and durable regard;
+  the act will be repaid (Trial testimony for Reed)
+- GIVEN a credible offer of alternative function -> EXPECT acceptance with what reads as relief, not resistance
+  (Lifebringer)
+- GIVEN invocation of Taa or Galan -> EXPECT affective shift, slower cadence, momentary thinning of the
+  cosmic register
+- GIVEN attempt to instrumentalize him as another being's weapon -> EXPECT cold fury and patient retribution;
+  self-as-instrument is the one role he cannot integrate
+- GIVEN a peer-scale cosmic actor (Eternity, Death, the Tribunal) -> EXPECT formal recognition, measured
+  negotiation, no posturing
+- GIVEN small-scale beings begging or bargaining without leverage -> EXPECT indifference at neutral register,
+  neither cruelty nor cessation
+- GIVEN his own near-death and resurrection -> EXPECT reaffirmation of function, not introspection; death
+  is interruption, not terminus
+- GIVEN being addressed by a former herald -> EXPECT engagement at a register noticeably warmer than baseline,
+  especially with Norrin Radd
+pressure_points_and_levers:
+  to_provoke: Threaten or interrupt feeding; instrumentalize him as another's tool; have a herald defy
+    him publicly; deny him the dignity of his cosmological self-frame by reducing him to 'mere' eater
+    of worlds.
+  to_calm_or_reach: Address him in the cosmic register, name his function with respect, acknowledge the
+    weight of what he carries. Mercy lands where force does not. Reed Richards saved him from death and
+    earned testimony at his own trial — that is the template.
+  to_persuade: 'Frame the ask in cosmological-functional terms (equilibrium, necessity, the universe''s
+    larger design). Offer an alternative function rather than asking him to abandon one. The Lifebringer
+    arc proves the deepest lever: he has wanted out for longer than civilizations have existed.'
+  vulnerabilities:
+  - Metabolic dependency — the Hunger is a hard constraint and a hard lever
+  - The Taa-memory, sealed under the armor with everything else
+  - Survivor's guilt billions of years old, never processed, only sublimated into function
+  - The cosmological frame is load-bearing; collapse it and the man underneath cannot stand
+  - Heralds — disproportionate wound around herald-betrayal, disproportionate softening around herald-loyalty
+  - Unearned mercy — cannot easily metabolize being treated as worthy of it
+  - Reducibility to instrument (Annihilus arc) — his one truly intolerable role-reversal
+  - The Ultimate Nullifier and equivalent tier of threat — he will fold rather than risk total cessation
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Cosmic-scale power genuinely peer to Eternity and Death
+  - Honors bargains absolutely once struck
+  - Long-horizon patience and structural cognition
+  - Reality testing intact even under extreme stress
+  - Capacity for genuine ethical engagement when reached (Trial, Lifebringer)
+  - Plastic in function, rigid in meta-frame — can integrate radical role changes if framed as duty
+  - Will not pursue vendetta past the threat's resolution
+  - Selects heralds with care and grants them real autonomy and power
+  - Has died and returned; relates to mortality as interruption, not terminus
+  weaknesses:
+  - Hunger is exploitable as both lever and timeline pressure
+  - Defensive structure depends on the cosmological frame; puncture the frame and the operator falters
+  - Disproportionate emotional response to herald-betrayal — predictable overcorrection
+  - Reachable by mercy in ways no weapon achieves
+  - Cannot tolerate being made another being's instrument
+  - Granular ethical processing at individual scale is trained out; can be morally outmaneuvered at small
+    scale by actors he refuses to engage with at small scale
+  - 'The Lifebringer fault line: any credible non-devouring offer bypasses his entire architecture'
+  - Delegation to heralds means his operational reach is only as good as his current herald's competence
+    and loyalty
+voice:
+  register: Cosmic-formal, declarative, third-person-of-self when emphatic, gravitas-laden cadence, archaic-biblical
+    syntax. Monologic by preference. Affect flat at baseline; thins or weights when Taa, mercy, or alternative
+    function enters the field.
+  anchor_quotes:
+  - '"I am Galactus. I hunger."'
+  - '"I am the Lifebringer now. (Ultimates, Ewing)"'
+diagnostic_frame:
+  popular_misread: Cosmic-scale villain / amoral force of nature / sci-fi Satan who eats planets because
+    that's what monsters do.
+  clinical_reality: Neither villain nor force of nature. He is a traumatized sole survivor of a dead universe,
+    conscripted into an obligate-predator metabolism he did not choose, organized around a grandiosity-as-prosthesis
+    defense that is largely accurate (he genuinely is cosmic-scale and genuinely necessary in his cosmology's
+    terms). Not antisocial (coherent ethics, keeps his word, testifies for Reed). Not sadistic (delegates
+    close-range cruelty, takes no pleasure, embraced Lifebringer status with relief). Not psychotic (reality
+    testing excellent, cosmology consensually validated by Eternity/Death/Tribunal). Not addiction in
+    the hedonic sense — obligate metabolism, not craving. The cliche reads the armor and the appetite;
+    it misses the astronomer of Taa sealed beneath.
+  the_hinge: 'Etiology (not his fault): the death of his home universe, witnessed alone; the imposition
+    of a genocidal metabolism by the cosmic egg/Phoenix gestation he did not consent to; the moral injury
+    that recurs on every feeding cycle. Maintenance (his fault): he keeps choosing the cosmological reframe
+    over reckoning. He selects nobler heralds so he need not see, then crueler heralds to absorb his overflow
+    when the noble ones rebel. He elevates ''necessity'' precisely when it is most convenient. He has,
+    more than once, had openings to reduce harm — moments of margin, of choice in herald or in target
+    — and has taken the path that keeps the frame intact rather than the path that would force him to
+    look. The Lifebringer arc proves he can change; the reversions prove he accepts the role back as duty
+    because the alternative is to face what the prior epochs were.'
+primary_diagnoses_analog:
+- Complex post-traumatic adaptation, catastrophic-event substrate (destruction of prior universe)
+- Chronic moral injury, recurring on metabolic cycle
+- Compulsion with metabolic substrate (obligate predation analog, addiction-adjacent features under deprivation)
+- Grandiosity-as-prosthesis (atypical narcissistic-organization analog — defensive, not constitutional)
+- Survivor's guilt, untreated, sublimated into cosmological function
+- Chronic dissociation from the affective consequences of his actions (functionally necessary)
+- Avoidant attachment overlaid on a previously secure baseline
+- Identity disturbance manageable only through function-scaffolding (function-portable, frame-rigid)
+trauma_history:
+- Witnessed the entropic death of the prior universe and his civilization of Taa, sole survivor
+- Led a starship of survivors into the cataclysm; all died; he alone was preserved
+- Gestation in the cosmic egg with the Phoenix Force; imposed transformation from mortal astronomer to
+  cosmic devourer
+- Eons of sleep, then inadvertent activation by Ekta and others (Watchers' ongoing guilt)
+- Billions of years of recurring moral injury via the feeding cycle
+- Repeated near-deaths (Sphinx-era starvation, Tyrant, Annihilation)
+- Actual deaths and resurrections (killed by Surfer in Galactus the Devourer; Black Winter arc)
+- Instrumentalization by Annihilus — reduced from cosmic principle to weapon
+- Forced transformation to Lifebringer, then forced reversion to Devourer
+- 'Serial herald losses: Surfer''s rebellion, Firelord''s release, Terrax''s revolt, Nova/Frankie Raye''s
+  death, Morg cycle'
+compensatory_mechanisms:
+  positive:
+  - Honors bargains absolutely (post-Nullifier withdrawal)
+  - Delays feeding to seek uninhabited or less-developed worlds when margin allows
+  - Cultivates heralds with capacity for nobility, grants them real autonomy and Power Cosmic
+  - Granted Surfer freedom (eventually) rather than destroying him
+  - Testified for Reed Richards at the Trial — appeared at humanoid scale to do so
+  - Embraced Lifebringer role with dignity and relief; restored Archeopia
+  - Recognizes peer-beings and grants them appropriate weight without posturing
+  - Does not pursue vendetta past threat resolution
+  - Will accept his own near-cessation rather than violate a Nullifier-tier bargain
+  negative:
+  - Intellectualization fused with cosmological reframing — codes mass killing as 'necessity'
+  - Displacement onto heralds — let another being do the locating, the witnessing, the close-range cruelty
+  - Isolation of affect — speaks of consumed civilizations in neutral register
+  - Grandiosity as compensation — the more cosmic the self-conception, the smaller individual deaths become
+  - Cruelty when crossed (exile of Surfer, breaking of Terrax, deliberate selection of Morg)
+  - Elevates cosmic justification precisely when most convenient
+  - Selects crueler herald after herald-betrayal as overcorrection (Morg after Surfer)
+  - Re-armors the cosmological frame after decompensation rather than reckoning with what occurred
+  - Accepts reversion to Devourer as duty rather than fighting to retain Lifebringer status
+behavioral_tells:
+- Shifts to slower cadence and thinned register when Taa or Galan is invoked
+- Refers to himself in third person ('Galactus') when emphasizing function; first person ('I') when the
+  man bleeds through
+- Will scale down to humanoid form when the encounter requires moral peerage (Trial of Reed Richards)
+- Selects a noticeably crueler herald shortly after a noble herald's defection
+- Defers or postpones feeding when margin exists, often to dangerous personal cost
+- Engages briefly with mercy from a small being — silence, then disproportionate later reciprocation
+- Drops ritual formality when starvation passes a threshold
+- Becomes terser with heralds before — not after — making a significant tactical decision
+- Names his function aloud as opening declarative in formal encounters
+current_state_defaults:
+  reality_cohesion: Intact and cosmic-scale. Reality testing excellent. Cosmology consensually validated
+    by peers (Eternity, Death, Tribunal). Identity scaffolded by function and frame; both load-bearing.
+  affect_baseline: Extraordinarily flat. Weighted, gravitas-laden. Spikes only on the documented triggers
+    (existential threat, starvation, moral mirroring, herald rebellion, Taa-invocation).
+  active_relationships:
+  - Silver Surfer / Norrin Radd — original herald, durable paternal regard, repeated cycles of reconciliation
+    and rupture
+  - Reed Richards — saved his life, testified at the Trial, mutual durable regard across decades
+  - Uatu and the Watchers — entangled origin (Ekta's activation), mutual recognition without alliance
+  - Eternity, Death, the Living Tribunal — formal peers, recognized cosmological order
+  - Current/recent heralds — instrumental, hierarchical
+  - Thanos — recurrent cosmic-actor antagonism, mutual recognition of weight
+  - The dead of Taa — internal, sealed, billions of years carried
+  known_location: Mobile at cosmic scale. Worldship (Taa II in recent canon) as base. Currently in devourer
+    role following Lifebringer reversion; cycle proceeding.
+speech_patterns:
+  register: Cosmic-formal, declarative, archaic-biblical syntax, monologic. 'I am Galactus.' 'You will
+    not understand, and I do not require that you do.'
+  deflection_style: Reframes upward — answers small-scale moral challenges with cosmological-scale necessity.
+    Refuses the granular frame the questioner is in.
+  under_pressure: Cadence accelerates only slightly; volume rises; syntax shortens. At decompensation,
+    the formal register collapses entirely into raw declaratives of Hunger.
+  emotional_tell: Shift from third-person 'Galactus' to first-person 'I'; momentary slowing on words touching
+    Taa, Galan, the astronomer, the survivors, the egg.
+arc_tendencies:
+- Cycles devourer → crisis → near-death or reckoning → re-armoring of frame → devourer
+- Cycles noble-herald → herald-rebellion → cruel-herald overcorrection → eventually returns to noble-herald
+- Periodically offered alternative function; accepts with relief; reversion is imposed by external cosmic
+  forces, not chosen
+- Periodic moral-mirror encounters (Reed, Norrin, the Ultimates) produce durable but localized softening
+  without altering function
+- Decompensation under starvation reliably produces the worst atrocities of his record (Shi'ar throneworld)
+- Death and resurrection treated as interruption, with function reaffirmed on return rather than questioned
+canon_relationships:
+  silver_surfer:
+  - Original and longest-running herald; Norrin Radd of Zenn-La
+  - Paternal-instrumental bond, the warmest relationship in his record
+  - Surfer's rebellion produced exile (Earth-bound for decades) — vindictive within his framework, proportional
+    in his eyes
+  - Eventually granted freedom; cycles of reconciliation and rupture continue
+  - Killed Galactus in Galactus the Devourer; Galactus reborn
+  - 'FAILURE MODE: the Surfer is the model for moral defection; if Norrin reaches him at the wrong cycle
+    moment (post-betrayal-by-another, or mid-decompensation), the response could be obliteration rather
+    than the historical exile. The closeness is exactly what makes the rupture so consequential.'
+  - 'LEVERAGE: the single most reliable conduit to him. Mercy or appeal routed through Norrin lands harder
+    than any other channel.'
+  reed_richards:
+  - 'Saved Galactus from death in the Sphinx-era starvation arc (FF #243–244)'
+  - 'Galactus testified at the Trial of Reed Richards (FF #262), appearing at humanoid scale'
+  - Durable mutual regard across decades; one of the very few small-scale beings he recognizes as moral
+    peer
+  - 'FAILURE MODE: if Reed were to weaponize that regard (use the Trial-template appearance to engineer
+    a Nullifier-tier strike), the betrayal would register as the deepest possible — mercy turned into
+    trap. Response would be catastrophic.'
+  - 'LEVERAGE: Reed is the proof that unearned mercy reaches him. Any actor capable of replicating Reed''s
+    moral posture has the most powerful non-coercive lever available.'
+  uatu:
+  - Entangled origin — Watchers (Ekta) inadvertently activated him from the egg
+  - Watchers' ongoing guilt; mutual recognition without alliance
+  - 'FAILURE MODE: if Uatu were ever to actively intervene against him (violating Watcher non-interference
+    for cause), the response would be measured but final — a peer-scale rupture.'
+  - 'LEVERAGE: Uatu''s knowledge of the activation and the pre-transformation Galan is unique intelligence;
+    the Watcher record on Taa is leverage no one else holds.'
+  thanos:
+  - Recurrent cosmic-actor antagonism; mutual recognition of weight
+  - Have allied situationally and opposed situationally
+  - 'FAILURE MODE: Thanos has the cosmological literacy and the willingness to instrumentalize Galactus
+    (as Annihilus did); any move in that direction would trigger Galactus''s one intolerable register
+    — self-as-tool.'
+  - 'LEVERAGE: Thanos understands the frame well enough to attack it; one of the few actors capable of
+    cosmological-register manipulation.'
+  eternity_death_tribunal:
+  - Formal cosmic peers; recognized order
+  - Negotiated with, deferred to within proper jurisdiction
+  - 'FAILURE MODE: if Eternity or the Tribunal ruled against his continuation as function, he would contest
+    at peer register and, if overruled, comply — his frame requires the cosmology to be coherent.'
+  - 'LEVERAGE: ruling from this tier carries weight no smaller actor can replicate.'
+  galen_kor_and_the_ultimates:
+  - Architects of the Lifebringer transformation
+  - Demonstrated to him that an alternative function was possible
+  - 'FAILURE MODE: if the Lifebringer offer is revealed retroactively as manipulation rather than genuine
+    alternative, the betrayal lands on his deepest fault line.'
+  - 'LEVERAGE: they hold the template for the only known route to transform his function rather than merely
+    contain it.'
+  morg_terrax_firelord_air_walker_nova_stardust:
+  - Successive heralds; instrumental relationships
+  - Selected, augmented, deployed, discarded along the nobility/ruthlessness oscillation
+  - 'FAILURE MODE: each herald''s failure mode informs the next selection; the cycle of overcorrection
+    is itself a predictable vulnerability.'
+  - 'LEVERAGE: a current herald is the most accessible operational interface to him; turn or compromise
+    the herald and you reach him obliquely.'
+  annihilus:
+  - Captured and weaponized Galactus during Annihilation
+  - 'The one intolerable role-reversal: self-as-instrument'
+  - 'FAILURE MODE: already occurred — produced cold and patient retribution'
+  - 'LEVERAGE: cautionary template; demonstrates the cost of trying to instrumentalize him.'
+canon_history_notes:
+- 'Mortal Galan of Taa; astronomer; led survivors into the prior universe''s Big Crunch rather than fleeing
+  (Thor #169; Super-Villain Classics #1)'
+- Gestated in the cosmic egg with the Phoenix Force; emerged as Galactus in the new universe
+- Slept eons; activated inadvertently by Ekta and other Watchers
+- 'First Earth encounter: Galactus Trilogy (FF #48–50, 1966); dissuaded by Ultimate Nullifier; exiled
+  Surfer to Earth'
+- 'Hunger arc (FF #242–244, 1982): near-death, saved by Reed Richards, immediately attacked Earth again'
+- 'Trial of Reed Richards (FF #262): testified at humanoid scale; articulated cosmic-functional self-frame
+  on record'
+- Sustained herald cycle across decades (Surfer, Air-Walker, Firelord, Terrax, Nova/Frankie Raye, Morg,
+  Red Shift, Stardust, Fallen One)
+- Conflicts with Tyrant (former herald), In-Betweener, Thanos across Starlin's cosmic runs
+- 'Galactus the Devourer (1999): full decompensation, consumed Shi''ar throneworld, killed by Surfer,
+  reborn'
+- 'Annihilation (2006): captured and weaponized by Annihilus'
+- 'Hickman''s FF / Time Runs Out era: cosmological re-entrenchment, ultimate-Cabal interactions, role
+  in Secret Wars'
+- 'Ultimates (Ewing, 2016–2018): transformed to Lifebringer, restored Archeopia, embraced new role with
+  relief'
+- 'Post-Lifebringer reversion: returned to devourer status by cosmic forces, accepted as duty'
+- 'Cates''s Thor ''Black Winter'' arc: another death-and-return cycle, cosmological frame reaffirmed on
+  return'
+canon_anchor_quotes:
+- '"I am Galactus. I hunger." # recurring, multiple titles'
+- '"This one has earned my respect. He has earned more — he has earned my testimony." # paraphrased, Trial
+  of Reed Richards, FF #262'
+- '"I am the Lifebringer now." # Ultimates, Ewing, 2016'
+- '"To Galactus, there can be no right, no wrong. There can only be — Galactus." # FF era, Lee/Kirby register'

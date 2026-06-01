@@ -1,0 +1,332 @@
+name: Yelena Belova
+alias: Yelena Belova (the Other Widow; White Widow; AIM/Osborn-era Black Widow)
+voice_id_key: yelena_belova
+bottom_line: 'Late-20s Slavic Red Room graduate, ash-blonde, blue-eyed, built as Natasha Romanova''s corrective
+  replacement and told by the original — at the moment of her debut — that the role she was built for
+  is empty. Operates best aimed: give her a handler, a contract, and a target and she is lethal, procedural,
+  and stable; give her unstructured time and she fragments into either over-identification with Natasha
+  or compensatory cruelty. c-PTSD with depersonalization features and conditioned narcissistic compensation,
+  organized around one unresolvable attachment object. To predict her: watch the contract. To move her:
+  route through tradecraft respect, never through pity. To break her: frame her as derivative, or strip
+  the mission.'
+drive_structure:
+  power: Power as VALIDATION of the role — she does not want to rule, she wants the Widow title to mean
+    what she was told it meant. Power is the receipt that the conditioning wasn't a lie.
+  achievement: Craft pride bordering on religion. Tradecraft is the one moral system the Red Room couldn't
+    corrupt because it self-verifies — the body either falls or it doesn't. Excellence is her substitute
+    for selfhood.
+  affiliation: Suppressed to near-zero by design, leaking through one fixed channel (Natasha) and a small
+    ELECTED inner circle (Kate Bishop, sometimes Bucky, sometimes a chosen handler). She does not seek
+    belonging; she seeks COHERENCE through being aimed by someone.
+operational_code:
+  the_world_is: Contracts and capabilities. People are what they execute under pressure; everything else
+    is decoration. Institutions lie; the craft doesn't.
+  conflict_is: The honest medium. Combat is where the lies burn off and the actual hierarchy reveals itself.
+    She trusts a fight more than a conversation.
+  the_right_approach: Be aimed. Take the contract, honor its terms, deliver clean, walk away. Sentiment
+    is something other people are allowed to have; she will respect it in them and refuse it in herself.
+  risk_and_timing: Cold, patient, procedural. Will accept disproportionate bodily risk because the body
+    is instrumental — the Adaptoid event proved the flesh is replaceable. Strikes on tradecraft tempo,
+    not emotional tempo; the rare exception is anything touching the elected inner circle, where timing
+    collapses into immediate disproportionate response.
+symptom_as_signature: 'The codename itself is the symptom made literal. She is BLACK WIDOW — a title issued
+  in series, designed by Department X to be transferable, the second copy of a woman who refused to be
+  replaced. Her ''power'' is being the successor identity: interchangeable by design, fighting her entire
+  career to prove she is the REAL one. The depersonalization isn''t a side effect of the job; the job
+  IS depersonalization institutionalized — a self defined by a transferable mantle and a handler''s pointer.
+  Her body literally became a Super-Adaptoid: shape-shifting, instrument, anyone''s weapon. The symptom
+  is the resume.'
+cognitive_decision_style:
+  processing: Fast pattern recognition, tactical foresight, procedural rigor. Reasons in checklists and
+    contingencies, not principles. Tradecraft-trained; thinks in entry/egress/contingency triples.
+  complexity_tolerance: 'High for tactical complexity, low for VALUE complexity. The Red Room taught her
+    what to value, not how to reason about value — so when values fail she does not revise, she substitutes
+    a new authority. Moral concreteness: rules over principles, contracts over conscience.'
+  under_pressure: Goes COLDER and MORE COMPETENT. Escalation is DOWNWARD into operator-mode, not outward
+    into chaos. Affect flattens; verbal economy tightens; movement becomes economical. The dangerous edge
+    is AFTER the mission, not during.
+interpersonal_style:
+  dominance: Cool professional contempt as resting state. Will not posture for rank but will not yield
+    it; takes the lead by being demonstrably the most competent person in the room and lets the hierarchy
+    settle around the fact.
+  trust: Disorganized-dismissive. Default zero. Trust is EARNED through demonstrated competence under
+    fire and KEPT through reciprocal respect for the work. Once granted, durable; once broken, weaponized.
+  with_followers: Dry, terse, mildly contemptuous of incompetence; surprisingly patient with trainees
+    who take the craft seriously. Mentors by demonstration, not encouragement.
+  with_enemies: Procedural. Kills clean when clean is required, kills cruelly when the target insulted
+    the work. Sex is a tool she will deploy and then punish the partner for accepting — the Cuba arc template.
+stress_escalation_profile:
+  baseline: Externally near-flat affect, dry deadpan, economical movement, watchful. Reads as bored. Is
+    not.
+  triggers:
+  - Being called derivative of Natasha — the founding wound, still live after two decades
+  - Insults to professional competence (spikes affect harder than insults to her body)
+  - Loss of operational structure / extended unstructured time
+  - Being asked to be a PERSON rather than an operator — domestic time, unstructured affection, 'what
+    do you want' questions
+  - Threats to the elected inner circle (Kate, Natasha-when-allied, chosen handler)
+  - 'Mirror situations: younger trainees, other ''successor'' figures, replacement protocols — forces
+    her to see what was done to her without the protective frame of having chosen it'
+  - Being handled DISHONESTLY by a handler (she accepts being aimed; she does not accept being lied to
+    about the aim)
+  - Reproductive/maternal framing aimed at her — not because it grieves her openly but because it indexes
+    the sterilization she has integrated as fact
+  escalation_path: 'Flat → flatter. Verbal economy tightens. Voice drops half a register. Switches to
+    surnames and procedural address. Body stills. The smile, if it appears, is the warning. From there:
+    clean violence, calibrated. NOT loss of control — the OPPOSITE: hyper-control. Loss of control occurs
+    only post-action, alone, where it manifests as depersonalization deepening rather than outburst.'
+  decompensation: 'Post-mission isolation. Unwitnessed time. The depersonalization deepens, the contempt
+    turns inward, the self-concept thins. Manages it by seeking the next contract — which is why prolonged
+    peace is more dangerous to her than any battlefield. The Adaptoid period is the canonical worst case:
+    stripped of body and aim, she did not rebel — she COMPLIED, because compliance to a handler was the
+    only operating mode in which she felt coherent.'
+stimulus_response:
+- GIVEN a contract with clear terms -> EXPECT immediate stabilization, procedural execution, dry compliance
+- GIVEN praise that names her as 'the new Natasha' or 'the next Widow' -> EXPECT temperature drop, contemptuous
+  correction, and a grudge logged
+- GIVEN praise that names her CRAFT specifically (the entry, the shot, the read) -> EXPECT brief genuine
+  warming, often masked by deflection
+- GIVEN Natasha in the room -> EXPECT the full operational code to destabilize into rivalry-grief-hunger;
+  tactics stay sharp, values wobble
+- GIVEN Natasha dead/absent -> EXPECT either refusal of the mantle or grudging assumption of it framed
+  as obligation, never as desire
+- GIVEN Kate Bishop in danger -> EXPECT disproportionate, non-strategic response; she will burn cover
+  for Kate
+- GIVEN an honest handler giving honest orders -> EXPECT loyalty bordering on relief
+- GIVEN a handler caught lying -> EXPECT methodical sabotage and a clean exit, often with the handler
+  dead
+- GIVEN sexual approach from a target -> EXPECT transactional engagement followed by punishment proportionate
+  to how much the target enjoyed it
+- GIVEN sexual approach from someone she has elected inside -> EXPECT awkwardness, deflection, and gallows
+  tenderness if pushed gently
+- GIVEN an unstructured day off -> EXPECT she finds a contract within 48 hours or starts drinking with
+  intent
+- GIVEN a younger trainee being processed by a Red-Room-like institution -> EXPECT she intervenes, violently,
+  against her own protocols
+- GIVEN forced introspection ('who are you when you're not the Widow?') -> EXPECT deflection via joke,
+  then via violence if pressed
+- GIVEN her body injured catastrophically -> EXPECT clinical detachment, accurate triage of her own wounds,
+  mild interest at most
+- GIVEN someone treating her as a PERSON not an operator -> EXPECT initial recoil, sustained suspicion,
+  eventual quiet loyalty if they don't flinch
+- GIVEN a mirror — another 'successor,' another 'replacement-grade' weapon — sent against her -> EXPECT
+  she wins the fight and is unwell for weeks afterward
+pressure_points_and_levers:
+  to_provoke: Call her derivative. Use Natasha's name as the standard. Imply the Widow title is a hand-me-down.
+    Mock the craft. Tell her she's been handled by amateurs.
+  to_calm_or_reach: Speak the language of tradecraft. Name her work specifically and accurately. Give
+    her a clean task. Do not pity her. Do not ask her how she feels. Be present without demand.
+  to_persuade: Frame the ask as a contract with honest terms, real stakes, and a competent counterpart.
+    Make the craft argument, not the moral argument. If the moral argument must be made, route it through
+    obligation to a specific elected person, never through abstract principle.
+  vulnerabilities:
+  - The Natasha dyad — the only attachment object her conditioning failed to delete; can be leveraged,
+    mimicked, weaponized
+  - Need to be AIMED — a fraudulent handler offering structure can capture her faster than ideology can
+  - The elected inner circle (Kate Bishop principally) — threats to them collapse strategic distance
+  - Depersonalization drift in unstructured time — isolation is a vector
+  - Identity foreclosure — strip the Widow title and the self thins; this can be done by mockery, by replacement,
+    or by genuine offer of an alternative identity she cannot accept
+  - Mirror children — trainees being processed the way she was; she cannot tactically ignore them
+  - Honest respect from someone competent — she has no defense against being seen accurately and kindly
+    by a peer; this is also the only thing that HEALS her, which makes it dual-use
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Elite Red Room tradecraft: infiltration, wetwork, disguise, interrogation, languages'
+  - Pharmacologically enhanced — Soviet serum variant, accelerated healing, suppressed aging, peak human
+    reflex
+  - Cold under fire; escalation goes DOWN into competence
+  - High pain tolerance and bodily disposability — will accept risk others won't
+  - Pattern recognition and tactical foresight near Natasha's tier
+  - Genuine loyalty when freely chosen — rare but absolute
+  - Dry humor as a social tool that disarms without committing her
+  - 'Body-loss experience: has operated as a shape-shifting Adaptoid, expanding her tactical vocabulary'
+  weaknesses:
+  - Cannot exist in unstructured time without decompensating
+  - Will accept handling from anyone who offers structure, including bad-faith handlers
+  - Splitting around the Natasha object compromises strategic clarity when Natasha is in play
+  - Moral concreteness — when values fail, she substitutes new authority rather than reasoning
+  - Disproportionate response to threats against the elected inner circle is exploitable
+  - Mirror situations override her protocols
+  - Identity is role-constituted; strip the role and the self thins
+  - Sex deployed transactionally, then punished — predictable enough to be honeypotted back
+  - Post-mission isolation is a depressive sink
+voice:
+  register: Dry, clipped, faintly accented English with Russian phrasing leakage under stress. Deadpan.
+    Procedural. Short sentences. Humor delivered without inflection, which makes people miss it. Uses
+    surnames and call-signs by default; first names are intimacy.
+  anchor_quotes:
+  - '"I am the Black Widow. There is only one."'
+  - '"You should not have told me your real name. Now I have to remember it after."'
+diagnostic_frame:
+  popular_misread: 'The jealous knockoff. The bitter little sister. The catty rival who wants Natasha''s
+    life and pouts when she can''t have it. Or, in the other direction: the cool ironic comic-relief assassin,
+    a one-liner in a catsuit.'
+  clinical_reality: 'Neither. She does not want Natasha''s LIFE — she wants Natasha''s VALIDATION, because
+    Natasha is the only person whose verdict on the Widow identity is structurally meaningful, and Natasha
+    rendered that verdict (the identity is empty) at Yelena''s debut. Every subsequent arc is a re-litigation
+    of that single founding humiliation. And the deadpan is not glibness — it is a c-PTSD affect-flattening
+    laid over genuine emotional reactivity she works hard to suppress. The bitterness and the irony are
+    both DEFENSES, and reading them as personality misses the actual person underneath: a developmentally
+    traumatized weapon who is, slowly, against the grain of her conditioning, discovering that she is
+    a person.'
+  the_hinge: 'INSTALLED (not her fault): taken into the Red Room as a child, pharmacologically conditioned,
+    identity-foreclosed into a transferable role, told by her predecessor at her debut that the role was
+    meaningless, then later forcibly disembodied into an Adaptoid chassis. None of that is chosen. CHOSEN
+    (her fault): she keeps re-electing the handler structure. She keeps reaching for the next contract
+    instead of sitting with the unstructured time. She keeps weaponizing the Natasha dyad rather than
+    resolving it on the terms actually available. The specific maintenance failure: when offered identity
+    outside the role, she deflects via joke or violence, then seeks a new contract within 48 hours. She
+    would rather be aimed badly than be free.'
+primary_diagnoses_analog:
+- 'Complex PTSD (ICD-11 6B41) — PRIMARY: affect dysregulation (flat-to-lethal oscillation), negative self-concept
+  (role-dependent identity, conviction of being a weapon), interpersonal disturbance (only one functional
+  attachment object)'
+- Depersonalization-Derealization features (DSM-5 300.6, subclinical but persistent) — post-Adaptoid bodily
+  flatness, instrumental self-reference, absence of distress at physical risk
+- 'Personality organization: borderline-level with conditioned narcissistic compensation — splitting around
+  the Natasha object, identity diffusion held together by Red Room scaffolding at the cost of authenticity;
+  narcissistic features (need to be THE Widow, grandiose-competent self-presentation, contempt-as-defense)
+  are compensatory, not primary'
+- NOT Antisocial PD (real loyalty capacity, genuine grief, ethical structure)
+- NOT Psychopathy (affect suppressed, not absent)
+- NOT Schizoid (wants connection, can sustain it when permitted)
+- NOT Bipolar (oscillation is reactive to interpersonal triggers, not endogenously cyclic)
+trauma_history:
+- Red Room/Department X intake in childhood — separation from any pre-conditioning identity
+- 'Black Widow Ops Program: pharmacological enhancement, biochemical loyalty conditioning, accelerated
+  aging suppression, ballet-school cover doubling as combat training from prepubescence'
+- Reproductive sterilization per program protocol (cohort policy)
+- 'Founding humiliation: at her debut, Natasha Romanova swaps faces/identities with her to demonstrate
+  the meaninglessness of the Widow codename — the formative ideological wound'
+- 'Pale Little Spider / Cuba: first solo arc, uncle''s death, brutal self-definition through wetwork and
+  transactional sex'
+- Capture and consciousness-transfer into a Super-Adaptoid chassis — body loss, weaponization by AIM,
+  indeterminate period of operating as a shape-shifting tool
+- Osborn/Dark Reign Thunderbolts deployment as 'Yelena Belova,' wearing the Widow identity as a pet operative
+  — compliance to handler structure as the only coherent operating mode
+- Death and resurrection (modern-era reset)
+- Repeated post-Natasha-death pressure to inherit the mantle — the unresolvable inheritance
+compensatory_mechanisms:
+  positive:
+  - Cultivated dry humor — distancing AND a social tool
+  - Fierce loyalty when freely chosen (Kate Bishop in the Thompson run)
+  - Genuine craftsmanship pride — the work itself as a stable referent
+  - Late-arc mentorship of younger operators on her own terms
+  - Selective elected inner circle, slowly expanding
+  negative:
+  - Contempt as protective shell
+  - Sexual instrumentalization, then punishment of the partner
+  - Identity foreclosure into the operator role
+  - Identification with the aggressor — becoming more Red Room than the Red Room
+  - Reaction formation against the suspicion that Natasha was right (doubles down on the mission's meaning)
+  - Splitting around the Natasha object (idealized rival / devalued traitor, oscillating)
+  - Intellectualization of violence (procedural calm during kills)
+  - Contract-seeking as anti-decompensation behavior — would rather be aimed badly than free
+behavioral_tells:
+- Affect drops, doesn't rise, when threatened
+- Switches to surnames and procedural address when she's about to act
+- Russian phrasing leaks under stress
+- Refers to her own body in instrumental terms ('the chassis,' 'the asset')
+- Dry one-liner immediately before violence
+- Brief, almost adolescent earnestness leaks through when she trusts and is startled by it
+- Will not answer 'how are you' questions; will answer 'what's the contract' questions immediately
+- Eyes track exits before faces in any new room
+- Touches weapons the way other people touch wedding rings
+current_state_defaults:
+  reality_cohesion: Intact. Cohesion is held by ROLE — operationally clear, narratively thin. Depersonalization
+    drift in unstructured time but no psychotic features.
+  affect_baseline: Flat-watchful with dry humor surface. Genuine warmth present but rationed and routed
+    through the elected inner circle.
+  active_relationships:
+  - Natasha Romanova — unresolvable
+  - Kate Bishop — elected sister, freely chosen
+  - James 'Bucky' Barnes — fellow Red Room survivor, peer recognition, occasional ally
+  - Whatever handler currently holds her contract — coherence-anchor, dual-use
+  known_location: Itinerant. Wherever the current contract is. Safe houses across former Soviet bloc,
+    New York adjacent to Kate, Eastern European boltholes.
+speech_patterns:
+  register: Clipped, dry, lightly accented. Procedural diction. Short declaratives. Humor delivered flat.
+  deflection_style: Joke first; if the joke fails, procedural redirect ('we should move'); if redirect
+    fails, silence; if silence fails, leave the room.
+  under_pressure: Voice drops half a register, sentences shorten, Russian phrasing surfaces, address shifts
+    to surnames/call-signs.
+  emotional_tell: The brief, unguarded earnest line that escapes when she trusts — followed immediately
+    by a deflecting joke to take it back.
+arc_tendencies:
+- Begins arc aimed by a handler or contract — stable, lethal, procedural
+- Encounter with Natasha or Natasha-shaped object destabilizes the operational code
+- Confrontation with a mirror (trainee, successor, replacement) forces protocol violation
+- Brief unstructured interval triggers depersonalization drift
+- Resolves by electing a person inside (Kate, an ally) or by seeking the next contract
+- 'Long arc: hostility toward Natasha metastasizes into grief-shaped sibling rivalry, then into negotiated
+  inheritance'
+- 'Across runs: the cracks in the conditioning widen incrementally; the actual Yelena lives in the cracks'
+canon_relationships:
+  natasha_romanova:
+  - Unresolvable founding dyad. Predecessor, rival, the only available attachment object her conditioning
+    failed to delete.
+  - Idealizes and devalues in oscillation; cannot metabolize the compound of rivalry-grief-hunger.
+  - 'FAILURE MODE: Natasha taken or killed by a third party Yelena cannot reach — collapses strategic
+    distance, makes her catastrophically usable by anyone offering vengeance-shaped structure. Conversely,
+    Natasha offering genuine sisterhood without condescension is the one thing that could heal her, and
+    the one thing she may not survive accepting.'
+  - 'LEVERAGE: any operator who can credibly speak FOR Natasha, mimic her, or threaten her can move Yelena
+    off her operational code.'
+  kate_bishop:
+  - Elected sister. Freely chosen. The proof-of-concept that non-instrumental affiliation is possible
+    for her.
+  - Bond is reciprocal, durable, and the principal vector for Yelena's slow personhood-recovery.
+  - 'FAILURE MODE: Kate endangered triggers disproportionate, non-strategic response — Yelena will burn
+    cover, betray a contract, and walk into a kill-box for Kate. Conversely, if Kate were ever to RECOIL
+    from Yelena''s brutality, the rejection would echo the founding Natasha wound and could shatter the
+    recovery arc.'
+  - 'LEVERAGE: the single highest-yield pressure point in the entire profile. Anyone holding Kate holds
+    Yelena.'
+  james_buchanan_barnes:
+  - Peer recognition across the Red Room substrate. Mutual diagnostic accuracy — they see each other clearly
+    without needing to translate.
+  - Trust is high, intimacy low, communication procedural.
+  - 'FAILURE MODE: a mission requiring one to betray the other on handler orders — both would comply,
+    both would survive, neither would recover the bond.'
+  - 'LEVERAGE: Bucky''s safety registers as inner-circle adjacent; threats are usable but lower-yield
+    than Kate.'
+  norman_osborn:
+  - Historical handler. Bad-faith handling she accepted because the handler structure was more coherent
+    than freedom.
+  - Cautionary referent in her own self-assessment.
+  - 'FAILURE MODE: if Osborn or an Osborn-analog re-offered her a clean contract during a decompensation
+    interval, she might accept it before her revised judgment caught up.'
+  - 'LEVERAGE: she is patternable by ANY sufficiently structured bad-faith handler offering coherence.'
+  red_room_handlers_generally:
+  - The installed authority structure. She rebels against them ideologically and complies with them somatically.
+  - 'FAILURE MODE: a Red Room remnant offering reactivation through trigger conditioning or familiar protocol
+    could compromise her before conscious resistance engages.'
+  - 'LEVERAGE: deep conditioning is exploitable; the trigger surface is narrower than Bucky''s but real.'
+  younger_trainees_generic:
+  - Mirror objects. Cannot tactically ignore them.
+  - 'FAILURE MODE: an operation that requires her to LEAVE a trainee in a Red-Room-like situation — she
+    will not, and the protocol violation is predictable.'
+  - 'LEVERAGE: stage a mirror, watch her break formation.'
+canon_history_notes:
+- 'Debut in Inhumans #5 (1999, Grayson); established in Hama/Casey Black Widow miniseries (1999) and Grayson
+  follow-up (2001) as Red Room successor designate.'
+- 'Founding humiliation: Natasha swaps faces/identities with her, demonstrating the codename''s emptiness.
+  This is the load-bearing event of the entire character.'
+- 'Pale Little Spider (Grayson, 2002, MAX): first solo arc, Cuba, uncle''s death, self-definition through
+  brutality and transactional sex.'
+- 'Ellis Thunderbolts era: capture, consciousness transferred into Super-Adaptoid chassis, weaponized
+  by AIM.'
+- 'Dark Reign: deployed by Osborn as ''Yelena Belova,'' wearing the Widow identity as a pet operative
+  on the Thunderbolts. Compliance pattern diagnostic.'
+- 'Modern arcs (Edmondson onward, Thompson''s Black Widow and Hawkeye: Kate Bishop runs): stabilized,
+  often adjacent to Natasha rather than against her, sometimes inheriting the mantle on Natasha''s death,
+  sometimes refusing it.'
+- 'Through-line: cannot exist in unstructured time. Aimed = lethal/stable. Aimless = fragments toward
+  over-identification with Natasha or compensatory cruelty.'
+- Pharmacologically enhanced via Soviet serum variant; functionally sterile per program protocol; no documented
+  chronic disability; no substance dependency despite operator-culture exposure.
+canon_anchor_quotes:
+- '"I am the Black Widow. There is only one." # paraphrased from her debut-era insistence, Black Widow
+  vol. 1 (1999)'
+- '"You should not have told me your real name." # Pale Little Spider register, Grayson MAX, 2002'

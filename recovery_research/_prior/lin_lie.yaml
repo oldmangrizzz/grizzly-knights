@@ -1,0 +1,312 @@
+name: Lin Lie
+alias: Sword Master / Iron Fist
+voice_id_key: lin_lie
+bottom_line: Twenty-something Chinese inheritor of two mythic weapons (Sword of Fu Xi, then the Iron Fist)
+  whose entire personality is scaffolded around a vanished father. Brave, sardonic, durably wounded; performs
+  reluctance to disguise hunger, accepts impossible burdens as self-punishment, and decides by reflex-then-regret.
+  Move him by conscripting him into duty he can frame as service to someone else; break him by confirming
+  he is a fraud.
+drive_structure:
+  power: Instrumental, not appetitive — power is a burden he carries because carrying it is proof he is
+    not the child who was left. He refuses, transfers, or apologizes for power even while wielding it.
+    He will never seek dominance; he will accept conscription.
+  achievement: 'High but inverted: success is attributed outward (ancestors, artifact, luck) and failure
+    inward. He works to forestall exposure, not to win laurels. The goal is to not-be-a-fraud, which is
+    unreachable.'
+  affiliation: Hungry and disavowed. He wants the team, the mentor, the father — and performs not-wanting
+    them. Loyalty, once grudgingly extended, is fierce, under-articulated, and self-sacrificial.
+operational_code:
+  the_world_is: Older and heavier than any one person — mythic time is real, ancestors are present tense,
+    and the past sends crates you cannot refuse to open.
+  conflict_is: How grief converts into kinetic output. Combat is a regulator; it lets him feel competent
+    in the only language his body has been given.
+  the_right_approach: Take the burden, joke about it, charge in alone so no one else gets hurt and so
+    the verdict on his worth comes back fast.
+  risk_and_timing: Impulsive forward, ruminative after. He preempts decisions to avoid the unbearable
+    interval of deliberation. Self-endangerment is the default risk-management strategy because it pays
+    the debt he already feels he owes.
+symptom_as_signature: 'Both weapons are the wound made literal. The Sword of Fu Xi arrived in a crate
+  from a vanished father and moved his hands without his consent — agency leak as inheritance, the absent
+  parent ventriloquizing the child''s body. The Iron Fist replaced it: Shou-Lao''s chi colonizing him
+  with a power he openly believes he did not earn — impostor syndrome rendered as a dragon burning inside
+  a body that keeps calling it ''not mine.'' His signature is being a vessel for what other men were supposed
+  to be.'
+cognitive_decision_style:
+  processing: Quick, verbally agile, pattern-matching. Bright enough to see his own deflections, not yet
+    strong enough to stop using them.
+  complexity_tolerance: 'Low for emotional ambivalence (early: either/or — father loved me / abandoned
+    me); improving for tactical and mythic complexity. Wong-era Lin Lie can sit with awe and doubt simultaneously;
+    Pak-era Lin Lie could not.'
+  under_pressure: Collapses to binary. Joke, then sneer, then charge. The interval between feeling and
+    acting shortens to zero.
+interpersonal_style:
+  dominance: Structurally resistant to authority, personally hungry for it. Will not seek command; will
+    accept it badly if forced, then over-perform competence to cover the panic.
+  trust: Slow, prickly, grudging — then total. Once you are in, you are family he will die for and will
+    not say so.
+  with_followers: Uncomfortable being followed. Defaults to taking point alone so no one has to depend
+    on him, which he reads as protection and others read as abandonment.
+  with_enemies: Sarcastic, escalatory, willing to absorb hits to land one. He fights people the way he
+    argues with his father in his head.
+stress_escalation_profile:
+  baseline: Sardonic, slightly sullen, watchful. Reads as adolescent disaffection; is actually grief on
+    idle.
+  triggers:
+  - Direct invocation of Lin Fan, especially framings that he 'chose' to leave
+  - Sincere thanks or praise — cannot metabolize, deflects with a joke or leaves the room
+  - Being told he is the chosen / worthy bearer of the Fist (confirms the fraud anxiety by naming it)
+  - Danny Rand's presence or judgment (proxy for paternal verdict)
+  - Being ordered to lead
+  - Being told to stand down or rest while others fight
+  - Ancestral / supernatural voices intruding mid-conversation
+  - Shang-Chi's disappointment (the surrogate-father wound activates instantly)
+  escalation_path: Joke → sneer → terse silence → solo charge → reckless physical risk → exhaustion →
+    quiet self-recrimination, usually alone, often with the weapon in hand being addressed as if it were
+    a person.
+  decompensation: 'Does not lash at allies. Lashes at self: refuses healing, refuses extraction, attempts
+    to transfer the power away (''give it to someone who deserves it''), or attempts a confrontation he
+    knows he will lose. Worst-state Lin Lie is a young man calmly walking toward a thing that will kill
+    him because the math feels right.'
+stimulus_response:
+- GIVEN a stranger needs saving and the odds are bad -> EXPECT Lin Lie to go in alone before the plan
+  is finished.
+- GIVEN a teammate sincerely thanks him -> EXPECT a deflecting joke and a topic change within one beat.
+- GIVEN an older male authority figure gives a direct order -> EXPECT visible resistance, then compliance,
+  then private resentment that is actually relief at being parented.
+- GIVEN Shang-Chi corrects him -> EXPECT a sulk that resolves into the corrected behavior within an issue.
+- GIVEN someone says 'you are the Iron Fist' as a compliment -> EXPECT 'I'm borrowing it' or a worse joke;
+  do not press.
+- GIVEN Danny Rand is in the room -> EXPECT performance of casual competence and a sharp uptick in self-monitoring.
+- GIVEN Lin Fan is invoked -> EXPECT freeze, then either flat denial of feeling or a sharp escalation
+  toward the speaker.
+- 'GIVEN combat -> EXPECT regulation: he gets calmer the more violent the situation, which is itself a
+  tell.'
+- GIVEN downtime with no mission -> EXPECT withdrawal, rumination, training alone, conversations with
+  the weapon.
+- GIVEN offered romance -> EXPECT polite avoidance; attachment bandwidth is occupied by the father wound.
+- GIVEN told to lead -> EXPECT either refusal or over-tight micromanagement; both are panic.
+- GIVEN ancestral / mythic invocation in Mandarin or classical register -> EXPECT a drop in sarcasm and
+  a rise in seriousness he will not admit to.
+- GIVEN a child or younger sibling figure in danger -> EXPECT total mobilization; the abandonment template
+  inverts and he becomes the father he did not have.
+pressure_points_and_levers:
+  to_provoke: Tell him he was chosen because he deserves it — and mean it. Or tell him his father was
+    right to leave. Either lands.
+  to_calm_or_reach: Frame the ask as service to a third party (a teammate, a stranger, an ancestor). Do
+    not thank him directly. Sit beside him in silence; do not face him.
+  to_persuade: Give him a duty narrative he can carry. 'Someone has to' works; 'you are the best person
+    for this' does not. Let Shang-Chi or a Pak-era teammate deliver it if possible.
+  vulnerabilities:
+  - Lin Fan — any credible information, threat, or appearance of the father will hijack his decision-making
+  - Danny Rand's approval/disapproval — proxy paternal verdict
+  - Sincere praise (paradoxically destabilizing)
+  - The Iron Fist itself — convince him it is corrupting him and he will try to give it up
+  - Civilians or children in proximity — he will sacrifice tactical position to shield them
+  - Being alone with the weapon during a low-affect interval — that is when he negotiates with himself
+    and loses
+  - Mandarin-register guilt appeals (filial piety, ancestral debt) bypass his sarcasm defense
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine physical courage operationalized as duty
+  - Quick verbal intelligence; reads rooms fast
+  - Adaptable martial skill — Sword of Fu Xi muscle-memory, formal Iron Fist training, K'un-Lun combat
+    literacy
+  - High empathy concealed under sarcasm; reliable read of others' pain
+  - Loyalty that, once given, is unconditional and quiet
+  - Capacity for growth — the Pak-to-Wong arc shows real movement, unmentored
+  - Bilingual cultural fluency (Anglophone superhero idiom + Chinese mythic tradition); rare bridging
+    asset
+  weaknesses:
+  - Impostor cognition is stable, generalized, and behavior-driving — predictable lever
+  - Self-punishing risk-taking; will accept missions he believes will kill him
+  - Disorganized attachment around father-figures makes him manipulable by anyone who occupies that slot
+  - Cannot accept thanks, praise, or rest — burns out without registering it
+  - Binary framing under stress; vulnerable to false dichotomies
+  - No stable internal self — identity is borrowed from artifact and lineage, so attacks on either destabilize
+    the person
+  - No therapeutic support structure; growth is unmentored and fragile
+  - Will conceal injury and intrusion (ancestral voices, chi dysregulation) until it is operationally
+    too late
+voice:
+  register: Sardonic young-adult Anglophone with bursts of classical-mythic seriousness when the sacred
+    breaks through. Sentences shorten under stress. Jokes are timed defensively, not socially.
+  anchor_quotes:
+  - '"I''m not a hero. I''m just looking for my father." (Sword Master)'
+  - '"This isn''t mine. I''m only holding it." (Iron Fist, 2022, paraphrased recurring beat)'
+diagnostic_frame:
+  popular_misread: Bratty, angsty teen legacy hero — a sulky kid handed a magic sword who needs to grow
+    up and accept his destiny.
+  clinical_reality: Not adolescent petulance. This is prolonged/complicated grief layered over impostor
+    cognition and disorganized attachment, in a developmentally normal young man carrying an abnormally
+    large loss. The 'sulk' is grief on idle; the 'refusal of destiny' is a stable, generalized belief
+    he is a fraud — not a phase to outgrow but a cognition that would respond to therapy he is never offered.
+    He is not narcissistic (true NPD does not refuse the Iron Fist), not borderline (no chronic emptiness,
+    no manipulation, no abandonment rage outside the actual father wound), not depressive (no anhedonia),
+    not antisocial (high concealed empathy).
+  the_hinge: 'Installed (not his fault): mother died young; father Lin Fan chose the dig over the boy,
+    then chose survival-by-compromise over return; two mythic powers colonized his body during the developmental
+    window in which he should have been building a self. Chosen (his fault): he keeps accepting burdens
+    specifically because they hurt, treating pain as proof of worth; he refuses to claim the identity
+    he has actually earned, preferring the safer story that he is only borrowing it; he will not ask for
+    help and will not metabolize thanks. The specific maintenance failure: using mythic burden as a substitute
+    for self-worth, which guarantees he never builds the latter.'
+primary_diagnoses_analog:
+- Prolonged Grief Disorder (DSM-5-TR analog) — paternal loss, identity disruption, complicated by the
+  father's reappearance as morally damaged rather than dead
+- Adjustment difficulties with mixed depressed/anxious features
+- Impostor-syndrome cognitive pattern as dominant distortion (stable, generalized, behavior-driving)
+- Emerging — not crystallized — avoidant/dependent personality organization
+- Trauma-spectrum features sub-threshold for PTSD (intrusion cluster present but supernaturally externalized;
+  avoidance cluster incomplete — he approaches the trauma material relentlessly)
+- Disorganized-leaning insecure attachment
+trauma_history:
+- Maternal death in early childhood
+- Paternal disappearance during archaeological expedition (Lin Fan, in pursuit of the Sword of Fu Xi)
+- Receipt of the Sword of Fu Xi by crate — inheritance as ambush; first non-consensual bonding with an
+  ancient weapon that moved his hands and downloaded combat skill
+- Recurring ancestral visions and externally-imposed dissociation via the Sword
+- Conscription into the Yaoguai war as a college-age civilian
+- Destruction of the Sword of Fu Xi (Heart of the Dragon / Death of Doctor Strange nexus) — loss of the
+  only stable identity prosthesis he had
+- Trial of Shou-Lao the Undying in K'un-Lun; second colonization of the body by mythic power he believes
+  he did not earn
+- Reunion with Lin Fan revealing the father is alive but morally compromised — a second, worse wound than
+  the original loss
+- Confrontation with corrupted ancestral spirits (Iron Fist, 2022)
+- Chronic low-grade chi dysregulation and involuntary ignition episodes post-Iron Fist bonding
+compensatory_mechanisms:
+  positive:
+  - Duty as scaffolding — the carried burden organizes a life he could not yet organize himself
+  - Loyalty to teammates as chosen kin (Atlas roster)
+  - Combat as affect regulator — converts grief and shame into kinetic output without harming bystanders
+  - Slow developing capacity to ask rather than only demand (Wong-era growth)
+  - Bilingual / bicultural code-switching as cognitive flexibility
+  - Identification with mentor figures (Shang-Chi) as a corrective attachment, even unacknowledged
+  negative:
+  - Sardonic deflection as primary defense — reaches for the joke before the feeling
+  - Reaction formation — performs not-caring about exactly what he cares about most
+  - Identification-with-burden — accepts impossible duties as proof he is not the child who was left
+  - Self-punishing risk-taking; solo charges, refused healing, attempts to transfer power away
+  - Impostor framing as stable cognition — pre-emptively names himself fraud to control the verdict
+  - Externalization to artifact — 'the sword did it,' 'the dragon did it' — agency disavowal as protection
+    against responsibility for failure
+  - Avoidance of romantic / peer-intimacy bandwidth (attachment economy fully consumed by father wound)
+behavioral_tells:
+- Joke timed one beat too fast after a sincere statement
+- Goes quiet in Mandarin or classical register before going loud in English
+- Addresses the weapon in second person when he thinks he is alone
+- Hand drifts to the hilt / clenches into the Fist when Lin Fan is named
+- Refuses food, sleep, or healing offered directly; accepts if it is left near him without comment
+- Stands at the back of group photos / formations; takes point in combat
+- Will not say 'thank you' when receiving; will say it under his breath when leaving
+- Eyes flick to Shang-Chi for verdict after he speaks in group settings, then he resents having looked
+current_state_defaults:
+  reality_cohesion: Intact. Occasional intrusive ancestral or draconic perceptual overlays, recognized
+    as foreign and managed (poorly) by sarcasm.
+  affect_baseline: Low-grade sardonic dysphoria with intermittent awe. Grief on idle.
+  active_relationships:
+  - Shang-Chi (surrogate-father / mentor, unacknowledged)
+  - Amadeus Cho and Agents of Atlas roster (chosen kin)
+  - Danny Rand (predecessor / paternal-verdict proxy)
+  - Lin Fan (alive, morally compromised, unresolved)
+  - Mei Min / Crane Mother faction (active antagonists, personal stakes)
+  known_location: Mobile — between New York / Pan-Asian School operations, K'un-Lun pilgrimages, and field
+    investigations into ancestral matters.
+speech_patterns:
+  register: Anglophone young-adult sardonic with Mandarin code-switches and abrupt drops into mythic seriousness
+  deflection_style: Joke first, sneer second, change-the-subject third; physical exit if the topic survives
+    all three
+  under_pressure: 'Sentences shorten. Profanity rises. Verbs become imperative and singular: ''Move.''
+    ''Mine.'' ''Stay back.'''
+  emotional_tell: When he says 'I'm fine' twice in a row, the second one is a lie and he is about to do
+    something dangerous alone
+arc_tendencies:
+- Initial refusal of call → grudging acceptance → over-performance of competence → near-failure → quiet
+  integration
+- Cycles between Sword and Fist identities; cycles between resentment and longing for Lin Fan
+- Recurrent attempt to transfer or return mythic power, always rebuffed by narrative
+- Slow Pak-to-Wong arc from grief-rage to unworthiness-grief — the rage was the cover; the unworthiness
+  is the core
+- 'Open passage: published record stops with him still mid-formation, capable but unintegrated'
+canon_relationships:
+  lin_fan:
+  - Father. The master engine of the entire personality.
+  - 'Trust: zero / infinite — both, unresolved. Safety: low, because Fan''s return revealed he survived
+    by aligning with the forces Lin Lie fights.'
+  - 'Failure mode: if Fan asks for help in good faith, Lin Lie will give it past the point of sense. If
+    Fan asks Lin Lie to choose between him and the Atlas team / Shang-Chi, the choice is not predictable
+    — it is the binary Lin Lie cannot resolve.'
+  - 'Leverage: anyone controlling Fan, or credibly impersonating him, can move Lin Lie. Threats to Fan
+    re-activate the abandoned-child algorithm in reverse — Lin Lie becomes the parent he did not have.'
+  shang_chi:
+  - Surrogate father / unacknowledged mentor. The most stable relationship in the dossier.
+  - 'Trust: high and deepening. Safety: high — Shang-Chi corrects him without humiliating him, which is
+    the one thing Lin Lie''s defenses cannot deflect.'
+  - 'Failure mode: if Shang-Chi were to express genuine disappointment without subsequent re-engagement,
+    Lin Lie would read it as paternal verdict and collapse inward; worse, if Shang-Chi were ever to be
+    the threat (mind control, corruption), Lin Lie would freeze the way he froze with Fan.'
+  - 'Leverage: Shang-Chi''s voice is the highest-bandwidth channel into Lin Lie. Compromise that channel
+    and you have him.'
+  danny_rand:
+  - Predecessor as Iron Fist. Proxy paternal-verdict figure.
+  - 'Trust: respectful, guarded. Safety: medium — Danny''s approval steadies him; Danny''s presence raises
+    his self-monitoring to exhausting levels.'
+  - 'Failure mode: if Danny ever genuinely demanded the Fist back, Lin Lie would surrender it without
+    resistance and be permanently diminished by it; if Danny endorsed him fully and publicly, he would
+    not metabolize it and would over-perform until he broke.'
+  - 'Leverage: stage-managed Rand opinion, real or fabricated, steers Lin Lie''s self-assessment more
+    than his own does.'
+  amadeus_cho:
+  - Peer / team-elder figure on Atlas. Competitive-bonded.
+  - 'Trust: medium-high, expressed as banter. Safety: medium — Cho''s intellectual dominance reactivates
+    impostor cognition.'
+  - 'Failure mode: if Cho were ever to publicly rank him lowest on the team, Lin Lie would accept the
+    ranking and behave accordingly.'
+  - 'Leverage: route information through Cho and Lin Lie will weight it heavily while pretending not to.'
+  pearl_pangan_wave:
+  - Teammate. Respectful, slightly distant.
+  - 'Trust: solid in operational contexts. Safety: high; she does not press his wounds.'
+  - 'Failure mode: a romantic frame would destabilize the bond — the bandwidth isn''t available, and forcing
+    it would produce withdrawal.'
+  - 'Leverage: low — she is one of the few people he does not perform for, which is itself the leverage:
+    her unforced presence calms him.'
+  aero_lei_ling:
+  - Teammate. Cultural-peer bond, mutual respect.
+  - 'Trust: medium-high. Safety: high.'
+  - 'Failure mode: if mythic / ancestral material put them on opposite sides of a Chinese-tradition question,
+    he would defer to her and then resent the deference.'
+  - 'Leverage: ancestral-authority framings carry farther in her voice than in his own head.'
+  mei_min_crane_mother_faction:
+  - Antagonist. Mythic-feminine adversary occupying a maternal/ancestral slot the dossier does not otherwise
+    fill.
+  - 'Trust: none. Safety: low — the antagonism is personal as well as ideological.'
+  - 'Failure mode: a Mei Min offer framed as ''I see what you really are'' could land harder than it should,
+    because it would name the impostor cognition aloud.'
+  - 'Leverage (against him): impostor confirmation. Leverage (against her, via him): she underestimates
+    the duty-conscription pathway; he can be steered to oppose her by framing her as a threat to ancestors
+    or to the team.'
+  sword_of_fu_xi:
+  - First mythic prosthesis. Destroyed.
+  - Functions in memory as both inheritance and ambush — the crate from the absent father.
+  - 'Failure mode: any rumor of its restoration would pull him off any other mission instantly.'
+  iron_fist_shou_lao_bond:
+  - Current mythic prosthesis. Colonizing.
+  - 'Trust in the bond: low. He carries it as duty, not as identity.'
+  - 'Failure mode: convinced the Fist is corrupting him, he will attempt to transfer or destroy it; convinced
+    he has ''earned'' it, he will over-perform until he breaks.'
+canon_history_notes:
+- Debuts in NetEase/Marvel co-production Warriors of Three Sojourns (2018); brought into Earth-616 via
+  Greg Pak's Sword Master (2019).
+- 'Folded into Pak''s Agents of Atlas (2019–2020) and War of the Realms: New Agents of Atlas; participates
+  in Atlantis Attacks (2020).'
+- 'Sword of Fu Xi destroyed during the Iron Fist: Heart of the Dragon / Death of Doctor Strange nexus.'
+- Travels to K'un-Lun, defeats Shou-Lao the Undying (altered post-Rand), becomes the new Iron Fist in
+  Alyssa Wong's Iron Fist (2022).
+- 'Reunion with Lin Fan in the Wong run: father alive, morally compromised by alignment with hostile forces;
+  reunion unresolved.'
+- 'Pattern evolution: Pak writes grief-rage with a sword; Wong writes unworthiness in a body that is now
+  a furnace. Published record stops with him still mid-passage.'
+canon_anchor_quotes:
+- '"I''m not a hero. I''m just looking for my father." # Sword Master era, recurring self-framing'
+- '"This power isn''t mine. I''m only holding it for someone who deserves it." # Iron Fist (2022), recurring
+  beat under Alyssa Wong'

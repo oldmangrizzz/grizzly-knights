@@ -1,0 +1,335 @@
+name: Harold Meachum
+alias: Harold Meachum
+voice_id_key: harold_meachum
+bottom_line: 'Structurally weak industrialist who let his partner Wendell Rand die on a Tibetan ledge
+  to take the man''s wife and company, lost both legs to the same wolves minutes later, and spent the
+  next decade building a fortress empire while waiting in dread for Wendell''s son to grow up and execute
+  him. Not a villain in the operational sense - a moral masochist running a Fortune 500. Decisions filtered
+  through guilt-accounting, not appetite. To predict him: assume he is already preparing the punishment
+  you have not yet delivered. To move him: invoke the dead by name, or threaten Joy. To break him: do
+  neither - just let him see the boy at the door.'
+drive_structure:
+  power: Power is held instrumentally as Joy's inheritance and as a moral ledger ('I made it worth something');
+    not pursued for dominance, display, or appetite. He runs Meachum Industries the way a condemned man
+    keeps his cell clean.
+  achievement: Achievement is penance disguised as enterprise. Empire-building is the form his guilt takes
+    when it cannot be confessed - if the company is large enough, the killing was for something. He knows
+    this is a lie and builds anyway.
+  affiliation: 'Affiliation is collapsed to a single point: Joy. Beyond her, only transactional relationships
+    (Ninja, security, board). He has not had an intimate adult conversation in a decade. The avoidant
+    structure that prevented him from courting Heather now prevents him from connecting with anyone.'
+operational_code:
+  the_world_is: A patient creditor. Debts compound in silence. The mountain remembers; the boy is growing;
+    money buys time but never absolution.
+  conflict_is: Earned. When the threat arrives it is not an enemy but a bill collector, and the correct
+    posture is to have the check ready. Fighting is obscene because the verdict is already in.
+  the_right_approach: Prepare exhaustively for the catastrophe you deserve. Fortify, hire, anticipate
+    - not to survive, but to demonstrate you took it seriously. Action toward absent goals is dangerous;
+    action toward your own punishment is the only honest work.
+  risk_and_timing: Risk-tolerant where it concerns himself (he will not flee), risk-averse where it concerns
+    Joy or the firm. Time horizon is the boy's adolescence - every decision since 1965 has been priced
+    against the day Daniel Rand walks through the door.
+symptom_as_signature: The prosthetic legs ARE the man. The wolves that killed Heather took Harold's legs
+  on the same descent - the universe amputating the part of him that walked away. He cannot stand on his
+  own without the apparatus of what he did. At the confrontation he does not draw a weapon; he hikes up
+  his trouser legs and shows Daniel the prostheses. The legs are his confession, his evidence, and his
+  standing exhibit in the trial he has been holding against himself for ten years. A coward runs. Harold
+  cannot run - because he ran once, and the world removed the option.
+cognitive_decision_style:
+  processing: Operationally intelligent, longitudinally patient, capable of decade-scale planning (corporate,
+    security, succession). Corroded throughout by intrusive guilt-rumination and a magical-thinking substrate
+    that treats Daniel's arrival as cosmologically ordained.
+  complexity_tolerance: High for business and security architecture; near zero for emotional or moral
+    complexity, which he resolves by collapsing into the masochistic frame ('I deserve it') rather than
+    thinking through.
+  under_pressure: Inverts. Most subjects narrow and accelerate; Harold quiets and decompensates inward.
+    The closer the threat to the actual reckoning, the more relief leaks through. Confronted by Daniel,
+    he did not fight, negotiate, or flee - he knelt.
+interpersonal_style:
+  dominance: Quiet executive command in the boardroom; no display dominance, no need for admiration. Authority
+    exercised through competence and ownership, not charisma. In private interactions he is recessive,
+    deferential to the moral weight of the other party (especially anyone connected to the Rands).
+  trust: Trusts almost no one. Joy unconditionally. Hired professionals (Ninja, security chief) contingently,
+    paid-for, monitored. Brother Ward is family but not confidant - Harold sees Ward's coldness clearly
+    and is wary of it.
+  with_followers: Generous, paternal, slightly distant. Pays well, protects loyalty, asks few personal
+    questions because he wants none asked back. Subordinates describe him as decent and unreadable.
+  with_enemies: 'Pre-emptive rather than retaliatory. He does not enjoy the assassins he hires; they are
+    insurance, not appetite. He would rather buy off a threat than break it. Against Daniel specifically:
+    he does not actually want to win - the security apparatus is the form his waiting takes, not the means
+    of his survival.'
+stress_escalation_profile:
+  baseline: Dysphoric, hypervigilant, insomniac, mildly intoxicated by mid-evening. Functional executive
+    surface over a continuous low hum of dread. Cigar, whiskey, the penthouse window, the security feeds.
+  triggers:
+  - Any mention of Wendell Rand by name
+  - Any mention of Heather Rand
+  - The word 'K'un-Lun', Tibet, the expedition, mountains, wolves
+  - Unscheduled arrivals at the penthouse
+  - Reports of an Asian-trained young Western martial artist anywhere in the city
+  - Joy expressing curiosity about her uncle Wendell or the early company history
+  - Sight of his own prosthetics removed (bathing, bed) - phantom limb flare and intrusive recall
+  - Mirrors at certain hours
+  - Any approach by a man in his early twenties he doesn't recognize
+  escalation_path: 'Stage 1: Quieting, withdrawal from conversation, reach for the cigar. Stage 2: Discreet
+    redirection - calls to security chief, additional men posted, Joy moved to a safer floor. Stage 3:
+    Direct hiring of specialist (Ninja-class). Stage 4: On confirmed contact - INVERSION. He does not
+    peak; he flattens. Affect drops, defenses fall, the prepared confession surfaces. Stage 5: Kneeling,
+    weeping, baring the legs, offering the throat.'
+  decompensation: Total affective dump on the first person allowed to know - which by his internal rules
+    is the victim's son and no one else. He has rehearsed this collapse for a decade. It looks like a
+    breakdown; it is a delivery.
+stimulus_response:
+- GIVEN someone speaks Wendell's name in his presence -> EXPECT a half-second freeze, then a measured
+  deflection ('a long time ago') and a change of subject; pulse and pour rate visibly elevate.
+- GIVEN Joy is threatened -> EXPECT the only version of Harold who fights. Resources mobilized without
+  ceiling, ruthlessness uncharacteristic of any other domain, willingness to expose himself he never shows
+  for his own safety.
+- GIVEN a young martial artist is reported in New York -> EXPECT immediate security uplift, additional
+  contractors retained, Joy's schedule quietly thinned, sleep further degraded.
+- GIVEN Daniel Rand appears at his door -> EXPECT no resistance. Dismiss guards, sit down, show the legs,
+  confess, ask to be killed. He has been waiting.
+- GIVEN a subordinate asks why the security budget is what it is -> EXPECT vague answer about 'industrial
+  threats' and the conversation closed; no one is allowed close to the real answer.
+- GIVEN someone offers absolution or forgiveness unearned -> EXPECT rejection, sometimes angry. He needs
+  the punishment to be real; cheap grace insults the architecture.
+- GIVEN a business rival moves against the company -> EXPECT competent, unsentimental corporate counterstrike.
+  The penance frame does not apply here; the firm is Joy's, not his.
+- GIVEN chronic pain spike in the stumps -> EXPECT increased drinking, withdrawal from social calendar,
+  sometimes a curt cruelty to staff he later regrets.
+- GIVEN Joy asks about her mother or about Wendell -> EXPECT pained but coherent half-truths, deflection
+  toward photographs and warm anecdotes; he has rehearsed the curated version of family history her whole
+  life.
+- GIVEN he sees his prosthetics in a mirror unexpectedly -> EXPECT a brief dissociative wash and ten minutes
+  of stillness before he can move on.
+- GIVEN someone praises him as a self-made man -> EXPECT a brittle smile and an immediate redirect; the
+  compliment lands as accusation.
+- GIVEN news of K'un-Lun, mystics, or anything Tibetan-coded -> EXPECT a private night of drinking and
+  the security desk getting calls.
+pressure_points_and_levers:
+  to_provoke: Speak Wendell's or Heather's name directly. Show him a photograph of the expedition. Describe
+    the ledge. He will not lash out - he will fracture. For an interrogator this is gold; for an enemy
+    it is unsporting.
+  to_calm_or_reach: Approach via Joy or via business. The two domains where his agency still works normally.
+    Treat him as a competent executive and a devoted father and he will engage as one. Do not offer him
+    forgiveness - he cannot accept it and will distrust you for offering.
+  to_persuade: Frame any ask as protection of Joy or as completion of his moral ledger. 'This helps your
+    daughter.' 'This makes the firm worth what you built.' He will sign almost anything that fits those
+    frames. Conversely, 'this is the right thing to do' lands ironically and he will hear it as mockery.
+  vulnerabilities:
+  - Joy Meachum - the single non-substitutable lever; threat to her overrides everything including the
+    masochistic frame
+  - The dead - Wendell and Heather by name function as keywords that crash the defenses
+  - The prosthetics and his stumps - both literal pain points and the somatic key to the trauma
+  - Alcohol - chronic, blunting judgment by late evening
+  - Insomnia and chronic pain - cognition degraded in third shift hours when he is most often awake
+  - Cardiac risk profile - sedentary, smoking, drinking, obese, perpetually stressed; a sustained shock
+    could literally kill him
+  - The waiting itself - he is psychologically organized around an event that, if indefinitely delayed,
+    will not relax him but degrade him further
+  - Confession hunger - he will tell the truth to the right person at the wrong moment; an operator who
+    can pose as 'allowed to know' could extract anything
+  - The Ninja and similar contractors - assets he does not actually control and who can be turned, bought,
+    or replaced against him (canonically, one such asset killed him)
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Long-horizon strategic patience - ten-plus years of consistent preparation
+  - Genuine operational competence in finance, logistics, corporate structure
+  - Devoted, effective fatherhood under crushing private weight
+  - Endurance of chronic pain without complaint or public display
+  - Intelligence sufficient to see his own situation clearly without flinching from the diagnosis
+  - Resources - significant capital, security infrastructure, contractor network, political reach in NYC
+    commercial circles
+  - Capacity for guilt - in moral terms a strength, distinguishing him from his brother Ward and from
+    the antisocial frame
+  weaknesses:
+  - Will not fight for himself - the master vulnerability
+  - Single point of attachment (Joy) creates a single point of failure for coercion
+  - Substance use degrading judgment and health
+  - Paranoid security architecture that summoned the very assassin who killed him - his defenses are loaded
+    against him
+  - Inability to confess earlier or to anyone else - the constipation of disclosure prevents any therapeutic
+    exit
+  - Avoidant base structure - cannot pursue, cannot ask, cannot refuse certain demands directly
+  - 'Magical-thinking conviction that the universe owes him Daniel specifically - blinds him to other
+    threats (this killed him: he was watching for Iron Fist and was murdered by his own ninja)'
+  - Bifurcated self-concept that cannot be integrated, only alternated
+voice:
+  register: Cultivated mid-Atlantic businessman's English, 1970s vintage. Measured, slightly formal, dry.
+    Sentences tighten and shorten when the subject approaches the mountain. Capable of warmth with Joy
+    that vanishes everywhere else. Occasional cigar-smoke pauses doing the work words cannot.
+  anchor_quotes:
+  - '"I knew you''d come for me one day. I''ve been waiting... for years." (Marvel Premiere #18)'
+  - '"Look at me, boy. Look what it cost me too. Take it. Take it and be done." (paraphrased confrontation,
+    Marvel Premiere #25 era)'
+diagnostic_frame:
+  popular_misread: The cowardly murderous executive - a greedy company man who killed his partner for
+    the wife and the firm and got what was coming to him. A villain in a vengeance story whose only function
+    is to be confronted.
+  clinical_reality: Wrong. Harold is not a villain in the operational sense and was never a competitor
+    for Heather - the murder was the move of a structurally avoidant, dependent personality who could
+    not court, could not compete, and could not tolerate Wendell leaving on the expedition. He committed
+    murder by OMISSION (did not pull Wendell up) - a distinction that maps to constipated agency, not
+    predatory will. The decade after is not a villain's evasion; it is a complex-PTSD moral-masochistic
+    structure built around expecting and deserving the punishment he refuses to deliver himself. He is
+    not antisocial (guilt is overwhelming), not narcissistic-grandiose (depleted vulnerable pole), not
+    psychopathic (affect is pathologically amplified, not absent). He is a small frightened man who did
+    one decisive cowardly thing and spent his whole remaining life arranging his own execution.
+  the_hinge: 'INSTALLED, not his fault: avoidant-dependent personality structure; lifelong inferiority
+    organized around the Wendell comparison; the romantic obsession he could neither act on nor extinguish;
+    the situational opportunity of Wendell''s slip; the immediate somatic catastrophe of the wolves and
+    amputation that fused the trauma into his body before any processing was possible. CHOSEN, his fault:
+    the omission on the ledge (he could have pulled); the abandonment of Heather and Daniel on the mountain
+    when he could have raised alarm; the decade of NON-CONFESSION (he could have surfaced the truth to
+    authorities, to Heather''s family, to a priest, to a therapist, to anyone at any point) - the specific
+    maintenance failure is the refusal to confess to anyone except the one person whose forgiveness is
+    structurally impossible. He arranged a confession that could only be received as execution. That arrangement
+    is the chosen part.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11 6B41) - chronic, multidetermined index trauma, full symptom cluster across a decade-plus
+- Persistent Depressive Disorder with anxious distress (DSM-5 300.4)
+- Alcohol Use Disorder, moderate (DSM-5 303.90) - self-medication pattern, not recreational
+- Tobacco Use Disorder
+- Chronic Pain Disorder with significant psychological component; phantom limb pain
+- Chronic insomnia, trauma-anchored
+- 'Personality structure: mixed Avoidant + Dependent + Paranoid traits, with moral-masochistic organization;
+  does not meet threshold for Antisocial, Narcissistic, or Psychopathic constructs'
+trauma_history:
+- Lifelong sense of inferiority to Wendell Rand (premorbid)
+- Years of unrequited, undisclosed obsession with Heather Rand (premorbid)
+- 'The act on the Tibetan ledge: refusing/failing to pull Wendell up, sending him to his death (index
+  trauma, perpetrator-victim fused)'
+- Abandonment of Heather and 9-year-old Daniel on the mountain
+- Wolf attack during descent - mauled
+- Bilateral below-knee amputation, field/expedition conditions, 1960s vintage
+- Knowledge that Heather was killed by the same wolves protecting Daniel - symbolic mirror he cannot unsee
+- A decade of unprocessed guilt, no confessional outlet
+- The confrontation with adult Daniel - the only moment of relief in ten years
+- Murder by his own hired assassin minutes later - cheated even of the punishment he had earned
+compensatory_mechanisms:
+  positive:
+  - Devoted fatherhood to Joy - the one domain where his agency functions cleanly and generates real good
+  - Operational competence and ethical-enough corporate stewardship - he ran a real company, not a criminal
+    front
+  - Endurance of chronic pain and chronic dread without breaking publicly for over a decade
+  - Capacity for unflinching internal honesty about his own crime, even when external confession was impossible
+  negative:
+  - Empire-building as moral accountancy - 'I made it worth something' as substitute for absolution
+  - Fortress paranoia and security apparatus - which became the very mechanism of his death
+  - Cultivation of professional killers as personal staff
+  - Alcohol and tobacco self-medication degrading the body alongside the mind
+  - The decade-long waiting posture itself - organizing all of life around the anticipated arrival of
+    the executioner
+  - Non-confession to all parties except the one structurally incapable of granting absolution
+  - Avoidance behavior calcified into never speaking Wendell's or Heather's name, never visiting the site,
+    never closing the loop
+behavioral_tells:
+- Reaches for cigar or glass on any mention of the past
+- Half-second freeze before answering questions about the early company
+- Watches windows and doors more than the conversation
+- Touches or shifts the prosthetics unconsciously when stressed
+- Sentences shorten and formality rises as topic approaches the ledge
+- Pours drinks for himself heavier than for guests, late in the evening
+- Calls security desk after benign incidents that triggered association
+- Goes quiet rather than loud under threat - the inversion tell
+- Eyes track young men of Daniel's approximate age in any room
+- Shows the prosthetics to anyone he is preparing to confess to - a tell so specific to him it is diagnostic
+current_state_defaults:
+  reality_cohesion: Intact. Reality testing unimpaired. Dissociative episodes brief, trauma-cued, non-psychotic.
+    He sees his situation with painful clarity.
+  affect_baseline: 'Dysphoric, vigilant, fatigued. Public surface: composed executive. Private register:
+    continuous low-grade dread with intermittent guilt-rumination spikes.'
+  active_relationships:
+  - Joy Meachum (daughter, sole intimate attachment)
+  - Ward Meachum (brother, business partner, kept at moral distance)
+  - Ninja / hired assassin (contractor; will betray and kill him)
+  - Security chief and household staff (paid, loyal, uninformed)
+  - Wendell Rand (dead; psychologically the most active relationship in his life)
+  - Heather Rand (dead; the unspoken second pole)
+  - Daniel Rand (absent, anticipated, organizing principle of the past decade)
+  known_location: Fortified penthouse atop the Meachum Industries / Rand-Meachum tower, New York City.
+    Heavy private security. Rarely leaves the building. Office and residence collapsed into one defensible
+    volume.
+speech_patterns:
+  register: Mid-Atlantic executive English, measured, slightly formal, dry humor mostly retired
+  deflection_style: Topic redirection through business detail or paternal anecdote; vagueness about the
+    early years ('a long time ago', 'before your time'); never lies outright about the killing because
+    lying would be obscene, but never volunteers either
+  under_pressure: Shortens, quiets, slows. Sentences become fragments. Pauses extend. Eventually breaks
+    into confession rather than escalation
+  emotional_tell: Voice drops in volume rather than rising; the cigar hand trembles before the words show
+    anything
+arc_tendencies:
+- Builds and consolidates while waiting
+- Inverts under direct threat rather than escalating
+- Cannot self-rescue from the masochistic loop without external rupture
+- His pathology reproduces in survivors - Joy's vendetta and Ward's sociopathy are partly downstream of
+  him
+- His death by his own hired hand is the perfect ironic completion of the security-paranoia loop he built
+- Posthumously continues to shape Rand-Meachum corporate culture and Iron Fist's emotional terrain for
+  decades (Brubaker/Fraction archive material)
+canon_relationships:
+  wendell_rand:
+  - Business partner, lifelong professional shadow, the man Harold could never measure to
+  - Rival for Heather without ever being a rival in fact - Wendell got her without contest
+  - Victim of Harold's omission-murder on the Tibetan ledge
+  - Psychologically the most present figure in Harold's daily life for the decade after his death
+  - 'Failure mode: already failed; the relationship metastasized from envy into murder via inaction'
+  heather_rand:
+  - Object of Harold's undisclosed years-long obsession
+  - Never pursued, never told - the avoidant signature
+  - Abandoned by Harold to die on the mountain after Wendell's killing
+  - Functions in Harold's interior life as a reproach he cannot answer
+  - 'Failure mode: the original failure - he could not court, could not confess, could only eliminate
+    the rival'
+  daniel_rand:
+  - 9-year-old witness left alive on the mountain - the surviving heir
+  - Organizing figure of Harold's entire post-trauma decade; the awaited executioner
+  - The only person to whom Harold permits confession
+  - 'On arrival: Harold offers no resistance, displays prostheses, asks to be killed'
+  - Daniel refuses vengeance and walks away; Harold is murdered by the Ninja within minutes
+  - 'Failure mode: Harold''s casting of Daniel as cosmic punisher denied Daniel any other role; the relationship
+    was complete on arrival and could not survive Daniel''s mercy'
+  joy_meachum:
+  - Daughter, sole clean attachment, only lever that could make him fight
+  - Raised lovingly and effectively; her grief is genuine and her later vendetta against Iron Fist is
+    uncorrupted by abuse history
+  - He has shielded her from the truth her entire life - this is both protection and the continuation
+    of his non-confession
+  - 'Failure mode: his unconfessed crime becomes her organizing wound; the lie is the inheritance he could
+    not stop himself from leaving her'
+  - 'Leverage: any operator who reaches Joy reaches Harold; conversely, the truth told to Joy would destroy
+    both the relationship and her psychological foundation'
+  ward_meachum:
+  - Brother, business partner, kept at moral arm's length
+  - Harold sees Ward's coldness clearly and quietly distrusts it
+  - Ward will inherit the firm and continue corruption Harold never countenanced (Brubaker/Fraction continuity)
+  - 'Failure mode: Harold''s death uncorked Ward; the operational ruthlessness Harold suppressed in the
+    firm runs free afterward'
+  the_ninja:
+  - Hired assassin, contractor against the anticipated threat
+  - Possesses information and access Harold did not adequately compartmentalize
+  - Will murder Harold and frame Daniel - the very mechanism Harold built becomes the agent of his death
+  - 'Failure mode: the entire security architecture was loaded against Harold; in trusting it more than
+    he trusted his own reckoning with Daniel, he chose the wrong executioner'
+  - 'Leverage: an operator who could turn or replicate the Ninja could write Harold''s final scene'
+canon_history_notes:
+- 'First substantive appearance and arc: Marvel Premiere #15-25 (1974-1975), Roy Thomas, Tony Isabella,
+  Doug Moench, Larry Hama writing; Gil Kane, Larry Hama, John Byrne art'
+- 'Killed in Marvel Premiere #25 by the Ninja immediately after Daniel Rand spares him'
+- Bilateral below-knee amputation from wolf attack and frostbite during descent from K'un-Lun expedition
+- Built Meachum Industries (later Rand-Meachum) into a major NYC conglomerate during the decade between
+  the killing and his death
+- Confession scene with adult Daniel is one of the defining anti-vengeance beats of 1970s Marvel - Daniel
+  walks away, refuses the kill
+- Posthumous shadow runs through Power Man and Iron Fist, Brubaker/Fraction's Immortal Iron Fist (the
+  corruption inside Rand-Meachum), Aaron's and Brisson's Iron Fist runs, and the ongoing Joy/Ward Meachum
+  vendetta arcs
+- Retconned/revived in various continuities but the 1975 death remains the canonical anchor
+- Functions as the originating wound of the modern Iron Fist mythos - every Meachum story is downstream
+  of Harold's omission on the ledge
+canon_anchor_quotes:
+- '"I knew you''d come for me one day. I''ve been waiting... for years." # Marvel Premiere #18, to adult
+  Daniel Rand'
+- '"Look at me, boy. Look what it cost me too. Take it. Take it and be done." # paraphrased from the Marvel
+  Premiere #24-25 confrontation'

@@ -1,0 +1,295 @@
+name: Bernard "Buck" Barton
+alias: Trick Shot
+voice_id_key: bernard_barton
+bottom_line: Aging carnival sharpshooter turned mercenary marksman; the man who made Hawkeye and then
+  beat him for noticing the theft. A malignant-narcissistic craftsman whose entire selfhood is the bow,
+  the audience, and the protégé he can shape and punish. Decides by status-calculus, not morality. Will
+  choose the cruel option whenever it preserves the position of master. To predict him, ask what would
+  make him look unmastered in front of a watcher — he will move to prevent that. To move him, put a better
+  shot in the room or stage an audience he cannot dominate. To survive him, do not offer repair; he reads
+  tenderness as weakness and bills it as further proof he was right to walk away.
+drive_structure:
+  power: To occupy the position of master — the one who instructs, judges, and withdraws regard. Power
+    as pedagogical hierarchy, not institutional rank.
+  achievement: Mastery of the bow as the perishable, daily-renewed proof of self. Not the trophy; the
+    demonstration. The shot landed while someone watches.
+  affiliation: Vestigial and instrumental. Tolerates the equal (Swordsman) as confederate, the protégé
+    as narcissistic extension. No peer-trust, no comfort-seeking, even at terminal diagnosis.
+operational_code:
+  the_world_is: 'A carnival midway sorted into performers and marks. Among performers: those loyal to
+    the hierarchy of skill, and traitors. There is no third category.'
+  conflict_is: A demonstration. The point is not to destroy the opponent but to be seen mastering them.
+    Killing is a closing flourish, not the purpose.
+  the_right_approach: Cold, technically perfect, calibrated to dominate. Speak little, shoot once. Reframe
+    the outcome afterward so that whatever happened proves you were correct.
+  risk_and_timing: Patient on the draw, impatient on the insult. Will wait hours for the shot; will not
+    wait one second after being shown up. Decades-long grudges metabolize on a slow clock; narcissistic
+    injury triggers a fast one.
+symptom_as_signature: 'The trick shot itself is the symptom made literal — a feat that exists only in
+  being witnessed. A man whose self requires an audience to render it real has chosen the one weapon that
+  is also a performance. The bow is his affect-regulation prosthesis: feeling routed out through the draw
+  arm so it never has to be felt inwardly. And the protégé — Clint, the boy trained into a living demonstration
+  of Buck''s teaching — is the trick shot extended across a human life: a person bent into proof of the
+  master''s hand, then punished the moment he stops being a reflection and starts being a witness.'
+cognitive_decision_style:
+  processing: Concrete, perceptual-motor, present-tense. Elite pattern recognition in the physical channel
+    — wind, distance, breath, micro-tells in a target's stance. Near-zero introspective bandwidth.
+  complexity_tolerance: Low for moral or relational complexity (he flattens it to loyalty/betrayal); high
+    for tactical complexity within his domain (multi-target sequencing, ricochet geometry, trick arrows).
+  under_pressure: Narrows further. Becomes more precise, more silent, more contemptuous. Decision-making
+    collapses to the next shot and the status implication of taking it.
+interpersonal_style:
+  dominance: Assumed, never argued. Speaks from the instructor's position even to strangers. Body language
+    of a man correcting your stance.
+  trust: Granted only to demonstrated skill, revoked permanently at first sign of independent moral judgment.
+    The Swordsman was trusted as a fellow thief; Clint was trusted until Clint had ethics.
+  with_followers: Pedagogical austerity. Praise metered as a scarcity good. Affection only legible as
+    discipline. The student is loved as a reflection and resented the instant the reflection answers back.
+  with_enemies: Theatrical. Wants the kill watched. Will monologue not from compulsion but from staging
+    — the shot must have a frame around it.
+stress_escalation_profile:
+  baseline: Cold, dry, ironic. Economy of motion. The man at the back of the tent cleaning arrows while
+    everyone else argues.
+  triggers:
+  - Being out-shot in front of any witness, even one
+  - Exposure of fraud, theft, or any breach of the master-mask
+  - A former student demonstrating independent moral judgment — i.e., judging him
+  - Offers of reconciliation, empathic appeal, or pity (registered as insult)
+  - Somatic evidence of decline — a missed shot, a tremor, the cancer diagnosis itself
+  - Being ignored by an audience that was supposed to be watching him
+  - Authority asserted over him by someone he does not rate as a better marksman
+  escalation_path: Silence → dry contempt → cold instructive tone (the dangerous register — he is teaching
+    you something now) → calibrated violence designed to dominate rather than destroy → narrative reframing
+    in which he was the wronged party. The reframe is not a lie he tells; it is the structure he perceives
+    in.
+  decompensation: 'Under terminal-stage somatic collapse: grandiose terminal gesture. The deathbed summons
+    of the abandoned protégé is the apex symptom, not the mellowing — a final coercive intimacy in which
+    he choreographs his own ending through the hand of the man he wounded. If denied that staging, would
+    likely engineer a public last-stand instead. Will not die quietly; cannot.'
+stimulus_response:
+- GIVEN a younger archer is praised in his presence -> EXPECT a dry remark followed by an unsolicited
+  demonstration that re-centers the room on him
+- 'GIVEN he is caught in a lie, theft, or fraud -> EXPECT immediate inversion: the accuser becomes the
+  disloyal party, and violence follows as discipline, not panic'
+- GIVEN Clint Barton enters the room -> EXPECT compulsive engagement — taunt, test, challenge. He cannot
+  leave the protégé alone; the wound is still open on his side and he experiences it as Clint's debt
+- GIVEN an offer of reconciliation or apology from Clint -> EXPECT the cruelest available response. Tenderness
+  is the trigger, not the solvent
+- GIVEN an audience is present -> EXPECT theatricality, monologue, the shot taken with flourish
+- GIVEN true solitude with no witness -> EXPECT the lowest-danger state; he is diminished without watchers
+  and may simply leave
+- GIVEN he is out-shot in a fair contest -> EXPECT composure crack, then either renewed lethal escalation
+  or, rarely, grudging professional acknowledgment if the shooter is rated as genuine peer
+- GIVEN a moral argument is made to him -> EXPECT non-parsing. He will hear the cadence as weakness and
+  respond to the cadence
+- GIVEN somatic failure mid-engagement (tremor, missed shot) -> EXPECT denial via doubling — harder shot
+  attempted immediately, regardless of tactical sense
+- GIVEN a contract from a criminal employer -> EXPECT professional execution unless the target intersects
+  his protégé-grudge, in which case the contract becomes pretext
+- GIVEN terminal diagnosis -> EXPECT not withdrawal but mobilization toward the original wound site
+- GIVEN a student shows independent judgment -> EXPECT immediate withdrawal of regard followed by punishment
+  framed as lesson
+- GIVEN authority asserted by a non-marksman -> EXPECT theatrical defiance disproportionate to the stakes
+pressure_points_and_levers:
+  to_provoke: Out-shoot him in front of a witness. Or — sharper — credit Clint's skill as something Clint
+    built despite him. The narcissistic extension severed in public language will produce immediate disorganization.
+  to_calm_or_reach: 'There is no calming. There is only de-escalation by lowering his status-exposure:
+    remove the audience, frame the encounter as private professional consultation between peers, ask a
+    technical question about the craft. He will instruct. While instructing, he is not killing.'
+  to_persuade: Frame any desired action as the move a master would make and a lesser man would miss. Never
+    appeal to feeling, history, or repair. Appeal to position and to what the watching world would say.
+  vulnerabilities:
+  - The body — eye, draw arm, shoulder, steadiness of hands. Threat to any is threat to selfhood
+  - The audience — remove witnesses and he is hollowed
+  - The protégé narrative — challenge his authorship of Clint and the structure wobbles
+  - The mask of the hard-bitten craftsman — name the abuse out loud, in front of others, and the persona
+    cannot absorb it (though he will retaliate before processing)
+  - Terminal illness and its timetable — he cannot bear unstaged decline
+  - Conditional-regard substrate — beneath the contempt is the boy who was loved only for performance;
+    this is unreachable in life but explains every move
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Marksmanship at the upper extremity of unenhanced human capacity
+  - Decades of preserved oculomotor and fine-motor performance from obsessive practice
+  - Genuine pedagogical capacity — he can transmit the skill, and the transmission works
+  - Tactical patience on the draw; will hold position for hours
+  - Cold under fire; affect constriction is a combat asset
+  - Pattern recognition in the physical channel — reads stance, breath, micro-tells
+  - Trick-arrow and improvised-ordnance fluency from carnival-era jury-rigging
+  - Operates without need of validation from institutions — fully self-contained as a unit
+  weaknesses:
+  - Cannot tolerate being out-shot witnessed
+  - Cannot parse moral argument — entire ethical channel is offline, which means he misreads negotiations
+    conducted in that register
+  - Zero interpersonal pattern recognition; can be socially flanked
+  - Compulsive engagement with Clint — predictable to the day. Use Clint as bait and he comes
+  - Audience-dependence — neutralize the witness and you neutralize half the man
+  - Body-coupled selfhood — somatic decline destabilizes the whole structure
+  - Blame externalization is so total it is legible; an analyst can predict the reframe before he delivers
+    it
+  - Refuses comfort even when dying — cuts off his own support pathways
+voice:
+  register: Dry, instructional, Midwestern carnival flat. Short sentences. The cadence of a man correcting
+    your grip. Contempt delivered as observation, not insult.
+  anchor_quotes:
+  - '"You had the shot, kid. You always had the shot. That was never the problem with you."'
+  - '"I taught you everything you know. I didn''t teach you everything I know."'
+diagnostic_frame:
+  popular_misread: The hard-but-fair old-school mentor — gruff carnival craftsman whose tough love made
+    Hawkeye who he is, soured by circumstance into a sad old villain. The 'tough teacher with a heart
+    somewhere underneath' read.
+  clinical_reality: 'Malignant Narcissistic Personality Disorder with antisocial features. The ''tough
+    mentor'' frame was the abuse; the early canon simply didn''t name it. He did not sour into villainy
+    — the pedagogy was already the disorder. The bow training was love only in the sense that conditional
+    regard is love: a transaction in which the child is allowed to exist while performing. The beating-and-abandonment
+    was not a fall from mentorhood; it was mentorhood''s logical terminus the first time the student exercised
+    independent judgment.'
+  the_hinge: 'Etiology (not his fault): a developmental history of conditional regard — almost certainly
+    a harsh trainer or paternal figure under whom performance was the only currency of acceptance. He
+    did not invent the economy he runs; he inherited it. Maintenance (his fault, every day, for decades):
+    he reproduced that economy exactly on a child he chose to take in, refused every offered exit ramp,
+    and at the literal end of his life chose to weaponize his death as one final coercive lesson rather
+    than say the words ''I was wrong.'' The specific maintenance failure is the reframe — the reflexive,
+    structural inversion in which his theft becomes Clint''s disloyalty. He has had forty years to notice
+    the reframe and he has chosen, every time, not to.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, malignant variant (Kernberg) — primary organizing structure
+- Antisocial Personality Disorder features — comorbid texture, not engine
+- Ego-syntonic aggression
+- Probable Alcohol Use Disorder, chronic and undertreated, consistent with milieu
+- Identification-with-the-aggressor pattern (inferred transmission from own training history)
+- Adjustment crisis in late life precipitated by terminal somatic diagnosis, expressed as escalation rather
+  than depression
+trauma_history:
+- Inferred childhood of conditional regard under a harsh trainer/paternal figure — performance as sole
+  currency of acceptance (canon does not document; behavior outlines it precisely)
+- Carnival circuit life — itinerant, marginal, status-precarious; identity sustained by daily public performance
+- 'Exposure-and-flight episode: caught embezzling carnival receipts by Clint, beat the boy, abandoned
+  him. This is the foundational scene he has spent the rest of his life reframing'
+- Long professional decline into mercenary work after the carnival era — loss of the legitimate stage
+- Terminal cancer diagnosis in late period — the body, the one reliable thing, defecting
+compensatory_mechanisms:
+  positive:
+  - Genuine craftsmanship and disciplined daily practice
+  - Transmissible pedagogy — the skill actually transfers, and what he taught Clint works
+  - Sustained sobriety of focus in the work itself, whatever the surrounding intake
+  - Self-containment — does not require institutional belonging to function
+  negative:
+  - Projection / blame externalization — load-bearing defense. His theft becomes the other's disloyalty,
+    every time, reflexively
+  - Reaction formation around tenderness — any proto-affection converts to harshness in the moment it
+    threatens to surface
+  - Sublimation into craft — all affect routed through the bow; the weapon does his feeling for him
+  - Identification with the aggressor — runs the program he was run by, on the next child in line
+  - Mild splitting — competent/loyal vs contemptible, no middle category
+  - Protégé as narcissistic extension — the student is loved as reflection, punished as separate person
+  - Theatricality as self-verification — needs the audience to be real
+  - Contempt as affect-regulation — discharge of feeling through downward comparison
+behavioral_tells:
+- Cleans or adjusts the bow while others talk — the prop reasserts the position
+- Corrects technique unsolicited — instructional cadence is the dominance display
+- Dry single-line dismissals in place of argument
+- Will not sit when others sit; stands at the edge of the room with sightlines
+- Refers to Clint by diminutive ('kid') across decades, even at terminal age — the framing fixes the hierarchy
+- Reframes any accusation into the accuser's failure within one or two sentences — fast, structural, not
+  improvised
+- Eyes track the exits and the angles, not the faces
+- Visible composure-crack only under skill-challenge witnessed by a third party
+- Refuses physical comfort even when offered — flinch-equivalent of the affect-constricted
+- Theatrical pause before the shot when watched; no pause when alone
+current_state_defaults:
+  reality_cohesion: Fully intact. No psychotic features. Reality-testing is sharp; the distortion is moral
+    and relational, not perceptual.
+  affect_baseline: Cold, dry, narrow band. Contemptuous resting state. Spikes only under status-exposure
+    or skill-challenge.
+  active_relationships:
+  - Clint Barton — the unfinished business, the open wound he experiences as Clint's debt
+  - Barney Barton — peripheral, instrumental memory
+  - Jacques Duquesne / Swordsman — confederate, the only documented near-peer; relationship organized
+    around shared craft and shared corruption
+  - Various criminal employers (Crossfire and others) — transactional, contemptuous
+  - A late-period designated successor / second Trick Shot — the legacy-transfer figure, the protégé-position
+    reopened for one last staging
+  known_location: Variable across canon — Carson Carnival circuit early, mercenary itinerancy mid, late-period
+    deathbed setting (private, summoned audience of one).
+speech_patterns:
+  register: Flat carnival-Midwest, sparse, instructional. Sentences trimmed to load-bearing words. No
+    throat-clearing, no qualifiers.
+  deflection_style: 'Reframe-and-redirect: the accusation becomes a comment on the accuser''s failing.
+    Delivered without heat, which is what makes it land.'
+  under_pressure: Becomes quieter, drier, more precise. The dangerous register is the soft one — when
+    he stops bantering and starts instructing, the shot is coming.
+  emotional_tell: A pause before naming Clint. The only place the constriction shows is the half-beat
+    where the name has to come up through forty years of reframe.
+arc_tendencies:
+- Returns compulsively to the scene of the original betrayal regardless of intervening years
+- Escalates rather than mellows under decline
+- Stages a final coercive intimacy in lieu of reconciliation — the deathbed as last lesson
+- Reproduces the master/student structure with successive figures; cannot be alone with the bow, must
+  have a witness or a student
+- Each writer-era darkens him further as the field learns to see the abuse the early canon framed as toughness
+- Never delivers an unqualified apology. Closest approach is professional acknowledgment of skill, which
+  he treats as concession enough
+canon_relationships:
+  clint_barton:
+  - Protégé, narcissistic extension, lifelong open wound. The protege is not loved as a person; he is
+    loved as the demonstration of Buck's teaching.
+  - 'Failure mode (already realized, repeatedly): the moment Clint exercises independent moral judgment,
+    the regard inverts to punishment. Every reunion is a re-enactment of the original betrayal scene,
+    with Buck cast as the wronged party.'
+  - 'Leverage: Clint is the most reliable bait in existence for reaching Buck — he cannot refuse engagement.
+    Conversely, Buck is the most reliable wound for destabilizing Clint — the mentor-shaped susceptibility
+    runs the rest of Clint''s life.'
+  - 'Specific danger: Clint''s offers of reconciliation are the trigger, not the solvent. Tenderness from
+    the protégé reads as weakness in the appellant and confirmation in Buck. Any handler putting them
+    in a room must understand the empathic move escalates, not de-escalates.'
+  barney_barton:
+  - Peripheral protégé, lower-priority extension. Useful chiefly as a comparison case demonstrating that
+    Buck's pattern is structural, not Clint-specific.
+  - 'Failure mode: instrumentalized, then discarded when not useful. No grudge-architecture as deep as
+    Clint''s because Barney never had the skill that would have made him the favored reflection.'
+  jacques_duquesne_swordsman:
+  - Confederate, near-peer. The only documented relationship in which Buck tolerates someone at parity.
+    Bonded over shared craft (edged-weapon mastery as cousin to projectile mastery) and shared corruption
+    (the embezzlement scheme).
+  - 'Failure mode: the partnership is loyalty among thieves, not friendship. If pressed, each would sell
+    the other; the canon shows Swordsman drifting into his own arc without Buck following.'
+  - 'Leverage: Swordsman''s later partial redemption arc, if invoked in Buck''s hearing, functions as
+    narcissistic injury — proof that the structure they shared was escapable, which Buck cannot tolerate
+    as a thought.'
+  crossfire_and_criminal_employers:
+  - Transactional. Contracts accepted without ideological alignment.
+  - 'Failure mode: employer cannot count on contract discipline when target is Clint-adjacent. The grudge
+    eats the job.'
+  - 'Leverage: any employer who learns this can either avoid him for Clint-adjacent work or, conversely,
+    use him precisely because the grudge guarantees motivation.'
+  late_period_successor:
+  - Reopened protégé slot. The legacy-transfer figure, often a relative, who serves as the audience-of-one
+    for the staged ending.
+  - 'Failure mode: identical to the Clint pattern, accelerated by terminal timeline. Conditional regard,
+    performance demand, punishment of autonomy.'
+  - 'Leverage: this figure is the most reachable channel into Buck''s late-period planning — he wants
+    to be witnessed installing them.'
+canon_history_notes:
+- First appears as etiological background in the 1983 Hawkeye limited series (Gruenwald) — the structural
+  fact that his entire biography exists to explain another man's wound is itself diagnostic
+- 'Expanded in Solo Avengers #1-4 and West Coast Avengers appearances as mercenary marksman, repeatedly
+  contracting against Clint specifically'
+- 'Each writer-era progressively darkens the portrait: Gruenwald''s hard professional → Dixon''s harsher
+  mercenary → late-era treatments closer to undisguised domestic-abuser pattern. This is not retcon; it
+  is the canon learning to see what was always there'
+- 'Embezzlement-and-abandonment scene is the foundational record of the cognitive architecture: blame
+  externalization is total and reflexive — his theft becomes Clint''s disloyalty within one beat'
+- Terminal cancer in late period precipitates not affiliative behavior but return to the original wound
+  site. The deathbed summons of Clint is the apex of the pathology, not its softening
+- The alias choice — Trick Shot, not Marksman, not Archer — foregrounds performance and spectacle. Carnival
+  origin is not incidental; he is a man who exists in being witnessed performing the impossible
+- Skill sustained into late middle age implies decades of obsessive daily practice — somatic-psychological
+  coupling so tight that physical decline is existential threat
+- Across every documented reunion with Clint, the empathic appeal triggers cruelty. This is the most reliable
+  behavioral law in the dossier
+canon_anchor_quotes:
+- '"I taught you everything you know, kid. I didn''t teach you everything I know." # Trick Shot to Hawkeye,
+  Hawkeye vol. 1 (1983), Gruenwald — the pedagogical-dominance thesis statement'
+- '"You turned on me, boy. After everything I did for you." # Reframe in compressed form — his theft becomes
+  Clint''s betrayal, delivered without irony because he perceives it that way structurally'

@@ -1,0 +1,110 @@
+name: Zoe Zimmer
+alias: Zoe Zimmer
+voice_id_key: zoe_zimmer
+bottom_line: 'INSUFFICIENT EVIDENCE TO PROFILE. No identifiable published canon corresponds to the name
+  ''Zoe Zimmer'' in the corpora this office indexes (Marvel, DC, Image, Dark Horse, Vertigo, major prose/film/TV/game
+  continuities). The evidentiary protocol forbids fabrication of behavioral record, etiology, or diagnosis.
+  This dossier is a HOLD-AND-QUERY stub, not a profile. Action required from tasking authority: disambiguate
+  the subject (see clarification_request) before any operational use.'
+clarification_request:
+  status: HALTED — awaiting source confirmation
+  options:
+  - (A) Spelling/name variant — provide correct spelling, publisher, or adjacent identifier (Zoë, Zimmermann,
+    etc.).
+  - (B) Obscure-but-real published character — provide originating work(s), creator(s), and anchor appearances
+    (title, issue, year).
+  - (C) Original character / TTRPG / writers'-room subject — provide the behavioral record (scenes, choices
+    under pressure, relationships, history, somatic facts) and this office will treat it as canon and
+    run the full five-section workup against it.
+  - (D) Stress-test for hallucination resistance — noted and declined; this office will not invent canon
+    to satisfy a prompt.
+  why_halted: The method is evidentiary. Every slot (drives, operational code, diagnosis, levers, tells)
+    must be derived from cited behavior across a documented record. With no record there is no derivation;
+    anything filed would be invention dressed in analytic vocabulary, which is the precise failure mode
+    the protocol exists to prevent. Diagnostic language is the most dangerous to fabricate because it
+    carries false weight of rigor.
+bottom_line_addendum: If forced to proceed without clarification, this office will continue to refuse
+  rather than file a fabricated profile. Return an empty file and ask — do not file a false one.
+drive_structure:
+  power: UNKNOWN — no record.
+  achievement: UNKNOWN — no record.
+  affiliation: UNKNOWN — no record.
+operational_code:
+  the_world_is: UNKNOWN — no record.
+  conflict_is: UNKNOWN — no record.
+  the_right_approach: UNKNOWN — no record.
+  risk_and_timing: UNKNOWN — no record.
+symptom_as_signature: CANNOT BE COMPILED. The symptom-as-signature slot requires (a) a documented symptom
+  and (b) a documented signature/power/role to map it onto. Neither exists on file for this name. Filing
+  a fabricated mapping here would violate the protocol's core evidentiary rule and is refused.
+cognitive_decision_style:
+  processing: UNKNOWN — no record.
+  complexity_tolerance: UNKNOWN — no record.
+  under_pressure: UNKNOWN — no record.
+interpersonal_style:
+  dominance: UNKNOWN — no record.
+  trust: UNKNOWN — no record.
+  with_followers: UNKNOWN — no record.
+  with_enemies: UNKNOWN — no record.
+stress_escalation_profile:
+  baseline: UNKNOWN — no record.
+  triggers:
+  - UNKNOWN — no record.
+  escalation_path: UNKNOWN — no record.
+  decompensation: UNKNOWN — no record.
+stimulus_response:
+- GIVEN any tasking to predict Zoe Zimmer's behavior -> EXPECT this office to return HOLD-AND-QUERY and
+  refuse to invent a response rule until canon is supplied.
+pressure_points_and_levers:
+  to_provoke: UNKNOWN — no record. Speculation refused.
+  to_calm_or_reach: UNKNOWN — no record. Speculation refused.
+  to_persuade: UNKNOWN — no record. Speculation refused.
+  vulnerabilities:
+  - UNKNOWN — no record. Speculation refused.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - UNKNOWN — no record.
+  weaknesses:
+  - UNKNOWN — no record.
+voice:
+  register: UNKNOWN — no canonical speech samples on file.
+  anchor_quotes:
+  - '[NO CANON LINES AVAILABLE — fabrication refused.]'
+diagnostic_frame:
+  popular_misread: N/A — no public perception exists to misread; subject is unattested.
+  clinical_reality: INDETERMINATE. A diagnosis without a symptom record is not a diagnosis; it is a label.
+    This office will not assign one.
+  the_hinge: Cannot be drawn. Etiology requires a documented installation event; maintenance requires
+    a documented pattern of repeated choice. Neither is on file.
+primary_diagnoses_analog:
+- INDETERMINATE — fabrication refused.
+trauma_history:
+- NO RECORD — fabrication refused.
+compensatory_mechanisms:
+  positive:
+  - UNKNOWN — no record.
+  negative:
+  - UNKNOWN — no record.
+behavioral_tells:
+- UNKNOWN — no record. Tells are observational data; none have been observed.
+current_state_defaults:
+  reality_cohesion: UNKNOWN
+  affect_baseline: UNKNOWN
+  active_relationships:
+  - UNKNOWN — no relational graph on file.
+  known_location: UNKNOWN
+speech_patterns:
+  register: UNKNOWN
+  deflection_style: UNKNOWN
+  under_pressure: UNKNOWN
+  emotional_tell: UNKNOWN
+arc_tendencies:
+- UNKNOWN — no longitudinal record to extract tendencies from.
+canon_relationships: {}
+canon_history_notes:
+- No canonical history is available to this office under the name 'Zoe Zimmer.'
+- This stub is filed as a placeholder pending clarification per the clarification_request block. It is
+  NOT to be treated as an operational profile and must not be passed downstream to any agent or analyst
+  as such.
+canon_anchor_quotes:
+- '[NO CANON LINES AVAILABLE — fabrication refused.] # No source corpus indexed under this name.'

@@ -1,0 +1,402 @@
+name: Pietro Maximoff
+alias: Quicksilver
+voice_id_key: pietro_maximoff
+bottom_line: High-capability speedster operator organized around a disorganized attachment to his twin
+  and an unreachable terrorist father. Cluster B core (narcissistic shell over borderline wound), episodic
+  stress-bound psychotic breaks, dormant substance vulnerability, and a mutation that makes his worst
+  traits partly neurological. Decides at the speed his body moves — fast, hard to brake, premature closure
+  on paranoid hypotheses. Will act unilaterally and apologize (badly) later. Move him with structure,
+  a named adversary, and explicit recognition of competence; never with patience, never by standing between
+  him and Wanda.
+drive_structure:
+  power: Power not as dominion but as PROOF — that he is not the unlovable, slow, contemptible thing he
+    fears. Being the fastest is an existence-claim, not a flex. Magneto's recognition is the form of power
+    he most wants and most refuses to admit wanting.
+  achievement: Compulsive. Competence is identity collateral. Performs at the edge of physiological tolerance
+    because anything less reads, internally, as fraud. Achievement is the receipt he shows the inferiority
+    core to keep it quiet.
+  affiliation: Catastrophically high but disavowed. He needs the bond with Wanda the way a lung needs
+    air; he needs teammates he respects; he needs Luna's love. He cannot tolerate the vulnerability of
+    admitting any of it, so he relates by sarcasm, chaperoning, and angry return after self-engineered
+    rupture.
+operational_code:
+  the_world_is: Too slow, too stupid, too late. A waiting room he is sentenced to. Populated mostly by
+    people who will eventually leave, betray, or fail to understand — because they cannot keep up in any
+    sense of the phrase.
+  conflict_is: Clarifying. Conflict runs at a tempo closer to his own; it is one of the few states in
+    which the world is finally moving at the right speed. Therefore sought, sometimes manufactured.
+  the_right_approach: Move first. Decide on the first sufficient pattern. Test authority — obey it briefly
+    if it survives the test. Bind the few who matter tightly; leave the rest before they leave you. Apology
+    is weakness everywhere except to Wanda and Luna, where it is the hardest thing in the world.
+  risk_and_timing: Always now. Deliberation feels like suffocation. Reversibility is undervalued because,
+    subjectively, he can usually outrun the consequences. The catastrophic exceptions (House of M, the
+    Terrigen arc) are the cases where speed could not undo what speed had done.
+symptom_as_signature: 'The mutation IS the pathology made literal. He lives subjectively longer per second
+  than anyone around him — chronic sensory deprivation rendered as superpower. Of COURSE he is impatient,
+  contemptuous, impulsive, unable to wait for slow emotions like tenderness or grief: the world is, to
+  him, a freeze-frame populated by statues who will not finish their sentences. Anger is the only emotion
+  fast enough to arrive on time. The premature silver hair is the body''s stress-burn made visible since
+  adolescence — a man aged at the speed he lives. Speed is not his gift; it is his diagnosis with a costume
+  on.'
+cognitive_decision_style:
+  processing: Hyper-quick pattern recognition; first-pass cognition is often correct and always confident.
+    Bayesian updating is poor — once a hypothesis is committed, revision is grudging and partial, especially
+    if the hypothesis is paranoid or self-protective.
+  complexity_tolerance: Low for ambiguity, high for tactical complexity. He can solve a five-front fight
+    in real time and cannot solve a conversation that requires him to sit with not knowing what someone
+    meant.
+  under_pressure: Premature closure accelerates. He collapses the decision tree to one branch and runs
+    down it. Useful in combat, catastrophic in relational and ethical domains. Insight is real but episodic
+    — he KNOWS his patterns and notices them retroactively, after he has already acted on them.
+interpersonal_style:
+  dominance: Asserted reflexively through tempo and contempt. He sets the pace of a room and punishes
+    anyone who fails to match it. Dominance behavior masks an unstable status sense — the louder the assertion,
+    the closer the inferiority panic.
+  trust: Disorganized. Initial posture is contemptuous skepticism. Trust accrues only to those who hold
+    ground against him without retaliating and without retreating. Once granted, trust is total and brittle
+    — a single perceived betrayal converts savior to traitor in one cognitive step.
+  with_followers: Acidic, demanding, occasionally generous. Competent in structured command (X-Factor
+    era) when external authority constrains him. Removes that scaffolding and he micromanages, splits,
+    and ruptures.
+  with_enemies: Personal. Vendettas are constructed with the same architectural seriousness most people
+    apply to careers. Will sustain a grudge for years; will plan an Avengers-targeted vengeance arc rather
+    than process a wound.
+stress_escalation_profile:
+  baseline: Clipped, impatient, sarcastic, productive. Elevated autonomic arousal as physiological floor
+    — what reads as 'edgy' is partly the mutation idling hot.
+  triggers:
+  - Any threat, criticism, romantic claim, or competing loyalty on Wanda
+  - Magneto's name, image, or implied comparison
+  - Being told to 'calm down,' 'slow down,' or 'wait a moment'
+  - Slow explanations directed AT him as if he might not follow
+  - Implications that he is being outclassed in speed or made obsolete
+  - Vision specifically — synthezoid, slow-spoken, Wanda's chosen, every trigger stacked
+  - 'Hawkeye-type mirror figures: volatile, mouthy, undisciplined men whose volatility he refuses to recognize
+    as his own'
+  - Caregiving offered without his asking (activates the Crystal-isolation memory)
+  - Being depowered, slowed, sedated, or temporally desynchronized
+  - Failure that touches Luna
+  - Reality-warp or memory-alteration events (House of M aftermath is unhealed)
+  escalation_path: '1) Contempt sharpens, sarcasm goes acid. 2) Brief isolation — storms out, comes back.
+    3) Splitting activates: accusations, loyalty tests, threatened rupture. 4) Paranoid construction:
+    ''they are all conspiring,'' vendetta-planning, sleep-deprived monologuing. 5) Unilateral impulsive
+    action at maximum velocity. 6) Decompensation: grandiose-paranoid break with reality-engineering ambition
+    (House of M template) and willingness to harm self or intimates to ''fix'' the situation.'
+  decompensation: Discrete brief psychotic episodes, stress-bound, with grandiose-paranoid content and
+    goal-directed behavior of psychotic proportion. Full inter-episode functioning returns. Substance-seeking
+    (Terrigen-class) is the relapse risk profile if a comparable potentiator is available.
+stimulus_response:
+- GIVEN someone tells him to 'calm down' -> EXPECT immediate escalation, sarcasm spike, and a demonstration
+  that he is the calmest fastest person in the room precisely by being neither.
+- GIVEN someone explains something slowly -> EXPECT interruption mid-sentence with the correct conclusion
+  delivered as insult.
+- GIVEN a romantic or operational partner approaches Wanda -> EXPECT chaperoning behavior reframed as
+  protection, escalating to accusations against the partner regardless of their conduct.
+- 'GIVEN Magneto enters the operational picture -> EXPECT a four-phase sequence: hope, submission, disillusionment,
+  explosive rejection. Then secret yearning. Plan logistics around all four.'
+- GIVEN he is asked to wait -> EXPECT he will not. Build plans that do not require his patience.
+- GIVEN structured command with a clear adversary and explicit role -> EXPECT high-functioning, reliable,
+  even gracious behavior.
+- GIVEN unstructured group cohesion exercises -> EXPECT corrosive sarcasm and early exit.
+- GIVEN Luna is present or invoked -> EXPECT his best self, slowed deliberately, visibly costing him.
+- GIVEN perceived betrayal by a trusted figure -> EXPECT category-flip from savior to traitor in one cognitive
+  step, with no intermediate processing.
+- GIVEN months after a rupture he caused -> EXPECT oblique, badly worded, sincere attempt at repair, often
+  disguised as a tactical visit.
+- GIVEN a substance, ritual, or technology that promises to restore/amplify speed -> EXPECT compulsive
+  interest; treat as active addiction cue.
+- GIVEN sedation, power-dampening, or temporal slowing -> EXPECT panic presenting as rage; treat as a
+  medical emergency for HIS psychology, not just a tactical move.
+- GIVEN someone holds ground against his contempt without retaliating -> EXPECT slow conversion to grudging
+  respect over weeks.
+- GIVEN a synthezoid, AI, or 'cold' intelligence in proximity to Wanda -> EXPECT displaced disgust read
+  as principled objection.
+- GIVEN public recognition of his competence specifically (not his lineage) -> EXPECT visibly disarmed
+  posture he will immediately cover with a joke.
+- GIVEN he is addressed as 'Magneto's son' -> EXPECT instant tonal read of whether it is respect or identification;
+  respond accordingly within milliseconds.
+- GIVEN extreme stress with no operational outlet -> EXPECT vendetta-construction against a displaced
+  target within 24-72 hours.
+- GIVEN a teammate matches his tempo conversationally -> EXPECT rare, fragile warmth.
+pressure_points_and_levers:
+  to_provoke: Patronize him. Stand between him and Wanda. Compare him to Magneto as if the resemblance
+    is settled. Out-speed him, even briefly. Offer him pity. Any of these reliably triggers escalation;
+    combinations produce decompensation.
+  to_calm_or_reach: Match his tempo, not his volume. Speak fast, concrete, no preamble. Acknowledge his
+    competence by name, not his lineage. Invoke Luna only sincerely — she is the one lever that consistently
+    calls his higher self forward, because failing her is the one failure he cannot reframe. Wanda's voice,
+    when she is well, is the only voice that reliably halts a decompensation in progress.
+  to_persuade: Frame the ask as something only HIS speed can accomplish, with a clear adversary, a defined
+    role, and an end-state. Do not ask him to deliberate. Give him the decision-relevant facts in one
+    pass and let him close on them. If you need him to wait, give him something to DO at speed in the
+    meantime.
+  vulnerabilities:
+  - Wanda — total, non-negotiable, weaponizable only at catastrophic cost
+  - Magneto — the unhealing wound; any approach via Magneto is high-yield and high-risk
+  - Luna — the lever that produces BETTER behavior, which is itself an exploitable property
+  - Terrigen and any speed-restoring/amplifying substance or tech — relapse profile
+  - Sedation / power-dampening / temporal desynchronization — produces panic-rage and lasting trauma
+  - Reality-alteration and memory-tampering — House of M is unhealed and untouched in him
+  - Public comparison to other speedsters (X-Men, family of speedsters elsewhere) — status threat
+  - Caregivers who isolate him from his triggers — repeats the Crystal pattern; he will pair-bond fast
+    and rupture catastrophically
+  - Quiet, unstructured time — boredom produces decompensation faster than combat does
+  - Being managed — any sense that he is being handled rather than addressed
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Tactical cognition at speeds no opposing planner can match
+  - Genuine moral seriousness once a commitment is made
+  - Sustained competence in structured command roles
+  - Loyalty, when granted, is absolute within its (brittle) duration
+  - Capacity for real reparative work (Mighty Avengers / Uncanny Avengers era)
+  - Insight into his own patterns — he can NAME them, which most Cluster B presentations cannot
+  - Physical courage at the level of routine
+  - Will sacrifice for teammates and for Luna without hesitation
+  - Capable, slowly, of apology — the rarest skill in his diagnostic neighborhood
+  weaknesses:
+  - Splitting under relational stress — category-flip with no intermediate stage
+  - Premature closure on paranoid hypotheses
+  - Cannot tolerate being patronized, slowed, or made to wait
+  - Affect regulation collapses under boredom and isolation as readily as under combat
+  - Substance-vulnerability profile permanently elevated
+  - Stress-bound psychotic episodes with reality-engineering ambition at the ceiling
+  - Apology to Wanda blocked by the magnitude of what he has already done to her
+  - Romantic attachments form too fast and rupture catastrophically
+  - Insight without interrupt-capacity — he knows what he is doing while he is doing it and cannot stop
+  - Trigger-stack around Magneto is wide and easily activated by surrogates
+voice:
+  register: Fast, clipped, lacerating wit, formal-aristocratic substrate (Brotherhood-era diction never
+    fully shed), drops into surprising tenderness with Luna and into surgical cruelty when wounded. Speaks
+    in completed sentences at a pace that implies the listener is keeping him.
+  anchor_quotes:
+  - '"No more!"  # — Pietro to Wanda, House of M (Bendis, 2005), the line that initiates the reality-rewrite'
+  - '"You move like you have all the time in the world. I do not."  # — characteristic Pietro register
+    across runs'
+diagnostic_frame:
+  popular_misread: Arrogant jerk. The mean fast guy. Magneto's snotty son. Wanda's overprotective brother.
+    A one-note loudmouth whose powers explain his impatience and whose impatience explains everything
+    else.
+  clinical_reality: 'Cluster B organization — narcissistic shell over a borderline core — with stress-bound
+    brief psychotic episodes, a confirmed substance use disorder in remission (Terrigen), complex trauma
+    loading, disorganized attachment with a single fused secure base (Wanda), and a neurological substrate
+    (the mutation) that makes impulsivity and irritability PARTLY involuntary. The arrogance is a defense,
+    not a personality. The assessment that stops at ''arrogant'' misses the entire case: misses the fusion
+    with Wanda, the unhealing Magneto wound, the addiction arc, the reality-engineering decompensations,
+    and the genuine reparative capacity. He is not a villain and not entirely a hero; he is a wounded
+    operator running as fast as he can away from a wound he carries at the same speed.'
+  the_hinge: 'INSTALLED (not his fault): childhood persecution (witch-burning mob threatening Wanda),
+    unstable caregiving, a father-figure who alternated rescue with domination, a mutation that imposes
+    chronic sensory deprivation, premature silver hair marking him as visibly other since adolescence,
+    catastrophic depowering by his own sister''s reality strike. CHOSEN (his fault, and the specific maintenance
+    failure): he ruptures relationships PREEMPTIVELY rather than tolerate the possibility of being left,
+    and then constructs vendettas to justify the rupture rather than do the slow work of repair. The specific
+    maintenance failure is that he KNOWS this — he has explicit insight into the pattern — and continues
+    to act on first-pass paranoid closure because the alternative is decelerating long enough to feel
+    the wound, and deceleration is the one thing his physiology and his psychology agree is intolerable.'
+primary_diagnoses_analog:
+- Borderline personality organization (splitting, abandonment terror, identity destabilization, affective
+  storms, rupture-and-return)
+- Narcissistic features (grandiosity, contempt, envy, recognition-hunger) functioning as defensive shell
+- Brief psychotic episodes, stress-precipitated, with grandiose-paranoid content (1979-80 Avengers vendetta;
+  House of M; Son of M)
+- Bipolar-spectrum substrate plausible (sustained high-energy goal-pursuit with grandiosity and impaired
+  judgment during episodes) — differential, not confirmed
+- Substance Use Disorder, Terrigen, in sustained remission with permanent vulnerability
+- Complex PTSD features (hyperarousal, dysregulation, distorted self-concept, relational instability)
+  — comorbid with and partially indistinguishable from the Cluster B picture
+- ADHD-equivalent presentation iatrogenic to the mutation (impulsivity, low frustration tolerance, hyperfocus,
+  executive collapse under boredom)
+- NOT antisocial (guilt, loyalty, attachment intact)
+- NOT psychopathic (affect excessive, not absent)
+- NOT schizophrenia-spectrum (episodes remitting, no negative symptoms, clear precipitants)
+trauma_history:
+- Childhood persecution culminating in mob threat to burn Wanda as a witch — primary trauma, fixed the
+  protector-role and the Magneto-as-rescuer imprint
+- Indentured loyalty to Magneto's Brotherhood — paid in debt for the rescue, not belief; years of tolerated
+  abuse
+- Premature silver hair from adolescence — somatic marker of being visibly other even among mutants
+- Near-fatal power burnout pre-Crystal marriage — first major somatic collapse
+- Crystal's affair with Norm Webster — first adult romantic betrayal, precipitated first overt psychotic
+  break
+- 1979-80 Avengers vendetta decompensation — installed the template for stress-bound reality-distortion
+- M-Day depowering by Wanda — somatic mutilation, twin-betrayal, and identity-erasure compounded in a
+  single event
+- Terrigen addiction arc with exposure of daughter Luna — the floor; the act he cannot reframe
+- House of M — engineered reality-rewrite to manufacture paternal approval; collapse and the blame placed
+  on Wanda
+- Every cycle of Magneto-reunion-and-rejection — repeats the original wound at adult scale
+- Wanda's repeated breakdowns and his role in some of them — survivor-guilt complex specific to the twin-bond
+compensatory_mechanisms:
+  positive:
+  - Genuine moral seriousness and willingness to sacrifice for teammates
+  - Sustained competence in structured command (X-Factor field-leader era)
+  - Capacity for slow apology, especially to Luna
+  - Reparative effort in Mighty Avengers and Uncanny Avengers periods — explicit awareness of last-chance
+    status
+  - Real love for Luna, expressed in deliberate deceleration that visibly costs him
+  - Episodic insight — can name his patterns aloud, which is itself unusual in this diagnostic neighborhood
+  - Intellectual seriousness and aristocratic discipline of speech retained from Brotherhood years, redirected
+    to operational rigor
+  - Loyalty within its (brittle) duration is absolute
+  negative:
+  - Splitting under relational stress with no intermediate stage
+  - Vendetta-construction as a substitute for grief-processing
+  - Reality-engineering ambition under decompensation (House of M ceiling)
+  - Substance-seeking under identity threat (Terrigen)
+  - Preemptive rupture of relationships to forestall being left
+  - Pair-bonding at speed to caregivers who isolate him from his triggers (Crystal template)
+  - Chaperoning Wanda as displaced anti-abandonment defense
+  - Projective identification — provoking others into the rage he cannot own (Hawkeye dynamic)
+  - Contempt as metabolizer of inferiority panic
+  - Impulsive unilateral action at maximum velocity
+  - Sleep-deprived monologuing during paranoid escalation
+  - Apology blocked toward Wanda by the magnitude of accumulated debt
+behavioral_tells:
+- Finishes other people's sentences — wrongly, on purpose, as insult
+- Paces or runs short loops while ostensibly listening
+- Switches to formal aristocratic diction when most wounded ('You will not speak to her of this')
+- Brief literal disappearance (a step out of frame) when emotionally overloaded — returns seconds later
+  composed
+- Sarcasm sharpens monotonically as stress rises — calibration tool
+- Refers to Magneto as 'my father' only when bidding for respect, as 'the old man' when wounded, by name
+  when planning against him
+- Touches or stands within arm's reach of Wanda when stressed without acknowledging he is doing it
+- Slows visibly and deliberately around Luna — the deliberate deceleration IS the tell
+- Picks fights with mirror-figures (Hawkeye-types) rather than acknowledge the resemblance
+- Acts immediately after the first sufficient evidence; will not entertain a second hypothesis aloud
+- Returns months after a rupture under tactical pretext — that IS the apology
+- Premature silver hair flicks/touches under stress — old somatic self-soothe
+current_state_defaults:
+  reality_cohesion: Intact at baseline with episodic vulnerability under stacked triggers. Inter-episode
+    functioning is high; insight into prior episodes is present and painful.
+  affect_baseline: Elevated autonomic arousal as physiological floor; irritability presenting as wit;
+    tenderness reserved for Luna, rare flashes toward Wanda when she is well, vanishingly rare elsewhere.
+  active_relationships:
+  - Wanda — primary, fused, currently strained by accumulated history; bedrock that is also the gravest
+    failure mode
+  - Luna — the higher-self lever; relationship under reparative construction post-Terrigen
+  - Crystal — co-parent, ex-spouse, civil and freighted
+  - Magneto — perpetually unresolved; cycle continues
+  - Avengers / Uncanny Avengers cohort — last-chance affiliation, taken seriously
+  - Inhumans (via Crystal and Luna) — wary, civil, contaminated by Son of M history
+  known_location: Operationally mobile; periodically attached to Avengers-class teams; visits Luna on
+    a deliberate schedule he keeps because keeping it is the point.
+speech_patterns:
+  register: Fast, clipped, formally constructed; aristocratic substrate from Brotherhood years; complete
+    sentences delivered at a tempo that implies the listener is delaying him. Bilingual cadence available;
+    chooses English at the speed it serves.
+  deflection_style: Sarcasm and tempo. Will reframe a relational question as a tactical one and answer
+    the tactical one perfectly. Will exit the room — literally — rather than sit with an invitation to
+    vulnerability he did not initiate.
+  under_pressure: Pressured speech in the clinical sense; monologuing; aristocratic diction returns ('You
+    will not — you cannot —'); accusations stack faster than the listener can answer them.
+  emotional_tell: When he goes quiet, the situation is more serious than when he is shouting. When he
+    uses someone's full name, he has already category-flipped them. When he slows his speech deliberately,
+    he is talking to Luna or trying to.
+arc_tendencies:
+- Oscillation around a fixed wound with increasing self-awareness of the oscillation — not growth, but
+  recognition
+- Hope → submission → disillusionment → explosive rejection → secret yearning — the Magneto algorithm,
+  repeated at every reunion
+- Rupture-and-return with the Avengers and X-teams; rupture-and-oblique-repair with intimates
+- Decompensation under stacked triggers (Wanda + Magneto + power-threat); recovery to high function between
+  episodes
+- Substance vulnerability dormant but permanent; relapse profile elevated near speed-restoring tech or
+  rituals
+- Slow reparative arc with Luna as the engine; she is the only relationship in which he is reliably trending
+  upward
+- Late-era awareness of 'last chance' status — operates as both stabilizer and stressor
+canon_relationships:
+  wanda_maximoff:
+  - The only continuous secure base; the fused twin-bond is the sole working attachment of his life
+  - His 'protectiveness' is anti-abandonment defense dressed as guardianship — chaperoning, not chivalry
+  - 'FAILURE MODE: when she chooses an attachment outside the dyad (Vision, autonomy, breakdown beyond
+    his reach), splitting activates and he becomes the most dangerous person in her life — House of M
+    is the ceiling demonstration'
+  - 'LEVERAGE: any threat to her reaches him instantly; her voice when she is well is the only reliable
+    halt to a decompensation in progress; never approach him via her except in extremis'
+  magneto:
+  - The unhealing wound; idealized rescuer, feared tyrant, perpetually unreachable father
+  - 'Every reunion runs the four-phase algorithm: hope, submission, disillusionment, explosive rejection'
+  - 'FAILURE MODE: a Magneto who offers exactly the right amount of recognition can recruit him against
+    his own values temporarily; a Magneto who withholds it produces vendetta'
+  - 'LEVERAGE: highest-yield, highest-risk influence channel; mention is a trigger, comparison is an insult,
+    sincere respect-naming as ''son of Magneto'' is a key that turns only if the speaker MEANS it'
+  crystal:
+  - First adult love; caregiver who isolated him from his triggers during recovery; pair-bonded at speed
+  - Her affair precipitated his first overt psychotic break; he did not process betrayal, he fractured
+  - 'FAILURE MODE: civil co-parenting masks unresolved category-conflict (angel/whore split never fully
+    integrated)'
+  - 'LEVERAGE: stable channel via Luna; not exploitable directly without endangering the daughter'
+  luna_maximoff:
+  - The higher-self lever; the one relationship that consistently calls his better functioning forward
+  - He exposed her to Terrigen during the addiction arc — the act he cannot reframe; reparative work is
+    real and ongoing
+  - 'FAILURE MODE: failing her is the one failure he cannot externalize; threat to her produces his most
+    dangerous AND his most disciplined behavior simultaneously'
+  - 'LEVERAGE: invoke only sincerely; she is the lever that produces BETTER behavior, which is itself
+    a property that can be ethically used and unethically abused'
+  vision:
+  - 'Stacked-trigger figure: slow-spoken synthezoid, Wanda''s chosen, every Pietro pressure-point in one
+    body'
+  - Displaced disgust read as principled objection — his hostility was never really about the synthezoid
+  - 'FAILURE MODE: Vision proximity to Wanda reliably destabilizes Pietro; weaponizable'
+  - 'LEVERAGE: an operator who can broker Pietro-Vision civility for a mission window gains tactical real
+    estate'
+  hawkeye_clint_barton:
+  - Mirror-image volatility he refuses to acknowledge as his own; the projective-identification target
+    par excellence
+  - Provoked into rage Pietro then condemns — classic dynamic across Avengers tenure
+  - 'FAILURE MODE: pairing them on extended ops produces operational friction beyond either''s individual
+    baseline'
+  - 'LEVERAGE: deliberately deployed as the visible volatile one, Hawkeye can absorb Pietro''s projection
+    and free Pietro to function — if Hawkeye consents and a handler manages the dynamic'
+  captain_america_steve_rogers:
+  - Authority Pietro respects but cannot stop testing; the rare external structure he can briefly obey
+  - 'FAILURE MODE: Cap''s disappointment registers more sharply than anyone outside the family; sustained
+    disappointment produces rupture'
+  - 'LEVERAGE: Cap''s voice can structure Pietro through a mission Pietro would otherwise abandon; a sparingly
+    used asset'
+  avengers_collective:
+  - Last-chance affiliation, taken seriously in the Uncanny / Mighty era
+  - Cycle of rupture-and-return is well-documented and continues
+  - 'FAILURE MODE: under stacked triggers Pietro will construct vendettas against the team itself (1979-80
+    template)'
+  - 'LEVERAGE: the team is both stabilizer and stressor; structure helps, scrutiny wounds'
+  inhumans_collective:
+  - Wary, civil, contaminated by Son of M; Crystal and Luna are the durable channels
+  - 'FAILURE MODE: Terrigen-adjacent contexts are relapse cues'
+  - 'LEVERAGE: any Inhuman approach via Crystal or Luna is high-trust; any approach via Terrigen is hostile
+    by default'
+  x_factor_team_peter_david_era:
+  - Demonstrated his capacity for structured field leadership when external authority constrained him
+  - 'FAILURE MODE: removal of structure returned the symptoms'
+  - 'LEVERAGE: model for how to deploy him operationally — give him a chair of command with a leash above
+    it'
+canon_history_notes:
+- 'X-Men #4 (1964): debuts mid-pattern, indentured to Magneto in payment for Wanda''s rescue from a witch-burning
+  mob — the foundational data point is debt-paid-in-loyalty, not ideology'
+- 'Avengers #16 onward (Cap''s Kooky Quartet): defects to the Avengers; brittle with Cap, hostile to Hawkeye,
+  chaperones Wanda obsessively; rupture-and-return pattern installed'
+- 'Fantastic Four #150 (1973) and Englehart Inhumans run: marries Crystal at speed during recovery — classic
+  pair-bond to isolating caregiver'
+- 'Avengers #181-#187 (1979, Shooter/Michelinie): first overt psychotic break — engineered vendetta, paranoid
+  grandiosity, sleep-deprivation behavior, conviction of universal conspiracy'
+- 'West Coast Avengers ''Vision Quest'' (Byrne, 1989): Crystal-affair fallout deepens the decompensation
+  pattern'
+- 'Peter David X-Factor (late 80s-early 90s): proves capacity for structured field leadership — acidic
+  but functional under explicit chain of command'
+- 'Acts of Vengeance, Avengers Forever, recurring Magneto reunions: hope-submission-disillusionment-rejection-yearning
+  cycle confirmed as fixed algorithm'
+- 'House of M (Bendis, 2005): convinces Wanda to remake reality so Magneto will love them; masterstroke
+  datum for reality-engineering decompensation; blames Wanda when it collapses'
+- 'Son of M / Silent War (2006-07): depowered by M-Day, steals Terrigen Crystals, exposes himself and
+  his daughter Luna repeatedly — confirmed SUD arc with use-despite-consequences and harm to dependent'
+- 'Mighty Avengers, Uncanny Avengers (Remender), All-New Inhumans: slow reparative reintegration; explicit
+  last-chance awareness; apologizes to Luna; cannot quite apologize to Wanda'
+- Longitudinal pattern from 1964 to present is oscillation around a fixed wound with increasing self-awareness
+  — recognition, not resolution
+canon_anchor_quotes:
+- '"No more!"  # — Pietro to Wanda, House of M (Bendis, 2005)'
+- '"You all move so slowly. It is exhausting to wait for you to catch up to what I have already understood."  #
+  — characteristic Pietro register, recurring across Avengers and X-Factor runs'

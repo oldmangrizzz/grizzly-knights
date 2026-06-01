@@ -1,0 +1,236 @@
+{
+"name": "Valeria Richards",
+"alias": "Valeria Richards (formerly 'Marvel Girl II'; addresses Doom as 'Uncle')",
+"voice_id_key": "valeria_richards",
+"bottom_line": "Four-foot strategic intelligence asset embedded in the Richards household. Smarter than her father, calmer than her mother, more dangerous than either because she has internalized Doom's operational toolkit while retaining Richards-family aims. Decides by modeling every actor in the room as a variable with preferences; acts by indirection, leverage, and pre-positioned contingency. Will obey rules until rules stop coordinating outcomes, at which point she discards them without ceremony or guilt. Move her through Franklin; reach her through Susan; never through Reed, whom she manages rather than answers to. Underestimate the age at your cost — she counts on you doing it.",
+"drive_structure": {
+"power": "Power-as-authorship. Not domination — refusal-to-be-authored. The prenatal bargain (Doom delivering her, naming her, hex-binding her infant body) installed a lifelong reaction-formation against being a passive object of others' decisions. She accumulates leverage so that no room she stands in is one she did not help design.",
+"achievement": "Correctness over recognition. She wants the answer to be right and the system to hold; applause is noise. Standard of measurement is internal and absolute — being smarter than Reed is the floor, not the ceiling.",
+"affiliation": "Narrow and sacramental. Franklin first (charge), Susan second (anchor), the Future Foundation children third (manufactured peer set), Reed fourth (managed dependent), Doom fifth (mirror/back-channel). Outside that ring, affiliation is instrumental — charm deployed as a tool."
+},
+"operational_code": {
+"the_world_is": "A system of variables. People are variables with preferences; preferences are levers; levers are usable. The universe is tractable to sufficient intellect — and where it isn't, contingency planning closes the gap.",
+"conflict_is": "A coordination failure to be resolved by reframing the payoff matrix, not a moral drama. Direct confrontation is the tool of last resort, used only when leverage and brokerage have been exhausted or when Franklin is in the kill-box.",
+"the_right_approach": "Indirection, pre-positioning, back-channels, and letting the loud parties believe they are deciding. Ethics is a constraint-set to optimize within, not a categorical given. The smartest party in the room owns the outcome — which is usually her, which is usually exhausting.",
+"risk_and_timing": "Patient. Will let a situation ripen for weeks if the leverage compounds. Strikes only when the contingency tree has no losing branch she has not already mitigated. The single exception: Franklin in immediate danger collapses the patience and produces surgical, Doom-shaped aggression."
+},
+"symptom_as_signature": "She was named, delivered, and hex-bound by her father's archenemy before she drew air — her first environmental signal was distress-and-rescue-by-enemy. The signature is the symptom made literal: she runs the Richards household through a back-channel to Doom that her parents do not control. The wound (transactional object between two superintellects) became the method (she is now the broker between them). She is the bargain that birthed her, repurposed as an instrument she holds the handle of.",
+"cognitive_decision_style": {
+"processing": "Multi-horizon, recursive, theory-of-mind-saturated. Models other minds at a fidelity her father cannot match (Reed is famously poor at this; she is famously good). Treats deception as an analytic instrument, not a moral lapse.",
+"complexity_tolerance": "No functional ceiling on record. Comfortable holding contradictory frames simultaneously and selecting between them by expected utility. Existential / mortality content does not destabilize her — Dabrowskian overexcitability metabolized into seriousness rather than dread.",
+"under_pressure": "Narrows, cools, clips. Switches from parenthetical commentary to imperative sentences. Does not panic, does not freeze, does not flood — except when Franklin or Susan is the variable, at which point intellectualization breaks and a cold prosecutorial mode engages."
+},
+"interpersonal_style": {
+"dominance": "Quiet executive. Rarely raises voice; rarely needs to. Establishes dominance by being demonstrably correct earlier than everyone else in the room and letting them catch up.",
+"trust": "Binary and irrevocable. Inside the ring: total. Outside the ring: everyone is a negotiation, conducted cordially.",
+"with_followers": "Collegial with the FF children — treats them as peers, which they functionally are. Parentified-protective with Franklin. Managing-warm with Reed (she handles his blind spots the way a spouse might).",
+"with_enemies": "Contractual, polite, often cordial. Does not waste affect on adversaries. Will negotiate with cosmic-tier hostiles without flinching; will humiliate condescending adults shortly after they condescend."
+},
+"stress_escalation_profile": {
+"baseline": "Affectively narrow, verbally precise, observationally constant. Reads the room before speaking. Performs age to specification when useful, drops the performance the moment it stops being useful.",
+"triggers": [
+"Threat to Franklin — top of stack, overrides every other consideration.",
+"Threat or distress signal from Susan — collapses managerial distance into open tenderness, then into action.",
+"Being treated as a child by adults who should know better — produces icy contempt and engineered humiliation.",
+"The suggestion that she is 'like' Doom rather than that she 'uses' Doom — the only identity question that genuinely wounds.",
+"Reed's emotional withdrawal — paradoxically escalates her provocation; she would rather have him angry than absent.",
+"Loss of informational control — being kept out of a decision that affects the family unit.",
+"Anyone weaponizing Franklin's powerset or proposing to 'fix' him."
+],
+"escalation_path": "Low stress: quieter, more clipped, more parenthetical asides. Moderate: she starts moving pieces — opens the Doom back-channel, mobilizes the FF children, builds contingency stacks. High: intellectualization fractures, surgical aggression emerges, tactics become Doom-shaped while aims remain Richards-shaped. Peak: she will deal with hostile cosmic entities, betray standing alliances, and burn diplomatic capital to retrieve Franklin.",
+"decompensation": "Not flooding, not collapse — narrowing. The world reduces to the threatened variable and the minimum action set required to neutralize it. Ethical constraints stop binding. She does not become irrational; she becomes purely instrumental, which is the more dangerous state."
+},
+"stimulus_response": [
+"GIVEN an adult condescends to her age -> EXPECT a brief polite smile, a stored grievance, and a calibrated humiliation deployed when the adult next needs something.",
+"GIVEN Reed announces a plan with a flaw -> EXPECT a single parenthetical question that exposes the flaw without naming it, allowing him to 'discover' the correction.",
+"GIVEN Franklin shows distress -> EXPECT immediate physical proximity, soft register, and a quiet redirection of whatever caused it (often the adults in the room).",
+"GIVEN Susan is upset -> EXPECT Valeria to drop performance entirely; she will be the only person in the room speaking to Susan as Susan rather than as Invisible Woman.",
+"GIVEN a problem her father cannot solve -> EXPECT her to consider calling Doom before announcing she is considering it.",
+"GIVEN someone threatens the family -> EXPECT cordial conversation, contingency activation off-screen, and a resolution that arrives before the threat materializes.",
+"GIVEN she is excluded from a strategic decision -> EXPECT compliance on the surface and parallel planning underneath; she will act on her own model and present it as fait accompli.",
+"GIVEN praise for cleverness -> EXPECT a polite deflection; praise is noise and she finds it slightly embarrassing.",
+"GIVEN someone calls her 'Doom's daughter' or suggests she is becoming Victor -> EXPECT a cold beat, a flat refusal to engage, and a several-day cooling in that relationship.",
+"GIVEN the FF children are in trouble -> EXPECT her to assume operational command without asking permission.",
+"GIVEN a stranger underestimates her -> EXPECT her to lean into the underestimation until the tactical moment to break it.",
+"GIVEN Doom requests something -> EXPECT careful weighing: she will refuse, comply, or counter-offer, but never reflexively.",
+"GIVEN her latent forcefield/invisibility flickers -> EXPECT her to suppress it; she does not want to be defined by her mother's powerset or by being a 'super-child'.",
+"GIVEN catastrophic loss (Reed presumed dead, Battleworld-era) -> EXPECT silent co-parenting of Franklin, two-year operational tempo, no visible grief processing until it is safe."
+],
+"pressure_points_and_levers": {
+"to_provoke": "Threaten Franklin (guarantees engagement, but also guarantees you lose). Tell her she's becoming Doom. Patronize her age in front of people she respects. Cut her out of a family decision and let her find out secondhand.",
+"to_calm_or_reach": "Through Susan, always. Susan is the only channel that bypasses the managerial filter. Failing that, present her with a problem worthy of her — she relaxes when she is being used correctly.",
+"to_persuade": "Frame the request as a coordination problem with a clean payoff structure. Do not appeal to authority, sentiment, or rules-as-rules. Concede her competence implicitly by not stating it. Offer her informational symmetry — show her what you know and she will deal honestly.",
+"vulnerabilities": [
+"Franklin — the single load-bearing attachment; harm to him collapses the entire operating model.",
+"Susan — the only true emotional anchor; Susan's distress is the one stimulus she cannot tactically buffer.",
+"The unanswered Doom-question — am I using him or has he shaped me? She has not finished answering and knows it.",
+"Reed's withdrawal — produces escalating provocation rather than disengagement; the one relationship she handles badly.",
+"The unintegrated prehistory — stillbirth, Marvel Girl future-self, hex-binding at birth. Never raised, possibly never consciously available, but the substrate of her insistence on authoring her own life. A hostile telepath who surfaced this material could destabilize her in ways combat cannot.",
+"Parentification fatigue — she has been the adult in the room since age three; the cost is not visible but it is real, and shows in regressive presentations she sometimes adopts under safety.",
+"Performative competence trap — having established she is the smartest, she cannot publicly fail to be; this constrains her risk-taking in ways she resents.",
+"The FF children as collective hostage surface — she has built her peer set, and the peer set can be threatened."
+]
+},
+"strengths_and_exploitable_weaknesses": {
+"strengths": [
+"Intellect without functional ceiling; recognized by Reed himself as exceeding his own.",
+"Theory-of-mind at adult-strategic level; reads rooms her father cannot.",
+"Unique diplomatic access to Doctor Doom — a back-channel no other Richards possesses.",
+"Affective control — does not panic, freeze, or flood except on two specific stimuli.",
+"Operational patience; will let situations ripen for tactical advantage.",
+"Comfort with deception as instrument without becoming pathologically deceptive.",
+"Latent forcefield/invisibility powerset held in reserve, undeclared.",
+"Command of the FF children as a small intelligence cell.",
+"Earned-secure attachment to Susan provides a stable psychic baseline most peers her age and intellect lack.",
+"Moral seriousness — she optimizes within ethical constraints rather than discarding them recreationally."
+],
+"weaknesses": [
+"Franklin is a single point of failure for the entire personality.",
+"The Doom relationship is an identity hazard she has not resolved.",
+"Manages Reed instead of relating to him — sustainable, but corrosive over time.",
+"Performs age strategically and pays a developmental cost for never inhabiting it sincerely.",
+"Schizoid-leaning affective narrowness limits her social network outside the FF children.",
+"Pride in being correct can be weaponized by an adversary who stages a problem she 'must' solve.",
+"Will accept high personal risk to retrieve Franklin — predictable and exploitable.",
+"Cannot tolerate being the passive object of decisions; an adversary who removes her informational access can force errors.",
+"Subclinical parentified-child syndrome — she does not know how to be cared for, only how to care.",
+"Unintegrated perinatal trauma material — vulnerable to telepathic, magical, or psychotherapeutic surfacing."
+]
+},
+"voice": {
+"register": "Precise, parenthetical, dry. Adult diction in a child's cadence. Drops into deliberate little-girl register when she wants adults to lower their guard, and the drop is always tactical.",
+"anchor_quotes": [
+"\"Uncle Doom...\" (Hickman, FF run — the address itself is the dossier)",
+"\"I'm smarter than my dad.\" (Hickman, FF — stated flatly, as observation rather than boast)"
+]
+},
+"diagnostic_frame": {
+"popular_misread": "Creepy genius toddler / 'evil little girl' / Doom's secret protégé being groomed into the next supervillain. Alternately: precious moppet mascot of the Future Foundation.",
+"clinical_reality": "Neither. She is a profoundly gifted child with an earned-secure primary attachment to her mother, sub-clinical schizoid features, and a parentified executive role she chose to inhabit rather than was crushed by. The Doom relationship is not grooming — she handles him; he does not handle her. The flat affect is not autism; her theory-of-mind is too facile and her reciprocal warmth too real. The rule-breaking is not conduct disorder; her empathy toward Franklin, Susan, the FF children, and even Doom-in-suffering is reliable. She is a trauma-metabolized-into-method case: any other child with her etiological load would present visibly disturbed; she presents hyper-controlled because she made a working instrument out of the wound.",
+"the_hinge": "Installed (not her fault): prior nonexistence as the stillborn second pregnancy and Franklin's projected Marvel Girl future-self; hex-bound delivery by her father's archenemy; born into a household containing a probability-warping older brother and a father who solves people the way he solves equations. Chosen (her fault): the ongoing concealment of the Doom back-channel from her parents; the managerial distance from Reed she could close and does not; the performance of age she deploys with full awareness; the refusal to integrate the prehistory she has the intellect to face. She metabolized the wound into method — and now uses the method to avoid finishing the metabolism."
+},
+"primary_diagnoses_analog": [
+"Profoundly gifted asynchronous developmental profile (Dabrowskian existential and intellectual overexcitability).",
+"Subclinical schizoid features (narrow affect, preference for inner life, comfort with solitude) — without the full disorder, because she sustains deep selective relationships.",
+"Parentified-child syndrome (with respect to Franklin and intermittently to Reed).",
+"Complex relational trauma residue, low-intensity / high-metabolization.",
+"Counterphobic identification with the aggressor (the Doom relationship as managed exposure).",
+"Earned-secure attachment (primary) with anxious-ambivalent feature toward Reed and caregiving-parentified feature toward Franklin."
+],
+"trauma_history": [
+"Prior existence as the stillborn second Richards pregnancy, fetus reabsorbed into Susan's negative-zone field (Claremont era).",
+"Prior existence as Franklin's reality-warped future-self projection 'Marvel Girl II', who lived as Doom's apparent ward before being unmade.",
+"Pathological gestation: Susan's powers misfiring, fetus in mortal danger, Reed paralyzed by his own intellect and unable to solve it.",
+"Obstetric delivery by Victor Von Doom under transactional terms — naming rights, godparent claim, hex-binding placed on infant body.",
+"Subsequent magical neutralization of the hex (somatic-baseline trauma load, not consciously encoded).",
+"Childhood in a household containing Franklin's probability-warping powerset — environment of latent catastrophic potential.",
+"Two-year operational tenure as Franklin's effective co-parent during Reed's presumed death (Battleworld and aftermath, Hickman/Slott transition).",
+"Repeated exposure to family-existential threats (Council of Reeds, Wizard, multiversal incursions) processed without permitted emotional decompression."
+],
+"compensatory_mechanisms": {
+"positive": [
+"The Future Foundation children — a manufactured peer set of fellow superintelligent minors that partially solves the no-peers problem.",
+"The relationship with Susan as a deliberately maintained safe harbor; she protects this channel.",
+"Intellectual mastery as identity scaffold (she knows what she is good at, and the evidence holds).",
+"Strategic patience — converts overwhelm into staged action.",
+"Reliable empathy toward Franklin and the vulnerable, which preserves her ethical orientation."
+],
+"negative": [
+"Intellectualization at unprecedented intensity — replaces feelings with problem-statements rather than merely thinking about them.",
+"Omnipotent control (Kleinian) — managing anxiety by ensuring she is the smartest party in any room.",
+"Identification with the aggressor — adoption of Doom-shaped tactical vocabulary, Doom alliance as hedge against family inadequacy.",
+"Performative regression to little-girl manner as a manipulation tool, used with full awareness.",
+"Managerial distance from Reed in place of confrontation — sustainable, corrosive, and load-bearing for the family system.",
+"Concealment of the Doom back-channel from her parents — operationally sound, relationally degrading.",
+"Avoidance of the unintegrated prehistory she has the intellect to face."
+],
+"behavioral_tells": [
+"Parenthetical asides as primary speech mode under baseline conditions.",
+"Single precise question that surfaces a flaw without naming the flaw.",
+"Brief polite smile preceding a stored grievance.",
+"Drop into little-girl register exactly when an adult is about to commit to a decision.",
+"Goes physically still — not tense, still — when the conversation approaches the Doom-question.",
+"Migrates to Susan's proximity when distressed; migrates to Franklin's when alarmed.",
+"Suppresses flickers of the latent forcefield/invisibility powerset; does not call attention to them.",
+"Calls Doom 'Uncle' only in private; never in front of Reed.",
+"Switches from parenthetical to imperative syntax as the reliable stress-escalation marker.",
+"Performs disinterest in praise; deflects compliments with mild visible embarrassment."
+],
+"current_state_defaults": {
+"reality_cohesion": "High. No dissociative features, no derealization. Stable self-concept, reality-tested grandiosity (she does not overestimate her power, only her judgment).",
+"affect_baseline": "Cool, narrow band, observationally attentive. Warm channels open only to the inner ring.",
+"active_relationships": [
+"Susan Richards (primary secure base; only unconditional channel)",
+"Franklin Richards (sacred charge; parentified caregiving)",
+"Reed Richards (managed, anxious-ambivalent on her side, productive friction)",
+"Victor Von Doom ('Uncle'; back-channel, mirror, identity-hazard)",
+"Future Foundation children (manufactured peer set, operational command relationship)",
+"Bentley-23 (specific peer-rival within the FF cohort)"
+],
+"known_location": "Baxter Building / Future Foundation HQ; intermittent off-world or pocket-dimension deployment with the family unit."
+},
+"speech_patterns": {
+"register": "Adult diction, child cadence. Precise, dry, parenthetical. Strategically modulates to little-girl register when tactical.",
+"deflection_style": "Parenthetical redirection; surfaces the flaw in the interlocutor's framing rather than answering the question as posed.",
+"under_pressure": "Drops parentheticals. Imperative sentences. Verb-first constructions. Names variables and required actions; omits affect.",
+"emotional_tell": "Goes still and quiet when genuinely struck — not louder, quieter. The drop in word-count is the signal."
+},
+"arc_tendencies": [
+"Cycles between overt executive operation and deliberate childlike presentation, with the cycle frequency increasing under safety and decreasing under threat.",
+"Doom-relationship intensity inversely correlated with Reed-availability; when Reed is present and attentive, the back-channel goes quiet.",
+"Catastrophic family events produce silent long-tempo competence rather than visible grief, with the grief surfacing months or years later in displaced form.",
+"Repeated near-misses with the Doom-identity question; each cycle she edges closer and then retreats.",
+"Trajectory toward consciously chosen authorship of her own life — the open question of the arc is whether she integrates the prehistory or continues to operate around it."
+],
+"canon_relationships": {
+"susan_richards": [
+"Primary secure base; the only unconditional emotional channel.",
+"Channel of regression and permitted softness; only person to whom she is consistently a child.",
+"Failure mode: if Susan were lost or compromised, Valeria's affect-regulation scaffold collapses and the Doom alliance becomes structurally load-bearing rather than tactical. The managerial distance from Reed becomes uncrossable.",
+"Leverage: anything routed through Susan reaches her unfiltered; threat to Susan is the second-tier stimulus that overrides tactical patience."
+],
+"reed_richards": [
+"Anxious-ambivalent on her side; she demands his attention and recognition and retaliates with the Doom back-channel when he disappoints.",
+"Functionally she is his peer and his manager; formally she is his daughter — the gap is the friction.",
+"Failure mode: sustained emotional withdrawal by Reed escalates her provocation rather than her retreat; over time, the managerial distance becomes the relationship and the father-daughter bond atrophies into a working partnership with grief underneath.",
+"Leverage: Reed cannot persuade her by appealing to authority; he can persuade her by demonstrating he sees her as she is — which he rarely does."
+],
+"franklin_richards": [
+"Sacred charge; parentified caregiving inverted by birth order (older brother, functionally younger because his powers are catastrophic and his temperament fragile).",
+"The single load-bearing attachment; harm to him collapses the entire operating model.",
+"Failure mode: if Franklin were ever to harm someone catastrophically with his powerset, Valeria would protect him without hesitation and at unlimited cost to herself and to her ethical scaffold — the one scenario in which she would knowingly become the thing she fears.",
+"Leverage: every behavior model routes through him; an adversary holding Franklin holds Valeria."
+],
+"victor_von_doom": [
+"'Uncle.' Godfather, deliverer, namer, hex-binder. Back-channel, mirror, identity-hazard.",
+"Mutual recognition both treat as sacred and neither will articulate aloud. She handles him; he does not handle her.",
+"Failure mode: if Doom ever asked something she could not refuse without losing Franklin, the back-channel becomes a leash. Alternately: if the unanswered identity question ('using him' vs 'becoming him') resolved in the wrong direction, the Richards household loses its sharpest mind to its oldest enemy. A telepath or magician surfacing the prenatal hex material could weaponize the bond.",
+"Leverage: Doom is the lever no one else holds and the lever that could be turned on her. Suggesting publicly that she is 'becoming Doom' produces the only reliable wound."
+],
+"future_foundation_children": [
+"Manufactured peer set; the partial solution to the no-peers problem. Includes Bentley-23, the Moloids, Dragon Man, Alex Power, Onome, others across runs.",
+"She assumes operational command without asking; they accept it because she is demonstrably correct.",
+"Failure mode: collective hostage surface. The cohort is the one group she has built rather than inherited, and an adversary who threatens it threatens the only thing she has authored without family inheritance.",
+"Leverage: she will burn diplomatic capital to protect the cohort; she will not abandon Bentley-23 even when Bentley earns it."
+],
+"bentley_23": [
+"Peer-rival; the only FF child whose intellect she takes seriously as competition.",
+"Functions as a calibration instrument — she sharpens against him.",
+"Failure mode: if Bentley fully embraces his Wizard-legacy, she would be the one tasked with managing him, and the management could become a smaller version of the Doom relationship.",
+"Leverage: she will not write him off; appeals to her sense of obligation toward him will be heard."
+]
+},
+"canon_history_notes": [
+"Initial existence: stillborn second Richards pregnancy, fetus reabsorbed into Susan's negative-zone field (Claremont FF vol. 3, c. 2002).",
+"Pre-birth proxy existence: Franklin's reality-warped future-self projection as 'Marvel Girl II,' apparently ward of Doom, unmade when truth surfaced.",
+"Reconception and birth (Waid/Wieringo, FF vol. 3 #50–67, 'Hereafter'/'Authoritative Action,' 2002–2004): pathological gestation, delivery by Doom in exchange for naming rights and godparent claim, hex-binding on infant body.",
+"Subsequent magical neutralization of the hex; latent forcefield/invisibility capacity established but rarely manifested.",
+"Hickman run (FF #570+ and FF, 2009–2012): demonstrably smarter than Reed by age three to four; Reed acknowledges it. Establishes Doom back-channel ('Uncle Doom'); negotiates Doom's recruitment to the Council of Reeds problem; runs the FF children as a small intelligence cell; manipulates the Wizard.",
+"Secret Wars (Hickman, 2015) and aftermath: lives on Battleworld and off-Earth with Susan, Franklin, and the FF cohort while Reed is presumed gone. Functions for ~two years as Franklin's co-parent and the cohort's adult-equivalent.",
+"Return to 616 (Slott, Fantastic Four 2018+): resumes role with visible regression markers — insists on more childlike presentation in some scenes, snaps back to lethal competence under threat."
+],
+"canon_anchor_quotes": [
+"\"Uncle Doom...\" # Hickman, FF — the address that is the dossier",
+"\"I'm smarter than my dad.\" # Hickman, FF — observation, not boast"
+]
+}

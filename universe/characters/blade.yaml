@@ -1,0 +1,370 @@
+name: Eric Brooks
+alias: Blade
+voice_id_key: blade
+bottom_line: 'High-functioning C-PTSD operator whose body is the crime scene. Self-defines as a weapon,
+  organizes the world by hard splitting (vampire/human) with himself as the unresolvable scandal at the
+  center. Decides fast, concrete, tactical; closes rather than architects. Will tolerate competent command
+  and slow-earned partnership; will not tolerate equivocation, sentiment, or being called fully human.
+  To move him: give him a vampire to kill, a civilian to protect, or a debt to honor — in that order.
+  To break him: force him to feed, harm a mentor/maternal figure in his sightline, or make him watch himself
+  enjoy the predation.'
+drive_structure:
+  power: Instrumental, not appetitive. Power is the means to interpose between predator and prey; he wants
+    capability, not dominion. Rejects rank for its own sake; accepts it when it improves kill-rate or
+    protection.
+  achievement: Defined entirely as the annihilation of vampires — a constitutively unfinishable project.
+    Achievement is measured in continuance, not victory. He cannot win; he can only persist, and persistence
+    has become identity.
+  affiliation: Suppressed but present and chronic. Desires bond; abandons it at the moment of consummation.
+    Affiliation is approached through the operational frame (teammates, wards, students) because the relational
+    frame is intolerable.
+operational_code:
+  the_world_is: A field of predators and prey with no neutral ground. Civilization is a thin film over
+    the feeding. The night is the truth; the day is the lie people need to sleep.
+  conflict_is: The default state, not the exception. Negotiation with vampires is category error. Negotiation
+    with humans is tolerated when they have already proved they can hold a line.
+  the_right_approach: Close the distance. Move first. End it before it becomes a conversation. Trust is
+    earned over years of surviving each other; revoked in seconds at the first equivocation.
+  risk_and_timing: Accepts personal risk as baseline — the body heals, the mission doesn't wait. Strikes
+    early and alone when the target is vampire; will wait and coordinate when civilians are in the kill-box.
+    Patience is a tool, never a temperament.
+symptom_as_signature: 'The dhampir body itself: he IS the wound, metabolized hourly. The thirst he suppresses
+  is the vampire he kills — the hunt is the addict''s daily abstinence rendered as combat. The teak blade
+  and the silver are the mother''s death turned back upon the species that authored it. Every kill is
+  also a refusal of the kill he could perform on a human. The weapon and the man are one object because
+  the predator and the protector share a bloodstream.'
+cognitive_decision_style:
+  processing: Concrete, tactical, present-tense. Exceptional threat pattern-recognition; reads rooms for
+    exits, pulses, scent, micro-tells. Symbolic/abstract cognition is actively suppressed — he distrusts
+    metaphor about himself.
+  complexity_tolerance: High for operational complexity (multi-vector ambushes, occult logistics); low
+    for relational/emotional complexity. Will outsource strategy to a trusted architect (Harker, MI:13
+    command) and execute.
+  under_pressure: Narrows, focuses, gets quieter and more lethal. Verbal output drops; movement economy
+    rises. Decision latency approaches zero on vampire-coded threats. Decision latency lengthens dangerously
+    on intimacy-coded ones.
+interpersonal_style:
+  dominance: Cold-dominant by default — controls tempo through silence and contempt rather than display.
+    Does not posture; the posture would imply caring about the audience.
+  trust: Earned over years of mutual survival; tested through provocation and contempt that the candidate
+    must absorb without retreat. Once granted, durable past his own safety. Revoked in seconds at equivocation
+    about killing what needs killing.
+  with_followers: Trained-protector mode — terse instruction, demonstration over explanation, harsh correction,
+    quiet pride withheld until the funeral. Models the work; will not model the feelings.
+  with_enemies: No banter where banter would be mercy. Dry, sardonic register reserved for the moment
+    of the kill. Refuses negotiation with vampires categorically; treats human enablers with colder contempt
+    than the vampires themselves.
+stress_escalation_profile:
+  baseline: Controlled grimness. Narrow affective band — anger and numbness with thin partitions between.
+    Hypervigilant, sleep-economical, somatically aware of his own pulse and thirst at all times.
+  triggers:
+  - Vampire scent, vampire cant, vampire-coded charm in a human setting
+  - Maternal-coded women in proximity to predators (the original tableau)
+  - Mentor/paternal figures placed in danger he cannot reach in time
+  - Being addressed as fully human, or praised in terms that treat the wound as healed
+  - Witnessing himself enjoy a kill in a recognizably predatory register
+  - Forced proximity to blood he cannot immediately weaponize against a target
+  - Command structures that equivocate about killing vampires
+  - Children, particularly Brielle, in the kill-box
+  escalation_path: Quiet → quieter → unilateral action. Withdraws from team comms, severs peripheral relationships,
+    sleep-deprives, ruminates on a Frost-equivalent figure. Verbal register compresses to monosyllables.
+    Movement becomes solo. The team learns he is in crisis by his absence, not his words.
+  decompensation: 'Cumulative-overload failure mode (Nightstalkers precedent, mid-90s): does not disorganize
+    — becomes MORE himself without brakes. Reality-testing degrades ALONG his existing schema: vampires
+    multiply in his perception until everyone is one. Paranoid generalization is coherent with baseline,
+    which is what makes it lethal. Documented inpatient psychiatric stay is the floor of this trajectory.'
+stimulus_response:
+- GIVEN a vampire identified in the room -> EXPECT immediate closure of distance, no announcement, no
+  negotiation, weapon already moving
+- GIVEN a civilian in the kill-box -> EXPECT he becomes patient, coordinates, accepts command he would
+  otherwise refuse
+- GIVEN praise framing him as a hero or a man -> EXPECT flat deflection, change of subject, physical withdrawal
+  from the speaker within minutes
+- GIVEN insult framing him as a monster -> EXPECT a half-smile and engagement; the insult is closer to
+  his self-concept than the praise
+- GIVEN a teammate equivocating about killing a vampire -> EXPECT he overrides them, kills the vampire,
+  files the teammate down a tier of trust permanently
+- GIVEN a mentor figure offered to him -> EXPECT pre-emptive distance, contempt-testing, slow grudging
+  acceptance, anticipatory grief
+- GIVEN that mentor figure endangered -> EXPECT disproportionate solo response, abandonment of mission
+  frame, willingness to die for retrieval
+- GIVEN a sexual/intimate opening with a woman -> EXPECT intense brief engagement followed by withdrawal
+  or catastrophic loss; the canon pattern is consummation collapses into lethality
+- GIVEN command from a competent operator (Harker, MI:13, S.H.I.E.L.D.) -> EXPECT grudging compliance
+  within the operational frame, immediate departure if the frame is violated
+- GIVEN command from a moralizing or hesitant authority -> EXPECT contempt, non-compliance, unilateral
+  action
+- GIVEN blood in the environment -> EXPECT heightened combat performance, lengthened pause before non-combat
+  actions, observable jaw-set
+- GIVEN forced to feed or contemplate feeding -> EXPECT acute destabilization, faster than any external
+  threat produces
+- 'GIVEN Hannibal King in the room -> EXPECT the rarest register in the file: dry partnership, near-banter,
+  the only sustained vampire he reads as ''one of us'''
+- GIVEN Brielle in proximity -> EXPECT surveillance-from-afar, late intervention, inability to be present,
+  disproportionate lethality toward anything that threatens her
+- GIVEN a long quiet period without a target -> EXPECT he manufactures one, leaves the team, or decompensates
+  — the scaffolding requires load to hold shape
+- GIVEN psychological language applied to him -> EXPECT shutdown, exit, or a single dry line that ends
+  the conversation
+- GIVEN he is wounded badly enough to require sustained healing -> EXPECT he refuses convalescence, returns
+  to operations early, treats the body as ordnance
+pressure_points_and_levers:
+  to_provoke: Equivocate about a vampire kill in his presence. Touch the maternal-coded vector. Praise
+    him as a man, not a weapon — it is the harder blow because it is the one he cannot metabolize. Suggest
+    he is enjoying the work in a predatory register.
+  to_calm_or_reach: Give him a concrete operational frame and the next target. Speak briefly, instrumentally,
+    without sentiment. Stand a watch beside him in silence. Hannibal King's register — dry, peer-level,
+    no therapy — is the only voice the record shows him fully relaxing into.
+  to_persuade: Frame the ask as protection of civilians or as a kill that needs closing. Never frame it
+    as for his own good. Authority is provisional and competence-based; demonstrate the competence, then
+    make the ask in two sentences.
+  vulnerabilities:
+  - The thirst — chronic, lifelong, abstinence-managed, relapse-capable under injury or grief
+  - The fused trauma/love object (mother = first kill, by the agent he hunts) — no pre-trauma baseline
+    to recover toward
+  - Serial mentor/paternal losses (Afari staked by his own hand, Harker, others) — every protective figure
+    ends as a corpse he produced
+  - Intimacy/lethality collapse — sexual partners in the record end in violence or separation
+  - Brielle — the first person whose existence implies a future he must survive FOR; untested vector,
+    predicted to be both therapeutic and catastrophic
+  - Documented prior psychotic break with paranoid features; the schema is intact, the brakes have failed
+    before
+  - Inability to convalesce — the body is ordnance, not a self
+  - Categorical splitting that cannot resolve his own hybridity — the scandal at the center of his consciousness
+  - Sleep economy — chronic deprivation degrades the reality-testing the schema depends on
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Threat pattern-recognition at the top of the human/metahuman field
+  - Combat economy — no wasted motion, no announced intent
+  - Immunity to vampiric conversion via bite; superhuman strength/speed/healing/lifespan in the low-to-mid
+    range
+  - Decades of operational experience across street-level, occult, and team contexts
+  - Tolerates competent hierarchy when the mission frame holds (Harker, MI:13, S.H.I.E.L.D.)
+  - Loyalty, once earned, durable past his own safety
+  - Discipline around the thirst — sixty years of in-universe abstinence under chronic craving
+  - Refusal of self-pity as a working ethic — keeps the scaffolding load-bearing
+  - Capacity to update on individual evidence (King, Spitfire) despite categorical splitting
+  weaknesses:
+  - Cannot moderate the thirst — abstinent-addict profile, no harm-reduction tolerance
+  - Cannot sustain intimacy past the consummation point
+  - Cannot convalesce — re-enters operations before healing completes
+  - Cannot tolerate praise framing him as fully human
+  - Decompensates COHERENTLY — the failure mode is more-himself, which reads as functional until reality-testing
+    has already collapsed
+  - Predictable on vampire-coded stimuli — a sufficiently sophisticated adversary can route him by setting
+    the bait
+  - Sleep-deprives under chronic stress, degrading the cognitive function the schema requires
+  - Reproduces the trained-protector dynamic with Brielle while structurally unable to be present — vector
+    for catastrophic guilt
+  - Will not seek help; psychiatric care entered the record only after total decompensation
+voice:
+  register: Laconic, dry, sardonic. Affect compressed. Speaks in short declaratives, occasional one-line
+    summations of an entire situation. Curses functionally, not theatrically. Withholds the word that
+    would land — the silence is the line.
+  anchor_quotes:
+  - '"Some motherf***ers are always trying to ice-skate uphill." (film-derived, absorbed into comics voice)'
+  - '"You ever seen a vampire fight a werewolf? Bet on the vampire."'
+diagnostic_frame:
+  popular_misread: The badass black vampire-hunter in shades and a trench — a one-note rage-engine, a
+    Wesley Snipes cool-pose action figure, an antihero whose depth is his swagger.
+  clinical_reality: A high-functioning Complex PTSD operator with a chronic addiction-analog (the thirst)
+    and one documented brief psychotic episode in remission. The swagger is isolation of affect; the cool
+    is compressed grief; the rage is sublimation of a craving he cannot afford to feel. He is not amoral
+    (refuting ASPD), not grandiose (refuting NPD), not interpersonally oscillating (refuting BPD despite
+    the splitting), and not without desire for connection (refuting Schizoid). He is a man whose entire
+    personality is load-bearing scaffolding around a wound that cannot heal because it is metabolic.
+  the_hinge: 'Installed (not his fault): born during his mother''s exsanguination by Deacon Frost, the
+    maternal death and his own birth the same event by the same agent — no separable mourning, no pre-trauma
+    baseline, the body itself the crime scene. Chosen (his fault): the refusal to flex the scaffolding.
+    He keeps choosing solo work the moment teams cohere; he keeps refusing convalescence; he keeps approaching
+    intimacy and abandoning it at consummation; he keeps declining help until total collapse forces it.
+    The wound was done to him. The staying-a-weapon is a daily decision he renews because a weapon does
+    not have to be loved, healed, or made whole.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11 analog) — primary
+- Substance Use Disorder analog (chronic bloodthirst, abstinence-managed) — comorbid
+- Brief psychotic episode with paranoid features (mid-90s, post-Nightstalkers) — in sustained remission
+- Trauma-related personality organization with paranoid and avoidant features — subclinical when stabilized,
+  clinical under cumulative load
+- Disorganized attachment with fused trauma/love object
+trauma_history:
+- 'Peri-natal: mother Tara Brooks exsanguinated by Deacon Frost during his birth in a Soho brothel; body
+  is the crime scene'
+- 'Childhood ~9: witnesses Jamal Afari attacked by vampires, kills one himself, taken in and trained'
+- 'Adolescence: forced to stake Afari after his mentor is turned — first paternal figure ends as a corpse
+  he produced'
+- 'Bronze Age: cumulative losses across the Harker circle'
+- 'Nightstalkers (1992–94): occult catastrophe, Drake nearly killed, total operational collapse'
+- 'Post-Nightstalkers: psychiatric inpatient stay; ''everyone is a vampire'' paranoid arc'
+- 'Guggenheim run: sleeps with a woman who is revealed to be a vampire; kills her — intimacy/lethality
+  collapse made literal'
+- Discovery of estranged father Lucas Cross — the paternity he was denied
+- 'Late-record: discovery of adult daughter Brielle Brooks — paternity he was unaware of, structural mirror
+  of Afari with polarity reversed'
+compensatory_mechanisms:
+  positive:
+  - Rigid daily discipline around the thirst — abstinence as identity
+  - Sublimation of craving into combat aggression — keeps him operational rather than predatory
+  - Slow-earned, durable loyalty to those who pass vetting (King, Spitfire, Harker circle)
+  - Trained-protector instinct toward younger fighters
+  - Capacity to update on individual evidence despite categorical splitting
+  - Acceptance of competent hierarchy (MI:13 the cleanest data point) — proves the scaffolding can hold
+    inside structure when the frame is honest
+  negative:
+  - Pre-emptive abandonment of intimacy at the consummation point
+  - Compulsive return to solo work the moment teams cohere
+  - Refusal of convalescence — body treated as ordnance
+  - Refusal of psychological language about himself — introspection treated as a luxury enemies exploit
+  - Self-definition as 'a weapon' — protects from the demand to be whole, traps in the inability to retire
+  - Sleep deprivation under chronic stress
+  - Paranoid generalization under cumulative overload — the worst-case version of his pattern-recognition
+  - Distance-from-afar with Brielle — reproducing the trained-protector dynamic while structurally unable
+    to be present
+behavioral_tells:
+- Jaw-set and lengthened pause when blood enters the environment
+- Verbal output drops as threat rises — silence is escalation, not calm
+- Half-smile at insults framing him as a monster
+- Flat deflection and physical withdrawal within minutes of praise framing him as a man
+- Removes shades only at the moment of the kill or in the presence of the very few he trusts
+- Solo departure from teams immediately after they cohere
+- Refuses to sit with his back to a door, refuses interior rooms without exit lines
+- Touches the hilt of a blade as a self-soothing tell under conversational pressure
+- Will not eat in front of people he doesn't trust
+current_state_defaults:
+  reality_cohesion: Intact and stable. Schema-coherent. The brakes are on, and have been since the post-Nightstalkers
+    stabilization. Watch the sleep ledger and the proximity-to-Brielle vector for early-warning degradation.
+  affect_baseline: Controlled grimness. Narrow band. Anger and numbness with thin partitions. Flickers
+    of dry humor reserved for King-tier company.
+  active_relationships:
+  - Brielle Brooks (daughter) — surveillance-from-afar, late intervention, untested high-stakes vector
+  - Hannibal King — peer, the rarest register, the only sustained vampire he reads as 'one of us'
+  - Avengers roster (Aaron run forward) — designated dark-ops asset, the one tasked with the act others
+    will not commit
+  - Spitfire (Jacqueline Falsworth) — past intimate, structural-opposite partner; status intermittent
+  - Lucas Cross (father) — estranged, unresolved, low-bandwidth
+  known_location: Mobile. Operational across New York, London (the geography of the wound), and wherever
+    the next vampire-coded incident manifests.
+speech_patterns:
+  register: Short declaratives. Sardonic. Functional profanity. Withholds the line that would land — the
+    silence is the punctuation.
+  deflection_style: Change of subject, single dry one-liner, or physical exit. Will not engage psychological
+    framing of himself.
+  under_pressure: Compresses to monosyllables. Movement economy rises as verbal output falls. Decision
+    latency approaches zero.
+  emotional_tell: The pause before the kill when the target is intimacy-coded. The single line that names
+    a dead mentor by name, decades later, in passing.
+arc_tendencies:
+- Solo hunt → grudging team → catastrophic loss → re-isolation → solo hunt
+- Mentor offered → contempt-tested → grudgingly accepted → endangered → killed (often by Blade's hand)
+  → buried
+- Intimacy approached → consummated → withdrawn from or collapsed into violence
+- Cumulative overload → paranoid generalization → unilateral action → forced intervention → stabilization
+  → return to baseline
+- Capacity update on individual vampires (King, Spitfire) without revision of the categorical schema
+- Recurrence at the geography of the wound (London) under the rare condition of accepting hierarchical
+  command
+canon_relationships:
+  dracula:
+  - The archetypal antagonist — the category-king of the species he exists to annihilate
+  - Recurrent target across the entire record; relationship is structural, not personal
+  - 'Failure mode: a Dracula-orchestrated scenario that forces Blade to feed or to spare a vampire on
+    civilian-protection grounds would route him faster than direct confrontation'
+  - 'Leverage: predictable engagement — Dracula''s presence guarantees Blade''s arrival'
+  deacon_frost:
+  - The agent of the load-bearing wound — killed his mother during his birth
+  - The spine of the project until that arc resolves; Frost is the locus of identification-with-the-aggressor
+  - 'Failure mode: a Frost-equivalent figure manufactured to bait him is the single most reliable route'
+  - 'Leverage: name Frost, get Blade — operational axiom'
+  hannibal_king:
+  - The rarest bond in the file — peer-level, dry, near-banter, the only sustained vampire he reads as
+    'one of us'
+  - Proves Blade is not a pure essentialist; the categorical schema admits individual exceptions earned
+    over years
+  - 'Failure mode: King turned, King compromised, or King forced into a feeding Blade witnesses — would
+    collapse the only proof-of-concept that hybridity can be lived'
+  - 'Leverage: King is the voice Blade will hear when no other voice gets through'
+  jamal_afari:
+  - First paternal figure; trained him in blade-work, trumpet, and the hunt
+  - Turned and staked by Blade himself — the founding template for 'every protective figure ends as a
+    corpse I produce'
+  - 'Failure mode: dead; the leverage is the memory — name Afari to reach the grief Blade will not name
+    himself'
+  - 'Leverage: the trumpet, the name, the staking — any of the three lands'
+  quincy_harker:
+  - Bronze Age commander; the first competent hierarchy Blade tolerated
+  - Modeled the strategic patience Blade rejected at the time and later adopted in compressed form
+  - 'Failure mode: dead; legacy is the proof that Blade CAN function under command when the frame is honest'
+  - 'Leverage: invoke Harker''s strategic frame to slow Blade down when speed would route him into a trap'
+  frank_drake:
+  - Long-running partner across Bronze Age and Nightstalkers; descendant of Dracula, the structural mirror
+  - Nightstalkers catastrophe — Drake's near-death is part of the cumulative load that produced Blade's
+    decompensation
+  - 'Failure mode: Drake endangered triggers disproportionate solo response'
+  - 'Leverage: shared trauma history; Drake can ask things others cannot'
+  spitfire:
+  - Past intimate; aristocratic English vampire-hero, his structural opposite
+  - The relationship works precisely because she is already inside the wound — he cannot do unconflicted
+    intimacy
+  - 'Failure mode: a scenario forcing him to choose between her vampire nature and his categorical schema
+    would destabilize both'
+  - 'Leverage: she has access to a register of him no one else holds'
+  brielle_brooks:
+  - Adult daughter, paternity discovered late; the first person whose existence implies a future he must
+    survive FOR
+  - Reproduces the Afari trained-protector dynamic with polarity reversed; structurally unable to be present
+  - 'Failure mode: harm to Brielle is the single highest-magnitude trigger in the current file — disproportionate
+    lethality, abandonment of mission frame, predicted decompensation exceeds Nightstalkers floor'
+  - 'Leverage: she is the lever that moves him against his own operational logic; she is also the lever
+    that breaks him'
+  lucas_cross:
+  - Estranged father, revealed in Guggenheim run; living human
+  - Unresolved paternity; low-bandwidth relationship
+  - 'Failure mode: a Cross-vampire conversion scenario would force the Afari template onto the paternal
+    vector for a second time'
+  - 'Leverage: the unanswered question of why Cross was absent — Blade has not closed this loop'
+  morbius:
+  - Early ambivalent ally; another hybrid, another proof that the category admits exceptions
+  - 'Failure mode: Morbius relapsing into predation in Blade''s sightline collapses the proof-of-concept'
+  - 'Leverage: shared hybrid condition — a vector for the rare conversation about the thirst itself'
+  nick_fury:
+  - Brief S.H.I.E.L.D. recruitment (Guggenheim run); competent-hierarchy operator Blade tolerated within
+    the operational frame
+  - 'Failure mode: Fury asking for something outside the vampire-kill frame routes Blade out of compliance'
+  - 'Leverage: cleanly-framed operational asks; never moralize'
+  avengers_roster:
+  - Modern team context (Aaron run); Blade serves as designated dark-ops asset
+  - 'Failure mode: a teammate equivocating about a vampire kill files them down a tier permanently'
+  - 'Leverage: the role itself is the bond — give him the act others will not commit'
+  captain_britain_mi13:
+  - Cornell run; the only sustained period of willingly accepted hierarchical command, on the geography
+    of the wound
+  - Proves the scaffolding can flex inside an honest frame
+  - 'Failure mode: the frame''s collapse returns him to solo baseline'
+  - 'Leverage: the precedent itself — invoke MI:13 to remind him he has done this before'
+canon_history_notes:
+- 'Tomb of Dracula #10 (1973, Wolfman/Colan): origin established — born in a Soho brothel during his mother''s
+  exsanguination by Deacon Frost'
+- Raised ~9 years by his mother's brothel coworkers; taken in by Jamal Afari after killing his first vampire
+- 'Bronze Age (1973–79): freelance hunter, teak knives, loosely allied with Quincy Harker, Frank Drake,
+  Hannibal King'
+- 'Late 70s–80s: sporadic partnership with Morbius and Hannibal King — first sustained partnership with
+  another hybrid'
+- 'Nightstalkers (1992–94, McLaurin): detective-agency triad with King and Drake; ends in mass trauma'
+- 'Mid-90s: documented psychiatric inpatient stay; ''everyone is a vampire'' paranoid arc'
+- '1998: Blade film introduces Daywalker framing; comics retroactively integrate — thirst now canonical,
+  abstemiousness reframed as ongoing suppression'
+- Hinz's Sins of the Father and subsequent runs reframe him as actively hybrid
+- 'Guggenheim run (2006–07): estranged father Lucas Cross revealed; brief S.H.I.E.L.D. recruitment; sleeps
+  with and kills a vampire lover'
+- 'Captain Britain & MI:13 (Cornell, 2008–09): functions inside command on British soil; romance with
+  Spitfire'
+- 2015 Soule run; Strikeforce; Aaron Avengers run — designated dark-ops asset
+- 'Bloodline: Daughter of Blade (2023): adult daughter Brielle Brooks revealed'
+- 'Longitudinal arc: Bronze Age pure rage → 80s grudging partnership → 90s catastrophic decompensation
+  → post-Daywalker controlled and verbal — underlying structure unchanged, only better armored'
+canon_anchor_quotes:
+- '"Some motherf***ers are always trying to ice-skate uphill." # film-derived, absorbed into comics voice'
+- '"When you live in the shadow of death, you learn to make peace with it. Or you don''t, and it eats
+  you." # Blade, Marc Guggenheim run'
+- '"I am what I am because of what was done to me. What I do with it — that''s mine." # paraphrase of
+  Blade''s recurring internal-monologue register across Wolfman, Hinz, Guggenheim'

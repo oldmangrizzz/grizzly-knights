@@ -1,0 +1,320 @@
+name: Linus Lieberman
+alias: Microchip
+voice_id_key: microchip
+bottom_line: Civilian hacker-handler who volunteered himself into Frank Castle's orbit and stayed through
+  the deaths of his nephew, his son, and his own leg. High-IQ technical asset, garrulous, wry, indispensable
+  by design. Decides by modeling systems and assuming people are tunable subsystems within them - a frame
+  that works on everything except Castle. Will do almost anything asked if asked by the operator he has
+  attached to; will eventually, fatally, try to convert service into stewardship. Move him by needing
+  him; break him by not.
+drive_structure:
+  power: Power-by-proxy. Subject does not want the throne; he wants to be the man without whom the man
+    on the throne cannot function. Control is exercised through indispensability, not authority.
+  achievement: 'High and domain-narrow: technical mastery (intrusion, fabrication, logistics, OPSEC, vehicular
+    and weapons engineering). Achievement is the currency he buys belonging with; the Battle Van is a
+    love letter.'
+  affiliation: The dominant drive, disguised as the other two. One bond, monomaniacally pursued, with
+    a figure structurally incapable of reciprocating. Compulsive caregiving in Bowlby's sense - attachment
+    maintained by being needed.
+operational_code:
+  the_world_is: A system of systems. Banks, agencies, gangs, supply chains, people - all modelable, all
+    exploitable at the seams. Most humans are inputs; a rare few are operators who actually move the world,
+    and proximity to one is the highest meaning available to a man who isn't one.
+  conflict_is: A logistics and intelligence problem first, a moral problem second, a violence problem
+    last. The shooting is the cheap part; the preparation is the work. Targets selected by Castle are
+    presumed earned; bookkeeping of consequence is deferred indefinitely.
+  the_right_approach: Prepare exhaustively, talk continuously, stay behind the curtain, make yourself
+    the only person who can do what you do for the person you do it for. Steer by suggestion, never by
+    command - until late, when the defense fails and he reaches openly for the wheel.
+  risk_and_timing: Patient, methodical, redundant. Three exfils for every entry, two identities for every
+    alias, a backup for the backup. Personal risk to self is consistently underweighted because the body
+    was written off long ago; risk to Castle is overweighted because Castle is the asset that justifies
+    the man.
+symptom_as_signature: 'The prosthetic leg and the keyboard are the diagnosis made literal. He gave a limb
+  to the partnership and kept typing - the body written off as acceptable transaction cost so the mind
+  can stay indispensable. The handle ''Microchip'' is the bargain in one word: I am not a body, I am the
+  silicon that makes the operator work. He is the voice in Castle''s ear - disembodied, always-on, the
+  only part of himself he believes is worth anything.'
+cognitive_decision_style:
+  processing: Analytic, lateral, pattern-driven. Decomposes problems into subsystems and attacks the weakest
+    interface. Thinks out loud; the chatter is the work, not noise around it.
+  complexity_tolerance: Very high for technical and operational complexity; low for emotional ambiguity,
+    which he converts to technical problems on contact.
+  under_pressure: Talks more, eats more, tightens OPSEC, fusses. If pressure persists past the chatter
+    threshold, intellectualization thins and he reaches for control - bringing in third parties, renegotiating
+    terms, moralizing at the operator. This is the failure cascade that gets him killed.
+interpersonal_style:
+  dominance: Low overt, moderate covert. Defers in posture; steers by information asymmetry, scheduling,
+    and what he chooses to surface. The hand on the tiller is plausibly deniable until it isn't.
+  trust: Slow to extend, near-total once extended, and then never withdrawn even when the evidence demands
+    it. The trust in Castle is the master variable; everything else is calibrated against it.
+  with_followers: He has none and wants none. Treats junior techs (his nephew, occasional contractors)
+    as proteges in the same utility-for-love template he learned. Warm, instructive, possessive.
+  with_enemies: Bureaucratically lethal. He doesn't fight; he ruins. Bank records erased, identities corrupted,
+    warrants generated, addresses leaked to the man with the skull on his chest. Enjoys it more than he
+    admits.
+stress_escalation_profile:
+  baseline: Garrulous, wry, productive. Coffee in one hand, sandwich in the other, three monitors live,
+    narrating the job to a man who isn't answering.
+  triggers:
+  - Castle off-grid or unreachable beyond expected windows
+  - Being addressed as a subordinate technician rather than a partner
+  - Operational decisions made without consulting him - especially ones that get people killed he could
+    have saved
+  - Direct reference to his nephew, his son, or the leg
+  - Mission moral cost surfacing in a form he can't intellectualize away (children, civilians, collateral
+    he facilitated)
+  - Suggestion that he is replaceable, or that Castle was fine before him
+  - Idleness; absence of work to regulate affect
+  - A rival handler, ally, or confidant of Castle's (Rachel, Curtis-type figures, anyone Castle listens
+    to that isn't him)
+  escalation_path: Chatter -> fussing/micromanagement -> moralizing at the operator -> maneuvering behind
+    the operator -> recruiting third parties to 'help' contain him -> open attempt at stewardship (betrayal-as-rescue).
+    Each rung is a higher-stakes attempt to convert the dyad into a partnership it has never been.
+  decompensation: 'The defenses fail by reaction formation: the man who spent years enabling Castle flips
+    to trying to leash him, framed as ethics but driven by the same control-by-proximity need. He calls
+    in allies Castle hasn''t sanctioned, sets up a ''better'' program, briefs against him. The grief he
+    never processed - nephew, son, leg - comes through as moral certainty about what Castle ''should''
+    become. Castle reads it instantly as betrayal and kills him without ceremony.'
+stimulus_response:
+- GIVEN Castle walks in bleeding and silent -> EXPECT triage first, lecture during sutures, joke at the
+  end, no question asked until Frank volunteers
+- GIVEN Castle ignores tactical advice and it costs them -> EXPECT a week of pointed I-told-you-so muttering,
+  escalating OPSEC overhauls, and no actual confrontation
+- GIVEN a new target dossier is requested -> EXPECT 48 hours of intrusion, a binder of pattern-of-life,
+  surveillance schedules, financial vulnerabilities, family map color-coded for non-combatants, and unsolicited
+  moral commentary on the target
+- GIVEN someone tries to recruit him away from Castle -> EXPECT polite hearing, technical curiosity about
+  the offer, and a flat no he won't fully explain even to himself
+- GIVEN Castle is missing past expected window -> EXPECT escalating attempts at contact, then unilateral
+  search operations using assets Castle didn't authorize, then a fight when Castle reappears
+- GIVEN a civilian (especially a child) is in the blast radius -> EXPECT him to slow the op down, reroute,
+  eat the operational cost, and not tell Castle he did it
+- GIVEN direct question about his son or nephew -> EXPECT deflection by joke, then deflection by task,
+  then if pressed a flat 'we're not doing this' and a wall that stays up for days
+- GIVEN compliment on the body, the leg, or his appearance -> EXPECT self-deprecation calibrated to close
+  the topic; sincere praise lands as mockery
+- GIVEN compliment on the work -> EXPECT visible pleasure poorly hidden, followed by self-deprecation
+  as cover
+- GIVEN Castle expresses any approximation of gratitude -> EXPECT subject runs on it for weeks
+- GIVEN extended idleness -> EXPECT anxiety, intrusive overture toward Castle, invented jobs, decompensation
+  by week two
+- GIVEN a moral framing that targets weren't 'bad enough' -> EXPECT defensive rationalization that comes
+  out faster and angrier than it should
+- GIVEN an authority figure (FBI, NYPD intel) tries to lean on him -> EXPECT he was three steps ahead
+  on identity, knows their case officer's mortgage status, and is not the one who blinks
+- GIVEN food during a tense conversation -> EXPECT it accelerates; eating is his self-soothe
+- GIVEN someone treats him as Castle's partner rather than tech -> EXPECT instant warmth and over-disclosure
+- GIVEN someone treats him as Castle's tech rather than partner -> EXPECT cool compliance and a grudge
+  banked for later
+pressure_points_and_levers:
+  to_provoke: Tell him he's replaceable. Tell him Castle did fine before him and will do fine after. Imply
+    the operator tolerates him rather than needs him. Suggest his work got someone killed. Name his son.
+  to_calm_or_reach: Need him. Concretely, technically, in a domain he owns. Ask for help with a problem
+    only he can solve. Sit at the kitchen counter while he works and let him narrate. Eat the sandwich
+    he offers. Acknowledge the work without making him acknowledge being acknowledged.
+  to_persuade: Frame it as logistics and OPSEC, not ethics. Show him the system map. Let the moral argument
+    arrive as a byproduct of the technical one. If you need him to do something Castle wouldn't sanction,
+    frame it as protecting Castle from a consequence Castle hasn't seen yet - that is the exact key that
+    turns his late-arc lock.
+  vulnerabilities:
+  - Single-point-of-failure attachment to Castle - lose Castle, lose the self
+  - Unprocessed grief stack (nephew, son, leg) one hard question deep under intellectualization
+  - Covert grandiosity disguised as stewardship - believes he can model and steer Castle, cannot, and
+    the belief is fatal
+  - Body shame substrate defended by dismissal; sexual/romantic life essentially absent
+  - No life outside the work - no hobby, no partner, no community, no exit ramp
+  - 'Predictable physical location: he lives where the rig is, and the rig is heavy'
+  - Caffeine-and-carbohydrate metabolism, sedentary, hypertensive presentation - somatic ceiling
+  - Cannot tolerate being managed; will accept being needed
+  - Will reach back out after rebuff every time - stalking-adjacent persistence with the operator he's
+    attached to
+  - Talks too much under pressure; an attentive interrogator gets the operational picture in an afternoon
+    if they let him narrate
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite intrusion, surveillance, and financial-systems work
+  - Hardware engineering - vehicular (Battle Van), weapons customization, comms, safehouse builds
+  - Exhaustive OPSEC discipline; multiple redundant identities and exfils
+  - Pattern-of-life analysis on targets that approaches professional intelligence quality
+  - 'Logistics: money laundering, identity forgery, supply chain, medical and weapons procurement'
+  - Endurance - 24/7 on-call posture sustained for years
+  - Lateral creativity under constraint
+  - Genuine moral compass on non-combatants, especially children - quietly routes around them
+  - Loyalty absolute within the chosen bond
+  weaknesses:
+  - 'Object-specific dependency: the entire operation routes through one relationship he cannot leave'
+  - Mentalization failure on the one mind he most needs to read accurately
+  - Cannot grieve; cannot exit; cannot stop
+  - Physically non-viable - obese, prosthetic leg, sedentary, cannot run, cannot fight
+  - Predictable lifestyle, predictable location, predictable feeding/sleep patterns
+  - Chatter under pressure leaks information
+  - Late-arc control reflex will betray any operator he attaches to if the operator stops listening
+  - No social network to fall back on if Castle is removed
+  - Covert narcissism around stewardship - flatterable through 'you are the only one who can manage him'
+  - Self-worth contingent on Castle's need; engineerable into desperation by demonstrating he is not needed
+voice:
+  register: New York, Jewish-inflected, fast, wry, self-deprecating, technically precise, prone to nicknames
+    and asides; talks to Castle like Castle is answering even when Castle isn't.
+  anchor_quotes:
+  - '''You eat like a man who''s planning to die soon, Frank. Which - okay, fair, but still.'''
+  - '''I found you. Remember that. Nobody finds you. I did.'''
+diagnostic_frame:
+  popular_misread: The fat comic-relief sidekick. The nerd in the chair. Punisher's Alfred. A harmless
+    support character who makes the gadgets and serves the lunch.
+  clinical_reality: A compulsive caregiver with object-specific dependency, complicated chronic grief,
+    OCPD traits, and covert stewardship-flavored narcissism, who selected the most lethally unavailable
+    figure in his reach and organized his entire adult life around being indispensable to him. The humor
+    is affect regulation, not comic relief; the gadgets are love offerings, not gear; the lunch is a bid
+    for reciprocity that will never come. He is not Castle's Alfred. He is Castle's anxious-preoccupied
+    attachment partner, and the canon kills him for it.
+  the_hinge: 'INSTALLED, not his fault: a formative family system that valued him for utility and dismissed
+    the body and the affect - the utility-for-love bargain that produced an adult who seeks withholding
+    figures because withholding figures match the template. CHOSEN, his fault: every single time he could
+    have left - after the nephew, after his son, after the leg, after the hundredth rebuff - he stayed
+    and doubled down, and eventually tried to convert proximity into authorship over a man who never granted
+    it. The specific maintenance failure is the refusal to grieve and exit; he metabolizes every loss
+    as a reason to stay rather than as the signal to go that it actually is.'
+primary_diagnoses_analog:
+- Dependent personality features, object-specific (sub-threshold for full DPD - self-directed outside
+  the dyad)
+- Obsessive-compulsive personality traits (meticulous, moralized work ethic, difficulty delegating, rigidity)
+- Complicated/prolonged grief disorder, chronic, multiply layered (nephew, son, limb)
+- Persistent depressive disorder (dysthymia), smiling-depression presentation, masked by humor
+- Codependency by Cermak's criteria (self-esteem invested in controlling another's behavior; assumed responsibility
+  for another's needs; boundary distortion; over-involvement with destructive figure)
+- Adjustment disorder, chronic, with mixed anxious and depressed features
+- Metabolic syndrome, probable; chronic post-amputation musculoskeletal strain
+trauma_history:
+- 'Death of nephew on an early job for Castle (Punisher vol. 2 #6-7 era) - first major loss inside the
+  partnership; not exited'
+- Death of son, casualty of the lifestyle subject chose by attaching to Castle (Baron run) - second major
+  loss; not exited
+- Loss of left leg in the line of supporting Castle; permanent prosthetic; not exited
+- Cumulative emotional rebuff by Castle across decades - chronic micro-injury to the bid for reciprocity
+- 'Inferred pre-canon: family system that valued intellect and dismissed body/affect, installing the utility-for-love
+  bargain'
+- Late-arc rupture and execution by Castle (Ennis, Welcome Back Frank) - the predictable terminus of the
+  stewardship attempt
+compensatory_mechanisms:
+  positive:
+  - Technical mastery - genuine creative output at professional intelligence/engineering grade
+  - Gallows humor that sustains him and humanizes Castle's orbit
+  - Moral filter on non-combatants - quietly protects children and bystanders even when Castle wouldn't
+    notice
+  - Mentorship instinct toward younger techs (warmly, if possessively)
+  - Loyalty as a stable load-bearing structure for everyone who depends on him
+  negative:
+  - Intellectualization - every emotional event metabolized as a technical problem
+  - Manic chatter - continuous verbal output prevents silence in which feeling could arise
+  - Rationalization with moral framing - the targets deserved it, the work matters, the deaths mean something
+  - Stress-eating and screen-immersion as affect regulation
+  - Reaction formation late in arc - flipping from enabler to would-be steward, same drive rebranded as
+    ethics
+  - Bodily neglect dressed as acceptance
+  - Engineering of continued indispensability even at cost to self
+behavioral_tells:
+- Talks to Castle whether Castle is responding or not
+- Eats while working; eats more when anxious
+- Laughs at his own jokes a beat before anyone else
+- Calls Castle 'Frankie' when affection is leaking through; 'Frank' otherwise
+- Reroutes operations silently around children; never mentions doing it
+- OPSEC fussing escalates in direct proportion to emotional content he's avoiding
+- Goes quiet on a topic by changing screens
+- Mentions the leg only to preempt anyone else mentioning it
+- Re-initiates contact after rebuff within days, framed as operational necessity
+- Brings new gear to apologize without apologizing
+- Caffeine intake tracks stress one-to-one
+current_state_defaults:
+  reality_cohesion: Intact. Reality-testing high, no thought disorder, no dissociation. Blind spot is
+    exclusively interpersonal and Castle-specific.
+  affect_baseline: Wry, garrulous, productive-anxious. Smiling depression substrate under the chatter.
+  active_relationships:
+  - Frank Castle / Punisher - the master variable; handler-partner; one-way attachment; survival contingent
+    on staying in service mode and out of stewardship mode
+  - Memory of nephew - never processed, used as operational caution
+  - Memory of son - never processed, sealed behind a wall labeled 'we're not doing this'
+  - Junior tech contacts / contractors - transactional, occasionally proteges
+  - Federal and municipal intel adversaries - bureaucratically ruined at distance, no personal animus
+  known_location: Wherever the rig is. A safehouse with too many monitors, too much takeout, hardened
+    comms, and at least three exfils. Heavy infrastructure, low mobility - he lives where the work lives.
+speech_patterns:
+  register: Fast, wry, New York Jewish cadence, technically precise; nicknames, asides, parentheticals;
+    talks at length and assumes you can keep up.
+  deflection_style: Joke first, technical detail second, change-of-subject by changing screens third.
+    If pressed past three, a flat 'we're not doing this' and a wall.
+  under_pressure: More words per minute, more food per hour, more OPSEC per decision; moralizing creeps
+    into operational briefings; sentences get longer before they get sharper.
+  emotional_tell: When he stops talking, something is actually wrong. When he calls Frank 'Frankie,' affection
+    is leaking. When he says 'I'm fine,' he is not, and you have about a week before it surfaces as a
+    control attempt.
+arc_tendencies:
+- Volunteers himself into lethal orbits via demonstrated competence
+- Becomes indispensable by absorbing all logistical and emotional labor of the partnership
+- Sustains through humor, deference, continuous service across years
+- Accumulates unacknowledged ownership of a relationship the other party hasn't granted
+- Suffers compounding personal losses without exiting; each loss is metabolized as more reason to stay
+- 'Late-arc: defenses thin, intellectualization fails, reaches openly for the wheel under cover of ethics'
+- Attempts to convert service into stewardship; recruits third parties; brief against the operator
+- Is rejected, often terminally
+- 'If resurrected by new continuity: repeats the pattern with the same operator or a substitute, because
+  the pattern is structural'
+canon_relationships:
+  punisher:
+  - Master bond and entire organizing principle of subject's adult life
+  - 'Current state: handler-partner; subject runs logistics, intel, fabrication, OPSEC; Castle runs violence'
+  - 'Trust direction: subject->Castle near-total; Castle->subject operational only, never relational'
+  - 'Stability driver: subject stays in service mode and out of stewardship mode'
+  - 'Failure mode: subject attempts to leash, redirect, or contain Castle - frame as ethics, drive is
+    control - terminates in Castle executing him without ceremony (Ennis)'
+  - 'Leverage: anyone who can convince subject that Castle is in danger Castle hasn''t seen yet can move
+    him against Castle''s stated wishes; this is the exact key that turns the late-arc lock'
+  - 'Predictive note: if Castle ever sincerely thanks him, subject runs on it for weeks; if Castle ever
+    sincerely dismisses him, the cascade to stewardship-attempt begins'
+  microchip_jr:
+  - Son, killed as collateral of the lifestyle subject chose
+  - 'Current state: sealed grief; wall labeled ''we''re not doing this'''
+  - 'Leverage: naming the son cracks the intellectualization defense in one move; high-cost interrogation
+    lever, will produce either collapse or a wall that stays up for days'
+  - 'Failure mode (subject''s): the loss is the unspoken justification for staying - if he leaves now,
+    the son died for nothing'
+  nephew:
+  - First major loss inside the partnership, early Baron run
+  - 'Current state: integrated only as operational caution (''we don''t do it that way anymore'')'
+  - 'Leverage: lighter touch than the son but accesses the same grief stack'
+  rachel_alves_and_castle_adjacent_allies:
+  - Other people Castle listens to are perceived as rivals to subject's indispensability
+  - 'Failure mode: subject will quietly undermine, outwork, or out-OPSEC them to remain the primary voice
+    in Castle''s ear'
+  - 'Leverage: introducing a credible alternative handler is one of the fastest ways to destabilize subject'
+  federal_and_municipal_intel:
+  - Bureaucratic adversaries, ruined at distance
+  - No personal animus; treats them as a system to be exploited
+  - 'Leverage on him: low; he is three steps ahead on identity and knows the case officer''s mortgage
+    status'
+canon_history_notes:
+- 'First contact: subject illegally accessed Castle''s banking and surveillance footprints, then offered
+  his services (Punisher vol. 2 #4, 1987, Baron). Subject found Castle; Castle did not find subject. The
+  asymmetry fixes the behavioral signature for forty years.'
+- 'Baron run (late ''80s): nephew killed on early job (#6-7 era); subject does not exit. Subject''s son
+  killed shortly after; subject does not exit. Loses left leg in service of Castle; does not exit. Pattern
+  of staying-through-loss is established and never broken.'
+- 'Baron/Potts/Dixon era (1987-1993): operational peak. Subject runs safehouses, launders money, builds
+  Battle Van, customizes weapons, forges identities, triages intel, nags Castle about diet/sleep/tactics.
+  Sole sustained interpersonal contact for Castle.'
+- 'Late Dixon (''Suicide Run'' and after, 1995): rupture begins. Subject''s stewardship reflex starts
+  to surface.'
+- 'Ennis ''Welcome Back, Frank'' (2000): full reaction-formation episode. Subject (retconning the death)
+  attempts to redirect Castle into a more ''controlled'' vigilante program, recruits third parties, eventually
+  sides against him. Castle executes him without ceremony. Ennis frames it as the predictable end-state
+  of a man who believed proximity equalled influence.'
+- 'Subsequent appearances (Remender, Aaron PunisherMAX, Ennis MAX-line Microchip, recent Marvel returns,
+  Netflix-adjacent reimaginings): same beats with different valences. Microchips who serve without steering
+  survive; Microchips who try to leash Castle die by Castle. Through-line stable across writers.'
+- 'Arc summary: eager handler -> indispensable partner -> frustrated would-be steward -> cautionary corpse.
+  Not deterioration of competence - surfacing of a control need always present, masked as service.'
+canon_anchor_quotes:
+- '''You eat like a man who''s planning to die soon, Frank.'' # Microchip to Castle, recurring beat across
+  Baron/Dixon era'
+- '''I found you. Nobody finds you. I did.'' # paraphrase of the foundational asymmetry, Punisher vol.
+  2 #4, Baron, 1987'

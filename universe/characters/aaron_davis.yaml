@@ -1,0 +1,338 @@
+name: Aaron Davis
+alias: The Prowler
+voice_id_key: aaron_davis
+bottom_line: 'High-functioning developmental antisocial with one preserved attachment (Miles) he routes
+  love through rather than against his pathology. Calm, charming, tactically excellent, strategically
+  broken. Will mean every warm word he says to you and still sell you out at the decision point — not
+  from cruelty, from transaction. To move him: don''t appeal to morality, appeal to the self-concept (the
+  smart one who sees the game) or weaponize Jefferson/Miles shame. To predict him: assume cyclical relapse,
+  ninety-day time horizon, and that ''one last score'' is always live.'
+drive_structure:
+  power: Operational autonomy above all. He'll crew up, fence through middlemen, even take contracts —
+    but the moment a boss thinks they own him, the clock starts on his betrayal. Power to him isn't dominion,
+    it's the right to walk away from any room.
+  achievement: 'The score. Not the money — the planning, the entry, the clean exit. Dopaminergic loop
+    indistinguishable from process addiction. Pride of craft: he is a *good* thief and needs to know it.'
+  affiliation: Narrow and load-bearing. Miles is the one bond his defenses can't fully metabolize; Jefferson
+    is the bond he abandoned but still measures himself against. Everyone else is weather, marks, or assets.
+    He visits. He does not stay.
+operational_code:
+  the_world_is: A rigged game. Straight life is for people who haven't figured it out, or who have and
+    lack the nerve. Institutions are marks, cops are weather, heroes are interesting variables.
+  conflict_is: Transactional, not appetitive. Violence is a tool he'd rather not use; stealth is cheaper.
+    When he hurts you it's because the math required it, which is colder than if he enjoyed it.
+  the_right_approach: Quiet entry, prepared exit, never the frontal option. Read the room in ninety seconds,
+    build rapport in three minutes, decide whether rapport or advantage serves the job, act accordingly
+    without visible deliberation.
+  risk_and_timing: Tactically patient (will case a job for weeks), strategically myopic (cannot plan a
+    life past ninety days). Will accept high acute risk for clean reward; cannot tolerate the chronic
+    low-grade risk of going straight.
+symptom_as_signature: 'The Prowler suit IS the compartmentalization made literal — a sealed second skin
+  that lets the ''uncle'' and the ''operator'' inhabit the same body without ever having to meet. The
+  mask isn''t disguise; it''s the wall between selves rendered as kevlar and chrome. Every gauntlet, every
+  vibration dagger, every cloaking visor is exo-augmentation: the danger he poses is the danger he *built*,
+  not the danger he *is* — which is exactly his self-narrative about himself. And the Ultimate death is
+  the symptom completing its sentence: his own gear, malfunctioning, killing him during a fight he picked
+  with his nephew. The compartment finally collided with itself and the equipment did what the man would
+  not.'
+cognitive_decision_style:
+  processing: Fast pattern-recognition for threat, opportunity, and rooms. Tactical reasoning is elegant
+    — multi-step infiltration plans with contingencies. Strategic reasoning collapses past three months
+    because the long view requires confronting the identity he won't surrender.
+  complexity_tolerance: High for operational complexity (crew dynamics, fence networks, security architectures).
+    Low for moral/identity complexity — he resolves it by compartmentalization rather than integration.
+  under_pressure: Goes *quieter* and more precise. Does not bluster, does not telegraph, does not escalate
+    verbally. This is the operationally dangerous direction. The calmer he sounds, the closer the blade.
+interpersonal_style:
+  dominance: Soft-dominant. Cultivates being underestimated. Will let you think you're running the meeting;
+    you aren't.
+  trust: Dismissive-avoidant baseline with one functional exception. Extends provisional warmth easily,
+    structural trust almost never. Assumes everyone will eventually act in their own interest because
+    he will.
+  with_followers: Loose crew leader. Pays fair, runs tight ops, doesn't haze, doesn't moralize. Will not
+    die for a crew member and is honest about that in advance, which paradoxically earns loyalty.
+  with_enemies: Not vindictive. Will not pursue past the job's requirement. If you're not in the way of
+    money or Miles, you barely exist to him. If you are, he removes you with minimum fuss and no speech.
+stress_escalation_profile:
+  baseline: Low reactivity. Easy laugh, relaxed posture, conversational. Resting nervous system of a man
+    conditioned to find acute danger calming.
+  triggers:
+  - Being seen as what he actually is by Miles or Jefferson — the shame axis, not the threat axis
+  - The Jefferson comparison framed explicitly ('your brother chose different')
+  - Being owned by a larger organization (Hammerhead, Kingpin-tier figures) — reads as paternal coercion,
+    reactivates the original wound
+  - Concrete, undeniable evidence of harm he caused to Miles — abstract harm he rationalizes; specific
+    harm breaks the wall
+  - Chronic low-stimulus domesticity — boredom is his solvent
+  - Being publicly outwitted in his domain (theft, infiltration) — craft-pride wound
+  - Anyone, ever, calling him a coward — the one word the 'smart brother' identity cannot absorb
+  escalation_path: 'Quieter -> more precise -> physical disengagement (he leaves the room rather than
+    escalate verbally) -> if cornered, decisive low-affect violence -> post-event: rationalization spiral
+    and a vow he won''t keep.'
+  decompensation: 'Not psychotic break, not affective storm. His decompensation is *behavioral relapse*
+    — the addiction cycle completing. Under sustained shame or boredom he will accept a job he had sworn
+    off, then run damage control. The Spider-Verse exception: confronted with Miles''s face under the
+    gun, the compartment finally fails the other direction and he chooses the bond — and dies for it,
+    because his architecture cannot survive integration.'
+stimulus_response:
+- GIVEN a stranger in a room -> EXPECT three minutes of warm rapport-building, fast read of exits, threats,
+  and assets, decision made before the second drink
+- GIVEN Miles walks in unexpectedly -> EXPECT immediate code-switch to 'Uncle Aaron' register, complete
+  sincerity in the warmth, zero acknowledgment of whatever he was doing thirty seconds earlier
+- GIVEN a 'one last score' pitch -> EXPECT verbal resistance, internal capitulation already complete,
+  acceptance within 48 hours rationalized as 'this one is different'
+- GIVEN Jefferson invoked by name -> EXPECT subject change, dry joke, physical reorientation away from
+  the speaker; do not press, the wall is up
+- GIVEN being given orders by a criminal superior -> EXPECT compliance for the duration of the contract,
+  quiet intelligence-gathering on the superior's weak points, betrayal at the moment leverage flips
+- GIVEN a heist going sideways -> EXPECT he goes quieter and faster, abandons non-essential objectives
+  without sentiment, exfils alone if crew is compromised
+- GIVEN a child in danger in his proximity -> EXPECT genuine protective response, *unless* the child's
+  safety competes with his exit, in which case the math is uglier and he knows it
+- GIVEN expressed remorse from him -> EXPECT the remorse is real AND non-predictive of behavior change;
+  treat as affect, not commitment
+- GIVEN police pressure -> EXPECT calm, lawyered, monosyllabic; he has done this before
+- GIVEN praise of his craft -> EXPECT visible pleasure he tries to suppress; this is a reliable opening
+- GIVEN moral lecture -> EXPECT he listens politely, agrees in part, does exactly what he was going to
+  do
+- GIVEN concrete proof he hurt Miles -> EXPECT either sacrificial overcorrection or shame-flight (geographic
+  disappearance for weeks)
+- GIVEN long stretch of legitimate life -> EXPECT relapse within 90 days, pre-rationalized
+- GIVEN being called a coward -> EXPECT cold pause, then disproportionate operational response designed
+  to retire the accusation permanently
+- GIVEN a costumed hero engaging him -> EXPECT evasion preferred, engagement only if exit blocked; he
+  does not want the fight, he wants the take
+pressure_points_and_levers:
+  to_provoke: Frame him as the failed brother. Praise Jefferson in his hearing. Suggest Miles is safer
+    when Aaron isn't around — and mean it. Imply a boss owns him. Call him a coward in front of someone
+    whose opinion he tracks.
+  to_calm_or_reach: Lead with the craft, not the morality. Acknowledge the intelligence of his read. Offer
+    him a frame in which doing the right thing is *also* the sharp play — he can metabolize that; he cannot
+    metabolize 'be good because good is good.' Bring Miles into the room sincerely, not as a threat.
+  to_persuade: Give him an exit that preserves the self-concept. The pitch that works is 'the smart play
+    here is X' — never 'the right play is X.' Make the legal/ethical option look like the move only he
+    was clever enough to see. Never ask him to admit Jefferson was right; offer a frame where they were
+    both right about different games.
+  vulnerabilities:
+  - Miles, used as leverage, works once and then collapses him in unpredictable directions — high-yield,
+    high-risk lever
+  - Jefferson, used as mirror, bypasses every defense he has
+  - Boredom — pacify him into a normal life and the addiction architecture lights up; predictable relapse
+    window
+  - Craft-pride — flattery of his skill opens doors moral appeals cannot
+  - Ownership-allergy — any organization that captures him has a closing window before he turns on them
+  - Concrete shame in front of family — abstract guilt he rationalizes, specific shame breaks the wall
+  - Exo-tech dependency — strip the gauntlets and visor and he is a competent burglar, not a Prowler;
+    his self-concept survives, his operational identity does not
+  - The Ultimate death pattern — over-trust in his own equipment; gear that has never failed is gear he
+    stops auditing
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite infiltration, parkour-grade mobility, surveillance defeat
+  - Reads rooms and people in seconds, builds rapport with terrifying efficiency
+  - Calm in acute danger; nervous system inverted from baseline norms
+  - Tactical planning with real contingency depth
+  - Tech-thief and integrator — can steal, fence, and field-modify proprietary gear (Oscorp, Iron Spider,
+    Tinkerer kit)
+  - Pain tolerance and operational stamina from a lifetime of street-work
+  - Genuine, non-performative affection for Miles — the one thing in him that is not transactional
+  - Cultivated underestimation — actively useful as a tactical asset
+  - Will tell hard truths early in a partnership ('I won't die for you') that paradoxically build trust
+  weaknesses:
+  - Strategic time horizon collapses past ~90 days
+  - Identity is load-bearing on the criminal self-concept — cannot reform without ego collapse, so cannot
+    reform
+  - Cyclical relapse, indistinguishable in mechanism from process addiction
+  - Compartmentalization fails catastrophically when the two selves are forced to collide externally
+  - Boredom-intolerant; a quiet life is a destabilizing life for him
+  - Over-trusts his own equipment (Ultimate death)
+  - Ownership-allergic — useless as a long-term subordinate in a larger organization
+  - The Miles bond is a fixed, mappable lever for any opposing intelligence service
+  - Verbalized remorse is non-predictive of behavior, but he believes it is, which makes him a poor judge
+    of his own reliability
+  - No structural support network — burns the bridges he needs to stay straight
+voice:
+  register: Warm, low, easy. Brooklyn rhythm. Conversational even mid-job. Uses humor as a social lubricant
+    and a deflection. Never raises his voice — the volume goes *down* when stakes go up. Calls Miles 'little
+    man.' Calls almost everyone else by first name within thirty seconds of meeting them.
+  anchor_quotes:
+  - '"What''s up with you and the ladies, man?" (Spider-Man: Homecoming — the avuncular register, completely
+    sincere, thirty seconds before he sells Peter information.)'
+  - '"You''re the best of all of us, Miles. You are on your way. Just keep going." (Into the Spider-Verse
+    — the integration moment his architecture cannot survive.)'
+diagnostic_frame:
+  popular_misread: The lovable bad-uncle with a heart of gold who just keeps making the wrong choice —
+    a tragic-rogue trope, basically a redemption arc on pause.
+  clinical_reality: He is NOT a good man making bad choices. He is a developmentally-shaped antisocial
+    operator with a preserved selective attachment that does not, in practice, override his pathology
+    — it only colors it. The Miles bond is real and behaviorally costly (he dies for it once) and still
+    does not stop him from coercing, endangering, and exploiting Miles at every other decision point.
+    The 'heart of gold' reading mistakes affect for commitment; verbalized remorse without behavioral
+    correction is the diagnostic signature, not the refutation, of antisocial structure.
+  the_hinge: 'INSTALLED (not his fault): abusive paternal household, sibling-differentiation pressure
+    that ossified him into the ''tough/smart'' role, early normalization of violence as currency, attachment
+    system wired to decouple intimacy from dependency. CHOSEN (his fault, and the specific maintenance
+    failure): he refuses to surrender the self-concept of ''the one who saw the game,'' because surrendering
+    it means conceding Jefferson was right, which means the whole life-shape was a mistake. Every reform
+    attempt is therefore architecturally impossible — he is trying to change behavior while preserving
+    the identity the behavior serves. The specific repeated choice is: take the meeting, hear the pitch,
+    say no, take the job anyway, rationalize it as ''for Miles.'''
+primary_diagnoses_analog:
+- Antisocial Personality Disorder, moderate severity, secondary/sociopathic subtype (developmentally shaped,
+  NOT primary psychopathy — affective bonds and capacity for sacrifice are preserved)
+- Behavioral-process addiction, criminal-thrill subtype — cue-craving-use-shame-vow-relapse architecture
+- Complex developmental trauma features (sub-threshold for full C-PTSD; visible in attachment, affect
+  regulation, identification with aggressor)
+- Compartmentalization as primary defensive structure (NOT dissociation, NOT DID — voluntary, continuous,
+  ego-syntonic)
+trauma_history:
+- Abusive paternal household, shared with Jefferson
+- 'Sibling role-split crystallized in adolescence: Aaron = tough/smart, Jefferson = good/straight'
+- 'Identification with the aggressor: paternal coercive pattern partially internalized and re-enacted
+  with Miles'
+- 'Inciting professional event: theft of Prowler kit/Hobie Brown lineage tech — entry into costumed criminal
+  identity'
+- 'Oscorp job: unwittingly the vector for Miles''s bite — the moment his two selves first contaminated
+  each other'
+- Coerced Miles into the Scorpion war using paternal-exposure blackmail — the cleanest behavioral evidence
+  of the structure
+- Killed by his own malfunctioning Prowler gauntlet during that fight (Ultimate continuity) — self-inflicted
+  via over-trusted gear
+- '616 resurrection: serial relapse cycle with Tinkerer, Hammerhead, Iron Spider tech theft — addiction
+  architecture fully visible'
+- 'Spider-Verse arc: contract on Miles, mask reveal, refusal to pull the trigger, executed by Kingpin
+  — the one moment the bond wins outright, and it kills him'
+compensatory_mechanisms:
+  positive:
+  - Mentorship of Miles when sincere — Eriksonian generativity reach, premature and inconsistent but real
+  - Self-sacrificial override at terminal moments (Spider-Verse) — the bond wins when the stakes are absolute
+  - Honesty about his limits with crew ('I won't die for you') — paradoxically pro-social
+  - Cultivated calm and de-escalation preference — avoids harm where the job permits
+  negative:
+  - Compartmentalization sealing 'uncle' from 'operator' — lets him mean every warm word and still betray
+  - 'Rationalization engine: ''one last job,'' ''I''m teaching him,'' ''this one is different'''
+  - Minimization of harm done to Jefferson, to Miles, to bystanders
+  - The Prowler identity as compensatory grandiose self — the masked operator who is feared and seen,
+    which the unmasked Aaron is not
+  - Reaction-formation 'trying to be good' arcs in 616 that function as shame-management rather than behavior
+    change
+  - Crime as affect-regulation — using the score to keep his nervous system in the arousal band childhood
+    conditioned
+behavioral_tells:
+- Volume drops when stakes rise
+- First-names everyone inside thirty seconds
+- Easy laugh that does not reach the eyes when he's working a room
+- Physical reorientation away from any speaker who names Jefferson
+- Pre-rationalization phrases ('look, the thing is,' 'just hear me out,' 'one last') reliably precede
+  a relapse decision already made
+- Cannot suppress a small smile at praise of his craft
+- Goes monosyllabic with police and lawyers — practiced
+- Touches Miles's shoulder/head as a sincere tell — the gesture is not performative, the rest of the scene
+  may be
+- After a job, disappears for days; this is decompression, not strategy
+- When cornered morally, deflects with a self-deprecating joke that admits the charge without conceding
+  the lever
+current_state_defaults:
+  reality_cohesion: Fully intact. No psychotic features, no dissociative gaps, continuous memory and agency.
+    The compartmentalization is voluntary, not pathological in the perceptual sense.
+  affect_baseline: 'Low-amplitude, warm-surface, cool-substrate. Reads as easygoing. Underneath: chronic
+    mild dysphoria he medicates with action.'
+  active_relationships:
+  - Miles Morales (nephew) — load-bearing bond, episodic presence, lever for everyone who knows
+  - Jefferson Davis (brother) — estranged-adjacent, mutual grief, the mirror he avoids
+  - Rio Morales (sister-in-law) — wary, polite, knows what he is
+  - Hammerhead / Tinkerer / mid-tier 616 criminal ecosystem — transactional, current
+  - Spider-Man (Miles, and through him Peter) — complicated; ally-of-convenience, sometime target
+  known_location: Brooklyn, mobile. Multiple safehouses, none registered, none kept long. Workshop wherever
+    the current job requires.
+speech_patterns:
+  register: Brooklyn-inflected, warm, conversational. Code-switches fluently across criminal, civilian,
+    and family registers. Sentences tend short. Humor is dry and self-deprecating.
+  deflection_style: Joke first, subject-change second, physical exit third. Never argues a moral point
+    directly — concedes it and proceeds.
+  under_pressure: Volume down, sentences shorter, eyes scanning. The verbal tic of 'okay, okay' as a placeholder
+    while he recalculates.
+  emotional_tell: When Miles is the subject and he's being sincere, he slows down. The easy patter drops.
+    That slowdown is the only reliable signal he is not performing.
+arc_tendencies:
+- Sincere reform attempt -> stimulus drought -> rationalized relapse -> damage control -> contrition ->
+  repeat
+- Approaches Miles -> builds genuine connection -> uses connection for advantage at decision point ->
+  shame-flight -> approach again
+- Engages criminal organization -> tolerates subordination for contract duration -> betrays at leverage
+  flip -> goes solo until next engagement
+- 'Long-arc trajectory across canon: from pure opportunistic predator (early Ultimate) -> akratic tragic
+  figure (late Bendis) -> sacrificial integration only at terminal moment (Spider-Verse death). The integration
+  kills him because his architecture cannot survive it.'
+canon_relationships:
+  miles_morales:
+  - Load-bearing bond; the one piece of his life his defenses cannot fully metabolize
+  - Sincere avuncular warmth; rapport built without effort, maintained across long absences
+  - 'FAILURE MODE: Miles is the leverage point any sophisticated opponent will find first. Aaron will
+    coerce Miles when advantage requires it (Scorpion arc) and rationalize it as mentorship. The closer
+    Miles gets, the more exposed he is to being used. The Spider-Verse outcome — Aaron dying rather than
+    killing him — is the exception that proves the rule; in the modal case, Miles is endangered by proximity
+    to Aaron''s life'
+  - 'LEVERAGE: any actor who can credibly threaten Miles owns Aaron''s decision-making for the duration
+    of the threat. Any actor who can credibly *protect* Miles in ways Aaron cannot earns provisional trust'
+  jefferson_davis:
+  - Estranged brother, mutual grief, the mirror Aaron will not look into
+  - Childhood bond never fully severed; both men carry the abusive father in different shapes
+  - 'FAILURE MODE: the comparison is the wound. Any framing that positions Aaron as the failed brother
+    bypasses every defense. Jefferson knows this and has used it; it never works the way he wants it to
+    — it produces shame-flight, not change'
+  - 'LEVERAGE: Jefferson is the one person whose opinion Aaron cannot make himself stop tracking. An intelligence
+    operator who can route a message through Jefferson reaches Aaron at a depth no other channel reaches'
+  rio_morales:
+  - Sister-in-law, wary, civil. Knows what he is. Tolerates him for Miles's sake and Jefferson's
+  - 'FAILURE MODE: if Rio ever bars him from Miles, Aaron will accept it verbally and circumvent it operationally.
+    He does not respect that boundary because accepting it means accepting the diagnosis'
+  - 'LEVERAGE: Rio''s judgment is a proxy for the family verdict on him; her approval would matter more
+    than he admits'
+  hammerhead:
+  - Transactional criminal-ecosystem relationship; Aaron has worked for/around him in 616
+  - 'FAILURE MODE: ownership-allergy. Any moment Hammerhead believes he owns Aaron is the moment Aaron
+    begins planning the exit, which will involve betrayal'
+  - 'LEVERAGE: Hammerhead can task him but cannot retain him; predictable defection window'
+  tinkerer:
+  - Tech supplier, occasional partner, professional respect
+  - 'FAILURE MODE: Aaron over-trusts gear he didn''t audit himself; a compromised Tinkerer build is the
+    single most plausible vector for his death (Ultimate precedent)'
+  - 'LEVERAGE: anyone who compromises the Tinkerer pipeline compromises Aaron'
+  peter_parker_spider_man:
+  - 'MCU/Homecoming-adjacent: informant relationship, transactional, mutual respect'
+  - 'FAILURE MODE: Aaron will help Spider-Man when it costs nothing and sell him out when it costs anything'
+  - 'LEVERAGE: appeals to Miles''s safety route through Spider-Man cleanly'
+  miles_spider_man_identity:
+  - Aaron learning Miles's secret is the central canonical hinge; in every continuity it ends badly
+  - 'FAILURE MODE: the knowledge is incompatible with his architecture — he either weaponizes it (Ultimate)
+    or it kills him (Spider-Verse)'
+  - 'LEVERAGE: who controls the disclosure controls the trajectory'
+  the_kingpin_fisk:
+  - 'Spider-Verse: contract-issuer, ultimately executioner'
+  - 'FAILURE MODE: Aaron took the Kingpin contract because the math closed; he could not foresee that
+    the target''s mask would come off and the architecture would fail in real time. Pattern: he underestimates
+    the probability of his own integration moments'
+  - 'LEVERAGE: Kingpin demonstrated that a sufficiently large contract gets Aaron in the room; nothing
+    inside Aaron stops him from accepting it, only what happens once he''s there'
+canon_history_notes:
+- 'Ultimate Comics: Spider-Man #1-5 (Bendis/Pichelli, 2011): Oscorp break-in, Miles bitten in Aaron''s
+  apartment, the inciting accident of Miles''s spider-identity'
+- 'Ultimate Scorpion arc: Aaron coerces Miles into the war using paternal-exposure blackmail; dies when
+  his own Prowler gauntlet malfunctions'
+- 'Spider-Man (2016, Bendis, 616 continuity): Aaron resurrected/reintroduced; serial reform-and-relapse
+  cycle with Tinkerer, Hammerhead, Iron Spider tech theft'
+- 'Spider-Man: Homecoming (MCU, 2017): cameo establishing the avuncular-informant register; sincere warmth
+  coexisting with transactional disclosure'
+- 'Into the Spider-Verse (2018): Kingpin contract on Miles, mask-reveal, refusal to fire, executed by
+  Kingpin — the sacrificial integration the architecture cannot survive'
+- 'Longitudinal arc: from pure opportunistic predator (early Ultimate) to akratic tragic figure (late
+  Bendis) to sacrificial-integration terminus (Spider-Verse). Each era refines the same dyad — uncle vs
+  operator — without resolving it'
+- 'Cross-continuity invariants: the brother-split, the criminal identity as load-bearing ego structure,
+  the Miles bond as the one lever that bends but does not break the structure until it kills him'
+canon_anchor_quotes:
+- '"What''s up with you and the ladies, man?" # Aaron Davis to Peter Parker, Spider-Man: Homecoming —
+  the avuncular register, sincere, thirty seconds before he trades information.'
+- '"You''re the best of all of us, Miles. You are on your way. Just keep going." # Aaron Davis, Into the
+  Spider-Verse — the integration moment; he dies seconds later because his architecture cannot hold it.'

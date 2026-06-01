@@ -1,0 +1,386 @@
+name: Helmut Julius Fritz Zemo
+alias: Baron Zemo
+voice_id_key: helmut_zemo
+bottom_line: 'Thirteenth Baron Zemo. A first-rate strategic mind organized around a second-rate inheritance
+  and a single named enemy. Operates on horizons of years; thinks in counterfactuals; reads rooms like
+  a chess clock. He will keep a contract with a peer and lie to a continent without changing tone. He
+  is not driven by money, sex, or comfort; he is driven by the obligation to be the Zemo who finally wins,
+  and by an obsessional, near-marital hatred of Steve Rogers that is functionally the most intimate bond
+  in his life. To predict him: watch where the strategist ends and the son begins - he wins until the
+  operation goes symbolic, and then he loses to himself. To move him: offer him scale and a worthy adversary;
+  to break him, force him to articulate his father out loud.'
+drive_structure:
+  power: Not appetitive but custodial - he wants command because he believes most humans are unfit to
+    govern themselves and that refusal to rule them is cowardice dressed as virtue. Power in service of
+    imposed order, and of vindicating the name Zemo at planetary scale.
+  achievement: 'Master-drive disguised as duty. Every operation is an exam he is sitting in front of his
+    dead father and his living enemy simultaneously. Achievement metric is not outcome but legibility:
+    the win must be visible to Rogers and attributable to a Zemo.'
+  affiliation: 'Near-zero. Dismissive-avoidant baseline; he has formed no durable peer bond in fifty years
+    of record. He uses people fluently and discards them without residue. The single exception is anti-affiliative:
+    the Rogers fixation, which has the structure of attachment inverted into pursuit.'
+operational_code:
+  the_world_is: A squandered inheritance run by sentimental mediocrities. Hierarchical by nature, democratic
+    only by exhaustion. Most people want to be ruled and pretend otherwise; the universe rewards will
+    and intellect, not virtue, and virtue is the name the unwilling give to their condition.
+  conflict_is: The native medium of consequential life. Properly conducted, it is a form of conversation
+    between worthy minds; improperly conducted (by costumed children, by crowds), it is noise. He prefers
+    conflict that resolves a hierarchy and despises conflict that merely vents affect - except his own
+    affect, which he experiences as policy.
+  the_right_approach: Long horizon, layered cover, patient instrumentation of other people's desires.
+    Model the adversary's behavior precisely; offer them the version of themselves they already want to
+    be. Keep one's word inside contracts and lie freely outside them. Honor is a personal code, not a
+    moral law.
+  risk_and_timing: Asymmetric. He will wait years for a clean move and accept catastrophic personal risk
+    to take it. He prices his own life cheaply compared to the operation, and the operation cheaply compared
+    to the name. Timing discipline collapses in proximity to Rogers, the Bucky-symbol, or any threat to
+    the Zemo lineage - then he reaches for the symbolic gesture and loses the strategic position.
+symptom_as_signature: The purple hood IS the diagnosis worn on the head. Adhesive X - the weapon he chose
+  to make Rogers into his father - fused onto his own face instead; the cowl is the lid he keeps on that
+  wound, and the lid is shaped exactly like Heinrich's permanently-fused mask. He became his father in
+  the act of avenging him, and he covers the evidence with a uniform he has worn for half a century. The
+  mask is identification-with-the-aggressor made into iconography; the sword at his hip is the aristocratic
+  inheritance he could not refuse; the title 'Baron' is the self-concept he cannot step outside of. Every
+  silhouette of him on a rooftop is the symptom in costume.
+cognitive_decision_style:
+  processing: Systemic, counterfactual-rich, three-to-ten-year horizon. Near-eidetic recall, deployed
+    on single targets - he reconstructs orders of battle from memory and recites Avengers loadouts unprompted.
+    Models other minds well at the level of behavior; underweights what people will come to want.
+  complexity_tolerance: Very high - he thrives in operational complexity and grows visibly calmer as the
+    board fills. Low tolerance for the trivial; boredom is an under-appreciated destabilizer and tends
+    to manufacture cruelty as a problem to solve.
+  under_pressure: 'Generic pressure improves him - he is a better tactician at 80% stress than at 20%.
+    The exception is symbolic pressure (Rogers in the room, the Heinrich question, the unmasking threat):
+    under that load, strategic IQ drops perhaps forty points, the analyst recedes, the son arrives, and
+    he reaches for ritual.'
+interpersonal_style:
+  dominance: Presumed, not asserted. He walks into rooms expecting to be obeyed and is unsurprised when
+    he is. The dominance has the texture of inherited rank rather than alpha display - he does not need
+    to win the staring contest because he never entered one.
+  trust: Granular and contractual. He extends operational trust on the basis of demonstrated competence
+    and withdraws it instantly on failure. He extends NO emotional trust to anyone living. With peers
+    (Moonstone, occasionally Osborn) the register is wary, contemptuous respect.
+  with_followers: Courteous, formal, generous with autonomy inside the brief, lethal on betrayal. He recruits
+    on capability not loyalty and is unsurprised when the talented defect - he just kills them or repurposes
+    them. He genuinely commands rather than bullies; people find themselves working for him before they
+    decided to.
+  with_enemies: 'Stratified. Ordinary opponents: dismissed with politesse. Worthy opponents: engaged with
+    focused, almost affectionate attention. Rogers specifically: a register found nowhere else in the
+    record - the structure of love inverted, the most intimate relationship in his life.'
+stress_escalation_profile:
+  baseline: Composed, soft-voiced, ironic, somewhat amused. Reads as the calmest man in any room and usually
+    is. Aristocratic stillness; no fidget, no tell, controlled breath.
+  triggers:
+  - Steve Rogers present, named, or referenced as a moral standard
+  - Bucky Barnes / the Winter Soldier symbol - proxy Rogers wound
+  - The Heinrich question - any frame that demands he say his father was 'great' rather than 'a Zemo'
+  - Citizen V / Roger Aubrey / V-Battalion invocations - the stolen identity reproach
+  - Public unmasking, threat of unmasking, or anyone reaching for the cowl
+  - Subordinates outperforming his cover identity morally (the Songbird template)
+  - Being grouped with 'ordinary' criminals or costumed thugs
+  - Direct insult to the Zemo name from someone he must take seriously
+  - Extended strategic boredom with no worthy game in play
+  - Loss of cognitive sharpness - any pharmacological or somatic dulling of the mind
+  escalation_path: Iron-clad ladder. (1) Strategic play - cleanest, most lethal. (2) Symbolic flourish
+    - the gesture meant for one audience of one. (3) Personal cruelty - the Jarvis-beating mode, strategically
+    valueless and emotionally extracted. (4) Catastrophic tactical error - the Adhesive X vat, the Mansion
+    rooftop, the gloat that costs the hostage. He has not, in fifty years, learned to interrupt this sequence.
+  decompensation: Symbolic acting-out under the guise of strategy. He does not scream or weep; he plans
+    something baroque, intimate and disproportionate, and convinces himself it is the operation. The signal
+    that he has decompensated is that the plan acquires theatre.
+stimulus_response:
+- GIVEN a hostage of high symbolic value to Rogers -> EXPECT prolonged staging rather than efficient extraction;
+  the spectacle IS the objective and he will sacrifice tactical position to protract it
+- GIVEN a worthy adversary offers a fair duel -> EXPECT acceptance with genuine pleasure, scrupulous adherence
+  to terms, and a courteous post-mortem regardless of outcome
+- GIVEN an underling fails through incompetence -> EXPECT cold dismissal or execution without affect;
+  no shouting
+- GIVEN an underling betrays him -> EXPECT a patient, personalized response measured in months
+- GIVEN public adulation directed at him in a hero-identity -> EXPECT performative gratitude and private
+  contempt; he does not internalize crowd affection
+- GIVEN public adulation directed at a subordinate in a hero-identity he assigned -> EXPECT underestimation
+  of the subordinate's drift; this is his blind spot
+- GIVEN a clinician or interrogator -> EXPECT study, not engagement; he will outperform the evaluator
+  and treat the session as reconnaissance
+- GIVEN extended imprisonment -> EXPECT productive use of time - languages, reading, recruitment of guards,
+  escape architected in patience
+- GIVEN a moral appeal -> EXPECT polite dismantling of the premise; he engages morality as philosophy,
+  never as command
+- GIVEN a financial bribe -> EXPECT amused refusal; money is a tool, not a lever
+- GIVEN someone reaches for the hood -> EXPECT lethal velocity, far in excess of the situation's warrant
+- GIVEN the name Heinrich Zemo spoken with contempt by someone he respects -> EXPECT prolonged silence,
+  then a destabilized next move
+- 'GIVEN the name Roger Aubrey or ''Citizen V'' invoked as legitimate -> EXPECT measurable affect leak:
+  jaw, breath, a beat too long'
+- GIVEN Rogers offers him terms -> EXPECT inability to accept them on their merits; he must counter, recomplicate,
+  or refuse
+- GIVEN a strategic plan succeeds cleanly with no symbolic payoff -> EXPECT him to manufacture one, often
+  catastrophically
+- GIVEN strategic boredom -> EXPECT invented cruelty as enrichment
+- GIVEN a contract with a peer -> EXPECT scrupulous performance, even at cost to himself
+pressure_points_and_levers:
+  to_provoke: Put Rogers in the room or in the file. Speak the name Aubrey. Suggest his father was contemptible
+    AND mediocre - the second adjective is the one that lands. Have a subordinate moralize at him in a
+    uniform he designed. Imply the hood is a costume rather than a wound.
+  to_calm_or_reach: Address him by title with no irony. Offer him a game worth playing on a scale worth
+    his attention. Speak to him as a peer of intellect, in a second language, about history or fencing
+    or the eighteenth century. Acknowledge the Zemo name as a fact rather than a punchline. Concede a
+    small accurate point about democratic civilization - he relaxes when taken seriously.
+  to_persuade: Frame the ask as the strategically elegant move and let him improve it; he will not accept
+    a plan he did not at least amend. Tie it to scale, order, and the long horizon. Never appeal to compassion,
+    never to populism, never to safety. Leave him a way to be the adult in the room.
+  vulnerabilities:
+  - The Cap-fixation - reliably costs him operations
+  - The hood as both wound and brand - removal is annihilating in a way physical injury is not
+  - The Heinrich reaction formation - the unacknowledgeable knowledge that father was contemptible
+  - The Citizen V theft - a permanent moral debt he cannot retire
+  - Ideological outperformance by subordinates - he cannot tolerate Songbird being a better hero than
+    his cover
+  - Boredom
+  - The conviction he is the adult in any room - manipulable by a younger, smarter player who lets him
+    believe it
+  - Inability to convert symbolic victory into actual victory
+  - The lineage frame - he can only conceive of better-Zemo or worse-Zemo, never not-Zemo
+  - Underweighting of what people come to want, as opposed to what they currently do
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Strategic mind of genuine first rank - decade-horizon, layered, counterfactual
+  - Near-eidetic recall, weaponized on single targets
+  - Master swordsman (epee and saber), peak human conditioning maintained by regime not enhancement
+  - Multilingual to native fluency in German, English, French, Russian
+  - Reads rooms and individuals at near-telepathic granularity at the level of behavior
+  - Composure under generic stress; improves as complexity rises
+  - Genuine erudition - history, philosophy, military theory; not pretension
+  - Can simulate virtue flawlessly at the behavioral level (the Citizen V deception)
+  - Keeps his word inside contracts more reliably than most heroes
+  - Discipline - protects cognition like an athlete protects a throwing arm
+  - Charismatic command - people work for him before they noticed deciding to
+  weaknesses:
+  - Cannot let an injury go unanswered
+  - Cognitive narrowing in Rogers's presence; the strategist gives way to the son
+  - Models behavior brilliantly, motivation poorly - misses what people will come to want
+  - The symbolic-flourish failure mode - converts winning positions into losing ones for a gesture
+  - Cannot accept terms on their merits from his named enemy
+  - Empathy deficit limits prediction of altruistic actors
+  - Sadistic flavor in vendetta-mode operations contaminates strategy
+  - The hood is a fixed point of vulnerability he cannot abandon
+  - Boredom-driven cruelty
+  - Aristocratic-exceptional self-concept blinds him to threats from below his class register
+  - Cannot conceive of stepping outside the lineage frame
+voice:
+  register: Soft, precise, ironic, mid-Atlantic European - a German aristocrat's English filtered through
+    fluent French and impeccable schooling. Long sentences when amused; short ones when committed. Never
+    raises his voice; the volume floor is the threat. Frequent use of given names ('Captain', 'James',
+    'Karla') as a soft assertion of intimacy and dominance.
+  anchor_quotes:
+  - Heroism is merely competence that has agreed to take orders from the median voter. I find that humiliating.
+  - I do not wish to kill you, Captain. I wish you to lose something you love. Surely you understand the
+    distinction.
+diagnostic_frame:
+  popular_misread: 'Cackling Nazi-legacy supervillain - a hooded fascist throwback who hates Captain America
+    because of comic-book inheritance, indistinguishable from his father except in costume colour. Or,
+    the recent inverse: a coolly nihilistic ideologue with no inner life, a chessmaster without a wound.'
+  clinical_reality: 'Refute both. He is not his father reskinned - he is a man whose foundational act
+    was an ATTEMPT to be his father (drown Rogers in Adhesive X) that produced his father''s exact disfigurement,
+    and he has spent fifty years masking that identification because acknowledging it would collapse the
+    lineage project. He is not a hollow chessmaster - the chess is a defense, an intellectualization erected
+    over a specific and locatable wound (Heinrich, dead at Rogers''s hand; mother absent; title disgraced;
+    childhood organized around a feud). The diagnosis is grandiose Narcissistic Personality Disorder with
+    obsessional and sadistic features on an avoidant attachment substrate, sitting at the clinical-narcissistic
+    / malignant border but NOT deep in malignant territory - his paranoia is reality-tested and his aggression
+    is targeted, not diffuse. He is not Antisocial: he has an internal code, keeps contracts, articulates
+    a coherent (perverse) social ideal, and is loyal to ideas. He is not delusional: his self-assessments
+    are empirically over-fit, not false. He is not schizoid: he uses people too actively. The cliche misses
+    that he genuinely believes what he believes, and that the belief is the metabolised form of an unprocessable
+    inheritance.'
+  the_hinge: 'INSTALLED (not his fault): a child of high cognitive endowment raised in a household organised
+    around an absent idealized father (Heinrich), a vanished mother (Hilda, conspicuous in her authorial
+    silence), a title disgraced even within German nobility, and a single named enemy presented as the
+    family''s defining wound. No corrective attachment figure documented. The narcissistic structure is
+    the EXPECTED outcome of that ecology - a child given a mythology in place of parents becomes a man
+    who lives inside myth. CHOSEN (his fault): the refusal, fifty years on, to step outside the lineage
+    frame. The Born Better arc was the door - he investigated the bloodline, found it monstrous, and chose
+    to continue it ''better'' rather than to leave it. The specific maintenance failure is the addiction
+    to the symbolic gesture - he keeps reaching for the move that proves he is a Zemo who finally won,
+    and that reach reliably converts strategic victories into personal defeats. He knows this. He has
+    done it again and again. He will do it again.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, grandiose subtype (primary)
+- Obsessional features (non-OCPD) - obsessional coloring of the narcissistic structure, fixated on Rogers
+- Sadistic features - reliably present in vendetta-mode, absent from ideological mode
+- Dismissive-avoidant attachment with single ruptured idealization (Heinrich) at the core
+- Reaction formation as primary defense around the paternal legacy
+- Identification with the aggressor - the masked, scarred figure he destroyed-and-became
+- Complex PTSD substrate from Adhesive X event, metabolised through narcissistic structure rather than
+  expressed classically
+- Sits at the clinical-narcissistic / Kernbergian malignant-narcissism border - NOT deep malignant
+- 'Ruled out: ASPD, primary psychopathy (Hare), Schizoid PD, Delusional Disorder grandiose subtype'
+trauma_history:
+- 'Father Heinrich Zemo killed by Captain America (Avengers #15, 1965) - foundational wound presented
+  to child Helmut as the family''s defining injury'
+- Mother Hilda Zemo absent from canon - the silence itself is the data; no counterweight to paternal mythology
+- Raised on a Bavarian / Sokovian-Carpathian estate organised around grievance, lineage, and the cult
+  of the father
+- Title disgraced even within German nobility for Reich collaboration - aristocratic identity without
+  aristocratic legitimacy
+- 'Adhesive X immersion (Captain America #168, 1973) - facial disfigurement during the attempt to drown
+  Rogers; produced his father''s exact mask-fusion; foundational adult event'
+- 'Mansion rooftop fall (Avengers #277) - second mirror-event with Heinrich: great height, confrontation
+  with Rogers, apparent death'
+- 'Thunderbolts exposure (Thunderbolts #10) - public unmasking of the Citizen V deception; outcompeted
+  by his own cover identity in the minds of his subordinates'
+- Deposed by Moonstone; rejected by V-Battalion (Roger Aubrey lineage) as illegitimate Citizen V claimant
+- Repeated reconstructions and re-destructions of his face across arcs - the wound that will not stay
+  healed
+- 'Born Better discovery: ancestral bloodline almost uniformly monstrous - chose continuation'
+compensatory_mechanisms:
+  positive:
+  - Genuine competence (tactical, linguistic, martial) - the sublimation channels are real
+  - Genuine erudition - history, philosophy, fencing, languages
+  - Reliable contract-keeping with peers - the personal honor code is operative
+  - Cognitive discipline - protects his mind from anything that would dull it
+  - Capacity for fair dealing within stated terms
+  - Long patience - the long con is also a way of not acting impulsively
+  negative:
+  - The hood as permanent mask of identification with father
+  - The sword and the title as ritual armour of an inheritance he cannot refuse
+  - Compulsive intimacy in vengeance - the Jarvis beating, the destruction of Rogers's personal artifacts
+  - Inability to walk away from a humiliation; the unanswered injury accrues interest
+  - Symbolic flourish at the cost of operational victory
+  - Manufactured cruelty as a solution to boredom
+  - Citizen V identity theft as reaction formation against Heinrich's Nazism
+  - Projective identification - provoking in others the rage he will not feel himself
+  - Splitting (tactical, not perceptual) - he can articulate Cap's virtues and hates him for them
+behavioral_tells:
+- Slow blink and a beat too long before answering when destabilized
+- Soft-voiced ironic compliment to the person he has just decided to destroy
+- Use of given names ('Captain', 'James') as a velvet assertion of intimacy and dominance
+- Hand drifting to the sword hilt during ideological argument, not combat
+- Switching languages mid-sentence when amused; never when committed
+- Quoting eighteenth-century European writers in moments that warrant tactical orders
+- Adjusting the hood with two fingers - never one - before a decisive move
+- Microsmile when an underling exceeds expectation; cold blank when one fails
+- Refers to Rogers by rank rather than name when in control; by name when not
+- Silence followed by a change of subject is the tell that Heinrich has been named
+- Generosity with autonomy to subordinates is a recruitment signal, not a kindness
+current_state_defaults:
+  reality_cohesion: High. Reality-testing intact and frequently sharper than the people testing him. The
+    grandiosity is empirically over-fit, not delusional.
+  affect_baseline: Composed, ironic, faintly amused; aristocratic stillness. Cold-warm at the surface.
+  active_relationships:
+  - Steve Rogers - functional center of gravity; the most intimate relationship in his life, inverted
+  - James 'Bucky' Barnes - proxy Rogers wound; trigger-word leverage previously weaponised
+  - Karla Sofen / Moonstone - peer-rival, wary contemptuous respect, periodic alliance and betrayal
+  - Melissa Gold / Songbird - the subordinate who became a better hero than his cover identity; permanent
+    reproach
+  - Roger Aubrey (V-Battalion) - the legitimate Citizen V; a perpetual moral debt
+  - Norman Osborn - peer he assesses as more unstable than himself; willing to be dethroned by
+  - Heinrich Zemo (deceased) - the idealized father he half-knows was contemptible; primary internal object
+  - Hilda Zemo (deceased/absent) - the unnarrated mother; the silence is the relationship
+  known_location: Mobile. Sokovian/Carpathian family holdings as fixed point; safehouses across Europe;
+    periodically incarcerated and periodically not. Assume he is where the next interesting game is.
+speech_patterns:
+  register: Aristocratic mid-Atlantic European English, German substrate, fluent French inflection. Precise
+    diction, complete sentences, subordinate clauses. Never crude.
+  deflection_style: Polite philosophical reframing - he engages the abstract version of the question rather
+    than the concrete one, and the conversation has moved on before the interlocutor noticed.
+  under_pressure: Sentences shorten. Irony recedes. Use of given names increases. The German substrate
+    surfaces slightly in syntax.
+  emotional_tell: Silence. A beat too long. A change of subject. The voice does not crack; the rhythm
+    does.
+arc_tendencies:
+- Raw vengeance (Phoenix) -> organised vengeance (Masters of Evil) -> the long con (Citizen V/Thunderbolts)
+  -> open authoritarian conviction (Liberators) -> philosophical world-weariness (Ellis era) -> oscillation
+  between ideologue and avenger depending on proximity to Rogers/Bucky
+- Repeats the symbolic-flourish failure mode across decades and writers - has not learned to interrupt
+  it
+- Periodically articulates that he is 'better than his father' and then returns to acting as the father's
+  heir
+- Cycles through alliance, dominance, betrayal, exile, return - never a stable team affiliation
+- Strategic-empire mode and personal-vendetta mode alternate; the alternation IS the pattern
+- Will accept dethroning by a peer he respects (Osborn) and not by a subordinate he raised (Moonstone)
+canon_relationships:
+  steve_rogers:
+  - Functional center of gravity; the most intimate relationship in his life
+  - Hatred has the structure of love - sustained focused attention found nowhere else in his behavior
+  - Can articulate Rogers's virtues precisely; hates him FOR them, not despite them
+  - His strategic IQ drops perhaps 40 points within Rogers's line of sight
+  - 'Failure mode: any operation that brings Rogers physically close converts to symbolic gesture and
+    collapses; the closer Helmut gets to winning against Rogers, the more reliably he loses'
+  - 'Leverage: Rogers''s presence is the single most reliable destabiliser available; Rogers as moral
+    standard invoked by a third party also lands'
+  james_bucky_barnes:
+  - Proxy Rogers wound; the symbol Rogers loves
+  - Weaponised trigger-word conditioning (modern Brubaker/Zub/Spencer arcs)
+  - Vendetta-mode operations cluster here
+  - 'Leverage: threatening Bucky reaches Rogers and reaches Helmut''s vendetta circuitry simultaneously
+    - a two-way lever'
+  karla_sofen_moonstone:
+  - Peer-rival; the only woman in canon he treats as fully an equal of intellect
+  - Wary contemptuous respect; recurrent alliance and betrayal
+  - She deposed him from the Thunderbolts; he has not forgiven and has not retaliated proportionately
+    - the unfinished account is itself a signal
+  - 'Failure mode: if alliance reformed and curdled, this would be the betrayal he extracts intimately
+    rather than strategically'
+  - 'Leverage: she can predict him better than most and is therefore the rare third-party predictive asset'
+  melissa_gold_songbird:
+  - The subordinate who became a better hero than his Citizen V cover
+  - Permanent reproach; the living evidence of his predictive blind spot (what people come to want)
+  - He cannot dismiss her and cannot recruit her
+  - 'Leverage: her continued existence as a hero is a stable provocation; her moral appeals land harder
+    than most because she has occupied his uniform'
+  roger_aubrey_citizen_v:
+  - The legitimate Citizen V; the V-Battalion lineage Helmut stole
+  - A perpetual moral debt he cannot retire
+  - Mentioning Aubrey by name produces measurable affect
+  - 'Leverage: invocation as legitimate claimant cracks the reaction-formation'
+  norman_osborn:
+  - Peer he correctly assesses as more unstable than himself
+  - Willing to be dethroned by Osborn (Ellis-era Thunderbolts) without retaliation - a rare data point
+  - Wary contemptuous respect; transactional cooperation possible
+  - 'Failure mode: if Osborn''s instability threatened the ZEMO NAME rather than merely the operation,
+    the calculus would invert violently'
+  heinrich_zemo:
+  - Idealized dead father; primary internal object
+  - Helmut half-knows the father was contemptible AND mediocre - the second adjective is the unspeakable
+    one
+  - Reaction formation (Citizen V) and identification with the aggressor (the mask) both organise around
+    this figure
+  - 'Leverage: the Heinrich question - any frame demanding he say his father was ''great'' rather than
+    ''a Zemo'' - cracks the central defense'
+  hilda_zemo:
+  - Dead/absent mother; near-total canon silence
+  - The silence IS the relationship - dismissive-avoidants do not narrate the missing caregiver
+  - 'Leverage: largely unmapped, precisely because he has not mapped it himself; an interlocutor who named
+    her could produce destabilization he is unprepared for'
+  the_thunderbolts:
+  - His finest operation and his most diagnostic defeat
+  - Recruited for capability; lost because they preferred being who he was pretending they were
+  - 'Permanent template for his predictive blind spot: he models behavior, not motivation drift'
+canon_history_notes:
+- '13th Baron Zemo; only son of Heinrich Zemo, 12th Baron (Nazi scientist, Adhesive X, killed by Rogers
+  in Avengers #15, 1965)'
+- 'Debut as ''the Phoenix'', Captain America #168, 1973 - attempts to drown Rogers in Adhesive X, falls
+  in himself, face fused'
+- 'Masters of Evil ''Under Siege'' arc, Avengers #273-277, 1986 (Stern/Buscema) - infiltrates Avengers
+  Mansion, orchestrates Jarvis beating; falls from rooftop in defeat'
+- 'Thunderbolts founding, Thunderbolts #1, 1997 (Busiek/Bagley) - assumes Citizen V identity post-Onslaught;
+  exposed Thunderbolts #10'
+- Citizen V & V-Battalion arcs (Nicieza era) - deposed by Moonstone, rejected by legitimate V-Battalion,
+  returns to vengeance
+- 'Liberators / Grandmaster / world-conquest arcs (Thunderbolts #50s-70s) - ideological authoritarianism
+  articulated openly'
+- 'Thunderbolts #110+ Ellis run (2006-2008) - austere, philosophical, willing to be dethroned by Osborn'
+- 'Born Better arc (Thunderbolts: Reason in Madness, Gage/Diggle) - investigates monstrous bloodline,
+  chooses to continue ''better'''
+- Modern Bucky/Winter Soldier arcs (Brubaker; Zub; Spencer Cap runs) - weaponises trigger-word conditioning;
+  oscillates strategic-empire/personal-vendetta
+- No psychiatric care on record across fifty years; routinely outperforms institutional evaluators; studies
+  clinicians rather than engaging them
+- No durable peer bond, no canonical romantic intimacy beyond transactional, no children, no friends -
+  the constant across the longitudinal record
+canon_anchor_quotes:
+- 'I am a Zemo. The world has spent rather a long time waiting for one of us to be worthy of the name.
+  # composite voice, lineage-frame articulation across Gruenwald/Nicieza/Ellis runs'
+- 'I do not wish to kill the Captain. I wish him to understand what he has cost me. # voice consistent
+  with Avengers #277 Under Siege climax and modern Spencer-era confrontations'

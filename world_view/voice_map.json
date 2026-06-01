@@ -2,5 +2,585 @@
   "alicia_masters": {
     "voice_id": "XrExE9yKIg1WjnnlVkGX",
     "voice_name": "Matilda - Knowledgable, Professional"
+  },
+  "anya": {
+    "voice_id": "4tRn1lSkEn13EVTuqb0g",
+    "voice_name": "Serafina - Flirty Sensual Temptress"
+  },
+  "ben_grimm": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "bernard_barton": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "betty_ross": {
+    "voice_id": "SAz9YHcvj6GT2YYXdXww",
+    "voice_name": "River - Relaxed, Neutral, Informative"
+  },
+  "black_fox": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "bobbi_morse": {
+    "voice_id": "XrExE9yKIg1WjnnlVkGX",
+    "voice_name": "Matilda - Knowledgable, Professional"
+  },
+  "brian_banner": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "brock_rumlow": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "bruce_banner": {
+    "voice_id": "SAz9YHcvj6GT2YYXdXww",
+    "voice_name": "River - Relaxed, Neutral, Informative"
+  },
+  "bucky_barnes": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "cain_marko": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "carol_danvers": {
+    "voice_id": "EXAVITQu4vr4xnSDxMaL",
+    "voice_name": "Sarah - Mature, Reassuring, Confident"
+  },
+  "charles_xavier": {
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "voice_name": "George - Warm, Captivating Storyteller"
+  },
+  "clint_barton": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "colleen_wing": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "danny_rand": {
+    "voice_id": "Mu5jxyqZOLIGltFpfalg",
+    "voice_name": "Jameson - Deep, Calm, Warm, Engaging"
+  },
+  "daredevil_matt_murdock": {
+    "voice_id": "pqHfZKP75CvOlQylNhV4",
+    "voice_name": "Bill - Wise, Mature, Balanced"
+  },
+  "david_haller": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "davos": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "doctor_octopus": {
+    "voice_id": "kqVT88a5QfII1HNAEPTJ",
+    "voice_name": "Declan Sage - Wise, Deliberate, Captivating"
+  },
+  "erik_lehnsherr": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "felicia_hardy": {
+    "voice_id": "4tRn1lSkEn13EVTuqb0g",
+    "voice_name": "Serafina - Flirty Sensual Temptress"
+  },
+  "frank_castle": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "hank_mccoy": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "harold_meachum": {
+    "voice_id": "kqVT88a5QfII1HNAEPTJ",
+    "voice_name": "Declan Sage - Wise, Deliberate, Captivating"
+  },
+  "heather_rand": {
+    "voice_id": "SAz9YHcvj6GT2YYXdXww",
+    "voice_name": "River - Relaxed, Neutral, Informative"
+  },
+  "heinrich_zemo": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "helmut_zemo": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "jean_grey": {
+    "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+    "voice_name": "Lily - Velvety Actress"
+  },
+  "jennifer_walters": {
+    "voice_id": "XrExE9yKIg1WjnnlVkGX",
+    "voice_name": "Matilda - Knowledgable, Professional"
+  },
+  "jeryn_hogarth": {
+    "voice_id": "cjVigY5qzO86Huf0OWal",
+    "voice_name": "Eric - Smooth, Trustworthy"
+  },
+  "jessica_jones": {
+    "voice_id": "aTxZrSrp47xsP6Ot4Kgd",
+    "voice_name": "Kayla - Black Voice - Urban and Casual"
+  },
+  "johnny_storm": {
+    "voice_id": "DTKMou8ccj1ZaWGBiotd",
+    "voice_name": "Jamahal"
+  },
+  "joy_meachum": {
+    "voice_id": "XrExE9yKIg1WjnnlVkGX",
+    "voice_name": "Matilda - Knowledgable, Professional"
+  },
+  "kamala_khan": {
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "voice_name": "Jessica - Playful, Bright, Warm"
+  },
+  "kate_bishop": {
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura - Enthusiast, Quirky Attitude"
+  },
+  "kingpin": {
+    "voice_id": "tZssYepgGaQmegsMEXjK",
+    "voice_name": "True - Crime & Horror Narrator"
+  },
+  "kitty_pryde": {
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura - Enthusiast, Quirky Attitude"
+  },
+  "kurt_marko": {
+    "voice_id": "ZthjuvLPty3kTMaNKVKb",
+    "voice_name": "Jackson"
+  },
+  "kurt_wagner": {
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "voice_name": "George - Warm, Captivating Storyteller"
+  },
+  "lei_kung": {
+    "voice_id": "kqVT88a5QfII1HNAEPTJ",
+    "voice_name": "Declan Sage - Wise, Deliberate, Captivating"
+  },
+  "leonard_samson": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "lilandra_neramani": {
+    "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+    "voice_name": "Lily - Velvety Actress"
+  },
+  "lin_lie": {
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "voice_name": "George - Warm, Captivating Storyteller"
+  },
+  "logan": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "lucky_the_pizza_dog": {
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "voice_name": "Jessica - Playful, Bright, Warm"
+  },
+  "luke_cage": {
+    "voice_id": "YjlcD3XHztjJEo2wNszv",
+    "voice_name": "Tyre G - A natural urban voice, perfect for narrations, video games, and social media"
+  },
+  "magda": {
+    "voice_id": "ZivXUHKPoTsefW6FXMkc",
+    "voice_name": "Natasha-1218"
+  },
+  "mar_vell": {
+    "voice_id": "pqHfZKP75CvOlQylNhV4",
+    "voice_name": "Bill - Wise, Mature, Balanced"
+  },
+  "maria_castle": {
+    "voice_id": "hpp4J3VqNfWAUOO0d1Us",
+    "voice_name": "Bella - Professional, Bright, Warm"
+  },
+  "maria_hill": {
+    "voice_id": "XrExE9yKIg1WjnnlVkGX",
+    "voice_name": "Matilda - Knowledgable, Professional"
+  },
+  "mary_jane_watson": {
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura - Enthusiast, Quirky Attitude"
+  },
+  "matt_murdock": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "miles_morales": {
+    "voice_id": "YjlcD3XHztjJEo2wNszv",
+    "voice_name": "Tyre G - A natural urban voice, perfect for narrations, video games, and social media"
+  },
+  "misty_knight": {
+    "voice_id": "aTxZrSrp47xsP6Ot4Kgd",
+    "voice_name": "Kayla - Black Voice - Urban and Casual"
+  },
+  "moira_mactaggert": {
+    "voice_id": "GMMHOb4rTjlnBIBClu3X",
+    "voice_name": "hugh munro"
+  },
+  "mystique": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "natasha_romanoff": {
+    "voice_id": "EXAVITQu4vr4xnSDxMaL",
+    "voice_name": "Sarah - Mature, Reassuring, Confident"
+  },
+  "nick_fury": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "odessa_drake": {
+    "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+    "voice_name": "Lily - Velvety Actress"
+  },
+  "ororo_munroe": {
+    "voice_id": "hpp4J3VqNfWAUOO0d1Us",
+    "voice_name": "Bella - Professional, Bright, Warm"
+  },
+  "orson_randall": {
+    "voice_id": "pqHfZKP75CvOlQylNhV4",
+    "voice_name": "Bill - Wise, Mature, Balanced"
+  },
+  "peter_parker": {
+    "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+    "voice_name": "Roger - Laid-Back, Casual, Resonant"
+  },
+  "pietro_maximoff": {
+    "voice_id": "kqVT88a5QfII1HNAEPTJ",
+    "voice_name": "Declan Sage - Wise, Deliberate, Captivating"
+  },
+  "reed_richards": {
+    "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+    "voice_name": "Alice - Clear, Engaging Educator"
+  },
+  "remy_lebeau": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "rick_jones": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "rogue": {
+    "voice_id": "9PVP7ENhDskL0KYHAKtD",
+    "voice_name": "Jerry B. - Southern Drawl | Country Western"
+  },
+  "sam_wilson": {
+    "voice_id": "YjlcD3XHztjJEo2wNszv",
+    "voice_name": "Tyre G - A natural urban voice, perfect for narrations, video games, and social media"
+  },
+  "scott_lang": {
+    "voice_id": "DTKMou8ccj1ZaWGBiotd",
+    "voice_name": "Jamahal"
+  },
+  "scott_summers": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "sharon_xavier": {
+    "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+    "voice_name": "Lily - Velvety Actress"
+  },
+  "steve_rogers": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "sue_storm": {
+    "voice_id": "hpp4J3VqNfWAUOO0d1Us",
+    "voice_name": "Bella - Professional, Bright, Warm"
+  },
+  "thaddeus_ross": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "the_devil_hulk": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "the_foreigner": {
+    "voice_id": "cjVigY5qzO86Huf0OWal",
+    "voice_name": "Eric - Smooth, Trustworthy"
+  },
+  "thor_odinson": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "tony_stark": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "uatu_the_watcher": {
+    "voice_id": "kqVT88a5QfII1HNAEPTJ",
+    "voice_name": "Declan Sage - Wise, Deliberate, Captivating"
+  },
+  "victor_doom": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "wade_wilson": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "walter_hardy": {
+    "voice_id": "cjVigY5qzO86Huf0OWal",
+    "voice_name": "Eric - Smooth, Trustworthy"
+  },
+  "wanda_maximoff": {
+    "voice_id": "ZivXUHKPoTsefW6FXMkc",
+    "voice_name": "Natasha-1218"
+  },
+  "wendell_rand": {
+    "voice_id": "pqHfZKP75CvOlQylNhV4",
+    "voice_name": "Bill - Wise, Mature, Balanced"
+  },
+  "yelena_belova": {
+    "voice_id": "ZivXUHKPoTsefW6FXMkc",
+    "voice_name": "Natasha-1218"
+  },
+  "apocalypse": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "emma_frost": {
+    "voice_id": "EXAVITQu4vr4xnSDxMaL",
+    "voice_name": "Sarah - Mature, Reassuring, Confident"
+  },
+  "jefferson_davis": {
+    "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+    "voice_name": "Roger - Laid-Back, Casual, Resonant"
+  },
+  "norman_osborn": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "rio_morales": {
+    "voice_id": "aTxZrSrp47xsP6Ot4Kgd",
+    "voice_name": "Kayla - Black Voice - Urban and Casual"
+  },
+  "aaron_davis": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "red_skull": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "mephisto": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "ganke_lee": {
+    "voice_id": "DTKMou8ccj1ZaWGBiotd",
+    "voice_name": "Jamahal"
+  },
+  "doctor_strange": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "thanos": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "silver_surfer": {
+    "voice_id": "pqHfZKP75CvOlQylNhV4",
+    "voice_name": "Bill - Wise, Mature, Balanced"
+  },
+  "galactus": {
+    "voice_id": "6dcFFb31LVaCdYevmTAx",
+    "voice_name": "Jerry B. - Voice of God Announcer | VoG"
+  },
+  "gamora": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "peter_quill": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "adam_warlock": {
+    "voice_id": "pqHfZKP75CvOlQylNhV4",
+    "voice_name": "Bill - Wise, Mature, Balanced"
+  },
+  "blade": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "johnny_blaze": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "morbius": {
+    "voice_id": "tZssYepgGaQmegsMEXjK",
+    "voice_name": "True - Crime & Horror Narrator"
+  },
+  "marc_spector": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "robbie_reyes": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "lisa_castle": {
+    "voice_id": "hA4zGnmTwX2NQiTRMt7o",
+    "voice_name": "Riley - Engaging Young Female Voice"
+  },
+  "frank_castle_jr": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "microchip": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "matt_murdock_daredevil": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "peter_parker_spider_man": {
+    "voice_id": "DTKMou8ccj1ZaWGBiotd",
+    "voice_name": "Jamahal"
+  },
+  "rachel_cole_alves": {
+    "voice_id": "XrExE9yKIg1WjnnlVkGX",
+    "voice_name": "Matilda - Knowledgable, Professional"
+  },
+  "barracuda": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "the_catholic_church": {
+    "voice_id": "kqVT88a5QfII1HNAEPTJ",
+    "voice_name": "Declan Sage - Wise, Deliberate, Captivating"
+  },
+  "bobby_drake": {
+    "voice_id": "DTKMou8ccj1ZaWGBiotd",
+    "voice_name": "Jamahal"
+  },
+  "wonder_man": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting"
+  },
+  "trish_tilby": {
+    "voice_id": "XrExE9yKIg1WjnnlVkGX",
+    "voice_name": "Matilda - Knowledgable, Professional"
+  },
+  "abigail_brand": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "rachel_summers": {
+    "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+    "voice_name": "Alice - Clear, Engaging Educator"
+  },
+  "nathan_summers": {
+    "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+    "voice_name": "Harry - Fierce Warrior"
+  },
+  "madelyne_pryor": {
+    "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+    "voice_name": "Lily - Velvety Actress"
+  },
+  "phoenix_force": {
+    "voice_id": "6dcFFb31LVaCdYevmTAx",
+    "voice_name": "Jerry B. - Voice of God Announcer | VoG"
+  },
+  "danielle_cage": {
+    "voice_id": "hpp4J3VqNfWAUOO0d1Us",
+    "voice_name": "Bella - Professional, Bright, Warm"
+  },
+  "killgrave": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "voice_name": "Callum - Husky Trickster"
+  },
+  "malcolm_ducasse": {
+    "voice_id": "Mu5jxyqZOLIGltFpfalg",
+    "voice_name": "Jameson - Deep, Calm, Warm, Engaging"
+  },
+  "jessica_drew": {
+    "voice_id": "aTxZrSrp47xsP6Ot4Kgd",
+    "voice_name": "Kayla - Black Voice - Urban and Casual"
+  },
+  "jonah_jameson": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam - Dominant, Firm"
+  },
+  "the_jones_family": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "franklin_richards": {
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "voice_name": "Jessica - Playful, Bright, Warm"
+  },
+  "valeria_richards": {
+    "voice_id": "EXAVITQu4vr4xnSDxMaL",
+    "voice_name": "Sarah - Mature, Reassuring, Confident"
+  },
+  "crystal": {
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "voice_name": "George - Warm, Captivating Storyteller"
+  },
+  "frankie_raye": {
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "voice_name": "Jessica - Playful, Bright, Warm"
+  },
+  "lyja": {
+    "voice_id": "EXAVITQu4vr4xnSDxMaL",
+    "voice_name": "Sarah - Mature, Reassuring, Confident"
+  },
+  "sky": {
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "voice_name": "Jessica - Playful, Bright, Warm"
+  },
+  "franklin_storm_father": {
+    "voice_id": "mZ8K1MPRiT5wDQaasg3i",
+    "voice_name": "Alexander Kensington - Studio Quality"
+  },
+  "yusuf_khan": {
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "voice_name": "George - Warm, Captivating Storyteller"
+  },
+  "muneeba_khan": {
+    "voice_id": "hpp4J3VqNfWAUOO0d1Us",
+    "voice_name": "Bella - Professional, Bright, Warm"
+  },
+  "bruno_carrelli": {
+    "voice_id": "DTKMou8ccj1ZaWGBiotd",
+    "voice_name": "Jamahal"
+  },
+  "aamir_khan": {
+    "voice_id": "kqVT88a5QfII1HNAEPTJ",
+    "voice_name": "Declan Sage - Wise, Deliberate, Captivating"
+  },
+  "jersey_city_neighborhood": {
+    "voice_id": "DTKMou8ccj1ZaWGBiotd",
+    "voice_name": "Jamahal"
+  },
+  "champions_team": {
+    "voice_id": "JjqNMa6BEYmyQYRCdHCa",
+    "voice_name": "Jim - confident and informative corporate narration"
+  },
+  "zoe_zimmer": {
+    "voice_id": "SAz9YHcvj6GT2YYXdXww",
+    "voice_name": "River - Relaxed, Neutral, Informative"
+  },
+  "america_chavez": {
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura - Enthusiast, Quirky Attitude"
+  },
+  "cassie_lang": {
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "voice_name": "Jessica - Playful, Bright, Warm"
   }
 }

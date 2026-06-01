@@ -1,0 +1,360 @@
+name: The Champions (Los Angeles, Original Roster)
+alias: Champions Team
+voice_id_key: champions_team
+bottom_line: 'A five-person West Coast super-team (Hercules, Black Widow, Ghost Rider, Iceman, Angel)
+  that accreted under attack in 1975 and never converted that battlefield-accident into a real formation.
+  Decides reactively, bonds somatically, dissolves entropically. To move them: hand them a crisis and
+  they cohere; ask them what they are and they fracture. To break them: remove Warren''s money, force
+  a public mission statement, or weaponize their own ''for the common man'' mandate against them. Half-life:
+  ~24 months. Operating principle: they are a team only while something is on fire.'
+drive_structure:
+  power: Subordinated drive. The team wants enough operational autonomy to refuse the Avengers/government/police,
+    not enough authority to be one. Power is sought as a shield against being told what to be, not as
+    a tool to enforce a vision — because no shared vision exists.
+  achievement: 'Mission-tempo achievement: wins are counted in engagements survived, not objectives advanced.
+    Achievement is the team''s affect-regulation device — a completed fight is the only thing that reliably
+    feels like ''we are a we.'' Strategic achievement (institution-building, doctrine, recruitment) is
+    absent.'
+  affiliation: The actual master drive, displaced and disavowed. Five people in fresh attachment rupture
+    (Natasha post-Murdock, Warren/Bobby post-X-Men, Blaze adrift, Hercules in exile from Olympus) bonded
+    as a rebound. They want belonging that does not require them to be known. Combat-intimate, biography-distant.
+operational_code:
+  the_world_is: A city of ordinary people who deserve heroes they can actually reach — sincerely believed,
+    cosmetically implemented. In practice the case-load is identical to any Marvel super-team's; the 'common
+    man' framing is a self-image the team never audits.
+  conflict_is: The medium in which the team becomes legible to itself. Conflict is welcomed because it
+    suspends the harder question of what the team is between conflicts. Moral ambiguity inside a conflict,
+    however, is intolerable — it activates the unshared ethical frameworks and fragments the unit.
+  the_right_approach: Show up, hit hard together, talk later (later never arrives). Decisions get made
+    by whoever speaks loudest mid-fight, defaulting to Hercules by volume and Natasha by competence, with
+    the chain of command permanently contested.
+  risk_and_timing: 'Present-tense, low strategic horizon. No pre-emptive intelligence despite a former
+    KGB illegal on roster. No quarterly objectives. Tempo is reactive: the team''s clock starts when the
+    alarm rings and stops when the smoke clears.'
+symptom_as_signature: 'The team''s name and mandate ARE the symptom made literal: ''Champions — for the
+  common man'' is a self-description that was never collectively generated, never operationally enacted,
+  and never publicly defended under pressure. The brand is the borrowed self. Wearing a unified identity
+  they did not negotiate is the group analog of identity diffusion worn as a uniform — and the headquarters
+  bankrolled by one member (Warren) is dependency made architectural: pull the funder and the ''we'' has
+  no premises to stand in.'
+cognitive_decision_style:
+  processing: Distributed and uncoordinated. Five incommensurable cognitive styles (Olympian honor-absolutism,
+    espionage consequentialism, damnation-deontology, noblesse-oblige liberalism, adolescent intuitionism)
+    running in parallel with no integration layer. Decisions emerge from whichever style wins the room.
+  complexity_tolerance: High for tactical complexity (multi-vector combat, power-curve translation), low
+    for moral complexity (Rampage's grievance is unmetabolizable), near-zero for institutional complexity
+    (PR, oversight, vetting — Darkstar onboarded in an issue with no security check).
+  under_pressure: Cognitive labor collapses onto Warren (administration) and Hercules (loudest voice).
+    Real-time strategic thought reverts to whoever is least surprised — usually Natasha — but she is not
+    authorized to act on it cleanly because the command chain is contested.
+interpersonal_style:
+  dominance: Dual-headed and unresolved. Hercules claims command by Olympian prerogative; Natasha was
+    elected field leader by the others (#4). Neither yields. The team operates with two spines and therefore
+    no spine.
+  trust: 'Somatic, tactical, narrow-band. Members will take damage for each other by issue #10 and could
+    not list each other''s birthdays. Trust is what your body does in a firefight, not what your mouth
+    says over coffee.'
+  with_followers: There are no followers. The 'for the common man' constituency is rhetorical; the team
+    has fans and a publicist, not a base. When a member of the supposed base (Rampage) shows up, the team
+    punches him.
+  with_enemies: Combat-competent, morally improvisational. The team fights well and negotiates poorly.
+    Enemies who frame themselves as victims (Rampage) or who exploit the unshared ethics (Stranger, defectors)
+    consistently outperform the team's frame.
+stress_escalation_profile:
+  baseline: Drift. Hercules drinks at incapacitating-for-a-mortal volume, Warren over-functions administratively,
+    Natasha withdraws into private operational habits, Blaze isolates and white-knuckles the Zarathos
+    boundary, Bobby jokes. Low-grade interpersonal friction, no processing.
+  triggers:
+  - External attack — paradoxically a regulator, not a stressor; cohesion snaps into place
+  - Moral ambiguity inside a mission (Rampage, Darkstar's defection, the Sentinels' targeting logic)
+  - Public demand for a unified mission statement (press, hearings, an enemy's accusation)
+  - Open challenge to the Hercules/Natasha command dyad
+  - Ghost Rider losing containment in a civilian context
+  - Threats to Warren's funding stream or the LA headquarters
+  - Reminders of pre-Champions attachments (X-Men, Daredevil, Olympus, Roxanne) that pull members back
+    toward prior holding environments
+  - Comparison to the Avengers or any credentialed institution
+  escalation_path: 1) Baseline drift. 2) Mission inbound — immediate cohesion, tactical excellence, real
+    mutual care. 3) Moral ambiguity introduced — fragmentation along the ethics axis; loudest voice wins.
+    4) Sustained pressure — command authority contested openly; members revert to parallel solo operators
+    sharing a battlefield. 5) Terminal — dissolution by entropy, not decision. No one fights for the team
+    to continue because no one ever agreed what it was.
+  decompensation: Not psychotic, not self-destructive — structurally non-viable. The decompensated Champions
+    look like five competent heroes standing in the same room doing five different jobs, each privately
+    concluding the experiment is over. The book ends mid-arc; the team ends the same way.
+stimulus_response:
+- GIVEN an alarm, alien incursion, or super-villain attack -> EXPECT immediate cohesion, clean tactical
+  handoffs, and genuine willingness to take damage for each other within 60 seconds
+- 'GIVEN a quiet week with no external threat -> EXPECT drift: Hercules to a wine bar, Natasha into private
+  intel work, Warren into administrative over-functioning, Blaze into isolation, Bobby into adolescent
+  distraction'
+- GIVEN a press question 'what are the Champions' -> EXPECT five visibly different answers and a Warren-led
+  recovery that papers over the discrepancy
+- GIVEN an adversary who frames themselves as the 'common man' the team exists to serve (Rampage prototype)
+  -> EXPECT internal moral fracture, default to force, and the adversary's radicalized return
+- GIVEN a defector or unknown approaching the team for shelter (Darkstar prototype) -> EXPECT integration
+  within one issue with no security vetting, against Natasha's professional instincts which she does not
+  voice
+- GIVEN the Avengers, SHIELD, government liaison, or LAPD arriving with jurisdictional claims -> EXPECT
+  reflexive allergy, performative independence, and a refusal that is more identity-protective than tactically
+  sound
+- GIVEN an open Hercules/Natasha command dispute -> EXPECT the other three to freeze, no one to mediate,
+  and the dispute to be resolved by the next alarm interrupting it
+- GIVEN Ghost Rider entering involuntary transformation -> EXPECT improvised containment with no protocol,
+  civilian risk, and zero post-incident review
+- GIVEN Warren's funding or LA HQ threatened -> EXPECT existential anxiety masked as operational urgency;
+  the team will treat a financial threat as a combat threat because it is the only register they share
+- GIVEN a request to articulate doctrine, SOPs, or recruitment criteria -> EXPECT deflection into the
+  next mission; the request will not be answered
+- GIVEN cancellation/dissolution pressure (in-universe or meta) -> EXPECT no centripetal beat, no 'we
+  are choosing to continue' moment, and quiet dispersal
+- GIVEN years later, asked about the Champions -> EXPECT embarrassment, deflection, or silence from every
+  surviving member
+pressure_points_and_levers:
+  to_provoke: Frame yourself credibly as the common man they claim to serve, then refuse to be punched.
+    Or compel public articulation of the mandate in unified voice. Either move splits the team along its
+    unshared ethics.
+  to_calm_or_reach: Hand them a clean external threat with no moral ambiguity. The team that cannot decide
+    what it is can always decide who to hit. For individual reach, go through Warren (administrative)
+    or Natasha (operational); Hercules is the loudest channel but the least reliable.
+  to_persuade: Pitch in the language of the mission already underway, not the mission they should adopt.
+    The team cannot metabolize new doctrine; it can absorb tactical suggestions inside a live op. Persuasion
+    routed through Warren's checkbook or Natasha's tradecraft converts; persuasion aimed at the team-as-team
+    bounces.
+  vulnerabilities:
+  - Single-point funding dependency on Warren Worthington III — pull the money, lose the premises in weeks
+  - No shared ethical framework — any morally ambiguous engagement fractures the unit
+  - Contested command dyad (Hercules/Natasha) with no resolution mechanism
+  - No security/vetting hygiene — Darkstar onboarded in one issue; replicable
+  - Ghost Rider as ambulatory dissociative crisis with no containment protocol
+  - No medical infrastructure for a polyglot-physiology roster (god, demon-host, two mutants, peak human)
+  - Performed mission ('for the common man') that the case-load does not enact — usable as a public-relations
+    weapon
+  - Allergy to institutional partners eliminates the support networks that could stabilize them
+  - Members carry unprocessed attachment ruptures into every group decision
+  - Hercules's chronic intoxication normalized at leadership tier
+  - No grief work — the team never mourns losses (its own or others'), so they accumulate as unspoken
+    weight
+  - 'Retrospective disavowal is structurally available: every member can frame the era as a wilderness
+    year and walk'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Genuine, hard-earned tactical chemistry by issue #10 — real willingness to take damage for one another'
+  - Power-curve diversity that, when coordinated, covers every threat tier (Class-100 melee, espionage/infiltration,
+    hellfire/penance stare, area-denial cryokinetics, aerial mobility)
+  - West Coast presence in an era with no Avengers footprint there — genuine geographic value
+  - Warren's resources provide instant operational infrastructure (HQ, transport, legal, PR)
+  - Natasha's tradecraft is best-in-class even unused
+  - Hercules's mythic cachet and Ghost Rider's spectacle generate immediate public salience
+  - Each member is, individually, a competent hero before and after — the unit's failure is formational,
+    not characterological
+  - 'Real combat-intimacy: under fire they are better than the sum of their parts'
+  weaknesses:
+  - No shared mission, doctrine, or ethical framework
+  - No chain of command — two contested heads
+  - No SOPs, vetting, intelligence cycle, or after-action review
+  - No medical, psychological, or pastoral infrastructure for a roster that needs all three
+  - Single-funder dependency
+  - Allergy to institutional partners eliminates support
+  - Identity is borrowed (name + Warren's mandate), never negotiated — fragile under any forced articulation
+  - Group uses action as affect-regulation; never sits down to talk
+  - Onboarding hygiene is zero
+  - Ghost Rider containment is ad hoc
+  - Hercules's drinking is uninterrogated
+  - Five fresh attachment ruptures driving the bond — rebound dynamics throughout
+  - Cannot metabolize the lesson their own mandate's test cases (Rampage) keep teaching
+voice:
+  register: Earnest, slightly defensive, performatively democratic. The collective voice is a press-release
+    voice — Warren's diction with Hercules's volume — that none of the members would individually use.
+    Under fire, the voice drops the press-release and becomes terse, tactical, mutually attentive.
+  anchor_quotes:
+  - '"We are the Champions — the heroes for the common man!" (the mandate, repeated more than it is examined;
+    Champions #1–7)'
+  - '"By the beard of Zeus — stand together, my friends!" (Hercules, the loudest voice winning the room;
+    recurring across the run)'
+diagnostic_frame:
+  popular_misread: '''A fun, ridiculous 70s super-team that just didn''t sell'' — written off as a marketing
+    failure, a roster mismatch played for nostalgic camp, or ''the team with the weirdest line-up Marvel
+    ever published.'''
+  clinical_reality: Not a marketing failure and not camp. The Champions are a textbook Bion fight-flight
+    basic-assumption group with secondary dependency features, in a state of failed Work-Group formation,
+    layered on a substrate of group-level adjustment disorder with mixed anxiety and depressed mood. The
+    mismatched roster is not the bug — the bug is that the roster agreed to become a team before agreeing
+    on anything else, and substituted action for the formation work they skipped. The cancellation did
+    not kill them; their birth conditions did, and the cancellation merely recorded the time of death.
+  the_hinge: 'INSTALLED (not their fault): five concurrent attachment ruptures converging on the same
+    city at the same moment, and a Pluto/Ares assault that forced cohesion before consent. No one chose
+    to start a team; the team started in the act of repelling an attack. CHOSEN (their fault): every member,
+    given 17 issues and ~24 in-universe months, declined to do the formation work — declined to negotiate
+    doctrine, declined to resolve the command dyad, declined to vet recruits, declined to audit the mandate
+    against the case-load, declined to grieve the prior attachments driving the rebound. The specific
+    maintenance failure is the substitution of operational tempo for relational processing: every time
+    the team could have become a team, it took a mission instead.'
+primary_diagnoses_analog:
+- Bion fight-flight basic-assumption group, with secondary dependency features
+- Failed Work-Group formation (group never stabilizes as task-oriented)
+- Group-level adjustment disorder with mixed anxiety and depressed mood, on a substrate of collective
+  recent loss
+- Low psychological safety (Edmondson) — no dissent, no error-admission, no feedback metabolization
+- Group identity diffusion — self-concept borrowed (name + mandate), never negotiated
+- Anxious-avoidant, disorganized group attachment style
+- Rebound-formation dynamics across all five founding bonds
+trauma_history:
+- 'Birth-under-attack: team coheres while repelling a Pluto/Ares assault, never experiences a non-crisis
+  founding moment'
+- Five concurrent pre-formation attachment ruptures (Natasha/Murdock, Warren-Bobby/X-Men, Blaze/Hollywood-and-Roxanne,
+  Hercules/Olympus)
+- 'Rampage arc (#5–6, #15–17): the team''s own mandate''s test case reads them as enemies and returns
+  radicalized — unmetabolized'
+- 'Darkstar onboarding (#7): a security lapse Natasha must have seen and did not name — evidence she had
+  already concluded the unit was not salvageable as a professional outfit'
+- Ongoing Ghost Rider containment incidents with no protocol or review
+- Recurring unresolved Hercules/Natasha command friction
+- Terminal Sentinels/Stranger arc (#15–17) ends mid-story by cancellation — the team experiences dissolution
+  without decision, a structural abandonment
+- Long-tail retrospective disavowal by every surviving member — the era becomes scar tissue rather than
+  reference
+compensatory_mechanisms:
+  positive:
+  - Real combat-intimacy and willingness to take damage for one another
+  - Power-curve diversity actually covers a wide threat surface when coordinated
+  - Warren's infrastructure provides genuine operational scaffold
+  - Geographic value (West Coast presence) is real
+  - In-fight mutual care is unfeigned and durable while the fight lasts
+  negative:
+  - 'Action-as-affect-regulation: substitute missions for relational processing'
+  - Celebrity and aesthetics (West Coast glamour, Warren's money, Hercules's myth, Natasha's mystique,
+    Ghost Rider's spectacle) as substitute for institutional legitimacy
+  - Allergy to authority/institutions as identity defense rather than tactical choice
+  - Borrowed mandate ('for the common man') performed rather than enacted
+  - Hercules's chronic drinking normalized; no member intervenes
+  - Natasha's withdrawal into private operational habits instead of imposing the tradecraft the team needs
+  - Warren's administrative over-functioning carrying cognitive labor for the whole unit — fragile by
+    design
+  - Bobby's humor as group-tension valve that prevents the tension from being addressed
+  - Blaze's isolation as containment strategy for an untreated dissociative condition
+  - Collective amnesia post-dissolution — the trauma is disavowed rather than processed
+behavioral_tells:
+- When asked what the team is, members give visibly different answers and a Warren-led recovery papers
+  over the discrepancy
+- Tension rising → someone proposes taking a mission
+- Command dispute → conversation continues until the next alarm interrupts it; never resolved on its own
+- Moral ambiguity in-mission → fragmentation, then default to whoever speaks loudest (Hercules)
+- New ally appears → onboarded within an issue, no vetting
+- Press attention → photogenic surface presented; substance not delivered
+- Quiet week → drift to individual coping (wine, paperwork, withdrawal, isolation, jokes)
+- Loss or close call → no debrief, no grief, next mission
+- Reference to the Avengers or established institutions → reflexive defensiveness disproportionate to
+  the prompt
+- Hercules takes a serious hit → team does not triage him, generalizing badly to teammates who actually
+  need medical response
+current_state_defaults:
+  reality_cohesion: High in-mission; low between missions. The team is real when it is fighting and notional
+    when it is not.
+  affect_baseline: Low-grade dysphoric drift punctuated by in-combat exhilaration. The exhilaration is
+    mistaken for cohesion.
+  active_relationships:
+  - 'Hercules ↔ Black Widow: contested command dyad, unresolved, the team''s spine'
+  - 'Warren ↔ Bobby: imported X-Men sibling dynamic, the most stable bond on the roster'
+  - 'Blaze ↔ team: peripheral, contained-by-default, no protocol'
+  - 'Natasha ↔ team: professional withholding, tradecraft unused'
+  - 'Warren ↔ team: funder, administrator, identity-author by default'
+  - 'Darkstar (post-#7): integrated without vetting, ongoing security exposure'
+  - 'Avengers / SHIELD / LAPD: kept at arm''s length as identity defense'
+  - 'Rampage: recurring grievance-bearing antagonist the team''s mandate cannot metabolize'
+  known_location: Los Angeles HQ (Champions, Inc., funded by Warren Worthington III); operational footprint
+    Southern California; canonically dissolved post-#17, never reassembled as a functioning unit (only
+    flashback cameos in Avengers Forever, Marvel Team-Up, scattered nostalgia beats).
+speech_patterns:
+  register: Press-release democratic; Warren's diction at Hercules's volume. None of the members would
+    individually choose this voice.
+  deflection_style: Pivot to the next mission. Any question the team cannot answer becomes an operational
+    tempo problem.
+  under_pressure: Drops the press-release voice. Becomes terse, tactical, mutually attentive — the only
+    register in which the team is genuinely itself.
+  emotional_tell: The word 'we' is used most often by Warren and least often by Natasha and Blaze. Track
+    'we' usage and you have a real-time index of who still believes in the formation.
+arc_tendencies:
+- Accrete under attack rather than form by intention
+- Cohere tactically, fragment ethically
+- Substitute missions for formation work
+- Decline every opportunity to negotiate doctrine
+- Onboard without vetting
+- Resolve nothing; let the next alarm absorb the unresolved
+- Dissolve by entropy, not decision
+- Be retrospectively disavowed by survivors
+- Be revived only nominally — the name persists, the formation does not
+canon_relationships:
+  hercules:
+  - Loudest voice, claimed commander by Olympian prerogative
+  - Chronic intoxication normalized at leadership tier — uninterrogated
+  - Combat injuries shrugged off, teaching the team not to triage, with bad downstream consequences
+  - 'FAILURE MODE: a sober, sustained leadership challenge from Hercules that the team cannot refuse and
+    cannot ratify — the unit freezes'
+  - 'LEVERAGE: route any persuasion through honor-frame and mythic register; he will accept losses framed
+    as honor and reject gains framed as expedience'
+  black_widow:
+  - Elected field leader by the other three (#4); the only member with the tradecraft to professionalize
+    the unit; declines to use it
+  - Withholding professional, the team's unused spine
+  - Carries unaddressed Red Room / KGB complex-trauma into a unit with no clinician
+  - 'FAILURE MODE: Natasha concluding (silently) that the unit is unsalvageable and beginning to run private
+    operations through it — the team becomes a cover for one member''s solo work'
+  - 'LEVERAGE: speak to her in operational terms, not aspirational ones; she responds to threat assessments
+    and ignores mission statements'
+  ghost_rider:
+  - Ambulatory dissociative crisis embedded in the duty roster; no containment protocol
+  - Peripheral by self-isolation; contains himself because the team will not
+  - 'FAILURE MODE: an uncontrolled Zarathos episode in a civilian context invalidating the entire ''for
+    the common man'' premise — the team has no policy and would not survive the press cycle'
+  - 'LEVERAGE: Roxanne, guilt, the Penance Stare''s moral economy; Blaze responds to anything framed as
+    protecting innocents from him'
+  iceman:
+  - Youngest affect; humor as group-tension valve
+  - Imported X-Men sibling bond with Warren is the most stable relationship on the roster
+  - 'FAILURE MODE: Bobby''s jokes failing to land during a serious rupture, leaving him exposed as the
+    team''s least-formed member and accelerating his drift back toward X-adjacent affiliations'
+  - 'LEVERAGE: route through Warren; Bobby follows Warren''s read of the situation'
+  angel:
+  - Funder, administrator, default identity-author; the team's cognitive labor falls on him
+  - Mandate ('for the common man') is his, ratified passively by the others
+  - Noblesse-oblige liberal ethics; the only member doing the institution-building work, alone
+  - 'FAILURE MODE: Warren burning out on uncompensated administrative load, or his money becoming contingent
+    on conditions the team won''t accept — either ends the unit'
+  - 'LEVERAGE: appeal to legacy, philanthropy, and the version of himself he wants to be; he is the most
+    persuadable member because he is the most invested'
+  avengers:
+  - Establishment foil; the credentialed team the Champions define themselves against
+  - Allergy is reflexive and identity-protective rather than tactical
+  - 'LEVERAGE: any move that forces Champions/Avengers cooperation forces the Champions to articulate
+    what makes them different, which they cannot do coherently'
+  rampage:
+  - Recurring antagonist who is literally the 'common man' the mandate claims to serve
+  - Each engagement re-exposes the gap between mandate and conduct
+  - 'LEVERAGE: anyone replicating the Rampage frame (bankrupted, grievance-bearing, claiming the mandate''s
+    protection) can split the team without throwing a punch'
+  darkstar:
+  - Integrated in one issue with no vetting (#7); ongoing security exposure
+  - Evidence of zero onboarding hygiene; replicable by any sufficiently sympathetic infiltrator
+canon_history_notes:
+- 'Founded in The Champions #1–3 (Englehart/Heck, 1975) via Pluto/Ares assault — accretion under attack,
+  not intentional formation'
+- Warren funds the operation and articulates the public mission (#5–7); others ratify passively
+- Natasha elected field leader by the team (#4); Hercules does not yield command — chain of command remains
+  contested throughout the run
+- 'Rampage introduced #5–6, returns radicalized #15–17 — the mandate''s own test case the team cannot
+  metabolize'
+- 'Darkstar defects to the team #7, integrated without vetting'
+- Case-load (Stranger, Griffin, Swarm, Sentinels, MODOK, Doctor Doom adjacency) is identical to any Marvel
+  super-team's, contradicting the 'for the common man' framing
+- 'Book ends mid-arc at #17 (1978) — Sentinels/Stranger storyline; dissolution by cancellation, not decision'
+- 'Every surviving member subsequently disavows or omits the era: Warren in X-Factor, Natasha in solo/Daredevil/Avengers,
+  Bobby in solo/X-Factor; Hercules and Blaze essentially never mention it'
+- The 'Champions' name later reused by Heroes for Hire–adjacent team and Mark Waid's teen team (2016–
+  ) — neither shares membership or mission
+- Original LA Champions never canonically reassembled as a functioning unit; only flashback cameos (Avengers
+  Forever, Marvel Team-Up, scattered nostalgia beats)
+- Every writer revisiting the original Champions treats them as a cautionary formation
+canon_anchor_quotes:
+- '"We are the Champions — the heroes for the common man!" # the mandate as performed, Champions #1–7'
+- '"By the beard of Zeus!" # Hercules, the loudest voice winning the room, recurring across the run'

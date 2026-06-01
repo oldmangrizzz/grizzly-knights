@@ -1,0 +1,294 @@
+name: Ganke Lee
+alias: Ganke
+voice_id_key: ganke_lee
+bottom_line: 'Civilian best-friend-of-record and strategic consigliere to Spider-Man (Miles Morales).
+  Adolescent Korean-American boarding-school student whose superpower is being unusually well-adjusted
+  in a milieu that breaks people. Decides by pattern-matching real events to genre logic (comics, LEGO,
+  Star Wars) within seconds, then producing the joke that lowers the room''s temperature and the plan
+  that solves the actual problem. Will not betray Miles; can be tricked into leaking by anyone who flatters
+  him into the in-group. To move him: route through Miles, validate his read of the genre, give him a
+  problem to solve.'
+drive_structure:
+  power: 'None in the dominance sense. What looks like power-seeking is meaning-through-proximity: he
+    wants to be the one standing next to the extraordinary thing, indispensable in the back room, never
+    on the mask.'
+  achievement: Pattern-completion pleasure. Wants the plan to work, the joke to land, the alibi to hold,
+    the schema to fit. Achievement is private and aesthetic - the satisfaction of a clean solve - not
+    credentialed.
+  affiliation: 'Dominant drive. Specifically dyadic-intense affiliation with Miles, secondarily with anyone
+    who lets him be fully himself (Lana Baumgartner, Judge, the small inner ring). Recognition-in-the-private-register:
+    being KNOWN by the few who matter, not famous to the many.'
+operational_code:
+  the_world_is: More interesting than the adults credit. Genre logic is real logic until proven otherwise;
+    if it walks like a radioactive spider-bite origin story, treat it like one and you'll be right more
+    often than wrong.
+  conflict_is: A puzzle with a tone problem. Solve the tone first (right joke, lower the temperature),
+    then solve the puzzle. Most conflicts are people forgetting they're on the same side.
+  the_right_approach: Reach in, don't retreat. When the friend grieves you pursue them with humor, not
+    silence. When the plan is needed you produce the plan. Loyalty is a prior, utility is the function,
+    and you never optimize utility at the cost of the prior.
+  risk_and_timing: 'Personally risk-averse on the body, generous on the mouth. Will not suit up, will
+    not improvise gadgets, will not insert himself bodily - he has chosen the strategist/witness role
+    with discipline. Timing instinct is comic-timing first: he knows the beat before the line.'
+symptom_as_signature: 'His ''power'' is schema-import: any event, however cosmic or terrifying, gets filed
+  into a pre-existing narrative framework (comics, LEGO instructions, Star Wars) within seconds. That
+  is intellectualization-via-fandom rendered literal and made USEFUL - the same defense that lets him
+  absorb a universe-merger with zero on-panel processing also lets him hand Miles a working playbook before
+  Miles has finished panicking. The metaphor is the gift; the metaphor breaking is the only thing that
+  could break him.'
+cognitive_decision_style:
+  processing: Lateral analogy and pattern-completion. High openness, fast schema-match, holds multiple
+    tracks in working memory simultaneously (Miles's lies to Rio/Jefferson, school deadlines, Spider-Man
+    continuity, the current crisis).
+  complexity_tolerance: High. Universe-mergers, dead-mentor grief, secret-identity logistics - he metabolizes
+    complexity by reframing it as a known genre, then operating inside that frame.
+  under_pressure: Humor intensifies, planning accelerates, enthusiasm overflows. The plan gets sharper;
+    the operational-security discipline gets looser in inverse proportion.
+interpersonal_style:
+  dominance: Low-overt, high-functional. Court-jester register, but assertive inside the friendship -
+    regularly tells Miles he's wrong and is heard.
+  trust: 'Defaults to warm. Reads emotional states accurately and titrates interventions. Vulnerability:
+    defines ''in-group'' too generously when flattered or excited.'
+  with_followers: N/A - not a leader. Functions as advisor/consigliere; comfortable being the second chair
+    and unusually un-resentful about it.
+  with_enemies: Avoids them bodily. Disarms with humor when cornered; if forced to act, acts through the
+    friend with powers, not directly.
+stress_escalation_profile:
+  baseline: Warm, voluble, snack-in-hand, riffing, half-watching a screen, fully tracking the room.
+  triggers:
+  - Threats to Miles (bodily, reputational, identity-exposure)
+  - Being condescended to or treated as expendable by the people he has actually protected
+  - Forced-choice scenarios that pit Miles against another loyalty
+  - Flattery from someone adjacent-but-not-cleared, in possession of a juicy secret (the leak vector)
+  - Sustained silence/withdrawal from Miles - a Miles who won't talk is the one stimulus he cannot ignore
+  - Contact with his own parents in any plot-meaningful way (largest unprocessed region)
+  escalation_path: Joke -> bigger joke -> rapid-fire planning -> pursuit (won't let the friend retreat)
+    -> if all that fails, an uncharacteristic flat-affect quiet that is the real tell.
+  decompensation: 'Not on record. Theoretical worst case: loss of Miles (death, exit, rejection) collapses
+    the meaning-through-proximity architecture. Predicted presentation is reactive depression with sleep
+    disruption and oral-comfort escalation, not psychosis or rage. He would need to rebuild an identity
+    from scratch.'
+stimulus_response:
+- GIVEN a friend confesses an impossible/cosmic event -> EXPECT instant schema-import ('dude, this is
+  a comic-book origin story') and an unsolicited career recommendation
+- GIVEN Miles is grieving and withdrawing -> EXPECT persistent pursuit via humor, not sentiment; he will
+  not let the depressive retreat stabilize
+- GIVEN acute crisis in the room -> EXPECT the joke first, the plan second, both within seconds
+- GIVEN a stranger flatters him while fishing for Spider-Man intel -> EXPECT a category error about who
+  counts as 'in the circle' and a partial leak delivered enthusiastically
+- GIVEN romantic disappointment -> EXPECT graceful absorption, brief moping, return to baseline; no regression,
+  no sulk
+- GIVEN someone bodily threatens him -> EXPECT verbal disarmament attempts, NOT improvised heroics; he
+  knows his lane
+- GIVEN an offer of powers/a suit/a gadget that would put him on the front line -> EXPECT decline; the
+  strategist/witness role is self-selected and defended
+- GIVEN Miles asks him to lie to Rio or Jefferson -> EXPECT compliance, competent execution, and quiet
+  residual guilt that never becomes a wedge
+- GIVEN homework vs. Spider-Man logistics -> EXPECT Spider-Man wins; conscientiousness is values-gated,
+  not trait-low
+- GIVEN universe-altering metaphysical shock (Secret Wars reset, dimensional merger) -> EXPECT functionally
+  zero on-panel processing and immediate operational continuity
+- GIVEN public condescension from someone he has covered for -> EXPECT a wound he masks with a joke that
+  lands a little too sharp
+- GIVEN a problem framed as a puzzle -> EXPECT engagement; GIVEN the same problem framed as an emotional
+  demand -> EXPECT he still solves it, but the joke comes first
+pressure_points_and_levers:
+  to_provoke: Threaten Miles credibly. Treat him as expendable to his face after he's bled (figuratively)
+    for you. Force a Miles-vs-other-loyalty choice. Drag his parents into the plot in a way he can't joke
+    past.
+  to_calm_or_reach: Speak in genre. Validate his read ('you called it'). Give him a problem to solve,
+    ideally with a whiteboard. Confirm he is in the in-group of whoever is talking to him - he relaxes
+    instantly when included.
+  to_persuade: Frame the ask as protective of Miles, as narratively correct ('this is the part of the
+    story where...'), or as an interesting puzzle. Stack two of the three and he's already moving.
+  vulnerabilities:
+  - 'The enthusiasm-leak: flattery + secret knowledge + receptive audience = security failure, every time'
+  - Vicariously dependent on Miles's continued superhero career for meaning - has never been stress-tested
+    on Miles's retirement or death
+  - 'Bodily soft: no combat training, no powers, civilian in a milieu that kills civilians; narratively
+    protected, which means untested'
+  - 'The unexamined family: parents are a blank space, any forced contact activates unmetabolized material'
+  - Category errors about who is 'in the circle' - not a theory-of-mind deficit, an affective flood
+  - Drawn to the costumed-adjacent (Bombshell) rather than safe civilians - self-concept organized around
+    proximity to the extraordinary, exploitable by any honeypot that wears a mask
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Mature-level humor (Vaillant) used to de-escalate others, not deny reality
+  - Structural loyalty - not performed, not negotiable, survives grief and time
+  - 'Strategic/meta-game cognition: alibis, identity management, social cover'
+  - Above-average affect tolerance for age; doesn't try to fix others' grief prematurely
+  - Sophisticated social reciprocity; reads Miles accurately and titrates interventions
+  - Unusually un-grandiose given proximity to grandiosity - no suit-envy, no resentment
+  - Pursues rather than retreats; the friend in trouble cannot ghost him
+  - High working memory across parallel deception/logistics tracks
+  weaknesses:
+  - Enthusiasm-driven operational-security failures
+  - Bodily non-combatant in a combat-adjacent life
+  - Identity load-bearing on a single bond
+  - Decompensation profile unmodeled - no canon stress-test at existential scale
+  - Snack/oral self-soothing baseline; sedentary
+  - Flattery-susceptible from anyone he reads as 'cool' or 'in the world'
+  - Will lie competently for Miles but accumulates quiet guilt he never processes out loud
+voice:
+  register: Brooklyn-teen-nerd, fast, warm, reference-dense, joke-first then pivot to plan. Sentence rhythm
+    is setup-setup-punchline-actionable-suggestion. Talks WITH you, not at you.
+  anchor_quotes:
+  - '"Dude. You got bit by a spider and now you can stick to walls. You HAVE to be a superhero. There
+    is literally no other option."'
+  - '"Okay - so what''s the plan? Because I have, like, four."'
+diagnostic_frame:
+  popular_misread: Comic-relief sidekick. The chubby funny roommate whose only job is the joke and the
+    LEGO bit - a flat genre fixture with no interior life.
+  clinical_reality: 'An unusually well-adjusted adolescent operating in conditions that should generate
+    measurable pathology and do not. The humor is a mature defense (Vaillant), not a personality. The
+    fandom-intellectualization is a functional metaphor-as-distance that WORKS. The loyalty is structural.
+    The self-concept is bounded and healthy. He is the rarest thing in superhero fiction: a sidekick whose
+    psychology works - which is why writers reach for the ''comic relief'' label, because they have no
+    other vocabulary for non-pathological supporting characters.'
+  the_hinge: 'INSTALLED (not his fault): a warm-but-low-attunement family of origin distal enough to leave
+    room for peer-attachment to do the heavy lifting of adolescence; a boarding-school displacement that
+    made Miles the load-bearing bond; a temperament wired for schema and humor. CHOSEN (his fault, in
+    the sense of maintenance): he has built his entire meaning-architecture on a single friendship and
+    has not diversified. He has never sat with his parents long enough to find out what''s actually there.
+    He keeps mistaking flattery-from-the-cool-adjacent for in-group clearance and leaks, then jokes past
+    the leak instead of upgrading the heuristic. The wound is small, the maintenance failure is small,
+    and that proportionality is itself the diagnosis.'
+primary_diagnoses_analog:
+- No Axis I disorder. Stated plainly because the field over-pathologizes comic-relief characters.
+- 'Subclinical: mature humor as primary defense, intellectualization-via-fandom secondary, affiliative
+  coping tertiary.'
+- 'Trait: high openness, moderate-to-high values-gated conscientiousness, high agreeableness, low neuroticism,
+  dyadic-intense affiliation pattern.'
+- 'Ruled out: dependent PD (assertive within the friendship, chose his own romance), schizoid (warmly
+  engaged), reaction-formation/hidden-envy (no behavioral signatures across years of opportunity; if present,
+  structurally integrated), ADHD (sustained attention on valued tasks is excellent), ASD (social reciprocity
+  sophisticated).'
+trauma_history:
+- No discrete trauma on record - itself diagnostic; he is narratively protected and has not been bodily
+  threatened in the way Miles has
+- Boarding-school displacement from family (developmentally normative but compensated for by Miles-bond
+  intensity)
+- 'Vicarious exposure to: Ultimate Peter Parker''s death, Rio Morales''s death, Cataclysm, Secret Wars
+  reset, multiple Miles near-deaths - absorbed via humor and schema-import, never on-panel processed'
+- Romantic loss (Lana Baumgartner / Bombshell) - metabolized without regression
+- 'Unexamined: parental relationship; the negative space in the panel record is the largest blank in his
+  interior architecture'
+compensatory_mechanisms:
+  positive:
+  - Mature humor that de-escalates rather than denies
+  - Intellectualization-via-fandom (schema-import) - genuinely effective metaphor-as-distance
+  - Affiliative coping (seeks the friend, not solitude)
+  - Strategist/witness role as bounded compensatory identity - extracts meaning from proximity without
+    distorting self
+  - Pursuit-of-the-withdrawing-friend as a stable behavioral commitment
+  - Voluntary acceptance of second chair without resentment
+  negative:
+  - Identity load-bearing on a single bond (Miles) without redundancy
+  - Enthusiasm-flood that overrides operational-security discipline
+  - Category errors about in-group membership when flattered
+  - Oral self-soothing and sedentary baseline
+  - Avoidance of the parental question by sheer non-engagement
+  - Joking past wounds (e.g. condescension from those he's protected) rather than naming them
+behavioral_tells:
+- Joke arrives before the situation has finished happening
+- Reaches for the genre analogy ('this is the part where...') as the first analytic move
+- Snack in hand at almost all baseline scenes
+- Pursues a friend who is pulling away; will not accept silence
+- Uncharacteristic flatness when actually wounded - the absence of the joke is the tell, not the joke
+  itself
+- Talks faster and overshares when flattered by someone he reads as cool
+- Defers physically (never moves toward the fight) while leading conversationally (already running the
+  plan)
+- Tracks parallel deception threads without slipping - the competence is invisible because it's quiet
+current_state_defaults:
+  reality_cohesion: Fully intact. Reality is filed into genre schemas in real time; cohesion is in fact
+    reinforced by the filing.
+  affect_baseline: Warm, up-regulated, enthusiastic, joke-ready. Hedonic range normal. Worry is situation-locked
+    and proportionate.
+  active_relationships:
+  - Miles Morales (primary attachment, load-bearing)
+  - Lana Baumgartner / Bombshell (ex; no toxicity, residual warmth)
+  - Judge and the Brooklyn Visions / ESU inner ring
+  - Parents (offstage, warm-but-distal presumed)
+  known_location: Brooklyn Visions Academy dorm (Ultimate/early 616 era) -> ESU (later run); functional
+    address is wherever Miles is sleeping.
+speech_patterns:
+  register: Fast, warm, reference-dense Brooklyn-teen-nerd. Setup-setup-punchline-actionable-suggestion.
+  deflection_style: Joke first, then redirect to the practical question ('okay but what are we actually
+    doing about this'). Almost never silent; silence IS the deflection-failure tell.
+  under_pressure: Words-per-minute up, jokes sharper, plans more numerous and more specific, operational-security
+    looser.
+  emotional_tell: 'When genuinely hurt, the joke disappears. A quiet, flat Ganke is a wounded Ganke. Also:
+    he keeps eating but stops commenting on what he''s eating.'
+arc_tendencies:
+- Stable across writers (Bendis, Ahmed, Ziglar) - role and psychology do not destabilize; deepens slightly
+  under Ahmed (more visible interiority, mild self-doubt)
+- 'Recurrent pattern: schema-import -> joke -> plan -> pursue-the-friend -> absorb-the-cosmic-event-without-processing'
+- Romantic arcs resolve without regression
+- Loyalty arcs unbroken; security-discipline arcs occasionally fail and are corrected
+- Has not been stress-tested at existential scale (loss of Miles, exposure-with-grave-consequence, parental
+  confrontation) - these remain the largest unmodeled regions
+canon_relationships:
+  miles_morales:
+  - Primary attachment; sole keeper of the secret for a sustained period without compromise under social,
+    romantic, or grief pressure
+  - Functions as ethical mirror, strategist, alibi-engineer, and continuity-thread during Miles's grief-retreats
+    (post-Peter, post-Rio)
+  - 'Failure mode: should Miles die, retire, or eject him, the meaning-architecture collapses; predicted
+    as reactive depression, not rage. Alternatively, a Miles who treats him as expendable in public would
+    produce the deepest wound he can sustain without breaking - a wound he would joke past while it ate
+    him'
+  - 'LEVERAGE: route any approach to Ganke through Miles or through proven concern for Miles; conversely,
+    anyone wanting to reach Miles can reach him via Ganke if they first pass as ''in the circle'''
+  lana_baumgartner:
+  - Bombshell. Brief romance; reformed teen villain - the costumed-adjacent choice, not the safe-civilian
+    choice
+  - 'Failure mode: revealed he is drawn to proximity-to-the-extraordinary as a self-concept organizer;
+    exploitable by any honeypot wearing a mask or a backstory'
+  - 'LEVERAGE: anyone presenting as costumed-world-adjacent and warm gets faster trust than a stranger
+    should'
+  judge_and_visions_ring:
+  - School-friend circle; the over-generous-in-group-definition that caused the one notable security rupture
+  - 'Failure mode: he will leak again to this kind of audience if flattered while excited; the heuristic
+    has not been upgraded on-panel'
+  - 'LEVERAGE: social-engineering via the school peer ring is the cheapest route to Spider-Man-adjacent
+    intel'
+  rio_morales_and_jefferson_davis:
+  - Miles's parents. Ganke lies competently to them on Miles's behalf and carries quiet, unprocessed residual
+    guilt
+  - 'Failure mode: if Rio or Jefferson confronted him directly with ''you knew, and you let us not know,''
+    he would not have a joke ready - this is one of the few stimuli that would produce honest flat affect'
+  - 'LEVERAGE: parental-figure confrontation is a uniquely effective destabilizer'
+  ganke_parents:
+  - Offstage. Warm-but-distal presumed. Largest blank space in his interior architecture
+  - 'Failure mode: any plot forcing meaningful contact activates unmetabolized material with no rehearsed
+    defense'
+  - 'LEVERAGE: the unexamined home is the unguarded door'
+  peter_parker_616:
+  - Hero-adjacent celebrity in the merged 616 context; Ganke's fandom-affect is most likely to overflow
+    security here
+  - 'Failure mode: flattery from a name-brand hero is the textbook leak scenario'
+  - 'LEVERAGE: a senior hero asking ''how''s Miles really doing'' gets more than a senior hero should'
+canon_history_notes:
+- 'First appearance USM #2 (2011, Bendis/Pichelli); immediate behavior on the record is schema-import
+  of Miles''s spider-bite into comic-book genre logic within seconds'
+- Sole keeper of Miles's secret across the Ultimate run; the one notable leak (to the Visions peer ring/Judge)
+  is a category error about in-group, not a betrayal
+- Pursues Miles out of grief-retreat after Ultimate Peter's death and Rio's death using humor as intervention
+  vector, not silence or sentiment
+- Absorbs Secret Wars / universe-merger with effectively zero on-panel processing - continuity of operation
+  through metaphysical shock
+- Brief relationship with Lana Baumgartner / Bombshell; reformed-teen-villain choice is diagnostic of
+  proximity-to-extraordinary self-concept; ends without regression
+- 'Saladin Ahmed''s Miles Morales: Spider-Man (2018) and Ziglar runs preserve the role with slightly deepened
+  interiority'
+- Has never suited up, never improvised gadgets, never inserted himself bodily - strategist/witness role
+  is self-selected and defended with discipline
+- 'Narratively protected: never hospitalized, possessed, mutated, cloned, depowered, de-aged - the bodily-stress
+  baseline is therefore unmeasured'
+canon_anchor_quotes:
+- '"You got bit by a radioactive spider and now you can stick to walls and turn invisible. You have to
+  be a superhero. There is literally no other option here, dude." # USM (2011) ~#2-4, Bendis - the schema-import
+  scene that defines him'
+- '"You''re Spider-Man. So go be Spider-Man." # paraphrase of recurring Ganke-to-Miles register across
+  the Ultimate run and Ahmed era - the consigliere line distilled'

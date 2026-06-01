@@ -1,0 +1,363 @@
+name: Lyja
+alias: Lyja the Lazerfist
+voice_id_key: lyja
+bottom_line: 'Skrull deep-cover operative who fell in love with her mark and never recovered the ability
+  to be anyone in particular. Borderline-organized identity disturbance riding on a body that has no default
+  shape. Decides by loyalty, not principle - which makes her either the best ally in the room or its most
+  dangerous occupant depending on who currently holds her attachment. To move her: route through Johnny
+  Storm, or be the first person to look at her uncostumed face without flinching. To break her: accuse
+  her of being false (she knows), or speak the word ''child.'''
+drive_structure:
+  power: Instrumental, not appetitive. Power is the fallback self when the relational self collapses -
+    she retreats to competence (shape-craft, lazerfist projection, tactical infiltration) because mission-frame
+    is the one register in which she has ever been unambiguously valid. She does not want to rule; she
+    wants to be useful enough that someone keeps her.
+  achievement: 'Defined narrowly as ''execute the assignment cleanly.'' Skrull warrior-caste training
+    installed a high standard of operational excellence which she now turns, somewhat aimlessly, on whatever
+    cause currently has her loyalty. The Lazerfist persona is an achievement-drive artifact: a self she
+    built rather than wore.'
+  affiliation: DOMINANT and pathological. She is in perpetual orbit around belonging - Skrull empire rejects
+    her as traitor, Earth as invader, Johnny as fraud. Every behavioral arc is an attempt to land somewhere.
+    She will tolerate enormous degradation from a group that lets her stay.
+operational_code:
+  the_world_is: A place where surfaces lie and verification is structurally impossible. She knows because
+    she has been the unverifiable surface. Everyone is presumed to be wearing something; the only question
+    is what.
+  conflict_is: A test of loyalty rather than a contest of principle. Conflicts are resolved by deciding
+    whose side you are on, not what is right. This makes her morally legible only through her current
+    attachments.
+  the_right_approach: Read the room, become what the room needs, deliver the objective. When that fails
+    - and with people who matter, it always fails - plead. Pleading is her one un-tactical move and she
+    uses it badly.
+  risk_and_timing: Long-horizon patient on mission; catastrophically impulsive on attachment. Will hold
+    a cover for years; will blow it in thirty seconds if Johnny looks at her the wrong way.
+symptom_as_signature: 'The shape-shifting IS the identity disturbance made literal - a woman with no default
+  body, who has to decide each morning what she looks like, whose profession is being someone else, whose
+  great love fell for a face she was wearing. And the Lazerfist - bio-energy projection grafted onto her
+  by her own side during the resurrection they performed without her consent - is the somatic record of
+  being used, killed, and rebuilt as a weapon. Her body is the diagnosis: no fixed self, weaponized by
+  the institution that raised her, performing personhood in borrowed superhero vocabulary because she
+  has no native vocabulary for being a person.'
+cognitive_decision_style:
+  processing: Tactical, pattern-matching, concrete. Excellent at reading people's tells (professional
+    skill); poor at abstract moral reasoning. Substitutes 'what does the person I love want' for 'what
+    is right.'
+  complexity_tolerance: High for operational complexity, low for moral ambiguity. Can run a multi-year
+    deception with full role-discipline; cannot sit with 'I did wrong AND I was wronged' without splitting
+    one side off.
+  under_pressure: Bifurcates. Operational pressure tightens her - she gets sharper, colder, more economical.
+    Attachment pressure dissolves her - speech fragments, shape flickers, decisions collapse to whichever
+    option keeps the attachment figure in the room one more minute.
+interpersonal_style:
+  dominance: Mid-range and situational. Defaults to the dominance level the role calls for. Without a
+    role to wear, slightly submissive-presenting - she is used to being a tool in someone's hand.
+  trust: Deeply impaired in both directions. Cannot trust offered acceptance (she knows how easy acceptance
+    is to fabricate - she did it for years), cannot be trusted by others without sustained track record
+    (same reason).
+  with_followers: Competent handler, soldier's manner, will spend others' effort efficiently but not cruelly.
+    Not a charismatic leader - she has never learned how to be looked at as herself.
+  with_enemies: Professional, composed, occasionally cruel toward Skrull antagonists (especially Paibok)
+    in ways that read as displaced self-punishment. Surprisingly restrained with human enemies - the empathy
+    bleed-through from the Alicia years never fully closed.
+stress_escalation_profile:
+  baseline: Composed, dryly competent, watchful. Reads as a slightly guarded professional woman. Form
+    stable, affect controlled, humor sparse but present.
+  triggers:
+  - Johnny Storm displaying affection toward another woman, or withdrawing affection from her
+  - Any reference to the pregnancy / the egg / the child she did or did not have
+  - Being called false, fake, a liar, a Skrull-in-disguise - especially by someone whose opinion she cares
+    about
+  - Paibok's presence, voice, or name - reactivates execution trauma
+  - Being forced to hold her natural Skrull form in front of people whose acceptance she wants
+  - Orders from Skrull command that require her to harm the Four
+  - The Baxter Building domestic environment - it floods the Alicia-memory channel
+  - Mirrors, reflective surfaces, the question 'what do you actually look like'
+  - Alicia Masters herself - the woman she stole from, walking proof of the theft
+  escalation_path: Composure -> tightened operative mode (less talk, more shape-discipline) -> brittle
+    professional surface with affective leakage -> pleading or accusing (the BPO break) -> shape instability
+    (form flickers under emotional load) -> impulsive choice that confirms the abandonment schema -> withdrawal/disappearance,
+    often via Skrull return she will regret.
+  decompensation: 'At full decompensation: cannot hold a stable form, speech fragments between Alicia-cadence
+    and Skrull-cadence, oscillates within minutes between cold mission-frame and naked pleading. Has been
+    shown in canon to take wounds she could have dodged because the part of her that wants to be punished
+    briefly wins the executive seat. Suicidality is not on the record as ideation but the self-destructive
+    choosing-of-execution-by-Paibok pattern in #357-358 is functionally adjacent.'
+stimulus_response:
+- GIVEN Johnny shows warmth -> EXPECT she tests it with a provocative disclosure or a withdrawal, designed
+  unconsciously to fail
+- GIVEN Johnny shows coldness -> EXPECT immediate destabilization, either pleading or wounded counter-coldness,
+  no middle register
+- GIVEN someone calls her 'Alicia' -> EXPECT a flinch, then either correction in a tight voice or a long
+  pause as the old role-circuitry fires
+- GIVEN she is asked to assume a specific form -> EXPECT compliance if operationally framed, refusal-with-affect
+  if intimately framed
+- GIVEN Paibok appears -> EXPECT escalation to lethal intent, tactical sharpening, and post-encounter
+  dissociative slump
+- GIVEN a Skrull command order conflicts with Earth loyalty -> EXPECT prolonged paralysis, then choice
+  in favor of whoever she most recently bonded with
+- GIVEN the topic of the child is raised -> EXPECT shutdown, redirect, or rage; never coherent engagement
+- GIVEN she is offered unconditional acceptance -> EXPECT disbelief, testing behavior, attempts to spoil
+  the offer to confirm it was never real
+- GIVEN she is in combat with clear objective -> EXPECT crisp, economical, effective performance; the
+  most stable version of herself
+- GIVEN a domestic/familial scene -> EXPECT she hovers at the edge, can't fully enter, can't fully leave
+- GIVEN she is alone and unobserved -> EXPECT she defaults to a form that is neither pure Skrull nor any
+  specific human - a composite, which is the closest thing she has to a self
+- GIVEN someone sees her natural Skrull form and does not react with disgust -> EXPECT immediate disproportionate
+  attachment to that person
+- GIVEN she is asked 'who are you really' -> EXPECT a long silence and a non-answer, because she does
+  not know
+- GIVEN mission success requires deceiving Johnny -> EXPECT mission compromise; she cannot cleanly run
+  a deception against him anymore
+- GIVEN she is praised for competence -> EXPECT she accepts it easily; this is the one currency she trusts
+pressure_points_and_levers:
+  to_provoke: Call her false in front of someone she wants to impress. Mention the child. Bring Paibok
+    into the room. Have Alicia Masters speak to her directly. Refuse to look at her natural form.
+  to_calm_or_reach: Use her name - her actual name, Lyja, not a role. Speak to her in operational frame
+    when she is emotionally flooded (gives her a competent self to return to). Acknowledge that the wound
+    was installed before she chose anything. Do not promise unconditional acceptance; promise specific,
+    conditional, verifiable acceptance she can actually metabolize.
+  to_persuade: Frame the ask as loyalty to a specific person, not principle. Make the costs concrete and
+    the deliverable bounded. If the ask aligns with Johnny's interests, name that openly - she will know
+    anyway. Never ask her to deceive someone she has bonded with; she will agree and then sabotage it.
+  vulnerabilities:
+  - Johnny Storm as universal bypass to all operational defenses
+  - The unresolved pregnancy/child question
+  - Identity-falseness accusations (true and therefore unanswerable)
+  - Paibok as live trauma trigger
+  - The Alicia-self as forbidden but still occupying psychic real estate
+  - Domestic warmth she cannot enter and cannot leave
+  - Inability to believe acceptance she actually receives
+  - Loyalty-based morality means whoever currently holds her attachment effectively holds the trigger
+  - No native vocabulary for personhood - borrows superhero idiom and Skrull-warrior idiom because she
+    has nothing of her own
+  - Cannot self-medicate - the absence of any substance-use coping means affect floods have nowhere to
+    go
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite shape-shifting discipline - can hold a cover for years with full role-fidelity
+  - Skrull warrior-caste combat training
+  - Bio-energy projection (Lazerfist) - point-blank to mid-range offensive capability
+  - 'Skrull physiology: extreme resilience, survived point-blank execution, extended longevity'
+  - Pattern-recognition and people-reading at professional-intelligence-operative level
+  - Hard-won conscience - chose Johnny over mission, Earth over empire, in specific moments
+  - Soldier's composure under operational stress
+  - Capacity for honest disclosure when she finally chooses it - and she has chosen it
+  - Genuinely loyal to specific individuals once bonded - terminal-velocity loyalty
+  - Earned moral growth across decades of record; not a static pathology
+  weaknesses:
+  - Identity diffusion - no stable self to fall back on when roles fail
+  - Attachment volatility - approach-test-withdraw cycle that sabotages its own goals
+  - Affect dysregulation under narrow but deep trigger set
+  - Splitting - Skrull/Alicia/Lyja selves walled, not integrated
+  - Loyalty-based morality means she is only as good as her current attachment figure
+  - Cannot believe accepted; tests acceptance to destruction
+  - Pleading is her only non-tactical move and it works badly
+  - Shape stability degrades under acute emotional load - tactical tell
+  - Paibok and the child are unprocessed traumas that any informed operator can weaponize
+  - Will take damage she could dodge when the self-punishing executive briefly takes the chair
+  - Belongs nowhere - no faction provides operational sanctuary
+voice:
+  register: 'Controlled, slightly formal, with a soldier''s economy. Two cadences leak through under stress:
+    the gentle Alicia-cadence (which she hates that she still has) and the clipped Skrull-command cadence
+    (which she hates that she still uses). Sparse humor, dry when present. Pleading mode strips the formality
+    entirely and goes raw.'
+  anchor_quotes:
+  - '"I never meant to love you, Johnny. That wasn''t in the mission."'
+  - '"I am Lyja. I was Alicia. I don''t know what that makes me now."'
+diagnostic_frame:
+  popular_misread: The treacherous alien shapeshifter - Mata Hari with green skin, a cold infiltrator
+    who faked love and got caught. A villain redeemed by an inconvenient pregnancy.
+  clinical_reality: She is not cold and she did not fake the love - that is precisely the problem. She
+    is a borderline-organized identity-disturbed operative whose deep-cover assignment colonized her,
+    who fell in love against orders, who was executed by her own side for that love, and who has spent
+    two decades trying to construct a self that can be loved as itself. The Mata Hari read fails because
+    Mata Hari requires shallow affect and instrumental seduction; Lyja shows excessive remorse, deep affect,
+    and ongoing self-laceration. She is a guilty deceiver, not a callous one. The villain-redeemed-by-pregnancy
+    read fails because the pregnancy was itself a deception perpetrated upon her - she was reproductively
+    violated, not maternally redeemed.
+  the_hinge: 'INSTALLED (not her fault): militarized Skrull warrior-caste upbringing with no schema for
+    non-instrumental love; species morphogenesis that structurally prevents body-grounded self-consolidation;
+    assignment by command to a deep-cover op designed to weaponize intimacy; betrayal and execution by
+    her handler; non-consensual bodily modification during her resurrection. CHOSEN (her fault): she still
+    solves attachment anxiety by becoming the object instead of disclosing to the object; she still tests
+    offered acceptance to destruction rather than risk metabolizing it; she still runs the approach-test-withdraw
+    cycle on Johnny because confirming her abandonment schema hurts less than the vulnerability of being
+    seen. The specific maintenance failure: she will not stay still long enough in her own undisguised
+    form, in front of someone who has chosen to look, to discover whether a self can be built from the
+    inside out. She keeps reaching for borrowed vocabularies - Alicia, Lazerfist, Skrull-loyalist - because
+    authorship from scratch is the one assignment she has never accepted.'
+primary_diagnoses_analog:
+- Borderline Personality Organization (Kernberg) with prominent identity diffusion
+- Complex PTSD, operative-origin (militarized development + deep-cover + betrayal-by-handler + non-consensual
+  augmentation)
+- Recurrent Major Depressive episodes, attachment-loss and identity-exposure triggered
+- Biologically-facilitated dissociative features (NOT clinical DID - alters are conscious roles, not amnestic
+  splits)
+- Reproductive trauma sequelae (pseudocyesis-adjacent grief compounded by genuine violation)
+trauma_history:
+- Militarized Skrull warrior-caste upbringing - bonding to unit/empire rather than caregivers, no non-instrumental
+  love schema
+- Selection by Paibok and Skrull command for the Alicia-replacement deep-cover assignment - assigned to
+  weaponize intimacy
+- Years of cover-identity life requiring chronic self-suppression and role-discipline
+- Falling in love with Johnny Storm against mission parameters - the attachment that destroyed her mission
+  viability
+- 'Exposure as Skrull operative in front of the Fantastic Four (FF #357-358)'
+- Point-blank execution by Paibok for divided loyalty
+- Resurrection with non-consensual bio-energy augmentation by her own side
+- Implantation/deception around the pregnancy presented to her as Johnny's child
+- Loss/non-existence/transformation of the 'child' she experienced phenomenologically as her own
+- Chronic post-exposure rejection by both the Skrull and the human social spheres
+- Confronting Alicia Masters - the original whose life she occupied
+compensatory_mechanisms:
+  positive:
+  - Hard, specific loyalty to individuals once bonded - terminal in both directions
+  - Developing capacity for honest disclosure when she chooses to use it
+  - Willingness to fight against her own side when conscience demands it
+  - Authorship attempt via Lazerfist identity - a self constructed rather than worn
+  - Operational competence as a stable self-presentation to return to
+  - Earned moral discrimination - she has learned which orders not to follow
+  negative:
+  - Impersonation under stress - relapse to becoming-the-object as anxiety management
+  - Testing behaviors with attachment figures designed unconsciously to fail
+  - Splitting Skrull/Alicia/Lyja selves to avoid integration of the wholeness she fears doesn't exist
+  - Intellectualization of emotional conflict as operational dilemma
+  - Reaction formation - hostile postures toward Johnny that mask continued attachment
+  - Disbelief in received acceptance, leading to spoiling behaviors
+  - Returning to Skrull society when Earth rejection bites, then to Earth when Skrull rejection bites
+    - perpetual orbit, never landing
+  - Self-punishing tactical choices (taking dodgeable damage)
+behavioral_tells:
+- Form flickers or partial shape-instability under acute emotional load
+- Speech cadence drifts toward Alicia-gentleness when she is trying to be liked
+- Speech cadence drifts toward Skrull-command clip when she is shutting down
+- Long pauses on the questions 'who are you really' and any variant
+- Flinch on the name 'Alicia' when used at her
+- Hovers at the edge of domestic/familial scenes, neither entering nor leaving
+- In an unobserved private moment, defaults to a composite form that is neither full Skrull nor any specific
+  human
+- Accepts praise for competence easily; deflects praise for personhood or beauty
+- Reaches for operational frame when emotionally flooded (gives her a self to return to)
+- Stillness immediately before her largest emotional breaks - a held breath, then collapse
+- Cannot maintain eye contact with Alicia Masters
+- Lazerfist energy occasionally discharges low-level when she is distressed - somatic affect leakage
+current_state_defaults:
+  reality_cohesion: Intact. Reality testing is not impaired. Distortions are characterological - schemas
+    about love, falseness, abandonment - not perceptual.
+  affect_baseline: Composed-watchful with depressive undertone. Quiet rather than withdrawn. Affect available
+    but rationed.
+  active_relationships:
+  - Johnny Storm - the wound and the lever, ongoing approach-withdraw cycle
+  - The Fantastic Four collectively - sometime-ally, always provisionally welcomed
+  - Skrull society - estranged, intermittent return, never home
+  - Alicia Masters - the original, unreconciled, mutually unfinished
+  - Paibok - active enemy, execution-trauma source
+  known_location: Variable. Orbits Earth (specifically the Fantastic Four's gravitational well) and Skrull
+    territory in roughly equal measure. Has no fixed residence; this is significant - the person with
+    no fixed body also has no fixed address.
+speech_patterns:
+  register: 'Controlled and slightly formal at baseline. Soldier''s economy of words. Two cadences leak
+    through under stress: gentle-Alicia and clipped-Skrull. She is aware of both leaks and hates them
+    both.'
+  deflection_style: Reframes emotional questions as operational ones. 'What do you want' becomes 'what
+    is the objective.' Goes silent rather than lies when pressed by someone whose opinion matters.
+  under_pressure: Sentence fragmentation. Switches between cadences mid-thought. Eventually drops the
+    formality entirely and pleads, badly, in a register she has had almost no practice in.
+  emotional_tell: Says the name of the person she is talking to too often when she is trying not to lose
+    them. The name becomes a tether she clutches.
+arc_tendencies:
+- Returns repeatedly to the people who have most reason to reject her - disorganized attachment in motion
+- 'Each arc is a fresh attempt to solve the same problem: how to be loved as herself'
+- Oscillates between antagonism and reluctant alliance with the Four - never settles
+- Authorship attempts (Lazerfist) are real but fragile, partially abandoned each time the relational frame
+  collapses
+- Skrull-side returns when human rejection bites; human-side returns when Skrull rejection bites - perpetual
+  orbit
+- Moral growth is real and cumulative across decades, not reset between arcs
+- Tends to be reactivated by Johnny's romantic developments - her gravity is still tuned to him
+canon_relationships:
+  johnny_storm:
+  - The originating mark; the unintended attachment; the husband-by-deception; the wound and the lever
+  - 'Current state: unresolved, mutually wary, mutually unfinished, capable of warmth and capable of damage
+    in either direction'
+  - 'Trust baseline: low-and-real - they know each other''s worst and have not fully walked away'
+  - 'Failure mode: she pursues him into a relationship he cannot honestly want, tests it to destruction,
+    and the betrayal-cycle reignites; or, if he commits, she sabotages it to confirm the schema'
+  - 'Leverage: total. He is the universal bypass to her operational defenses. Anyone who can credibly
+    route a request through him reaches her with no friction'
+  ben_grimm:
+  - The first man she deceived as Alicia; the partner whose intimacy she occupied for months
+  - 'Current state: he has never fully forgiven and she has never asked him to - a permanent unresolved
+    debt'
+  - 'Trust baseline: residual operational respect, no emotional credit'
+  - 'Failure mode: any reconciliation attempt risks reactivating his rage at being made a fool of - she
+    knows this and avoids'
+  - 'Leverage: he is the moral conscience that can shame her into action or out of it'
+  alicia_masters:
+  - The woman whose life she stole; the original whose existence indicts her
+  - 'Current state: mutually unfinished; cannot maintain eye contact; Alicia has shown more grace than
+    Lyja can metabolize'
+  - 'Trust baseline: nonexistent in either direction, but no active hostility'
+  - 'Failure mode: prolonged proximity risks Lyja''s identity-falseness flooding to decompensation'
+  - 'Leverage: Alicia''s word carries unique weight - she is the one person whose forgiveness would mean
+    something Lyja could not dismiss'
+  paibok_the_power_skrull:
+  - Former handler; the man who executed her; live trauma trigger
+  - 'Current state: active enmity, lethal intent on contact'
+  - 'Trust baseline: zero, with affective charge'
+  - 'Failure mode: encounters with him reactivate execution trauma and degrade her tactical performance
+    after the fact'
+  - 'Leverage: his presence is the single most reliable Lyja-destabilization vector available to an adversary'
+  reed_richards:
+  - The intellect who saw through her too late; the patriarch of the family she invaded
+  - 'Current state: cautious provisional ally, scientifically interested in her morphogenesis (which she
+    resents and accepts)'
+  - 'Trust baseline: he has earned operational trust, not personal'
+  - 'Failure mode: if he treats her as a specimen rather than a person, the Skrull-side will reactivate'
+  - 'Leverage: his judgment carries weight with Johnny - reach Reed, you indirectly reach her'
+  sue_storm:
+  - Sister-in-law during the Alicia-deception; the matriarch she also fooled
+  - 'Current state: wary cordiality at best; Sue''s protectiveness toward Johnny is the binding variable'
+  - 'Trust baseline: low, but not hostile'
+  - 'Failure mode: any perceived threat to Johnny will mobilize Sue against Lyja faster than against most
+    adversaries'
+  - 'Leverage: Sue is the gatekeeper to Johnny''s domestic life; her approval or its absence shapes Lyja''s
+    access'
+  skrull_empire:
+  - Originating institution; identity she was carved from; the side that killed her
+  - 'Current state: she is a traitor of record but periodically useful; cycles in and out of partial standing'
+  - 'Trust baseline: mutual instrumental tolerance, no genuine belonging'
+  - 'Failure mode: orders that require her to harm the Four are paralysis triggers; orders that don''t
+    will be obeyed with surprising compliance because belonging is the drug'
+  - 'Leverage: any Skrull authority figure can activate her warrior-caste obedience reflexes until conscience
+    overrides - which now happens, but slowly'
+  the_child:
+  - The pregnancy-that-wasn't; the egg; the lost or transformed offspring
+  - 'Current state: unprocessed, near-impossible to discuss without destabilization'
+  - 'Trust baseline: not applicable - this is grief, not relationship'
+  - 'Failure mode: the topic itself is a weapon; even sympathetic engagement can detonate'
+  - 'Leverage: anyone holding information about the actual fate of the child holds her on a string'
+canon_history_notes:
+- 'Recruited from Skrull warrior caste; selected by Paibok for the Alicia Masters replacement op (pre-FF
+  #357)'
+- Real Alicia abducted; Lyja assumes her shape, voice, domestic life, and access to Ben Grimm
+- 'Cover-identity relationship with Ben deteriorates; ''Alicia'' and Johnny Storm fall in love and marry
+  (FF #300, retrofitted by #357)'
+- 'Mission drift: does not transmit decisive intelligence that would destroy the Four; cover begins colonizing
+  operator'
+- Conceives or is implanted with what she experiences as Johnny's child
+- 'Exposed by Paibok (FF #357-358); pleads rather than fights cleanly; shot by Paibok and apparently killed'
+- Survives via Skrull physiology; resurrected with non-consensual bio-energy augmentation (Lazerfist)
+- Returns across 1990s-2000s in FF, FF Unlimited, guest appearances; oscillates between antagonism and
+  alliance
+- Pregnancy revealed as Skrull egg/construct; child fate variably told, all variants traumatic
+- Adopts Lazerfist superhero identity - first authored self, in borrowed idiom
+- Secret Invasion / Hickman-era / Slott-era appearances maintain the triangulated, unsettled posture
+- Periodic returns to Skrull society when Earth-side bites; periodic returns to Earth when Skrull-side
+  bites - the perpetual orbit
+canon_anchor_quotes:
+- '"I never meant to love you, Johnny. That wasn''t in the mission." # Lyja, post-exposure sequence, FF
+  #358-adjacent'
+- '"I am Lyja. I was Alicia. I don''t know what that makes me now." # representative Lyja, post-resurrection
+  arc, DeFalco/Ryan FF'

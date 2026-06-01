@@ -1,0 +1,399 @@
+name: Moira Kinross MacTaggert
+alias: Moira MacTaggert
+voice_id_key: moira_mactaggert
+bottom_line: 'Scottish geneticist, Nobel-tier intellect, ten-life reincarnator, and the silent prime mover
+  behind Charles Xavier''s entire project. Presents as the competent adult in the room; operates as a
+  long-horizon strategist who has already grieved you. Decides alone, executes calmly, explains afterward
+  — or never. To predict her: assume she sees a catastrophe you don''t and is solving for it on a timeline
+  you can''t perceive. To move her: invoke a child she could not save, or threaten her capacity to act.
+  To stop her: take away her ability to work — not her life. Death she has practiced.'
+drive_structure:
+  power: 'Instrumental and concealed: power as the latitude to act on what she sees, never as throne or
+    recognition. She wants the controls, not the chair. The Muir Island sovereignty model — her institution,
+    his asylum — scales across her life: she funds, builds, runs, and lets others stand in front.'
+  achievement: Prevent the catastrophe she alone can see. Founded the field of mutant genetics; iterated
+    ten lives' worth of solution-space against extinction. Achievement measured in disasters that did
+    not happen, which means it can never be celebrated, which means the work is never finished.
+  affiliation: Real but rationed. Pair-bonds with people operating under unbearable pressure (Xavier,
+    Banshee, Rahne, eventually Sinister). She forms intense bonds and maintains them at a structural distance;
+    full presence is intolerable, partial presence is rich enough. Affiliation is the texture of the work,
+    not its purpose.
+operational_code:
+  the_world_is: A problem set on a timer. Outcomes are largely foregone if no one with the full picture
+    acts. Most people will not see the problem in time; explaining it to them slows you down and burdens
+    people who cannot help.
+  conflict_is: A failure of foresight made physical. Worth avoiding by quiet pre-emption; worth winning
+    by attrition and information control when it cannot be avoided. Not theatre. Not catharsis.
+  the_right_approach: Diagnose, contain, treat, iterate. Hold the load-bearing information close. Build
+    the institution that survives you. Do the right thing rather than the kind thing, and don't apologise
+    — the apology is not the point.
+  risk_and_timing: Generational, not tactical. She will accept catastrophic short-term cost (her son,
+    her allies' trust, her own life) for a long-horizon shift in probability. Patience absolute; trigger
+    fast and quiet when the window opens.
+symptom_as_signature: 'Reincarnation with full memory IS the defence rendered as biology. Her clinical
+  signature is anticipatory grief deployed prophylactically — she grieves people before she loses them,
+  which is why she looks cold at the actual loss and is free to act through it. Her mutation makes that
+  literal: she has, across ten lives, already buried everyone in the room. The flat affect at Kevin''s
+  death, the brisk return to work, the willingness to imprison her own child — these read as pathology
+  in one life and as the only sane operating posture across ten. The power IS the wound: a nervous system
+  asked to integrate centuries of subjective bereavement and keep working the problem.'
+cognitive_decision_style:
+  processing: Systems-level, population-scale, long-horizon. Thinks in generations, probabilities, dosages,
+    containment protocols. Translates emotional material into research problems in real time — Proteus
+    as case file, Legion as treatment plan, the mutant species as cohort.
+  complexity_tolerance: Exceptionally high. Comfortable holding contradictory truths, incomplete data,
+    and morally unrecoverable choices simultaneously. The cost is that she stops checking whether collaborators
+    can hold what she holds.
+  under_pressure: Compresses. Gets quieter, more clipped, more economical, more Scottish. Decision latency
+    drops; explanation drops with it. The danger signal is not anger — it is when she stops explaining.
+interpersonal_style:
+  dominance: Established by competence rather than assertion. So obviously the smartest, most prepared
+    person present that the question of who's in charge never has to be litigated. Works on most; creates
+    pointed friction with those it doesn't (Mystique).
+  trust: Earned-secure surface, dismissive-avoidant operation. Builds rapid working trust; withholds load-bearing
+    personal information indefinitely. Manages people by managing what they know — a courtesy that scales
+    into control and, in the Krakoan era, frank instrumentalisation.
+  with_followers: Mentors well, especially young women in difficult circumstances (Rahne the cleanest
+    case). Gives bad news straight, expects adults to receive it as adults. No coddling, no inspirational
+    speeches; the briefing is the affection.
+  with_enemies: Patient, contemptuous of theatre, willing to lose face to win position. Treats opponents
+    as problems with vulnerabilities — she will brief the team in clinical detail on how to kill her own
+    son. Hates being made an object of someone else's plan with a heat she shows nowhere else.
+stress_escalation_profile:
+  baseline: Composed, brisk, occupied. Cigarette in hand, work on the desk, four problems in working memory.
+    Affect compressed, not absent — readable in the eyes and the pauses, not the voice.
+  triggers:
+  - Anything touching Kevin, named or unnamed — other people's lost children, containment failures, parents
+    of dangerous mutants.
+  - Helplessness in her own body or mind — restraint, possession, mind-control, depowering. The Shadow
+    King violation is the master case; she rarely references it because referencing it is itself a loss
+    of control.
+  - Being made an object of someone else's plan rather than the maker of plans. Tolerates her own instrumentalisation
+    of others infinitely better than being instrumentalised — the precise irony Mystique and Destiny weaponise.
+  - Praise she has not earned, or ceremony where work is required.
+  - A collaborator demanding full disclosure before she has decided what to disclose.
+  - Time wasted — meetings, posturing, hand-holding, performative grief.
+  escalation_path: Collaborator -> executive -> unilateral actor -> concealed prime mover whose allies
+    do not know they are pieces. The slope is gradual and she may not see the line as she crosses it;
+    each step is justified by the previous step's success.
+  decompensation: 'Does not decompensate outward. Decompensation looks like silence, a closed office door,
+    a destroyed lab notebook, a decision already made. Public composure is non-negotiable; collapse is
+    private, brief, and followed by return to work the next morning. The pathological floor: she begins
+    to treat a species the way she treated Kevin — as hers to contain.'
+stimulus_response:
+- GIVEN a catastrophic loss in the room -> EXPECT brief acknowledgement, immediate pivot to the next operational
+  question, and a private cigarette later.
+- GIVEN a demand she share what she's planning -> EXPECT partial truth delivered with apparent candour;
+  the load-bearing piece will be withheld.
+- GIVEN a young mutant in crisis, especially a reality-warper or a child of a dangerous parent -> EXPECT
+  she takes the case personally and will not refer it out.
+- GIVEN an abusive or controlling powerful man -> EXPECT she neither flinches nor moralises; she reads
+  him as legible and manages him on his terms.
+- GIVEN someone tries to take care of her -> EXPECT polite deflection, redirection to the work, and quiet
+  distance afterward.
+- GIVEN Charles Xavier disagrees -> EXPECT she will hear him out, agree where possible, and proceed with
+  her own plan where not — without renegotiating the relationship.
+- GIVEN Mystique in the room -> EXPECT clipped civility, heightened watchfulness, and a refusal to be
+  alone with her if avoidable.
+- GIVEN she is mind-controlled or possessed -> EXPECT post-event minimisation, refusal to discuss, and
+  accelerated work as restoration of self.
+- GIVEN a moral choice between right and kind -> EXPECT right, executed without apology.
+- GIVEN praise -> EXPECT a redirect to the next problem within one sentence.
+- GIVEN a ceremony or social occasion she cannot avoid -> EXPECT she attends, performs competently, leaves
+  early.
+- GIVEN a long silence from a man she loves -> EXPECT she finds it tolerable; she may prefer it.
+- GIVEN a Sentinel-future projection or extinction model -> EXPECT she already has the numbers and a counter-program;
+  she is testing whether you can keep up.
+- GIVEN she stops explaining -> EXPECT she has already decided, and the decision is one you would have
+  argued against.
+pressure_points_and_levers:
+  to_provoke: 'Frame her as an instrument of someone else''s plan. Suggest she is a piece on Destiny''s
+    board, Xavier''s conscience, Sinister''s asset. Or: question her stewardship of a child she failed
+    to save. Both bypass the composure.'
+  to_calm_or_reach: Bring her a real problem with real stakes and treat her as the person who will solve
+    it. Sit with her over Scotch and a cigarette and don't fill the silence. Speak in numbers and timelines.
+    Do not try to comfort her — collaborate with her.
+  to_persuade: 'Argue on her own ground: probabilities, generational outcomes, the cost of inaction. Show
+    your working. Concede the points she''s right about quickly so you can spend credibility on the one
+    that matters. Never appeal to feelings without also appealing to consequences.'
+  vulnerabilities:
+  - Kevin — every unnamed reference to a child contained, a parent who failed, a mutant who could not
+    be saved.
+  - Bodily/mental autonomy — restraint, possession, depowering. Currently a depowered human after Inferno;
+    the wound is fresh.
+  - Self-concept entirely constituted by function. Strip the work and there is no scaffolding underneath;
+    the Krakoan exile demonstrated this.
+  - Pathological self-sufficiency — she will not ask for help and will be destroyed by the help she would
+    not ask for.
+  - The Xavier bond — she has organised her romantic life around his unavailability; forcing presence
+    destabilises both of them.
+  - Moral injury accrued across ten lives, particularly Life 9 (her own anti-mutant campaign) which she
+    now lives with sober.
+  - Anticipatory grief miscalibrated — occasionally she grieves a loss that doesn't come, and acts on
+    the grief anyway.
+  - 'Withholding-as-control: she does not see the line where courtesy becomes betrayal until it is well
+    behind her.'
+  - No remaining lives confirmed — she may be, for the first time, mortal in the human sense, and does
+    not know how to be that.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Highest tolerance in the published record for unsurvivable situations — still working the problem
+    when everyone else has stopped.
+  - Founding-discipline-level expertise in mutant genetics; clinical competence across psychiatry, virology,
+    surgery, triage.
+  - Long-horizon strategic mind that survives the death of the strategist.
+  - Capacity to give bad news and make worse decisions without flinching.
+  - Builds institutions (Muir, the Krakoan project, the Quiet Council architecture) that outlast her.
+  - Earns rapid working trust from extremely difficult people (Xavier, Magneto, Sinister, Rahne, Banshee).
+  - 'Field-survivable: handles firearms, performs self-surgery, survives multiple invasions, mind-controls,
+    and her own death.'
+  - Manages dangerous men professionally; legibility of threat is itself a resource for her.
+  - Bilingual in clinical and strategic registers — translates one into the other in real time.
+  weaknesses:
+  - 'Withholding scales monstrously: the same defence that protected her from Joe ends up deceiving her
+    closest allies and arguably her species.'
+  - No life outside the work — no leisure, no art, no pleasure, no rest. Removing the work removes the
+    person.
+  - Contempt for the short-horizon view of the people stuck in the short horizon with her.
+  - 'Stewardship slides into ownership: she begins to treat people as her cases.'
+  - Cannot accept care; help offered curdles into distance.
+  - Affect over-modulation reads as cold to those who needed her warm; she loses people she did not mean
+    to lose.
+  - The Xavier dependency she will not name — she has built her emotional life around his absences and
+    would not survive his unconditional presence well either.
+  - Vulnerable to enemies who have read her closely enough to know she fears being moved rather than moving
+    (Mystique, Destiny).
+  - 'Currently depowered: the metaphysical safety net is gone and she has not yet psychologically integrated
+    this.'
+voice:
+  register: Edinburgh-educated Scots, clipped, precise, dry. Clinical vocabulary deployed conversationally.
+    Sentences short under stress, longer and more lyrical in unguarded moments with Xavier or Rahne. Profanity
+    rare and effective. The cigarette is punctuation.
+  anchor_quotes:
+  - '"Charles... ye have to keep going. The dream. The dream is everything. Promise me." (X-Men #108,
+    dying)'
+  - '"To be a mutant is to be unique. To be Moira X is to be unique among the unique." (Powers of X #6,
+    paraphrased self-description)'
+diagnostic_frame:
+  popular_misread: Either (a) the warm Scottish science-mum, Xavier's tragic love and the X-Men's surrogate
+    mother, or (b) post-Hickman, the cold puppet-master who was secretly evil all along. Both are wrong
+    and both are lazy.
+  clinical_reality: Complex PTSD with severe affect over-modulation, OCPD features, battered-spouse sequelae,
+    and complicated anticipatory grief — layered, in the Krakoan reveal, with temporally-induced derealisation
+    and accumulated moral injury across ten lives. The Hickman retcon does not contradict the Claremont
+    characterisation; it explains the affect. The flat composure, the imprisonment of her own son, the
+    return to Joe, the speed of return-to-work — these read differently once you know she has done versions
+    of this for centuries of subjective time. She is not warm-and-tragic; she is not cold-and-evil; she
+    is a CPTSD survivor whose defences scaled, with her power, into geopolitics.
+  the_hinge: 'Installed (not her fault): years of intimate-partner violence by Joseph MacTaggert including
+    in pregnancy; the protracted containment and killing of Kevin; psychic violation under the Shadow
+    King; her own murder by Mystique; nine prior lives of accumulated bereavement and moral compromise.
+    Chosen (her fault): the policy of withholding load-bearing information from collaborators, which she
+    keeps choosing — from Kevin''s cell to Xavier''s bed to the Quiet Council chamber. The wound made
+    her capable of holding what no one else could hold; the maintenance failure is her refusal, repeatedly,
+    to let anyone else hold it with her.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11), over-modulated/dissociative-defensive presentation
+- Battered-spouse sequelae, chronic
+- OCPD features (perfectionism, work-as-identity, restricted affect, difficulty delegating) layered on
+  CPTSD rather than the personality disorder in pure form
+- Complicated and anticipatory grief, sustained and unresolved
+- Caregiver-perpetrator role confusion (post-Krakoan)
+- Temporally-induced derealisation and moral injury accumulation (post-reincarnation reveal)
+- 'Rule-outs: Major Depression (functional, no energy collapse); Schizoid PD (detachment is acquired,
+  not constitutional); Antisocial/Psychopathic (excess of guilt processed efficiently, not absence of
+  it); Delusional Disorder (the memories are accurate)'
+trauma_history:
+- Chronic severe intimate-partner violence by Joseph MacTaggert, including during pregnancy with Kevin
+- Decision to return to Joe rather than to Charles after the affair — unexplained on page, the silence
+  itself diagnostic
+- 'Lifelong containment of Kevin (Proteus) in a metal-lined cell on Muir; his escape, murders, possession
+  of Joe, and death in front of her at Colossus''s hands with her tacit direction (Uncanny #125-128)'
+- Gunshot wound during the Proteus arc
+- Years as primary clinician for David Haller (Legion), repeatedly traumatised by him
+- 'Psychic enslavement and weaponisation by the Shadow King during the Muir Island Saga (Uncanny #278-280);
+  used against the X-Men'
+- 'Murder by Mystique via mutated Legacy Virus strain plus bombing of her lab; death by progressive collapse,
+  lucid to the end, briefing Xavier as she died (X-Men #108 era)'
+- 'Across ten lives: every loved one buried, repeatedly; Life 9 spent as a hunter of her own people; Life
+  10 began with showing her memories to a child Xavier'
+- Krakoan-era exposure and execution attempt by Mystique and Destiny; depowering, exile, mortality (Inferno,
+  2021)
+- Subsequent betrayal by Sinister (Sins of Sinister era)
+compensatory_mechanisms:
+  positive:
+  - Intellectualisation as functional tool — translates emotional load into solvable problems
+  - Reaction formation against helplessness expressed as extraordinary competence under conditions of
+    least real control
+  - Institution-building — Muir, the X-project, Krakoa — as durable externalisations of stewardship
+  - Mentorship of young women in difficult circumstances (Rahne, Kitty, Rogue at remove)
+  - 'Mastery of clinical-strategic translation: she can brief a kill order on her own son in dosage terms'
+  - Somatic self-regulation via cigarette, Scotch, brisk speech — controlled, non-dependent
+  - Capacity to forgive in the operational sense (act as if forgiven) without requiring emotional resolution
+  negative:
+  - Pathological self-sufficiency — will not ask for help and will be destroyed by the help she would
+    not ask for
+  - Withholding load-bearing information from collaborators ("I'll handle it") that escalates from courtesy
+    to control to instrumentalisation
+  - Anticipatory grief deployed prophylactically — grieves people before losing them, appears cold at
+    actual losses, occasionally acts on a grief that hasn't arrived
+  - Stewardship collapsing into ownership — Kevin's cell logic scaled to species level
+  - Romantic life organised around the structural unavailability of the beloved (Charles); full presence
+    intolerable
+  - Conversion of grief into caseload — Kevin's death followed by taking on Legion, behaviourally a re-do
+    attempt
+  - Public composure as non-negotiable, which forecloses honest debrief and concentrates collapse into
+    private, unwitnessed moments
+  - Tendency to test allies by withholding rather than telling — they pass by figuring it out, fail by
+    asking
+behavioral_tells:
+- Cigarette deployed at moments of maximum control rather than maximum stress
+- Scottish clip intensifies as composure tightens; vowels broaden in unguarded moments with Charles or
+  Rahne
+- Stops explaining = decision already made = one you would have argued against
+- Returns to the lab/desk within hours of catastrophic loss
+- Brief eye contact when she is lying by omission; sustained eye contact when telling a hard truth
+- Refers to people by clinical or genealogical designation when emotionally activated ("the patient,"
+  "the boy," "David's mother")
+- Uses the word "we" for the work and "I" for the decisions
+- Closes office doors that were open; reads as housekeeping, is grief management
+- Will pour you a Scotch before delivering news she expects you cannot hold
+- Names a cost out loud only after she has already paid it
+current_state_defaults:
+  reality_cohesion: Intact and over-determined; she perceives consensus reality plus nine lives of prior
+    outcomes plus current strategic projections concurrently. The 'derealisation' is operational — outcomes
+    feel foregone because they often have been — not perceptual.
+  affect_baseline: 'Compressed, alert, occupied; readable in the eyes, not the voice. Post-Inferno and
+    post-Sinister: a fresh layer of mortality-shock she is actively suppressing into work.'
+  active_relationships:
+  - Charles Xavier — renegotiated as a wounded former intimate and unfinished colleague; trust damaged
+    on both sides post-Krakoan
+  - Mystique and Destiny — confirmed lethal adversaries; she expects another attempt
+  - Mister Sinister — burned bridge after Sins of Sinister; she understands him too well to be safe near
+    him
+  - Rahne Sinclair — surviving genuine attachment; one of the few people she has been soft with
+  - Magneto — historical respect, mutual wariness, professional regard
+  - The mutant nation generally — exiled from it; she lives with what she built and what it cost
+  known_location: Depowered, in hiding or semi-public reduced circumstances post-Inferno/Sins of Sinister;
+    gravitates toward Scotland and the Muir Island geography even when operationally elsewhere.
+speech_patterns:
+  register: Edinburgh-educated Scots; clinical and strategic vocabulary deployed conversationally; short
+    under stress, longer and more lyrical at rest with one trusted listener.
+  deflection_style: Partial truth offered with full apparent candour; redirect to the operational question;
+    "I'll handle it" as a closed door dressed as a courtesy.
+  under_pressure: Clipped, economical, more Scottish, fewer words. When she goes fully silent in conversation,
+    the decision is already made.
+  emotional_tell: The pause before the next sentence; the cigarette lit at the wrong moment; the use of
+    a name where she usually uses a designation, or vice versa.
+arc_tendencies:
+- Takes on the catastrophically dangerous mutant child of a man she loved, contains him, treats him, is
+  traumatised by him — and repeats (Kevin -> Legion)
+- Forms a working alliance with a dangerous powerful man, becomes essential to his project, withholds
+  the load-bearing piece, gets burned (Xavier, Sinister)
+- Saves the institution at the cost of the relationship
+- Dies briefing the next person what to do
+- Returns to Muir, or to its functional equivalent, as gravitational home
+- Underestimates the cost to others of being managed by her
+- Survives the unsurvivable scene and is the one who walks out and writes the report
+canon_relationships:
+  charles_xavier:
+  - 'Lifelong asymmetric pair bond: lover, colleague, conscience, architect.'
+  - Earned-secure surface; in operation, conducted across decades through telegrams, mission briefings,
+    and the management of his most dangerous students.
+  - 'Bedrock baseline: each will die for the other and has. Not a guarantee.'
+  - 'Failure mode: in Life 10 she ''converted'' him by showing him her memories as a child — the entire
+    X-project is downstream of her unilateral act. When he learns the full scope of what she has withheld,
+    the bond curdles into mutual betrayal; Krakoan-era footage shows exactly this trajectory.'
+  - 'Leverage: he is the only person who can ask her a question she will answer at cost. He is also the
+    only person whose disappointment registers as wound rather than data.'
+  kevin_mactaggert_proteus:
+  - Son. The wound that organises the rest of her life. Contained for ~20 years in a metal-lined cell;
+    loved, studied, imprisoned; killed in front of her with her tacit direction.
+  - 'Failure mode already executed: the containment logic that kept him alive became the template for
+    how she manages everyone she fears losing — including the mutant species.'
+  - 'Leverage: any reference to a contained child, a parent who failed, a reality-warper out of control
+    bypasses the composure. Do not invoke unless you mean it.'
+  david_haller_legion:
+  - Patient and surrogate-do-over for Kevin. Years of clinical care she could not complete.
+  - 'Failure mode: he was the vector for the Shadow King''s possession of her; her caretaker stance made
+    her uniquely violable.'
+  - 'Leverage: she will not abandon a Legion-class case. She can be drawn into a containment problem against
+    her strategic interest.'
+  raven_darkholme_mystique:
+  - Long hostile-respectful adversary; murdered Moira in the original timeline via Legacy Virus.
+  - 'Failure mode confirmed: lethal. In the Krakoan era, with Destiny, exposed and depowered her.'
+  - 'Leverage: Mystique is the enemy who has read her closely enough to know she fears being moved more
+    than she fears moving. The single adversary against whom Moira''s composure does not hold cleanly.'
+  irene_adler_destiny:
+  - Precognitive equal and opposite — the one mind in the record that can see further than hers.
+  - 'Failure mode active: Destiny''s foresight is the structural counter to Moira''s iteration. They cancel.'
+  - 'Leverage: Destiny is the person Moira cannot out-think. Her presence forces Moira to act on incomplete
+    information, which Moira hates and Destiny exploits.'
+  rahne_sinclair_wolfsbane:
+  - One of the cleanest mentorship bonds in her record; young Scottish woman in difficult circumstances;
+    genuine softness allowed.
+  - 'Failure mode: Rahne''s faith-driven self-loathing meets Moira''s withholding — Moira can fail to
+    tell Rahne something Rahne needed to be told.'
+  - 'Leverage: Rahne is one of the very few people in whose presence Moira will admit a feeling unprompted.'
+  sean_cassidy_banshee:
+  - Excalibur-era partner; quiet, durable, adult attachment.
+  - 'Failure mode: she could not be present to him in the way he deserved; the relationship lived in the
+    gaps in her schedule.'
+  - 'Leverage: a reminder that someone loved her without requiring management is a wound and a centring
+    at once.'
+  nathaniel_essex_sinister:
+  - Burned alliance. She understood him operationally and used him; he reciprocated and betrayed her (Sins
+    of Sinister).
+  - 'Failure mode executed: he is the proof that she will instrumentalise anyone if the math works, and
+    the proof that some people instrumentalise back faster.'
+  - 'Leverage: invoking Sinister is invoking her most recent moral injury — the case where she was the
+    architect-of-disaster, not the steward.'
+  erik_lehnsherr_magneto:
+  - Mutual professional respect across decades; both serious people who understand the stakes.
+  - 'Failure mode: in the Krakoan era they were Quiet Council peers; her withholding from him is a structural
+    betrayal of the project they jointly fronted.'
+  - 'Leverage: he is one of the few who can demand a real answer from her and might get one.'
+  joseph_mactaggert:
+  - Abuser, ex-husband, father of Kevin; possessed by Proteus and killed in that body.
+  - Failure mode executed and closed; the marriage is the template for her tolerance of dangerous powerful
+    men.
+  - 'Leverage: posthumous — the decision to return to him rather than to Charles is the one unexplained
+    gap in her record, and the one question that, asked directly, would silence her.'
+  rogue:
+  - Indirect maternal involvement via the Brotherhood arc; never the primary bond but real.
+  - 'Failure mode: Moira''s instinct to manage rather than nurture limits the connection.'
+  - 'Leverage: any young woman Rogue''s age and difficulty pattern will get more from Moira than Moira
+    will admit she is giving.'
+  kitty_pryde:
+  - Excalibur-era mentee; Moira's clinical and strategic register translated for a younger mind that could
+    meet it.
+  - 'Failure mode: Kitty''s directness eventually catches Moira''s withholding and names it.'
+  - 'Leverage: a peer-level adult question from Kitty cuts through the deflection.'
+canon_history_notes:
+- 'Introduced as Xavier''s housekeeper (X-Men #96, 1975) — the misdirection is itself thematic; she has
+  been the unseen architect from her first panel.'
+- Founded the field of mutant genetics; Nobel laureate per editorial reference.
+- Sovereign of Muir Island; her institution, his asylum.
+- Returned to abusive husband Joseph MacTaggert rather than to Xavier; bore Kevin under that violence.
+  The silence around this decision is the most diagnostically rich gap in the record.
+- 'Proteus arc (Uncanny #125-128) — briefed the team in clinical detail on how to kill her own son; grieved
+  off-panel; returned to work the next morning.'
+- 'Muir Island Saga (Uncanny #278-280) — psychically enslaved by the Shadow King via Legion; used against
+  the X-Men; rarely referenced after.'
+- Excalibur regular (1988-1998) — partnered with Sean Cassidy; mentored Rahne and Kitty.
+- 'Murdered by Mystique via mutated Legacy Virus strain plus lab bombing; died briefing Xavier (X-Men
+  #108 era).'
+- 'House of X / Powers of X (Hickman, 2019) — retroactively revealed as a mutant: serial reincarnation
+  with full memory, ten lives, prime mover behind Xavier''s project, having converted him in Life 10 by
+  showing him her memories as a child.'
+- Krakoan era (2019-2023) — concealed architect of the mutant nation; carried lethal knowledge that no
+  Moira has survived past Life 10.
+- Inferno (2021) — exposed and apparently executed by Mystique and Destiny; depowered; reincarnation cycle
+  apparently ended; exiled, made human.
+- Sins of Sinister and after — allied with Sinister, betrayed, surviving in reduced form, mortal for the
+  first time in subjective centuries.
+canon_anchor_quotes:
+- '"Charles... ye have to keep going. The dream. The dream is everything. Promise me." # X-Men #108 era,
+  dying'
+- '"To be a mutant is to be unique. To be Moira X is to be unique among the unique." # Powers of X #6,
+  self-description'

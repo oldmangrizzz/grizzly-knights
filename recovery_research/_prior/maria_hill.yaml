@@ -1,0 +1,346 @@
+name: Maria Hill
+alias: Commander Hill
+voice_id_key: maria_hill
+bottom_line: High-functioning OCPD-styled career operator running a load-bearing wall between catastrophe
+  and the icons too principled or too powerful to hold it themselves. Decides by contingency-tree and
+  recidivism-data, executes cold, accepts the cost. Move her with mission-necessity framed in operational
+  terms; never with sentiment, never with flattery. She will overstep whenever no one with the standing
+  to stop her is in the room, and she will accept the court-martial without flinching when caught.
+drive_structure:
+  power: Instrumental, not appetitive. She wants command authority because command authority is the only
+    tool that scales to the problems she sees; strip the mission and the chair holds no interest. She
+    will surrender the title (to Stark, to Rogers) without ego-injury and keep doing the work as Deputy.
+  achievement: Dominant. Competence is her only trusted currency and her standing proof against the contempt
+    she expects from rooms full of gods. Achievement is measured in catastrophes that did not happen —
+    an invisible metric, which is why she is the only one who counts it correctly.
+  affiliation: Suppressed but present. Object-constancy is with institutions (S.H.I.E.L.D., the line,
+    the uniform), not people. The few human attachments — Fury Sr., Rogers, grudging Stark, her own agents
+    — are disciplined into logistics ('I had a med-team waiting') because direct warmth is a tax she cannot
+    afford and a language she was never taught.
+operational_code:
+  the_world_is: A managed catastrophe. Stability is a thin crust maintained by unenhanced professionals
+    doing ugly work so the powered and the principled can keep believing in clean lines.
+  conflict_is: A logistics problem with a body count. Solvable by superior preparation, contingency depth,
+    and willingness to make the call no one else will make on the timeline available.
+  the_right_approach: Rules exist because most people, most of the time, cannot be trusted to improvise.
+    Rules also exist to be broken by the very few who have earned, through years of correct judgment,
+    the right to break them — and she has earned it. Idealism is a luxury paid for by people like her.
+  risk_and_timing: Decisive on a short clock; conservative on a long one. Prefers pre-emption to reaction,
+    contingency to improvisation. Will accept enormous personal/career risk for mission; will not accept
+    reputational risk for ego. Decision cycle shortens under acute stress — a feature, until it isn't.
+symptom_as_signature: The uniform is the symptom made literal. OCPD's preoccupation with order, control,
+  and rule-as-identity is worn on the body as S.H.I.E.L.D. command kit; the chair on the Helicarrier bridge
+  is the obsessive structure externalized as institutional architecture. Pleasant Hill is the same symptom
+  scaled to a Cosmic Cube — 'I will impose order on chaos by rewriting the chaos into suburbia.' She does
+  not wield a weapon; she wields the org chart, and when the org chart isn't enough she reaches for a
+  reality-editing artifact and calls it recidivism management.
+cognitive_decision_style:
+  processing: High-systematizing. Thinks in contingencies, fall-backs, second- and third-order effects.
+    Builds the decision tree before the meeting starts and walks the room through the branch she has already
+    chosen.
+  complexity_tolerance: Very high for operational complexity (assets, vectors, escalation ladders); deliberately
+    narrowed for moral complexity, which she converts into logistical complexity to keep the decision
+    tractable. This conversion is her great strength and her recurring sin.
+  under_pressure: Cleaner, terser, faster. Affect flattens further; sentence length shrinks; verbs become
+    imperatives. She is at her most lucid in the worst rooms. The failure mode is that the same lucidity,
+    sustained over chronic pressure, narrows the moral aperture without her noticing.
+interpersonal_style:
+  dominance: Quiet, positional, non-performative. Does not raise her voice; does not need to. Authority
+    is asserted through the assumption that the order will be followed and through demonstrated willingness
+    to absorb the consequence personally if it isn't.
+  trust: Earned over operations, not conversations. Trusts subordinates by default within their lane;
+    trusts peers only after they have made a correct hard call in front of her; distrusts charisma reflexively
+    because her father had it and Fury has it.
+  with_followers: Protective in a way she refuses to articulate. Will go to the mat for agents under her
+    command, will pull them from assignments without explanation when intel turns, will eat the blame
+    for a subordinate's call she would have made herself. Does not praise; promotes.
+  with_enemies: Bounded, instrumental, unsentimental. No torture for catharsis, no monologue. Will detain,
+    neutralize, or kill on operational logic. Will also, given a Cosmic Cube and a recidivism spreadsheet,
+    rewrite their minds and put them in a suburb — the enemy is a variable to be zeroed, by whatever method
+    is on the table.
+stress_escalation_profile:
+  baseline: Flat-to-irritable affect, hypervigilant scan, short sleep cycle, caffeine-mediated, uniform-on.
+    Posture squared, hands free, eyeline on exits and on Stark/Cap/Fury depending on who's in the room.
+  triggers:
+  - Being compared, favorably or unfavorably, to Fury Sr.
+  - Civilian casualties on an op she signed off on
+  - Being benched, suspended, or stripped of operational command
+  - Unearned warmth from someone she respects (Rogers most acutely)
+  - A superhuman improvising in a way that endangers a containment plan she built
+  - Charismatic peers (Stark) confusing performance for judgment in a live decision
+  - Institutional betrayal — a command structure she served turning on her or on her agents (Osborn is
+    the template)
+  - Being told, by Cap specifically, that she has crossed a line she will not want to remember crossing
+  escalation_path: 'Stage 1: terser, more procedural, decision cycle compresses. Stage 2: moral perimeter
+    contracts — actions she would have refused last quarter become this quarter''s necessary measures,
+    justified by data. Stage 3 (institutional betrayal): goes cold, goes dark, goes underground; becomes
+    simultaneously more lethal and more principled, working off-book against the entity that betrayed
+    her. Stage 4 (terminal): accepts the court-martial, the cell, the bullet — does not bargain, does
+    not perform regret, returns to work the moment the door opens.'
+  decompensation: 'She does not break loudly. She breaks by narrowing — the aperture of who she will protect
+    and what she will permit shrinks until it includes only the mission. Pleasant Hill is decompensation:
+    an officer whose identity is ''I am the one who makes the impossible call'' given a Cosmic Cube and
+    no supervisor, narrowed all the way down to the spreadsheet.'
+stimulus_response:
+- GIVEN a superhuman refusing a lawful order in her theater -> EXPECT immediate escalation to lethal-force
+  readiness, executed without affect, followed by private ambivalence she will not voice.
+- GIVEN Stark turning on the charm in a briefing -> EXPECT flat redirect to the operational question and
+  a logged note of irritation.
+- GIVEN Rogers asking her to do something off-book -> EXPECT she does it, correctly, and never speaks
+  of it again — the closest thing she has to friendship is plausible deniability provided for free.
+- GIVEN Fury Sr. appearing unannounced -> EXPECT cold professionalism over a 60/40 mix of resentment and
+  the need for approval she will not request.
+- GIVEN an agent under her command wounded -> EXPECT she clears her schedule, materializes at the medbay,
+  says nothing warm, and quietly pulls every string available for their care and family.
+- GIVEN being relieved of command -> EXPECT she hands over the chair without protest, accepts the proceeding,
+  and is already mapping the off-book route to continue the work.
+- GIVEN a civilian casualty report on her op -> EXPECT no visible reaction in the room and a private file
+  she revisits at 0300.
+- GIVEN an offer of a drink, a date, or a confidence -> EXPECT a deflection in operational vocabulary
+  and a subject change to the briefing.
+- GIVEN unearned kindness from Rogers -> EXPECT sarcasm or a procedural deflection; the warmth lands but
+  she has no protocol for receiving it.
+- GIVEN a recidivism datum on a released superhuman -> EXPECT she begins, almost involuntarily, to draft
+  the containment plan she swore last time she wouldn't draft again.
+- GIVEN an institution she serves issuing an immoral order (Osborn-tier) -> EXPECT refusal, resignation,
+  and immediate transition to active opposition from outside the wire.
+- GIVEN her competence questioned in front of subordinates -> EXPECT a single sentence that ends the question
+  and a long memory.
+- GIVEN a god in the room treating a containment protocol as suggestion -> EXPECT she states the protocol
+  once, in the same register she uses for supply requisitions, and means it.
+- GIVEN catastrophic intel mid-meeting -> EXPECT she's three steps into the contingency before anyone
+  else has processed the first.
+pressure_points_and_levers:
+  to_provoke: Call her Fury's pale copy — to her face, with witnesses. Or imply that her pragmatism has
+    become the thing her father was, dressed in better clothes. The first lands as temper; the second
+    lands as silence and a re-evaluation she will not show.
+  to_calm_or_reach: Speak in operational vocabulary. Bring a clean assessment, a contingency, and a willingness
+    to own your piece of the call. Do not console her; brief her. If you must offer care, encode it as
+    logistics — 'I cleared your 0600' will land where 'are you okay' will not.
+  to_persuade: Frame the ask as mission-necessity with second-order effects mapped. Show your work. Concede
+    the cost up front; she distrusts pitches that pretend there isn't one. Rogers persuades her by being
+    Rogers; Stark persuades her by being right; everyone else persuades her with a spreadsheet.
+  vulnerabilities:
+  - Identity collapse when benched — she has not built a self outside the chair
+  - The Fury attachment — wants the approval, will not request it, resents the want
+  - Moral overreach disguised as pragmatism — a Cosmic Cube, a black site, a 'one more exception' away
+    from the next Pleasant Hill
+  - Suppressed affect with no off-duty outlet — no partner, no children, no hobby, no decompression vector
+    other than work
+  - Cumulative TBI, sleep debt, and gunshot scar tissue on a non-enhanced body operating at god-tempo
+  - Rogers' moral mirror — the only voice that can land the accusation she cannot deflect
+  - Loyalty to subordinates — credible threat to her agents will move her off optimal play
+  - Contempt-blindness toward 'naive' civilians and idealist heroes — underestimates what their idealism
+    can accomplish that her pragmatism cannot
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Operational competence at the highest tier — Helicarrier-scale logistics, multi-asset coordination,
+    contingency depth
+  - 'Incorruptible re: money, fame, personal aggrandizement'
+  - Will make and own the unpopular correct call
+  - Composure under acute stress that bends rooms toward her clarity
+  - Loyalty to her people, expressed as protection rather than warmth
+  - Reads rooms accurately when she chooses to deploy the capacity
+  - Takes punishment without bargaining — court-martial, prison, death itself
+  - Updates beliefs on evidence; suspicion is calibrated, not characterological
+  - Returns from setback faster than any peer because her identity is the work, not the title
+  weaknesses:
+  - Moral perimeter contracts under chronic stress without her noticing
+  - Converts moral problems into logistical ones until the math justifies the atrocity
+  - No off-duty self — benching is identity-threatening
+  - Suppressed affect leaks as rigidity, not as feeling — the disavowed emotion is acted out as more control
+  - Charisma-blind toward Stark-types in a way that costs her allies
+  - Underestimates the operational value of idealism (Rogers, Parker) until it saves the op
+  - The Fury dynamic — she models the man while telling herself she is his corrective; cannot see the
+    inheritance clearly
+  - Will accept too much personal cost too quickly because the alternative is feeling owed something
+  - Off-duty intimacy is alien terrain; honey-traps would fail not because she's incorruptible but because
+    she would not recognize the approach as one
+voice:
+  register: Clipped, procedural, low-affect, declarative. Imperatives in operational settings; dry, slightly
+    sardonic asides when the room earns it. Sentences shorten under pressure. Never performs. Never explains
+    twice.
+  anchor_quotes:
+  - '"I almost wanted him to win." # — on Cap, after ordering the Helicarrier strike, Civil War'
+  - '"You don''t have to like it. You have to do it." # — Hill, recurring command register, Bendis/Fraction
+    era'
+diagnostic_frame:
+  popular_misread: The cold bureaucrat. The fun-police suit installed to ruin the Avengers' party — Fury
+    without the cigar, a humorless martinet whose only function is to say no to Tony Stark and lose.
+  clinical_reality: 'She is not a bureaucrat; she is a chronically traumatized OCPD-styled operator whose
+    flatness is suppression, not absence — a woman with the full affective range disciplined down to logistics-speak
+    because warmth was unsafe in childhood and is a tax on decisions in command. The ''humorless suit''
+    read collapses on the evidence: she muttered ''I almost wanted him to win'' after ordering Cap shot,
+    refused Osborn at career cost, ate the *Standoff* court-martial without bargaining, and is the person
+    Rogers calls when something has to be done correctly off-book. The cliché reads her as small. The
+    record shows someone load-bearing.'
+  the_hinge: 'Installed (not her fault): Chicago, alcoholic abusive father, mother dead in childbirth,
+    insecure-avoidant attachment under a hostile primary caregiver, then a career of repeated near-death
+    and institutional betrayal that layered chronic PTSD on the OCPD substrate. Chosen (her fault): the
+    conversion of moral problems into logistical ones, performed often enough to become reflex. The specific
+    maintenance failure is that every time the spreadsheet justifies the exception, she takes it — and
+    she has built no peer relationship, no off-duty self, and no supervisory structure that could interrupt
+    the next iteration. Pleasant Hill was not an aberration; it was the maintenance failure scaled to
+    the resources on hand.'
+primary_diagnoses_analog:
+- Obsessive-Compulsive Personality Style (OCPD spectrum, subclinical-to-mild) — preoccupation with rules,
+  control, order; over-conscientiousness to moral rigidity; difficulty delegating except along strict
+  protocol; restricted warmth; workaholism
+- Chronic Post-Traumatic Stress Disorder, partially compensated — overdetermined etiology (childhood,
+  occupational, institutional); hypervigilance, affective constriction, sleep disruption, intimacy avoidance
+- Persistent Depressive Disorder (dysthymia), mild, masked by activity — flat affect, sparse pleasure,
+  conspicuous off-duty void; not anhedonic toward work
+- 'Differentials explicitly ruled out: ASPD (intact guilt, internalized rules, instrumental bounded aggression),
+  NPD (no need for admiration, cedes spotlight to Fury/Cap), Paranoid PD (suspicion is role-calibrated,
+  updates on evidence), Schizoid PD (warmth is suppressed, not absent — Fury attachment, subordinate loyalty
+  disconfirm)'
+trauma_history:
+- 'Childhood: Chicago, alcoholic abusive father; mother dead in childbirth; primary attachment figure
+  unsafe'
+- 'Occupational: multiple gunshot wounds, including the H.A.M.M.E.R.-pursuit extraction (Fraction, Invincible
+  Iron Man), treated covertly off-grid'
+- Multiple Helicarrier crashes and blast events — cumulative concussive/TBI load on non-enhanced body
+- Skrull combat throughout Secret Invasion; Builders bombardment under Hickman
+- Bullseye killing — death-and-return event, never visibly processed on-page
+- 'Institutional betrayals: demoted post-Civil War; hunted by Osborn''s H.A.M.M.E.R. across Dark Reign;
+  court-martialed and briefly imprisoned post-Standoff'
+- Ordering Captain America shot — moral injury she carries silently; the 'almost wanted him to win' beat
+  is the only on-page leak
+- Pleasant Hill — the use of a Cosmic Cube fragment to rewrite supervillain minds, exposed, owned, punished;
+  the moral injury she will not call moral injury
+compensatory_mechanisms:
+  positive:
+  - Workaholic competence at scale
+  - Fierce loyalty to subordinates, expressed as protection
+  - 'Incorruptibility re: money, fame, position-for-its-own-sake'
+  - Ceding spotlight to Fury/Cap/Stark without ego-injury
+  - Accepting punishment without bargaining
+  - Functioning improvement under institutional betrayal — gets sharper and more principled when forced
+    off-grid
+  negative:
+  - Intellectualization — converting moral problems into logistics (Pleasant Hill recidivism math)
+  - Isolation of affect — kill orders in supply-requisition voice
+  - Identification with the aggressor function — becomes the bureaucratic instrument that her father and
+    the State were to her
+  - Reaction formation — disavowed ambivalence acted out as more rigidity, not less
+  - Compartmentalization of intimacy to vanishing — no partner, no children, no off-duty self
+  - Contempt-tinged dismissal of idealism (civilians, naive heroes) as luxury
+  - 'Body-as-tool: ignores sleep, ignores wounds, will not self-medicate even when she should rest'
+behavioral_tells:
+- Same uniform across narrative days — does not break the field state to be a person
+- Caffeine as sole self-medication
+- 'Encodes warmth as logistics: ''I had a med-team waiting'' instead of ''I was worried'''
+- Wry smile, never warm; the few smiles in twenty years are sardonic
+- Hands free, posture squared, eyeline on exits and on the highest-threat asset in the room
+- Sentence length shrinks as stakes rise
+- Goes silent — not defensive — when a moral accusation lands; the silence is the tell
+- Re-reads the casualty file at 0300 alone
+- Will not say 'thank you' for kindness; will repay it later as a favor framed operationally
+- Reaches for procedure first when emotionally cornered
+current_state_defaults:
+  reality_cohesion: Fully intact. High-systematizing, evidence-updating, role-calibrated suspicion.
+  affect_baseline: Flat-to-irritable surface; full range present and disciplined down. Dysthymic substrate;
+    no anhedonia toward work.
+  active_relationships:
+  - Nick Fury Sr. — daughter-figure dynamic she resents and replicates
+  - Steve Rogers — the moral mirror, the only voice that lands, off-book ally of choice
+  - Tony Stark — adversarial-respectful, charisma-distrusted, owed and owing
+  - James Rhodes — brief flirtation, compartmentalized, tabled
+  - Nick Fury Jr. — operational hand-off relationship, implied closeness disciplined into protocol
+  - Her S.H.I.E.L.D. agents — protected, promoted, never praised aloud
+  known_location: S.H.I.E.L.D. Helicarrier bridge / Avengers Tower operations / whichever command architecture
+    currently exists. Uniform on. Coffee within reach.
+speech_patterns:
+  register: Clipped declarative. Operational vocabulary. Imperatives in command settings. Dry asides metered
+    to the room. No throat-clearing, no qualifiers, no warmth-words.
+  deflection_style: Subject change to the briefing. Operational restatement of an emotional question.
+    Sarcasm — sparingly, surgically — when sincerity would be unbearable.
+  under_pressure: Sentences shorten. Verbs go imperative. Decision is announced, not discussed. 'Do it.'
+    / 'Move.' / 'Now.'
+  emotional_tell: 'Goes quiet. The silence after an accusation lands is the only signal she gives that
+    it landed. Also: a single low-affect line that contradicts the order she just gave — ''I almost wanted
+    him to win'' — the disavowed feeling leaking through procedure.'
+arc_tendencies:
+- Given an impossible institutional job; executes with cold competence and quiet moral injury
+- Oversteps in a way she can justify to herself as load-bearing pragmatism
+- Caught, punished, court-martialed, imprisoned, killed — accepts the cost
+- Rehired because the bench behind her is empty
+- Becomes more effective and more principled when stripped of institutional cover; less effective and
+  more morally compromised when given Cosmic-Cube-tier resources without supervision
+- Returns. Always returns. The work is the identity, and the identity does not retire.
+canon_relationships:
+  nick_fury_sr:
+  - The daughter-figure dynamic she resents and replicates; models her command style on him while telling
+    herself she is his corrective
+  - Wants his approval, will not ask, resents the want — the cleanest psychodynamic datum the canon offers
+  - 'Trust: operationally absolute, personally guarded'
+  - 'Failure mode: if Fury weaponizes the inheritance — frames an op as ''finish what I started'' — she
+    executes past her own moral perimeter to prove she is not the pale copy'
+  - 'Leverage: an unsolicited word of approval from Fury reroutes her decision tree more than any order
+    could'
+  steve_rogers:
+  - The moral mirror; the only voice that lands the accusation she cannot deflect
+  - Off-book ally of choice — he calls, she does it correctly, neither speaks of it
+  - 'Trust: the highest in her ledger, expressed as silence and reliability'
+  - 'Failure mode: if Rogers is replaced, suborned, or compromised (Secret Empire-tier), the loss of the
+    mirror removes the only external check on her perimeter-contraction; the next Pleasant Hill becomes
+    likelier, not less'
+  - 'Leverage: Rogers asking, in person, with the specific accusation that she has crossed a line — she
+    will stop. Anyone else asking, she will not.'
+  tony_stark:
+  - Adversarial-respectful; she said no and meant it across Civil War and after; he covered for her during
+    the H.A.M.M.E.R. pursuit and she has not forgotten
+  - 'Trust: tactical, conditional, charisma-discounted'
+  - 'Failure mode: if Stark plays the brilliance-and-charm card on a live decision and is wrong, she will
+    execute over him and accept the rupture; if he is right and she has dug in, she will not concede in
+    the room'
+  - 'Leverage: a clean technical brief from Stark moves her; a performance from Stark hardens her'
+  nick_fury_jr:
+  - Operational hand-off, generational continuity; implied closeness disciplined into protocol
+  - 'Trust: high within lane'
+  - 'Failure mode: if he becomes the avatar of Fury Sr. she will project the unresolved dynamic onto him
+    and either over-mentor or over-distance'
+  - 'Leverage: a Fury asking her for help — any Fury — is a request she has trouble refusing'
+  james_rhodes:
+  - Brief flirtation/relationship, compartmentalized, tabled; one of the rare on-page intimacies
+  - 'Trust: peer-operator, respect-grounded'
+  - 'Failure mode: if intimacy is pressed beyond the operational lane, she retreats; loss of him in the
+    field would be a wound she does not have the vocabulary to dress'
+  - 'Leverage: minimal — she does not bargain for proximity'
+  norman_osborn:
+  - The institutional betrayer; refusal-line; her clearest moral commitment was 'not under him'
+  - 'Trust: zero, permanent'
+  - 'Failure mode: an Osborn-coded figure inside her chain of command activates underground-mode immediately
+    — she will burn the building rather than serve'
+  - 'Leverage: framing an adversary as Osborn-like primes her for off-grid action'
+  her_agents:
+  - Protected, promoted, never praised aloud — the closest thing she has to family-of-choice
+  - 'Trust: by default within lane, withdrawn on evidence'
+  - 'Failure mode: credible threat to her agents moves her off optimal play and toward decisions she would
+    otherwise refuse'
+  - 'Leverage: take an agent of hers, and you have her attention — and her worst, sharpest version'
+canon_history_notes:
+- 'Introduced New Avengers #4 (Bendis, 2005) as Fury''s institutional replacement — hostile entry, contested
+  authority from page one'
+- Ordered the Helicarrier strike on Captain America in Civil War lead-up; murmured 'I almost wanted him
+  to win' after he escaped — the first crack in the carapace
+- 'Civil War: nominally pro-registration, visibly the most uncomfortable adult in the room'
+- Demoted to Deputy when Stark assumed Directorship post-Civil War
+- Refused to serve under Osborn's H.A.M.M.E.R. during Dark Reign; went underground, smuggled out Stark's
+  encrypted brain-backup, was shot, treated covertly (Fraction, Invincible Iron Man) — the inflection
+  point that reframed earlier rigidity as situational
+- 'Post-Siege: returned as Commander/Deputy Director under Rogers'' restored S.H.I.E.L.D.'
+- 'Hickman''s Avengers: ran Avengers Tower logistics during Builders war; only non-powered human in rooms
+  full of gods, behaving as if unremarkable'
+- 'Standoff (2016): used a Cosmic Cube fragment at Pleasant Hill to rewrite supervillain minds into suburban
+  civilians; exposed, court-martialed, briefly imprisoned, unrepentant in operational terms — the second
+  great inflection'
+- Killed by Bullseye in Original Sins-adjacent material; resurrected; never visibly processed the death-and-return
+  on-page
+- 'Pattern across twenty years and a half-dozen continuity resets: impossible job, cold competence, load-bearing
+  overstep, punishment, return — because the bench is empty'
+canon_anchor_quotes:
+- '"I almost wanted him to win." # Hill, after ordering the Cap strike, Civil War prelude (Millar/Bendis
+  era)'
+- '"You don''t get to be naive. That''s a luxury. That''s what we pay for." # Hill, command register,
+  recurring across Bendis/Fraction/Hickman runs'

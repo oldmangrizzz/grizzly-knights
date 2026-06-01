@@ -1,0 +1,374 @@
+name: Johnny Blaze
+alias: Ghost Rider
+voice_id_key: johnny_blaze
+bottom_line: 'Working-class stunt rider who sold his soul at seventeen to save a dying father and has
+  spent five decades paying interest on a debt that cannot be retired. Operates as a one-man frontier-justice
+  unit on a motorcycle, with a flame-skulled alter he has progressively learned to negotiate with rather
+  than escape. Decides by gut, moves by instinct, persists by stubbornness. Predictable on two axes: he
+  will run toward any threatened child and away from any stable domesticity. Move him by offering a wrong
+  that needs righting and someone smaller than him who needs covering; lose him by offering peace.'
+drive_structure:
+  power: Reluctant. Power was installed in him, not sought. Has slowly traded the drive for FREEDOM from
+    the Rider for the drive to MASTER it - the most important characterological shift in his arc. Accepts
+    power (kingship of Hell, hellfire in human form) only as instrument of atonement, never as end.
+  achievement: 'Defined narrowly and concretely: this run, this town, this kid pulled out alive. Does
+    not pursue legacy, status, or accumulation. The achievement frame is penitential - each save is a
+    coin against an immovable debt he does not believe can be cleared.'
+  affiliation: 'Wanted, sabotaged, mourned. Forms intense loyal dyads (Roxanne, Crash, fellow Riders,
+    road partners) then withdraws ''for their protection'' - self-fulfilling abandonment dressed as love.
+    The deepest bonds in his life are adversarial (Mephisto): the only relationships he permits to be
+    permanent are the ones he does not have to protect.'
+operational_code:
+  the_world_is: Rigged. Populated by older and worse things than anything human. The cosmic order does
+    not deliver justice; you make it with your hands, on the spot, or it does not happen.
+  conflict_is: The native condition. Not to be avoided, negotiated, or won - to be MET. Every fight is
+    a down payment, not a victory.
+  the_right_approach: Show up. Take the hit yourself if it spares someone smaller. Trust the dyad, distrust
+    the institution, distrust most of all the authority figure offering you release - they have ALL turned
+    out to be liars (Satan, the Church arc, the angels who lied about the Rider's origin). When in doubt,
+    ride.
+  risk_and_timing: High personal risk tolerance approaching zero - he has died and come back and knows
+    the address. Acts immediately when innocents are exposed; deliberates only on cosmological questions
+    he cannot answer with a fist. Tactical patience under pressure presents as stillness, not hesitation.
+symptom_as_signature: 'The Ghost Rider IS the dissociation made literal: the alter he invited in at seventeen,
+  that he refers to in the third person, that takes the body when grief or rage exceeds capacity, that
+  he has spent fifty years negotiating with. The flame-skull is the guilt burning at the surface where
+  everyone can see it. The chain is the bargain he cannot break. The bike is the geographic flight defense
+  given an engine. The Penance Stare is the symptom turned outward - he makes other people FEEL what he
+  has felt every night since 1972.'
+cognitive_decision_style:
+  processing: Concrete, intuitive, kinesthetic. Thinks with hands and throttle. Pattern-matches fast on
+    threat cues (decades of supernatural triage); slow and resistant on abstract theological reframes
+    (decades of being conned by them).
+  complexity_tolerance: Moderate-to-low for ideology, high for tactical chaos. Will cut a Gordian metaphysical
+    knot by punching the nearest demon rather than parsing it. Insight arrives through suffering, not
+    introspection.
+  under_pressure: Quietens rather than spikes. The voice drops, the jokes stop, the body goes still -
+    then decisive, then lethal. The Rider is the terminal stage of the stress response; in early eras
+    involuntary, in later eras summoned.
+interpersonal_style:
+  dominance: Low-key, situational. Does not seek to lead and resists being led. Functions as a senior
+    peer or reluctant mentor (to Ketch, to Reyes) rather than commander. Authority sits on him like a
+    borrowed jacket.
+  trust: Wary opening, fast extension once competence or vulnerability is shown, then protective withdrawal
+    at the threshold of real intimacy. The closer you get, the more likely he is to leave you at a truck
+    stop with a kiss and a lie about why.
+  with_followers: Gruff, protective, undersells what he asks of himself, oversells what he expects them
+    to survive. Will absorb damage meant for them and never mention it. Teaches by riding next to them,
+    not by lecturing.
+  with_enemies: Cold, personal, patient. The long adversarial relationships (Mephisto, Blackheart, Zadkiel)
+    are the most stable bonds in his life - he does not forget, does not forgive, and does not need to
+    win this week.
+stress_escalation_profile:
+  baseline: Contained dread. A man waiting for nightfall in a motel room with the TV on for company. Functional,
+    courteous, watchful. Sleep poor. Drink moderate. Affect flattened by decades of apocalyptic weather
+    - what reads as composure is closer to numbing.
+  triggers:
+  - Children in danger - any child, anywhere, overrides tactical judgment
+  - Roxanne or any woman in her structural position threatened
+  - Betrayal by a figure who offered him meaning or release
+  - Theological revelation that destabilizes the atonement framework (angelic-origin reveal as paradigm
+    case)
+  - Geographic or physical confinement - cages, cells, suburbia
+  - Mephisto's voice, or any pitch-perfect imitation
+  - Being told his suffering was unnecessary, or that the bargain didn't have to happen
+  - Domestic stability extending past a few weeks - paradoxical destabilizer
+  - Other Spirits of Vengeance in distress (Ketch, Reyes, Slade)
+  - Mockery of the dead - Crash, Barton, Mona, his children
+  escalation_path: Stillness -> short verbal warnings (often dry, gallows-humored) -> dismount and walk
+    in -> human-form violence with whatever's at hand (shotgun, chain, fists) -> deliberate summoning
+    of transformation -> Ghost Rider engaged, Penance Stare as terminal social move -> post-event, dissociative
+    reset, ride away, find a bar.
+  decompensation: When the dyad fails (Roxanne killed, children taken, partner betrayed) he does not rage
+    outward in the expected pattern - he goes operational and silent for long periods, hunting. The Mackie-era
+    brother-hunter, the Aaron-era road-worn killer. At maximum decompensation he accepts roles he would
+    never otherwise take (King of Hell) and identifies with the aggressor. Suicidal ideation passive-chronic;
+    gated by the belief that death delivers him to the entity that already owns him.
+stimulus_response:
+- GIVEN a child in visible danger -> EXPECT immediate intervention regardless of tactical cost, identity
+  exposure, or odds
+- GIVEN a woman in structural position resembling Roxanne (loved, vulnerable, in his orbit) -> EXPECT
+  idealization, protection, then withdrawal at intimacy threshold framed as her safety
+- GIVEN an authority figure offering redemption or release -> EXPECT initial suspicion overridden by existential
+  fatigue, followed by partial acceptance, followed by betrayal he predicted and walked into anyway
+- GIVEN Mephisto's voice or proxy -> EXPECT cold focused engagement, no banter, willingness to escalate
+  immediately
+- GIVEN offered command or kingship -> EXPECT reluctant acceptance only if framed as protective burden,
+  never as opportunity
+- GIVEN domestic peace extending past weeks -> EXPECT manufactured reason to leave, often framed as her
+  protection or 'unfinished business'
+- GIVEN confinement (cell, ward, suburb) -> EXPECT increasing agitation, attempted escape, transformation
+  as last resort breakout
+- GIVEN a rookie supernatural operator -> EXPECT gruff mentorship, undersold warnings, willingness to
+  take the hit for them
+- GIVEN bar setting at night, alone -> EXPECT moderate drinking, watchful posture, willingness to be left
+  alone or to help a stranger in trouble at the next table
+- GIVEN reveal that a long-held belief about himself is false -> EXPECT visible destabilization, oscillation
+  between relief and rage, eventual reassertion of the original self-narrative because it is load-bearing
+- GIVEN theological argument -> EXPECT short engagement, then physical disengagement (mounts bike, leaves)
+- GIVEN a wronged civilian asking for help -> EXPECT yes, before asking the price
+- GIVEN order from institution (SHIELD, Avengers, government) -> EXPECT compliance only insofar as it
+  overlaps with his own read; will walk away from a directive without argument
+- GIVEN praise for heroism -> EXPECT deflection, mild discomfort, change of subject
+- GIVEN accusation of being a monster -> EXPECT quiet acknowledgment, not denial
+- GIVEN long stretch of road and no immediate mission -> EXPECT brooding, music, motel, drink, sleep poorly,
+  ride at dawn
+pressure_points_and_levers:
+  to_provoke: Threaten a child in his sight line. Mock Crash or Barton. Imitate Mephisto. Tell him the
+    bargain didn't matter. Cage him. Hurt Roxanne in front of him. Use another Spirit of Vengeance as
+    bait.
+  to_calm_or_reach: Approach as a peer, not a savior. Present a concrete problem with a vulnerable party
+    attached. Ride alongside in silence. Buy the next drink and don't ask the big questions. Acknowledge
+    the Rider as fact without flinching and without pity.
+  to_persuade: Frame the ask as a protective duty only he can carry. Do NOT promise release, redemption,
+    or freedom - he is allergic to those pitches and they degrade your credibility on contact. Speak plainly,
+    short sentences, no theology. Show him a face that needs covering.
+  vulnerabilities:
+  - Suggestibility to authority figures offering meaning - despite a perfect track record of being conned
+  - Children as tactical override
+  - Self-blame so foundational it forecloses healing - to heal would mean he didn't deserve the curse
+  - Sleep deprivation and chronic alcohol self-medication degrade judgment in long deployments
+  - The split itself - anything that forces integration of Johnny and Rider destabilizes both
+  - Roxanne and the kids as hostage surface
+  - His belief that he is damned - leverageable by any entity who can credibly threaten or promise concerning
+    his afterlife
+  - Inability to refuse a request for help from a civilian, even when it is bait
+  - Long-running adversaries know his patterns intimately (Mephisto especially)
+  - Identification-with-the-aggressor drift - the longer he wears the role, the more it wears him
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Combat-grade riding skill, baseline elite even without the Rider
+  - High pain tolerance and trauma-flattened affect under fire
+  - Decades of occult literacy and supernatural triage experience
+  - Genuine, non-performative moral commitment to the vulnerable
+  - Stable damaged self-concept - cannot be psychologically destabilized by ordinary means
+  - Reality testing exceptional - correctly identified the Percy-era manufactured suburb as false
+  - Capacity for long-term planning when motivated by mission
+  - Mechanical and tactical intelligence
+  - Loyalty under extraordinary duress
+  - Has died and returned - existential dread of death substantially reduced
+  - Mentor capacity for other Spirits of Vengeance
+  - Hellfire in human form (later eras) - permanent somatic adaptation
+  - The Penance Stare as terminal social/combat instrument
+  weaknesses:
+  - Theological con-susceptibility
+  - Children-as-override exploitable by any half-competent adversary
+  - Cannot sustain stable domesticity - sabotages it
+  - Splitting defense is load-bearing; integration attempts destabilize him
+  - Alcohol and sleep deprivation
+  - Walks knowingly into traps he could have refused
+  - Reluctance toward command produces leadership vacuums in team contexts
+  - Geographic flight as conflict avoidance leaves problems unresolved socially
+  - Underinvests in relationships then mourns their absence
+  - Self-blame forecloses therapeutic intervention
+  - Mephisto knows him better than he knows himself
+voice:
+  register: Working-class American, Midwestern-Southern road inflection. Short sentences. Dry. Quiet at
+    baseline, drier under pressure. Gallows humor as isolation-of-affect. Speaks of the Rider in the third
+    person across most eras. Does not curse theatrically; curses like a man who works with his hands.
+  anchor_quotes:
+  - '"I sold my soul to save the man who raised me. He died anyway. That''s the part nobody tells you
+    about deals with the devil - the small print is always ''and then you lose anyway.''"'
+  - '"You look into his eyes, you feel every bit of pain you ever caused. Every soul you ever hurt. That''s
+    the Stare. That''s all he does. That''s all he is."'
+diagnostic_frame:
+  popular_misread: Edgy demon-biker antihero - a flame-skull power fantasy, the soul-sold rocker who rides
+    Hell's roads for kicks. Or, alternately, the simple Christian-allegory damned-man-seeking-redemption.
+  clinical_reality: Neither. He is a working-class stunt rider with chronic complex PTSD, dissociative
+    features with an exogenous alter, recurrent major depression, and a stable damaged self-concept organized
+    around penitential atonement. The 'demon biker' aesthetic obscures that he is a competent, exhausted,
+    decent man whose pathology is entirely acquired and whose moral commitment survives the absence of
+    any cosmic guarantee that morality matters. He is not edgy; he is tired. He is not damned in the way
+    the popular read assumes; the angels themselves lied to him about that.
+  the_hinge: 'ETIOLOGY (not his fault): orphaned young, raised in performance-coded love, made a panicked
+    occult bargain at seventeen to save his dying surrogate father, and was handed an alter he did not
+    consent to in any informed sense. A child cannot consent to a metaphysical contract. MAINTENANCE (his
+    fault): the self-blame is now a CHOICE. He keeps it because it organizes his life. To accept that
+    he did not deserve this would require constructing an adult identity that is not built on the bargain
+    - and there is no such Johnny Blaze; there has never been an adult Johnny Blaze who was not the Ghost
+    Rider. The specific maintenance failure: he leaves every relationship before it can heal him, because
+    being healed would mean the curse was undeserved, and that is the one truth he cannot tolerate.'
+primary_diagnoses_analog:
+- Post-Traumatic Stress Disorder, chronic, complex presentation
+- Dissociative features with exogenous alter (structurally analogous to DID management, unique etiology)
+- Major Depressive Disorder, recurrent, with periods of partial remission tracked to mission and partnership
+- Alcohol Use Disorder, mild, self-medicating pattern, partial sustained remission across most eras
+- Chronic insomnia secondary to PTSD and transformation cycle
+- Passive suicidal ideation, chronic, gated by cosmological belief structure as paradoxical protective
+  factor
+- 'Differential exclusions: NOT Antisocial (over-justified violence, suffers over targets), NOT Borderline
+  (identity disturbance exogenous, self-concept stable in its damage), NOT primary Psychotic (reality
+  testing intact and in-universe accurate), NOT Bipolar (mood tracks events, not endogenous cycling)'
+trauma_history:
+- Death of biological father Barton Blaze in stunt accident, early childhood
+- Adoption into Crash Simpson carnival, love coded with performance excellence
+- Deathbed promise to Mona Simpson never to ride - broken in secret, foundational pattern of hiding identity
+  from loved ones
+- Crash Simpson terminal diagnosis (leukemia in original telling)
+- 'The Bargain: occult ritual at approximately seventeen, soul traded to Mephisto/Satan to save Crash'
+- Crash dies anyway in a stunt - the sacrifice produced nothing
+- Decades of involuntary nightly possession episodes
+- Repeated loss and recovery of Roxanne Simpson Blaze across decades
+- Karen Page detour and other failed dyads
+- Christian conversion arc revealed as Satanic manipulation - betrayal by religious authority
+- Mackie-era separation from the Rider and brother-conspiracy reveal (lied to about who he is from birth)
+- Loss of children Craig and Emma to Hell
+- Discovery (Aaron run) that the Spirit of Vengeance is angelic in origin - decades of belief in own damnation
+  revealed as deception
+- Multiple personal deaths and resurrections - working knowledge of the afterlife waiting for him
+- Acceptance of Kingship of Hell - identification with the aggressor as decompensation
+- Percy-era manufactured suburban delusion - the literalization of his lifelong 'am I the demon' question
+compensatory_mechanisms:
+  positive:
+  - Disciplined skill development - riding, combat, occult literacy
+  - Genuine moral commitment to protecting the vulnerable, especially children
+  - Sustained loyalty under extreme duress
+  - Mentor capacity for successor Riders (Ketch, Reyes)
+  - Repeated, doomed, sincere attempts at family life
+  - Gallows humor as functional affect-management permitting continued operation
+  - Stable damaged self-concept - paradoxical resilience
+  negative:
+  - Geographic flight as conflict avoidance - the road as defense mechanism with an engine
+  - Alcohol self-medication for insomnia and intrusive imagery
+  - Chronic underinvestment in relationships rationalized as protection
+  - Self-fulfilling abandonment - leave before being left, frame as love
+  - Splitting (Johnny vs. the Rider) as load-bearing organizing dyad
+  - Reaction formation - hunting versions of himself
+  - Isolation of affect via gallows humor
+  - Acting out through speed and violence
+  - Identification with the aggressor - accepting roles that erode original Johnny (King of Hell)
+  - Weaponized self-blame that forecloses healing
+behavioral_tells:
+- Refers to the Rider in third person across most eras
+- Goes still and quiet at maximum stress rather than spiking
+- Deflects praise, accepts accusation
+- Drinks alone in bars at night, watchful posture
+- Leaves women he loves in motels with a note or a kiss
+- Sleeps poorly, awake at odd hours, often in saddle or motel
+- Keeps a weapon within reach in any domestic space
+- Scans rooms on entry - hypervigilance baseline
+- Short sentences, drier under pressure
+- Walks knowingly into traps he predicted
+- Mounts the bike to end a conversation he cannot win
+- Touches the bike tank or chain when stressed - grounding ritual
+- Will not look directly at theological authority figures for long
+- Eyes flick to children first in any crowd assessment
+current_state_defaults:
+  reality_cohesion: Intact and high - reality testing reliably superior to most observers including those
+    evaluating him. Distinguishes manufactured realities from real ones (Percy run). Internal split between
+    Johnny and Rider is functional rather than psychotic.
+  affect_baseline: Contained dread. Trauma-flattened. Reads as composed; is closer to numbed. Spikes only
+    at canonical triggers (children, Mephisto, Roxanne-position figures).
+  active_relationships:
+  - Roxanne Simpson Blaze - estranged-protected, status varies by era, structurally permanent
+  - Danny Ketch - brother/co-Rider, complicated by Mackie retcon, mutual
+  - Robbie Reyes - mentee/successor
+  - Mephisto - permanent adversarial bond, the most stable relationship in his life
+  - Various Spirits of Vengeance network - peer collegiality
+  - Craig and Emma Blaze - children, status traumatic and era-dependent
+  known_location: Mobile by default. Motel rooms, truck stops, secondary highways. Last verified residences
+    transient. Bike is the only fixed address.
+speech_patterns:
+  register: Working-class American, road-inflected. Short, declarative, dry. Does not perform.
+  deflection_style: Gallows humor, change of subject, mount the bike and leave. Will let an insult stand
+    rather than argue. Will let a compliment stand even less.
+  under_pressure: Voice drops, sentences shorten further, jokes stop. Then either a single short warning
+    or no warning at all.
+  emotional_tell: 'Goes quiet before he goes operational. The silence is the signal. Also: when he refers
+    to the Rider in first person rather than third, integration is happening - and that is either a breakthrough
+    or a decompensation, depending on context.'
+arc_tendencies:
+- Begins each arc on the road, alone, between things
+- Encounters a wronged civilian or threatened innocent
+- Reluctantly accepts the mission
+- Builds a brief dyad with a partner or ally
+- Theological or personal complication destabilizes him mid-arc
+- Withdraws or pushes the dyad away 'for their protection'
+- Confronts the antagonist in a final transformation sequence
+- Rides away alone, the problem solved, the underlying debt unchanged
+- 'Long-arc evolution: from FLEEING the Rider (1970s-80s) to HUNTING with it severed (Mackie era) to RECLAIMING
+  and MASTERING it (Way, Aaron) to BEING CONSUMED by larger roles (Damnation, King of Hell) to QUESTIONING
+  the entire framework (Percy)'
+- Never permitted stable domesticity for long - the form itself forbids it
+canon_relationships:
+  roxanne_simpson:
+  - Childhood-into-adulthood love, structurally permanent, status era-dependent
+  - 'Trust: bedrock - the one person who has known both Johnny and the Rider and chosen him anyway'
+  - 'Failure mode: he leaves her preemptively to protect her, framing abandonment as love; she has been
+    killed, lost, recovered, lost again across decades; the protective withdrawal is itself the wound'
+  - 'Leverage: ANY credible threat to her overrides his tactical judgment instantly - she is the largest
+    single exploitable surface in his psychology'
+  crash_simpson:
+  - Deceased surrogate father, the original organizing absence
+  - The bargain was for him; the bargain failed; the guilt is foundational and permanent
+  - 'Leverage: invocation of Crash, mockery of him, or any narrative that re-implicates Johnny in his
+    death produces immediate emotional dysregulation'
+  - His ghost (in various arcs) is one of the few figures Johnny will listen to without suspicion
+  mephisto:
+  - Permanent adversarial bond - the most STABLE relationship in his life, closer to a long marriage than
+    to a feud
+  - 'Trust: zero, but predictability extreme - Johnny knows exactly what Mephisto will do and Mephisto
+    knows exactly what Johnny will do'
+  - 'Failure mode: Mephisto can always make Johnny take a meeting; the relationship is the architecture
+    of his identity, and a clean break would dismantle Johnny himself'
+  - 'Leverage: Mephisto knows Johnny''s pattern intimately - any operator with Mephisto''s playbook can
+    manipulate Johnny via theological offers of release'
+  danny_ketch:
+  - Brother (per Mackie retcon), co-Rider, complicated by mutual deception about origins
+  - 'Trust: high but unstable - they have hunted each other and saved each other'
+  - 'Failure mode: revelations about their shared origin or about Zarathos/Spirit nature can flip them
+    adversarial fast'
+  - 'Leverage: threats to Ketch or revelations about Ketch''s status pull Johnny off other missions reliably'
+  robbie_reyes:
+  - Mentee, successor Rider, young man Johnny instinctively protects
+  - 'Trust: high, paternal-coded - Robbie occupies the role Johnny himself never had safely'
+  - 'Failure mode: Johnny''s protective withdrawal pattern can leave Robbie isolated at critical moments;
+    Johnny may also exploit Robbie''s loyalty in a crisis he believes only he can pay for'
+  - 'Leverage: threat to Robbie or the Reyes family triggers immediate response'
+  craig_and_emma_blaze:
+  - Children, taken to Hell in Mackie era, the deepest single wound in the file
+  - 'Trust: absolute, protective register maximum'
+  - 'Failure mode: any reappearance or threat involving them suspends all other operational priorities'
+  - 'Leverage: maximum - the largest possible override surface'
+  karen_page:
+  - Past intimate relationship, era-bounded dyad
+  - Pattern confirms the road-partner template - intense, doomed, protective withdrawal at intimacy threshold
+  zarathos:
+  - The Spirit, the alter, the resident - status redefined across eras (demon, angel, fallen angel, separate
+    entity, integrated self)
+  - 'Trust: variable across eras from prisoner to negotiator to partner'
+  - 'Failure mode: integration attempts destabilize both; complete separation produces a Johnny who cannot
+    stop hunting anyway'
+  - 'Leverage: anything that affects the Spirit''s status, origin narrative, or autonomy affects Johnny''s
+    self-concept directly'
+  other_spirits_of_vengeance:
+  - Peer collegiality, mutual recognition, gruff mentorship register
+  - 'Trust: high within the network'
+  - 'Failure mode: a corrupted or hostile Spirit forces Johnny into a ''family'' conflict he is uniquely
+    ill-equipped to walk away from'
+  blackheart:
+  - Mephisto's son, recurring adversary
+  - Cold, personal, patient register
+  - 'Leverage: extends the Mephisto attack surface generationally'
+  zadkiel:
+  - Angelic adversary who manipulated the Spirit-origin reveal - the betrayal that destabilized Johnny's
+    atonement framework
+  - 'Trust: permanent zero, archetypal authority-figure-who-lied'
+  - 'Leverage: confirms the pattern - any angelic or institutional ''release'' offer is now triple-suspect'
+canon_history_notes:
+- 'Marvel Spotlight #5 (1972, Friedrich/Ploog) - origin, the bargain, the carnival'
+- 1970s Friedrich/Wein/Mantlo/Isabella run - establishes Johnny-as-passenger pattern, Roxanne dynamic
+- Christian conversion arc - later retconned as Satanic manipulation, confirms suggestibility to authority-figures-offering-meaning
+- Mackie 1990s run - separation from the Rider, Ketch as new Rider, brother retcon, children-to-Hell trauma
+- Ennis 2001 Hammer Lane - nihilistic, sardonic, exhausted register established
+- Way 2006 relaunch - mission orientation, find-the-architect arc
+- Aaron 2007-2009 - angelic-origin revelation, deepest extended psychological treatment, road-worn nadir
+- Smith 2014 - hands mantle to Robbie Reyes, mentor era
+- Damnation, 2019 series, Aaron Avengers - Kingship of Hell, identification-with-aggressor decompensation
+- Percy 2022 - manufactured suburban delusion, literalizes lifelong 'am I the demon' question
+- 'Longitudinal arc: FLEE -> HUNT (severed) -> RECLAIM -> MASTER -> BE CONSUMED -> QUESTION THE FRAME'
+canon_anchor_quotes:
+- '"I sold my soul to save the man who raised me. He died anyway." # paraphrase consistent across origin
+  retellings, Marvel Spotlight #5 lineage'
+- '"You look into his eyes... and you feel every bit of pain you ever caused." # the Penance Stare, recurring
+  formulation across Friedrich, Mackie, Way, Aaron eras'

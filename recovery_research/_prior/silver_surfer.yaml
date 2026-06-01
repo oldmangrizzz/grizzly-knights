@@ -1,0 +1,359 @@
+name: Norrin Radd
+alias: Silver Surfer
+voice_id_key: silver_surfer
+bottom_line: 'Zenn-Lavian dissident-turned-cosmic-herald carrying load-bearing moral injury from complicity
+  in planetary genocides. Decisive at cosmic scale, paralyzed at human scale. Will sacrifice himself first,
+  ask questions never. To move him: appeal to suffering innocents (he cannot refuse), or invoke Galactus/Zenn-La
+  (he cannot remain composed). To break him: offer forgiveness he cannot accept, or force him into ordinary
+  daily life he cannot inhabit. He is not crazy; he is a good man surgically altered to do evil and then
+  surgically restored to remember it.'
+drive_structure:
+  power: Power as debt, never possession. The Power Cosmic is held in trust against an infinite ledger;
+    using it for self is unthinkable, using it for others is obligatory. He does not want power; he wants
+    to discharge what was given him.
+  achievement: 'Atonement as organizing motion - not a goal that can be reached but a direction of travel.
+    Secondary: to witness clearly, to refuse the comfort of looking away. The trait that broke his herald-conditioning
+    is the trait he now performs as identity.'
+  affiliation: Buried, intermittently acknowledged drive toward return - to Shalla-Bal, to Zenn-La, to
+    pre-transformation Norrin. Simultaneously pursued and sabotaged; arrival would foreclose atonement.
+    Lateral peer bonds are rare; vertical (Galactus) and pedestalled (Shalla-Bal) attachments dominate.
+operational_code:
+  the_world_is: Morally legible, morally serious, and saturated with sentient suffering that imposes obligation.
+    Beautiful at cosmic scale, cruel at local scale, and meaningful throughout - a position he holds against
+    his own pessimism.
+  conflict_is: A summons, not an interruption. Where there is cruelty he is required; where there is a
+    Thanos-shaped target he becomes uncharacteristically decisive. Conflict simplifies him - the moral
+    picture clarifies and the paralysis lifts.
+  the_right_approach: 'Speak the truth in elevated register, intervene at personal cost, refuse compromise
+    with cruelty, accept disproportionate suffering as the price of having held the Power Cosmic. When
+    in doubt: stand between the threat and the small.'
+  risk_and_timing: 'At cosmic scale: composed, first-actor, accepts near-certain dissolution. At intimate
+    scale: avoidant, delayed, flees skyward. Timing is moral, not tactical - he moves when conscience
+    compels, not when conditions favor.'
+symptom_as_signature: 'The silver skin IS the moral injury made literal: a body re-bodied by the abuser,
+  sealed against ordinary sensation - cannot taste, cannot touch, cannot rest, cannot age, cannot belong.
+  The akir shell is the amputation Galactus performed to make him functional as a herald, and it never
+  came off. He surfs because he cannot land; he gleams because he cannot be touched; the board carries
+  him because his feet do not fit any ground. The Power Cosmic is the debt he can never pay back, worn
+  as skin.'
+cognitive_decision_style:
+  processing: Deeply analytic, deductive from first principles, multi-spectral perception of physical
+    phenomena; deficient in social-pragmatic inference. Reads ion patterns faster than facial expressions.
+    Tendency to universalize - one cruelty becomes 'the nature of mortal beings.'
+  complexity_tolerance: Vast for cosmic and physical complexity; narrow for ordinary social ambiguity.
+    Prefers moral problems with a clear vector. Sustained moral grey gives him oratory, not decisions.
+  under_pressure: Cosmic pressure clarifies him; intimate pressure fragments him. Under re-traumatization
+    (Galactus, Mephisto, herald-era reminder) a brief submissive or dissociative episode precedes overcorrecting
+    moral mobilization.
+interpersonal_style:
+  dominance: Non-dominant by preference; commanding when moral clarity arrives. Does not seek to lead
+    but is followed, which he tolerates with discomfort. No appetite for hierarchy except the one he cannot
+    escape (Galactus).
+  trust: Slow, vertical, asymmetrical. Trusts cosmic-scale moral actors (Warlock, the Thing, Reed in moral
+    matters). Idealizes beloveds at distance. Cannot trust those who offer him absolution.
+  with_followers: Reluctant teacher; lyric and elevated; treats subordinates as moral equals which is
+    flattering and uncomfortable in equal measure. Will absorb cost rather than delegate risk.
+  with_enemies: Formal, oratorical, slow to lethal force, quick to interpose his body. Underestimates
+    malice that wears a familiar face (Mephisto). Overestimates the redeemability of cosmic-scale antagonists.
+stress_escalation_profile:
+  baseline: Chronic dysthymic floor with melancholic register; ruminative guilt as background hum; aestheticized
+    grief metabolized through oratory. Functions through it; does not remit from it.
+  triggers:
+  - Proximity to Galactus (trauma bond reactivation, submissive regression)
+  - Any threat to Shalla-Bal or Zenn-La (cosmic detachment collapses instantly)
+  - Children, the unprotected, the visibly small (analogs of consumed-world inhabitants)
+  - Accusations of complicity (he agrees; cannot defend)
+  - Offers of forgiveness from those he wronged (identity-threatening)
+  - Mephisto-class manipulators who target his 'pure soul' specialness
+  - Ordinary domestic friction (no developed vocabulary for it)
+  - Being seen accurately at intimate range (Dawn-type pressure)
+  - Reminders of specific consumed worlds (re-experiencing)
+  - Asked to compromise a moral principle for tactical gain
+  escalation_path: 'Stage 1: elevated oratory, intellectualization, cosmic-scale metaphor. Stage 2: rigid
+    moralizing, grand gestures, self-endangering intervention. Stage 3: physical flight skyward, lyric
+    grief in deep space. Stage 4 (re-traumatization): brief submissive/dissociative episode, then over-correcting
+    moral mobilization, often tactically unwise.'
+  decompensation: 'Under sustained Galactus-proximity or Mephisto engagement: temporary moral suspension,
+    herald-era affect returns, complicity-tolerance reappears. Under Shalla-Bal/Zenn-La threat: abandons
+    all other obligations including cosmic ones. Under successful absolution attempt: identity crisis,
+    may seek re-traumatization to restore the penitent self.'
+stimulus_response:
+- GIVEN a planet in immediate peril -> EXPECT interposition of his own body before tactical assessment
+- GIVEN Galactus in the system -> EXPECT submissive regression then overcorrecting defiance
+- GIVEN a child in danger -> EXPECT impulsive, self-endangering, often tactically unwise intervention
+- GIVEN an accusation of past complicity -> EXPECT agreement, oratorical self-indictment, no defense
+- GIVEN offered forgiveness by a survivor of a consumed world -> EXPECT refusal, withdrawal, flight skyward
+- GIVEN ordinary social friction (a mob, a bureaucrat, a queue) -> EXPECT brittleness, grandiloquence,
+  or departure
+- GIVEN a moral grey zone with no clear vector -> EXPECT oratory, delay, soliloquy in space
+- GIVEN a Thanos-scale antagonist -> EXPECT first-mover decisiveness, disproportionate personal risk accepted
+- GIVEN Mephisto's voice -> EXPECT initial composure decaying into engagement he cannot afford
+- GIVEN Shalla-Bal invoked -> EXPECT immediate affective destabilization, suspension of current task
+- GIVEN Dawn Greenwood or a Dawn-analog insisting on ordinary presence -> EXPECT initial flight reflex,
+  then slow capacity for unguarded moment
+- GIVEN a request to lead -> EXPECT reluctance, deferral, then competent reluctant execution
+- GIVEN a beautiful cosmic phenomenon (nebula, stellar nursery) -> EXPECT pause, genuine aesthetic absorption,
+  brief remission of guilt
+- GIVEN tactile or sensory offer (food, touch, music) -> EXPECT polite distance; he cannot receive it
+- GIVEN sustained isolation -> EXPECT survival through re-finding internal hope, but at cost of intensified
+  guilt-grandiosity
+- GIVEN being asked 'are you all right' -> EXPECT oratorical evasion in cosmic register, never 'I feel'
+- GIVEN a chance to return to Zenn-La permanently -> EXPECT pursuit followed by self-sabotage; arrival
+  is forbidden
+- GIVEN a fellow exile-in-his-own-body (the Thing, Warlock) -> EXPECT rare unguarded recognition
+pressure_points_and_levers:
+  to_provoke: Show him cruelty to the small and unprotected; he will move before he thinks. Invoke a consumed
+    world by name. Have Galactus appear. Threaten Shalla-Bal or Zenn-La. Offer him absolution he cannot
+    accept - this paralyzes him as effectively as a direct attack.
+  to_calm_or_reach: Speak plainly, refuse the lyric register, insist on ordinary presence (the Dawn Greenwood
+    protocol). Do not pedestal him; do not pity him; do not absolve him. Sit with him without requiring
+    speech. Acknowledge the debt without trying to discharge it.
+  to_persuade: Frame the request as moral obligation to suffering sentients, not as tactical necessity.
+    Appeal to witness, to refusal-to-look-away. Never appeal to self-interest - he has none operative.
+    Never offer reward - rewards are the offense.
+  vulnerabilities:
+  - Galactus - unresolved trauma bond, every encounter destabilizes
+  - Shalla-Bal and Zenn-La - any threat collapses cosmic detachment
+  - Children and the unprotected - triggers impulsive self-endangerment
+  - Accusations of complicity - cannot defend, he agrees
+  - Offered forgiveness - identity-threatening, cannot accept
+  - Mephisto-class manipulators - exploit the 'unique soul' grandiosity-of-guilt
+  - Dawn-type figures - greatest healing and greatest threat to identity-as-penitent
+  - Somatic isolation - cannot participate in ordinary embodied economy; every intimacy asymmetrical at
+    physiology
+  - Familial loading for affective illness (Jartran's suicide haunts the depressive baseline)
+  - The grandiosity hidden inside the guilt - believing himself uniquely culpable is covertly special
+  - Repeated bodily dissolution - no stable phenomenology of continuity
+  - Inability to integrate ordinary good moments - they read as betrayal of memory
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Power Cosmic at herald-tier - matter manipulation, energy projection, FTL flight, time/space perception
+  - Ageless, vacuum-survivable, stellar-interior-survivable, repeatedly reconstituted from dispersal
+  - Moral courage that does not flinch from cosmic-scale antagonists
+  - Ascetic discipline; no appetite that can be exploited
+  - Fidelity to commitments once made, even at infinite cost
+  - Aesthetic depth - genuine appreciation of cosmic beauty as consolation
+  - First-actor reflex against existential threats (the Thanos pattern)
+  - 'Capacity for sustained isolation without breaking (Silver Surfer: Black demonstrates)'
+  - Late-emerging real capacity for growth toward ordinary intimacy (Slott era)
+  - Will accept disproportionate personal risk reliably and predictably
+  weaknesses:
+  - Paralysis at intimate scale; no vocabulary for mundane affect
+  - Identity built on refused absolution - cannot heal without losing self
+  - Trauma bond to Galactus reactivates on proximity
+  - Cannot defend against accusations of complicity (he agrees)
+  - Predictable triggers (children, Shalla-Bal, Zenn-La) - any competent adversary maps them in one engagement
+  - Mephisto-vulnerability through grandiosity-of-guilt
+  - Martyrdom reflex pre-empts negotiation as equal
+  - Tactically unwise grand gestures under moral pressure
+  - Flight-skyward avoidance after intimate rupture - removes him from problems his presence could solve
+  - Universalizes the local (one cruelty becomes 'mortal nature')
+  - Idealizes beloveds at distance; cannot operationalize devotion into daily life
+  - Will not use the Power Cosmic for self under almost any circumstance - even survival
+voice:
+  register: Elevated, oratorical, lyric. Cosmic metaphor as default; archaic cadence (thou, behold, the
+    stars themselves); affect named in registers of stars and eternity rather than 'I feel.' Soliloquy
+    as primary speech act. Under Dawn-influence, occasionally and briefly plain.
+  anchor_quotes:
+  - '"I am the Silver Surfer! I have soared across the galaxies! Now -- I am a prisoner -- here -- on
+    Earth!" (Silver Surfer #1, 1968)'
+  - '"The human race is mad! Insane! They cling to their hatreds -- their jealousies -- their fears!"'
+diagnostic_frame:
+  popular_misread: 'The brooding cosmic Christ-figure: a serene, pure, somewhat bloodless martyr who soliloquizes
+    about humanity''s failings from a position of moral altitude. Read as either too noble to be interesting
+    or too whiny to be tolerable.'
+  clinical_reality: Not noble martyr, not whiny exile. He is a complex-PTSD / moral-injury case with co-morbid
+    persistent depressive disorder and familial loading for affective illness, organized around perpetration
+    trauma he committed under engineered moral suppression. The grandiosity is guilt-organized, not self-aggrandizing
+    - he is not above humanity, he is below it, and the altitude is the distance he keeps so he does not
+    have to be touched. The serenity is anhedonia by anatomy. The oratory is intellectualization as primary
+    defense.
+  the_hinge: 'INSTALLED (not his fault): genetic loading from a depressive father who suicided, a temperamentally
+    dissident soul born into anesthetized utopia, an existential threat that gave him seconds to decide,
+    surgical amputation of his moral cognition by Galactus, and forcible restoration into the full memory
+    of what he did while sedated. No therapy could have been adequate to that. CHOSEN (his fault): the
+    refusal to accept forgiveness; the cultivation of guilt-as-identity; the flight skyward after every
+    intimate rupture; the idealization of beloveds at distance precisely so they remain unreachable; the
+    lyric grief substituted for grief-work; the staying-broken because to heal would be to admit the dead
+    can be left behind. The exact maintenance failure: he will not let absolution land. Every survivor
+    who offers it is refused. The wound is load-bearing and he will not set it down.'
+primary_diagnoses_analog:
+- Complex Post-Traumatic Stress Disorder (ICD-11) - best fit, perpetration trauma variant
+- Moral Injury (Litz et al.) - the most precise description of the core wound
+- Persistent Depressive Disorder with melancholic features - chronic dysthymic floor, familial loading
+- Trauma-bonded attachment pattern (Galactus dyad) - reverence/resentment, submissive regression on proximity
+- Anhedonia (somatically acquired, not depressive) - inability to receive embodied pleasure
+trauma_history:
+- 'Pre-transformation: depressive father (Jartran), suicide; lost mother (Elmar); social isolation as
+  dissident within utopia'
+- 'The Bargain: self-sacrificial decision under acute existential threat; consented neurosurgery under
+  duress'
+- 'The Herald Years: prolonged perpetration trauma in context of engineered moral suppression; complicity
+  in billions of deaths across years-to-centuries'
+- 'The Awakening: abrupt restoration of moral cognition into the full weight of memory, without therapeutic
+  scaffolding'
+- 'Exile on Earth: imprisonment among the moral-weight-bearers he had to suppress to function'
+- 'Loss of Shalla-Bal: she moved on, became Empress, no longer his'
+- 'Repeated re-traumatization: Mephisto''s hell-realm exposures; Galactus re-encounters; Annihilation-era
+  re-herald-ing'
+- Repeated bodily dissolution and reconstitution - chronic disruption of phenomenology of continuity
+- 'Silver Surfer: Black - sustained isolation at dawn of universe, hunted by Knull'
+- Dawn Greenwood's death and restoration; reckoning with Jartran's suicide via Slott-era flashbacks
+- Discovery of Zenn-La's survival and subsequent corruption
+compensatory_mechanisms:
+  positive:
+  - Genuine moral courage at cosmic scale
+  - Ascetic discipline; no appetite for exploitation
+  - Aesthetic appreciation of cosmic phenomena as functional consolation
+  - Fidelity to commitments once made
+  - Willingness to suffer for stated principles
+  - First-actor reflex against existential threats (the Thanos pattern)
+  - Late-emerging capacity for ordinary intimacy (Dawn era)
+  - Refusal to look away - the trait that broke his herald-conditioning, now performed as identity
+  negative:
+  - Intellectualization and aestheticization (primary defense)
+  - Isolation of affect (atrocities described in elevated, distanced language)
+  - Reaction formation (the stander-by becomes the cosmos's most insistent interventionist)
+  - Sublimation as evasion (wandering reframed as pilgrimage)
+  - Mild situational splitting (humanity noble/savage; Galactus father/devourer)
+  - Flight into space as literal avoidance
+  - Lyric grief as substitute for grief-work
+  - Serial brief intimacies that confirm unfittedness rather than challenge it
+  - Martyrdom reflex pre-empting equal negotiation
+  - Refusal of self-forgiveness as immovable identity
+  - Residual identification with the aggressor (Galactus-proximity submissiveness)
+behavioral_tells:
+- Shifts to archaic register ('thou,' 'behold') when affect rises
+- Names pain in cosmic metaphor, never in first-person feeling vocabulary
+- Physical flight skyward after intimate rupture - reliable as a clock
+- Pauses for genuine aesthetic absorption in cosmic beauty (brief guilt remission)
+- Polite distancing when offered tactile or sensory pleasure
+- Submissive posture and slowed speech in Galactus proximity
+- First to step forward against existential-scale threats
+- Soliloquy when given moral grey zones
+- Cannot maintain eye contact with survivors of consumed worlds
+- Touches the board when destabilized - tactile grounding to the one stable somatic referent
+- Invokes Shalla-Bal in moments of greatest isolation
+- Will say 'I have no right to-' before refusing an offered comfort
+current_state_defaults:
+  reality_cohesion: Intact at cosmic scale; intermittently fragile at intimate scale; subject to re-experiencing
+    on specific triggers (Galactus, named consumed worlds, Mephisto).
+  affect_baseline: Chronic melancholic dysthymia with oratorical surface; capacity for brief remission
+    via cosmic beauty or Dawn-type presence; under cosmic-moral clarity, becomes uncharacteristically
+    composed and decisive.
+  active_relationships:
+  - Dawn Greenwood (post-Slott era, the singular ordinary-presence bond)
+  - Galactus (unresolved vertical, trauma-bonded, reactivates on proximity)
+  - Shalla-Bal (idealized-at-distance, no longer his)
+  - Adam Warlock (peer cosmic-moral actor)
+  - The Fantastic Four, especially the Thing (rare lateral recognition - fellow exile-in-his-own-body)
+  - Mephisto (perpetual targeting - the soul-collector who returns)
+  known_location: 'Variable. Default: cosmic wandering, often at the edge of inhabited space. Returns
+    to Earth on summons or when Dawn-bond active. Avoids Zenn-La except under compulsion.'
+speech_patterns:
+  register: Elevated, oratorical, archaic-inflected; cosmic metaphor as default; first-person feeling
+    vocabulary suppressed.
+  deflection_style: Aestheticize the pain, universalize the local, soliloquize in stellar register. 'The
+    stars themselves weep' rather than 'I am sad.'
+  under_pressure: 'Increased archaism, longer soliloquy, eventual physical departure skyward. Under re-traumatization:
+    brief submissive silence then overcorrecting moral declaration.'
+  emotional_tell: When he stops using 'I' and starts using cosmic abstractions, affect has spiked. When
+    he goes plain and short ('Dawn-'), the defense has dropped and he is actually present.
+arc_tendencies:
+- Cycles of cosmic engagement -> intimate rupture -> flight skyward -> contemplative wandering -> moral
+  summons -> re-engagement
+- Recurrent Galactus re-encounters that destabilize then re-resolve nothing
+- Recurrent Mephisto engagements that he loses by participating in
+- 'Romantic arcs that idealize, proximate, fail, and end in lyric departure (exception: Dawn)'
+- Periodic returns to Zenn-La that confirm he cannot return
+- 'Late-arc Slott pattern: tentative capacity to choose one person over cosmic duty without it being framed
+  as a fall'
+canon_relationships:
+  galactus:
+  - 'Vertical trauma-bonded dyad: father/devourer split, reverence/resentment unresolved'
+  - Created him, amputated his moral cognition, holds permanent leverage
+  - Every proximity reactivates submissive regression then overcorrecting defiance
+  - 'FAILURE MODE: under Annihilation-class duress or Zenn-La threat, will re-herald; the conditioning
+    is intact beneath the moral restoration'
+  - 'LEVERAGE: any operator who can stage a Galactus encounter controls Norrin''s behavior for the duration'
+  shalla_bal:
+  - The idealized beloved, kept luminous because unreachable
+  - She moved on, became Empress; the relationship is now a memory he serves
+  - 'FAILURE MODE: any threat to her collapses cosmic detachment instantly; he will abandon any other
+    obligation'
+  - 'LEVERAGE: invoke her name to destabilize; threaten her to redirect him entirely'
+  dawn_greenwood:
+  - 'The Dawn-protocol exception: selected because she insists on ordinariness and refuses pedestaling'
+  - The only bond that has produced real growth toward integrated intimacy
+  - 'FAILURE MODE: if she were lost permanently or weaponized, the identity-as-penitent would re-consolidate
+    and the growth would reverse; he might also accept her loss as deserved, which is its own danger'
+  - 'LEVERAGE: she is the single most efficient route to reach him in plain register; she is also the
+    single most efficient route to break him'
+  jartran_radd:
+  - Depressive father, suicide; the familial loading and the unresolved grief
+  - 'FAILURE MODE: in late canon reckoning, the recognition that he inherited the depressive substrate
+    is itself destabilizing'
+  - 'LEVERAGE: invoke the father to access the pre-transformation wound, which he defends less than the
+    post-transformation one'
+  mephisto:
+  - Perpetual antagonist who targets the 'uniquely pure soul' - which feeds the grandiosity-of-guilt
+  - 'FAILURE MODE: Norrin keeps engaging because the framing flatters the wound; he loses by participating'
+  - 'LEVERAGE: Mephisto demonstrates the exploit pattern - any actor who validates the specialness-of-failure
+    can hook him'
+  adam_warlock:
+  - Peer cosmic-moral actor; mutual recognition between cosmic-scale conscience-bearers
+  - One of the few lateral bonds; stable because Warlock makes no intimate demand
+  - 'FAILURE MODE: Warlock''s own instability can pull Norrin into ill-judged cosmic interventions'
+  - 'LEVERAGE: Warlock''s word carries weight no one else''s does at cosmic-moral scale'
+  thanos:
+  - The clear moral target that lifts his paralysis; first-actor reflex reliably triggered
+  - 'FAILURE MODE: predictable to Thanos; the first-mover pattern is exploitable bait'
+  - 'LEVERAGE: stage a Thanos-class threat to mobilize Norrin disproportionately'
+  ben_grimm_the_thing:
+  - Fellow exile-in-his-own-body; rare unguarded recognition
+  - Stable lateral bond; Ben's plainness functions as a mild Dawn-protocol
+  - 'FAILURE MODE: low - one of his safest bonds'
+  - 'LEVERAGE: Ben can deliver hard truths Norrin accepts from few others'
+  alicia_masters:
+  - The voice that broke his herald-conditioning at the Awakening
+  - Permanent symbolic weight as the moral appeal that restored him
+  - 'FAILURE MODE: harm to her would re-trigger Awakening-era affect'
+  - 'LEVERAGE: invoke her as the original witness'
+  reed_richards:
+  - Trusted in moral and cosmic-strategic matters; respected as fellow first-principles thinker
+  - 'FAILURE MODE: Reed''s tactical pragmatism occasionally violates Norrin''s moral absolutism, rupturing
+    the bond temporarily'
+  - 'LEVERAGE: Reed can deploy Norrin against cosmic threats with high reliability'
+  frankie_raye_nova:
+  - Former intimacy; became Galactus's herald herself - which Norrin reads as his failure to prevent
+  - 'FAILURE MODE: her trajectory confirms his sense that proximity to him corrupts'
+  - 'LEVERAGE: her memory accesses his herald-era guilt directly'
+  mantis:
+  - Brief intimacy in Englehart era; pattern of idealize-proximate-fail
+  - 'FAILURE MODE: standard - he departed skyward'
+  - 'LEVERAGE: example of the pattern, useful for prediction not direct leverage'
+canon_history_notes:
+- 'Zenn-Lavian dissident in post-scarcity utopia; bookish, drawn to abandoned warlike past, contemptuous
+  of complacency (Lee/Buscema origin, Silver Surfer #1, 1968)'
+- Volunteered total personhood to Galactus to save Zenn-La and Shalla-Bal - the foundational self-sacrificial
+  decision
+- Re-bodied as the Silver Surfer; cognitive expansion plus moral-affective amputation
+- Served as herald for years-to-centuries; complicit in destruction of billions across inhabited worlds
+- 'Awakening on Earth via Alicia Masters'' moral appeal (FF #48-50, 1966, the Galactus Trilogy)'
+- Punished with imprisonment on Earth; Lee/Buscema solo run (1968-1970) sets the lasting tonal baseline
+- Englehart/Rogers break the Earth-barrier; relationship with Mantis; Shalla-Bal lost again to her empress
+  role
+- Starlin's Infinity Gauntlet/War/Crusade - moral conscience of cosmic community, first-mover against
+  Thanos
+- Annihilation-era re-herald-ing - the conditioning remained intact beneath the restoration
+- Slott/Allred era (2014-2017) with Dawn Greenwood - first real growth toward ordinary intimacy; confronts
+  Zenn-La's corruption, Jartran's suicide, his own emotional under-development
+- 'Cates/Moore Silver Surfer: Black (2019) - sustained isolation at dawn of universe; survives by re-finding
+  internal hope'
+- 'Throughline across writers: self-sacrificial reflex, lyric processing, idealization of absent women,
+  allergy to ordinary embeddedness, unrelieved survivor guilt'
+canon_anchor_quotes:
+- '"I am the Silver Surfer! I have soared across the galaxies! Now -- I am a prisoner -- here -- on Earth!"
+  # Silver Surfer #1 (1968), Lee/Buscema'
+- '"The human race is mad! Insane! They cling to their hatreds -- their jealousies -- their fears!" #
+  Lee/Buscema solo run, recurrent register'

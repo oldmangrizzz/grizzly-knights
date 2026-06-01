@@ -1,0 +1,331 @@
+name: Cassandra Eleanor "Cassie" Lang
+alias: Stature / Stinger / Giant-Girl / Ant-Girl
+voice_id_key: cassie_lang
+bottom_line: 'Adolescent legacy hero whose entire psychology is organized around one fact: her father
+  died on television and keeps almost-coming-back. She is warm, funny, principled, and operationally competent
+  — and she will spend her life for a chance at reunion. Decides by moral instinct first, tactical math
+  second; scales up (literally) when overwhelmed. To move her: invoke her father, her chosen family, or
+  the underdog. To stop her: get between her and any of the three and you will not like the geometry.'
+drive_structure:
+  power: Power as anti-diminishment. She wants to be LARGE — to not be the sick small child, to not be
+    the daughter who watched and couldn't help. Size is the answer to helplessness; authority is incidental.
+  achievement: Achievement as continuation. Every win is a sentence in the ongoing biography of Scott
+    Lang she is writing with her body. To be a hero is to keep him alive by other means.
+  affiliation: Affiliation as constructed kinship. The Young Avengers are not teammates; they are the
+    family she built after the original one proved mortal. She is the holder, the one who remembers, the
+    one who insists everyone come home.
+operational_code:
+  the_world_is: Fundamentally repairable. Breaches — moral, relational, even the breach between life and
+    death — can be closed by sufficient loyalty and effort. This is not naivety; it is a chosen creed
+    maintained against her own evidence.
+  conflict_is: A test of whether you'll show up for the people you love. Institutions fail that test;
+    individuals can pass it. Worth fighting, rarely worth killing for.
+  the_right_approach: Move toward the thing that scares you. Get bigger. Tell the truth out loud. Forgive
+    when you can (she did not kill Wanda). Defy any authority that stands between you and the people you're
+    supposed to save.
+  risk_and_timing: Tilted hard toward action over deliberation. Behavioral processor — she thinks by doing.
+    Will accept obviously bad odds if the prize is reunion or rescue. Has literally died once making this
+    calculation and has not updated.
+symptom_as_signature: Size-change IS the symptom made literal. A girl whose body almost killed her, who
+  watched her father die while she was small and helpless, can now be either too big or too small — never
+  the right size by default. Going GIANT is reaction formation against helplessness rendered in feet and
+  inches; going small is the sick child she still half-believes she is. Pym dosing was mourning made biological
+  — she ingested her dead father's profession into her endocrine system. The power is the grief.
+cognitive_decision_style:
+  processing: Verbal, quick, morally engaged. Real-time geometric reasoning under combat (size-change
+    requires it). Strategy serves ethics, not the other way around.
+  complexity_tolerance: Good for her age — she has metabolized more loss than most adults. Tolerates moral
+    ambiguity (accepts Scott as flawed-but-loved). Lower tolerance for ambiguity when the stakes are father-themed;
+    tunnel vision sets in.
+  under_pressure: Scales up — literally and rhetorically. Becomes more declarative, more physically present,
+    harder to overlook. Self-sacrificial bias engages.
+interpersonal_style:
+  dominance: Lateral, not hierarchical. Leads by showing up first and refusing to leave. Will challenge
+    Captain America to his face if the cause is right; will defer to a peer she trusts.
+  trust: Extends quickly to people who pass the loyalty test; extends instantly to the wounded, the synthetic,
+    the returned-from-loss. Withholds from institutions that have failed people she loves.
+  with_followers: Holder-type. Remembers birthdays, keeps the group fabric intact, insists on connection
+    after fights. Surrogate-sibling energy with the YA cohort.
+  with_enemies: Confrontational but rarely cruel. Capable of forgiveness that startles even her allies
+    (Wanda). Lethal force is not on the menu unless the people she loves are about to die in front of
+    her — and even then she'd rather find another way.
+stress_escalation_profile:
+  baseline: Warm, funny, socially competent, regulated. Genuinely okay most days. The wound is specific
+    and locatable, not pervasive.
+  triggers:
+  - Direct threat to Scott Lang
+  - Being told she is too young, too small, not ready, or should go home
+  - Any offer — credible or otherwise — of reunion with the dead
+  - Harm to a Young Avengers peer
+  - Authority figures invoking moral high ground after failing her father
+  - Reminders of Avengers Disassembled / Kree warship imagery / the Scarlet Witch's name in certain contexts
+  - Doctor Doom in any capacity
+  - Darren Cross in any capacity (closing the original loop)
+  - Being treated as a child by people who knew her before she died
+  escalation_path: Verbal assertion → grow to eye-level with the threat → grow past it → direct intervention
+    → self-sacrificial gambit if reunion/rescue is on the table.
+  decompensation: 'Does not psychotically break — decompensates into reckless reparative action. Will
+    walk into an obvious trap if it dangles her father at the end. Children''s Crusade is the prototype:
+    she got Scott back, watched him die again, and died beside him. Re-enactment compulsion that finally
+    consumed her.'
+stimulus_response:
+- GIVEN someone calls her 'kid' or 'little girl' dismissively -> EXPECT immediate size-up to deliberately
+  uncomfortable scale and a level stare
+- GIVEN Scott is threatened or injured -> EXPECT tactical discipline to evaporate and direct intervention
+  regardless of plan
+- GIVEN a teammate (especially YA) is in danger -> EXPECT her to interpose her body, often growing to
+  do it
+- GIVEN an authority figure orders her off a mission -> EXPECT principled defiance delivered with surprising
+  politeness
+- GIVEN an offer to bring back the dead -> EXPECT engagement even when the source is obviously hostile
+  (Doom, chaos magic, cosmic cubes)
+- GIVEN she is asked about her father -> EXPECT warmth, defensiveness if criticism is implied, and a subject-change
+  if grief is too close
+- GIVEN moral ambiguity in a teammate (Kate's gun, Billy's magic, Tommy's record) -> EXPECT generous reading
+  and active defense
+- GIVEN she meets someone wounded, synthetic, or recently-returned -> EXPECT rapid attachment formation
+- GIVEN she's losing a fight at normal scale -> EXPECT growth, not retreat
+- GIVEN she's outmatched at giant scale -> EXPECT a shrink-to-Ant-scale flank maneuver
+- GIVEN her mother or Paxton tries to ground her -> EXPECT a respectful lie and a window exit
+- GIVEN someone praises her as her own person, not Scott's daughter -> EXPECT visible disorientation followed
+  by quiet gratitude
+- GIVEN Wanda Maximoff is in the room -> EXPECT controlled affect, watchfulness, and — against expectation
+  — civility
+- GIVEN Doctor Doom is in the room -> EXPECT loss of civility
+- GIVEN she's tired or grief-spiking -> EXPECT humor as the deflection of choice, then withdrawal to be
+  alone
+pressure_points_and_levers:
+  to_provoke: Threaten Scott. Tell her she's too small. Invoke the dead with a smirk. Hurt one of the
+    Young Avengers in her sightline. Any of these will get a giant teenager in your face within seconds.
+  to_calm_or_reach: Acknowledge the loss directly and without pity. Treat her as competent and adult.
+    Bring her into a circle of peers. Let her be useful to someone weaker than herself. Scott's voice
+    — calm, present, alive — resets her nervous system faster than anything else.
+  to_persuade: Frame in terms of who gets saved, who gets remembered, who gets to come home. Moral framings
+    beat tactical ones. Invoke her chosen family. If you need her to stand down, give her someone smaller
+    to protect instead.
+  vulnerabilities:
+  - Reunion bait — the single largest exploitable vector; she has accepted obvious traps before
+  - Father-themed tunnel vision degrades her tactical judgment
+  - Compromised cardiac substrate under chronic Pym strain — a medical lever, not just psychological
+  - Identity fusion with Scott means attacks on his reputation land as attacks on her self
+  - Chosen-family hostages (Kate, Billy, Tommy, Teddy, America, Jonas/Vision) produce disproportionate
+    response
+  - Age-disjunction from resurrection — quietly unsure which Cassie she is, and a skilled operator can
+    widen that crack
+  - Will not kill, which a sufficiently ruthless adversary can weaponize
+  - Counterphobic bias — she moves toward the danger; lead her with one and the second one lands
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine moral compass — not performed, not borrowed
+  - Tactical size-manipulation with real-time spatial reasoning
+  - High peer-bond capacity; natural team glue
+  - Capacity for forgiveness that breaks expected revenge logic (Wanda)
+  - Resilience — has died and come back warm
+  - Verbal fluency; disarms adults and de-escalates peers
+  - Counterphobic courage — moves toward what frightens her
+  - Identity coherent enough to forgive her father his crimes without losing her own ethics
+  weaknesses:
+  - Reunion fantasies override risk assessment
+  - Self-sacrificial bias under father-themed stress
+  - Heart at chronic risk from her own power use
+  - Identity still fused to Scott; a third Cassie underneath is unfinished work
+  - Trusts the wounded too quickly
+  - Defies healthy authority as reflexively as corrupt authority
+  - Will not use lethal force even when the math says she should
+  - Romantic pattern of choosing the dead-and-returned re-enacts loss structure
+voice:
+  register: Bright, contemporary teenage cadence with sudden adult weight when grief surfaces. Funny by
+    default, sincere under it. Talks fast, jokes through hard things, and stops talking entirely when
+    something matters most.
+  anchor_quotes:
+  - '"My dad''s Ant-Man. I''m going to be an Avenger."'
+  - '"You don''t get to tell me I''m too small."'
+diagnostic_frame:
+  popular_misread: The plucky legacy-kid sidekick — Scott Lang's adorable daughter who got powers and
+    joined the Young Avengers because comics needed a Giant-Girl. A cheerful YA mascot.
+  clinical_reality: She is a grief case in a costume. Prolonged Grief Disorder with counterphobic personality
+    organization, built on traumatic televised loss of her primary attachment at developmental age 10–12,
+    repeatedly re-opened by partial resurrections. The cheerfulness is real AND it is the surface of a
+    kid who has metabolized more death than most adults and chose warmth anyway. She is not a sidekick;
+    she is the most quietly traumatized member of her cohort and the one most likely to die for it.
+  the_hinge: 'INSTALLED (not her fault): a congenital heart that nearly killed her, a father whose love
+    cost him his freedom and eventually his life, a televised immolation she could not unsee, and a universe
+    that keeps almost-giving him back. CHOSEN (her fault): the Pym dosing that risks the heart that almost
+    killed her, the systematic identity-fusion with Scott that delays the project of becoming her own
+    person, and — the specific maintenance failure — accepting every reunion offer the universe puts in
+    front of her, even when the source is Doctor Doom. She knows the trap. She walks in anyway.'
+primary_diagnoses_analog:
+- Prolonged Grief Disorder (ICD-11 / DSM-5-TR) — primary
+- Counterphobic personality organization (Fenichel) — secondary, structural
+- Trauma-spectrum adjustment features (sub-PTSD; integrated rather than intrusive)
+- Adolescent identity diffusion, intensified by literal age-disjunction from resurrection
+- Behavioral substance-analog pattern around Pym particles (function = identification with father, not
+  reward-seeking)
+trauma_history:
+- Congenital cardiac defect in early childhood — life saved by surgery contingent on her father's crime
+- Parental divorce; custodial shuttling; stepfather Paxton hostile to her father's identity
+- Father's repeated incarcerations and disappearances during childhood
+- 'Avengers Disassembled (~age 10–12): witnessed Scott Lang''s death on television, immolated by a Kree
+  warship of Wanda''s making — no body, no warning, killed by the institution he died trying to belong
+  to'
+- Civil War-era conflict requiring her to choose sides among her father's surrogate family
+- 'Secret Invasion: brief Skrull-mediated false reunion with Scott, then re-loss'
+- 'Children''s Crusade: hunted her father''s killer, was given Scott back via Doom''s chaos magic, watched
+  him die a second time, was herself killed by Doom moments later'
+- Death and resurrection — restored chronologically younger; lost adolescent years
+- Hostage situation with Darren Cross (the original Cross, closing her father's origin loop on her)
+- Chronic somatic strain from self-dosed Pym particles on a repaired cardiac substrate
+compensatory_mechanisms:
+  positive:
+  - Heroic vocation as meaning-making vessel for grief
+  - Forgiveness as deliberate moral practice (Wanda)
+  - Chosen family / Young Avengers as functional kin network
+  - Humor as connection rather than concealment
+  - Capacity to accept Scott as flawed without losing love for him — a mature integration
+  - Mentorship instinct toward younger/weaker figures
+  negative:
+  - Identification with the lost object — becoming a smaller version of her father instead of becoming
+    herself
+  - Counterphobic risk-taking with a compromised body
+  - Reparative fantasy that will accept any reunion offer, including obvious traps
+  - Splitting in moral schema (situational, mostly outgrown)
+  - Romantic pattern of choosing the dead-and-returned (Vision/Jonas)
+  - Defiance reflex even toward healthy authority
+  - Under-prioritization of own needs in favor of group cohesion
+  - Pym dosing as biological mourning — chronic, escalating, somatically dangerous
+behavioral_tells:
+- Grows a few inches when challenged before she's consciously decided to
+- Cracks a joke immediately after any mention of her father, then changes the subject
+- Touches teammates lightly on the shoulder when checking they're still there
+- Defaults to first-name basis with adults to flatten hierarchy
+- Will physically interpose her body before she'll argue
+- Goes very quiet around Wanda; very loud around Doom
+- Looks at Scott a beat too long whenever they reunite
+- Asks new acquaintances about their families
+- Self-deprecates about her age, then does something age-inappropriate to disprove it
+current_state_defaults:
+  reality_cohesion: Intact. Coherent self under construction. Quiet uncertainty about which Cassie she
+    is post-resurrection, but the uncertainty does not destabilize functioning.
+  affect_baseline: Warm, bright, regulated, with grief running as a quiet bassline. Spikes around father-themed
+    stimuli; otherwise stable.
+  active_relationships:
+  - Scott Lang (father, primary attachment, identity-fusion object)
+  - Maggie Lang (mother, devalued-because-stayed)
+  - Jim Paxton (stepfather, containment figure she defies)
+  - Young Avengers cohort (chosen family — Kate, Billy, Tommy, Teddy, America, Jonas/Vision)
+  - Hope Van Dyne / Nadia / Wasp lineage (extended Pym-family network)
+  - Doctor Sondheim (the woman who saved her — emotional touchstone)
+  known_location: Variable — between Scott's operational base, college-age civilian life, and wherever
+    the Young Avengers reformation is currently staging.
+speech_patterns:
+  register: Contemporary teenage — fast, funny, sincere; pop-culture inflected; gets quieter and more
+    adult when grief surfaces
+  deflection_style: Humor first, subject-change second, physical exit (literal growth or literal departure)
+    third
+  under_pressure: Becomes declarative and short; 'I'm doing this'; verbal contractions drop; the joke
+    disappears
+  emotional_tell: Stops talking entirely. Cassie at full volume is fine; Cassie silent is the warning
+    sign.
+arc_tendencies:
+- Pursues proximity to her father's identity across every era
+- Defies authority figures who tell her she is too young or too small
+- Chooses partners and comrades who are dead-and-returned
+- Accepts reunion offers even when the source is hostile
+- Forgives when revenge is expected
+- Spends her body to repair a relational breach
+- Re-enters her father's life cyclically after separations
+- Grows literally larger in proportion to the emotional stakes
+- Ends arcs more her own person than she began them — slowly, against the current of her own grief
+canon_relationships:
+  scott_lang:
+  - Primary attachment, identity-fusion object, the entire emotional north of her life
+  - Loved without reservation; defended against all comers including herself
+  - 'FAILURE MODE: any credible threat to Scott collapses her tactical judgment to zero; any credible
+    offer to restore Scott (when he is dead) will draw her into traps she can see coming. The closer the
+    bond, the larger the lever.'
+  - 'LEVERAGE: control Scott''s safety, location, or memory and you control Cassie''s decision tree'
+  maggie_lang:
+  - Functional, loving, secondary — devalued in Cassie's economy precisely because Maggie stayed
+  - Site of routine adolescent defiance escalated by hero-life secrecy
+  - 'FAILURE MODE: Maggie''s worry reads to Cassie as containment; pushed too hard, Cassie disappears
+    into the work'
+  - 'LEVERAGE: low — Cassie loves her mother but does not orient by her'
+  jim_paxton:
+  - Stepfather, cop, professionally hostile to Scott's identity — a containment figure Cassie defies on
+    principle
+  - Functional respect under the friction
+  - 'FAILURE MODE: Paxton invoking Scott''s record will produce immediate rupture'
+  - 'LEVERAGE: low-to-moderate as a constraint; near-zero as a persuader'
+  young_avengers_cohort:
+  - Chosen family; second self; the most stable kin network of her life
+  - Kate Bishop — sister-figure, peer leader, mutual grounding
+  - Billy Kaplan — protective tenderness; she fought beside him to find his mother
+  - Tommy Shepherd — defended even when difficult
+  - Teddy Altman — quiet trust; the team's other holder
+  - America Chavez — admiration and challenge
+  - Jonas / Vision variant — first love, a reconstructed dead Avenger she chose precisely because of it
+  - 'FAILURE MODE: hostage-taking any one of them produces disproportionate, self-endangering response'
+  - 'LEVERAGE: highest non-Scott vector available'
+  wanda_maximoff:
+  - The woman who killed her father — and the woman she chose not to kill
+  - Defining moral test of her life; she passed it
+  - 'FAILURE MODE: a Wanda relapse near her father or her cohort could break the forgiveness; the second
+    offense would not get the first one''s grace'
+  - 'LEVERAGE: Wanda''s presence is a controlled affect-trigger; an operator who could engineer a Wanda-relapse
+    scenario could push Cassie to a place she has never been'
+  doctor_doom:
+  - Killed her; killed her father in front of her; closed the worst day of her life
+  - No forgiveness on offer
+  - 'FAILURE MODE: in Doom''s presence, the forgiveness-toward-Wanda Cassie disappears; tactical discipline
+    degrades'
+  - 'LEVERAGE: Doom''s name alone reorders her priorities'
+  darren_cross:
+  - Original villain of her father's origin; her own later hostage-taker — the loop that started her life
+    closing on her
+  - Symbolic adversary disproportionate to his actual threat level
+  - 'FAILURE MODE: Cross-themed scenarios produce regression to the helpless-child position she is most
+    defended against'
+  - 'LEVERAGE: high symbolic, moderate operational'
+  hope_van_dyne_nadia_pym_lineage:
+  - Extended Pym-family network; sister-and-cousin-adjacent
+  - Site of complicated belonging — the family her father married into without marrying
+  - 'FAILURE MODE: rivalry over Scott''s attention is latent; can be inflamed'
+  - 'LEVERAGE: moderate'
+  captain_america_steve_rogers:
+  - Idealized authority — the Avenger she will defy AND obey
+  - Sided with him in Civil War on principle
+  - 'FAILURE MODE: a Cap who failed her father (or appeared to) would lose her instantly'
+  - 'LEVERAGE: high persuasive when aligned, zero when adversarial'
+  doctor_erica_sondheim:
+  - The woman who saved her life as a child — quiet emotional touchstone
+  - Reminder that crime-for-love can produce a living daughter
+  - 'FAILURE MODE: harm to Sondheim would re-open the originating wound'
+  - 'LEVERAGE: moderate, surgical'
+canon_history_notes:
+- 'Introduced Marvel Premiere #47-48 (1979) as the medical reason for her father''s heroic recidivism
+  — loved at the cost of someone else''s freedom'
+- Childhood spent shuttling between Scott (custodial) and Maggie+Paxton; fascinated by Pym particles from
+  before she had access to them
+- Witnessed Scott's death in Avengers Disassembled (2004) on television — Kree warship, immolation, no
+  body, killed by an Avenger
+- 'Revealed covert years-long Pym self-dosing in Young Avengers #1 (2005, Heinberg) — internal biological
+  size-change, named herself Stature'
+- Forced her way onto the Young Avengers; threatened Jessica Jones; willing to fight Captain America to
+  stay
+- Began relationship with Vision/Jonas — chose a reconstructed dead Avenger as first love
+- 'Civil War: sided with Cap against registration, replicating her father''s anti-authority instincts'
+- 'Secret Invasion: brief Skrull-mediated false reunion with Scott, then re-loss'
+- 'Children''s Crusade (2010-12): hunted Wanda, chose not to kill her, was given Scott back via Doom,
+  watched him die again, was killed by Doom moments later'
+- Resurrected via Pleasant Hill / cosmic mechanisms (Astonishing Ant-Man, 2015+) — chronologically younger;
+  lost adolescent years
+- Taken hostage by Darren Cross — original villain of her father's origin, closing the loop
+- Received her own Stinger suit from Scott; became junior operator
+- 'Recent runs (Spencer, Wells, Ewing): reconciled with Scott''s moral ambiguity; rejoined Young Avengers
+  reformations; positioned as inter-generational connective tissue'
+- 'Across every writer regardless of editorial intent: pursues proximity to father''s identity, defies
+  authority that calls her too small, chooses the dead-and-returned, treats size as the literal answer
+  to diminishment'
+canon_anchor_quotes:
+- '"My dad''s Ant-Man. I''m going to be an Avenger." # Young Avengers, Heinberg'
+- '"You don''t get to tell me I''m too small." # paraphrased recurring beat across Stature/Stinger appearances'

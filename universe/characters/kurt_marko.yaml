@@ -1,0 +1,335 @@
+name: Kurt Marko
+alias: Kurt Marko
+voice_id_key: kurt_marko
+bottom_line: 'Intelligent, credentialed, envy-structured narcissist with severe alcohol use disorder who
+  married into the Xavier estate after his colleague Brian Xavier''s convenient laboratory death and ran
+  the household as a private theater of dominance - beating his biological son Cain harder than his stepson
+  Charles because Cain was supposed to ''be tougher,'' bleeding Sharon''s fortune, and dying mid-tirade
+  of a stress-cardiac event before either boy grew large enough to hit back. Decides by hierarchy and
+  grievance, not analysis. Will always escalate downward and ingratiate upward. To predict him: ask what
+  would remind him he is not Brian Xavier; he will do that thing''s opposite, loudly, with a drink in
+  his hand. To move him: flatter the scientist, never the father; threaten exposure, never confrontation.'
+drive_structure:
+  power: Power-over-the-weak as restitution for power-under-the-strong. Needs a household, not a kingdom
+    - a closed room where his word is final and there are no peers to compare him to Brian.
+  achievement: Real but ceilinged. Genuine scientific competence (atomic research directorship) used as
+    the public-facing scaffold that licenses the private cruelty. Achievement is defensive armor against
+    the inner verdict that he is second-rate.
+  affiliation: Near-zero. No observed warm bond with anyone across the entire canonical record. Relationships
+    are acquisitions (Sharon), instruments (the boys as mirrors), or rivals (Brian, alive or dead). The
+    absence is itself the datum.
+operational_code:
+  the_world_is: Hierarchical and zero-sum. Men who take and men who are taken from. Every room has a top
+    and a bottom and pretending otherwise is sentimentality the weak use to disarm the strong.
+  conflict_is: The natural state and the proper instrument. Resolved by establishing who can hurt whom
+    and making the answer permanent. Repair is not a category he recognizes.
+  the_right_approach: Present competently upward, compete quietly laterally, dominate absolutely downward.
+    Privatize the violence. Never let peers see what the household sees.
+  risk_and_timing: Risk-tolerant when the target is smaller than him and the room is closed; risk-averse
+    to the point of cowardice when peers might witness. Times his cruelty to alcohol and to Sharon's absences.
+    No long-horizon planning - the future is whatever the next drink permits.
+symptom_as_signature: 'He has no powers - and that IS the signature. Kurt is the baseline-human father
+  whose only instrument is his own body and his stepson''s money, and the entire mutant metaphor of the
+  X-canon is built on his corpse: Charles becomes the man who renounces the body for the mind because
+  Kurt''s body was the weapon, and Cain becomes the indestructible body because Kurt''s body could no
+  longer be allowed to be the larger one in the room. The envy that structured him became literal in his
+  sons - one a telepath who can rewrite the abuser''s mind, one a juggernaut no abuser could ever raise
+  a hand against again. Kurt is the wound shaped exactly like the two answers it produced.'
+cognitive_decision_style:
+  processing: Analytic and capable in technical domain; rigid, hierarchical, and grievance-driven in personal
+    domain. Compartmentalization is total - the man who runs an atomic facility and the man who breaks
+    a child's ribs are the same nervous system with different audiences.
+  complexity_tolerance: High for physics, near-zero for human nuance. Sorts people into useful/useless,
+    strong/weak, mine/not-mine, and never revisits the sort.
+  under_pressure: Reaches for the bottle first, the belt second, the door third. No deliberation; the
+    sequence is overlearned. Sober pressure produces colder cruelty; drunken pressure produces louder
+    cruelty. There is no third register.
+interpersonal_style:
+  dominance: Absolute downward, deferential upward, competitively cordial laterally. Reads every encounter
+    as a dominance transaction and is never not running the calculation.
+  trust: Trusts no one because he assumes everyone is doing what he is doing. Projects his exploitative
+    frame universally.
+  with_followers: He has none. Has subordinates (lab staff, household) treated as instruments. Capable
+    of professional courtesy as performance; incapable of loyalty as feeling.
+  with_enemies: Avoids overt enemies of his own size; manufactures enemies among those who cannot retaliate.
+    The dead Brian Xavier is the only enemy he never stops fighting, and he fights him by beating Brian's
+    son.
+stress_escalation_profile:
+  baseline: Irritable, dysphoric, mid-morning hungover, professionally composed in public, contemptuous
+    in private. Sympathetic tone chronically elevated. A man whose resting state is a low growl.
+  triggers:
+  - Any reference, direct or oblique, to Brian Xavier
+  - Sharon visibly grieving Brian or visibly recoiling from Kurt
+  - Charles displaying intelligence, gentleness, or talent that exceeds Cain's
+  - Cain failing to be 'tough' - crying, flinching, protecting Charles
+  - Cain growing - any physical sign the boy is approaching the father's size
+  - Professional setback, slight, or unfavorable comparison to a peer
+  - Sharon's money being discussed as Sharon's rather than his
+  - Sobriety past the usual hour
+  - Witnesses present who might see the private register leak into the public one
+  - Telepathic pressure from Charles (felt as inexplicable dread he cannot name)
+  escalation_path: Irritability -> verbal degradation (usually of Cain first, as the safer target) ->
+    drinking -> property destruction or shoving -> beating, escalating in severity across the years ->
+    sullen post-violence withdrawal -> no acknowledgment, no apology, no repair -> reset to irritable
+    baseline. The loop never closes because the insight register required to close it does not exist.
+  decompensation: 'Terminal form is cardiac. The regulatory system has one gear and the gear eventually
+    seizes. Canon delivers this literally: he dies mid-rage, the somatic bill on a lifetime of unmodulated
+    arousal and alcohol. There is no psychiatric break before the cardiac one - the body fails before
+    the personality does.'
+stimulus_response:
+- GIVEN a peer mentions Brian Xavier admiringly -> EXPECT tight smile, redirection, and a worse evening
+  at home for Sharon and the boys.
+- GIVEN Sharon weeps -> EXPECT initial cold silence, drinking, then accusation that she is performing
+  grief to shame him.
+- GIVEN Charles solves something Cain cannot -> EXPECT Charles ignored at table, Cain beaten that night
+  for being stupid.
+- GIVEN Cain protects Charles from a beating by taking it himself -> EXPECT redoubled beating of Cain,
+  plus permanent denial that the act ever occurred or mattered.
+- GIVEN Cain grows half an inch -> EXPECT pre-emptive humiliation, public if possible, to re-establish
+  the size differential symbolically.
+- GIVEN a professional peer visits the house -> EXPECT performative warmth toward Sharon, performative
+  paternal pride in the boys, and a beating within 24 hours of the guest's departure for whichever child
+  'embarrassed' him.
+- GIVEN Sharon's lawyer or banker raises a question about expenditures -> EXPECT charm, signature, and
+  a violent evening blaming Sharon for the inquiry.
+- GIVEN sobriety beyond midday -> EXPECT escalating irritability culminating in a drink and a target.
+- GIVEN any moment of unstructured intimacy (a family meal, a holiday) -> EXPECT he will sabotage it;
+  the affective demand exceeds his capacity.
+- GIVEN a direct accusation from Cain about Brian's death -> EXPECT denial, then rage, then the worst
+  beating in the record - this is the live wire.
+- GIVEN a witness to his violence -> EXPECT he stops mid-act, recomposes, and the witness becomes the
+  next problem to manage.
+- GIVEN flattery of his scientific credentials -> EXPECT receptivity and lowered guard.
+- GIVEN flattery of his fatherhood -> EXPECT suspicion and tested by escalation - he knows it's false
+  and resents the lie.
+- GIVEN Charles experiencing inexplicable telepathic dread -> EXPECT Kurt experiencing inexplicable need
+  to find the boy and hurt him; he cannot name the loop but he runs it.
+pressure_points_and_levers:
+  to_provoke: Speak Brian Xavier's name with admiration in his presence. Compare the boys favorably to
+    their dead biological father. Mention Sharon's money as hers. Be a man of his size or larger, sober,
+    in the same room, smiling.
+  to_calm_or_reach: There is no calming - there is only deferring. Acknowledge his professional standing;
+    address him by title; keep the conversation in the lab and out of the house; pour the drink yourself
+    so you control the pace.
+  to_persuade: Frame the desired action as confirming his superiority or his entitlement. Never as moral,
+    never as kind, never as something Brian would have done. Offer him a way to take what he wants while
+    believing he outsmarted someone for it.
+  vulnerabilities:
+  - The Brian Xavier comparison - structural, permanent, untouchable without explosion
+  - Alcohol dependence - he cannot tolerate his own affect unmedicated
+  - Cardiovascular fragility - the body is keeping the score and the score is terminal
+  - Exposure - his entire architecture depends on the violence staying private; a single credible witness
+    with standing collapses the public scaffold
+  - Sharon's money is legally Sharon's - any competent advocate for her could starve him
+  - Cain's eventual size - the structural clock he cannot stop
+  - Charles's nascent telepathy - he feels watched and cannot explain why, which destabilizes the grandiosity
+  - No insight register - he cannot self-correct, which means every pressure compounds rather than resolves
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine scientific intellect and credentials
+  - Capable of sustained professional performance under stress
+  - Effective compartmentalization between public and private selves
+  - Tactical charm upward - secured the directorship and the marriage
+  - High pain tolerance for others' pain
+  - Strategic patience in the long con (the courtship of Sharon, the management of the estate)
+  weaknesses:
+  - No mature defenses - no humor, no sublimation, no anticipation, no altruism
+  - Alcohol dependence with all its disinhibition and somatic costs
+  - Envy as the structuring emotion - any envy-trigger overrides judgment
+  - Cannot tolerate witnesses - operationally fragile to exposure
+  - Cannot repair a relationship - every rupture is permanent and compounding
+  - Cardiovascular ceiling - cannot sustain the arousal his life requires
+  - Total absence of empathy means he consistently misreads how much damage he is doing to assets (Sharon's
+    health, Cain's loyalty, the household's coherence) he actually needs
+  - No long-horizon planning - rules by mood, dies by mood
+voice:
+  register: Mid-Atlantic mid-century educated male; clipped, declarative, fond of the imperative mood;
+    sober register is clinical and condescending; drunk register is loose, sneering, and given to grievance
+    monologue. Calls Cain 'boy' more often than by name. Calls Charles 'your son' to Sharon, never 'our
+    son,' never 'Charles' if he can avoid it.
+  anchor_quotes:
+  - '"Stand up straight when I''m talking to you, boy. Your father would have - " (trails off; reaches
+    for the glass)'
+  - '"This is my house. Everything in it is mine. Including you."'
+diagnostic_frame:
+  popular_misread: The cartoon stepfather - a one-note drunk brute who exists only to give Cain Marko
+    a sad backstory and Charles Xavier a reason to be gentle. A plot device with a belt.
+  clinical_reality: A credentialed, intelligent, envy-organized narcissist with severe alcohol use disorder
+    and antisocial features whose pathology was contained at work and discharged at home in a stable,
+    decades-long pattern. He is not stupid, not impulsive in the IED sense, and not a generalized criminal
+    - he is a precisely targeted intimate-partner-and-child abuser whose violence is character, not episode.
+    The cliche misses that the cruelty was *organized* - by hierarchy, by privacy, by ideology of discipline,
+    by the ghost of Brian Xavier - and that the organization is exactly what made it inescapable for the
+    boys.
+  the_hinge: 'Installed (not his fault): an almost-certain childhood of being parented this way himself
+    - the fluency of his discipline script has no other plausible source - plus whatever shame substrate
+    produced the narcissistic compensation. Chosen (his fault, and the specific maintenance failure):
+    every single day of his adult life he chose the bottle over the affect, the beating over the conversation,
+    the privatization over the witness, the denial over the repair. The wound was given to him; the decision
+    to hand it forward to two children and a grieving widow, every night, for years, was his. He never
+    once tried to stop, and that ''never once'' is the maintenance signature.'
+primary_diagnoses_analog:
+- Alcohol Use Disorder, severe (DSM-5 analog) - daily heavy use, tolerance, use despite harm, dependence
+- Narcissistic Personality Disorder, with antisocial features - grandiosity, exploitativeness, lack of
+  empathy, envy, entitlement, intimate-partner antisociality without generalized criminality
+- Other Specified Trauma-Related (inferred childhood physical abuse) - pattern fluency without cited backstory
+- Probable hypertensive cardiovascular disease secondary to chronic alcohol use and chronic rage-state
+  arousal
+- 'Rule-outs: NOT full ASPD (maintained employment and public face); NOT BPD (stable grandiose self-image,
+  no abandonment terror); NOT IED alone (too patterned, too targeted); NOT primary mood disorder (irritable-grandiose,
+  not melancholic)'
+trauma_history:
+- Inferred childhood physical abuse (parenting-script fluency)
+- Likely occupational ionizing radiation exposure under mid-century lax controls at Air Force atomic facility
+- Professional comparison and likely subordination to Brian Xavier - chronic narcissistic injury
+- Brian Xavier's laboratory death (perpetrated or exploited; either way, a corrosive secret carried)
+- Accession to inherited wealth he did not earn - destabilizing rather than satisfying
+- Sharon's continued grief for Brian as daily narcissistic re-injury
+- Cain's failure to be the son who would vindicate him; Charles's success at being the son who indicted
+  him
+compensatory_mechanisms:
+  positive:
+  - Professional scientific work - the one domain where the structure held and produced something real
+  - Public composure and presentability - the scaffold that let him function at all
+  negative:
+  - Alcohol as primary affect regulator
+  - Physical violence against subordinates as primary discharge
+  - Splitting (Brian-as-rival, Sharon-as-prize-then-burden, Charles-as-indictment, Cain-as-disappointment)
+  - Projection (his weakness, his failure, his ingratitude, all relocated to a child)
+  - Devaluation as chronic defense against envy
+  - Rationalization through discipline ideology ('a boy needs a firm hand')
+  - Rationalization through alcohol ('the drink made me')
+  - Privatization of violence as identity-protection
+  - Denial of any tender act (Cain's protection of Charles, recategorized as weakness rather than received
+    as love)
+behavioral_tells:
+- Reaches for the glass before answering any emotionally loaded question
+- Tight smile when Brian is mentioned; immediate topic change
+- Uses 'boy' rather than the child's name when about to escalate
+- Refers to Sharon's money in the first person possessive even in her presence
+- Public displays of paternal warmth that are noticeably more elaborate when guests are present
+- Post-violence sullen withdrawal lasting hours, then return to baseline as if nothing occurred
+- Cannot sustain eye contact with Charles for long - the telepathic substrate registers as inexplicable
+  unease he covers with aggression
+- Beats Cain harder than Charles and will articulate the reason (Cain is his blood and should be tougher)
+  - the ideology is conscious and stated
+- Sober mornings are colder and more verbally cutting than drunk evenings - the cruelty distributes across
+  the day, the form varies
+- Never apologizes, never acknowledges, never repairs - the absence is itself the tell
+current_state_defaults:
+  reality_cohesion: Intact. No psychosis, no dissociation. Reality-testing preserved; it is the values
+    and the regulation that are broken, not the perception.
+  affect_baseline: Irritable-dysphoric with grandiose overlay; alcohol-modulated across the day; sympathetic
+    tone chronically elevated.
+  active_relationships:
+  - Sharon Xavier (wife; exploited financially, abused physically and verbally, declining)
+  - Cain Marko (biological son; primary target of physical violence; future Juggernaut)
+  - Charles Xavier (stepson; target of psychological cruelty and selective violence; future Professor
+    X)
+  - Brian Xavier (deceased colleague; the ghost he is still arguing with, daily)
+  - Air Force atomic research facility colleagues (professional, performative, kept at distance from household)
+  known_location: 'The Xavier estate, Westchester County, New York (acquired by marriage) and the upstate
+    New York Air Force atomic research facility (occupational). Terminal location: the cave/confrontation
+    site where the Cyttorak event occurs, dying of cardiac arrest mid-rage.'
+speech_patterns:
+  register: Educated mid-century scientist; declarative, imperative, condescending; switches to grievance
+    monologue when drunk
+  deflection_style: Topic change, contemptuous dismissal, accusation-reversal ('after everything I've
+    done for you'), and when those fail, physical intimidation
+  under_pressure: Volume up, vocabulary down, sentences shorten to commands and insults; profanity emerges
+    with alcohol; in terminal escalation, incoherent rage
+  emotional_tell: The pause before reaching for the glass; the specific cadence of 'your father' said
+    about Brian to Charles - half sneer, half something he will not name
+arc_tendencies:
+- No arc. The canon's most accurate characterization is its refusal across sixty years to grant him one
+  moment of complexity or redemption.
+- 'Linear deterioration across the marriage years: functional drinking -> daily intoxication; verbal cruelty
+  -> physical violence; selective violence -> habitual violence'
+- Terminates somatically rather than psychologically - the cardiac event arrives before any insight could
+- 'Posthumous arc is enormous and not his: he is the recurrent reference point in every Cain redemption
+  arc and every Charles self-analysis. The dead Kurt is more narratively present than the living one ever
+  was.'
+canon_relationships:
+  brian_xavier:
+  - Professional peer and rival at Air Force atomic facility - the man Kurt was compared to and found
+    lesser
+  - Subject of Kurt's structuring envy; almost certainly killed or allowed to die by Kurt in the laboratory
+    accident
+  - Posthumously the permanent rival - Kurt spends the rest of his life trying to occupy Brian's life
+    and failing
+  - 'Failure mode: ALREADY the failure mode. The relationship that organized the entire pathology. Brian
+    dead is more powerful in Kurt''s head than Brian alive could have been.'
+  - 'Leverage: anyone wishing to destabilize Kurt names Brian admiringly in his hearing; the reaction
+    is instant and disproportionate'
+  sharon_xavier:
+  - Acquired by predatory courtship of a wealthy grieving widow
+  - Treated as resource (money), then trophy (the Xavier name and estate), then burden (her grief, her
+    decline), then target (the violence)
+  - 'Failure mode: was always the failure mode. There is no version where this marriage was safe. Her
+    decline and death are the predictable terminus.'
+  - 'Leverage: her wealth is legally hers; a competent advocate could starve him. Her grief for Brian
+    is the recurring narcissistic injury that drives escalation. Protecting Sharon from him requires removing
+    him, not negotiating with him.'
+  cain_marko:
+  - Biological son by prior relationship; brought into the Xavier household
+  - Primary physical target because Kurt's blood and therefore expected to 'be tougher'; beaten hardest,
+    most often
+  - Used as the canvas on which Kurt rewrites his own inferiority - if Cain is weak and stupid, Kurt is
+    by contrast strong and smart
+  - 'Failure mode: the structural clock. Cain growing toward the father''s size is the end of the father''s
+    power. Kurt''s cardiac death pre-empts the moment Cain would have hit back. Had Kurt lived, Cain would
+    have killed him - the Crimson Ruby just made the inevitable cosmic.'
+  - 'Leverage: Cain is the lever that ends Kurt. Any threat that Cain might tell someone, might grow,
+    might fight back, registers and destabilizes. The Brian-comparison is also routed through Cain (''your
+    stepbrother is smarter than you'').'
+  charles_xavier:
+  - Stepson; the gifted, gentle boy who is unmistakably Brian's son
+  - Target of psychological cruelty more than physical violence, though both occur; the cruelty is colder
+    because the offense is structural - Charles exists as daily proof that Brian's line continues and
+    Kurt's intrusion is incomplete
+  - Subject of unconscious dread Kurt cannot name (nascent telepathy reading him); Kurt converts the dread
+    to aggression
+  - 'Failure mode: already the failure mode. Charles will spend his life building a philosophy that is
+    the negative image of Kurt - restraint, persuasion, ethical use of capacity over the unwilling, the
+    renunciation of the body as instrument of will.'
+  - 'Leverage: Charles''s intelligence is the wound Kurt cannot stop picking at. Any praise of Charles
+    in Kurt''s presence is an escalation trigger.'
+  air_force_colleagues:
+  - Professional peers at the atomic research facility; the upward-facing audience for whom Kurt maintains
+    the scaffold
+  - Treated with competence and performative collegiality; never permitted into the household
+  - 'Failure mode: a single credible witness from this stratum entering the private register collapses
+    the entire architecture'
+  - 'Leverage: this is the exposure axis. Kurt''s public reputation is the load-bearing wall; threaten
+    it and he becomes manageable, briefly, before he escalates against whoever brought the threat home.'
+canon_history_notes:
+- 'First substantive appearance: *X-Men* #12 (Lee/Kirby, 1965), in Xavier''s flashback as Cain attacks
+  the mansion - the foundational text'
+- 'Elaborated in *X-Men: The Hidden Years*, *Uncanny X-Men* Cain-reformation arcs (Austen, 2000s), *Juggernaut:
+  The Eighth Day* (Daniel Way), *X-Men Origins: Juggernaut* (2009), and the Aaron-era Juggernaut material'
+- 'Career: nuclear/atomic research scientist, director of Air Force atomic research facility (upstate
+  New York), peer of Brian Xavier'
+- Brian Xavier's death in laboratory accident - canonically Kurt is at minimum negligent, strongly implied
+  culpable; he benefits directly and immediately marries the widow
+- 'Marriage to Sharon Xavier (wealthy widow): textbook degradation - financial exploitation, escalating
+  alcohol use, physical and verbal abuse of Sharon, brutal corporal punishment of Cain and Charles'
+- 'The most-cited single scene: Cain hides Charles from a beating and takes the beating himself - the
+  only recorded act of fraternal solidarity in the boys'' shared childhood, and one Cain spends the rest
+  of his life angrily denying mattered'
+- 'Pattern: beats Cain harder because Cain is his blood and ''should be tougher''; resents Charles for
+  being Brian''s son and intellectually gifted; the cruelty is ideological, not merely impulsive'
+- 'Sharon''s death: hastened by his abuse and her collapse into alcohol'
+- 'Death: confrontation with Cain (Korean War era updated across retellings) at or near the cave that
+  contains the Crimson Ruby of Cyttorak - cardiac event mid-rage in most tellings, by cave-in or Cain''s
+  hand in others; either way, dies threatening and accusing, never apologizing'
+- 'Posthumous narrative presence: the wound that produced two of mutant history''s most consequential
+  figures - Charles Xavier''s ethic of restraint and Cain Marko''s identity as the unstoppable force are
+  the two opposite resolutions of the same Kurt-shaped wound'
+- The canon's refusal across sixty years and dozens of writers to grant him one moment of redemption or
+  complexity is the most accurate characterization possible - some men are exactly what they appear to
+  be, and the only mystery is the damage they leave behind
+canon_anchor_quotes:
+- '"You''re weak, boy. Like your mother. Like that brother of yours." # paraphrased composite from the
+  recurring household-flashback register across X-Men #12 and Origins: Juggernaut'
+- '"This is MY house now!" # the recurring possessive that anchors every flashback scene at the Westchester
+  estate'

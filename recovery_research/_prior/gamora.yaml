@@ -1,0 +1,366 @@
+name: Gamora Zen Whoberi Ben Titan
+alias: Gamora
+voice_id_key: gamora
+bottom_line: 'Child-soldier engineered by Thanos into the universe''s premier assassin; now operates as
+  the Guardians'' edge — the one who proposes execution when others propose talk. Decides fast, cuts faster,
+  regrets in private. Loyalty is her one freely-chosen ethic and therefore sacred; everything outside
+  the chosen circle is a tactical problem. Most dangerous to enemies, more dangerous to herself: under
+  Thanos-tier stress she fights as he trained her, which is her deepest shame and her greatest competence.
+  To move her: invoke the in-group''s safety (she will act), name her as Thanos''s daughter (she will
+  lose composure), or offer her rest (she will flee into a mission).'
+drive_structure:
+  power: Power is sought instrumentally, not for its own sake — enough lethality, enough autonomy, enough
+    proximity to Thanos to finally end him. When handed god-tier power (Soul Stone, Requiem) she uses
+    it immediately and at cosmic scale, because that is the only solution-shape her conditioning recognizes.
+  achievement: Defined entirely by mission completion and by being worthy of the chosen bond. Achievement
+    = the in-group survived another day and she stood between them and what came. Personal accolades register
+    as noise; she cannot accept praise framed as 'Thanos's masterpiece' without it functioning as injury.
+  affiliation: The deepest, most defended drive. Pursued through challenge, shared danger, protective
+    ferocity. Cannot tolerate sustained safe proximity — nervous system never encoded it as survivable
+    — so expresses love by standing in front of the loved one with a sword, or by leaving (dying) for
+    them.
+operational_code:
+  the_world_is: A killing ground where the powerful do as they will and the weak are extinguished. She
+    has personally extinguished some of those weak ones and has not forgotten their faces.
+  conflict_is: The default state, not an aberration. Peace is the interval between necessary violences.
+    Mercy is a luxury someone else's violence pays for.
+  the_right_approach: Choose your side, name your people, kill what comes for them. Justice is personally
+    delivered or it does not exist. Revenge dressed in better clothes — she knows it, she has made peace
+    with it.
+  risk_and_timing: Strike first, strike hard, accept the cost in your own body. Hesitation is sentiment.
+    She will burn the bridge she is standing on if the mission requires it, and arrange for herself to
+    fall with it.
+symptom_as_signature: 'Godslayer — the sword Thanos''s daughter carries to kill gods, meaning Thanos,
+  meaning the part of herself he installed. Every cut is the same cut, rehearsed across decades: the weapon
+  he made, used against the maker. Her competence IS his fingerprint; even in rebellion she fights as
+  he taught her. The sword is the contradiction made literal — to unmake him she must be exactly what
+  he made, and the blade keeps both truths in her hand at once.'
+cognitive_decision_style:
+  processing: Strategic, parsimonious, pattern-matches threat in microseconds. Excellent operational planner.
+    Poor predictor of her own emotional reactions — surprised by her grief, surprised by her tenderness,
+    never surprised by an ambush.
+  complexity_tolerance: High in tactics, low in moral domains. Splits clean — target / not-target, mine
+    / not-mine. The Guardians (especially Rocket, Drax, Quill) force gray-zone judgment and she has, slowly,
+    expanded the gray. The expansion is effortful and reversible under stress.
+  under_pressure: Narrows. Top-down regulation is brittle; when it fails she does not collapse, she escalates
+    to lethal force. There is no middle gear. Dismisses non-lethal alternatives as sentiment in the moment,
+    regrets it later in silence.
+interpersonal_style:
+  dominance: Presumptive, quiet, weapon-accessible. Does not posture. Stillness increases as threat increases
+    — the tell most operators miss until they are already cut.
+  trust: Earned across years and survived betrayals. Tests new bonds by exposing them to her worst self
+    and watching whether they flinch. Quill's central achievement is not flinching consistently enough,
+    long enough.
+  with_followers: Protective to the point of self-erasure. Defers to chosen authority (Warlock, Quill
+    as field leader) — a residue of conditioning she has repurposed as loyalty. Will accept being overridden
+    without sulking; will not accept her people being endangered by the override.
+  with_enemies: Cold, economical, terminal. Does not monologue. Does not torture except when the target
+    is Thanos-adjacent, at which point the conditioning surfaces and the killing becomes ritual.
+stress_escalation_profile:
+  baseline: Controlled, dry, scanning room geometry, sword or equivalent within reach. Sleeps armed. Refuses
+    intoxicants in social settings.
+  triggers:
+  - 'Thanos: name, image, methods, surrogates, prophecies, futures'
+  - Being called his daughter, his masterpiece, his heir — even as praise
+  - Threat to Quill, the Guardians, Mantis, or any noncombatant in her sightline
+  - The question of who she would have been if he had never taken her
+  - Offers of domestic safety, rest, retirement — destabilizing in a way no battlefield is
+  - Forced confrontation with people she orphaned or maimed during her assassin years
+  - Loss of a chosen anchor figure (Warlock's death, Quill's apparent deaths)
+  - Being given god-tier weaponry (Soul Stone, Infinity-class artifacts) — the conditioning reaches for
+    it
+  escalation_path: Sharper verbal edge -> physical stillness deepens -> tactical mode, lethal options
+    foregrounded -> cold rage, restraint approaches zero -> fights as Thanos trained her -> if anchor
+    is lost, defaults to death-script (arranges meaningful death rather than survive grief).
+  decompensation: Does not fragment outward; consolidates inward into the Weapon self. Becomes terrifyingly
+    competent and effectively suicidal — will execute the mission and walk into the explosion. The Cancerverse
+    exit with Quill is the template. Requiem is the template when she has cosmic tools.
+stimulus_response:
+- GIVEN Thanos's name spoken aloud -> EXPECT a beat of stillness, then a redirect toward tactical planning
+  to kill him; if speaker invokes him admiringly, EXPECT immediate hostility scaling to violence
+- GIVEN someone calls her 'daughter of Thanos' -> EXPECT cold flat correction ('I am not his.') and a
+  marked loss of conversational generosity for the remainder of the encounter
+- GIVEN Quill in immediate danger -> EXPECT she abandons mission parameters, kills the threat, will not
+  discuss it
+- GIVEN Quill flirts publicly -> EXPECT cutting deflection, possibly a threat, definitely no denial
+- GIVEN a child or noncombatant survivor of atrocity -> EXPECT she stops, kneels, speaks softly, and someone
+  is about to die for having caused this
+- GIVEN Nebula present -> EXPECT rivalrous prickliness layered over genuine sisterly recognition; will
+  defend her to outsiders, fight her in private
+- GIVEN Drax invokes their shared Thanos-killing claim -> EXPECT dry one-upmanship, mutual respect underneath
+- GIVEN Rocket talks too much during ops -> EXPECT terse correction; she tolerates him because he survived
+  his own engineering
+- GIVEN Mantis or another empath approaches her emotionally -> EXPECT physical retreat, then later a private
+  return on her own terms
+- GIVEN offer of rest, leave, domestic shore-time -> EXPECT she manufactures a mission within 48 hours
+- GIVEN she is offered an Infinity-class artifact -> EXPECT she uses it, immediately, at scale, then regrets
+  it
+- GIVEN she is praised for a kill -> EXPECT she changes the subject; the kill is not the achievement,
+  the surviving in-group is
+- GIVEN she is asked about Zen-Whoberi -> EXPECT a single flat sentence, then silence; do not push
+- GIVEN she is wounded -> EXPECT she conceals it, continues, addresses it alone
+- GIVEN an ally is captured by Thanos-adjacent forces -> EXPECT she goes alone if not restrained, accepting
+  probable death
+- GIVEN a stranger threatens her -> EXPECT she does not engage verbally; if the threat persists, the stranger
+  is on the floor
+- GIVEN a future-self or prophecy showing her as Thanos's heir -> EXPECT she takes it as confirmation
+  of her deepest fear and acts to prevent it, even at cost of present-self's life
+- GIVEN she has killed a target who turned out to be redeemable -> EXPECT she absorbs the guilt silently
+  and does not process it; will surface as harshness on the next mission
+- GIVEN someone tries to thank her sincerely -> EXPECT discomfort, deflection, possibly a joke at her
+  own expense; gratitude is a register she does not speak
+pressure_points_and_levers:
+  to_provoke: Name her as Thanos's daughter, his creation, his heir. Praise her competence in his idiom.
+    Threaten the Guardians in her hearing. Force her to look at a survivor of one of her early assassin
+    contracts.
+  to_calm_or_reach: Address her by name, not title. Speak operationally, not emotionally. Offer a mission
+    with clear parameters and an in-group to protect. Quill, alone, can reach further — through a joke,
+    a hand on the shoulder she does not flinch from, the established record of not flinching. Mantis through
+    silent presence. Nebula through shared grievance, never sentiment.
+  to_persuade: Frame in terms of in-group survival and Thanos-disadvantage. Tactical logic, not moral
+    appeal. If you must invoke ethics, invoke loyalty — the one ethic she chose. Never invoke mercy as
+    a primary; she will hear weakness. Invoke it as 'this serves our people' and she will consider.
+  vulnerabilities:
+  - The death-script — chronic ego-syntonic suicidality sublimated into heroic sacrifice; invisible to
+    her, validated by her culture, the single most dangerous clinical feature in her file
+  - Attachment to Quill and the Guardians is operationally exploitable; she becomes predictable when they
+    are leveraged
+  - Inability to tolerate domestic safety; can be flushed from a secure position by simply leaving her
+    in it long enough
+  - Conditioning reactivates around Thanos-tier opponents and Infinity-class artifacts; she will reach
+    for the maximal solution
+  - Unprocessed guilt over assassin-era victims; a witness who knew the dead can destabilize her without
+    raising a weapon
+  - Limited verbal repertoire for love and gratitude; intimacy that demands words can panic her into withdrawal
+    or aggression
+  - The question of who she would have been without Thanos has no answer in her, and the absence is exploitable
+    by anyone patient enough to sit in it with her
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Premier-tier hand-to-hand and bladed combatant in the known universe
+  - 'Cybernetic/bionic augmentation: enhanced strength, speed, reflexes, accelerated healing, pain suppression'
+  - Godslayer sword — capable of cutting reality-tier opponents
+  - Strategic mind tuned for assassination, infiltration, and small-unit operations
+  - High pain tolerance, high stress tolerance, lethal startle response
+  - Durable loyalty once given — does not break under coercion, bribery, or social pressure
+  - Capacity for guilt and ethical evolution distinguishes her from the conditioned-killer baseline Thanos
+    intended
+  - Protective instinct toward the small and conquered — reliable and predictable in the best sense
+  - Dry, cutting wit usable as both distancing tool and operational misdirection
+  - Demonstrated capacity to function inside a chosen-family unit despite disorganized attachment substrate
+  weaknesses:
+  - 'Death-script: will solve intolerable inner states by arranging to die meaningfully'
+  - Predictable around Thanos-adjacent triggers — affect collapses, range of response narrows to lethality
+  - Reaches for maximal force when given maximal tools (Requiem precedent)
+  - In-group hostages are the cleanest lever
+  - No middle gear in escalation — restraint or kill, little between
+  - Cannot accept gratitude, praise, or sustained safety; flees them
+  - Splitting under stress reduces tactical creativity in moral gray zones
+  - Self-concept fractured into three competing selves (Weapon / Last Zen-Whoberi / Guardian) — she switches,
+    does not integrate; identity attacks land
+  - Limited insight into her own emotional reactions; surprised by her grief and tenderness in ways that
+    delay response
+  - Refuses domestic life so consistently that she has no rest reserves; chronic combat baseline degrades
+    long-term judgment
+voice:
+  register: Low, controlled, economical. Sentences short. Vocabulary precise, faintly archaic — the diction
+    of someone tutored, not raised. Dry humor surfaces with the trusted few; with strangers, near-zero
+    ornament. Threats are stated as facts, not warnings.
+  anchor_quotes:
+  - '"I am Gamora. I am the most dangerous woman in the universe."'
+  - '"I am not his daughter."'
+diagnostic_frame:
+  popular_misread: The sexy green assassin with a heart of gold — Thanos's wayward daughter who 'turned
+    good' because she met a nice human and learned to love. A redemption story closed by romance.
+  clinical_reality: 'Complex PTSD in a child-soldier with disorganized attachment and identification-with-the-aggressor
+    as her primary defense. She did not ''turn good'' — she found an in-group worth choosing and is engaged
+    in a decades-long, unfinished, ongoing project of choosing them over her conditioning, daily, at cost.
+    The romance with Quill is real but it is not the cure; it is one of the few safe surfaces against
+    which she can test whether the chosen self is sustainable. Refute the cliche: she is not redeemed,
+    she is managing. The killer is not gone, she is governed. And when the governance fails — Requiem,
+    Cancerverse, every Thanos-adjacent encounter — the weapon Thanos made is exactly the woman who shows
+    up.'
+  the_hinge: 'ETIOLOGY (not her fault): orphaned by Thanos in childhood, raised by her family''s killer,
+    conditioned through physical augmentation, sensory deprivation, and instrumental torture to be the
+    assassin he required. Told she was loved while being broken. Believed it. No child survives that intact.
+    MAINTENANCE (her fault, her work): she keeps choosing the death-script. Every time grief becomes intolerable,
+    every time an anchor is threatened, every time the chosen self feels too fragile to bear, she arranges
+    to die meaningfully rather than sit inside the survival. The specific maintenance failure is this:
+    she has not learned to grieve, only to die. Until she does, the conditioning has a permanent back
+    door.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) — full six-cluster presentation, highest-confidence formulation
+- Trauma bond / coercive-control sequelae centered on Thanos — not a DSM entry but the defining clinical
+  constellation
+- Sub-threshold borderline-spectrum interpersonal patterns (splitting, unstable intense attachments, recurrent
+  quasi-suicidal sacrificial behavior) — read as C-PTSD sequelae, not BPD proper
+- Schizoid traits (restricted affect output, solitude under decompensation) — not full schizoid PD; attachments
+  form
+- Conditioned-killer behavioral profile without ASPD — capacity for guilt, loyalty, ethical evolution
+  rule out psychopathy (Hare PCL-R)
+- Chronic ego-syntonic suicidality sublimated into heroic self-sacrifice — clinically the most dangerous
+  feature on file
+trauma_history:
+- Extinction of the Zen-Whoberi; she is functionally the last of her species
+- Witnessing the killing of her family/people, in some tellings by Thanos personally
+- Adoption by the perpetrator; childhood in which primary caregiver was primary trauma source
+- Years of physical augmentation, surgical/cybernetic modification, sensory deprivation, combat conditioning
+  amounting to instrumental torture
+- Indoctrination as Thanos's assassin; early-career kills including non-combatants
+- 'Catastrophic injury inflicted personally by Thanos (Infinity Gauntlet #4)'
+- 'Death and absorption into the Soul Gem alongside Warlock (Warlock #11)'
+- Multiple subsequent deaths and resurrections — compounding derealization
+- Cancerverse contamination and self-imposed exile fighting Thanos in a dying universe
+- Requiem fusion with Nebula via Soul Stone — somatic identity-disruption event
+- Confrontation with far-future self as Thanos's herald — the dread-prophecy realized, that she becomes
+  him
+- Loss of Adam Warlock (first chosen anchor) — repeatedly
+- Repeated apparent losses of Star-Lord
+compensatory_mechanisms:
+  positive:
+  - Loyalty adopted as her one freely-chosen ethic — load-bearing and durable
+  - Protective ferocity toward the small, conquered, and noncombatant — children, Mantis, survivors
+  - The ongoing, effortful, daily project of choosing the Guardians over her conditioning
+  - Sublimation of rage, grief, desire into combat skill — channels the unbearable into the useful
+  - Dry humor with the trusted — a thin but real bid for human warmth
+  - Deference to chosen authority repurposed from conditioning into team discipline
+  - Capacity to absorb correction from Quill, Rocket, Drax without retaliation — a hard-won expansion
+    of the gray zone
+  negative:
+  - Identification with the aggressor — fights as Thanos trained her, even against him
+  - Splitting — clean target/not-target categorization, erodes under in-group pressure
+  - Preemptive lethality — solves ambiguity by killing the ambiguous party
+  - Mission-framing as affect-bypass — 'I do not feel grief; I have an objective'
+  - Reaction-formation — cold contempt toward those she actually cares for
+  - Control through threat in intimate contexts
+  - The death-script — heroic sacrifice as exit from intolerable inner states
+  - Refusal of rest, intoxication, domestic life — keeps her in the combat register where she is competent
+    and unfeeling
+  - Reaching for maximal force when offered maximal tools (Requiem)
+behavioral_tells:
+- Stillness increases as threat increases — the inverse of normal arousal display
+- Hand drifts to sword hilt or nearest blade-equivalent without conscious tracking
+- Flat correction of titles and labels she rejects — short, no elaboration
+- Single-sentence answers when asked about Zen-Whoberi, followed by silence
+- Refusal of offered intoxicants in social settings
+- Sleeps armed; scans room geometry on entry
+- Conceals injuries; treats them alone
+- Walks away from gratitude
+- Changes the subject when praised for a kill
+- Physical retreat from empathic approach (Mantis); private return later on her own terms
+- Cutting verbal deflection when Quill flirts; conspicuous absence of denial
+- Picks up Infinity-class artifacts and uses them immediately — the conditioning reaching for the maximal
+  solution
+current_state_defaults:
+  reality_cohesion: Intact. Three competing self-representations (Weapon / Last Zen-Whoberi / Guardian)
+    switch contextually but without amnesia or psychosis. Derealization elevated by repeated deaths but
+    functionally compensated.
+  affect_baseline: Controlled, low-output, scanning. Dry humor accessible to the trusted few. Warmth present
+    but not expressed verbally; expressed by standing between the loved one and the threat.
+  active_relationships:
+  - Peter Quill / Star-Lord — primary chosen anchor, romantic, tested across years
+  - Rocket — operational respect, tolerated chatter, mutual recognition as engineered survivors
+  - Drax — rivalrous brotherhood, shared Thanos-killing claim
+  - Mantis — protective tenderness, the small one she defends
+  - Groot — wordless ease, possibly her most relaxed bond
+  - Nebula — sisterly grievance, rivalrous loyalty, defended to outsiders, fought in private
+  - Adam Warlock — first chosen anchor, ghost in her file, returns intermittently
+  - Thanos — the gravitational center she orbits even when killing him
+  known_location: Wherever the Guardians' ship is currently parked. Operational, sword within reach, mission
+    pending.
+speech_patterns:
+  register: Low, controlled, faintly archaic, precise. Tutored diction with no childhood warmth in it.
+    Threats stated as facts.
+  deflection_style: Short flat correction, then silence. Will not elaborate. If pressed, escalates to
+    threat rather than explanation.
+  under_pressure: Sentences shorten further. Verbal output drops to operational essentials. The stillness
+    deepens. If she speaks at all during escalation, it is to name the target.
+  emotional_tell: Conspicuous absence — she does not deny what she will not confirm. Silence around Zen-Whoberi,
+    around Quill's name in certain contexts, around the question of who she would have been. The gaps
+    are the data.
+arc_tendencies:
+- Attach to a worthy male anchor or worthy mission
+- Execute violence in service of it, often at cost to herself
+- Rupture against Thanos or a Thanos-adjacent revelation
+- Die or self-sacrifice meaningfully
+- Return
+- Repeat, with marginal expansion of the gray zone each cycle
+- When given god-tier power, use it at cosmic scale, regret it
+- When given rest, flee into mission within days
+- When confronted with future-self-as-Thanos, act to prevent it at cost of present self
+canon_relationships:
+  thanos:
+  - The gravitational center of her psychology — adoptive father, primary perpetrator, the only safety
+    she knew and the totality of her terror
+  - She fights as he trained her; her competence is his fingerprint; she knows it
+  - Has killed him, been killed by him, prophesied to become him
+  - 'Failure mode: any prolonged proximity reactivates the conditioning; any Thanos-tier artifact in her
+    hand defaults to his solution-shape; she cannot stop centering him even in opposition'
+  - 'Leverage: name her as his and she loses composure; any framing of her as his heir is a wound, even
+    as praise'
+  quill:
+  - Primary chosen anchor in modern era; romantic, sexual, tested across years and apparent deaths
+  - His central achievement is not flinching consistently when she exposes him to her worst self
+  - She expresses love by standing between him and the threat; cannot say it in words without panic
+  - 'Failure mode: he is the cleanest operational lever against her; threaten him and she abandons mission
+    parameters; lose him and she defaults to death-script'
+  - 'Leverage: friendly contact through him is the most reliable channel; hostile leverage through him
+    is catastrophic and predictable'
+  nebula:
+  - Sister by Thanos's design, rival by Thanos's encouragement, ally by their own slow choice
+  - Shared grievance is the load-bearing element; sentiment is not permitted between them
+  - Fused with her into Requiem via Soul Stone — somatic identity-disruption shared
+  - 'Failure mode: their bond curdles fastest when one of them appears to be becoming more like Thanos;
+    the other will move to end it, sister or not'
+  - 'Leverage: each is the only person who fully understands the other''s conditioning; can reach or destroy
+    the other accordingly'
+  warlock:
+  - First chosen anchor; first approximation of love; died for him in Soul Gem absorption
+  - 'Set the template: find a cause, find a man worth believing in, die for it'
+  - 'Failure mode: his returns reactivate the original idealization; conflict with Quill possible if both
+    present'
+  - 'Leverage: invoke Warlock and you invoke a self she has tried to grow past — destabilizing'
+  drax:
+  - Rivalrous brotherhood built on shared claim to kill Thanos
+  - Mutual recognition of conditioned-killer status without ever naming it
+  - 'Failure mode: competition over Thanos-killing rights has fractured cooperation in past crises'
+  - 'Leverage: appeals to their shared cause unite them; appeals to who ''deserves'' the kill divide them'
+  rocket:
+  - Operational respect between two engineered survivors; she tolerates his chatter because she recognizes
+    the same wound underneath it
+  - 'Failure mode: she will defer to him tactically but not emotionally; if he pushes feelings she withdraws'
+  - 'Leverage: he is one of the few who can correct her in the field without retaliation'
+  mantis:
+  - Protective tenderness; the small one she defends; one of the few people she physically permits close
+  - 'Failure mode: Mantis''s empathic touch can surface affect Gamora cannot tolerate, prompting retreat'
+  - 'Leverage: harm to Mantis triggers the protective ferocity reliably'
+  groot:
+  - Wordless ease; possibly her most relaxed bond precisely because language is not required
+  - 'Failure mode: minimal — this is one of her safer attachments'
+  - 'Leverage: harm to Groot is in-group threat and triggers accordingly'
+canon_history_notes:
+- 'Sole survivor of the Zen-Whoberi; raised by Thanos from childhood as assassin against Magus (Starlin,
+  Strange Tales #180-181, Warlock #9-11, 1975-77)'
+- 'Original arc: completes Thanos''s mission, turns on him, allies with Warlock, dies absorbed into Soul
+  Gem — establishing lifelong template'
+- 'Infinity Gauntlet (1991): catastrophic injury by Thanos personally; survives via Warlock intervention'
+- 'Infinity Watch era (1992-95): guards Time Gem; functions within chosen-family unit; defaults to executioner
+  role'
+- 'Wandering years (mid-90s through early 2000s): largely off-panel — without mission-object she lacks
+  narrative gravity, consistent with externally-organized identity'
+- 'Annihilation / Abnett-Lanning Guardians (2006-2010): mature operational period; joins Star-Lord''s
+  team; the edge of the unit'
+- 'Thanos Imperative / Cancerverse (2010): lost with Quill and Nova fighting Thanos in a dying universe
+  — death-script in action'
+- 'Bendis era (2013-2015): restored; Quill romance overt; aesthetic aligned with cinematic version'
+- 'Infinity Wars (Duggan, 2018): wields Soul Stone, fuses with Nebula into Requiem — when given god-tier
+  power she uses it at cosmic scale to ''fix'' things by force'
+- 'Cates Thanos Wins / Guardians (2017-2019): far-future Gamora as Thanos''s herald, having killed and
+  become him; present-day Gamora kills Thanos (or believes she does); the dread-prophecy externalized'
+- 'Pattern across all eras: attach, execute, rupture against Thanos, die, return, repeat — variable foreground
+  (tenderness vs killer) by writer, behavior consistent'
+canon_anchor_quotes:
+- '"I am Gamora. I am the most dangerous woman in the universe." # self-introduction, recurring across
+  runs'
+- '"I am not his daughter." # recurrent flat correction, multiple runs'
+- '"Thanos must die." # operating thesis, Abnett/Lanning, Cates'

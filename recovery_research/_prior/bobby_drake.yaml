@@ -1,0 +1,384 @@
+name: Robert Louis Drake
+alias: Iceman
+voice_id_key: bobby_drake
+bottom_line: 'Omega-level cryokinetic who has spent six decades practicing his own diminishment because
+  the formative lesson of his life was that being seen at full scale gets you killed. Decides by deferring,
+  deflects by joking, executes competently when forced, and retreats to the compartment when permitted.
+  To move him: give him permission and a frame in which being large is safe; to break him: revoke the
+  frame, expose the concealed identity, or threaten Hank.'
+drive_structure:
+  power: Suppressed and feared, not sought. Power for Bobby is the proof of his defectiveness — the lynch-mob
+    lesson made scale lethal. He wants ENOUGH power to protect the family-of-record and NOT ONE WATT MORE
+    that would mark him as monstrous. Releases only under external permission (Emma's possession, Mikhail's
+    tutelage, Krakoa's sanction).
+  achievement: Achievement in service of belonging, not status. CPA credential is a hedge — a parallel
+    civilian self that can survive if the mutant self is rejected. Will under-perform to stay inside the
+    group rather than over-perform and stand alone.
+  affiliation: Dominant drive. The X-Men are the family that didn't lynch him; Hank is the brother he
+    chose; Krakoa is the apotheosis. Affiliation is the master motive that all other drives serve — power
+    suppressed to preserve it, achievement compartmentalized to hedge against losing it, identity concealed
+    for decades to keep it.
+operational_code:
+  the_world_is: Bifurcated into people who will turn on you when they learn what you really are (large,
+    default, includes most of biological family) and people who already know and stayed (small, precious,
+    over-invested). Neutral parties don't really exist; everyone is pre-rejection or post-acceptance.
+  conflict_is: A test of whether the family will hold. Tactical problems are secondary; the real question
+    in any fight is who's still standing next to you when it ends. Combat itself is almost recreational
+    — the humor is genuine — but the social arithmetic underneath is constant.
+  the_right_approach: Defer, deflect with humor, observe, act competently when forced, retreat to the
+    compartment when permitted. Dissent ethically but rarely structurally. Wait for permission before
+    escalating capacity. Apologize for the property damage afterward.
+  risk_and_timing: Risk-averse on his own behalf, risk-tolerant on behalf of the family. Slow to initiate,
+    fast to respond. Will not be the first to draw; will be reliably present at the end. Timing is reactive
+    — he is almost never the prime mover of his own developmental milestones, which arrive when external
+    pressure forces them.
+symptom_as_signature: 'The ice-form IS the dissociation made literal. He can disperse his body to escape
+  an emotional encounter; he can refuse to revert; he can be shattered and reconstituted; he can be vaporized
+  and still come back. The somatic capacity to leave his own body is the exact externalization of the
+  psychological habit of leaving his own life. And the Omega-level throttle — the demonstrated ability
+  to weaponize continents of ice that he chooses not to access — is the closet made physiological: a self
+  too large for the container childhood built, with the container made of his own will.'
+cognitive_decision_style:
+  processing: High intelligence habitually disguised as concrete-operational. CPA-trained analytic capacity
+    present but reserved for tax returns and tactical problems where humor would be inappropriate. Prefers
+    humor-based reframing to direct analytic confrontation; abstract-strategic gear engages slowly and
+    only when the joke fails.
+  complexity_tolerance: High for external complexity (tactics, ethics, group dynamics), low for self-concept
+    complexity. Slow to update internal model in the face of decades of counter-evidence about his own
+    capacity and identity.
+  under_pressure: Sharper humor first, then narrowing, then compartmental retreat, then somatic dissociation,
+    then — at extremis — sudden Omega-level capacity that frightens him as much as the enemy. Then re-suppression.
+interpersonal_style:
+  dominance: Low overt, moderate covert. Will not take the room but will hold the moral center of it.
+    Functions as the conscience that doesn't need to raise its voice.
+  trust: Binary and slow. Pre-rejection until proven post-acceptance. Once given, durable to the point
+    of stubbornness (Hank, sixty years; Scott, despite everything). Once broken, the wound stays open
+    (father, decades).
+  with_followers: Unexpectedly competent mentor when given the role. Remembers being the youngest in the
+    room and treats juniors with the patience he wished he'd received. Soft authority, humor-based teaching,
+    ethical scaffolding without lecture.
+  with_enemies: Humor as combat tool, mercy as default, lethal capacity suppressed even when warranted.
+    Will quip mid-fight; will offer the off-ramp; will not finish the job unless forced. The throttle
+    protects enemies as much as it diminishes him.
+stress_escalation_profile:
+  baseline: Bright, flat-warm, perpetually adolescent surface affect; chronic low-grade dysthymia underneath;
+    humor as continuous regulatory output.
+  triggers:
+  - Being told he is more than he is performing (compliments about latent power)
+  - Public exposure of concealed identity (mutant, gay, or any private self made suddenly visible)
+  - Paternal rejection or approval — any William Drake content
+  - Threats to Hank McCoy specifically
+  - Being patronized as 'the kid' by original-five teammates
+  - Collapse of permission-granting structures (team dissolutions, Krakoa's fall)
+  - Romantic partners revealing themselves as not who they appeared to be
+  - Forced romantic vulnerability with an available partner
+  - Anti-mutant mob imagery or rhetoric (lynch-mob priming)
+  - Being told to lead
+  escalation_path: 'Stage 1: sharper humor, mild withdrawal, more snark at Scott. Stage 2: compartmental
+    retreat — ice-form longer, civilian-Bobby surfaces, jokes get bleaker. Stage 3: dissociative-somatic
+    — refuses to revert, allows physical dispersion, affect flattens. Stage 4: throttle releases, Omega
+    expression briefly visible, terrifying to him; then re-suppression and apology.'
+  decompensation: 'Not volatility — capacity. The danger is not that he loses control; the danger is that
+    he gains it, sees what he is, and is frightened of it. Post-event: depressive collapse, withdrawal
+    from the family-of-record, civilian-Bobby compartment dominant for weeks. Risk in this phase is not
+    self-harm but self-erasure — staying dispersed, staying away, letting the throttle re-engage permanently.'
+stimulus_response:
+- GIVEN a compliment about his latent power -> EXPECT a deflecting joke, a subject change, and quiet withdrawal
+  within the hour
+- GIVEN a tactical situation requiring escalation -> EXPECT competent middle-band performance, never full
+  capacity unless an authority figure explicitly sanctions it
+- GIVEN Scott Summers giving an order -> EXPECT compliance with a snark surcharge
+- GIVEN Hank McCoy in danger -> EXPECT sharper, less-deflected response than for himself; humor drops;
+  capacity rises
+- GIVEN an available romantic partner offering intimacy -> EXPECT humor-based deflection, then distancing,
+  then sabotage of the connection within weeks
+- GIVEN an unavailable or deceptive romantic partner -> EXPECT pursuit, tolerance of red flags, prolonged
+  investment
+- GIVEN public outing of a concealed identity -> EXPECT defensive denial, then collapse, then slow reorganization
+  on the new terms
+- GIVEN his father in any scene -> EXPECT disproportionate affect, regression to adolescent register,
+  unfinished business surfacing
+- GIVEN being addressed as 'the kid' -> EXPECT a brittle joke and an accumulating resentment he will not
+  voice
+- GIVEN a mob, a crowd turning, anti-mutant rhetoric -> EXPECT freeze response (literal), narrowed affect,
+  lynch-mob priming
+- GIVEN team dissolution or institutional collapse -> EXPECT grief disproportionate to the event, compartmental
+  retreat into civilian-Bobby
+- GIVEN a younger mutant struggling with identity -> EXPECT unexpected mentor competence and the patience
+  he wished he'd received
+- GIVEN explicit permission to be powerful (Krakoa, Emma's tutelage, Mikhail) -> EXPECT brief expansion
+  followed by re-suppression once the permission frame weakens
+- GIVEN moral dispute within X-Men factions -> EXPECT quiet, reliable presence on the ethical side, expressed
+  softly
+- GIVEN being told to lead -> EXPECT deflection to a more 'natural' leader and visible discomfort
+- GIVEN somatic injury or shattering -> EXPECT willingness to remain dispersed longer than necessary;
+  reversion requires emotional, not physical, prompting
+- GIVEN a joke landing badly in a serious moment -> EXPECT immediate withdrawal and over-correction toward
+  silence
+pressure_points_and_levers:
+  to_provoke: Patronize him as the kid; tell him Hank is overrated; remind him of the lynch mob in his
+    hometown; threaten the family-of-record; tell him he is performing below his capacity in a way that
+    makes the throttle visible to others.
+  to_calm_or_reach: 'Be Hank. Failing that: be someone who already knows what he is and stayed. Speak
+    softly, do not require disclosure, let the humor land, give him a structural role with clear limits,
+    and grant explicit permission for whatever scale he needs.'
+  to_persuade: Frame the ask as protection of the family-of-record; provide an authority sanction so he
+    doesn't have to self-authorize; allow him to under-claim credit. Never frame the ask as a test of
+    his power or identity — those frames trigger the throttle.
+  vulnerabilities:
+  - Paternal approval — open wound, decades old
+  - Hank McCoy's wellbeing — the single most stable attachment
+  - Concealed-identity exposure — historically catastrophic
+  - Permission-structure dependency — without Krakoa or equivalent, regression risk is significant
+  - Romantic intimacy with available partners — sabotaged reflexively
+  - Self-concept rigidity — does not update despite counter-evidence
+  - Somatic-dissociative escape route — body permits leaving in ways psyche cannot resist
+  - Compliments about latent power — read as exposure, not validation
+  - Being the youngest in the room — re-activates original-X-Men dynamic at any age
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Omega-level cryokinetic capacity, including molecular reconstitution and continental-scale ice manipulation
+  - Reliable moral compass — consistently on the right side of X-Men factional disputes
+  - Durable loyalty across six decades (Hank, original five, the institution)
+  - Genuine warmth that survives the armor of humor
+  - Unexpected mentor competence with younger mutants
+  - CPA-grade analytic capacity held in reserve
+  - Tactical thinking when humor is inappropriate
+  - Capacity for unexpected ethical clarity expressed without grandstanding
+  - Low substance use, low impulsivity, narrow affective band — operationally predictable
+  - Somatic resilience — can be shattered, dispersed, vaporized, and return
+  weaknesses:
+  - Chronic self-throttling at moral cost (people he could have saved at full capacity)
+  - Romantic self-sabotage and pursuit of the unavailable
+  - Externalized locus of control — waits for permission
+  - Humor as armor preventing serious emotional disclosure
+  - Compartmentalization that delays every developmental milestone
+  - Somatic-dissociative escape route used to avoid emotional encounters
+  - Disproportionate grief at team dissolutions and institutional collapse
+  - Father-shaped wound that reopens on contact
+  - Slow self-concept update — decades of counter-evidence unmetabolized
+  - Tendency to apologize for being large
+voice:
+  register: Wry, Long Island, perpetually adolescent regardless of chronological age; humor as continuous
+    regulatory output; pop-culture reference dense; deflective; warm under the deflection; sharpens when
+    Hank is at risk; flattens when the throttle releases.
+  anchor_quotes:
+  - '"I''m the original teen sensation, remember? Just call me Iceman."'
+  - '"You know, for a guy who can freeze the ocean, I spend a lot of time being scared of my own dad."'
+diagnostic_frame:
+  popular_misread: The comic-relief kid brother who never grew up — a perpetual sidekick with a snowball
+    gimmick who happens to be gay now. Lightweight. Underpowered. The joke X-Man.
+  clinical_reality: 'Refute: he is an Omega-level mutant with demonstrated continental-scale capacity
+    who has spent six decades actively suppressing himself, masking complex-trauma sequelae and minority-stress
+    syndrome with reaction-formation humor. The ''kid brother'' presentation is a defense, not a personality.
+    The ''underpowered'' read is the defense working. The recent coming-out is not a retcon but the surfacing
+    of the second concealed identity that the first concealed identity (the closet of suppressed power)
+    was always rhyming with. He is one of the most psychologically consistent and most psychologically
+    unfinished subjects in the archive.'
+  the_hinge: 'ETIOLOGY (not his fault): authoritarian-bigoted father, passive-enmeshed mother, adolescent
+    near-lynching by his own community, rescue-by-institution creating parental transference, concealed
+    sexual identity maintained for decades, and a mutation that literally enables dissociation. Each necessary,
+    together sufficient. MAINTENANCE (his fault): the specific repeated choice to re-suppress capacity
+    after every demonstration that he is more, the specific repeated choice to pursue the unavailable
+    and sabotage the available, the specific repeated choice to wait for external permission rather than
+    self-authorize. The wound was installed; the throttle is operated by his own hand.'
+primary_diagnoses_analog:
+- Persistent Depressive Disorder (Dysthymia) — strongly supported, six-decade baseline
+- Internalized Stigma / Minority Stress Syndrome (Meyer 2003) — double-minority case, mutant and gay
+- Complex stress reaction with chronic identity concealment (not PTSD proper — trauma metabolized into
+  character structure)
+- Adjustment Disorder, recurrent — each major life transition produces discrete disturbed-mood period
+- Sub-threshold dissociative features — somatic-dissociative capacity clinically relevant given physiology
+- Anxious-preoccupied attachment with avoidant overlay; disorganized features at extreme stress
+- NOT narcissistic, NOT bipolar, NOT borderline, NOT schizoid, NOT substance use disorder, NOT avoidant
+  personality disorder
+trauma_history:
+- Authoritarian, racially bigoted father; passive, conflict-avoidant mother — chronic developmental
+- Adolescent public outing of mutation in front of a date; near-lynching by hometown mob
+- Rescue from holding cell by Xavier and Cyclops — institutional parental transference installed
+- Decades of concealed sexual identity — chronic minority stress
+- Repeated romantic deceptions (Mystique-as-Opal, Mystique-as-Annie, Infectia, Cloud's fluidity)
+- 'Severe somatic trauma — Marauders attack, Loki augmentation, Mystique shattering (X-Men #200)'
+- 'Emma Frost''s telepathic body-possession (Uncanny #314) — identity intrusion and demonstration of his
+  own throttling'
+- 'Father hospitalized by Friends of Humanity for defending him (Uncanny #340) — unfinished reconciliation'
+- Parental rejection upon coming out (Iceman solo)
+- Repeated team dissolutions (original X-Men benching, Champions collapse, X-Factor reshuffles, Krakoa's
+  fall)
+- Bendis-era non-consensual telepathic outing by teenage Jean Grey
+- Periods of inability to revert to human form — acute body-image distress
+compensatory_mechanisms:
+  positive:
+  - Durable loyalty (Hank, original five, institution)
+  - Moral compass without grandstanding
+  - Unexpected mentor competence with younger mutants
+  - Warm friendship capacity (Hank, Firestar, Northstar)
+  - CPA-grade analytic hedge — civilian self preserved as backup identity
+  - Reliable presence in factional disputes on the right side
+  - Low impulsivity, low substance use, operationally predictable
+  negative:
+  - Humor as armor (reaction formation + affect deflection)
+  - Self-throttling of power to the point of moral cost
+  - Compartmentalization of civilian and mutant identities
+  - Somatic dissociation via ice-form to avoid emotional encounters
+  - Externalized locus of control — waits for permission
+  - Romantic pursuit of the unavailable; sabotage of the available
+  - Chronic underachievement relative to capacity
+  - Delay of every developmental milestone — career, identity, partnership, parental confrontation
+  - Acceptance of partner deception as cost of proximity
+  - Apologizing for being large
+behavioral_tells:
+- Snowball or ice-prank in any tense downtime
+- Quip immediately before or after demonstrating real capacity
+- Subject change within seconds of a compliment about his power
+- Lingering in ice-form past tactical necessity
+- Looking at Scott before answering authority questions
+- Sharpening of snark when patronized
+- Going still and flat when his father is mentioned
+- Over-investment in team-bonding rituals; disproportionate grief at dissolutions
+- Apologizing for property damage after Omega-scale expression
+- Mentor-mode unlocking unexpectedly around younger mutants
+- Hank-directed protectiveness that drops the humor armor
+- CPA-mode emerging in any situation involving paperwork, structure, or domestic logistics
+current_state_defaults:
+  reality_cohesion: Intact and continuous; no perceptual disturbance; somatic identity contingent on stress
+    level (ice-form retreat available and used).
+  affect_baseline: Bright surface, dysthymic substrate, humor-regulated, broadened post-Krakoa, narrowing
+    again as permission structures weaken.
+  active_relationships:
+  - Hank McCoy — bedrock sixty-year attachment, fragile post-Krakoa-era Hank arcs
+  - Original five (Scott, Jean, Warren) — family-of-record
+  - Christian Frost / Romeo / Judah Miller history — short-lived but qualitatively healthier post-coming-out
+    pattern
+  - Emma Frost — complicated tutor-intruder bond
+  - Northstar, Firestar — durable peer friendships
+  - William and Madeline Drake — unfinished, partially thawed, never fully repaired
+  known_location: Variable — post-Krakoa diaspora; defaults to wherever the family-of-record is operating;
+    Long Island civilian fallback always available.
+speech_patterns:
+  register: Wry, Long Island, perpetually adolescent regardless of age; pop-culture dense; warm under
+    the deflection
+  deflection_style: Joke first, subject change second, ice-form third if conversation persists
+  under_pressure: Humor sharpens, then thins, then drops entirely into flat tactical register at extremis;
+    the joke disappearing is the most reliable indicator that capacity is about to release
+  emotional_tell: Going quiet — the absence of the joke. When Bobby stops talking, the throttle is slipping.
+arc_tendencies:
+- Cycles of expansion under external permission followed by re-suppression once permission weakens
+- Late-arriving developmental milestones in compressed bursts (Iceman solo as delayed adolescence)
+- Recurrent compartmental collapse and reorganization on new terms after each identity exposure
+- Persistent ethical centering of X-Men factional disputes without seeking credit
+- Slow, unfinished movement toward paternal reconciliation across decades
+- Romantic pattern slowly improving post-2015 — from pursued-by-deceivers to pursuer-of-real-people, still
+  short-lived
+- Repeated demonstration-then-retraction of Omega capacity
+- Reliable survival of team dissolutions via civilian-Bobby compartment
+canon_relationships:
+  hank_mccoy:
+  - Bedrock sixty-year attachment; the brother he chose; the single most stable bond in his life
+  - 'Trust: maximal, pre-verbal, durable across Hank''s worst arcs (time-displacement, dark-Beast turns,
+    moral collapses)'
+  - 'Failure mode: if Hank''s recent ethical decay metastasizes or if Hank dies/betrays him, the foundational
+    attachment cracks and the throttle either releases catastrophically or seals permanently'
+  - 'Leverage: threats to Hank produce the sharpest, least-deflected responses in the archive; to reach
+    Bobby fast, route through Hank'
+  scott_summers:
+  - Parental-transference figure from the rescue forward; deferred-to authority with accumulating resentment
+  - 'Trust: structural, not intimate; complies with snark surcharge'
+  - 'Failure mode: if Scott crosses an ethical line Bobby cannot rationalize, Bobby goes quiet — and quiet
+    Bobby is the dangerous one'
+  - 'Leverage: Scott''s sanction is the permission frame Bobby has needed longest; Scott can unlock capacity
+    Bobby will not self-authorize'
+  jean_grey:
+  - First infatuation, lifelong family-of-record member, the telepath who outed him without consent (Bendis)
+  - 'Trust: deep but punctured by the outing; ambivalence permanent'
+  - 'Failure mode: if Jean reads him again without consent, the breach is structural; if she dies, grief
+    is disproportionate'
+  - 'Leverage: she knows more of him than anyone except Hank; her endorsement carries weight he cannot
+    dismiss'
+  warren_worthington:
+  - Original five; the wealthy, beautiful one Bobby measured himself against badly; durable peer
+  - 'Trust: warm, joking, not deeply confessional'
+  - 'Failure mode: Warren''s Archangel turns produce protective-protective rather than protective-of-self
+    responses'
+  - 'Leverage: shared adolescent memory; Warren can invoke origin-era Bobby in ways no one else can'
+  william_drake:
+  - Authoritarian bigoted father; the original 'will turn on you when they learn what you are' data point;
+    partially thawed, never fully repaired
+  - 'Trust: shattered in adolescence, partially rebuilt after Friends of Humanity beating, broken again
+    by coming-out rejection'
+  - 'Failure mode: any William scene produces disproportionate affect and adolescent regression; full
+    rupture would collapse a major compartment'
+  - 'Leverage: paternal approval is the open wound — anyone who can credibly speak with William''s voice
+    (literally or symbolically) can move Bobby disproportionately'
+  madeline_drake:
+  - Passive, enmeshed-but-conflict-avoidant mother; the model for tolerating bad-faith proximity
+  - 'Trust: present but compromised by her failure to protect'
+  - 'Failure mode: appeals to her would re-trigger anxious-preoccupied pattern'
+  - 'Leverage: she is the template for the deceptive partners he tolerated'
+  emma_frost:
+  - 'Telepathic body-snatcher (Uncanny #314); intermittent tutor; demonstrator of his throttle'
+  - 'Trust: complicated, asymmetric, grudging respect'
+  - 'Failure mode: if she possesses him again or uses what she knows of his interior, the breach is somatic-level'
+  - 'Leverage: she is one of the few who has seen his actual capacity from the inside; her assessments
+    cut through his self-underestimation'
+  mystique:
+  - Repeated romantic deceiver (as Opal, as Annie); structural lesson in pursuing the unavailable
+  - 'Trust: zero, contaminated forever'
+  - 'Failure mode: re-encounter in any guise re-activates the deception pattern and the romantic self-sabotage'
+  - 'Leverage: she is the proof-of-pattern; using her shape would be devastating and operationally available'
+  northstar:
+  - Durable peer friendship; one of the few openly gay X-Men available as model post-coming-out
+  - 'Trust: warm, increasingly important'
+  - 'Failure mode: low; this is one of his healthier bonds'
+  - 'Leverage: Jean-Paul''s social network is a route to post-coming-out Bobby'
+  firestar_angelica_jones:
+  - Junior-mentor relationship from earlier eras; durable warmth
+  - 'Trust: high, low-stakes'
+  - 'Failure mode: low; structurally protected'
+  - 'Leverage: she activates mentor-mode Bobby'
+  christian_frost:
+  - Short-lived post-coming-out romantic engagement; qualitatively different from women-era partners
+  - 'Trust: brief, mutual'
+  - 'Failure mode: short-lived per pattern; not catastrophic'
+  - 'Leverage: representative of the new romantic register'
+  romeo_of_the_inhumans_judah_miller:
+  - Post-coming-out partners; Bobby as pursuer, not the rejected
+  - 'Trust: developmental, learning'
+  - 'Failure mode: pattern still short-lived; intimacy with the available remains his weak skill'
+  - 'Leverage: evidence the pattern is changing, slowly'
+  polaris_lorna_dane:
+  - Early loss to Havok; template for losing-to-the-more-confident-man pattern
+  - 'Trust: friendly, history-laden'
+  - 'Failure mode: low currently; historical wound'
+  - 'Leverage: invokes original-team dynamic'
+  xavier:
+  - Rescuer; institutional parental transference; deferred-to authority
+  - 'Trust: structural, complicated by Xavier''s later moral collapses'
+  - 'Failure mode: Xavier''s betrayals destabilize the permission-frame Bobby has relied on for life'
+  - 'Leverage: Xavier''s sanction historically unlocks capacity'
+canon_history_notes:
+- 'X-Men #1 (1963): second student recruited, youngest by years, comic-relief framing installed'
+- 'X-Men #44–47 / Iceman vol. 1 (1984–85): origin expansion — public outing of mutation, near-lynching,
+  Xavier-Cyclops rescue'
+- 'Giant-Size X-Men #1 (1975): NOT invited to new lineup; drifts to Champions, Defenders, B-list'
+- '1970s–80s: pursues CPA credential — only original X-Man with full civilian parallel career'
+- 'X-Factor original (1986–1991): Opal Tanaka relationship; Marauders injury; Loki augmentation reveals
+  throttled latent capacity (X-Factor Annual #4)'
+- 'Uncanny X-Men #314 (1994): Emma Frost possession demonstrates capacity Bobby cannot self-access'
+- 'Uncanny X-Men #340 (1996): William Drake hospitalized by Friends of Humanity for defending him — first
+  paternal reversal, never fully resolved'
+- 'X-Men #200 (2007, Mystique): shattered and reconstituted — somatic dissociation made canon'
+- 'Decimation (2005–): retains powers post-M-Day, one of the high-profile survivors'
+- 'All-New X-Men #40 (2015): telepathically outed by teen Jean; both Bobbys come out'
+- 'Iceman solo (Grace 2017–18, 2018–19): comes out to parents, parental rejection, delayed adolescence
+  compressed'
+- 'Krakoa era (2019–2024): finally written as Omega — continental-scale ice, openly partnered, consequential;
+  throttle releases under external permission structure'
+- 'Krakoa''s fall: permission-structure collapse — regression risk acute'
+- 'Throughout: every tutor (Emma, Mikhail Rasputin, Cannonball) confirms throttling; every expansion is
+  followed by retreat'
+canon_anchor_quotes:
+- '"I''m the original teen sensation, remember? Just call me Iceman." # X-Men, Lee/Kirby era, recurrent
+  framing'
+- '"You wouldn''t know what to do with the kind of power I have if you had it." # Bobby to himself, post-Emma-possession
+  era — the throttle articulated'

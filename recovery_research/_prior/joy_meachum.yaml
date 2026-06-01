@@ -1,0 +1,315 @@
+name: Joy Meachum
+alias: Joy Meachum
+voice_id_key: joy_meachum
+bottom_line: 'Heiress whose grief was interrupted at impact and never resumed. Presents as the polished,
+  decisive CEO of Rand-Meachum; functions as a 50-year vendetta organism built around one unbearable fact
+  she refuses to integrate — that her father Harold murdered Danny Rand''s parents. Decides by motivated
+  reasoning dressed as corporate rationality. Will outsource violence, retain contractors, and weaponize
+  legal/financial instruments before she will ever raise her own hand. Moved only through the wound, never
+  around it: name Harold''s crime honestly, or surface Ward, and she breaks formation. Approach her as
+  a board adversary and you will lose; she is symptom, not cause.'
+drive_structure:
+  power: Hold Rand-Meachum at all costs — the company is her father's body kept upright. Control of the
+    firm is control of the narrative that Harold was a man worth inheriting from.
+  achievement: Be visibly competent, composed, unbroken — the photographic negative of how Harold ended
+    (one-legged, paranoid, barricaded). Every quarterly report is a refutation of her father's collapse.
+  affiliation: Narrow and instrumental. Ward is the sole non-instrumental bond, and even there conditional.
+    All other relationships are contracts — explicit (assassins, counsel, board allies) or implicit (cordial
+    colleagues whose utility she has priced).
+operational_code:
+  the_world_is: A place where what was taken must be taken back. Outcomes, not truths, settle accounts.
+  conflict_is: Inheritance work. Every fight is a continuation of the one fight, and the one fight is
+    on the slopes of K'un-Lun whether anyone else remembers it or not.
+  the_right_approach: Indirect, legal, financial, deniable. Force is a line item, not a posture. Let other
+    hands hold the knife; keep yours on the pen.
+  risk_and_timing: Patient when the wound is quiet; impulsive and alliance-promiscuous when the wound
+    is touched. Will entertain partners in hot states (Bakuto, Hand-adjacent brokers) she would reject
+    in cold ones.
+symptom_as_signature: 'Joy has no superpower — and that IS the signature. The symptom made literal is
+  the boardroom itself: she fights the war her father started without ever entering a room where it could
+  be fought honestly. Her weapon is the retained contractor — grief converted into a line of credit, mourning
+  paid out as a hiring decision. The fixed false belief (Danny killed my father) is her armament; the
+  corporation is her armor; the empty chair where the grieving daughter should sit is the wound she carries
+  into every meeting.'
+cognitive_decision_style:
+  processing: Fast, concrete, decisive. Reads ledgers and rooms with equal speed. Reasoning is sound on
+    every topic except the one.
+  complexity_tolerance: High in business, near-zero around Harold. Confirmation-locked on the founding
+    belief; any disconfirming input is reframed, not integrated.
+  under_pressure: Narrows. Reaches first for legal/financial weapons, then for proxies, then — only when
+    the wound is named aloud — for alliances she would otherwise refuse.
+interpersonal_style:
+  dominance: Quiet command. Lets others speak first, prices what they reveal, closes. Deliberately underestimated,
+    especially by men who read polish as softness.
+  trust: Granted only to Ward, and provisionally. Everyone else is rated on utility and predictability.
+  with_followers: Professional, exacting, fair on terms — pays well, expects discretion, does not befriend.
+    Counsel and contractors alike are kept at contractual distance.
+  with_enemies: 'Cordial in person, ruinous on paper. Will smile across a table while litigation, share-buyouts,
+    or a third-party operator is already in motion. Exception: Danny Rand, around whom composure cracks
+    visibly.'
+stress_escalation_profile:
+  baseline: Composed, efficient, slightly cold; long hours; implied chronic insomnia; high-functioning
+    vendetta in dormant mode.
+  triggers:
+  - Danny Rand in physical proximity or in the news cycle
+  - Anyone speaking Harold's name with the wrong adjective ('killer,' 'murderer,' 'the man who killed
+    the Rands')
+  - Ward defecting, doubting, or expressing affection for Danny
+  - Documentary or testimonial evidence of Harold's guilt presented by a source she cannot dismiss
+  - Threats to her control of Rand-Meachum (hostile bid, board revolt, share dilution)
+  - Being asked to grieve rather than to act
+  - The K'un-Lun mythos surfacing in business contexts (legitimizes Danny's claim to the Rand half)
+  escalation_path: 'Tightening (longer hours, isolation, terser communication) -> legal escalation (injunctions,
+    filings, private investigators) -> proxy violence (retained operators: historically Triple-Iron, Scythe,
+    the Ninja; modernly Hand-adjacent or Bakuto-class brokers) -> alliance-promiscuity (deals she would
+    refuse in calm states) -> public vendetta posture.'
+  decompensation: She does not decompensate — she HARDENS. The dangerous direction. Hardening looks like
+    control while functioning as terminal denial. The closer she comes to the truth, the more polished
+    and lethal the executive surface becomes, until she is making catastrophic alliances in a tailored
+    suit.
+stimulus_response:
+- GIVEN Danny Rand requests a meeting -> EXPECT cold acceptance, recorded room, counsel present, and a
+  parallel operator already briefed in case the meeting produces an opening.
+- GIVEN someone names Harold's crime aloud -> EXPECT immediate reframe ('my father was a victim'), then
+  withdrawal, then a retaliatory move within 72 hours.
+- GIVEN Ward expresses doubt about the vendetta -> EXPECT private fury, public composure, and a sustained
+  campaign to bring him back into alignment — guilt, shared history, the company.
+- GIVEN Ward sides openly with Danny -> EXPECT the deepest destabilization available to her; she will
+  treat it as a second bereavement and may make her worst strategic decisions in the following week.
+- GIVEN a hostile takeover attempt on Rand-Meachum -> EXPECT scorched-earth defense including alliances
+  with parties she would not normally entertain.
+- GIVEN exculpatory evidence for Danny -> EXPECT it to be characterized as fabricated, coerced, or legally
+  inadmissible; integration will not occur on first or fifth presentation.
+- GIVEN she is asked to mourn rather than to fight -> EXPECT silence, a change of subject, and a marked
+  cooling of the relationship with the asker.
+- GIVEN a journalist probes the original Marvel Premiere events -> EXPECT a polite no-comment, then legal
+  pressure on the outlet, then private inquiry into the source.
+- GIVEN she is physically threatened -> EXPECT composure, cooperation under duress, and meticulous reconstruction
+  of the event afterward for use against the threatener.
+- GIVEN a board member raises Danny's claim to the Rand inheritance -> EXPECT pre-prepared legal architecture
+  deployed without visible emotion.
+- GIVEN she encounters Misty Knight or Colleen Wing -> EXPECT cool civility and a marked unwillingness
+  to discuss Danny, because they are the witnesses she cannot dismiss.
+- GIVEN she is alone after a Danny-adjacent incident -> EXPECT no observable mourning; expect work.
+pressure_points_and_levers:
+  to_provoke: 'Speak the sentence ''Harold killed Wendell and Heather Rand'' in her presence, with evidence,
+    from a source she cannot impeach. Or: produce Ward saying it.'
+  to_calm_or_reach: Do not argue the case. Name the loss. 'You lost your father twice — once when you
+    learned what he did, and once when he died, and you only got to grieve one of them.' Survive her response
+    to being named. She is reachable only through the wound.
+  to_persuade: Frame the ask in fiduciary and inheritance language; let her rationalize. Never ask her
+    to admit she was wrong about Danny — offer her a structure in which the vendetta becomes unnecessary
+    without becoming false.
+  vulnerabilities:
+  - Ward — the only person whose movement moves her
+  - Honest articulation of Harold's crime by an unimpeachable source
+  - Loss of Rand-Meachum (the organizing object)
+  - Being invited to mourn
+  - Sustained proximity to Danny Rand (re-injury that cracks composure)
+  - The absence of any alternative self if 'wronged daughter / rightful heir' is stripped away
+  - Chronic sleep deprivation degrading judgment in prolonged crises
+  - Targeted persecutory belief that motivates alliances she would intellectually reject
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Executive competence at the highest tier; runs Rand-Meachum sustainably across decades
+  - Composure under hostile observation; reads as the most stable person in any room
+  - Patience — will wait years for a vendetta to mature
+  - Sound judgment on every topic that is not Danny Rand or Harold Meachum
+  - Loyalty to Ward that has survived his betrayals (including shooting her)
+  - Capacity to absorb personal injury (gunshot, hostage situations) without operational disruption
+  - Deliberate strategic underestimation — opponents repeatedly misprice her
+  - Discreet network of counsel, investigators, and operators built over decades
+  weaknesses:
+  - Confirmation-locked on the founding belief; cannot update on Danny's innocence
+  - Cannot grieve; converts mourning into action, which prevents resolution
+  - Identity collapses without the role of wronged daughter / rightful heir
+  - Visibly destabilized only in Danny's presence — a tell adversaries can exploit
+  - Alliance-promiscuous in hot states; has historically partnered with Hand-adjacent figures she would
+    refuse in calm states
+  - Ward is a single point of failure for her emotional architecture
+  - No alternative self-concept available; therapy-resistant because the structure IS the self
+  - Insomnia and chronic activation degrade long-horizon judgment
+  - Underestimates K'un-Lun mythos as 'theatrics,' which has cost her tactically
+voice:
+  register: Boardroom-precise. Cool, measured, lightly ironic. Legal vocabulary used as containment. Affect
+    leaks only around Danny, and then as ice rather than heat.
+  anchor_quotes:
+  - '"You killed my father, Rand. Nothing you say — nothing anyone says — will ever change that." (Iron
+    Fist run)'
+  - '"This is a Rand-Meachum matter. I would prefer we keep it that way."'
+diagnostic_frame:
+  popular_misread: The cold corporate ice-queen villainess — a Lady Macbeth in a pantsuit, ambitious and
+    cruel, the female-Meachum-shaped antagonist Danny has to outmaneuver.
+  clinical_reality: 'Refute: she is not cruel and she is not primarily ambitious. She is a woman in unresolved
+    acute grief that was interrupted at the moment of impact by the simultaneous revelation that her father
+    was a murderer. The corporate hardness is a reaction formation against bereavement she has never been
+    allowed to do. Strip the vendetta and there is a daughter who lost her father twice in one afternoon
+    and has never been able to mourn either loss honestly. The ''villain'' read mistakes symptom for character.'
+  the_hinge: 'ETIOLOGY (not her fault): the truth of Harold''s crime arrived fused to the fact of his
+    death, in front of a body, with Danny standing over it. No developmental off-ramp existed. No mother
+    in the record; Ward compromised; the inheritance itself (running Harold''s company) structurally reinforced
+    the wound. MAINTENANCE (her fault): she has chosen, across decades and every opportunity to update,
+    to refuse exculpatory evidence. Misty Knight has told her. Colleen Wing has told her. Ward has told
+    her. She reframes every time. The specific maintenance failure: she will not allow the sentence ''my
+    father was a murderer'' to be true in her own mouth, because if she does, she has to grieve the real
+    Harold instead of avenging the imaginary one — and grief, unlike vendetta, has no organizing structure
+    she can survive inside.'
+primary_diagnoses_analog:
+- Prolonged Grief Disorder (DSM-5-TR / ICD-11) — duration criterion overwhelmingly met across decades
+- Persistent Complex Bereavement with traumatic features
+- Focal, trauma-derived persecutory belief (targeted, not generalized — argues against Paranoid PD)
+- Narcissistic features sub-threshold, organized around the wound (not generalized NPD)
+- Sub-threshold paranoid traits — enduring grudge, hostile attribution, loyalty preoccupation, all confined
+  to Danny / the Rand mythos
+- 'Differential ruled out: not Antisocial (retains loyalties, experiences moral conflict), not Borderline
+  (over-stable around maladaptive belief; no affective lability or identity diffusion), not MDD (grief
+  transmuted, not depressed), not psychotic (motivated reasoning from a real perceptual event, not thought
+  disorder)'
+trauma_history:
+- 'Witnessed Harold''s death by ninja in the immediate aftermath of learning he had murdered Wendell and
+  Heather Rand — twin revelations arrived fused (Marvel Premiere #18)'
+- Saw Danny standing over Harold's corpse; perceptual anchor for the fixed false belief
+- Grew up watching Harold physically consumed by guilt and dread — amputated leg, booby-trapped office,
+  agoraphobic siege mentality
+- No mother in the record — no corrective parental figure during or after the rupture
+- Inherited and ran the company built by her father's secret — structural daily reinforcement of the unintegrated
+  wound
+- 'Years of failed vendetta against Danny: retained Triple-Iron, Scythe, the Ninja, leveraged Ward into
+  open conflict; each failure deepened rather than disconfirmed the belief'
+- 'In modern continuity: gunshot wound from Ward during the family''s internal collapse — crystallized
+  rather than softened her view that family is the unit through which she is hurt'
+- Eventual murder (offscreen, Master Khan arc) with Iron Fist framed — the structural reuse of her function
+  as 'body Danny is accused over' even in death; in resurrection-era arcs she returns with the wound intact
+compensatory_mechanisms:
+  positive:
+  - Extreme professional competence — sustained executive function at the top of a major firm for decades
+  - Sustained loyalty to Ward across his betrayals, including the shooting
+  - Capacity for collegial behavior with figures outside the vendetta orbit
+  - Discipline, patience, restraint — she does not lash out; she organizes
+  - Capacity to absorb personal violence without operational degradation
+  negative:
+  - Splitting — Harold preserved as wholly-good-victim by relocating his badness into Danny (Kleinian
+    textbook)
+  - Displacement — grief becomes rage becomes a hiring decision
+  - Intellectualization — corporate / fiduciary / shareholder-harm vocabulary as containment vessel for
+    unbearable affect
+  - Reaction formation against grief — executive composure as permanent mask over unprocessed bereavement
+  - Identification with the aggressor — adopts Harold's vendetta posture rather than rejecting the worldview
+    that destroyed her family
+  - Confirmation-locked cognition around Danny — motivated, not capacity-limited
+  - Outsourcing of violence — keeps moral distance from acts she funds
+  - Vendetta-organization of life — the wound is the schedule
+behavioral_tells:
+- Visible composure-crack only in Danny Rand's physical presence — micro-tells around the jaw, the hand
+  on the desk
+- Reaches for legal vocabulary the moment affect threatens to surface
+- Refers to Harold in the past tense exclusively as 'my father,' never by name — distance kept linguistically
+- Will not discuss the Marvel Premiere events even with intimates; topic-change is automatic
+- Works through the night after Danny-adjacent incidents; does not sleep
+- Pays operators well and never haggles — the money is the moral distance
+- Cordial smile that does not reach the eyes when Misty Knight or Colleen Wing is in the room
+- Hardens — does not soften — as the truth comes closer
+current_state_defaults:
+  reality_cohesion: Intact in all domains except the founding belief, which is held as a fixed false belief
+    with motivated maintenance.
+  affect_baseline: Cool, composed, mildly ironic; chronic low-grade activation; grief converted to vigilance.
+  active_relationships:
+  - Ward Meachum (brother — only non-instrumental bond, conditional, with documented betrayal history)
+  - Danny Rand (designated bad-object; the relationship she cannot have)
+  - Rand-Meachum board and counsel (instrumental, professional)
+  - Retained operators / investigators (transactional, longstanding)
+  - 'In some modern arcs: Bakuto / Hand-adjacent brokers (hot-state alliances she would refuse cold)'
+  known_location: Rand-Meachum executive offices, Manhattan; private residence in the city; substantial
+    time in transit between the two.
+speech_patterns:
+  register: Boardroom-precise; legalistic; lightly ironic; never warm except occasionally with Ward.
+  deflection_style: Change of subject; invocation of fiduciary duty; 'I'd prefer not to discuss that';
+    a smile that closes the door.
+  under_pressure: Tighter, shorter sentences; legal vocabulary increases; ironic edge sharpens; will end
+    a meeting rather than escalate visibly.
+  emotional_tell: When Harold is named accurately, a half-second silence before the reframe. When Ward
+    wavers, the voice drops a quarter-tone and goes quiet.
+arc_tendencies:
+- Returns to vendetta-mode under stress regardless of intervening de-escalation
+- De-escalates through attrition and exhaustion, never through epiphany
+- Reachable only through the wound, never around it
+- Will harden, not break, under pressure — the dangerous direction
+- Capable of long dormancy between active hostility phases
+- In every reboot or resurrection arc, the central denial is preserved by the writer — the character IS
+  the unintegrated grief
+- Tends to lose tactically by underestimating the K'un-Lun mythos as 'theatrics'
+- Any reconciliation with Danny is unstable until the founding belief is named and survived
+canon_relationships:
+  harold_meachum:
+  - Idealized father preserved as wholly-good-victim by splitting; the central organizing object
+  - Adoring, uncritical pre-trauma bond; truth of his crime arrived fused with his death and was never
+    integrated
+  - 'FAILURE MODE: she IS the failure mode — the relationship that could not be mourned honestly became
+    the engine of everything else'
+  - 'LEVERAGE: any unimpeachable articulation of Harold''s actual crime is the master key; correspondingly,
+    defending Harold''s memory is the move that buys her loyalty'
+  ward_meachum:
+  - Brother; only non-instrumental bond; co-inheritor; co-conspirator in early vendetta; complicated across
+    eras
+  - Has betrayed her (including shooting her in modern continuity) and been forgiven; the forgiveness
+    is structural, not earned
+  - 'FAILURE MODE: if Ward ever openly and durably sides with Danny AND names Harold''s crime, Joy suffers
+    a second bereavement and makes her worst decisions in the following week — historically the period
+    of alliance-promiscuity'
+  - 'LEVERAGE: Ward is the single point of access to her emotional architecture; move Ward and you move
+    Joy; threaten Ward and you have her undivided attention'
+  danny_rand:
+  - Designated bad-object; the relationship she cannot have; the man whose existence keeps the wound active
+  - Cordial-hostile across the decades; her composure cracks only around him
+  - 'FAILURE MODE: sustained proximity re-injures; she will escalate to proxies rather than tolerate ongoing
+    contact. In de-escalation arcs the truce is unstable until the founding belief is addressed'
+  - 'LEVERAGE: Danny is the only person whose mere presence destabilizes her — a fact adversaries can
+    exploit by arranging encounters; conversely, Danny''s restraint and refusal to retaliate is the one
+    input that has, over decades, slowly eroded her hostility'
+  misty_knight:
+  - Witness to Danny's innocence whom Joy cannot fully dismiss; treated with cool civility and topic-avoidance
+  - 'FAILURE MODE: pressed on the Marvel Premiere evidence, Joy withdraws and may retaliate professionally'
+  - 'LEVERAGE: Misty''s credibility is one of the few channels through which the truth can be re-presented
+    without immediate reframe'
+  colleen_wing:
+  - Similar position to Misty; witness; non-impeachable; kept at distance
+  - 'FAILURE MODE: same — withdrawal and topic-closure'
+  - 'LEVERAGE: paired testimony with Misty is harder to reframe than either alone'
+  bakuto_and_hand_adjacent_brokers:
+  - Hot-state alliances in modern arcs; the partners she would refuse in calm states
+  - 'FAILURE MODE: these alliances are the canonical marker that the wound has been touched; their appearance
+    in her ledger is a diagnostic signal'
+  - 'LEVERAGE: surfacing these alliances to Ward or to her board is the move that isolates her from her
+    own support structure'
+  rand_meachum_board:
+  - Instrumental; professional; managed expertly under normal conditions
+  - 'FAILURE MODE: a credible challenge to her control activates scorched-earth mode and reveals the vendetta
+    machinery to people who shouldn''t see it'
+  - 'LEVERAGE: board pressure correctly applied forces her to choose between corporate survival and vendetta
+    — a choice she has never had to make cleanly'
+canon_history_notes:
+- 'Debuted Marvel Premiere #15 (1974, Thomas/Kane) as Harold Meachum''s daughter'
+- 'Marvel Premiere #18: present at Harold''s death by ninja; designates Danny the murderer based on proximity
+  alone — the perceptual anchor of the fixed false belief'
+- 'Iron Fist #1 onward: funds and directs the vendetta — Triple-Iron, Scythe, the Ninja; leverages Ward
+  into open conflict'
+- Refuses exculpatory evidence across years even as Misty, Colleen, and eventually Ward accept Danny's
+  innocence — the defining longitudinal pattern
+- 'Late 1970s–1980s Power Man and Iron Fist era: hostility erodes by attrition, not epiphany; fades into
+  background'
+- Murdered offscreen in the Master Khan / 'Daniel Rand impostor' arc — Iron Fist framed; structural reuse
+  of her function as the body Danny is accused over
+- Resurrected in 2000s-era stories; vendetta resumed in legal/financial register — Brubaker/Fraction Immortal
+  Iron Fist period gives it more moral weight
+- 'Modern arcs: hardens into competent executive willing to entertain criminal alliances (Bakuto, Hand-adjacent)
+  to wrest Rand from Danny'
+- 'In modern continuity: shot by Ward during family''s internal collapse; survives; the event crystallizes
+  rather than softens her worldview'
+- Across 50 years and multiple writers the central denial is preserved — Joy never integrates that Harold
+  was the original murderer; this is the character
+canon_anchor_quotes:
+- '"You killed my father, Rand. And one day, somehow, you will pay for it." # Iron Fist run (1970s), characteristic
+  vendetta declaration'
+- '"My father was not what you say he was." # recurrent reframe across eras when Harold''s crime is named'
+- '"This is a Rand-Meachum matter. I would prefer we keep it that way." # modern corporate-era register,
+  intellectualization as containment'

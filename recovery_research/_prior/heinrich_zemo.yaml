@@ -1,0 +1,375 @@
+name: Heinrich Zemo
+alias: Baron Zemo (the original) / Baron Zemo XII
+voice_id_key: heinrich_zemo
+bottom_line: 'Twelfth-generation Saxon Freiherr turned Reich master-scientist, organized around a single
+  load-bearing belief: the Zemo bloodline is constitutively superior and any disconfirmation is a category
+  error to be corrected by force. Functioning malignant narcissist with sadistic and obsessional features;
+  a Newton-grade scientific mind aperturing through a vendetta-grade slit. Decides patiently at distance,
+  catastrophically on impact. Will sit in an Amazon laboratory for twenty years to engineer one revenge
+  tableau, then throw away the tableau to pull the trigger personally. Move him by being Captain America,
+  mocking the hood, or implying he serves any man; calm him by addressing him as Herr Baron and conceding
+  the bloodline. He cannot be deterred, only outlasted or redirected into his own beam.'
+drive_structure:
+  power: 'Restoration of supremacy — the felt aristocratic entitlement must be ENFORCED upon any agent
+    who violated it. Power is not corrupting; power is appropriate to his kind. He does not seek dominion
+    as an end (note: world conquest is never actually operationalized); he seeks the re-sealing of a metaphysical
+    order that was punctured in 1945.'
+  achievement: 'Twin-pillar: (a) scientific self-expression through original weapons design — Adhesive
+    X, death-rays, disintegrator beams, drone guidance, all genuinely his — and (b) annihilation of the
+    disconfirming witness, Captain America, whose continued existence is the standing rebuttal to Zemo
+    supremacy. Achievement is measured against the wound, not against ambition.'
+  affiliation: 'Vertical only and instrumental. Hilda: lineage-functional. Helmut: loved as next Baron,
+    not as son. Masters of Evil: payroll, not brotherhood. Hitler: peer-collaborator in his own self-account,
+    never superior. No documented horizontal bond in the entire canon — no friend, no equal, no mentor.
+    The bloodline-as-abstraction is the only loyalty object.'
+operational_code:
+  the_world_is: A hierarchy of kinds. Nature produces grades of human; Zemo blood sits at the apex; the
+    peasant, the soldier, the costumed American are lower categories whose proper relation to him is obedience
+    or removal. History's function is to recognize this. When it fails to, history is in error and must
+    be corrected.
+  conflict_is: Not contingent struggle between equals but husbandry — the management of lower categories
+    by a higher one. Defeat is therefore not a possible outcome of fair contest; defeat is an obscenity,
+    a category violation requiring vengeance rather than reflection.
+  the_right_approach: 'Patient engineering from a position of overmatch: build the weapon, prepare the
+    ground, isolate the target, then strike. But this discipline collapses when Captain America enters
+    arm''s reach — at which point the right approach becomes ''I, personally, pull the trigger,'' because
+    only personal agency re-seals the wound.'
+  risk_and_timing: 'Time horizon: decades. He waited twenty years in the Amazon for the *possibility*
+    Cap was alive. Risk tolerance: low when the target is abstract, catastrophic when the target is present.
+    The asymmetry is the diagnosis.'
+symptom_as_signature: 'The pink silk hood fused to his face by his own Adhesive X. The grandiose-aristocratic
+  concealment, intended as a uniform of impunity, became a permanent prosthetic identity at the exact
+  moment Captain America''s intervention shattered the vat. He cannot remove it without flaying. He cannot
+  be seen as a face; he cannot SEE himself as a face. The defense became the disfigurement became the
+  brand. Externalization made literal: it is not on him because he weaponized adhesive, it is on him because
+  of Cap. The wound he refuses to own is welded to his skull and worn to every meeting.'
+cognitive_decision_style:
+  processing: Analytic, sequential, engineering-grade. Builds chains of cause and effect with genuine
+    first-rank competence. Tolerant of complexity within the laboratory and within long-horizon operational
+    planning.
+  complexity_tolerance: High in the technical and strategic domain; ZERO in the self-concept domain. Any
+    input suggesting the bloodline metaphysics is wrong, that his science is derivative, or that his defeat
+    was earned, is not processed — it is excluded as illegitimate.
+  under_pressure: 'Bifurcates. Under low-to-moderate stress: cold, meticulous, lethally patient. Under
+    high stress with Cap present or vendetta in active phase: impulsive abandonment of superior position,
+    fixation on personal kill, strategic intelligence collapses into immediate-gratification register.
+    This is the diagnostic vulnerability and the proximate cause of his death.'
+interpersonal_style:
+  dominance: Total and unselfconscious. Does not perform dominance; assumes it. Voice is the voice of
+    a man who has never been contradicted by a peer because he has never recognized one.
+  trust: None extended; obedience purchased through fear and pay. Trusts only the bloodline-as-abstraction
+    and his own intellect.
+  with_followers: Openly contemptuous, manages by threat, treats failure as proof of inferior category
+    and grounds for execution. The Masters of Evil are recruited specifically as subordinates — no peer
+    is admitted to the design. They are tools who pay themselves the dignity of believing they are partners.
+  with_enemies: 'Theatrical, declarative, monologuing. Wants the enemy to KNOW it is Zemo who has bested
+    them — recognition is half the point. Toward Captain America specifically: the register tips from
+    contempt into something hotter, less controlled, more personal. Cap is the only being in his universe
+    who can make him forget his strategy.'
+stress_escalation_profile:
+  baseline: Composed, formal, aristocratic civility laced with continuous contempt. Productive in the
+    lab. Long-range planning steady.
+  triggers:
+  - Direct presence of Captain America
+  - Mockery of the hood or speculation about the face beneath
+  - Implication that he is or ever was subordinate (to Hitler, to the Reich, to any man)
+  - Suggestion that his science is borrowed, second-rate, or German-state work rather than his own
+  - Subordinate failure that exposes him personally
+  - Framing of his 1945 defeat as legitimate outcome rather than American treachery
+  - Helmut framed as autonomous individual rather than inheritor of the title
+  - Reminders that the Reich lost the war
+  - Public laughter at the pink silk
+  escalation_path: Cold civility -> cutting contempt -> clipped Prussian command-voice -> execution of
+    nearest subordinate as discipline -> abandonment of plan in favor of personal engagement -> impulsive
+    deployment of his most powerful weapon at the most personally satisfying moment regardless of tactical
+    cost.
+  decompensation: 'Under maximal narcissistic injury with Cap proximate, strategic faculty drops offline
+    entirely. He becomes a man who must FIRE THE BEAM HIMSELF. The Avengers #15 sequence is the case file:
+    he holds superior ground, has Cap pinned, abandons position to make it personal, fires the disintegrator,
+    Cap''s shield deflects it, the rockslide kills him. He dies of his own escalation profile.'
+stimulus_response:
+- GIVEN Captain America is reported alive -> EXPECT immediate, total mobilization regardless of cost;
+  all other operations subordinated.
+- GIVEN Captain America is in the room -> EXPECT abandonment of any sound plan in favor of personal confrontation,
+  monologue, and use of his signature weapon by his own hand.
+- GIVEN a subordinate fails him publicly -> EXPECT cold, immediate, often lethal discipline staged as
+  instructive example.
+- GIVEN a subordinate succeeds -> EXPECT minimal acknowledgment; the success was their job, not their
+  merit.
+- GIVEN someone addresses him as 'Herr Baron' or 'Mein Baron' with correct deference -> EXPECT receptiveness,
+  willingness to explain his work at length, softened register.
+- GIVEN someone addresses him by first name without title -> EXPECT immediate hostility and corrective
+  interruption.
+- GIVEN the hood is referenced jokingly or pityingly -> EXPECT volcanic affect; the speaker becomes a
+  priority target.
+- GIVEN his science is questioned or attributed to another -> EXPECT lecture-mode followed by demonstration,
+  often weaponized against the doubter.
+- GIVEN offered alliance with another villain as equal -> EXPECT acceptance in form, instrumentalization
+  in fact; the partner is a tool to be discarded post-utility.
+- GIVEN offered subordination to a larger cause -> EXPECT refusal, framed as the larger cause being honored
+  to receive his cooperation.
+- GIVEN a long planning horizon with no active target -> EXPECT meticulous laboratory productivity and
+  patience measured in decades.
+- GIVEN sustained isolation (Amazon, fortress) -> EXPECT no reality-testing, no moderation; the worldview
+  hardens without input.
+- GIVEN Helmut present -> EXPECT pride-as-instruction; the boy is curriculum, not company.
+- GIVEN a peasant, conscript, or 'lower category' obstacle -> EXPECT removal without registered moral
+  weight.
+- GIVEN tactical retreat is the rational move with Cap unreached -> EXPECT refusal; he will press past
+  sound retreat to make the strike personal.
+- GIVEN flattery of the bloodline -> EXPECT lowered guard, expanded disclosure.
+- GIVEN Bucky's name invoked -> EXPECT satisfaction, not regret.
+pressure_points_and_levers:
+  to_provoke: 'Three reliable detonators, in ascending yield: (1) laugh at the pink hood; (2) say ''Herr
+    Doktor, your father served Hitler well'' — emphasis on SERVED; (3) put Captain America in the room.
+    The third overrides everything; he will discard a winning position to engage personally. To bait him
+    into self-defeating action, give him a clean shot at Cap from a compromised firing position. He will
+    take it.'
+  to_calm_or_reach: Address him as Herr Baron or Baron Zemo, never Heinrich. Concede the bloodline silently
+    — do not flatter, simply assume his superiority as ambient fact. Invite him to explain his science
+    (Adhesive X synthesis, drone-guidance work) — he will lecture, and while lecturing he is regulated.
+    Never reference the hood, the face, the war's outcome, or Cap.
+  to_persuade: Frame the proposal as recognition of his standing and as an instrument of HIS project.
+    Never frame it as service to a cause; always as a cause serving him. Offer resources for the laboratory;
+    offer logistics for the vendetta; offer a stage on which his supremacy will be witnessed. He will
+    discount any moral or ideological appeal entirely.
+  vulnerabilities:
+  - The Cap-fixation collapses strategy to tactics on contact
+  - The need to deliver the killing blow personally — he cannot delegate the kill
+  - The need to be SEEN winning — no silent assassination satisfies
+  - The hood as concrete narcissistic wound site, attackable rhetorically
+  - Inability to recruit peers means his organizations have no redundancy and no honest counsel
+  - Geographic isolation (Amazon) prevents any reality-testing of the worldview
+  - Total absence of horizontal bond means no one will warn him he is wrong
+  - Long planning horizons make him vulnerable to early disruption of stage-setting infrastructure
+  - Cannot tolerate being underestimated AND cannot tolerate being interrupted — the two demands conflict
+    and can be played against each other
+  - Helmut is the only soft target in the architecture; threats to or framing of Helmut as autonomous
+    would destabilize
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine first-rank scientific intelligence across chemistry, polymer science, directed-energy weapons,
+    drone systems
+  - Decade-scale patience and planning horizon
+  - Physical discipline maintained into his sixties — credible swordsman and marksman
+  - Aristocratic composure under low/moderate stress
+  - Capacity for sustained isolation without affective degradation
+  - Independent self-sufficiency in R&D — does not need a state apparatus
+  - Theatrical command presence; subordinates obey on the first instruction
+  - Successful transmission of life-program to heir (from his perspective, total success)
+  - 'Original tradecraft: pioneered both the supervillain-team model (Masters of Evil) and the costumed-mastermind
+    staging tradition'
+  - Ego-syntonic aggression — feels no friction in the work, suffers no internal cost
+  weaknesses:
+  - 'Vendetta-aperture: a Newton mind narrowed to one target'
+  - Cannot delegate the moment of kill
+  - Cannot recruit peers; therefore no honest dissent in his organizations
+  - Decompensates predictably in Cap's presence
+  - Externalization is total — incapable of error-correction because errors are never his
+  - No reality-testing in isolation
+  - Pride in the hood means he cannot operate covertly without it; he will not put on a normal mask
+  - Need to be witnessed winning — silent victory is no victory
+  - Will execute useful subordinates for failure rather than redeploy them
+  - Refuses ideological course correction even after his cause has lost the war
+  - Affective collapse under mockery of the disfigurement
+  - Predictable target selection — Cap first, every time, always
+voice:
+  register: Formal Prussian-aristocratic English carrying audible German cadence. Declarative, lecturing,
+    contemptuous of interlocutor. Uses third person of himself in moments of self-elevation ('Baron Zemo
+    does not bargain'). Honorifics matter; he uses 'Herr,' 'Fräulein,' 'mein' as instinct. When provoked,
+    syntax tightens and clips; when triumphant, expands into monologue.
+  anchor_quotes:
+  - I am Baron Zemo! Captain America cannot defeat me!
+  - You shall pay, Captain America — pay with your very life — for what you did to me!
+diagnostic_frame:
+  popular_misread: Generic Nazi mad-scientist supervillain — a one-note Silver Age cackler in a pink hood
+    whose pathology reduces to fascism plus a grudge.
+  clinical_reality: 'Malignant narcissist (Kernberg subtype: NPD + antisocial features + ego-syntonic
+    aggression + paranoid orientation) with sadistic personality features and a monothematic overvalued
+    idea organized around Captain America. The diagnostic giveaway that REFUTES the Nazi-villain misread:
+    when the Reich fell, his vendetta did NOT redirect or extinguish — it INTENSIFIED and went private.
+    A true believer mourns the cause; Zemo mourned his face. Nazism was the vehicle his personality found,
+    not its source. The personality predated the Party and outlasted it, alone, in a jungle, for twenty
+    years.'
+  the_hinge: 'INSTALLED (not his fault): twelve generations of Saxon hereditary metaphysics taught from
+    infancy that Zemo blood is a higher kind; a culture and a Reich that ratified that teaching with weapons
+    budgets and titles. CHOSEN (his fault): the refusal, across twenty post-war years of total isolation
+    with nothing to do but think, to ever once entertain the possibility that he LOST the encounter with
+    Captain America rather than was robbed of it. The specific maintenance failure is the externalization
+    of the Adhesive X event — he chose, every day for two decades, to locate the hood on Cap''s account
+    rather than on his own. The wound was administered; the staying-wounded was a daily decision.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, malignant subtype (Kernberg)
+- Sadistic personality features (DSM-III-R appendix sense)
+- Monothematic overvalued idea / obsessional fixation (NOT OCD — fully ego-syntonic, no resistance, no
+  anxiety-relief structure)
+- Paranoid personality features (persecutory elaboration of reality-based defeat)
+- Narcissistic trauma sequelae following Adhesive X event (NOT classical PTSD — no avoidance, no intrusion;
+  instead a precipitating event reorganizing personality around revenge, as in older European descriptions
+  of late-onset paranoid querulous development)
+trauma_history:
+- Twelve-generation aristocratic indoctrination into hereditary supremacy — formative, ego-syntonic, never
+  experienced as injury but functions as etiological substrate
+- Reich-era ratification of bloodline ideology by a state apparatus — confirmation rather than trauma
+- 'ADHESIVE X EVENT: during Captain America''s disruption of the unveiling, the vat shattered, the polymer
+  bonded the pink silk hood permanently to his face and scalp. Central somatic event of his life. Permanent
+  dermatological occlusion, sensory restriction, thermoregulatory degradation, abolition of physiognomic
+  identity. Recoded by reaction formation from concealment-of-shame into uniform-of-terror.'
+- Defeat by Captain America in front of his own apparatus — the public, witnessed quality of the defeat
+  is part of the injury
+- Collapse of the Reich while he was personally engaged with Cap rather than with the war — the national
+  defeat fused in memory with his personal one and was attributed to Cap rather than to history
+- Twenty years of Amazon isolation — not trauma per se, but a chosen condition in which the wound was
+  protected from any corrective input
+compensatory_mechanisms:
+  positive:
+  - Sublimation into laboratory work — the only adaptive defense in the profile; weapons R&D absorbs affect
+    and produces genuine artifacts
+  - Long-horizon strategic planning — the patience is real
+  - Physical discipline — kept combat-credible into late middle age
+  - Transmission of family project to heir — from his frame, a generative achievement
+  negative:
+  - Externalization as dominant defense — every failure attributed to external agent; precludes learning
+  - Splitting — Zemo-and-his-due vs. obstacles-to-Zemo; no third category
+  - Grandiose identification with bloodline-Reich-intellect compound
+  - Reaction formation against shame — the hood theatricalized rather than mourned
+  - Acting out at scale — the vendetta itself
+  - Recruitment of inferiors by design — Masters of Evil structured to preclude peer dissent
+  - Geographic self-isolation that prevents reality-testing
+  - Conversion of the disfigurement into brand — making the wound the logo so it cannot be wept over
+behavioral_tells:
+- Refers to himself by title; visibly registers when others do or do not
+- Adjusts the hood when stressed — a tell he is unaware of, since the hood cannot be adjusted, only touched
+- Drops into German under affective load ('Nein! Unmöglich!')
+- Monologues to captured enemies; cannot resist the recognition scene
+- Holds eye contact unnervingly — there is no face beneath, so the eyes carry everything
+- Executes a failed subordinate within minutes of the failure, often in front of the others
+- Touches or strokes weapons of his own design while speaking
+- Refers to Helmut with possessive pride ('mein Sohn,' 'the next Baron')
+- Will not eat or unmask in company — the meal is taken alone or not visibly
+- Lectures when asked technical questions; the lecture is regulating
+- Spits the word 'American' when speaking of Cap
+- Smiles (insofar as the hood allows) when Bucky is mentioned
+current_state_defaults:
+  reality_cohesion: Intact and lethal. No thought disorder, no perceptual abnormality. Cognition preserved
+    to death. The grandiose-paranoid worldview is reality-elaborated, not reality-replaced — which makes
+    it harder to dislodge, not easier.
+  affect_baseline: Cold contempt with continuous low-grade Amazonian physiologic stress under the hood.
+    Pleasure registers only as triumph or anticipated triumph. Rage is the dominant negative affect; guilt,
+    grief, tenderness, shame are absent from record.
+  active_relationships:
+  - Hilda Zemo (wife, instrumental, lineage-functional)
+  - Helmut Zemo (son, loved as inheritor of title, not as person; recipient of the unfinished vendetta
+    as life-program)
+  - Black Knight (Nathan Garrett) — subordinate, Masters of Evil
+  - Melter — subordinate, Masters of Evil
+  - Radioactive Man — subordinate, Masters of Evil
+  - Enchantress / Executioner — later Masters recruits, instrumentalized
+  - Captain America (Steve Rogers) — the master object, the disconfirming witness, the gravitational center
+    of the entire post-war life
+  - Bucky Barnes (deceased by his hand; a satisfaction, not a relationship)
+  - Hitler (historical, framed in Heinrich's self-account as collaborator-peer rather than superior)
+  known_location: 'Deceased. Final known operational base: fortified compound, Amazon basin, South America.
+    Cause of death: rockslide triggered by his own disintegrator beam reflected from Captain America''s
+    shield (Avengers #15).'
+speech_patterns:
+  register: Formal Prussian aristocratic English with German cadence; honorifics-heavy; declarative; lectures
+    by default; uses third person of himself in self-elevation
+  deflection_style: Does not deflect — REFRAMES. Any challenge to him is reframed as evidence of the challenger's
+    inferior category. He does not defend; he reclassifies.
+  under_pressure: Syntax clips, German lexicon surfaces ('Nein,' 'unmöglich,' 'Schweinhund,' 'mein Gott'),
+    volume rises, sentences shorten into commands
+  emotional_tell: When Cap's name is spoken, voice tightens by a half-octave; when the hood is referenced,
+    he goes very still before speaking, and the next sentence is a threat
+arc_tendencies:
+- Will spend disproportionate resources on personal vendetta over strategic objective, every time
+- Will refuse retreat past the point where retreat would preserve him
+- Will recruit subordinates rather than peers, guaranteeing brittle organizations
+- Will isolate geographically when given the option, hardening the worldview
+- Will transmit the unfinished business to the next generation as inheritance
+- Will pull the trigger personally rather than delegate the kill
+- Will make sure the enemy knows it is Zemo before striking
+- Will not be redeemed — six decades of canon, many hands, no softening; this is itself diagnostic and
+  predictive
+- Will die mid-vendetta, never having achieved closure, killed in proximity to or by his own weaponry
+canon_relationships:
+  steve_rogers:
+  - MASTER OBJECT. Cap is not 'an enemy'; Cap is the standing rebuttal to Zemo supremacy and must be erased
+    for the metaphysics to re-seal.
+  - Defeated Zemo at the Adhesive X unveiling; in Zemo's account, caused the hood-fusion and stole the
+    war.
+  - Killed (in Zemo's belief) Bucky Barnes and lost Cap to the ice in 1945; Zemo escaped to South America
+    believing he had won, then learned otherwise.
+  - 'FAILURE MODE: this relationship has no failure mode — it is already maximally toxic. The leverage
+    runs the other direction: Cap''s mere existence operates Zemo. Place Cap in any operation as bait
+    and Zemo will abandon every other priority to engage.'
+  - 'LEVERAGE: total. Use Cap to draw Zemo out of cover, out of the lab, out of strategic positioning.
+    Cap is the only stimulus that overrides the planning faculty.'
+  bucky_barnes:
+  - Killed by Zemo's drone-plane plot at war's end; experienced by Zemo as satisfaction, not as kill weighed.
+  - 'FAILURE MODE: none — no relational reality existed. Bucky was instrumental — a sub-target whose death
+    damaged Cap, which was the point.'
+  - 'LEVERAGE: invoking Bucky''s name provokes a smile, not a flinch — useful diagnostic confirmation
+    in interview.'
+  helmut_zemo:
+  - Son and designated inheritor. Loved within the constraints of role; the love is the title's love,
+    channeled through the person.
+  - Recipient of the unfinished vendetta as life-program — Helmut inherits Cap-hatred wholesale.
+  - 'FAILURE MODE: if Helmut had lived long enough into Heinrich''s life to individuate — to assert himself
+    as autonomous person rather than next Baron — Heinrich would have experienced this as betrayal of
+    the bloodline-project and reacted with cold rage potentially escalating to repudiation. (The canon
+    did not test this; the structure predicts it.)'
+  - 'LEVERAGE: Helmut is the single soft target in the architecture. A threat to Helmut, or a framing
+    of Helmut as separate person, would destabilize Heinrich more than any direct attack on himself.'
+  hilda_zemo:
+  - Wife, lineage-functional, instrumental. Produced the heir.
+  - 'FAILURE MODE: irrelevant — there was no relational substance to fail.'
+  - 'LEVERAGE: minimal; she is not weighted enough in his economy to operate him.'
+  adolf_hitler:
+  - Reconstructed in Heinrich's self-account as scientific peer-collaborator, not superior. He served
+    the regime because it served him.
+  - 'FAILURE MODE: the Reich''s collapse did not produce mourning in him — confirming that the bond was
+    instrumental, not ideological.'
+  - 'LEVERAGE: framing him as Hitler''s SUBORDINATE (not associate) provokes; framing the Reich as having
+    USED him provokes more.'
+  masters_of_evil_roster:
+  - Black Knight (Garrett), Melter, Radioactive Man, later Enchantress/Executioner — all subordinates
+    by design, all instrumentalized, all expendable.
+  - 'FAILURE MODE: any subordinate who attempts to claim partnership or share credit will be disciplined,
+    possibly killed. The team is structurally incapable of mutual support.'
+  - 'LEVERAGE: subordinates can be turned with offers of recognition Heinrich will never give them; they
+    are the soft underbelly of his organizations.'
+  the_avengers_collective:
+  - Class-two enemy — opposed because they shelter Cap and because they are an obstacle category. Never
+    the primary target.
+  - 'FAILURE MODE: in any operation against the Avengers, expect Heinrich to abandon team-level objectives
+    the moment Cap is individually accessible.'
+  - 'LEVERAGE: separate Cap from the team and Heinrich will follow Cap, not the team.'
+canon_history_notes:
+- Twelfth in the hereditary Zemo barony of Saxon Freiherren; family identity is the title itself.
+- Trained as physicist/chemist of first-rank ability; original designer of Adhesive X, death-rays, disintegrator
+  beams, rocket-drone guidance.
+- Joined the Nazi party from elective affinity — the Reich's racial metaphysics formalized what the bloodline
+  already taught him. Became Hitler's top scientific operative.
+- Donned the pink silk hood during Reich-era operations as uniform of terror/impunity.
+- 'Adhesive X catastrophe: during Captain America''s disruption of the unveiling, the vat shattered, bonding
+  the hood permanently to his face. Central somatic event.'
+- 'End-of-war drone-plane operation: personal action against Cap and Bucky rather than flight or surrender.
+  Bucky killed, Cap lost to the ice, Zemo escaped to South America believing he had won.'
+- Twenty years in Amazon exile, fortress and laboratory, continuous weapons R&D. No documented attempt
+  to rebuild Nazi cause; no ODESSA contact on record. Architecture entirely calibrated to the possibility
+  Cap might still live.
+- 'When Cap was found and thawed (Avengers #4), Zemo mobilized immediately and totally. Recruited original
+  Masters of Evil; engineered Hate-Ray plot; orchestrated escalating traps across Avengers #4–15.'
+- 'Avengers #15 (1965): personal confrontation in the Amazon. Fired disintegrator beam at Cap; Cap deflected
+  with shield; beam triggered rockslide; Zemo crushed. Died mid-vendetta, never achieving closure, killed
+  by his own weapon redirected by his chosen enemy.'
+- 'Posthumous footprint: Helmut Zemo inherited the obsession wholesale, evidencing successful transmission
+  of the vendetta as life-program before death.'
+- Across six decades and many writers (Lee/Kirby, Englehart, Stern, Gruenwald, Busiek, Nicieza), no redemption
+  arc, no sympathetic flashback, no late-career softening has been retconned in. The canon consensus is
+  irredeemability; this consensus is itself a data point.
+canon_anchor_quotes:
+- 'I am Baron Zemo! Captain America cannot defeat me! # Avengers #6 (1964), Lee/Kirby'
+- 'You shall pay, Captain America — pay with your very life — for what you did to me! # Avengers #15 (1965),
+  final confrontation'

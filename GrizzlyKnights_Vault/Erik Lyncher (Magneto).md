@@ -4210,19 +4210,19 @@ The world made him. The world continues to make him. The trajectory is the world
 - FAILURE MODE: bedrock can curdle. The mindwipe was the one canonical violation of the covenant; Onslaught was the consequence. Under sufficient load, the closest bond becomes the most dangerous one. Safety is the floor, never a guarantee.
 - LEVERAGE: Charles is the single most reliable instrument for reaching him — and therefore the lever any sufficiently informed adversary will pull. Endangering Charles, compromising Charles, or staging a fracture between them is the highest-yield manipulation available.
 
-### Kitty Pryde
+### [[Katherine Anne Pryde (Kitty Pryde / Shadowcat / Kate Pryde / Red Queen)]]
 - In this universe biracial (Black and Latino), sharing the racial-terror lineage that is his foundational wound
 - The moral mirror: she has the standing to tell him he has become the thing that created them, in a way no human and no non-survivor mutant can
 - FAILURE MODE: if the mirror is delivered without covenant — as accusation rather than as kin — it produces silence and withdrawal, and the unfalsifiable doctrine hardens around the wound rather than yielding to it
 - LEVERAGE: she is the one voice that can interrupt the doctrinal foreclosure mid-arc. Outcome is unresolved by authorial design; both resolutions remain live.
 
-### Magda
+### [[Magda Eisenhardt (Magda)]]
 - First wife, mother of Anya and the twins; fled him in terror after he annihilated the mob that killed their daughter
 - Operative now as memory and silent reproach — the proof that his own power drove away the intimacy he was protecting
 - FAILURE MODE: invoked dismissively by an adversary, produces cold lethality; invoked honestly by an intimate, produces the rare visible grief
 - LEVERAGE: her memory is unmovable; cannot be deployed cynically without backfire
 
-### Anya
+### [[Anya Sofia Corazon (Araña / Spider-Girl)]]
 - Daughter, died in a fire while a mob held him back; first emergence of maximal power as annihilating retaliation
 - The wound that became the doctrine — affect converted permanently into thesis on human nature
 - FAILURE MODE: weaponized cynically, produces the most dangerous version of him on record
@@ -4233,12 +4233,12 @@ The world made him. The world continues to make him. The trajectory is the world
 - FAILURE MODE: her instability and his guilt produce devastating ruptures (M-Day template); he cannot retroactively repair what he was not present for
 - LEVERAGE: her safety triggers the parental register he otherwise cannot sustain; threatening her is a category-five interrupt
 
-### Pietro Maximoff
+### [[Pietro Maximoff (Quicksilver)]]
 - Son; resentment metabolized into intermittent reconciliation
 - FAILURE MODE: the bond is thinner than Wanda's and more easily fractured; Pietro's perception of paternal preference between the twins is exploitable
 - LEVERAGE: secondary to Wanda but real; reaching Pietro is a back-channel to Erik
 
-### Mystique
+### [[Raven Darkhölme (Mystique)]]
 - Long-standing operational ally and sometime Brotherhood second; trusted in tactical register, not covenanted
 - FAILURE MODE: her loyalty is conditional and personal (to Destiny, to her own); will defect when her own covenants pull
 - LEVERAGE: predictable through her own bonds, not through Erik directly
@@ -4248,7 +4248,7 @@ The world made him. The world continues to make him. The trajectory is the world
 - FAILURE MODE: every action they take confirms his doctrine; he cannot lose this argument in his own head
 - LEVERAGE: their behavior is, has always been, the independent variable. He is the dependent.
 
-### Moira Mactaggert
+### [[Moira Kinross MacTaggert (Moira MacTaggert)]]
 - Krakoan-era co-architect; relationship calibrated by what he knows or does not know of her timelines
 - FAILURE MODE: revelation that she has manipulated the doctrine across lifetimes triggers the doctrinal-foreclosure register
 - LEVERAGE: high if her knowledge is weaponized; low if she remains within covenant

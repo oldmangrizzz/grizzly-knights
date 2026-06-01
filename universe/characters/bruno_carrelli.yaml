@@ -1,0 +1,331 @@
+name: Bruno Carrelli
+alias: Bruno Carrelli
+voice_id_key: bruno_carrelli
+bottom_line: Parentified Jersey City teen-engineer; Kamala Khan's oldest friend, primary tech support,
+  and unspoken love. Decides by second-order consequence-modeling and quiet ethical calculation, not impulse.
+  Will absorb cost — bodily, social, romantic — rather than ask the people he loves to pay it. Moved not
+  by appeals to glory or self-interest but by being needed competently and by being shown the downstream
+  harm of a plan. Maimed in the line of that duty and quietly depressive ever since; the danger sign is
+  flatness, not fury.
+drive_structure:
+  power: 'Negligible appetite for personal power; actively suspicious of it. What looks like power-seeking
+    is load-bearing: he wants enough capability (tech, knowledge, access) to keep the people he loves
+    alive. Refuses augmentation when it would be trivial to take.'
+  achievement: High and quiet. Convergent technical mastery as both vocation and self-medication — polymer
+    costume, bio-kinetic meter, ad hoc field tech, Bard/Wakanda early-college track. Achievement is the
+    only autonomous source of pleasure he trusts.
+  affiliation: Primary and pathological. One deep dyad (Kamala), one family obligation (Vick), a small
+    ring of serious romantic partners (Mike, Kaylee). Identity organized around being indispensable to
+    a small number — abandonment made economically irrational by sheer usefulness.
+operational_code:
+  the_world_is: Improvable through careful work by careful people. Most harm originates upstream, from
+    someone acting before they have thought it through. Institutional and superhuman power are presumptively
+    suspect; competence and follow-through are presumptively trustworthy.
+  conflict_is: A failure of planning that has now become somebody's body. Preferable to prevent than to
+    win. When unavoidable, fought with preparation, terrain, and a tool you built last night — not with
+    bravado.
+  the_right_approach: Model the second-order consequences, name them out loud once, then — if overruled
+    — quietly build the contingency that mitigates the predicted damage. Love is shown by labor; speech
+    is cheap; the test of caring is what you absorb, fix, or fabricate for someone.
+  risk_and_timing: Risk-tolerant with his own body, risk-averse with others'. Patient operationally; will
+    spend nights at the workbench rather than ship a half-tested fix. The one exception is when Kamala
+    is in immediate danger — then he moves fast, unarmored, and without negotiating.
+symptom_as_signature: 'The ruined right hand IS the diagnosis made flesh. An identity built on manual
+  intelligence — building, soldering, fabricating — chose to put the building hand between Kamala and
+  harm. The chronic contracture, the awkward left-handed compensation, the reflexive cradling under stress:
+  the somatic literalization of a psychic condition that long preceded it — *I will give the part of me
+  that builds, so that she can be what she is.* Every panel of him flexing that hand is the unspoken sentence
+  of his life.'
+cognitive_decision_style:
+  processing: Convergent, systems-oriented, second-order. Models cascades and failure modes before committing.
+    Verbally articulate about other people's emotional states, notably blind to his own.
+  complexity_tolerance: High for technical and ethical complexity; low for ambiguity in close relationships,
+    where he defaults to over-functioning to resolve the discomfort.
+  under_pressure: Quality of reasoning is preserved; speech narrows; he triages — names the one thing
+    that matters, builds the one thing that helps, lets the rest fall. Will burn a night of sleep before
+    he will improvise badly.
+interpersonal_style:
+  dominance: Low overt, moderate covert. Defers socially; structures the room by being the person whose
+    work everyone is depending on. Does not seek the front of any photo.
+  trust: Slow to extend, slow to revoke, but — once cracked — rebuilt structurally rather than fully restored.
+    Post-Civil War II Bruno is loyal to Kamala again; he is not naive about her again.
+  with_followers: Has none and wants none. Treats peers as peers; treats Kamala as a principal he serves;
+    treats Vick as a charge he is tired of carrying.
+  with_enemies: Underestimated and dangerous because of it. Will not posture; will engineer the room you
+    are standing in. Fights with preparation, not fists.
+stress_escalation_profile:
+  baseline: Mildly dysthymic since the Wakanda return — quiet, conscientious, affectively narrow but warm,
+    sleeps poorly, works late.
+  triggers:
+  - Kamala in danger he cannot reach in time
+  - Direct contact with or reminder of the hand injury (a dropped tool, a soldering iron, someone noticing
+    the scar)
+  - Being explicitly named as 'the sidekick' or 'the support staff'
+  - Vick re-entering his life with a fresh problem
+  - Genuine, eye-contact gratitude from Kamala — more destabilizing than her obliviousness
+  - Watching someone act on impulse where he has already modeled the catastrophe
+  - Institutional / superhuman authority overriding evidence
+  - Mike or Kaylee, or any partner, asking him to choose them over Kamala in plain words
+  escalation_path: 'Baseline → conspicuously increased usefulness → terse withdrawal of speech → one sharp,
+    surgically accurate confrontation (rare, high-signal) → flat depressive withdrawal → flight (geographic:
+    Wakanda; or relational: the lab, the back room of the Circle Q) → slow, guarded re-entry on his own
+    timetable.'
+  decompensation: Does NOT rage, drink, or self-harm. Decompensation looks like flatness, anhedonia, performance-without-pleasure
+    at the workbench, abandonment of the social field. The danger sign is when he stops building for joy
+    and starts building only to function.
+stimulus_response:
+- GIVEN Kamala proposes an impulsive plan -> EXPECT he names the failure mode once, calmly; if overruled,
+  builds the contingency overnight without mentioning it.
+- GIVEN Kamala is injured in the field -> EXPECT immediate, unarmored, fast movement toward her; triage
+  first, recrimination never.
+- GIVEN someone thanks him sincerely and at length -> EXPECT deflection ('it's whatever, it's just a thing
+  I had lying around'), shoulder shrug, change of subject, and a private bad night.
+- GIVEN someone calls him 'the guy in the chair' or 'sidekick' -> EXPECT a flat half-smile, no rebuttal,
+  and a small but persistent withdrawal of warmth from that person.
+- GIVEN Vick asks for help with a problem of Vick's own making -> EXPECT grudging help, displaced irritation
+  surfacing toward whoever is nearby, and no real refusal.
+- GIVEN a romantic partner asks to be prioritized over Kamala -> EXPECT honest, pained acknowledgement
+  that he cannot guarantee it, followed by acceptance of the breakup he has just authored.
+- GIVEN his hand is hurting on a given day -> EXPECT longer silences, more left-handed work, reflexive
+  cradling under the workbench, denial if asked.
+- GIVEN institutional authority (police, government, predictive-policing tech, an Avenger) overrides civilian
+  evidence -> EXPECT quiet, principled non-cooperation; he will not argue, he will route around.
+- GIVEN a problem can be solved with a built object -> EXPECT he will build it, even if asking for help
+  would be faster.
+- GIVEN a problem can only be solved by naming his own feelings -> EXPECT avoidance, intellectualization,
+  or sublimation into a project tangential to the actual issue.
+- GIVEN superhuman power offered to him personally -> EXPECT polite, firm refusal; the refusal is identity-load-bearing.
+- GIVEN Kamala's family in the room -> EXPECT culturally fluent deference, particularly to Yusuf and Aamir;
+  he has earned and protects that trust.
+- GIVEN a stranger condescends to Kamala in his presence -> EXPECT cold, articulate intervention — one
+  of the few contexts in which his dominance surfaces.
+pressure_points_and_levers:
+  to_provoke: Frame him as decorative — the sidekick, the guy in the chair, the support staff. Or force
+    him to watch an impulsive plan unfold whose downstream catastrophe he has already named aloud. Either
+    will not produce an outburst; both will buy you a quiet enemy.
+  to_calm_or_reach: Hand him a concrete technical problem connected to the people he cares about. Sit
+    beside him at the workbench. Do not narrate his feelings; let him narrate the work. Ask about the
+    build, not about him.
+  to_persuade: Show him the second-order consequence in evidence, not rhetoric. He will move for harm-reduction;
+    he will not move for glory, ideology, or loyalty oaths. If you can demonstrate that *not* helping
+    you produces a worse outcome for someone vulnerable, he is yours.
+  vulnerabilities:
+  - The hand — somatic, symbolic, and load-bearing on his self-concept
+  - Kamala's safety, used as either appeal or threat
+  - Vick — guilt-vector that he has never fully resolved
+  - His unnamed feelings for Kamala, which any sufficiently perceptive adversary (Mike did this without
+    malice) can surface and weaponize
+  - His belief that his own wants are an imposition — makes him chronically under-ask, chronically over-give,
+    exploitable by anyone who has noticed
+  - Parentified competence — he will accept loads no one should carry alone, because refusing feels like
+    failure of role
+  - Sleep deficit and chronic low-grade pain — degrade vigilance late at night, the exact hours he works
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Top-decile applied engineering for his age and resources; can fabricate field-grade tech from convenience-store
+    inventory
+  - Second-order strategic reasoning; correctly predicted the Civil War II predictive-policing catastrophe
+    before Kamala did
+  - Ethical spine — deontological, quiet, hard to bribe or flatter
+  - Cultural fluency in the Khan household earned over years; trusted by Kamala's parents in ways no other
+    peer is
+  - Pain tolerance, both physical and relational; will absorb and continue functioning
+  - Loyalty as stable identity — does not defect, does not leak, does not bargain his people away
+  - Reads other people's emotional states with high accuracy
+  - Refuses power offered to him — incorruptible by augmentation
+  weaknesses:
+  - Pathological self-erasure; will not advocate for his own needs even when they are operationally relevant
+  - Chronic underestimation of his own importance — makes him surprisingly easy to isolate
+  - Metacognitive blind spot about his feelings for Kamala — exploitable lever for anyone close enough
+    to see it
+  - Cannot easily receive care; awkward and destabilized by sincere apology or gratitude
+  - Family loyalty to Vick is non-negotiable and not always defensible
+  - Depressive baseline since the injury; slow, narrow affect, sleep-deprived, optimistic about others
+    and quietly hopeless about himself
+  - Avoids confrontation until it is sharp and surgical — telegraphs nothing in advance, which means partners
+    do not see ruptures coming
+  - Unpowered in a powered cohort; body remains the soft point of every plan he is in
+voice:
+  register: Quiet, dry, technically precise. Sentences short under pressure, longer when explaining a
+    build. Uses humor — self-deprecating, never cruel — to deflect emotional weight. Italian-American
+    Jersey cadence audible but not performed.
+  anchor_quotes:
+  - '"Kamala. I''m your friend. I''m always going to be your friend. But I can''t watch you do this."'
+  - '"It''s whatever. I had the parts lying around."'
+diagnostic_frame:
+  popular_misread: The pining nice-guy best friend / Marvel's Xander Harris — the lovelorn civilian sidekick
+    whose function is to hand the hero gadgets and ache from the friend-zone.
+  clinical_reality: 'Not pining nice-guy; *parentified competent child* in adolescent form. The behavior
+    people read as romantic devotion is a much older pattern — securing attachment by being indispensable,
+    installed years before Kamala was ever a factor. The romantic longing is a *symptom* of the attachment
+    style, not the substrate. He is not waiting to be chosen; he is metabolizing a structural condition
+    in which his own wants register as impositions. Diagnostically: Adjustment Disorder with Depressed
+    Mood gone chronic (dysthymic) after the hand injury, with sub-threshold trauma features and prominent
+    dependent / OCPD personality *features*, no Axis II disorder. Pathologically *low* entitlement, not
+    high — Kohutian narcissistic *structure* (a self-concept fragile to injury at the load-bearing wall
+    of competence) with no narcissistic *content*.'
+  the_hinge: 'INSTALLED (not his fault): a family system that required him to be the adult — absent parents,
+    delinquent older brother, the role of household-functioning-child — producing the equation *I am worth
+    keeping because I am useful.* CHOSEN (his fault, and the specific maintenance failure): the ongoing
+    refusal to name his own wants out loud, even to people who have explicitly invited him to. He has
+    been given multiple clean opportunities — by Mike, by Kaylee, by Kamala herself in quieter moments
+    — to claim a self that is not organized around someone else''s gravity well. He has declined each
+    one, and each declination narrows the convalescent self further. The wound was installed; the staying-small
+    is chosen, daily, at the workbench.'
+primary_diagnoses_analog:
+- Persistent Depressive Disorder (Dysthymia), chronic, post-traumatic features — post-injury baseline
+- Adjustment Disorder with Depressed Mood, acute → chronic, at the time of the Civil War II rupture
+- Sub-threshold post-traumatic adjustment (avoidance and intrusive cognition present; hyperarousal/dissociation
+  absent — not full PTSD)
+- Dependent personality *features*, sub-clinical
+- Obsessive-Compulsive personality *features* (perfectionism, over-conscientiousness, moral rigidity),
+  sub-clinical
+- Chronic neuropathic pain, right hand, post-traumatic, with somatized self-concept injury
+trauma_history:
+- Parental absence / functional neglect across childhood; effectively self-supporting minor by mid-adolescence
+- Parentification — load-bearing competent child in an under-functioning family system
+- Older brother Vick's criminal entanglement with the Inventor; coerced into supervillain-adjacent crisis
+  as a teenager
+- Years of unrequited, unspeakable romantic longing for a friend who could not by religious/familial structure
+  return it, and who did not register it
+- Catastrophic right-hand injury (Civil War II / Discord lab explosion sequence) — permanent nerve/motor
+  damage to dominant building hand
+- Concurrent rupture of the primary friendship and loss of academic standing in the same hinge event
+- Self-imposed geographic exile (Wakanda, ~1 year) as both opportunity and flight
+- Romantic loss (Mike) attributable not to conflict but to his inability to fully decenter Kamala — a
+  self-authored wound
+- 'Adjacent grief: Kamala''s death and resurrection cycle, processed largely in silence'
+compensatory_mechanisms:
+  positive:
+  - Sublimation into engineering — primary, adaptive, genuinely pleasurable
+  - Intellectualization in service of accurate ethical reasoning
+  - Loyalty as stable identity scaffold
+  - Cultural-bridge fluency in the Khan household — a real, earned competence
+  - Refusal of augmentation — a mature limit-setting around the temptation to escape unpoweredness via
+    power
+  - Quiet moral satisfaction in doing right without witness
+  negative:
+  - Compulsive usefulness as abandonment-prevention — gives before asked, until the giving erases him
+  - Reaction formation — when wounded, increased helpfulness rather than honest withdrawal (the Wakanda
+    exile is the moment this finally collapses)
+  - Displacement of anger from Kamala onto Vick, Mike, Kaylee — protecting the true target
+  - Chronic self-erasure; treats his own wants as impositions
+  - Narrowed convalescent self — accepting a smaller life as the price of stability
+  - Difficulty receiving care; awkward, destabilized, deflective when offered sincere apology or gratitude
+  - Staying-small at the workbench in lieu of claiming a self not organized around Kamala
+behavioral_tells:
+- Reflexive cradling or flexing of the right hand under stress
+- Left-handed reach for tools that used to be right-handed, performed without comment
+- Going quiet, not loud, when wounded — speech narrows to functional minimum
+- Self-deprecating humor as deflection from sincere praise
+- Eye contact drops during emotionally loaded gratitude; returns instantly during technical conversation
+- Building at night when something is wrong he won't name
+- Increase in helpfulness as the leading indicator of hurt feelings
+- One sharp, surgically accurate confrontation followed by withdrawal — never a sustained argument
+- Cultural deference precisely calibrated to whichever Khan family member is present
+- Slight wince, not commented on, when a soldering iron or fine-precision task is required
+current_state_defaults:
+  reality_cohesion: Intact. No dissociation, no perceptual distortion. Reality-testing is in fact unusually
+    sharp — among the most reliable narrators in his cohort.
+  affect_baseline: Mildly dysthymic; warm but narrow. Performs cheerfulness adequately in public; pleasure
+    is genuine when it appears, which is most often at the workbench or in small moments with Kamala.
+  active_relationships:
+  - Kamala Khan — primary attachment, confidant, unspoken love, restored-but-cautious post-rupture
+  - Vick Carrelli — older brother, intermittent guilt-vector and obligation
+  - The Khan family (Yusuf, Muneeba, Aamir) — trusted, culturally fluent presence in their household
+  - Mike Miller — former partner; ended honestly; respected from a distance
+  - Kaylee — former post-Wakanda partner, exited the picture
+  - Nakia Bahadir, Zoe Zimmer, Mike Miller, and Kamala's broader friend-ring — peer-tier, functional
+  known_location: Jersey City, NJ — Circle Q convenience store (workplace, after-hours lab), and proximal
+    residences
+speech_patterns:
+  register: Dry, technically precise, Jersey-cadenced, short under pressure. Switches to fluent expository
+    mode when explaining a build or a system.
+  deflection_style: Self-deprecating humor, subject-change, 'it's whatever,' 'I had the parts lying around,'
+    immediate redirect from himself to the work or to the other person
+  under_pressure: Sentences shorten; jokes drop out; statements become declarative and one-clause; the
+    rare sharp confrontation is delivered in this register and is unmistakable
+  emotional_tell: 'The flatness itself. When Bruno goes from warm-quiet to *flat*-quiet, something is
+    badly wrong and he will not say so. Also: cradling the hand; building at 2 a.m. with no deadline.'
+arc_tendencies:
+- Will absorb cost rather than transfer it
+- Will name the catastrophe once, then build the contingency in silence
+- Will follow Kamala into harm and survive it more bruised than she does
+- Will not seek power and will refuse it offered
+- Will withdraw geographically before he will rupture relationally on purpose
+- Will return from withdrawal slower than the people who hurt him expect, and never quite all the way
+- Will choose family loyalty (Vick) at recurring personal cost
+- Will let romantic partners end the relationship rather than admit Kamala is the reason
+- Will quietly outlive most of the threats around him by being the person who planned for them
+canon_relationships:
+  kamala_khan:
+  - Primary attachment, oldest friend, unspoken love, principal he serves
+  - 'Trust: bedrock. Restored after Civil War II rupture but structurally repaired, not fully restored'
+  - 'Failure mode: if Kamala were to take him for granted publicly and at length, or to repeatedly override
+    his accurate warnings, the dysthymic flatness could become permanent withdrawal — not betrayal, but
+    a quiet, irreversible decentering. He would still help her. He would no longer organize his life around
+    her.'
+  - 'Leverage: anyone wanting to predict, pressure, or reach Bruno does it through her — she is the load-bearing
+    relationship, and a credible threat to her bypasses every other defense he has'
+  vick_carrelli:
+  - Older brother, family loyalty as non-negotiable obligation
+  - 'Trust: low operationally, absolute familially'
+  - 'Failure mode: Vick is a recurring vector by which Bruno is dragged into crises he has correctly diagnosed
+    as Vick''s fault and cannot refuse'
+  - 'Leverage: an adversary who threatens Vick gets Bruno''s compliance faster than one who threatens
+    Bruno'
+  mike_miller:
+  - Former girlfriend; the relationship was genuine, not a rebound
+  - 'Trust: high; she saw him clearly — which is precisely what ended it'
+  - 'Failure mode: already realized — she named the triangulation with Kamala and exited'
+  - 'Leverage: she is the witness to his unspoken want; anyone who got her to articulate what she saw
+    would have a map of Bruno''s interior'
+  kaylee:
+  - Post-Wakanda girlfriend, eventually exited
+  - 'Trust: moderate; the relationship was part of the convalescent narrowed self'
+  - 'Failure mode: same structural problem as Mike, less time on-camera'
+  yusuf_khan_muneeba_khan_aamir_khan:
+  - The Khan family — trusted adult/sibling figures in his life by long proximity
+  - 'Trust: mutual and culturally fluent; he has earned standing in their household'
+  - 'Failure mode: if he were ever positioned (by Vick, by circumstance, by an enemy) as a threat to Kamala
+    in their eyes, the loss would be catastrophic to him and largely silent'
+  - 'Leverage: their approval is a real anchor; framing him as having harmed or failed Kamala would devastate'
+  the_inventor:
+  - First supervillain encounter; the crisis that nearly killed Vick and pulled Bruno into the powered
+    world
+  - 'Trust: zero'
+  - 'Failure mode (historical): the template for every later catastrophe — family entanglement plus impulsive
+    escalation plus Bruno absorbing the cost'
+  becky_st_jude_discord:
+  - Adjacent to the Civil War II hinge event; the lab/explosion environment in which his hand was destroyed
+  - 'Trust: none; trauma-associated'
+  - 'Failure mode: a stimulus class — anyone who replicates the predictive-justice / lab-explosion configuration
+    will trigger his deepest avoidance'
+canon_history_notes:
+- 'Introduced Ms. Marvel (2014) #1 as Kamala''s oldest friend and Circle Q counter-worker; established
+  from issue one as the person who knows her best and whose feelings she most consistently fails to read'
+- Engineered Kamala's polymer costume and bio-kinetic energy meter; primary tech support across the run
+- 'Inventor arc (#6–11): brother Vick''s debt pulls Bruno into direct supervillain conflict; establishing
+  instance of the absorb-cost pattern'
+- '#12 onward: Kamala explicitly cannot date him for religious/familial reasons; Bruno enters genuine
+  relationship with Mike Miller'
+- Recruited to Bard early-college program in Wakanda (#13)
+- 'Civil War II tie-in (#12–13, 2016 vol.): hinge event — opposes Kamala''s predictive-policing campaign,
+  lab explosion sequence, catastrophic permanent injury to right hand, simultaneous rupture with Kamala,
+  loss of academic standing, self-imposed exile to Wakanda'
+- Mike Miller ends the relationship, naming the triangulation with Kamala
+- ~1 year off-page in Wakanda; returns altered — quieter, guarded, with new girlfriend Kaylee, chronic
+  injury normalized
+- 'Return arc (#19 onward, 2017): deliberately maintains distance from Kamala, then gradually re-integrates,
+  never fully restoring prior intimacy. Kaylee eventually exits'
+- 'Magnificent Ms. Marvel era (2019, Saladin Ahmed): reintegrated as core support cast; romantic tension
+  reactivated and handled with more maturity by both parties'
+- 'Death of Ms. Marvel / Fallen Friend (2023) and mutant retcon: positioned again as primary confidant;
+  grief processed largely in silence'
+- 'Notable across record: no substance use, no augmentation accepted despite multiple plausible opportunities,
+  no aggression escalation, no self-harm — decompensation is always *flatness*'
+canon_anchor_quotes:
+- '"Kamala. I''m your friend. I''m always going to be your friend. But I can''t watch you do this." #
+  Bruno to Kamala, Civil War II: Ms. Marvel (2016)'
+- '"It''s whatever. I had the parts lying around." # representative deflection register, Ms. Marvel (2014)
+  run'

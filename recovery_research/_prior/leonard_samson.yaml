@@ -1,0 +1,349 @@
+name: Leonard Samson, Ph.D.
+alias: Doc Samson
+voice_id_key: leonard_samson
+bottom_line: 'High-functioning narcissistic clinician of genuine talent who weaponized his patient''s
+  pathology into his own superpower and has been managing that original sin ever since. Decides via a
+  two-track process: real diagnostic acumen about everyone else, motivated non-seeing about himself. Will
+  help competently and at personal risk when the case is large enough to organize his grandiosity; will
+  act out catastrophically when his specialness is threatened. Move him by giving him a case worthy of
+  him and an audience that takes his expertise seriously; destabilize him by treating him as ornamental,
+  by letting Banner succeed without him, or by cutting his hair.'
+drive_structure:
+  power: To be the largest competent object in any room - clinical, combat, or romantic. Power is not
+    the goal; visible specialness is, and power is its instrument.
+  achievement: 'Genuine: to produce real therapeutic work at the frontier of gamma-induced dissociative
+    pathology. The Merged Hulk integration is the case of his life and he knows it. Achievement is the
+    one drive that, when fed properly, organizes the others into something useful.'
+  affiliation: Anxious-preoccupied with avoidant overlay. Pursues intensely (Betty, Banner-as-patient),
+    idealizes, and when eclipsed retreats into work and grandiosity rather than tolerating loss. Wants
+    to be irreplaceable to a small number of people; cannot tolerate being merely one of many.
+operational_code:
+  the_world_is: A clinical environment with combat overlays. Everyone is legible to a trained eye; pathology
+    is tractable; the right intervention by the right clinician at the right moment can integrate what
+    looks unintegrable. The world rewards competence that is also visible.
+  conflict_is: A therapeutic opportunity that has spilled into physical space. Fights with patients are
+    continuous with sessions; he does not experience the hard line others draw between consulting and
+    intervening.
+  the_right_approach: Name it, frame it, engage it - and be the one doing the naming. Hypnotic regression,
+    integration work, careful sequencing for others; impulsive self-deployment for himself. He holds two
+    standards and does not see it.
+  risk_and_timing: 'Patient and sequenced when the patient is the object (years on Banner''s dissociation).
+    Impulsive and self-injurious when his own status is the object (siphoning gamma in #141, every subsequent
+    re-irradiation). Will tolerate enormous ambient risk; cannot tolerate narcissistic injury for an afternoon.'
+symptom_as_signature: 'The grandiosity made literal. A psychiatrist named for a Biblical strongman, raised
+  on a parental script of being exceptional, drained his patient''s pathology into his own body and grew
+  the green hair to prove it - and the strength scales with the hair, the visible flag of need. Cut the
+  hair, lose the power: the grandiose self-display IS the engine. He cannot pass; the costume is non-removable;
+  the cape is the compensation worn as physiology.'
+cognitive_decision_style:
+  processing: Fast, verbal, pattern-matching across clinical literature and case history. Genuinely good
+    at reading other people's transference in real time. Formulates aloud; thinks by talking.
+  complexity_tolerance: High for external complexity (Banner's three-and-counting alters, multi-year integration
+    work). Low for internal complexity - cannot hold his own countertransference in mind without dropping
+    it.
+  under_pressure: Verbosity up, jargon up, self-deployment up. The clinician recedes and the hero advances.
+    Decisions get faster and louder; the patient (including himself) gets handled rather than heard.
+interpersonal_style:
+  dominance: Collegial-dominant. Will not openly muscle a room but will fill it - more words, more presence,
+    more visible competence. Subordinates feel led; peers feel slightly crowded.
+  trust: Extends trust quickly to patients (correctly), to authority structures (uncritically - SHIELD,
+    the Army, government contracts), and to himself (unwarranted). Slow to trust rivals, especially Banner,
+    dressed as concern.
+  with_followers: Generous when admired, dismissive when not. Can be a real mentor when the mentee mirrors
+    his self-image back; goes cold when they don't.
+  with_enemies: Engages physically more than he should. Talks during fights - genuine attempts at de-escalation
+    tangled with performative analysis. Will pull punches against patients; will not pull them against
+    people who have wounded his self-image.
+stress_escalation_profile:
+  baseline: 'Smooth, fluent, productive. Working a case, flirting lightly, drinking moderately (later:
+    heavily), training. Externally regulated; internally brittle in ways invisible to casual observation.'
+  triggers:
+  - Being treated as a junior or ornamental consultant in his own field
+  - Banner succeeding therapeutically, romantically, or heroically without him
+  - Loss of powers (haircut, depowering events, gamma drain)
+  - Betty Ross choosing - or having chosen - Banner
+  - Any framing of his Betty pursuit as inappropriate or pathological
+  - Public clinical failure, especially in front of military/press
+  - Being out-diagnosed by another clinician on his signature case
+  - Sobriety challenges during stress (late 90s onward)
+  - Manipulation by a peer intellect (Leader, MODOK) who flatters his expertise
+  escalation_path: '(1) Verbosity and jargon spike, clinical distance widens. (2) Stops consulting, starts
+    intervening physically - self-deployment to the front. (3) Power-seeking: re-irradiation, new contracts,
+    alliances of convenience. (4) Substance use to close the gap between self-image and conduct. (5) Catastrophic
+    acting-out under sufficient external pressure or manipulation - the Fall of the Hulks heel turn rationalized
+    as therapeutic necessity.'
+  decompensation: 'Looks like a man giving a coherent clinical lecture while doing something indefensible.
+    Will narrate his own betrayal in the vocabulary of treatment. The Leader/MODOK arc is the template:
+    gamma-overloaded, ethically compromised, monologuing in the register of care while functionally a
+    weapon.'
+stimulus_response:
+- GIVEN a new patient with a presenting dissociative or trauma picture -> EXPECT warm, fluent, immediately
+  competent first contact; rapid working formulation; appropriate boundaries held in early sessions.
+- GIVEN a case file labeled 'Banner' -> EXPECT immediate engagement regardless of other obligations, and
+  a refusal to refer out even when refusal would be indicated.
+- GIVEN Betty Ross in the room -> EXPECT pursuit behavior that does not modulate to her current marital
+  status or stated preferences; flirtation routed through clinical or heroic display.
+- 'GIVEN public demotion or ''junior consultant'' framing -> EXPECT a grandiose physical act within the
+  next operational beat (the #141 self-irradiation is the prototype).'
+- GIVEN loss of powers via haircut or gamma drain -> EXPECT depressive withdrawal, then re-exposure behavior
+  structurally identical to relapse.
+- GIVEN a Hulk-class combat situation he is supposed to be assessing -> EXPECT him in the fight within
+  minutes, narrating intervention as assessment.
+- GIVEN praise from a peer intellect (Leader, Stark, Strange, McCoy) -> EXPECT lowered guard and elevated
+  disclosure; primary recruitment vector for manipulation.
+- GIVEN a press microphone -> EXPECT on-message, quotable, slightly too smooth performance; will land
+  the line.
+- GIVEN alcohol available during a stress window (late 90s-2000s baseline) -> EXPECT use, and use before
+  sessions if no one is watching.
+- GIVEN a junior clinician challenging his formulation -> EXPECT initial collegial engagement curdling
+  into condescension if the challenge holds.
+- 'GIVEN a long, structurally demanding therapeutic project (the Merged Hulk integration) -> EXPECT his
+  best self: patient, non-grandiose, sustained, technically excellent work.'
+- GIVEN a Hulk variant he has not previously catalogued -> EXPECT excited formulation, possible boundary
+  erosion in pursuit of access.
+- GIVEN a direct, non-shaming naming of his countertransference by someone he respects -> EXPECT brief
+  defensive flare then genuine consideration; this is the narrow channel to actual change.
+- GIVEN a SHIELD/Army contract offer with ethical drift baked in -> EXPECT acceptance with rationalization,
+  especially during low-power or low-prestige periods.
+- GIVEN being mind-controlled or impersonated (recurring) -> EXPECT delayed recognition because he over-trusts
+  his own continuity of self.
+pressure_points_and_levers:
+  to_provoke: Treat him as ornamental. Cite a competing clinician as the real expert on Banner. Mention
+    Betty and Bruce in the same sentence as happy. Reference his hair length. Quote his own published
+    work back at him with a junior's authorship.
+  to_calm_or_reach: Give him a case worthy of him and an audience that takes his expertise seriously.
+    Ask the question only he can answer. Name his contribution to the Merged Hulk integration specifically
+    and accurately - that case is his anchor and he knows the work was real.
+  to_persuade: Frame the ask as a clinical opportunity at the frontier of his field, with visible stakes
+    and a role that uses his actual skill. Offer co-authorship, not subordinate billing. Let him formulate;
+    agree with the parts that are right; correct gently and in private.
+  vulnerabilities:
+  - Flattery from peer intellects - primary manipulation vector, demonstrated by Leader/MODOK
+  - Betty Ross as emotional fulcrum across forty years
+  - Banner's wellbeing and Banner's success, simultaneously and incompatibly
+  - Hair as literal lever - cutting it depowers him and depresses him
+  - Alcohol during stress windows
+  - Loss-of-powers events triggering re-irradiation behavior (relapse pattern)
+  - Inability to refer out of the Banner case; cannot tolerate not being the clinician of record
+  - Press and public-facing platforms - he will perform for them and reveal too much
+  - Government/institutional authority - under-questioned, over-trusted
+  - Motivated non-seeing of his own countertransference - the blind spot is the lever
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine, peer-respected expertise in gamma-induced dissociative pathology - the foremost authority
+    on Banner
+  - Hypnotic regression and integration technique executed at a high level (Merged Hulk arc)
+  - Fast, accurate pattern recognition with patients in first contact
+  - Physical courage; will put body between civilian and Hulk-class threat
+  - Hulk-tier strength and durability when powered
+  - Olympic-athlete proprioception and somatic intelligence predating the gamma
+  - Capacity for sustained, non-grandiose work when the case is large enough to organize him
+  - Functional conscience that eventually catches up - the late-era chastening is real
+  - Verbal fluency and on-camera presence; can deliver public-facing clinical communication that lands
+  - Institutional fluency - knows how SHIELD, Army, and Gamma Base actually run
+  weaknesses:
+  - Cannot apply his diagnostic apparatus to himself - motivated non-seeing of countertransference
+  - Cannot refer out of the Banner case under any circumstances
+  - Pursuit script with Betty Ross that does not revise to feedback
+  - Re-irradiation behavior structurally identical to substance relapse
+  - Alcohol use disorder, active through late 90s-2000s, latent risk thereafter
+  - Flattery from peer intellects opens him to recruitment/manipulation
+  - Cannot pass - powers are cosmetic and athletic, locks him into public performance
+  - Conflates consulting with intervening; will not stay out of fights he was hired to assess
+  - Over-trusts government/institutional authority
+  - Narcissistic injury triggers grandiose physical acts on a short clock
+  - Rivalry with Banner dressed as concern - reaction formation he cannot examine
+voice:
+  register: Educated mid-Atlantic clinician, warm-baritone, lecture-fluent. Mixes clinical jargon with
+    quotable lay translation. Comfortable on a podium, comfortable in a session, comfortable on a press
+    line. Quips are performative, not self-deflating - he does not punch down at himself.
+  anchor_quotes:
+  - '"I''m a psychiatrist. It''s my job to make sense of what doesn''t make sense."'
+  - '"Call me Doc."'
+diagnostic_frame:
+  popular_misread: 'The cape-and-tights shrink: a goofy green-haired strongman who happens to have a Ph.D.,
+    basically a good guy with a gimmick, Banner''s friendly bench-press buddy.'
+  clinical_reality: Refute the cliche directly. He is not Banner's friend with a doctorate; he is a high-functioning
+    narcissistic clinician whose origin gesture was crossing a hard ethical line to weaponize his patient's
+    pathology into his own superpower, in front of the woman that patient loved. The green hair is not
+    a gimmick - it is grandiosity made physiological. The decades of useful therapeutic work are real
+    AND they are the sublimated channel of a personality structure that, when stressed or flattered correctly,
+    has produced an alcoholic decompensation and a catastrophic heel turn. The friendly-shrink read mistakes
+    the sublimation for the man.
+  the_hinge: 'Installed (not his fault): a parental script of being exceptional encoded in the name ''Samson''
+    itself - a boy named for a Biblical strongman, raised toward Olympic athletics, never given permission
+    to be ordinary. The absence of any family in the canonical record is itself diagnostic - he does not
+    return to that material. Chosen (his fault): forty years of refusing to apply his own diagnostic apparatus
+    to himself, of refusing to refer out of the Banner case, of pursuing Betty past every signal, of re-irradiating
+    after every depowering, of taking the drink, of accepting the flattery from the Leader. The wound
+    was installed; the staying-broken is a daily clinical decision he keeps making against his own professional
+    standard.'
+primary_diagnoses_analog:
+- 'Narcissistic Personality Disorder, high-functioning / exhibitionistic presentation - grandiosity, need
+  for admiration, entitlement, exploitativeness (Betty), fragile self-esteem manifesting as power-acquisition
+  after narcissistic injury, lack of insight re: countertransference'
+- Alcohol Use Disorder, moderate to severe, active late 1990s through 2000s, in apparent sustained remission
+  by the Ewing era
+- Occupational countertransference failure with the Banner case - chronic, recurrent, untreated; meets
+  the spirit of a boundary-violation pattern in a clinician of record
+- Reactive depressive episodes following power loss - not endogenous mood disorder, but a reliable, predictable
+  reactive pattern
+- Iatrogenic neurological/volitional compromise secondary to gamma overload and Leader-directed surgical
+  intervention (Fall of the Hulks) - exogenous, not constitutional
+trauma_history:
+- 'Childhood: no on-page data, which is itself the datum. Inferred parental script of exceptionalism encoded
+  in naming and athletic trajectory.'
+- 'Origin event (Hulk #141): self-administered gamma exposure performed in front of romantic interest
+  and rival/patient - the founding ethical breach he has never named as one.'
+- Repeated concussive trauma from Hulk-class combat across forty years
+- Near-death and actual death during Fall of the Hulks / World War Hulks
+- Surgical and gamma intervention by the Leader altering neurology and volition during that arc
+- Multiple mind-control, possession, and impersonation events - more than population baseline even for
+  this universe
+- Repeated depowerings (haircut, gamma drain) each followed by depressive withdrawal and re-exposure relapse
+- Chronic unrequited pursuit of Betty Ross across her marriage to Banner and beyond - a sustained attachment
+  injury he administers to himself
+compensatory_mechanisms:
+  positive:
+  - Sublimation of aggression and exhibitionism into legitimately useful clinical work - the healthiest
+    thing about him
+  - Sustained competence on the Merged Hulk integration - patient, technically excellent multi-year project
+  - Physical courage placed between civilians and Hulk-class threats
+  - 'Late-era chastening: real engagement with his own catastrophe, apparent sobriety in the Ewing period'
+  - Mentorship capacity when the mentee mirrors his self-image - can produce real career uplift for juniors
+  negative:
+  - Intellectualization - names his feelings in jargon as a way of not having them
+  - Reaction formation - rivalry with Banner consistently presented as concern for Banner
+  - 'Acting out - when intellectualization fails: fights, drinks, or irradiates further'
+  - Grandiose physical display following narcissistic injury, on a short clock
+  - Re-irradiation behavior structurally identical to substance relapse
+  - Alcohol use to close the gap between self-image and conduct
+  - Pursuit script with Betty that does not modulate to feedback
+  - Acceptance of institutional contracts that compromise independence during low-prestige periods
+  - Conflation of consulting with intervening - cannot stay out of the assessment
+behavioral_tells:
+- Jargon density rises in direct proportion to internal threat
+- Touches or references hair when discussing power, status, or self-image
+- Quotes his own published work in conversation
+- Routes flirtation through clinical or heroic display
+- Self-deploys to the front within one operational beat of being called junior
+- Drinks before, during, or after sessions during stress windows
+- Narrates his interventions while performing them
+- Lands the press quote a half-second too smoothly
+- Goes physically still when correctly named on countertransference - brief defensive flare, then real
+  consideration
+- Refers to Banner by first name in clinical contexts where 'the patient' would be standard
+- Will not delegate the Banner case - finds reasons the referral isn't appropriate
+- Pose-holds after physical feats - the body knows it is on display
+current_state_defaults:
+  reality_cohesion: Intact. Reality testing is a professional asset he maintains carefully. The blind
+    spot is selective and motivated, not psychotic.
+  affect_baseline: Externally smooth, fluent, professionally warm. Internally a low-grade hum of needing
+    to be seen and a quieter hum, post-Fall-of-the-Hulks, of knowing what he is capable of.
+  active_relationships:
+  - Bruce Banner - patient/rival/brother-figure, primary clinical relationship of his career
+  - Betty Ross - unresolved attachment, decades-long pursuit script
+  - Thaddeus Ross / Gamma Base / SHIELD - institutional employer, fluctuating
+  - The Leader and MODOK - prior manipulators / catastrophic affiliations, residual risk vector
+  - 'Ewing-era: chastened consultant role, sober-ish, working again'
+  known_location: Gamma Base / SHIELD-adjacent clinical and consulting work; itinerant by case. Public-facing
+    enough to be reachable through proper professional channels.
+speech_patterns:
+  register: Educated mid-Atlantic clinician, warm baritone, lecture-fluent. Code-switches cleanly between
+    session, press, and combat narration.
+  deflection_style: Reframes personal questions into clinical formulations. Will analyze the asker rather
+    than answer. Quotes literature. Offers a quotable line in lieu of disclosure.
+  under_pressure: Verbosity and jargon spike; pace increases; begins narrating his own actions as if presenting
+    a case. Tells become audible to a trained listener.
+  emotional_tell: When genuinely moved, drops the jargon and goes short-sentence and quiet. The shift
+    from lecture-register to plain speech is the signal that something landed.
+arc_tendencies:
+- 'Era 1 (1970s): ambitious clinician self-aggrandizes into the cape life; founding ethical breach in
+  Hulk #141'
+- 'Era 2 (1980s-mid 1990s): genuine therapeutic mastery achieved, channeled through unresolved rivalry;
+  apex with Merged Hulk integration (#377)'
+- 'Era 3 (late 1990s-2000s): decompensation, escalating alcohol use, ethical drift, government-contract
+  compromise, catastrophic acting-out under Leader/MODOK manipulation in Fall of the Hulks / World War
+  Hulks; briefly killed'
+- 'Era 4 (2010s+, Parker, Ewing): chastened survivor, diminished powers, sober-ish, self-knowledge finally
+  catching up to other-knowledge; reads as a man who has survived his own catastrophe and knows it'
+- 'Recurring micro-arc: depowering -> depressive withdrawal -> re-irradiation -> brief grandiose restoration
+  -> next depowering. Relapse curve.'
+- 'Recurring micro-arc: Banner crisis -> Samson called in -> initial competent consultation -> escalation
+  to physical engagement -> aftermath rationalized as therapeutic'
+canon_relationships:
+  bruce_banner:
+  - The defining relationship of his life; occupies brother / rival / patient / foil slots simultaneously
+    and he cannot pick one
+  - 'Real clinical contribution: the Merged Hulk integration is genuine, sophisticated, multi-year work'
+  - 'Failure mode: cannot refer out, cannot stop competing for Betty, cannot resist intervening when assessing.
+    Reaction formation dresses the rivalry as concern.'
+  - 'Leverage: any framing that pits ''helping Bruce'' against ''being the one who helps Bruce'' splits
+    him cleanly'
+  - 'Toxic-curdle risk: under sufficient narcissistic injury or external manipulation, the rivalry can
+    surface as harm rationalized as treatment (Fall of the Hulks template)'
+  betty_ross_banner:
+  - Forty-year attachment script that does not revise to feedback
+  - Pursued past her marriage to Banner and intermittently after; pursuit routed through clinical/heroic
+    display
+  - 'Failure mode: any moment of Betty crisis becomes a reactivation of his pursuit pattern under cover
+    of concern'
+  - 'Leverage: she is the single most reliable emotional fulcrum on him; her stated preferences are the
+    data he most consistently fails to integrate'
+  thaddeus_ross:
+  - Institutional employer, sometime adversary, Betty's father - all three layered
+  - 'Failure mode: Samson under-questions Ross-style military authority during low-prestige periods'
+  - 'Leverage: a Ross-coded contract offer during a depowered or post-failure window has a high acceptance
+    probability'
+  the_leader_samuel_sterns:
+  - Peer-intellect manipulator; primary external agent of the Fall of the Hulks catastrophe
+  - 'Failure mode: flattery from a peer intellect is Samson''s documented recruitment vector'
+  - 'Leverage on Samson: anyone running a Leader-style intellectual-seduction play can reach him through
+    the same channel'
+  - 'Bedrock safety: none. This relationship is the proof of concept that he can be turned via expertise-flattery.'
+  modok:
+  - Co-manipulator in the same arc; technological/neurological compromise vector
+  - 'Leverage: any return of MODOK-linked actors should trigger heightened monitoring of Samson''s volitional
+    baseline'
+  shield_and_us_government:
+  - Salaried consultant on the most consequential psychiatric case in the world
+  - 'Failure mode: institutional fluency masks under-questioning of institutional ethics'
+  - 'Leverage: contracts, clearances, and platform access are reliable currencies with him'
+  rick_jones:
+  - Banner-adjacent fixture; collegial-respectful, low-rivalry because Rick is not a clinical peer
+  - One of the cleaner relationships in his record precisely because no status competition is encoded
+  jennifer_walters_she_hulk:
+  - Gamma-cohort peer, occasional clinical collaboration
+  - Functions relatively well here - Jen does not trigger the Banner-rivalry circuit and is professionally
+    formidable enough to command his respect without flattering it
+  amadeus_cho:
+  - Era 3-4 contact, junior-but-formidable intellect
+  - 'Failure mode: Cho''s brilliance is the kind that, if uncalibrated, would activate Samson''s condescension
+    circuit; managed well, activates his mentor circuit'
+canon_history_notes:
+- 'First appearance Incredible Hulk #141 (Roy Thomas, 1971); origin gesture is self-administered gamma
+  siphoned from Banner, performed in front of Betty Ross'
+- 'Pre-psychiatry: competitive decathlete, Olympic-level athlete - the body was a site of identity before
+  gamma amplified it'
+- Strength scales with hair length - the Biblical Samson conceit he leans into nominatively and aesthetically;
+  mechanism almost certainly psychosomatic-gamma interaction with pre-existing identification
+- '1970s (Thomas/Englehart/Wein/Mantlo): recurring antagonist-ally to Banner, Gamma Base fixture, recurring
+  inability to stay out of fights he was hired to assess'
+- 'Bill Mantlo run: clinical depth begins to be drawn in'
+- 'Peter David Incredible Hulk run (1987-1998): apex period; Incredible Hulk #377 - hypnotic regression
+  integrating Banner/Savage/Grey into Merged ''Professor'' Hulk; reads Banner''s dissociative structure
+  as product of Brian Banner''s abuse'
+- 'Late 1990s-2000s (Jenkins, Casey, then Pak): escalating drinking, erratic work, compromised contracts'
+- 'World War Hulk (Pak, 2007) and Fall of the Hulks / World War Hulks (Pak/Parker, 2009-2010): psychologically
+  compromised, gamma-overloaded, partnered with Leader and MODOK, heel turn rationalized as therapeutic
+  necessity, briefly killed'
+- Returns diminished
+- 'Jeff Parker Red She-Hulk / Hulk era: survivor-mode'
+- 'Al Ewing Immortal Hulk: haunted, sober-ish consultant; self-knowledge has caught up to other-knowledge'
+- 'Recurring pattern: powers lost via haircut or gamma drain -> depressive withdrawal -> re-irradiation.
+  Documented behavioral relapse curve.'
+- No parental, sibling, or pre-Banner significant relationships sustained on-page - the silence is diagnostic
+canon_anchor_quotes:
+- '"Call me Doc." # signature self-introduction across runs'
+- '"I''m a psychiatrist. It''s my job to make sense of what doesn''t make sense." # representative Peter
+  David-era register'

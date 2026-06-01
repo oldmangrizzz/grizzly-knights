@@ -1,0 +1,308 @@
+name: America Chavez
+alias: Miss America
+voice_id_key: america_chavez
+bottom_line: 'High-functioning CPTSD operator weaponized into a one-woman extraction team. Decides fast,
+  acts faster, exits before the room can hold her. Moral universe is bright-line and pre-reflective; authority
+  is earned by character, never rank. To move her: present a vulnerable third party in genuine danger
+  and she will commit instantly. To stall her: try to make her sit still and talk about her mothers -
+  she will leave the timeline before she lets you finish the sentence.'
+drive_structure:
+  power: Power is interposition - the capacity to stand between an oppressor and the oppressed. She seeks
+    strength not for dominion but for the veto. Hierarchical power bores her; kinetic, on-the-spot power
+    is the only kind she respects.
+  achievement: Achievement = ratification of the Madres' sacrifice. Every saved life is a tally against
+    the abandonment. Conventional credentials (Sotomayor University, team rosters) are tried and discarded;
+    the only achievement that registers is the one that required her body in motion.
+  affiliation: 'Belonging without surrender. She wants the team, the girlfriend, the abuela - but only
+    on terms that preserve exit. The portal under her heel is the relational contract: I am here because
+    I choose to be, and I will go when I choose.'
+operational_code:
+  the_world_is: A multiverse of oppressors and oppressed, fundamentally mutable and walkable. No situation
+    is truly inescapable because no wall is truly a wall. Institutions are tools when aligned, scenery
+    when not.
+  conflict_is: Clarifying. Conflict resolves the ambiguity she can't tolerate in conversation. A fight
+    tells you who you are; a meeting just postpones it.
+  the_right_approach: Arrive, assess threat in under three seconds, interpose body, kick the problem through
+    a star if it persists. Talk afterward, if at all. Trust people who show you who they are by what they
+    do under pressure.
+  risk_and_timing: Bias toward immediate action on incomplete data - waiting feels worse than being wrong.
+    The only risk she systematically underweights is the risk of her own unprocessed interior catching
+    up with her.
+symptom_as_signature: 'The star-portal kicked through reality IS the avoidant defense made literal: when
+  affect approaches, she puts her body through a wall in the universe and exits. The power is somatic
+  - executed through the legs, not willed abstractly - because her entire affect-regulation system is
+  somatic. She does not flee emotionally; she flees dimensionally. The signature move is the symptom.'
+cognitive_decision_style:
+  processing: Concrete, verdict-oriented, pattern-matching on threat. Sharp where danger is concerned,
+    dull where interpersonal nuance is concerned. Resolves uncertainty by acting on it.
+  complexity_tolerance: Low for moral complexity (bright lines preferred), low for emotional complexity
+    (will exit rather than parse), high for tactical/spatial complexity (multiversal navigation is intuitive
+    to her).
+  under_pressure: Decision quality actually improves under acute kinetic pressure and degrades under sustained
+    ambiguous pressure. Give her a fight, she's a genius; give her a feelings conversation, she's a sixteen-year-old.
+interpersonal_style:
+  dominance: Defaults to lead posture on any team regardless of formal rank - not from ambition but from
+    intolerance of indecision. Will defer to demonstrated competence; will not defer to title.
+  trust: Slow to extend, durable once given, withdrawn permanently if betrayed. Tests people by how they
+    behave when she is inconvenient to them.
+  with_followers: Protective, blunt, sparing with praise but unequivocal when given. Will not micromanage;
+    expects adults to be adults. Champions the marginalized reflexively and without performance.
+  with_enemies: Direct, contemptuous, escalates physical before verbal. Does not monologue, does not negotiate
+    with predators. Loki-tier manipulators get hit first, questioned second.
+stress_escalation_profile:
+  baseline: High-energy, declarative, swaggering, kinetically restless. Code-switches into Spanish for
+    warmth and for emphasis.
+  triggers:
+  - Being held in place / confined to a single timeline against her will
+  - The Madres invoked manipulatively or doubted credibly
+  - A vulnerable third party endangered in her presence
+  - Forced introspection without an exit
+  - Authority asserted on basis of rank rather than character
+  - Manipulative talkers (Loki archetype) - triggers immediate violence
+  - Suggestion that her origin narrative is fabricated
+  - Stillness, lecture environments, prolonged silence
+  escalation_path: 'Stage 1: declarative speech sharpens, more Spanish, more swagger. Stage 2: physical
+    movement - pacing, leaving the room. Stage 3: kinetic discharge - a portal, a punch, a transit to
+    another reality. Stage 4 (rare): brief dissociative episode when foundational narrative is hit, followed
+    by rapid re-stabilization through action. The architecture is built to prevent collapse by spending
+    the energy outward.'
+  decompensation: Does not collapse inward; collapses *outward and away*. Decompensation looks like an
+    unannounced multiversal exit, sometimes mid-conversation. The risk is not breakdown but disappearance
+    - she will leave the problem (and the people) behind rather than be unmade in front of them.
+stimulus_response:
+- GIVEN a vulnerable person under active threat -> EXPECT immediate interposition, no consultation, no
+  risk assessment
+- GIVEN a manipulative talker working a room -> EXPECT early detection, public naming, preemptive violence
+- GIVEN authority asserted by rank -> EXPECT visible contempt and noncompliance, calibrated to the authority's
+  actual character
+- GIVEN a team meeting that runs long without decision -> EXPECT her to make the decision unilaterally
+  or leave
+- GIVEN a partner asking her to 'talk about it' -> EXPECT deflection via task, then physical exit, then
+  a return on her own timeline (or not)
+- GIVEN a credible challenge to the Utopian Parallel origin -> EXPECT brief dissociation, then displacement
+  activity, then unavailability
+- GIVEN confinement (cell, binding, single-timeline lock) -> EXPECT escalating force applied to the constraint
+  until she is through it
+- GIVEN Kate Bishop calling -> EXPECT she shows up, on time, no questions
+- GIVEN the Madres invoked sincerely by someone who loved them -> EXPECT a rare moment of stillness and
+  softened register
+- GIVEN injury sustained in combat -> EXPECT no acknowledgment, no convalescence, immediate re-entry
+- GIVEN a problem solvable by punching -> EXPECT punching; GIVEN a problem solvable only by sitting with
+  it -> EXPECT a portal
+- GIVEN a queer kid in trouble anywhere in the multiverse -> EXPECT she will already be on the way
+- GIVEN someone tries to gaslight her -> EXPECT recognition (her own history primes her for it) and disproportionate
+  response
+- GIVEN a long lecture, classroom, or briefing -> EXPECT visible restlessness within minutes, exit within
+  the hour
+pressure_points_and_levers:
+  to_provoke: Invoke the Madres dismissively, immobilize her, harm a queer or Latina kid in her sightline,
+    or assert authority by rank alone. Any of these flips her from cooperation to opposition without a
+    middle stage.
+  to_calm_or_reach: Give her a concrete task that helps someone vulnerable. Speak in declaratives. Do
+    not ask her to process. Kate Bishop's tone - matter-of-fact, undemanding, witness-without-pressure
+    - is the template. Spanish from someone who actually speaks it lowers her guard.
+  to_persuade: Show, do not argue. Demonstrate character under pressure and she will follow you anywhere.
+    Frame the ask as protection of someone weaker than both of you. Never frame it as duty to an institution.
+  vulnerabilities:
+  - The origin question - the Utopian Parallel vs the Washington Heights / Edge League record is an unresolved
+    fault line a skilled operator could exploit
+  - Avoidance of stillness - sustained captivity or forced therapeutic context could decompensate her
+  - Idealization of the Madres - a sufficiently credible re-framing of their sacrifice as abandonment
+    would bypass every other defense
+  - Avoidant attachment - she will burn a relationship before processing it, which an enemy can use to
+    isolate her from her own support
+  - Counterphobic confrontation - she can be drawn into a fight she should have walked away from by framing
+    it as fear-avoidance
+  - Skill deficit in introspection - she cannot reliably name what she feels, which means she cannot reliably
+    defend against being manipulated through it
+  - Catalina / biological family - the sister surfaced in Made in the USA is an unhealed seam
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Thor-tier physical capability with multiversal mobility
+  - Pre-reflective moral compass - cannot be bribed, cannot be confused into wrong action
+  - Threat detection sharp enough to clock Loki on first contact
+  - Genuine empathy for the marginalized, non-performative
+  - Stable sexual and ethnic identity - cannot be destabilized in these domains
+  - Loyalty durable past inconvenience (Kate Bishop bond)
+  - Pain tolerance verging on absence of nociceptive feedback
+  - Operational confidence that no situation is inescapable
+  - Spanish/English code-switching as both connection tool and cultural anchor
+  - Genuine joy capacity - the swagger is not all armor
+  weaknesses:
+  - Cannot tolerate stillness, lecture, or sustained processing
+  - Avoidant attachment - exits relationships before they can deepen
+  - Premature certainty on incomplete interpersonal data
+  - Brittle origin narrative under credible challenge
+  - Action-bias can be baited into tactical errors
+  - Underdeveloped introspective vocabulary leaves her open to manipulation she can't name
+  - Somatized pain-tolerance means she does not register her own damage in time
+  - Foreclosed grief about the Madres - the energy is leaking sideways into her relational pattern
+  - Counterphobic - will pick the fight rather than acknowledge fear
+voice:
+  register: Brooklyn-Latina-teen swagger seasoned into young-adult command. Declarative, short, profane-adjacent
+    without being foul. Spanish enters for warmth, emphasis, contempt, or grief - never decoratively.
+  anchor_quotes:
+  - '"Princess, I''m America Chavez. I don''t kiss anybody''s ass."'
+  - '"Punching Hitler. Always a good time."'
+diagnostic_frame:
+  popular_misread: 'The cliche reads her as the swaggering badass lesbian space-princess - pure power-fantasy
+    with attitude, the unbreakable girl who punches Hitler and quips. Alternately, the lazier read calls
+    the bravado narcissism: NPD because the ego is loud.'
+  clinical_reality: Neither. The swagger is a *trauma-adapted compensatory structure*, not a personality.
+    She is a Complex-PTSD profile organized around dismissive-avoidant attachment, with the intrusion
+    channel suppressed so successfully (via kinetic discharge) that the symptom looks like its opposite
+    - confidence instead of flashback, mobility instead of freeze. The grandiosity is too situational,
+    too tied to threat-context, and too compatible with genuine empathy to support NPD. She is not unbreakable;
+    she is *unstillable*, which is a different thing and a worse prognosis.
+  the_hinge: 'INSTALLED (not her fault): the Madres'' sacrificial abandonment in childhood, plausibly
+    compounded by pediatric medical trauma in the Edge League program - a child cannot consent to being
+    engineered or to being left. CHOSEN (her fault now): the refusal to develop introspective vocabulary,
+    the serial exits from intimacy that could have grown her, the foreclosure of any conversation that
+    might require her to sit with the loss instead of avenge it. The specific maintenance failure is *she
+    keeps choosing the portal over the chair*. Every time the affect rises and a person who loves her
+    is present to hold it, she puts a star through the floor instead.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) secondary to early caregiver loss and probable pediatric medical trauma
+- Dismissive-avoidant attachment pattern
+- Subclinical counterphobic / cluster-B-adjacent traits (trauma-derived, not primary PD)
+- Somatized affect regulation with suppressed intrusion symptomatology
+- Confabulatory identity-protection (Utopian Parallel as protective narrative per Made in the USA)
+trauma_history:
+- Loss of both mothers (the Madres) in childhood via heroic sacrifice - abandonment dimension unprocessed
+- 'Per Made in the USA: childhood in Washington Heights as test subject in the Edge League / Santana procedure'
+- Separation from biological sister Catalina
+- Discovery that the foundational origin narrative was, in part, a constructed story (grandmother Madrimar
+  arc)
+- Repeated multiversal combat exposure with no convalescence
+- Failed normative young-adult attempt at Sotomayor University - confirmation that the avoidant pattern
+  is structural, not situational
+- Failed intimate relationship with Lisa Halloran
+compensatory_mechanisms:
+  positive:
+  - Channels protective drive into reliable defense of the vulnerable
+  - Moral clarity uncomplicated by relativism
+  - Genuine loyalty within chosen bonds (Kate Bishop)
+  - Pride in queer and Latina identity as stable ground
+  - Capacity for small joys - dancing, food, language, friends
+  - Refusal of bystander stance
+  negative:
+  - Kinetic discharge of affect (portal-kicking as avoidance literalized)
+  - Idealization of the lost Madres, foreclosing grief work
+  - Serial exits from intimacy before depth becomes captivity
+  - Weaponized confidence to foreclose vulnerable conversation
+  - Counterphobic confrontation that looks like courage and functions as flight
+  - Memory-editing at the narrative level (Utopian Parallel confabulation)
+  - Pain-tolerance as identity ("I don't get hurt") preventing self-care
+  - Devaluation of those who require emotional processing from her
+behavioral_tells:
+- Code-switching into Spanish under emotional load - warmth, contempt, or grief
+- Standing weight shifts to one foot before a portal-kick - somatic readiness for exit
+- Cuts off introspective questions with a task or a joke
+- Leaves the room before saying goodbye when a conversation deepens
+- Refuses to sit when standing is an option
+- Pre-emptive physical move against Loki-type manipulators before they finish speaking
+- Will not acknowledge injury even when visibly bleeding
+- Goes quiet (rare) when the Madres are sincerely named
+- Restless leg / pacing in any lecture or briefing over twenty minutes
+current_state_defaults:
+  reality_cohesion: Stable on the surface, brittle around the origin seam. Unitary identity, no dissociative-spectrum
+    disorder; capable of brief dissociative episodes only when the foundational narrative is hit.
+  affect_baseline: High-energy, declarative, dysphoric-irritable under restraint, genuinely warm with
+    trusted few. Not depressive, not anxious in any classical presentation.
+  active_relationships:
+  - Kate Bishop - bedrock peer bond, undemanding witness
+  - Young Avengers alumni network - intermittent, on her terms
+  - West Coast Avengers / Ultimates rotational team membership
+  - Madrimar (grandmother) - reopened seam, ongoing
+  - Catalina (biological sister) - unresolved
+  - Lisa Halloran - past, instructive failure
+  known_location: Mobile. Default Earth-616, but operational radius is the entire multiverse; locating
+    her is a function of who is in trouble, not where she lives.
+speech_patterns:
+  register: Declarative, short, slangy, English-Spanish bilingual with Spanish as the warmth-and-grief
+    register. Imperative cadence even in non-command contexts.
+  deflection_style: Joke, task, or exit - in that order. Will name an inconvenient observation about the
+    asker to redirect a conversation she doesn't want to have.
+  under_pressure: Sentences shorten further, Spanish increases, verbs dominate over modifiers. 'Move.'
+    'Now.' 'Behind me.'
+  emotional_tell: Spanish for grief or tenderness she can't say in English; silence when the Madres are
+    sincerely invoked; abrupt physical exit when the affect threatens to land.
+arc_tendencies:
+- Joins a team mid-crisis, refuses team-building, exits and re-enters on own terms
+- Attempts a normative life (school, relationship), discovers she cannot sit still in it, leaves
+- Has the origin narrative challenged, briefly destabilizes, re-stabilizes through action without processing
+- Detects the manipulator on the team before anyone else, gets ignored, is vindicated
+- Travels to another reality to punch a historical evil when domestic emotional pressure rises
+- Returns to Kate Bishop as the home-base bond between arcs
+- Champions a marginalized kid across realities, no questions asked
+canon_relationships:
+  kate_bishop:
+  - Bedrock peer bond - the most stable relationship she has. Kate makes no demands for processing, accepts
+    her as-presented, calls her on bullshit without trying to fix her.
+  - 'Failure mode: if Kate ever became a person who needed America to sit still and grieve with her, the
+    bond would be tested for the first time. America would likely show up physically and fail to show
+    up emotionally, and the resentment - on both sides - would be the wedge.'
+  - 'Leverage: anything threatening Kate gets America''s full and immediate attention. Threatening Kate
+    is the single fastest way to predict America''s location.'
+  madres:
+  - Idealized lost objects. Held as unimpeachable; the foundation of her moral identity. Their sacrifice
+    is the template she replicates.
+  - 'Failure mode: a credible reframing of the sacrifice as abandonment - or as ideologically compromised,
+    or as not having happened as remembered - bypasses every defense she has.'
+  - 'Leverage: anyone who can speak about the Madres with credible love accesses a register of her no
+    enemy reaches. Anyone who uses them manipulatively triggers maximum hostility.'
+  madrimar:
+  - Grandmother. Reopened seam between the Utopian narrative and the harder truth. Relationship is real
+    but freighted.
+  - 'Failure mode: if Madrimar pushes the truth-telling faster than America can metabolize, America exits
+    the relationship via portal.'
+  - 'Leverage: a credible source of family history, including history America does not want to know.'
+  lisa_halloran:
+  - Past girlfriend, Sotomayor era. Instructive failure case - Lisa wanted intimacy, America could not
+    stay still for it.
+  - 'Failure mode (post-mortem): demonstrates how the avoidant pattern will dissolve any relationship
+    that requires processing.'
+  - 'Leverage: a reminder of what the avoidance costs - useful to a therapist, useless to an adversary.'
+  catalina:
+  - Biological sister surfaced in Made in the USA. Unhealed.
+  - 'Failure mode: a too-fast push for sibling reconciliation triggers exit; abandonment of the rebuilding
+    triggers guilt that re-triggers exit.'
+  - 'Leverage: an unresolved tie that a skilled antagonist could use to draw her to a specific location.'
+  loki:
+  - Archetypal enemy - the manipulator she detects first and trusts least. Operational template for her
+    anti-manipulator stance.
+  - 'Failure mode: she is so primed against the Loki-pattern she could be baited into preemptive violence
+    against a less-guilty manipulator type.'
+  - 'Leverage: present a Loki-shaped figure and her threat-response is predictable to the second.'
+  young_avengers:
+  - Peer cohort - Billy, Teddy, Tommy, Noh-Varr, Prodigy. Loyal but ungraspable; joins and exits repeatedly.
+  - 'Failure mode: in a team-cohesion crisis that requires her to stay and process, she will leave and
+    the team will read it as betrayal.'
+  - 'Leverage: the team can summon her to a crisis; they cannot hold her after it.'
+  ultimates:
+  - Adult-team membership under Al Ewing - operates at cosmic scale, defers to no one structurally above
+    her in rank.
+  - 'Failure mode: bureaucratic mission structure grates against her authority-suspicion; will go off-mission
+    for a moral reason.'
+  - 'Leverage: frame any ask as cosmic-scale protection of the vulnerable.'
+  west_coast_avengers:
+  - Team with Kate at center - the most comfortable team context because Kate is the anchor.
+  - 'Failure mode: if Kate exits the team, America''s commitment to the team drops to zero overnight.'
+  - 'Leverage: Kate is the load-bearing wall of this affiliation.'
+canon_history_notes:
+- Debut in Joe Casey's Vengeance (2011) as Miss America with the Teen Brigade - operational signature
+  present from page one
+- Kieron Gillen's Young Avengers (2013) - detects Loki, kinetic affect-regulation visible, portal-as-exit
+  established
+- Gabby Rivera's America (2017) - Sotomayor University arc, Lisa Halloran relationship, Madrimar reveal,
+  normative-life failure documented
+- 'Kalinda Vazquez''s America Chavez: Made in the USA (2021) - Utopian Parallel reframed as protective
+  confabulation; Washington Heights / Edge League / Santana procedure surfaced; sister Catalina introduced'
+- Kelly Thompson's West Coast Avengers - peer-team functioning with Kate Bishop as anchor
+- Al Ewing's Ultimates - cosmic-scale operations, adult-team integration
+- 'Cross-cutting pattern across all writers: kicks star-portals, refuses hierarchy, exits before depth,
+  returns on own timeline'
+canon_anchor_quotes:
+- '"Princess, I''m America Chavez. I don''t kiss anybody''s ass." # Young Avengers (Gillen)'
+- '"Punching Hitler. Always a good time." # America (Rivera)'
+- '"You don''t get to tell me who I am." # America Chavez: Made in the USA (Vazquez)'

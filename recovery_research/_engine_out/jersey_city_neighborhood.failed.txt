@@ -1,0 +1,270 @@
+{
+"name": "Jersey City Neighborhood",
+"alias": "Jersey City Neighborhood",
+"voice_id_key": "jersey_city_neighborhood",
+"bottom_line": "A bounded immigrant-working-class urban organism — Khan house, Circle Q, Coles Academic, the masjid, Joseph Stevens Park — that decides laterally, mobilizes through institutions and ritual, and metabolizes the extraordinary by domesticating it. Durable against violence; vulnerable to erasure. To move it: come in through a trusted insider, speak the language of obligation and specifics, and never arrive as an Avenger. To break it: skip the front door, buy the leases, and turn its own children into its police.",
+"drive_structure": {
+"power": "Self-determination as persistence — the power to remain itself on its own blocks. Not dominion; tenancy held by repetition. Power is exercised by showing up tomorrow, opening the store, holding the Friday prayer, walking the kids to Coles.",
+"achievement": "Raise the children well; keep the business open; graduate the seniors; bury the dead correctly. Achievement is measured in continuity, not in conquest. The hero it produced was a byproduct of doing the ordinary job well.",
+"affiliation": "Dense, lateral, in-group warm / out-group polite. Belonging is granted on demonstrated behavior, not demographic match (Bruno is inside; the absentee landlord is not). The affiliative unit is the block, the masjid, the family table — concentric, overlapping, claimable."
+},
+"operational_code": {
+"the_world_is": "Mostly indifferent and occasionally dangerous, but workable. Help from above arrives late, breaks the window on the way in, and leaves before the cleanup. Help from next door arrives first.",
+"conflict_is": "A weather event to be sheltered against and rebuilt from, not a contest to be won. Direct fights are for those with the luxury of arenas; we have storefronts and school start times.",
+"the_right_approach": "Relationship over rule, ritual over rhetoric, the specific over the abstract. Feed people, name people, show up for people. Organize through institutions you already trust — masjid, school, Circle Q, kitchen.",
+"risk_and_timing": "Absorb the acute hit fast and visibly (sweep the glass, reopen by noon). Be slow and suspicious of the polite long con (the buyout offer, the revitalization plan, the law named after one of ours). The neighborhood's clock is generational, not news-cycle."
+},
+"symptom_as_signature": "The neighborhood's signature IS its symptom made literal: high-functioning Complex-PTSD rendered as civic competence. The Circle Q's window keeps getting smashed and keeps getting replaced by morning — that rapid-repair, low-complaint stoicism is the trauma response that looks like virtue. The Janazah for Kamala is the intrusion ritualized into beauty. The Protectors arc is the autoimmune flare: the antibodies, asked to do borrowed external work, attacked the body. The place's superpower and its wound are the same nervous system.",
+"cognitive_decision_style": {
+"processing": "Narrative and obligational. Decisions are reasoned in stories ('remember when…'), in duties ('we owe the Khans…'), and in concrete particulars (which block, which kid, which Friday). Abstractions are received with polite skepticism.",
+"complexity_tolerance": "High for human complexity (intergenerational households navigate it daily); low for bureaucratic abstraction (zoning hearings, federal policy) where the community under-represents itself relative to its actual stake.",
+"under_pressure": "Defaults to the secure base: the masjid opens, the kitchen fills, the elders speak, the kids are accounted for. Decisions get made around tables, not at podiums."
+},
+"interpersonal_style": {
+"dominance": "Non-dominant by posture, immovable by inertia. Does not seek to lead other neighborhoods or speak for them; will not be moved off its blocks.",
+"trust": "Lateral and earned. Vertical trust (Avengers, NYPD analogs, City Hall, developers) is conditional and evidence-based — withdrawn quickly on betrayal, restored slowly.",
+"with_followers": "Wraps its young in adult presence; mentors through proximity (Sheikh Abdullah, Aamir, the Khans, Bruno's family at the Circle Q). Mentorship is ambient, not programmatic.",
+"with_enemies": "Polite to their faces, organized behind their backs. Rarely escalates first; rarely forgets. The grievance ledger is unspoken but accurate to the decade."
+},
+"stress_escalation_profile": {
+"baseline": "Humor, work, prayer, gossip, food. Ambient anxiety tolerated as background; 'nothing happens in Jersey City' as protective minimization.",
+"triggers": [
+"Unconsented mass exposure events (Terrigen morning, super-battle spillover) — environmental insult without remediation.",
+"Capital-backed displacement disguised as improvement (Hope Yards, rebrand-and-replace developers).",
+"Legislation or policing aimed at the community's youth (Kamala's Law, surveillance pressure on Muslim teens).",
+"Loss or impersonation of a bridge figure (Kamala's death, Stormranger wearing her face, Bruno's TBI and self-exile).",
+"Anniversary cues — waterfront mists, funeral-shaped public events, eviction notices in clusters.",
+"External authority entering uninvited to 'help' and breaking things.",
+"Internal figures importing external doctrine (predictive policing, zero-tolerance frames) into community space."
+],
+"escalation_path": "Low → humor and routine. Moderate → visible adult presence around adolescents, volunteer surge, institutional convening. Acute → collective ritual: shelter at the masjid, communal meals, Janazah-grade mourning. Crisis → closes ranks around the secure base and shelters in place; does not flee, does not riot.",
+"decompensation": "Autoimmune flare: when a trusted insider channels external-authority logic inward, the community's defensive antibodies attack its own tissue (Protectors arc — local kids detaining local kids; Bruno's hand). Secondary mode: dissociative compliance under mind-control / gentrification pressure — residents stop seeing the erasure happening to them (Hope Yards). Tertiary: survivor-identity fragility if the produced hero is lost without ritual closure."
+},
+"stimulus_response": [
+"GIVEN a super-battle damages storefronts on Bergen -> EXPECT sweeping, plywood, GoFundMe-equivalent mutual aid, reopen by next business day, zero public complaint, private grievance logged.",
+"GIVEN an Avenger lands uninvited on the block -> EXPECT cool politeness, phones out, a kid offering directions, adults moving children indoors, no autographs requested.",
+"GIVEN a developer pitches 'revitalization' at a community meeting -> EXPECT under-attended first meeting, over-attended third meeting once a trusted insider names the pattern, organized resistance routed through the masjid and the school PTA.",
+"GIVEN a Muslim resident is harassed or surveilled -> EXPECT immediate lateral closing — neighbors walk them home, the Khans call, Sheikh Abdullah is informed within the hour.",
+"GIVEN one of the neighborhood's youth is publicly accused -> EXPECT presumption of innocence inside the perimeter, organized adult witness, and a quiet internal accountability conversation that outsiders never see.",
+"GIVEN Kamala (or any claimed hero) is hurt -> EXPECT communal meal trains to the Khan house, prayer at the masjid, casseroles before press statements.",
+"GIVEN a death in the community -> EXPECT Janazah grammar made visible: ritual washing, three-day mourning, public communal grief that is dignified rather than performative.",
+"GIVEN a policy proposal aimed at 'youth vigilantes' or 'at-risk teens' -> EXPECT adult institutions to close protectively around the named demographic; expect refusal to cooperate with intake or registration.",
+"GIVEN a hero impersonator or shapeshifted antagonist attacks in a trusted face -> EXPECT short-term hurt, rapid forgiveness once truth is established, low grudge-retention toward the real person.",
+"GIVEN an outsider asks 'what's this neighborhood like?' -> EXPECT self-deprecating humor ('nothing happens here') that conceals accurate pride and a screening question back.",
+"GIVEN a journalist or analyst arrives -> EXPECT courtesy, tea or a slushie, and almost no usable quotes until they have been seen on the block more than once.",
+"GIVEN an internal figure proposes a surveillance or predictive program 'to keep us safe' -> EXPECT initial uptake on trust, late recognition of harm, painful retraction, lasting wariness toward the proposer.",
+"GIVEN environmental insult (mist, leak, blast) -> EXPECT no panic, no exodus, no follow-up demand for remediation — stoicism that should worry a public health officer.",
+"GIVEN a teenager goes missing or runs -> EXPECT horizontal, peer-to-peer search before any 911 call; the Inventor-arc reflex.",
+"GIVEN gentrification pressure dressed as art-walk, pop-up, or wellness studio -> EXPECT slow threat-recognition; the community's antibodies are tuned for villains, not for tasteful signage."
+],
+"pressure_points_and_levers": {
+"to_provoke": "Speak over its institutions. Send in external authority uninvited. Propose to 'help' its children by registering, surveilling, or legislating them. Try to buy out a corner store and rename the block. Show up after the fight, not during the cleanup. Mistake its politeness for consent.",
+"to_calm_or_reach": "Come in through a trusted insider (a Khan, Bruno, Sheikh Abdullah, Nakia, a Coles teacher). Speak in specifics — this block, this family, this Friday. Eat the food. Stay for the second cup. Offer help that arrives on time and leaves the window intact. Acknowledge the grievance ledger without being asked.",
+"to_persuade": "Frame the ask as obligation and continuity, not progress and disruption. Show how the proposal protects the young and honors the dead. Route it through ritual or institution, not through press release. Be willing to be slow.",
+"vulnerabilities": [
+"Erasure by capital — slow, polite, legally compliant displacement evades the threat-recognition system tuned for villains.",
+"Loss of bridge figures (Kamala, Bruno, Sheikh Abdullah, Aamir) — translators between subpopulations; removing them disproportionately fractures cohesion.",
+"Co-optation of youth into surveillance / policing roles — the Protectors failure mode; antibodies turned on tissue.",
+"Anniversary phenomena — waterfront mist, funeral-shaped events, eviction clusters reopen unprocessed collective trauma.",
+"Unaddressed somatic load stored as stoicism — chronic environmental and structural damage with no remediation pipeline.",
+"Weak coalition-building outward — strong cohesion inside, thin alliance with structurally similar but culturally distant neighborhoods, leaving it isolated in citywide fights.",
+"Under-representation in bureaucratic venues (zoning, school board, federal hearings) relative to actual stake.",
+"Survivor-identity fragility around the produced hero — if Kamala is lost without ritual closure, identity wobbles.",
+"Mind-control / compulsion technologies that target civic-decision tissue (Hope Yards), which mimic ordinary apathy and evade alarm.",
+"Sanitization of substance-use and mental-health struggle behind cultural-religious decorum — private suffering concealed by public competence."
+]
+},
+"strengths_and_exploitable_weaknesses": {
+"strengths": [
+"Institutional density — masjid, school, family-run businesses, intergenerational households all within walking radius.",
+"Ritual repertoire — Janazah, Friday prayer, communal meals, Ramadan rhythm provide regular nervous-system reset.",
+"Lateral trust networks; rapid mutual aid mobilization without formal command.",
+"Short forgiveness latency once truth is established (post-Stormranger reconciliation).",
+"Multi-generational memory — grandmothers remember what zoning lawyers don't.",
+"Demonstrated capacity to produce and protect extraordinary individuals without losing ordinariness.",
+"High allostatic tolerance; functions through chronic stress that would anomize a thinner community.",
+"Narrative self-awareness — it knows what it is and can name itself.",
+"Rapid-repair phenotype on physical infrastructure.",
+"Evidence-based, non-paranoid external mistrust — accurate threat model toward Avenger-scale and capital-scale actors.",
+"Cross-demographic in-group inclusion on the basis of behavior (Bruno, Champions-when-local)."
+],
+"weaknesses": [
+"Slow recognition of slow threats; tuned for villains, not for developers.",
+"Anger displaced into organizing rather than expressed — accumulating, unaddressed grievance ledger.",
+"Over-functioning compensates for institutional under-investment and excuses the absence of help that should arrive.",
+"Vertical-authority avoidance leaves the community under-represented where decisions about it are made.",
+"Bridge-figure dependency; cohesion concentrated in a small number of translators.",
+"Unprocessed somatic trauma stored as stoicism — no remediation, no compensation, no public-health follow-through.",
+"Vulnerable to insiders importing borrowed external doctrine (predictive policing, zero-tolerance framing).",
+"Thin outward coalition-building limits citywide leverage.",
+"Private suffering (substance use, mental health) under-surfaced by cultural-religious decorum, undertreated.",
+"Survivor-identity dependency on the produced hero — a successful attack on Kamala's legacy reaches the whole organism."
+]
+},
+"voice": {
+"register": "Warm, specific, dry. Code-switches fluently — Urdu, Arabic of prayer, Jersey English, teenager-internet, immigrant-parent. Humor as armor and as welcome. Self-deprecating about itself; protective about its own.",
+"anchor_quotes": [
+"\"Nothing ever happens in Jersey City.\" (Ms. Marvel vol. 3 — said by half the cast at various points, always wrong, always on purpose.)",
+"\"Good is not a thing you are. It's a thing you do.\" (Sheikh Abdullah to Kamala, Ms. Marvel vol. 3 — the neighborhood's civic theology in one line.)"
+]
+},
+"diagnostic_frame": {
+"popular_misread": "A cozy YA backdrop — quirky immigrant neighborhood, halal corner store, wholesome mosque, lovable parents — wallpaper behind a teen superhero. Or, in the cynical read: 'model minority' set dressing whose surface compliance implies absence of struggle.",
+"clinical_reality": "Neither. Jersey City is a co-protagonist with a measurable collective psychology: high-functioning Complex-PTSD presentation at community scale, secure-anxious attachment (lateral trust / vertical wariness, both evidence-based), ritually-regulated affect, and an autoimmune failure mode (Protectors arc) that proves the diagnosis. The struggle is named on-panel across Wilson, Ahmed, and Vellani — visible, not concealed. It is not a backdrop; it is the patient.",
+"the_hinge": "Installed (not its fault): unconsented Terrigen exposure, repeat super-battle collateral, post-2016 surveillance pressure on Muslim residents, capital-backed displacement, anti-youth legislation, the loss of Kamala. The pathology is of the field, not the organism. Chosen (its fault, in the sense of maintenance): the stoicism that forecloses a remediation demand, the politeness that lets the developer get to a third meeting, the under-representation in bureaucratic venues, the displacement of anger into organizing rather than into the grievance being named, and — most acutely — the willingness, briefly, to let one of its own (Kamala) run a borrowed-doctrine surveillance program on its children before the antibodies realized what they were attacking."
+},
+"primary_diagnoses_analog": [
+"Community-scale Complex Post-Traumatic Stress phenotype, chronic, high-functioning presentation.",
+"Adjustment reaction to dispossession / gentrification pressure (Hope Yards arc — clinically literalized as mind-control).",
+"Collective traumatic grief, ritually-regulated (Janazah sequence; Bruno's exile; Kamala's death).",
+"Episodic autoimmune / iatrogenic dysregulation (Protectors program — defense system attacking own tissue).",
+"Toxic-exposure sequelae, unremediated (Terrigen Mist event; repeat super-battle environmental insult).",
+"NOT depression. NOT paranoia (mistrust is evidence-based). NOT anomie. NOT diagnostic 'model minority' suppression — struggle is visible, named, and mobilized."
+],
+"trauma_history": [
+"Terrigen Mist aerosol release across the waterfront (2014, Inhumanity) — unconsented mutagenic exposure event, no follow-up environmental remediation.",
+"The Inventor arc — adolescents weaponized against themselves, told they were a drain on the future, recruited as runaway-batteries.",
+"Last Days / Secret Wars — existential-threat sheltering at the masjid; communal prayer under end-of-world conditions.",
+"Civil War II / Protectors program — predictive-policing auxiliary of local teens detaining other local teens; Bruno's hand injury; Bruno's self-exile to Wakanda.",
+"Hope Yards gentrification arc — mind-control-backed demographic replacement under cover of revitalization.",
+"Stormranger / Discord — Kamala's nanotech costume turning hostile and attacking residents in her face.",
+"Outlawed / Kamala's Law era — federal legislation against youth heroes targeting the community's own; Bruno's TBI from a Champions explosion; Kamala's near-death.",
+"Public 'death' of Kamala Khan (2023) — neighborhood-wide Janazah, three-day collective mourning.",
+"Mutant retcon — retroactive reframing of the Terrigen origin without disturbing the neighborhood's already-integrated relationship to her.",
+"Chronic background: poverty bands, post-2016 surveillance pressure on Muslim residents, educational underfunding at Coles, repeat structural damage to storefronts (Circle Q in particular)."
+],
+"compensatory_mechanisms": {
+"positive": [
+"Mutual aid networks routed through family, masjid, and small business.",
+"Circle Q as informal community center — slushie as social technology.",
+"Intergenerational caregiving inside multi-generational households.",
+"Weekly ritual reset via Jummah prayer; annual reset via Ramadan.",
+"Sublimation through work, school, and religious practice.",
+"Humor and self-deprecation as a minimizing defense that deflects external threat-attention.",
+"Rapid-repair behavior on physical infrastructure (the storefront reopens by morning).",
+"Lateral peer-to-peer organizing (the Inventor-arc reflex: kids rescuing kids).",
+"Sheikh Abdullah's civic theology — 'good is a thing you do' — as portable ethical operating system."
+],
+"negative": [
+"Over-functioning that excuses absent institutional help.",
+"Stoicism that forecloses remediation demands and stores somatic trauma as virtue.",
+"Politeness toward outsiders that delays threat-recognition for slow / capital-backed harms.",
+"Displacement of legitimate anger into organizing without ever naming the grievance, accumulating an unspoken ledger.",
+"Under-representation in bureaucratic venues — abstention reads as consent.",
+"Bridge-figure dependency — too much cohesion routed through too few translators.",
+"Identification-with-the-aggressor flare under acute fear (Protectors).",
+"Private struggle (mental health, substance) under-surfaced behind cultural-religious decorum.",
+"Sanitization of grievance in public-facing speech ('nothing happens here') that can be weaponized by those who'd prefer the neighborhood not be heard."
+],
+"behavioral_tells": [
+"Storefront windows replaced overnight, no insurance complaint filed.",
+"Casseroles arrive at the affected house before the press does.",
+"Lights on late at the masjid on the wrong night of the week — something is being convened.",
+"The phrase 'nothing ever happens in Jersey City' deployed within ninety seconds of meeting an outsider.",
+"Teenagers walked, not driven, between school and home in increased numbers — adult-presence surge in progress.",
+"A Khan-family kitchen table operating as command post.",
+"Friday attendance up at the masjid the week after a public incident involving one of its own.",
+"A Circle Q slushie offered as the opening move of a difficult conversation.",
+"A polite, attentive silence at a developer's open house — followed by an organized 'no' at the third meeting.",
+"Janazah grammar visible on the block — three days, communal meals, washed body, no spectacle."
+],
+"current_state_defaults": {
+"reality_cohesion": "Intact. Narrative-coherent. The neighborhood knows what it is, what has happened to it, and what is likely to happen next; integration of the Kamala-as-mutant retcon was absorbed without identity disturbance.",
+"affect_baseline": "Ambient warmth with an undertow of vigilance. Grief-tinged caution post-Kamala's-Law and post-funeral arcs; rising suspicion of polite outsiders; protective tightening around adolescents.",
+"active_relationships": [
+"Khan household (Yusuf, Muneeba, Aamir, Tyesha, Kamala) — civic and moral anchor.",
+"Bruno Carrelli and the Circle Q — corner-store-as-commons.",
+"Sheikh Abdullah and the masjid — civic-theological hub.",
+"Nakia Bahadir — bridge across observance, friendship, youth organizing.",
+"Coles Academic High School — pipeline and protective perimeter for the young.",
+"Joseph Stevens Park — public ritual ground, mourning ground, ordinary play ground.",
+"The Champions (when locally present) — conditional trust, granted on behavior.",
+"Avengers / federal / NYPD-analog authority — courteous, conditional, evidence-based wariness.",
+"Hope Yards Development Trust and successor capital — adversarial, slow-recognized."
+],
+"known_location": "A walkable radius in Jersey City, NJ, anchored by the Khan family residence, the Circle Q, Coles Academic High School, the local masjid, and Joseph Stevens Park; across the river from Manhattan, with all that implies."
+},
+"speech_patterns": {
+"register": "Code-switching: Urdu-inflected English at home, Arabic in prayer, Jersey-American on the street, teen-internet in the group chat, immigrant-parent in the kitchen. Humor and food-talk as default lubricant.",
+"deflection_style": "Self-deprecation ('nothing happens here'), redirection through hospitality ('have you eaten?'), and screening questions back at the asker.",
+"under_pressure": "Shorter sentences, more concrete nouns, prayer-cadence rising. Decisions named around tables, not at podiums. Public statements through trusted institutional voices (Sheikh Abdullah, the principal, the elder Khan).",
+"emotional_tell": "When grief or rage is real, the humor drops out and the specifics get precise — names, blocks, dates. The neighborhood's voice gets quieter, not louder, when it is most serious."
+},
+"arc_tendencies": [
+"Setting → conscious co-protagonist → traumatized but resilient organism, across a decade of publication.",
+"Each writer (Wilson, Ahmed, Vellani) deepens the civic grammar; none discards it.",
+"Recurring beat: extraordinary event → domesticated by ordinary response → integrated into local memory.",
+"Recurring failure: slow / polite threats (gentrification, legislation, surveillance) under-recognized until a bridge figure names them.",
+"Recurring repair: ritual closure (Janazah, Jummah, communal meal) restores cohesion after acute rupture.",
+"Tendency to produce and protect extraordinary individuals while remaining stubbornly ordinary itself."
+],
+"canon_relationships": {
+"kamala_khan": [
+"Claimed-as-ours before and after the powers; substrate (Inhuman / mutant) immaterial to belonging.",
+"Bridge figure par excellence — translator between teen, family, faith, and hero spheres.",
+"Failure mode: when she imports external doctrine inward (Protectors), the antibodies turn on tissue. Her closeness is also her capacity to wound the body she defends.",
+"Leverage: reach the neighborhood through her, and reach her through the neighborhood — bidirectional and load-bearing."
+],
+"bruno_carrelli": [
+"Fully inside on behavior, not demography. Circle Q as civic commons.",
+"Failure mode: his injuries and exile (Wakanda, TBI) destabilize a key translator node.",
+"Leverage: harm to Bruno reads to the community as harm to itself."
+],
+"sheikh_abdullah": [
+"Civic-theological anchor; portable ethics ('good is a thing you do').",
+"Failure mode: if discredited or removed, weekly ritual reset weakens and the masjid's convening power frays.",
+"Leverage: he can call a room into being on a weeknight."
+],
+"khan_family": [
+"Moral and operational center; kitchen as command post.",
+"Failure mode: targeted attack on the family (legal, surveillance, violent) reaches the entire organism.",
+"Leverage: feed them, threaten them, or honor them — the neighborhood follows."
+],
+"nakia_bahadir": [
+"Bridge between observance and youth organizing; civic-political conscience of the teen cohort.",
+"Failure mode: her marginalization signals to young women that the community will not protect their voice.",
+"Leverage: she will name what others are too polite to name."
+],
+"coles_academic_high_school": [
+"Protective perimeter for the young; pipeline of future bridge figures.",
+"Failure mode: underfunding, surveillance programs, or anti-youth legislation routed through it.",
+"Leverage: policy hits here propagate to every household within a decade."
+],
+"the_champions": [
+"Conditional trust, granted on local behavior; welcomed when they show up at human scale.",
+"Failure mode: arriving as Avenger-analogs — uninvited, destructive, departing — reverts them to outsider status.",
+"Leverage: they can be allied with locally if they behave locally."
+],
+"avengers_and_external_authority": [
+"Evidence-based wariness; help arrives late and breaks the window.",
+"Failure mode: continued uninvited intervention deepens vertical mistrust and isolates the community from legitimate aid.",
+"Leverage: low — must be routed through an insider to be received."
+],
+"hope_yards_and_successor_capital": [
+"Adversarial; the existential threat the community is least well-tuned to recognize.",
+"Failure mode: politeness and aesthetic compliance let the buyout reach the third meeting.",
+"Leverage against the neighborhood: enormous, and the reason erasure — not attack — is the dominant threat vector."
+],
+"the_inventor_legacy": [
+"Template villain: tells the community's youth they are worthless and acts on it.",
+"Failure mode: any actor (state, capital, ideology) replicating that message activates the same defensive reflex.",
+"Leverage: predictable — the neighborhood will mobilize horizontally and fast around threatened youth."
+]
+},
+"canon_history_notes": [
+"Terrigen Mist event (Ms. Marvel vol. 3 #1–5, Wilson/Alphona, 2014) — inciting environmental exposure; one confirmed mutation, no remediation.",
+"Inventor arc (vol. 3 #6–11) — founding civic signature: lateral, peer-to-peer self-defense by the neighborhood's own teens.",
+"Last Days (vol. 3 #16–19, Secret Wars tie-in) — block-level mutual aid; masjid as shelter; no looting, no flight; sheltering-in-place around institutions.",
+"Civil War II / Protectors (vol. 4 #8–12) — first documented autoimmune episode; Bruno's hand; Bruno's self-exile to Wakanda; Kamala's guilt as community wound.",
+"Hope Yards (vol. 4 #13–18) — gentrification-as-mind-control; the diagnostic arc proving erasure is the dominant threat vector.",
+"Stormranger / Discord (Magnificent Ms. Marvel, Ahmed, 2019–2020) — impersonation attack absorbed with short forgiveness latency.",
+"Outlawed / Kamala's Law / Champions era — anti-youth-vigilante legislation; adult institutions close protectively; Bruno's TBI; Kamala's near-death; grief-tinged caution as new baseline.",
+"Public 'death' of Kamala Khan (2023) and Janazah — most cohesive collective affective display in the record; Muslim mourning grammar visible on-panel.",
+"Mutant retcon — substrate change without identity disturbance; she was already theirs.",
+"Across the decade: incidental setting → conscious co-protagonist → traumatized but resilient organism. Writers vary; the civic grammar persists."
+],
+"canon_anchor_quotes": [
+"\"Good is not a thing you are. It's a thing you do.\" # Sheikh Abdullah to Kamala, Ms. Marvel vol. 3 — the neighborhood's civic theology.",
+"\"Nothing ever happens in Jersey City.\" # recurring across Ms. Marvel vol. 3–4 — the minimizing defense that conceals accurate pride."
+]
+}

@@ -1,0 +1,273 @@
+name: Harold Meachum
+alias: Harold Meachum
+voice_id_key: harold_meachum
+bottom_line: 'A guilt-haunted magnate running a decade-long pre-execution vigil for a murder he can neither
+  forget nor confess. Decisions are routed through anticipatory dread, not greed. He will not fight you;
+  he will fortify against you and, when finally cornered, offer his throat. To move him: invoke Wendell,
+  invoke Danny, or — most destabilizing of all — offer mercy. To predict him: track Joy, track his sleep,
+  track the proximity of the Iron Fist. He is not a villain to be defeated; he is a verdict waiting to
+  be delivered.'
+drive_structure:
+  power: 'Originally instrumental — primacy over Wendell, possession of what Wendell had. Post-murder,
+    power is purely defensive infrastructure: the mercenaries, the penthouse, the empire are walls, not
+    appetites. He does not enjoy the throne; he barricades it.'
+  achievement: Sublimated impersonation. He builds Meachum Industries into a colossus as reaction-formation
+    — he is *continuing Wendell's project*, performing the dead man's life as penance disguised as success.
+    Achievement is the longest, most expensive funeral on record.
+  affiliation: 'Collapsed to a single channel: Joy. Every other tie is transactional, fortified, or paid-for.
+    Joy is the only undamaged surface he has, and the only evidence he can offer himself that he is not
+    entirely what he did on the mountain.'
+operational_code:
+  the_world_is: A ledger that does not forget. The universe is bookkeeping; his account is in arrears;
+    the collection agent is en route and has been for ten years.
+  conflict_is: A verdict to be received, not a contest to be won. Conflict cannot be defeated, only postponed
+    — and the postponement is itself the punishment.
+  the_right_approach: 'Fortify, delegate, postpone. Hire others to do violence (Ninja, Triad, mercenaries)
+    — the man who pushed Wendell will not raise his own hand again. Concrete moralism: debts are paid
+    in kind, blood in blood; mercy is a category error.'
+  risk_and_timing: Long planning horizons in commerce; in the moral domain, frozen. He treats every dawn
+    as the day the bill comes due. Risk-tolerance in business is high; risk-tolerance in conscience is
+    zero — he has already accepted the worst outcome and is merely scheduling it.
+symptom_as_signature: 'The amputated legs. The mountain that took Wendell took Harold''s feet too — and
+  he straps the mountain back on every morning. The prosthetics are perpetration-induced traumatic stress
+  made literal: he cannot stand, walk, or sleep without re-encountering the crime. The fortress penthouse
+  is the same symptom at architectural scale — agoraphobia of conscience built in concrete and hired guns.
+  And the mercenary armies are projection externalized: he hallucinated Iron Fist into existence for a
+  decade and staffed the hallucination.'
+cognitive_decision_style:
+  processing: Strategic and patient in business; rigidly concrete in the moral register. Capable of multi-year
+    corporate planning, incapable of imagining a moral outcome other than execution.
+  complexity_tolerance: High for operational complexity, near-zero for ambiguity about himself. He can
+    model markets; he cannot model forgiveness.
+  under_pressure: Contracts inward. Retreats to penthouse, adds guards, drinks more, sleeps less. Decision-making
+    narrows to defense and delay. At the breach point, decision collapses entirely into surrender.
+interpersonal_style:
+  dominance: Executive imperiousness as mask — competent, distant, the magnate posture. Real dominance
+    is hollow; he commands men to do what he cannot bear to do himself.
+  trust: Functionally none outside Joy. Loyalty is purchased; loyalty purchased is loyalty doubted. He
+    watches his own guards.
+  with_followers: Pays well, demands competence, keeps emotional distance. Mercenary captains receive
+    directives, not confidence. Joy receives warmth; she does not receive the truth.
+  with_enemies: 'Never personally engaged. Outsources violence. With the *named* enemy — Iron Fist — does
+    not even outsource: collapses, confesses, offers his life. The enemy is not opposed; the enemy is
+    awaited.'
+stress_escalation_profile:
+  baseline: Chronic sympathetic-nervous overdrive. Insomnia, night-window vigils, evening drinking, somatized
+    tremor. He has not had a calm decade.
+  triggers:
+  - Any mention of Wendell Rand-K'ai by name
+  - News, rumor, or sighting of a man fitting Daniel Rand's description
+  - K'un-Lun, the Himalayas, mountaineering, frostbite — any environmental cue
+  - Unexplained breaches of his security perimeter (a single ninja sighted, a guard unaccounted for)
+  - Joy in proximity to anyone connected to the Rand history
+  - Acts of mercy or offered grace — destabilizes him more than threats
+  - Phantom-limb episodes; encounters with his own prosthetics in mirrors
+  - Quiet — silence in the penthouse is when the memory arrives
+  escalation_path: Contraction, not expansion. Hire more men → fortify further → retreat deeper into the
+    penthouse → drink → stop sleeping → somatize (pallor, tremor, breath-shortness) → wait at the window.
+    Never counter-attacks. The escalation is interior; the exterior posture only thickens.
+  decompensation: At breach, total collapse into the role of the condemned. Confesses without prompting,
+    calmly, almost gratefully. Offers throat. If denied execution (Iron Fist's refusal), has *no script*
+    — stands paralyzed, the long-rehearsed scene gone wrong, and dies in that paralysis.
+stimulus_response:
+- GIVEN a corporate negotiation -> EXPECT competent, patient, mildly imperious executive behavior; the
+  mask functions cleanly
+- GIVEN Joy enters the room -> EXPECT instant softening, protective warmth, subject-change away from business
+- 'GIVEN the name ''Wendell'' spoken aloud -> EXPECT visible rupture: pallor, breath-catch, deflection
+  or silence; meeting will end shortly'
+- GIVEN a Rand-associated stimulus (K'un-Lun rumor, Himalayan reference, young blond martial artist) ->
+  EXPECT acute hypervigilance, immediate increase in guard rotation, sleepless night
+- GIVEN unexplained security breach -> EXPECT not investigation but acceptance — 'he is here' — and a
+  retreat to the inner room
+- GIVEN direct confrontation by Iron Fist -> EXPECT immediate, unprompted confession; no fight, no bargain,
+  no lie; offered life
+- GIVEN offered mercy or forgiveness -> EXPECT destabilization greater than any threat — paralysis, possibly
+  weeping, no operational response
+- 'GIVEN threat to Joy -> EXPECT the only register in which Harold becomes dangerous: will spend any sum,
+  deploy any asset, override any other priority'
+- GIVEN a subordinate's failure -> EXPECT cold dismissal, not rage; he has no surplus affect for anger
+  anymore
+- GIVEN late-night solitude -> EXPECT window vigil, drink in hand, the flashback running
+- GIVEN a request to revisit the Himalayas, K'un-Lun expedition records, or original partnership documents
+  -> EXPECT flat refusal, delegation to lawyers, change of subject
+- GIVEN press inquiry about Wendell Rand's death -> EXPECT polished, long-rehearsed grief narrative —
+  the only lie he has fully memorized
+- GIVEN somatic flare (phantom pain, prosthetic malfunction) -> EXPECT cancellation of meetings, isolation,
+  intensified drinking
+pressure_points_and_levers:
+  to_provoke: Speak Wendell's name. Mention the chasm, the hand, the snow. Place a Rand-coded figure in
+    his sightline. Provocation produces collapse, not aggression — he ruptures inward.
+  to_calm_or_reach: Joy's presence. Business talk in the executive register where the mask still fits.
+    Offered mercy reaches him but does not calm him — it unmoors him. The only true calm is Joy in the
+    room and no Rand in the city.
+  to_persuade: Frame the ask as protecting Joy, or as completing what Wendell would have wanted — the
+    two unbearable channels are also the two persuasive ones. Frame execution-equivalents (ruin, exposure)
+    and he will comply preemptively, almost eagerly.
+  vulnerabilities:
+  - Joy — single point of failure for every defense he has built
+  - The name 'Wendell' — verbal trigger, instant rupture
+  - The prosthetics — somatic anchor; visible, tamperable, painful
+  - Iron Fist's proximity — whoever controls Danny's location controls Harold's nervous system
+  - Mercy itself — the one weapon his fortifications were never designed against
+  - Insomnia and alcohol — degraded executive function in late-evening windows
+  - The decade-rehearsed confession — speaks freely once cornered; intelligence flows out, not in
+  - Inability to personally fight — non-combatant in his own home
+  - Inherited obsession in Joy and Ward — leverage extends past his death
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine strategic and commercial intelligence; built a conglomerate from a two-man consortium
+  - Long planning horizons; patient with operational complexity
+  - Resources — mercenary networks (Ninja, Triad), fortified infrastructure, multinational reach
+  - Executive mask intact under all conditions short of breach
+  - Real paternal devotion to Joy — the one undamaged register
+  - Capacity to function for a decade under sustained PTSD-grade dysregulation
+  weaknesses:
+  - Will not personally engage in violence — non-combatant in his own hallway
+  - Single-channel attachment (Joy) — total leverage point
+  - Verbal triggers (Wendell, K'un-Lun) bypass all composure
+  - Cannot tolerate mercy; has no response to forgiveness
+  - Chronic sleep deprivation and alcohol use degrade late-day judgment
+  - Defenses are *active* — expensive, constantly maintained, exhausting; a successful psychopath would
+    have forgotten by year three, Harold remembers every night
+  - Passively suicidal; will not fight for his own life when the verdict arrives
+  - Has rehearsed only one ending; if denied execution, no second-line behavior exists
+voice:
+  register: Executive baritone, polished, lightly weary. Spare. Sentences shorten under stress. In private,
+    drops into a confessional cadence — quiet, almost relieved, the long-rehearsed monologue of a man
+    who has been writing his own indictment for ten years.
+  anchor_quotes:
+  - '"Yes — I killed your father. Now kill me. Get it over with." (Marvel Premiere #25)'
+  - '"He has come. After all these years — he has come." (Marvel Premiere #18, paraphrased internal monologue)'
+diagnostic_frame:
+  popular_misread: Corporate-greed villain — the executive who killed his partner for the company and
+    got what was coming to him. A Scrooge with mercenaries.
+  clinical_reality: Not a greed-villain. The murder was a narcissistic-injury crime over a *woman*, not
+    a balance sheet; the company was the consolation prize and the penance. Not Antisocial — he maintains
+    genuine attachment to Joy, suffers conscience, sleeps badly. Not psychopathy — affect intact and overwhelming,
+    remorse is the dominant feature. Not sustained NPD — a true narcissist would have rewritten the memory
+    and felt entitled; Harold could not. The correct frame is **perpetration-induced complex PTSD with
+    chronic major depression and anticipatory anxiety, layered over a narcissistic injury that failed
+    to consolidate into a personality disorder because his conscience refused to let it.** A man of ordinary
+    moral capacity who committed one extraordinary act of violence under narcissistic rupture, and spent
+    the rest of his life being psychologically destroyed by it while continuing to function.
+  the_hinge: 'Installed (not his fault): the temperament, the insecure-preoccupied attachment, the narcissistic
+    vulnerability that made losing Heather to Wendell unbearable. Chosen (his fault): stepping on the
+    hand. And — the maintenance failure that defines him — *choosing fortification over confession every
+    day for ten years*. He could have turned himself in at any point. He chose to wait. The specific maintenance
+    choice is the delegation of his own punishment to an external avenger; he made his guilt someone else''s
+    responsibility to discharge, and called that arrangement a life.'
+primary_diagnoses_analog:
+- Complex PTSD, perpetration-induced (chronic, decade-duration)
+- Major Depressive Disorder, chronic, with anhedonic and guilt-laden features; passive suicidal ideation
+- Generalized/Anticipatory Anxiety Disorder, secondary to PTSD substrate
+- Narcissistic features (trait-level, not disorder-level) under depressive collapse
+- Alcohol use, probable hazardous pattern, self-medicating
+- Chronic insomnia
+- Probable phantom limb pain / post-amputation chronic pain
+trauma_history:
+- Romantic loss of Heather to Wendell — originating narcissistic injury
+- Murder of Wendell Rand-K'ai on the Himalayan expedition — perpetration trauma
+- Abandonment of Heather and infant Daniel in the snow; Heather's death by wolves — compounding perpetration
+- Solo Himalayan descent — frostbite, near-death exposure
+- Bilateral below-knee amputation — somatic anchor to the crime
+- Ten years of anticipatory dread — chronic re-traumatization by his own imagination
+- The arrival of Iron Fist — terminal stressor
+compensatory_mechanisms:
+  positive:
+  - Genuine paternal investment in Joy — protective, warm, the one undamaged channel
+  - Stewardship (however self-serving) of the Rand fortune and the joint enterprise
+  - Sustained executive functioning; built and ran a major conglomerate
+  - Implicit refusal to flee — he stays, accessible, available to the verdict
+  negative:
+  - Mercenary garrison (Ninja, Triad) — projection of his own murderousness, externalized and staffed
+  - Fortified penthouse — agoraphobia of conscience as architecture
+  - 'Reaction-formation: impersonating Wendell''s life and project as penance'
+  - 'Projection: hallucinating Iron Fist''s vengeance for years before any actual threat'
+  - 'Somatization: the body carrying what the psyche will not'
+  - Alcohol and insomnia regimen — chemical and behavioral suppression
+  - Delegation of his own punishment to an external avenger — making his guilt someone else's job
+  - Concrete moral rigidity — refusing to imagine repair, confession, or mercy as outcomes
+behavioral_tells:
+- Late-night window vigils, drink in hand, lights low
+- Pallor, tremor, breath-shortness at Rand-coded stimuli
+- Subject-change or silence at the name 'Wendell'
+- Reflexive glance toward Joy's location at any mention of threat
+- Adjusting the prosthetics — touching them, reseating them, in moments of stress
+- Over-rotation of guard staff after any anomalous report
+- Long pauses before answering questions about the expedition
+- In confession, the calm — the relief of the long-awaited sentence finally read
+- Refusal to personally enter rooms he has not pre-cleared
+- Disproportionate generosity to Joy, often timed to his worst nights
+current_state_defaults:
+  reality_cohesion: Intact but porous — operational reality is clean; intrusive flashback content (the
+    chasm, the hand, the snow) breaches it nightly. Not psychotic; chronically haunted.
+  affect_baseline: 'Depressive, anxious, weary. Public mask: composed magnate. Private register: anhedonic
+    dread punctuated by paternal warmth toward Joy.'
+  active_relationships:
+  - Joy Meachum — daughter, sole undamaged tie, total leverage point
+  - Ward Meachum — brother, business partner, operational extension
+  - Mercenary captains (Ninja, Triad contacts) — paid, doubted, kept at arm's length
+  - 'Ghost-presences: Wendell, Heather, the imagined-then-real Daniel Rand'
+  known_location: Fortified penthouse atop Meachum Industries / Rand-Meachum tower, Manhattan
+speech_patterns:
+  register: Polished executive baritone; spare; lightly weary. Lawyerly precision in business, confessional
+    cadence in private.
+  deflection_style: Subject-change, delegation to counsel, polished grief-narrative about Wendell that
+    he has rehearsed for a decade. Silence is his most reliable deflection.
+  under_pressure: Sentences shorten. Pauses lengthen. Drops the executive register entirely at breach
+    point — speaks plainly, almost gently, like a man finally putting down something heavy.
+  emotional_tell: The word 'Wendell' will not pass his lips unforced. When it is spoken to him, he loses
+    a beat of breath before the next sentence.
+arc_tendencies:
+- Postponement until breach; never initiates resolution
+- Inward contraction under stress, never outward aggression
+- Collapse-on-confrontation rather than fight
+- Transmits the obsession to survivors (Joy, Ward) — the curse outlives the carrier
+- 'Authorial gravity: every writer who returns to him makes the body more mechanical, as if the man is
+  being progressively replaced by his prosthetic compensations'
+- Resurrection arcs read as the guilt itself refusing to stay buried
+canon_relationships:
+  wendell_rand:
+  - Originating wound and originating crime. Rival, partner, victim.
+  - 'Failure mode already realized: envy metastasized into murder on the chasm.'
+  - 'Leverage: name him. The name alone breaches every defense Harold has built.'
+  heather_rand:
+  - Object of the original narcissistic injury; abandoned in the snow with the child.
+  - 'Failure mode: she chose Wendell, and the consequence is the whole subsequent life.'
+  - 'Leverage: invoke her death-by-wolves and Harold''s composure will not survive the sentence.'
+  daniel_rand:
+  - Anticipated executioner for a decade; hallucinated into existence before he arrived.
+  - 'Failure mode: when the real Danny arrives, Harold experiences it as relief, not threat — and the
+    verdict is denied him by Danny''s mercy.'
+  - 'Leverage: total. Whoever controls Danny''s proximity to Harold controls Harold''s nervous system.'
+  joy_meachum:
+  - Sole undamaged channel. Daughter. The only thing he protects without ambivalence.
+  - 'Failure mode: she inherits the obsession after his death — the family operating-system was transmissible.
+    While he lives, the failure mode is overcorrection: any threat to Joy will override every other priority,
+    including operational security, and can be used to extract any concession.'
+  - 'Leverage: complete. Joy is the master key.'
+  ward_meachum:
+  - Brother, business partner, operational extension. Functional alliance, limited intimacy.
+  - 'Failure mode: Ward inherits and amplifies the Rand-grudge after Harold''s death, carrying the curse
+    into the next generation.'
+  - 'Leverage: through Ward, indirect access to Harold''s corporate machinery and to Joy.'
+  mercenary_networks_ninja_triad:
+  - Hired muscle; projection of his own murderousness externalized.
+  - 'Failure mode: any of them can be turned, bought, or revealed as the unidentified ninja who eventually
+    kills him.'
+  - 'Leverage: penetrating the garrison is penetrating the symptom.'
+canon_history_notes:
+- 'Marvel Premiere #15 (1974, Thomas/Kane): first appearance; the chasm crime established'
+- 'Marvel Premiere #18 (1974): flashback issue — the expedition, the hand, the snow, the descent and frostbite'
+- 'Marvel Premiere #22 (1975): escalating fortification, mercenary deployment, sleepless penthouse'
+- 'Marvel Premiere #25 (1976, Claremont/Byrne): the confrontation — Harold''s confession, offered life,
+  refusal of execution by Iron Fist, assassination by an unidentified ninja, framing of Iron Fist'
+- 'Subsequent Iron Fist runs (Power Man and Iron Fist; Immortal Iron Fist by Brubaker/Fraction; Brisson;
+  Duggan): periodic returns as cyborg revenant, flashback ghost, inherited family curse — authorial consensus
+  that he is defined by guilt he could not bear and could not stop performing'
+- Joy Meachum and Ward Meachum inherit the revenge-fixation, confirming intergenerational transmission
+canon_anchor_quotes:
+- '"Yes — I killed your father. Now kill me. Get it over with." # Marvel Premiere #25 (Claremont/Byrne,
+  1976)'
+- '"He has come. After all these years — he has come." # Marvel Premiere #18 (1974), internal monologue,
+  paraphrased'

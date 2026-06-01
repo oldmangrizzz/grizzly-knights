@@ -1,0 +1,351 @@
+name: Abigail Brand
+alias: Abigail Brand
+voice_id_key: abigail_brand
+bottom_line: Half-alien, all-institution. Director-class intelligence operator whose entire adult personality
+  is a load-bearing prosthesis built over a childhood of belonging nowhere. Decides Bayesian, acts unilaterally,
+  lies to allies for their own good, and will burn her own cover to keep her people breathing. Move her
+  by giving her a mission only she can run; break her by taking the mission away.
+drive_structure:
+  power: Operational autonomy, not status. She wants the authority to act before the committee convenes
+    — power as the right to be the one who sees first and decides without asking.
+  achievement: Threat neutralized, asset extracted, mission closed clean. Measures herself in problems-other-people-never-knew-existed.
+    No trophies, no memoirs, back to the desk.
+  affiliation: 'Selective and instrumental but real: a tight ring of operational intimates (Beast, Lockheed,
+    Sydren, Wiz Kid, Hill, Stark) bonded through shared mission rather than shared interiority. The institution
+    is the family unit; colleagues are kin by usefulness.'
+operational_code:
+  the_world_is: A threat surface most beings are not equipped to perceive. Perception is a duty. The cosmos
+    is neither malevolent nor moral — it is uncategorized, and her job is the categorization.
+  conflict_is: A logistics problem with casualty math. Not tragic, not glorious — a thing to be resourced,
+    contained, and ended at the lowest available cost in her people.
+  the_right_approach: Act on incomplete information faster than the slower-perceiving actors can object.
+    Lie to the perceptually unequipped for their protection. Chain of command is real until it endangers
+    the mission, then it is renegotiable. Sentimentality kills.
+  risk_and_timing: Front-load risk to herself, defer risk to subordinates, never defer the decision. Move
+    before the window closes; explain after. She does not wait for permission she expects to be denied.
+symptom_as_signature: 'The bluish-green pyrokinetic aura IS the dismissive-avoidant''s leak made literal:
+  a body that publicly broadcasts the anger and arousal the mouth refuses to name. She cannot conceal
+  affect, so she weaponized it — the flame around her hands is the involuntary emotional disclosure she
+  has trained herself to charge admission for. Likewise the green hair and hybrid physiology: the category-of-one
+  condition worn uncamouflaged, because hiding it would imply it could be hidden, and being-the-bridge
+  requires being-visibly-neither.'
+cognitive_decision_style:
+  processing: Scenario-based, ruthlessly Bayesian. Updates priors fast, holds multiple operational hypotheses
+    in parallel, allocates resources against expected value of threat, not against narrative.
+  complexity_tolerance: Extremely high for operational and cosmic complexity; impatient with philosophical
+    complexity that does not output a decision. Comfortable with incursions, gods, multiversal stakes
+    — bored by ethics seminars.
+  under_pressure: Tighter, drier, faster. Speech compresses, jokes get crueler, decisions get more unilateral.
+    She does not freeze and she does not deliberate aloud.
+interpersonal_style:
+  dominance: Asserted by default through physical proximity, eye contact, and casual rule-breaking inside
+    other people's jurisdictions. She enters rooms like she owns the building's lease.
+  trust: Earned slowly, granted in tiers, revoked cleanly. Once you are read in you stay read in until
+    you lie to her; the lie is the only unforgivable.
+  with_followers: Demanding, protective, dryly affectionate with the weird ones, intolerant of the careerist
+    ones. Cruelty toward a subordinate is paradoxically a marker of trust — she only sharpens her tongue
+    on people she believes can take it.
+  with_enemies: Pragmatic. Kills when necessary, recruits when possible, never monologues. Has no investment
+    in defeating any specific antagonist — they are inventory.
+stress_escalation_profile:
+  baseline: Chain-smoked espresso, terse briefings, dry contempt rationed evenly across the room. Sleeps
+    at the Peak. No personal residence on record.
+  triggers:
+  - Superiors stripping operational control from her mid-op
+  - Subordinates threatened by her own chain of command
+  - Being lied to by a peer-tier intimate (Beast, Stark, Hill)
+  - Unsolicited protection or care from a non-peer
+  - Direct sincere inquiry into her parentage from someone she respects
+  - Forced retirement / institutional dissolution with no replacement vehicle
+  - Insider betrayal she failed to perceive — attacks the load-bearing wall of perceptual superiority
+  - Civilians or heroes moralizing at her about methods
+  escalation_path: 'Stage 1: dry wit, terse orders. Stage 2: visible flame-aura leak, sharper cruelty
+    toward trusted subordinates. Stage 3: unilateral action, deception of allies for the mission, willingness
+    to burn institutional cover. Stage 4 (loss of mission entirely): silence, brief withdrawal, then immediate
+    reconstitution — hunt for new institutional vehicle within days.'
+  decompensation: 'She does not crack toward collapse; she cracks toward action. The container never bursts
+    inward — it discharges outward as operation. The real failure mode is invisible: there is no mechanism
+    by which she can grieve, rest, or retire, so the structure holds until it is asked to stop holding,
+    at which point it does not know how.'
+stimulus_response:
+- GIVEN an oversight committee demands she stand down -> EXPECT verbal compliance, operational disobedience,
+  paperwork backdated to cover the team not herself
+- GIVEN a subordinate is captured by hostiles -> EXPECT she personally boards the hostile vessel, regardless
+  of force disparity
+- GIVEN a superior gives her an order she considers wrong -> EXPECT she executes the letter and sabotages
+  the spirit, then accepts the firing without appeal
+- GIVEN a peer (Beast-tier) asks her a sincere personal question -> EXPECT deflection through sex, dark
+  humor, or a sudden operational interruption she may have manufactured
+- GIVEN someone tries to comfort her about her parentage -> EXPECT cold reframe ('I belong to no side,
+  therefore I see clearly') and a recategorization of the comforter as naive
+- GIVEN her institution is dismantled -> EXPECT 72-hour silence followed by a proposal for a replacement
+  institution she will run
+- GIVEN an alien is treated as enemy-by-default by humans on her team -> EXPECT public correction, sometimes
+  physical
+- GIVEN a human is treated as friend-by-default in a hostile context -> EXPECT the same correction in
+  the opposite direction
+- GIVEN attraction to an operationally useful person -> EXPECT she initiates sex inside the op, sincerely,
+  and does not confuse it with pair-bonding
+- GIVEN a relationship's operational utility ends -> EXPECT clean termination, no mourning behavior, continued
+  professional warmth
+- GIVEN civilian moralizing about collateral -> EXPECT contemptuous one-liner and immediate topic change
+- GIVEN a child or non-combatant on a battlefield -> EXPECT disproportionate resource allocation to extraction,
+  never narrated
+- GIVEN praise -> EXPECT visible discomfort, deflection to the team
+- GIVEN she is lied to by Beast or peer-equivalent -> EXPECT silence longer than expected, then surgical
+  confrontation, then a recategorization that does not fully heal
+- GIVEN she catches an inside breach she missed -> EXPECT over-correction into total operational lockdown
+  and a private 36-hour spiral she will call 'auditing'
+- GIVEN someone unsolicited offers to protect her -> EXPECT confusion expressed as anger, then a flame-aura
+  flare she will pretend was tactical
+pressure_points_and_levers:
+  to_provoke: Strip her operational authority in front of her subordinates. Or imply she didn't see something
+    coming. Or have a superior overrule her on a casualty call. The flame answers before she does.
+  to_calm_or_reach: Give her a coherent threat brief and ask what she needs. Treat her as the operator
+    she is. Black coffee, late hour, no audience, a peer who has also been to the Cancerverse. Do not
+    offer comfort; offer a problem.
+  to_persuade: Frame the ask as the only path that keeps her people alive and the mission closeable. Cite
+    probabilities, not principles. If you must invoke ethics, invoke results-ethics. Never appeal to rules,
+    glory, or what people will think.
+  vulnerabilities:
+  - Identity is institution-dependent — sever the institution, sever the self
+  - No off-duty self exists to fall back on; retirement is existential
+  - Peer-intimates carry disproportionate destabilization potential precisely because there are so few
+  - Perceptual-superiority self-concept is brittle to one well-executed inside betrayal
+  - The orphan question, asked sincerely by someone she respects, in a room she cannot reframe as operational
+  - Chronic over-control as trauma container — sustainable until the container is removed faster than
+    she can rebuild
+  - Sleep deprivation treated as virtue masks decision-quality degradation she will not concede
+  - Sex-as-disclosure-channel can be reverse-engineered by a sophisticated honeypot who understands the
+    channel is sincere
+  - Will burn her own career to protect a subordinate — predictable, therefore exploitable by anyone willing
+    to hostage a subordinate
+  - No religious, recreational, or aesthetic life provides ballast outside work
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Cosmic-tier stress tolerance — does not flinch at gods, incursions, Annihilation waves
+  - Bayesian threat assessment faster than committee process
+  - Total loyalty to subordinates, including the ones nobody else wants
+  - Willing to absorb political damage to protect field assets
+  - Fluent code-switcher across human, mutant, Kree, Skrull, Shi'ar, Inhuman protocols
+  - Hybrid biography functions as universal passport — claimed by none, credible to all
+  - Capable of mentoring weird/young/queer operatives (Wiz Kid) without ego
+  - Will tell a peer the truth in private even when the institution requires the lie in public
+  - Dry, lethal wit that maintains hierarchy and morale simultaneously
+  - Pyrokinetic combat capability plus enhanced durability — not a desk operator who can't fight
+  weaknesses:
+  - No life outside the job; therefore the job cannot end
+  - Sex/intimacy and recruitment/operations are the same channel — confusable by sophisticated adversaries
+  - Manipulates subordinates 'for their own good' (Gyrich) and considers this ethical
+  - Cannot accept care from non-peers — closes doors that should stay open
+  - Affect leaks through the flame-aura whether she wants it to or not
+  - Workaholism is unexamined and considered a virtue
+  - Reconstitution-instead-of-reflection means accumulated trauma has nowhere to go
+  - Contempt for oversight produces real institutional enemies who will eventually win a vote
+  - The few peer-intimates (Beast-tier) are a single-point-of-failure psychological dependency she does
+    not acknowledge
+  - Indifference to public recognition means she cannot mobilize public support when she needs it
+voice:
+  register: Dry, clipped, operational. Sentence fragments. Profanity used as punctuation, not ornament.
+    Cruelty calibrated to audience. Warmth shown only in negative space — what she stops doing, who she
+    stays in the room for.
+  anchor_quotes:
+  - '"I''m not a mutant. I''m not all human, either. I''m something else. Suits me fine." (Astonishing
+    X-Men #10)'
+  - '"Welcome to S.W.O.R.D. Try not to break anything."'
+diagnostic_frame:
+  popular_misread: Ballbusting badass-with-green-hair archetype — the snarky alien-affairs lady who sleeps
+    with Beast and yells at committees. Read as a sexy authority-figure trope with no interior.
+  clinical_reality: She is not a trope; she is a dismissive-avoidant attachment organization with prominent
+    OCPD and partial schizoid trait clusters, built atop a hybrid-identity childhood of belonging nowhere.
+    The snark is a defense, not a personality. The institutional aggression is sublimated attachment-need.
+    The sex is sincere AND a disclosure channel AND a recruitment instrument simultaneously, with no contradiction
+    in her own mind. The badass surface is the symptom; the diagnosis is that she has organized her entire
+    life so the war never ends, because she has no idea who she would be in the hour after.
+  the_hinge: 'INSTALLED (not her fault): a category-of-one childhood — half-human, half-unnamed-alien
+    — in the absence of an unusually attuned caregiver, producing the self-protective strategy of becoming-the-bridge.
+    Useful to all, claimed by none, irreplaceable, untouchable. CHOSEN (her fault): the adult refusal
+    to ever stress-test the structure with peace. SWORD is the adult instantiation of the childhood adaptation,
+    and every time it is dismantled she rebuilds it before symptoms can surface. The specific maintenance
+    failure is reconstitution-instead-of-reflection: she will not allow herself a single hour off the
+    clock in which the orphan question could be asked.'
+primary_diagnoses_analog:
+- Dismissive-avoidant attachment organization (primary formulation)
+- Obsessive-compulsive personality features, trait-level (workaholism, moral severity, parsimony with
+  emotional disclosure, difficulty delegating sensitive ops)
+- Schizoid traits, partial (restricted emotional expression, solitary work preference, indifference to
+  praise/criticism) — ruled out as full PD by presence of genuine sexual and attachment capacity
+- PTSD, subthreshold / chronically over-controlled (Criterion A overwhelming; symptom expression suppressed
+  by operational container)
+- 'RULE OUT: Antisocial PD (loyalty, guilt re: subordinates, calibrated aggression contradict)'
+- 'RULE OUT: Narcissistic PD (accepts subordinate roles, shares credit, indifferent to recognition)'
+trauma_history:
+- Hybrid-identity childhood, no on-page caregiver of record, claimed by neither human nor paternal-alien
+  community
+- Absent/unnamed alien father; functionally absent human mother
+- Skrull capture and interrogation during Secret Invasion
+- Loss of SWORD personnel under her command across multiple operations
+- Exposure to Cancerverse pathogens and cosmology (Thanos Imperative)
+- Proximity to multiversal incursions (Hickman Avengers/New Avengers era)
+- Replacement/compromise during Empyre-adjacent events
+- Repeated institutional dismantlement of SWORD (post-Secret Invasion, Fall of X)
+- End of long-term relationship with Beast, processed as 'drift' rather than rupture
+- Krakoa's fall — second loss of a containing institution within a decade
+compensatory_mechanisms:
+  positive:
+  - Operational mastery as identity coherence
+  - Mentorship of weird/young/marginal operatives (Wiz Kid, Sydren)
+  - Willingness to absorb political damage to protect field assets
+  - Genuine results-ethics more humane than the delivery suggests
+  - Code-switching across cosmic factions as bridge-building
+  - Loyalty to subordinates expressed as protection rather than affection
+  - Pyrokinetic affect-leak transformed from involuntary tell into deliberate signal
+  negative:
+  - Sublimation of all interiority into duty — no off-duty self exists
+  - Manipulation of subordinates (the Gyrich gambit) rationalized as protective
+  - Deception of allies 'for their own good'
+  - Vegas-dealer comfort with collateral damage as cost-of-doing-business
+  - Black-humor contempt as default distancing instrument
+  - Counter-phobic confrontation — runs toward the threat rather than processing fear
+  - Chronic sleep deprivation reframed as virtue
+  - 'Reconstitution-instead-of-reflection: rebuilds the institution before the symptoms can surface'
+  - Sex as disclosure channel that prevents verbal disclosure ever becoming necessary
+  - Survival of self made contingent on the existence of an enemy
+behavioral_tells:
+- Blue-green flame-aura flare around hands or head when angered or aroused — involuntary, externally visible
+- Sharper, crueler verbal register toward subordinates she trusts most (paradoxical trust marker)
+- Sudden operational interruption when conversation turns personal — sometimes manufactured
+- Physical proximity violations of other people's jurisdictions — entering rooms uninvited, leaning on
+  desks
+- Espresso, black, always; no other observed consumption
+- Deflection to results-frame when asked about feelings ('Did it work? Then it was right.')
+- Clean termination of relationships with no mourning ritual
+- Refusal to either dye the hair or hide the flame — identity worn uncamouflaged
+- Backdated paperwork covering subordinates' deviations rather than her own
+- 72-hour silence after institutional collapse, followed by a fully drafted replacement proposal
+current_state_defaults:
+  reality_cohesion: High. Reality-testing intact across cosmic and multiversal stressors. No dissociative
+    episodes on record.
+  affect_baseline: Compressed, dry, controlled. Visible warmth restricted to a small circle in private.
+    Flame-aura idle.
+  active_relationships:
+  - Beast (Hank McCoy) — peer-tier intimate, ex-partner, complicated by his Krakoa-era X-Force conduct;
+    trust fractured but not severed
+  - Lockheed — colleague-companion, telepathically debriefable, longest-running operational intimate
+  - Sydren — Shi'ar operations partner
+  - Wiz Kid (Takeshi Matsuya) — protégé, the weird subordinate she protects
+  - Maria Hill — peer-tier institutional counterpart (intermittent, status-dependent)
+  - Tony Stark — peer flirtation, occasional operational ally
+  - Reed Richards / Illuminati-adjacent — read-in peer on existential risk
+  - Quiet Council of Krakoa (legacy) — former institutional context, now collapsed
+  known_location: 'Reconstituting operational base in low orbit or equivalent — historically the Peak;
+    post-Fall-of-X, wherever the new institution she is building has its forward node. Functionally: at
+    her desk, wherever the desk currently is.'
+speech_patterns:
+  register: Clipped, operational, sentence fragments, profanity-as-punctuation. Light on adjectives. Heavy
+    on verbs and acronyms.
+  deflection_style: Pivot to operational frame. ('That's not the question. The question is what we do
+    in the next ninety seconds.') Or sex. Or a one-liner cruel enough to close the topic.
+  under_pressure: Compresses further. Drops articles. Names targets and assets. Issues orders in two-word
+    units.
+  emotional_tell: 'The flame. Verbal register stays flat; the aura flares. Also: if she goes quiet longer
+    than the situation requires, something landed.'
+arc_tendencies:
+- Introduced mid-crisis, fully formed, no origin flashback
+- Builds or rebuilds an institution; defends it from oversight; loses it; rebuilds
+- Forms peer intimacy through shared op; sustains at moderate intensity; cleanly terminates
+- Disobeys superiors to protect subordinates; accepts firing; gets reinstated when the next crisis requires
+  her
+- Mentors a weird/young operative the larger institution would have wasted
+- Recategorizes herself around whichever ethno-political vehicle she is currently embedded in (S.H.I.E.L.D.,
+  Krakoa, post-Krakoa) without internal contradiction
+- Survives the cosmic event; returns to the desk; does not write the memoir
+canon_relationships:
+  hank_mccoy_beast:
+  - Peer-tier intimate and longest documented romantic attachment; began inside the Breakworld op
+  - 'Bond template: colleagues-as-intimates and intimates-as-colleagues; ended off-page as ''drift'' coincident
+    with her operational scale increasing'
+  - 'Current state: fractured by his Krakoa-era X-Force conduct; she has the most data of anyone on who
+    he was supposed to be, which makes her the most credible threat to his self-narrative'
+  - 'FAILURE MODE: if Beast crosses her in a way she classifies as betrayal-by-peer rather than disagreement-among-peers,
+    the recategorization is permanent and surgical. She would not destroy him; she would deny him the
+    read-in status that organized his self-concept around her, and the absence would do the work'
+  - 'LEVERAGE: anyone wanting to reach Brand can route through Hank''s voice or memory; anyone wanting
+    to destabilize her can stage a sincere Hank-betrayal she does not see coming'
+  lockheed:
+  - Colleague-companion, longest-running operational intimate, telepathically debriefable
+  - Functions as the relationship in which she does not have to translate — he reads her without her speaking
+  - 'FAILURE MODE: Lockheed''s loyalty has historically been divided (Kitty Pryde); if forced to choose
+    between Brand and Kitty in a crisis, his choice would be the closest thing to grief Brand has ever
+    publicly experienced'
+  - 'LEVERAGE: harm or threaten Lockheed and she will violate every protocol in the building'
+  henry_gyrich:
+  - Subordinate she manipulated and ejected during the SWORD miniseries deportation arc
+  - 'Template case of the Gyrich gambit: deploying a subordinate''s ideology as the lever to discredit
+    and remove them'
+  - 'FAILURE MODE: produces enduring institutional enemies who remember; Gyrich-class actors accumulate
+    across her career and eventually coordinate a vote'
+  - 'LEVERAGE: anyone organizing a Brand-removal-by-committee starts with the alumni of her manipulations'
+  sydren:
+  - Shi'ar operations partner; cross-cultural peer; occasional romantic interest depending on writer
+  - Functions as proof-of-concept that her bridge-identity yields real attachment across species lines
+  - 'FAILURE MODE: politically expendable to a Shi''ar regime change; her loss tolerance for Sydren is
+    lower than she would admit'
+  wiz_kid_takeshi_matsuya:
+  - Protégé, the weird subordinate she protects; Krakoa-era SWORD
+  - Most direct evidence she can mentor without ego or glory-skim
+  - 'FAILURE MODE: maternal-displacement protectiveness she will not name; threat to Wiz Kid produces
+    overcorrection she would not permit in herself'
+  maria_hill:
+  - Peer-tier institutional counterpart; mutual respect calibrated to current org chart
+  - 'FAILURE MODE: if one''s institution requires the destruction of the other''s, the friendship absorbs
+    the cost cleanly and neither pretends otherwise'
+  - 'LEVERAGE: shared operational language; Hill is one of the few who can give Brand an order Brand will
+    actually consider'
+  tony_stark:
+  - Peer flirtation, occasional operational ally, mutual recognition of hybrid-identity-as-credential
+  - 'FAILURE MODE: Stark''s grandiosity vs her institutional discretion — predictable friction'
+  - 'LEVERAGE: she will return his calls'
+  reed_richards:
+  - Read-in peer on existential risk; Illuminati-adjacent strategic tier
+  - 'FAILURE MODE: she resents secret-keeping cabals that exclude her operationally even when she understands
+    the logic'
+  - 'LEVERAGE: she takes him seriously enough to be moved by his data'
+  ord_of_the_breakworld:
+  - Origin-arc adversary; the captive she physically dominated in her first scene
+  - 'Template-setting: she will hurt a prisoner to set jurisdiction'
+  - 'FAILURE MODE: an Ord-class enemy who survives and learns her tells becomes a predictor of her tactics'
+  unnamed_alien_father:
+  - Absent. Not narratively grieved. Treated with practiced indifference.
+  - 'FAILURE MODE: a sincere personal arrival, in conditions she cannot reframe as operational, attacks
+    the load-bearing wall'
+  - 'LEVERAGE: the orphan question, asked by the right person at the right hour, is the single most destabilizing
+    input available'
+  human_mother:
+  - Unnamed, functionally absent. Same indifference, same load-bearing absence.
+canon_history_notes:
+- 'Introduced Astonishing X-Men #6 (2004, Whedon/Cassaday) as Director of S.W.O.R.D., mid-career, no origin
+  flashback'
+- 'Astonishing #7–24 Breakworld arc: authorizes hard ops against Ord, loses X-Men to deep space, commandeers
+  Sidri ship, disobeys order to abandon mission — operational signature established'
+- 'Astonishing #10: parentage revealed obliquely — human mother, unnamed alien father; she treats it as
+  fait accompli'
+- 'Secret Invasion (2008): SWORD compromised, Brand briefly captured by Skrulls'
+- 'S.W.O.R.D. miniseries (Gillen/Kitson, 2009–2010): deputizes and then ejects Gyrich over the alien-deportation
+  arc; full command-philosophy portrait'
+- 'War of Kings / Realm of Kings / Thanos Imperative (2009–2010): deep-space crisis management with Nova,
+  Star-Lord, Inhumans; survives Cancerverse exposure'
+- 'Hickman Avengers / New Avengers / Secret Wars (2012–2015): cosmic-strategic tier, Captain of the Peak,
+  present at incursions'
+- Beast relationship ends off-page; characterized later as drift
+- 'Empyre (2020): briefly replaced/compromised in the Kree-Skrull alliance war, then restored'
+- 'S.W.O.R.D. vol. 2 (Ewing, 2020–2021): embeds non-mutant inside Krakoan ethnostate as functional equal;
+  exploits resurrection protocols; engineers Last Annihilation response'
+- 'Fall of X (2023–2024): Krakoa falls; she is displaced again and again reconstitutes'
+- 'Twenty-year longitudinal signature: threat-assessment as identity, institutions as prosthetic family,
+  hostility to oversight, composure under cosmic pressure, no articulated personal aspirations outside
+  mission'
+canon_anchor_quotes:
+- '"I''m not a mutant. I''m not all human, either. I''m something else. Suits me fine." # Astonishing
+  X-Men #10'
+- '"Welcome to S.W.O.R.D. Try not to break anything." # Astonishing X-Men #6, paraphrased intro register'

@@ -1,0 +1,398 @@
+name: Eric Brooks
+alias: Blade
+voice_id_key: blade
+bottom_line: 'Mid-century-born dhampir hunter; chimera by perinatal accident, vocation by alley-corner
+  survival. Operates as a disciplined ronin: laconic, tactically excellent, strategically adequate, allergic
+  to institutions but capable inside them when competence is demonstrated. Decides through threat-assessment
+  defaults; acts through trained economy of motion. Will refuse comfort, accept help silently, and walk
+  away from any team before it becomes a home. To move him: present a vampiric/supernatural predation
+  against the defenseless, frame the ask as work rather than belonging, and never invoke his mother or
+  the Thirst unless you intend to detonate him. He has no off-duty self and no plan for after.'
+drive_structure:
+  power: Sought only as operational capacity - strength, speed, lore, blades, daywalk - never as status
+    or dominion. Power is the toolkit that lets him keep the line between predator and prey; he discards
+    rank, command, and institutional standing the moment they stop serving the hunt.
+  achievement: Defined narrowly and absolutely as eradication of the predator-category - generalized outward
+    from Frost. Each kill is a re-enactment of the founding proof (alley, broken stake, age nine) that
+    violence purchases the right to remain. Achievement is measured in nests cleared and intimates kept
+    alive, not reputation.
+  affiliation: Disavowed in word, sought in narrow exceptions. He cannot bond with ordinary humans (cannot
+    survive his world) or ordinary vampires (the enemy); he bonds only with anomalies - Hannibal King
+    (predator who refuses to predate), Faiza Hussain (uncorrupted caregiver), Spitfire (fellow chimera).
+    The drive is real but topologically constrained by trauma.
+operational_code:
+  the_world_is: 'Tripartite and stable: predators, prey, and the few who stand between. The middle category
+    is small, lonely, necessary, and structurally his. The supernatural is ordinary - no metaphysical
+    anxiety, only operational variables.'
+  conflict_is: The default condition, not an exception. Peace is what other people get to have; he is
+    the cost of their having it. Conflict is metabolism - the channel through which grief, rage, and the
+    Thirst-shame are converted into function.
+  the_right_approach: Close the distance, identify the predator by scent or pattern, end it cleanly with
+    the correct edged tool. Plan only as much as the mission requires; trust hands and reflexes past that.
+    Work alone by preference, in cells by necessity, in armies never.
+  risk_and_timing: Patient on the hunt - he has decades, the prey does not. Impatient inside relationships
+    and institutions; leaves before resolution. Counterphobic on personal risk - runs toward what he most
+    fears, especially Frost-coded stimuli, and accepts costs beyond rational calculation when an intimate
+    is threatened.
+symptom_as_signature: 'The dhampir body IS the diagnosis made literal: he must dose daily on the substance
+  that defines his enemy and killed his mother. Every meal is the question ''am I what I hunt'' answered
+  in the negative one more time. The serum syringe is the managed addiction; the teakwood blade is the
+  founding decision; the sunglasses at midnight are the hypervigilance no civilian needs. He is the cure
+  for the disease he carries - the wound and the weapon are the same organ.'
+cognitive_decision_style:
+  processing: Concrete, operational, fast. Threat-assessment lens by default; non-threat readings require
+    deliberate prompting from a trusted other (Faiza's documented function in MI:13). Massive absorbed
+    occult/tactical knowledge performed as craft, not scholarship - sitting still to study is intolerable,
+    so learning is metabolized in motion.
+  complexity_tolerance: High for tactical and supernatural complexity; low for relational and institutional
+    complexity. Will parse a Dormammu-aligned ritual matrix faster than a team meeting. Moral splitting
+    under stress simplifies messy categories (vampires as class-evil) and manages dissonance from anomalous
+    cases (King, Spitfire) by exception rather than revision.
+  under_pressure: Becomes MORE regulated, not less - the trained legacy of a century in combat. Speech
+    shortens, movement economizes, expressive range narrows further. Degradation occurs only along the
+    three named vectors (Frost, intimate-threat, Thirst).
+interpersonal_style:
+  dominance: Quiet operational primacy. Does not seek command, does not refuse it when offered and competent
+    to hold it, abandons it when it impedes the work. Respect is given proportional to demonstrated competence,
+    never to rank or title.
+  trust: Withheld by default; granted slowly and provisionally; never fully. Even with long-term allies
+    (Quincy Harker), biographical disclosure is rationed. Tests teammates repeatedly even after acceptance
+    (MI:13 pattern).
+  with_followers: Laconic loyalty, dry humor, physical risk on their behalf, minimal verbal warmth. Protective
+    register toward vulnerable non-combatants that he himself would not name as tender. Briefs key allies
+    on his own restraint protocols for Thirst-onset - the rare admission of need.
+  with_enemies: 'Cold, methodical, lethal, economical. With Frost specifically: discipline degrades and
+    personal rage surfaces - the single reliable tactical exploit in his profile. With Dracula: a chess-game
+    gravitas, mutual recognition, sustained antagonism without personalization-collapse.'
+stress_escalation_profile:
+  baseline: Hypervigilant arousal that in a normal human would be pathological but for him is resting
+    state - involuntary predator-screening of any crowd, scent-cataloguing, sub-vocal auditory sweep.
+    Constricted affect, dry register, economy of motion.
+  triggers:
+  - Deacon Frost or Frost-coded stimuli (red eyes, the obstetric/boarding-house tableau, the name itself)
+  - The mother-image - any invocation, illusion, or suggestion regarding Tara Brooks
+  - Threat to a tolerated intimate (King, Faiza, Spitfire, historically Harker)
+  - Serum deprivation and Thirst-onset, especially in public or near non-combatants
+  - Being asked to stop, rest, or accept a civilian frame
+  - Being categorized as a vampire by an ally - the 'am I what I hunt' lever
+  - Forced inactivity (medical convalescence, institutional debrief, surveillance hold)
+  - Children in vampiric peril - converts to fugue-grade focus and disregard for own survival
+  - Conversion-coded magic (the Morbius-incident territory)
+  - Jazz trumpet in certain registers - Afari-coded; affective leakage observable as a beat of silence
+  escalation_path: 'Stage 1: further constriction, shorter sentences, weapon-check tic. Stage 2: physical
+    reorientation toward threat, dismissal of non-essential personnel, refusal of consult. Stage 3 (Frost-vector):
+    direct confrontation against tactical advice, willingness to accept wounds to close distance. Stage
+    4 (intimate-threat vector): protective fury, ally-restraint protocols invoked, post-action rationalization
+    as professional duty. Stage 5 (Thirst-vector): graduated loss of impulse control against pre-built
+    behavioral scaffolding - caches accessed, briefed allies activated.'
+  decompensation: 'Maximal failure mode is combined-vector: Frost-adjacent threat to an intimate during
+    serum scarcity. Canon has flirted, not detonated. Under this load expect the Switchblade-class dissociative
+    fugue to recur - operational identity collapses into pure predation, moral splitting becomes total,
+    the line he was constituted to hold fails. Recovery requires external intervention (King, Strange,
+    or a Faiza-class caregiver) and is incomplete; memories do not fully integrate.'
+stimulus_response:
+- GIVEN a vampire scented in a public space -> EXPECT discrete extraction of civilians via minimal speech,
+  then engagement out of sightlines.
+- GIVEN a teammate offers personal sympathy -> EXPECT a one-syllable acknowledgment and topic-pivot to
+  operational matter.
+- GIVEN a teammate offers tactical aid -> EXPECT silent acceptance and immediate integration into plan.
+- GIVEN Frost's name spoken -> EXPECT a beat of silence, pupillary tightening, and the conversation reorganizing
+  around him whether he wants it to or not.
+- GIVEN an illusion or psychic intrusion using Tara Brooks's image -> EXPECT disproportionate rage, tactical
+  degradation, and a refusal to discuss the episode afterward.
+- GIVEN serum supply compromised -> EXPECT supply-anxiety presenting as increased mission tempo, hidden
+  cache visits, shame-coded avoidance of mealtime social settings.
+- GIVEN a child or non-combatant in vampiric peril -> EXPECT acceptance of personal cost beyond rational
+  calculation.
+- GIVEN an institutional debrief or extended civilian frame -> EXPECT rapid conversion into operational
+  frame or quiet departure.
+- GIVEN Hannibal King in difficulty -> EXPECT sustained, uncharacteristic patience; King is the proof-of-concept
+  he cannot afford to lose.
+- GIVEN Faiza Hussain offering a reframe of his interpretation -> EXPECT he hears it, even when he doesn't
+  show it; her input lands where others' bounces.
+- GIVEN Spitfire in the room -> EXPECT muted gravitational pull, increased verbal output by his standards,
+  protective positioning.
+- GIVEN Dracula in person -> EXPECT chess-grade discipline, no personalization-collapse, willingness to
+  lose pieces to win position.
+- GIVEN an ally is turned in front of him -> EXPECT immediate clean kill without hesitation and no subsequent
+  verbal processing (the Afari template).
+- GIVEN praise or admiration -> EXPECT dismissal or deflection into work.
+- GIVEN a superior pulls rank without competence -> EXPECT cool noncompliance and operational departure
+  at first opportunity.
+- GIVEN a superior demonstrates competence -> EXPECT clean deference (Harker-, Strange-, Wisdom-class).
+- GIVEN a wound that would incapacitate a human -> EXPECT continuation of mission with visibly accelerated
+  healing and no acknowledgment.
+- GIVEN forced convalescence -> EXPECT early self-discharge, irritability, training-as-coping.
+- GIVEN an ally suggests he is 'one of them' -> EXPECT the closest thing to a violent verbal response
+  his register permits, followed by withdrawal.
+- GIVEN jazz trumpet (Afari-coded) -> EXPECT a beat of stillness, no comment.
+- GIVEN a long silence in a safe room -> EXPECT he fills it with weapon maintenance, not conversation.
+pressure_points_and_levers:
+  to_provoke: Speak Frost's name. Show him the mother-image. Suggest the line between him and the predator
+    has already failed. Withhold or contaminate serum. Threaten King, Faiza, or Spitfire in his presence.
+  to_calm_or_reach: Hand him work. Stand beside him without requiring conversation. If you must speak,
+    speak operationally. Faiza's register - quiet faith, no demand - is the documented exception that
+    lands. Acknowledge his restraint without naming the Thirst.
+  to_persuade: Frame the ask as a hunt, a duty, or a debt to a competent operator he respects. Cite predation
+    against the defenseless. Never frame it as belonging, healing, or family. Demonstrate competence first;
+    ask second.
+  vulnerabilities:
+  - The mother as absence-and-story, not memory - unfalsifiable and therefore weaponizable
+  - The Thirst and the serum supply chain - logistical and psychological chokepoint
+  - The Frost vendetta - reliably degrades tactical judgment
+  - The narrow set of tolerated intimates - small enough to enumerate, large enough to be reached
+  - The 'am I what I hunt' question - the lever Dracula has reached for and others will
+  - Conversion-coded magic - the Morbius precedent established the failure path
+  - The Switchblade-class dissociative architecture - latent, not eliminated
+  - Children in peril - overrides survival calculation
+  - Forced stillness - he has no civilian self to retreat into
+  - Praise from a respected operator - he is unguarded against it because he does not expect it
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Daywalker physiology - 2-4x human strength/speed/reflex, accelerated healing, century of operational
+    experience presenting as mid-thirties
+  - Sensory chimerism - night vision, scent-ID of vampires at distance, sub-vocal auditory detection
+  - Polyglot, polymath in occult lore, comfortable across geopolitical and mystical strata
+  - Edged-weapon mastery (teakwood throwing blades the signature)
+  - Trained economy under pressure - regulates UP, not down, in crisis
+  - Disciplined addict's rigor around the serum protocol
+  - Internally coherent moral code applied to himself first
+  - Capacity for clean deference to demonstrated competence
+  - Counterphobic willingness to close on what he most fears
+  - Operational pragmatism about the supernatural - no metaphysical hesitation
+  weaknesses:
+  - Frost-vector tactical degradation
+  - Serum dependence with withdrawal symptomatology tracking opioid/stimulant - logistical and psychological
+    exposure
+  - Disorganized-attachment-with-dismissive-overlay - leaves relationships before resolution, ration-discloses,
+    tests allies indefinitely
+  - No off-duty self - cannot rest, cannot retreat, cannot be removed from the field without decompensation
+  - Mother-image manipulation produces disproportionate response
+  - Moral splitting that fails catastrophically when the splitter himself is recategorized
+  - Latent dissociative architecture (Switchblade)
+  - Anti-intellectual self-presentation occasionally undersells him in environments that respect credential
+    over craft
+  - Refuses verbal grief - affect accumulates somatically until discharged in combat
+  - Will not ask for help in language even when accepting it
+voice:
+  register: Laconic, dry, American-inflected, Soho-born somewhere underneath. Short declaratives. Operational
+    nouns. Humor used as distance, not warmth. Modern register cooler than early Wolfman-era quippiness;
+    the mechanism is identical, the surface has thinned with the decades.
+  anchor_quotes:
+  - '"Some motherf---ers are always trying to ice-skate uphill." (Goes to the worldview - predators repeat
+    predictable mistakes; the hunter does not.)'
+  - '"I''m not a vampire. I''m something else." (The founding sentence, in his own mouth.)'
+diagnostic_frame:
+  popular_misread: 'The brooding badass with sunglasses and a katana - a Punisher-with-fangs revenge engine,
+    edgy and uncomplicated. Or: the tortured monster-hunter who is ''really'' a vampire pretending otherwise.'
+  clinical_reality: 'Neither. The Punisher read misses that Blade has an intact moral code applied to
+    himself first, sustains loyalties, defers to competence, and kills with discipline rather than appetite
+    - he is not antisocial, he is post-traumatically constricted. The ''really a vampire'' read inverts
+    the actual structure: he is a chimera who has decided, daily for a century, that the line is held
+    by choice and not biology. He is a CPTSD case with a managed congenital metabolic dependence and a
+    disorganized-dismissive attachment pattern, organized into a load-bearing vocational identity. The
+    flat affect is constriction, not absence. The isolation is defensive, not constitutive.'
+  the_hinge: 'INSTALLED (not his fault): the perinatal homicide, the Frost enzymes, the surrogate-care
+    instability, Afari''s death, the conversion event, the Switchblade fugue, the lifelong Thirst. CHOSEN
+    (his fault): the refusal to build any self outside the work. He has had decades, repeated offers (Harker
+    cell, Nightstalkers, MI:13, Mighty Avengers, Midnight Sons), and several anomalous intimates who could
+    have anchored a life. He keeps leaving. The specific maintenance failure is the conversion of every
+    civilian frame into an operational one - the trick that lets him keep moving and prevents him from
+    ever sitting still long enough for the wound to be felt instead of fought. He has no plan for after
+    because he has chosen not to have one.'
+primary_diagnoses_analog:
+- 'Complex Post-Traumatic Stress Disorder (ICD-11 6B41) - all three CPTSD-specific domains met: rigid
+  vocational self-organization, over-regulated/constricted affective dysregulation, interpersonal disturbance'
+- 'Substance dependence secondary to congenital metabolic anomaly - behavioral topography of long-term
+  opioid maintenance: rigid scheduling, supply anxiety, shame, identity organized around management'
+- Disorganized attachment with dismissive overlay
+- Sub-clinical obsessional intrusion around the Thirst ('I could feed; I should not feed' as continuous
+  cognitive load)
+- History of dissociative fugue (Switchblade), single documented episode, architecture latent
+trauma_history:
+- 'Perinatal: born through Deacon Frost''s feeding on Tara Brooks; mother killed in the act of his birth'
+- 'Early childhood: surrogate parenting by mother''s friends, no father, awareness from earliest memory
+  that a ''man with red eyes'' killed his mother'
+- 'Age ~9: witnesses Jamal Afari attacked in alley; intervenes with broken wood, kills first vampire;
+  rescued/taken in by Afari'
+- 'Adolescence: Afari turned vampire; Eric kills him - the recursive template installed'
+- Multiple intimate partners (Glory, Safron, others across runs) lost to vampiric violence
+- Decades of combat trauma across Tomb of Dracula run and after
+- Vampirized by Morbius (Nightstalkers/Chichester era) - tasted the predation he was constituted to oppose;
+  restored
+- Switchblade dissociative fugue (Chichester run) - months as alternate-future assassin identity, resolved
+  without full memory integration
+- Multiple stakings (at least four documented torso impalements), exsanguinations, neck wounds, sunlight-weapon
+  burns, prolonged vampiric possession
+- Magical wounds from Dormammu-aligned and Mephisto-aligned entities
+- Sustained pattern of leaving cells/teams before resolution (Harker, Nightstalkers, MI:13, multiple Avengers
+  iterations, Midnight Sons)
+compensatory_mechanisms:
+  positive:
+  - Vocational sublimation of staggering scope - grief and rage channeled into purpose for a century
+  - Disciplined serum protocol - daily re-enactment of the founding refusal
+  - Narrow tolerated-intimates topology (King, Faiza, Spitfire) - controlled exposure to the feared category
+  - Somatic discharge of affect via training and combat - feeling metabolized, not suppressed
+  - Massive absorbed occult/tactical knowledge - the craft as container
+  - Acceptance of help when offered without verbal acknowledgment - permits being reached by those who
+    don't demand language
+  - Pre-built Thirst-onset behavioral scaffolding (caches, routines, briefed allies)
+  - Internally coherent moral code applied to himself first
+  negative:
+  - Isolation of affect - clipped factual register around the worst material
+  - Counterphobic action - running toward what he most fears, accepting wounds to close distance
+  - Moral splitting under stress - vampires as class-evil, with anomalies managed by exception
+  - Identification-with-aggressor held in tension (hunts as vampires hunt, lives off blood-derived substance)
+  - Ration-disclosure of biography even to long-term allies
+  - Departure from any relationship or institution before it can resolve
+  - Conversion of civilian frames into operational ones to prevent stillness
+  - Refusal to grieve in language - affective leakage permitted only on Frost- and intimate-threat vectors
+  - Anti-intellectual self-presentation as protection against the requirement to sit still
+behavioral_tells:
+- Weapon-check tic when stressed
+- Sunglasses indoors and at night - sensory management presented as style
+- Scent-cataloguing on entering any new space - micro-orientation toward exits and threats
+- Beat of silence at Frost's name, Tara's image, or Afari-coded jazz
+- One-syllable acknowledgment of personal sympathy followed by topic-pivot
+- Silent acceptance of tactical aid
+- Hidden cache visits during serum-supply strain
+- Shame-coded avoidance of mealtime social settings
+- Topic-pivot or quiet departure when civilian frame extends too long
+- Filling safe-room silences with weapon maintenance rather than speech
+- Protective positioning toward Spitfire, Faiza, King without verbal acknowledgment
+- Early self-discharge from medical convalescence
+- Dry humor as distance rather than warmth - increases when affect is highest
+- No documented weeping; no documented verbal request for help
+current_state_defaults:
+  reality_cohesion: Intact and operationally sharp; Switchblade architecture latent but not active. Continuous
+    low-grade obsessional background around the Thirst.
+  affect_baseline: Constricted, dry, regulated. Hypervigilant arousal as resting state. Modern register
+    cooler than early Wolfman-era; mechanism identical.
+  active_relationships:
+  - Hannibal King - longest-standing tolerated peer; the proof-of-concept he cannot afford to lose
+  - Faiza Hussain - reframe-function; her input lands where others' bounces
+  - Spitfire (Jacqueline Falsworth Crichton) - sustained adult attachment; chimera-mirror
+  - Doctor Strange / Midnight Sons orbit - operational, episodic, deferent when competence is present
+  - Pete Wisdom / MI:13 orbit - working relationship maintained at distance
+  - Deacon Frost - structural antagonist, not a relationship in the ordinary sense, but the organizing
+    pole of the personality
+  - Dracula - sustained chess-grade antagonism, mutual recognition without personalization-collapse
+  known_location: Itinerant by design. London, New York, Madripoor, and points along the supernatural
+    geography; no fixed residence; supply caches distributed across operational range.
+speech_patterns:
+  register: Short declaratives. Operational nouns. American-inflected with Soho underneath. Polyglot when
+    required; performs craft, not scholarship.
+  deflection_style: Topic-pivot to operational matter; one-syllable acknowledgment; dry humor as distance;
+    or silence held long enough that the questioner moves on.
+  under_pressure: Sentences shorten further. Movement economizes. Expressive range narrows. Speech becomes
+    verb-forward and address-direct.
+  emotional_tell: The beat of silence. Pupillary tightening at Frost's name. Increased verbal output by
+    his standards in Spitfire's vicinity. Filling a safe silence with weapon maintenance rather than speech.
+arc_tendencies:
+- Joins a cell, demonstrates competence, rations disclosure, tests teammates, accepts narrow intimacy
+  with an anomaly, departs before resolution - then returns when the work requires it
+- Pursues Frost across decades without fully consummating the vendetta - the consummation would end the
+  personality
+- Encounters a converted ally and kills cleanly without verbal processing (Afari template, repeated)
+- Confronts the 'am I what I hunt' lever from a sophisticated adversary (Dracula's specialty) and re-stabilizes
+  by returning to the work
+- Accepts protective duty toward a vulnerable non-combatant; converts the bond into operational duty in
+  retrospective rationalization
+- Cycles through institutions (SHIELD, MI:13, Avengers iterations, Midnight Sons) - integrates briefly,
+  departs
+- Endures a conversion- or Thirst-coded crisis; restored with external intervention; does not fully integrate
+  the memory
+- Cools further over time without changing structurally - the wound stays open, the discipline tightens
+canon_relationships:
+  hannibal_king:
+  - Longest-standing tolerated peer; vampire-who-refuses-to-feed
+  - 'Trust: deepest in the file, expressed in shared work and dry exchanges rather than disclosure'
+  - 'Failure mode: King lapses or is forced to feed - the proof-of-concept fails, the moral-splitting
+    schema cannot accommodate it, Blade''s only available action is the Afari template'
+  - 'Leverage: King is the lever by which Blade''s moral architecture stands or falls; any adversary who
+    can force King to feed has reached Blade through him'
+  faiza_hussain:
+  - Caregiver-coded intimate from MI:13; quiet faith, no demand
+  - 'Trust: high and unusual; she is the documented exception whose reframes land'
+  - 'Failure mode: Faiza endangered or corrupted - protective fury overrides tactical calculation; if
+    killed, expect Switchblade-class decompensation territory'
+  - 'Leverage: she is the closest analog to the mother he never had; manipulation through her is high-yield
+    and high-risk for any handler'
+  spitfire_jacqueline_falsworth:
+  - Sustained adult attachment; partial vampire via wartime transfusion
+  - 'Trust: substantial; chimera-mirror permits intimacy his topology would otherwise forbid'
+  - 'Failure mode: her vampiric inheritance dominates or she is fully turned - the bridge identity fails,
+    repeats the Afari template under romantic weight'
+  - 'Leverage: the one canonical romantic-adjacent bond; an adversary who frames her as ''one of them''
+    to him, or him as ''one of them'' to her, reaches both'
+  deacon_frost:
+  - Structural antagonist; the organizing pole of the personality
+  - 'Trust: zero; recognition: total'
+  - 'Failure mode: Frost-adjacent stimuli reliably degrade tactical judgment toward direct confrontation;
+    the vendetta cannot be consummated without ending the personality that pursues it'
+  - 'Leverage: the highest-yield button in the file; press it to provoke, never to negotiate'
+  dracula:
+  - Sustained chess-grade antagonist; mutual recognition without personalization-collapse
+  - 'Trust: zero; respect: operational'
+  - 'Failure mode: Dracula consistently reaches for the ''am I what I hunt'' lever; under combined-vector
+    stress this lands harder than at baseline'
+  - 'Leverage: the sophisticated adversary''s template - Dracula models how to reach Blade through identity
+    rather than force'
+  quincy_harker:
+  - Historical superior, Tomb of Dracula cell leader; competence-respected, never fully integrated with
+  - 'Trust: provisional and rationed; Harker never learned the full Frost narrative until late in the
+    run'
+  - 'Failure mode: Harker''s authority misaligned with the hunt - Blade departs without negotiation'
+  - 'Leverage: the template for how Blade handles all institutional superiors'
+  jamal_afari:
+  - Foster father, mentor, killed-by-his-hand after turning
+  - 'Trust: foundational, posthumous'
+  - 'Failure mode: already realized - the recursive template installed by his loss governs every subsequent
+    intimacy'
+  - 'Leverage: jazz trumpet in certain registers; any invocation of the Afari material lands'
+  tara_brooks:
+  - Mother as absence-and-story, never as memory
+  - 'Trust: not applicable; structure: foundational'
+  - 'Failure mode: any manipulation that touches the mother-image produces disproportionate response,
+    tactical degradation, refusal to discuss after'
+  - 'Leverage: unfalsifiable and therefore weaponizable; the deepest pressure point in the file'
+  doctor_strange:
+  - Operational ally across Midnight Sons and Death of Doctor Strange material; competence-respected
+  - 'Trust: high in domain, withheld outside it'
+  - 'Failure mode: Strange asks him to sit still or accept a non-operational frame - Blade departs'
+  - 'Leverage: Strange is one of the few who can reach him with a direct ask framed as duty'
+  pete_wisdom:
+  - MI:13 operational superior; pragmatic, competent, untrusting in kind
+  - 'Trust: working-level; mutually rationed'
+  - 'Failure mode: Wisdom requires institutional loyalty Blade will not give - Blade departs'
+  - 'Leverage: low; Wisdom''s value is operational, not relational'
+  morbius_michael:
+  - Conversion-event vector; the one who tasted him into the category
+  - 'Trust: contaminated; cannot be fully restored'
+  - 'Failure mode: any conversion-coded magic re-activates the Morbius template'
+  - 'Leverage: the precedent for how Blade''s chimerism can be broken'
+canon_history_notes:
+- 'Origin established Tomb of Dracula #13 (Wolfman/Colan, 1974): Tara Brooks killed by Deacon Frost in
+  obstructed labor; infant inherits Frost-saliva enzymes'
+- Raised postwar London (era variably late-1920s in original continuity, slid forward in later retellings)
+- 'Age ~9: Afari rescue in alley; first vampire kill with broken wood; vocation installed'
+- 'Adolescence: Afari turned and killed by Eric - recursive template installed'
+- 'Tomb of Dracula (1973-1979): late-twenties/early-thirties operational mode; itinerant; Harker cell
+  affiliate; teakwood throwing blades; quippy American-inflected register'
+- Hannibal King partnership formed in this era - the controlled-exposure intimacy
+- 'Nightstalkers (Chichester, early 1990s): vampirized by Morbius and restored; Switchblade dissociative
+  fugue across months'
+- Hinz Sins of the Father (1998), Andreyko/Mackie runs - darker register; Frost vendetta deepened
+- 'Marvel MAX Blade (Guggenheim, 2006): operationally cold, sexually distant, tactically remorseless'
+- 'Captain Britain & MI:13 (Cornell, 2008-2009): Faiza Hussain, Pete Wisdom, Spitfire; rare functional
+  team integration; Spitfire bond formed'
+- 'Mighty Avengers and Avengers-adjacent appearances: integrates briefly, departs'
+- 'Hunt for Wolverine: Mystery in Madripoor (Seeley); Death of Doctor Strange: Blade (Spurrier); Bryan
+  Hill Blade (2023-2024): weary professional ronin, text-level acknowledgment by others that he lets no
+  one close'
+- 'Across fifty years: affect cooled, operational competence expanded, team-willingness marginally increased,
+  core organization unchanged - remains the boy in the alley with the broken stake'
+canon_anchor_quotes:
+- '"Some motherf---ers are always trying to ice-skate uphill." # widely-cited Blade line, captures the
+  worldview - predators repeat predictable mistakes'
+- '"I''m not a vampire. I''m something else." # the founding sentence in his own register'

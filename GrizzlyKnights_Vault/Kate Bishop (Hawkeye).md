@@ -4327,20 +4327,20 @@ She does not need rescue. She needs, over the long arc, **what she has consisten
 - Failure mode: parentification-in-reverse generalizes; she takes on responsibility she should hand off, he leans on it, both ossify; or Clint's depressive coping drifts into something she cannot fix and her rescuer pattern keeps her from leaving in time
 - Operational use: to reach Kate fast, send Clint - to destabilize Kate, hurt Clint
 
-### America Chavez
+### [[America Chavez]]
 - Chosen sister; bedrock peer from Young Avengers forward
 - Trust: granted-by-demonstration tier; durable; she takes Kate's measure and Kate takes hers
 - Leverage on Kate: high - threat to America collapses humor and produces least-careful behavior
 - Failure mode: relatively low - the bond is calibrated by two healthy people; danger is mostly external
 - Operational use: America is the one ally most likely to notice Kate's chronic-stress drift before Kate does
 
-### Cassie Lang
+### [[Cassandra Eleanor Lang (Stature / Stinger)]]
 - Foundational Young Avengers bond; the confidante to whom Kate disclosed the training-after-the-assault
 - Trust: high, long-standing, sister-tier
 - Leverage on Kate: significant; same chosen-family circle
 - Failure mode: low; the relationship is non-load-bearing in conflict terms
 
-### Eleanor Bishop
+### [[Eleanor Bishop]]
 - Mother. Faked her death; reappeared; revealed as sustained villain and manipulator
 - Trust: should be zero; is functionally non-zero, regenerating against evidence
 - Leverage on Kate: maximal and corrupting - the single reliable disorganizer

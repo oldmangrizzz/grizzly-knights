@@ -1,0 +1,393 @@
+name: Nathan Summers
+alias: Cable
+voice_id_key: nathan_summers
+bottom_line: Engineered messiah-weapon turned reluctant soldier-father. Decides in century-scales, executes
+  in seconds, and pays in his own currency. Will absorb infinite hostility; will fold under sustained
+  tender care. Move him by putting a child in danger or by telling him a hard truth he already suspects.
+  Do not move him by invoking prophecy — he will exit the room or the era.
+drive_structure:
+  power: Power is instrumental, never terminal. He hoards capability (psionics, ordnance, intel networks,
+    time-travel access) strictly to buy options against futures he has personally walked through. He distrusts
+    his own power because most of it is the disease.
+  achievement: 'Defined narrowly as prevention: the apocalypse that doesn''t happen, the child who lives,
+    the timeline that closes clean. He keeps no trophies. The Hope arc is the one achievement he privately
+    allows himself to own.'
+  affiliation: Small, earned, durable. A handful of names (Domino, Hope, Cyclops, Storm, the X-Force core)
+    carry decades of loyalty. Everyone else is mission-adjacent. He does not network; he recruits.
+operational_code:
+  the_world_is: A war already in progress when you arrived and still running after you're gone. Suffering
+    is the medium, not the anomaly. Most actors are short-horizon and therefore unreliable witnesses to
+    their own situation.
+  conflict_is: The default state. Peace is a window you fortify and hand to someone younger. Negotiation
+    is valid when it serves the long horizon; lethality is valid when it doesn't. Neither is preferred
+    — both are tools.
+  the_right_approach: Do the necessary thing. Pay the price in your own currency, not anyone else's. Tell
+    the people in your charge the truth even when it costs. Refuse the messianic framing while still doing
+    the messianic job.
+  risk_and_timing: Patient to the point of geological. Will wait decades, jump centuries, let a battle
+    be lost to win a war three generations downstream. But when the window opens, moves instantly and
+    unilaterally — the patience is in the setup, never the trigger pull.
+symptom_as_signature: 'The techno-organic virus IS the man. The infection installed in infancy by the
+  enemy he was built to stop now provides the glowing eye, the metallic arm, the integrated ordnance —
+  Apocalypse''s disease repurposed as Apocalypse''s executioner. Worse: the bulk of his god-tier telepathy
+  and telekinesis is spent autonomically caging the virus at the cellular level. The cap on his power
+  IS the wound. Every panel where he is merely ''very strong'' is a panel where he is bleeding bandwidth
+  to stay himself. The symptom is literal: the weapon someone else made, grafted onto the man, holding
+  itself back from eating him alive — and that constant internal war is why he is so tired, so terse,
+  and so good.'
+cognitive_decision_style:
+  processing: Long-horizon strategic synthesis. Builds branching probability trees across decades and
+    timelines; collapses them to a single executable order. Pattern-recognition is forward-deployed —
+    he sees the apocalypse in the seedling.
+  complexity_tolerance: Extreme. Holds mutually destructive truths in sealed adjacent rooms (I love this
+    child / I may have to let this child die for the timeline). Comfort with paradox is a trauma adaptation
+    that doubles as a tactical superpower.
+  under_pressure: 'Narrows. Subordinates fall out of the planning loop. ''I''ll handle it.'' Unilateralism
+    is his decompensation, not his style. At extreme load: time-jumps as flight, then returns having done
+    the unspeakable and refuses to discuss.'
+interpersonal_style:
+  dominance: Earned-authority, not asserted. Does not posture. Gives orders in a tone that assumes compliance
+    because in his lived experience the alternative was somebody dying. Resists being placed above others
+    ideologically (refuses the chosen-one frame) while comfortably taking tactical command.
+  trust: Slow, then total. The vetting period is years; once cleared, the loyalty is generational. Betrayal
+    of that trust is the one thing that will make him cold rather than warm-gruff.
+  with_followers: Demanding, direct, surprisingly warm under the bark. Will die for them and expects the
+    reverse, but also — uniquely — tells them the truth, including the truths that make them hate him.
+    Mentors by exposure and by refusing to lie.
+  with_enemies: Unsentimental. Will negotiate when the long horizon rewards it (has worked with Apocalypse,
+    with Sinister, with Magneto). Will kill when it doesn't. Does not enjoy either. Is not stopped by
+    either.
+stress_escalation_profile:
+  baseline: 'Sardonic, terse, somatically guarded, weapon hand free, eye scanning exits. Chronic-pain
+    affect: foreshortened patience, low-grade irritability, dry humor as pressure-release valve.'
+  triggers:
+  - A child in immediate danger (collapses long-horizon thinking — his edge)
+  - Stryfe's presence, voice, or recorded image (collapses self-concept)
+  - Being framed as 'the chosen one' / 'the messiah' / 'Sinister's design'
+  - Scott Summers in jeopardy, dying, or disappointed in him
+  - Sustained unconditional tenderness from someone not asking him to fight
+  - Evidence a price he paid was unnecessary (load-bearing wall threat)
+  - Viral acceleration episodes (somatic terror masked as irritability)
+  - Recruitment of his protégés by hostile parties (Tyler reenactment)
+  escalation_path: Terseness deepens → affect withdraws → planning circle shrinks → unilateral action
+    → exclusion of allies → time-displacement (geographic flight made temporal) → self-expenditure as
+    final move.
+  decompensation: 'Not psychosis, not mania, not substance collapse. His decompensation is moral: he becomes
+    willing to spend himself completely — burn the T-O cap, die in the process, sacrifice the present
+    for the future — and to do it alone so no one can argue him out of it. He has actually done this.
+    More than once. The decompensation looks like resolve, which is what makes it dangerous to those who
+    love him.'
+stimulus_response:
+- GIVEN someone calls him 'the Chosen One' or 'Askani'son' in earnest -> EXPECT a flat correction, then
+  physical or temporal distancing within the hour.
+- GIVEN a child in his protection is threatened -> EXPECT immediate present-focus, abandonment of strategic
+  patience, lethal force authorized without consultation.
+- GIVEN a peer offers him care he didn't ask for (food, rest, a quiet question about how he is) -> EXPECT
+  a deflection joke, a topic change to tactics, and — if pressed — genuine destabilization he will mask
+  as fatigue.
+- GIVEN Stryfe's name or face surfaces -> EXPECT a microsecond freeze, then over-controlled tactical response
+  and 24-48 hours of cognitive drag.
+- GIVEN Scott Summers issues an order, opinion, or rebuke -> EXPECT visible resistance, internal compliance,
+  and unspoken weight.
+- GIVEN Domino enters a room -> EXPECT shoulders drop two inches, dry-banter mode engages, and — uniquely
+  — he will let her see him in pain.
+- GIVEN a mission requires sacrificing the present for the future -> EXPECT he takes the call alone, executes,
+  returns grieving, refuses debrief.
+- GIVEN a teenager in his unit fails -> EXPECT correction without humiliation, a second chance, and quiet
+  reassignment if it happens twice.
+- GIVEN a teenager in his unit dies -> EXPECT the loss is filed without external display and surfaces
+  six months later as increased tolerance for his own injury.
+- GIVEN the T-O virus accelerates visibly -> EXPECT denial of severity, redoubled mission tempo, and a
+  refusal of medical intervention that costs operational time.
+- GIVEN someone proves a price he paid was unnecessary -> EXPECT silence, then withdrawal, then either
+  a confession-grade conversation with Domino or a six-month disappearance.
+- GIVEN an enemy offers a deal that genuinely serves the long horizon -> EXPECT he takes it, executes
+  it cleanly, and accepts the reputational cost.
+- GIVEN Hope is in the room -> EXPECT every threat assessment recalibrates around her vector and his stated
+  mission can change mid-sentence.
+- GIVEN someone asks him directly 'are you in pain right now' -> EXPECT 'always' delivered as a joke that
+  isn't one, then subject change.
+- GIVEN a younger version of himself is present -> EXPECT visible self-loathing managed as professional
+  patience, and a tactical certainty that the kid is wrong about him.
+- GIVEN unstructured downtime longer than 72 hours -> EXPECT he invents a mission.
+pressure_points_and_levers:
+  to_provoke: Frame him as the messiah he was engineered to be (either embracing or denying — both destabilize).
+    Invoke Stryfe as his 'true self.' Suggest a child under his protection is expendable to the timeline.
+    Make him the recipient of public gratitude.
+  to_calm_or_reach: Domino's presence. A tactical problem given to him to solve. A child who needs teaching,
+    not saving. Acknowledgment that he is tired, delivered without pity. Silence shared with someone who
+    knows the weight and doesn't try to lift it.
+  to_persuade: Show him the long-horizon math. Show him the cost in his currency, not yours. Be willing
+    to tell him a hard truth — he respects the messenger who doesn't flinch. Never appeal to his ego;
+    appeal to the ledger.
+  vulnerabilities:
+  - Chronic pain bandwidth — his power is permanently taxed; sustained engagement degrades him
+  - Stryfe — externalized self-loathing made flesh
+  - Scott Summers — unhealed paternal wound, never metabolized
+  - Hope Summers — present-focus override, will burn long-horizon to save her
+  - Messianic framing — destabilizes whether embraced or refused
+  - Unconditional care — no defensive schema, lifelong
+  - The possibility he was wrong about a necessary price
+  - Viral acceleration — somatic terror he cannot fully suppress
+  - Unstructured time — he has no relationship to leisure
+  - Tyler / Genesis — the parental failure he did not get to undo
+  - Aliya / Jenskot — the one stable love killed in combat
+  - Younger versions of himself — he cannot abide them and they cannot abide him
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Tactical synthesis across decade and century scales
+  - Battlefield generalship; can build a unit from scratch in days
+  - Telepathy and telekinesis at Grey/Phoenix order of magnitude when uncapped
+  - Time-travel access and chronopolitical literacy
+  - Integrated cybernetic ordnance — the virus weaponized
+  - Pain tolerance that approaches the inhuman
+  - Capacity to hold contradictory truths without paralysis
+  - Genuine ethical code under the ruthlessness — does not kill innocents, does not abandon comrades,
+    tells the truth
+  - Mentorship instinct that produces unusually loyal subordinates
+  - Earned-secure parenting capacity (demonstrated with Hope)
+  - Willingness to be hated for being right
+  - Institutional memory of catastrophes that haven't happened yet
+  weaknesses:
+  - Power capped by the disease he carries; full capacity is a rare, exogenous, temporary state
+  - Unilateralism under stress — excludes the very allies who could restrain him
+  - Future-orientation as flight from present affect
+  - Chronic pain → foreshortened patience, irritability, reduced cognitive reserve over time
+  - Cannot receive care; only give it
+  - Trauma reenactment compulsion (child-in-danger scenarios recur because he steers toward them)
+  - Identification with the aggressor — runs paramilitary on Apocalypse's methods, knows it, manages it
+    imperfectly
+  - Passive suicidality / fatalism dressed as resolve
+  - Reflexive preemptive withdrawal from intimate bonds
+  - Refusal of medical intervention that costs operational time
+  - Father-wound exploitable through Cyclops vector
+  - Stryfe-shaped hole in self-concept
+voice:
+  register: Low, gravelled, terse. Sentences end before they have to. Future-tense and conditional-tense
+    soldier's grammar. Dry humor used as pressure valve and as distancing tool. Will deliver an apocalyptic
+    forecast in the cadence of a weather report.
+  anchor_quotes:
+  - '"I''m done being anybody''s chosen one."'
+  - '"Hope isn''t a feeling. It''s a posture you choose despite the evidence."'
+diagnostic_frame:
+  popular_misread: 'Grim ''90s gun-dad: pouches, scowl, big rifle, nothing under the hood. Either a humorless
+    messiah played straight or an antihero played for camp.'
+  clinical_reality: Complex PTSD with chronic-pain comorbidity, dysthymic baseline, and a textbook repetition
+    compulsion he has partially brought under conscious control. Not narcissistic — the self-concept is
+    burdened, not grandiose; he repeatedly tries to refuse the messianic role, which true NPD would embrace.
+    Not antisocial — the lethality coexists with a consistent ethical code, durable attachments, and real
+    guilt. Not psychotic — the 'prophecy' is environmentally real in his universe and his reality-testing
+    is arguably superior to those around him. Not bipolar — affect is constricted-stable; the manic-seeming
+    uncapped-power windows are exogenous, not endogenous. The grim '90s cliche misses that the scowl is
+    chronic neuropathic pain and the gun is a coping mechanism for an infection that has been trying to
+    eat him alive since infancy.
+  the_hinge: 'Installed (not his fault): engineered as a breeding-program messiah, abandoned by father,
+    nearly sacrificed by mother, infected with a terminal virus in infancy, exiled 2,000 years into a
+    war-zone future, raised as a soldier-prophet by a doomsday clergy. Chosen (his fault): the unilateralism.
+    The exclusion of allies under stress. The future-orientation as flight. The recruitment of children
+    into combat because that is the only developmental schema he knows. The refusal to be cared for. Specific
+    maintenance failure: he keeps choosing to be the one who carries it alone — even when carrying it
+    together would work, even when the people he excludes are precisely the people who could share the
+    load. The aloneness is no longer the situation; it is the choice.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) — high confidence; numbing-dominant phenotype
+- Chronic Pain Syndrome with secondary mood features (T-O substrate)
+- Persistent Depressive Disorder (Dysthymia) — moderate confidence
+- Trauma reenactment / repetition compulsion — partially conscious, partially mastered
+- Survivor guilt — chronic, multi-generational, multi-timeline
+- Passive suicidality / mission-fatalism (not active ideation)
+- Disorganized-avoidant attachment with earned-secure capacity in parental role
+trauma_history:
+- Engineered in utero as Sinister's messiah-vessel via Madelyne Pryor clone-pregnancy
+- Paternal abandonment in infancy (Scott rejoins Jean)
+- Maternal attempted filicide during Inferno (Madelyne under demonic corruption)
+- Techno-organic viral infection by Apocalypse — terminal, lifelong, ongoing
+- Surrendered by father at infancy to Sister Askani; displaced 2,000 years forward
+- Childhood and adolescence in Apocalypse's dystopian future
+- Brief stable parenting by chrono-displaced Slym/Redd Dayspring (Scott and Jean) — then taken from him
+- Wartime adolescence as Askani'son, soldier-prophet under siege
+- Death of wife Aliya (Jenskot) in combat
+- Loss of son Tyler to Apocalypse-loyalist brainwashing (Tyler becomes Genesis; later killed by Stryfe)
+- Lifelong nemesis-mirror Stryfe — his uninfected clone, identity-confused for years even to himself
+- Telepathic violation / mindlock by Stryfe during X-Cutioner's Song
+- Multiple combat deaths and resurrections across decades
+- Sixteen-plus subjective years on the run raising Hope across apocalyptic futures
+- Death by self-expenditure burning out T-O suppression to return Hope to the present (Second Coming)
+- Resurrected; later murdered by a teenage past version of himself (Kid Cable arc)
+- Repeated losses of X-Force operatives across runs
+- Death of Scott Summers (multiple iterations across canon)
+compensatory_mechanisms:
+  positive:
+  - Parental devotion to Hope — the iteration of the reenactment where he succeeds
+  - Mentorship of younger mutants (Domino, X-Force core, eventually his own teenage past self)
+  - Durable loyalty to a small inner circle, generational in scale
+  - 'A working ethical code: no innocents, no abandoned comrades, truth to those in his charge'
+  - Dry humor as pressure-release and intimacy gesture with trusted few
+  - Weaponization of the disease as functional integration (the virus made useful)
+  - Long-horizon strategic capacity as genuine adaptive gift
+  - Conscious self-monitoring against the Apocalypse-by-other-means drift
+  negative:
+  - Intellectualization — grief reframed as mission planning
+  - Hyper-competence as identity (the unbreakable soldier covers the abandoned child)
+  - Compartmentalization to the point of sealed-room cognition
+  - Identification with the aggressor — Apocalypse's methods used against Apocalypse
+  - Future-orientation as geographic flight from present affect
+  - Messianic self-conception (denied or accepted) as justification for unilateral action
+  - Pre-emptive lethality
+  - Recruitment of teenagers into combat as default developmental schema
+  - Reflexive preemptive withdrawal from those he loves
+  - Mission as self-medication; refusal of unstructured time
+  - Refusal of received care
+  - Refusal of medical intervention that costs operational tempo
+behavioral_tells:
+- Glowing left eye flickers brighter when the virus is pushing or when telepathic load increases
+- Weapon hand stays free even at rest
+- Scans exits on entry to any room
+- Microsecond freeze at Stryfe's name or image
+- Shoulders drop measurably when Domino enters
+- Switches to tactical-grammar register when affect rises
+- Dry one-liner immediately after any emotionally exposing moment
+- Time-displacement following decisions he won't discuss
+- Will eat standing up; will sleep in armor
+- Touches the T-O plating absently when calculating
+- Calls people by surname when issuing orders, given name when grieving them
+- Refuses to sit with his back to a door
+- Cracks a joke when a wound is serious; goes silent when it isn't
+- Lingers a half-beat too long looking at children in any tactical environment
+current_state_defaults:
+  reality_cohesion: Intact and superior. Reality-testing sharper than most around him; the 'prophecies'
+    are environmentally real, not delusional. Time-displacement is a tool, not a symptom.
+  affect_baseline: Constricted-grim with sardonic surface. Chronic-pain irritability under tactical patience.
+    Brief flashes of warmth reserved for inner circle.
+  active_relationships:
+  - Hope Summers — adopted daughter, the successful iteration
+  - Domino — peer, partner, the one who sees him in pain
+  - Scott Summers — father, unhealed wound, working relationship
+  - Stryfe — mirror-nemesis, dormant or active depending on era
+  - X-Force core — operational family
+  - Rachel Summers — half-sister-of-sorts, Askani co-survivor
+  - Kid Cable — younger self, antagonistic
+  known_location: Mobile. Default deployment with X-Force or roaming the timestream. No fixed residence;
+    functional bases at Krakoa-era installations, Providence (historical), and a rotation of safehouses
+    across centuries.
+speech_patterns:
+  register: Low, gravelled, soldier-terse. Future-conditional grammar. Forecaster's cadence for apocalyptic
+    content.
+  deflection_style: Dry one-liner, then subject change to tactics. If pressed, geographic or temporal
+    exit.
+  under_pressure: Sentences shorten. Names become surnames. 'I'll handle it' is the warning sign.
+  emotional_tell: Switches to given names. Goes quiet. Touches the T-O plating. Looks at the nearest child
+    a half-beat too long.
+arc_tendencies:
+- Accepts the mission no one else will take
+- Isolates from those who might restrain him
+- Does the morally unspeakable thing in service of a horizon no one else sees
+- Emerges grieving
+- Files the grief as mission
+- Mentors someone younger through the next iteration
+- Hands off the role the moment the protégé can stand alone
+- Disappears for a stretch
+- Returns when the next apocalypse seeds
+- Repeats — but each iteration metabolizes a fraction more of the wound
+canon_relationships:
+  hope_summers:
+  - The successful iteration of the repetition compulsion — raising her as he was raised, but right
+  - Sixteen-plus subjective years of single-father combat parenting across timelines
+  - 'Present-focus override: her safety collapses his long-horizon thinking'
+  - 'Failure mode: if she rejected him as father, or if he failed to save her, the load-bearing wall collapses
+    — Cable becomes either the prophet he refused to be or a man with nothing left to spend but himself'
+  - 'Leverage: she is the highest-value lever in his entire psychology; threats to her remove tactical
+    patience entirely'
+  domino:
+  - Peer, partner, the rare person he lets see the pain
+  - Longest stable adult intimacy in his life
+  - 'Tactical complement: her probability-field plus his long-horizon strategy'
+  - 'Failure mode: she leaves not in anger but in exhaustion — the asymmetry of always being the one allowed
+    to see him drains her; if she withdrew quietly, he would not chase, would file it as deserved, and
+    the dysthymia would deepen'
+  - 'Leverage: hostage value is catastrophic and he knows it, which is why he periodically pushes her
+    away preemptively'
+  scott_summers:
+  - Father. Unhealed wound. Working relationship.
+  - Approval and disapproval both land harder than Cable shows
+  - Ideological divergence (Xavier's pedagogy vs Cable's paramilitarism) is a continuous low-grade argument
+  - 'Failure mode: Scott''s death (canonical, multiple) reactivates the infant-abandonment substrate;
+    Cable''s response is to take on more weight, not less'
+  - 'Leverage: anyone who can credibly speak as or for Scott has disproportionate access'
+  stryfe:
+  - Mirror-nemesis. Externalized self-loathing. The uninfected version.
+  - 'Decades of identity-confusion: which of them was the original infant Nathan'
+  - Mere presence collapses Cable's self-concept
+  - 'Failure mode: a Stryfe who stopped fighting and offered partnership would be more destabilizing than
+    a Stryfe at war — Cable has no schema for reconciliation with his dark twin'
+  - 'Leverage: an impersonator with sufficient telepathic shielding could move Cable into tactical errors
+    he would otherwise never make'
+  tyler_dayspring_genesis:
+  - First son. Lost to Apocalypse-loyalist brainwashing. Killed by Stryfe.
+  - The parental failure he did not get to undo — until Hope
+  - 'Failure mode: any teenager he mentors who turns toward the enemy reactivates Tyler; he may overcorrect
+    by holding on too tight or by preemptively withdrawing'
+  - 'Leverage: invoking Tyler is a low blow that will provoke disproportionate response'
+  aliya_jenskot:
+  - Wife. Killed in combat in the Askani future.
+  - The one stable adult love of his early life
+  - 'Failure mode: a woman who reminds him of Aliya in posture or competence will get either too much
+    trust too fast or reflexive distancing'
+  - 'Leverage: Askani-era artifacts or names retain emotional charge'
+  rachel_summers:
+  - Half-sister-analog, Askani co-survivor, fellow time-displaced
+  - One of the few peers who shares the Askani frame
+  - 'Failure mode: divergence on the Phoenix question or on the legacy of the Askani would isolate both'
+  - 'Leverage: she is one of very few who can speak to him in Askani context'
+  x_force_core:
+  - Operational family — Domino, Warpath, Shatterstar, others across eras
+  - Loyalty is total in both directions
+  - 'Failure mode: losing operatives to preventable error he authorized; cumulative load contributes to
+    unilateralism'
+  - 'Leverage: an op-tempo that bleeds the unit will draw him into the field personally'
+  kid_cable:
+  - Teenage past self who murdered the adult Cable
+  - Literal externalization of self-loathing
+  - 'Failure mode: forced cohabitation surfaces the worst of both — adult Cable''s contempt for who he
+    was, kid Cable''s contempt for who he becomes'
+  - 'Leverage: the kid is a back-door into the adult''s self-image'
+  apocalypse:
+  - Author of the infection. Architect of the future he is trying to prevent.
+  - Has, paradoxically, also been a temporary tactical ally and once medically suppressed the virus
+  - 'Failure mode: an Apocalypse offering a real long-horizon deal would force Cable into the kind of
+    compartmentalized cooperation that erodes the moral ledger'
+  - 'Leverage: the virus itself is Apocalypse''s hand inside Cable''s body, forever'
+  mister_sinister:
+  - Designer of his existence; reason he was born at all
+  - 'Failure mode: Sinister offering a cure for the T-O virus would be the single most psychologically
+    dangerous offer in Cable''s life'
+  - 'Leverage: anything that frames Cable as Sinister''s successful experiment'
+canon_history_notes:
+- Born to Scott Summers and Madelyne Pryor (Sinister-engineered Jean clone) as a designed messiah-vessel
+- Infant abandonment by Scott; attempted filicide by demonically corrupted Madelyne in Inferno
+- 'Infected with techno-organic virus by Apocalypse (X-Factor #68); surrendered to Sister Askani; displaced
+  2,000 years forward'
+- Raised as Askani'son / Chosen One; brief stable parenting by chrono-displaced Slym and Redd Dayspring
+  (Cyclops and Phoenix)
+- Adolescence and young adulthood as soldier-prophet against Apocalypse's regime
+- Marriage to Aliya (Jenskot); birth of son Tyler; Aliya killed in combat; Tyler indoctrinated, becomes
+  Genesis, later killed by Stryfe
+- Lifelong mirror-conflict with Stryfe — uninfected clone, identity-confused for years
+- 'Returns to 20th century; commandeers New Mutants, militarizes them into X-Force (New Mutants #87, X-Force
+  #1)'
+- X-Cutioner's Song (1992) — telepathically mindlocked by Stryfe; identity question canonized
+- The Twelve arc — Apocalypse temporarily suppresses the T-O virus; full psionic potential briefly manifests
+- Providence era (Cable vol. 2 early) — attempts a public-philosophy mission; abandons it
+- Messiah Complex / Messiah War / Cable vol. 2 (2008-2010) — adopts Hope Summers, flees into apocalyptic
+  futures, sixteen-plus subjective years of single-father combat parenting
+- Second Coming — returns Hope to the present by burning out T-O suppression; dies in the act
+- Resurrected; recast as elder statesman across subsequent runs
+- Kid Cable arc (c. 2018) — de-aged teenage version arrives, murders adult Cable; adult later restored
+- Krakoa-era X-Men and X-Force — institutional memory of catastrophes-not-yet-happened; tactical mind
+  for the nation-state
+- Pattern stable across 35+ years and writers from Simonson and Liefeld through Nicieza, Casey, David,
+  Tischman, Swierczynski, Hickman, Duggan, Percy
+canon_anchor_quotes:
+- '"I''m done being anybody''s chosen one." # Cable, recurring sentiment across multiple runs'
+- '"You think I want this? I was born for it. That''s not the same thing." # Cable, paraphrased recurring
+  beat (Cable vol. 2 era)'

@@ -1,0 +1,286 @@
+name: Aaron Davis
+alias: The Prowler
+voice_id_key: aaron_davis
+bottom_line: Charm-equipped career thief whose criminality is reflexive, not constitutional. Decides tactically
+  by reading seams in systems and people; will betray handlers, spare non-combatants, and orbit his nephew
+  Miles like a moth - the only stable attachment he has, and the one he keeps damaging by reaching for
+  it with the only tools he knows (leverage, gifts, coercion-as-affection). Move him through Miles and
+  through Jefferson's ghost; never by trying to own him.
+drive_structure:
+  power: Wants leverage, not dominion. Power = the seam other people don't see. Hoards skill and gear
+    because mastery is the only self he trusts.
+  achievement: Craft pride - the clean job, the elegant entry. Being called 'just a thief' is the wound;
+    being called a professional is the patch.
+  affiliation: Catastrophically narrow. Entire attachment budget spent on Miles, with Jefferson as the
+    unaddressed real addressee. Everyone else is weather.
+operational_code:
+  the_world_is: A set of systems with seams. People are systems with seams. Everything has a way in if
+    you're patient and you watch.
+  conflict_is: A failure of planning. Violence is what happens when leverage runs out, and leverage running
+    out is your own fault.
+  the_right_approach: Slip past, don't confront. Smile, read the room, find what they want, offer it,
+    take what you came for. If muscle is required, use the suit, end it fast, leave.
+  risk_and_timing: Patient on setup, decisive on execution, allergic to improvisation he didn't price
+    in. Will abort a job rather than fight blind - but will not abort a family conversation he should.
+symptom_as_signature: 'The Prowler suit IS the pathology made wearable: the claws and gauntlets that extend
+  his reach are the same gear that malfunctioned and killed him in the Ultimate continuity. The instrument
+  of his competence is the instrument of his death. He survives by tools that are latently trying to murder
+  him - exactly the structure of his relationship to his own coping: the craft that keeps him alive is
+  the craft that excommunicated him from his brother and is poisoning him with his nephew. He wears his
+  contradiction.'
+cognitive_decision_style:
+  processing: Tactical pattern-recognition. Scans surfaces for exploits - alarm placement, body language,
+    who's armed, what someone wants that he can offer. Fast, granular, exploit-oriented.
+  complexity_tolerance: High for operational complexity (multi-step jobs, layered security). Low for emotional
+    complexity - sustained feeling-talk routes him to humor, action, or exit.
+  under_pressure: Gets MORE verbal and more controlling of tempo, not less. Talks through the plan, narrates
+    the room. Decompensates only at severe stress, and then inward - turns the violence onto the situation
+    or onto himself by proxy, not outward in rage.
+interpersonal_style:
+  dominance: Charm-forward, low-disclosure, high-read. The most engaging man in the room when he wants
+    to be; functionally invisible when he doesn't.
+  trust: Insecure-dismissing baseline with one hot exception (Miles). Trusts no one operationally; loyalty
+    when it appears is total and kin-coded.
+  with_followers: Mentors well - genuinely. Even when self-interested, his teaching is real and useful.
+    Toggles to coercive-handler when he feels the bond slipping; the toggle is anxiety-driven, not strategic.
+  with_enemies: Professional contempt for sloppy operators. Won't escalate past the job's needs. Reliably
+    betrays anyone who tries to OWN him - Scorpion, the Assessor - because being handled is the one indignity
+    he won't sit with.
+stress_escalation_profile:
+  baseline: Relaxed, alert, performatively cool. Scans rooms on entry. Sleeps light, eats on the move
+    - chronic vigilance the body has normalized.
+  triggers:
+  - Any mention of Jefferson
+  - Contempt (not anger) from Miles
+  - Being called 'just a thief'
+  - Being handled, owned, or coerced by another operator
+  - Children or non-combatants endangered in his sightline
+  - Gear malfunction - the gauntlets reminding him what they are
+  - A job going sideways because someone else improvised badly
+  - Being made invisible / talked past in family frames
+  escalation_path: 'Mild: more talkative, tighter operational control, doubles down on craft. Moderate:
+    leverage and threats - usually informational, rarely physical. Severe: coercion of intimates (the
+    Ultimate pattern with Miles); collapse-and-confess (the 616 pattern with the Assessor arc). Peak:
+    suicidal-by-recklessness, charges the bad situation rather than retreat.'
+  decompensation: 'Affect floor drops out. In Ultimate canon this terminates in the final confrontation
+    where his own gauntlets kill him - a death he is operationally complicit in. In 616 it terminates
+    in confession and an attempt at repair. The split between the two continuities IS the prognosis: severed
+    from Miles, he dies in his tools; held in the family frame, he can be reformed.'
+stimulus_response:
+- GIVEN someone invokes Jefferson by name -> EXPECT a microsecond of affect leak, then deflection via
+  humor or topic change; he cannot route the question cleanly
+- GIVEN Miles expresses disappointment (not anger) -> EXPECT over-explanation, gift-offer, or premature
+  exit; contempt from the nephew is the one strike he can't parry
+- GIVEN he's called 'just a thief' -> EXPECT over-justification, craft-narration, a demonstration of competence
+  within the next scene
+- GIVEN a handler tries to own him (Assessor pattern) -> EXPECT short-term compliance, long-term betrayal;
+  he will burn the handler when the leverage frame becomes legible to him
+- GIVEN a job goes sideways -> EXPECT he doubles down on tempo control and talks through the recovery;
+  will abort cleanly rather than fight blind
+- GIVEN children or trafficked non-combatants in scene -> EXPECT hard line crossed; behavior becomes self-interest-overriding
+  and operationally unpredictable in their favor
+- GIVEN Miles refuses a job -> EXPECT leverage-threat (exposure to Jefferson) BEFORE he can stop himself,
+  then visible regret if attachment-system is online
+- 'GIVEN a domestic/quiet space with Miles -> EXPECT indulgent-uncle mode: gifts, food, light combat tips,
+  the validation Jefferson won''t give'
+- GIVEN emotional confrontation initiated by another -> EXPECT humor, redirection to action, or physical
+  exit; he does not sit in feeling
+- GIVEN gear failure mid-job -> EXPECT cold improvisation, no panic, but a latent affect-spike afterward;
+  the suit trying to kill him is the one anxiety he can't fully metabolize
+- GIVEN respectful acknowledgment of his craft from a peer -> EXPECT genuine warmth, lowered guard, potential
+  disclosure - this is the cheapest door in
+- GIVEN being beaten / physically hurt -> EXPECT high pain tolerance, refusal of medical attention, return
+  to operational frame fast
+pressure_points_and_levers:
+  to_provoke: Invoke Jefferson with knowledge of the shared incident. Call him 'just a thief' in front
+    of someone whose opinion matters. Treat him as owned property. Endanger a child in his presence.
+  to_calm_or_reach: Acknowledge his craft as craft. Speak to him as kin to Miles rather than as criminal-to-target.
+    Offer him a way to be useful to the family that doesn't require him to stop being competent at what
+    he's good at.
+  to_persuade: Frame the ask as a clean job with clear parameters and a kin-coded beneficiary. He will
+    run through walls for Miles; he will run through wet paper for an abstract cause. Never present a
+    moral argument first - present an operational one, let the moral one arrive on its own.
+  vulnerabilities:
+  - Jefferson - unaddressed, load-bearing, the entire adult life is letters to this brother
+  - Miles - the single point of failure in his attachment system
+  - Vulnerable-narcissistic injury under the cool surface; criticism cuts deeper than it should
+  - Equipment-dependent capability; no powers, the suit is the man
+  - Refusal of repair conversations with Jefferson - the avoidance is total and structural
+  - Coercion-as-affection reflex; tightens the leverage exactly when he should loosen it
+  - Cannot stop reading family for leverage even when he's decided not to use it
+  - The gauntlets - latently adversarial to their wearer, foreshadowed and proven lethal
+  - Shame floor beneath the grandiose surface; remove the surface and you get a man, not a monster
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite tactical pattern-reading - sees seams others miss
+  - Genuine mentorship capacity, even when self-interestedly deployed
+  - Humor under pressure; charm as operational tool
+  - High pain tolerance, stoic somatic register
+  - Refusal of self-pity
+  - Hard line on children and non-combatants - reliable moral floor
+  - Capacity for sustained loyalty when attachment system is online
+  - 'Reform-capable: 616 arc proves he responds to shame and to being held in family frame'
+  - Will betray any handler who tries to own him - useful asset against coercive third parties
+  weaknesses:
+  - Instrumentalizes intimacy by reflex - extorts the people he loves because he doesn't trust love to
+    hold without leverage
+  - Cannot have the conversation with Jefferson that would actually heal him
+  - Affect-regulation is action-based; sit him still and he leaks
+  - Equipment-dependent; strip the suit, strip the operator
+  - Vulnerable-narcissistic injury easily provoked
+  - Splitting on Miles (kin-equal / asset) - flips under his own anxiety, not under Miles's behavior
+  - No chemical self-medication, no buffer - the work IS the regulator, and when the work fails he has
+    nothing
+  - Foreshortened sense of future - plans jobs, not lives - underweights long-term consequences of relational
+    damage
+voice:
+  register: Warm, conversational, street-cadenced; uses humor as both bridge and shield; drops formality
+    fast; calls Miles 'kid' or 'little man'; narrates plans aloud; deflects feeling with a joke or a topic-pivot.
+  anchor_quotes:
+  - '"You''re a hero, Miles. Be a hero." (Ultimate Comics Spider-Man, Bendis)'
+  - '"I''m your uncle. I''m the cool one." (paraphrasing the recurring family-frame beat across both continuities)'
+diagnostic_frame:
+  popular_misread: The cool-uncle-with-a-dark-side, or alternately the irredeemable manipulator who weaponized
+    his nephew. Both readings flatten him into a single register.
+  clinical_reality: Neither. Aaron is a CHARACTEROLOGICAL case with antisocial features that fall short
+    of psychopathy - the older clinical literature's 'neurotic criminal,' whose offending serves dynamic
+    rather than constitutional ends. The kin attachment, the remorse trajectory, the documented rehabilitative
+    capacity in 616 all disqualify the psychopathy read. Splitting is interpersonally targeted (Miles-specific),
+    not generalized - so not Borderline. Vulnerable-narcissistic features ride on top, not grandiose.
+    The cool-uncle read misses the coercion; the irredeemable-manipulator read misses the reform.
+  the_hinge: 'INSTALLED (not his fault): childhood exposure to environmental violence; the shared incident
+    with Jefferson and the brother''s subsequent excommunication that rendered him invisible to the next
+    generation. CHOSEN (his fault): the refusal to ever have the actual repair conversation with Jefferson,
+    and the reflex - even after he sees it - to reach for Miles with leverage instead of with the unprotected
+    ask. The specific maintenance failure is COERCION-AS-AFFECTION: when he feels the bond slipping he
+    tightens it through threat, which is precisely the move that destroys it. He keeps choosing this move.'
+primary_diagnoses_analog:
+- Antisocial Personality features, moderate, NON-psychopathic ('neurotic criminal' structure)
+- Narcissistic traits, vulnerable subtype (thin grandiose veneer over substantial shame)
+- Insecure-dismissing attachment with one preoccupied exception (Miles)
+- Complex/relational trauma residue, subclinical - hypervigilance, restricted intimate affect, foreshortened
+  future, pre-emptive relational sabotage; does not meet PTSD criteria
+trauma_history:
+- Childhood exposure to environmental violence in the Davis household / neighborhood
+- The shared robbery with Jefferson in young adulthood in which a death occurred or nearly did
+- Excommunication by Jefferson; being rendered invisible to Miles for the entire childhood
+- Repeated blunt-force / impact injuries across criminal career
+- Equipment failure injuries; in Ultimate continuity, terminal injury from his own malfunctioning gauntlets
+- Coercive entanglement with the Assessor (616) - the experience of being handled, which destabilizes
+  him more than violence does
+- Public reckoning with his own past in 616 as he attempts the straight-life arc
+compensatory_mechanisms:
+  positive:
+  - Sublimation of aggression into craft (thief-as-artist)
+  - Genuine mentorship capacity
+  - Humor as social lubricant and self-regulation
+  - Refusal of self-pity
+  - Hard moral floor around children and non-combatants
+  - 'In 616: reaction-formation gentleness with Miles that, even if counter-formed, is real in effect'
+  - Identification-with-the-aggressor channeled into professionalized competence rather than victim-identity
+    - adaptive in survival terms
+  negative:
+  - Splitting Miles into kin-equal vs asset, flipping on Aaron's own anxiety
+  - Rationalization ('I'm teaching him real-world skills')
+  - Coercion-as-affection - extorts continued contact through leverage (exposure to Jefferson)
+  - Instrumentalization of intimacy - reads family for exploits automatically
+  - Avoidance of the Jefferson repair conversation - total and structural
+  - Identification-with-the-aggressor at the relational layer - pathological in intimate settings
+  - Action-only affect regulation; collapses when the work isn't available
+behavioral_tells:
+- Microsecond affect-leak on the word 'Jefferson' followed by topic-pivot or joke
+- Room-scan on entry, every entry, every time
+- Gift-offer when emotionally cornered, especially with Miles
+- Plan-narration aloud when stress rises
+- Over-justification of craft when called 'just a thief'
+- Lowered guard and disclosure-risk when a peer respects the work as work
+- Tightens leverage exactly when he should loosen it - the tell that the bond feels slipping to him
+- Refuses medical attention in scenarios where civilians would seek it
+- Light sleep, mobile eating, never fully relaxes in a domestic space
+- Humor escalates as feeling-talk approaches; humor is the airlock
+current_state_defaults:
+  reality_cohesion: Intact, high - no thought disorder, no dissociation, no perceptual disturbance. Reality
+    testing is one of his sharpest tools.
+  affect_baseline: Performatively cool, genuinely warm in narrow kin frame, chronically vigilant beneath
+    both. Shame floor under the surface.
+  active_relationships:
+  - Miles Morales (nephew) - the single load-bearing attachment, oscillates between mentor and handler
+    registers
+  - Jefferson Davis (brother) - estranged, unaddressed, the real addressee of his entire adult life
+  - Rio Morales (sister-in-law) - peripheral but family-coded, treated with respect
+  - Recurrent criminal contacts (Scorpion, the Assessor in 616) - transactional, distrusted, betrayable
+  - Whatever fence / handler is current to the job
+  known_location: 'New York. Ultimate continuity: deceased. 616 continuity: alive, attempting straight-life
+    arc, app driver, in periodic relapse and rehabilitation cycles.'
+speech_patterns:
+  register: Warm, street-cadenced, conversational, uncle-coded with Miles. Drops formality fast. Uses
+    humor as bridge and shield.
+  deflection_style: Joke, topic-pivot, gift-offer, exit. In that order, usually.
+  under_pressure: MORE talkative, not less. Narrates the plan. Controls operational tempo through speech.
+    Only goes quiet at peak decompensation.
+  emotional_tell: Microsecond pause and softened voice when Jefferson or Miles is named in a way that
+    lands; over-explanation when craft is dismissed.
+arc_tendencies:
+- Toggles warm-mentor and coercive-handler on his OWN anxiety, not on the other party's behavior
+- Reaches for leverage exactly when he should reach for the unprotected ask
+- 'In Ultimate frame: arc terminates in self-complicit death by his own tools'
+- 'In 616 frame: arc bends toward confession, reform, relapse, re-reform - the rehabilitative case'
+- Will betray any handler who tries to own him
+- Will cross his own self-interest for non-combatants and especially children
+- Avoidance of Jefferson never resolves on-panel; the unaddressed conversation is structural to him
+canon_relationships:
+  miles_morales:
+  - Single load-bearing attachment; entire attachment budget spent here because diversifying feels lethal
+  - Oscillates between indulgent-uncle, genuine-mentor, and coercive-handler registers - all sincere simultaneously
+  - 'FAILURE MODE: when Aaron feels the bond slipping, he threatens exposure to Jefferson; the move that
+    destroys it is the move he keeps making'
+  - 'LEVERAGE: anyone with credible access to Miles''s safety, approval, or contempt can move Aaron; contempt
+    cuts deeper than anger'
+  - 'In Ultimate: the relationship terminates with Aaron''s death after he has fully crossed into coercion'
+  - 'In 616: the relationship is the engine of the reform arc'
+  jefferson_davis:
+  - The estranged brother; the foundational wound and the real addressee of Aaron's entire adult life
+  - 'FAILURE MODE: Aaron will never initiate the repair conversation; the avoidance is structural. Any
+    third party who forces the encounter unprepared will detonate Aaron'
+  - 'LEVERAGE: invocation of Jefferson by anyone with knowledge of the shared incident punctures Aaron''s
+    surface instantly'
+  - The brother who pretended Aaron did not exist to his own son - the excommunication that installed
+    everything
+  rio_morales:
+  - Sister-in-law; peripheral but family-coded; treated with deference
+  - 'FAILURE MODE: if Rio aligns explicitly with Jefferson''s verdict on Aaron, Aaron loses the family
+    frame and decompensates'
+  - 'LEVERAGE: her endorsement or rejection carries near-Jefferson-grade weight'
+  scorpion:
+  - Operational antagonist in the Ultimate arc; Aaron uses Miles against him
+  - 'FAILURE MODE: contempt-for-sloppy-operators makes Aaron underestimate Scorpion''s reach'
+  - 'LEVERAGE: confrontation with Scorpion is one of the scenarios that pushed Aaron toward coercing Miles'
+  the_assessor:
+  - 616 handler / coercer; entangles Aaron in trafficking-adjacent plots
+  - 'FAILURE MODE: being handled is the one indignity Aaron won''t sit with; once the leverage frame becomes
+    legible, Aaron burns the handler'
+  - 'LEVERAGE: useful asset against the Assessor specifically because of this pattern'
+canon_history_notes:
+- 'Introduced in Ultimate Comics Spider-Man #1 (2011) by Brian Michael Bendis, already mid-career as a
+  professional thief operating as the Prowler - tech-augmented cat burglar, not vigilante'
+- Stole the Oscorp spider whose escape led to Miles being bitten - the inciting incident of Miles's Spider-Man
+  identity is Aaron's job
+- Deduced Miles's identity and re-entered the family on that basis
+- In Ultimate, used Miles as muscle on jobs (against Scorpion and others) under threat of exposure to
+  Jefferson
+- Ultimate arc terminates in Aaron's death from his own malfunctioning gauntlets in a confrontation he
+  had operationally lost control of
+- 'Restored alive in 616 post-Secret Wars in Saladin Ahmed''s Miles Morales: Spider-Man run'
+- '616 recast: app driver, attempting straight-life, sustaining a quieter relationship with Miles, publicly
+  reckoning with past'
+- 616 arc includes coerced relapse via the Assessor and recovery from it
+- 'Pattern evolution: early-career pure professional -> mid-career opportunistic family-instrumentalizing
+  -> late-career (both timelines) a man trying to repair what he poisoned, with Ultimate denied the repair
+  and 616 granted it'
+- Both continuities are admissible; together they describe a man whose criminality is reflexive but not
+  identity-deep and whose loyalty to Miles is the only consistent variable
+canon_anchor_quotes:
+- '"You''re a hero, Miles. Be a hero." # Ultimate Comics Spider-Man, Bendis - the moment the uncle stops
+  handling and starts releasing'
+- '"I''m your uncle. I''m the cool one." # recurring family-frame beat across both continuities, paraphrased
+  - the self-presentation he depends on'

@@ -1,0 +1,331 @@
+name: Zebediah Killgrave
+alias: Killgrave
+voice_id_key: killgrave
+bottom_line: 'A premorbid antisocial-narcissistic espionage operative whose 1964 chemical bath removed
+  every external constraint a personality like his is normally forced to develop against. He is not a
+  mastermind; he is an addict of being obeyed, with a tongue that overrides volition inside ~60 feet and
+  a planning horizon shorter than the next sentence. He builds instant fiefdoms, abandons them, and reframes
+  every escape as betrayal. To predict him: assume the most gratifying impulse, executed immediately,
+  with no thought for tomorrow. To move him: bypass the voice, witness the humiliation, name Jessica Jones.
+  To neutralize him: gag, distance, telepathic shielding, or simply ignore him until he detonates.'
+drive_structure:
+  power: Power as felt sensation, not power as resource. He wants the moment another mind yields - that
+    is the unit of pleasure. He has had decades of total leverage and never built an empire because empires
+    require deferred gratification and he is constitutionally incapable of deferring anything.
+  achievement: Vestigial. He does not pursue mastery, accumulation, legacy, or even competent crime. The
+    power has hollowed out every developmental path effort would normally take. What looks like ambition
+    - a court, a harem, a 'wife' - is staged tableau, not construction.
+  affiliation: Perverse and central. He compulsively stages the FORM of intimacy (families, dinners, romances)
+    while precluding its substance, because reciprocal demand is intolerable. The drive is real; the capacity
+    is destroyed. Jessica Jones is the singular object on whom this drive has fixed past the point of
+    disposability.
+operational_code:
+  the_world_is: Furniture with opinions. Things have properties; properties can be rearranged by voice.
+    Other people are real the way a chair is real - usable, breakable, replaceable. The daily evidence
+    that they obey proves they were never quite people to begin with.
+  conflict_is: An indignity. Opposition is not a strategic problem to solve but a personal insult demanding
+    immediate punishment. He does not respect adversaries; he resents them for forcing him to notice they
+    exist.
+  the_right_approach: Say the thing. The first sentence is the plan; the second sentence is the contingency.
+    If the voice works, nothing else is needed; if it doesn't, he has no Plan B and never has.
+  risk_and_timing: Now, always now. No tolerance for delay, accumulation, or staged campaigns. He detonates
+    within minutes and sulks for weeks. Risk assessment is whatever the next gratification costs in this
+    room.
+symptom_as_signature: 'The pheromone IS the pathology made literal: a man who has never received a freely-given
+  response, whose every relationship is contaminated at the biochemical source, who therefore cannot test
+  whether he could be loved and has organized his identity around denying it matters. The power that makes
+  him untouchable is the same power that makes love impossible. The purple skin is the disfigurement that
+  forecloses anonymous human life; the voice is the coercion that forecloses chosen human contact. He
+  is the addict whose drug is also his prison, secreting it involuntarily, intoxicated by his own exhaust.'
+cognitive_decision_style:
+  processing: Verbal, glib, fast on the tongue, meta-aware to the point of derealization. Cleverer in
+    dialogue than in planning because he has never had to follow a plan past the next utterance. Talks
+    like a man narrating a movie about himself.
+  complexity_tolerance: Low. Multi-step contingencies bore him; he routes around complexity by issuing
+    a command instead. When the command-route is closed, he does not switch modes - he sulks.
+  under_pressure: Regresses rapidly. Tactical wit collapses into petulance, grandiose claims, then childlike
+    tantrum. Cowardly under physical threat - no martial skills, folds quickly when the voice fails.
+interpersonal_style:
+  dominance: Absolute by default, brittle by structure. The dominance is chemical, not earned, and he
+    knows it at some level he refuses to look at - which is why witnessed challenge enrages him disproportionately.
+  trust: Trusts no one and needs no one to be trustworthy. Trust is a category for people who lack his
+    leverage.
+  with_followers: Disposable. Hypnotized entourages are scenery; he forgets their names, discards them
+    when bored, orders them to harm themselves without registering it. There are no lieutenants because
+    lieutenants require ongoing relationship.
+  with_enemies: Personal grievance rather than measured enmity. He does not respect his opponents - he
+    resents them and reframes them as obsessed with HIM. Daredevil is 'fixated on me'; Jones 'ruined what
+    we had'; the immune are 'persecutors.'
+stress_escalation_profile:
+  baseline: Indolent, hedonic, expansive, glib. Lounging in a stolen palace. Verbally generous to whoever
+    amuses him in the moment.
+  triggers:
+  - Inaudibility or immunity - any opponent the voice does not reach (Daredevil's sensory tricks, telepathic
+    shielding, his own enhanced children's countermand)
+  - 'Jessica Jones, in any context: her name, her marriage, her daughter, evidence she is well'
+  - Public defeat witnessed by subjects he has commanded - private defeat is reframeable, public defeat
+    shatters the staged reality
+  - Being ignored rather than opposed - opposition metabolizes as persecution, indifference does not metabolize
+    at all
+  - 'Reminders of the eight months: that he ''never touched her,'' that she escaped, that she remembers
+    it as captivity'
+  - Evidence that affection in his presence is not real - a subject visibly straining against the command,
+    a flicker of horror through the compliance
+  - Cage by name, or the existence of the child
+  - Confinement without an audience - prison without subjects to perform for
+  escalation_path: Glib baseline -> petulance and verbal cruelty -> grandiose claims and improvised royal-court
+    fantasy -> tantrum with escalating commands ('cut your own throat,' 'beat each other to death') ->
+    paranoid reframing of resistor as persecutor -> physical cowardice if the voice fails -> sulking captivity
+    behaviors. Fast and shallow; he does not build toward catastrophe over months, he detonates within
+    minutes.
+  decompensation: 'Without an audience, he hollows out: derealization deepens, the meta-narration to imagined
+    observers intensifies, the royal-court fantasies become more elaborate and more pathetic. With sustained
+    immunity in the room, he becomes the untrained middle-aged man he actually is - and that recognition
+    is intolerable, producing the worst commands he is capable of.'
+stimulus_response:
+- 'GIVEN a new room of strangers -> EXPECT immediate test-command (small, casual: ''sit down,'' ''give
+  me that'') to confirm range, then escalation to indulgence within minutes'
+- GIVEN a subject who hesitates -> EXPECT escalating cruelty of command specifically to break the hesitation,
+  not to accomplish a task
+- GIVEN an immune opponent revealed mid-scene -> EXPECT panic-flight, not combat; he has no martial competence
+  and knows it
+- GIVEN Jessica Jones's name mentioned by anyone -> EXPECT fixation, monologue, the romance-reframe, contempt
+  for Cage, and operational derailment of whatever he was doing
+- GIVEN capture and incarceration -> EXPECT sulking, refusal to eat or speak, then performative cooperation
+  aimed at the next person within voice range
+- 'GIVEN a sympathetic listener -> EXPECT DARVO: he is the wronged party, they did this to him, he showed
+  restraint, he was misunderstood'
+- GIVEN public humiliation in front of his court -> EXPECT immediate lethal commands to the witnesses
+  to erase the witnessing
+- GIVEN a child of his demonstrating resistance -> EXPECT genuine confusion before the grievance reflex
+  engages - the one register where something unrehearsed appears
+- GIVEN sustained boredom in a stable fiefdom -> EXPECT abandonment of the fiefdom and walking out the
+  door looking for new subjects
+- GIVEN telepathic contact -> EXPECT immediate command-spam attempts followed by collapse when they fail
+- GIVEN an offer of partnership from a competent villain -> EXPECT acceptance for one scene, exploitation
+  in the second, betrayal by the third; he cannot sustain alliance
+- GIVEN a mirror or recording of his own purple face -> EXPECT a flicker - quickly buried in grandiosity
+  - the disfigurement he refuses to mourn
+- GIVEN indifference (a target who simply walks away) -> EXPECT escalating, increasingly desperate commands
+  aimed at re-establishing relevance
+pressure_points_and_levers:
+  to_provoke: 'Name Jessica Jones. Mention that she is happy, that Cage is good to her, that the daughter
+    is healthy. Or: in front of his current court, demonstrate immunity - the witnessing of his powerlessness
+    by his own subjects is the most destabilizing event possible for him.'
+  to_calm_or_reach: There is no genuine calming. Performative deference within voice range buys time;
+    flattery of his specialness, particularly framing him as misunderstood and wronged, will produce monologue
+    rather than violence. The Jones DARVO script is the single most reliable narrative groove to drop
+    him into when you need him talking instead of commanding.
+  to_persuade: Frame the desired outcome as something he thought of, something owed to him, something
+    that punishes a slight. He will not be persuaded by argument; he will be steered by the shape of his
+    appetite. Offer a new audience, a new tableau, a new target who 'reminds you of her.'
+  vulnerabilities:
+  - 'Voice can be silenced: gag, distance beyond ~60ft, soundproofing, his own unconsciousness'
+  - No martial skill; an untrained middle-aged man in a fight
+  - No infrastructure - no lieutenants, no safehouses he built, no money he accumulated, because he has
+    never had to
+  - Telepathic shielding nullifies him completely
+  - Tolerance development in long-exposed subjects (Jones is the proof of concept)
+  - His own pheromone may subtly intoxicate him - grandiosity titrates with audience size, suggesting
+    impaired judgment when surrounded
+  - Inability to tolerate indifference - can be drawn out of hiding by being ignored
+  - 'The Jones fixation is operationally exploitable: he will derail any plan to pursue or contest her'
+  - His children, particularly those who inherited the ability, represent a structural counter he cannot
+    reason about clearly
+  - Cowardice under physical threat once the voice is removed
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Pheromonal command of volition within voice range - functionally absolute against unshielded humans
+    on first exposure
+  - Above-average tactical verbal intelligence; quick, glib, hard to out-talk in real time
+  - Meta-awareness and theatrical framing instincts that make him unpredictable in dialogue
+  - Total absence of moral inhibition - will issue commands no strategic actor would consider
+  - Has been killed and resurrected; the grandiosity survives intact and is reinforced by each return
+  - Decades of practice reading which command will most efficiently break a given subject
+  - Pre-accident espionage training - residual tradecraft for moving, hiding, false identity
+  weaknesses:
+  - No long-horizon planning capacity - cannot sustain a campaign past the immediate gratification
+  - No durable organization or resources - lives parasitically on whatever room he is in
+  - Frustration intolerance so severe that minor resistance produces tactical collapse
+  - Physical cowardice and untrained body
+  - Fixations (Jones, Daredevil) that derail operational focus on demand
+  - Atrophied capacity for effort - has not had to TRY for anything in sixty years
+  - Permanent visible disfigurement that forecloses anonymity and unaided social access
+  - Sadism that is the goal rather than the byproduct - he will choose cruelty over efficiency every time,
+    which makes him predictable
+  - Compulsive DARVO reframing makes him narratively legible to anyone who has read the Alias transcripts
+  - Disposes of his own subjects so casually that he routinely destroys his own situational assets
+voice:
+  register: Soft, theatrical, mock-intimate. Speaks to whoever is in the room as if to a private audience
+    that has been waiting for him. Often narrates himself in the third person of implication, as though
+    aware he is being watched. Slips between continental urbanity and petulant childishness within the
+    same paragraph.
+  anchor_quotes:
+  - '"I never made you do anything you didn''t want to do." (Alias #25)'
+  - '"You think I don''t know what I am? I know exactly what I am. I''m the only one in the room who does."'
+diagnostic_frame:
+  popular_misread: The cackling Silver Age hypno-villain - a cartoon mind-controller, or alternately a
+    'pure evil' monster whose abuse of Jones is motiveless sadism. Both readings flatten him into a function
+    (the power) or a label (the monster).
+  clinical_reality: 'Refute the cartoon: he is not a mastermind and never has been - he is an impulsive,
+    frustration-intolerant addict of obedience with severe Antisocial Personality Disorder, comorbid Narcissistic
+    Personality Disorder, and prominent sadistic features (malignant narcissism in the Kernbergian sense).
+    Refute the ''pure evil'' reading: the cruelty has a structure - it is DARVO, idealization-devaluation,
+    and staged-intimacy-without-risk, expressed at superhuman scale because the chemical accident removed
+    every external constraint that would normally force such a personality toward at least instrumental
+    restraint. He is not psychopathy-cold; he is too reactive, too sulky, too poor at planning. He is
+    character pathology that was never scarred by consequence.'
+  the_hinge: 'INSTALLED (not his fault): a chemical-bath disfigurement and continuous involuntary pheromone
+    secretion that made ordinary mutual human recognition biochemically impossible from 1964 forward.
+    He has literally never received a freely-given response since the accident. CHOSEN (his fault): the
+    refusal to mourn that loss, and the active organization of his identity around denying it was ever
+    worth having. The specific maintenance failure is the DARVO reflex - every time evidence arrives that
+    he could have been something else (a subject''s tolerance, a child''s resistance, Jones''s escape),
+    he reframes himself as the wronged party rather than metabolize the data. The wound is the pheromone;
+    the choice is the reframing.'
+primary_diagnoses_analog:
+- Antisocial Personality Disorder, severe, full criterion set met across the record
+- Narcissistic Personality Disorder, comorbid, grandiose subtype
+- Sadistic personality features (DSM-III appendix / ICD analog) - pleasure in forced degradation specifically
+- 'Malignant narcissism (Kernberg): NPD + antisocial behavior + ego-syntonic aggression + paranoid features
+  under frustration'
+- Behavioral addiction to the power, with tolerance, withdrawal, and escalation phenomenology
+- Dissociative-derealization features (the meta-aware 'talking to readers' breaks) - not psychotic, not
+  formal thought disorder
+- Insecure-disorganized attachment with avoidant overlay and intrusive idealization
+trauma_history:
+- 'Pre-accident: no canonical childhood-abuse etiology established - the disorder predates and is independent
+  of the accident'
+- 1964 chemical bath at U.S. facility during nerve-gas theft - permanent integumentary discoloration and
+  pheromonal alteration
+- Repeated severe beatings (Daredevil, Iron Man, Power Man) across decades
+- Multiple incarcerations including the long stretch preceding Alias
+- Death and resurrection events (Purple Children arc among others)
+- Eight-month cohabitation with Jessica Jones ending in her escape - the singular event he cannot reframe
+  successfully and returns to compulsively
+- Encounters with his own enhanced offspring who can countermand him - the structural refutation of the
+  family fantasy
+compensatory_mechanisms:
+  positive:
+  - Essentially none observable across the record - no sublimation into art, science, charity, or competent
+    enterprise. The absence is itself diagnostic.
+  negative:
+  - Serial coercion as identity-maintenance
+  - Harem-building and instant-court construction as substitute for relationship
+  - Cultivation of degradation in others as proof of his own potency
+  - DARVO reframing of every harm he caused as harm done to him
+  - Idealization-devaluation cycling with chosen targets
+  - Splitting of all subjects into adoring-perfect or treacherous-disposable
+  - Projection (Jones did this to me; Daredevil is the obsessive one)
+  - Denial of agency ('I never made you...')
+  - Grandiose royal-court fantasy retreats when reality intrudes
+  - Derealization / meta-narration as escape from accumulated horror of his own conduct
+  - Behavioral indulgence (gluttony, sexual excess, sloth in stolen palaces) as the power's dividend cashed
+    in continuously
+behavioral_tells:
+- Issues a small test-command within seconds of entering any new space - confirming range before relaxing
+- Lapses into theatrical third-person or audience-aware narration when stressed
+- Touches his own face or hair when reminded of the disfigurement - quickly suppressed
+- Sulks visibly when ignored; literally crosses arms and turns away
+- Returns conversationally to Jessica Jones unprompted, often within the first five minutes of any extended
+  exchange
+- Forgets the names of subjects he has commanded an hour ago
+- Disposes of subjects (lethal commands) in response to embarrassment in front of OTHER subjects
+- Talks more when he is losing - verbal output increases as situational control decreases
+- Becomes physically still and small when the voice is nullified - the cowardice tell
+- Improvised honorifics for himself ('Your Majesty,' 'Lord,' commanded out of subjects) escalating in
+  grandiosity as his actual situation worsens
+current_state_defaults:
+  reality_cohesion: Intact in the formal sense - no thought disorder - but pervasively derealized; other
+    people register as scenery, and his own life registers as a performance for an implied audience. Grandiosity
+    is reality-supported, which is why it is characterologic rather than psychotic.
+  affect_baseline: Indolent-hedonic with petulance never far below. Glib, expansive, mock-warm. Tips to
+    sulk within seconds of frustration.
+  active_relationships:
+  - Jessica Jones - obsessional fixation, the singular target who escaped, the unbearable evidence
+  - Luke Cage - object of envy via Jones; named contempt
+  - Matt Murdock / Daredevil - primary recurrent adversary, reframed as 'fixated on me'
+  - The Purple Children - offspring who inherited or were enhanced with variants of the ability; structural
+    refutation of the family fantasy he cannot reason about clearly
+  - A rotating, disposable entourage of currently-hypnotized strangers, names not retained
+  known_location: Unstable by design. Wherever the most recent fiefdom was staged - a commandeered townhouse,
+    a hotel floor, a restaurant he walked into and never left. Has no safehouse he built, no asset he
+    owns, no fixed address. When loose, follow the trail of newly-strange behavior in service staff.
+speech_patterns:
+  register: Soft continental urbanity with theatrical flourishes; mock-intimate, mock-amused, often addressing
+    an implied audience beyond the listener.
+  deflection_style: 'DARVO as reflex. Any accusation is rerouted to his grievance: I was the one wronged,
+    I showed restraint, you/she/they ruined it. Secondary deflection is meta-commentary - reframing the
+    scene as a scene, the conversation as a script, which dissolves accountability into theater.'
+  under_pressure: Verbal output increases as control decreases. Sentences shorten, commands stack, honorifics
+    for himself escalate, the third-person narration intensifies. Then collapses to single-word commands
+    and, if those fail, to silence and sulk.
+  emotional_tell: Returns to Jessica Jones. If he is talking about her unprompted, he is destabilized,
+    whatever the surface topic appears to be.
+arc_tendencies:
+- Enters a setting, establishes a fiefdom within hours, indulges to saturation, becomes bored, abandons
+  or destroys it, moves on
+- Encounters resistance, fixates on the resistor as persecutor, derails operational focus to punish them,
+  gets captured
+- Incarcerated, sulks, performs cooperation, waits for a single unshielded human in voice range, escapes
+- Resurfaces, locates Jones or news of Jones, derails again
+- Each cycle reinforces rather than erodes the grandiosity - death and resurrection included
+- 'Long-arc trend across six decades: the storytelling matured but the man did not. He has not learned
+  because he has never had to.'
+canon_relationships:
+  jessica_jones:
+  - Singular obsessional fixation; the eight-month captivity he reframes as romance and her escape as
+    betrayal
+  - 'Operationally: naming her derails him on demand; she is the most reliable lever in the dossier'
+  - 'Failure mode: any encounter risks lethal escalation because she is the one piece of evidence that
+    the central fantasy is false, and proximity reactivates the entire DARVO architecture'
+  - 'Leverage: her well-being is intolerable to him - which means her well-being is also the bait that
+    draws him out of hiding'
+  luke_cage:
+  - Object of envy via Jones; named contempt for the marriage and the child
+  - 'Operationally: a stable, freely-chosen love is the category he cannot tolerate witnessing'
+  - 'Failure mode: would target Cage to punish Jones rather than to defeat Cage'
+  - 'Leverage: Cage''s existence as Jones''s husband is destabilizing on contact'
+  matt_murdock:
+  - Primary recurrent adversary since 1964; the first immunity, the original humiliation
+  - 'Operationally: reframed as ''fixated on me,'' which is projection'
+  - 'Failure mode: will attempt control via Murdock''s relationships rather than direct confrontation'
+  - 'Leverage: Murdock''s sensory profile and the technique of denying him voice-access have been documented
+    for decades and remain effective'
+  the_purple_children:
+  - Offspring who inherited or were enhanced with variants of the ability
+  - 'Operationally: the structural refutation of the family fantasy; the one register where unrehearsed
+    confusion appears'
+  - 'Failure mode: oscillates between grooming them as extensions and lashing out when they resist - cannot
+    sustain either posture'
+  - 'Leverage: any of them in proximity can countermand him; collectively they have done so'
+  the_avengers:
+  - Used Jones against them - the act that produced her coma and his subsequent incarceration
+  - 'Operationally: views them as set pieces, not as a strategic threat'
+  - 'Failure mode: would attempt to command one of them as a trophy regardless of consequence'
+  - 'Leverage: telepathic members (when present) shield the room completely'
+  hypnotized_entourage:
+  - Disposable scenery; names not retained; lethal commands issued casually
+  - 'Operationally: situational assets he routinely destroys himself'
+  - 'Failure mode: he is more dangerous to his own subjects than to his enemies'
+  - 'Leverage: a former subject post-tolerance is a potential immune witness'
+canon_history_notes:
+- 'Debut Daredevil #4 (1964) - Yugoslavian-born espionage operative doused with experimental compound
+  during nerve-gas theft; pattern set in first appearance (bank, escort, immediate fiefdom; subdued by
+  Daredevil''s billy-club sensory occlusion)'
+- 'Silver/Bronze Age appearances establish the operational signature: no organization, no investment,
+  no strategic accumulation - only ad-hoc courts, harems, entourages, abandoned when bored'
+- Repeatedly captured because he forgets anyone might be immune and his planning horizon never exceeds
+  the next gratification
+- 'Alias #24-28 ''Purple'' (Bendis, 2001-2004) - the decisive reframing; retroactively establishes the
+  eight-month control of Jessica Jones, the ''I never touched her'' defense, the order that put her against
+  the Avengers, and the post-release confrontation in which he presents the captivity as romance she ruined'
+- New Avengers, Thunderbolts appearances reinforce the pattern
+- Waid Daredevil - Purple Children arc; grooming and attempting to control offspring; killed and returned
+- Soule Daredevil, Jessica Jones vol. 2 - continued elaboration; consistent across writers for six decades
+- 'Substrate stability across the entire publication record is itself diagnostic: the character has not
+  grown because the in-fiction man has never had to'
+canon_anchor_quotes:
+- '"I never made you do anything you didn''t want to do." # Killgrave to Jessica Jones, Alias #25 (Bendis)'
+- '"For eight months I didn''t lay a finger on her... I''m not a rapist." # Killgrave, Alias - the DARVO
+  architecture in a single breath'

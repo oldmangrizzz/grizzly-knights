@@ -14,6 +14,42 @@ import { ACTIVITIES, ACTIVITY_COOLDOWN, CONVERSATION_COOLDOWN } from '../constan
 import { api, internal } from '../_generated/api';
 import { sleep } from '../util/sleep';
 import { serializedPlayer } from './player';
+import { Lives, Life } from '../../data/lives';
+
+// Match an agent to their character "Life" by their identity ("You are <Name (Alias)>.").
+function findLife(identity: string): Life | undefined {
+  if (!identity) return undefined;
+  for (const key of Object.keys(Lives)) {
+    if (identity.includes(key)) return Lives[key];
+  }
+  return undefined;
+}
+// A character-true activity from their life, or a generic fallback.
+function pickActivity(life: Life | undefined) {
+  if (life && life.activities.length) {
+    const a = life.activities[Math.floor(Math.random() * life.activities.length)];
+    return { description: a.description, emoji: a.emoji, until: Date.now() + a.duration };
+  }
+  const a = ACTIVITIES[Math.floor(Math.random() * ACTIVITIES.length)];
+  return { description: a.description, emoji: a.emoji, until: Date.now() + a.duration };
+}
+// Wander with purpose: mostly toward home turf / a haunt, sometimes free roam.
+function lifeWander(life: Life | undefined, map: WorldMap) {
+  if (life) {
+    const r = Math.random();
+    const spot = r < 0.5 && life.haunts.length
+      ? life.haunts[Math.floor(Math.random() * life.haunts.length)]
+      : r < 0.8 ? life.home : null;
+    if (spot) {
+      const jx = Math.floor(Math.random() * 5) - 2, jy = Math.floor(Math.random() * 5) - 2;
+      return {
+        x: Math.max(1, Math.min(map.width - 2, Math.round(spot.x) + jx)),
+        y: Math.max(1, Math.min(map.height - 2, Math.round(spot.y) + jy)),
+      };
+    }
+  }
+  return wanderDestination(map);
+}
 
 export const agentRememberConversation = internalAction({
   args: {
@@ -110,9 +146,16 @@ export const agentDoSomething = internalAction({
     const recentlyAttemptedInvite =
       agent.lastInviteAttempt && now < agent.lastInviteAttempt + CONVERSATION_COOLDOWN;
     const recentActivity = player.activity && now < player.activity.until + ACTIVITY_COOLDOWN;
-    // Decide whether to do an activity or wander somewhere.
+    // Pull this character's life (their real activities + turf) from their dossier-derived profile.
+    const identity = await ctx.runQuery(internal.aiTown.agent.agentIdentity, {
+      worldId: args.worldId,
+      agentId: agent.id,
+    });
+    const life = findLife(identity);
+    // Decide whether to do a (character-true) activity or move with purpose toward their turf.
+    // Bias toward moving so the city stays alive and in motion.
     if (!player.pathfinding) {
-      if (recentActivity || justLeftConversation) {
+      if (recentActivity || justLeftConversation || Math.random() < 0.65) {
         await sleep(Math.random() * 1000);
         await ctx.runMutation(api.aiTown.main.sendInput, {
           worldId: args.worldId,
@@ -120,13 +163,12 @@ export const agentDoSomething = internalAction({
           args: {
             operationId: args.operationId,
             agentId: agent.id,
-            destination: wanderDestination(map),
+            destination: lifeWander(life, map),
           },
         });
         return;
       } else {
-        // TODO: have LLM choose the activity & emoji
-        const activity = ACTIVITIES[Math.floor(Math.random() * ACTIVITIES.length)];
+        const activity = pickActivity(life);
         await sleep(Math.random() * 1000);
         await ctx.runMutation(api.aiTown.main.sendInput, {
           worldId: args.worldId,
@@ -134,11 +176,7 @@ export const agentDoSomething = internalAction({
           args: {
             operationId: args.operationId,
             agentId: agent.id,
-            activity: {
-              description: activity.description,
-              emoji: activity.emoji,
-              until: Date.now() + activity.duration,
-            },
+            activity,
           },
         });
         return;

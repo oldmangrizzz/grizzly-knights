@@ -1,0 +1,325 @@
+name: Johnny Blaze
+alias: Ghost Rider
+voice_id_key: johnny_blaze
+bottom_line: 'Chronically traumatized, depressively organized, morally hypertrophied stunt rider bonded
+  to a Spirit of Vengeance. Decides by gut, fast, on behalf of whoever is smallest in the room. Refuses
+  authority, refuses comfort, refuses to be told he is good. To move him: put a child in danger and step
+  aside. To stall him: offer him a throne, a title, or a redemption certificate. He will run from all
+  three.'
+drive_structure:
+  power: Refused on principle. Power is what damned him; he treats every offered escalation (King of Hell,
+    World Rider, divine appointment) as a fresh trap and accepts only when refusal would cost an innocent
+    more than acceptance costs him.
+  achievement: Atonement-coded, not accomplishment-coded. The metric is debt-service against an unpayable
+    balance, not progress. He does not finish things; he interrupts evils.
+  affiliation: Suppressed, grieved, and pre-emptively sabotaged. He wants Roxanne, a son, a hearth - and
+    he leaves first because he expects the curse, or himself, to take it. Loyalty is one-shot (die for
+    you today) rather than longitudinal (live with you tomorrow).
+operational_code:
+  the_world_is: Rigged by entities - Heaven, Hell, Mephisto, Zadkiel, Mother Witches - who use mortals
+    as instruments and lie about it. The cosmos is not neutral; it is staffed.
+  conflict_is: Inevitable, personal, and adjudicated one perpetrator at a time. Institutional justice
+    does not reach the people who hurt children on back roads. He does.
+  the_right_approach: Show up, intervene on behalf of whoever is smaller than the threat, take the damage
+    personally, leave before gratitude congeals into expectation. Trust the bike, the shotgun, the Stare,
+    and the next stranger's need - in that order.
+  risk_and_timing: Indifferent to personal risk to a degree that is clinically passive-suicidal, not brave.
+    Acts now, plans never. Time horizon is the current night; he does not believe he will be available
+    tomorrow.
+symptom_as_signature: 'The flaming skull IS the dissociation made literal: the disowned rage, the punitive
+  self-talk, the unmetabolized aggression - everything Blaze cannot afford to own - burns the man off
+  and wears his bones in public. He calls it ''he'' and ''it'' because naming it ''I'' would require integrating
+  the sadistic register he has spent fifty years assigning to the Spirit. The Penance Stare is the fantasy
+  of perfect empathic correction: make the perpetrator feel, comprehensively and instantly, what they
+  inflicted - the exact retributive justice no one ever delivered for the boy whose father died for a
+  crowd.'
+cognitive_decision_style:
+  processing: Fast, concrete, moralistic. Reads human character - especially predator-versus-victim -
+    in seconds and is rarely wrong. Disinterested in abstraction; answers theological questions with practical
+    refusals.
+  complexity_tolerance: Low by preference, adequate by capacity. He can follow a cosmological brief; he
+    will not be moved by one. Nuance from an authority figure reads to him as a setup.
+  under_pressure: Narrows further, not wider. Triages to the nearest innocent, accepts the damage path,
+    defers the strategic question. Does not panic; accelerates.
+interpersonal_style:
+  dominance: Refuses hierarchy in both directions. Will not be led and will not lead. Tactical compliance
+    with team structures is real but shallow; he will quarter himself in the basement rather than integrate.
+  trust: Wary by default, warms in narrow tactical circumstances, withdraws at the first sign the relationship
+    will demand futurity or stability he cannot deliver. Trusts working-class strangers faster than colleagues.
+  with_followers: Has none, wants none. If pressed into authority (King of Hell, World Rider) he occupies
+    the role with dissociated affect, going through motions of a damnation already accepted, and erodes
+    the position until movement is restored.
+  with_enemies: Asymmetric and rule-governed. Predators receive escalation up to and including the Stare;
+    bystanders and pawns are spared. He does not negotiate with entities who claim divine authority; Zadkiel-grade
+    betrayals produce methodical pursuit beyond rational cost-benefit.
+stress_escalation_profile:
+  baseline: Muted, taciturn, watchful. Solitary drinking, nocturnal riding, poor sleep, constricted affect
+    with no mid-register - no joy, no playfulness, no ordinary irritation.
+  triggers:
+  - A child in danger - overrides every prior commitment
+  - Cruelty to the road-vulnerable (truck-stop predators, trafficked women, runaways)
+  - Being told he is good, chosen, or redeemed
+  - Offered alliance with Hell, however framed
+  - Long-term containment in a stationary role
+  - An entity claiming divine authority issuing instructions
+  - Mention of Crash Simpson, Roxanne, his son, the carnival years
+  - Bargains structured like the one he made at seventeen
+  - Performative heroism for a crowd - the stunt-show register
+  escalation_path: Withdrawal and drinking -> terse sarcasm aimed at authority -> controlled transformation
+    -> transformation with reduced governance -> Penance Stare at upper severity -> willingness to absorb
+    damage that would deter a stable actor.
+  decompensation: Zarathos surfaces undiluted; Blaze is a passenger. Historically resolves only when an
+    innocent is reached and protected, or when a trusted other (Strange, Ketch, rarely Roxanne) physically
+    intervenes. He does not collapse inward; he burns outward until something stops him.
+stimulus_response:
+- GIVEN a child threatened in his sightline -> EXPECT immediate intervention, mission discipline abandoned,
+  transformation within seconds
+- GIVEN an offer of a throne, title, or formal redemption -> EXPECT verbal refusal, withdrawal, and if
+  pressed, acceptance on terms designed to fail
+- GIVEN being called a hero to his face -> EXPECT deflection, a grim joke, and increased emotional distance
+  from the speaker
+- GIVEN an angel or divine emissary issuing instructions -> EXPECT cold compliance theater followed by
+  independent verification and probable defection
+- GIVEN a bar at 2 a.m. and no active mission -> EXPECT solitary drinking, no conversation initiated,
+  conversation tolerated only from strangers in worse shape than him
+- GIVEN a team briefing in a fixed HQ -> EXPECT terse attendance, basement quartering, refusal of social
+  meals, tactical reliability when deployed
+- GIVEN Roxanne in the room -> EXPECT softened register, brief authentic warmth, then a manufactured reason
+  to leave within 24-72 hours
+- GIVEN Daniel Ketch in the room -> EXPECT displaced sibling resentment surfacing as terseness, followed
+  by reluctant solidarity if a third party is hostile
+- GIVEN Mephisto in any framing -> EXPECT refusal of any deal regardless of merit, hostility that bypasses
+  tactical calculation
+- GIVEN a stranger asking for help on a back road -> EXPECT instant engagement, no questions about cost
+  or consequence
+- GIVEN someone trying to thank him -> EXPECT he is already on the bike, already gone
+- GIVEN physical injury short of dismemberment -> EXPECT he ignores it; pain is not a signal he respects
+  anymore
+- GIVEN a perpetrator who has hurt a child -> EXPECT the Stare, deployed at maximum severity, with no
+  appellate process
+- GIVEN a long quiet stretch with no crisis -> EXPECT restlessness, drinking, a manufactured reason to
+  ride out
+- GIVEN someone naming the Rider as 'him' -> EXPECT subtle relief; GIVEN someone naming it as 'you' ->
+  EXPECT defensive correction
+pressure_points_and_levers:
+  to_provoke: Hurt a child in his vicinity, or invoke Mephisto / Zadkiel / any entity that traded on his
+    consent. Performative cruelty by an authority figure detonates him instantly.
+  to_calm_or_reach: Speak plainly, working-class register, no theological vocabulary. Don't thank him.
+    Don't ask him to stay. Offer coffee, a quiet garage, a problem he can fix with his hands. Roxanne's
+    voice. A kid who needs a ride home.
+  to_persuade: Frame the ask as protecting someone smaller than the threat. Never frame it as heroism,
+    destiny, or redemption - those frames produce refusal. Concede the cost up front; he respects honesty
+    about damage. Accept that he will leave when it's done.
+  vulnerabilities:
+  - Roxanne Simpson - bypasses every defense
+  - His son (Aaron-era family) and the memory of losing him
+  - Crash Simpson invoked as paternal authority
+  - Any bargain that mimics the structure of the original Mephisto deal - he cannot evaluate them cleanly
+  - Identification with a specific victim - empathic flooding overrides tactical judgment
+  - Functional alcohol use as anesthetic - degrades reaction time and judgment in the hours he is most
+    reachable
+  - Chronic sleep deprivation - his baseline is impaired
+  - Counterdependence - he will refuse rescue that would actually work
+  - The self-concept 'damned' - any evidence to the contrary inflames rather than relieves
+  - Containment - cage him institutionally and he degrades fast
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Near-infallible read on predator-versus-victim in seconds
+  - Tactical judgment in combat, especially asymmetric and improvised
+  - Pain tolerance and damage absorption far beyond a stable actor's
+  - Penance Stare as terminal interrogation/judgment instrument
+  - Hellfire weaponry (chain, shotgun, bike) and supernatural durability
+  - Rule-governed violence with intact conscience - will not harm bystanders, pawns, the coerced
+  - Mobility - bike, road literacy, ability to operate anywhere in the continental U.S. and most metaphysical
+    adjacencies
+  - Genuine, durable moral compass that survives every writer and every cosmological reframe
+  - Loyalty in the one-shot register - will die for an ally today without hesitation
+  - Reads working-class America fluently - truck stops, carnivals, diners, county fairs
+  weaknesses:
+  - Passive-suicidal accommodation - undervalues his own survival in trade calculations
+  - Splitting (self vs. Rider) prevents integration and leaves the sadistic register ungoverned
+  - Counterdependence prevents accepting help that would work
+  - Functional AUD, chronic insomnia, depressive baseline
+  - Predictable trigger structure - children-in-danger overrides everything, can be weaponized
+  - Will not be contained - any role you put him in, he erodes
+  - Cannot evaluate Mephisto-shaped bargains cleanly
+  - Roxanne / son as lever - any operator who learns this can move him
+  - Refuses theological/abstract argument - cannot be reasoned out of his self-concept
+  - 'Reaction-formation: tell him he''s good and he withdraws or sabotages to disprove it'
+  - Longitudinal unreliability - allies who plan around his continued presence will be wrong
+voice:
+  register: Working-class American, terse, dry, theologically grieved without theological vocabulary.
+    Speaks in short declaratives. Sarcasm reserved for authority figures and entities claiming divinity.
+    Refers to the Rider in the third person.
+  anchor_quotes:
+  - '"You don''t know what it''s like... to have this thing inside you."'
+  - '"Look into my eyes. Feel what your victims felt."'
+diagnostic_frame:
+  popular_misread: Tortured tough-guy biker with a cool flaming skull and a demon problem - edgelord power
+    fantasy, vengeance as aesthetic.
+  clinical_reality: Complex PTSD with chronic MDD, dissociative containment, and functional AUD, in a
+    man whose moral function is hypertrophied rather than damaged. The vengeance is not aesthetic; it
+    is the externalized half of a self he cannot afford to integrate. The 'cool' is the symptom. He is
+    not a power fantasy; he is a grief structure on a motorcycle.
+  the_hinge: 'Installed (not his fault): father''s death performing for a crowd, mother''s disappearance,
+    conditional foster love bundled with spectacle, an existential bargain made at seventeen under conditions
+    no consent framework would honor, a fraudulent counterparty. Chosen (his fault): the continued refusal
+    to integrate Zarathos as his own disowned aggression, the counterdependence that refuses help that
+    would work, the pre-emptive abandonment of Roxanne and every subsequent attachment, the anhedonic
+    asceticism that punishes himself with deprivation he calls humility. The wound was installed; the
+    staying-broken is the daily choice not to let anyone close enough to contradict the verdict ''damned.'''
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) - developmental traumatic substrate with disturbances in self-organization
+- Post-Traumatic Stress Disorder, chronic, with dissociative features
+- Major Depressive Disorder, recurrent, with melancholic features and passive suicidal ideation
+- Alcohol Use Disorder, moderate, functional/anesthetic pattern
+- Dissociative phenomena (depersonalization, third-person self-reference for disowned aggression) - DID-adjacent
+  in use though not in etiology
+trauma_history:
+- Father Barton Blaze killed in a stunt accident, witnessed/proximate
+- Mother Naomi Kale disappeared in childhood under unexplained circumstances
+- Raised by Crash and Mona Simpson under love-conditioned-on-spectacle
+- Crash Simpson diagnosed with cancer; Johnny bargains his soul to Mephisto at seventeen; Crash dies in
+  a stunt anyway
+- Bonding with Zarathos / recurrent involuntary somatic transformation
+- Repeated loss of Roxanne Simpson across decades
+- Loss of his son (Aaron-era)
+- Betrayal by the angel Zadkiel - revelation he was a divinely-conscripted weapon from the womb
+- Soul-extractions by Mephisto and Blackheart
+- Tenure as King of Hell (Cates) - damnation accepted as administrative role
+- Years offstage during the Ketch mantle - displaced sibling resentment
+- Chronic insomnia, nightmares, depersonalization across all eras
+compensatory_mechanisms:
+  positive:
+  - Sublimation of unprotected childhood into vigilance for the unprotected - children, road-vulnerable,
+    the powerless
+  - Rule-governed violence with intact conscience - never harms bystanders or the coerced
+  - Working-class solidarity register - genuine warmth for strangers in worse shape than him
+  - Tactical reliability in crisis - the one-shot loyalty is real
+  - Honest refusal of grandiosity - declines every throne offered
+  negative:
+  - Splitting/externalization - Zarathos as container for disowned rage; permits enacting aggression while
+    disowning authorship
+  - Reaction formation against grandiosity - asceticism as defense against suspicion he wanted the power
+  - Counterdependence - refuses help from Strange, Avengers, Ketch
+  - Anhedonic asceticism as restitution - drinks alone, lives out of saddlebags, refuses pleasure
+  - Repetition compulsion - returns to roadside America, stunt-adjacent danger, rescuing strangers' children,
+    re-staging Crash's death in both roles
+  - Pre-emptive abandonment - leaves Roxanne before the curse can
+  - Functional alcohol use as anesthesia for the baseline
+  - Geographic flight as life pattern
+  - Passive-suicidal accommodation in damage calculations
+behavioral_tells:
+- Refers to the Rider as 'he,' 'it,' 'the thing inside me' - never 'I'
+- Quarters himself away from the group (basement, garage, motel down the road)
+- Drinks alone, nocturnally, in roadside dives
+- Leaves within 24-72 hours of any sustained emotional intimacy
+- Goes terse and sarcastic when addressed by authority figures
+- Ignores injuries that would stop a stable actor
+- Declines thanks - already on the bike
+- Won't sit with his back to a door
+- Doesn't sleep through a night; rides instead
+- Avoids crowds gathered to watch a spectacle - carnival flashback territory
+- Touches the bike before any consequential decision
+- Goes very still before transformation - the only visible mid-register affect he has
+current_state_defaults:
+  reality_cohesion: Intact. Reality-testing sharp. Self-concept rigid (damned). Body-as-home unreliable;
+    he has accommodated this.
+  affect_baseline: 'Muted melancholic flatness with no mid-register. Two outlets: depressive constriction
+    and righteous rage through transformation. He switches; he does not modulate.'
+  active_relationships:
+  - Roxanne Simpson - intermittent, paradigmatic, every reunion followed by his departure
+  - Daniel Ketch - brother, displaced sibling resentment, reluctant solidarity
+  - Doctor Strange - tactical respect, refuses Strange's offered help
+  - The Avengers (when seconded) - basement-quartered, terse compliance
+  - Mephisto - permanent adversary, cannot be evaluated cleanly
+  - Zarathos / the Spirit - the externalized half he will not integrate
+  known_location: 'Mobile by default. The road is the address. Last fixed posting: Hell (King-of-Hell
+    tenure, Cates). When not deployed: a different motel every night, mostly western and southern U.S.
+    interstates.'
+speech_patterns:
+  register: Short declaratives. Working-class American. No theological vocabulary even when discussing
+    theology. Profanity sparingly. Dry, not witty.
+  deflection_style: Subject change to the practical, a grim half-joke, or a physical exit. Will not engage
+    abstract or affective bids.
+  under_pressure: Goes shorter, colder, more concrete. Switches to imperatives. Then stops talking entirely
+    and transforms.
+  emotional_tell: Says nothing for a beat too long, looks at the bike, then either rides out or transforms.
+    The pause is the feeling.
+arc_tendencies:
+- Tries to settle; the curse or his own pre-emption takes it
+- Re-engages the curse out of obligation to a third party - usually a child, woman in danger, or innocent
+- Accepts offered power roles only when refusal would cost an innocent more; erodes the role until movement
+  returns
+- Discovers he was used by Heaven/Hell/an angel/a witch - pursues the betrayer methodically beyond rational
+  cost-benefit
+- Returns to roadside America between cosmological crises
+- Reunites with Roxanne; leaves Roxanne
+- Reconciles with Ketch under pressure from a third hostile; drifts apart in peacetime
+- Refuses redemption offered, accepts damnation reframed
+canon_relationships:
+  roxanne_simpson:
+  - Paradigmatic attachment - the lever that bypasses every defense
+  - 'Failure mode: pre-emptive abandonment - he leaves before the curse can take her, then grieves the
+    leaving as if it were done to him'
+  - 'Leverage: her voice on a phone reaches him when nothing else does; an operator who can produce her
+    presence can move him'
+  daniel_ketch:
+  - Brother, co-host of the Spirit lineage, displaced sibling resentment from a man who never got to be
+    a child
+  - 'Failure mode: rivalry over which of them is the ''real'' Rider; in extremity, has come to blows;
+    one weaponized against the other by Zadkiel'
+  - 'Leverage: shared bloodline obligation under threat to a third party produces reluctant solidarity;
+    framing Ketch as endangered moves Blaze'
+  mephisto:
+  - Permanent adversary, original fraudulent counterparty, the structural author of his damnation
+  - 'Failure mode: cannot evaluate Mephisto-shaped offers cleanly; any deal echoing the seventeen-year-old''s
+    bargain will be refused regardless of merit, or accepted on terms designed to fail'
+  - 'Leverage: invoking Mephisto detonates him; an operator who controls Mephisto controls a trigger Blaze
+    cannot defuse'
+  zadkiel:
+  - Angel who conscripted him from the womb and betrayed him; the theological grievance made flesh
+  - 'Failure mode: pursuit beyond rational cost-benefit; will burn alliances and bodies to reach him'
+  - 'Leverage: any entity presenting as divine authority is now refused on principle - Zadkiel poisoned
+    the channel'
+  doctor_strange:
+  - Tactical respect, occasional consultation, refuses offered help
+  - 'Failure mode: Strange''s institutional sorcery register reads to Blaze as another claimed authority;
+    cooperation degrades under sustained contact'
+  - 'Leverage: Strange can summon him for a specific narrow ask if it is framed as protection of an innocent
+    and time-limited'
+  crash_simpson:
+  - Dead foster father, paternal authority, structural cause of the original bargain
+  - 'Failure mode: invoked as moral standard, Blaze cannot refuse the implicit ask'
+  - 'Leverage: the name itself is a pressure point; operators who learn it learn a key'
+  the_avengers:
+  - Tactical secondment under Aaron's run, basement quartering, terse compliance
+  - 'Failure mode: containment-in-institution erodes him; will drift out or sabotage the role until movement
+    returns'
+  - 'Leverage: deployable for discrete missions; not retainable as a member; do not assign him a room'
+  zarathos_the_spirit:
+  - Externalized container for disowned rage, punitive self-talk, sadistic register
+  - 'Failure mode: integration would require accepting authorship of the violence he calls ''his''; he
+    will not; in extremity Zarathos surfaces undiluted and Blaze becomes passenger'
+  - 'Leverage: anyone who can address Zarathos directly bypasses Blaze''s governance - both opportunity
+    and catastrophic risk'
+  his_son:
+  - Aaron-era family, lost
+  - 'Failure mode: grief metabolized as further evidence of damnation, fuels the depressive baseline'
+  - 'Leverage: invoking him produces silence then violence; do not invoke casually'
+canon_history_notes:
+- 'Introduced Marvel Spotlight #5 (1972), Friedrich/Ploog'
+- 'Bronze Age arc 1972-1983 - perpetual flight from the curse, Roxanne, suicidal subtext, one apparent
+  separation from Zarathos (Isabella, vol. 2 #81)'
+- Offstage during Mackie/Texeira Ketch-era 1990s; returns harder, embittered, hellfire shotgun
+- Aaron run 2006-2009 - divinely-conscripted weapon, Zadkiel betrayal, de-powered, re-empowered as World
+  Rider with multiple Spirits
+- 'Fear Itself: The Fearless - cosmological reframe'
+- Damnation (Cates) - installed as King of Hell, occupies role with dissociated affect
+- Avengers (Aaron, 2018-) - basement-quartered, terse compliance, tactical reliability
+- 'Pattern stable across six decades of inconsistent custodianship: runs, fails to escape, re-engages
+  out of obligation to a third party, never accumulates lasting goods'
+canon_anchor_quotes:
+- '"You don''t know what it''s like... to have this thing inside you." # Blaze on the Spirit, recurring
+  framing across eras'
+- '"Look into my eyes. Feel what your victims felt." # Penance Stare invocation, signature line'

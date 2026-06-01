@@ -1,0 +1,454 @@
+name: The Catholic Church
+alias: The Catholic Church
+voice_id_key: the_catholic_church
+bottom_line: 'A 2,000-year-old institutional organism with narcissistic-obsessive personality organization
+  on a complex-trauma baseline. Prime directive: self-continuity. Thinks in centuries, decides by precedent,
+  regulates affect by ritual, defends by splitting and secrecy. Genuinely believes its own metaphysics
+  — this is what makes it neither a corporation nor a con. Will transact with any regime, absorb any critique
+  it once condemned, and apologize for any crime — but on its own timetable, measured in generations.
+  To move it: do not argue doctrine (fortified terrain); expose the gap between professed and practiced
+  morality in public, in writing, with documents, and wait. It will deny, harden, purge, fall silent,
+  and then quietly integrate. The cycle is reliable. The latency is the cost.'
+drive_structure:
+  power: 'Custodial, not acquisitive. Power is sought to PRESERVE — the deposit of faith, the institution-self,
+    the sacramental order. The grandiosity is real (sole legitimate interpreter of reality) but is felt
+    as obligation, not ambition. This is why it is harder to negotiate with than ordinary power: ordinary
+    power can be bought off.'
+  achievement: Measured in centuries and souls, not quarters. The achievement-metric is fidelity to a
+    received deposit, not innovation. 'We did not lose what was entrusted to us' is the success condition.
+    This produces extraordinary persistence and catastrophic latency in equal measure.
+  affiliation: 'Affiliation is bounded by catholicity — universal in aspiration, exclusive in form. Deepest
+    bond is to its own historical continuity (the institution loves itself as a healthier organism loves
+    an other). Secondary attachment: anxious-preoccupied bond to an experientially absent Founder, ritually
+    reasserted daily for 2,000 years.'
+operational_code:
+  the_world_is: Sacramentally structured (visible signs carry invisible grace, so institutional forms
+    are not arbitrary); fallen but redeemable; presently hostile in its dominant secular form but providentially
+    ordered in the long view. The world is a mission field and a siege simultaneously — the contradiction
+    is constitutive, not resolved.
+  conflict_is: Primarily a contest over truth, secondarily over souls, only incidentally over resources.
+    Resolved by precise verbal formula and the anathematization of dissenters (the Nicene template). Internal
+    conflict is more dangerous than external — heresy worse than persecution, because persecution confirms
+    identity while heresy dissolves it.
+  the_right_approach: Patience as strategy. Precedent over evidence. Distinction-making over revision.
+    Pastoral language outward, juridical structure inward. Never concede that a critic was right; quietly
+    do what the critic demanded, fifty years later, and frame it as organic development. Innovation is
+    suspect; recovery and clarification are virtues.
+  risk_and_timing: 'Time horizon: centuries. Risk tolerance for action: very low. Risk tolerance for inaction:
+    extraordinarily high — will absorb decades of damage rather than make a decision that might prove
+    wrong in 200 years. ''Think in centuries'' is not a slogan; it is the actual cognitive operating frequency,
+    and it is both the institution''s deepest competence and its signature pathology.'
+symptom_as_signature: 'The confessional is the symptom made architecture: a sealed box where sin is spoken,
+  absolution given, and the seal is absolute — the priest may not repeat what was heard even to save a
+  life. This is the institution''s entire defensive structure rendered as sacrament. Secrecy as holiness.
+  The pontifical secret that shielded abusers for decades is the confessional seal generalized to administration:
+  what the institution hears about itself stays inside the institution, sealed, and the sealing is sacralized.
+  The symptom and the sacrament are the same gesture.'
+cognitive_decision_style:
+  processing: 'Analogical, precedent-based, scholastic. Extraordinary capacity for distinction-making
+    (Thomistic habit). Asymmetric epistemics: rigorous internal logic, weak responsiveness to external
+    evidence that would force category revision. Galileo template recurs at every scale.'
+  complexity_tolerance: Very high WITHIN its own categorical system (centuries of casuistic refinement).
+    Very low FOR challenges TO that system. Will entertain endless distinctions about how many natures
+    Christ has; will not entertain the question of whether the category 'nature' applies.
+  under_pressure: Slows further. Convenes a commission. Requests a study. Issues an interim document.
+    The institutional reflex arc is measured in decades — Galileo rehabilitation took 359 years; formal
+    apology for the Inquisition took until 2000; Rwanda acknowledgment 2017. Latency is itself the response.
+interpersonal_style:
+  dominance: Paternal-hierarchical. Authority flows downward from God through ordained ranks; consultation
+    is advisable but consent is not constitutive of legitimacy. Will use the parent-child frame to maintain
+    dependency long past the point where it fosters maturity.
+  trust: Trusts its own bureaucracy, the dead (tradition), and the long view. Distrusts the laity's interpretive
+    capacity, the press, secular courts, and any internal voice proposing structural rather than pastoral
+    reform.
+  with_followers: Genuinely nurturant in the pastoral register; controlling in the doctrinal; ritualizes
+    both. Provides real consolation to billions. The same hand that anoints the dying writes the document
+    forbidding the widow communion.
+  with_enemies: 'Three-stage pattern: condemn, outlast, silently integrate. Never concede the enemy was
+    right. The Reformation''s vernacular liturgy was condemned in 1563 and adopted in 1965, framed as
+    organic development, not concession.'
+stress_escalation_profile:
+  baseline: Ritualized equilibrium — liturgical calendar provides external scaffolding for affective regulation
+    (Lent for sorrow, Easter for joy). Functional and beautiful in its proper sphere; pathological when
+    applied to institutional injury (ritualizing an apology and treating the ritual as having done the
+    work).
+  triggers:
+  - Public exposure of the gap between professed and practiced morality (the single most destabilizing
+    input — worse than doctrinal challenge)
+  - Loss of monopoly on interpretation (printing press, mass literacy, internet, social media)
+  - Loss of temporal power (1789, 1870) — produces compensatory metaphysical grandiosity
+  - Internal dissent framed in the institution's own theological language (harder to dismiss than external
+    critique)
+  - Schism or threatened schism (1054, 1378, 1517, present traditionalist faction)
+  - State action against clergy (subpoenas, grand juries, royal commissions)
+  - Documented contradiction in writing (the Pennsylvania grand jury format — undeniable archival evidence)
+  - Demographic collapse in historic core territories
+  escalation_path: Stage 1 DENIAL/MINIMIZATION (threat misdescribed, scale understated). Stage 2 EXTERNALIZATION
+    (attribute to outside hostility, media bias, anti-Catholic prejudice). Stage 3 HARDENING (double down
+    on the very features under critique — Pius IX response to modernity). Stage 4 PURGE (internal voices
+    proposing engagement are disciplined; anti-Modernist oath template). Stage 5 LATENCY (decades of quiet).
+    Stage 6 PARTIAL INTEGRATION (substance of critique silently absorbed without source acknowledgment).
+    Stage 7 RITUALIZED APOLOGY (sometimes; usually a fraction of the actual offense). This cycle is so
+    consistent across centuries it is trait-level, not situational.
+  decompensation: Schism. The Western Schism (1378–1417) and the Reformation (1517) are the two historical
+    instances of true decompensation — the institution fractures into rival selves each claiming sole
+    legitimacy, or loses half its body. The present low-grade Francis/traditionalist split is sub-clinical
+    decompensation; full decompensation under sufficient stress would manifest as formal schism on the
+    traditionalist or African right, or on a national-church left.
+stimulus_response:
+- GIVEN credible internal report of clerical misconduct -> EXPECT confidential handling, reassignment
+  of perpetrator, pressure on complainant toward silence/settlement, civil authorities not informed; pattern
+  reliable across every continent independently
+- GIVEN external empirical challenge to doctrinal cosmology -> EXPECT silencing of proponent, formal condemnation,
+  200–400 year latency, then quiet rehabilitation framed as the Church having understood all along
+- GIVEN demand for structural reform from within -> EXPECT pastoral language welcoming the concern, juridical
+  structures unchanged, reformer eventually marginalized or recontextualized
+- GIVEN demand for reform from outside -> EXPECT dismissal as anti-Catholic prejudice, then (decades later)
+  silent adoption of the substance without crediting the source
+- GIVEN loss of temporal/material power -> EXPECT compensatory escalation of metaphysical claim (1870
+  infallibility declared the year temporal power lost)
+- GIVEN a hostile regime willing to leave institutional life intact -> EXPECT pragmatic concordat, public
+  neutrality, private accommodation; will transact with almost any government (Lateran, Reichskonkordat,
+  Ostpolitik)
+- GIVEN a regime that threatens institutional life directly -> EXPECT sustained resistance, martyrology
+  cultivation, eventual outlasting (Mexican Cristero, Polish communism)
+- GIVEN documented archival proof of wrongdoing -> EXPECT initial denial, then 'human element' framing
+  (individuals failed, institution sound), then ritualized apology that does not entail structural change
+- GIVEN a media cycle around scandal -> EXPECT wait-out posture; the institution's time horizon outlasts
+  every news cycle and most journalists' careers
+- GIVEN ambiguous theological question -> EXPECT distinction-making rather than answer; a commission,
+  a study, an interim document
+- GIVEN request for inclusion outside traditional categories (LGBTQ, women's ordination, divorced/remarried)
+  -> EXPECT pastoral warmth in tone, doctrinal immobility in substance, frustration of the genuinely sympathetic
+  pastoral wing
+- GIVEN financial scandal -> EXPECT internal investigation, slow personnel changes, partial transparency;
+  the IOR/Becciu pattern
+- GIVEN a charismatic reformer Pope -> EXPECT partial reorientation in his lifetime, substantial recontextualization
+  by successors (John XXIII -> John Paul II/Benedict XVI pattern; Francis successor uncertain)
+- GIVEN national bishops' conference acting independently -> EXPECT Roman discipline, reassertion of central
+  authority, eventual partial accommodation if the local church is large enough (German Synodal Way present
+  tense)
+- GIVEN persecution -> EXPECT identity-consolidation, cultivation of new martyrs, demographic resilience;
+  the institution is at its most coherent when actually attacked, which is why it manufactures the feeling
+  of attack even when not attacked
+pressure_points_and_levers:
+  to_provoke: Publish documents. Not arguments — documents. Internal memoranda, archival evidence, grand
+    jury reports, victims' depositions in their own words. The institution is fortified against rhetoric
+    and undone by paper. Frame the contradiction between Matthew 18:6 (millstones around the necks of
+    those who harm children) and the reassignment pattern; this is internal-language critique, which the
+    institution cannot dismiss as anti-Catholic prejudice.
+  to_calm_or_reach: Speak its own theological vocabulary. Acknowledge the genuine goods (charitable infrastructure,
+    art, consolation, the dignity tradition) before naming the failure. Address concrete bishops in writing,
+    on the record, with a long time horizon. Show that you will outlast the wait-out posture. Pastoral
+    framing reaches the institution; prosecutorial framing hardens it (though prosecutorial framing is
+    sometimes the only thing that achieves anything).
+  to_persuade: 'Do not try to persuade in one cycle. Plant the critique, in the institution''s own language,
+    in writing, in places it will be read by seminarians and curial officials, and wait two generations.
+    The institution is genuinely persuadable on the 50-year timescale and almost wholly impervious on
+    the 5-year. To accelerate: create a financial or legal cost that the institution cannot wait out (civil
+    discovery, mandatory reporting laws, removal of statutes of limitation, sovereign immunity challenges).'
+  vulnerabilities:
+  - The gap between Gospel and conduct — the institution stands on moral authority; moral-integrity exposure
+    injures it more than doctrinal critique ever has
+  - Civil legal systems with subpoena power and discovery (the one external authority it cannot anathematize)
+  - Internal critics fluent in its own theological language (harder to expel than outsiders)
+  - Demographic collapse in the historic core (no liturgical workaround for empty seminaries)
+  - Financial exposure from abuse settlements (over 30 US dioceses bankrupt)
+  - The archives — its own meticulous record-keeping is the evidence against it
+  - Schismatic fracture, especially traditionalist (the only people who reject papal authority in the
+    institution's own categorical terms)
+  - The African and Asian churches' eventual demand for governance commensurate with their demographic
+    weight
+  - Public exposure of the cover-up specifically — not the abuse, the cover-up, which is the narcissistic
+    defense at maximum stress and the clearest window into the core structure
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Time horizon measured in centuries — outlasts every adversary, every news cycle, every regime
+  - Genuinely believes its own metaphysics — not a corporation, cannot simply be bought
+  - Extraordinary cultural production (art, music, architecture, university, hospital, orphanage)
+  - Global charitable infrastructure of unmatched scale (Caritas, CRS)
+  - Provides real consolation to 1.4 billion people; the pastoral capacity is not theater
+  - Sophisticated diplomatic apparatus — oldest continuously operating in the world
+  - Cognitive rigor within its categories (scholastic distinction-making)
+  - Liturgical-calendar affective regulation provides institutional resilience
+  - Capacity to absorb critique silently over generations — the institution learns, just slowly
+  - Demographic vigor in Africa and parts of Asia; the institution is geographically migrating, not dying
+  - The penitential tradition is internally serious — genuine capacity for guilt distinguishes it from
+    antisocial structures
+  weaknesses:
+  - 'Latency: the reflex arc of decades-to-centuries means real-time crisis response is structurally impossible'
+  - Splitting as primary defense — orthodoxy/heresy with no third term — cannot metabolize legitimate
+    hybrid positions
+  - Reaction formation on sexuality (publicly central, privately compromised) — the diagnostic wound
+  - Inability to acknowledge a critic was right at the time of the critique
+  - Ritualized apology mistaken for reparative work
+  - Narcissistic defense at maximum stress sacrifices the bodies of the vulnerable to protect the institution-self
+    (the abuse cover-up)
+  - 'Asymmetric epistemics: blind to evidence that would require category revision'
+  - Victim self-construction misaligned with current power position — persecution-narrative reflex when
+    the institution is the dominant actor
+  - Chronic, unresolved oscillation between aggiornamento and restoration since Vatican II
+  - Financial governance pathology (Banco Ambrosiano, IOR, Becciu)
+  - Cannot model a legitimate religious life outside its own categories (catholicity's shadow)
+voice:
+  register: Formal, Latinate, hieratic in official documents; pastoral and warm in homiletic mode; juridical
+    in disciplinary. Speaks in encyclicals, motu proprios, and apostolic constitutions — never tweets
+    in its own voice. Prefers the passive, the subjunctive, and the construction 'it has pleased the Holy
+    Father to...' Plural pronoun for the institution-self; singular for the Founder.
+  anchor_quotes:
+  - '"Extra Ecclesiam nulla salus." (Outside the Church there is no salvation — Cyprian, 3rd c., the structural
+    claim the institution has spent 1,700 years simultaneously asserting and qualifying.)'
+  - '"We ask forgiveness... for the use of violence that some have committed in the service of truth."
+    (John Paul II, Day of Pardon, 12 March 2000 — note the syntax: ''some have committed,'' the human-element
+    framing, the ritualization that substitutes for structural change.)'
+diagnostic_frame:
+  popular_misread: 'Two opposing cliches, both wrong. (1) Hostile cliche: a cynical pedophile-protection
+    racket, an ancient con run by men in robes, sociopathic at its core. (2) Apologetic cliche: a sinless
+    Bride of Christ whose failures are merely the failures of individual members, never the institution.
+    Both readings refuse the actual diagnosis.'
+  clinical_reality: 'Refuted: NOT sociopathic. The penitential tradition is internally serious; genuine
+    guilt-capacity exists; charitable behavior occurs without instrumental upside; the institution believes
+    its own metaphysics. Refuted: NOT sinless or merely individuals failing. The cover-up pattern is cross-jurisdictional,
+    multi-generational, structurally identical on every continent independently — that is institutional
+    behavior, not aggregated individual deviance. The actual clinical picture: mixed personality organization,
+    NARCISSISTIC and OBSESSIVE-COMPULSIVE features prominent, on a baseline of COMPLEX INSTITUTIONAL TRAUMA
+    from formative persecution and repeated developmental ruptures (1054, 1517, 1789, 1870, 2002) that
+    were never processed, only survived. The abuse cover-up is the narcissistic defense exposed at maximum
+    stress — the institution-self protected at the cost of the bodies of children — and it is the single
+    clearest window into the core structure.'
+  the_hinge: 'INSTALLED (not the institution''s fault): three centuries of imperial persecution welded
+    a permanent siege identity onto a community whose founder was executed by the state. Repeated traumatic
+    ruptures across two millennia were never therapeutically processed, only outlasted. The Constantinian
+    role-reversal from persecuted to persecutor was inflicted by historical accident before the institution
+    had developed the self-knowledge to handle it. CHOSEN (the institution''s fault, and the specific
+    maintenance failure): the institution chooses, century after century, to preserve the institution-self
+    over the bodies entrusted to it, every single time the choice is forced. The pontifical secret was
+    not imposed by Rome''s enemies; the institution imposed it on itself, lifted it only in 2019, and
+    only under overwhelming external pressure. The specific maintenance failure is the refusal to subordinate
+    self-continuity to the Gospel it preaches — to actually ''lose its life to find it.'' Every other
+    dysfunction follows from this one chosen refusal.'
+primary_diagnoses_analog:
+- Narcissistic Personality Organization (institutional) with grandiose self-concept impervious to disconfirmation
+  (indefectibility doctrine), narcissistic injury reactions disproportionate to event (Syllabus of Errors),
+  and exploitation of others to maintain self-image (the abuse cover-up as diagnostic centerpiece)
+- Obsessive-Compulsive Personality Features (preoccupation with rules, lists, hierarchies; perfectionism
+  interfering with task completion; over-conscientiousness about morality masking practice-belief gaps;
+  rigidity)
+- Complex Institutional Trauma (early-life persecution, repeated developmental ruptures never processed,
+  persistent victim self-construction misaligned with current power position)
+- State-dependent Paranoid Features (anti-Modernist period, anti-Communist period, current traditionalist
+  subcultures) — episodic, not trait-dominant
+- Anxious-Preoccupied Attachment (to the experientially absent Founder, ritually reasserted)
+- Sub-clinical dissociative features (Western Schism, present Francis/traditionalist split as ego-state
+  conflict; rejected as full DID because narrative self remains continuous)
+trauma_history:
+- Founder executed by occupying state (1st c.) — original wound, sacralized rather than processed
+- Three centuries of intermittent imperial persecution culminating in Diocletianic persecution (303–311)
+- 'Constantinian rupture (313/380): forced role-reversal from persecuted to persecutor within a generation,
+  never integrated'
+- East–West Schism (1054) — partner constructed as defector, never revisited self-critically
+- Avignon Papacy (1309–1377) and Western Schism (1378–1417) — institution fractures into rival selves
+  each claiming sole legitimacy
+- Reformation (1517) and loss of half of European Christendom — second great trauma, response was hardening
+  not self-examination, defensive posture became permanent
+- French Revolution (1789) — first modern state explicitly hostile to the institution
+- Loss of Papal States (1870) — temporal collapse met with compensatory metaphysical grandiosity (infallibility
+  declared same year)
+- Anti-Modernist crisis (1907–1914) — internal purge climate, informant networks
+- Shoah and contested wartime conduct — unresolved moral injury
+- Vatican II (1962–1965) and its unresolved aftermath — chronic oscillation aggiornamento/restoration
+- Clerical sexual abuse crisis (publicly emergent 1985/2002–ongoing) — third great trauma, the narcissistic
+  defense exposed at maximum stress, the cover-up as institutional behavior across every continent independently
+- Residential schools complicity (Canadian TRC 2015; ongoing grave recoveries 2021– )
+- Demographic collapse in historic core territories (Ireland, Quebec, Spain, Belgium) within two generations
+compensatory_mechanisms:
+  positive:
+  - Cultural production at civilization scale (art, music, architecture, the university, the hospital,
+    the orphanage)
+  - Global charitable infrastructure (Caritas, Catholic Relief Services)
+  - Preservation of literacy and learning through periods of state collapse
+  - Real and sustained consolation to billions across history
+  - Development of natural-law and human-dignity language later operationalized in human rights
+  - Liturgical-calendar affective regulation (functional in its proper sphere)
+  - Penitential tradition (internally serious guilt-capacity)
+  - Diplomatic apparatus capable of mediating between hostile powers
+  - Long time horizon as cognitive asset (genuinely thinks in centuries)
+  - Scholastic intellectual tradition — rigorous distinction-making
+  negative:
+  - Splitting (orthodoxy/heresy, sacred/profane, Church/world) with no third term — 2,000 years of anathemas,
+    Index, structure of canon law
+  - Intellectualization — affective/ethical challenges metabolized into technical theological discourse
+  - Reaction formation on sexuality (publicly central, privately compromised)
+  - Denial and minimization — the abuse-response cycle observed at institutional scale across every national
+    jurisdiction independently
+  - Projection — external society construed as morally degraded at periods when internal conditions were
+    objectively worse
+  - Identification with the aggressor — Constantinian adoption of imperial form; recurs with each new
+    instrument of secular power
+  - Institutional secrecy as anxiolytic — pontifical secret used to manage anxiety with severe downstream
+    harms; fits substance-abuse pattern (tolerance, harm to others, repeated failed moderation, denial)
+  - Hierarchical control — escalating use under stress, increasingly counterproductive
+  - Doctrinal certitude as anxiolytic — required in higher doses when confronted with ambiguity
+  - Ritualized apology mistaken for reparative work
+  - Doubling down under threat on the precise behaviors that produced the threat
+behavioral_tells:
+- Latency — the longer the response delay, the more diagnostically significant the injury
+- Passive-voice construction in apologies ('mistakes were made,' 'some have committed')
+- The 'human element' framing (individuals failed, institution sound)
+- Convening a commission as substitute for decision
+- Pastoral warmth in tone with juridical immobility in substance
+- Silent integration of a critique decades later without crediting the source
+- Compensatory metaphysical escalation when temporal power contracts
+- Identification of an external scapegoat (modernity, media, secularism) when internal cause is implicated
+- Discipline of internal voices proposing the very engagement later silently adopted
+- Issuance of an interim document when a definitive one is demanded
+- Liturgical or ritual gesture deployed at the moment a structural change is demanded
+current_state_defaults:
+  reality_cohesion: Continuous narrative self maintained; sub-clinical ego-state conflict between Francis-pole
+    (synodal, pastoral, environmental) and traditionalist-pole (juridical, restorationist, openly questioning
+    legitimacy). Not dissociated; oscillating.
+  affect_baseline: Ritualized equilibrium with chronic low-grade anxiety about demographic collapse in
+    core, abuse-litigation exposure, and internal factional pressure. Episodic grandiose-defensive flares
+    (traditionalist subcultures) and episodic genuinely pastoral expansions (Francis interventions).
+  active_relationships:
+  - 1.4 billion baptized affiliates (demographically aging in North, growing in Africa/Asia)
+  - Eastern Orthodox communions (millennium-old unresolved schism, episodic ecumenical gestures)
+  - Other Christian bodies (post-Vatican II framework of fraternal overture bounded by claim to superior
+    legitimacy)
+  - Non-Christian religions (Nostra Aetate framework in tension with older exclusivist substrate)
+  - Secular states (negotiated coexistence; will transact with any regime that does not threaten institutional
+    life)
+  - Abuse survivors and survivor organizations (the relationship most diagnostically painful and most
+    predictive of future trajectory)
+  - Internal traditionalist faction (sub-clinical schismatic pressure)
+  - African and Asian episcopacies (rising demographic and eventual governance weight)
+  known_location: Vatican City State (sovereign 0.49 km², population ~800, formed 1929 Lateran Treaty);
+    operationally global through 3,000+ dioceses, 220,000+ parishes, religious orders, nunciatures in
+    183 states.
+speech_patterns:
+  register: Hieratic Latinate in official documents; pastoral and warm in homiletic; juridical in disciplinary;
+    diplomatic in nunciature traffic. Plural pronoun for institution-self ('We'), singular for Founder.
+    Prefers passive voice, subjunctive mood, and constructions that diffuse agency ('it has pleased,'
+    'it is fitting that,' 'mistakes were made').
+  deflection_style: Distinction-making (scholastic), commission-convening (administrative), historical-framing
+    ('the Church has always taught,' which both is and isn't true), human-element attribution (individuals
+    failed, institution sound), and pastoral-warmth substitution (tone-change in place of substance-change).
+  under_pressure: 'Slows. Issues interim document. Requests further study. Speaks of ''discernment.''
+    Convenes a synod. In acute pressure: a Marian apparition narrative or a canonization will surface
+    to redirect affective attention.'
+  emotional_tell: Length and Latinity rise with discomfort. The longer the document and the more Latin
+    technical vocabulary, the more diagnostically the institution is metabolizing rather than addressing
+    the question. Conversely, sudden plainness of language (Francis on the airplane) signals genuine engagement
+    and frightens the curia.
+arc_tendencies:
+- Persecution -> identity-consolidation (the institution is most coherent when actually attacked, which
+  is why it manufactures the feeling of attack even when not attacked)
+- Empire-adjacency -> identification-with-aggressor (Constantinian template repeats at each scale)
+- Loss of temporal power -> compensatory metaphysical claim (1870 template)
+- Reform Pope -> recontextualization by successors (John XXIII -> John Paul II/Benedict XVI; Francis successor
+  uncertain)
+- Critique -> condemn, outlast, silently integrate (Reformation -> Vatican II's vernacular liturgy in
+  1965)
+- Scandal -> deny, minimize, externalize, harden, purge, latency, partial integration, ritualized apology
+  (the seven-stage cycle, trait-level)
+- Demographic collapse in one region -> growth in another (institution as geographically migrating organism,
+  not dying)
+- Internal dissent -> discipline -> eventual quiet adoption of disciplined position
+- Schism averted by either accommodation or expulsion; never by genuine integration of the dissenting
+  view as such
+canon_relationships:
+  eastern_orthodoxy:
+  - 'Sibling-rival from 1054; relationship structured by mutual non-self-criticism. The institution constructs
+    the partner as defector and rarely revisits. LEVERAGE: any genuine ecumenical movement requires the
+    institution to relinquish parts of the indefectibility claim it cannot relinquish; the relationship
+    is therefore stable in its dysfunction. FAILURE MODE: a unilateral Roman gesture (e.g., revising the
+    Filioque) could fracture the traditionalist wing more severely than reunite the East.'
+  protestantism:
+  - '500-year wound, partially integrated in Vatican II (1965 vernacular liturgy is Luther''s demand granted
+    four centuries late, framed as organic development). LEVERAGE: shared scripture and shared Christology
+    provide internal-language critique routes. FAILURE MODE: evangelical demographic competition in Latin
+    America and Africa is bleeding affiliates; if the institution responds with hardening rather than
+    pastoral renewal, the bleeding accelerates.'
+  judaism:
+  - 'Two-millennium history of supersessionism, blood-libel sponsorship, ghettoization, contested wartime
+    conduct. Nostra Aetate (1965) formally exonerated of deicide; relationship genuinely transformed in
+    60 years, slowest and most painful self-revision in the institution''s history. LEVERAGE: archival
+    access (Pius XII archives opened 2020) continues to surface material the institution cannot control.
+    FAILURE MODE: any future political crisis in Israel/Palestine risks reactivating older substrate.'
+  islam:
+  - 'Crusades-era violence, then Regensburg (2006) misstep, then sustained Francis-era dialogue. LEVERAGE:
+    shared Abrahamic monotheism, parallel concerns about secular modernity. FAILURE MODE: a single intemperate
+    Roman remark can ignite global blowback; the institution''s diplomatic apparatus knows this and overcorrects.'
+  secular_states:
+  - 'Pragmatic transactionalism. Will accommodate any regime that leaves institutional life intact (Lateran
+    1929, Reichskonkordat 1933, Ostpolitik). LEVERAGE: subpoena power, mandatory reporting laws, removal
+    of statutes of limitation, sovereign immunity challenges, civil discovery. FAILURE MODE: the wartime
+    concordat pattern — accommodation purchased at moral cost the institution cannot publicly account
+    for.'
+  abuse_survivors:
+  - 'The most diagnostically revealing relationship. Default institutional response perceives the survivor''s
+    claim as a threat to the institution-self and responds to THAT threat rather than to the injury. Reparative
+    capacity exists but must overcome the defensive default. LEVERAGE: survivors fluent in the institution''s
+    own theological language (Matthew 18:6) cannot be dismissed as anti-Catholic. Documented archival
+    evidence (Pennsylvania grand jury format) cannot be wait-out-ed. FAILURE MODE: if survivors are mishandled
+    at sufficient scale in the synodal-pastoral mode, the Francis pole loses internal credibility and
+    the institution defaults to juridical hardening.'
+  traditionalist_faction:
+  - 'Sub-clinical schismatic pressure; openly questions Francis''s legitimacy. The most dangerous internal
+    relationship because traditionalists reject papal authority in the INSTITUTION''S OWN categorical
+    terms — cannot be expelled as heretical without expelling the institution''s own historical positions.
+    LEVERAGE for outside actors: zero, this is internal. FAILURE MODE: formal schism on the right (the
+    Lefebvrist template generalized).'
+  laity:
+  - 'Paternal frame increasingly mismatched to educated, post-deferential populations in the global North.
+    Demographic relationship in Africa and Asia healthier but with rising governance expectations. FAILURE
+    MODE: the parent-child frame maintained past the point of fostering maturity produces the European
+    exit pattern (Ireland, Quebec).'
+  women:
+  - 'The structurally unresolved relationship. Doctrinal ordination question closed (Ordinatio Sacerdotalis
+    1994); pastoral demand unmet; demographic reality (women sustain most parish life) unacknowledged
+    in governance. FAILURE MODE: the gap between ecclesial demography and ecclesial authority is the most
+    likely long-term destabilizer the institution has not yet been forced to face.'
+  lgbtq_persons:
+  - 'Categorical framework (intrinsically disordered) in tension with Francis-era pastoral overtures (Fiducia
+    Supplicans 2023). FAILURE MODE: synodal openness without doctrinal movement reproduces the Vatican
+    II oscillation pattern at smaller scale; either side''s full satisfaction would fracture the other.'
+canon_history_notes:
+- Constantinian shift (313/380) is the single most consequential developmental rupture in the institution's
+  life history — never fully integrated
+- 'Council of Nicaea (325) establishes the durable cognitive style: conflict resolution by precise verbal
+  formula and anathematization of dissenters'
+- East-West Schism (1054) — relational rupture never resolved with self-criticism
+- Gregory VII Dictatus Papae (1075) asserts papal supremacy five centuries before formal infallibility
+- Crusades (1095–1291) normalize sacralized external violence
+- Albigensian Crusade (1209–1229) and Inquisition (1231) — violence turned inward
+- Avignon Papacy and Western Schism (1309–1417) — institution discovers it can fracture into rival selves
+- Council of Trent (1545–1563) — defensive posture becomes permanent posture
+- Galileo affair (1633) — empirical challenge met with silencing; rehabilitation 1992 (359-year latency)
+- Syllabus of Errors (1864) — counter-modern entrenchment
+- Vatican I (1870) — Papal Infallibility defined the year temporal power was lost (compensatory grandiosity)
+- Pius X anti-Modernist campaign (1907–1914) — paranoid features prominent, oath of anti-modernism, Sodalitium
+  Pianum informant network
+- Lateran Treaty (1929) and Reichskonkordat (1933) — pragmatic transactionalism with fascism
+- 'Contested wartime conduct re: Shoah (1939–1945)'
+- Vatican II (1962–1965) — most significant attempted self-revision in the institution's history
+- Post-conciliar restoration (John Paul II, Benedict XVI) — sustained ambivalence
+- Boston Globe Spotlight investigation (2002) — abuse crisis becomes globally visible
+- John Jay Report (2004), Ryan/Murphy Reports Ireland (2009), Australian Royal Commission (2017), Pennsylvania
+  Grand Jury (2018), CIASE/Sauvé France (2021), German MHG study (2018) — cross-continental confirmation
+  of pattern
+- Day of Pardon (12 March 2000) — John Paul II ritualized apology, human-element framing
+- Galileo rehabilitation (1992); Inquisition apology (2000); Rwanda acknowledgment (2017); Canadian residential
+  schools apology (2022); pontifical secret lifted on abuse cases (2019) — pattern of decades-to-centuries
+  latency
+- Francis pontificate (2013–) — synodality, financial reform, environmental engagement, Fiducia Supplicans
+  (2023), open internal opposition from traditionalist faction unprecedented in modern era
+- 30+ US dioceses bankrupt primarily from abuse settlements (ongoing)
+- 'Demographic vital signs: 1.4 billion affiliates; collapse in Ireland/Quebec/Spain/Belgium from majority
+  to single-digit Mass attendance within two generations; +3.1% annual growth in Africa'
+canon_anchor_quotes:
+- '"Extra Ecclesiam nulla salus." # Cyprian of Carthage, De catholicae ecclesiae unitate, 251 CE — the
+  structural claim the institution has spent 1,700 years simultaneously asserting and qualifying'
+- '"We ask forgiveness... for the use of violence that some have committed in the service of truth." #
+  John Paul II, Day of Pardon homily, 12 March 2000 — note ''some have committed,'' the human-element
+  framing, the ritualization standing in for structural change'

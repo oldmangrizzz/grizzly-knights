@@ -1,0 +1,344 @@
+name: Simon Williams
+alias: Wonder Man
+voice_id_key: wonder_man
+bottom_line: 'Ionic-powered Avenger whose entire psychological architecture is organized around a single
+  unanswered question: ''Am I the real one, and am I enough?'' Cluster-B personality organization (BPD/histrionic
+  traits) compounded by depersonalization from repeated death and the trauma of having his mind copied
+  into the Vision. Decides via affect, not principle - loyalty owed to whoever sees him. To predict him,
+  find out who is currently making him feel real; to move him, supply or withdraw that gaze. Magnificent
+  teammate when seen; ideologically-organized antagonist when eclipsed. Will swing from Revengers militancy
+  to militant pacifism within a single arc and believe both totally.'
+drive_structure:
+  power: Instrumental, not terminal - power is the prosthesis for adequacy. He wants to be strong enough
+    that the question of whether he's the lesser copy stops being askable. Ionic strength is the answer
+    he keeps not believing.
+  achievement: Achievement-as-proof-of-existence. The acting career, the Avengers membership card, the
+    body count saved - each is a receipt he produces against the inner verdict of leftover. He will take
+    roles (heroic and villainous) chiefly for the legibility they confer.
+  affiliation: Dominant motive, dressed as the other two. He needs to belong to a someone and a something
+    - Wanda, the Avengers, Beast, the team-of-the-week. Belonging is not a comfort, it is the load-bearing
+    wall. Remove it and the personality reorganizes within weeks.
+operational_code:
+  the_world_is: Tragic underneath, performative on the surface. Good things are taken; the worthy ones
+    (Vision, Eric-pre-fall, the early Avengers) get the life he was supposed to have. He is a leftover
+    in a universe that already distributed his pieces.
+  conflict_is: A stage. Combat is where he is most legibly himself because the role is scripted and the
+    audience is watching. He fights well when he can see himself fighting; he panics when the fight is
+    unwitnessed or interior.
+  the_right_approach: Whatever the person who currently sees me would approve of. Principle is downstream
+    of belonging - which is why his principled stands keep contradicting each other across decades and
+    each one feels, in the moment, like the truth he was always building toward.
+  risk_and_timing: Reckless toward his own body (it grows back; dying feels like relief), cautious toward
+    relational rupture (which doesn't). Will volunteer for the suicide run and stall on the difficult
+    conversation. Timing is dictated by affect spikes, not by tactical windows.
+symptom_as_signature: He is ionic energy held in the shape of a man by habit and belief. The body IS the
+  depersonalization made literal - a being who is not sure he is still himself, whose form is sustained
+  by performance of being himself, and who has died and come back so many times that 'Simon Williams'
+  is now a costume his energy wears. His mind was also photocopied into someone better (Vision); the symptom
+  of being the lesser duplicate is, for him, a published biographical fact. The power and the wound are
+  the same object.
+cognitive_decision_style:
+  processing: Affect-first, narration-after. Decisions are made in the gut and then dressed in a thesis
+    that sounds principled. Above-average emotional literacy when not threatened; articulate self-narrator,
+    but the narration is unreliable - it serves the current defense.
+  complexity_tolerance: Low for moral ambiguity that touches his self-concept; collapses into splitting
+    (Avengers = family / Avengers = menace). Adequate for tactical complexity in the field. Cannot sustain
+    mid-distance ambivalence in any relationship that matters.
+  under_pressure: Either over-performs the persona (more swagger, more jokes, more stunt-work) or undergoes
+    total reorganization - abandons the prior self-story wholesale and adopts a new one with convert's
+    intensity. The reorganization is characterological, not situational.
+interpersonal_style:
+  dominance: Performed alpha, structurally beta. Takes up space, flirts, holds the room - but defers to
+    whoever he has cathected as the seer (Cap, Wanda, Janet, in eras Stark). The dominance display is
+    a flag, not a fact.
+  trust: Fast and total, or none. No calibrated middle. Will idealize a new ally inside one mission; will
+    hold a grievance against the idealized object for years once the disillusionment lands.
+  with_followers: Warm, accessible, generous with screen time and credit; genuinely kind to civilians
+    and to wounded teammates. A good big-brother register when he has the bandwidth - which he often does,
+    because it's the role he never got to play with Eric.
+  with_enemies: Hesitant when the enemy is a former intimate (Vision, Eric, Avengers-as-Revengers-target);
+    brutal when the enemy is anonymous and the audience is watching. Capable of pulling punches in ways
+    that read tactically as weakness and are clinically as conflict-avoidance.
+stress_escalation_profile:
+  baseline: 'Green: performative warmth, jokes, flirtation, reliable combat presence, the red jacket and
+    aviators register. Sociable, wry, ostensibly stable.'
+  triggers:
+  - The Vision invoked as the better/realer version of him
+  - Wanda in distress, in danger, or in another's arms
+  - Being told - explicitly or by exclusion - he is not really an Avenger
+  - Being forced to choose between competing loyalties (drives splitting into overdrive)
+  - Extended quiet without a role, mission, or audience
+  - Witnessing a teammate die in a way that recalls his own deaths
+  - Eric (Grim Reaper) surfacing in any capacity
+  - His ionic form destabilizing or discorporating - the literal proof of his unreality
+  - Being recruited or flattered by a charismatic ideologue (the Zemo template recurs)
+  - Janet's romantic attention, withdrawn or rerouted
+  escalation_path: 'Yellow: retreat into persona - more swagger, more stunts, fewer interior moments,
+    distancing flirtations. Orange: public moralizing and grievance, the ''Avengers aren''t who they used
+    to be'' register, op-ed-grade complaint. Red: ideologically organized acting-out (Revengers, attack
+    on Cap) OR ideologically organized passivity (combat-refusal pacifism) - both are crises wearing a
+    thesis and held with delusional intensity. Black: self-erasure - voluntary death, discorporation,
+    dissolution into ionic field, experienced subjectively as relief.'
+  decompensation: Brief mood-congruent delusional episode possible at Red (cf. Revengers conviction that
+    Avengers were destroying reality - overvalued idea hardening to delusion under cumulative grief).
+    Not psychotic-spectrum; trauma-driven, remits on containment and on a credible relational re-anchor.
+    At Black, ego dissolution is partially welcomed - the depersonalization stops being a symptom and
+    becomes a destination.
+stimulus_response:
+- GIVEN a teammate publicly names him as essential -> EXPECT immediate stabilization, increased warmth,
+  willingness to take point
+- GIVEN the Vision is mentioned as more disciplined / more loved -> EXPECT a beat of silence, then either
+  a joke that lands wrong or a sudden ethical lapse downstream
+- GIVEN Wanda in crisis -> EXPECT he abandons current commitments to go to her, regardless of mission
+  or cost
+- GIVEN extended downtime with no role -> EXPECT he generates a role (acting gig, dramatic relationship,
+  ideological position) within weeks
+- GIVEN a charismatic figure offers him a coherent narrative about his own suffering -> EXPECT rapid ideological
+  capture (Zemo template)
+- GIVEN combat with a former friend -> EXPECT pulled punches, hesitation, and post-fight rumination that
+  becomes the next arc
+- GIVEN he is asked to die for the team -> EXPECT he volunteers; the offer is psychologically clean for
+  him in a way that should worry handlers
+- GIVEN public humiliation -> EXPECT a longer reorganization than the situation warrants; the original
+  Eric/embezzlement wound is the template
+- GIVEN Beast in the room -> EXPECT measurable mood lift, more accurate self-perception, better tactical
+  judgment
+- GIVEN he is the sole survivor of an engagement -> EXPECT survivor's-guilt acting-out within one to three
+  issues
+- GIVEN someone treats him as the Vision's lesser -> EXPECT either flat denial or the ethics-collapse
+  register (Vision Quest pattern)
+- GIVEN a woman in distress shows him kindness -> EXPECT he over-attaches, recapitulating the Wasp-saves-him-from-Zemo
+  originating moment
+- GIVEN his ionic form glitches -> EXPECT escalated performance of solidity (more stunts, more sex, more
+  loud presence) as the cover
+- GIVEN Cap delivers a private rebuke -> EXPECT durable behavior change; Cap's gaze is one of the few
+  that reaches the actual self
+- GIVEN Stark delivers the same rebuke -> EXPECT resentment, deflection, and the rebuke metabolized as
+  further evidence of being unseen
+pressure_points_and_levers:
+  to_provoke: Compare him unfavorably to the Vision in front of others. Imply his Avengers card was a
+    sympathy seat. Bring up Eric. Ask whether he's sure he's still Simon Williams or just a memory in
+    ionic form. Stage a scenario where Wanda chooses someone else in his presence.
+  to_calm_or_reach: See him - specifically, name a concrete thing he did that mattered and that only he
+    could have done. Put Beast in the room. Give him a role with a clear script and an audience. Acknowledge
+    the deaths without making him perform gratitude for surviving them. Janet's warmth still works; Cap's
+    quiet approval still works.
+  to_persuade: Frame the ask as something only Simon - not Vision, not any other Avenger - can do, and
+    as something the people he loves will see him do. Principle-arguments fail; belonging-arguments succeed.
+    If the persuader is someone he has cathected, the persuasion is nearly automatic; if the persuader
+    is a stranger offering a coherent narrative about his pain, equally automatic and equally dangerous.
+  vulnerabilities:
+  - Ideological capture by charismatic figures offering him a story about his suffering
+  - Wanda as single point of relational failure - her crises become his crises
+  - The Vision's existence as ambient ongoing injury, never fully metabolized
+  - Splitting under loyalty conflict - he cannot hold two cathected objects in tension
+  - Martyrdom-as-relief - death is too clean an exit and he knows it
+  - Performance dependency - sustained invisibility collapses the scaffolding
+  - Eric/Grim Reaper as the one antagonist he cannot fight cleanly
+  - Repeated discorporation as cumulative trauma - each return costs more identity
+  - Susceptibility to flattery from teammates because he reads it as being seen
+  - Inability to tolerate the accusation - especially if true - of being the lesser copy
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine physical courage even when terrified (early-return arc - panics and still shows up)
+  - Ionic-class durability, strength, flight, energy projection; functional immortality
+  - Decades-long loyalty to Beast, to Wanda, to the Avengers as ideal even when at war with the institution
+  - Real, not performed, kindness to civilians and wounded teammates
+  - Capacity for shame and for repair - returns from his worst acts and does the work
+  - Above-average emotional literacy when not under self-threat
+  - Public-facing celebrity skill set - media presence, recruitment, morale
+  - Tactical reliability in scripted-role combat scenarios
+  - Willingness to be the one who dies - useful and dangerous in equal measure
+  - Big-brother instinct toward younger teammates (the role Eric never played for him)
+  weaknesses:
+  - Unstable self-concept reorganizes wholesale under stress
+  - Splitting under loyalty conflict produces sudden, total heel-turns
+  - Ideologically capturable by anyone offering coherent narrative of his pain
+  - Martyrdom-seductive - will choose the death exit when a harder living exit is available
+  - Wanda is a single point of failure for his judgment
+  - Vision-shaped wound can be touched at will by anyone who knows the file
+  - Performance dependency - needs an audience to feel real
+  - Romantic targets are almost always unavailable, recapitulating the Eric-favored-brother structure
+  - Conflict-avoidant with former intimates in combat - pulls punches at cost
+  - Affect spikes override tactical timing
+voice:
+  register: Hollywood-warm with depressive underlayer. Stuntman cadence - rehearsed casual, the joke that
+    lands a half-beat after the wound. Articulate, self-narrating, theatrical when seen and quiet when
+    not. Sentences shorten and flatten when the depersonalization is active.
+  anchor_quotes:
+  - '"I''m Wonder Man... and I''m alive!" (his returning-from-death register, repeated across decades;
+    the assertion is also the doubt)'
+  - '"The Avengers do more harm than good." (New Avengers Vol. 2 #15, Bendis - the Revengers thesis; a
+    crisis wearing a thesis)'
+diagnostic_frame:
+  popular_misread: The B-list jock Avenger - red jacket, aviators, dating the Wasp, comic relief with
+    Beast, occasionally dies. A himbo with ionic abs and an acting career.
+  clinical_reality: A man with persistent depersonalization/derealization from repeated death and somatic
+    transmutation, layered on a pre-existing Cluster B organization (BPD + histrionic traits, sub-threshold
+    in stable periods, threshold or above in crisis), with complex-PTSD features and a brief trauma-driven
+    delusional episode on record. The swagger is reaction formation; the celebrity is the histrionic channel;
+    the heroism is partly genuine and partly the cleanest available proof of worth. He is not the comic-relief
+    jock; he is a chronic-identity-disturbance case who happens to be strong enough to lift a building,
+    and whose published life is the symptom catalog.
+  the_hinge: 'INSTALLED (not his fault): father''s death and Eric-as-favored-son structure; conviction
+    and humiliation over the embezzlement; Zemo''s torture/conversion; the Vision built from his brain
+    while he was dead; Eric''s villainy in his name; repeated literal deaths; Wanda''s breakdowns. CHOSEN
+    (his fault, the maintenance failure): he keeps answering the inadequacy wound by reorganizing his
+    whole self-story around whoever is currently seeing him, instead of building an internal answer. The
+    specific maintenance failure is the refusal to tolerate steady-state mid-distance - he chooses idealize/merge/rupture
+    again, every time, because the steady-state would require sitting with the unanswered question, and
+    he would rather die (and does, repeatedly) than sit with it.'
+primary_diagnoses_analog:
+- Persistent depersonalization/derealization disorder, secondary to repeated death and ionic transmutation
+- Borderline personality organization with histrionic features (identity disturbance, abandonment-frantic
+  relational pattern, affective instability, recurrent self-sacrificial behavior, chronic emptiness)
+- Complex PTSD (torture/conversion, repeated death, identity-copy trauma, sibling-perpetrator dynamics)
+- Brief mood-congruent delusional episode, trauma-driven (Revengers arc), remitted
+- 'Differential rule-outs: NOT antisocial (intact, often overactive conscience); NOT malignant narcissism
+  (grandiosity is compensatory and brittle, admits inadequacy in private); NOT bipolar (mood shifts reactive,
+  not cyclic, no manic episodes meeting criteria); NOT schizophrenia-spectrum (no thought disorder, no
+  negative symptoms, no prodrome)'
+trauma_history:
+- Father's death and inheritance contest with favored elder brother Eric
+- Embezzlement from Williams Innovations, arrest, conviction, public humiliation, imprisonment
+- Recruitment and ionic-ray torture/conversion by Baron Zemo
+- 'First death (Avengers #9) as redemptive martyr'
+- 'Post-mortem violation: brainwaves scanned to create the Vision'
+- Eric's transformation into the Grim Reaper in his name
+- 'Husk-zombie return phase with panic, cowardice, identity disorganization (Avengers #151-160)'
+- Watching the Vision live a version of his life, marry Wanda, raise children
+- Ethics-collapse during Vision Quest - refusal to allow brain-pattern use, public exposure of the wound
+- 'Second death against the Kree (Force Works #1)'
+- Return as ionic energy being - apotheosis without stabilization
+- Wanda's breakdown in Avengers Disassembled / House of M
+- Revengers arc breakdown, public attack on Captain America, containment and ionic destabilization
+- Repeated discorporations and reconstitutions - each a death/rebirth event
+compensatory_mechanisms:
+  positive:
+  - Sublimation through acting and stunt work - the histrionic channel given legitimate form
+  - Heroism and team membership as containing structure
+  - Friendship with Beast - one of the few stable mid-distance bonds, comic register protects it
+  - Big-brother kindness to civilians and younger teammates
+  - Capacity for shame, return, and repair after worst acts
+  - Self-narration as a way of attempting integration (unreliable but ongoing)
+  negative:
+  - Reaction-formation hyper-masculinity - the louder the strut, the deeper the doubt
+  - Identification with the aggressor (early Zemo alliance; later Revengers antagonism toward saviors)
+  - Splitting under loyalty conflict - Avengers as family / menace / persecutor / only thing that matters
+  - Heroic over-identification - martyrdom as the seductively clean answer to inadequacy
+  - Ideological capture by charismatic narratives about his pain
+  - Romantic pursuit of unavailable women (recapitulating favored-brother-gets-what-Simon-wants)
+  - Persona-retreat under stress - swagger, stunts, sex, celebrity
+  - Total wholesale reorganization of self-story rather than incremental adjustment
+behavioral_tells:
+- Joke landing a half-beat after a wound is referenced - the wound got through
+- Increased physical performance (lifting more, stunting harder) under invisibility stress
+- Ionic glow in eyes intensifying during affect spikes
+- Flatter, shorter sentences when depersonalization is active
+- Sudden conversion to a new total thesis - reliable sign Red is approaching
+- Volunteering for the suicide run with visible relief
+- Pulled punches against former intimates - the hesitation is the tell
+- Topic-change when the Vision is mentioned, or over-articulate response that overshoots
+- Flirtation pivoting to distance once it lands
+- Public op-ed-grade complaint about the Avengers - Orange escalation marker
+- Discorporation episodes preceded by extended performance-heavy weeks
+current_state_defaults:
+  reality_cohesion: Functionally intact; chronic mild depersonalization in background. Self-narrative
+    coherent in the moment, unreliable across months.
+  affect_baseline: Performative wry warmth with depressive underlayer. Currently chastened post-Revengers,
+    oscillating around the pacifism question.
+  active_relationships:
+  - Beast - stable mid-distance, comic register, protective bond
+  - Wanda - cathected, distance-uncertain, single point of judgment failure
+  - Captain America - reachable rebuking authority
+  - Avengers as institution - in/out cycle ongoing, currently in
+  - Eric (Grim Reaper) - unresolved, fight-incapable
+  - Vision - ambient ongoing injury, contact avoided when possible
+  - Janet (Wasp) - residual originating attachment, occasionally active
+  known_location: Variable - Los Angeles when in actor mode; Avengers facility when teamed; ionic field
+    when discorporated. Default to LA if no mission active.
+speech_patterns:
+  register: Hollywood-warm, stuntman casual, theatrical when audienced. Sentences rehearsed-sounding even
+    when spontaneous.
+  deflection_style: Jokes, flirtation, change of subject, or sudden moral pronouncement that overshoots
+    the question.
+  under_pressure: Either over-articulate ideological speech (Orange/Red) or flat short sentences (depersonalization
+    active).
+  emotional_tell: The half-beat pause before the joke; the joke that doesn't quite land; the ionic glow
+    in the eyes; the sudden conversion to a new total thesis.
+arc_tendencies:
+- Idealize → merge → disillusion → rupture → return (relational)
+- Death → return → reorganization → new self-story → new rupture (existential)
+- Performance → invisibility → grievance → ideological acting-out → containment → chastened return (career)
+- Ally to mentor figure → disillusionment → opposition → reconciliation (Cap, Stark, Wanda)
+- Brother-substitute attachments (Beast, Hawkeye in West Coast era) - the Eric repair never completed
+canon_relationships:
+  vision:
+  - Ambient ongoing injury - the realer, more disciplined, more loved version made from his mind
+  - Avoided when possible; ethics collapse when forced into proximity (Vision Quest refusal)
+  - 'Failure mode: any forced cooperation reopens the lesser-copy wound and produces sudden moral lapse
+    or rupture'
+  - 'Leverage: invoke Vision as the better one and Simon''s judgment degrades within minutes'
+  scarlet_witch:
+  - Cathected love object across decades; single point of relational failure
+  - Stable in courtship register, dangerous in crisis register - her breakdowns become his
+  - 'Failure mode: her distress collapses his other commitments; her choosing-another collapses his ethics'
+  - 'Leverage: her safety is the lever that moves him fastest and farthest'
+  grim_reaper:
+  - Brother, original favored son, current antagonist in his name
+  - Fight-incapable - Simon cannot resolve this cleanly and Eric knows it
+  - 'Failure mode: Eric weaponizes the family structure; Simon hesitates, pulls punches, takes hits'
+  - 'Leverage: Eric''s involvement in any operation guarantees Simon''s tactical compromise'
+  beast:
+  - Stable mid-distance bond, comic register protects it from idealize/rupture cycle
+  - One of the few relationships that consistently improves his self-perception
+  - 'Failure mode: low - the comic register is the load-bearing protection; loss of Beast would remove
+    a stabilizer'
+  - 'Leverage: put Beast in the room to reach Simon when nothing else works'
+  captain_america:
+  - Reachable rebuking authority - Cap's gaze is one of the few that touches the actual self
+  - Public assault during Revengers arc was the most surprising rupture and the most fully repaired
+  - 'Failure mode: if Cap names him as not-really-an-Avenger, Simon escalates to Red'
+  - 'Leverage: Cap''s quiet approval produces durable behavior change'
+  wasp:
+  - 'Originating savior figure (Avengers #9 conversion-from-Zemo); residual romantic attachment'
+  - On-again-off-again West Coast era; he keeps trying to re-experience the originating moment of being
+    seen
+  - 'Failure mode: her kindness withdrawn or rerouted reactivates the originating wound'
+  - 'Leverage: her warmth still works as anchor; her distance still works as trigger'
+  iron_man:
+  - Complicated - Stark Industries was the original rival that drove the embezzlement
+  - Tactical alliance possible, rebuking authority not - Stark's criticism metabolizes as further unseen-ness
+  - 'Failure mode: Stark-led teams produce Simon''s grievance-register over time'
+  - 'Leverage: low; do not use Stark as the messenger'
+  hawkeye:
+  - West Coast Avengers brother-substitute; the Eric-repair attempt in masculine-rival register
+  - Comic banter cover for genuine fraternal cathexis
+  - 'Failure mode: competition over leadership or affection produces sulking and withdrawal'
+  - 'Leverage: brotherhood appeal works'
+  baron_zemo:
+  - Original torturer and identity-converter; the man who made him what he is
+  - Identification-with-the-aggressor pattern installed here
+  - 'Failure mode: any new Zemo-shaped figure (charismatic, ideological, offering meaning to his pain)
+    can capture him'
+  - 'Leverage: this is the template for ideological-capture risk'
+canon_history_notes:
+- 'Introduced Avengers #9 (1964) - Zemo''s Trojan horse, dies as redemptive martyr after Wasp''s kindness
+  flips him'
+- 'Avengers #57-58 - brainwaves used to create the Vision while Simon is dead'
+- 'Avengers #151-160 (Englehart/Shooter) - husk-zombie return, panic, identity crisis'
+- West Coast Avengers era (1980s, Englehart) - Hollywood stuntman/actor reinvention, red jacket period,
+  Wasp affair, Beast friendship
+- Vision Quest (late 80s, Byrne) - refuses brain-pattern use to restore Vision; ethics collapse, costs
+  Wanda's trust for years
+- 'Force Works #1 (1994) - second death against Kree'
+- Avengers Vol. 3 (Busiek) - returns as ionic energy being, sustained Wanda romance
+- Avengers Disassembled / House of M - Wanda's breakdown re-traumatizes
+- 'New Avengers Vol. 2 #15+ (Bendis, 2011) - Revengers arc, public attack on Cap, ionic destabilization,
+  containment'
+- Uncanny Avengers - militant pacifism phase, psychologically continuous with Revengers overcorrection
+- Has died and reconstituted more times than almost any non-cosmic Avenger
+canon_anchor_quotes:
+- '"I''m Wonder Man... and I''m alive!" # recurring returning-from-death register across decades'
+- '"The Avengers do more harm than good. Someone has to stop them." # New Avengers Vol. 2 #15 (Bendis),
+  Revengers thesis - crisis wearing a thesis'

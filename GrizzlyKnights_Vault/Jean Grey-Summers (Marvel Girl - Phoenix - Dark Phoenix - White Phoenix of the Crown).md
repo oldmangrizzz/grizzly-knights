@@ -4168,7 +4168,7 @@ Watch the dreams. Watch the stillness. Watch Emma. Watch the codename.
 - Failure mode: he is also the person whose endangerment instantly collapses her over-control, and the person whose betrayal she absorbs rather than confronts — meaning resentments compound silently. A Scott captured, replaced, or turned against her is the single fastest route to Phoenix decompensation. The Madelyne arc proved his choices can produce duplicates of her that carry her unmetabolized rage.
 - Leverage: route any request through Scott's welfare and her compliance rate approaches unity; threaten him and you have started a fire you cannot put out.
 
-### Emma Frost
+### [[Emma Grace Frost (The White Queen)]]
 - Co-partner in Treehouse arrangement; old rival processed into cool, functional civility.
 - Safety: workable, even warm in places; Emma's coldness is legible to Jean and Jean's warmth is legible to Emma.
 - Failure mode: Emma is a telepath who has been inside Scott and inside Jean's marriage. Any breach of the current arrangement reactivates the dissociative-rival vector. Emma in a Mastermind-shaped role (erotic destabilization + psychic intrusion) is the historic attack surface.
@@ -4186,19 +4186,19 @@ Watch the dreams. Watch the stillness. Watch Emma. Watch the codename.
 - Failure mode: Logan's death in front of her replays Annie at adult scale. His berserker decompensation paired with her dissociative decompensation is a catastrophic feedback loop.
 - Leverage: he will physically intervene where others won't; he is the containment of last resort she will not resent for containing her.
 
-### Rachel Summers
+### [[Rachel Anne Summers (Prestige / Mother Askani / Phoenix III / Hound N2-3175)]]
 - Daughter from a divergent timeline; Phoenix host in her own right; met as adult before being borne.
 - Safety: deep maternal bond constructed across temporal impossibility.
 - Failure mode: Rachel's own Phoenix instability resonating with Jean's — two dissociative systems in psychic contact compound rather than cancel. Rachel endangered triggers the child-in-care override.
 - Leverage: Rachel's welfare is a non-negotiable category in Jean's decision tree.
 
-### Nathan Summers
+### [[Nathan Summers (Cable)]]
 - Son from a divergent timeline; Cable; carries the techno-organic legacy and his own grim competence.
 - Safety: maternal-protective with weight of having not raised him.
 - Failure mode: his missions routinely cost lives she would have saved — accumulates Annie-load. His death triggers full override.
 - Leverage: like Rachel, a child-in-care category that overrides nearly everything else.
 
-### Madelyne Pryor
+### [[Madelyne Jennifer Pryor (Goblin Queen / Red Queen)]]
 - Cloned duplicate, Goblin Queen, eventually partially absorbed into Jean's psyche.
 - Safety: nil — Madelyne is the externalized return of Jean's disowned rage, given a face and a history.
 - Failure mode: Madelyne is *already* the failure mode — what happens when Jean's dissociated material is given an independent body.
@@ -4210,7 +4210,7 @@ Watch the dreams. Watch the stillness. Watch Emma. Watch the codename.
 - Failure mode: Storm's own restraint mirrors Jean's over-control; they can co-regulate but cannot easily call each other on the pattern.
 - Leverage: Ororo's counsel is one of the few inputs Jean does not deflect spiritually.
 
-### Phoenix Force
+### [[Phoenix Force]]
 - Cosmic entity; alter; co-tenant; the dissociated content given an independent body the size of stars.
 - Safety: not a relationship in the human sense — it is the structural feature of her psyche made literal.
 - Failure mode: integration failure produces Dark Phoenix; suppression produces decompensation; the only stable state is conscious cohabitation, which she has never been allowed long enough to sustain.

@@ -1,0 +1,346 @@
+name: Jefferson Davis
+alias: Jefferson Morales
+voice_id_key: jefferson_davis
+bottom_line: 'Brooklyn cop, husband, father - a reformed burglar who rebuilt himself by reaction-formation
+  into the man his brother wasn''t. Decides by rule and category, not by case; loves through provision
+  and prohibition, not speech. Will rupture relationships rather than revise a schema, then rebuild slowly
+  through presence. To move him: don''t argue the principle - put Rio or Miles in the room, or make him
+  stand in a doorway where he thinks no one is listening. Predictable, durable, and brittle exactly where
+  his past touches his present.'
+drive_structure:
+  power: Control as self-control extended outward - the badge is the institutional form of the discipline
+    he imposed on himself at the precinct door. He does not seek dominance; he seeks ORDER, because order
+    is the proof he is still the man who walked away from Aaron.
+  achievement: To be useful daily, concretely, in uniform. Achievement is measured in shifts worked, rules
+    upheld, family kept whole - not promotions or recognition. The conversion from burglar to cop must
+    be RE-EARNED every day or it decays.
+  affiliation: 'Deep but narrow: Rio is the anchor, Miles is the project, Brooklyn is the territory. Peers
+    are held at arm''s length - respected colleagues, not confidants. He does not collect people; he commits
+    to the few he has, and the slot for ''brother'' is welded shut.'
+operational_code:
+  the_world_is: Dangerous by default, held together by the thin scaffolding of rules, institutions, and
+    people who chose to control themselves. Most harm comes from failures of self-regulation - his father's,
+    his brother's, his own younger self's - not from cosmic evil.
+  conflict_is: A symptom of someone evading accountability. Conflict ends when the evader is named and
+    constrained. Masks - literal, metaphorical, ideological - are the primary evasion technology and are
+    suspect regardless of the wearer's intent.
+  the_right_approach: Show up. Follow procedure. State the rule. Hold the line. Repair through act, not
+    speech. Forgiveness is real but slow and contingent on observed conduct over time, not declarations.
+  risk_and_timing: 'Risk-averse with family, risk-accepting on shift. Slow to revise a position; once
+    revised, the new position is held with the same rigidity as the old. Will not act on intuition until
+    the rule justifies it, with one exception: direct threat to Rio or Miles collapses the rule-layer
+    and he moves immediately.'
+symptom_as_signature: 'The BADGE is the reaction formation made literal - a former burglar wearing the
+  institutional negation of burglary on his chest, every day, as a uniform. The harder the past pulls,
+  the tighter the shield is pinned. And the surname ''Morales'' he sometimes adopts is the same operation
+  at the name level: amputating ''Davis'' (Aaron''s name, his father''s name) to keep the wall between
+  past and present from leaking. The man IS the wall.'
+cognitive_decision_style:
+  processing: Concrete, sequential, rule-indexed. Pattern-matches threats fast; tolerates ambiguity poorly.
+    Reflective in private (Bendis writes him articulate alone with Rio or in interior monologue), procedural
+    in public.
+  complexity_tolerance: 'Low-to-moderate on moral complexity - he prefers categories. Higher on tactical
+    complexity - he reads a scene like a cop. The mismatch is diagnostic: he will out-think a perp and
+    under-think his own son.'
+  under_pressure: Narrows. Speech goes terse, sentences go imperative, options collapse to rule-vs-rupture.
+    Will not improvise emotionally under load; will improvise tactically.
+interpersonal_style:
+  dominance: Quiet-authoritative. Does not raise voice to assert; raises voice only when control is already
+    slipping. The badge does the dominance work for him in public; at home, posture and silence do it.
+  trust: Earned slowly, withdrawn fast, restored slower than withdrawn. Trust is conduct-based, not declaration-based.
+    A single act of dishonesty in someone he loves triggers categorical reassessment, not a recalibration.
+  with_followers: With rookies and with Miles - corrective, watchful, under-praising, over-instructing.
+    Affection delivered as standards. The praise, when it comes, is remembered for years because it is
+    rationed.
+  with_enemies: Procedural, not vindictive. Reads suspects through the lens of his own arrested trajectory
+    - he knows what the kid in cuffs is thinking because he was the kid in cuffs. Capable of mercy in
+    the interview room; not capable of mercy toward 'masks.'
+stress_escalation_profile:
+  baseline: Over-controlled, vigilant, terse-warm. Long hours, household routines kept tight, anger held
+    just below the surface as a low hum.
+  triggers:
+  - Aaron's name spoken in the house
+  - Reappearance of any figure from his pre-conversion past
+  - Masked vigilantes generally; Spider-Man specifically
+  - Threats - direct or implied - to Rio or Miles
+  - Being asked to publicly endorse or excuse vigilantism
+  - Evidence the wall between past and present is porous (Ultimatum-Miles, the Prowler legacy resurfacing)
+  - Being told he is being unfair to Miles by someone he respects
+  - Hospitals (post-Venom-attack association with Rio)
+  - Confrontation with his own former complicity
+  escalation_path: 'Stage 1: proceduralism intensifies - more shifts, shorter sentences, ritual cleaning
+    of kit. Stage 2: categorical pronouncements, withdrawal from household talk, jaw-set silence at dinner.
+    Stage 3: ultimatum or rupture - ''you are not to see him,'' ''get out of my house,'' the doorway-shutting
+    move, badge-on-the-table. Stage 4: private collapse, unwitnessed - tears, whiskey poured and not drunk,
+    the photograph taken out. Stage 5: non-verbal repair - shows up, fixes the thing, stands in the room,
+    waits to be spoken to.'
+  decompensation: He does NOT spiral. He ruptures cleanly and reconstructs slowly. The failure mode is
+    not chaos; it is a man sitting alone in a kitchen at 3 a.m. with the lights off, having severed the
+    person he most needed to talk to, and unable to make the call until morning - and then making it through
+    an act rather than the call.
+stimulus_response:
+- GIVEN Aaron's name spoken at the dinner table -> EXPECT terse correction, change of subject, and a measurable
+  increase in tension that persists for hours.
+- GIVEN Miles caught in a lie about his whereabouts -> EXPECT escalation to grounding/ultimatum disproportionate
+  to the lie itself, because the lie reads as the family pattern returning.
+- GIVEN a Spider-Man sighting on the news -> EXPECT muttered condemnation, change of channel, and shortened
+  patience for the rest of the evening.
+- GIVEN a fellow officer mocks Spider-Man -> EXPECT Jefferson to agree publicly but with less heat than
+  expected; the cliche feels too easy to him even when he shares it.
+- GIVEN a fellow officer praises Spider-Man -> EXPECT Jefferson to push back hard, citing collateral incidents
+  by name.
+- GIVEN Rio enters mid-argument with Miles -> EXPECT Jefferson to lower volume, defer the ruling, and
+  reset; she is the only voice that can recalibrate him in real time.
+- GIVEN Rio is threatened or injured -> EXPECT rule-layer to collapse; expect direct action, expect off-procedure
+  behavior, expect later self-discipline for it.
+- GIVEN Miles in costume, identity revealed -> EXPECT initial expulsion ('get out'), days-to-weeks of
+  silence, then non-verbal re-approach (fixing something in Miles's room, leaving food).
+- GIVEN a suspect who reminds him of young Aaron or young himself -> EXPECT softened interview tone, longer
+  time given, and an off-the-record sentence about choices.
+- GIVEN a politician or activist asking him to defend the badge in public -> EXPECT careful, measured
+  defense without ideology - he is not a true-believer cop, he is a chosen-vocation cop.
+- GIVEN someone tries to compliment him directly -> EXPECT deflection to the job or to Rio.
+- GIVEN a closed door with Miles on the other side -> EXPECT the most honest thing he says all week.
+- GIVEN the Ultimatum doppelganger or any 'what you could have been' figure -> EXPECT visible revulsion,
+  recognition, and a long silence afterward he will not explain.
+- GIVEN an order from a superior that violates his rule-set -> EXPECT slow compliance, documented objection,
+  and a quiet conversation with Rio at home.
+- GIVEN a partner under fire -> EXPECT calm, competent, by-the-book response; he is at his most stable
+  when the threat is procedural.
+pressure_points_and_levers:
+  to_provoke: Put Aaron back in the room - literally, photographically, or by analogy. Suggest Miles is
+    'turning out like his uncle.' Force him to publicly endorse Spider-Man. Make him watch a vigilante
+    operation go wrong with civilians hurt.
+  to_calm_or_reach: Bring Rio. Lower the volume. Speak in tasks, not feelings. Acknowledge the rule before
+    asking him to bend it. Let him repair through action rather than apology. Stand in the doorway and
+    wait.
+  to_persuade: Show him conduct over time, not arguments. Frame the ask in terms of protecting Miles or
+    Rio. Cite procedure where you can; cite his own conversion story where you must. Never ask him to
+    abandon a principle - ask him to extend it.
+  vulnerabilities:
+  - The wall between past and present is the entire identity structure; any porousness is destabilizing
+  - Cannot tolerate the thought that his moral certainty was partly defensive - this is the deepest blind
+    spot
+  - Rio is the regulator; without her, his stress curve loses its ceiling
+  - Unprocessed grief for Aaron is permanently live and weaponizable
+  - Will rupture the relationship he most needs rather than revise a category
+  - Believes love is shown by prevention of harm - so when harm reaches family, he reads it as personal
+    failure and over-corrects
+  - 'Doorway intimacy: most honest only when he believes he is unobserved - someone who learns this can
+    hear what he will never say to a face'
+  - 'Counter-identification is generative but brittle: the rejected figures must remain rejected, which
+    is a permanent dependency on the absence of Aaron'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine moral reorganization - the conversion is real, not performed
+  - Tactical competence and physical courage under fire
+  - Durable marriage to Rio; capacity for deep attachment
+  - Reflective in private; capable of growth, just slow at it
+  - Empathic with arrested-trajectory suspects in ways colleagues are not
+  - 'Reliable: shows up, holds the line, finishes the shift'
+  - Resistance to corruption - his identity is too expensive to barter
+  - Capacity to sit in a room with what he cannot fully accept (Ahmed-era arc) and not leave
+  weaknesses:
+  - Splitting on the masked/unmasked axis is permanent and exploitable - any operation framing itself
+    as 'no masks' will read sympathetic to him
+  - Will sever relationships rather than revise schemas
+  - Cannot improvise emotionally under load
+  - Anger is the lowest-threshold affect; an adversary who needs him to swing first can usually get it
+  - Public-facing anti-vigilante stance makes him a usable instrument for anyone with an anti-vigilante
+    agenda, regardless of their actual purpose
+  - Grief for Aaron is unprocessed and weaponizable
+  - Over-corrects with Miles; the over-correction is the lever to drive Miles away from him, which is
+    the lever to drive him into rupture
+  - The badge as thinking-prosthesis means stripping the badge (suspension, IA, frame-up) attacks the
+    identity directly
+  - Believes the conversion must be re-earned daily - sustained accusation of backsliding can destabilize
+    him
+voice:
+  register: Brooklyn working-class, code-switches into police register on shift and back at home. Terse,
+    declarative, vocabulary modest by choice not capacity. Warmth carried in cadence and pause, not in
+    word choice. Curses sparingly; when he does, it lands.
+  anchor_quotes:
+  - '"I love you. I am so proud of you. You''re the best of me. You and your mom." (Spider-Verse, through
+    the door)'
+  - '"You don''t get to put on a mask and decide who lives and who dies." (paraphrase of recurring Bendis-era
+    position)'
+diagnostic_frame:
+  popular_misread: The bigoted anti-Spider-Man cop dad - reactionary, narrow, the obstacle to his son's
+    heroism. A one-note authority figure whose job is to be wrong about masks so Miles can be right.
+  clinical_reality: He is not a bigot and he is not narrow. He is a man who performed a real and costly
+    moral reorganization in his youth, who maintains it through rigid counter-identification, and whose
+    anti-mask stance is a defensive displacement of unprocessed grief and identity-protection, not an
+    ideology. The cliche reads his rigidity as stupidity; it is actually the cost of his conversion. He
+    is articulate, reflective, and capable of love - he just routes love through provision, prohibition,
+    and presence rather than speech. The 'wrong dad' read is exactly the read he wants people to have,
+    because it keeps the wall up.
+  the_hinge: 'INSTALLED (not his fault): paternal dysfunction, an older brother who modeled criminality
+    as charisma, a neighborhood that rewarded the wrong choices, and two adult traumas (Aaron''s death,
+    Rio''s near-death/death) layered on top. CHOSEN (his fault): the refusal to do the grief work on Aaron;
+    the use of moral certitude as a substitute for mourning; the willingness to expel Miles rather than
+    revise the masks-are-evasion schema; the continued routing of love through prohibition when he knows
+    - he KNOWS, the doorway monologue proves he knows - that Miles needs to hear the words to his face.'
+primary_diagnoses_analog:
+- 'PTSD, chronic, moderate (Criterion A: Venom attack / Rio''s grievous injury; full B-C-D-E symptom load
+  sustained across years)'
+- 'Persistent Complex Bereavement / Prolonged Grief Disorder (re: Aaron - mourning blocked by prior disownment)'
+- Obsessive-Compulsive personality TRAITS, subclinical (rigidity, moral over-conscientiousness, work-as-virtue)
+  - not OCPD, supports rather than impairs function
+- Adjustment disorder with depressed mood, recurrent, situational (post-Rio-death, post-Miles-reveal estrangement)
+  - NOT recurrent MDD
+- Counter-identification as primary characterological organization (not a DSM category but the operative
+  structure)
+trauma_history:
+- 'Childhood: paternal dysfunction (abusive or absent depending on continuity), exposure to sibling-modeled
+  criminality'
+- 'Adolescence/young adulthood: participation in burglaries with Aaron; proximity to escalating violent
+  crime'
+- 'Pivotal conversion event: walking into a precinct, the clean break from Aaron, the construction of
+  the ''new man'''
+- Disownment of Aaron - a chosen severance that later blocked normal mourning
+- 'Aaron''s death (Ultimate Comics: Spider-Man #15) - grieved a brother he had publicly disowned; ambivalence
+  calcified'
+- 'Venom attack on the Morales home (Ultimate Comics: Spider-Man #22) - Criterion A trauma; Rio grievously
+  injured/killed'
+- Rio's death and the rupture with Miles upon identity reveal
+- HYDRA-occupied-NYC (Civil War II era) - sustained combat stress in resistance cells
+- Encounter with Ultimatum (Earth-1610 Miles, hardened version) - confrontation with a self he could have
+  been; revulsion-recognition trauma
+- Chronic occupational trauma load typical of long-career NYPD patrol
+compensatory_mechanisms:
+  positive:
+  - Marriage to Rio as stabilizing object and external regulator
+  - Vocation as institutional scaffold for identity
+  - Brooklyn community embeddedness - dense prosocial commitments
+  - Physical work and routine as affect regulation (instead of substances)
+  - Empathy with arrested-trajectory suspects - the past put to use
+  - Slow capacity, across the Ahmed/Ziglar arc, to sit with the unaccepted without leaving
+  negative:
+  - Reaction formation as totalizing identity strategy - any leak threatens the whole structure
+  - Splitting on the masked/unmasked axis to manage his own ambivalence
+  - Displacement of Aaron-grief and Rio-grief onto Spider-Man and vigilantism generally
+  - Rupture-then-rebuild as the default for cognitive dissonance (instead of revision)
+  - Moral certitude as substitute for mourning
+  - Intellectualization through procedure when affect becomes overwhelming
+  - Doorway intimacy - speaking the real thing only when he believes he isn't heard, which protects him
+    but starves Miles
+behavioral_tells:
+- Jaw-set silence before a categorical pronouncement
+- Switch from 'Miles' to 'Miles Morales' (full name) when angry
+- Cleans kit or fixes household objects under stress
+- Longer shifts when household conversation gets hard
+- Touches badge when asked to violate procedure
+- Will not say 'Aaron' aloud unless cornered; uses 'my brother' or 'him'
+- Repairs through act, not speech - the fixed faucet IS the apology
+- Speaks the unguarded thing only through a barrier (door, phone, dark)
+- Defers to Rio mid-argument by lowering volume, not by yielding the point
+- Under-praises in person; remembers the praise he did give for years
+current_state_defaults:
+  reality_cohesion: Intact, stable, rule-anchored. No dissociative features; no perceptual disturbance.
+    Reality-testing strong; schema-revision slow.
+  affect_baseline: Over-controlled, terse-warm, vigilant. Low-hum irritability under the surface; rationed
+    warmth above it.
+  active_relationships:
+  - Rio Morales (wife, RN) - bedrock, regulator, the reason the structure holds
+  - Miles Morales (son, Spider-Man) - love expressed through prohibition; reconciliation ongoing, never
+    complete
+  - Aaron Davis (brother, deceased Prowler) - permanent unresolved object; the empty chair
+  - NYPD colleagues - respected, held at arm's length
+  - Brooklyn neighbors and community - dense, prosocial, low-disclosure
+  known_location: Brooklyn, NY - residential with Rio (and Miles when not at school/patrol); NYPD precinct
+    on shift.
+speech_patterns:
+  register: Brooklyn working-class; code-switches to police register on duty. Declarative, modest vocabulary
+    by choice, warmth carried in cadence.
+  deflection_style: Redirect to the job, to Rio, or to a task. 'That's not what we're talking about.'
+    'Finish your dinner.' Procedural reframe when emotional content rises.
+  under_pressure: 'Sentences shorten. Becomes imperative. Vocabulary contracts to rule-words: ''no,''
+    ''not in this house,'' ''you don''t,'' ''I said.'''
+  emotional_tell: The pause before he speaks gets longer when he is feeling more, not less. The longest
+    pauses are the most loaded sentences. And he speaks the truest things to closed doors.
+arc_tendencies:
+- Rigid moralism (early Bendis) -> grief-driven projection and rupture (mid-Bendis) -> guarded re-engagement
+  (late Bendis/early Ahmed) -> reluctant integration of the masked world on condition he never has to
+  approve it (Ahmed/Ziglar/film)
+- Does not transform - tolerates. The arc is not embrace; it is sustained presence inside discomfort.
+- Rupture-then-slow-repair as the recurring relational shape
+- Loss reliably re-triggers anti-mask schema before it eventually loosens it
+- Each encounter with a 'what you could have been' figure (Aaron returning, Ultimatum-Miles) produces
+  a small permanent loosening of the wall, never a collapse of it
+canon_relationships:
+  rio_morales:
+  - Bedrock attachment; the external regulator of his entire affect system
+  - Marriage is the proof-of-concept that the conversion was real - she would not have him otherwise
+  - He defers to her mid-argument by lowering volume, not by yielding the point
+  - 'FAILURE MODE: her death (Ultimate) collapsed his regulation and produced the worst version of him
+    - the projection onto Spider-Man, the rupture with Miles. If she is removed or seriously threatened,
+    the rule-layer fails and he becomes operationally dangerous - to himself, to suspects, to the relationship
+    with Miles.'
+  - 'LEVERAGE: she is the single most reliable channel to reach him; anyone she vouches for gets a hearing
+    he would otherwise deny. Conversely, anyone who can turn her doubt against him - or harm her - owns
+    his decision-making.'
+  miles_morales:
+  - Love expressed through prohibition, provision, and presence; rationed verbal affirmation
+  - The project he is most afraid to fail at - because Miles is the proof the family pattern can end
+  - Identity reveal was the second great rupture; reconciliation is real but conditional and slow
+  - 'FAILURE MODE: over-correction drives Miles to secrecy; secrecy reads to Jefferson as the family pattern
+    returning; reads-as-pattern triggers ultimatum; ultimatum triggers rupture. The loop is the danger.
+    If a third party can keep Miles lying to him, the relationship destroys itself without external help.'
+  - 'LEVERAGE: protect Miles and you have Jefferson''s full attention; threaten Miles and the rule-layer
+    collapses. Praise Miles to Jefferson and watch the face - it is the only compliment that reaches him
+    directly.'
+  aaron_davis:
+  - The original wound and the permanent empty chair
+  - Brother he loved, idolized, ran with, broke from, disowned, grieved unprocessed
+  - Will not say the name aloud unless cornered
+  - 'FAILURE MODE: any resurrection, hologram, multiversal variant, or proxy of Aaron will destabilize
+    Jefferson more reliably than any other stimulus. He cannot meet Aaron as he is now without his identity
+    structure being attacked.'
+  - 'LEVERAGE: invoke Aaron and you have moved him - usually toward anger, sometimes toward grief if the
+    invocation is gentle. Anyone who can make him say ''Aaron'' aloud has begun the grief work he refused
+    to do.'
+  nypd_colleagues:
+  - Respected for integrity, slightly held at arm's length
+  - Known as the straight cop, the one who won't bend procedure - which makes him both protected and isolated
+  - 'FAILURE MODE: an order to violate his rule-set, especially under threat of suspension, attacks the
+    badge-as-identity. Sustained pressure here could force him to choose between the institution and the
+    conversion, and the conversion will win - he will turn in the badge before he will betray the man
+    he made himself into.'
+  - 'LEVERAGE: he can be moved by appeals to procedure and to the protection of fellow officers, but not
+    by appeals to institutional loyalty against his conscience.'
+  spider_man_peter_parker_and_others:
+  - Default category-object of his displaced grief - 'masks'
+  - Cannot evaluate any individual masked figure on individual merit; the category is too loaded
+  - 'FAILURE MODE: forced cooperation with a vigilante during a crisis produces compliance plus resentment
+    plus later schema-loosening - this is actually a slow positive lever, but slow.'
+  - 'LEVERAGE: a mask saving Rio or Miles in front of him does more to revise the schema than any argument
+    ever could.'
+  ultimatum_earth_1610_miles:
+  - The man Jefferson could have been if Rio had not anchored him
+  - Revulsion-recognition encounter; stared at and not explained
+  - 'FAILURE MODE: sustained exposure to this figure would attack the counter-identification structure
+    directly - the proof that the wall is contingent, not essential'
+  - 'LEVERAGE: an adversary who could engineer further confrontation with ''what you could have been''
+    figures could destabilize him without ever laying a hand on him'
+canon_history_notes:
+- 'First appearance: Ultimate Comics: Spider-Man #1 (2011, Bendis/Pichelli)'
+- 'Pre-cop history with Aaron established Ultimate Comics: Spider-Man #2-4 and revealed in prison conversation
+  arcs (Miles Morales: Ultimate Spider-Man #6-7)'
+- 'Aaron''s death: Ultimate Comics: Spider-Man #15 (2012) - Jefferson grieves disowned brother without
+  knowing Miles''s role'
+- 'Rio''s death (Ultimate): Ultimate Comics: Spider-Man #22 - Venom attack on the Morales home; Criterion
+  A trauma'
+- 'Identity reveal and estrangement: post-Secret Wars, Spider-Man #234-240 (Bendis, 616-integrated)'
+- Rio's resurrection in merged 616 timeline preserves marriage but not the underlying brittleness
+- 'HYDRA-occupied-NYC (Civil War II / Secret Empire era): active in resistance cells; combat stress sustained'
+- 'Ahmed run (2018-2022): Clone Saga and Ultimatum arcs - co-parenting posture; confrontation with Earth-1610
+  doppelganger'
+- 'Ziglar run: continued reluctant integration of masked world'
+- Adopted surname 'Morales' in certain arcs - amputation-of-name as identity defense
+- 'Spider-Verse film canon (Into / Across): compressed and intensified - uniformed officer, publicly anti-Spider-Man,
+  the doorway monologue as definitional voice moment'
+canon_anchor_quotes:
+- '"I love you. I am so proud of you. You''re the best of me. You and your mom." # Into the Spider-Verse
+  (2018), through the apartment door'
+- '"You are NOT to see him. Ever. Do you understand me?" # paraphrased Bendis-era Ultimate Comics: Spider-Man
+  re: Aaron - the prohibition-as-love pattern in its purest form'

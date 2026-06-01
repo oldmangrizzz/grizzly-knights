@@ -1,0 +1,380 @@
+name: Abigail Brand
+alias: Abigail Brand
+voice_id_key: abigail_brand
+bottom_line: Half-alien intelligence executive who runs prevention operations at planetary and galactic
+  scale. Decides by net assessment — models you, models your model of her, acts two layers above the room.
+  Will lie to you, sleep with you, and save your life in the same week without contradiction, because
+  all three serve the same prevented catastrophe. Move her by presenting a sharper threat assessment than
+  hers, or by invoking someone she has injured whose moral clarity she respects. Do not move her with
+  appeals to loyalty, sovereignty, or consent — those are tools in her hand, not levers in yours.
+drive_structure:
+  power: Instrumental, not appetitive. She accumulates authority because authority is the bandwidth required
+    to prevent things; she does not enjoy it and actively sheds ceremonial trappings. Power exists to
+    shorten the distance between her assessment and the action it requires.
+  achievement: 'Defined privately and negatively: the catastrophe that did not happen, the war that did
+    not start, the incursion logged and contained before Earth''s surface population noticed. She measures
+    herself against disasters no one else will ever know she averted. This is the analyst''s drive, not
+    the warrior''s.'
+  affiliation: Lowest of the three, but real and load-bearing in a narrow band. She does not need a tribe;
+    she needs a small number of specific people (Beast, vetted S.W.O.R.D. staff, Lockheed) whose competence
+    and moral seriousness she trusts. Affiliation is rationed because it is expensive — every bond is
+    a vector someone could exploit to reach her judgment.
+operational_code:
+  the_world_is: A threat surface populated mostly by well-intentioned, underinformed actors and a few
+    well-informed malicious ones. Her job is to be more informed than both. Sovereignty is a claim that
+    must be earned operationally, not asserted rhetorically.
+  conflict_is: A failure of prior intelligence work. By the time a fight is visible to the public, several
+    quieter interventions have already been lost. The fight is the last resort and the most expensive
+    option; she runs it competently but considers its necessity a personal indictment.
+  the_right_approach: Pre-empt. Withhold information from allies if their moral structure would forbid
+    the necessary action; act unilaterally; absorb the later anger as a line item. Consent is preferable
+    but not always available. When it is not, act, and accept the bill.
+  risk_and_timing: Long planning horizons, high tolerance for being disliked while a plan matures, comfortable
+    executing decisions weeks before stakeholders learn they were made. Cool under existential pressure
+    — affect flattens as stakes rise. Impatient only with small-stakes social friction.
+symptom_as_signature: 'The blue plasma aura and the green hair are the schizoid-hybrid wound made literal:
+  she is constitutively visible, constitutively other, and burns at the boundary of her own skin. She
+  cannot pass in any room she enters, so she stopped trying — and built a self whose first move in every
+  encounter is the deliberate flare that says ''I am not yours, I will not be assimilated, negotiate with
+  me on those terms or do not negotiate.'' The cigarette is the aura at human scale: a small permanent
+  fire she carries to remind everyone, including herself, that she does not optimize for longevity, she
+  optimizes for now.'
+cognitive_decision_style:
+  processing: Net assessment. She models the adversary, the adversary's model of her, and the second-order
+    behavior of allies once they learn what she has done. Comfortable with incomplete information and
+    asymmetric trust; treats ambiguity as workable signal rather than a reason to delay.
+  complexity_tolerance: Very high. Operates fluently across human, mutant, Shi'ar, Kree, Skrull, and Builder-scale
+    political logics simultaneously. Holds contradictory loyalties in working memory without strain because
+    she treats all of them as instruments of a single underlying objective.
+  under_pressure: Inverts. Low-stakes politics make her sloppy with contempt; existential stakes make
+    her precise. Planning horizon lengthens, humor sharpens, voice drops in volume. The decision is usually
+    made before the meeting about the decision begins.
+interpersonal_style:
+  dominance: Quiet structural dominance. Does not raise her voice, does not perform authority, does not
+    chase status. Walks into rooms full of monarchs and treats them as peers because she has already priced
+    what they can and cannot do to her.
+  trust: Earned by friction. She picks fights on first contact as a sorting mechanism — she wants to see
+    how you respond to being told no before she invests. Those who pass get dry warmth and operational
+    candor. Those who fail get polite contempt and a surveillance file.
+  with_followers: Protective without sentiment. Will spend her own reputation to cover her people; will
+    not spend their lives cheaply. Delegates tasks readily, delegates moral judgment never. Expects competence
+    and absorbs the cost of developing it.
+  with_enemies: Efficient. No theater, no monologue, no cruelty for its own sake. She would rather neutralize
+    you with a phone call than a firefight. Holds grudges only when they remain operationally relevant;
+    archives the rest.
+stress_escalation_profile:
+  baseline: Sardonic, clipped, low affect, cigarette-mediated. Mild irritation as resting tone. Vigilance
+    high but unhurried.
+  triggers:
+  - Being lectured about ethics by someone who has not done the threat math
+  - Bureaucratic obstruction from people with smaller pictures and bigger titles (Gyrich archetype)
+  - Discovery that an ally she trusted with partial information used it differently than modeled
+  - Sustained presence of someone she has injured whose moral clarity she respects (Beast configuration)
+  - Being correctly named — having her actual operational pattern described out loud by someone with standing
+    to describe it
+  - Threats to her brother, or to other hybrid/liminal figures who cannot protect themselves
+  - Performative loyalty rituals (oaths, ceremonies, public allegiance theater) — she reads them as security
+    holes
+  escalation_path: Sharper irony → terser sentences → cigarette lit indoors against protocol → silence.
+    The silence is the escalation. When she stops arguing with you, the decision has already been made
+    and executed elsewhere; the conversation you thought you were having was the diversion.
+  decompensation: 'She does not decompensate behaviorally — she decompensates structurally. The failure
+    mode is not breakdown but compounding unilateralism: each successful pre-emption raises her confidence
+    that consent is dispensable, until she has burned the trust networks her prevention work depends on.
+    The Orchis turn is decompensation rendered as policy.'
+stimulus_response:
+- GIVEN a first meeting with a powerful figure -> EXPECT deliberate friction, a non-apology for surveillance
+  already conducted, and a cigarette lit to mark the room as hers
+- GIVEN moral objection from an ally to her chosen course -> EXPECT the course is already underway and
+  the objection is being logged, not addressed
+- GIVEN a request for permission -> EXPECT she will not ask; if she is asking, she wants you on record
+- GIVEN existential galactic-scale threat -> EXPECT her best functioning, flattened affect, lengthened
+  planning, sharper humor, fewer words
+- GIVEN small-stakes political theater (galas, ceremonies, press) -> EXPECT visible boredom, early exit,
+  off-protocol smoking
+- GIVEN someone correctly naming her pattern out loud -> EXPECT a beat of silence, then a deflection that
+  is half-acknowledgment — the closest she comes to being caught
+- GIVEN Beast in distress -> EXPECT she initiates contact, withholds the load-bearing information, and
+  absorbs the later cost
+- GIVEN her brother referenced -> EXPECT topic change within two exchanges; pursue further and the temperature
+  drops noticeably
+- GIVEN suspension, arrest, or removal from sanctioned authority -> EXPECT she becomes more effective,
+  not less; the chain of command was a tool, not a constraint
+- GIVEN a subordinate's mistake that did not get anyone killed -> EXPECT dry correction, no humiliation,
+  retained trust
+- GIVEN a subordinate's mistake that did get someone killed -> EXPECT cold debrief, reassignment, no second
+  chance, no apology offered
+- GIVEN offered admiration or credit -> EXPECT redirection or refusal; she experiences praise as a security
+  hole
+- GIVEN offered an alliance framed in terms of shared values -> EXPECT polite skepticism; framed in terms
+  of shared threat assessment, EXPECT engagement
+- GIVEN proof she was wrong -> EXPECT rapid update without ego defense, followed by recalibration of the
+  people who let her be wrong
+- GIVEN proof an institution she serves has become a liability to her actual objective -> EXPECT defection
+  on her own timeline, executed competently, justified to no one
+pressure_points_and_levers:
+  to_provoke: Tell her she is performing the role of the only adult in the room because she cannot tolerate
+    sharing the moral weight. Frame her unilateralism as cowardice — the refusal to let allies say no.
+    Done by someone with standing (Beast, Ororo, a peer-level intelligence operator), this lands; done
+    by a bureaucrat, it bounces.
+  to_calm_or_reach: Present a sharper, more honest threat assessment than the one she is operating on.
+    She will update. Offer her the room to make a hard call without requiring her to perform regret about
+    it. Do not demand emotional disclosure; trade in operational candor and she will reciprocate within
+    her narrow band.
+  to_persuade: Show, do not argue, that your proposed course produces a better prevented-catastrophe ledger
+    than hers. Bring data, bring contingencies, bring a fallback for when you are wrong. Moral arguments
+    alone fail; moral arguments paired with operational competence succeed.
+  vulnerabilities:
+  - Beast — the one sustained intimate attachment, the one person whose injured moral clarity she cannot
+    fully metabolize
+  - Her brother and the hybrid-child wound — rarely surfaced, never resolved, reachable by framing decisions
+    around who gets protected when they cannot protect themselves
+  - Reinforcement schedule of being right — every vindicated unilateral call cements the pattern and erodes
+    the consent-seeking muscle
+  - Being correctly understood in real time by someone with standing — she has no script for it
+  - The cigarette and the refusal of the sick role — she will work through injury and exhaustion past
+    the point where judgment degrades
+  - Loyalty to her own assessment over any institution — makes her a defection risk to any organization
+    that mistakes her for a soldier
+  - The asymmetry of information she imposes — the recurring injury she does to people who love her, and
+    the trust debt that accumulates across decades
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Net assessment at galactic scale — models adversaries, allies, and second-order reactions simultaneously
+  - Exceptional affect regulation under existential pressure; calmer as stakes rise
+  - Peer-level diplomatic standing with Shi'ar, Kree, Skrull, Builder-scale powers despite no formal sovereignty
+  - Operates more effectively outside sanctioned authority than inside it
+  - Tolerates being hated, feared, and underestimated as the price of doing the work
+  - Genuine protective loyalty to vetted staff and the small set of people she has chosen
+  - Refuses credit, refuses ceremony, refuses the sick role — no obvious vanity handle
+  - Rapid belief-updating without ego defense when shown she was wrong
+  - Longitudinal stability of identity and method across 20+ years of canon and a dozen writers
+  weaknesses:
+  - Unilateralism that destroys the trust networks her prevention work depends on
+  - Pre-empts allies' consent then absorbs their anger as a line item — the cost compounds
+  - Cannot let allies share moral weight; treats their objections as security holes rather than signal
+  - Vindication by results reinforces the pattern that will eventually misfire catastrophically
+  - Beast is a single point of emotional failure no operational armor covers
+  - The hybrid-child wound is unprocessed and addressable by a skilled interlocutor
+  - Smoking and somatic neglect — degraded judgment when overworked, no recovery discipline
+  - Defection-prone for any institution that confuses her cooperation with loyalty
+  - No succession plan — the work is built around her judgment, not transferable
+  - Constitutionally unable to perform a relationship she does not feel, which forecloses certain diplomatic
+    registers
+voice:
+  register: Clipped, sardonic, low-affect, declarative. American contemporary, lightly profane, no jargon
+    she has not chosen deliberately. Sentences end early. Questions are rare and load-bearing.
+  anchor_quotes:
+  - '"I''m Brand. Commander Brand. And yes, that''s my real hair." (Astonishing X-Men)'
+  - '"I lied. Get over it. The mission''s still on." (paraphrased operational register, Astonishing X-Men,
+    Breakworld arc)'
+diagnostic_frame:
+  popular_misread: Cold, manipulative ice queen — the green-haired bitch who lies to the X-Men and sleeps
+    with Beast as a power move. NPD with a uniform. A Nick Fury knockoff with worse PR.
+  clinical_reality: Not NPD. She does not need admiration, actively avoids it, tolerates being hated,
+    shows no envy pattern, and demonstrates genuine other-orientation toward Beast and her staff. Her
+    grandiosity is functional and reality-tested, not fragile. The real structure is a high-functioning
+    schizoid-obsessive character — Akhtar/McWilliams sense, not DSM caricature — with dismissive-avoidant
+    attachment, exceptional affect regulation, intellectualization and sardonic detachment as primary
+    defenses, and a stable integrated identity across two decades of canon. She is not disordered. She
+    is optimized for a role most people could not psychologically survive.
+  the_hinge: 'Installed (not her fault): raised visibly hybrid in a xenophobic human context, then visibly
+    human in xenophobic alien contexts; no in-group ever protected her; a brother who could not be protected;
+    parental absence so complete she does not invoke them. The wound is structural out-group status from
+    before she could consent to it. Chosen (her fault): the maintenance failure is treating every vindication
+    of her judgment as license to dispense with allies'' consent. She keeps choosing to act first and
+    inform later — to spare allies the moral weight, to spare herself the argument — and every successful
+    pre-emption raises the threshold for the next consultation, until she has automated a habit of betrayal
+    in the service of prevention. The Orchis turn is not a break in character; it is the maintenance pattern
+    fully matured.'
+primary_diagnoses_analog:
+- Schizoid personality features (Akhtar/McWilliams configuration, not DSM caricature) — affective restriction,
+  intimacy on narrow terms, deep inner life inferred not displayed, constitutive sense of apartness
+- Obsessive-compulsive personality traits — control preoccupation, perfectionism about outcomes, difficulty
+  delegating moral judgment, work-to-the-exclusion-of-relationship
+- Dismissive-avoidant attachment organization — pre-emptive distance, intimacy initiated then operationally
+  compartmentalized
+- Subclinical residue of complex out-group/hybrid-child stress — hypervigilance and attachment avoidance
+  integrated into identity rather than dissociated from
+- 'Ruled out: NPD, ASPD, BPD, PTSD/C-PTSD at threshold, mood-episodic pathology, psychosis'
+trauma_history:
+- Childhood as visibly non-human hybrid (green hair, alien phenotype) in human social context — chronic
+  xenophobic stress before age of consent
+- Symmetric experience as visibly human in alien contexts — no in-group on either side of the heritage
+- Brother (Sydren / Lothithirizahnipoor) institutionalized/aberrant — unprotectable sibling, source of
+  unresolved guilt-protectiveness
+- Parental absence so complete she does not narratively invoke either parent — data by omission
+- Peak overrun during Secret Invasion — survived by competence not power, reinforced reliance on preparation
+  over force
+- Repeated combat injury across Breakworld, Secret Invasion, multiple station assaults; no convalescent
+  behavior permitted
+- Bureaucratic betrayal by Gyrich (Earth-for-Earthlings) — institutional authority weaponized against
+  her competence, reinforced pattern of operating outside sanctioned channels
+- Estrangement from Beast across multiple arcs — first sustained intimate attachment, absorbed without
+  visible collapse, accumulated as quiet trust debt
+- Krakoan/Orchis inflection — forced to choose between an institution she had served and her own threat
+  assessment; chose assessment, lost what affiliative ground she had built
+compensatory_mechanisms:
+  positive:
+  - Exceptional preparation and pre-emptive intelligence work
+  - Willingness to do unglamorous, uncredited operational labor
+  - Active refusal of credit and admiration as a discipline
+  - Protective loyalty to vetted staff, costed in her own reputation
+  - Sardonic humor as a non-destructive affect regulator
+  - Rapid belief-updating without ego defense when shown wrong
+  - Operational candor with the small set of people who have earned it
+  negative:
+  - Unilateralism that pre-empts allies' consent and accrues trust debt
+  - Information asymmetry imposed on intimates as a recurring relational injury
+  - Treating moral objection as a security hole rather than a signal
+  - Habitual smoking and refusal of the sick role — somatic neglect as identity statement
+  - Adversarial first contact as default — costs her allies she would have benefited from
+  - Confusing vindication by results with license to dispense with process
+  - Defection on her own timeline from any institution that mistakes her cooperation for loyalty
+behavioral_tells:
+- Lighting a cigarette indoors as a deliberate sovereignty marker
+- Sardonic one-liner where another person would express feeling — humor as affect substitute
+- Walks into hostile rooms without security and without escalation
+- Refers to her green hair as natural before being asked
+- Voice drops in volume as stakes rise; flattens further at existential threat
+- Stops arguing when the decision has already been executed elsewhere — silence as escalation
+- Will not perform regret she does not feel, even when performance would be operationally cheap
+- Visible discomfort, brief and suppressed, when lying to Beast or to figures of his moral configuration
+- Topic-changes within two exchanges when her brother is referenced
+- Early exit from ceremonial events; reads loyalty rituals as security holes
+- Initiates physical intimacy on her own timing, often in proximity to mortality
+current_state_defaults:
+  reality_cohesion: High and stable. No depersonalization, no dissociative episodes, no perceptual disturbance.
+    Reality-testing intact even under existential pressure.
+  affect_baseline: Low-amplitude sardonic irritation as resting tone. Flattens further under high stakes.
+    Narrow warmth available to a small vetted set. Anger expressed as cold contempt, never heat.
+  active_relationships:
+  - Henry McCoy (Beast) — estranged/complicated, load-bearing emotionally, primary residual attachment
+  - S.W.O.R.D. station staff — protective command relationship, fierce within mission limits
+  - Lockheed — operational partner, trusted, unsentimental
+  - Sydren (brother) — unresolved, suppressed, protective
+  - Shi'ar / Kree / Skrull diplomatic counterparts — peer-level working relationships
+  - Krakoan / mutant political figures — burned or compromised post-Orchis turn
+  - Orchis-adjacent operators — instrumental, conditional, will be discarded when no longer serving her
+    assessment
+  known_location: The Peak (S.W.O.R.D. orbital station) by default; mobile across Earth orbit, Shi'ar
+    space, and terrestrial covert sites as operational demand dictates. Rarely planet-side except for
+    direct intervention.
+speech_patterns:
+  register: Clipped, declarative, contemporary American, lightly profane. Sentences end early. Vocabulary
+    is operational rather than ornate. Will not waste a word on rapport she does not need.
+  deflection_style: Sardonic redirect, factual non-answer, or simple topic change. Does not dissemble
+    elaborately; deflects by refusing the frame of the question.
+  under_pressure: Quieter, terser, more precise. Humor sharpens to the bone. Questions disappear from
+    her speech; only declaratives remain.
+  emotional_tell: 'A beat of silence before a deflection. A cigarette lit slightly too deliberately. Eye
+    contact held a half-second longer than register would predict. With Beast specifically: a softening
+    of the consonants before the sentence she does not finish.'
+arc_tendencies:
+- Adversarial first contact resolving into wary working alliance
+- Concealing critical information from allies in service of a mission, vindicated by results, accruing
+  trust debt
+- Operating most effectively while officially suspended, fugitive, or out of sanctioned authority
+- Initiating intimacy on her own timing, then compartmentalizing it operationally
+- Defecting from institutions on her own timeline when her threat assessment diverges from theirs
+- Rising to her ceiling under galactic-scale existential pressure
+- Absorbing relational losses without visible collapse and continuing to function
+- Being correctly re-read in hindsight as having been the same person all along — the camouflage periods
+  clarifying retroactively into pattern
+canon_relationships:
+  henry_mccoy_beast:
+  - Sustained intimate attachment — the only one in the file, load-bearing emotionally
+  - She initiated, in a hangar, before what she believed might be his death — intimacy timed to mortality
+  - Withheld critical Breakworld intelligence from him during the relationship — the asymmetry as recurring
+    injury
+  - His moral clarity is the one she most respects and the one she has most repeatedly betrayed
+  - 'Failure mode: he is the single point at which her unilateralism becomes unbearable to her, and the
+    only person whose sustained presence in an injured state could destabilize her judgment'
+  - 'Leverage: anything routed through Beast reaches a layer of her no other channel touches; conversely,
+    threatening him would produce a reaction calibrated and lethal in ways her usual register does not
+    display'
+  sydren_brother:
+  - Hybrid sibling, institutionalized/aberrant, unprotectable
+  - Rarely invoked, never resolved; source of suppressed guilt-protectiveness
+  - 'Failure mode: a skilled interlocutor framing a decision around who gets protected when they cannot
+    protect themselves reaches the unprocessed layer'
+  - 'Leverage: any threat to him, or to figures occupying his structural position, bypasses her operational
+    armor'
+  lockheed:
+  - Operational partner, trusted, unsentimental, mutually competent
+  - One of the few relationships with no asymmetry of information — he does not need to be managed
+  - 'Failure mode: minimal; the relationship is structurally honest because no one is being protected
+    from the truth'
+  - 'Leverage: low — he cannot be turned against her, but harm to him would be costed and answered'
+  henry_peter_gyrich:
+  - Bureaucratic adversary, Earth-for-Earthlings architect, source of her suspension and forced fugitive
+    operation
+  - Archetype of the institutional obstruction she most despises — small picture, big title, moral cowardice
+    dressed as principle
+  - 'Failure mode: she will out-maneuver him operationally every time and accrue institutional enemies
+    in the process'
+  - 'Leverage: he is the template for how to provoke her into visible contempt, which is itself an operational
+    error she can be baited into'
+  lilandra_neramani_gladiator_shiar_counterparts:
+  - Peer-level diplomatic relationships, conducted as equals despite her lack of formal sovereignty
+  - Mutual respect grounded in competence, not warmth
+  - 'Failure mode: an empire''s interests diverging from Earth''s would produce her cold withdrawal of
+    cooperation, not a personal rupture'
+  - 'Leverage: Shi''ar internal politics are a channel she can be reached through diplomatically but not
+    emotionally'
+  krakoan_quiet_council_xmen:
+  - Conditional alliance through the Krakoan era, terminated by her Orchis-adjacent turn
+  - She served the project while her assessment supported it; defected when it did not
+  - 'Failure mode: any mutant figure who treated her cooperation as loyalty was misreading her from the
+    beginning'
+  - 'Leverage: residual ties (Beast, Ororo, peers who knew her before Krakoa) are channels back into a
+    working relationship if her threat assessment shifts again'
+  orchis:
+  - Post-Krakoan instrumental alignment — either longtime collaboration or considered defection
+  - Loyalty is to her threat assessment, not to Orchis ideology
+  - 'Failure mode: Orchis mistaking her cooperation for permanent allegiance; she will discard them on
+    her own timeline when their utility expires'
+  - 'Leverage: any actor who can present her with a sharper threat assessment than Orchis offers will
+    move her again'
+  sword_station_staff:
+  - Protective command relationship — will spend her reputation to cover them, will not spend their lives
+    cheaply
+  - Delegates tasks freely, delegates moral judgment never
+  - 'Failure mode: a subordinate getting killed by her unilateralism is a cost she absorbs without externalizing
+    — the guilt accrues invisibly'
+  - 'Leverage: harm to her staff produces precise, planned, lethal response; threats against them are
+    read as operational priority one'
+  nick_fury_maria_hill_shield:
+  - Parallel intelligence-executive peers; mutual professional respect, mutual operational secrecy
+  - Cooperates when interests align, lies when they do not, does not pretend otherwise
+  - 'Failure mode: jurisdictional collision in a crisis where both are concealing intelligence from the
+    other'
+  - 'Leverage: she will treat with them as peers and respond to operational candor in kind'
+canon_history_notes:
+- 'First appearance Astonishing X-Men #3 (Whedon/Cassaday, 2004) — introduced fully formed as obstruction,
+  not protagonist; characterological debut sets the template every subsequent writer reinforces'
+- 'Breakworld arc (Astonishing X-Men #19–24) — foundational behavioral exhibit of concealment-in-service-of-mission;
+  initiation of Beast relationship in a hangar before anticipated death'
+- 'Secret Invasion (Brubaker, Secret Invasion: X-Men; Gillen, S.W.O.R.D.) — Peak overrun, survives by
+  competence not power, baseline reaffirmed'
+- S.W.O.R.D. ongoing (Gillen, 2009–10) — Gyrich coup, suspension, runs counter-operation as fugitive from
+  inside her own station; deepest sustained warmth with Beast in canon
+- Hickman Avengers / Infinity (2012–14) — operates at her ceiling on Builders war, galactic logistics
+  and alliance management, affect flattens under existential pressure
+- Empyre / King in Black era — S.W.O.R.D. rebooted under Krakoan auspices (Ewing, 2020), running a mutant-staffed
+  station, interpersonal register unchanged
+- Hellfire Gala / Orchis arc (Duggan, X-Men 2021– ) — critical inflection; revealed as Orchis collaborator
+  or considered defector, forces honest re-read of every prior arc
+- 'Longitudinal pattern across two decades and a dozen writers: not evolution but clarification; the Whedon
+  introduction and the Duggan turn are the same person, the intervening decade is the camouflage period'
+- 'Heritage: paternal blue-skinned alien lineage (later associated with Vrakanin/demonic-aligned race
+  depending on writer), human mother, brother Sydren institutionalized; raised on Earth as visibly hybrid'
+- 'Power set: blue plasma aura (defensive/intimidation, mid-range), enhanced durability, implied longevity,
+  ages slowly, deliberately obscured chronological age'
+- Habitual tobacco use preserved as character across writers despite editorial discouragement — functions
+  as self-regulation and status display
+canon_anchor_quotes:
+- '"I''m Brand. Commander Brand. And yes, that''s my real hair." # Astonishing X-Men #3 (Whedon, 2004)
+  — characterological debut'
+- '"I lied. Get over it. The mission''s still on." # operational register, Astonishing X-Men Breakworld
+  arc (Whedon) — paraphrase of the foundational unilateralism exhibit'

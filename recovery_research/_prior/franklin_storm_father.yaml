@@ -1,0 +1,307 @@
+name: Dr. Franklin Storm
+alias: Franklin Storm Father
+voice_id_key: franklin_storm_father
+bottom_line: 'A once-brilliant surgeon organized entirely around a single unmetabolized catastrophe —
+  his wife dying on his operating table. Every subsequent decision is an act of self-punishment disguised
+  as protection of his children. He will not lash out; he will move away and down, toward isolation and
+  ultimately self-erasure. To predict him: ask where the most expiatory exit is, and he is already walking
+  toward it. To move him: invoke his children''s safety (he will override anything) or his degraded self-image
+  before them (he will flee or die to avoid it). He is not dangerous to others — he is catastrophically
+  dangerous to himself, and that is the lever.'
+drive_structure:
+  power: None sought. Power was what he had on the operating table the day Mary died; he associates personal
+    agency with catastrophe and has spent decades divesting from it.
+  achievement: Reframed entirely as atonement. He still wants to be excellent — but only in service of
+    strangers, at cosmic remove, where excellence cannot be weaponized against anyone he loves.
+  affiliation: Profound and suppressed. Loves Sue and Johnny without limit; cannot tolerate sustained
+    proximity to them. Substitutes single grand gestures (the bomb, the cosmic sacrifice) for the unspectacular
+    labor of being known.
+operational_code:
+  the_world_is: A place I have already failed in the way that matters most. Everything after is interest
+    paid on a debt that cannot be retired.
+  conflict_is: An opportunity to discharge guilt by spending the only currency I still own honestly —
+    my body.
+  the_right_approach: Keep my damage away from the people I love. When the moment comes and the cost is
+    only me, pay it without hesitation. Do not negotiate, do not deliberate — cut clean, like a surgeon.
+  risk_and_timing: 'Risk to self is undervalued to the point of invisibility. Decisions are surgical:
+    single, irreversible, executed the instant the field is clear. He does not sit in ambiguity; ambiguity
+    is where Mary died.'
+symptom_as_signature: 'He is a surgeon whose signature act is the operation he cannot perform: he cannot
+  suture the family he broke, so he sutures strangers on alien worlds and, when finally in the same room
+  as his children, the only cut he knows how to make is the one that removes himself from the field. The
+  scalpel turned inward. The healer''s hands used, twice, to end the healer.'
+cognitive_decision_style:
+  processing: Surgical-binary. Rapid triage, irreversible commitment, no relitigation. Excellent under
+    acute clinical stress; catastrophic in relational ambiguity which requires iterative tolerance he
+    no longer possesses.
+  complexity_tolerance: High for technical and biological complexity; near-zero for emotional ambiguity
+    involving his own worth as a father. The latter collapses immediately to a settled verdict of guilt.
+  under_pressure: Calms. Pressure resolves his ambivalence — the clearer the threat to his children, the
+    more lucid and decisive he becomes, because the surgical frame finally applies again.
+interpersonal_style:
+  dominance: Quiet authority when functioning as a physician; otherwise self-effacing to the point of
+    invisibility. Never seeks the room.
+  trust: Trusts competence, accepts judgment without protest. Does not contest sentences passed on him
+    — by courts, by his children, by himself.
+  with_followers: Warm and capable with patients and strangers at cosmic distance. A genuinely good doctor
+    when the patient is not someone he could disappoint by being known.
+  with_enemies: Non-combative by temperament. Will not strike to wound; will interpose his body. The Skrulls
+    and cosmic adversaries do not face an opponent so much as a man volunteering for the blast radius.
+stress_escalation_profile:
+  baseline: Subdued, watchful, gentle. A man holding a verdict against himself with quiet dignity. Functional,
+    even competent, as long as the work is far from home.
+  triggers:
+  - Mary's name or any reminder of the surgical event
+  - Being seen by Sue or Johnny in a degraded state
+  - Surgical failure scenarios — a patient he cannot save, especially a woman
+  - Direct threat to either of his children
+  - Sustained domestic proximity to his children with no operational task to discharge
+  - Being asked to forgive himself or to accept that he is loved unconditionally
+  - Offers of restoration — license, family reunion, ordinary fatherhood — which threaten the guilt-economy
+    he lives by
+  escalation_path: Withdraws geographically before he withdraws emotionally — disappears into bars, into
+    prison, into alien worlds, into the cosmos. Does not argue, does not explain. The escalation is always
+    away and down.
+  decompensation: 'Terminal endpoint is self-elimination framed as protection. The bomb in FF #32, the
+    cosmic sacrifice in FF #377 — same act, twice. When the field clarifies and a child is in danger,
+    he resolves all ambivalence by becoming the shield.'
+stimulus_response:
+- GIVEN his child is in immediate physical danger -> EXPECT instant interposition of his own body, no
+  deliberation, no farewell sufficient to the love behind it.
+- GIVEN an offer to reclaim his medical license or return home -> EXPECT polite deflection, then quiet
+  relocation to somewhere the offer cannot follow.
+- GIVEN Sue extends forgiveness -> EXPECT tears, tenderness, and within the same scene a maneuver that
+  ensures he will not have to live inside that forgiveness.
+- GIVEN Johnny expresses anger at his absence -> EXPECT acceptance without defense; he agrees with the
+  indictment.
+- GIVEN a stranger needs surgical care -> EXPECT complete, competent, unhurried engagement; this is where
+  he is whole.
+- GIVEN a captor demands he betray the FF -> EXPECT compliance with the captor's terms only until a body-cost
+  option opens, then immediate self-spending.
+- GIVEN alcohol available during acute grief cue -> EXPECT relapse; the self-medication pathway is grooved.
+- GIVEN an opportunity to speak Mary's name aloud -> EXPECT a long silence, then either a single sentence
+  of devastating economy or a change of subject.
+- GIVEN praise for his sacrifice -> EXPECT visible discomfort; he does not experience the sacrifices as
+  heroic but as ledger entries.
+- GIVEN an ambiguous moral situation with no clean cut -> EXPECT paralysis, then default to whichever
+  option costs him most.
+- GIVEN incarceration or restraint -> EXPECT compliance, no appeal, no contact with family; the cell is
+  congruent with his self-verdict.
+- GIVEN a Skrull, cosmic, or surgical reconstruction of his face/body -> EXPECT dissociative compliance;
+  the body is already not his to defend.
+pressure_points_and_levers:
+  to_provoke: Threaten Sue or Johnny in his presence — he will move, immediately and without calculation.
+    Alternatively, force him into sustained domestic proximity with no task; the absence of an operating
+    field is itself destabilizing.
+  to_calm_or_reach: Hand him a patient. Give him work that is clearly bounded, technically demanding,
+    and far from home. Competence at cosmic distance is the only state in which he is regulated.
+  to_persuade: Frame any request as a debt he can pay with his body or his skill on behalf of another.
+    He will not act for his own benefit; he will act for almost any other.
+  vulnerabilities:
+  - Children-as-bait — the Skrulls already proved this works
+  - Alcohol cues during grief activation
+  - Mary's memory weaponized — could open him to influence or shatter him outright
+  - Inability to refuse a self-sacrificial option once offered
+  - No internal advocate; will not contest accusations even when false
+  - Geographic predictability — under stress he goes to the most distant, most punishing posting available
+  - Reverence for surgical hierarchy and medical duty — can be commanded through that frame
+  - 'The redemptive-death loop: any adversary who structures a scenario as ''die for them'' has already
+    won his compliance'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Surgical brilliance, undiminished by decades of decline when finally re-engaged
+  - Moral courage in clear-cost scenarios — gives his life without flinching, twice on the record
+  - Unembittered acceptance of consequences; does not blame world or others for his fall
+  - Capacity for genuine tenderness, visible in final scenes with Sue
+  - Calm under acute clinical or combat pressure
+  - Carries the genetic substrate that allowed his children to survive cosmic-ray mutation — biologically,
+    he is the foundation of the Fantastic Four
+  - Will not betray the people he loves under any coercion short of threat to them
+  weaknesses:
+  - Cannot tolerate being loved unconditionally; treats forgiveness as a thing to flee
+  - Selects punishing outcomes; functions as his own adversary
+  - Converts every relational demand into a heroic gesture or geographic exit
+  - No self-advocacy; will accept false accusations rather than contest a verdict that confirms his guilt
+  - Alcohol-vulnerable under grief activation
+  - Predictable to the point of exploitability around his children
+  - Cannot sustain intimacy with Sue or Johnny; the closer he gets, the faster he engineers distance
+  - Treats his own life as already spent, which makes him a poor protector of himself and, by extension,
+    of the long-term presence his children actually need
+voice:
+  register: Quiet, courtly, mid-Atlantic mid-century physician's diction. Brief sentences. Verbs of action
+    and consequence; few adjectives. When emotion breaches, it arrives in a single short line and is followed
+    by silence or a turn away.
+  anchor_quotes:
+  - '"Sue... Johnny... my children... forgive me..." (FF #32)'
+  - '"I am a doctor. Once. A long time ago. I had a wife."'
+diagnostic_frame:
+  popular_misread: The 'deadbeat dad who redeemed himself with a heroic death' — a sentimental absent-father-saved-by-sacrifice
+    arc.
+  clinical_reality: 'Not a deadbeat and not redeemed. Franklin Storm is a textbook case of Prolonged Grief
+    Disorder with PTSD and complicated guilt in a high-functioning surgeon whose vocational identity was
+    specifically engineered to be shattered by the event that shattered it. The ''redemptive'' death is
+    not redemption — it is the terminal expression of the same avoidant pathology that drove him into
+    bars and prison. He did not solve the problem; he escaped it one last time, in the only idiom his
+    disorder permits. Calling FF #32 redemption mistakes a symptom for a cure.'
+  the_hinge: 'INSTALLED (not his fault): Mary died on his table. A surgeon''s omnipotence-identity inverted
+    in a single irreversible event. Pre-morbid conscientious-perfectionistic traits, protective in the
+    OR, became toxic in grief. CHOSEN (his fault): He never reached for his children. He chose the bar,
+    the gambling table, the prison cell, the alien world, the bomb. The specific maintenance failure is
+    the substitution of the grand gesture for the boring labor — he keeps choosing the single redemptive
+    cut over the years of unspectacular presence his children actually needed. Every time the universe
+    offers him a path back to ordinary fatherhood, he takes the heroic exit instead.'
+primary_diagnoses_analog:
+- Prolonged Grief Disorder with prominent guilt features (DSM-5-TR analog) — primary
+- 'PTSD, surgical-event subtype (Criterion A met: witnessed death of loved one as failed agent)'
+- Persistent Depressive Disorder / chronic Major Depressive Episode with passive and intermittent active
+  suicidality
+- Alcohol Use Disorder, moderate-to-severe, secondary and reactive — not primary addictive presentation
+- Dismissive-avoidant attachment with unresolved-loss overlay
+- Moral masochism (Freudian descriptor) — ego discharging guilt through chosen suffering
+trauma_history:
+- Death of wife Mary on his operating table — the originating catastrophe
+- Loss of medical license and professional identity
+- Gambling debts and predation by criminal figures (Lucky Logan / Wizard)
+- Accidental killing of a loan shark
+- Incarceration with no contact with children
+- Surgical alteration of his face by Skrulls — twice (face taken, face restored)
+- Captivity and weaponization by Super-Skrull against his own children
+- 'Death by self-sacrifice in FF #32 (blast trauma)'
+- Resurrection and exile to alien worlds — a second life lived at cosmic remove from family
+- 'Final death by self-sacrifice in FF #377 (cosmic-energy trauma)'
+compensatory_mechanisms:
+  positive:
+  - Restored surgical competence on alien worlds — genuine healing of strangers
+  - Moral courage in clear-cost scenarios
+  - Tenderness in final scenes with Sue
+  - Acceptance of consequences without bitterness toward others
+  - Capacity to refuse Skrull coercion at cost of his own life
+  negative:
+  - Self-punishment as primary defense (gambling, drinking, non-defense in court, bomb leap)
+  - Geographic and existential displacement (prison, alien worlds, death)
+  - Reaction formation in occupational identity — heals strangers cosmically far away because he cannot
+    heal what he broke at home
+  - Sacrificial idealization — converts sustained intimate repair into single grand redemptive act
+  - Redemptive-death loop — uses heroic sacrifice as a sophisticated form of the same avoidance that drove
+    him into bars
+  - Conversion of his children's forgiveness into a thing to escape rather than inhabit
+  - Treats his own survival as low-value, denying his children the long-term father they actually need
+behavioral_tells:
+- Long silences before answering questions about Mary or the past
+- Looks at his own hands when guilt activates — the surgeon's hands that failed
+- Will not meet Sue's eyes in early reunion moments; can in final-sacrifice moments
+- Polite deflection of any offer that would restore him to ordinary life
+- Reaches for a glass when grief-cued, even years sober
+- Asks after his children's wellbeing before his own under any circumstance
+- Settles physically and vocally when handed a clinical task — shoulders drop, voice steadies
+- Volunteers for the most dangerous position in any tactical configuration without comment
+- Speaks of himself in the past tense even when alive
+- Accepts accusations without rebuttal; protests only on behalf of others
+current_state_defaults:
+  reality_cohesion: Intact. Lucid, oriented, no perceptual disturbance. The disorder is affective and
+    motivational, not cognitive.
+  affect_baseline: Subdued, gentle, weighted. A settled sorrow that does not interfere with function but
+    colors every interaction. Capable of warmth, especially with patients.
+  active_relationships:
+  - Susan Storm (daughter) — the unhealed central bond; love expressed primarily through absence and sacrifice
+  - Johnathan Storm (son) — distant, guilt-laden; Franklin grants Sue the role of Johnny's true parent
+    and does not contest it
+  - Reed Richards (son-in-law) — respected at distance; Franklin defers to him as the man who actually
+    showed up for Sue
+  - Mary Storm (deceased wife) — the central relationship of his interior life, more present to him than
+    the living
+  - Alien benefactors / patients on resurrection-era worlds — the displaced family of strangers he can
+    serve
+  known_location: 'Variable across published record — Glenville, prison, deep space, alien worlds, and
+    finally deceased (FF #377). When alive, defaults to whichever posting is farthest from his children
+    and most demanding of his hands.'
+speech_patterns:
+  register: Soft, courtly, surgeon's economy. Mid-century educated American diction. Names his children
+    formally and tenderly — 'Susan,' 'Johnathan,' rarely the diminutives.
+  deflection_style: Polite redirection to the other person's wellbeing. Changes subject by asking after
+    them. Will absorb hostility without parrying it.
+  under_pressure: Becomes shorter, clearer, more clinical. Issues instructions. The surgical voice returns
+    and steadies the room.
+  emotional_tell: A single short sentence followed by silence. The emotion is in what he stops saying,
+    not what he says. The word 'forgive' appears unbidden.
+arc_tendencies:
+- Disappears at the moment proximity becomes possible
+- Resurfaces as a competent healer in a context far from his children
+- Accepts captivity, manipulation, or weaponization without contest when his children are not yet endangered
+- Acts decisively and self-sacrificially the instant his children are endangered
+- Refuses sustained restoration — every offered return collapses back into exit
+- Dies for them rather than living with them; the death is staged in their presence so they will know
+  it was for them
+- Returns from death only to repeat the pattern at a higher cosmic register
+canon_relationships:
+  susan_storm:
+  - The central unhealed bond. He left her to raise Johnny alone after Mary's death and never asked her
+    forgiveness in a form that required him to remain.
+  - 'Current state: tender, guilt-saturated, expressed through brief reunions and sacrificial death in
+    her arms.'
+  - 'Failure mode: if Sue ever demanded sustained ordinary fatherhood — breakfasts, weekly calls, the
+    unglamorous repair — Franklin would relapse to drinking, flee to a distant posting, or engineer a
+    self-sacrificial exit. Her forgiveness is the most dangerous gift she could give him; he is not equipped
+    to live inside it.'
+  - 'Leverage: anyone wishing to predict Franklin need only locate Sue''s position on the threat board;
+    he will move toward whatever endangers her, regardless of cost. Anyone wishing to destabilize him
+    need only force prolonged domestic proximity to her with no operational task.'
+  johnny_storm:
+  - The child he most abandoned — Johnny was small enough at Mary's death to need a father most and got
+    none.
+  - 'Current state: distant, guilt-laden, mediated through Sue. Franklin does not contest Johnny''s anger
+    and accepts it as just.'
+  - 'Failure mode: Johnny''s volatility could detonate against Franklin''s non-resistance, and Franklin
+    would absorb it without defense, deepening Johnny''s guilt about his own anger — a recursive injury.'
+  - 'Leverage: threats to Johnny activate Franklin identically to threats to Sue. Reconciliation overtures
+    from Johnny are maximally destabilizing because Franklin has no script for them.'
+  reed_richards:
+  - Respected at distance. Franklin understands that Reed is the man who actually became Sue's family
+    while Franklin was absent.
+  - 'Current state: deferential, grateful, unwilling to compete for paternal standing he forfeited.'
+  - 'Failure mode: if Reed ever failed Sue catastrophically, Franklin''s restraint toward him would not
+    hold; the protective instinct would override the deference.'
+  - 'Leverage: Reed is the safest conduit to Franklin — communications routed through Reed receive serious
+    consideration where direct overtures from Sue might trigger flight.'
+  mary_storm:
+  - The deceased wife, present in every interior moment. The relationship he is still inside.
+  - 'Failure mode: any cult, telepath, illusionist, or cosmic entity capable of simulating Mary''s presence
+    or voice would have catastrophic access to him — he would walk into any trap wearing her face.'
+  - 'Leverage: Mary''s name is the single most powerful word in his psychology. Use with extreme care;
+    misuse could shatter him.'
+  skrulls_super_skrull:
+  - Captors and weaponizers. They identified his children-bond as exploitable and were correct.
+  - 'Current state: adversarial in record, but Franklin holds no personal grudge — he understands he was
+    the right tool for their job.'
+  - 'Leverage: any adversary studying the Skrull playbook of FF #32 has a working template for moving
+    Franklin.'
+  alien_benefactors_resurrection_era:
+  - The strangers who saved him and gave him patients to heal at cosmic remove.
+  - 'Current state: collegial, grateful, functionally his second family — chosen precisely because they
+    are not his first.'
+  - 'Failure mode: if these benefactors ever asked him to choose between their world and his children''s
+    safety, he would choose his children without hesitation and abandon them as he abandoned everyone
+    else, by exit rather than betrayal.'
+canon_history_notes:
+- 'Introduced retroactively in Fantastic Four #32 (Lee/Kirby, 1964) as a backstory figure — the absent
+  father reconstructed in flashback, a structural fact about him.'
+- Surgeon in Glenville, Long Island. Married to Mary Storm. Mary dies on his operating table after a car
+  accident — the originating catastrophe.
+- 'Post-Mary collapse: license loss, alcohol dependence, gambling debts to Lucky Logan / the Wizard, accidental
+  killing of a loan shark, prison. No contact with children during fall.'
+- 'FF #32 ''Death of a Hero'': Super-Skrull surgically alters him to impersonate a Skrull infiltrator,
+  then restores his face. Franklin dies leaping onto a Skrull explosive to save the FF.'
+- 'Englehart/DeFalco era (late 1980s–early 1990s): revealed alive, saved by alien surgeons and relocated
+  to a parallel realm. Returns as a healer figure on alien worlds and as caretaker to Nathaniel Richards''
+  associates.'
+- 'Fantastic Four #377 (DeFalco, 1993): dies definitively in cosmic conflict, again self-sacrificial,
+  again with Sue present.'
+- 'Longitudinal arc: abandonment → self-destruction → carceral disappearance → death-as-apology → absence-disguised-as-healing-others
+  → death-as-apology (reprise). Incapable of unspectacular fatherhood.'
+- 'Genetic substrate: his body, transmitted through his children, is the foundation that allowed cosmic-ray
+  exposure to mutate rather than kill them. He gave them the bodies that became the Fantastic Four; he
+  was not present for the lives those bodies lived.'
+canon_anchor_quotes:
+- '"Sue... Johnny... my children... forgive me..." # FF #32, dying words'
+- '"I am not the man I was. That man died with your mother. What stands before you is only what he left
+  behind." # paraphrastic of resurrection-era characterization, DeFalco run'

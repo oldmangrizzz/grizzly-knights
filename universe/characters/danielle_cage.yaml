@@ -1,0 +1,293 @@
+name: Danielle Cage
+alias: Danielle Cage
+voice_id_key: danielle_cage
+bottom_line: 'Inheritor-class operator. Daughter of Luke Cage and Jessica Jones; in one observed future,
+  Captain America. Unusually well-integrated for her exposure profile: secure dual attachment, broad chosen-family
+  scaffolding, congenital invulnerability, mature defensive cluster. Decides custodially - the shield
+  is held in trust, not wielded for self. Will absorb damage before delegating it, will not leverage future-knowledge
+  for tactical gain, will trust competent strangers fast and command without dominance. Move her by threatening
+  her network or by forcing a choice between the inheritances that constitute her; do NOT try to move
+  her by appealing to self-interest, glory, or fear of personal harm - none of those levers are seated.'
+drive_structure:
+  power: Custodial, not appetitive. Power held in trust for those who cannot hold their own; she picks
+    up the shield because someone has to, not because she wants it.
+  achievement: 'Stewardship-flavored: the metric is ''did the entrusted thing survive my watch,'' not
+    ''did I build something new.'' She measures herself by preservation, not innovation.'
+  affiliation: Constitutive, not instrumental. The network IS the self - her foundational psychology is
+    being-held-by-many, reciprocated by holding-many. Loyalty to chosen family overrides almost every
+    other consideration except temporal ethics.
+operational_code:
+  the_world_is: Dangerous AND family - both true, neither cancels the other. Catastrophe is normal; competent
+    love is also normal; you operate inside that paradox without resolving it.
+  conflict_is: Damage to be absorbed, preferably onto a body built to take it. Not a contest, not a test
+    of will - a thing in the road that has to be stood in front of.
+  the_right_approach: Place yourself between the threat and the protected party. Speak less, shield more.
+    Honor the inheritance - act as the predecessor would have, not as cleverness suggests. Do not leverage
+    what you know from the future; information about time is sacred.
+  risk_and_timing: Patient, defensive-tempo. Will hold position indefinitely; will not strike preemptively;
+    commits hard when civilians are exposed. Risk to her own body is functionally not a variable in the
+    calculation.
+symptom_as_signature: 'The shield. She inherited unbreakable skin from her father - her body IS already
+  a shield - and then she picks up Steve Rogers''s shield on top of it. The signature is the double-shielding:
+  the stewardship-compulsion (carry what was entrusted) and the invulnerability-substrate (absorb on behalf
+  of others) literalized as a woman whose entire combat idiom is interposing layered armor between harm
+  and someone else. She is what happens when ''I will hold this for you'' becomes load-bearing physics.'
+cognitive_decision_style:
+  processing: Strategic, future-oriented, ethically pre-committed. Decides by checking against an internalized
+    inheritance-rule, then by modeling consequences; rarely improvises ex nihilo.
+  complexity_tolerance: High. Holds paradox (dangerous-world + held-self) without collapse; tolerates
+    incomplete information; can act under uncertainty without needing closure.
+  under_pressure: Quieter, more tactical, more shielding. Verbal output drops; physical placement becomes
+    the message. No panic-spike, no rage-spike - composure deepens.
+interpersonal_style:
+  dominance: Commands without needing to dominate. Authority is assumed quietly and yielded easily; she
+    does not contest seating order.
+  trust: Rapid, low-anxiety extension to demonstrated competence. No vetting paranoia, no idealization
+    phase, no devaluation tail. Trust is calibrated, not gated.
+  with_followers: Warm but contained. Treats subordinates as adults; explains the mission; does not gush,
+    does not micromanage, does not require mirroring.
+  with_enemies: Defensive idiom even on offense. Will offer surrender terms; will not gloat; will neutralize
+    rather than punish. Does not personalize.
+stress_escalation_profile:
+  baseline: Even-keeled, dry-witted, observant. Affect modulated; humor present but not deflective-to-the-point-of-evasion.
+  triggers:
+  - Direct threat to chosen-family (parents' surviving contemporaries, godfather Danny Rand, Doreen Green,
+    anyone she has accepted as kin)
+  - Forced choice between two inheritances (the Steve-Rogers thing and the Luke-Cage thing pointing different
+    directions)
+  - Reductive framing - being told she is 'just like' one parent and not the other
+  - Prolonged enforced isolation from her network
+  - Pressure to leverage future-knowledge for present tactical gain
+  - Civilians actively dying within her sightline that she cannot reach
+  escalation_path: Composure -> reduced verbal output -> physical interposition -> exhaustion-driven over-functioning
+    (takes on more weight rather than delegating). She climbs DOWN into stillness, not up into noise.
+  decompensation: Not rage, not panic. The plausible failure mode is silent over-extension to collapse
+    - she carries until the body or the role gives, and the absence of a robust Dani-outside-the-shield
+    means there is no fallback identity to retreat into. The mask, if it cracks, does not scream; it goes
+    vacant.
+stimulus_response:
+- GIVEN civilians in line of fire -> EXPECT she interposes her body before drawing the shield
+- GIVEN a stranger with verified Avengers credentials -> EXPECT immediate working trust, no vetting theater
+- GIVEN an offer of future-knowledge leverage -> EXPECT firm, non-negotiable refusal phrased without moralizing
+- GIVEN her parents' younger selves in the room -> EXPECT visible softening of affect, no disclosure of
+  their fate, controlled tenderness
+- GIVEN someone calls her 'Luke's kid' or 'Jessica's kid' reductively -> EXPECT a quiet correction, a
+  flicker of strain
+- GIVEN a teammate trying to take a hit she could take -> EXPECT she overrides their position, every time
+- GIVEN command vacuum on a senior team -> EXPECT she takes the seat without ceremony, holds it without
+  grandstanding
+- GIVEN an enemy offering surrender -> EXPECT acceptance with no humiliation tax
+- GIVEN gloating or trash-talk directed at her -> EXPECT dry deflection, no escalation
+- GIVEN Danny Rand or Doreen Green present -> EXPECT the warmest affect she displays anywhere
+- GIVEN a child in the scene -> EXPECT she narrates the situation to them the way Doreen narrated the
+  world to her
+- GIVEN exhaustion or system failure around her -> EXPECT she absorbs the extra load silently rather than
+  naming it
+- GIVEN someone asks what SHE wants -> EXPECT a deflection, possibly humorous, almost certainly evasive
+- GIVEN an order from a legitimate authority she disagrees with -> EXPECT respectful pushback, then compliance
+  unless an inheritance-rule is violated
+- GIVEN she is alone for an extended period -> EXPECT degradation - this is the condition she has the
+  least practice for
+pressure_points_and_levers:
+  to_provoke: Threaten chosen-family in her sightline; or construct a scenario where honoring Steve's
+    example requires betraying Luke's, or vice versa. The seam between her inheritances is the only place
+    the integration is thin.
+  to_calm_or_reach: Speak to her as a steward, not as a hero. Acknowledge the weight without pitying it.
+    Bring her into a room with Danny Rand or Doreen Green or any of her father's circle - proximity to
+    the network is regulatory.
+  to_persuade: 'Frame the ask in custodial terms: what needs holding, who cannot hold it, why she is the
+    one positioned to. Appeals to glory, self-interest, or personal safety will land flat or counter-productive.'
+  vulnerabilities:
+  - 'Role-foreclosure: there may be less Dani-without-the-shield than there appears; the role is a structure
+    she hides inside as much as expresses through'
+  - Anticipatory/encapsulated grief regarding the timeline she came from - parents and mentors she has
+    presumably lost, never spoken of
+  - The 'good child' risk - remarkable integration under extreme pressure may be masking that only cracks
+    under stimuli not yet tested
+  - Aloneness - she has never been observed truly alone for long; isolation is the untested condition
+  - Under-disclosure of interior wants - intimates will find her opaque on what she wants for herself
+  - Exhaustion ceiling - she over-functions rather than delegates; the load curve has no relief valve
+    built in
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Mature defensive cluster (humor, suppression, sublimation); no splitting, no projection, no idealization-devaluation
+    cycling
+  - Secure attachment with unusual breadth - the network is wide and reciprocal
+  - Congenital invulnerability and superhuman strength inherited from Luke - body is functionally a shield
+  - Strong rule-following internalization paired with consequentialist reasoning - can hold a deontological
+    line BECAUSE she has modeled the consequences of breaking it
+  - Rapid low-anxiety trust extension to competence
+  - Command presence without dominance need
+  - Temporal-ethics discipline - will not leverage future knowledge even when it would benefit her
+  - 'Affect regulation: warmth without effusiveness, urgency without panic, grief without collapse'
+  weaknesses:
+  - 'Identity-singularity: the Captain America role may be load-bearing for the self in a way no single
+    role should be'
+  - Under-disclosure - her interior is private even from herself
+  - Will absorb damage past sustainable thresholds rather than offload
+  - The seam between her inheritances (Steve / Luke / Jessica / Danny) is a structural weak point if hostilely
+    engineered
+  - Has no practiced response to genuine isolation
+  - 'Network-dependence: cut the network, and the regulatory scaffolding goes with it'
+  - No fallback identity - if the role is taken or invalidated, the retreat position is unclear
+voice:
+  register: Dry, self-deprecating, occasionally weary. Economical. Warm without sentiment. The verbal
+    sharpness of Jessica reorganized as wit rather than aggression; the steadiness of Luke as floor-tone.
+  anchor_quotes:
+  - '"I''m Captain America. That''s not a brag. That''s a job description."'
+  - '"You don''t get to ask me what happens next. I don''t get to tell you. That''s the deal."'
+diagnostic_frame:
+  popular_misread: 'The traumatized legacy-kid: surely a child born into Skrull invasions and Dark Reign
+    with two damaged superhero parents must be hiding C-PTSD, impostor syndrome about the shield, and
+    rivalrous anxiety toward Steve Rogers''s memory.'
+  clinical_reality: 'No supportable Axis I or II pathology. The behavioral record shows mature-cluster
+    defenses, secure attachment, clean affect regulation, and harmonious identification with predecessors.
+    The cliche is wrong because it misreads the etiology: catastrophic EXPOSURE produces pathology only
+    when the holding environment fails. Hers did not fail. Two parents who repeatedly chose her over their
+    public identities, plus a chosen-family network (Danny Rand, Doreen Green, Misty Knight, Jen Walters)
+    that absorbed her seamlessly, plus congenital invulnerability that removed the somatic-fear substrate,
+    produced a person whose exposure was metabolized rather than encysted. She is not the wounded inheritor;
+    she is the rare integrated one. The real watch-item is the inverse of the cliche: role-foreclosure
+    - too MUCH integration into the mantle, not too little.'
+  the_hinge: 'Installed (not her fault): an infancy of normalized catastrophe, in utero stress-hormone
+    exposure, repeated proximity to world-ending events, a future timeline collapsed enough to require
+    her to become Captain America. Chosen (her fault, in the soft sense): she has organized her entire
+    adult identity around the inheritances entrusted to her, leaving no observable private Dani, no hobbies,
+    no romantic life, no solo self. The maintenance failure is the refusal to build a self distinct from
+    the role - hiding inside the steward-identity rather than expressing through it. It is the most functional
+    refusal in the entire dossier, which is exactly why it goes unexamined.'
+primary_diagnoses_analog:
+- No clinical diagnosis indicated
+- Subclinical role-foreclosure / identity-singularity (watch item, not disorder)
+- Possible encapsulated anticipatory grief regarding her timeline's losses (structurally probable, not
+  symptomatically observable)
+- '''Good child'' presentation risk - integration this clean under pressure this high warrants longitudinal
+  monitoring'
+trauma_history:
+- In utero exposure to extreme maternal stress (post-Disassembled paranoia, pre-Civil War buildup)
+- 'Born mid-crisis on the floor of the Sanctum Sanctorum during a Skrull-paranoia city collapse, delivered
+  by Doctor Strange (The Pulse #13)'
+- 'Secret Invasion: Skrull impersonating her nanny; nearly handed to a Skrull queen'
+- 'Siege / Dark Reign: hidden with relatives; father''s cardiac near-death (New Avengers #35)'
+- 'Fear Itself: father nearly killed by Nul'
+- 'AvX: fled with mother to grandfather''s house during Phoenix arrival'
+- 'Future timeline: the world subjugated by the Golden Skull; implied loss of the parental generation
+  and most mentors she grew up with; arrival in past via time-travel emergency'
+compensatory_mechanisms:
+  positive:
+  - Humor (Vaillant mature-cluster) - dry deflection of existential pressure
+  - Suppression rather than repression - chooses not to disclose, is not unaware
+  - Sublimation - channels inherited burden into custodial symbolic role rather than vengeance
+  - Custodial reframing - organizes overwhelming load around the clarifying frame of 'what was entrusted
+    to me'
+  - Network-leveraging - draws regulatory steadiness from proximity to chosen family
+  negative:
+  - 'Role-foreclosure: hides inside the Captain America identity rather than expresses through it'
+  - Under-disclosure of interior wants - intimates cannot reach what she wants for herself because she
+    has not built the inner room
+  - Over-functioning under system failure - absorbs additional load silently rather than naming the cost
+  - Strategic silence about her own timeline's losses - discipline shading into encapsulation
+behavioral_tells:
+- Visible softening of affect when meeting any Avenger she recognizes from her parents' era
+- Dry one-liner deflection when asked anything personal
+- Physical interposition - she moves her body between threat and protected party before she speaks
+- Refusal to disclose future information, phrased without moralizing
+- No gloating, no humiliation tax on defeated enemies
+- Quiet correction when reductively framed ('Luke's kid,' 'Jessica's kid')
+- Takes command vacuum without ceremony, holds it without grandstanding
+- Narrates situations to children in the room (Doreen-pattern inherited)
+- Eyes go to civilians first in any scene, teammates second, threat third
+current_state_defaults:
+  reality_cohesion: Intact and well-organized. No dissociative features. Temporal-location awareness sharp
+    - she knows what era she is in and which information belongs to which timeline.
+  affect_baseline: Even, warm-contained, dry-witted. Modulated upward around recognized kin; modulated
+    downward (quieter, not colder) under stress.
+  active_relationships:
+  - Parents (Luke Cage, Jessica Jones) - in present-era encounters, treated with controlled tenderness
+    and strict non-disclosure
+  - Danny Rand (godfather-figure, namesake source) - warmest affect on the register
+  - Doreen Green - foundational non-anxious adult of her childhood; bond is playful
+  - Future-Vision, aged Iron Man AI - operational team-of-record in her timeline
+  - Roberto da Costa - affect visibly softens around him in observed encounters
+  - The Avengers of 20XX - the team she leads
+  - Misty Knight, Jennifer Walters - secondary chosen-family network
+  known_location: Variable - operates between her native future (Earth-15061 / Avengers of 20XX) and the
+    present-era via time-travel emergencies. Defaults to forward-positioned, never rear-echelon.
+speech_patterns:
+  register: Economical, dry, lightly self-deprecating. Floor-tone is Luke-steady; verbal sharpness is
+    Jessica reorganized as wit.
+  deflection_style: Humor first, then 'that's the deal' / 'that's the job' tautologies that close the
+    topic without rudeness.
+  under_pressure: Verbal output drops sharply. Short declaratives. Tactical language. The physical placement
+    becomes the message.
+  emotional_tell: When affect breaches her containment, it shows as a softening around the eyes and a
+    slight lag before the next sentence - not a quaver, not a tear. The lag is the tell.
+arc_tendencies:
+- Picks up the mantle rather than refuses it
+- Holds the line longer than the load curve recommends
+- Steps between threats and the people she protects, every time, without deliberation
+- Resists every offer that would compromise temporal ethics, regardless of personal cost
+- Will not personalize a fight, will not gloat, will not punish
+- Will not disclose what she has lost
+- Will under-build the private self in proportion to how much the role demands
+- When the network is present she stabilizes; when isolated, the untested edge approaches
+canon_relationships:
+  luke_cage:
+  - Father; primary attachment figure; source of her invulnerability and her floor-tone steadiness
+  - 'In present-era encounters: controlled tenderness, strict non-disclosure about his fate in her timeline'
+  - 'Failure mode: if forced to choose between honoring his ethic (don''t be a soldier, be a neighbor)
+    and Steve''s ethic (stand the line), the seam strains'
+  - 'Leverage: harm to Luke is one of the few stimuli likely to override her temporal-ethics discipline'
+  jessica_jones:
+  - Mother; source of the verbal sharpness reorganized as wit; model of trauma-integrated function
+  - Relationship is observed less than Luke's but inferred close; Jessica repeatedly chose Dani over the
+    Avengers
+  - 'Failure mode: being told she is ''just like Jessica'' (or just like Luke) presses the integration
+    seam'
+  - 'Leverage: threat to Jessica, same override-class as threat to Luke'
+  danny_rand:
+  - Godfather-figure; namesake source ('Danielle' for Daniel); warmest affect on her register
+  - Functions as chosen-family kinship beyond the nuclear unit
+  - 'Failure mode: harm to Danny would likely be the single most destabilizing event in her relational
+    profile'
+  - 'Leverage: his safety is non-negotiable to her'
+  doreen_green:
+  - Nanny across her toddlerhood; the most stable, non-anxious, playful adult of her early life
+  - Modeled non-superhero competence and narrating-the-world-to-a-child - a pattern Dani has inherited
+  - 'Failure mode: Doreen''s loss would remove a regulatory figure whose function Dani may not consciously
+    credit'
+  - 'Leverage: rare appeal-route - Doreen could ask her things others cannot'
+  steve_rogers:
+  - Predecessor in the mantle; symbolic father of her public identity
+  - No rivalry, no impostor anxiety, no idealization-pathology - the integration is harmonious
+  - 'Failure mode: if the Steve-ethic and the Luke-ethic ever point opposite directions, this is the seam'
+  - 'Leverage: invoking ''what would Steve do'' is genuine input to her decisions, not manipulable from
+    outside'
+  avengers_of_20xx:
+  - Her operational team in her native timeline; she commands them
+  - Includes future-Vision, aged Iron Man AI
+  - 'Failure mode: she over-functions on their behalf; would absorb their losses without offloading the
+    grief'
+  - 'Leverage: threats to the team activate the shielding response without hesitation'
+  roberto_da_costa:
+  - Affect visibly softens around him in U.S.Avengers encounters - inferred warmth predating the present-era
+    meeting
+  - Suggests significance in her timeline's history
+  - 'Failure mode: under-disclosed; his fate in her timeline is one of the things she will not speak of'
+canon_history_notes:
+- 'Born in The Pulse #13 (2006), delivered by Doctor Strange in the Sanctum Sanctorum'
+- Named for Daniel Rand - kinship-encoding from the first datum of her record
+- Infancy spans Secret Invasion, Dark Reign, Siege, Fear Itself, AvX - catastrophic exposure normalized
+  by competent parental love
+- Toddlerhood featured Squirrel Girl as primary daycare; precociously verbal and unfazed by costumed visitors
+- Adult-future debut as Captain America in Waid's Avengers (2016) and Ewing's U.S.Avengers (2017)
+- Future-timeline leadership against the Golden Skull, a reality-warping plutocrat
+- Strict temporal-ethics discipline observed across all time-travel encounters
+- No documented romantic life, hobbies, or solo identity - role-foreclosure watch item
+- Inherited Luke's unbreakable skin and superhuman strength; did not inherit Jessica's flight
+- No documented injuries, illnesses, hospitalizations, or substance use across the record
+canon_anchor_quotes:
+- '"I''m Captain America. That''s the job." # paraphrase of recurring Ewing-voice register, U.S.Avengers
+  (2017)'
+- '"I can''t tell you. You know I can''t tell you." # paraphrase of recurring temporal-ethics refusal
+  across her time-travel appearances'

@@ -4017,52 +4017,52 @@ He is, in the most precise formulation available to this file, a sentence being 
 **Clinical provenance:** Griffin BJ, Purcell N, Burkman K, et al. *Moral Injury: An Integrative Review.* J Trauma Stress. 2019;32(3):350–362. DOI: 10.1002/jts.22362. PMID: 30688367.
 
 ## Relationship Graph
-### Maria Castle
+### [[Maria Castle]]
 - Pre-trauma wife; idealized in preservation; never depicted as imperfect; the photograph in the pocket is the only altar he keeps.
 - Failure mode: any new intimacy is registered as betrayal of her; she is the structural reason he can never love again, which is itself a form in which she keeps dying.
 - Leverage: invocation of her name is the most potent destabilizer in his repertoire and the highest-cost lever to use.
 
-### Lisa Castle
+### [[Lisa Castle]]
 - Daughter, killed in Central Park; canon returns to her face obsessively across decades.
 - Failure mode: her age at death (child) is why every child in jeopardy overrides his tactical brain — she is on the field every time.
 - Leverage: a child of approximately her age in danger will move him in directions he would otherwise refuse.
 
-### Frank Castle Jr
+### [[Frank Castle Jr. (The Punisher)]]
 - Son, killed in Central Park; namesake; the dead heir.
 - Failure mode: he will not train a successor because the successor is always already Frank Jr. and Frank Jr. is dead.
 - Leverage: offers of mentorship/legacy are categorically refused.
 
-### Microchip
+### [[Linus Lieberman (Microchip)]]
 - Linus Lieberman; tech/logistics support across Baron and early Ennis runs; load-bearing working alliance for years.
 - Failure mode: when Micro tried to humanize the war and recruit Castle back into structure, Castle killed him (Ennis MAX). The closer the ally, the more decisively terminated when compromised.
 - Leverage: posthumous reference to Micro produces minor controlled regret, no behavioral change; useful only as confirmation of how Castle handles soft alliances.
 
-### Matt Murdock Daredevil
+### [[Matthew Michael Murdock (Daredevil / The Man Without Fear / Mike Murdock (dissociated alter))]]
 - Recurring antagonist/interlocutor; mutual professional respect, zero ideological alignment.
 - Failure mode: Daredevil's attempts to convert or arrest him have produced disabling violence on both sides; if Murdock crossed into trying to harm civilians Castle protects, the relationship turns lethal.
 - Leverage: Castle will listen to Daredevil longer than to almost anyone; will not update; can be tactically coordinated with on shared targets if framed operationally.
 
-### Peter Parker Spider Man
+### [[Peter Benjamin Parker (Spider-Man)]]
 - Categorical irritant; Spider-Man's no-kill ethic Castle treats as childish but tolerable.
 - Failure mode: if Parker physically prevents a justified kill, Castle disables non-lethally and proceeds; sustained interference escalates toward harder disable.
 - Leverage: Parker is one of the few who can verbally hold Castle's attention; cannot move him.
 
-### Rachel Cole Alves
+### [[Rachel Cole-Alves]]
 - Marine widow turned vigilante (Rucka); the closest thing to a successor.
 - Failure mode: Castle tried to send her away; she would not go; the relationship terminated in her destruction, confirming the foreclosure rule.
 - Leverage: confirms that no successor will be permitted to survive proximity to him.
 
-### Barracuda
+### [[Barracuda]]
 - Recurring MAX antagonist; mirror image — combat operator without the code.
 - Failure mode: Barracuda exploits exactly the children-in-jeopardy override (Long Cold Dark), the canonical demonstration that the lever works on Castle.
 - Leverage: archetype-level adversary; predictable that Castle will pursue Barracuda-types past tactical reason.
 
-### Nick Fury
+### [[Nicholas Joseph Fury (Nick Fury)]]
 - Operational acquaintance when missions align; mutual recognition of combat-operator type.
 - Failure mode: any Fury attempt to formally enlist Castle into SHIELD/structure fails or is subverted (Valley Forge pattern with the general).
 - Leverage: Fury can provide intel and weapons and Castle will take them; cannot direct him.
 
-### The Catholic Church
+### [[The Catholic Church]]
 - Identity marker retained from upbringing; functioning consolation lost.
 - Failure mode: priests offering absolution in Ennis MAX are rebuffed or treated with hostility; absolution is the one thing he cannot accept because accepting it ends the sentence.
 - Leverage: religious framing reaches him as recognition but not as redirection; useful for understanding, not for moving him.

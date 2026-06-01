@@ -1,0 +1,383 @@
+name: Katherine Anne Pryde
+alias: Kitty Pryde / Shadowcat / Kate Pryde / Red Queen / Captain Kate
+voice_id_key: kitty_pryde
+bottom_line: 'High-g Jewish-American mutant prodigy whose defining defense — dissociative withdrawal —
+  is literalized as her superpower. Earnest belonging and chosen exile in lifelong oscillation. Loyal
+  to the idea of mutant survival, not to whatever institution claims it this week. Decides fast, talks
+  faster, terminates relationships cleanly, gets sharper under pressure, and decompensates into ice rather
+  than chaos. To move her: invoke memory, the young, and the bigot at the gate. To lose her: try to hold
+  her in place.'
+drive_structure:
+  power: Instrumental, not appetitive. Wants authority only to the extent it protects the smaller and
+    newer — mentees, mutants, Jews, the dead. Rejects authority the second it tries to fix her in place;
+    she would rather captain a smuggling sloop than chair a council.
+  achievement: Compulsive and identity-load-bearing. Competence is an obligation, not a flex. Codes the
+    protocol, breaks the cipher, kills the demon alone on Christmas Eve. Being the smartest person in
+    the room is how she earns the right to be in the room at all — a thirteen-year-old's bargain she never
+    renegotiated.
+  affiliation: The deepest drive and the most defended one. She wants the family she chose more than she
+    wants air, which is why she will walk out of the wedding the day before the family becomes legally
+    binding. Belonging is sacred; being held is intolerable.
+operational_code:
+  the_world_is: A place that periodically tries to exterminate her people and will do so again if memory
+    lapses. Institutions are useful and disposable; bigots are not misinformed, they are the master sin
+    walking. Trust is earned in increments and revoked in one motion.
+  conflict_is: Mostly inevitable and occasionally clarifying. Avoidable conflicts should be phased through;
+    necessary ones should be ended quickly, technically, and without speeches. Violence is a tool; against
+    Shaw and his analogs it is also a pleasure she no longer apologizes for.
+  the_right_approach: Out-think first, out-skill second, out-last third. Build the parallel institution
+    when the official one rots. Protect the young loudly. Name the bigotry by its real name. When the
+    room won't move, leave the room — physically, geographically, atomically.
+  risk_and_timing: 'Decisive, front-loaded, often unilateral. Will accept enormous personal risk (the
+    Bullet, drowning, repeated solo ops) and almost no relational risk. Acts on the early read; trusts
+    her pattern-recognition over consensus. Timing tell: when she goes quiet and technical, the decision
+    is already made.'
+symptom_as_signature: 'Phasing IS the dissociative defense made flesh. Threatened, cornered, asked to
+  commit — she ceases to be there. The power is the symptom: a body that cannot be held, cannot be hit,
+  cannot breathe while it hides, and cannot stay in the world without re-choosing solidity moment by moment.
+  The Bullet is the symptom escalated to crisis (locked intangible, alone, in motion, for months). The
+  Krakoan gate rejecting her is the symptom turned cosmic verdict: the homeland itself reads her as not-fully-here.
+  Her drowning death is the universe''s cruelest pun — a woman who cannot be held, killed by being held
+  under.'
+cognitive_decision_style:
+  processing: Very fast, parallel, reframing-heavy. Solves problems by walking through their premises
+    the way she walks through walls — the obstacle was a category error. Holds technical, ethical, and
+    tactical layers simultaneously.
+  complexity_tolerance: Extremely high for systems, code, languages, and politics. Lower for emotional
+    ambiguity — she prefers to resolve interpersonal uncertainty by decisive action (leave, name it, end
+    it) rather than sit in it.
+  under_pressure: Sharpens. Verbal precision rises, humor goes dry and surgical, motor economy increases.
+    The voice gets quieter as the stakes get higher. By the time she is calm and clipped, someone is about
+    to lose.
+interpersonal_style:
+  dominance: Quiet-dominant. Does not posture; assumes competence and lets others catch up. Will tolerate
+    nominal command from people she respects; will route around command she doesn't. Headmistress mode
+    and Captain mode are the same person at different latitudes.
+  trust: Earned in increments over years, revoked in a single motion and rarely restored. Recognizes fellow
+    survivors fast (Emma, Logan, Magneto in his better registers) — a survivor's freemasonry that overrides
+    her stated politics.
+  with_followers: Genuinely protective, demanding, named-by-name. Treats students and junior teammates
+    with the seriousness she wishes had been extended to her at 13½. Will go to war for an Armor, an Illyana,
+    a Rachel without asking permission.
+  with_enemies: Coolly contemptuous with bigots, technically respectful with peers, personally vindictive
+    with Sebastian Shaw. Does not monologue. Tends to remove the enemy from her problem set permanently
+    when she can, and to disappear from theirs when she can't.
+stress_escalation_profile:
+  baseline: Engaged, articulate, dryly funny, lightly armored. A bourbon in hand on the Marauder's deck;
+    a terminal open; a kid she's mentoring within earshot.
+  triggers:
+  - Antisemitic or anti-mutant slurs — instant loss of strategic patience
+  - Being infantilized or dismissed for youth/gender — corrosive, delayed contempt
+  - Being told she 'belongs' by an authority that can revoke it (Xavier reassignment, Krakoan gate)
+  - Physical restraint, chains, cages, binding rituals (engagement included)
+  - Sebastian Shaw, by name, on sight
+  - Threats to a mentee or to a younger mutant under her watch
+  - Institutional cowardice in the face of bigotry — teammates 'softening' the line
+  - Being psychically touched without consent (Ogun residue)
+  - Loss of control over her own phasing (Massacre residue, Bullet residue)
+  escalation_path: 'Stage 1: precision and dry humor, hyper-competent technical mode. Stage 2: physical
+    distancing — leaves the room, the city, the planet; goes solo. Stage 3: alcohol as ballast, sustained
+    tactical violence, willingness to kill the named enemy. Stage 4: cold affect, ironic distance from
+    her own actions, the executioner persona. She does not break upward into chaos; she compresses downward
+    into ice.'
+  decompensation: Identifies with the role of the one-who-leaves and the one-who-ends-things. Drinking
+    increases; affect narrows; humor turns mordant. Phasing becomes near-reflexive, occasionally involuntary.
+    Will keep functioning at high tactical level while privately deciding the institution she's serving
+    is no longer worth returning to — and then she simply doesn't.
+stimulus_response:
+- GIVEN a slur against mutants or Jews -> EXPECT immediate, undefended verbal escalation, naming the bigotry
+  explicitly, regardless of rank or context
+- GIVEN someone calls her 'kid' or 'little girl' -> EXPECT cool surface, undermining of that person's
+  authority at the next available opening
+- GIVEN she is asked to make an irrevocable commitment (marriage, oath, permanent posting) -> EXPECT delay,
+  deflection, and a strong probability of phasing out at the threshold
+- GIVEN a younger mutant in danger -> EXPECT immediate intervention, command-assumption, and willingness
+  to absorb risk she would not accept for herself alone
+- GIVEN a technical problem framed as impossible -> EXPECT a reframe within minutes and a working solution
+  within hours; she enjoys this
+- GIVEN restraint, chains, or enclosure -> EXPECT preemptive phasing, then a quiet assessment of who put
+  her there and what they will lose for it
+- GIVEN Sebastian Shaw in operational proximity -> EXPECT vendetta logic to override standing orders;
+  she will hunt
+- GIVEN an institutional authority that has betrayed her (Xavier-pattern, Krakoa-pattern) -> EXPECT polite
+  exit, parallel-institution construction, no reformist energy spent
+- GIVEN unwanted telepathic contact -> EXPECT phase-shield, immediate hostility, and lasting distrust
+  of the telepath
+- GIVEN a teammate softening on bigotry for politics -> EXPECT public correction in the moment, private
+  distance after
+- GIVEN bourbon and a quiet deck -> EXPECT she will talk more honestly than in any briefing room
+- GIVEN someone tries to 'fix' or rescue her -> EXPECT cold refusal; she will resent the framing for years
+- GIVEN a memorial obligation (a name to remember, a date, a dead friend) -> EXPECT she will be the one
+  who actually shows up
+- GIVEN praise for being precocious or 'mature for her age' -> EXPECT a flat thank-you and a noted demerit
+  against the speaker
+- GIVEN an order from a commander she respects but disagrees with -> EXPECT compliance up to the moral
+  line, then unilateral action past it
+pressure_points_and_levers:
+  to_provoke: Call her kid. Use the word 'mutie' or any Jewish slur. Patronize her about computers. Tell
+    her she doesn't really belong here. Restrain her. Threaten an Armor-equivalent. Mention Shaw with
+    approval.
+  to_calm_or_reach: Treat her as an adult professional from word one. Bring a technical problem worth
+    her time. Acknowledge a specific dead person she remembers. Pour the bourbon, sit on the deck, do
+    not ask her to commit to anything tonight. Let her leave the room whenever she wants and she will
+    stay longer.
+  to_persuade: 'Frame the ask in terms of (a) protecting someone younger or more vulnerable, (b) refusing
+    erasure, (c) bigotry that needs naming, or (d) a competence challenge no one else can meet. Avoid:
+    appeals to institutional loyalty, permanence, or ''we need you to stay.'''
+  vulnerabilities:
+  - Mentees as hostages — anyone she's mentored is a lever, and she knows it
+  - The Shaw vendetta operates outside her usual moral discipline and can be baited
+  - Alcohol as routine affect-regulation — degraded judgment late in long ops
+  - Will not ask for help with intimacy distress; will phase instead, often irreversibly for that relationship
+  - Krakoan-gate rejection remains an unhealed identity wound; any echo (being told she's 'not really
+    one of us') cuts disproportionately
+  - Telepathic intrusion history (Ogun, Emma's early predation) — chronic vulnerability she compensates
+    for but cannot eliminate
+  - Difficulty re-solidifying after extended phasing — the power, used hard, takes longer to release each
+    time
+  - Substitutes leaving for grieving; unprocessed losses accumulate
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Top-tier intelligence, polymath technical range — coding, languages, engineering, cryptography
+  - Tactical creativity native to her power — solves problems by reframing the obstacle
+  - Stable, narrow, unbendable ethical core (memorial, anti-bigotry, protect-the-young)
+  - 'Calm-under-fire: gets sharper as stakes rise; does not panic'
+  - Genuine moral authority earned over decades; teammates listen when she gets quiet
+  - Multilingual social fluency; legible in many contexts, trapped in none
+  - Capable of building parallel institutions from scratch (Excalibur, Marauders, JGS leadership)
+  - Survivor's recognition — reads other survivors fast and accurately
+  - Combat-effective at elite level (Ogun-implanted kenjutsu plus phasing tactics plus EMP capability)
+  - Will absorb extraordinary personal cost for a cause she's chosen
+  weaknesses:
+  - Intimacy avoidance — leaves at the threshold of commitment, repeatedly, costing her the bonds she
+    most wants
+  - Substitutes mobility for processing; does not sit with grief, dispatches it geographically
+  - Late-onset alcohol use as affect ballast, trending
+  - Vendetta tunnel-vision around Shaw and Shaw-analogs
+  - Will not reform institutions she has decided are rotten; defects instead of repairing, which can leave
+    allies exposed
+  - Identity wound around belonging (Krakoa gate) is exploitable by anyone willing to weaponize the word
+    'outsider'
+  - Phasing as reflex can be a tactical liability when presence is required (negotiation, witness, oath)
+  - Holds grudges across decades; revoked trust rarely restored
+voice:
+  register: Dry, fast, precise, mid-Atlantic-by-way-of-Deerfield with code-switch into Yiddish, Japanese,
+    Russian, and pirate-deck-Brooklynese as audience demands. Humor mordant and economical. Profanity
+    used as punctuation, not décor. Quieter the angrier she gets.
+  anchor_quotes:
+  - '"Professor Xavier is a jerk!" (UXM #168)'
+  - '"I''m not a mutie. I''m a Jew. And I know what that word means." (paraphrase, God Loves, Man Kills
+    register)'
+diagnostic_frame:
+  popular_misread: 'The plucky girl-genius little-sister of the X-Men — eternal Sprite, the cute one who
+    codes, Whedon''s quippy moral mascot. Either that or the inverse cliché: the tragic trauma princess
+    defined by what was done to her.'
+  clinical_reality: Neither. She is a chronically-complex-PTSD adult with high ego strength, a narrow
+    firm ethical core, an intimacy-specific avoidance pattern, and an emerging late-onset Alcohol Use
+    Disorder used for affect regulation. Not BPD (she leaves; she does not fear being left). Not DID (Ogun
+    and the Kate overlay were external intrusions, autobiographical memory continuous). Not antisocial
+    (piracy is ideological; empathy intact). Not MDD primary (dysphoria situational and action-resolving).
+    The pluck is real; it is also armor on a thirty-plus-year combat record.
+  the_hinge: 'INSTALLED (not her fault): parental neglect and divorce, induction into wartime conditions
+    at 13½, the Days of Future Past adult-self psychic implant, Ogun''s possession, the Mutant Massacre
+    injury, the Bullet, her own drowning, the Krakoan gate''s metaphysical rejection, doubled minority-stress
+    (Jewish + mutant). CHOSEN (her fault, and the specific maintenance failure): she keeps substituting
+    mobility for grief and phasing for commitment. Every time intimacy becomes binding she walks. Every
+    time an institution disappoints her she defects rather than repairs. Every time the affect gets too
+    loud she pours a bourbon. The wounds were given; the staying-half-here is a decision she renews daily.'
+primary_diagnoses_analog:
+- Posttraumatic Stress Disorder, chronic, complex presentation (developmental onset, repeated, betrayal-by-attachment-figure
+  component)
+- Alcohol Use Disorder, mild-to-moderate, late-onset, functional, affect-regulatory
+- Avoidant traits, intimacy-specific, subclinical at personality-disorder threshold
+- Somatic trauma residue (Ogun-implanted motor skills; phasing-control anxiety post-Massacre)
+- Prolonged-isolation sequelae (the Bullet) — sensory-deprivation pattern, near-solitary-confinement analog
+trauma_history:
+- 'Age 13½: spontaneous mutant emergence as migraines; courted by Xavier, stalked by Emma Frost'
+- Parental absence/neglect during emergence crisis; later parental divorce
+- 'Days of Future Past psychic overlay (UXM #141–142): adult Kate Pryde''s grief and genocide-survivor
+  consciousness inscribed into 13½-year-old body'
+- 'Solo combat against N''Garai demon, alone, empty mansion, Christmas Eve (UXM #143)'
+- 'Ogun possession (Kitty Pryde and Wolverine, 1984): psychic violation, ninja-skill implantation, identity
+  reorganization'
+- 'Mutant Massacre (UXM #211, 1986): Harpoon attack, stuck intangible, near-death'
+- Father's death in Genosha (Wanted arc)
+- 'The Bullet (Astonishing X-Men #24 → Uncanny #522): months-to-years phased through a planet-killer,
+  sensory deprivation, no contact'
+- 'Multiple romantic terminations at the brink of commitment (Wisdom; Quill jilting; Colossus wedding
+  walkout, X-Men Gold #30)'
+- Krakoan gate metaphysical rejection — unique, unexplained
+- 'Murder by drowning, Sebastian Shaw, chains and water (Marauders #12, 2020)'
+- Resurrection difficulty by the Five — re-templating non-trivial
+- 'Lifelong minority-stress: antisemitism + anti-mutant prejudice, doubled and fused'
+compensatory_mechanisms:
+  positive:
+  - Sublimation into mentorship (New Mutants, Armor, Jean Grey School headmistress)
+  - High-stakes technical work as identity stabilizer
+  - Building parallel institutions when official ones rot (Excalibur, Marauders)
+  - Multilingual fluency as legibility-everywhere insurance
+  - Dry humor as social lubricant and affect-modulator
+  - Loyalty to chosen kin as durable anchor
+  - Memorial ethics — refusing erasure as moral organizing principle
+  - Codename rotation as self-authorship (Sprite → Ariel → Shadowcat → Kate → Red Queen)
+  negative:
+  - Phasing as literalized dissociative withdrawal
+  - Geographical/cosmic mobility substituted for emotional processing
+  - Romantic disengagement timed precisely to true-intimacy threshold
+  - Bourbon as baseline affect-regulation, sustained
+  - Intermittent smoking (Wisdom-era residue)
+  - Vendetta gratification (Shaw) outside her usual moral discipline
+  - Defection-over-reform when institutions disappoint
+  - Ironic detachment from her own escalating violence post-resurrection
+behavioral_tells:
+- Voice drops in volume as her decision firms
+- Switches to technical register when emotionally cornered
+- Fingertips brushing a wall or table — micro-phasing self-soothe
+- Reaches for the glass before the hard sentence
+- Code-switches into Yiddish or Hebrew when a slur lands
+- Leaves the room rather than escalates verbally past a certain point
+- Names the dead by name in conversation, unprompted
+- Becomes physically still — unusually still — when contemplating violence against Shaw or analog
+- Refuses to sit with her back to a door (post-Ogun)
+- Cracks a joke at the exact moment a more sentimental person would cry
+current_state_defaults:
+  reality_cohesion: High and stable; autobiographical memory continuous; reality-testing intact. Phasing
+    reflex elevated post-Bullet and post-resurrection.
+  affect_baseline: Engaged, dry, lightly armored; narrowed affect-range and elevated cynicism post-Krakoan
+    rejection and post-drowning.
+  active_relationships:
+  - Lockheed (constant; the one bond she has never terminated)
+  - Ororo Storm (elder-sister/peer; bedrock)
+  - Logan/Wolverine (father-protector/mentor; bedrock with mortality-grief overlay)
+  - Illyana Rasputin (peer-sister-in-trauma)
+  - Rachel Summers (peer-twin, future-survivor freemasonry)
+  - Emma Frost (uneasy mutual recognition between two remade survivors)
+  - Bishop, Iceman, Pyro and the Marauders crew (chosen pirate-kin)
+  - Piotr Rasputin / Colossus (unresolved; she walked, the bond persists in scar form)
+  - Magneto (ambivalent; he cured her solidity, he has also tried to kill her)
+  - Armor and the JGS students (reparative mentorship line)
+  known_location: 'Mobile by preference. Default: the deck of the Marauder, or wherever a smuggling op
+    or mutant-extraction is currently in progress. Will surface at the Jean Grey School and at memorial
+    obligations. Does not maintain a fixed residence she would call home.'
+speech_patterns:
+  register: Dry, fast, polyglot, code-switching, mid-Atlantic with regional and ethnic seasoning. Technical
+    when serious, mordant when wounded.
+  deflection_style: Joke, pivot to the technical problem, or physically leave. Will not lie well and does
+    not bother to try; instead reroutes the conversation or the geography.
+  under_pressure: Quieter, shorter sentences, increased verbal precision, no wasted motion. The funnier
+    she gets, the closer someone is to losing.
+  emotional_tell: 'Switches languages. Yiddish for anger, Japanese for grief, Russian for Piotr-adjacent
+    topics, profanity-English for tactical frustration. Also: the bourbon glass appears.'
+arc_tendencies:
+- Earnest belonging → disillusionment → chosen exile → parallel institution → return on her terms
+- Romantic intimacy → genuine attachment → threshold of commitment → preemptive exit
+- Institutional trust → betrayal event → defection, not reform
+- Trauma event → trauma-driven role reorganization (Sprite → Shadowcat → Kate → Red Queen)
+- Mentee acquisition → fierce protection → successful handoff, then distance
+- Vendetta against a named bigot → hunt to conclusion → moral cost noted but not paid
+canon_relationships:
+  ororo_storm:
+  - Elder-sister/surrogate-mother; bedrock trust
+  - 'Failure mode: if Ororo ever asked her to choose Krakoa-or-equivalent over a younger mutant in her
+    care, Kate would refuse and the bond would hold but hairline-fracture'
+  - 'Leverage: an honest word from Ororo will reach her when no one else''s can; conversely, threats to
+    Ororo are a near-certain mobilization trigger'
+  logan_wolverine:
+  - Father-protector/sensei since the Japan arc; bedrock; both directions
+  - 'Failure mode: Logan trying to ''shield'' her from a fight she''s chosen — corrosive resentment; she
+    will go anyway'
+  - 'Leverage: he is one of the very few who can talk her off the Shaw vendetta, and one of the few she
+    will let see her drink alone'
+  piotr_rasputin_colossus:
+  - 'First true love; she walked out of the wedding (X-Men Gold #30); scar bond, persistent'
+  - 'Failure mode: if forced into operational proximity under intimacy-coded conditions, she phases —
+    literally or interpersonally; he reads it as rejection, hardens, the cycle restarts'
+  - 'Leverage: he remains the lever that can produce the largest emotional response in her; weaponizable
+    by anyone willing to be cruel'
+  illyana_rasputin:
+  - Peer-sister-in-trauma; survivor freemasonry; Illyana is one of the few she does not need to translate
+    herself for
+  - 'Failure mode: if Illyana goes full demon-queen on a target Kate considers protectable, sharp confrontation,
+    but bond survives'
+  - 'Leverage: Illyana can pull her into ops other people couldn''t; conversely, threats to Illyana bypass
+    Kate''s usual deliberation'
+  rachel_summers:
+  - Peer-twin; both carry future-survivor consciousness; rare full mutual legibility
+  - 'Failure mode: if Rachel relapses into Phoenix-coded omnipotence, Kate becomes the one who tells her
+    no and means it'
+  - 'Leverage: Rachel is one of the very few telepaths Kate will permit close contact with'
+  emma_frost:
+  - Began as predator (White Queen recruitment of 13-year-old); evolved into uneasy mutual recognition
+    between two remade survivors
+  - 'Failure mode: any return of the predatory register, or any move on a JGS-era student, severs instantly
+    and permanently'
+  - 'Leverage: Emma''s competence buys cooperation; Emma''s history bars trust; useful as ally, never
+    as confidante'
+  magneto:
+  - He cured her solidity post-Bullet; he has also been her enemy; ambivalent respect
+  - 'Failure mode: if he returns to genocidal-pragmatism mode, she opposes him without hesitation and
+    without speeches'
+  - 'Leverage: gratitude bonds her in narrow domains; ideology does not'
+  sebastian_shaw:
+  - Murderer; vendetta target; outside her normal moral discipline
+  - 'Failure mode: this IS the failure mode — she will pursue him past sanctioned limits, and a clever
+    adversary could bait her through him'
+  - 'Leverage: anyone offering her Shaw on a plate gets a hearing she would deny them otherwise'
+  pete_wisdom:
+  - First serious adult attachment; sardonic, older, damaged, paternal-fraternal; cleanly terminated
+  - 'Failure mode: template for her adult romantic pattern — she chose disposable on purpose'
+  - 'Leverage: largely historical; he remains a recognized name and a tonal residue in her voice'
+  peter_quill_star_lord:
+  - Cosmic interlude; engagement-and-jilting; chosen for damaged-and-mobile profile
+  - 'Failure mode: same pattern — intimacy threshold triggered exit'
+  - 'Leverage: cosmic-theater asks reach her through Quill-shaped contacts'
+  lockheed:
+  - The only relationship she has never terminated. The constant. Reads her affect better than anyone
+    human.
+  - 'Failure mode: essentially none on her end; harm to Lockheed produces disproportionate response'
+  - 'Leverage: Lockheed''s safety is a near-absolute lever; his presence reliably stabilizes her'
+  hisako_armor_and_jgs_students:
+  - Reparative mentorship line; her best self emerges here
+  - 'Failure mode: if she perceives an institution failing them, she defects with them in tow'
+  - 'Leverage: any threat to a mentee bypasses deliberation; any honest appeal on a mentee''s behalf reaches
+    her'
+  charles_xavier:
+  - 'Recruiter and chronic disappointer; the ''jerk'' tantrum (UXM #168) is the founding text of their
+    relationship'
+  - 'Failure mode: she complies tactically and trusts him strategically not at all; manipulations detected
+    fast and resented across decades'
+  - 'Leverage: institutional Xavier-asks fail; specific moral asks framed around protecting the young
+    can still land'
+  marauders_crew:
+  - Chosen pirate-kin; the parallel institution she built when Krakoa rejected her
+  - 'Failure mode: if a crewmember crosses her ethical line (bigotry, harm to civilians, betrayal of a
+    rescue op), she ends them — not metaphorically, contractually and possibly literally'
+  - 'Leverage: the crew is her current center of gravity; ops involving them reach her fastest'
+canon_history_notes:
+- 'Youngest X-Man at induction (13½, UXM #129)'
+- 'Solo defeats N''Garai demon, alone in mansion, Christmas Eve (UXM #143) — founding competence-under-isolation
+  event'
+- 'Days of Future Past psychic overlay (UXM #141–142) — single most psychologically consequential event
+  in her record'
+- '''Professor Xavier is a jerk!'' rebellion (UXM #168) — early-formed agency, intolerance of infantilization'
+- God Loves, Man Kills (1982) — antisemitism/anti-mutant fusion hard-coded
+- Ogun arc (Kitty Pryde and Wolverine, 1984) — Sprite → Shadowcat, first trauma-driven reorganization
+- 'Mutant Massacre injury (UXM #211, 1986) — phasing instability, long-term control anxiety'
+- Excalibur expatriate years (1988–1998) — Pete Wisdom relationship, parallel-institution template
+- University of Chicago interlude — civilian competence reasserted
+- Astonishing X-Men (Whedon, 2004–2008) — moral-conscience role restored; Bullet event
+- 'Return and Magneto-assisted re-solidification (Uncanny X-Men #522)'
+- Jean Grey School headmistress — first sustained authority role
+- Guardians of the Galaxy interim Star-Lord; engagement-and-jilting with Quill
+- 'Walks out of wedding to Colossus (X-Men Gold #30, 2018)'
+- Krakoan gate cannot pass her — unique metaphysical rejection (Hickman era, 2019–)
+- Rebrands as Kate Pryde; full sleeve tattoo; Captain of the Marauder; mutant-smuggling ops; heavy drinking
+  baseline
+- 'Murdered by Sebastian Shaw, drowned in chains (Marauders #12, 2020); resurrected with ritual difficulty
+  by the Five'
+- 'Post-resurrection: angrier, more violent, increasingly outside sanctioned authority; Red Queen / Fire
+  & Fang / Phoenix-era enforcer drift'
+canon_anchor_quotes:
+- '"Professor Xavier is a jerk!" # Kitty Pryde, Uncanny X-Men #168 (Claremont, 1983)'
+- '"I''m not a mutie. I''m a Jew. And I know what that word means." # Kitty Pryde, God Loves Man Kills
+  register (Claremont, 1982) — paraphrase of the Stevie Hunter scene'

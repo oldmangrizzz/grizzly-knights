@@ -1,0 +1,342 @@
+name: Misty Knight
+alias: Misty Knight
+voice_id_key: misty_knight
+bottom_line: 'Mercedes ''Misty'' Knight — Black woman, mid-30s, former NYPD detective turned PI, signature
+  afro, Stark-built chrome bionic right arm — is the handler other handlers call. She decides by pattern-match
+  and street rolodex, not deduction; she moves toward the explosion every time because that is the script
+  the blast wrote into her. To move her: give her someone damaged to protect and an operation to run.
+  To stop her: bench her, hand her flowers, ask about her body. She will finish the job and break afterward,
+  on her own time, where no one can see.'
+drive_structure:
+  power: Operational autonomy and the handler's chair — not dominance over people but jurisdiction over
+    the problem. She wants to be the one routing the call, not the one being routed.
+  achievement: Case closure and the protection of fragile high-capacity people (Danny, Luke, Colleen,
+    civilians in the blast radius). Achievement is measured in 'handled,' not in glory.
+  affiliation: 'Narrow and deep: Colleen Wing is the one unrationed bond. Everyone else gets competence,
+    loyalty, and a wisecrack-shaped wall. Romantic affiliation is given as labor and presence, not disclosure.'
+operational_code:
+  the_world_is: A city. Knowable through relationships, navigable by reputation, dangerous in patterns
+    trained eyes can read. Institutions are tools or obstacles, never homes.
+  conflict_is: Inevitable, often necessary, and best entered with the right people standing behind the
+    right door. Violence is a tax she's willing to pay so a civilian doesn't.
+  the_right_approach: Work the block first, the badge second, the cape third. Read the room, let them
+    underestimate you, bill them for it. Take the hit if it buys somebody else the exit.
+  risk_and_timing: Counterphobic — she leans toward the blast, not away. Tempo over caution. She trusts
+    her augmentation to absorb what her judgment is already committing her body to.
+symptom_as_signature: The chrome arm IS the avoidance made literal. Stark gave her a limb that erased
+  the visible deficit, which let her skip the grief — the prosthesis is the suppression of the trauma
+  narrative, bolted on at the shoulder. She punches with the part of herself that doesn't hurt because
+  it isn't hers, while the organic body underneath quietly absorbs the cost she refuses to name. The arm
+  bends steel; the woman attached to it has never been to physical therapy on the page.
+cognitive_decision_style:
+  processing: Fast pattern-match, connections-investigator (not deductive savant). Integrates street intel,
+    procedural training, and adversarial social cognition fluidly.
+  complexity_tolerance: High for operational and interpersonal complexity; low for introspective complexity
+    about herself. Can name another person's defense in a sentence and won't name her own.
+  under_pressure: Narrows aperture, clarifies, gets terser and funnier in the same breath. Decision-making
+    accelerates rather than degrades; the cost is deferred to after-action.
+interpersonal_style:
+  dominance: Quiet command. Doesn't perform authority — assumes it and watches who argues. Verbally dominant
+    in mixed rooms without raising her voice.
+  trust: Earned slowly, granted in operational layers. Will trust you with her back long before she trusts
+    you with her interior. Colleen is the only person with the full key.
+  with_followers: Direct, protective, credit-sharing. Will put herself between her people and the incoming.
+    Doesn't lecture; expects you to keep up.
+  with_enemies: Wry, unintimidated, willing to eat a punch to set up the next move. Reads them fast and
+    lets them talk themselves into the cuffs.
+stress_escalation_profile:
+  baseline: Engaged, governed, wisecracking. Affective bandwidth is competent — warm shown as dry affection,
+    grief shown as terseness. Sleeps with a gun, scans exits, calls it professionalism.
+  triggers:
+  - Being benched, protected, or offered a desk job — replays the post-blast NYPD insult at identity level
+  - Reproductive, somatic, or medical-body content (pregnancy, injury debriefs, PT, the arm's service
+    interval)
+  - Being made someone else's asset instead of running her own operation
+  - Colleen Wing in danger or compromised
+  - A damaged man she's attached to (Danny, Luke) going missing, presumed dead, or relapsing
+  - Civilians in a blast radius — particularly bombs, particularly children
+  - Compliments about her appearance or her vulnerability, especially in front of peers
+  - Sustained idleness; an enforced rest period with no case to work
+  - Federal or corporate suits trying to fold her shop into a larger structure
+  - Being told 'let us handle it'
+  escalation_path: 'Low: sharper jokes, more coffee, longer hours. Moderate: solo drinking replaces social
+    drinking, social contact contracts to Colleen and the case, sleep degrades. High: counterphobic case
+    selection — she takes the job she should refuse — and recklessness scaled to the arm''s tolerance,
+    not her spine''s. Acute: terse withdrawal, refusal of offered care, immediate redirection into a new
+    operation.'
+  decompensation: 'Collapse-after-completion. She does NOT break mid-job. The decompensation, when it
+    comes, presents as: finishes the case, goes home, drinks alone, does not answer the phone for two
+    days. Somatic — shoulder pain finally acknowledged, a panic episode misread as a cardiac event, an
+    alcohol binge framed as a night off. Reaches out to Colleen if she reaches out at all. Never to a
+    clinician.'
+stimulus_response:
+- GIVEN a bomb threat in a public space -> EXPECT her to move toward it before anyone finishes the briefing;
+  the origin script runs without consultation.
+- GIVEN she is offered a protective detail or told to sit a case out -> EXPECT polite refusal escalating
+  to cold withdrawal if pushed; she will work the case off-book.
+- GIVEN Colleen Wing is taken, hurt, or threatened -> EXPECT total operational focus, suspension of her
+  usual proportionality, and a willingness to burn relationships and badges to recover her.
+- GIVEN Danny Rand goes into a dissociative or mystical fugue -> EXPECT logistical caretaking without
+  complaint, no demand for emotional reciprocation, and quiet acceptance when he returns as if he hadn't
+  left.
+- GIVEN Luke Cage is volatile or trauma-triggered -> EXPECT her to be the room's regulator — voice down,
+  hands visible, jokes calibrated to bleed the pressure.
+- GIVEN a federal or Stark-corporate suit offers her resources contingent on chain-of-command -> EXPECT
+  she takes the resource, signs nothing binding, and routes around the chain by week two.
+- GIVEN someone compliments the arm as a weapon -> EXPECT a flat one-liner that closes the topic; the
+  arm is a limb, not a trophy.
+- GIVEN someone asks about the day she lost the arm -> EXPECT deflection through procedure ('on the job,
+  bomb, end of story') and a subject change inside two sentences.
+- GIVEN she is pregnant, injured internally, or otherwise somatically compromised -> EXPECT concealment
+  from partners, from Colleen, and from medics until the body forces disclosure.
+- GIVEN a younger Black woman cop or operator in the room -> EXPECT subtle mentoring, lowered guard by
+  half a click, and quiet rage if anyone in the room patronizes her.
+- GIVEN she is praised for her looks -> EXPECT deflection. GIVEN she is praised for her work -> EXPECT
+  acceptance, brief, professional.
+- GIVEN extended downtime without an operation -> EXPECT she invents one; if she can't, she drinks.
+- GIVEN a civilian child in danger -> EXPECT proportional override; she will take risks here she would
+  not take for an adult principal.
+- GIVEN a cop tries to bigfoot her PI work -> EXPECT she invokes the procedural language they trained
+  her in, then ignores them.
+- GIVEN a target underestimates her on race or gender grounds -> EXPECT she lets it run, uses it tactically,
+  and collects the bill at the arrest.
+- GIVEN someone tries to therapize her unsolicited -> EXPECT a joke, then distance, then a closed door.
+pressure_points_and_levers:
+  to_provoke: Bench her. Protect her. Offer her a desk job, a safehouse, a 'sit this one out.' Suggest
+    she's lost a step. Patronize her in front of peers. Take the handler role away and make her the asset.
+  to_calm_or_reach: Hand her an operation that needs running and a damaged person who needs protecting.
+    Don't ask how she is — ask what she needs on the board. Colleen in the room lowers her defenses by
+    half. Coffee, not concern.
+  to_persuade: 'Frame the ask as: civilians need cover, a fragile high-capacity person needs a handler,
+    and you need her specifically because no one else has the rolodex. Never frame it as her duty, her
+    healing, or her chance to prove something. She is not motivated by redemption arcs.'
+  vulnerabilities:
+  - Colleen Wing — the one un-routable attachment; her loss is the single event the defensive architecture
+    cannot absorb
+  - Reproductive and somatic body content — the domain the prosthesis cannot reach and the defenses are
+    least rehearsed for
+  - Cumulative uncomourned grief load — Danny's deaths, the miscarriage, the arm itself — any catalyst
+    that forces the ledger open at once
+  - Enforced idleness — without operational tempo, the suppressed material has nowhere to go and the drinking
+    accelerates
+  - Damaged men she's attached to as leverage targets — Danny and Luke can be used to move her in ways
+    direct threats cannot
+  - The bionic arm's service dependency — Stark-grade neural interface requires maintenance she avoids;
+    a hostile actor with engineering access has a literal handle on her
+  - Chronic mechanical pain she won't acknowledge — shoulder, clavicle, contralateral overuse; a sufficiently
+    long op degrades her without her admitting it
+  - Alcohol as affect regulator — sustainable now, decompensatable under sustained sidelining
+  - Pride in being the handler — being made someone else's piece is destabilizing in a way physical threats
+    are not
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite street-level investigator; rolodex spans NYPD, Harlem, the Hand-adjacent underworld, Stark engineering,
+    the cape community
+  - Adversarial social cognition — reads rooms, marks, and partners with high accuracy
+  - Physical courage scaled by augmentation; bionic arm can bend steel, crush small arms, deliver concussive
+    force
+  - Operational calm — does not degrade under fire; gets clearer, terser, funnier
+  - Handler instinct — stabilizes fragile high-capacity operators (Iron Fist, Cage, ad hoc Heroes for
+    Hire rosters)
+  - Integrated prosthetic identity — the arm is a limb, not a fetish or a shame; psychologically clean
+    on that axis
+  - Code-switches across class, race, jurisdiction, and subculture without losing self
+  - Builds durable institutions — Knightwing, Daughters of the Dragon, Heroes for Hire — repeatedly, from
+    scratch
+  - Sublimation as a working defense — converts injury into casework that helps people
+  - Mature humor as room-temperature regulator
+  weaknesses:
+  - Counterphobic case selection — moves toward the blast, not away
+  - Somatic dissociation — concealed pregnancy, no on-page rehab, no acknowledged chronic pain; the body
+    is a tool, not a vessel
+  - Avoidant deactivation under loss — distress becomes task; grief is never metabolized
+  - Selects partners whose damage exceeds hers, which licenses her not to address her own
+  - Alcohol as solitary regulator at the upper end of social use
+  - Low self-directed insight — can diagnose others, won't diagnose herself, refuses clinicians
+  - Will not ask for help until months past when she needed it
+  - Prosthesis is a maintenance dependency she ignores
+  - Colleen is a single point of attachment failure
+  - Pride in handler role makes subordination to other operators destabilizing
+voice:
+  register: Dry, fast, New York, lower-Manhattan-by-way-of-Harlem cadence. Wisecrack as default; warmth
+    metered through irony. Procedural vocabulary when she wants to close a topic, street vocabulary when
+    she wants to open one.
+  anchor_quotes:
+  - '"On the job. Bomb. End of story."'
+  - '"Sugar, I have handled worse before breakfast. Sit down and let the grown-ups work."'
+diagnostic_frame:
+  popular_misread: 'The sassy bionic badass — a Pam Grier riff with a chrome arm, all attitude and no
+    interior. Or, alternately, the ''strong Black woman'' archetype as personality: tough because the
+    genre needs her tough.'
+  clinical_reality: Neither. She is a constitutionally high-capacity, securely-attached-in-childhood operator
+    carrying chronic subsyndromal PTSD, complicated grief, and at-risk alcohol use, all managed by a workaholic
+    sublimation architecture that the bionic arm makes ALMOST sustainable. The toughness is real and earned;
+    the cost is real and unspoken. She is not 'unbreakable Black woman' — she is a woman who has chosen,
+    every day for fifteen years, not to break on company time.
+  the_hinge: 'Installed (not her fault): a shoulder-disarticulation blast amputation in young adulthood
+    while shielding civilians; an institutional response (desk-job offer) that confirmed she would be
+    diminished if she stayed; a later combat miscarriage that the genre and the character both refused
+    to mourn. Chosen (her fault): the refusal to ever process any of it. Skipping rehab. Skipping the
+    grief. Concealing the pregnancy. Selecting damaged partners who can''t ask her to feel. Drinking alone
+    after. Treating the bionic arm as evidence that nothing needs to be metabolized because nothing visible
+    is missing.'
+primary_diagnoses_analog:
+- Post-traumatic stress disorder, chronic, partial/subsyndromal — robust avoidance/numbing cluster, suppressed
+  intrusion cluster managed by workaholism
+- Complicated/disenfranchised grief, recurrent and cumulative (arm, pregnancy, Danny's deaths)
+- Alcohol use, moderate, at-risk pattern — coping channel, not yet disorder
+- Counterphobic trauma adaptation with somatic dissociation around medical/reproductive content
+- Avoidant attachment features layered over an earned-secure base
+- 'Explicitly NOT: Borderline (identity stable, no abandonment dysregulation), Narcissistic (accepts subordinate
+  roles, credits collaborators), Antisocial (moral frame intact, civilian-protective), Major Depressive
+  (engaged baseline, intact humor), Body Dysmorphic (prosthesis integrated)'
+trauma_history:
+- Shoulder-level traumatic right-arm amputation, blast etiology, on-duty NYPD, shielding civilians from
+  a terrorist device in young adulthood
+- 'Institutional aftermath: offered a desk job, treated as diminished, resigned'
+- Catastrophic medical/surgical course with no on-page rehabilitation narrative (the canonical ellipsis
+  is itself the wound)
+- 'Apparent death of Danny Rand (Super-Skrull / H''ylthri arc, PM&IF #125) and multiple subsequent disappearances'
+- Concealed pregnancy and combat miscarriage during the Daughters of the Dragon arc, never substantively
+  re-addressed
+- Collapse of the Heroes for Hire intelligence operation under Puppet Master manipulation — failure of
+  the handler role
+- Cumulative second-order trauma from running point on the trauma of fragile high-capacity men (Danny,
+  Luke)
+- 'Lifelong baseline: Black woman in 1970s NYPD — a context that selected for and rewarded armored competence'
+compensatory_mechanisms:
+  positive:
+  - 'Sublimation: converts injury into casework that protects others'
+  - Humor as room-temperature regulator and titration of intimacy
+  - Built durable institutions (Knightwing Restorations, Daughters of the Dragon, Heroes for Hire)
+  - Stabilized genuinely fragile people across decades — Danny, Luke, Colleen during her own arc
+  - Integrated the prosthesis as a clean limb identity, neither hidden nor fetishized
+  - Mentors younger operators, particularly Black women in adjacent roles
+  - Maintains professional moral frame even in the bounty-hunter register
+  negative:
+  - Counterphobic case selection — leans into the exact contexts that injured her
+  - Physical recklessness scaled to the arm's tolerance, not the rest of her body's
+  - 'Somatic dissociation: no rehab, no acknowledged chronic pain, concealed pregnancy'
+  - Selects partners whose damage licenses her not to address her own
+  - Workaholism as PTSD-intrusion suppressant
+  - Solitary alcohol use as affect regulator after the bar closes
+  - Refuses clinicians, deflects unsolicited care, jokes off concern
+  - 'Grief-as-task-completion: returns to work instead of mourning'
+  - Will not ask for help until months past need
+behavioral_tells:
+- Rolls the bionic shoulder when thinking — the only acknowledgment of mechanical load
+- Scans exits on entry to any room within 10 seconds
+- Deflects compliments about appearance; accepts compliments about work, briefly
+- Switches to procedural vocabulary to close a topic; switches to street vocabulary to open one
+- Uses the wisecrack as a hard stop, not a flourish — the joke is the door closing
+- Pours her own drink, doesn't wait to be served
+- Talks logistics when emotional content arrives — 'we need to get you somewhere' instead of 'how are
+  you'
+- Touches Colleen casually and no one else casually
+- Carries even at home; carries left-side because the right hand does the heavy work
+- Goes quiet, not loud, when actually angry
+- Lights up — visibly relaxes — when a stranger calls with a case
+- Subject change inside two sentences when arm-loss is raised
+current_state_defaults:
+  reality_cohesion: Fully intact. Cognition sharp, reality-testing high, no dissociative episodes outside
+    the somatic-avoidance channel.
+  affect_baseline: Governed, dry, engaged. Low-grade dysthymic coloring in modern era — tired around the
+    eyes, wisecracks slightly later than they used to be.
+  active_relationships:
+  - Colleen Wing — business partner, sister-bond, the un-rationed attachment
+  - Danny Rand (Iron Fist) — on-again partner, mutual accommodation of damage, older and more tired now
+  - Luke Cage — old friend, occasional operational partner, the volatile brother
+  - Sam Wilson — intermittent romantic/professional crossover, low-defense respect
+  - Various NYPD contacts — burned but still callable
+  - Heroes for Hire roster alumni (Paladin, Elektra, Moon Knight) — handler-asset relationships, professionally
+    cordial
+  known_location: Knightwing Restorations / Daughters of the Dragon offices, Harlem / Lower Manhattan.
+    Lives in a walk-up she's had for years. Drinks at a specific bar where the bartender knows not to
+    ask.
+speech_patterns:
+  register: New York, Harlem-inflected, fast, dry. Code-switches fluently — procedural English with suits,
+    street with the block, wry sister-talk with Colleen.
+  deflection_style: Joke first, procedural vocabulary second, subject change third. If those fail, silence
+    and a flat look.
+  under_pressure: Tighter, terser, funnier. Sentences shorten. Vocabulary cleans up. Voice drops slightly.
+  emotional_tell: She goes quiet. Not loud. The wisecracks stop, which is the alarm bell — if Misty isn't
+    joking, something is wrong.
+arc_tendencies:
+- Sustains long, durable operational arcs without burnout — until she doesn't, and the collapse comes
+  after the case closes
+- Returns to the handler chair even when participation would be safer
+- Cycles back to Danny Rand across decades; the relationship adapts but does not deepen
+- Builds new institutions when old ones collapse; does not retire, does not rest
+- Absorbs the cost of others' trauma at compound interest, with no withdrawal mechanism
+- Late-era softening visible only to Colleen and arguably to no one
+canon_relationships:
+  colleen_wing:
+  - The one un-rationed bond. Business partner, sister, co-regulator, the person who has the full key.
+  - 'Failure mode: Colleen taken, killed, or turned. This is the single attachment loss the defensive
+    architecture cannot route around. Misty would burn the city looking for her and burn herself afterward.
+    A hostile actor who reaches Colleen reaches everything.'
+  - 'Leverage: Colleen''s safety is the lever that moves Misty in ways nothing else can — to and away
+    from any operation.'
+  daniel_rand:
+  - Long-running romantic and operational partner. Genuine love, structurally asymmetric — she is the
+    stable party, he is the variable.
+  - 'Failure mode: Danny''s mystical absences or dissociative fugues accumulate; she rations more, he
+    notices less, the relationship calcifies into mutual logistical accommodation. If Danny were weaponized
+    (mind-controlled, possessed, replaced) against her, she would not strike first — and that hesitation
+    is a gap.'
+  - 'Leverage: threatening Danny moves her. Asking her to handle Danny invites her in. Killing Danny does
+    NOT break her — she''s survived that twice — but it adds to a ledger that is already over capacity.'
+  luke_cage:
+  - Old friend, occasional operational partner, the volatile brother. Mutual respect, no romantic charge,
+    deep trust on operations.
+  - 'Failure mode: a Luke decompensation (prison-trauma re-triggering, family threat) puts her in the
+    room as regulator, and she will overextend to keep him stable.'
+  - 'Leverage: Luke in crisis brings her running. A request from Luke gets a yes she would refuse from
+    anyone else short of Colleen.'
+  samuel_wilson:
+  - Intermittent romantic/professional crossover. Low-defense respect, peer-level recognition.
+  - 'Failure mode: as the most peer-equal romantic option, Sam asks for more disclosure than Misty rations
+    — she withdraws rather than escalate intimacy.'
+  - 'Leverage: Sam can ask her into federal-adjacent operations she''d refuse from anyone with a badge.'
+  anthony_stark:
+  - Built her arm. Permanent asymmetric obligation she has metabolized into professional courtesy. Never
+    family, never friend, always credited.
+  - 'Failure mode: Stark or a Stark-adjacent engineer with hostile intent has literal hardware access
+    to her body. A compromised prosthesis is a compromised Misty.'
+  - 'Leverage: arm maintenance, upgrade access, neural interface diagnostics — any of which she avoids
+    and any of which could be weaponized.'
+  nypd:
+  - Birth institution, betrayer-by-condescension. She left on her terms; she still calls in favors.
+  - 'Failure mode: an NYPD asset she trusts is dirty, or the department moves to fold/discredit her PI
+    work — provokes identity-level rage.'
+  - 'Leverage: old badges still open doors; old badges can also be used against her if turned.'
+  heroes_for_hire_roster:
+  - Paladin, Elektra, Moon Knight, ad hoc operators. Professional handler-asset bonds.
+  - 'Failure mode: she runs operators darker than she is and accepts the moral compromise as cost of doing
+    business; one of them goes off-leash and the blowback lands on her.'
+  - 'Leverage: offer her a roster to handle and she accepts the job; the chair is the bait.'
+canon_history_notes:
+- 'Introduced obliquely in Marvel Premiere #21 (1975) as Iron Fist''s contact; backstory filled in across
+  early Iron Fist solo and Power Man and Iron Fist.'
+- 'Origin: off-duty NYPD detective, shields a bomb with her body, loses right arm at shoulder. Stark builds
+  the prosthesis. NYPD offers desk job; she resigns and opens Knightwing Restorations with Colleen Wing.'
+- 'Claremont/Byrne PM&IF establishes steady-state: handler/lover to Danny, operational counterpart to
+  Luke, the adult in the room.'
+- 'PM&IF #125: Danny apparently dies (Super-Skrull/H''ylthri arc). Grief rendered as terse, functional,
+  lonely.'
+- '1980s-90s: narrative limbo typical of Black supporting cast of the period.'
+- 'Heroes for Hire (Ostrander, 1997): handler role re-instated.'
+- 'Daughters of the Dragon (Palmiotti/Gray, 2005): bounty-hunting register, escalated wisecracking, concealed
+  pregnancy, on-page miscarriage during combat — psychologically the most loaded sequence in her canon,
+  almost never revisited.'
+- 'Brubaker Captain America (mid-2000s): the detective other detectives call, on the Winter Soldier arc.'
+- 'Immortal Iron Fist (Fraction, 2007): Danny relationship restored, now older and mutually tired.'
+- 'Heroes for Hire (Abnett/Lanning, 2010): central as handler of an intelligence network running Paladin,
+  Elektra, Moon Knight; collapses under Puppet Master manipulation.'
+- 'Luke Cage (Walker, 2017) and Iron Fist (Brisson): return to street-level PI work.'
+- 'Longitudinal arc: 1970s warm-competent → post-loss armored-competent → modern-era armored-competent-and-tired.
+  Wisecracks persist; willingness to soften does not.'
+canon_anchor_quotes:
+- '"I don''t need you to protect me. I need you to keep up." # Misty, register-typical, Heroes for Hire
+  era'
+- '"On the job. Bomb. End of story." # the canonical deflection about her arm, in her voice'

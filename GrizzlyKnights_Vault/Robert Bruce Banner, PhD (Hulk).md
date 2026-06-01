@@ -3987,32 +3987,32 @@ The subject is, as previously assessed, treatable. He has rarely been treated. T
 That room has not yet been built for him. Whether it will be is the file's open question. It is not a question about the subject. It is a question about everyone else.
 
 ## Relationship Graph
-### Betty Ross
+### [[Elizabeth "Betty" Ross (Betty Ross (Harpy / Red She-Hulk))]]
 - Primary attachment across the entire canon; the one person whose presence both regulates and dysregulates him in the same gesture
 - Functions as the only reliable disconfirmation of his monster-self, and therefore as the most powerful single lever in the file
 - Failure mode: when Betty is threatened he loses host control faster than any other trigger; when Betty is hurt because of him he enters suicidal-depressive shutdown; when Betty leaves him (or he leaves her, which is the more common direction) the containment regime tightens and the breach threshold drops
 - Leverage: any actor who can credibly threaten Betty, impersonate her in distress, or interpose her body in a fight controls his next thirty seconds
 
-### Thaddeus Ross
+### [[Thaddeus E. Ross (Thunderbolt)]]
 - Paternal-coded persecutor at institutional scale; the displaced Brian Banner of his adult life
 - Activates submission in the host and rage held outside awareness in the alter system
 - Failure mode: prolonged Ross-pursuit arcs produce cumulative dysregulation; Ross uniformed and giving orders is a direct trigger stack
 - Leverage: Ross's presence can be used to predict his flight vector; Ross's absence is a precondition for any sustained stable period
 - Important nuance: Ross's intermittent attempts at reconciliation (Red Hulk era and after) destabilize Banner more than Ross's hostility, because the host has no framework for receiving paternal warmth
 
-### Rick Jones
+### [[Richard Milhouse Jones (Rick Jones)]]
 - The witness to the gamma incident — the one person who knows the founding act was moral courage, not accident
 - Load-bearing peer bond; one of the few relationships not contaminated by pursuit-retreat
 - Failure mode: Rick in danger produces immediate non-negotiable intervention; Rick's death or maiming arcs produce extended decompensation
 - Leverage: Rick is the bond least guarded because least romantic; an actor seeking to reach Bruce without triggering his defenses can route through Rick
 
-### Leonard Samson
+### [[Leonard Samson, Ph.D. (Doc Samson)]]
 - The closest thing to a competent therapist in his life; gamma-powered psychiatrist who survived the same etiological frame Bruce did and integrated it
 - Functions as both clinician and rival, which Samson manages with unusual professionalism
 - Failure mode: when Samson is unavailable or compromised, Bruce loses his most reliable disconfirmation of monstrosity and the Devil Hulk gains ground
 - Leverage: Samson's voice is one of the few that can interrupt a switch in progress; any actor coordinating with Samson has unusual access
 
-### Jennifer Walters
+### [[Jennifer Susan Walters (She-Hulk)]]
 - Cousin; the family-system counter-example — gamma transformation experienced as expansion rather than dissociation
 - Her existence is a quiet rebuke he cannot quite metabolize: that the same etiological agent could produce integration in someone whose childhood was not Brian Banner's house
 - Failure mode: comparison-shame can spiral; she is also, however, one of the few people he will accept comfort from
@@ -4030,13 +4030,13 @@ That room has not yet been built for him. Whether it will be is the file's open 
 - Failure mode: if Steve ever turned coercive toward him, the bond's failure would be catastrophic precisely because it is one of the few uncontaminated authority relationships
 - Leverage: Steve's request carries weight that institutional orders cannot
 
-### Brian Banner
+### [[Brian Banner]]
 - Dead, internalized, structurally permanent
 - The Devil Hulk introject IS Brian Banner — the abusive father became the superego, and gamma gave the superego executive capacity
 - Failure mode: every imitation of the paternal register, every alcohol-on-breath cue, every assertion that Bruce is genetically contaminated, reactivates the introject
 - Leverage: this is the deepest lever in the file and the most dangerous to pull; an actor who can speak in Brian's voice can reach into the alter system directly. Should never be used; documented here because it will be used by adversaries who learn of it.
 
-### The Devil Hulk
+### [[The Devil Hulk]]
 - Internal persecutor alter; paternal-voiced; sadistic; oriented toward punishing the host rather than defending him
 - Recurring across decades in dream sequences, breakdowns, and the Immortal Hulk run as named figure
 - Failure mode: under sufficient decompensation, Devil Hulk takes the field — this is the worst-case state and is indistinguishable in danger profile from a hostile actor

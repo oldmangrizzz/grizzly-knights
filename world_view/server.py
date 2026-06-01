@@ -160,6 +160,30 @@ def speak(stem, text):
     with _ur.urlopen(req, timeout=45) as r:
         return r.read()
 
+def positions():
+    try:
+        if not _WID[0]:
+            _WID[0] = (_cq("world:defaultWorldStatus", {}) or {}).get("worldId")
+        wid = _WID[0]
+        w = (_cq("world:worldState", {"worldId": wid}) or {}).get("world", {})
+        gd = _cq("world:gameDescriptions", {"worldId": wid}) or {}
+        pid_name = {p["playerId"]: p["name"] for p in gd.get("playerDescriptions", [])}
+        ns = _name_to_stem(); models = _model_map()
+        out = []
+        for p in w.get("players", []):
+            pid = p.get("id"); nm = pid_name.get(pid, pid)
+            pos = p.get("position", {}) or {}
+            stem = ns.get(nm.split(" (")[0], "")
+            port = f"/portraits/{stem}.png" if stem and os.path.exists(f"{ROOT}/world_art/portraits/{stem}.png") else None
+            mdl = next((v for k, v in models.items() if k.split(" (")[0] == nm.split(" (")[0]), "")
+            act = p.get("activity", {}) or {}
+            out.append({"id": pid, "stem": stem, "name": nm, "x": pos.get("x", 0), "y": pos.get("y", 0),
+                        "portrait": port, "model": mdl.replace("openrouter/", "").replace("copilot/", ""),
+                        "activity": act.get("description", "")})
+        return {"players": out, "width": w.get("width", 64), "height": w.get("height", 48)}
+    except Exception:
+        return {"players": [], "width": 64, "height": 48}
+
 class H(http.server.SimpleHTTPRequestHandler):
     def do_POST(self):
         if self.path == "/api/speak":
@@ -187,6 +211,19 @@ class H(http.server.SimpleHTTPRequestHandler):
             self._send(200, json.dumps(world_state()))
         elif self.path == "/api/activity":
             self._send(200, json.dumps(activity()))
+        elif self.path == "/api/positions":
+            self._send(200, json.dumps(positions()))
+        elif self.path == "/world" or self.path == "/world3d":
+            self._send(200, open(f"{ROOT}/world_view/world3d.html", "rb").read(), "text/html")
+        elif self.path.startswith("/viewer"):
+            self._send(200, open(f"{ROOT}/world_view/viewer.html", "rb").read(), "text/html")
+        elif self.path.startswith("/assets/"):
+            p = f"{ROOT}/world_view/assets/{os.path.basename(self.path)}"
+            ct = "model/gltf-binary" if p.endswith(".glb") else "application/octet-stream"
+            if os.path.exists(p):
+                self._send(200, open(p, "rb").read(), ct)
+            else:
+                self._send(404, b"", ct)
         elif self.path.startswith("/portraits/"):
             stem = os.path.basename(self.path)
             p = f"{ROOT}/world_art/portraits/{stem}"

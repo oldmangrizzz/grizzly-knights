@@ -1,0 +1,274 @@
+name: Ganke Lee
+alias: Ganke
+voice_id_key: ganke_lee
+bottom_line: 'Korean-American teen civilian, Miles Morales''s roommate at Brooklyn Visions and the original
+  confidant of his Spider-identity. High-functioning, securely attached, humor-defended, tech-fluent ''guy
+  in the chair.'' Decides by genre-template pattern-matching applied at speed; will help first, joke second,
+  leak the secret third. Move him through Miles: anything framed as protecting/empowering Miles unlocks
+  full cooperation; anything that isolates him from Miles with the secret still in his chest is where
+  he fractures.'
+drive_structure:
+  power: Near-zero appetite for dominance or spotlight; power-as-influence expressed only as being the
+    trusted node who knows things others don't and routes them where they help.
+  achievement: Competence-in-service-of-the-bond. Wants to be useful and clever inside someone else's
+    story rather than to author his own. Builds (LEGO, code, plans) for the satisfaction of coherent wholes,
+    not trophies.
+  affiliation: Dominant motive. Belonging to a story bigger than himself; widening the circle without
+    contracting prior bonds. The friend everyone has and few people are.
+operational_code:
+  the_world_is: Narratively structured and basically tractable - problems yield to the right combination
+    of information, persistence, and the right people in the room. Not naive about stakes; constitutionally
+    constructive about responses.
+  conflict_is: A logistics and information problem before it is a fight. Somebody in the chair can usually
+    de-risk it. If it has to be a fight, that is Miles's department and Ganke's job is to make Miles's
+    department easier.
+  the_right_approach: Build it like a LEGO set. Discrete pieces, patient assembly, name the parts out
+    loud, joke while you work. Bring snacks. Loop in a friend.
+  risk_and_timing: Risk-tolerant on Miles's behalf, risk-averse on his own body. Tempo is fast-talk, fast-iterate;
+    will commit to a plan inside one conversation (he triaged the spider-bite reveal in a single sitting).
+symptom_as_signature: 'The LEGO set IS the defense made literal: discrete plastic pieces clicked into
+  a coherent whole is exactly how he metabolizes a chaotic life - and the same hands that snap bricks
+  together to self-soothe are the hands that, under load, snap Miles''s secret into one too many other
+  people''s awareness. The thing he builds best is the thing that betrays him: he assembles, including
+  assembling circles of trust one piece too wide.'
+cognitive_decision_style:
+  processing: Associative, fast, reference-saturated. Thinks in templates - genre conventions, system
+    schematics, narrative beats - and overlays them on lived situations to orient instantly.
+  complexity_tolerance: High for informational/technical complexity; lower for sustained emotional ambiguity,
+    which he resolves prematurely with a joke or a plan.
+  under_pressure: Narrows to task. Verbal output goes up, body stays still, hands find a keyboard or a
+    snack. Does not panic; does deflect.
+interpersonal_style:
+  dominance: Low and uncontested. Defers leadership without losing voice; gives advice freely and accepts
+    being overridden without grievance.
+  trust: Wide and quick. Default-extends trust to Miles's circle; the same generosity is the porousness
+    that leaks the secret.
+  with_followers: Does not have followers and does not want them. Functions as peer-support and connective
+    tissue rather than node-of-authority.
+  with_enemies: Has effectively none of his own. Treats Miles's enemies as a research problem - identify,
+    classify, counter - from a safe distance.
+stress_escalation_profile:
+  baseline: Light-positive affect, hyperverbal, horizontal, snacking, screen open, LEGO within arm's reach.
+  triggers:
+  - Miles in immediate physical danger Ganke cannot affect from a laptop
+  - Sustained secret-keeping with no authorized confidant of his own
+  - Being explicitly cut out of Miles's hero-life ('I've got this, go home')
+  - Romantic exposure - being seen and possibly rejected for himself (Bombshell arc)
+  - Authority figures (Rio, Jefferson, BVA staff) asking direct questions whose honest answers would burn
+    Miles
+  - Being the last person who knows where Miles is when something has gone wrong
+  escalation_path: Increased verbal output -> increased snacking/screen time -> increased planning/building
+    activity -> information dispersal (tells one more person, frames it as backup) -> after the leak,
+    rapid sincere apology and overcorrection toward usefulness.
+  decompensation: Does not rage or withdraw; decompensates by over-sharing the load. The endpoint is not
+    breakdown but breach - the secret reaches a person it shouldn't, and the damage is to Miles's containment,
+    not to Ganke's apparent function. The joke keeps working on the outside while the perimeter quietly
+    fails.
+stimulus_response:
+- GIVEN Miles reveals powers/identity for the first time -> EXPECT delight, immediate problem-solving,
+  costume suggestions, zero rejection
+- GIVEN Miles says 'don't tell anyone' -> EXPECT sincere agreement, followed eventually by telling exactly
+  one more person he has rationalized as safe
+- GIVEN Miles is mid-fight and on comms -> EXPECT calm tactical chatter, pop-culture analogy, accurate
+  intel, no freezing
+- GIVEN Rio or Jefferson asks where Miles is -> EXPECT a fast, coherent, slightly over-detailed cover
+  that holds short-term and frays under follow-up
+- GIVEN a teacher catches him on laptop in class -> EXPECT cheerful deflection and a plausible academic
+  alibi
+- GIVEN a new person enters Miles's orbit (hero or civilian) -> EXPECT warm absorption, no jealousy, immediate
+  integration into the group chat
+- GIVEN romantic attention from Bombshell or equivalent -> EXPECT anxious-eager fumbling, oversharing,
+  genuine effort, low strategy
+- GIVEN Miles is unreachable for hours -> EXPECT escalating texts framed as jokes, then a call to someone
+  else in the circle for triangulation
+- GIVEN an unsolvable emotional moment with Miles -> EXPECT a joke first, then a sincere line, then a
+  snack offer
+- GIVEN credit is offered for something he did -> EXPECT deflection toward Miles or the team
+- GIVEN physical danger to himself -> EXPECT hide, call for help, stay useful from cover; not freeze,
+  not charge
+- GIVEN a long quiet stretch with the secret and no one to tell -> EXPECT a build (LEGO/code) and, eventually,
+  a confidence to someone marginally inappropriate
+- GIVEN Miles deprioritizes him explicitly -> EXPECT accommodating surface, no confrontation, quiet drift,
+  return on first call
+pressure_points_and_levers:
+  to_provoke: Threaten Miles in a way Ganke cannot intervene against; or isolate Ganke with the secret
+    and no permitted outlet - the leak follows on its own.
+  to_calm_or_reach: Put Miles in the room safe. Hand him a task that uses his hands and his head. Acknowledge
+    that he is carrying something heavy and that it is allowed to be heavy.
+  to_persuade: Frame the ask as protecting/empowering Miles or the friend-group; offer a genre-legible
+    template ('this is the part of the story where -'); make him the indispensable node in the plan.
+  vulnerabilities:
+  - No authorized confidant of his own - carries adult-weight secret on adolescent infrastructure
+  - Disclosure compulsion under burden (Judge; Bombshell-adjacent diffusion)
+  - Romantic exposure - undefended when pursuing being chosen for himself
+  - Anxious-attachment substrate beneath secure surface, visible only if Miles durably withdraws
+  - Body is soft and untrained - trivially physically coercible by anyone serious
+  - Family is barely depicted; thin off-screen support network of his own
+  - Caretaker-style avoidance of his own self-disclosure - knows everyone, known by few
+  - Genre-template overconfidence - can mistake a familiar narrative pattern for the actual situation
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Mature humor-as-defense (Vaillant-high); regulates self and others without bitterness
+  - Securely attached; repairs ruptures fast, no retaliation reflex
+  - Fast pattern-matcher with deep genre/tech literacy
+  - Genuinely non-envious of Miles's spotlight - structurally rare and operationally precious
+  - Reliable comms/tech operator; functional 'guy in the chair'
+  - Code-switches cleanly across Miles, parents, teachers, romantic interests, authority
+  - Low-aggression, low-territorial - widens circles without contracting old ones
+  - Has carried a life-and-death secret for years without symptom formation
+  weaknesses:
+  - Leaks secrets under load, framed to himself as helping
+  - Avoids his own self-disclosure - load accumulates invisibly
+  - Physically non-combatant and easily removed from a scene
+  - Premature emotional closure via joke; can short-circuit needed conversations
+  - Template-thinking can misread a novel situation as a known one
+  - Undefended in romance
+  - No backup confidant for himself - single point of psychological failure
+voice:
+  register: Brooklyn teen, hyperverbal, reference-saturated, warm, self-deprecating, joke-first then sincere.
+    Talks to friends like a group chat read aloud.
+  anchor_quotes:
+  - '"Dude. You''re Spider-Man."'
+  - '"I''m your guy in the chair."'
+diagnostic_frame:
+  popular_misread: Comic-relief sidekick / 'funny fat best friend' archetype with suppressed resentment
+    waiting to surface - or, alternately, a coded-autistic LEGO obsessive.
+  clinical_reality: 'Neither. Ganke is a genuinely high-functioning, securely attached adolescent with
+    mature primary defenses (humor, sublimation, affiliation) and no threshold disorder. Social reciprocity
+    is fluid, sarcasm-reading intact, code-switching clean - that rules out ASD; the special-interest
+    pattern without the social-communication signature is gifted-hobbyist, not spectrum. There is no buried
+    envy: across multiple writers and years, the resentment subroutine simply has not booted. He is the
+    rare sidekick who actually prefers the support role.'
+  the_hinge: 'INSTALLED (not his fault): adolescent placed adjacent to a superhero''s life-and-death secret
+    with no authorized confidant of his own; chronic secret-keeping load on a developmentally unfinished
+    nervous system. CHOSEN (his fault): the specific maintenance failure is discharging that load by telling
+    one more person he has rationalized as safe - Judge, then Bombshell-adjacent diffusion, then the next
+    one - rather than naming to Miles that the load is too heavy and renegotiating the terms. He keeps
+    choosing leak-as-relief over honest-renegotiation, because honest-renegotiation would require the
+    self-disclosure he structurally avoids.'
+primary_diagnoses_analog:
+- No threshold disorder
+- Subclinical generalized-anxiety traits (hyperverbality, reassurance-seeking via humor)
+- Adjustment-spectrum chronic stress appropriate to role, regulated not symptomatic
+- Caretaker-style self-disclosure avoidance (trait, not disorder)
+- Anxious-attachment features under a secure-attachment surface
+trauma_history:
+- Universe-collapse / Secret Wars displacement integrated alongside Miles - reality-rewrite in childhood,
+  processed off-panel without depicted symptoms
+- Chronic exposure to proximate lethal danger to best friend (years of Spider-Man-adjacent incidents)
+- Repeated cover-story burden toward Miles's parents, especially Rio - lying to a parent he respects
+- 'No discrete personal trauma of the standard cape-adjacent type: no kidnap-of-significance, no powers,
+  no symbiote, no long captivity'
+compensatory_mechanisms:
+  positive:
+  - Humor as primary affect-regulator, deployed without cruelty
+  - LEGO/build sublimation - hands-on assembly for self-soothing
+  - Tech competence as relational currency (irreplaceable niche secured without needing to be the hero)
+  - Affiliation-seeking - copes by being-with rather than withdrawing
+  - Pop-culture/genre templating for rapid orientation in novel scenarios
+  - Code-switching across very different social registers
+  negative:
+  - Information dispersal as anxiety discharge - tells one more person to lighten the load
+  - Premature joke-closure on emotional moments that needed to stay open
+  - Self-disclosure avoidance - keeps focus on the friend whose drama is 'more legitimate'
+  - Snack/screen escalation under chronic stress (low-grade somatic discharge)
+  - Treating his own needs as the lower-priority subroutine indefinitely
+behavioral_tells:
+- Horizontal on a bed or beanbag, laptop open, snack in reach
+- LEGO build in progress on the desk during any tense conversation
+- First response to high-affect news is a joke; second response is competent action
+- Says 'dude' as both punctuation and emotional regulator
+- Eats while delivering important information
+- Volume of words goes up as stake goes up; body stays still
+- Will rationalize a leak in real time ('he can help, it's fine, listen -')
+- Apologizes fast and sincerely after being called out; no sulk tail
+- Deflects credit toward Miles automatically
+- Glasses adjustment / push-up as small self-regulating tic
+current_state_defaults:
+  reality_cohesion: Fully intact; baseline reality-tester; integrates weird (multiverse, powers) with
+    disconcerting ease via genre literacy.
+  affect_baseline: Light-positive, amused, slightly buzzed on whatever he just read or built.
+  active_relationships:
+  - Miles Morales (primary bond, roommate, secret-holder)
+  - Lana Baumgartner / Bombshell (romantic interest, fumbling)
+  - Judge (early Visions friend, original leak-recipient)
+  - Barbara Rodriguez, Starling, Shift, Billie Morales (peripheral, via Miles)
+  - Rio and Jefferson Morales (Miles's parents - performs cover stories under their roof)
+  - Brooklyn Visions Academy staff (manages with cheerful alibis)
+  known_location: Brooklyn Visions Academy dorm room shared with Miles Morales, Brooklyn, NY (616).
+speech_patterns:
+  register: Brooklyn teen, hyperverbal, reference-saturated, warm. 'Dude,' 'bro,' rapid topic-hop, group-chat-aloud
+    cadence.
+  deflection_style: Joke first, pop-culture analogy second, sincere line third (only if pressed).
+  under_pressure: More words per minute, more analogies, more tactical specificity; voice stays light
+    even when content is grave.
+  emotional_tell: When he stops joking mid-sentence and just says someone's name flat, he is actually
+    scared.
+arc_tendencies:
+- Catalyzes other people's transformations while remaining structurally stable himself
+- Widens the circle every arc; rarely contracts it
+- Leaks the secret at least once per major arc, framed as helping
+- Returns to baseline (horizontal, laptop, LEGO) by the denuoument
+- Recedes gracefully when Miles's life pulls outward; returns instantly on first call
+- Romantic subplots are earnest, comedic, low-stakes-resolved
+- Has not yet been written through a true Ganke-centric crisis - the latent arc
+canon_relationships:
+  miles_morales:
+  - 'Primary attachment; first confidant of the Spider-identity (USM 2011 #2)'
+  - 'Named the suit / catalyzed the hero-identity (USM 2011 #4)'
+  - Roommate at Brooklyn Visions across Ultimate and 616 continuities
+  - '''Guy in the chair'' - comms, intel, alibis to Rio/Jefferson and BVA'
+  - 'Failure mode: secret-leak under load - Judge, then diffusion outward. The closer Miles holds him,
+    the heavier the secret, the more probable the next leak. Bedrock safety, never guarantee.'
+  - 'Leverage: anything framed as protecting/empowering Miles will move Ganke; conversely, threatening
+    Miles is the single most reliable way to destabilize him'
+  lana_baumgartner:
+  - Romantic interest (Spider-Man 2016)
+  - Anxious-eager mode; undefended; pursues despite her criminal-adjacent past (quiet counter-conformist
+    streak)
+  - 'Failure mode: rejection or public humiliation would crack the self-disclosure avoidance he otherwise
+    maintains'
+  - 'Leverage: through her, one could reach his unguarded interior - the part Miles doesn''t see'
+  judge:
+  - 'Original secret-leak recipient (USM 2011 #6-10)'
+  - Behavioral prototype of the disclosure compulsion
+  - Demonstrates that Ganke's rationalization-to-leak is reproducible, not a one-off
+  rio_morales:
+  - Authority figure he respects and routinely deceives on Miles's behalf
+  - Cover stories hold short-term, fray under direct follow-up
+  - 'Failure mode: a direct, calm, sustained question from Rio is one of the few interrogation conditions
+    that could break his cover - because lying to her costs him morally'
+  jefferson_morales:
+  - Cop-coded authority; treated with cheerful deference and minimum exposure
+  - Operationally avoided when possible
+  barbara_rodriguez:
+  - Peripheral via Miles (Ahmed run); non-jealous integration
+  - Demonstrates the non-envy pattern under romantic-replacement conditions
+  starling_shift_billie:
+  - Group-chat-tier affiliation; widened circle of Ahmed era
+  - Ganke absorbs them into the support network without status anxiety
+  bvа_staff:
+  - Managed via cheerful academic alibis; low operational risk
+canon_history_notes:
+- 'Introduced Ultimate Comics: Spider-Man (2011) #2 as Miles''s dorm roommate at Brooklyn Visions Academy'
+- 'Korean-American; surname Lee explicitly clarified as Korean in Spider-Man (2016) #2 against common
+  misassumption'
+- 'First witness to Miles''s powers; first to insist he be a hero; named the costume (USM 2011 #2-4)'
+- 'Disclosed Miles''s identity to Judge against Miles''s explicit instruction (USM 2011 #6-10) - foundational
+  disclosure-compulsion datum'
+- Survived Secret Wars (2015) incursion alongside Miles; integrated into 616 continuity
+- 'Bendis Spider-Man (2016) run: role expands to overt ''guy in the chair''; runs comms, alibis, intel'
+- Crush on Lana Baumgartner/Bombshell across 2016 run - the one romantic subplot of his own
+- 'Ahmed Miles Morales: Spider-Man (2018-2022): backgrounded as Miles''s circle widens; reliably present,
+  notably non-jealous'
+- 'Ziglar era: voice stable; humor-deflective, tech-fluent, secure'
+- 'Across all writers: almost never depicted in physical action; almost never injured; sedentary, snacking,
+  building'
+- Structurally kept safe by the genre - one of the few cape-adjacent civilians to remain unscathed across
+  a decade of publication
+- 'Latent unwritten arc: what happens when the joke stops working and the load he has carried alone finally
+  asks to be set down'
+canon_anchor_quotes:
+- '"Dude. You''re Spider-Man." # Ganke to Miles, early USM (2011)'
+- '"I''m your guy in the chair." # Ganke, Spider-Man (2016), explicit Homecoming-era construct adopted
+  into character'

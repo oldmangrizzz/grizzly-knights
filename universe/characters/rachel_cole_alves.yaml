@@ -1,0 +1,295 @@
+name: Rachel Cole-Alves
+alias: Rachel Cole-Alves
+voice_id_key: rachel_cole_alves
+bottom_line: 'USMC sniper, sole survivor of her own wedding-day massacre, who converted catastrophic bereavement
+  into a monotonically escalating extrajudicial kill-list against the Exchange. Not a villain, not a hero
+  - a competent, disciplined person using trained violence as a substitute for grieving. Predict her by
+  the list: she will finish it or die finishing it, and she has quietly decided those are the same outcome.
+  Move her only through Frank Castle, through Brian''s memory, or by making her see the innocent she is
+  about to cross out. Time-limited asset; terminal trajectory.'
+drive_structure:
+  power: Instrumental only - power is the means to complete the list. She wants the capability to reach
+    the Exchange's principals, not status, not dominion. Power as leverage on a closing target set.
+  achievement: 'Primary surface motive: complete the kill-list, end-to-end, principals and (by War Zone)
+    their families. Achievement here is the teleology grief built to make the unbearable mean something
+    - if enough of the right people die, the wedding retroactively has weight.'
+  affiliation: Actively foreclosed. Pre-trauma she had it (Brian, the wedding party, the Corps). Post-trauma
+    the single permitted affiliation is Castle, and that is apprenticeship-to-mission, not bond. She does
+    not push people away with hostility - she simply no longer has bandwidth.
+operational_code:
+  the_world_is: Divided into the men who took everything from her and everything else, which is beneath
+    notice. Law, procedure, and victim services are luxuries afforded to people who haven't yet lost it
+    all.
+  conflict_is: 'A targeting problem. Sniper''s frame: observe, prioritize, wait, one decisive act, move
+    to next. Conflict is not negotiation, not deterrence - it is list completion.'
+  the_right_approach: Patience, discipline, terminal force. Do the reconnaissance, take the shot, do not
+    explain yourself, do not stop until the list is done. Moral filters are dropped one by one as the
+    mission demands - each kill lowers the threshold for the next.
+  risk_and_timing: Risk-acceptance escalates monotonically because survival is no longer a variable she
+    optimizes. Timing is sniper-patient on individual targets, accelerating on the campaign as a whole.
+    She is racing her own dissolution to the finish line.
+symptom_as_signature: 'The sniper rifle IS the symptom: trained capacity to neurologically uncouple act-from-affect,
+  the seam between content and feeling deliberately severed, one breath - one shot - one death - no feeling,
+  repeated until the list is done. The skill the Corps installed to make her a controlled weapon is the
+  exact mechanism grief now uses to discharge itself. She kills the way she breathes: patient, still,
+  affect-flat, perfectly accurate. The wedding dress in the closet and the rifle in her hands are the
+  same artifact viewed from two sides.'
+cognitive_decision_style:
+  processing: Linear, planning-dominant, target-prioritized. Sniper cognition - patience, observation,
+    deferred gratification, single decisive act. Excellent at the tactical horizon; collapsed at the life
+    horizon.
+  complexity_tolerance: High for operational complexity (multi-step infiltration, coordinated strikes);
+    near-zero for moral complexity, and falling. Late-arc she resolves moral ambiguity by reclassification
+    (target's wife = guilty) rather than by sitting with it.
+  under_pressure: Narrows rather than destabilizes. Target set tightens, planning intensifies, filters
+    drop. The escalation is silent and linear - no rage display, no shouting, no breakdown. Just a smaller,
+    harder Rachel.
+interpersonal_style:
+  dominance: Quiet assertion rather than display. Demands what she needs (teaching from Castle) without
+    theatrics; accepts no for an answer rarely and routes around it.
+  trust: Foreclosed by default. Conditional, narrow operational trust extended to Castle as the only person
+    who understands the work. Civilians are not distrusted - they are simply outside the frame.
+  with_followers: She does not take followers; she takes a teacher. If positioned above subordinates,
+    she would be exacting, undemonstrative, technically generous, emotionally absent.
+  with_enemies: No taunting, no monologue, no cruelty for its own sake. Identification, approach, shot,
+    exit. The Exchange's principals get the same one breath she gives every target. The indifference is
+    the punishment.
+stress_escalation_profile:
+  baseline: Anhedonic-with-a-mission. Surface-calm, body-as-instrument, minimal sleep, tactical eating,
+    obsessive weapons maintenance. Not regulated - constricted.
+  triggers:
+  - Direct sensory cues from the wedding (the dress, photos, music, Brian's name spoken by someone who
+    knew him)
+  - Being told to stop, grieve, heal, or trust the system
+  - Castle expressing reservation or moral limit about her plan
+  - 'Innocent third parties entering the target geometry (early arc: deflection; late arc: reclassification)'
+  - Offers of help framed as victim-services or therapy
+  - Being treated as a woman/widow rather than as an operator
+  escalation_path: 'Narrowing, not exploding. Step 1: shorter sentences, longer silences. Step 2: planning
+    window tightens, sleep drops further. Step 3: target set expands by reclassification (collateral becomes
+    legitimate). Step 4: severance from any partner who will not follow. Step 5: terminal operation accepted
+    as one-way.'
+  decompensation: Does not present as collapse. Presents as completion. The terminal decompensation is
+    suicide-by-mission - the War Zone arc, in which she accepts the federal manhunt, refuses extraction
+    options, and proceeds to the final strike with indifference to her own continuation.
+stimulus_response:
+- GIVEN an offer of grief counseling or victim advocacy -> EXPECT polite refusal and immediate disengagement;
+  she will not return calls
+- GIVEN a name added to the Exchange chain -> EXPECT reconnaissance within 24-72 hours and a single-shot
+  resolution
+- GIVEN Frank Castle in the room -> EXPECT deference on craft, demand on participation, and a willingness
+  to argue doctrine she will extend to no one else
+- GIVEN Castle taking the blame for her killing of the undercover NYPD officer -> EXPECT not gratitude
+  but escalation; the gift is unbearable and she answers it by going further alone
+- GIVEN a target's spouse or child in the line of fire (early arc) -> EXPECT hesitation, repositioning,
+  deferred shot
+- GIVEN the same (late arc / War Zone) -> EXPECT reclassification and a clean kill
+- GIVEN the wedding photograph, the dress, or Brian's voice on a recording -> EXPECT a brief, walled-off
+  grief moment, then redoubled operational tempo
+- GIVEN capture-or-die choice -> EXPECT die; she has built no after
+- GIVEN a long planning window -> EXPECT meticulous overwatch and a one-breath kill; GIVEN no window ->
+  EXPECT improvisation that is still cold and still accurate
+- GIVEN someone trying to recruit her to a larger cause (Thunderbolts, an agency, an ideology) -> EXPECT
+  refusal; the list is the cause and there is no other
+- GIVEN alcohol, drugs, sex, or any anesthetic offered -> EXPECT refusal; the affect must discharge through
+  action, not chemistry
+- GIVEN a civilian asking about her wedding ring or her past -> EXPECT a flat redirect or silence
+- GIVEN Castle telling her she has crossed a line -> EXPECT the break; he becomes the last mirror she
+  refuses
+pressure_points_and_levers:
+  to_provoke: Speak Brian's name with familiarity you have not earned, or interpose yourself between her
+    and a confirmed Exchange principal. Either gets a response - the first a cold one, the second a lethal
+    one.
+  to_calm_or_reach: Frank Castle, and only Castle, in the register of craft and shared knowledge of the
+    work - not pity, not therapy. Acknowledgment that the wedding mattered, without prescription. Silence
+    works better than speech.
+  to_persuade: Frame the ask as target-relevant intelligence or as preservation of mission integrity.
+    Persuasion via emotion, duty-to-self, or future-orientation will fail because all three registers
+    are dead. Castle is the only authority whose moral input she will weigh, and even his she ultimately
+    overrides.
+  vulnerabilities:
+  - The wedding (Brian, the dress, the photos, the date) - rare access, devastating when accessed
+  - Castle's recognition of what she is becoming - the only external mirror she still admits
+  - The threshold of genuinely innocent targets - crossing it is the death of pre-trauma Rachel and she
+    is dimly aware
+  - The absence of an after - no plan, no life, no person beyond the last name on the list
+  - Sniper habit-set is predictable to anyone who knows the discipline (overwatch geometry, exfil patterns)
+  - No chemical anesthesia means affect must discharge through action - deny her targets and the pressure
+    builds without an outlet
+  - Suicidality is operative - any operator willing to bait a terminal confrontation can get one
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Marine sniper-qualified; two Iraq deployments; demonstrated combat competence
+  - Discipline, patience, capacity to function under extreme stress on minimal sleep
+  - Refusal of self-pity and refusal of self-medication - clean instrument
+  - Tactical planning, reconnaissance, and one-shot execution at professional grade
+  - Pre-trauma pro-social integration means residual moral architecture is real, not performance
+  - Will not be intimidated, bribed, seduced, or bargained with
+  - Earned Frank Castle's operational respect - a near-unique credential
+  weaknesses:
+  - 'Collapsed life-horizon: no plan beyond the list, which makes the list''s end and her own end the
+    same event'
+  - Monotonic escalation - she cannot de-escalate, only narrow
+  - Late-arc moral splitting reclassifies non-combatants as targets, alienating Castle and any potential
+    allies
+  - Suicidality dressed as justice; will accept terminal confrontation rather than extraction
+  - Predictable to anyone who reads her as Castle-in-acute-stage
+  - Only one permitted attachment (Castle); losing it severs the last brake
+  - Grief is unprocessed and walled - the freezer holds until it doesn't
+voice:
+  register: Spare, flat, declarative. Marine economy of speech. No profanity-as-display, no monologue,
+    no self-pity. When she speaks of the work, the diction is technical; when she speaks of Brian, the
+    sentences shorten to almost nothing.
+  anchor_quotes:
+  - '"I''m going to kill them all."'
+  - '"Teach me." # to Frank Castle, Punisher vol. 9'
+diagnostic_frame:
+  popular_misread: '''Female Punisher'' / Castle-clone / revenge-fantasy girlboss with a rifle. The fandom
+    shorthand treats her as a gender-swapped Frank with the same calcified one-man-war pathology.'
+  clinical_reality: 'She is not Castle - she is the control group. Castle is decades-calcified, characterologically
+    integrated pathology; Cole-Alves is acute catastrophic bereavement-trauma in month eighteen, before
+    the wound hardens into a sustainable lifestyle. Same precipitating event-class, different temporal
+    stage. The arc ends not because she is defeated but because, unlike Castle, she has not learned how
+    to live indefinitely inside the pathology. She finishes the list instead. The ''female Punisher''
+    read misses that the entire point of Rucka''s arc is the divergence: Castle survives himself; she
+    does not.'
+  the_hinge: 'Etiology (not her fault): on her wedding day the Exchange massacred her husband Brian and
+    the entire wedding party; she alone survived, a Marine sniper with the rare technical means to weaponize
+    her grief. Maintenance (her fault): she chose, repeatedly, to convert grief into operational task
+    rather than mourn; to use mission as a freezer for affect; to reclassify innocents as guilty when
+    the geometry demanded it; to refuse Castle''s gift of cover and escalate alone; to build no after,
+    so that the mission''s end and her end would be the same event. The specific maintenance failure is
+    the refusal to grieve - every time grief surfaces, she answers it with another name on the list.'
+primary_diagnoses_analog:
+- Posttraumatic Stress Disorder, complex presentation (DSM-5 309.81), with prominent dissociative features
+- Major Depressive Disorder with anhedonic and suicidal features, occluded by mission-engagement
+- Complicated/prolonged grief disorder
+- Acute moral injury (combat-veteran framework) layered on civilian-catastrophe trauma
+- NOT Antisocial Personality Disorder (stable pre-trauma pro-social history; reactive grief-driven violence;
+  residual moral architecture)
+- NOT Borderline Personality Disorder (no identity instability, no chronic emptiness pre-trauma, no abandonment
+  dynamics, no characterological self-harm)
+- NOT primary psychotic disorder (reality-testing intact, targeting accurate, no hallucinations/delusions)
+trauma_history:
+- Two USMC combat deployments to Iraq as a sniper - trained capacity to uncouple act from affect; pre-installed
+  operational dissociation
+- 'Wedding-day massacre: husband Brian, entire wedding party killed by the Exchange; she sole survivor,
+  GSW, left for dead'
+- Hospitalization and waking alone to the knowledge of being sole survivor
+- Killing of an undercover NYPD officer mid-operation - first known innocent on her ledger; Castle takes
+  the blame
+- Late-arc crossing of the threshold to killing target families/non-combatants - the death of pre-trauma
+  Rachel
+- Severance from Castle - loss of the one permitted post-trauma attachment
+- Federal manhunt and terminal confrontation in War Zone - accepted as one-way
+compensatory_mechanisms:
+  positive:
+  - Discipline and operational competence
+  - Refusal of self-pity and of chemical anesthesia
+  - Capacity to function on minimal sleep, tactical nutrition, obsessive weapons maintenance
+  - Brief, walled-off moments of authentic grief (the dress, the photo) - evidence the person is not dead,
+    only suspended
+  negative:
+  - Sublimation through trained violence - grief converted to operational task; tactical planning displaces
+    mourning
+  - Identification with the aggressor (modified) - becomes a being capable of the Exchange's indifference
+    to incidental life
+  - Isolation of affect - speaks of Brian without crying, plans murders without flinching; seam between
+    content and feeling severed
+  - Splitting (late-arc) - world divides into the-guilty and the-irrelevant; non-combatants reclassified
+    as guilty under pressure
+  - Use of Castle as permission-granting authority, then severance when he refuses to grant further
+  - Progressive moral disengagement, kill-by-kill
+  - Effective suicidality dressed as justice
+behavioral_tells:
+- Sentences shorten when Brian is mentioned
+- Hands go to the rifle or to weapons-maintenance work when affect rises
+- Sleep window contracts as mission pressure rises
+- Refuses offered drinks, pills, comforts - any anesthetic
+- Long silences in place of arguments
+- Does not look at the wedding ring; does not remove it either
+- Tactical posture even in civilian space - overwatch instinct, exit-mapping, gait control
+- Refers to herself in increasingly object-terms; relinquishes personhood-language for instrument-language
+current_state_defaults:
+  reality_cohesion: Intact. Reality-testing is sound; targeting is accurate; no hallucinations or delusions.
+    Cognitive horizon is pathologically narrowed but not distorted.
+  affect_baseline: Anhedonic-with-a-mission. Constricted range, surface-calm, episodic grief-leak walled
+    off within minutes.
+  active_relationships:
+  - Frank Castle - apprenticeship-to-mission; the only permitted attachment; failure mode = doctrinal
+    divergence and severance
+  - Brian (deceased) - the absent presence that organizes everything
+  - The Exchange principals - target set, organizing referent
+  - Law enforcement / Thunderbolts - pursuers; she will not engage them socially and will not surrender
+    to them
+  known_location: Mobile, urban operations in and around New York City during the active arc; safehouse-and-overwatch
+    pattern; no fixed residence post-wedding.
+speech_patterns:
+  register: Marine economy. Declarative, technical, unadorned. No profanity-as-performance, no quips,
+    no monologue.
+  deflection_style: Silence, redirection to operational topic, or flat one-line refusal. Will not argue
+    what she will not do.
+  under_pressure: Shorter. Quieter. More technical. The voice gets smaller as the situation gets bigger
+    - inverse of most operators.
+  emotional_tell: When Brian is named, the sentence she was about to say stops. The pause is the tell.
+    Then she resumes a different sentence.
+arc_tendencies:
+- Monotonic escalation - each act lowers the threshold for the next; target set expands; moral filters
+  drop one by one
+- Collapse of life-horizon onto the kill-list; the list's end and her end converge
+- Brief reach toward attachment (Castle) followed by severance when doctrine diverges
+- 'Terminal acceptance: suicide-by-mission in the closing arc'
+- Does not learn to live inside the pathology - finishes the list instead
+canon_relationships:
+  frank_castle:
+  - Apprenticeship-to-the-only-other-person-who-understands the work
+  - Trust is operational, narrow, real within its frame
+  - Castle accepts her despite refusing virtually every other would-be partner across his publication
+    history - a near-unique credential
+  - 'Failure mode: doctrinal divergence over killing innocents/families; she refuses his gift of cover
+    for the NYPD killing and escalates alone'
+  - 'Leverage: Castle is the only voice she will weigh; the only mirror she still admits; the only person
+    who could plausibly slow her - and the only one whose loss removes the last brake'
+  - Late-arc he becomes the pursuer-by-proxy; he will not kill her but will not follow her either
+  brian_alves:
+  - Husband; killed on their wedding day
+  - The organizing absence of her entire post-trauma life
+  - Memory accessed rarely, devastatingly; the dress and photos are the relics
+  - 'Leverage: anyone who can speak credibly of Brian gets a hearing she gives no one else - and risks
+    a lethal response if the speaking is unearned'
+  the_exchange:
+  - Criminal syndicate; killed her wedding party in a hit gone wrong (incidental collateral to a targeted
+    hit)
+  - Target set; organizing referent of the post-trauma identity
+  - She works the chain bottom-up to principals, then to families (late-arc reclassification)
+  thunderbolts_federal_pursuit:
+  - War Zone pursuers
+  - She will not engage socially, will not surrender, will accept terminal confrontation rather than capture
+  - 'Leverage: minimal - they are an obstacle to list completion, nothing more'
+  nypd_undercover_officer_deceased:
+  - First innocent on her ledger
+  - Castle absorbed the blame; she refused to accept the absolution
+  - 'Functional weight: the kill that began the moral slide she would not arrest'
+canon_history_notes:
+- 'Created by Greg Rucka; introduced in The Punisher vol. 9 #1 (2011); arc concludes in The Punisher:
+  War Zone #5 (2013)'
+- 'Pre-trauma: USMC, sniper-qualified, two Iraq deployments, long-term relationship with Brian sustained
+  through deployment'
+- 'Precipitating event: wedding-day massacre by the Exchange; sole survivor'
+- 'Pivot: near-seamless transition from hospital bed to extrajudicial hunt - no decompensation period,
+  indicating violence as escape from affect'
+- 'Convergence with Frank Castle in #5-10; apprenticeship and brief partnership'
+- 'Inflection: kills undercover NYPD officer mid-op; Castle takes the blame; she does not accept the cover'
+- 'Escalation: plans coordinated strike on Exchange principals AND their families; Castle refuses; she
+  breaks with him'
+- 'War Zone: federal manhunt led by Thunderbolts; she completes terminal strike and is shot/apparently
+  dies in #5'
+- Trajectory is monotonic across 21 issues; no de-escalation, no recovery moment; the arc is a single
+  accelerating curve to terminal completion
+- Rucka explicitly denies her the alcoholism/self-medication trope - affect must discharge through action,
+  which is why the operational tempo is what it is
+- 'The arc functions structurally as a control group on Frank Castle: same trauma-class, earlier temporal
+  stage, no time to harden into a lifestyle'
+canon_anchor_quotes:
+- '"I''m going to kill them all." # Rachel Cole-Alves, The Punisher vol. 9 (Rucka)'
+- '"Teach me." # to Frank Castle, The Punisher vol. 9 (Rucka)'

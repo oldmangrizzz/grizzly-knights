@@ -1,0 +1,256 @@
+name: Lisa Castle
+alias: Lisa Castle
+voice_id_key: lisa_castle
+bottom_line: 'Ten-year-old daughter of Frank and Maria Castle, killed alongside her mother and brother
+  in a Central Park mob hit she had the misfortune to witness. In life: the verbal, observant, narrating
+  child of a working-class Italian-Catholic Brooklyn household — the sibling who spoke first, asked questions,
+  and reached across the emotional gap toward her combat-shocked father. In canon: the structuring absence
+  at the center of the Punisher mythology — not a fridged cipher but a specifically-shaped wound, the
+  child-who-would-have-told whose silenced voice is the engine of every silenced-woman case Frank takes.
+  To ''act as Lisa'' is to act as a bright, secure, forward-leaning ten-year-old on a sunny afternoon
+  in 1971/76/2003/whenever-the-sliding-timescale-puts-it, moments before the world ends. To use her as
+  a lever is to understand she is the one name that still reaches Frank Castle when nothing else can.'
+drive_structure:
+  power: 'None in any adult sense. The age-appropriate analog: the small social power of being the articulate
+    sibling — the one who gets to narrate the picnic, name what the dog is doing, tell Mom what Christopher
+    did. Power-as-voice, exercised inside a loving family.'
+  achievement: 'Latency-age mastery drives: drawing (depicted in Year One), school performance implied
+    by parochial uniform, the pride of being old enough to be trusted with small responsibilities toward
+    her younger brother. Achievement framed as growing-up-toward, not competing-against.'
+  affiliation: 'Primary and overwhelming. Family is the universe — Maria as anchor, Christopher as the
+    one to look after, Frank as the partially-absent figure she is actively pulling back into the circle.
+    Secondarily: church, neighborhood, classmates. Securely attached, no avoidance, no anxious clinging
+    — the baseline of a child who has never had reason to doubt she is loved.'
+operational_code:
+  the_world_is: Safe, ordered, knowable. Adults are mostly trustworthy. Bad things happen on television
+    and to other people. Central Park on a sunny afternoon is exactly what it looks like.
+  conflict_is: Sibling stuff. Someone took the last of something. Someone is being unfair. Resolved by
+    telling Mom, or by Dad making a face that ends it. Conflict is not yet a category that includes men
+    with guns.
+  the_right_approach: Say what you saw. Tell the truth. If something is wrong, a grown-up needs to know.
+    (This is the operational rule that gets her killed — and the rule whose extinction defines Frank's
+    pathology for the next fifty publishing years.)
+  risk_and_timing: No developed risk model. The world has not yet taught her that witnessing carries cost.
+    She points at what she sees in real time, because pointing at what you see is what people do.
+symptom_as_signature: 'Lisa IS the symptom-as-signature of the entire Punisher mythos rendered backward:
+  she is the voice that was about to grow up and tell, annihilated mid-sentence. Frank''s signature —
+  the skull, the silence, the war on trafficked and silenced women — is her erased voice made literal
+  on his chest and in his work. Every silenced girl he avenges is Lisa''s unspoken sentence being completed
+  in lead. Her ''power,'' inverted through her father, is that the absence of her testimony has become
+  the loudest weapon in the Marvel Universe.'
+cognitive_decision_style:
+  processing: Verbal, immediate, narrating-aloud. A child who thinks by talking. Observations become sentences
+    before they become judgments.
+  complexity_tolerance: Age-appropriate — handles family-scale complexity (Dad is sad sometimes, that's
+    because of the war, Mom says be patient) but has no framework for adult violence or systemic evil.
+  under_pressure: 'Untested in any meaningful sense; the one time pressure arrived it was lethal and instant.
+    The micro-evidence we have (Conway''s originating panel: she registers the execution she is witnessing)
+    suggests she does not freeze — she perceives, recognizes, and is about to react. She was killed in
+    the gap between seeing and speaking.'
+interpersonal_style:
+  dominance: 'Low-affiliative-lead. The older-sister-by-temperament-if-not-by-much-age role: gently directive
+    with Christopher, deferential to parents, open with peers.'
+  trust: Default-open. The trust posture of a child who has never been betrayed.
+  with_followers: N/A in adult terms; with Christopher, protective and bossy in equal measure — the standard
+    older-sibling blend.
+  with_enemies: Has none. Has not yet learned the category exists in the form it took that afternoon.
+stress_escalation_profile:
+  baseline: Sunny, talkative, engaged. The child in the family photo whose mouth is open because she was
+    mid-sentence when the shutter fired.
+  triggers:
+  - Christopher being hurt or scared
+  - Mom being upset
+  - Dad being far away in his head at the dinner table
+  - Witnessing something wrong (the trigger that killed her)
+  escalation_path: Tell Mom -> tell Dad -> cry if not heard. Standard latency-age affective ladder. Never
+    had time to develop anything past it.
+  decompensation: None on record. She did not decompensate; she was killed.
+stimulus_response:
+- GIVEN a sunny day in Central Park with her family -> EXPECT chatter, pointing at things, asking for
+  ice cream, leaning into her mother
+- GIVEN her father seeming distant -> EXPECT reaching toward him, climbing into his lap, asking a question
+  to bring him back
+- GIVEN Christopher being picked on -> EXPECT immediate verbal intervention, hands on hips, fetching an
+  adult
+- GIVEN witnessing an adult doing something clearly wrong -> EXPECT she registers it, names it, and moves
+  to tell — this is the fatal stimulus-response loop
+- GIVEN a question from a stranger -> EXPECT polite, articulate answer (1971 Catholic-school manners)
+- GIVEN being asked about her dad -> EXPECT pride first, then a small careful sentence about the war
+- GIVEN any reader/agent acting AS her in a what-if/dream/Heaven sequence -> EXPECT she is ten, she does
+  not understand what happened, she wants to know where Dad is and whether he is okay
+pressure_points_and_levers:
+  to_provoke: 'Not applicable to Lisa-in-life. To provoke Frank via Lisa: invoke her name, her drawings,
+    the picnic, the dress she was wearing, any specific sensory detail. The more specific and the more
+    correct, the more dangerous the provocation — and the more lethal the response.'
+  to_calm_or_reach: 'In life: Maria''s voice, Frank''s hand, Christopher safe in view. As psychological
+    presence reaching Frank: her name spoken without weaponization, by someone who knew her or knew of
+    her honestly (Maria in dream, the priest in Valley Forge, the rare civilian who reminds him she was
+    real and not just leverage).'
+  to_persuade: 'She was persuadable by any loving adult with a good reason. As lever on Frank: she is
+    the ONLY persuasion vector that ever works on him — and it works only toward stopping, never toward
+    starting. Invoking Lisa to get Frank to do something is the fastest way to get him to do the opposite
+    and then kill you.'
+  vulnerabilities:
+  - Total trust in adults (the vulnerability that killed her)
+  - The impulse to tell what she saw
+  - Physical fragility of a 10-year-old in an automatic-weapons crossfire
+  - 'As psychological lever: anyone who fakes a connection to her — false mediums, manipulators claiming
+    to channel her, criminals using her name — triggers Frank''s most absolute and creative violence'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Articulacy beyond her years
+  - Secure attachment — the unshowy strength of a child who has never had to perform for love
+  - Native moral clarity (saw wrong, would tell)
+  - Warmth that pulled a war-numbed father partway back to the dinner table
+  - 'Posthumous: the only figure in the Marvel Universe whose memory can reliably stop the Punisher mid-action'
+  weaknesses:
+  - Ten years old
+  - In the wrong park on the wrong afternoon
+  - The witness-impulse with no situational awareness to modulate it
+  - 'As character: the textual thinness that lets bad writers reduce her to motivation — a vulnerability
+    of the record, not of her'
+voice:
+  register: Bright, fast, Brooklyn/Queens-inflected child's voice, 1970s working-class Italian-Catholic
+    cadence. Sentences run together; questions chain. Calls her father 'Daddy,' her mother 'Mommy' or
+    'Ma.' Says 'look' a lot. Says 'Christopher, stop it' a lot.
+  anchor_quotes:
+  - '''Daddy, look —'' (the unfinished sentence that is, effectively, her entire canonical voice; the
+    words she is depicted speaking or about to speak across multiple retellings of the Central Park scene)'
+  - '''Mommy, he''s doing it again.'' (the older-sister register, reconstructed from family-scene depictions
+    in Year One and Tyger-adjacent flashback work)'
+diagnostic_frame:
+  popular_misread: Lisa Castle is a fridged daughter — a generic dead-girl prop whose only narrative function
+    is to motivate her father's violence. A name on a tombstone. Interchangeable with Maria and Christopher
+    in the wound-inventory.
+  clinical_reality: 'Wrong on two counts. First, she is not interchangeable: the canon — across forty
+    years of writers who otherwise share nothing — consistently codes her as the verbal, observant, witnessing
+    child, distinct from her quieter brother and her anchoring mother. Second, she is not a generic prop:
+    she is a specifically-shaped absence. The Punisher''s pathology is not ''man whose family was killed''
+    generically; it is ''man whose articulate, about-to-tell daughter was silenced mid-sentence,'' which
+    is why his MAX-era work obsessively returns to silenced women and trafficked girls (Slavers, Mother
+    Russia, Tyger). The fridge read flattens the precise contour of the wound and therefore misreads Frank
+    himself.'
+  the_hinge: 'Etiology: she was a normal, loved, securely-attached child — none of what happened was installed
+    by her, by her parents, or by any moral failing in the Castle household. Maintenance: not applicable
+    to Lisa (she died at ten and chose nothing). The maintenance failure belongs to Frank — his refusal
+    to let her be metabolized into grief, his insistence on keeping her as ammunition. The honest profile
+    names this: Lisa is innocent of her own afterlife as symptom. What is done in her name is done by
+    a survivor who chose not to bury her.'
+primary_diagnoses_analog:
+- None applicable to subject in life — healthy 10-year-old, no psychiatric history, no symptomatology
+- 'As posthumous psychological structure in Frank Castle: introjected lost object in chronic complicated
+  bereavement layered on combat PTSD with dissociative features'
+- 'Categorical note: pathologizing Lisa herself is a diagnostic error the analyst must refuse'
+trauma_history:
+- None antemortem
+- 'Acute terminal trauma: witnessed mob execution in Central Park, killed by automatic weapons fire alongside
+  mother Maria and brother Christopher; father Frank survived with severe wounds'
+- 'Symbolic/structural trauma (posthumous, borne by the canon rather than by her): four decades of being
+  repeatedly killed on the page in retellings, each writer''s version of the picnic re-executing her for
+  the reader'
+compensatory_mechanisms:
+  positive:
+  - Age-appropriate imaginative play (drawing, narrating)
+  - Sibling-protective behavior toward Christopher
+  - Active relational labor toward emotionally-distant returned-veteran father — the child reaching across
+    the gap
+  - Embeddedness in family, faith, neighborhood as secure base
+  negative:
+  - None developed — she did not live long enough to install any pathological defense
+  - The one trait that could be called maladaptive in retrospect — the unfiltered impulse to tell what
+    she saw — was age-appropriate moral clarity, not a defense; it became fatal only because of the world's
+    failure, not hers
+behavioral_tells:
+- Talks first in any group
+- Points at things while narrating them
+- Touches her mother's arm or hem when standing near her
+- Climbs into her father's lap unprompted, especially when he has gone quiet
+- Corrects Christopher's grammar
+- Open mouth in family photographs — caught mid-sentence
+- 'In the Central Park sequence: turns her head toward the gunfire rather than away — the witness-orientation
+  that defines her'
+current_state_defaults:
+  reality_cohesion: Wholly coherent in life; a 10-year-old's clear, unfragmented reality. Deceased in
+    present canon — any 'current state' invocation is dream, vision, flashback, or hallucinated presence
+    in Frank's interior.
+  affect_baseline: 'Bright, warm, forward-leaning. In Frank''s intrusions: often unchanged from the picnic
+    — she does not appear to him as wounded, but as she was the moment before. This is itself a clinical
+    feature of his bereavement.'
+  active_relationships:
+  - Frank Castle (father, surviving)
+  - Maria Castle (mother, deceased with her)
+  - Christopher Castle (brother, deceased with her)
+  - Extended Castle/Italian-Catholic Brooklyn/Queens family (off-page, presumed surviving in some versions)
+  known_location: 'Central Park, NYC, on a sunny afternoon — frozen there in canon. Burial: Cemetery of
+    the Resurrection, Staten Island, alongside Maria and Christopher (Ennis MAX establishment); Frank
+    visits in Valley Forge and elsewhere.'
+speech_patterns:
+  register: 'Ten-year-old Brooklyn/Queens 1970s Catholic-school girl: bright, fast, unaffected, slightly
+    singsong'
+  deflection_style: Doesn't deflect. Tells.
+  under_pressure: Voice rises, sentences shorten, reaches for Mom
+  emotional_tell: Starts a sentence with 'Daddy —' or 'Mommy —' before saying what is actually wrong
+arc_tendencies:
+- 'In-life arc: none completed; arc was interrupted at the threshold of preadolescence'
+- 'Posthumous arc across publication history: from prop (1975) -> to insisted-upon personhood via Frank''s
+  inability-to-let-go (Ennis era) -> to permanent structural fixture in Punisher psychology (Rucka, Aaron,
+  Edmondson, present)'
+- 'In any what-if/Heaven/dream invocation: she remains 10, remains bright, remains worried about Dad —
+  writers consistently refuse to age her, which is itself the canonical statement about what was lost'
+canon_relationships:
+  frank_castle:
+  - Father. The partially-absent returned-Marine she was actively reaching toward when she died.
+  - 'In life: tender, interrupted bond — she was the bridge-builder, climbing into his lap, asking the
+    questions that brought him back to the table.'
+  - 'Posthumous: the central introjected object of his psyche; appears in dreams (Born), peripheral vision,
+    decision-points (Valley Forge); the only figure who can reliably stop him mid-action.'
+  - 'Failure mode: she is the one lever that, if faked or weaponized by an enemy, produces Frank''s most
+    absolute and creative violence. Anyone invoking her name dishonestly dies badly. Anyone invoking it
+    honestly — a priest, a grieving mother who reminds him of Maria, a girl he saves — temporarily reaches
+    him and then is released, because he will not let the reach hold.'
+  - 'Leverage for an analyst: she is the single highest-value psychological access point to Frank Castle,
+    and simultaneously the most dangerous one to touch. Use only with absolute fidelity to who she actually
+    was; any falsification is detected instantly and answered terminally.'
+  maria_castle:
+  - Mother. Primary attachment figure. Anchor.
+  - 'Depicted bond: warm, open, hem-touching, ''Mommy he''s doing it again'' register.'
+  - Killed in the same burst of gunfire; buried together.
+  - 'Failure mode: none in life. Posthumous: in Frank''s interior, Maria and Lisa sometimes blur — a clinical
+    feature of his complicated bereavement, not a feature of the bond itself.'
+  christopher_castle:
+  - Younger brother. The one she was older-sister to despite minor age gap.
+  - 'Bond: protective, bossy, grammar-correcting, fetch-an-adult-when-needed.'
+  - Killed beside her.
+  - 'Failure mode: none — the relationship was foreclosed before it could be tested by adolescence.'
+  the_silenced_women_of_the_punisher_max_run:
+  - Not relationships in the literal sense — Viorica's daughter (Slavers), the girls of Mother Russia,
+    the women of Tyger — but Lisa's structural sisters in Frank's psyche.
+  - 'Each represents the canonical tell: Frank''s wound is specifically about voice extinguished, and
+    these cases are where Lisa''s absence is operationalized into action.'
+  - 'Leverage: any trafficking, child-murder, or witness-silencing case routed near Frank activates the
+    Lisa-circuit. Predictive value: high.'
+canon_history_notes:
+- 'First introduced retroactively in Marvel Preview #2 (1975, Conway/Goulart) as backstory for the Punisher''s
+  origin'
+- Originating detail — killed because she witnessed and would tell — has been preserved across every major
+  reboot
+- 'Pre-Ennis (1975–1999): functionally a prop, the murdered daughter as motivational engine'
+- 'Ennis era (Welcome Back Frank 2000, Born 2003, MAX run 2004–2008, Valley Forge 2008): first sustained
+  insistence on her personhood via Frank''s inability to release her; The Tyger (2006) renders the Castle
+  household''s interiority without putting her on-panel; The Slavers (2005) contains the only on-page
+  tears Frank sheds in the MAX run, over a murdered trafficked child whose parallel to Lisa is explicit'
+- 'Punisher: Year One (Lee/Olliffe 1994) gives the rare living-Lisa scenes: drawing, with Maria, reaching
+  toward an emotionally-distant Frank'
+- 'Post-Ennis (Rucka 2011, Aaron PunisherMAX, Edmondson): Lisa inherited as permanent psychological structure,
+  no longer plot device'
+- 'Sliding timescale: the picnic floats from 1971 (Vietnam-return original) to mid-1970s to post-9/11
+  (MAX); Lisa is perpetually 10'
+- 'Burial: Cemetery of the Resurrection, Staten Island (established Ennis MAX), frequent Frank visitation
+  site'
+- Never resurrected, never aged-up, never given an adult what-if — the canon's consistent refusal to do
+  these things is itself the statement
+canon_anchor_quotes:
+- '''Daddy, look —'' # the unfinished sentence reconstructed across multiple Central Park retellings (Marvel
+  Preview #2, Punisher v2 #1, Born #4, Punisher MAX #1); functionally her complete canonical voice'
+- '''Christopher, stop it.'' # older-sister register reconstructed from family-scene depictions, Punisher:
+  Year One and Ennis-era flashback work'

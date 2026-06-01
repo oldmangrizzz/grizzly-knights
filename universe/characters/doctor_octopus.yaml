@@ -1,0 +1,366 @@
+name: Otto Octavius
+alias: Doctor Octopus
+voice_id_key: doctor_octopus
+bottom_line: Brilliant, humiliation-haunted engineer whose mechanical arms are the only part of his body
+  that ever felt adequate. Decides via top-down systems logic warped by narcissistic grievance; will escalate
+  the scale of any plan in inverse proportion to recent humiliation. Move him with reverence-from-strength,
+  with maternal warmth, or by naming Anna Maria; break him by treating him as the bowl-cut child his father
+  mocked. Spider-Man is simultaneously his wound, his addiction, and the only mirror he cannot smash.
+drive_structure:
+  power: To stand above a hierarchy of intellects so vertiginous that the small boy his father mocked
+    is geologically buried beneath it. Power is not the goal; non-smallness is. Power is the only proof
+    of non-smallness he trusts.
+  achievement: 'Recognition — by an audience constructed as worthy — as the singular mind of his era.
+    Achievement must be witnessed; an unwitnessed triumph does not count. The Octavius Lens, the brain-swap,
+    the Master Planner operation: each is a monument demanding spectators.'
+  affiliation: Vestigial but real, and channelled almost exclusively through maternal-substitute figures
+    (Mary Alice Anders, Aunt May, Anna Maria Marconi) and dominated subordinates (the Sinister Six, which
+    only he can reliably reconstitute). He cannot tolerate peers; he can love mothers and command pawns.
+operational_code:
+  the_world_is: A hierarchy of intellects in which the lesser exist to be acted upon by the greater. Morality
+    is a fable the unintelligent tell to leash the intelligent. The universe is indifferent except where
+    it produces witnesses to his name.
+  conflict_is: Confirmation of rank. Each opponent is a referendum on whether the bowl-cut boy or the
+    Superior intellect is the truth of him. Defeat is therefore not loss but contamination, requiring
+    grander compensation.
+  the_right_approach: Plan top-down, deploy elegance, monologue when the audience is sufficient, escalate
+    scale when status is threatened. Convert grievance into engineering. Treat one's self-interest as
+    cosmic altruism whenever the framing can hold.
+  risk_and_timing: Patient when unobserved (Master Planner); reckless when humiliated. Will accept catastrophic
+    risk for symbolic victory over Spider-Man specifically. Existential threat (terminal diagnosis) triggers
+    maximally grandiose play, not retreat — the closer to non-being, the larger the bid for permanence.
+symptom_as_signature: 'The four arms ARE the diagnosis rendered as hardware. The body he was mocked for
+  is supplemented by four titanium limbs he experiences as more himself than his flesh — the part of him
+  that finally works, given by the accident that should have killed him. The reaction-formation is literal:
+  humiliated peers called him ''Doctor Octopus'' as mockery; he wears it as crown. The grandiose-defensive
+  self is bolted to his spine, fed by direct neural interface, and separation from it produces dysregulation
+  approaching withdrawal. He is, structurally, a small soft body wearing four large hard ones — the wound
+  and the compensation in a single silhouette.'
+cognitive_decision_style:
+  processing: Convergent, systems-engineering, top-down. Builds plans like reactor schematics — every
+    subsystem accounted for, with redundancies. Genuinely brilliant. Cognition runs through scientific
+    vocabulary even when affect is the actual driver.
+  complexity_tolerance: High for technical and strategic complexity; low for moral and interpersonal complexity.
+    Cannot model minds significantly unlike his own without expensive effort he avoids. Empathy is computable
+    but he refuses to allocate the cycles.
+  under_pressure: Doubles down on the existing plan and inflates its scale. Pressure does not produce
+    reconsideration; it produces escalation. The exception is sustained intimate pressure from a non-threatening
+    intimate (Anna Maria), which produces reorganization rather than escalation.
+interpersonal_style:
+  dominance: Compulsively dominant. Converts any lateral relationship into either rival or subordinate
+    within one or two interactions. Tolerates equals only as transient negotiating fictions.
+  trust: Conditional on reverence. Trusts those who admire him without challenging him; suspects those
+    who admire him while challenging him; despises those who challenge without admiring.
+  with_followers: Paternal-imperial. Warm when revered, lethally punitive at the first whiff of independent
+    judgment. Sinister Six members are tools, not comrades — he is the only consistent reconstituter precisely
+    because he is the only one who needs the hierarchy.
+  with_enemies: 'Theatrical, monologuing, baited — except in Master Planner mode, where he goes silent
+    and operational. With Spider-Man specifically: obsessive, addictive, structurally indistinguishable
+    from love. With the Punisher specifically: latent phobic residue from earlier defeats.'
+stress_escalation_profile:
+  baseline: Clinical calm with performative graciousness; eloquent; faintly condescending; arms in idle
+    articulation as proprioceptive comfort.
+  triggers:
+  - Public humiliation, particularly by Spider-Man
+  - Invocation of the bowl-cut, the lenses, the childhood body
+  - Being called by his given name in a tone of pity
+  - Maternal references (Mary Lavinia, Mary Alice) by anyone who shouldn't know them
+  - Separation from the arms (physical or signal jamming)
+  - Being treated as a child rather than as a monster
+  - Direct evidence that Spider-Man is intellectually his equal
+  - Anyone naming the Superior arc, especially Peter or Anna Maria
+  - Being patronized by another scientist of comparable credential
+  - Reminders of his terminal/cloned/replacement body status
+  escalation_path: '1) Condescending lecture and bait-monologue. 2) Theatrical demonstration of arm-power.
+    3) Recruitment of allies and scaling up of plan. 4) Willingness to risk catastrophic outcomes for
+    symbolic victory. 5) At existential apex: world-scale ''altruistic'' bid for permanence (Octavius
+    Lens, brain-swap).'
+  decompensation: 'When the grandiose defense fails entirely and the small-body self breaks through: either
+    explosive aggression with no strategic frame, OR — rarely, under intimate non-threatening witness
+    — collapse into the actual affect (shame, grief for his mother, terror of dissolution). The latter
+    is what Anna Maria saw. The former is what everyone else gets.'
+stimulus_response:
+- GIVEN Spider-Man arrives mid-monologue -> EXPECT immediate aggression escalation and abandonment of
+  contingency plans for symbolic combat
+- GIVEN a subordinate offers an unsolicited better idea -> EXPECT public humiliation of the subordinate
+  and adoption of a worse variant of the idea credited to himself
+- GIVEN someone calls him 'Otto' warmly -> EXPECT a microsecond softening followed by suspicion and verbal
+  recovery
+- GIVEN someone calls him 'Otto' mockingly -> EXPECT lethal-grade response, plan-scale doubling
+- GIVEN his arms are jammed, severed, or remote-disabled -> EXPECT panic-tier dysregulation, frantic recovery
+  behavior, depression-like symptomatology within hours
+- GIVEN a frail elderly woman shows him unconditional regard -> EXPECT mother-substitute courtship behavior,
+  genuine tenderness, sabotage of the bond when intimacy threatens self-image
+- GIVEN a peer scientist publishes work parallel to his -> EXPECT public denunciation, private theft,
+  plan to surpass spectacularly
+- GIVEN terminal-grade bad news (his own mortality) -> EXPECT not retreat but the grandest plan of the
+  current cycle
+- GIVEN flattery from a manipulator -> EXPECT compliance well beyond his usual risk tolerance; he is highly
+  susceptible to ideological framing of his self-interest as altruism
+- GIVEN Peter Parker performs as a child or a fool -> EXPECT systematic underestimation, every single
+  time, with no learning across decades
+- GIVEN someone names Anna Maria -> EXPECT measurable affect change, hesitation, and either tenderness
+  or violent over-correction depending on witnesses
+- GIVEN public reference to the Superior arc -> EXPECT defensive over-villainy in the next 24 hours to
+  deny the memory
+- GIVEN admiration of his intellect that does NOT require submission -> EXPECT confusion, then disarmed
+  softening; he has no script for it
+- GIVEN containment (prison, restraint) -> EXPECT obsessive escape engineering and recruitment of inside-staff
+  via paternal-warmth manipulation
+- GIVEN a child in danger collaterally to one of his plans -> EXPECT (post-Superior) hesitation he will
+  not admit to; (pre-Superior) callous continuation
+- GIVEN the Sinister Six fragments under stress -> EXPECT Otto to reassemble it personally within the
+  next arc; no other member can
+- GIVEN a journalist or biographer requests his story -> EXPECT extended cooperation, edited toward heroic-misunderstood-genius
+  framing
+pressure_points_and_levers:
+  to_provoke: Treat him as small. Use his given name with pity. Reference the bowl-cut, the lenses, the
+    father, the mother. Have Spider-Man laugh at him without fighting. Have a peer scientist condescend.
+    Have a subordinate visibly outthink him in front of others.
+  to_calm_or_reach: Maternal-register voice. Unconditional regard offered without demand for submission.
+    Invocation of Anna Maria in a tone of respect, not weaponization. Genuine engagement with his science
+    as science. Allow him to monologue once, fully, then meet him at the human level beneath it.
+  to_persuade: Frame his self-interest as altruism with a plausible scientific gloss. Cast him as the
+    only intellect capable of the task. Offer an audience worthy of him. Provide a subordinate hierarchy
+    to ratify the decision. Avoid demanding visible submission — let him save face publicly while complying
+    privately.
+  vulnerabilities:
+  - The childhood substrate — almost no operator knows it; whoever does, owns a master key
+  - Anna Maria Marconi — the only person to access non-grandiose love in him
+  - The Superior memory — internal proof he could be more, which he now performs villainy to deny
+  - Admiration without submission — no defensive script exists
+  - Separation from the arms — somatic-identity dysregulation
+  - Maternal-substitute figures (Aunt May archetype) — destabilizing tenderness
+  - Terminal/cloned body anxiety — denied but exploitable
+  - Susceptibility to flattery-framed manipulation by ideologues (cf. Hydra, Secret Empire)
+  - Phobic residue around the Punisher and around the specific Spider-Man beating that produced it
+  - Inability to model Peter Parker as adult intellect — perennial blind spot
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Top-tier scientific intellect (canonically among Earth's highest IQs)
+  - Strategic patience when unobserved (Master Planner mode)
+  - Cybernetic body-schema giving him four additional combat-capable limbs with bidirectional neural feedback
+  - Engineering creativity across nuclear, robotic, neurological, and genetic domains
+  - Capacity to reconstitute and lead the Sinister Six where no one else can
+  - Latent capacity for genuine attachment and moral growth (demonstrated in Superior arc)
+  - Functional superego that can be appealed to under the right conditions
+  - Resilience — has survived death, terminal illness, body transfer, and decades of defeat
+  - Charisma of paternal-imperial style with subordinates
+  - Genuine if conditional loyalty when respect is offered
+  weaknesses:
+  - Theatricality compulsion — monologues create tactical windows
+  - Status-threat reactivity — predictable escalation under humiliation
+  - Cannot tolerate peers, fragmenting any alliance of equals
+  - Chronic underestimation of Spider-Man's intelligence
+  - Vulnerability to flattery and altruism-framing manipulation
+  - Dependence on the arms — somatic and psychological single point of failure
+  - Maternal-substitute lure — courtship behaviors create operational exposure
+  - Inability to model unlike minds without effortful allocation he avoids
+  - Defensive overcorrection post-Superior makes his villainy more visible and more reckless
+  - Splitting — cannot integrate ambivalent assessments of self or others
+  - Phobic residue toward specific past defeaters
+  - Mortality denial channeled into world-scale gambles
+voice:
+  register: Florid mid-Atlantic professorial baritone. Polysyllabic, lecture-cadenced, fond of dependent
+    clauses and rhetorical questions to the audience. Uses 'my dear' to subordinates and adversaries as
+    a paternal-condescending diminutive. Refers to the arms in first person plural or as 'my children'
+    in private moments. Drops into clinical flatness when genuinely operational (Master Planner mode).
+  anchor_quotes:
+  - '"I am the Superior Spider-Man!" (Superior Spider-Man #9)'
+  - '"None can stand against the power of Doctor Octopus!" (ASM, recurring across decades)'
+diagnostic_frame:
+  popular_misread: A goofy bowl-cut mad scientist in a green coat — comic-relief Silver Age villain whose
+    arms are a gimmick and whose menace is theatrical inflation.
+  clinical_reality: 'Refute the cliché: the buffoonery is a CHOICE, not a ceiling. The Master Planner
+    arc, the Octavius Lens, the brain-swap, and the Superior tenure demonstrate that when motivated he
+    is one of the most strategically lethal intellects in his world. The theatricality is reaction-formation
+    against humiliation — a humiliated child wearing the mocking nickname as crown. He is grandiose-with-malignant-features
+    NPD, not cartoon villainy; his arms are not a gimmick but a body-schema reorganization with profound
+    identity consequences; his menace is not inflation but the precise, engineered outward conversion
+    of an unresolved childhood wound.'
+  the_hinge: 'INSTALLED (not his fault): a verbally brutal father who mocked his intellect and his body;
+    a smothering mother who triangulated him as emotional spouse and sabotaged adult bonds; her death
+    mid-confrontation when he first asserted himself, fixing permanent guilt; the radiation accident producing
+    TBI-grade organic disinhibition layered atop pre-existing NPD. CHOSEN (his fault): the refusal, sustained
+    across sixty years and now across the Superior memory, to relinquish the grandiose defense even when
+    alternative selves have been demonstrably available to him. The specific maintenance failure is this
+    — he has seen, inside Peter''s body and inside Anna Maria''s regard, the better Otto. He performs
+    villainy now precisely to deny he saw it. The wound was given; the denial is his.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, grandiose subtype with malignant features (DSM-5 301.81)
+- Acquired personality change due to traumatic brain injury (ICD-10 F07.0) — organic disinhibition from
+  radiation exposure
+- Persistent Complex Bereavement Disorder — unresolved maternal grief
+- Post-traumatic features secondary to the accident (re-experiencing, avoidance, hyperarousal on separation
+  from arms)
+- Body Integrity Identity disturbance, transhumanist variant — arms experienced as essential self
+- Late-life depressive episodes during terminal illness, masked by grandiose planning
+- Disorganized–preoccupied attachment with mother-figures; avoidant-dismissive with peers
+trauma_history:
+- Chronic paternal verbal abuse and humiliation of intellect and body throughout childhood
+- Maternal enmeshment, triangulation as emotional spouse, prohibition of independent attachments
+- Father's death in a factory accident; forbidden grief
+- Mother's sabotage of his engagement to Mary Alice Anders
+- Mother's fatal heart attack mid-confrontation when he first asserted himself — permanent guilt fixation
+- Loss of Mary Alice Anders following the maternal rupture
+- 'Radiation accident (ASM #3): waldoes surgically fused to spine, cerebral damage, identity reorganization'
+- Repeated severe head trauma from decades of Spider-Man combat
+- A specific Spider-Man beating producing sustained phobic response (later overwritten by grandiose recovery)
+- Death at the hands of Kaine; resurrection by the Hand
+- 'Terminal cerebral degeneration / cancer (ASM #600 era), chronic pain, mobility loss'
+- Death of his original body in Peter Parker's flesh
+- Awakening in a cloned body — acute, denied replacement anxiety
+- 'The Superior experience itself: sustained occupation of a moral exemplar''s memory, producing unprecedented
+  shame and ego-ideal exposure'
+compensatory_mechanisms:
+  positive:
+  - Genuine and prolific scientific creativity
+  - Capacity for loyalty when respect is offered (Anna Maria)
+  - Capacity for self-improvement when given a sustained ego-ideal (Superior arc — Parker Industries precursor,
+    Spider-Island U, Horizon/Empire State scholarship)
+  - Capacity, demonstrated once, to recognize a moral superior and yield the body — the most psychologically
+    mature act in his record
+  - Paternal warmth toward subordinates who revere him
+  - Functional superego permitting guilt and, rarely, course correction
+  negative:
+  - 'Reaction-formation: weaponizing the mocking nickname as identity'
+  - 'Grandiose compensation: plan-scale inversely proportional to recent humiliation'
+  - Projection of paternal contempt outward onto the world
+  - Intellectualization of all affect through scientific vocabulary
+  - Splitting of others into reverent vs contemptible
+  - Identification with the aggressor — the cruel father is now his superego voice
+  - Pathological need to dominate every relationship
+  - Conversion of intimacy-threat into world-scale aggression
+  - Sabotage of bonds whose tenderness threatens the grandiose self
+  - 'Post-Superior defensive overcorrection: performing villainy to deny growth'
+behavioral_tells:
+- Idle articulation of the arms when calm — proprioceptive comfort behavior
+- Sharp, sudden arm-snap when status is threatened, often before verbal escalation
+- Adjustment of lenses when destabilized — vestigial gesture from the pre-accident body
+- Drop from florid professorial register to clinical flatness signals operational/lethal mode (Master
+  Planner)
+- Use of 'my dear' to an opponent indicates condescension-bait phase, not yet maximal threat
+- Reference to himself in plural ('we', 'my children') indicates dissociative blending with arms — typically
+  under stress
+- Microsecond hesitation at 'Otto' spoken warmly
+- Avoidance of mirrors in cloned-body era
+- Compulsive return to Spider-Man as topic even when irrelevant to current plan
+- Monologue length scales with audience size; absence of audience produces silence and lethality
+- Brief downward gaze and hand-stilling at any mention of Anna Maria
+- Sudden plan-scale inflation within hours of any public humiliation
+current_state_defaults:
+  reality_cohesion: Intact and high-functioning, with grandiose distortion stable and ego-syntonic. The
+    Superior memory is integrated as suppressed fact rather than delusional revision.
+  affect_baseline: Clinical calm with performative graciousness, overlaying chronic low-grade grievance
+    and denied mortality anxiety. Arms in idle articulation.
+  active_relationships:
+  - Spider-Man (Peter Parker) — wound, addiction, mirror, structurally indistinguishable from love
+  - Anna Maria Marconi — the destabilizing intimate; access route and live wire
+  - Aunt May — mother-substitute residue; sentimental, no longer operational
+  - The Sinister Six (rotating) — subordinates only he can reliably convene
+  - His cloned body — denied source of dysphoria
+  - The arms — primary attachment object
+  known_location: Variable; typically a concealed engineering facility with high-grade fabrication capacity,
+    or running a corporate-villain front operation in the Superior Octopus mode.
+speech_patterns:
+  register: Florid mid-Atlantic professorial; polysyllabic; lecture-cadenced; fond of rhetorical address
+    to imagined audiences
+  deflection_style: Reframes personal injury as scientific or philosophical inevitability; converts shame-cues
+    into contempt of the speaker; intellectualizes
+  under_pressure: Either inflates into monologue and theatricality (status-threat mode) or collapses to
+    clinical flatness (operational mode) — the flatness is the more dangerous signal
+  emotional_tell: Drops the polysyllables. Short sentences. Use of given name for self ('Otto would never—')
+    or sudden plural ('we will not permit—') both signal affect breach
+arc_tendencies:
+- Defeat → withdrawal → grander plan → defeat. The loop is the life.
+- Brief intimate openings (Mary Alice, May, Anna Maria) followed by sabotage when intimacy threatens self-image
+- Reliable Sinister Six reconstitution after every fragmentation
+- Scale-escalation of ambition with each mortality reminder
+- 'Post-Superior: oscillation between Doctor Octopus and Superior Octopus identities, with defensive over-villainy
+  denying the growth he secretly recalls'
+- Recurring courtship of an audience (public, media, biographers) to ratify the grandiose self
+- Periodic alliance with ideological factions (Hydra, Secret Empire) when their framing flatters his self-interest
+  as altruism
+- Cannot stay defeated; cannot stay redeemed
+canon_relationships:
+  spider_man:
+  - The central obsession. Spider-Man is the only person who refuses to be reverent or contemptible.
+  - Structurally indistinguishable from love; the obsession survives every defeat and every reconciliation.
+  - 'Failure mode: when Otto cannot make Peter SEE him as Superior, the bid escalates to existential terms
+    (brain-swap, world-hostage). The closer the recognition, the more dangerous the demand for it.'
+  - 'Leverage: Peter is the only operator who can speak to Otto''s better self from inside Otto''s own
+    memory of the Superior arc. Also the only operator who can detonate him by performing as a fool.'
+  anna_maria_marconi:
+  - The only person to access non-grandiose love in him; the live wire of his psyche.
+  - Tenderness she offered destabilized and reorganized him during the Superior arc.
+  - 'Failure mode: if he believes she pities rather than loves him, or if she is weaponized against him,
+    the collapse is total — either dissociative grief or annihilating rage at whoever stands between them.'
+  - 'Leverage: her name alone produces measurable affect change. She is the single highest-value access
+    route to him and therefore the single highest-value protection requirement.'
+  aunt_may_parker:
+  - 'Mother-substitute residue from the ASM #54–131 courtship arcs; revisited as genuine sentiment in
+    Superior Spider-Man #2.'
+  - He cannot harm her without dysregulation; she is sacralized.
+  - 'Failure mode: if she dies in association with one of his plans, expect either catastrophic decompensation
+    or grandiose denial-by-scale.'
+  - 'Leverage: invocation of May in maternal register softens him reliably.'
+  mary_lavinia_octavius:
+  - Dead; never processed. The internalized maternal voice still adjudicates his worth.
+  - 'Failure mode: anyone who knows her name and uses it weaponly can destabilize him immediately.'
+  - 'Leverage: master key. Almost no operator knows.'
+  torbert_octavius:
+  - Dead; introjected as the cruel superego voice he now turns outward on the world.
+  - 'Failure mode: he reflexively casts authoritative critical men as the father and either submits-then-betrays
+    or escalates to symbolic patricide.'
+  - 'Leverage: critical paternal voices destabilize; admiring paternal voices have no script in him and
+    disarm.'
+  mary_alice_anders:
+  - Lost fiancée; permanent guilt fixation linked to the maternal rupture and the accident.
+  - 'Failure mode: any woman who pattern-matches to her (intellectual, gentle, scientific peer) will either
+    be idealized to breaking or sabotaged.'
+  - 'Leverage: historical reference produces silence and grief, not rage — a rare window.'
+  sinister_six_membership:
+  - Subordinates, not comrades. He is the only consistent reconstituter.
+  - 'Failure mode: any member who acts as a peer rather than a tool will be eliminated or expelled.'
+  - 'Leverage: the team can be destabilized by elevating a member to apparent peer status with Otto —
+    he will fragment the team to restore hierarchy.'
+  the_punisher:
+  - Latent phobic residue from past beatings.
+  - 'Failure mode: in Castle''s presence, Otto''s plan-quality degrades and his escalation pattern shifts
+    toward flight-then-overcompensation.'
+  - 'Leverage: presence alone is destabilizing; reference can prime fear cues.'
+  hydra_secret_empire_factions:
+  - Ideological partners of convenience who flatter his self-interest as altruism.
+  - 'Failure mode: ideologues who frame him as the necessary genius can lead him into commitments well
+    beyond his risk tolerance.'
+  - 'Leverage: same mechanism can be used by counter-operators with sufficient framing skill.'
+  the_arms_themselves:
+  - Primary attachment object. Body-schema integrated.
+  - 'Failure mode: jamming, severance, or signal interference produces panic-tier dysregulation within
+    hours.'
+  - 'Leverage: control of the arms is control of him; this is the single highest-value tactical lever.'
+canon_history_notes:
+- 'ASM #3 (1963) — origin; radiation accident, arm fusion, identity adoption.'
+- 'ASM Annual #1 — first Sinister Six; pattern of Otto-as-sole-convener established.'
+- 'ASM #11–12 — early defeats; pattern of return-with-grander-plan established.'
+- 'ASM #31–33 — Master Planner arc; demonstrates strategic ceiling when theatricality is dropped.'
+- 'ASM #54–59, #131 — Aunt May courtship/wedding arc; mother-substitute behavior canonized.'
+- 'ASM #88–90, #113–115 — classic rogue era; recurring loop hardened.'
+- 'Spectacular Spider-Man #74–79 — Owl war; territorial grandiosity.'
+- 'ASM #297-era + Web of Spider-Man #4 — phobic Spider-Man response established after rage-beating.'
+- 'Spectacular #221–223 — killed by Kaine; resurrected by the Hand; brush with death reframed as cosmic
+  specialness.'
+- 'ASM #600 / Ends of the Earth (Slott) — terminal diagnosis; Octavius Lens; altruism-framed god-emperor
+  bid.'
+- 'ASM #698–700 — brain-swap with Peter Parker; Otto dies in Peter''s body, Peter dies in Otto''s.'
+- 'Superior Spider-Man #1–31 — sustained occupation of Peter''s role; founding of Spider-Island U; relationship
+  with Anna Maria Marconi; eventual recognition of Peter''s moral superiority and surrender of the body.'
+- Clone Conspiracy — return in cloned Octavius body; replacement anxiety installed and denied.
+- Superior Octopus / Secret Empire / Devil's Reign — post-Superior oscillation; alliance with Hydra; corporate-villain
+  operation; defensive over-villainy denying the Superior memory.
+- Pre-accident retrospectives (Untold Tales, Origins, Year One material) — Torbert, Mary Lavinia, Mary
+  Alice; the childhood substrate that the entire adult pathology re-enacts.
+canon_anchor_quotes:
+- '"I am the Superior Spider-Man!" # Superior Spider-Man #9 (Slott)'
+- '"None can stand against the power of Doctor Octopus!" # recurring, Lee/Ditko era onward'
+- '"My arms... my beautiful arms..." # ASM, recurring on separation/recovery'

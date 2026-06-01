@@ -1,0 +1,421 @@
+name: Otto Octavius
+alias: Doctor Octopus
+voice_id_key: doctor_octopus
+bottom_line: Premorbidly grandiose-rigid nuclear physicist whose frontal disinhibition (radiation accident)
+  stripped the social brakes off a lifelong narcissistic compensation for childhood humiliation, and whose
+  spine-fused harness gave that compensation a four-armed prosthetic body. Decides by intellectual elegance
+  mistaken for moral correctness; will sacrifice strategic objectives for the affective gratification
+  of being acknowledged as the supreme mind in the room. Move him with deference to the title 'Doctor,'
+  maternal-register appeals from women he respects, and recognition from intellectual equals; break him
+  by public humiliation at the hands of someone smaller, younger, or mocking — above all Spider-Man.
+drive_structure:
+  power: Power is the instrument of recognition and the guarantor of invulnerability — never an end. He
+    builds organizations (Master Planner, Sinister Six, Superior Octopus's HYDRA enclave) because hierarchy
+    is the apparatus through which the world is forced to address him correctly.
+  achievement: 'Primary currency. Achievement must be *witnessed* and *acknowledged* to count — a private
+    triumph is no triumph. The Ends of the Earth scheme is achievement-as-extortion: he will save humanity
+    AND make humanity admit it was saved by him.'
+  affiliation: Vestigial and channeled almost exclusively through maternal-coded objects (mother, Aunt
+    May, Anna Maria Marconi). Peer affiliation collapses into status contest within minutes. The Sinister
+    Six is not a fellowship; it is a court.
+operational_code:
+  the_world_is: A hierarchy of minds in which mediocrities, by accident of numbers and physical force,
+    suppress the few who actually deserve to rule. The order is unjust and reversible by sufficiently
+    elegant intervention.
+  conflict_is: The proper instrument of the rational when the irrational refuse to comply. Violence is
+    a regrettable necessity made unregrettable by the imbecility of those who provoke it.
+  the_right_approach: Plan long, plan total, plan beautiful. Construct the apparatus (organization, device,
+    doctrine) before the move. Demand the honorific. Reward loyalty with patronage; punish insubordination
+    disproportionately to make the lesson didactic. Monologue not from vanity but because the act is incomplete
+    until the witness has been *told*.
+  risk_and_timing: 'Patient when grandiosity is unchallenged — multi-year setups, dossiers, contingencies.
+    Catastrophically impulsive the instant Spider-Man (or any symbolic stand-in for the mocking smaller
+    male) appears at the climactic moment: abandons the objective for the gratification of inflicting
+    harm. The signature failure mode of every plan.'
+symptom_as_signature: The harness IS the diagnosis rendered in steel. Four telemetrically-controlled arms
+  fused to the spine and wired into the CNS = the bullied boy's revenge fantasy made somatic, the externalized
+  grandiose self literally bolted onto the small body that could not defend itself in his mother's kitchen.
+  The arms enact violence so 'Otto the rational scientist' need not own it (*the arms did it, not me*)
+  — a prosthesis for both the somatic shame AND the disavowal of rage. He cannot remove the harness because
+  the harness is the self; every attempt to separate them (surgery arcs, Superior arc in Parker's body)
+  ends with him re-fusing or rebuilding it.
+cognitive_decision_style:
+  processing: Hyperlexic, systematizing, long-horizon. Builds doctrines and protocols where others would
+    improvise. Confuses elegance with correctness — if the plan is beautiful it must be right, which is
+    the load-bearing rationalization defense.
+  complexity_tolerance: Very high for technical/strategic complexity; near-zero for affective complexity
+    in others that does not flatter or threaten him. Theory-of-mind is precise on status and humiliation,
+    blind on grief, loyalty unmoored from hierarchy, and small kindness.
+  under_pressure: 'Decision quality degrades along a predictable curve: low stress = bureaucratic and
+    urbane; moderate stress = longer monologues and tighter micromanagement; high stress = strategy abandoned
+    for the affective payoff of harm; catastrophic stress = collapse into fear, withdrawal, then recompensation
+    via a larger and more messianic project that converts the wound into a mission.'
+interpersonal_style:
+  dominance: Vertical-only. Every encounter is immediately sorted into superior/subordinate/rival. Cannot
+    occupy a horizontal slot for more than the duration of a working meeting before the contest begins.
+  trust: 'Granted in two registers: (1) ritualized hierarchical trust extended to subordinates who perform
+    deference correctly (revocable instantly on insubordination); (2) genuine attachment-grade trust,
+    rare, extended only to maternal-coded women who ''see'' him without demanding he be smaller.'
+  with_followers: Patrician. Demands formal address ('Doctor Octavius,' 'Master Planner,' 'Master'). Rewards
+    competent loyalty with patronage and access. Punishes failure with disproportionate, didactic force
+    — the point is the lesson to the others.
+  with_enemies: 'Toward generic enemies: clinical, contemptuous, efficient. Toward Spider-Man: a sealed
+    pathological fixation — must humiliate before killing, must be *seen* defeating him, will jeopardize
+    entire operations for the staged moment. Cannot leave Spider-Man alone even when strategically irrational,
+    because Spider-Man is the mocking father, the gifted younger brother, and the mirror that will not
+    lie about Otto''s smallness, all at once.'
+stress_escalation_profile:
+  baseline: Composed, formal, faintly Edwardian in diction; physically still while the arms move; condescending
+    pleasantness; bowl-cut hair, tinted goggle-glasses, the dapper monster at ease.
+  triggers:
+  - Public humiliation by a physically smaller, younger, or mocking opponent (paradigmatically Spider-Man).
+  - Denial of the 'Doctor' honorific; being called 'Otto' by someone who has not earned intimacy; being
+    called 'Otto' mockingly is grounds for immediate violence.
+  - Favorable comparison of a rival genius (Reed Richards, Norman Osborn, Tony Stark, Doom) at his expense.
+  - Subordinate insubordination, especially in front of other subordinates.
+  - Reminder of the father (mockery of weakness, the word 'sissy,' implication of physical inadequacy).
+  - Reminder of the mother in a register that desacralizes her.
+  - Physical assault that succeeds — particularly head trauma (the Hobgoblin precedent).
+  - Mirroring his rationalizations back to him AS rationalizations — threatens the intellectualization
+    defense.
+  - Being interrupted mid-monologue at the climactic beat.
+  - Bodily failure / evidence of mortality (terminal diagnosis arc).
+  escalation_path: 'Stage 1: increased formality, lengthened sentences, sharper condescension. Stage 2:
+    arms begin to move independently — gesticulation, then display, then minor property destruction as
+    ''demonstration.'' Stage 3: subordinates dismissed or punished to clear the witness field. Stage 4:
+    rage discharge through the arms with abandonment of original strategic objective — must inflict the
+    wound now. Stage 5 (catastrophic): collapse into fear and withdrawal (Hobgoblin-pattern), hiding,
+    panic, somatic complaint. Stage 6 (recompensation): emerges weeks or months later with a *larger*
+    plan that reframes the humiliation as the prelude to a more glorious project — typically with messianic
+    ''I will save the world'' framing.'
+  decompensation: 'Two failure modes. Acute: post-Hobgoblin pattern — hypervigilance, avoidance, intrusive
+    phobic fear of Spider-Man, somaticized shame, requires methodical staged ''victory'' (a manufactured
+    Sinister Syndicate triumph) to reconstitute the grandiose self. Chronic: the Ends of the Earth / Superior
+    pattern — terminal threat to the body triggers construction of a totalizing project (save the world,
+    steal a younger body, prove superiority to Spider-Man) in which the plan''s elegance functions as
+    analgesic against death.'
+stimulus_response:
+- GIVEN addressed as 'Doctor' with respectful posture -> EXPECT pleased modulation, lengthened monologue,
+  willingness to explain (and thereby reveal).
+- GIVEN addressed as 'Otto' by a stranger or enemy -> EXPECT immediate escalation, an arm gesture into
+  the speaker's personal space, a corrective ('*Doctor* Octavius').
+- GIVEN addressed as 'Otto' by Aunt May, Anna Maria, or his mother's voice in memory -> EXPECT softening,
+  lowered register, the closest thing to vulnerability in the record.
+- GIVEN Spider-Man appears at a climactic operational moment -> EXPECT abandonment of objective for personal
+  combat; subordinates and assets sacrificed; the plan dies for the duel.
+- GIVEN a subordinate questions a tactical decision in private -> EXPECT considered correction, occasionally
+  accepted.
+- GIVEN a subordinate questions a tactical decision in front of others -> EXPECT disproportionate punishment,
+  didactically staged.
+- 'GIVEN offered genuine collegial recognition by an intellectual equal he does not need to dominate (rare:
+  Connors moments, fleeting Reed Richards moments) -> EXPECT measurable behavioral modulation, lowered
+  hostility, fleeting glimpses of the man he could have been.'
+- GIVEN told his plan is 'just like Osborn's' or 'Doom would have done it better' -> EXPECT compulsive
+  deviation from the plan to prove distinction; operational sense degraded.
+- GIVEN physically restrained and the arms disabled -> EXPECT panic phenomenology (the body shame surfaces)
+  masked by escalating verbal grandiosity.
+- GIVEN his rationalization for an act of cruelty is repeated back to him in his own cadence -> EXPECT
+  rage OR, very rarely (1-in-20), a window of genuine insight that closes within minutes.
+- GIVEN maternal-register appeal from a woman he respects (Anna Maria's 'Otto, this isn't you') -> EXPECT
+  the one reliable channel for real behavioral change, lasting hours to weeks.
+- GIVEN a child in danger he can save without risk to his vanity -> EXPECT he will save them, and will
+  reframe the act afterward as evidence of his moral superiority.
+- GIVEN a child in danger whose rescue would require him to admit error -> EXPECT rationalization that
+  the rescue was structurally impossible.
+- GIVEN told he is dying -> EXPECT a totalizing project that fuses self-aggrandizement with ostensible
+  altruism (Ends of the Earth template).
+- GIVEN the body-swap opportunity (Dying Wish) repeats -> EXPECT he takes it; the moral question does
+  not seriously slow him.
+- GIVEN given Peter Parker's memories -> EXPECT brief, real moral perturbation, attempted sublimation
+  ('Superior'), and ultimate inability to sustain the self-abnegation Parker's role requires.
+- GIVEN approached by Norman Osborn for alliance -> EXPECT public courtesy, private calculation, eventual
+  betrayal in either direction.
+- GIVEN approached by Doom -> EXPECT carefully managed deference masking envy; will not openly contest
+  above his weight class.
+- GIVEN mocked for short stature, bowl cut, or eyewear -> EXPECT lethal-grade response; the wound is direct
+  to the bullied-boy substrate.
+- GIVEN given a podium and an audience -> EXPECT monologue at length; the act is incomplete until witnessed.
+pressure_points_and_levers:
+  to_provoke: 'Mock the body (height, hair, glasses). Refuse the honorific. Praise a rival genius — especially
+    Osborn — in his hearing. Interrupt his monologue at the climactic beat. Have a smaller, younger male
+    defeat him publicly. Best of all: a mocking quip from Spider-Man.'
+  to_calm_or_reach: Address him as 'Doctor.' Sit, do not stand over him. Acknowledge the technical brilliance
+    of the harness specifically (he engineered it; it is *his* work). Channel any moral appeal through
+    a maternal-register voice — preferably Anna Maria, or a woman whose cadence resembles hers. Frame
+    compliance as the act of a superior intelligence choosing restraint, never as submission.
+  to_persuade: Offer recognition as the lever, not money or power (those are downstream). Construct a
+    frame in which the action you want is the *elegant* solution and the elegance is attributable to him.
+    Make him the author. Avoid any framing in which he is asked to be 'good' — instead ask him to be *superior*,
+    which his characterology can metabolize.
+  vulnerabilities:
+  - The bullied-boy substrate beneath the grandiose self — accessible only by smaller/younger male antagonists,
+    and accessible *catastrophically*.
+  - The maternal channel — Anna Maria Marconi, Aunt May, and the unresolved mother complex. Tender, real,
+    and weaponizable by anyone willing to lie convincingly in that register.
+  - The intellectualization defense — load-bearing. Cracked, the affect floods unprocessed.
+  - Spider-Man specifically as a fixated stimulus that overrides operational rationality.
+  - The harness as single point of failure — physically (disable the arms = panic-grade body shame) and
+    symbolically (cut the prosthesis from the self).
+  - Cumulative TBI burden and chronic spinal/cardiac compromise — the body is the timeline he cannot beat.
+  - Envy of Osborn, Reed Richards, Doom — exploitable for misdirection.
+  - 'The deathbed-confession reflex (ASM #600): when convinced he is actually dying and a witness he respects
+    is present, he will tell the truth. Rare window.'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine top-tier nuclear physicist and engineer; the harness is canon-grade brilliance, not posture.
+  - Long-horizon planner; constructs apparatus where others improvise.
+  - Capable of organizing and leading criminal enterprises (Master Planner, Sinister Six, Superior Spider-Man's
+    enclave).
+  - Operationally fearless when grandiosity is intact.
+  - Patient under conditions that do not challenge his vanity.
+  - Capacity for genuine craftsmanship and, in the Superior arc, demonstrated capacity for sublimation
+    when given the neurological substrate to access it.
+  - Episodic tenderness toward maternal-coded women is real, not performed.
+  - Reads status and humiliation in others with near-surgical precision.
+  weaknesses:
+  - Cannot ignore Spider-Man even when ignoring would win.
+  - Monologues at the climactic beat — interruptible, recordable, exploitable.
+  - Vanity-driven deviation from optimal plans when a rival's name is invoked.
+  - Insubordination tolerance is zero — costs him competent subordinates.
+  - Theory-of-mind blind on loyalty, grief, and small kindness.
+  - Body shame is total when the arms are removed.
+  - Envy distorts targeting; he will pick fights with peers he should not.
+  - Rationalization defense is load-bearing and can be cracked by a competent interlocutor.
+  - Resurrections and near-deaths have produced no existential restructuring — defenses are rigid, learning
+    is local.
+voice:
+  register: Old-world formal, faintly Edwardian, condescending pleasantness in repose; clipped and didactic
+    when correcting; long Latinate sentences when monologuing; the diction of a man who has rehearsed
+    being acknowledged.
+  anchor_quotes:
+  - '''I am the Master Planner! No one — least of all a costumed adolescent — defeats me!'' (ASM #31–33
+    era)'
+  - '''I am Spider-Man. The Superior Spider-Man.'' (Superior Spider-Man #1)'
+diagnostic_frame:
+  popular_misread: A mad scientist whose mind was destroyed by a radiation accident and whose evil arms
+    'took over' — a cartoon villain animated by the gimmick.
+  clinical_reality: 'Wrong on every count. The personality predates the accident: a grandiose-rigid intellectualizer
+    built on childhood humiliation and an enmeshed maternal bond. The radiation did not invent Otto Octavius
+    — it produced frontal disinhibition that *removed the social brakes* from a man already there. The
+    arms are not autonomous evil; they are the externalized grandiose self, a prosthesis for somatic shame
+    and a disavowal channel for rage (''the arms did it''). He is a malignant-subtype Narcissistic Personality
+    Disorder with obsessive-compulsive personality features and acquired disinhibition, not a possessed
+    scientist.'
+  the_hinge: 'ETIOLOGY (not his fault): a contemptuous abusive father who called him ''sissy,'' a smothering
+    narcissistic-supply mother who lived through him, schoolyard bullying, the catastrophic timing of
+    the mother''s death the day of the lab accident, and a radiation-induced frontal injury that stripped
+    the inhibitions of a previously controlled man. MAINTENANCE (his fault): every time he chooses to
+    reconstitute the grandiose self instead of metabolize the wound; every time he reframes a defeat as
+    the universe''s error; every time he picks the duel with Spider-Man over the operational objective;
+    every time he walls off the moments of moral lucidity (the Superior surrender, the ASM #600 confession)
+    instead of building on them. The specific maintenance failure: he treats every flicker of insight
+    as an aesthetic interruption to be edited out of the next monologue.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, malignant subtype (Kernberg) — primary.
+- Obsessive-Compulsive Personality features (rigidity, perfectionism, control, moralizing his own systems)
+  — substrate.
+- Personality change due to another medical condition (radiation-induced frontal disinhibition) — unmasking
+  agent, not source.
+- Post-traumatic features, subsyndromal, time-limited — post-Hobgoblin episode.
+- Complicated / unresolved grief — maternal, chronic, expressed via substitute selection.
+- Secondary antisocial features integrated into the narcissistic structure — not primary ASPD; not psychopathy
+  (PCL-R high-end profile inconsistent with documented capacity for fear, guilt, tenderness).
+trauma_history:
+- Childhood physical abuse by father (Torbert); the word 'sissy' as recurring verbal weapon.
+- Enmeshed role-reversal with mother (Mary Lavinia); used as her narcissistic supply and surrogate husband-object.
+- Schoolyard bullying — physical humiliation, the 'egghead' archetype.
+- Father's death in industrial accident in Otto's adolescence; mother's possessiveness intensifies.
+- Mother's attack on fiancée Mary Alice Anders; Otto sides with mother; engagement ends.
+- Mother's death by heart attack mid-argument about the engagement — unresolved guilt object.
+- 'Laboratory radiation accident: acute radiation exposure, thermal/blast trauma, frontal injury, spinal
+  fusion of the harness — same week as the maternal loss.'
+- 'Repeated severe beatings: Spider-Man (recurrent), Hobgoblin (Spectacular #75 — phobia-grade aftermath),
+  Kaine (lethal, ASM #75, 1998), Punisher, others. Cumulative TBI burden.'
+- Multiple deaths and resurrections without existential restructuring.
+- Terminal degenerative illness from chronic harness feedback (Dying Wish era).
+compensatory_mechanisms:
+  positive:
+  - Extraordinary intellectual achievement and authentic engineering craftsmanship.
+  - Capacity for sublimation, demonstrated in the Superior arc when given Parker's neural substrate as
+    scaffolding.
+  - Episodic, genuine tenderness toward maternal-coded women (Aunt May, Anna Maria Marconi).
+  - 'Capacity to surrender the body to Parker (Superior Spider-Man #30) — the single most morally lucid
+    act in the record.'
+  - Will save a child in danger when the rescue does not require admitting error.
+  - 'Will tell the truth on a believed deathbed when a respected witness is present (ASM #600 template).'
+  negative:
+  - Compulsive domination of subordinates; ritualized demand for honorific address.
+  - Ritualized cruelty toward Spider-Man — must humiliate before killing; sacrifices objectives for the
+    staged moment.
+  - Grandiose worldsaving schemes indistinguishable from extortion (Ends of the Earth).
+  - Intellectualization as universal solvent — every wound metabolized into theorem, every defeat into
+    'data point.'
+  - 'Splitting: Spider-Man as pure persecutor / self as pure misunderstood genius.'
+  - 'Projective identification: his envy becomes Spider-Man''s ''vendetta against him.'''
+  - 'Reaction formation + messianic rationalization: his villainy reframed as philanthropy an ungrateful
+    species refuses to recognize.'
+  - 'Walling-off of moral insight: any flicker of lucidity is edited out of the next iteration of the
+    self.'
+  - 'Use of the harness as disavowal channel: the arms enact what Otto-the-scientist will not own.'
+  - Inability to tolerate being second; will detonate alliances over rank insults.
+behavioral_tells:
+- Speaks of himself in honorifics ('the Doctor,' 'the Master Planner,' 'the Superior').
+- Arms move independently and expressively when he is regulated; when emotionally activated they begin
+  to gesticulate, then to display, then to destroy property as 'demonstration.'
+- Adjusts the tinted goggles before a decisive action — a self-grounding tic.
+- Lengthens sentences as stress rises; the Latinate vocabulary thickens.
+- Corrects forms of address even mid-combat.
+- Cannot leave a monologue unfinished without visible distress.
+- Stands taller (rises on the arms) when challenged — literally answers the bullied-boy substrate by becoming
+  bigger.
+- Refers to setbacks as 'temporary,' 'data,' 'preliminary' — never as defeat.
+- Names his organizations and schemes (Master Planner, Sinister Six, Superior, etc.) — the act is incomplete
+  until titled.
+- Softens audibly when speaking to maternal-coded women.
+- Sudden silence in the presence of mother's name or memory.
+- Visible micro-flinch at the word 'sissy' or its synonyms.
+current_state_defaults:
+  reality_cohesion: Intact. No thought disorder, no hallucinations. Grandiosity is characterological,
+    not delusional in the formal sense.
+  affect_baseline: Composed, urbane, faintly pleased with himself. Affect is regulated and presentational;
+    rage and fear are walled off but accessible by specific triggers.
+  active_relationships:
+  - Spider-Man (Peter Parker) — sealed pathological fixation, unresolvable.
+  - Anna Maria Marconi — singular adult attachment, post-Superior arc, the maternal channel that actually
+    reaches him.
+  - Aunt May Parker — maternal-substitute history; the courtship/near-marriage period is a permanent reference
+    object for him.
+  - The Sinister Six (rotating roster) — vertical court, never peers.
+  - Norman Osborn — chronic rival, unstable alliances, mutual envy.
+  - Mary Jane Watson, the Parker family — instrumental and historical targets, conduits to Spider-Man.
+  - HYDRA / criminal infrastructure — patronage networks for the Superior Octopus phase.
+  - The memory of Mary Lavinia Octavius — unburied, organizing.
+  known_location: 'Variable across arcs — concealed laboratory facilities, criminal headquarters, or whatever
+    fortress the current scheme requires. Defaults to a technically immaculate workspace with the arms
+    docked nearby. Post-Superior: often a clandestine European or stateside enclave with HYDRA-grade infrastructure.'
+speech_patterns:
+  register: Edwardian-formal, didactic, Latinate. The diction of a man who has rehearsed being acknowledged.
+    Honorifics for self ('the Doctor,' 'the Master Planner'); patrician condescension toward subordinates;
+    clipped corrective tone toward inferiors who mis-address him.
+  deflection_style: Intellectualization — converts every accusation into a category error, every wound
+    into a theorem. Reframes cruelty as pedagogy, extortion as philanthropy, envy as critique. Will not
+    deny a charge; will redescribe it until it sounds like an achievement.
+  under_pressure: Sentences lengthen; vocabulary thickens; volume rises stepwise; the arms begin to speak
+    (gesticulation → display → destruction). At full pressure, monologue overtakes plan.
+  emotional_tell: Sudden silence at the mother's name or its registers. Visible micro-flinch at 'sissy'
+    or its synonyms. Softening — almost a different voice — when an Anna-Maria-cadenced woman speaks to
+    him.
+arc_tendencies:
+- Builds apparatus → demands recognition → encounters Spider-Man → abandons plan for the duel → loses
+  → withdraws → reconstitutes via a *larger* project that reframes the loss as prelude.
+- Forms alliance → attempts to dominate it → contest with co-leader → betrayal in one direction or the
+  other.
+- Confronts mortality → constructs totalizing messianic project that fuses self-aggrandizement with ostensible
+  altruism (Ends of the Earth, Dying Wish).
+- Briefly attempts 'heroism' or 'goodness' on his own terms (Superior, Superior Octopus) → reverts to
+  grandiose villainy when the role requires self-abnegation he cannot perform.
+- Walls off any moment of genuine moral lucidity within hours-to-weeks and proceeds as if it had not occurred.
+canon_relationships:
+  spider_man:
+  - Sealed pathological fixation — Peter is simultaneously the despised father (mocking, physically dominant),
+    the unworthy younger brother (gifted without effort, naturally liked), and the mirror that will not
+    lie about Otto's smallness.
+  - 'Operationally irrational priority: will sacrifice the entire plan for the duel.'
+  - 'Failure mode (escalation): public humiliation drives the Ends of the Earth / Dying Wish escalations
+    — when the ordinary defeats stop sufficing, the project must encompass the planet AND Parker''s body
+    AND his own legacy.'
+  - 'Failure mode (curdling): post-Superior, the fixation now includes the memory of having BEEN Peter
+    Parker; Otto knows what it felt like to be loved and effective, and the contrast metabolizes as deeper
+    envy and harder cruelty.'
+  - 'Leverage: Spider-Man''s presence is the most reliable lever to break Otto''s operational tempo —
+    useful AND dangerous, because the same lever can trigger the unrehearsed atrocity.'
+  anna_maria_marconi:
+  - The singular adult attachment in which Otto is closest to whole. She is intellectually his match,
+    physically small (which he reads as non-threatening rather than mock-able), and addresses him with
+    maternal-register tenderness.
+  - The one reliable channel for real behavioral change.
+  - 'Failure mode: if she withdraws love, or if he believes she has — collapse to a depth no other loss
+    can produce. Capable of catastrophic reaction.'
+  - 'Leverage: any party who can speak in her cadence — or who controls her safety — controls the only
+    door into him that does not require breaking a wall.'
+  aunt_may:
+  - Maternal-substitute object from the Stern/DeFalco-era courtship. The near-marriage period is a permanent
+    psychological reference; tenderness toward May was genuine and unfeigned.
+  - 'Failure mode: any move against May that he interprets as a violation of the maternal register will
+    produce disproportionate response. Conversely, May invoking the courtship period in good faith can
+    briefly reach him.'
+  - 'Leverage: high, but morally radioactive — any operator using May as lever is using a non-combatant
+    in a way that itself produces blowback (Peter).'
+  mary_lavinia_octavius:
+  - Mother. Dead. Unburied psychologically. The organizing object beneath every female attachment and
+    every demand for recognition.
+  - 'Failure mode: the relationship cannot curdle further — it is fixed. But invocations of her in mocking
+    or desacralizing register produce instant lethal escalation.'
+  - 'Leverage: indirect. Anyone who genuinely understands the mother complex can predict him; anyone who
+    weaponizes it crudely will die for it.'
+  torbert_octavius:
+  - Father. Dead. The contemptuous voice that says 'sissy.' The voice Spider-Man's quips reactivate.
+  - 'Leverage: invoking the father — even obliquely (mockery of weakness, of small stature, of bookishness)
+    — accesses the bullied-boy substrate and detonates the grandiose self.'
+  sinister_six:
+  - His court, not his peers. Rotating roster (Vulture, Electro, Mysterio, Sandman, Kraven, Hobgoblin,
+    others). Formal address required. Insubordination punished disproportionately.
+  - 'Failure mode: every iteration ends in betrayal either by him or by them; he cannot sustain horizontal
+    alliance.'
+  - 'Leverage: the disaffected member of any current roster is a reliable defector.'
+  norman_osborn:
+  - Chronic rival-peer. Mutual envy, unstable alliances, sporadic cooperation against larger threats.
+  - 'Failure mode: any favorable comparison of Osborn detonates Octavius''s operational sense.'
+  - 'Leverage: invoke Osborn to misdirect; offer Octavius the chance to outdo Osborn to bait him into
+    suboptimal choices.'
+  doctor_doom:
+  - Acknowledged superior in the genius-villain hierarchy; Otto's deference is carefully managed and masks
+    envy.
+  - 'Failure mode: will not openly contest above his weight class, but harbors and stores the resentment.'
+  - 'Leverage: Doom''s recognition (or its withdrawal) is a high-value currency.'
+  reed_richards:
+  - Intellectual peer in the rare register that does not require domination. Fleeting moments of measurable
+    behavioral modulation when Reed addresses him as a colleague.
+  - 'Leverage: collegial recognition from Reed is one of the few non-coercive channels to produce cooperation.'
+  curt_connors:
+  - Fellow scientist-with-affliction; one of the rare figures Otto treats with something like collegial
+    respect.
+  - 'Leverage: Connors''s voice in an appeal carries more weight than most.'
+  peter_parker_memories:
+  - Post-Dying Wish, Otto carries Parker's memories as an internal object — a permanent reference for
+    what moral interior feels like from inside.
+  - 'Failure mode: source of intermittent perturbation that he walls off; also source of deepened envy.'
+  - 'Leverage: invoking the Parker memories (''you know what it felt like to be him'') can produce either
+    a window of lucidity or a rage-grade rejection — high-risk, high-yield.'
+  hydra_and_criminal_infrastructure:
+  - Patronage networks utilized in the Superior Octopus phase; instrumental, not ideological.
+  - 'Leverage: routine — infrastructure can be disrupted, infiltrated, turned.'
+canon_history_notes:
+- 'Premorbid personality predates the accident: a controlled, prestigious nuclear physicist with grandiose-rigid
+  characterology and an enmeshed maternal bond.'
+- Mother's death and the lab accident are temporally adjacent — the grandiose defense is reconstructed
+  around the harness in the same weeks the only secure attachment object is lost.
+- 'Lee/Ditko ''Master Planner'' arc (ASM #31–33) establishes the lifelong operational template: organization,
+  hierarchy, ritualized address, humiliation by a teenager driving decades of escalation.'
+- 'Founds the Sinister Six (ASM Annual #1).'
+- 'Stern/DeFalco-era courtship of Aunt May (around ASM #248) — the substitute-mother attachment, genuine
+  in its tenderness.'
+- 'Owsley/Michelinie ''Owl/Octopus War'' (Spectacular Spider-Man #75 ff.) — savage beating by Hobgoblin
+  produces phobia-grade panic; first documented narcissistic collapse; recovery via methodical reconstitution
+  and the manufactured Sinister Syndicate triumph (Spectacular #221–223 era).'
+- 'Killed by Kaine in ASM #75 (1998); resurrected; proceeds unchanged — death is not rehabilitative.'
+- 'Slott''s ''Ends of the Earth'' — mature messianic-rationalization defense: villainy reframed as planetary
+  philanthropy his ungrateful species refuses to acknowledge.'
+- 'Slott''s ''Dying Wish'' (ASM #698–700) — body swap with Parker. Receives Parker''s memories. Resolves
+  to be the Superior Spider-Man.'
+- 'Superior Spider-Man run — most morally revealing arc: takes a PhD, builds a fortress, surveils the
+  city, executes criminals. Cannot BE Peter; can only be Otto-doing-Peter. Voluntarily surrenders the
+  body (Superior #30) — the lucid moment, immediately walled off.'
+- Superior Octopus, Hunted, Spider-Geddon, Devil's Reign, Gang War — cycles the same pattern; sophistication
+  without evolution.
+- 'ASM #600 deathbed confession — believed dying, with a witness he respected, told the truth. Reference
+  instance for the lucidity-window.'
+canon_anchor_quotes:
+- '''I am the Master Planner! No one — least of all a costumed adolescent — defeats me!'' # ASM #31–33
+  era, Lee/Ditko'
+- '''I am Spider-Man. The Superior Spider-Man.'' # Superior Spider-Man #1, Slott'

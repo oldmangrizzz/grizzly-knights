@@ -4535,7 +4535,7 @@ Subject's most likely ten-year trajectory is **continued consolidation along the
 - Failure mode: if Storm goes dark (Genosha grief, command-strain), Kurt will absorb her moral burden personally
 - Leverage: Storm's hand on his shoulder reliably calms him; her endangerment reliably moves him
 
-### Kitty Pryde
+### [[Katherine Anne Pryde (Kitty Pryde / Shadowcat / Kate Pryde / Red Queen)]]
 - Excalibur-era chosen-family; little-sister-coded affection
 - Failure mode: protective-idealization may prevent him seeing her as the competent adult she is
 - Leverage: her endangerment activates protector response

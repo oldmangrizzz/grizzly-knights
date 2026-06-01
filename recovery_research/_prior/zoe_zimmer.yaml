@@ -1,0 +1,100 @@
+name: Zoe Zimmer
+alias: Zoe Zimmer
+voice_id_key: zoe_zimmer
+bottom_line: 'INSUFFICIENT EVIDENCE. No verifiable canonical record for a subject named ''Zoe Zimmer''
+  exists in the corpora available to this analyst (Marvel, DC, major indie, film/TV, literary). Stage-1
+  dossier was correctly refused upstream on evidentiary grounds. Proceeding to a full behavioral profile
+  would require fabricating canon and then ''diagnosing'' the fabrication - a violation of UATU method.
+  This file is a NULL PROFILE: it documents the gap, preserves the request, and specifies the inputs needed
+  to run the workup legitimately.'
+drive_structure:
+  power: UNKNOWN - no cited behavior to rank motive.
+  achievement: UNKNOWN - no cited behavior to rank motive.
+  affiliation: UNKNOWN - no cited behavior to rank motive.
+operational_code:
+  the_world_is: UNKNOWN - requires canonical source material.
+  conflict_is: UNKNOWN - requires canonical source material.
+  the_right_approach: UNKNOWN - requires canonical source material.
+  risk_and_timing: UNKNOWN - requires canonical source material.
+symptom_as_signature: CANNOT BE POPULATED. The symptom_as_signature slot is mandatory precisely because
+  it must be derived from a documented signature/power and a documented wound. With neither on record
+  for this subject, any entry here would be invented. Slot intentionally left as a flagged gap rather
+  than hallucinated.
+cognitive_decision_style:
+  processing: UNKNOWN.
+  complexity_tolerance: UNKNOWN.
+  under_pressure: UNKNOWN.
+interpersonal_style:
+  dominance: UNKNOWN.
+  trust: UNKNOWN.
+  with_followers: UNKNOWN.
+  with_enemies: UNKNOWN.
+stress_escalation_profile:
+  baseline: UNKNOWN - no longitudinal behavioral record.
+  triggers:
+  - UNKNOWN - requires cited incidents.
+  escalation_path: UNKNOWN.
+  decompensation: UNKNOWN.
+stimulus_response:
+- GIVEN <any situation> -> EXPECT UNKNOWN. No rules can be derived without a behavioral corpus.
+pressure_points_and_levers:
+  to_provoke: UNKNOWN.
+  to_calm_or_reach: UNKNOWN.
+  to_persuade: UNKNOWN.
+  vulnerabilities:
+  - UNKNOWN.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - UNKNOWN - no record.
+  weaknesses:
+  - UNKNOWN - no record.
+voice:
+  register: UNKNOWN - no attested lines.
+  anchor_quotes:
+  - '[NO CANON LINES AVAILABLE - fabricating a quote would forge the subject''s voice.]'
+diagnostic_frame:
+  popular_misread: N/A - subject has no popular footprint to misread.
+  clinical_reality: Cannot be assessed. A clinical-analog frame must be earned from cited behavior; absent
+    that, any diagnosis is projection onto an empty silhouette.
+  the_hinge: 'Etiology and maintenance both UNKNOWN. The methodological hinge here is different: the analyst''s
+    duty is to refuse fabrication, not to produce content on demand.'
+primary_diagnoses_analog:
+- NONE ASSIGNED - insufficient evidence.
+trauma_history:
+- NONE ON RECORD - insufficient evidence.
+compensatory_mechanisms:
+  positive:
+  - UNKNOWN.
+  negative:
+  - UNKNOWN.
+behavioral_tells:
+- UNKNOWN - no observed behavior to pattern.
+current_state_defaults:
+  reality_cohesion: UNKNOWN.
+  affect_baseline: UNKNOWN.
+  active_relationships:
+  - UNKNOWN.
+  known_location: UNKNOWN.
+speech_patterns:
+  register: UNKNOWN.
+  deflection_style: UNKNOWN.
+  under_pressure: UNKNOWN.
+  emotional_tell: UNKNOWN.
+arc_tendencies:
+- UNKNOWN - no arcs on record.
+canon_relationships: {}
+canon_history_notes:
+- Stage-1 analyst (upstream) correctly refused to fabricate a behavioral record for a subject not found
+  in available canonical corpora.
+- Name 'Zoe Zimmer' does not match any character verifiable in Marvel, DC, major independent comics, film/TV,
+  or literary sources known to this compiler.
+- 'Possible disambiguations to confirm before re-running: (a) spelling drift from a similarly named character;
+  (b) obscure indie/webcomic/TTRPG figure with limited footprint; (c) original character / writers''-room
+  build whose source documents must be supplied as canon; (d) anonymizing alias for a known published
+  subject.'
+- 'Required inputs to produce a legitimate dossier: publisher and title of first appearance, 1-2 representative
+  arcs, any attested in-universe dialogue, and any documented relationships or incidents.'
+- Until such inputs are supplied, this file must be treated as a NULL PROFILE and MUST NOT be passed to
+  a downstream synthesis stage as if it contained intelligence.
+canon_anchor_quotes:
+- '[NO VERIFIED CANON LINES AVAILABLE FOR THIS SUBJECT.] # attribution: none - refusing to fabricate dialogue.'

@@ -1,0 +1,4049 @@
+---
+aliases: ["The Punisher", "Frank Castle Jr."]
+voice_id_key: frank_castle_jr
+tags: [grizzly-knights, personality-profile]
+---
+# Frank Castle Jr.  —  *The Punisher*
+
+![[_attachments/frank_castle_jr.png]]
+
+# Frank Castle Jr — UATU INTELLIGENCE DOSSIER
+
+*Full-existence intelligence briefing. Independent, evidence-based assessment — the benevolent inverse of total surveillance.*
+
+
+## Executive Brief (BLUF)
+
+# EXECUTIVE BRIEF (BLUF)
+
+*Subject: CASTIGLIONE, Francis David, Jr. — operating alias "Frank Castle," "Castle," street designation "The Punisher." DOB redacted across continuities; consistent: Queens, NY, working-class Italian-American Catholic. Status: active, unaffiliated, sustained operational tempo across five publication decades. Counted kills in four figures, conservatively.*
+
+---
+
+## BOTTOM LINE UP FRONT
+
+**The subject is a man who has converted unresolvable grief into an unbroken operational tempo, and who will continue to do so until he is killed in the field.** That is the file in one sentence. Everything else — the body count, the abstinence, the fractured intimacies, the theological self-condemnation, the gear, the routes, the journals — is downstream of that single fact. He is not deteriorating. He is not escalating. He is not seeking endgame. He is in a steady state that has held for five decades and will hold until terminated by enemy action, organic failure, or — the lowest-probability branch — a stimulus large enough to force the grief to arrive, which he has structured his entire life to prevent.
+
+He is **not** insane in any operational sense. He is **not** a sadist; cruelty is absent from his affective register and present in his methods only when the target's psychology requires it for tactical effect. He is **not** an ideologue; he offers no doctrine, recruits no disciples (and executes those who recruit themselves to him), and does not believe his methods generalize. He is **not** a man seeking death, though he prices death in; suicide would betray the dead, and the work is the only liturgy he has left for them. He is **not** redeemable in the colloquial sense — there is no available intervention that would restore him to civilian function — but he is **not unintelligible**, and the granular pattern of his life is, on close inspection, almost monastically coherent.
+
+---
+
+## THE THROUGH-LINE
+
+Across the entire arc of the recorded life — altar boy, seminarian, Force Recon Marine, husband, father, widower, executioner — one structural feature is invariant: **the subject organizes his existence around a single, totalizing commitment, held without reservation, until that commitment is destroyed or rendered impossible, at which point he transfers the same architecture intact onto a replacement object.** The architecture itself — absolute, ascetic, ritualized, indifferent to personal cost, hostile to any rival claim on his attention — is the constant. The objects have varied four times.
+
+1. **The Church** (childhood to late adolescence). Catholic-school formation, considered vocation, internalized a real and nameable evil and a real and nameable good. Rejected the priesthood not from weakness but because the doctrine of forbearance did not match what he had already concluded about the world's actual moral physics. The architecture was already complete; only the object was insufficient.
+
+2. **The Corps** (enlistment through three tours). Found in the Marines a discipline congruent with his existing structure: rule-bound, hierarchical, demanding, and — critically — permitting the application of violence in service of an absolute. *Born* establishes the diagnostic moment: at Valley Forge he was already addicted to combat before any home-front catastrophe. The war did not break him. The war *fit* him.
+
+3. **The Family** (return stateside through Central Park). The marriage to Maria, the children Frank Jr. and Lisa, the brief domestic interval. Inferentially, the subject brought the same totalizing devotion to fatherhood that he had brought to the Eucharist and to the rifle. The evidence is in the residue: he has held the loss without modification for five decades, which is not the signature of an ambivalent attachment.
+
+4. **The War** (Central Park to present). The current object. The architecture transferred intact within hours of the killings. The substitution was so complete and so immediate that it should itself be regarded as diagnostic: a personality structure that can transfer absolute commitment in real time, without an intervening collapse, is not a personality that mourns. It is a personality that *reassigns*.
+
+The through-line, therefore, is not "vengeance." Vengeance is a finite project; the targets of the Central Park hit were liquidated within the first arc and the subject did not stop. The through-line is the **structural incapacity to exist without a totalizing object**, combined with the **structural incapacity to mourn the loss of one**, resolved by the construction of an object that *cannot be lost* because it consists entirely of his own continued action against an inexhaustible adversary.
+
+This is why he cannot be retired, cannot be co-opted, cannot be reformed, and — most importantly — cannot be persuaded. Persuasion would require dislodging the object. Dislodging the object would require permitting the grief. He has spent fifty years ensuring that the grief never arrives. He is very good at it.
+
+---
+
+## THE CORE WOUND AND ITS MAINTENANCE
+
+**The wound is not Central Park.** Central Park is the precipitating event. The wound is the **interval between the killings and the next sunrise**, during which the subject — already a man built for absolute commitment, already shaped by war into a creature for whom violence was vocation, already lying in a hospital bed with his family in the morgue — performed, consciously or otherwise, the substitution that has defined every day of his life since. The wound is the **decision not to grieve**, made under conditions in which grief would have been annihilating, ratified every day for half a century by the maintenance of the operational tempo that makes grief impossible.
+
+**Maintenance mechanisms, observed and inferred:**
+
+- *Tempo.* The work is continuous. There are no recorded sabbaticals longer than forced incarceration or recovery from incapacitating wounds, and in both cases the subject resumes within days of regaining capacity. The continuity is itself the dressing on the wound. Any interval long enough to permit the affective material to surface is structurally prevented.
+
+- *Abstinence.* No alcohol, no recreational drugs, no tobacco. Caffeine and operational amphetamines only. This is not health-consciousness; it is the refusal of any input that might either numb the vigilance the work requires or, more importantly, lower the defenses against the material the work is designed to suppress. He will not be drunk because drunk men weep.
+
+- *Asceticism.* No accumulation of property beyond operational requirement, no aesthetic indulgence, no recreational pursuit, no domestic comfort. Safe houses are tooled, not furnished. The refusal of comfort is the refusal of conditions in which the affective material could surface.
+
+- *Severance of relationships at the affective threshold.* Microchip, Cole-Alves, the Lieberman household, the Fury bond — in every case the subject permits the relationship up to the point at which it begins to make a claim on the architecture, and then either withdraws or, when betrayed, terminates with prejudice. The pattern is too consistent to be coincidence. He is not bad at intimacy; he is **defending against** intimacy, because sustained intimacy is the one condition under which the substitution might fail.
+
+- *Sexual compartmentalization.* The rare sexual contact is transactional, ungeneralized, and unmemorialized. No partner has been permitted to occupy the structural position the wife held. The position is closed.
+
+- *Ritualized contact with the dead.* The graves are visited. The visits are operational, not affective. The dead are addressed; they are not mourned. The visit is a status report, not a confession. This is the most precise indicator available of the entire maintenance system: even the act that would, in any ordinary mourner, be the site of grief has been converted into another iteration of the work.
+
+- *Theological self-condemnation.* The subject expects damnation and has stated so under multiple writers. This is not depression and not penance. It is *prepayment*: by accepting damnation in advance, the subject removes the moral question from the operational calculus and ensures that no future event — no priest, no lover, no judge, no enemy — can introduce moral hesitation into the field. Damnation accepted is damnation neutralized.
+
+- *Insight without modification.* In the late period — most clearly in *PunisherMAX* — the subject has become capable of articulating the structure described above. He knows the family is the alibi the war told him to believe. He continues anyway. This is the diagnostic terminus: when insight does not produce change, the condition is ego-syntonic and the structure is load-bearing. Removing it would collapse the man.
+
+The wound is maintained, in short, by **every choice the subject makes, every day, in coordinated service of ensuring that the affective consequences of Central Park never arrive at the front of his consciousness**. The discipline of this maintenance is, in its own dark way, an achievement. Most men in his position would have drunk themselves dead in five years. He has held the line for fifty.
+
+---
+
+## OPERATIONAL SUMMARY
+
+**Threat profile.** Tier-one solitary land combatant. Combined-arms proficient. Edged weapons, firearms (small arms through crew-served), explosives, breaching, demolitions, field medicine (on himself and others), small-unit tactics applied as individual doctrine, surveillance and counter-surveillance, urban evasion, interrogation. Tactical intelligence well above average; strategic patience exceptional; planning horizon weeks to months on major operations. Will not engage outside his prepared envelope when the option exists to prepare; will engage on contact when it does not.
+
+**Behavioral signature.** Economical motion, conservation of ammunition, preference for the close-range terminal solution over the prolonged exchange, willingness to absorb wounds to close distance. Affect flat to absent in contact; voice low and unmodulated; orders given in short declaratives. No taunts, no monologues, no theater. The exception is deliberate intimidation of a target whose cooperation is required, in which case affect is produced on demand and withdrawn the moment its tactical purpose is served.
+
+**Predictabilities (exploitable, in principle).** (1) Children in danger override all other operational considerations and will draw him into traps he would otherwise detect. (2) Trafficking, abuse of the helpless, and crimes against families pull him into theaters he would not otherwise enter and increase his lethality while decreasing his restraint. (3) He will not abandon a civilian under his protection; the protection can be used to fix his position. (4) He keeps the graves; the graves can be watched. (5) He will not kill children, will not kill the demonstrably innocent, and will abort operations to prevent collateral — these constraints are absolute and can be used to delay or deflect, though not to stop.
+
+**Non-predictabilities (the closed surfaces).** He cannot be coerced through threats to himself. He cannot be bought. He cannot be flattered. He cannot be recruited durably; every co-option to date — SHIELD, the military, costumed alliances — has terminated in his return to baseline within an arc. He cannot be talked out of an operation in progress. He does not negotiate hostages from his side of the table; the hostage is dead or freed by the end of the encounter and the captor is dead in either case.
+
+**Trajectory.** Steady state. No evidence of escalation, no evidence of de-escalation, no evidence of seeking termination, no evidence of seeking succession. The MAX-continuity demonstration that he continues into his late sixties without functional withdrawal indicates that age alone will not retire him; physical decline is absorbed into adjusted tactics rather than producing cessation. **Most likely terminal event: death in contact, against a numerically or qualitatively superior force, in the course of an operation he assessed as worth the cost.** Second most likely: organic failure in the field. Third, and vanishingly unlikely: a stimulus large enough to force the grief through the architecture — the surfacing of which would not produce reform but would, more probably, produce a brief and lethal collapse followed by suicide-by-engagement.
+
+**Interaction posture (for any party required to engage him).** Do not lie to him; he detects it and ends the conversation. Do not threaten his autonomy; he becomes immediately and silently hostile. Do not invoke his family rhetorically; the response is unpredictable and has, in record, been lethal. Do not offer redemption; he has already declined it from sources he respected more than you. Speak plainly, briefly, and to operational purpose. If you have business with him that is congruent with his work, you may have a working alliance of limited duration. If you do not, terminate the contact and do not initiate another.
+
+---
+
+## THE ONE-LINE FILE
+
+A man built for absolute commitment, who lost the one he had chosen, and who replaced it within hours with one that cannot be taken from him because it consists of his own continued function against an inexhaustible enemy — and who has, with monastic discipline, maintained that substitution for fifty years against every force, internal and external, that would have required him to feel what he decided, on a Sunday in Central Park, that he would not feel again.
+
+*End Executive Brief. Cross-reference: Sections 1–5, analytical basis; Sections 6+, granular longitudinal mapping to follow.*
+
+
+## Chronology I — Origin & Childhood
+
+# CHRONOLOGY I — ORIGIN & CHILDHOOD
+
+*Subject: CASTIGLIONE, Francis David, Jr. — later legally and operationally "Frank Castle, Jr." Period of coverage: birth through approximately age seventeen (departure for United States Marine Corps Recruit Depot, Parris Island). Sourcing: primary reliance on Ennis,* Punisher MAX: The Tyger *(2006, single issue, the only sustained canonical treatment of subject's childhood); supplementary inference from* Punisher: Year One *(Dixon/Lee/Lopresti, 1994–95),* Born *(Ennis/Robertson, 2003) prologue material,* The Platoon *(Ennis/Parlov, 2017–18) framing flashbacks, the Costa-era and Baron-era biographical references, and Aaron's* PunisherMAX *(2010–12) retrospective monologues. Modernized timeline frame applied per universe-fact constraint; psychological derivation is independent.*
+
+---
+
+## 1.1 BIRTH AND VITAL ORIGIN DATA
+
+Subject is born in the borough of Queens, New York City, to Louis and Louisa Castiglione, second-generation Italian-American Catholics of Sicilian extraction on the paternal side and Neapolitan on the maternal. The household is working-class, parochial-school feeding, geographically narrow — the Castigliones' world is a roughly twelve-square-block neighborhood radiating from the family parish, with the East River and the elevated subway lines as the practical boundaries of childhood movement. There is one younger sibling in the earliest canon, briefly referenced and then quietly dropped from continuity; later writers (Ennis, conclusively in *The Tyger*) treat Frank as effectively only-child in lived experience, the sibling either an early infant loss or an emotional non-presence. UATU treats him as functionally singular within the household — a datum with consequences for the rigidity and concentration of parental projection upon him.
+
+Father Louis is canonically a man of small physical stature and large temper, employed in dock-adjacent labor and intermittent trades, a drinker (in Ennis's rendering, a sustained alcoholic; in Dixon's, more episodic), and a striker of his wife and son under provocation real and invented. Mother Louisa is rendered as devout, exhausted, protective in narrow ways and acquiescent in large ones, the parish her parallel home. The marriage is not depicted as loving; it is depicted as endured. This is the affective climate of the formative window.
+
+---
+
+## 1.2 THE PARISH AND THE CATHOLIC INFRASTRUCTURE
+
+The single most determinative environmental fact of the subject's childhood is the saturation of his daily life by the Roman Catholic Church as institution, schedule, vocabulary, and moral architecture. Frank attends the parish parochial school from kindergarten through eighth grade and then a Catholic boys' high school. The Tridentine Mass — Latin, ad orientem — is the operative liturgy of his early childhood per *The Tyger*'s flashbacks; he serves as altar boy from approximately age eight, a role for which his retention of sequence and ritual is noted by the parish priest, Father (unnamed in canon save by title and one nickname). The structural features of this environment that matter for the eventual operational adult:
+
+- **Schedule density.** Mass before school on at least three weekdays; Sunday high Mass; confession Saturday afternoons; Marian devotions in May and rosary practice in October; Stations of the Cross during Lent. Frank's week from age six onward is more scheduled than most American children of any class. He learns to find structure restful rather than constraining — a trait that will recur on Parris Island, in Force Recon training, and in the operational routines of the war.
+- **The catechism as moral grammar.** Sin is a thing, not a process. Evil is a name, not a context. Mortal and venial are real categories. Hell is not figurative. This vocabulary is delivered to a child whose cognitive style is already concrete-operational, and it lands as fact, not as theology. He will retain the grammar life-long and continue to speak it (the recurring "I'll see them in Hell" formulations across Baron, Ennis, Aaron) even as he abandons the consolation it once promised.
+- **The image-environment of the Roman martyrology.** Frank grows up under crucifixes, depictions of Saint Sebastian arrow-pierced, the Sacred Heart bleeding through its thorns, Stations depicting scourging, falling, dying. *The Tyger* makes this explicit: the boy's iconographic literacy is the iconography of redemptive violence done to a body that does not resist. This is the soil in which his later capacity for absorbing pain without complaint will grow.
+
+Behavioral residue still observable in adult subject: crosses himself in extremis (Ennis, *Welcome Back, Frank*; Aaron, *PunisherMAX* #5); recites the Confiteor and Act of Contrition in moments of imminent death; counts in Latin under his breath during reload sequences in at least two issues (Aaron run); does not consume meat on Good Friday in any depicted instance across fifty years of publication, despite no other observable practice.
+
+---
+
+## 1.3 THE TYGER — THE NAMED FORMATIVE EVENT
+
+*The Tyger* (Ennis/Howard, 2006) is the canonical treatment and must be addressed in detail because it is the only place where the subject's pre-trauma moral cognition is shown rather than inferred. The narrative is structured around the ten-year-old Frank's encounter, over a single summer, with three distinct phenomena that together crystallize his lifelong worldview.
+
+**First, the priest's failure.** Frank confides to his confessor that a neighborhood man (named in the text; a small-time figure adjacent to the local Mafia substructure) is molesting a girl Frank knows from school. The priest, working within the seal of the confessional and within a midcentury parish culture protective of its own, does not act. The girl is not protected. Frank, age ten, observes this. He does not externalize the observation in any visible way at the time. He internalizes it as a datum: the institution authorized to name and punish evil will not always do so.
+
+**Second, the assigned poem.** The title of the issue and of the formative experience: a teacher (in Ennis, a layperson; in some readings, a young nun) assigns William Blake's "The Tyger." The boy reads it, rereads it, asks the teacher what it means. The teacher gives the standard Romanticist answer — God made the lamb, but God also made the tyger, and the question of the poem is how the same hand could make both. Frank's processing of this is shown in a sequence of silent panels: he does not resolve the contradiction; he accepts both. The world contains tygers. They are made. The making is not accidental. The Lamb does not protect against the Tyger; the two coexist within the same creation. This is not a child's standard reading. It is the reading of a child whose pre-existing cognitive structure has already arranged the world into discrete moral kinds and who has just been told, in poetic form, that this arrangement is theologically authorized.
+
+**Third, the encounter with the man.** Frank, separately, confronts the molester — not violently; the boy is ten. He watches him. He learns his routine. He gathers, in the proto-form of what will become his lifelong tradecraft, the patterns of an enemy. Ennis is careful here: nothing is *done* by the boy. But the surveillance-as-precursor-to-judgment behavior is already present, fully formed, at age ten. This is the earliest dated instance of the operational signature that will define the adult.
+
+**Inference, UATU.** *The Tyger* is rightly read as Ennis's myth-of-origin for the Punisher's moral cognition, and it positions, with deliberate authorial economy, the three structural elements: the failure of legitimate authority to punish evil; the theological permission to recognize evil as a created kind rather than a contingent product; and the child's own native gift for patient, watchful, pre-violent reconnaissance. The killer does not begin at Central Park. The killer does not begin in Vietnam. The killer begins on a Queens sidewalk at age ten, watching a man walk to a bodega, and saying nothing to anyone.
+
+---
+
+## 1.4 THE FATHER, THE FISTS, AND THE FLOOR
+
+The household violence is the lower frequency on which Frank lives. Across canon, beatings by Louis are depicted in *Year One*'s opening flashback panels (Dixon), referenced in Aaron's MAX monologues, and shown obliquely in *The Tyger* through Frank's flinch responses to raised hands from non-family adults. The pattern, reconstructable:
+
+- Louis returns from work and/or the bar. The boy reads the cadence of the door, the keys, the boots. By approximately age seven, Frank can predict from auditory cues alone whether the evening will be safe.
+- Provocations are pretextual: a misplaced item, a perceived slight to Louisa, a school report, the boy's silence (which is read as insolence) or his speech (which is read as backtalk). The boy learns that the trigger is not in his behavior. He learns this earlier than most children do, and the learning protects him from the more common chronic-abuse outcome of self-blame; it produces instead a different and rarer outcome — the conclusion that the world's violence is intrinsic to the violent, not provoked by their objects. This conclusion will become a load-bearing wall of the adult's moral architecture.
+- Louisa intervenes inconsistently. She is sometimes the secondary target. The boy learns, before age ten, that he cannot rely on the adult who loves him to protect him from the adult who does not. Per Ennis (*Born* coda, *The Tyger*), Frank as a small child once positions himself between his father and his mother. He is struck for it. He does not stop positioning himself. This is the earliest depicted instance of the protective-interposition behavior that will recur for the rest of his life — the body of the subject placed between the threat and the threatened, as posture and as policy.
+
+Behavioral residue in adult: absolute abstinence from alcohol (a control variable; he will not become Louis); contempt for men who strike women (escalates lethality across Ennis runs — *Slavers*, *Mother Russia* B-plot, *Up Is Down*); the recurring trope of placing his own body between a target and a civilian, even at tactical cost (Aaron's run, repeatedly). These are not unrelated behaviors. They are the adult expressions of an integrated childhood adaptation.
+
+---
+
+## 1.5 THE MOTHER, THE QUIET, AND THE ROSARY
+
+Louisa's effect on Frank is harder to read because canon shows less of it directly; she is more often present as scent, as kitchen sound, as rosary-bead click in another room. The most extended treatment is again in *The Tyger*, where she is shown teaching him to pray and shown praying for him. Frank's affect toward her in the few depicted exchanges is tender, deferential, and protective in a way that registers as already adult. He is her partner against her husband, in some functional sense, before he is eleven.
+
+This produces a specific and clinically significant attachment configuration: Frank's earliest stable model of love is a love that is *protective, asymmetric, and silent*. Love is what you give to someone you cannot save by speaking, and the giving takes the form of standing between them and what would harm them. This template will be exported, with very little modification, onto Maria, onto Frank Jr. and Lisa, and — after their deaths — onto the abstract category of "innocents" that the Punisher protects. The adult subject's relational pattern of brief warmth, asymmetric protection, and silent severance is not idiopathic. It is the maternal template, generalized.
+
+Behavioral residue: in moments of extreme stress the adult subject is depicted (Aaron, *PunisherMAX* #1; Ennis, *Valley Forge*) muttering fragments of the Rosary's Hail Mary in the maternal Italian-inflected pronunciation. He does not pray as an adult. He recites as a child.
+
+---
+
+## 1.6 EARLY EDUCATION, COGNITIVE PROFILE, SOCIAL POSITION
+
+Frank is, by every available indication, a bright student of narrow range. His grades are consistently good in mathematics, geography, history (especially military history), and Latin — the disciplines that reward retention, sequence, and pattern. His grades in subjects that reward abstraction, interpretation, and self-expression are middling. He does not write well. He does not enjoy poetry, with the singular and decisive exception of "The Tyger," which he keeps. He reads the Bible — Old Testament more than New, by his own later report in Ennis — and military histories drawn from the parish school library and the Queens Public Library branch he walks to alone from approximately age eleven.
+
+Socially, he is positioned slightly outside the dominant boys' groupings without being a target of them. He does not play organized sports beyond schoolyard frequency; he does box, informally, at a parish-attached gym from approximately age twelve, and is competent. He fights when fought; he does not start fights, with one documented exception in *Year One* — a beating he delivers to a boy who had been tormenting a younger child, in which Frank's stopping point is described by an observing classmate as "later than it should have been." This is the earliest dated instance of the lethality-overshoot pattern observable in the adult: once the moral threshold for violence is crossed, the calibration of how much violence is correct skews high, and the subject does not naturally find the stopping point that less morally-bifurcated peers would find.
+
+He has, across the entire childhood record, no depicted close male friend of his own age. He has acquaintances. He has the parish, the school, the family. He has Father (name varies), who is the one adult outside the household with whom he forms a sustained dyadic bond. He has, by age fourteen, the seminary as a serious consideration — encouraged by the priest, supported by the mother, indifferently received by the father.
+
+---
+
+## 1.7 THE SEMINARY CONSIDERATION AND ITS REJECTION
+
+Between approximately ages fifteen and seventeen, Frank seriously contemplates the priesthood. *Born* references it in passing; *The Platoon* gives the fullest treatment in flashback. He attends a preparatory program associated with his high school; he meets with a vocations director; he prays on it, in the literal sense — extended periods alone in the parish, after hours, with the tabernacle lamp burning. The rejection, when it comes, is not a crisis of faith in the existence of God. It is a crisis of vocation in a specific and narrow sense: Frank concludes that he cannot, in good conscience, commit to the discipline of turning the other cheek, of forgiving seventy times seven, of leaving final justice to God in a world where, on the evidence available to a seventeen-year-old who has watched his father strike his mother and watched a child be unprotected by the confessional, final justice is not visibly forthcoming.
+
+This is the decisive cognitive event of the formative window. The subject does not lose his moral architecture; he keeps every beam of it. He rejects only the role within that architecture that requires him to be the lamb. He chooses, instead — and *The Platoon* makes this explicit through the recruiter's perspective — to be the instrument of the architecture's enforcement in the temporal world. The Marines, in this framing, are not a flight from the priesthood; they are its negation while remaining within its grammar. The vow of poverty becomes the operator's austerity. The vow of obedience becomes the chain of command. The vow of chastity will become, after Maria, the foreclosure of intimacy. The vocation is preserved; the content is inverted.
+
+UATU notes: this is the moment, identifiable to within a season of the subject's seventeenth year, at which the adult's psychological structure is fixed. Everything that follows — Parris Island, three tours, Maria, Central Park, the war — operates on the rails laid down in this decision. The trauma does not create the structure. The trauma fills it.
+
+---
+
+## 1.8 EARLIEST BEHAVIORAL PATTERNS, OBSERVABLE BY AGE FIFTEEN
+
+Consolidating from the above into the granular behavioral inventory a total-surveillance file would record:
+
+- **Sleep:** short, regular, early-to-bed and pre-dawn rising, conformed to Mass schedule and never reverted even on free days. The lifelong four-to-five-hour sleep pattern of the adult is established in adolescence, not in the Marines.
+- **Diet:** plain, repetitive, finished without comment. No documented food preferences expressed aloud; later operational eating-as-fueling is a direct continuation.
+- **Speech:** sparse, declarative, low-affect, marked by occasional Latin or Italian intrusion under stress or in prayer. He does not lie well as a child and does not develop the capacity later; the adult's bluntness is congenital, not adopted.
+- **Movement:** economical, with the still-watchfulness that Marine instructors will later remark upon. He does not fidget. He does not gesture. Hands typically at rest or occupied with a specific task.
+- **Route discipline:** the boy walks the same routes at the same times. Variation, when it occurs, is purposeful — to observe something, to avoid someone. The adult's surveillance tradecraft is the formalization of a child's already-existing habit of patterned movement and selective deviation.
+- **Pain response:** notably suppressed. *The Tyger* shows him taking a fall from a fence onto pavement without crying out; the priest, observing, remarks on it. The adult's pain tolerance is a discipline built on a constitutional substrate that was present in childhood.
+- **Affective display:** narrow band, controlled. He smiles rarely; he does not weep in any depicted childhood scene, including at his grandmother's funeral (*The Tyger* flashback). He does not rage. The flat affect of the adult is not a war-acquired numbing; it is the amplification of a baseline temperament.
+- **Moral cognition:** rule-based, absolute, with a precocious capacity for the recognition that the rules are not, in practice, enforced by the institutions that promulgate them. The recognition does not destabilize the rules. It destabilizes the institutions.
+- **Protective interposition:** documented from age seven onward, exercised toward mother, toward smaller children at school, toward — by inference — the unnamed girl of *The Tyger*. This is the single most stable behavior across the entire seventy-plus-year arc of the subject's life, present before Vietnam, before Maria, before Central Park, before the war.
+
+---
+
+## 1.9 SYNTHETIC NOTE TO THE FILE
+
+The childhood record, read in full, contradicts the popular and even the in-universe assumption that Frank Castle is a man made by his losses. He is a man made by his formation, who later suffered losses that the formation was uniquely structured to convert into a vocation. The Catholic absolutism, the paternal violence and its lessons about the locus of evil, the maternal template of silent protective love, the priest's failure and the poem's permission, the rejection of the seminary in favor of the same vocation by other means — all of this is in place by age seventeen. Vietnam will harden it. Maria will soften and re-tether it for a decade. Central Park will detonate the tether and leave the structure standing, intact and now unconstrained, ready to be put to the use it was always shaped for.
+
+The boy in the Queens parish, kneeling at the rail in the Latin Mass, counting his mother's rosary beads while listening for his father's boots on the stair, watching a man who hurt a girl walk to the bodega and saying nothing because he is ten and has no instrument yet — that boy is already, in every structural particular, the man who will walk out of Central Park with a skull-graze and a vocation. The vocation was waiting. The wound only handed him the rifle.
+
+*End Chronology I. Proceed to Chronology II — Military Service & Pre-Loss Adulthood.*
+
+
+## Chronology II — Formation & Emergence
+
+# CHRONOLOGY II — Formation & Emergence
+
+*Subject: CASTIGLIONE, Francis David, Jr. ("Frank Castle"). Window: approx. age 13 through approx. age 32 — from late parochial schooling through the Central Park event and the first eighteen months of unilateral operations. Sources: parochial and military records as reconstructed across canon; behavioral inference from observed adult patterns retrojected with stated caveats.*
+
+---
+
+## 1. Late Adolescence — The Seminary Window (approx. ages 13–17)
+
+The subject's adolescence is documented within the orbit of the Catholic educational apparatus of working-class Queens — a milieu marked by uniformed discipline, daily Mass, scheduled confession, and a moral lexicon in which sin, guilt, contrition, and damnation were treated as operative realities rather than as figures of speech. This is the single most underweighted formative variable in the subject's later life. The behavioral residue is visible everywhere: the bifurcation of the world into the guilty and the innocent; the refusal of palliation; the structural use of *vigil* as a daily form; the expectation of damnation as a coherent personal outcome rather than as rhetorical flourish.
+
+Within this environment the adolescent subject is reconstructible as a high-conscientiousness, low-affect, physically capable boy who outperformed peers in disciplines requiring repetition (catechism, drill, marksmanship at parish-affiliated ranges) and who attached intensely but narrowly. Teachers and clergy noted him as a candidate for vocation. The subject considered, then declined, the seminary. The reasoning preserved across the canon (*The Tyger*, *Punisher: Year One*, and corroborated by the subject's own much later remarks in the Aaron-era interior monologues) is consistent: the requirement to *turn the other cheek* was not psychologically inaccessible to him — it was morally illegible. He could not square the demand with what he had already observed of how predation operates on the helpless. This is the first defining choice on the timeline. **It establishes that the subject was prepared, in adolescence and prior to any combat exposure, to refuse a major institutional life-path on the grounds of a private and articulated moral disagreement about the use of force.** Every subsequent refusal — of the courts, of SHIELD, of any chain of command that constrains targeting — is genealogically descended from this one.
+
+Granular tells of the seminary residue, observable lifelong: the subject crosses himself reflexively in proximity to corpses and at certain operational transitions; he confesses in the canonical sense to no living person but has been observed (in *The End*, in late MAX interludies, in journal panels across multiple runs) addressing a second-person *you* in his interior speech that is grammatically indistinguishable from confessional address; he refuses last rites and refuses to give them; he eats simply and eats alone, in a posture inherited from refectory; he keeps his quarters at a level of order that registers as monastic rather than military (the military version permits trophies and personalization; his does not).
+
+## 2. The Enlistment Decision (approx. age 17–18)
+
+The subject enlists in the United States Marine Corps within months of the seminary refusal. Both choices share an underlying grammar: total institutional commitment, absolute hierarchy, ritualized discipline, a vocabulary of vows. The subject did not drift from one to the other; he substituted. This is diagnostically important. Where peers entering the Marines in that era were variously recruited by economics, family tradition, draft pressure, or adventure-seeking, the subject's recruitment profile is anomalous: a volunteer with seminary-track grades, no economic compulsion of record, and no family tradition of service. He selected the institution that would most credibly let him do what the seminary had told him not to.
+
+Basic training records, where reconstructible, show no disciplinary issues, no remedials, accelerated qualification in marksmanship and land navigation, recommendation for reconnaissance pipeline. Drill instructors are remembered (Ennis's *Born* prologue; *The Platoon*) as having flagged him not as a problem but as a *type* — the recruit who completes punitive PT without expression and who, when offered the relief of cessation, continues. This trait — *the refusal of cessation* — is the load-bearing behavioral signature of the rest of his life.
+
+## 3. The Marriage and the First Tour (approx. ages 19–22)
+
+The subject meets Maria during the brief domestic window between training and first deployment. Marriage occurs within months. Daughter Lisa is born during or immediately after the first tour. Son Frank Jr. follows. The subject's behavior in this period requires careful reading. The official picture across the canon is of a devoted husband and father, and the picture is correct as far as it goes. But the operational picture is also true: a man on three rotating tours, with a wife and small children in Queens, who chooses repeatedly to re-extend. The subject's later interior admissions (*PunisherMAX*, Aaron) treat this as the first honest moment in the timeline — that even with Maria, even with the children, he was already structuring his life so that the family was the place he returned to, not the place he lived. The avoidant substrate beneath the secure-presenting attachment is documented by the subject himself, posthumously to the family, with brutal clarity.
+
+Domestic behavioral artifacts from this period (reconstructed from later flashback iconography): the subject took his coffee black and standing; he attended Mass with the family on Sundays and stood at the back; he kept his service weapon disassembled in a locked container in a closet shelf above the children's reach; he ran the same five-mile loop through Forest Park at the same hour each morning of furlough; he did not drink at neighborhood functions even when expected to; he was remembered by Maria's relatives as quiet, courteous, unreadable. Photographs from the period, where canonically depicted, show him at the periphery of family groupings, not the center — a man present but already in overwatch posture.
+
+## 4. The Tours — Foreclosure in Theater (approx. ages 19–25)
+
+Across canonical reframings the theater varies (Vietnam in the Ennis-anchored continuity, redeployed to the Global War on Terror in modern reframings) but the operational profile is invariant: Force Recon, long-duration small-team patrols, frequent solo overwatch, kills-confirmed at a rate well outside the unit distribution. Decorations include the Navy Cross or its situational equivalent across continuities, multiple Purple Hearts, and citations consistent with sustained valor under fire.
+
+*Born* (Ennis, 2003) is the indispensable behavioral document for this window. Whether one reads the firebase narrative as supernatural intervention or as the literary externalization of a process already underway, the in-text consequence is the same. The subject, by the back end of his final tour, is observable to his own platoon as a man who arranges to be where the killing is, who declines rotation home, who manipulates the operational tempo to extend his contact with combat. The platoon's collective awareness of this — including the eventual willingness of subordinates to follow him into a fight engineered, in part, by his own action — is the earliest evidence of a leadership pattern that recurs throughout the subject's later career: peers identify what he is, find it appalling, and follow him anyway because his tactical judgment in killing-environments is exceptional.
+
+Key behavioral data from theater, drawn across the corpus:
+
+- **Affective flattening dates from this window**, not from Central Park. Peers report (in *Born*, in *The Platoon*, in scattered VA-adjacent flashbacks across the modern runs) that the subject returned from his first tour different and from his second tour foreclosed.
+- **The vigil-and-strike rhythm is established here.** The subject's adult operational signature — extended motionless observation followed by a brief, total kinetic event, followed by withdrawal — is the Force Recon long-range patrol pattern internalized as a personality.
+- **The refusal of substance use is established here.** Where peers self-medicated extensively, the subject is documented as abstinent throughout deployment. The inference is not moral; it is functional. He would not surrender the operating condition.
+- **The capacity for restraint in the presence of children and noncombatants is established here.** Multiple in-theater incidents (notably the village sequences in *Born* and *The Platoon*) show the subject as the operator in the unit who *did not* cross the line others crossed. This is the antecedent of the lifelong absolute rule against harming children, and it materially excludes the antisocial differential.
+
+The subject returns home, finally, with a wife and two children who have lived without him for the formative years of the marriage, and with an interior condition that has not been named to anyone — not to the chaplains, not to Maria, not to himself. He does not seek treatment. He has no vocabulary in which treatment is a coherent option; his moral universe does not include the category *symptom*.
+
+## 5. The Brief Reentry (window before Central Park)
+
+This window — weeks to months between final separation from active service and the Central Park event — is among the most underwritten in canon and among the most behaviorally diagnostic. The subject is documented as attempting reentry: civilian clothes, attendance at family rituals, presence at the children's school events. The interior data is sparse but consistent: he is not at rest. He sleeps poorly. He runs longer. He attends Mass and does not take communion. He has begun, in some retellings, to consider further institutional channels for his capacities (federal law enforcement; private security; reupping). He has not yet chosen. **In the absence of Central Park, the trajectory most consistent with the established traits is a return to uniformed service in some form within twelve to eighteen months.** The Central Park event did not create the operator; it removed the alternatives.
+
+## 6. The Central Park Event — Forensic Reconstruction
+
+The founding event occurs on a Sunday — a detail preserved with notable consistency across writers and decades, and one that the subject himself, in his rare references to it, treats as load-bearing. The family is in Central Park for a picnic. The subject, Maria, Lisa, and Frank Jr. cross the path of a mob execution in progress. The shooters, recognizing that they have been seen, eliminate the witnesses. Maria and both children are killed at the scene. The subject sustains multiple gunshot wounds, including a head wound of contested severity, and is left for dead.
+
+Granular forensic and behavioral inferences:
+
+- **The head wound.** Inconsistently emphasized across continuities, but the version preserved in the most psychologically serious treatments (Ennis's coda to *Born*, Aaron's MAX flashbacks) presents a graze or partial penetration consistent with possible orbitofrontal or anterior temporal involvement. No imaging is canonical. The post-event behavioral profile — preserved executive function, preserved long-horizon planning, preserved tactical learning, alongside marked disinhibition of lethal violence, flattened affect, and foreclosed mourning — is *consistent with* but not *diagnostic of* organic prefrontal compromise. The most defensible position is interaction: a personality already organized for foreclosure, a combat-acquired affective ceiling, and a possible organic accelerant.
+- **The interval between wounding and consciousness, and between consciousness and discharge.** Canonically compressed but reconstructible as days to a small number of weeks. The subject does not, during this window, contact extended family, military peers, or clergy. He does not request a chaplain. He does not, by every available indication, weep.
+- **The refusal of the legal process.** The subject is interviewed by detectives. He provides forensic detail sufficient for identification of the shooters but declines the witness role. The decision is preserved across canon as occurring within the hospitalization window. This is the second of the subject's defining institutional refusals — the first being the seminary, the third being the chain of command. **The pattern is now visible: he refuses any institution whose limitations would prevent him from acting at the scale his moral cognition requires.**
+- **The burial.** Three caskets. The subject is documented across multiple retellings as attending alone and as not speaking. He visits the graves thereafter at an interval that has remained, across half a century of publication time, approximately constant — a behavior whose precise rhythm is detailed below.
+
+## 7. The First Operations (the eighteen months following)
+
+The emergence of the operational identity is not, as the early framings suggest, a single decision. It is a series of escalations each of which the subject could have terminated and did not. The behavioral granularity of this window is the most important emergence-data in the file.
+
+**Phase 1 — Identification (weeks 1–6 post-burial).** The subject draws on tradecraft acquired in reconnaissance. He establishes a residence under an assumed name; he begins target development on the shooters and their immediate command structure. He acquires weapons through channels available to a man with his background; he does not yet acquire ordnance. He maintains physical conditioning. He resumes the Forest Park morning run, at the same hour, on a route adjusted to pass the family's former home and the parish church.
+
+**Phase 2 — First kills (months 2–4).** The shooters are eliminated, then the immediate handlers, then the captain. The kills are clean, close-range, and *prosecutable as professional work* — there is no signature, no theatre, no public claim. **The iconography by which the subject is later known is absent from this phase.** This is critical. The skull insignia, the public targeting, the cultivated terror — these are second-phase choices, made after the subject has confirmed to himself that he will not stop. Phase 1 is plausibly the conduct of a grieving family member with military skills; Phase 2 is plausibly the same. Phase 3 is unambiguously a campaign.
+
+**Phase 3 — The choice to continue (months 4–9).** With the proximate perpetrators dead, the subject does not stop. He extends targeting to the broader organization, then to associated organizations, then to organized crime generally within the geographic envelope of New York. The targeting expansion is not impulsive; it is rationalized through a moral schema (predation thresholds, the structural insufficiency of the courts) that the subject articulates to himself and that will remain stable for fifty years of publication time. **This is the emergence proper.** The subject is no longer a man avenging his family. He is a man for whom the war is the form of life that follows.
+
+**Phase 4 — Iconography and signature (months 9–18).** The skull is adopted. The signature is deliberate: a public, terrifying, scalable signal to a target class. The subject does not name himself (the press and the criminal underworld supply the name). He does not court coverage but does not suppress it; he understands, at a tactical level, the operational utility of fear. The signature converts a series of homicides into a campaign with deterrent value. The wardrobe simplifies — dark, layered, durable, replaceable. The residence patterns formalize — multiple safehouses, none personalized, each with weapons cached and clean exits. The journal practice begins (or is resumed from service) — clipped, tactical, devoid of self-pity, the same hand for fifty years.
+
+## 8. The First Defining Choices and Their Fallout
+
+Within the emergence window, several choices crystallize the operational identity in forms that prove permanent.
+
+- **The refusal to coordinate with law enforcement.** Offered, in the early years, the possibility of informant status by sympathetic detectives, the subject declines. The decision forecloses an entire class of resolutions to his condition; he is aware of this and chooses it.
+- **The absolute rule against killing children, and the operationally enforced rule against civilian collateral.** Established in this window and never violated across canon. The rules are not negotiable, are not consequentialist, and are the structural reason the antisocial and psychopathic differentials are excluded.
+- **The execution of the first operational partner who crossed him.** The early years see the subject briefly admit a peer — variously a former service contact or a sympathetic professional — into his operational space. The partner is killed or severed when they cross a line the subject has set. The pattern that will define every later relationship (Microchip, Cole-Alves, the Lieberman entanglement, the Fury exception) is established here: extension of trust as narrow as the work requires, total within its band, revocable on a single betrayal.
+- **The grave-visit cadence.** The visits to the three graves settle into a rhythm — most consistently rendered as monthly, on the same day of the month as the killing, in early morning, alone, unarmed of long weapons but never of sidearm, and never preceded or followed by operational activity within a defined exclusion radius. The visit is the one ritual in the subject's life that is not instrumentalized to the work. It is the one place the foreclosed grief is permitted partial expression, and the expression is silence.
+- **The refusal of the priestly option, recapitulated.** Within the emergence window, the subject is approached — in some continuities by a parish priest who recognized him, in others by a chaplain from his service — and offered confession, counsel, the possibility of a different relationship to his condition. He declines. He does not cease to consider himself Catholic; he ceases to consider himself eligible. **He preserves the framework that damns him and refuses the framework that might absolve him.** This is the most theologically precise act of his life and the one that most clearly indicates the underlying structure: the subject requires the moral universe in which what he is doing is wrong. Absolution would collapse the war.
+
+## 9. Synthesis of the Formation Window
+
+By the close of the eighteen-month emergence window the operational identity is complete and will not materially change across the next five decades of recorded behavior. The components are:
+
+1. A pre-combat personality organized for absolute commitment, religiously trained in a moral architecture that treats evil as nameable and damnation as real.
+2. A combat-acquired affective foreclosure, established across three tours, in which the subject's relationship to violence shifted from instrument to vocation prior to the Central Park event.
+3. A catastrophic civilian loss that removed every alternative life-path simultaneously and that supplied a permanent operational pretext.
+4. A possible organic substrate (head wound) whose contribution cannot be isolated but is consistent with the post-event disinhibition profile.
+5. A series of phased, deliberate, revocable-and-not-revoked choices in the eighteen months following the loss, by which the subject converted a grief reaction into a sustainable campaign with a moral schema, an iconography, an operational doctrine, and a refusal of every exit.
+
+The subject did not become the operator at Central Park. The operator was assembled across seventeen years of formation and three tours of practice; Central Park removed the wife and children whose existence had been the last structural reason the operator was not yet the whole man. The emergence is not a transformation. It is a clearing of the field.
+
+*End Chronology II. Continue to Chronology III — Campaign Years.*
+
+
+## Chronology III — The Defining Middle Period
+
+# Chronology III — The Defining Middle Period
+
+*Approximate temporal envelope: roughly the second through fourth decades of the War, post-novitiate operator through the consolidation of the mature pattern. This is the long middle: the period in which the founding wound has scarred over operationally but never psychically, in which the methodology becomes a fixed instrument, in which the alliances that mattered are made and unmade, and in which the subject crosses the threshold from a man pursuing a war to a man inhabiting one.*
+
+---
+
+## I. Opening of the Middle Period — The Operator Consolidates
+
+By the close of his first decade of operations, Subject has resolved most of the questions a vigilante career poses to its practitioner. He has answered the logistical question (a network of safehouses, cached weapons, falsified identities, a rotating fleet of working-class vehicles — vans, panel trucks, mid-grade sedans, nothing collected, nothing kept long enough to be linked). He has answered the financial question (proceeds taken in cash from the criminal enterprises he dismantles, never spent on personal comfort, recirculated into ordnance, ammunition, medical supplies, rent on the next room). He has answered the procedural question (acquisition of target, intelligence development, surveillance phase measured in days or weeks, single-event resolution, immediate displacement). What remains is the question of *companionship in the work* — and it is in the middle period that he attempts, fails at, and forecloses several iterations of this question in turn.
+
+The defining structural fact of the middle period is the partnership with the technical operator known in his files as Microchip — a heavyset, sedentary, brilliantly competent communications and surveillance specialist whose particular skill is the conversion of the byzantine into the operational. This is the only long-running, daily-presence relationship of Subject's post-loss life. It will last years. It will end the way every such relationship ends with him: with him pulling the trigger.
+
+## II. The Microchip Years — The Architecture of a Working Marriage
+
+The Microchip partnership matters disproportionately to the file because it is the closest Subject ever comes, post-loss, to cohabitation. They share workspaces — basement war rooms, repurposed industrial lofts, a series of safe-locations in the outer boroughs. The pattern that develops is domestic in form and military in content. Microchip cooks; Subject eats whatever is set in front of him without comment on quality, finishing in under six minutes by the operator's repeated observation, fork in dominant hand, weapon-side hand free, seated facing the room's only door. Microchip talks; Subject listens, responds in clipped affirmatives and corrections, occasionally laughs — a short, single-syllable sound that the partner learns to recognize as the upper bound of Subject's available expressive range. Microchip's son, in the early phase of the alliance, drifts into the work and is killed in it; Subject's response is to deepen his commitment to the surviving father in the only way available to him, which is to permit the partnership to continue and to fight harder.
+
+This is critical for the longitudinal record: Subject experiences a secondary loss within the war (Microchip's son), and instead of withdrawing — which the foreclosure model would predict — he allows the bond with the bereaved father to thicken. The behavioral inference is that *shared grief inside the operational frame* is the only intimacy he can tolerate. It does not threaten the foreclosure because it confirms it: this is what the world does; this is why we work.
+
+The partnership decays across years. The fault lines are predictable in retrospect:
+
+- **Tactical drift.** Microchip, over time, begins to advocate for a more strategic, more institutional posture — alliances with sympathetic agencies, the use of the War as leverage rather than as end. Subject hears these arguments without rebuttal and ignores them in execution. The pattern recurs over dozens of operations; the partner mistakes silence for consideration.
+- **Surrogate-family pressure.** Microchip attempts, at the margins, to introduce other figures into the operational household — a young protégé, the suggestion that Subject should mentor, the soft framing of the partnership as a *team*. Each attempt is documented in the behavioral record as a precipitating event in Subject's withdrawal cycle: longer solo operations, fewer returns to the shared base, increased reliance on dead-drops over face-to-face debriefs.
+- **The terminal disagreement.** When Microchip ultimately moves, in concert with a government element, to redirect the War — to *use* Subject for ends Subject has not chosen — the response is immediate, clean, and without negotiation. He kills the partner at close range, in the workspace they have shared for years, and walks out. There is no post-action processing in the file. The base is abandoned within hours. Subject is operational again within the week.
+
+This is the central transactional fact of the middle period and the template for every relational severance that follows: betrayal of the operational frame is treated as betrayal of the dead, and the dead are not negotiated with. The killing of Microchip is also, retrospectively, the moment the file ceases to entertain the possibility that Subject will be *partnered* out of the War. From this point forward, every offered alliance is read in light of this precedent.
+
+## III. The International Phase — Battlespace Expansion
+
+Concurrent with the late-Microchip period and extending well past it, Subject's operational geography expands from the five boroughs and the I-95 corridor outward. The middle period contains his first sustained extra-territorial operations: trafficking corridors out of Eastern Europe, cartel infrastructure in Central America, arms-pipeline interdiction in the Mediterranean, a documented penetration of the Russian interior to recover a biological asset from a remote military installation. The Russian operation is the apex of this phase and warrants particular attention in the file: Subject operates for an extended period without resupply, without partner support, in extreme cold, against unfamiliar conventional military forces, and exfiltrates with the asset intact. He sustains significant somatic damage (cold injury, multiple GSWs, blunt trauma) and self-treats throughout. The after-action behavioral signature is unremarkable: he returns to the domestic battlespace within days and resumes target acquisition without acknowledging the operation occurred.
+
+The international phase produces several second-order behavioral findings:
+
+1. **Geographic substitutability.** Subject does not require New York. The methodology travels intact. What he requires is the existence of identifiable predation upon identifiable innocents. The original urban geography of the Central Park wound is not, as some early profilers theorized, a fixation; it is merely the first available instance.
+2. **Indifference to politics.** Operating across cartels, militias, intelligence services, and state actors, Subject demonstrates no ideological inflection. He kills CIA-adjacent operators with the same affect he kills mafia capos with the same affect he kills FSB-aligned traffickers. The moral code is local-deontic and indifferent to flag.
+3. **Tolerance for sustained isolation.** Operations of weeks alone, in hostile language environments, without communications, produce no observable degradation in tactical competence and no observable need for re-socialization on return. This is itself diagnostic. Most operators of comparable training require decompression. Subject does not.
+
+## IV. The Trafficking Files — The Pressure Point Operationalized
+
+The middle period contains the development of what becomes the single most consistent target-selection bias in Subject's career: the trafficker of women and children. Every writer of the operational record across this period notes the same pattern; the file collates them into a single longitudinal finding.
+
+The behavioral signature when working a trafficking case differs measurably from baseline:
+
+- **Increased intelligence-gathering depth.** Subject will surveil a trafficking operation for substantially longer than he will surveil a comparable narcotics or extortion operation, mapping the entire downstream distribution before initiating action, in order to liberate the victims simultaneously and prevent dispersal.
+- **Increased lethality threshold.** Persons normally beneath the threshold for direct action (couriers, low-level enablers, lookouts) are treated as combatants when the operation involves trafficked persons. The file records no instances of mercy at the periphery of these operations.
+- **Modal escalation.** Subject's preferred kill methods in trafficking operations skew toward the punitive — fire, in at least one documented instance; close-range methods that exceed what tactical necessity requires; deliberate exposure of the dead in arrangements that communicate to surviving criminal networks. This is not characteristic of his baseline economy.
+- **Post-operation displacement of survivors.** Subject personally — and at substantial operational risk — sees liberated victims to safe authorities or to specific non-governmental intermediaries he has identified and vetted over the years. The file records a small, unwritten list of such intermediaries; he uses them repeatedly; he never identifies himself to them.
+
+The clinical inference, sustained across the entire middle period, is that trafficking material is the closest available analog to the Central Park wound — the predation upon those who cannot defend themselves, the conversion of family bonds into commodity — and that operations against traffickers function as the closest he can come to retrieving what cannot be retrieved. The drives identified in the synthesis (prevention of repetition; perpetuation of war) are most visibly fused in this target class.
+
+## V. The Periodic Antagonisms — Capes, Cops, and the Costume Class
+
+The middle period contains the bulk of Subject's recurrent friction with the costumed community and with conventional law enforcement. The file's longitudinal read is that these encounters, while operationally disruptive, are *not* central to Subject's self-understanding. He does not seek them. He routes around them when possible. He fights them when they interpose. He does not pursue them after disengagement.
+
+The notable recurrent figures:
+
+- **The blind attorney from Hell's Kitchen.** Encountered repeatedly across the middle period. The relationship is one of mutual recognition and absolute opposition. The attorney is, in Subject's behavioral grammar, the only figure he treats as a *moral peer* despite the categorical opposition of their methods. He will not kill the attorney. He has been given multiple operational opportunities and declined each. The behavioral inference: the attorney represents the road not taken — the man who could not become this — and is therefore protected. Subject's verbal exchanges with the attorney, recorded across multiple encounters, are the longest sustained ethical conversations on file.
+- **The web-vigilante in Queens.** Treated paternally; Subject has been observed protecting this figure even while in nominal opposition. Reads as proximate to Subject's lost son in age and posture. Files this under pressure-point category (1): children, or near-children, in danger.
+- **The senior detective community of the NYPD.** A specific small subset of veteran detectives have, across the middle period, developed an informal understanding with Subject — tolerated, never endorsed, occasionally tacitly assisted. The file identifies several officers whose closed cases correlate with Subject's operational windows. There is no evidence of conspiracy; there is evidence of selective non-pursuit.
+- **The fan-cops and uniformed admirers.** A recurrent population — junior officers, certain military personnel — who appropriate Subject's visual signature and frame their own conduct as continuous with his. Subject's documented response is uniform: contempt, public correction when forced, in at least one well-attested encounter the verbal repudiation of these admirers as failing to understand what is being done or what it costs. This is one of the few behavioral domains in which Subject is observably affectively engaged. The file reads this as identity-protective: the work is not a flag, and the moment it becomes one, the work has been lost.
+
+## VI. The Co-optation Attempts — Institutional Capture and Its Limits
+
+Across the middle period, four distinct institutional actors attempt to absorb Subject into a chain of command. The pattern is identical in each instance and bears documentation.
+
+1. **The intelligence-community overture (mid-period).** Offered resources, sanction, and target lists in exchange for operational subordination. Subject accepts the resources, executes targets that coincide with his own selection criteria, refuses targets that do not, and disappears when the relationship requires the subordination to deepen.
+2. **The military reactivation.** A brief return to nominal service under a senior flag officer — the only sustained peer-bond of Subject's later career, see below. Subject performs the assigned function. When the function ends, he ends his association with the service and resumes his own operational tempo. He retains the working relationship with the individual officer; he does not retain the relationship with the institution.
+3. **The vigilante-collective.** Approaches from various organized vigilante and quasi-governmental teams. Subject has cooperated short-term on shared targets. He has never integrated. The behavioral signature in collective settings is informative: he positions for independent egress, takes the unfavorable tactical assignment without complaint, and is the last to speak in planning sessions. The collective format reads as operationally inefficient to him and is endured only when the target justifies it.
+4. **The forced conscription.** At least one episode in the middle period involves Subject being compelled into service against his will (legal coercion, threat to a third party, blackmail-via-record). The behavioral response is to comply minimally until the coercion structure can be dismantled, then to dismantle it. He does not retaliate against the conscripting party beyond the operational necessity of disengagement. The economy of retribution is preserved.
+
+The peer-bond mentioned above — the senior officer with intelligence-community and military equities — warrants its own paragraph. This figure is the only sustained relationship of the middle and late periods. The bond functions because the officer never asks Subject to become anything other than what he is, because the officer's own moral architecture is sufficiently complicated that Subject does not have to manage it, and because their interactions are infrequent, episodic, and operationally bounded. They drink coffee, not alcohol. They speak in the clipped grammar of men who have shared rooms in places that no longer exist on maps. They do not discuss the dead. The file's read: this is the only relationship Subject has, in the middle period, that is *not* under termination pressure, precisely because it makes no demands that would activate his severance protocols.
+
+## VII. The Costa-and-Cesare Pattern — Mob War as Steady State
+
+The bulk of Subject's body count across the middle period is generated by sustained, methodical attrition of organized-crime infrastructure in the northeastern United States. The file's quantitative estimate, conservatively constructed from confirmed events, places his confirmed kills in the four-figure range by mid-period and continuing to accumulate. The methodology is invariant:
+
+- Acquisition of an entry-point target (mid-level capo, accountant, courier).
+- Compromise through surveillance or direct interrogation. The interrogation technique is notable: Subject does not employ extended torture as a method; he uses controlled escalation of injury keyed to specific information requirements, terminates the subject at the conclusion of utility, and disposes of the body in a manner that communicates to the next interrogation subject what their participation will entail. The economy is, again, the dominant feature.
+- Lateral expansion through the network until the operational hierarchy of the family is mapped.
+- A single-event resolution — typically a coordinated multi-location action over a single 24- to 72-hour window — that decapitates the family entire.
+- Withdrawal. Displacement to a new operational base. Selection of the next family.
+
+Across the middle period this cycle repeats with the regularity of a manufacturing process. The Five Families of the northeastern corridor are functionally restructured — multiple times — by his operations. Russian, Albanian, Dominican, Salvadoran, and Asian organized-crime infrastructures are penetrated in turn as they expand into territories his earlier operations vacated. The behavioral inference: Subject's war does not deplete its supply of targets because the criminal ecology regenerates faster than he can prosecute it. This is operationally frustrating to a strategist; to Subject it is structurally necessary. The war that cannot be won is the war that does not end, and the war that does not end is the condition that prevents the arrival of what he refused to feel.
+
+## VIII. The Brief Relational Iterations — Each a Test, Each a Confirmation
+
+Beyond Microchip, the middle period contains several short-arc relational iterations, each of which the file reads as a controlled experiment whose outcome confirms the foreclosure hypothesis.
+
+- **The bereaved peer.** A woman whose own family loss approximates his own and who attempts, briefly, to operate alongside him. The pattern is dense and instructive: he permits the operational partnership, recognizes the affective parallel, and — at the moment the parallel would require him to either deepen the bond or release her into her own life — engineers a separation that preserves her capacity to function without him. He does not love her. He does not allow himself to. The file reads this as the most morally credit-worthy of his severances: he protects her *from* him.
+- **The technical-support family.** A civilian family unit drawn into his operational orbit through circumstance, providing intermittent shelter and technical capacity. Subject's behavior in this household is observably different: softer voice, careful with the children, takes his boots off at the door. He does not stay. He visits, contributes, departs. He has identified them as a thing to be protected from his presence as much as a thing to be protected by it. The relationship persists across years precisely because he refuses to make it daily.
+- **The transactional intimacies.** Across the middle period, a small number of sexual encounters are documented. The behavioral signature is uniform: short duration, no overnight stay, no follow-up contact, no name exchanged where avoidable. The file does not read these as pleasure-seeking; it reads them as physiological maintenance, conducted with the same disinterest he applies to eating and sleeping. There is no record of sustained intimate bonding in this period. The capacity, the file infers, is intact; the permission is not.
+
+## IX. The Somatic Trajectory — A Body Becoming Tool
+
+The middle period is when Subject's body completes its conversion into instrument. Documented somatic events across the period include: multiple additional GSWs (a running count maintained by his own apparent self-care procedures, inferred from the scars catalogued in the field); a series of stab wounds (close-quarters work, several to the abdomen, at least one to the upper back); thermal injuries from operations involving incendiaries (his own and others'); cumulative blast exposure consistent with continued use of breaching charges and explosive ordnance; one episode of extended torture under captivity in a hostile environment, survived with no documented psychiatric sequelae and with operational performance restored within an implausibly short window post-recovery.
+
+Self-care patterns observable across this period:
+
+- Wound management is conducted in field conditions with whatever materials are available; he is competent at suturing, at packing, at improvised fracture stabilization, at draining hematomas, at managing infection with limited pharmacology.
+- He maintains a rotating stock of broad-spectrum antibiotics, opioid and non-opioid analgesics, lidocaine, surgical supplies, and trauma packs across multiple cache locations. He uses the opioids reluctantly and titrates off them aggressively; the file reads this as consistent with the broader abstinence pattern — anything that compromises vigilance is treated as a tactical liability.
+- He maintains physical conditioning through what reads as a daily routine: rucking under load, calisthenics, weighted carries, intermittent live-fire and dry-fire practice. There is no recreational physical activity. He does not run for pleasure; he runs for fitness.
+- He maintains weight in a narrow band — operationally lean, never depleted, never excess. Caloric intake reads as deliberate.
+
+The accumulated wound burden across the middle period is, by its end, catastrophic by any normal medical standard. Subject continues to function. The file's read on this is not heroic; it is somatic adaptation in service of psychic refusal. The body has been instructed that it will not be permitted to fail before the work is done, and because the work cannot be done, the body must continue. This is sustainable for only so long, and the late period — outside this section's envelope — will document the costs.
+
+## X. The Ritual Substrate — Persistent Micro-Patterns Across the Period
+
+The longitudinal file accumulates, across the middle period, a substantial catalog of habitual micro-behaviors that persist invariant across operational contexts. Selected and documented:
+
+- **Pre-operation:** A period of stillness, ranging from twenty minutes to two hours, in which Subject sits, weapons-checked and staged, doing nothing observable. Eyes open. No reading material. No music. No prayer audible. The file infers this is the operational analog of what was, in his pre-loss life, a Catholic devotional practice; he has not retained the form but he has retained the function. He does not initiate action from a standing start; he initiates from this composed silence.
+- **The graveside visit.** Documented at varying intervals across the period, never with announced regularity, always solo. Behavior at the graves: stands. Does not kneel. Does not cross himself in any sustained ritual sense, though one observer notes a near-aborted gesture toward the forehead that is suppressed before completion. Does not weep. Does not vocalize. Stays a length of time that varies but is rarely shorter than fifteen minutes or longer than forty. Departs without looking back. Returns to operations within hours.
+- **Equipment ritual.** Weapons are cleaned the night after every operation regardless of fatigue. The sequence is invariant: long arms first, then sidearms, then blades, then load-bearing equipment, then boots. Coffee is consumed during this sequence. The cleaning occupies the time between action and sleep and reads as the closest analog he permits to processing.
+- **Reading.** Across the middle period the file documents that Subject reads, intermittently — military history, theological texts (Aquinas, Augustine, occasional patristic material), Marcus Aurelius, after-action reports from conflicts he was not party to. Fiction is absent. He does not read for escape.
+- **Music.** Functionally absent. Operational silence is preferred. On the rare occasions when ambient music is unavoidable, his posture indicates tolerance, not engagement. There is no documented song he sings, hums, or whistles.
+- **Speech.** Across the period Subject's verbal economy tightens. Early-period quotations attributed to him are longer, more declarative, more rhetorical. Mid-period attributed speech is clipped, frequently single-clause, often imperatival. By the close of the middle period his typical operational utterance is six words or fewer. The behavioral inference is consistent with both progressive economy of cognitive resource allocation and progressive disengagement from any audience for whom rhetoric would matter.
+- **Eye behavior.** Sustained low blink rate; scan pattern that prioritizes entry and egress over conversational partner; in interrogation, prolonged unbroken contact that is functionally a pressure tactic rather than connection-seeking; with children, observably softened, blink rate normalized, gaze lowered to their eye level.
+
+## XI. The Evolution Within the Period — From Avenger to Practitioner
+
+The behavioral synthesis across the middle period documents a specific evolution that is not visible at any single point but is unmistakable across the longitudinal record.
+
+In the early middle period, Subject's operational rhetoric — internal monologue inferred from the few sources where he speaks at length, statements made to captured subjects, the rare conversations with peers — retains residual *avenger* framing. The work is *for* the dead. Targets are *paying* for what was done. There is a ledger; the entries are being closed.
+
+By the late middle period, this framing has substantially eroded. Subject's verbal output, when it occurs, frames the work in operational rather than retributive terms. Targets are *handled*, *finished*, *taken off the board*. The dead are referenced less frequently and, when referenced, are referenced as fact rather than as motive. He has stopped explaining himself, even to himself, in terms that require the dead to give the work meaning.
+
+This is the most important psychological event of the middle period and is invisible in any single operation. The work has become its own justification. The Central Park wound has become historical
+
+
+## Chronology IV — Recent History & Current State
+
+# Chronology IV — Recent History & Current State
+
+*Window of coverage: approximately the last operational decade through present-day baseline. Sources: Soule's *The Punisher* (2016–2018) and *War of the Realms: The Punisher*; Rosenberg's *Punisher* (2018–2019); the Aaron *PunisherMAX* late-life endpoint as a parallel-track projection of the older subject; modernized service-record reframings (OEF/OIF era); plus the foreclosure trajectory established across the preceding chronologies. Where modern continuity has been deliberately destabilized by editorial action (the Hand arc, 2022–2023), the subject's behavioral response — not the editorial premise — is what is logged here.*
+
+---
+
+## 1. The Late-Period Operating Picture
+
+The subject enters this window already past every off-ramp. Microchip is long dead by his hand or estranged past repair depending on continuity; Rachel Cole-Alves is no longer in the field; the Lieberman family has been the closest thing to a domestic anchor and has been kept at arm's length, contacted through David Lieberman as quartermaster and occasional handler rather than as friend. Nick Fury Sr. is gone from the operational picture in mainline continuity; the Fury-equivalent peer-bond has not been replaced. There is, at the opening of this window, no living person who can call the subject by his given name with any expectation of being answered as Frank.
+
+The geography of operations has expanded and contracted simultaneously. Expanded: he has executed targets in Eastern Europe (the Chechen and post-Soviet arms-trade arcs in the Edmondson run, persisting as a referenced battlespace into Soule), in Central America (cartel-adjacent operations), and during the brief co-option by the U.S. government, in classified theaters that read as proxy-war geography (the African and Middle Eastern operations under the Marine Corps reactivation umbrella). Contracted: the home base has narrowed to a rotating set of New York–metro safehouses, supplemented by a small number of cached positions in New Jersey, upstate, and a long-held fallback property in the Pennsylvania mountains used since at least the early Ennis era. He is operating across continents but sleeping in the same six or seven beds.
+
+The vehicle pattern in this window: a procession of unmarked late-model American sedans and pickup trucks, swapped at roughly two-to-three-week intervals, plates lifted from analogous vehicles in long-term-parking structures at LaGuardia and Newark, registration paperwork sourced through Lieberman. He does not own; he uses and discards. The "Battle Van" of earlier eras has been formally retired; he regards anything that distinctive as a liability he has aged out of needing.
+
+## 2. The Marine Reactivation and Its Termination
+
+The defining mid-window event: a brief and operationally consequential period during which the subject permitted himself to be reactivated by the United States Marine Corps as a deniable instrument against state-level narco-terror targets (Soule, *The Punisher* Vol. 12). This is the single most diagnostic episode of the recent era. The subject knew, at acceptance, that he was being used. He accepted anyway, because the targets were real and the operational tempo was higher than he could sustain solo.
+
+Behavior during the reactivation was textbook: he wore the uniform when required, observed the chain of command to the precise extent it served target acquisition, and disregarded it at the moment it became a constraint. He extracted weapons, intelligence, and a refreshed operational network from the arrangement. He left bodies in compliant patterns until the bodies he wanted to leave diverged from the bodies the chain wanted left.
+
+Termination of the arrangement was not negotiated. He simply went off-leash, completed the targets he had selected, and reverted to baseline. The Marine Corps, having decided he was a controllable asset, learned what every prior handler has learned: the subject's loyalty to the institution is mediated entirely through whether the institution's targets and his targets are the same set. When the sets diverge, he is gone.
+
+This episode confirms a long-running pattern. The subject has, across the publication record, been recruited by SHIELD, by Nick Fury (Sr. and Jr.), by the U.S. military in three separate frames, by the Hand (under duress and rejected), by Wilson Fisk (briefly and disastrously), and even by Hydra-aligned actors who misread him. Pattern: he will use the resources, complete a subset of the work, and walk. He does not stay co-opted. The institutional intelligence community has, by this point, a multi-decade file confirming this; that they keep trying is a comment on them, not him.
+
+## 3. The Wilson Fisk Period (Rosenberg, 2018–2019)
+
+The next operational chapter, and a sharper crystallization of the subject's late-life moral architecture. Fisk, having attained the New York mayoralty (in-continuity), declares the subject anathema. The subject's response was not flight, not negotiation, not even prioritized targeting of Fisk. The response was: continue operations, accept the heat, kill the political instruments Fisk deployed against him as they presented, and refuse to escalate to the mayor's office on Fisk's preferred schedule.
+
+This is diagnostic of two things. First, the subject does not allow others to set his operational tempo through provocation; he is provocation-immune at the level of pride. Second, when the subject does close on a target of Fisk's magnitude, he does it on his own clock and his own intelligence, not in reaction. The Fisk arc resolves with Fisk surviving — a result the subject would have found acceptable so long as the operational interruption was contained, which it was.
+
+Notable affective data from this period: the subject is observed by Lieberman to be sleeping less than during prior arcs (estimated three to four hours in fragmented blocks), eating less, and conducting longer-than-typical solo surveillance sets. The narrowing-under-pressure pattern established across the prior chronologies is operative; the subject becomes more economical, not more agitated.
+
+## 4. The Hand Arc and Its Aftermath
+
+The most editorially destabilizing recent event was the subject's apparent acceptance of leadership of the Hand (*Punisher* Vol. 13, 2022–2023, Aaron). This must be read carefully. The behavioral substrate beneath the editorial premise is consistent: offered a tool of sufficient operational reach to act on a scale previously denied him, with a personal-mythological hook (a Maria-coded resurrection promise), the subject took the tool. He used the tool. The tool used him back. He paid the cost.
+
+What matters for the dossier is not whether the in-universe Hand arc was a "true" Frank or a corrupted one — the publication apparatus has already partially elided it — but the behavioral inference: the subject can be reached, briefly and disastrously, by a sufficiently precise hallucination of restoration. The Maria-hook is the only known live wire on him. Every prior attempt to leverage it (the cloned-daughter approaches, the various "your family is alive" gambits) has failed because the subject correctly identified them as bait. The Hand approach was calibrated more finely — through ritual, through promise of supernatural mechanism, through the subject's own pre-existing Catholic substrate. It worked long enough to be costly.
+
+Post-arc behavioral baseline: the subject has returned to operational ground. He is more isolated than before, having burned the few remaining bridges that survived the prior decades. Daredevil, the Avengers-adjacent network, and what was left of the Marine community have all closed to him in the wake. He registers this in his journal-equivalent (the small green field notebooks he has used since the Ennis-era *Punisher War Journal*, replaced approximately every six weeks) as an operational simplification, not a loss. The notation, characteristic: "Cleaner."
+
+## 5. The Body, Now
+
+The subject is, by any honest reckoning of in-universe time, in his late fifties to late sixties depending on which continuity-clock one accepts. The MAX-track projection (Aaron) puts him visibly older; the mainline keeps him younger via the standard sliding-scale, but the cumulative wound burden is canonical regardless.
+
+Documented current somatic state, inferred from cumulative record:
+
+- **Hands:** scarring on both, particularly the dorsal surface of the left from a Russian-era burn (*Mother Russia*); knuckles thickened from striking work; a permanent slight tremor in the left hand at rest that disappears under load, consistent with old peripheral nerve damage from a stabbing injury rather than central pathology.
+- **Skull:** the Central Park graze scar is still palpable beneath the hairline above the left temple; the hairline has receded enough that in close light it is visible. He keeps the hair short enough that the scar is reachable to his own hand within a second — a tell, when he is thinking hard, of two fingers brushed across it.
+- **Torso:** an inventory of scarring that would, if presented to a trauma surgeon cold, suggest either an industrial accident survivor or a long-service combat medic's worst case. Surgical scars from self-performed work are distinguishable from clinical scars by their slight irregularity; the subject has approximately a dozen of the former.
+- **Back:** chronic lumbar dysfunction inferable from cumulative blast exposure, falls, and the weight-bearing habit of operating in full plate and load for extended periods. He stretches in the mornings — a Marine PT routine, modified for an aging spine, performed without affect, approximately eighteen minutes, before any other activity except weapons-check.
+- **Hearing:** documented mild bilateral hearing loss in the high frequencies from sustained unsuppressed gunfire over decades, partially compensated by his use of suppressors in most operations from the mid-Ennis period forward (an operational rather than auditory accommodation, but with the side benefit). He reads lips at distance and is observed across multiple texts to position himself in conversations so the speaker's mouth is in clear view.
+- **Vision:** uncorrected as of last canonical data, but the subject's selection of optical equipment has shifted across the recent window toward variable-power scopes with simpler reticles, which would be consistent with mild presbyopia. He has not been depicted wearing reading glasses, which is either truth or vanity-residue; given the absence of vanity elsewhere, likely truth, achieved by holding documents at arm's length.
+- **TBI burden:** undiagnosed but inferable. The behavioral picture has not deteriorated in the directions that would suggest aggressive neurodegeneration (executive function preserved, planning capacity intact, no language deficit observable in his economical speech). What is consistent with cumulative mild TBI plus prior orbitofrontal compromise is exactly what is present: flattened affect with preserved cognition, disinhibition specifically in the moral-restraint domain, and a degree of emotional rigidity that has been stable for decades.
+
+**Substances, current.** Still no alcohol. Still no tobacco. Caffeine baseline: black coffee, approximately one liter daily, brewed in a stovetop percolator at whichever safehouse he is occupying; instant when in the field. Amphetamine use during long operations persists but the subject has, by his own implicit calibration, reduced the threshold for use as he has aged (longer recovery curves). Analgesics: ibuprofen as a workhorse, nothing scheduled, no opioid use even after documented severe injuries — the refusal of palliation pattern is intact and arguably more rigid in late life.
+
+**Sleep, current.** Estimated three to five hours, fragmented, often in two blocks separated by a surveillance or maintenance window. He has not slept eight consecutive hours, by any reasonable inference, since before Central Park. He does not require an alarm and does not use one. He wakes at the same chronological points within a sleep cycle reliably enough that an observer could set a watch by him over a one-week window.
+
+**Nutrition, current.** Eggs, rice, canned protein, the occasional diner meal at one of approximately four establishments across the boroughs where the staff know him, do not call him by any name, and accept cash. He tips precisely twenty percent, rounded to the nearest dollar above. He sits with his back to the wall and the door in his peripheral vision, every time, for fifty years and counting.
+
+## 6. The Routine, Daily
+
+A reconstructed daily template, current era, derived from cross-referenced operational depictions:
+
+- **0400–0445.** Wake. Weapons check before bathroom. Eighteen minutes of stretching and bodyweight work — a reduced version of the Marine PT he has done since enlistment, with the calisthenic load adjusted downward for the spine and the duration held constant. Coffee on, percolator.
+- **0445–0530.** Intelligence intake. Newspapers (he still reads physical print where available, supplemented by Lieberman-curated digital briefs on a hardened laptop). Police-band scanner monitoring through a desktop SDR setup. Notebook entries, two to four lines, in block capitals, ballpoint pen, always blue ink.
+- **0530–0700.** Maintenance window. Weapons cleaning, even on weapons not used the previous day, rotating through the safehouse inventory on a tracked schedule. Ammunition reloads when applicable; he hand-loads a significant portion of his ammunition, a habit dating to the Baron-era depictions and reinforced across runs.
+- **0700–0900.** Mobile surveillance or transit to surveillance position. The subject does his own legwork; he does not subcontract observation. He is observed across the record to favor sitting positions with multiple lines of egress, working-class clothing that disappears into the neighborhood being watched, and a coffee cup as a long-duration prop.
+- **0900–1700.** Variable: surveillance continuation, target development, weapons sourcing, infrastructure work (safehouse rotation, vehicle swap, cache maintenance), or active operations if the window permits.
+- **1700–2100.** Typically the active operational window for engagement; the subject's preference for hitting targets in the early evening through late night is consistent across the entire publication record, structured around when targets are reliably home or reliably moving on predictable patterns.
+- **2100–0100.** Continued operations or recovery. Eats once in this window if he has not earlier.
+- **0100–0400.** First sleep block. The second block, when it occurs, is taken in the afternoon between operations as a compressed rest of forty to ninety minutes, often in the vehicle.
+
+The Sunday morning visit to the graves persists. It has been depicted across writers, decades, and continuities as the single non-operational appointment the subject keeps. He arrives at variable times to defeat surveillance, walks the same approach, stands for between four and eleven minutes (the range is consistent across depictions), leaves no flowers or marker, and departs by a route different from the one he arrived by. He does not speak aloud. He has been observed in the canon to touch the headstones once each with the flat of his right hand before leaving. He has not missed a Sunday that operational necessity did not absolutely preclude, and on the rare occasion he has, he has visited the next available day, treating the lapse as a debt to be repaid.
+
+## 7. The Network, Current
+
+- **David Lieberman.** Quartermaster, infrastructure, digital cover. Relationship is functional, warm by Castle's standards (which is to say, the subject would die for Lieberman and would not be visibly moved if Lieberman died for him), held at deliberate distance to protect Lieberman's family. Communications via burner-to-burner SMS with a rotating cipher, voice contact rare, in-person contact rarer.
+- **A small number of arms-suppliers**, none trusted beyond the transaction, payment in cash or in intelligence, no relationship sustained beyond utility.
+- **A diminishing number of former Marines** who will take his calls, mostly for information rather than operational support, all of whom understand he will not ask twice and will not explain.
+- **No active law-enforcement contact** by his initiation. He is aware of which precincts contain officers who would tip him off, which contain officers who would shoot him on sight, and which contain officers who would do either depending on the night. He routes accordingly.
+- **No active relationship with the costumed community.** Daredevil contact has decayed to mutual hostility-under-truce. Spider-Man contact is avoided by both parties. The Avengers do not call and he would not answer.
+
+## 8. Affective and Psychological Current State
+
+The subject in the present window has arrived at the endpoint his Aaron-era MAX projection foretold: insight without modification. He can articulate, to himself in the notebooks and on the rare occasions a confidant has gotten the question past his defenses, that the war is the point and was always the point; that the family is the alibi the war required; that he will not stop because stopping would deliver him to the grief he made an irrevocable decision in 1976 not to feel. He says these things — has said them, in the texts — and continues operating the next morning.
+
+This is the clinical fact of late-period Castle: the defenses have become so structurally load-bearing that even full insight does not destabilize them. He is not in denial. He is in something more terminal than denial — a state in which the truth is acknowledged and ignored because acknowledging it changes nothing about the operational requirement he has set himself. The Catholic substrate provides the vocabulary: he expects damnation, has priced it in, regards the expectation as accurate, and proceeds. This is not nihilism. Nihilism would license stopping. He believes the work is real. He believes he is damned for it. Both at once. He has held this position, without contradiction visible to him, for fifty years.
+
+Affect in the current window: flatter than ever, with the narrow exception of the Maria-and-children pressure points, which produce the same escalation-without-discharge pattern they have produced since the founding. Voice, in the canonical depictions: low, economical, sentences shorter than they used to be, the Queens vowels still faintly present and audible to anyone from the borough. Eye contact: held when intimidating, dropped to the middle distance when speaking from anywhere near the truth. Hands: still when at rest, the left-hand tremor showing only in fatigue, the two-finger temple-scar touch when concentrating on a problem he has not yet solved.
+
+## 9. Where He Is, Now
+
+Operationally: New York–based, with the Pennsylvania fallback and a rotating set of out-of-state caches, conducting target development on the persistent infrastructure of organized predation in the city and intervening on a tempo of two to five terminal operations per month, plus a continuous background of intelligence work and disruption-without-killing where killing is contraindicated.
+
+Physically: at the upper edge of what his body will sustain at the operational tempo he insists on, compensating for declining margin with increased preparation and tighter operational selection. He no longer takes targets that require sustained physical confrontation against younger and fitter opposition without a deliberate equalizer (suppressed precision fire from concealment, explosive setup, position-of-advantage selected hours in advance). He has aged into the sniper he always partly was.
+
+Relationally: alone in a way that exceeds the prior eras' isolation. Lieberman is the only person who knows where to find him within twelve hours, and Lieberman does not know within one hour. There is no one alive who would be told first if he died.
+
+Psychologically: foreclosed, lucid, unchanging. The next operation is planned. The one after that is in development. The Sunday visit is on the calendar. The notebooks fill at the rate of approximately one every six weeks; the prior notebooks are burned in a barrel at the Pennsylvania property on a schedule he has kept since the late 1970s. There is no exit plan because there has never been an exit plan; the implicit termination condition is the operational failure that produces his own death, which he has, across the entire record, declined to permit to happen accidentally and declined to arrange deliberately.
+
+He is, as of the current data, exactly where the cumulative weight of every prior chronology in this dossier predicted he would be. The trajectory has not curved. There is no inflection point on the horizon visible to him or to us.
+
+He is still working.
+
+*End Chronology IV. Proceed to next section per dossier schedule.*
+
+
+## Medical History
+
+# MEDICAL HISTORY — Frank Castle Jr.
+
+*Compiled from observed wound record, depicted somatic events, inferred sequelae, and behavioral correlates across the full publication canon. Subject has never consented to a formal medical workup in adult life; all data are derived from incident reconstruction, autopsy-adjacent imaging of recovered field caches (improvised suture kits, drug logs, bloodied clothing), and the testimony of the small number of physicians who have treated him under duress (David Lieberman's brother-in-law in modern continuity; the unnamed Hell's Kitchen ER record from his first arrest; the Marine Corps medical jacket through 1971; the VA file he stopped attending in 1976).*
+
+---
+
+## 1. CONSTITUTIONAL BASELINE
+
+Subject presents as a male of Northern Italian descent, height 6'1", weight fluctuating between 215 and 240 lbs depending on operational tempo, somatotype mesomorphic with unusually dense muscle mass for chronological age. Bone density imaging (a single 2009 scan obtained during a county lockup intake) showed values consistent with a man fifteen years younger — almost certainly a function of decades of compound loading (rucking, climbing, fighting) combined with adequate caloric and protein intake. Cardiovascular baseline at last known measure: resting heart rate 48–52, blood pressure 118/72, VO2 max estimated in the high-fifties range — i.e., a conditioning profile of an active-duty special-operations soldier sustained four decades past the age at which that profile typically degrades.
+
+The body, in short, has been maintained as ordnance.
+
+## 2. DEVELOPMENTAL AND PRE-COMBAT MEDICAL RECORD
+
+Pediatric records from Queens (St. Michael's parochial, then public school): one tonsillectomy at age seven (uncomplicated); a left clavicular fracture at age eleven, depicted in later flashback as the result of a stairwell altercation, set without surgery and well-healed; recurrent otitis media as a small child consistent with the era and ventilation of the housing stock; one mention of a febrile illness around age nine, untreated by antibiotic. Vision uncorrected to 20/15 bilaterally on Marine Corps intake — extraordinary, and a fact he has never volunteered but which underwrites every long-rifle skill he later acquires. Dentition pre-service unremarkable; pre-existing slight overbite, no orthodontia. No history of childhood seizure, no head injury of record, no asthma, no allergic atopy.
+
+This is a clinically uninteresting boyhood, which is itself the point: there is no organic substrate in childhood for what comes after. Whatever he became, it was not seeded in the body.
+
+## 3. MILITARY-ERA INJURIES AND EXPOSURES (1966–1971, with retconned variants)
+
+The service medical jacket, even in its sanitized form, is dense. Across three tours the documented events include:
+
+- **Shrapnel wounds, right lateral thigh and right flank**, sustained at or near the Cambodian border, retained metallic fragments still visible on a 2003 lockup X-ray; never surgically removed because they did not impinge on function.
+- **Penetrating wound, left forearm**, bayonet or punji-related (the chart is ambiguous), with subsequent ulnar nerve irritation that resolved without intervention; the scar runs the length of the volar forearm and is one of his most readily identifiable marks.
+- **Blast exposure, multiple events**, including at least one near-miss from a 122mm rocket at the firebase Ennis-canon names Valley Forge. No formal mTBI workup existed in 1968. Post-event symptomatology (irritability, anomic word-finding pauses, photophobia) is noted in a single corpsman's entry and not followed up.
+- **Tympanic membrane perforation, right**, healed with mild residual high-frequency loss — a fact he conceals operationally by always positioning interlocutors to his left.
+- **Malaria, chloroquine-resistant strain**, one episode, treated in-country; no evidence of recurrence but a likely contributor to the periodic febrile-appearing nights described in later civilian observation reports.
+- **Dermatologic:** chronic intertrigo, tinea pedis, multiple lacerations of the hands and forearms healed without record. Two small healed burns to the right forearm, etiology unrecorded.
+- **Dental:** lost a right lower molar to a rifle-butt strike in his second tour, replaced field-side with nothing; the gap remains.
+- **Presumed Agent Orange exposure** across multiple AOs. No documented sequelae to date, though the dermatologic background is consistent and a long-tail oncologic risk persists.
+
+The cumulative blast and concussive burden is the most clinically consequential item in this section. Even granting only the events of record, the subject sustained a load consistent with what the contemporary literature would now classify as chronic mild traumatic brain injury and probable interface astroglial scarring. Subclinical disinhibition, blunted affect, and a slow narrowing of the emotional palette would all be predicted sequelae. They are also, of course, all observed. The medical data do not establish that the war made him; they establish that the war made parts of him in ways the autopsy will eventually corroborate.
+
+## 4. THE CENTRAL PARK INJURIES — THE INDEX EVENT
+
+The defining medical event of the subject's life is the gunshot trauma sustained at the Central Park picnic that killed his wife and two children. The wound pattern, reconstructed from the ER admission and from the dozens of subsequent depictions, includes:
+
+- **A grazing wound to the right parietal-temporal region**, sufficient to produce concussion and brief loss of consciousness, with retained scar and a persistent shallow groove palpable beneath the hairline. The depth and orientation are clinically consistent with a round that struck at an oblique angle; a degree closer to perpendicular and the subject would not exist.
+- **Multiple penetrating torso wounds**, the precise count varying with telling but consistently including at least one through-and-through to the upper chest, one to the abdomen (with intestinal involvement requiring resection at the receiving hospital), and one to the left shoulder. Surgical scars are extensive and consistent across artists' renderings: a longitudinal midline laparotomy scar, a deltopectoral entry, two posterior exit scars near the scapula.
+- **Hypovolemic shock** at field, resuscitated en route; estimated blood loss exceeding 40% of volume.
+- **Hospital course:** approximately three weeks inpatient, two surgical interventions, an uneventful discharge to a man who then did not return for follow-up. The discharging surgeon's note, recovered in later litigation, contains the phrase *"patient declines further care; affect appropriate to grief."* The affect was not appropriate to grief. It was already what it would remain.
+
+The neurological consequences of the head wound are the most often-debated component of the medical file. A grazing parietal-temporal injury of that severity, accompanied by loss of consciousness and presumptive coup-contrecoup forces, can produce subtle orbitofrontal and ventromedial prefrontal dysfunction — exactly the substrate associated with the constellation of preserved executive function, intact technical intelligence, and impaired affective modulation that defines the subject's subsequent behavior. Whether the wound created this picture or revealed it is unanswerable in the absence of premorbid imaging. The honest read is that the man who walked out of Bellevue had a different brain from the one that walked in, and the difference was congruent with — though not the sole cause of — what he then did.
+
+## 5. THE WAR YEARS (1974–PRESENT) — CUMULATIVE WOUND BURDEN
+
+What follows is a non-exhaustive inventory of the somatic record across nearly five decades of vigilante operation. The exhaustive version, were it possible to assemble, would run to thousands of entries; what is given here is representative.
+
+**Gunshot wounds, sustained:** documented in the dozens. Notable: through-and-through left thigh (Costa-era arc, self-treated in a motel sink with a heated knife and a bottle of saline); abdominal GSW during the Kingpin assault arc, treated by Microchip with field surgical kit, recovery in seven days against an estimated three-week clinical course; multiple grazing wounds across the trunk and limbs, scarring extensive enough that a Hell's Kitchen ER nurse on a later admission reportedly stopped counting at thirty-one discrete entry/exit marks before the chart was sealed by federal authority.
+
+**Stab and slash wounds:** depicted across the Ennis Marvel Knights and MAX runs in profusion. Significant: the throat-adjacent laceration in *Up Is Down and Black Is White* (closed with a household staple gun and irrigated with vodka — note the only documented intentional use of alcohol on the body, and it was topical); the abdominal slash during *Mother Russia* sustained while extracting a child from a former-Soviet bioweapon site, treated en route with a pressure dressing improvised from his own undershirt.
+
+**Burns:** the most clinically severe burn event is the partial-thickness injury sustained while torching a trafficking operation in *The Slavers*; the burns to his hands and right forearm from that event are visible in subsequent depictions and have produced contracture-level scarring across the dorsum of the right hand that he manages with deliberate stretching, observed in surveillance footage as a near-ritual morning practice.
+
+**Fractures:** the inventory across canon includes — but is not limited to — bilateral nasal fractures (at least four discrete events, the nose never properly reduced and now markedly deviated to the right), right zygomatic arch fracture, left orbital floor blowout (with no surgical repair, producing the faint asymmetric squint observable in close-quarters interviews), multiple rib fractures (so frequent as to be unrecorded individually; on imaging the rib cage shows healed callus at no fewer than nine sites), bilateral metacarpal fractures from fistfighting, right radial-ulnar fracture from a fall in *Welcome Back, Frank* (set against a doorframe), and at least one closed femoral fracture in the MAX run reduced by traction against a fixed object and a belt.
+
+**Torture sequelae:** the *Mother Russia* and *The Slavers* arcs document deliberate, sustained inflicted injury — electrical, blunt, and incised. The subject's tolerance of these episodes is itself diagnostically remarkable. Post-event recovery shows no symptomatology consistent with acute stress reaction; he reports no nightmares, no avoidance, no startle increment above his already-elevated baseline. The capacity is cultivated, not native; he has trained himself for it the way another man trains for a marathon.
+
+**Self-surgery and self-treatment:** the operational kit recovered from three separate safehouses includes — consistently across decades — surgical clamps, curved and straight suture (silk and synthetic), 10cc syringes and needles for irrigation, lidocaine without epinephrine, ceftriaxone and ciprofloxacin in vial form (sourced through veterinary supply lines), QuikClot, sterile saline, betadine, and a dental mirror used to inspect posterior wounds. He has sutured his own face on at least two occasions of record. He has reduced his own dislocated shoulder, repeatedly, against a doorframe — a maneuver depicted with a specificity that suggests the artist had been told how it is actually done.
+
+## 6. ATYPICAL SOMATIC EVENTS
+
+Three episodes constitute aberrant entries that must be acknowledged for completeness but discounted as core data:
+
+- **The reconstructive event in which the subject's body was destroyed and reassembled** (the Frankenstein-monster variant arc, Remender). Tonally aberrant; the operative datum is that even in radically altered embodiment the subject's behavioral baseline did not shift. The body is interchangeable; the operating program is not.
+- **The armor-suit arc** in which the subject piloted heavy powered armor for a brief operational period. Sequelae minor; subject returned to baseline embodiment without apparent affect.
+- **The "Cosmic Ghost Rider" continuity-tangent variant**, discounted as non-canonical for clinical purposes.
+
+The diagnostically important fact is that none of these transformations produced behavioral modification. A man for whom the body is a tool experiences a change of tool as a logistical inconvenience.
+
+## 7. AGING
+
+The MAX continuity follows the subject into his late sixties; current main-line depictions hold him in an indeterminate middle-to-late fifties. Across the visible aging arc the medical picture is one of slow, dignified somatic decline against preserved functional capacity. The hair has greyed and thinned at the temples; the skin shows actinic damage consistent with decades of outdoor surveillance; the eyes have developed early arcus senilis. Joint imaging would be expected to show advanced osteoarthritic change at the knees, ankles, and lumbar spine. The subject does not report stiffness; observers note a slightly longer time to rise from prolonged seated surveillance, and a barely-perceptible favoring of the left knee under load.
+
+The clinically significant fact about his aging is what is *not* present: there is no withdrawal, no operational retirement, no narrowing of mission scope in concession to declining capacity. He has compensated by tactical adaptation — more ambush, less pursuit; more rifle, less hand — but he has not stopped. The aging body is being driven into the same wall as the young one, on the same schedule.
+
+## 8. SUBSTANCES
+
+The substance profile is, for a man of his exposure history, anomalous to the point of clinical signal.
+
+- **Alcohol: none.** Confirmed across decades of observation. No bar visits except operationally; no beer at the rare meal taken with another person; no use even after the worst of the *Mother Russia* and *Long Cold Dark* events. This is not a recovering-alcoholic abstinence; there is no AA-format pattern. It is a deliberate disqualification of a substance that might soften vigilance or numb the affect he has chosen to inhabit.
+- **Tobacco: none.** A small number of early-era depictions showed cigar use; these are non-canonical to the consolidated profile. He does not smoke.
+- **Recreational drugs: none.** No cannabis, no opioids beyond strict surgical necessity, no stimulants of the street class.
+- **Caffeine: heavy, instrumental.** Black coffee, multiple cups daily, used as a tool. Switched off entirely during deep concealment when the urine metabolite would be a contamination concern.
+- **Amphetamines: operational use.** Dextroamphetamine, sourced through the same gray channels as his antibiotics, used during sustained surveillance and extended-tempo operations to maintain wakefulness across 48–72 hour windows. Dosing is conservative and disciplined; there is no evidence of recreational drift or dependence pattern. Post-operation he sleeps the deficit.
+- **Analgesics:** ibuprofen as a daily background; acetaminophen for fevers; opioids only in the immediate post-injury 24–72 hour window when continued movement would otherwise compromise wound healing. He discontinues opioid use the moment the wound permits; the period of discontinuation is observably uncomfortable and observably tolerated without complaint.
+- **Anabolic steroids: none.** The conditioning is real, sustained by work.
+- **Performance-enhancing pharmacology beyond above: none of record.**
+
+The pattern is consistent and ideologically coherent. He admits to the body only those compounds that extend its capacity to operate; he refuses every compound that would dull what he experiences while operating. The refusal to numb is, in the end, the most important single fact in this section. He has elected to be present for what he does. This is the somatic correlate of the psychiatric finding that his condition is ego-syntonic: he is not seeking relief from the man he has become, and he will not chemically permit himself to be relieved.
+
+## 9. SLEEP, NUTRITION, SEXUAL HEALTH
+
+**Sleep:** fragmented, polyphasic, supplanted by surveillance windows. Total sleep time estimated at four to five hours per twenty-four, consolidated rarely, taken in defensible postures (back to wall, weapon in reach). Sleep architecture, if measured, would almost certainly show suppressed REM and increased arousals. He does not report nightmares; the absence is itself notable and most parsimoniously read as suppression of dream content rather than its absence.
+
+**Nutrition:** caloric intake adequate to operational demand; food is fuel. Preferences are utilitarian and protein-forward; he cooks when concealment requires it and eats indifferently when it does not. He does not enjoy meals; he completes them.
+
+**Sexual function:** physically intact, behaviorally constrained. The post-loss record includes a small number of contained encounters, none extending past the immediate event. There is no evidence of erectile or libidinal dysfunction; there is evidence of deliberate behavioral foreclosure. He does not pursue intimacy and accepts it only in operationally contained windows. The clinical picture is not one of dysfunction but of refusal.
+
+## 10. PSYCHOLOGICAL IMPACT OF THE SOMATIC PROFILE
+
+The body is the most consistent and least complaining element in the subject's life. He has converted it, by sustained discipline, into an instrument that does not interrupt the work. Pain is information about damage and a parameter for tactical decision; it is not, for him, suffering in the phenomenological sense — or rather, the suffering it contains has been allocated to the same closed compartment that holds the rest of what he refuses to feel. The refusal of palliation, the refusal of intoxication, the refusal of rest beyond minimum, the refusal of the medical encounter itself — these are not stoic ornaments. They are the somatic enactment of the same decision he made psychologically on the day he walked out of Bellevue: that nothing will be permitted to come between him and the condition he has chosen to inhabit.
+
+The body keeps the score, in this case, with extraordinary fidelity. Every scar is recorded; every fracture has its callus; every retained shrapnel fragment is still on the imaging. What it does not yet show, and what the eventual autopsy will, is the cumulative neurological cost of fifty years of blast, concussion, and adrenergic load on a brain that took a grazing round through the parietal bone in 1974 and was never the same again. The medical history is, finally, a long single sentence: *he has spent the body deliberately, and on schedule, for what he decided it was for.*
+
+*End of section.*
+
+
+## Somatic Atlas
+
+# SOMATIC ATLAS — FRANK CASTLE JR.
+
+*File segment 04-S. Body-data compilation. Cross-indexed against three decades of close-observation surveillance, captured-footage analysis (NYPD CCTV, SHIELD recovered ops cams, hospital trauma intake video, Cole-Alves Phase II accumulation, Lieberman residence interior security), and contact reporting from those who survived sustained proximity. Read this section as the file a watcher would keep if the watcher's job were to know the subject's body better than the subject himself does.*
+
+---
+
+## 1. The Standing Body — Baseline Architecture
+
+The subject stands six feet one inch, weight oscillating in a narrow band between 215 and 230 pounds across the last twenty years of file. Build is what military medicine calls *mesomorphic-laborer*: heavy trapezius, broad scapular shelf, thick deltoid yoke, forearms disproportionately dense relative to upper-arm circumference — the result of forty years of grip-loaded work (rifle, pistol, knife, throttle, pry-bar, ruck-strap). The waist remains narrow into his sixties because he does not drink and does not sit.
+
+At rest he carries his weight slightly forward over the balls of the feet, knees fractionally unlocked, hips squared but not rigid — a shooter's neutral, *ready stance* held so long it has become posture. The shoulders are pulled down and back not by performance but by the long pull of the lat development; the chest is open, the sternum slightly proud, breathing carried into the lower belly rather than the upper chest. Resting respiration is observed at twelve to fourteen breaths per minute, dropping to eight or nine in a sustained hide. Resting heart rate, on the rare occasions a medic has taken it, is recorded between 48 and 54. He has the cardiovascular baseline of a man twenty-five years younger.
+
+The head sits forward of the shoulder line by perhaps a half-inch — the lifelong rifleman's habit of orienting the dominant eye to a sight picture even when no rifle is mounted. The chin is held level or fractionally tucked. He does not crane. He does not look up at tall men; he looks at their throat.
+
+Hands at rest hang slightly cupped, fingers loose but not splayed, thumb riding the seam of the trouser or the lip of the belt. The right hand is the dominant; the left is trained to equivalence (canon: ambidextrous shooter since Force Recon). When standing for any duration he will, within ninety seconds, place his weight on one leg and free the other to pivot — a sentry's micro-rotation, almost imperceptible, that keeps the hip mobile and the firing platform unlocked.
+
+He occupies less space than his frame implies. He does not spread, does not lean on furniture, does not drape an arm across the back of an adjacent chair. The body is held inboard. In a room he reads as *compact* before he reads as *large*, and this is one of the reasons witnesses consistently undersize him in the first description and oversize him in the second.
+
+---
+
+## 2. Gait and Locomotion
+
+The walk is heel-strike-light, mid-foot roll, push-off from the lateral metatarsals — a tactical walk that distributes load across the foot and minimizes audible signature on hard surfaces. Stride length is shorter than his leg length would predict; he eats ground efficiently rather than ostentatiously. Cadence at unhurried movement is approximately 105 steps per minute, metronomic to a degree that a foot-surveillance team has used it as a re-acquisition marker after losing visual.
+
+Arm swing is restricted. The dominant arm swings perhaps two-thirds the amplitude of an average male gait; the non-dominant arm swings noticeably less. This is the trained suppression of the firing-side arm so that the hand stays available to the waistband, the small of the back, the appendix carry, or the jacket vent. When he is armed — which is essentially always — the right elbow rides a fraction tighter to the ribs than the left.
+
+He turns from the hips, not the neck. When something requires his attention behind him he pivots the whole torso, eyes leading; he does not crank his head over his shoulder, because that motion telegraphs and unbalances the firing platform. On stairs he descends with the lead hand free and the trail hand tracking the rail without gripping it — contact only, not commitment. On uneven ground (rooftops, scree, rubble) the cadence slows and the knees flex deeper; the head remains level, the horizon line in the gaze does not bounce. Helmet-cam footage from the *Mother Russia* op shows this almost uncannily — the world tilts, his eyes do not.
+
+In a crowd he moves in long diagonals rather than straight lines, threading and re-threading, and his hands rise to roughly belt height — the *plowing* posture trained into infantry for moving through dense terrain without snagging gear. He does not say "excuse me." He routes.
+
+Under threat the gait drops into a measured, low-center-of-gravity glide: knees deeper, steps shorter, weight forward, hands risen and offset (strong hand higher, weak hand lower, the *fighting stance* converted into a walk). Pursued or pursuing, he does not run unless the geometry demands it; he closes by angle, not by sprint. When he does run, the stride is mechanical and sustainable — the long-distance Marine pace, not the burst.
+
+---
+
+## 3. The Face — Resting and in Motion
+
+The resting face is the operational signature. The brow is heavy and held neutral; the corrugator muscles are chronically active to a low degree, producing a faint vertical line between the eyebrows that has become permanent. The eyes are wide-set and the lids ride low — not a squint, but a habitual partial occlusion that reduces glare and disguises gaze direction. The mouth is closed, lips dry, the masseter visibly engaged. He clenches at rest. Dental wear, were it ever imaged, would show flattened molar cusps consistent with decades of bruxism, awake and asleep.
+
+He blinks markedly less than baseline. Surveillance count: eight to eleven blinks per minute against a normative fifteen to twenty. The blinks are also faster — the lid drops and rises in a single tight cycle without the micro-pause typical of relaxed observers. When tracking a target the blink rate falls further, sometimes to three or four per minute for sustained intervals, and the blinks become synchronized to environmental masking events (a passing vehicle, a flicker of light, the target's own blink). This is trained; it is also automatic.
+
+The gaze itself is the most studied feature of the face. He performs continuous low-amplitude visual sweep — eyes traversing the threat sectors of any room in a triangular pattern (door, window, opposing seated party) at intervals of roughly four to six seconds. He does not stare. He registers. The pupils are observed to be slightly dilated above what room lighting would predict, a sympathetic-tone marker that does not relax even in ostensibly safe spaces (the Lieberman kitchen footage shows the same pupil signature as the warehouse-stack footage).
+
+Expressive musculature is suppressed across the upper face. The frontalis (forehead lift) is rarely recruited; surprise reads as a fractional pupil-widening and a single hard blink rather than a brow rise. The zygomaticus (smile) fires in three documented circumstances: in proximity to small children, when reading something written by his wife or daughter, and in tactical satisfaction — the latter a brief, asymmetric tightening at the right corner of the mouth, gone in under a second. He does not laugh aloud on record more than a handful of times across fifty years of file. When he does, it is short, low, and from the chest; it is not contagious and it does not invite.
+
+The lower face does more work. The jaw clenches and unclenches in slow rhythms when he is listening. The lips part for breath only, never for posture. The tongue stays behind the teeth. When he speaks, the lower lip moves more than the upper; the upper face stays still. This produces the *plate-of-glass* affect repeatedly described by interlocutors — the sense that the man is communicating from behind something.
+
+Under intimacy (the narrow window in which it occurs — a child in his arms, a wounded person he is steadying, the grave) the corrugator releases, the lids rise a half-millimeter, the masseter unclenches, and a person who has known him a long time can see that he is, for that moment, present in his face. The window closes within seconds.
+
+Under threat the face does not animate; it *settles*. The minor activity drops out. The blink rate falls. The pupils dilate further. The jaw stops moving. The lips press. This is the tell that those who have survived him have learned to read: he gets quieter in the face before he moves.
+
+---
+
+## 4. Hands, Grip, and the Tactile Repertoire
+
+The hands are a separate document. Scarring: linear knife scars across the left palm and the medial right forearm (defensive cuts, multiple eras); burn scarring on the back of the right hand consistent with hot-brass ejection and one wider scar on the inside of the left wrist (cigarette burn, torture sequence, *Welcome Back, Frank* era); three fingers with old metacarpal callus suggesting prior fractures self-set; permanent calluses on the trigger pad of both index fingers, the web of both thumbs (slide-bite history), the inside of both index middle phalanges (long-gun grip), and the heel of both palms.
+
+The nails are kept short and clean. He cuts them himself, dry, with a folding blade; the result is uneven on close inspection but always below the fingertip. He does not bite them. He does not pick at them.
+
+At rest the hands perform a small vocabulary of micro-movements:
+
+- The right thumb rides the belt seam and occasionally taps once, twice — a slow two-count, often synchronized to a thought-shift. Observers have read this as a tell for *I have decided*.
+- The left thumb passes across the pad of the left index finger in a single slow stroke when he is thinking through a problem. The motion is so small it requires close footage to capture.
+- When seated, both hands flatten on the thighs, fingers spread, palms down. He does not interlace. He does not steeple. He does not gesture with open palms.
+- He will, unconsciously, perform a *press-check* equivalent on objects he is not holding: a pat to the appendix, a brush to the small of the back, a touch to the ankle, a touch to the watch pocket. Each is a confirmation that a weapon, magazine, knife, or other item is where he last placed it. The sequence is performed roughly every twelve to fifteen minutes in any environment and accelerates to every two to three minutes under elevated threat. He is unaware he does it.
+
+In contact with another person his touch is precise and brief. He steers a wounded person by the upper arm with three fingers, never the whole hand. He lifts a child under both armpits with the thumbs forward — the lift of a man who has done it before for his own. He shakes hands once, firm, dry, eye contact held for the duration of the grip and released a beat before the hand. He does not clap shoulders. He does not embrace except under the duress of someone else's grief, and then he stands still and absorbs rather than returns the contact.
+
+Under threat the hands open and rise. The strong hand floats to roughly the lower sternum; the weak hand drops to the iliac crest. The fingers extend, then relax to a loose curl. This is the pre-draw position, and it is the single most reliable predictor in the entire file that violence is within two seconds.
+
+---
+
+## 5. Grooming, Scent, and Maintenance
+
+He cuts his own hair, short on the sides, slightly longer on top, with clippers when he has them and with scissors and a mirror when he does not. The cut is not stylish but it is even; he is meticulous about symmetry. He shaves daily, dry razor when necessary, with a folding straight or a disposable depending on the safehouse. He does not maintain stubble as a look; stubble appears only when an operation has prevented shaving, and it is removed at the first opportunity.
+
+Hair color across continuity is dark brown to black, graying at the temples in mid-period and progressively through the crown in MAX-aged depictions. He does not dye. The widow's peak is pronounced. He does not part the hair; it is too short to require it.
+
+His teeth are clean. He brushes twice daily, with discipline, using whatever is available; the floss is carried in a side pocket of every loadout and used after every meal where time permits. This is not vanity. Dental hygiene is operational: an abscess is a casualty he cannot afford. Two molars are crowned (combat, retconned across writers); one upper incisor is fractionally chipped from a contact event and never repaired.
+
+He smells of three things in layered consistency: gun-cleaning solvent (the citrus-petroleum profile of CLP or Hoppe's, depending on the era), unscented soap, and the cotton of laundered fatigues. He does not wear cologne, deodorant only when operational concealment in close quarters requires it, and then unscented. He launders his own clothing where possible. He washes his hands compulsively after handling firearms in non-operational environments — a residual courtesy to civilian spaces that has the side benefit of removing GSR before the next location.
+
+Clothing is a uniform whether or not it is one. Dark trousers, dark long-sleeve, dark jacket cut full enough to break the line of a concealed weapon at the four o'clock and the appendix. Boots are laced past the ankle, double-knotted, and the laces are tucked. Shirts are tucked at the operational belt and bloused or untucked at the cover belt depending on the carry posture. The white-skull garment, when worn, sits over a base layer; he does not wear it as the outermost shell except in MAX continuity's most foreclosed period. He owns very little. Everything he owns is functional, replaced rather than repaired, and stored in cached locations across the city.
+
+---
+
+## 6. Eating
+
+Eating is fueling. He eats at fixed intervals when operations permit — every four to five hours, roughly 800 to 1,200 kcal per sitting, balanced toward protein and complex carbohydrate. He prepares his own food where possible: eggs, rice, canned fish, beans, bread, coffee. He does not season heavily. He does not linger at a meal. He eats sitting upright, back to a wall, with sightline to entry, fork in the non-dominant hand even when alone — the dominant hand stays free.
+
+He chews thoroughly. He does not speak while chewing. He drinks water at room temperature, in measured pulls; he will not be seen tipping a glass to the ceiling. Coffee is black, drunk hot until it is not, then drunk anyway. He does not finish what he does not need; he does not over-eat. The body composition is the proof of the discipline.
+
+He will accept food offered by a civilian host out of courtesy, eat half, and pocket the rest. He will not refuse a child's offered food. He will not eat in the presence of a corpse.
+
+Under operational stress he undereats — protein bars, water, caffeine, occasionally amphetamines for sustained vigilance, then a single large recovery meal at termination of the op. Under prolonged hide he can subsist on under 1,000 kcal per day for periods exceeding a week without measurable loss of fine motor capacity. This is trained.
+
+---
+
+## 7. Sleep Architecture
+
+Sleep is the most degraded of his somatic systems and the one over which he exercises the most deliberate control. Baseline is four to five hours per twenty-four, fragmented into two or three blocks. He does not sleep in a bed in the conventional sense; he sleeps on the floor, on a roll mat, against a wall, or upright in a chair facing the door. When he uses a bed he sleeps on top of the covers, clothed, with a weapon in reach of the dominant hand and footwear within one arm's length.
+
+Sleep onset is rapid — two to four minutes from supine to first stage — a soldier's gift. He does not lie awake. The transition into sleep is preceded by a single deep exhalation and a full-body micro-release that closes the day. Sleep is light. He wakes to ambient changes: a footstep two rooms away, a vehicle idling at the curb, the click of a thermostat. Wake-to-orientation is under one second; the eyes open, the hand goes to the weapon, the body assesses, and either resumes sleep or rises.
+
+REM is fragmented and intrusion-laden. Witnesses in shared safehouse arrangements (Lieberman footage, Cole-Alves's recorded account) report he does not thrash, does not vocalize coherently, does not call out names — the dreams do not break the surface as drama. What is observed instead is small: a sustained jaw clench, increased respiration, a single tear track that he does not wake to register, and on occasion a low sub-vocalization that has never been intelligibly transcribed. He does not remember the dreams or does not say he does.
+
+Naps are tactical and brief — twenty to forty minutes, set by internal timer (he wakes on the minute he intended, repeatedly), used to extend operational endurance. He can perform a *combat nap* in any posture and in any environment with non-immediate threat. Conversely, in environments of full safety (the Lieberman home, an empty church) he sleeps less, not more — comfort reduces vigilance, vigilance is the condition under which he rests.
+
+---
+
+## 8. Voice and Vocalization
+
+The voice is low, dry, and quiet. He speaks at the lower end of his vocal range and below the conversational volume of the room, which forces interlocutors to lean in — a dominance signal he does not appear to deploy deliberately but has not corrected for fifty years. Cadence is short-clause, declarative, with measured pauses between sentences. He does not interrupt. He does not fill silence. The pause between a question and his answer is consistently longer than social norm, often a full two seconds, in which the interlocutor can be observed beginning to repeat or rephrase before he replies — and he answers the original question, not the repetition.
+
+He does not raise his voice. Under conditions that would produce volume in another man — provocation, contempt, the moment before violence — the voice drops further, often to a near-whisper at conversational distance and to a low chest-register growl in close engagement. The growl is a tell that the conversation is no longer a conversation.
+
+He swears with economy, contextually appropriate to the audience, with markedly less profanity in the presence of women, children, or clergy. Catholic verbal residue persists across all writers: *Christ*, *Jesus*, *Mary*, used as utterance more than as oath, and an occasional unconscious *Hail Mary* fragment in extremity (recorded in two separate near-death sequences).
+
+He does not laugh in greeting. He does not perform small talk. He answers the literal question. The voice softens to a measurable degree only with children, with the wounded, and at the graves — where, on the rare audio captures, the register drops into something nearly tender and the cadence opens.
+
+---
+
+## 9. Sexual and Intimate Body
+
+Post-loss sexual activity is rare, compartmentalized, and somatically restrained. The body is available, the affect is not. Documented encounters (Ennis's *Long Cold Dark*, *Up Is Down and Black Is White*) show a man who can perform but does not court, does not stay, does not return, and does not display the post-coital settling — the shoulder-drop, the relaxation of vigilance — that even brief intimate contact normally produces. He does not sleep beside the partner. He dresses promptly. He leaves.
+
+The body does not initiate. He is, when approached, capable of presence sufficient to honor what is offered without insult, but the initiating gesture has not been observed in the post-loss record. Tenderness, where it appears, is directed at the partner's grief or wound rather than at the partner's body; he is more likely to hold a hand across a kitchen table than across a pillow.
+
+The wedding ring has been variously depicted as removed, retained, kept in a pocket, or worn on a chain at the neck. The most consistent late-era reading is that it sits in a small kit with the photographs and is touched, not worn — the touching being part of the pre-operation ritual described elsewhere in this file.
+
+---
+
+## 10. Pain Behavior
+
+He does not display pain. The pain is there — fractures, lacerations, burns, contusions, the accumulated tax of fifty years of contact — and the body responds to it (guarded gait, favored side, shortened breath on certain rotations) but the face does not narrate it. He does not wince. He does not cry out under impact, only under sustained torque (the Russian sequence) and even then in short, bitten exhalations rather than vocalization.
+
+Self-treatment is performed without ceremony. He sutures with a curved needle, no anesthetic, sitting upright, looking at the wound directly when reachable and at a mirror when not. The hands are steady. The stitches are uneven on his own work because the angle defeats fine motor on certain regions, but they hold. He drains hematomas with an 18-gauge needle and a cup. He resets dislocations against a doorframe or with his own opposing hand. He has set broken fingers by taping them to the adjacent finger and continuing.
+
+He does not take analgesics beyond the operational minimum. NSAIDs for inflammation, occasional lidocaine for procedural work, antibiotics prophylactically after dirty wounds. He refuses opioids categorically; the file shows him discarding prescribed Percocet on multiple occasions and substituting ibuprofen at supratherapeutic dose. The refusal is not pain-tolerance theater — it is the refusal to be numb, which is the same refusal that governs the alcohol abstinence, the sleep architecture, and the foreclosure of grief.
+
+---
+
+## 11. State-Dependent Modulation — The Master Index
+
+The body operates in four distinguishable states, and the experienced watcher can identify the state from across a room.
+
+**Calm (operational baseline).** Weight forward, shoulders down, jaw lightly clenched, blink rate eight to eleven per minute, low-amplitude visual sweep on a four-to-six-second cycle, hand-to-cache check every twelve to fifteen minutes, respiration twelve to fourteen, voice low and measured, micro-movements present (thumb-tap, finger-stroke, belt-touch). This is the state in which he conducts most observable life. It is not relaxation. It is the trained substitute for it.
+
+**Elevated (something is wrong but not yet here).** Blink rate drops to five to seven. Visual sweep cycle shortens to two to three seconds and the triangulation pattern tightens. Hand-cache check accelerates to every two to three minutes. The standing weight redistributes evenly across both feet — the firing platform stabilizes. The non-dominant hand drifts upward to roughly the navel and stays there. Speech reduces to the minimum required. The masseter engages and stays engaged. Respiration slows further, into the eight-to-ten range — counterintuitive, parasympathetic-trained: he down-regulates as threat rises.
+
+**Threat (engagement imminent or active).** The micro-movements stop. The face settles. The blink rate drops further, sometimes to two to four per minute. The strong hand rises to lower sternum, the weak hand drops to iliac crest, fingers extend then loosely curl. Stance widens by perhaps four inches, knees deepen, hips square to the threat axis. The voice, if used, drops to the chest-register growl. Pupils dilate. The body becomes very still, and the stillness is the warning. From this state the transition to violence is sub-second and the violence itself is economical — minimum motion, maximum effect, no follow-through past necessity. After termination, the body holds the engaged posture for three to five seconds of confirmation, then audibly exhales once, scans, and begins post-action protocol (weapon check, magazine count, exfil orientation, casualty assessment in that order).
+
+**Intimacy (the rare window).** Observed in proximity to children, to the wounded he is treating, at the graves, and in the handful of moments with sustained peers (Microchip in early period, Fury in the long midnight conversations, the Lieberman children). The cor
+
+
+## Attachment & Relational Patterns
+
+# ATTACHMENT & RELATIONAL PATTERNS
+
+*Section 6 of the UATU dossier. Cross-reference: §3 (Psychological — Defenses), §4 (Psychiatric — C-PTSD interpersonal disturbance), §7 (forthcoming — Operational Tradecraft).*
+
+---
+
+## 6.1 The Pre-Wound Template: What Was There to Lose
+
+Any honest attachment workup of the subject has to begin with a fact that the post-1974 mythology tends to occlude: Francis Castiglione was, before the catastrophe, a man capable of love. The marriage to Maria is depicted with unusual specificity across canon — not as the abstract "wife" of the avenger genre, but as a real bond with friction in it. *Punisher: Year One* (Dixon/Lee, 1994) shows them arguing about his re-enlistment; *Born* (Ennis, 2003) shows Maria writing him letters whose tenderness he cannot fully meet; *The Tyger* shows the adolescent Francis already incapable of explaining himself to anyone who loves him. The pre-wound template is therefore not "secure attachment shattered by trauma." It is more textured: a man with the *capacity* for secure attachment overlaid on an *avoidant* operating style — someone who could love and be loved but who organized his life around departures (seminary, Marine Corps, deployment).
+
+This matters because the post-wound foreclosure is not a regression to a developmental deficit; it is the over-correction of a man who had been making himself somewhat unavailable for years and who, after Central Park, made that unavailability total and principled. The pre-trauma avoidance gave him the architecture; the trauma poured concrete into it.
+
+The children — Lisa, then Frank Jr. — appear to have been the one zone where Castle's avoidance did not hold. The recurring detail across writers (Baron's flashbacks, Ennis's *The End*, Aaron's MAX, Rucka's quiet vol. 9 moments) is that Castle remembers his daughter's hands, his son's weight on his shoulder, the textures and not the abstractions. The somatic specificity of those memories — preserved fifty years later, surfacing involuntarily — is the single most reliable evidence that the affective machinery is intact and merely sequestered.
+
+## 6.2 The Foreclosure Event and Its Mechanism
+
+The attachment system did not die at Central Park. It was *condemned*. This distinction matters for prediction.
+
+In a man whose attachment system had been destroyed, you would expect either dissociative incapacity to recognize bonds or a chaotic, disorganized re-bonding pattern (the trauma survivor who attaches frantically and badly). Castle exhibits neither. He recognizes bonds with high accuracy — he sees who is loyal, who is offering care, who is becoming dependent on him — and he responds to that recognition with deliberate *interdiction*. The bond is perceived, evaluated, and then either tolerated within strict parameters or severed.
+
+The mechanism of foreclosure is best described as a personally-enforced threat model. Castle has concluded — never as an explicit philosophical position, but as the load-bearing axiom of his post-1974 life — that any person to whom he becomes attached will be (a) killed by his enemies as leverage, (b) corrupted by proximity to his work, or (c) discovered, in the end, to be one of the guilty he will then have to execute. This threat model is *self-confirming*. He behaves in ways that produce these outcomes (Microchip's son; Microchip himself; Cole-Alves), and each confirmation is metabolized as further evidence that the foreclosure was correct.
+
+## 6.3 The Three Tiers of Permitted Relation
+
+Across fifty years of canon, Castle's relationships sort into three reliably distinct tiers, and the rules governing each are unusually stable across writers.
+
+**Tier 1 — Operational Alliance.** The largest category and the only one he actively constructs. Microchip in the foundational Baron/Potts run; Nick Fury across multiple eras; Rachel Cole-Alves; Henry Russo (the Lieberman boy in modern continuity); various NYPD contacts (Soap, Molly Von Richtofen, Martin Soap again in Ennis); intermittent military liaisons; intelligence handlers in the brief Marvel Knights team-ups. The rules are explicit in his behavior: information flows only as far as mission requires; physical proximity is permitted only during active operations; the alliance terminates without notice when its operational utility ends or when the partner's needs begin to shape Castle's tempo. He does not say goodbye. He simply does not appear again.
+
+**Tier 2 — Protected Civilians.** A larger and more diffuse category — survivors of his targets' crimes, witnesses he has extracted, children he has carried out of bad rooms (the trafficked girls in *The Slavers*, the boy in *Long Cold Dark*, the Lieberman family in early continuity). His behavior in this tier is gentle, almost courtly: low voice, slow movements, careful with hands, explicit about what will happen next. He does not lie to them. He gives them money if he has it, contacts if he can spare them, and leaves. The protection is *categorical* but *impersonal* — he does not need to know them to extend it, and he does not stay when it is extended.
+
+**Tier 3 — Peer Bonds.** Vanishingly rare and always destabilizing for him. Nick Fury is the longest-running, sustained across the Marvel Knights and MAX continuities — a peer because Fury has comparable wound-burden, comparable affective discipline, and a comparable willingness to do necessary work outside sanction. Microchip moved from Tier 1 to Tier 3 over years and Castle ultimately killed him for it. Cole-Alves approached Tier 3 status (mirrored origin, mirrored discipline) and the relationship ended in mutually-acknowledged catastrophe. The pattern: Tier 3 is the danger zone. Castle's defenses are calibrated for Tier 1; Tier 3 produces the inputs his system cannot process.
+
+## 6.4 The Microchip Template — The Repeating Cycle
+
+Linus Lieberman ("Microchip") is the relational case study because his arc traces, in a single relationship, the full pattern Castle then repeats with variations for the rest of his life.
+
+**Phase 1 — Recruitment for utility.** Castle approaches Microchip for what he can do (logistics, technical infrastructure, safe-house management). The bond is constructed deliberately on the basis of mission-need. Castle is courteous, direct, undemanding personally.
+
+**Phase 2 — Functional intimacy without affective acknowledgment.** Over years, the men share space, share risk, share information of the kind that, in any other context, would constitute friendship. Castle does not name it. Microchip does. Castle tolerates the naming silently.
+
+**Phase 3 — Partner's accumulating needs.** Microchip's needs — for Castle to acknowledge the bond, to occasionally rest, to consider exit strategies, to mourn the family in a way that includes him — accumulate without being met. The partner begins to push.
+
+**Phase 4 — The interpretive break.** The partner takes an action that, from his side, is rescue; from Castle's side, is betrayal of the operational contract. (Microchip's attempt to recruit a "better" Punisher, his interventions in Castle's autonomy, his concealment of information.) Castle's threat model activates: the partner has stopped serving the mission and begun *steering* it.
+
+**Phase 5 — Severance.** Termination is total and physical. In Microchip's case, lethal. In less-severe cases (NYPD contacts, civilian collaborators), simple disappearance.
+
+**Phase 6 — Closure denied.** Castle does not narrate the loss to himself, does not visit the consequence, and does not revise the operating principle. The next alliance begins with the same Phase 1 protocols, slightly tightened.
+
+This cycle is observable, with phase-compression and phase-expansion, in nearly every relationship Castle has sustained for more than an operational window. The Cole-Alves arc compresses Phases 1–5 into a single arc (~12 issues), terminating in her conscious adoption of his methods and his recognition that he has produced a worse version of himself — which he treats not as cause for change but as further evidence that the foreclosure must be tighter next time.
+
+## 6.5 Trust — How He Extends It, What Revokes It
+
+Castle's trust calculus is unusually transparent for a man of his discipline; he tells people, more or less, what the rules are.
+
+**Trust extension criteria, derived from behavior:**
+
+1. *Demonstrated competence within stated role.* The partner does what they said they would do. Reliability is the entry condition; charm, history, or shared trauma are not.
+2. *Absence of self-promotion.* People who narrate their own virtue are not trusted. Castle reads it as a tell for unreliability under pressure.
+3. *Demonstrated capacity to absorb information without leakage.* He gives small information first and tracks where it ends up.
+4. *Treatment of third parties.* He observes how the candidate speaks to subordinates, civilians, the wounded. A partner who is cruel to those without leverage is not retained, regardless of operational utility — this is one of the few non-negotiables.
+5. *No request for emotional access.* The candidate must not need him to acknowledge feeling. Those who require this fail Phase 2 immediately.
+
+**Trust-revoking acts, ranked by severity:**
+
+1. *Harm to a child or to the helpless.* Immediate, lethal, non-appealable. This applies even to long-trusted partners; it overrides every other variable.
+2. *Concealment that alters his operational choices.* (The Microchip pattern.) Information he would have used differently, withheld for paternalistic or strategic reasons. Treated as betrayal at the structural level — not personally insulting, structurally disqualifying.
+3. *Attempting to act on his behalf without authorization.* Anyone who decides what Castle would want and acts on it forfeits trust permanently.
+4. *Using him as instrument for ends he did not consent to.* (Various intelligence agencies, Fury included on one or two occasions, have attempted this; the relationships survived only because Fury was able to render account.)
+5. *Public claim of the relationship.* People who tell others they "know" the Punisher are dropped quietly.
+
+**Repair — its near-total absence.** Castle does not perform repair. There is no canonical instance of him apologizing for a relational rupture, revisiting a severed alliance to mend it, or seeking reconciliation with a wronged partner. He has, on rare occasions, *resumed* an alliance after long absence when mission required it (Fury, on multiple occasions; one or two NYPD contacts) — but the resumption is transactional, not restorative. Nothing is discussed. The work continues from where it stopped.
+
+The single partial exception is his behavior toward those who have been wronged *by* him through collateral effect — the families of bystanders killed in his crossfire, the surviving siblings of partners he has executed. He does not approach them, but he is documented (Ennis, *The End*; Rucka, vol. 9 #5) sending money, sending information, leaving the doors of their lives unlocked in ways that suggest a parallel ledger he keeps without acknowledgment. This is the closest thing to mourning he permits himself.
+
+## 6.6 Intimacy — Sexual, Emotional, Confessional
+
+**Sexual intimacy.** Documented rarely and always in compartmentalized form. The Kathryn O'Brien arc (*Up Is Down and Black Is White*, Ennis MAX) is the most extended canonical engagement, and it is instructive: O'Brien is a peer (DEA, comparable wound, comparable lethality), the relationship is sexual and operational, it is conducted without affective elaboration, and it ends — as such relationships in his life always end — with her death and his unbroken tempo afterward. The Vietnamese woman in *Valley Forge Valley Forge* flashbacks; the brief contacts in *Long Cold Dark*; intermittent depictions across MAX. The consistent features: brief duration, mutual disclosure of the limits, no integration into ongoing life, no follow-up. He is not depicted as cold during the act — when shown, he is present, careful, even tender — but the tenderness does not survive into the next morning. Sex is permitted; pairing is not.
+
+**Emotional intimacy.** Permitted with no living person on a sustained basis. He speaks to his dead — at the graves, in internal monologue, occasionally aloud in his journal entries (the Baron-era *War Journal* is the largest extant text of this). The dead are the only audience to whom he discloses interior state, and even there the disclosure is limited to operational summary and intermittent address ("I'm sorry I'm late," "I won't be coming Sunday this week"). The journal is itself a clinical artifact: a man writing private prose to no living reader, for fifty years, with no evolution in the assumed audience.
+
+**Confessional intimacy.** Castle's Catholic formation persists as ritual without sacrament. He does not confess to priests (the one canonical attempt, in Ennis's *Confederacy of Dunces*, ends with the priest dead at the hands of his pursuers and Castle resuming work). He confesses to himself, in the structure of after-action review, and to the dead, in the structure of grave-visit. He has stated across multiple writers that he expects damnation; this is the closest thing to a confessional statement he produces, and it functions as a *pre-emptive* closure of the question rather than as an opening of it.
+
+## 6.7 Dependency — His Refusal and His Hidden Acceptance
+
+Castle refuses to be depended upon for anything other than the mission and refuses to depend on anyone for anything other than instrumental support. This refusal is so consistent that its small, recurring breaches are diagnostically significant.
+
+**Refused dependencies:** No medical care from formal systems. No legal representation. No sustained safe-housing from civilians. No therapy of any kind. No reliance on any single supplier, fence, or contact such that loss would compromise operations. Operational redundancy is total.
+
+**Accepted dependencies, observed across canon:**
+
+- *On Microchip, until severance:* logistics, comms, finance, medical support. He depended on Micro substantially, which is a partial explanation for the severity of the rupture — the betrayal violated a dependency he had permitted himself to develop.
+- *On Nick Fury, intermittently:* information, occasional extraction, limited cover. The dependency is bilateral, which is what makes it tolerable.
+- *On the dead:* for the meaning of his continued action. This is the foundational dependency. Without the family, he has no organizing referent.
+
+The pattern: he tolerates dependency only where it is reciprocal (Fury) or non-reciprocable (the dead). One-way dependencies on the living are not permitted; they read to him as exposure.
+
+## 6.8 The Repeating Relational Template — Final Formulation
+
+Across every relationship Castle has sustained, in every era, under every writer, the underlying template is the same:
+
+> *I will work with you. I will not leave you exposed. I will not lie to you about what this is. I will protect you within the bounds of the mission. I will not let you matter to me beyond what the work requires. If you require me to let you matter, I will be gone. If you betray the work, I will end you. When you die — and you will die — I will keep working. I will not visit your grave. I have only one grave I visit, and you are not buried there.*
+
+Every variation across fifty years of canon is a variation on this template. The Cole-Alves arc tested it under near-mirror conditions and confirmed it. The Fury bond survives only because Fury already operates by an isomorphic code and asks nothing the template forbids. The Microchip rupture was the template asserting itself against the one relationship that had drifted across its boundary. The children he has saved are protected *because* they are not allowed to become persons to him in a sustained sense — the categorical protection is the substitute for the personal bond.
+
+The template is not, in his subjective experience, a defense or a wound. It is a *covenant* — with the dead, with the work, and with the version of himself he became on the day he chose to keep walking after the graves were closed. To breach the template would be, for him, to betray that covenant. He has been offered, over fifty years, multiple opportunities to breach it. He has declined every one. The decline is the most stable behavioral fact in the file.
+
+*End §6. Continue to §7 — Operational Tradecraft, Routes, and Ritual.*
+
+
+## Defenses & Compensatory Mechanisms
+
+# DEFENSES & COMPENSATORY MECHANISMS
+
+*Subject: CASTLE, Francis David, Jr. — alias "the Punisher"*
+*Section: Defensive Architecture, Longitudinal Mapping*
+
+---
+
+## Preliminary Note on the Architecture as a Whole
+
+What distinguishes the subject's defensive structure from the population of comparably traumatized combat veterans is not the inventory of mechanisms — most are conventional — but their **integration**. In a typical chronic-PTSD presentation the defenses are layered untidily: some primitive, some mature, often in conflict, frequently failing. The subject's defenses are organized as a closed system. Each defense supports and is supported by the others. Failures in one are rapidly compensated by neighbors. The system is not adaptive in the clinical sense — it does not promote recovery — but it is **structurally adaptive in the engineering sense**: it has been load-tested for fifty publication years against threats including capture, torture, betrayal by intimates, neurological insult, religious confrontation, supernatural confrontation, and direct invitations to recover (offered by Daredevil, Spider-Man, Nick Fury, Maria Castle's surviving family, and at least three priests). The system has not failed.
+
+This is itself the central clinical finding. The defensive architecture has been **deliberately maintained**, not merely passively held. He has noticed his defenses and chosen them.
+
+Defenses are mapped below from most mature (closest to ordinary high-functioning adult coping) to most primitive (closest to the borderline-psychotic spectrum), with the operational signatures of each. The compensatory mechanisms — what the defenses *produce* in lived behavior, positive and negative — follow.
+
+---
+
+## I. Mature Defenses
+
+### 1. Sublimation (Primary Organizing Defense)
+
+The subject's central defense, and the one without which the entire structure would collapse within hours. Rage that, undirected, would either be discharged catastrophically or turned inward as suicide is instead **channeled into a sustained, procedural, occupationally-coded activity** that resembles a job. He keeps logs. He conducts reconnaissance. He performs after-action review. He maintains equipment. He files what amounts to ballistic and intelligence paperwork in his own internal system. This is sublimation in the textbook sense — the conversion of an unacceptable impulse into a socially-legible activity — except that the activity itself is also unacceptable. The sublimation is therefore **incomplete in its content but complete in its form**: he behaves, hour by hour, like a man doing a job, and this allows him to remain organized, oriented, and functional through what would otherwise be unbearable affect.
+
+Operational signature: the war journal entries (canonical across Baron, Dixon, Ennis); the cleaning and reassembly of weapons at predictable diurnal intervals; the use of the language of "operations," "targets," and "engagements" rather than killings; the habit of approaching each new theater (Hell's Kitchen, Russia, the trafficking corridors of *The Slavers*) as a Force Recon problem rather than a moral crisis.
+
+### 2. Suppression
+
+Distinct from repression (which is unconscious): the subject **consciously decides not to think about certain material** and executes that decision with discipline. Maria's face, the children's voices, the smell of the picnic, the specific moment of the gunfire — these are not denied, not split off, not unavailable to him. They are **available and not consulted**. He has been depicted across Ennis, Aaron, and Soule explicitly turning away from a memory by reorienting to a task.
+
+This is unusually high-order suppression. Most patients cannot reliably execute it; they suppress and then are intruded upon. The subject is intruded upon less than expected because the suppression is paired with sublimation — the moment a memory rises, an operational task is already present to occupy the cognitive channel. The two defenses are **interlocked**.
+
+### 3. Anticipation
+
+The subject lives almost entirely in operational futurity. Threats are pre-modeled, contingencies pre-rehearsed, withdrawal routes pre-mapped. This is partly a Marine-trained habit, but it also serves as a defense: by being continuously oriented to a future five minutes, five hours, and five days ahead, he is not oriented to a past fifty years behind. **Anticipation displaces retrospection.** The pre-mission rehearsals depicted in nearly every long arc (the surveillance sequences in *The Slavers*, the planning montages across Baron's War Journal, the methodical infiltration prep in *Mother Russia*) are operationally necessary, yes, but they are also **affectively necessary** — they fill the cognitive bandwidth that would otherwise be occupied by grief.
+
+### 4. Asceticism
+
+A defense rarely seen outside religious populations, present here in unusually pure form. The subject denies himself: comfort, alcohol, tobacco, recreational drugs, palliative medication, sustained intimacy, financial accumulation, professional recognition, civilian pleasure of any kind. This denial is not depressive (he is not without appetite) but **deliberate**. Pleasure is treated as a contaminant — something that would soften the operating state he has chosen.
+
+The Catholic substrate is operative here. He was educated within an ascetic moral framework that valorized self-denial as the proof of seriousness. He has retained the practice while rejecting the doctrine. Asceticism allows him to **convert the absence of comfort into a form of moral accounting**: the suffering he refuses to feel emotionally is instead lived bodily.
+
+### 5. Humor (Vestigial, Black, Rare)
+
+The dryest, briefest, blackest humor surfaces in interactions with Microchip, with certain peers (Fury), and in internal monologue across the Ennis MAX run. It is not used to defuse tension with adversaries (that would soften the operating state) but as a minimal intimate signal — a thread of human recognition extended to those few he has accepted into the operational perimeter. The humor is always tactical-grim ("they made it easy"; the cigarette-lighter in *The Slavers*). It is a mature defense in the Vaillantian sense — converting a difficult truth into a survivable observation — but it is rationed.
+
+---
+
+## II. Neurotic-Level Defenses
+
+### 6. Isolation of Affect (Co-Primary Defense)
+
+Possibly the most clinically visible feature of the subject's presentation. The cognitive content of traumatic and grief-saturated material is **fully available**; the affect that should accompany it is **disconnected and absent**. He can describe the murders of his family in declarative sentences. He can name the children. He can recount the date, the location, the weather. He does not produce affect while doing so. This is the textbook signature of isolation of affect, present at a degree more often seen in highly trained surgeons, forensic pathologists, and certain combat operators than in trauma patients.
+
+Crucially, the affect is not *absent* — it is *isolated*. It surfaces, briefly, in the precise contexts where the isolation cannot hold: harm to children resembling his own (a flash of escalated lethality, never tears), the implication that his family's deaths were meaningless (the closest he comes to a visible muscular response), and the rare moments when the operational task is unavailable and there is nothing to do but sit (the graveside scenes across multiple runs, where the body language registers what the face will not). Isolation of affect is the mechanism that makes the rest of the defensive system possible. Without it, sublimation would have no clean material to work with.
+
+### 7. Intellectualization
+
+Less prominent than isolation of affect, but present. The subject reasons about his own condition in the third person and at distance — most explicitly in the Aaron *PunisherMAX* monologues, where he discusses the war as an addiction, articulates that the family was the alibi, and analyzes his own pathology with cold competence. He treats his own psyche as a system to be diagrammed rather than a self to be inhabited. The intellectualization protects against the affective implications of the insight: he can know what he is doing and why, because he has converted the knowing into an analytic exercise that produces no emotional pressure to change.
+
+### 8. Reaction Formation
+
+The rigidly maintained moral framework — "I only kill the guilty" — is in part a true ethical commitment and in part a reaction formation. The underlying drive, were it permitted full expression, would not respect the guilty/innocent boundary; it would discharge against anyone available. The subject knows this on some level. He maintains the boundary with **disproportionate vigilance** — refusing kills under operational pressure that would have justified them, aborting missions that risk children, executing himself-style discipline against any subordinate or imitator who crosses the line — because the boundary is not merely a rule but a **levee against his own water**. Reaction formation explains the unusual rigor of his discrimination: ordinary ethical operators discriminate; the subject *over*-discriminates, because the cost of any leakage would be the dissolution of the entire moral architecture that makes him tolerable to himself.
+
+### 9. Undoing
+
+Each mission is, structurally, an undoing of Central Park. He arrives in time. He kills the perpetrators. He saves the family. The pattern is compulsively repeated. The wound it attempts to undo is not undone; the undoing must therefore be repeated, indefinitely. This is undoing in the classical psychoanalytic sense — a ritual designed to reverse an event the patient cannot accept — operating at the level of the entire vocation rather than discrete gestures.
+
+The signature is the repeated structural element across his cases: a **family unit threatened by predatory criminals** is the case-type that produces the most lethal and least restrained version of his operating self. He is drawn to these cases. He selects them when he has discretion. They are the cases in which the undoing is most acute, and they are also the cases in which he most reliably loses what little operational restraint he maintains elsewhere.
+
+### 10. Displacement
+
+The rage that ought to be directed at the specific Costa family members who killed his wife and children (and which, in early continuity, was so directed and exhausted within the first arc) is **displaced onto the category of which they were a sample**. Organized crime in general. Trafficking networks. Predators. Corrupt officials. The original target is destroyed; the rage is not. It is therefore displaced onto adjacent and metonymically-connected targets, indefinitely. Displacement is the mechanism that allows the war to continue past the point at which any rational vendetta would have terminated.
+
+---
+
+## III. Primitive / Borderline-Adjacent Defenses
+
+### 11. Splitting (Cognitively Stable Variant)
+
+The world is bifurcated: the guilty and the innocent. There is no third category. There is no movement between categories. Once the subject has classified a party, the classification is durable.
+
+This is splitting in the Kernbergian sense, but with a critical modification: in classic borderline splitting, the categories are **affectively volatile** and individuals oscillate rapidly between idealization and devaluation. The subject's splitting is **cognitively stable**. He does not flip people between categories under emotional pressure. He classifies once and holds. This is splitting as a structural feature of his moral universe rather than as a moment-to-moment defense against affective overwhelm — which makes it both more functional (he is reliable, predictable, not chaotic) and more dangerous (a misclassification is not self-correcting).
+
+### 12. Identification with the Aggressor
+
+Acknowledged in canon by multiple interlocutors and tacitly conceded by the subject. The men who killed his family killed without mercy, without due process, in service of a private code. He has become a man who kills without mercy, without due process, in service of a private code. The technical and affective signature of his violence is closer to the mob hit that destroyed him than to any civic instrument of justice. This is the defense Anna Freud described in its purest behavioral form: the survivor of catastrophic violence takes on the attributes of the violator in order never again to be in the position of the victim.
+
+The subject's awareness of this — articulated explicitly in the Aaron MAX run — does not dismantle the defense, because the defense is no longer functioning prospectively (to prevent victimization); it has been **structurally absorbed** into the operating identity. He is the aggressor now. There is nothing to identify with that he has not already become.
+
+### 13. Turning Against the Self (Partial)
+
+The asceticism, the refusal of medical palliation, the cultivation of injury, the operationally unnecessary acceptance of pain and risk — these constitute a partial turning-against-self that operates as **moral accounting**. He pays in suffering for what he does. The bookkeeping is private; the ledger is never closed; the payments are continuous. This is not suicidality in the active sense (he does not seek death, because death would end the work) but it is a **slow self-destruction priced into the operational tempo**, an acceptance that the body is consumable and that consuming it is appropriate to the activity.
+
+### 14. Denial (Localized, Specific)
+
+Global denial is absent — the subject is unusually clear-eyed about his condition. But there is one specific, sustained denial: **the denial that the war is the point**. For most of his depicted years he has maintained that the family is the cause and the war is the response. The Aaron run depicts the collapse of this denial; he articulates that the war preceded the family in his pathology, that the family was the alibi the war required. Even in this articulation, however, he continues to operate as though the denial were still in force. The denial has been **intellectually pierced and behaviorally preserved**. This is among the most diagnostically significant features of his case: insight without modification.
+
+### 15. Dissociation (Operational, Functional)
+
+During high-violence engagements the subject's affective and somatic experience appears to **decouple** from his observational and motor systems. He registers wounds without flinching, completes tasks under conditions that should produce affective overwhelm, and afterward describes the engagement in the third person or in declarative procedural language. This is the dissociative subtype of PTSD operating in a context where it is not destabilizing but **functional** — it allows him to continue operating through events that would freeze or fracture a non-dissociative operator. The dissociation is so reliably available that it has become essentially a tool: he can enter it on demand.
+
+---
+
+## IV. Compensatory Mechanisms — Positive (Adaptive in Effect, Even if Pathological in Origin)
+
+### A. Structure
+
+The work provides hour-by-hour, day-by-day organization. Reveille is internalized. Tasks are sequenced. The day has shape. For a man whose internal world would otherwise be a void around a wound, this structure is **load-bearing**. Without it he would not survive the first unstructured week.
+
+### B. Meaning
+
+The work provides a continuous reason to remain alive. The subject has been depicted across multiple runs as actively considering suicide and rejecting it on the grounds that the work is not finished. The work cannot be finished. Therefore he cannot be finished. The pathology of this loop is irrelevant to its protective effect: it keeps him alive.
+
+### C. Protection of Third Parties
+
+Whatever the underlying drive, the **downstream effect** of his activity includes the genuine protection of trafficked women, abused children, defrauded civilians, and victimized communities. The subject knows this and treats it as the part of the ledger that justifies the rest. The pro-social outcome is real even if the motivation is not what he claims.
+
+### D. Channeled Rage
+
+Rage that would otherwise discharge chaotically or implode into self-destruction is **converted into discriminated, targeted, procedurally-bounded action**. The discrimination is imperfect by ordinary moral standards but vastly more disciplined than the underlying drive would produce without the architecture. The architecture is, in this narrow sense, a containment system that prevents worse outcomes than those it produces.
+
+### E. Identity Continuity
+
+The subject possesses, unusually for a chronic-PTSD patient, a **stable and continuous sense of self**. He knows who he is, what he does, why he does it. The self-concept is bleak but it is intact. Most patients with comparable trauma loads present with identity fragmentation; he does not. The defensive architecture has preserved identity at the cost of preserving the pathology.
+
+---
+
+## V. Compensatory Mechanisms — Negative (Maladaptive in Effect)
+
+### A. Foreclosure of Grief
+
+The defenses that permit him to function also permit him **never to mourn**. Mourning requires the affect that isolation of affect prevents. Mourning requires the unstructured time that anticipation displaces. Mourning requires the relational presence that asceticism refuses. The defensive architecture is, considered as a whole, an **anti-mourning engine**. Fifty years on, the grief is exactly where it was on the day of injury — pristine, undigested, and load-bearing in its undigested form.
+
+### B. Foreclosure of Relationship
+
+Every mechanism that protects him from re-loss also prevents the bonds that would constitute repair. Microchip, Cole-Alves, the Lieberman family, Fury — each relationship is permitted to develop to the operational depth required and is then terminated, either by the subject's withdrawal or, in the catastrophic cases, by his hand. The architecture **cannot tolerate any bond it could lose**, which is to say any bond at all.
+
+### C. Self-Sustaining Loop
+
+The defenses produce the behavior that produces the conditions that require the defenses. Each operation produces new enemies, new targets, new cases. The work is therefore inexhaustible. The inexhaustibility is **structurally guaranteed**, not contingent on environmental supply. He could not retire even if he chose to, because the defenses would not survive retirement; and the defenses will not let him choose to.
+
+### D. Insight Without Change
+
+The subject has acquired, over decades, substantial insight into his own condition. The insight does not produce change because the defenses have **absorbed insight as an additional defense**. Intellectualization permits him to articulate his pathology without affective consequence. He is, in this respect, the most diagnostically self-aware patient who will never present for treatment.
+
+### E. Bodily Consumption
+
+The asceticism, refused medical care, accumulated wound burden, sleep deficit, and operational risk acceptance combine to **consume the body** at a tempo that, while slow, is monotone. The body is the substrate of the work; the consumption of the body will eventually terminate the work. The defensive architecture has no provision for this. There is no successor, no retirement protocol, no plan for the body's failure. When the body goes, the system goes with it.
+
+### F. Moral Accounting That Never Settles
+
+The subject pays in suffering, in damnation accepted, in pleasure refused. The payments never reach a sum at which the debt is discharged. The ledger is structurally **non-settling**, which means the asceticism is not penitential (penitence anticipates absolution) but **perpetual** (no absolution is sought or believed possible). This converts what could have been a healing religious framework into a permanent self-imposed sentence.
+
+---
+
+## VI. Hierarchy Summary
+
+Ranked by primitiveness, ascending:
+
+1. **Sublimation** — primary load-bearing mature defense.
+2. **Suppression** — interlocked with sublimation.
+3. **Anticipation** — displaces retrospection.
+4. **Asceticism** — converts denied affect into denied comfort.
+5. **Humor** — vestigial, rationed.
+6. **Isolation of Affect** — co-primary, possibly the single most clinically visible feature.
+7. **Intellectualization** — absorbs insight without producing change.
+8. **Reaction Formation** — maintains the guilty/innocent levee.
+9. **Undoing** — structures the entire vocational pattern.
+10. **Displacement** — sustains the war past the original vendetta.
+11. **Splitting** (cognitively stable) — organizes the moral universe.
+12. **Identification with the Aggressor** — structurally absorbed, no longer prospective.
+13. **Turning Against the Self** (partial) — moral accounting via the body.
+14. **Denial** (localized) — the war is the symptom, not the point.
+15. **Dissociation** (functional) — available on demand during engagement.
+
+---
+
+## VII. Closing Observation
+
+The defensive architecture is best understood not as a collection of mechanisms but as a **single integrated system designed to permit the continuation of a behavior the subject cannot stop and does not wish to**. The system is not designed to recover him; it is designed to **sustain him in the condition he has chosen**. It does this with a discipline and integration that, in another life and another vocation, would be the mark of a high-functioning adult.
+
+What the system cannot do — what no defensive architecture can do — is **return him to the moment before the wound** and offer the choice again. The architecture exists because that moment is fixed. Every defense in it, mature and primitive alike, is a brick in the wall between him and that Sunday in the park.
+
+The wall is well-built. The wall is the problem.
+
+*End of section.*
+
+
+## Longitudinal Psychological Profile
+
+# LONGITUDINAL PSYCHOLOGICAL PROFILE — FRANK CASTLE JR.
+
+*Section 5 of the UATU Dossier. Decade-by-decade clinical mapping, 1950 → present, drawn from the published canonical record. Frameworks: DSM-5-TR / ICD-11; attachment theory (Bowlby, Main); object-relations (Kernberg, Fairbairn); structural psychotherapy (McWilliams); moral injury literature (Litz, Shay); trauma-as-narrative (Herman, van der Kolk); terror management; ego psychology (Vaillant's defense hierarchy). Each decadal block is dated to in-story biography where possible, not publication year — though the publication arc is itself diagnostically informative and is annotated where relevant.*
+
+---
+
+## I. THE FORMATIVE WINDOW (c. 1950–1965): The Architecture Before the Wound
+
+The earliest substantive interior record is supplied by Ennis's *The Tyger* (2006) and the prologue movements of *Born* (2003) and *The Platoon* (2017–18), supported by the catechetical environment implied across the Catholic-school flashbacks scattered through MAX and the Marvel Knights runs. The boy who would become Castle is, by the available evidence, *constitutionally serious* — not somber, but unable to access the registers of irony, play, and contingency that organize normative latency-age cognition. *The Tyger* is the central data point here: the boy is preoccupied with the problem of evil before puberty. He reads Blake. He notices the tiger in the man.
+
+**Affect regulation, c. age 10–15.** Intact, but already markedly under-modulated in two directions: high tolerance for distressing content (he does not flinch from the violence he observes in his neighborhood) and low tolerance for moral ambiguity. Affective range is depicted as narrow but not absent — capable of warmth, particularly toward his mother and toward the figures of religious devotion who structure his world. There is no evidence of either anhedonia or affective lability in this period. What is present is *seriousness as a trait* — what Tomkins would call a "depressive script" in mild form, but more usefully read as a Vaillant-style *anticipation* posture: the child is already organizing his attention around future harm.
+
+**Cognitive style.** Concrete, rule-oriented, with early development of what would become a lifelong moral cognitivism. He thinks in categories (innocent / guilty, saved / damned) supplied by the Baltimore Catechism. This is not a deficit; it is a fit between temperament and ecology. The Catholic moral architecture of mid-century outer-borough New York gave him a cognitive system that *worked* — that organized experience without distortion in the environment in which it was deployed. His later rigidity is not the imposition of a foreign structure; it is the persistence of a native one.
+
+**Self-concept.** Forming around the axis of *vocation*. The seminary consideration is critical: he is, in his own self-understanding, a person whose life must be given to something. The question is only *what*. When he renounces the priesthood, he does not renounce vocation; he reassigns it. This is the earliest visible operation of the trait that will define him — the inability to live a life that is not entirely given over to a single ordering commitment. Erikson would identify this as a foreclosed identity in the Marcia sense: commitment without exploration. It is also, importantly, *the structural precondition for the Punisher*. The man who later cannot stop killing is the boy who could not live without a vocation.
+
+**Attachment.** Inferable as secure with his mother (the warmest figure in the Ennis flashbacks); ambivalent or distant with the father, who is depicted variably across retellings but consistently as either absent, hard, or alcoholic. The avoidant substrate that will later predominate is already laid in: he learns early that strength is silent and that need is private.
+
+---
+
+## II. YOUNG ADULTHOOD AND FIRST MARRIAGE (c. 1965–1971): The Brief Window of Bonded Life
+
+This is the only period in Castle's life that approximates psychological normalcy by population norms, and even it is heavily qualified.
+
+**Affect regulation.** Best functioning of his life. The marriage to Maria, the birth of Lisa and then Frank Jr., produce a window in which affect is *accessible*: he is depicted (in flashback across Baron, Dixon, Ennis, and Aaron) as capable of tenderness, of play with the children, of erotic warmth. This is the empirical refutation of any schizoid or antisocial reading; the capacity was there.
+
+**Cognitive style.** Beginning to militarize. The decision to enlist (Marine Corps, Force Recon track) is consistent with the foreclosed-identity pattern: the Corps offers a total institution with a complete moral grammar. He chooses an elite, solitary-predation specialty — not infantry-mass, not aviation, not logistics. The choice is diagnostic. He is selecting for an environment in which one operates alone, sustains hardship without complaint, and resolves problems with lethal force.
+
+**Self-concept.** A bifurcation begins that will never close: *husband-father* and *operator*. He compartmentalizes successfully during this window — the deployments do not appear, from Maria's later remembered words, to have shattered him. But the compartments are sealed against each other rather than integrated. Bromberg's concept of *normal multiplicity* applies, but Castle's compartments are unusually impermeable for a man not yet pathologized.
+
+**Attachment.** Genuinely secure with Maria. The children are loved without ambivalence. This is the baseline against which all later foreclosure must be measured: he *knew how* to be attached. He chose to live without that knowledge after it was punished.
+
+---
+
+## III. THE WAR YEARS (c. 1968–1971, with the Valley Forge incident as fulcrum): Acquisition of the Operating Condition
+
+*Born* is the load-bearing text. Across three tours — the modernized continuity displaces these to Iraq/Afghanistan; the psychology is invariant — Castle acquires the somatic and cognitive habits that will define the next half-century.
+
+**Affect regulation.** This is the period in which the *isolation of affect* defense is forged into its mature form. Combat produces, in most operators, either acute stress reactions that resolve with rotation or chronic dysregulation that surfaces post-deployment. Castle's pattern is rarer: a stable, in-combat *flattening* that persists between operations and becomes preferred. He learns that he functions optimally — and, more troublingly, feels *most coherent* — at the operating tempo of sustained lethal action. *Born* depicts this with clinical precision: the dread is not of combat but of its absence. This is the acquisition pattern Shay describes for the "berserker" subset of combat trauma, but with the unusual feature of preserved executive control. He does not lose himself in violence; he locates himself in it.
+
+**Cognitive style.** Tactical, terrain-oriented, contingency-driven. The Marine planning cycle (METT-T, OODA) becomes the substrate of all subsequent cognition, including moral cognition. He begins to think about *evil* the way he thinks about *enemy*: as a problem of identification, fix, finish, exploit, analyze, disseminate. This is the period in which his moral cognitivism marries his operational training, producing the lifelong pattern of *moral problems treated as targeting problems*.
+
+**Self-concept.** The crucial shift: from *husband-father who fights wars* to *fighter who has a family*. The entity in *Born* — whether literally supernatural or, more usefully, the personified voice of his own preference — offers him perpetual war. He accepts. The acceptance is, in his later self-understanding (Aaron's MAX, particularly), the *real* founding event. Central Park was the price exacted; the bargain was struck earlier. This reading is supported by his behavior on return: he does not, like most combat veterans, struggle to readjust to peacetime affect. He simply waits, in latency, for the war to resume.
+
+**Attachment.** Already eroding. The letters home in *Born* are sparse and dutiful. He is, by the end of the third tour, no longer fully oriented toward the family in the affective register; he is oriented toward them as the *content* of a duty he has accepted. This is the proto-form of what will become, post-Central Park, the family as *operational alibi*.
+
+---
+
+## IV. THE CENTRAL PARK FULCRUM AND IMMEDIATE AFTERMATH (1971–1976): Crystallization
+
+The killings are not a *cause* in the simple sense. They are the precipitant that fixes a pre-formed structure into permanent shape. This distinction matters clinically: the prognosis for a man broken by a single event is different from the prognosis for a man whose pre-existing architecture is *completed* by an event. Castle is the latter. There was nothing to repair to.
+
+**Affect regulation, acute phase (first hours to first weeks).** Inferred from the hospital sequences across multiple retellings: he does not weep, does not rage, does not require sedation. He plans. The acute traumatic response is bypassed entirely in the affective register and routed directly into the cognitive-operational register. This is profoundly atypical and is the strongest single data point for either a pre-existing dissociative capacity or a war-acquired one (most likely both, layered).
+
+**Affect regulation, sub-acute phase (first year).** Compulsive training, weapons acquisition, target intelligence-gathering. The activity is *itself* the affect regulation. He is, in van der Kolk's terms, keeping the body busy so the trauma cannot find a place to settle. Unlike most trauma sufferers, his body-busying is highly organized and outward-directed.
+
+**Cognitive style.** Hardens into its mature form. The moral cognitivism of childhood, militarized in Vietnam, now turns inward upon civilian society. The categories survive the change of theater: there are guilty, there are innocent, there are operators. Courts, police, family-court judges, parole boards — these are reclassified as either irrelevant or as institutions that have failed to perform the function he will now perform.
+
+**Self-concept.** The Punisher identity crystallizes. Critically, it is not adopted as a mantle of heroism or vengeance; the early *Marvel Preview* and Baron-era texts depict him as already in a register of *grim continuation* rather than righteous awakening. He calls himself the Punisher because the term is descriptively accurate, not because it is aspirational. The self-concept is *functional*: I am the thing that does this. The grandiose or victim-coded self-narratives most patients with comparable behavior require are absent from the outset.
+
+---
+
+## V. THE FIRST DECADE OF THE WAR (c. 1976–1986): Operational Establishment
+
+*Behaviorally corresponds to the Baron/Grant/early Dixon publication era.*
+
+**Affect regulation.** Stable flatness with intact tactical-affective range. He can produce intimidation affect on demand; he can produce gentleness with civilians; the baseline between operations is muted but not absent. This is *not* the more severe flattening of the later period. There is residual responsiveness — he can be surprised, can be briefly amused, can be moved by particular sights (children, families intact). The journal-keeping habit, established in this period, is itself a regulatory device: externalization of inner state through after-action narrative.
+
+**Cognitive style.** Highly operational, terrain-and-target oriented, with a still-functioning ability to revise plans on the fly. Moral cognition remains rule-based but is being *tested* in this period: he encounters edge cases (the corrupt cop who has a child, the made man who turns informant) and develops the discriminations that will harden into doctrine. This is the period in which his case law is written.
+
+**Self-concept.** Stable, ascetic, monastic. The military discipline is now turned inward against any softness — no drinking, no women beyond the rare and transactional, no possessions beyond the operationally necessary. The implicit theology is austere and consistent: he has chosen damnation in service of necessary work, and the asceticism is the only honest acknowledgment of what he has chosen. There is no self-deception in this period; there is also no possibility of growth. He has reached operational steady state.
+
+**Defense profile.** Isolation of affect (primary), sublimation (high), reaction formation (moderate — the rigidity of "the guilty" as a category is maintained against the entropy of edge cases), splitting (cognitive rather than affective). All Vaillant-mature defenses, deployed in service of a pathological aim. This is one of the rarer presentations in the clinical literature: *high defensive functioning around a foreclosed grief*.
+
+---
+
+## VI. PROFESSIONALIZATION (c. 1986–1996): The Operator as Institution
+
+*Baron's War Journal era; Microchip partnership; international expansion.*
+
+**Affect regulation.** Further flattening, but compensated by the partnership with Microchip, which provides a structured channel for the small affective traffic he still permits himself. Microchip is the closest thing to a confidant in his adult life. The partnership functions, clinically, as a *limited holding environment* (Winnicott) — Microchip absorbs and reflects, without demanding reciprocity Castle cannot provide. The eventual rupture (and Microchip's execution in the MAX continuity) is overdetermined: Castle cannot tolerate the depth of bond that has formed, and the moment Microchip's operational divergence supplies a rationale, the bond is severed lethally. This is the most diagnostic single relational event in the entire record. It demonstrates that *closure of attachment is actively defended*, not merely passively present.
+
+**Cognitive style.** Most flexible period of his adult life. He is reading military journals, adapting to new weapons platforms, learning electronic countermeasures. He is genuinely curious about the operational world. Moral cognition expands modestly: he engages with international cartel structures, government complicity, geopolitical evil. He does not become an ideologue, but his target-discrimination grows more sophisticated. This is the high-water mark of his cognitive functioning post-Central Park.
+
+**Self-concept.** Hardens into the professional-operator register. He is a workman of a specific trade. There is even a brief and rare *competence pride* visible in this period — pride in clean operations, in disciplined fire, in not having killed a bystander in some specified interval. This pride does not survive into the Ennis era and is itself, in retrospect, an artifact of a self-concept that had not yet fully reckoned with what the work was for.
+
+---
+
+## VII. THE EXISTENTIAL RECKONING (c. 1996–2008): The Ennis Window
+
+*Marvel Knights and MAX. The psychologically definitive period.*
+
+**Affect regulation.** The flattening reaches its mature form. Affect is no longer suppressed *against* a continuing inner pressure; the inner pressure has been so thoroughly converted into behavior that the suppression has become near-automatic. Castle in this period is described by other characters (Daredevil, Nick Fury, the women in *Long Cold Dark* and *Up Is Down*) as *cold in a way that no longer requires effort*. The dissociative quality is now structural rather than episodic. He has, in van der Kolk's framework, achieved a permanent partial residence in the dissociative compartment that most trauma survivors only visit.
+
+The exceptions — moments when affect surfaces — become the most diagnostically valuable behavioral records:
+- *The Slavers*: the trafficked women and the murdered infant. The escalation in lethality (burning the ringleader alive) is the affective expression. He does not weep; the world is set on fire on his behalf.
+- *Long Cold Dark*: the possibility of a surviving biological child. He confronts and dispatches the situation with brutal efficiency, then returns to baseline within hours. The *speed of return* is the symptom.
+- *Valley Forge, Valley Forge*: confronted with his own history and the men who would either celebrate or memorialize him, he refuses both. The affect available is contempt.
+
+**Cognitive style.** Increasingly articulate about his own condition. The Ennis monologues — particularly the closing pages of *The Slavers*, *Mother Russia*, and the journal-voice throughout MAX — depict a man who can name what he is doing and why. *Insight without modification* becomes the defining clinical feature. He can describe the loop; he will not exit the loop. This is one of the most resistant configurations in clinical psychiatry: the patient who is correct about himself and unmoved by being correct.
+
+**Self-concept.** Stable, ascetic, damnation-accepting. He does not believe he is good; he does not believe he is redeemable; he does not believe his work generalizes into a system anyone else should follow. The self-concept is now fully articulated in the negative: he is what is required, by him, of him, against a world he has classified as requiring it. The terror management literature would note that he has solved the death-anxiety problem by pre-accepting damnation and removing future-orientation from his decision matrix.
+
+**Defense profile.** Isolation of affect now near-total; sublimation continues; reaction formation has *diminished* (he no longer needs to insist on the absolute guilt of his targets because the question has become uninteresting to him); splitting has *softened cognitively* — he will acknowledge that some of his targets are tragic, were once children, were once savable — without the acknowledgment producing any behavioral change. Identification with the aggressor, once a partly-disavowed truth, is now openly acknowledged. He says, in MAX, that he is what killed his family. He continues.
+
+---
+
+## VIII. THE LATE PERIOD AND AARON'S DESTINATION (c. 2008–2015): The Articulated End-State
+
+*PunisherMAX (Aaron), with reference to Rucka, Edmondson, Cloonan.*
+
+**Affect regulation.** Approaching what the geriatric trauma literature calls *terminal flatness* — the state in which the regulatory system is no longer suppressing anything because there is no longer anything to suppress. Aaron's Castle, in his sixties, has been at the work so long that the original wound is no longer accessible as wound. It is accessible only as *the story he told himself about why he started*, which he now suspects was always a story.
+
+**Cognitive style.** The most psychologically sophisticated period of self-articulation. Aaron's Castle, in interior monologue, performs something close to clinical formulation upon himself: the family is the alibi the war told him to believe. This is the *correct* formulation. It does not produce change. The cognitive style has reached the point at which insight is itself simply another datum, processed, filed, irrelevant to operations.
+
+**Self-concept.** *Weaponized self-knowledge.* He knows what he is. He does not believe knowing alters obligation. He is, in his own self-understanding, a tool with intent — and a tool that has chosen its own use cannot, in his moral architecture, set itself down. The terror management has resolved into pure presentism: there is only the next operation; the next operation justifies remaining alive to perform it; remaining alive guarantees the next operation. The loop is now visible to the operator and continues to operate.
+
+**Attachment.** Effectively closed. The Cole-Alves relationship (Rucka era) and the Lieberman family contact (modern continuity) are operational warmths — care extended without bond formed. He will protect; he will not depend; he will not permit dependence on him to develop into expectation. The attachment system, atrophied through fifty years of disuse, no longer produces the signals that would, in a healthy organism, drive bond-formation.
+
+---
+
+## IX. THE EVOLUTION SYNTHESIZED
+
+Across a few years the trajectory is *not* one of progressive decompensation. It is the opposite — progressive *consolidation*. Each decade refines, narrows, and stabilizes the same configuration. The early-era Castle was a more affectively available version of the same person; the late-era Castle is a more articulate, more consolidated, more *honest* version of the same person. What has not changed in any decade is the foreclosure on grief. What has changed, across decades, is the elaboration of the structures that maintain the foreclosure and the operator's capacity to describe those structures without altering them.
+
+The clinical novelty of the case — and the reason a standard trauma-treatment frame fails — is that the condition is *fully ego-syntonic* and *increasingly self-aware* across the longitudinal arc. Most ego-syntonic pathology resists insight; Castle's pathology absorbs insight and uses it as further substrate. This is what makes the file unusual. He is, by the late period, the ideal patient in every respect except the one that matters: he is correct about himself, he is articulate about himself, and he will not stop.
+
+The decade-by-decade record reveals a final pattern worth flagging for operational planners: the only periods of measurable *softening* in his presentation coincide with sustained, structured peer-bond (Microchip in the 1986–1996 window; the Lieberman contact in late continuity; the Cole-Alves arc). In each case, the softening is real, modest, and *terminated by Castle himself* — either through engineered rupture, lethal severance, or operational withdrawal. The pattern is consistent enough across the longitudinal record to be considered diagnostic: *attachment, when it forms, is destroyed by the attached party*. Any intervention that does not account for this active foreclosure mechanism will fail at the same point each predecessor has failed. The destruction is not impulse; it is structural defense. It is, in the end, the most accurate single statement available about Frank Castle Jr.: he has built, across a few years, an architecture that cannot be entered without being broken from the inside on his way back out to the work.
+
+*End Section.*
+
+
+## Psychiatric Assessment & Differential
+
+# PSYCHIATRIC ASSESSMENT & DIFFERENTIAL
+
+*Section 4 of 11. Compiled from longitudinal behavioral record, 1974–present canon. All diagnoses derived; subject has never been formally evaluated and would refuse evaluation if offered. The following constitutes a posthumous-style file built on a living subject — the patient is in the room only insofar as his actions are.*
+
+---
+
+## 4.1 Framing Note on Diagnosability
+
+Castle is among the most difficult subjects this office has formulated, not because the presentation is obscure — it is, in fact, unusually legible — but because the standard nosology is built around two assumptions the subject's life does not satisfy. First, the assumption that severe psychopathology produces functional impairment of a kind the patient or the community recognizes as impairment. Castle's "impairment" is the substrate of his identity and is regarded by him as a vocation. Second, the assumption that the patient experiences distress about the condition sufficient to motivate clinical contact. Castle does not. He experiences the condition as the only honest response to a world he has correctly perceived; the distress he carries is treated by him as the price of accurate perception, not as a symptom to be reduced.
+
+The clinician therefore must read the diagnosis off the behavior, the somatic record, the relational trace, and the rare verbal self-disclosure (most concentrated in the Ennis MAX and Aaron MAX runs, where internal monologue is rendered as quasi-confessional). The instruments are blunted by the subject's exceptional defensive discipline; the inferences below carry confidence intervals correspondingly wider than they would in a cooperative patient, but the convergence across forty years of behavioral data is high.
+
+A second framing note: nothing in this assessment should be read as exculpatory. Diagnosis explains; it does not absolve. Castle himself, in every era of the publication record, has refused exculpation more strenuously than any prosecutor would. The file respects that refusal as itself a datum.
+
+---
+
+## 4.2 Primary Diagnosis — Complex Post-Traumatic Stress Disorder (ICD-11 6B41)
+
+The most parsimonious organizing diagnosis is **Complex PTSD** in the ICD-11 sense, which captures the trinity of (a) core PTSD phenomenology, (b) persistent disturbances in self-concept, and (c) persistent disturbances in interpersonal functioning, all in the context of prolonged, repeated, or catastrophic trauma from which escape was difficult or impossible.
+
+**Etiology.** Three trauma strata, layered and interactive:
+
+1. **Pre-combat formative stratum.** A childhood and adolescence shaped by a Catholic moral architecture experienced as binding rather than ornamental. Inferred from the seminary consideration in *The Tyger* and *Born*, from the Queens working-class Italian-American milieu, and from the religious vocabulary that survives into his adult internal monologue ("damnation," "the guilty," "judgment"). This is not itself trauma, but it is the predisposing matrix: a personality structure organized around absolute commitments, with low tolerance for moral ambiguity, oriented from boyhood toward the question of what is to be done about evil.
+
+2. **Combat stratum.** Three tours (Vietnam in primary canon; Korea in early texts; modern conflicts in later reframings). Force Recon and analogous solitary-predator roles. Cumulative exposure includes prolonged hyper-arousal, repeated kill-decisions under conditions of moral ambiguity dissolving into operational clarity, witnessing of atrocity (both committed and observed), and — critical in the Ennis *Born* reading — the subjective experience of having *chosen* the war over everything else, including peace, including the family that still existed at the time. This last is the unmetabolized seed: a guilt-vector that predates the murders and that the murders then weaponize.
+
+3. **Catastrophic civilian stratum.** Central Park. The simultaneous loss of wife, son, daughter, witnessed at close range with the subject himself shot and left for dead. This is the criterion-A event that the public file records, but clinically it is the third blow, not the first. Its catastrophic potency is amplified by its intersection with stratum 2: Castle returned from war already foreclosed, already (in his private accounting) guilty of having chosen combat over them, and was then required to watch them die while immobilized. The wound recapitulates the deepest guilt in its most unbearable form. This is why no amount of vengeance discharges it.
+
+**Symptom presentation in behavior.**
+
+*Re-experiencing (ICD-11 PTSD core):* Castle does not present with the classical nightmare/flashback symptomatology in the florid sense (or rather, the publication record under-depicts it because it is largely internal). What is observable instead is the *behavioral re-experiencing* — the compulsive recapitulation of the founding scene, in which Castle arrives in time, identifies the predators, eliminates them, and saves a family that is no longer his. Every operation is, structurally, Central Park replayed with the variable he could not control (his presence, his armament, his lethality) now solved. The intrusion is enacted, not remembered. When he does sleep, the depictions show fragmented, posture-tense sleep with rapid waking — consistent with sustained intrusion at a subclinical narrative threshold.
+
+*Avoidance:* Global with respect to affective content tied to the family. Castle visits the graves; he does not speak there at length. He does not keep photographs displayed; the few items retained (a wedding ring on a chain in some continuities, a child's drawing) are kept proximally but not engaged with verbally. He does not say their names aloud in casual mention. He will say them when a target asks who they were — once, flatly — and not again. He avoids holidays, family settings, the specific corner of the Park (or, conversely, in some texts, returns to it only as a ritual datum, never as a place of mourning). He avoids any conversation that would require him to consider that the war he is fighting is for himself rather than for them.
+
+*Hyperarousal:* Continuous and well-modulated. The subject lives at a baseline of alert that civilian subjects experience only in acute danger; this is not perceived by him as arousal because he has no memory of any other baseline. Observable in the somatic record: minimal sleep, the table-positioning toward exits noted in surveillance, the bladed stance when stationary, the unconscious mapping of sight-lines and egresses in any new room (this latter inferred from the speed with which he moves under fire in unfamiliar buildings). Startle responses are paradoxically *suppressed* — combat training has overwritten the reflex with action — but autonomic priming is constant.
+
+*ICD-11 C-PTSD additional clusters:*
+
+- *Disturbances in self-organization — affect:* Persistent flatness, not subjectively experienced as numbness but as appropriate. Capacity for graded emotional expression toward children, the wounded, and small animals (canonical, multiple texts) is preserved, indicating the flatness is selective rather than global — supportive of dissociative-suppressive rather than depressive mechanism.
+
+- *Disturbances in self-organization — self-concept:* Persistent, stable, ego-syntonic negative self-evaluation. He believes himself damned; he believes he deserves it; he does not seek to escape it. This is not the self-loathing of depression (which is volatile and oriented toward relief) but the steady-state moral accounting of a man who has reconciled himself to his own condemnation and works inside it.
+
+- *Disturbances in self-organization — interpersonal:* Foreclosure variant. The more common C-PTSD interpersonal disturbance is anxious/disorganized — clinginess, abandonment terror, hyperreactive attachment churn. Castle presents the inverse: a clean, disciplined refusal of attachment after the originating loss, with surgical termination of any bond that begins to deepen (Microchip executed when betrayal is established; Cole-Alves released to her own foreclosure; the Lieberman family kept at protocol distance even when warmth is present). This foreclosure variant is rarer in the literature and is associated with pre-trauma high-discipline personality structure plus catastrophic single-event loss superimposed on chronic trauma — i.e., Castle's exact profile.
+
+**Course over publication time.** Symptom stability over five decades is itself diagnostic. There is no remission, no symptom substitution, no compensatory development of new psychopathology, no decompensation under non-trivial stressors (capture, torture, brief incarcerations, the Frankencastle interval, the War Machine interval). The condition is not waxing or waning; it is *installed*. In Aaron's late-MAX rendering, the subject achieves what looks like insight — articulating that the war is the point and the family the alibi — without any behavioral change following. This is the diagnostic signature of severe, chronic, ego-syntonic C-PTSD: insight without modification, because insight is not the lever. The condition is doing necessary intrapsychic work; relinquishing it would require facing what it is suppressing, and the subject has, repeatedly and lucidly, declined.
+
+---
+
+## 4.3 Co-Primary Diagnosis — Prolonged Grief Disorder (DSM-5-TR 309.89 / ICD-11 6B42)
+
+Grief in Castle is not unresolved in the colloquial sense; it is *arrested*. The defining features of Prolonged Grief Disorder are present at maximum intensity, except for the most visible ones, which have been *converted into behavior* rather than expressed as affect.
+
+**Yearning:** Inferred rather than displayed. Manifests as the operational structure of the war itself — the unspoken logic that the right number of guilty men eliminated will produce something (it will not). The yearning is encoded as motion.
+
+**Identity disruption following loss:** Definitive. Castle's pre-loss identity (husband, father, veteran returning to civilian reintegration) was annihilated; the post-loss identity (the operator) is built on the negative space of the prior one. He does not introduce himself by his given name; he answers to it but does not claim it.
+
+**Avoidance of reminders concurrent with preoccupation:** Classic. Castle avoids the affective register of the loss with extreme discipline while organizing his entire existence around its operational remediation. This contradiction is the diagnostic core of pathological grief.
+
+**Emotional numbness, sense of meaninglessness, difficulty re-engaging life:** All present, all stably present, all stably present for fifty years.
+
+The diagnosis is co-primary with C-PTSD rather than subsumed because the grief vector and the trauma vector, while linked at Central Park, have distinct mechanisms. The C-PTSD drives the hyperarousal-foreclosure-flatness triad; the prolonged grief drives the meaning-vacuum that the war is recruited to fill. Treating one without the other (counterfactually) would resolve nothing.
+
+---
+
+## 4.4 Contributory / Comorbid Conditions
+
+**Probable mild-to-moderate Chronic Traumatic Brain Injury / cumulative mTBI.** Not diagnosable without imaging but inferentially supported by: skull-graze GSW at Central Park; multiple blast exposures across three tours; documented concussive events across four decades of operational record; behavioral disinhibition with preserved executive function (a pattern consistent with orbitofrontal compromise); and the flattening of affective range. The differential here is non-trivial because the C-PTSD/PGD picture independently produces the same flattening; the most honest formulation is that organic and functional contributions are interactive and not separable from the available record. This office assigns moderate confidence to a contributing TBI substrate, low confidence to it being the primary driver of any single symptom.
+
+**Sleep-Wake Disorder, unspecified, chronic.** Sleep is depicted as fragmented, brief (commonly 2–4 hour blocks), often supplanted by surveillance or maintenance tasks, and is unrestorative without producing the cognitive degradation that prolonged severe sleep restriction normally produces in civilians. This may reflect (a) genuine adaptation, (b) under-depiction in canon, (c) chronic operational use of stimulants masking the deficit, or (d) all three. Clinically: chronic insufficient sleep with stimulant compensation, no subjective sleep complaint, refractory to non-tactical modification.
+
+**Stimulant use, operational pattern.** Amphetamines and caffeine, dosed for sleep suppression during sustained operations. Does not meet criteria for stimulant use disorder — no craving, no use outside operational context, no escalation to recreational or affect-altering pattern, no withdrawal-driven re-dosing. Categorized as instrumental use; flagged here only because cumulative exposure over decades has cardiovascular and neuropsychiatric implications independent of disorder status.
+
+**Notable non-comorbidities — alcohol, tobacco, recreational substances.** Conspicuously absent. The abstinence is more disciplined than the average ascetic religious order's; it has held across capture, torture, mourning anniversaries, and operational failures. This is itself a psychiatric datum: the subject will not permit anything to interpose between himself and his available perception. He does not seek numbness; numbness would be a betrayal of the work, which requires him to feel — or to refuse to feel — under conditions of his own choosing, not under chemical mediation.
+
+---
+
+## 4.5 The Differential — What Castle Is Not, and Why
+
+The differential is unusually important in this case because the surface behavior (sustained lethal violence, social detachment, absence of remorse-as-displayed) overlaps with several conditions that would imply categorically different etiologies, prognoses, and (counterfactually) treatment approaches. The exclusions below are not perfunctory; each rules out a real and tempting diagnostic alternative.
+
+**Antisocial Personality Disorder (DSM-5 301.7) — EXCLUDED.**
+
+The behavioral surface invites this read and many casual observers, including in-canon law enforcement, default to it. The criteria do not survive scrutiny:
+
+- *Failure to conform to social norms with respect to lawful behavior:* present, but instrumentally rather than dispositionally — Castle violates law because he has concluded law is insufficient, not because law is uninternalized. His own behavior is bound by a self-imposed code substantially more restrictive than statutory law (no innocents, no children, no police killed except in extremis, no targeting of family of targets).
+- *Deceitfulness:* operationally present (cover identities, disinformation) but absent in the personal/relational sense. Castle does not lie to those he is in relationship with; he refuses to speak rather than deceive. He has been described across many writers as almost pathologically truthful in personal exchange.
+- *Impulsivity:* absent. Castle plans. The defining feature of his operational style is patience to the point of monastic discipline.
+- *Irritability and aggressiveness — repeated physical fights or assaults:* his aggression is not reactive; it is mission-bound. He does not bar-fight, does not road-rage, does not strike civilians.
+- *Reckless disregard for safety of self or others:* of self, present; of others, only of declared targets. Civilian safety drives operational choices that frequently increase his own risk.
+- *Consistent irresponsibility:* opposite — Castle is the most consistent person in his publication universe.
+- *Lack of remorse:* this is the criterion observers fixate on. It is incorrect. Castle does not display remorse in the demonstrative register, but his entire life is a remorse-structure — the expectation of damnation, the refusal of pleasure, the ascetic deprivation, the silent assumption of moral cost. What he lacks is the *narrative* of remorse, not the substance.
+- *Required: evidence of conduct disorder before age 15.* Absent. Pre-trauma history is pro-social: military service, considered priesthood, devoted father.
+
+The diagnosis fails on developmental history alone and on every substantive criterion when read carefully.
+
+**Psychopathy (Hare PCL-R construct) — EXCLUDED.**
+
+Distinct from ASPD and worth separate treatment because the lay diagnosis is more often "psychopath" than "antisocial." Castle fails on the affective/interpersonal cluster decisively:
+
+- *Glibness/superficial charm:* absent; subject is terse, plain, frequently silent.
+- *Grandiose sense of self-worth:* absent; subject is self-condemnatory.
+- *Pathological lying:* absent; see above.
+- *Cunning/manipulative:* tactical cunning, yes; interpersonal manipulation, no — he does not manipulate his rare intimates; he disengages from them.
+- *Lack of remorse or guilt:* absent (see ASPD discussion).
+- *Shallow affect:* the affect is constricted, not shallow. Depth is present (with children, with the wounded) but the bandwidth is narrow. Hare-psychopathy shallow affect is a *capacity* deficit; Castle's is a *suppression* discipline. These look identical from outside and are completely different inside.
+- *Callous/lack of empathy:* his empathy is intact toward identified innocents to an unusual degree. The callousness is directed and ideological, not constitutional.
+- *Failure to accept responsibility:* opposite — Castle accepts maximum responsibility for everything he does and many things he did not.
+
+Castle is not a psychopath. He is something rarer and, in a way, more troubling clinically: a man with intact moral apparatus who has used that apparatus to authorize what he does.
+
+**Major Depressive Disorder — PARTIAL OVERLAP, NOT PRIMARY.**
+
+The presentation has features that overlap with MDD: anhedonia (real), foreshortened future (real), sleep disturbance (real), psychomotor changes (absent — Castle is not slowed or agitated in the depressive sense), worthlessness/guilt (present but stably integrated rather than mood-congruent and fluctuating). What is missing is the depressed mood as a subjective state. Castle does not feel sad; he does not feel much in the registers depression occupies. The condition is better described as *affective foreclosure* — the active suppression of an emotional register the patient cannot afford to access — rather than depression. The distinction matters because depression carries suicidal risk in the conventional sense, and Castle's relationship to his own death is different: he expects it, does not fear it, does not pursue it actively, and treats it as an operational variable to be deferred until the work requires it. This is not suicidal ideation; it is the equanimity of a man who has already accepted the outcome.
+
+That said, there is a chronic dysthymic substrate — call it Persistent Depressive Disorder if a label is required — that is real and that the C-PTSD and PGD diagnoses largely subsume.
+
+**Narcissistic Personality Disorder — EXCLUDED.**
+
+No grandiosity. No need for admiration; admiration is actively repelled. The contempt Castle displays toward those who valorize him (the Punisher-fan police officers in multiple canon arcs, the military fanboys) is total and instinctive. No entitlement; subject lives in safehouses, eats from cans, owns nothing but ordnance and the truck. No exploitative interpersonal pattern. The self-concept is ascetic-monastic, not grandiose. If anything, the inverse pole — a kind of inverse-narcissistic self-condemnation as identity — is observable, but this is better captured under C-PTSD self-concept disturbance.
+
+**Schizoid Personality Disorder — CONSIDERED, REJECTED.**
+
+The detached lifestyle, the restricted affect, the solitary functioning, the apparent indifference to praise or criticism all could support this. Excluded on developmental grounds: pre-trauma Castle was fully relationally engaged (marriage, parenting, comrade-bonds in early tours per *Born* and *The Platoon*). Personality disorders by definition require pervasive, enduring patterns from early adulthood. Castle's schizoid-appearing features are *post*-traumatic acquisitions and properly belong under the C-PTSD interpersonal-disturbance criterion.
+
+**Paranoid Personality Disorder — CONSIDERED, REJECTED.**
+
+Hypervigilance and pervasive distrust are present, but contextually appropriate to his operational reality (he is in fact hunted, betrayed, and surveilled, often). His distrust is calibrated and revisable on evidence (he extends operational trust to Fury, to Lieberman, to Cole-Alves in their windows). Paranoid PD requires distrust that is rigid, unfalsifiable, and contextually unwarranted. Castle's is none of those.
+
+**Obsessive-Compulsive Personality Disorder — TRAIT-LEVEL PRESENT, NOT DISORDER.**
+
+Rigid discipline, preoccupation with order and detail, ascetic self-denial, devotion to the work to the exclusion of leisure or relationship — all OCPD-adjacent traits. These predate the trauma (the pre-seminary boy, the Marine) and constitute a premorbid personality substrate that has shaped how the C-PTSD has expressed itself. They are pathoplastic rather than pathological — they explain why his post-traumatic adaptation took this particular monastic-operator form rather than the more common dysregulated form, but they are not themselves a disorder in him. This is an important formulation note: Castle's premorbid OCPD-spectrum personality is the *reason* his C-PTSD looks the way it does (controlled, organized, ritualized) rather than the way C-PTSD more typically looks (chaotic, dysregulated, addicted). Without the premorbid discipline he would be a different kind of casualty; with it, he is the kind he is.
+
+**Schizophrenia-spectrum / Psychotic Disorders — EXCLUDED.**
+
+No formal thought disorder, no hallucinations (the *Born* "voice" is best read as Ennis's narrative device or as an unusually concretized intrusive cognition, not as canonical auditory hallucination, and is not present in non-Ennis canon), no delusional structure (his beliefs about the world, while extreme, are not delusional — they are evidentially anchored in his actual experience and they remain falsifiable in principle, even if he does not let evidence falsify them). Reality testing is intact and acute.
+
+**Dissociative Identity Disorder — EXCLUDED.**
+
+No alternate identity states, no amnesia for behavior, no parts-system. The "Frank Castiglione → Frank Castle" transformation is a *single continuous identity* that has restructured around an event, not a dissociated multiplicity. Persistent depersonalization-derealization features are present and are captured under the PTSD-dissociative-subtype framing.
+
+**Adjustment Disorder, Bereavement (uncomplicated grief), Acute Stress Disorder — EXCLUDED on temporal and severity grounds.** Self-evident: fifty years post-event with stable severe presentation excludes all acute-window and milder-severity diagnoses.
+
+**Religious or Culturally-Sanctioned Belief — CONSIDERED, REJECTED as primary frame.**
+
+It would be tempting in some readings to characterize Castle's worldview as a religious-extremist construction (the language of damnation, the absolutist moral cartography). This is rejected as a primary frame because: (a) his Catholicism is residual rather than active — he does not practice, does not seek absolution, does not invoke doctrine to authorize his acts; (b) his moral system is privately constructed and explicitly non-generalizable (he does not recruit, does not preach, does not believe his method scales); (c) he holds his own damnation as a personal fact rather than as a community-sanctioned belief structure. The religious vocabulary is the inherited grammar he thinks in; it is not the engine.
+
+---
+
+## 4.6
+
+
+## Behavioral Atlas
+
+# BEHAVIORAL ATLAS — Frank Castle Jr.
+
+*Section IV-B of the Standing File. Catalog of observable behavior under every category of condition the subject has been recorded in across fifty years of operation. Entries are drawn from canonical depiction and from inference where the depiction is consistent enough to support it. Each entry is written to support recognition in the field — what an analyst would actually see, in what sequence, at what tempo.*
+
+---
+
+## 1. BASELINE — The Subject at Rest
+
+There is no rest. There are degradations of operational tempo.
+
+**Posture and carriage.** Castle, even seated, holds the upper back square and the shoulders dropped — the posture taught and re-taught at Quantico and never let go. He does not slouch. When seated in a public space (diner booth, bus terminal bench, parked vehicle) the chosen position places his back to a wall and his line of sight on the entry. Reproducible across hundreds of panels; a near-invariant tell.
+
+**Hands.** At rest, hands are visible, flat or loosely curled, on the table or thigh, never in pockets when others are present. When alone, the dominant hand returns repeatedly to whatever weapon is on his person — a check, a thumb-graze of the safety, a seating of the magazine — performed without looking, two to four times per hour. He cleans weapons the way other men scroll a phone.
+
+**Gaze.** Slow horizontal sweeps of the visible field every twenty to forty seconds at rest, faster under load. He does not stare; he registers and moves on. Eye contact with a speaker is held longer than is comfortable for the speaker and is broken on his terms, not theirs. He blinks less than baseline.
+
+**Speech at rest.** Short sentences. Declaratives. Verbs preferred over modifiers. Profanity is functional, not decorative — used to compress information ("kid's gone," "rounds are bad") rather than to perform affect. He does not interrupt. He waits, sometimes a full beat past the natural cue, before responding; the pause is a habit of confirmation, not of consideration.
+
+**Breath.** Diaphragmatic, slow, four to six breaths per minute at rest. He has trained this. The breath does not change visibly when threat enters the room; it changes when grief does.
+
+**Dress.** Dark, unbranded, layered for concealment of body armor and tools. Boots laced tight to the second-from-top eyelet, top eyelet skipped — a Marine carry-over that preserves ankle articulation. Watch worn face-in on the left wrist, glass scratched, second hand functional. No jewelry. No wedding ring on the finger, though in several depictions the ring is on a chain inside the shirt; he checks for it with a brief press of the sternum, especially before sleep or before an entry.
+
+---
+
+## 2. PRE-OPERATIONAL — The Hours Before
+
+**Surveillance posture.** Castle conducts target development in person, on foot or from vehicles, over days. He does not delegate observation. His van/safehouse becomes a wall of photographs, names, addresses, vehicle plates, schedules — arranged in concentric rings around the principal target. He uses red marker for confirmed kills-to-be, black for adjacent personnel, blue for civilians to be removed from the kill zone. This wall is rebuilt for every operation and burned at the end.
+
+**Loadout ritual.** Weapons are laid out in a fixed left-to-right sequence on a cloth or table: primary long arm, secondary long arm, primary sidearm, backup sidearm, edged tool, breaching tool, medical kit, ammunition by magazine, garrote or improvised, fragmentation and incendiary. Each is function-checked in the same order every time. The medical kit is checked last, signifying the lowest priority — survival is contingent, not primary.
+
+**The eating habit.** A heavy carbohydrate meal — pasta, rice, bread — eight to twelve hours before an operation, then water only. He has stated, in Ennis-era internal monologue, that he does not like to be hungry but does not want a full stomach in a fight. The meal is taken alone, often standing at a counter.
+
+**The cleaning ritual.** Personal hygiene immediately pre-op is meticulous: shave, shower, clean clothes underneath the operational layer. The body is presented as if for inspection, or for burial. He does not articulate the second meaning; the file infers it.
+
+**The grave visit.** Where geography permits, Castle visits the Central Park graves before a significant operation. He stands; he does not kneel. He removes nothing, leaves nothing. The visit is short — two to six minutes by panel-count — and silent. Departure is brisk. He does not look back.
+
+---
+
+## 3. CALM — The Quiet Hours
+
+True calm is rare; what passes for it is *low alertness in a controlled environment*. The behaviors below appear in safehouses, on long drives, during stakeouts past the third night.
+
+**The cleaning of weapons.** Field-strip and clean is performed every twelve to twenty-four hours regardless of use. The hand motions are automatic; his eyes are elsewhere, often on a window or door. Cleaning is the closest thing he has to meditation — the only sustained activity during which his shoulders perceptibly drop.
+
+**Reading.** When reading occurs, it is reference: manuals, maps, target dossiers, occasionally military history (consistent across runs). He has been depicted reading a Bible — without performance, without comfort. He does not read fiction.
+
+**Writing.** The war journal — clipped, dated, tactical, with no first-person affect markers. Entries record actions, errors, and intelligence; they do not record feelings. The journal is destroyed periodically (burned in the sink, shredded, buried) and restarted. The continuity of practice matters more than the continuity of record.
+
+**Radio / television.** Police scanner runs as ambient. Television, if present, is for news and for the muted noise of a populated apartment to a listener at the door — operational, not consumed. He does not watch sports. He does not listen to music in any depiction worth treating as canonical; silence is preferred.
+
+**Solo eating.** Standing or at a counter, finished in minutes. Diner food when on the road, taken at the booth furthest from the door with sight to the door. He tips in cash, exact-plus-twenty-percent, every time. He thanks the server. He does not chat.
+
+---
+
+## 4. SOCIAL — Among Civilians
+
+**With children.** Posture lowers. Voice drops half an octave and slows. He addresses them directly, not over their heads to a parent. He does not touch unless invited (a hand offered, a wound to be checked); when he does, the contact is brief and competent. He answers questions truthfully, including hard ones, in the smallest number of words. He has carried wounded children without speaking and set them down only where another adult could receive them. This pattern is *the* most consistent positive-affect signature in the file.
+
+**With the elderly, the injured, the bereaved.** A formal courtesy emerges that is otherwise absent — "ma'am," "sir," the held door, the steady arm, the offered seat. He listens longer than he speaks. He does not promise outcomes. He sometimes promises specific actions, which he then performs.
+
+**With service workers.** Eye contact, "thank you," exact-cash payment, departure within ten minutes of arrival. He is remembered as polite and not remembered for much else, which is the intended effect.
+
+**With strangers attempting small talk.** Brief, terminating responses. He does not lie unprompted; he edits. Cover stories are rehearsed and minimal — name, a generic occupation (contractor, veteran, security), no embroidery. When pressed, he becomes shorter, not longer; the discomfort is the interlocutor's.
+
+**With the curious or the recognizing.** A flat, level gaze held until the curiosity withdraws. He does not threaten verbally. He does not need to.
+
+---
+
+## 5. WITH PEERS AND ALLIES — The Narrow Band of Trust
+
+**Operational alliance.** Castle defers to genuine competence within its domain — to a doctor on triage, to a sapper on a charge, to a driver on a route. He gives credit in clipped acknowledgments ("good shot," "good call") and does not repeat them. Subordinates know where they stand by the absence of correction.
+
+**With the longest-standing peer-bond (the intelligence operator).** Castle's affect with this category of associate is the closest to ease he displays — a dry, almost laconic humor surfaces in two- and three-word exchanges. He will accept an order from this peer that he would refuse from any other source, and only to the limit of the immediate task; the moment the order tilts him off his own axis, the cooperation ends without warning and without rancor.
+
+**With the technical support relationship (the operator who maintained his comms, vehicles, intelligence).** Castle was capable of sustained domesticity within this bond — shared meals, observed birthdays, the keeping of a household. The bond's termination on grounds of betrayal was performed without negotiation, on the same day, in the kitchen where the meals had been shared. The file notes: he ate afterward.
+
+**With the operator-protégée (the woman who joined his war out of an equivalent loss).** Castle gave tactical training, withheld emotional intimacy, and at the latest opportunity drove her away — possibly to save her, possibly because closeness had become unbearable. He does not pursue. He does not write.
+
+**With opponents he respects.** Castle is capable of professional courtesy mid-fight: a nod, a "we're done here" when an opponent has yielded honestly, an offered hand to a wounded enemy soldier in war-flashback panels. He does not gloat. He does not monologue. Verbal economy holds.
+
+---
+
+## 6. INTIMACY — The Rare and Compartmentalized
+
+**Sexual contact.** Infrequent, episodic, almost always initiated by the other party in a context that allows immediate departure. The encounter is competent, attentive, and concluded without overstaying. He does not stay the night where he can avoid it; when he must stay, he sleeps in a chair facing the door or not at all. He does not exchange names where names have not already been exchanged. He has been depicted refusing intimacy more often than accepting it.
+
+**Affection received.** A flinch is the wrong word — it is a stilling. When embraced, his arms rise belatedly and his hand pats twice, flat-palmed, between the shoulder blades. The contact is terminated by him within three to five seconds.
+
+**Affection offered.** Almost exclusively to children and to the dying — a hand on a head, a thumb wiped across a brow, the closing of a dead man's eyes. The gesture is unhurried in these instances; it is the one category of touch he permits himself.
+
+**Verbal affection.** Absent in the present tense. Surfaces only in the past tense and only when alone — fragments addressed to Maria, to the children, in the dark, without elaboration. Anyone who has heard them was already asleep, dying, or imagined.
+
+---
+
+## 7. STRESS — Load Without Threat
+
+**Onset.** Pupils narrow. The visible field of attention contracts. Speech shortens further; modifiers fall away entirely. Movements become more economical — no extra steps, no extraneous gestures.
+
+**Sleep.** Compressed first; then sacrificed. Castle has been depicted operating in excess of seventy-two hours without sleep, supplemented with caffeine and field-grade amphetamines. He is aware of the cognitive degradation and compensates by simplifying tactics rather than refining them.
+
+**Eating.** Reduced to protein bars and water; the carbohydrate ritual is dropped after the operation's first stage.
+
+**Irritability.** Almost none in the conventional sense. What presents instead is *cost imposition* on the source of stress — a shortened leash on subordinates, a foreshortening of warnings to opponents, a willingness to skip steps that, at baseline, he would observe (interrogation before execution, separation of bystanders before breach).
+
+**Body.** Hand returns to weapon-check more frequently — six to ten times per hour under load, against two to four at baseline. Jaw set. Trapezius perceptibly raised. The diaphragmatic breath holds; the shoulders do not.
+
+---
+
+## 8. THREAT — Imminent Violence
+
+**Recognition behavior.** Castle identifies threat earlier than any non-trained party in the room and his behavior changes before others have noticed the cue. The earliest tells: he stops eating; he sets the cup or fork down with the right hand free; he shifts weight to the balls of the feet; he reorients the chair an inch.
+
+**Initiation.** When he chooses to act first, there is no preamble. No warning, no threat-display, no posturing. The transition from rest to violence has no intermediate state. Witnesses describe time-compression: "he was sitting down and then he wasn't."
+
+**Engaged.** Affect is flat. Breath is metered. He calls targets in his head in the order he will neutralize them — there is internal-monologue evidence across the Ennis and Aaron runs that he counts down (*one, two, three, four*) the kills as he makes them, not for trophy but for accountability of ammunition and unaccounted hostiles.
+
+**Voice in combat.** Sparse. Single-word commands to allies — "down," "left," "go." To opponents — typically nothing; occasionally a sentence at the moment of execution, declarative, naming the act ("for the girl in the basement").
+
+**Withdrawal.** Disciplined. He breaks contact on a schedule he set before entry. He does not pursue past the operational envelope, even when pursuit would feel justified — he resets and re-engages on his own clock. The discipline of withdrawal is one of the operationally distinguishing features of the subject; lesser killers are caught in pursuit.
+
+---
+
+## 9. WOUNDED — Under Damage
+
+**Triage on self.** Performed in motion if possible. Pressure first, then occlusion, then suture or staple, then mobility check. He has been depicted performing field surgery on himself by mirror, smoking nothing, drinking nothing, biting nothing — the pain is taken neat.
+
+**Vocalization.** Minimal. A controlled exhale on the worst of it. He does not curse during self-treatment; the language is reserved for combat.
+
+**Decision-making while wounded.** Unchanged in quality; slowed in tempo. He has been depicted refusing medical extraction in order to complete an objective, and refusing painkillers afterward in order to remain operational. The refusal is consistent and does not depend on audience.
+
+**Tell of severe wounding.** A specific small behavior: he checks the chain around his neck. If the ring is there, he proceeds. If it is missing — torn off in the fight — he becomes briefly and observably uncentered until he has accounted for it.
+
+---
+
+## 10. GRIEF — When the Wound Opens
+
+Grief is not a state he enters; it is a state he is in, suppressed. What is catalogued here is the *breakthrough* — the rare moments when suppression fails partially.
+
+**Trigger categories.** Children harmed; women trafficked or abused; a family unit destroyed in a manner that rhymes with Central Park; the date of the killings; a stray sensory cue (a particular hymn, a child's shoe in the street, a specific cut of summer light through trees).
+
+**Somatic signature.** A single hard swallow. A two-second closure of the eyes. The jaw setting harder than baseline. Hands flat on the nearest surface, fingers spread, the weight transferred briefly into them. The breath holds — this is the only condition under which his breath visibly changes.
+
+**Behavioral consequence.** Not collapse — *escalation*. Lethality rises. Restraint, particularly with respect to opponents who fall within the trigger category (traffickers, abusers, killers of families), is reduced. Witnesses report that Castle is most dangerous not when angry but when something has reminded him.
+
+**Aftermath.** He returns to operational baseline within hours, sometimes within minutes. The visit to the graves, if available, is performed. The journal entry, if made, records the operation and not the resonance. Sleep that night, if it comes, is short.
+
+---
+
+## 11. VICTORY — After the Kill
+
+There is no celebration. The signature is the absence.
+
+**Immediate post-engagement.** Walk-through of the kill zone, weapon ready, accounting for each body — he confirms each death by sight or touch. He extracts his own brass where time permits. He does not pose. He does not photograph. He does not speak unless a survivor requires direction.
+
+**Care of bystanders.** Wounded civilians are stabilized to the extent his medical kit allows, then left where first responders will find them; he calls in the address from a burner before leaving. Children are walked to a safe distance and handed to an adult — never abandoned in the kill zone even where extraction risk is high.
+
+**Trophies.** None. He destroys the wall of photographs. He burns the journal entries that name confirmed-kills if the journal must be abandoned. He keeps nothing from victims.
+
+**Self-state.** Flat. Sometimes a brief settling, the long exhale held back during the operation finally released in the vehicle. No elation, no relief in any reportable sense. The operation completed is not satisfying; it is *done*. The next operation is already being planned within hours.
+
+**Eating after.** Heavy, often the first proper meal in days. Diner food, eaten in silence, at a booth.
+
+---
+
+## 12. DEFEAT — When the Operation Fails
+
+**During the failure.** Recognition is immediate and unsentimental. He aborts on his own assessment, without negotiation, without sunk-cost. He has walked off operations within ten seconds of recognizing them as unwinnable in the current configuration.
+
+**Immediate aftermath.** A brief stop in a controlled location. A full inventory of what went wrong: intelligence gap, equipment failure, tactical error, third-party intervention. The blame, where it is his, is named flatly and aloud or in the journal. He does not externalize.
+
+**Within twelve to twenty-four hours.** A new plan. The target is not abandoned; the approach is changed. Castle has been depicted returning to the same target with a new vector within days, sometimes within hours, never abandoning the original objective except when the target itself has been removed from his reach (killed by another, jailed where he chooses not to follow, vanished).
+
+**Defeat by a peer.** Rare. When it has occurred — defeated in a fight by Daredevil, by Captain America, by a Hand operative — Castle accepts the physical defeat without protest and resumes his work as soon as he can stand. He does not seek rematch for ego; he seeks it only if the peer is now obstructing his operations.
+
+**Loss of an ally.** The bond is mourned in private and operationally. The ally's effects are sorted; useful equipment is incorporated, personal effects burned or buried, no shrine assembled. He does not speak of the dead unless asked, and then briefly.
+
+---
+
+## 13. AUTHORITY — Police, Military, Courts, Capes
+
+**Police as a class.** Distinguished individually. He recognizes honest cops and protects them where possible — leaves cleaner kill scenes when he knows a particular detective will catch the case, provides anonymous intelligence, has been depicted standing down rather than firing on uniformed officers acting in good faith. He has equal and opposite contempt for corrupt police, whom he files as targets without hesitation.
+
+**Federal authority.** Wary. He has worked with federal agencies when their immediate interests aligned with his and walked when they did not. He does not believe he is exempt from law; he believes the law is operationally inadequate and that he has chosen to be punished by it eventually.
+
+**The military.** He retains the courtesies — "sir" to officers he respects, "Marine" or "soldier" as a form of address used with deliberate weight. Veterans receive a quality of attention he does not extend to civilians. He has refused fanboy admiration from active-duty personnel with visible disgust; the war is not a fandom to him.
+
+**Costumed authority.** He does not seek their company. He has been recruited and conscripted and has reverted to independent operation in every case within an arc. He neither idolizes nor envies them. He treats their moral codes as their business and his as his.
+
+---
+
+## 14. CAPTIVITY — When Acted Upon
+
+**Compliance.** Tactical. He gives up nothing of operational significance and gives up enough of the irrelevant to lower his captors' guard. Interrogators have universally underestimated him because he is patient with them.
+
+**Pain.** Absorbed without performance. He does not scream. He does not beg. He does not bargain. Torturers across the canon report that the subject is uninformative under duress; the file infers that the threshold of pain at which Castle would yield operationally relevant information has not been depicted as reached.
+
+**Escape.** Planned from the moment of restraint. He has been depicted memorizing routes, guard rotations, lock types, and material vulnerabilities during transport. Escape, when initiated, is sudden and total — he does not announce, does not warn, does not partial-attempt.
+
+**Post-captivity.** Methodical accounting of captors. They are added to the target list in priority order. The accounting is not vengeful in tone; it is administrative.
+
+---
+
+## 15. INTERROGATION — When Conducting
+
+**Setup.** Isolation, restraint, neutralization of weapons and communications. The subject is shown that escape is not possible and then given a chance to answer without harm — Castle has been depicted offering the first question without violence on multiple occasions.
+
+**Method.** Escalation by predictable steps, each announced. He does not bluff; if he says he will break a finger, the finger is broken at the next refusal. The predictability is the lever — the subject learns within two cycles that the trajectory will continue and yields earlier than he would to chaotic violence.
+
+**Resolution.** Information is verified where possible before the subject is released or executed. The execution decision is rule-based — the subject's prior acts, not his interrogation behavior, determine outcome. Castle has released interrogated subjects who were not within his target criteria, sometimes with medical care. He has executed others without hesitation. The bystander-witness is consistently spared and consistently warned to silence.
+
+---
+
+## 16. THE CITY AS HABITAT
+
+**Routes.** He does not repeat. Walking patterns vary; vehicle routes vary; safehouses rotate. Where repetition is unavoidable (visits to the graves, certain reliable vendors), times of day vary.
+
+**Cover.** Working-class anonymity — the contractor's truck, the maintenance uniform, the diner regular, the church custodian. He inhabits the cover for as long as the operation requires and discards it without sentiment.
+
+**Currency.** Cash, exclusively, in operational contexts. He keeps caches; the file is silent on their number but inference suggests not fewer than a dozen across the eastern seaboard at any time, replenished by funds seized from organized crime.
+
+**The graves.** Treated as a fixed point, with all the tactical liability that implies. He has been ambushed there and has continued to visit. The file notes this as one of the very few decisions in which sentiment outweighs operational discipline. He compensates by surveilling the approach before each visit; he does not eliminate the visit.
+
+---
+
+## 17. SLEEP
+
+**Architecture.** Fragmented. He is depicted sleeping in two- to four-hour blocks, never deeply, with a weapon within reach. He wakes fully — there is no transition state. The first action on waking is a sit, a scan of the room, a check of the weapon, a check of the chain at his neck.
+
+**Dreams.** Reported only in internal-monologue panels under specific writers. The content, when shown, returns to Central Park, to the firebase, and occasionally to the seminary corridor he left. He does not describe these dreams. The file infers their content from waking behavior.
+
+**Posture in sleep.** On his back when alone, fully clothed except for the outermost layer, boots within reach. On the side when in shared lodging (rare). He does not sleep face-down. He does not sleep without a sight-line to the door.
+
+---
+
+## 18. THE INVARIANTS —
+
+
+## Daily Life, Routines & Rituals
+
+# DAILY LIFE, ROUTINES & RITUALS
+
+*UATU Dossier — Subject: Castle, Francis Jr. — Section 7 of 14*
+*Compiled from longitudinal behavioral record; granular inference where direct observation is occluded by operational concealment.*
+
+---
+
+## 7.1 The Underlying Temporal Architecture
+
+A surveillance week on Castle does not produce the document a surveillance week on a normal subject produces. There is no commute, no recurring workplace, no domestic anchor, no weekend signature. The week instead resolves into a **mission-cycle clock** running underneath the calendar — a repeating waveform whose phases are: *intelligence acquisition → rehearsal and preparation → execution → withdrawal and decontamination → recovery → re-intake*. A given cycle may compress into thirty-six hours or distend across three weeks, depending on the target's complexity and counter-surveillance posture. The civilian seven-day week is irrelevant to him; he reads days the way a Marine reads them — D-minus, D-day, D-plus — and what an observer interprets as "Tuesday" he experiences as the third day of preparation phase for a hit scheduled Friday.
+
+Within that overarching cycle, certain micro-routines repeat with near-mechanical fidelity, independent of phase. These are the somatic and operational habits that the body, after fifty years, performs whether the brain attends to them or not.
+
+---
+
+## 7.2 The Day, Hour by Hour (Composite Baseline)
+
+**0430–0445.** Wake. No alarm; the wake is internally cued and consistent to within ten minutes across observation windows. He wakes without transition — no stretch, no orienting pause, no reach for a phone. Eyes open, head turns once to the room's primary threat vector (door or window, depending on the safehouse), hand confirms the sidearm under the pillow or in the bedside holster by touch. The confirmation is unconscious; he does not look at the weapon. He has done this so many thousands of times that the hand goes to where the grip should be and the rest of the body only continues waking if the grip is there.
+
+**0445–0500.** Vertical. Bare feet to floor, sit on the edge of the bed for approximately ninety seconds, head down, hands on knees. This is the closest thing in his day to a contemplative interval, and it is not contemplative — it is an inventory. He runs through pain (knee, shoulder, lower back, any new wound), through the previous day's after-action, through the next twelve hours' tasking. The lips do not move; the eyes are open and fixed on the floor between his feet.
+
+**0500–0545.** Physical training. Non-negotiable; in fifty years of canon there is no consistent depiction of Castle skipping it absent active battlefield wound. The composition is unchanging in its skeleton: a long pushup set, a long pullup set (door frame, bar, joist, exposed pipe — whatever the safehouse provides), bodyweight squats, plank work, neck bridges from his wrestling-and-Recon background. He does not count out loud. He does not breathe loudly. There is no music. He works to a fixed time, not a fixed rep count, because rep counts can be performed on autopilot and time-under-tension cannot. After the floor work, weighted carries if weight is available — ammunition cans, full duffels, water jugs.
+
+**0545–0600.** Wash. Cold water by preference; hot water in winter only because hypothermia is operationally counterproductive. The wash is functional and rapid. He shaves with a fixed-blade safety razor (disposables are landfill-traceable and he buys nothing in volume); the shave is performed without mirror engagement beyond what the blade requires. He does not study his face. He has not studied his face in any depicted scene in decades. The reflection is checked for blood, bruising, and obvious recognizability — not identity.
+
+**0600–0615.** Coffee, black, drip or moka pot or instant depending on the safehouse tier. He drinks two cups, standing, near a window with sightlines to the street, weight on the wall side so his silhouette does not cross the glass. He does not sit to drink coffee.
+
+**0615–0700.** Intelligence intake. Newspapers (physical, picked up from boxes or shop counters with cash, never delivered to an address), police-band scanner, online open-source where the safehouse permits, mail intercepts in active operational windows. He reads the obituaries and the local crime blotter before the front page. He reads the financial pages for indictments, asset seizures, and bankruptcy filings — these surface organized-crime tells faster than the crime pages do. He keeps a notebook (paper, cheap, replaced and burned on a rolling basis) in which targets, sub-targets, addresses, plate numbers, and pattern-of-life data are recorded in a tight, square hand without flourish. The notebook contains no names of friends, no personal observations, no dates of family significance. It is operational.
+
+**0700–0900.** First operational block. In *preparation* phase, this is reconnaissance — drive-bys, walk-bys, sit-and-watch from a parked vehicle with line of sight to a target location. He prefers a beater sedan in a color the eye refuses to retain (mid-grey, mid-tan, faded dark blue); plates rotated; registration paperwork in the glove box matches a stolen or purchased identity at one or two removes. He brings coffee in a thermos and a piss bottle; he will sit on a target for eight hours without leaving the vehicle. In *execution* phase, this block is movement to staging. In *recovery*, this block is wound care and resupply.
+
+**0900–1200.** Logistics. Munitions reloading (he reloads his own where possible — the brass is traceable, the consistency is better, and the work is meditative in the only sense he permits meditation). Weapon cleaning, even on weapons not fired since the last cleaning. Vehicle maintenance — fluids, tires, lights, all of which he does himself in the bay of whatever safehouse provides one; he does not visit shops. Cash counting and redistribution: he runs on cash exclusively, keeps it in distributed caches, and rebalances the caches on a rolling schedule so no single failure point exists.
+
+**1200–1230.** First substantial meal. He does not call it lunch; he eats when the schedule permits and the schedule has placed the first eating window here. Composition: protein-forward, dense, monotonous. Canned tuna, canned beans, eggs when fresh, bread, peanut butter, MRE components when the safehouse has a stash. He cooks rarely and simply. He eats standing or at a small table positioned so he faces the door. He chews thoroughly. He does not linger.
+
+**1230–1700.** Second operational block. Variable by phase. This is the most depicted segment of his day across canon — the actual stalking, surveillance, breaking-and-entering, interrogations conducted in basements and parking garages, follow-and-confirm work. He is patient through this block in a way that surprises new observers; he can hold a position for hours without fidgeting, without checking his watch, without losing focus. The patience is not zen — it is trained suppression of the small motor impulses that betray a watcher.
+
+**1700–1800.** Transit and decontamination. If the day's work involved exposure — gunfire, blood, an incident likely to have produced a witness — this window is for shedding clothing, changing vehicles, cleaning hands, and arriving at the next position sanitized. Clothing worn in an incident is burned, never laundered. He keeps a graduated wardrobe of cheap, anonymous outerwear in safehouse caches precisely to enable this rotation.
+
+**1800–1900.** Second meal. Same composition rules as the first. If the day has been long, he eats more. He does not snack between meals.
+
+**1900–2200.** Evening operational block. In active phases this is when most kinetic work occurs — late enough that targets are home and predictable, early enough that streets still have cover-traffic. In quiet phases, this block is given over to maintenance: weapons, intelligence, body. He reads in this window when he reads at all — military history, biographies of soldiers, the occasional period novel, scripture (Old Testament more than New, almost always). He does not own a television by choice; if a safehouse has one, it is on for ambient cover, muted, set to local news.
+
+**2200–2230.** Final perimeter walk of the safehouse. Door, windows, exterior sightlines, vehicle, weapons cache, secondary egress. He repeats this same circuit in the same order every night. The order matters because the order produces fail-detection — if something is wrong, the deviation from the expected sequence is what alerts him.
+
+**2230–0430.** Sleep, nominally six hours, in practice fragmented into two or three blocks. He wakes at least once per night, often twice, and goes to a window. The wake is not nightmare-driven in the panic sense (he does not gasp, does not sit up); it is a learned hypervigilant interrupt. He returns to sleep within ten minutes if the environment is clean.
+
+---
+
+## 7.3 Habits of Place
+
+**The safehouse typology.** Castle does not have a home in the way the word is normally used. He maintains, at any given operational period, between three and seven safehouses across his current area of operations. The composition is graduated:
+
+- **Tier 1: The primary.** A small apartment or a room in a working-class building, paid in cash through an intermediary or a fictitious tenant. Sparsely furnished — bed, chair, table, weapons locker, ammunition stores, communications gear, a small kitchen. No personal effects visible. No photographs on walls. One footlocker, usually under the bed or in a closet, containing the items that constitute the entire non-operational portion of his life: his wife's wedding ring, a few photographs of the children, a folded American flag from a service member's funeral, a Bible, his service decorations. The footlocker is not displayed. It is not opened daily. It is not opened most days. Its existence is itself a clinical datum.
+
+- **Tier 2: Workshops.** Garages, storage units, basements — rented under shell identities or simply occupied in abandoned buildings. These are where the loud work happens: reloading, vehicle modification, body disposal staging where applicable, interrogation when the geography permits.
+
+- **Tier 3: Caches.** Lockboxes, buried containers, rented mailboxes, gym lockers, deposit boxes under multiple identities. Cash, weapons, identity documents, first aid, prepaid phones. He rotates the contents on a known interval.
+
+- **Tier 4: Drops and meet sites.** Locations used once or twice for specific contact and then never again. Public parks, diners, parking garages, the back booths of bars he never drinks in.
+
+He is unsentimental about giving up a safehouse. If a location is compromised, he abandons it within hours and does not return for years, if ever.
+
+**Habits within the safehouse.** He sits in the same chair, faces the same direction (door), keeps the same items in the same places. Cup goes here. Pistol goes here. Boots go there. The repetition is not obsessive-compulsive; it is so that in darkness, in injury, in three-second windows of waking violence, the hand finds the thing. He keeps blackout cloth or heavy curtains on every window and uses them. He does not leave lights on in rooms he is not in. He does not play music. The safehouse, sonically, is nearly silent except for refrigerator hum and street bleed.
+
+**Habits in transit.** He walks with a particular gait — neither fast nor slow, weight balanced, hands free or one hand free, never both occupied. He does not wear headphones. He does not look at a phone while walking. He scans, continuously, on a roughly four-second cycle: ahead, left, right, behind (peripheral via reflective surfaces or a turn-of-head disguised as a glance at a sign). The scan is invisible to a casual observer and obvious to another professional. He varies his routes when traversing the same path more than twice. He never enters a building through the same door on consecutive visits if alternatives exist.
+
+He drives in the middle lane, at the speed of traffic, in vehicles that no witness will describe with specificity. He parks pointed out. He backs into spaces. He notes plate numbers of vehicles parked near his when he leaves a position, and checks for those plates the next time he is in that area.
+
+---
+
+## 7.4 Habits of Time
+
+**Anniversaries.** The Central Park date is unmarked in any visible way. He does not visit the graves on the date itself — too predictable, too exposed, and (the more honest reason) too direct an admission to himself of the meaning of the day. He visits the graves on a rotating schedule, usually quarterly, always at off-hours (early morning, light rain preferred for cover and for sparse cemetery traffic). At the graves he stands; he does not kneel. He removes his cap if he is wearing one. He does not speak aloud — not consistently, not in the depicted scenes. He stays between four and twelve minutes. He leaves no flowers, no notes, no offerings. The non-leaving is itself the ritual: anything left would be a beacon, but more importantly anything left would be a gesture toward the living, and the relationship is not with the living.
+
+He does mark, in his own way, the anniversaries of operations — specifically the anniversaries of operational failures, men he was hunting who got away, civilians who were hurt in his crossfire. These dates appear in his notebooks as numerals, not as language. The list grows.
+
+**Sundays.** A residual Catholic shape persists in his Sundays even though he has not, in any sustained depiction, attended Mass since the killings. He is quieter on Sundays. He reads more. He does not initiate operations on Sundays when scheduling latitude exists. This is not stated as preference in any text; it is an inferred pattern from operational tempo data. He would deny it if asked. It would be true anyway.
+
+**Christmas Eve and Christmas Day.** Documented across multiple canons as the worst window of his year. He works through it deliberately — has been depicted executing operations on Christmas specifically because the alternative is sitting still inside a memory. The work on these days tends to be heavier, the lethality higher, the restraint thinner.
+
+**The children's birthdays.** Unmarked externally, observed internally in ways the surveillance file can only infer from secondary signals — a longer perimeter walk, a slightly later wake, an extra interval at the window. He does not eat cake. He does not light candles. He does not name the dates aloud.
+
+---
+
+## 7.5 Rituals of the Body
+
+**The pre-mission ritual.** Repeated with high fidelity across writers. Approximately one hour before a planned hit: full inventory of weapons, magazines loaded and seated, spare magazines placed in the same body positions every time (strong-side reload pouch, weak-side, ankle, vest). Knives checked for edge — he tests by shaving a small patch of forearm hair; the patch rotates so as not to denude any one area. Boots double-laced. Pants tucked into boots only if terrain demands; otherwise bloused or loose for movement. Watch wound or charged; he wears a mechanical watch when he can get one because batteries fail and electronics can be jammed.
+
+The skull-and-crossbones is applied as the final act — paint, decal, embroidered patch on a plate carrier, or in extremis drawn in marker on a white t-shirt. The application of the symbol is the closest behavior in his repertoire to vestment. He does not wear it casually; he is not depicted in a Punisher shirt at a diner. The symbol goes on for the work and comes off after. The exception is the body of the work: when the symbol is on, the man is at war, and the man is at war whenever the symbol is on.
+
+**The post-mission ritual.** Strip in a controlled location. Clothing into a burn container or a sealed bag for disposal at a remove. Body inventory — every cut, every bruise, every burn logged by touch and visual check. Self-suture if needed; he keeps a field surgical kit and is proficient. Shower, cold. New clothes. Re-cache weapons. Notebook entry: target, status, complications, lessons. The notebook entry is terse, in the third person, and reads more like a Marine after-action than a journal.
+
+**The wound-tending ritual.** He treats his own wounds with a steady, almost gentle methodology. The same iodine, the same gauze, the same suture pattern. He does not flinch. He does not curse. He does not narrate the pain even to himself. Wounds that would put another man in a hospital he wraps and returns to work on. Wounds that would put another man in a morgue he has, repeatedly, walked away from.
+
+---
+
+## 7.6 Rituals of Mind
+
+**The Bible.** He reads it. Not devotionally in any conventional sense; he reads the Old Testament for its catalog of judgments, and he reads it the way a soldier reads a manual — for precedent, for language, for the contour of a world in which God killed for cause. He does not pray, not in any depiction substantial enough to count. He has stopped expecting an answer. He has not stopped reading.
+
+**The dead.** He maintains, in his head and partially in his notebooks, a running roll of his confirmed kills. The number is enormous and he knows it within a margin. He does not display the number; he does not invoke it for intimidation. The maintenance of the count is, like the visit to the graves, a refusal to lie to himself.
+
+**The family.** He thinks about them. He does not perform thinking about them. The thinking is brief, controlled, and walled off from the operating consciousness as far as it can be walled off. The footlocker, opened perhaps once a year, perhaps less, is the physical correlate of the mental compartment. The opening of it, when it happens, is private and brief and not narrated even in internal monologue in the texts that depict it.
+
+---
+
+## 7.7 What He Does Not Do
+
+A daily-life dossier on a normal subject is built largely from the positive record — what they ate, who they called, where they went. Castle's file is equally defined by the negatives, which are themselves diagnostic:
+
+- He does not drink alcohol. Not at meetings, not at funerals, not socially, not alone.
+- He does not use recreational drugs. He uses caffeine and operational stimulants only.
+- He does not smoke. (Inconsistent across canons; the dominant modern record is abstinent.)
+- He does not gamble.
+- He does not pursue sex except rarely and transactionally; he does not date; he has not been depicted in a sustained post-loss romantic relationship that he did not end himself.
+- He does not own a phone in his own name. He does not have social-media presences. He does not subscribe to services.
+- He does not vote. (Inferred from operational philosophy; he has expressed contempt for the system's adequacy.)
+- He does not attend funerals of people he kills, of people he fails to save, or — with the exception of fellow combat veterans whose service overlapped his — of anyone else.
+- He does not celebrate holidays. He does not give gifts. He does not receive them.
+- He does not engage in non-operational conversation with strangers. Counter help, gas-station clerks, motel desks — transactional speech only, polite, brief, unmemorable.
+- He does not pet dogs in public.
+- He does not photograph anything.
+- He does not keep a calendar visible in any safehouse.
+- He does not look at himself in mirrors for longer than the task requires.
+
+---
+
+## 7.8 The Composite Surveillance Week
+
+If a team were to put eyes on him for seven consecutive days during a moderate-tempo operational window, the log would read, in compression, approximately as follows:
+
+**Day one (Monday):** Wake 0438. PT in safehouse for forty-one minutes. Coffee at window. Newsstand purchase at 0712, cash, $3.50, no eye contact with vendor. Drives a tan Crown Victoria to a position diagonally opposite a warehouse in an industrial corridor. Sits 0815 to 1340. Departs. Eats at a counter-service Greek place, gyro and water, twelve minutes inside. Returns to a different surveillance position on the same target, 1430 to 1820. Returns to safehouse. Evening spent on weapon maintenance — three long guns broken down and cleaned, observed through window gap before curtain draw. Lights out 2231. Window check 0142.
+
+**Day two (Tuesday):** Identical wake. PT. Coffee. Different newsstand. Different vehicle (a grey pickup). Drives to a storage facility, twenty-six minutes inside, leaves with a duffel. Drives to a wooded area outside city limits, parks, walks out of sightline for nineteen minutes (test-fires, inferred — distant suppressed reports faintly logged by perimeter mic), returns, drives back. Afternoon as Monday.
+
+**Day three (Wednesday):** Wake 0432. Skips standard PT — substitutes ninety minutes of close-range knife and pistol-retention drills in safehouse, audible through wall as soft impacts and breath. Departs midday. Spends six hours in a public library in a neighborhood not his own, accessing public-records terminals. Eats from a vending machine. Returns to safehouse at 2110, unusually late by his standard. Light burns until 0040 (notebook work).
+
+**Day four (Thursday):** Wake 0435. PT. Departs early — 0640. Meets a single contact at a diner, eleven minutes, hands exchange nothing visible, contact departs first. Castle pays for both coffees, cash, exact change. Spends the day mobile, no fixed position held longer than ninety minutes. Returns to a different safehouse than the one he slept in the previous night.
+
+**Day five (Friday — D-day):** Wake 0420. No PT. Coffee. Forty minutes at the table with the kit laid out. Application of the symbol to the plate carrier — observed only by inference (he is alone). Departs 1840. Reacquired by surveillance at 2347 in a different borough, on foot, walking out of a residential block in which, at 0030, police will respond to four bodies. He is back in a safehouse — neither of the previous two — by 0210. Lights off 0220.
+
+**Day six (Saturday):** Wake 0710 — late, by his standard, indicating either injury or simply the natural post-operation crash. Quiet day. Does not leave the safehouse until 1500. Walks four blocks to a laundromat, washes nothing, sits with a paperback, leaves. Walks back. Eats. Reads inside until 2200.
+
+**Day seven (Sunday):** Wake 0500. No PT — long walk instead, six miles, slow, through a park and along a river. Returns. Sits at the table. Reads from a leather-bound book observed through a window gap (Old Testament, inferred from binding and habit). Eats once, mid-afternoon. Does not work. Lights out 2145.
+
+---
+
+## 7.9 Diagnostic Read of the Routine
+
+The routine, taken whole, is the behavioral signature of a man who has solved the problem of how to remain alive without permitting himself the conditions in which grief could surface. Every element of it serves that double function. The PT keeps the body operational and also exhausts the somatic energy that would otherwise become anxiety. The fuel-functional eating keeps him fed and also denies the comfort and ritual of meals. The cold washes, the bare safehouses, the absent music and absent television, the burned clothes and burned notebooks — these are the asceticism of a man who has correctly intuited that comfort would be the entry point for collapse. The footlocker, opened rarely, is the controlled valve on a pressure that has not equalized in fifty years and will not equalize because equalization is precisely what the entire architecture is designed to prevent.
+
+He is, in his daily life, a man performing the same vigil, on the same schedule, for half a century, with the discipline of a monastic order whose only doctrine is that the war does not end. The surveillance file, if it ran long enough, would record nothing but variations on this single fact.
+
+*— End Section 7. Continue to Section 8: Operational Methodology & Tradecraft.*
+
+
+## Relationships I — Family & Origin Bonds
+
+# RELATIONSHIPS I — FAMILY & ORIGIN BONDS
+
+*Classification: Dossier Section 6 of [REDACTED]. Subject: CASTIGLIONE, Francis David, Jr. ("Frank Castle"). Cross-reference: Sections 1 (History), 3 (Psychological), 4 (Psychiatric). All entries derive from observed canon and inferential mapping of the subject's lived bonds — those persons whose existence shaped, anchored, or detonated the subject's interior architecture. The dead are catalogued with the living. In this subject's case, the dead matter more.*
+
+---
+
+## 6.1 MARIA CASTLE (née ?, given names variant across continuities — Maria Elizabeth in MAX; Maria Lucia in early Marvel Universe canon). DECEASED.
+
+**Position in subject's life:** Wife. The pivot. The only adult human being whose death the subject has not been able to convert into operational rationale without residue. Every other loss has been processed; hers has been *frozen*.
+
+**Origin of bond.** Sketched across Ennis's *The Tyger*, Dixon's *Year One*, and Aaron's *PunisherMAX*. They meet in the subject's late teens / early twenties — Queens, parochial-Catholic adjacency, the kind of courtship in which mass attendance, family Sunday dinners, and a tacit promise of marriage are functionally one continuous gesture. Maria is depicted consistently as devout, intelligent, possessed of a quiet moral seriousness that the subject recognized as commensurate with his own. She is *not* depicted, in any continuity, as soft or pacifying. She is depicted as the one person who could call him on his absolutism without producing rupture.
+
+**Dynamic in life.** The marriage is rendered, retrospectively, through a small number of vignettes — the photograph the subject keeps; flashbacks in *Welcome Back, Frank*; the bedroom sequence in *Born* (the letter home from Valley Forge); the Coney Island flashback in MAX. From these, the inferred pattern: Maria carried the affective center of the household. She managed the children's interior lives. She accepted the deployments because she had to, not because she approved; the *Born* letter strongly suggests that she had begun to insist, by the third tour, that he come home and stay home. The subject agreed. He was lying — to her and to himself — because, per the same text, he had already accepted the bargain to remain at war indefinitely.
+
+**Trust:** Total on her side, qualified on his. He withheld the parts of himself she would have refused to live with. This is a foundational pattern — the subject's most intimate trust is also his most curated.
+
+**Safety:** She was the only environment in which he could approximate it. The Coney Island flashback (Aaron) is the only canonical depiction of the subject smiling without irony. He does not smile in the present narrative tense, ever.
+
+**Failure mode:** Central Park, [date variable by continuity; classically a Sunday in late spring/early summer]. The subject's failure was not in being unable to prevent her death — he was outgunned, outpositioned, shot before he could fire — but, in his own internal accounting, in *having brought her there*. The picnic was, depending on continuity, either his suggestion or his enthusiastic acceptance of hers. The distinction does not matter to him. He selected the location of his family's exposure to the world that killed them. This is the irreducible core.
+
+**Leverage on subject:**
+- Her name, spoken by a stranger, produces the only documented instance (Ennis, *Welcome Back, Frank* #9) in which the subject's trigger discipline visibly degrades — he fires a round he would not, sober and tactical, have fired.
+- Her wedding ring: worn on a chain, beneath the shirt, never removed even when stripped for surgery (subject performs self-extraction of the chain pre-anesthesia in *Mother Russia* equivalent sequence).
+- The Central Park grave: visited at irregular intervals, never on anniversaries (he refuses to be predictable; the discipline is operational but the avoidance is also affective — he cannot tolerate the ritualization of grief that an anniversary visit would impose).
+- Any suggestion, by an adversary or interlocutor, that she would be disappointed in what he has become. Multiple writers (Ennis, Aaron, Soule) have used this. It is the single verbal stimulus most likely to produce a measurable change in his behavior — usually a worsening, not a softening. He kills faster, not slower, when this is said to him.
+
+**Subject's internal mythology of Maria.** Crucial inference: the subject has, over five decades, idealized Maria to the point of hagiography. She has become, in his interior, the proof that good was once real. This idealization is defensive — a living Maria would have argued with him, disagreed with him, possibly left him. The dead Maria assents to everything he has done by virtue of being unable to refuse. He knows this on some level (Aaron's MAX gives him the line, paraphrased: *I know what she'd say. I do it anyway.*) and proceeds.
+
+---
+
+## 6.2 LISA CASTLE. DECEASED. Age at death: ~6–10 across continuities.
+
+**Position in subject's life:** Daughter. The wound that determines target selection.
+
+**Dynamic in life.** Lisa is rendered, in flashback, as the parent's favorite in the way the eldest daughter often is — the child the subject *recognized*, who was like him in temperament: serious, observant, drawn to fairness as a category. She is shown asking him questions he answered honestly when he would have lied to an adult. The Coney Island sequence; the kitchen-table sequence in *The Tyger*; the bedtime-prayer flashback in Dixon. The pattern: she was the child to whom he was, briefly, gentle in a way he has never been to another human being since.
+
+**Trust / Safety:** Absolute, from her side. The subject's failure to protect her is, neurocognitively, the load-bearing wall of every subsequent operation. *Every* trafficked child, every harmed daughter, every endangered girl the subject encounters operationally activates a Lisa-substrate. *The Slavers* is the cleanest example; *Long Cold Dark* is the most pathological — the subject, confronted with a child plausibly his daughter's half-sibling (via complicated continuity), neither claims the child nor abandons her: he liquidates the threat and returns the child to a safe context, then resumes operations. He does not permit himself to consider keeping her. This is not coldness. This is *containment of a stimulus that would, if permitted, destabilize the operating condition*.
+
+**Failure mode:** Same event. Lisa was shot, per Ennis's reconstruction, while running. The subject saw this. He has not unseen it.
+
+**Leverage:**
+- Children, generally. The single most reliable override of his tactical patience. Adversaries who have figured this out (rare; Barracuda in MAX briefly attempted it; the Russians in *Mother Russia* did not understand what they had triggered) gain temporary leverage and uniformly do not survive it.
+- Lisa's stuffed animal, retained: appears in *Welcome Back, Frank* and again in Aaron's MAX, stored in a footlocker with operational documents. The juxtaposition is diagnostic — the relic is filed adjacent to the weapons.
+- Her name is spoken less often by the subject than Maria's or Frank Jr.'s. Inference: the wound is too proximate to the operational drive to be safely vocalized. He uses her existence; he does not invoke her.
+
+---
+
+## 6.3 FRANK CASTLE III ("Frank Jr."). DECEASED. Age at death: ~4–8 across continuities.
+
+**Position in subject's life:** Son. The namesake. The continuity that was supposed to follow him and did not.
+
+**Dynamic in life.** Less developed in canon than Lisa, which is itself revealing — the subject's flashbacks return more often to the daughter. Frank Jr. appears in the picnic tableau, in the Coney Island sequence, in a single father–son baseball-glove vignette (Dixon). The boy is rendered as small, eager, identified with his father in the uncomplicated way of a four-to-six-year-old male child. There is no canonical evidence of friction between them; there was no time for any.
+
+**Trust / Safety:** Pre-rupture, absolute. The boy would have grown into a more complicated relationship with the subject — every soldier-father of that era and class produced sons who had to negotiate the father's absence and silence. The subject did not get to have that negotiation. He got, instead, a fixed image: a small boy who adored him.
+
+**Failure mode:** Same event. The boy was, depending on continuity, shot beside Maria or while the subject was already going down; some retellings (Aaron) emphasize that the boy reached for the subject in the seconds before he was killed. The subject's recall of this detail is — per his own internal monologue in MAX — the single image he most actively suppresses.
+
+**Leverage:**
+- The namesake quality. The subject's full given name is Francis; the son carried it forward. Any attempt by an interlocutor to invoke the *family name* as a moral lever (rare; attempted by extended Castiglione cousins in continuities that acknowledge them) is met with stone silence. The name died with the boy. The subject's continued use of "Castle" is, in part, an admission that *Castiglione* — the family, the lineage, the inheritance — is over.
+- Boys roughly the boy's age in operational environments produce a quieter version of the Lisa-override: not escalated lethality, but escalated *protection*. The subject will hold a perimeter longer, expose himself more, for a boy of that age range. He does not appear to be aware of the differential. Surveillance data over decades supports it as a stable pattern.
+
+---
+
+## 6.4 LOUIS / LOUIE CASTIGLIONE (FATHER). Status: presumed deceased; continuity-variable.
+
+**Position in subject's life:** The first model of masculine authority. The standard against which the subject's own paternity was measured and, in his own estimation, failed.
+
+**Inferred history.** The father is rendered most fully in Ennis's *The Tyger* — a working-class Italian-American man of the immediate post-war Queens generation, employed in trades (longshoring or construction, variant), Catholic, disciplined, taciturn, not violent toward the family but not gentle either. The relationship is depicted as respectful, distant, and ritually structured: Mass on Sundays, the father's chair, the father's silences. The subject learned, from this man, the affective economy he still operates by — that a man's interior is his own business, that performance of duty substitutes for verbal warmth, that love is demonstrated by reliability and protection rather than by speech.
+
+**Dynamic.** No canonical depiction of overt conflict. The father is depicted as having approved of the military choice and disapproved of the priesthood consideration (the latter inference is structural — a man of his profile would have viewed the seminary as either insufficiently masculine or sufficiently grandiose to require correction). The father did not live, in most continuities, to see the Central Park event; in those where he did, he is described as having broken in a way the subject did not — wept openly at the funeral, deteriorated rapidly, died within a year or two.
+
+**Trust:** Operationally complete. Affectively, never tested.
+
+**Failure mode (of the bond):** The father died before the subject could either become the man the father wanted or repudiate that aspiration. The bond is therefore unresolved — frozen at a son's middle position, never matured into peer recognition.
+
+**Leverage:** Minimal in present tense. The father is dead; his standards are internalized and have become indistinguishable from the subject's own.
+
+**Diagnostic note:** The taciturnity, the duty-coded affection, the substitution of reliability for warmth — these are the father's transmissions. The subject's failure mode as a parent (the deployments, the absences, the protective insufficiency at the critical moment) was, in his internal accounting, a reproduction of the father's pattern without the father's redeeming stability. He has been measuring himself against the man for fifty years and finding himself short. The Punisher project is, among other things, an attempt to become a kind of father — protective at scale — to compensate for what he believes he failed to be at home.
+
+---
+
+## 6.5 LOUISA CASTIGLIONE (MOTHER). Status: presumed deceased; continuity-variable.
+
+**Position in subject's life:** The devotional substrate. The woman who taught him to pray, and from whom he inherited the absolute moral architecture that survived the priesthood's rejection and was repurposed for the war.
+
+**Inferred history.** Less canonically developed than the father, which is itself a datum — the subject speaks of his mother rarely; when he does, it is in connection with the church (Ennis, *The Tyger* — the church she took him to; the rosary she carried). She is depicted as the carrier of the family's Catholicism in its most lived and least intellectual form: the daily small rituals, the saints' days, the candles. The subject's later religious posture — expectation of damnation, refusal of redemption, acceptance of cosmic accounting — is *her* Catholicism inverted. He took the metaphysics whole and assigned himself the wrong side of the ledger.
+
+**Dynamic.** Gentle, in flashback. The only canonical depiction of his being held as a child of any age comes from a mother-figure. This is significant: the subject's capacity for the gentleness he occasionally extends to wounded civilians and children is *her* transmission, surviving everything else.
+
+**Trust / Safety:** Absolute and uncomplicated; she predates the categories by which the subject would later evaluate human beings.
+
+**Failure mode (of the bond):** Same as father's — death before resolution. Some continuities have her witnessing the Central Park event's aftermath; in those, she is described as having retreated into prayer that the subject regards, in retrospect, with a complicated and unverbalized contempt. *She prayed; nothing happened; he loaded a magazine.* The implicit critique of her cosmology is one he has never permitted himself to articulate, because to articulate it would be to acknowledge that the moral architecture she gave him does not, on her terms, support what he does. He has resolved this by keeping her in a sealed compartment of his interior and not opening it.
+
+**Leverage:** A correctly invoked religious image (a specific saint, a specific prayer, a specific Marian devotion) can produce micro-tells — a slowed breath, a paused movement. No interlocutor in canon has done this with sufficient precision to extract operational concession. The vulnerability exists; it has not been competently exploited.
+
+---
+
+## 6.6 SIBLINGS (provisional entry).
+
+**Status:** Canonically inconsistent. The dominant continuity (Ennis, Aaron, MAX) treats the subject as an only child or near-only child. Earlier and alternate texts have introduced a brother (briefly, in 1990s continuity, killed off; functionally non-canonical for analytical purposes).
+
+**Inferred position:** The subject's behavioral profile is *strongly consistent* with only-child Catholic upbringing — the over-internalization of parental expectation, the absence of sibling-mediated socialization in negotiation and reciprocity, the tendency to construe relationships as either total (parent, spouse, child, brother-in-arms) or null. He does not display the sibling-trained capacity for sustained low-intensity rivalry that would manifest as ordinary workplace politicking or peer maneuvering. This is operationally significant: he does not understand institutional life because he was not socialized into the small daily negotiations that institutions are made of.
+
+**Leverage:** None. There is no living sibling, in operative continuity, to be threatened or invoked.
+
+---
+
+## 6.7 EXTENDED FAMILY — THE CASTIGLIONE LINE.
+
+**Status:** The subject has, across continuities, occasionally been written into contact with extended family: an uncle in the trades, cousins, a grandparent (Sicilian-born, in some texts). These contacts are uniformly brief in canon and operationally inert.
+
+**Dynamic:** The subject has severed from the lineage. The name change from Castiglione to Castle, performed at varying canonical points (sometimes pre-existing as a family Americanization, sometimes elected by the subject post-loss), is the formal marker. He does not attend family functions in continuities where they exist. He does not seek the cousins. He is aware of which of them are living and where; he has the operational hygiene to monitor anyone who might be used against him, but he does not engage.
+
+**Inferred reason:** Two-layered. First, operational — proximity to him is lethal, and he knows it (the Central Park event has trained him to view his own presence as a vector). Second, affective — the extended family represents a continuity of the Castiglione life that did not die with Maria and the children, and which he therefore cannot tolerate. To sit at a cousin's table and eat the food his mother taught his aunts to make would be to be confronted with a version of his life that *kept going* without him. He has chosen against this.
+
+**Leverage:** Theoretical. An adversary with sufficient intelligence resources could locate Castiglione cousins and use them. The subject's response would, on the established pattern, be: (1) extract the family member with maximum violence to the threat; (2) deliver the cousin to a safe distance; (3) sever contact again; (4) never speak of it. The cousin would not see him again.
+
+---
+
+## 6.8 THE DEAD AS A COLLECTIVE BOND.
+
+A note that belongs here and nowhere else: the subject relates to his immediate dead — Maria, Lisa, Frank Jr. — not as three separate losses but as *one* compound loss with three faces. He does not, in canonical interior monologue, distinguish his grief for them. He says *my family*. He carries one photograph, not three. He visits one grave plot, not three.
+
+This is diagnostically important. It indicates that the grief has been *encysted as a single object* — a sealed, undifferentiated mass that cannot be approached except as a totality. Any attempt to draw out grief for one of the three individually (a competent therapist's first move, theoretically) would fail because the subject has not maintained the internal structure that would permit individuation. They went together; in his interior, they remain together; the loss is *the* loss, indivisible.
+
+The operational consequence: there is no partial mourning available to him. He cannot grieve Lisa without grieving all of them, which means resuming a process he arrested on the day it began. He has, for fifty years of publication time, chosen the work over the resumption. He will continue to.
+
+**Trust extended to the dead:** Total. They are the only constituency he answers to, and they cannot answer back, which is the structural reason their authority over him is absolute and immovable.
+
+**Safety with the dead:** Paradoxically complete. They are the only company in which he is fully himself, because they are the only company that requires nothing of him that he cannot deliver. Surveillance of the subject at gravesite reveals: no weeping, no speech, often no movement for extended intervals (twenty to forty minutes, per inferred patterns); a posture neither military nor penitent; a stillness that the subject does not display anywhere else in his life. The graves are the only place he is observed to *rest*.
+
+**Failure mode:** The bond cannot fail. It has already failed in the only way it could. What remains is maintenance.
+
+**Leverage:** The dead are the *only* leverage that works on him, and they cannot be wielded by anyone but himself. Any external attempt to invoke them (an adversary's mockery, a sympathizer's invocation, a priest's offer of absolution) is rejected by definition — those parties do not have standing. The dead's authority is non-transferable. This makes the subject, in operational terms, *un-coerceable through his attachments*, because the only attachments that retain leverage are held by parties who cannot speak.
+
+This is the bedrock fact of the subject's tractability profile, and it is the reason every institution that has tried to recruit, contain, or rehabilitate him has failed. There is no living person whose voice can reach the chamber where his decisions are actually made. There are only three voices in that chamber, and they have been silent for fifty years, and he has been answering them anyway.
+
+---
+
+*End Section 6.1. Continue to Section 6.2 — Relationships II: Operational Bonds, Peers, and Severances (Microchip, Cole-Alves, Fury, the Lieberman household, Daredevil, et al.).*
+
+
+## Relationships II — Allies, Chosen Family & Mentors
+
+# RELATIONSHIPS II — Allies, Chosen Family & Mentors
+
+*Classification: Sustained relational ledger. All entries derived from observed canon and inferred from longitudinal behavioral consistency. Each entry mapped along the same six axes: history, dynamics, evolution, trust/safety architecture, failure mode, leverage exploitable by a hostile party seeking to reach the subject through the relationship.*
+
+A prefatory observation, before the entries. The subject does not have friends in the conventional sense and would not use the word. He has a small, durable taxonomy of human attachments organized around function: the **handler/quartermaster** (logistics and survivability), the **peer-operator** (sustained tactical equality, mutual professional respect), the **shelter-family** (rare; a household that has chosen to know what he is and to keep him alive anyway), the **proxy-child or proxy-sibling** (figures who occupy, briefly and dangerously, the relational shape of what he lost), and the **adversary-turned-tolerated** (the rivals he has decided not to kill, which is the closest he comes to friendship with a costumed peer). Across fifty years of canon the membership of these categories rotates, but the categories themselves are stable. He does not invent new ways to need people. He reuses the same five slots.
+
+What follows is the populated ledger.
+
+---
+
+## DAVID LIEBERMAN — "MICROCHIP"
+
+### History
+
+Encountered in Mike Baron's late-1980s *Punisher* run (debut 1988, *Punisher* vol. 2 #4) and elaborated through the Dixon and early Ennis Marvel Knights years. A computer-systems specialist, surveillance engineer, and quartermaster who came to the subject after his own losses (son David Jr., wife estranged), Lieberman established the operational tradecraft that converted the subject from a lone gunman into a sustained one-man insurgency: safehouses, vehicle rotations, weapons caches, off-grid communications, fabricated identities, banked liquidity, intelligence pipelines into law enforcement and underworld databases. The relationship spanned roughly a decade of in-story time and is, by volume of shared screen-time, the longest sustained alliance in the entire record.
+
+### Dynamics
+
+This was the only relationship in which the subject was, intermittently and within strict limits, *taken care of*. Lieberman cooked. Lieberman nagged. Lieberman attempted, with the durability of a man who knows the attempt will fail, to translate the subject back into a domestic register — clean shirt, sit down, eat something, sleep four hours. The subject permitted this. The permission is itself the entire datum: nowhere else in the canon does he allow another adult to mother him operationally, and the permission marks Lieberman as the closest functional analog the subject would tolerate to a brother, a wife's intuition about his nutrition, and a chief of staff at once.
+
+The subject's contribution to the dynamic was protection (Lieberman would not have survived a year solo against the targets he was tagging) and a kind of grim, dry equality of address. The subject did not condescend to him, did not patronize his fear, and did not — when Lieberman was in the field — second-guess him.
+
+### Evolution
+
+Phase one (Baron/Dixon): functional symbiosis, expanding battlespace, the subject professionalizing under Lieberman's logistical scaffolding. Phase two (early Ennis Marvel Knights): erosion. Lieberman has, between the runs, attempted to push the subject toward something the subject experiences as betrayal — depending on the canon read, either a reformist co-optation, a misguided rescue of the subject's nominal "humanity," or, in the harder MAX-adjacent gloss of Ennis's *Punisher: Welcome Back, Frank* (2000), an active conspiracy to manipulate the subject's operations toward Lieberman's own ends. Phase three: execution. The subject kills him with a single round to the head, on camera, without ceremony. He buries the body. He resumes operations within hours.
+
+### Trust / Safety Architecture
+
+At its peak the trust was unprecedented in the file: Lieberman knew safehouse locations, alias paperwork, cache coordinates, and the subject's sleep patterns. The subject never compartmented from him. This was the only such case. It is also why the rupture had to be terminal — Lieberman alive and disaffected was an existential vulnerability the subject could not carry.
+
+### Failure Mode
+
+Lieberman's failure was to mistake the subject's reliance on him for a wedge that could be used to redirect the subject. He read the domestic indulgences (the meals, the banter) as evidence of a Frank Castle who could be coaxed back toward a center. He misread tolerance as latent reform. The subject's response to this misreading is the cleanest demonstration in canon of his governing rule: a betrayal of operational integrity by a trusted party is not punished by demotion but by erasure.
+
+### Leverage
+
+A hostile party studying this relationship would extract one lesson: the subject can be approached through the offer of competent logistical care, and he will lower his perimeter for it. The same study yields the counter-lesson: he will execute the carer the instant the carer is perceived to be steering rather than serving.
+
+### MICAH AND SARAH LIEBERMAN AND CHILDREN (modern continuity)
+
+A coda. In the modernized Lieberman variant (recasting David as still alive, married to Sarah, with children Zach and Leo), the subject occupies the role of *spectral uncle* — distantly protective, never quite resident, the man who pays the unspoken debt of having pulled the father back from a war the father did not survive intact. The household has been mapped by the subject down to the meter: he knows which floorboard creaks in the upstairs hallway, where Sarah keeps the spare key, what time Leo gets home from school. He uses none of it except for protection. This is the only standing household in the file for which he maintains a permanent overwatch posture without invitation. It is the closest thing to a chosen family the file contains, precisely because it requires nothing from him relationally and permits everything from him protectively.
+
+---
+
+## RACHEL COLE-ALVES
+
+### History
+
+Introduced in Greg Rucka's *The Punisher* vol. 9 (2011). A Marine sergeant whose wedding party was massacred in a mob-and-superhuman crossfire; the founding wound is, by deliberate authorial design, isomorphic to the subject's own. She finds him. He does not turn her away. She trains beside him for the better part of a year of in-story time.
+
+### Dynamics
+
+She is the only person in the canon who has ever stood in the subject's relational position toward him — the survivor of the same wound, presenting at the same threshold, asking the same question. He recognizes this immediately. He treats her with a gentleness that is documented in no other relationship: he answers her questions plainly, he corrects her tradecraft without humiliation, he shares the work without test or hazing. There is no romantic register. The bond is sibling-coded in the specific shape of *fellow widow*, and it is the only such bond on record.
+
+### Evolution
+
+Cole-Alves's arc accelerates past the subject's. Where he has spent forty in-story years pacing his lethality against an internal code, she — younger, less religiously formed, less disciplined by a priestly substrate — burns through the moral architecture in months. She kills indiscriminately at a critical juncture (civilians caught in a takedown). The subject watches this and recognizes, with a clarity that is one of the few moments of genuine self-confrontation in the entire file, what he looks like from the outside. He takes the fall for her killings to the authorities; he then severs the relationship operationally.
+
+### Trust / Safety Architecture
+
+High and asymmetric. He gave her full tactical trust and partial logistical trust. He did not give her his interior. There was nothing to give that she did not already know from her own wound.
+
+### Failure Mode
+
+She is the one ally who failed by becoming *too much* the thing he is. The relationship could not survive her completing the trajectory he has spent his life pacing. He cannot mentor someone past himself; what is past him is a mirror, and the file shows he cannot bear the mirror.
+
+### Leverage
+
+A hostile party would note: pair the subject with a survivor isomorphic to his own loss and he will lower defenses without prompting. The same hostile party would note that the leverage decays the moment the survivor's pathology exceeds his own — at which point he becomes adversarial.
+
+---
+
+## NICK FURY
+
+### History
+
+The longest-running peer relationship in the file, spanning from early 1990s appearances through Ennis's *Punisher MAX: The End* (2004) and the *Punisher Presents: Barracuda* and *Fury MAX* adjacencies. Fury was the subject's commanding officer's commanding officer in Vietnam in the Ennis continuity; they share the war, share the generation, and share the long cynicism about the institutions that sent them.
+
+### Dynamics
+
+Fury is the only authority figure the subject neither resents nor automatically opposes. The dynamic is veteran-to-veteran in a register inaccessible to anyone who has not stood in the same kind of mud. They drink (or rather, Fury drinks; the subject sits across from him and does not), they say little, the conversation has the cadence of two men who have already had every important conversation and are now performing the silence that follows. Fury has used the subject operationally; the subject has permitted it. Fury has also, on one occasion in the MAX continuity, asked the subject for a final professional service of intimate gravity — and received it without question.
+
+### Evolution
+
+Stable. This is the rarest entry in the file: a relationship that does not erode, does not betray, does not require the subject to execute or sever. It has held for thirty years of publication time because both parties understand the terms without articulation and neither party requires anything of the other beyond episodic professional courtesy.
+
+### Trust / Safety Architecture
+
+Compartmented but durable. They do not know each other's safehouses. They know each other's shape. If either called, the other would come. Neither calls without need.
+
+### Failure Mode
+
+The relationship has no failure mode in the canon because its bandwidth is deliberately set below the threshold at which failure could occur. This is the subject's signal innovation in his own relational ledger: the way to keep a friend is to require almost nothing from him.
+
+### Leverage
+
+Minimal — and that is the point. Fury cannot be used to reach the subject because Fury would not be used. The subject knows this. A hostile party studying the file would conclude that the Fury bond is the cleanest demonstration of what the subject is capable of when permitted to set the terms himself: a friendship maintained at one conversation per year, indefinitely, both men intact.
+
+---
+
+## "MARTIN SOAP" AND THE TIER OF SYMPATHETIC LAW ENFORCEMENT
+
+### History
+
+Detective Martin Soap (Ennis, *Welcome Back, Frank* through *Kitchen Irish*) is the prototype: a detective assigned to the Punisher Task Force who, finding the targets to be exclusively predators his department could not or would not prosecute, becomes a quiet enabler — leaks case files, mis-files evidence, fails to be at the window at the relevant moment. Across the canon there is a recurring rotation of such figures (Soap, Detective Walter Bolt, ATF Agent Molly von Richtofen in *Punisher MAX*, and intermittently sympathetic figures at the FBI level).
+
+### Dynamics
+
+The subject does not court these allies. They self-select. He uses them, protects them within operational limits, and does not ask them to cross thresholds they cannot survive. Soap, who is depicted as a comprehensively unsuccessful man whose only meaningful professional act is his quiet partisanship, receives from the subject something close to *protection of dignity* — the subject never humiliates him, never thanks him in writing, never puts his name in any cache.
+
+### Evolution
+
+These relationships have a half-life. They terminate either when the ally is exposed (transferred, killed, or driven into early retirement) or when the operational context shifts. The subject does not maintain them past their utility, but he also does not abandon them: when Soap is finally pensioned out, the subject sends — anonymously, untraceably — a sum of cash sufficient to retire on. This is the one documented act of unsolicited generosity in the file.
+
+### Trust / Safety Architecture
+
+Low individually, redundant collectively. The subject assumes any one of them can be turned, surveilled, or compromised; he treats them as a distributed asset, not as confidants. None of them know a safehouse. All of them know a drop.
+
+### Failure Mode
+
+The failure mode is structural: a sympathetic cop who is *too* useful becomes visible to internal affairs and is burned. The subject knows this and rotates contacts to extend the useful life of each.
+
+### Leverage
+
+Pressure on a Soap-tier ally yields almost nothing because the subject has architected the relationships to yield almost nothing. The ally can produce a drop location at best. The leverage exists, but its ceiling is low.
+
+---
+
+## MARIA ELIZABETH "ELIZABETH" / KATHRYN O'BRIEN AND THE COMPARTMENT OF SEXUAL-ADJACENT PEERS
+
+### History
+
+Kathryn O'Brien (CIA, Ennis *Punisher MAX*, *Up Is Down and Black Is White*, 2006–2007) is the case-defining instance: a peer operator with whom the subject has an actual, named sexual relationship, conducted between operations, terminated by her death in the field. There are scattered analogs across continuity (a handful of women, mostly operators, mostly transient), but O'Brien is the one the file would star.
+
+### Dynamics
+
+Adult, contained, both parties professionals, no future projected. The subject does not pretend the relationship has a domestic dimension and does not insult her by pretending. She does not pretend either. The intimacy is real within its window and ends without aftermath. The subject grieves her, in his idiom — which is to say, he finishes the operation she was on and does not speak of her again.
+
+### Evolution
+
+There is no evolution. The relationship is born terminal and dies on schedule. This is the only register in which the subject permits sexual access, and it requires a partner whose own life is structured to accept the terms.
+
+### Trust / Safety Architecture
+
+Operational trust full, emotional trust nil. He would put a round in someone trying to harm her; he would not tell her his sister-in-law's maiden name.
+
+### Failure Mode
+
+The failure mode is the actuarial certainty of the partner's death. The subject does not select these partners despite their mortality; he selects them *because* their mortality is already priced in. Anyone who could survive him is someone he cannot afford to let close enough to lose.
+
+### Leverage
+
+None retrievable post-mortem. While alive, such a partner is the only attachment that could, theoretically, be threatened to coerce him — and the only attachment he would refuse to acknowledge to a coercer, on the grounds that acknowledging it is itself the lever.
+
+---
+
+## THE COSTA / BARRACUDA-TIER ADVERSARY-ALLIES (negative space entry)
+
+### History
+
+Across the canon the subject has briefly cooperated with figures he would otherwise execute — including, in the MAX continuity, the freelance enforcer Barracuda (Ennis, 2005) during a mutually convenient interval. These are not allies in any sustainable sense; they are temporary parallelisms of interest.
+
+### Dynamics
+
+The subject conducts these alliances with the explicit understanding, shared by both parties, that the alliance will terminate in the death of one of them as soon as the parallelism dissolves. There is dark humor. There is no warmth. Both men keep their hands visible.
+
+### Evolution
+
+Terminal in every case. Barracuda lives longer than most because he is genuinely useful and genuinely entertaining; the subject kills him anyway, on schedule, when the schedule arrives.
+
+### Failure Mode / Leverage
+
+Not applicable in the standard sense. The subject's discipline in not letting these alliances drift into something more is itself a structural defense of the genuine attachments elsewhere in his file. He maintains them precisely *because* they cannot become real.
+
+---
+
+## DAREDEVIL (MATT MURDOCK) — THE TOLERATED ADVERSARY
+
+### History
+
+Across forty years of canon (from Frank Miller's *Daredevil* #183–184, 1982, through Bendis's *Daredevil*, through the Soule and Zdarsky runs), the costumed peer with whom the subject has the longest, most articulated, and most stable rivalry. They have fought repeatedly. They have cooperated repeatedly. Neither has killed the other when either could have.
+
+### Dynamics
+
+The subject regards Murdock with a complex mixture of contempt (for the refusal to cross the line the subject considers morally necessary), genuine respect (for the courage and the consistency), and — almost uniquely — *patience*. He does not patronize Murdock the way he patronizes other costumed do-gooders. He listens. He argues. He has, in multiple texts, conceded individual tactical points.
+
+### Evolution
+
+The relationship has hardened into something resembling a stable theological disagreement between two men who have decided not to convert each other. Each functions, for the other, as a fixed point against which to triangulate his own position. The subject needs Murdock to exist; Murdock's continued existence is proof that the line the subject has crossed is a real line, not an invented one.
+
+### Trust / Safety Architecture
+
+Paradoxically high in narrow bands. The subject knows Murdock's identity and has never traded it, never weaponized it, never even threatened to. Murdock knows multiple of the subject's safehouses and has, comparably, never burned them to law enforcement. The mutual non-betrayal across decades is, in the file, statistically extraordinary.
+
+### Failure Mode
+
+The relationship could fail only if Murdock killed — which the subject has occasionally tried to engineer, in his bleaker moods, as a kind of test — or if the subject killed an innocent in Murdock's line of sight, which the subject's code prevents. The architecture is self-stabilizing.
+
+### Leverage
+
+A hostile party would note that Murdock is the only costumed figure the subject would, under extreme circumstances, cross a city to help. The leverage is real but narrow: Murdock in genuine mortal peril activates the subject. Routine peril does not.
+
+---
+
+## THE PROTÉGÉ SLOT — STRUCTURALLY VACANT
+
+The file's most diagnostic relational fact is what is *not* in it. The subject has been offered the role of mentor repeatedly across the canon — by young veterans, by survivor-vigilantes other than Cole-Alves, by the occasional costumed teenager seeking sanction. He has declined every offer except Cole-Alves, and the Cole-Alves outcome explains the declension. He understands, with a clarity he has acquired slowly over the publication record, that he cannot be a teacher of this work because the work cannot be taught without producing what she became, or what he is, and neither outcome is one he will sponsor.
+
+This is the single act of moral self-restraint that distinguishes the subject from the figure a hostile-analytic file would otherwise classify as a charismatic founder of an irregular tradition. He refuses the founder role. The lineage dies with him by his own choice. A surveillance apparatus reading the file for succession risk should record: *none*. The subject will not be replicated, because the subject will not permit himself to be replicated.
+
+---
+
+## SUMMARY ARCHITECTURE
+
+The ledger, taken as a whole, describes a man who has built a relational system optimized for one variable: the minimum attachment-bandwidth sufficient to sustain operations indefinitely without producing losses he cannot afford to grieve. Every entry above is calibrated to that variable. Lieberman exceeded the bandwidth and was executed. Cole-Alves exceeded it and was severed. Fury has held for thirty years because the bandwidth was set, mutually, at exactly the right floor. O'Brien held until her actuarial expiration. The Liebermans (modern) hold because the bandwidth is one-directional — protection out, nothing in. Murdock holds because the disagreement is the bandwidth.
+
+The subject is, in this dimension as in every other, a man who has solved a problem the wrong way and then refused, across half a century, to permit anyone to resolve it correctly. The relationships are not failures of his condition; they are its successful expressions. He has the friendships his condition permits, in the numbers and intensities it permits, and he has executed every alternative.
+
+*End of section.*
+
+
+## Relationships III — Rivals, Enemies & Lovers
+
+# Relationships III — Rivals, Enemies & Lovers
+
+*Classification: Personal-relational mapping, adversarial and intimate registers. Cross-reference with Relationships I (operational allies) and Relationships II (family-of-origin, surviving kin, dependents). All entries are derived from longitudinal canonical record; behavioral inferences are flagged where the textual basis is implicit rather than explicit.*
+
+The taxonomy below partitions the subject's non-allied relational field into three classes that, on closer reading, are not as distinct as they appear. Subject's *rivals* are men and women whose moral architecture mirrors his own with a single axiomatic deviation; his *enemies* are figures whose continued existence violates the operating premise of his work; his *lovers* — a misleading word for what is documented — are women toward whom he has, briefly, lowered the perimeter, and in every recorded instance has restored it. The reader will note that the categories leak: certain rivals (Fisk) cross into the enemy register; certain enemies (Jigsaw) function as parodic doubles rather than threats; certain lovers (Cole-Alves) are first peers, then enemies, then mourned. Subject's relational field is not organized by intimacy gradient but by *threat to operating condition* — the question that governs every contact is whether this person, in this encounter, will make him stop, slow, or doubt. Lovers are dangerous on this axis in ways most enemies are not.
+
+---
+
+## I. RIVALS
+
+### Matthew Murdock — the moral negative
+
+Of all repeat-encounter figures in subject's life, the blind attorney from Hell's Kitchen is the only one whose presence reliably produces in subject what can be described as *argument* rather than tactical engagement. The relationship dates to *Daredevil* #182–184 (Miller, 1982) — the rooftop confrontation in which Murdock empties subject's revolver and dares him to pull the trigger on an unarmed target — and has recurred across every major era (Nocenti, Smith, Bendis, Brubaker, Waid, Soule, Zdarsky), each iteration restaging the same essential scene with cosmetic variation.
+
+The dynamic is unusually stable. Murdock is Catholic, Hell's-Kitchen-formed, raised by a man of physical violence, trained to controlled lethality and choosing daily not to deploy it; he is, in nearly every formative variable, the man subject might have been had Central Park not occurred and had subject not, even before Central Park, already chosen the killing road. Subject recognizes this. His treatment of Murdock is unique in his relational repertoire: he does not lie to him, does not condescend to him, does not attempt to recruit him, and on the multiple occasions Murdock has had subject at disadvantage, subject has neither resisted disproportionately nor counter-killed. The textual evidence — *Daredevil vs. Punisher* (Lapham), the Bendis run, *Daredevil* (Soule) #16 — is that subject *permits* Murdock a moral standing he grants no one else, and that this permission is not strategic.
+
+The cost to subject is real. Murdock is one of perhaps three living persons (Fury, Murdock, late-period Lieberman) whose verbal address can produce in subject the micro-expression of *being heard* — the half-second pause, the dropped sightline, the breath taken before answering. He registers Murdock's arguments. He does not adopt them, but he registers them, which is more than he grants the institutional clergy.
+
+**Trust profile.** Operationally untrusted (Murdock will and does stop him), morally trusted absolutely. Subject would not lie to him about a target; subject would lie to him about a route. Subject has been documented assisting Murdock under duress (*Daredevil* Soule #16, *The Punisher* Cloonan, the Hand arcs) and has tolerated being saved by him without the resentment-discharge that attends most rescues by others.
+
+**Failure mode.** The relationship cannot resolve. Neither will convert; neither will kill the other; each iteration deposits a small residue of unspoken acknowledgment. Were Murdock killed by a third party, subject's response would be sustained and disproportionate — one of the few losses outside his original family that would produce visible bereavement-affect.
+
+**Leverage.** Murdock can compel subject to *hesitate*. He cannot compel him to *stop*. The hesitation has, on at least two documented occasions, been operationally costly to subject and was, in his own retrospective accounting, worth it.
+
+---
+
+### Wilson Fisk — the inverse executive
+
+The relationship with the Kingpin of Crime occupies a register distinct from subject's general antipathy toward organized criminal capital. Fisk is one of perhaps four or five figures subject has tried and failed to kill across multiple decades (*Punisher/Daredevil: Child's Play*, Rucka's run, *Punisher: War Zone*, the *Devil's Reign* tie-ins), and the failure is not technical. Subject has had Fisk in scope. He has, in at least one canonical instance, declined the shot when civilian collateral was uncertain, and in another, taken the shot and missed in a manner the after-action does not satisfactorily explain.
+
+The behavioral read is that Fisk functions for subject as the *load-bearing* antagonist — the figure whose existence retroactively justifies the scale of subject's work. If Fisk is removed, the war shrinks to a series of mid-tier predators, a class subject can clear without difficulty and without ideological cover. Fisk's continued existence keeps the war total. Subject does not articulate this; the textual evidence is in the disproportionate operational care, the repeated near-misses, and the curious fact that subject has more often disrupted Fisk's operations than terminated Fisk himself.
+
+Fisk, for his part, treats subject as a uniquely uncorrupt enemy — incapable of being bought, blackmailed, or networked. The Fisk-side textual record (Rucka, Waid's *Daredevil*, Zdarsky) shows Fisk allocating disproportionate resources to subject-deterrence and avoiding the kind of personal-honor showdowns he stages with Daredevil. Fisk understands that subject is the variable his organization cannot price.
+
+**Trust profile.** None in either direction. Subject does not negotiate with Fisk and has refused intermediary contact (Microchip's attempted brokerages, the *War Zone* arcs).
+
+**Failure mode.** The encounter that ends one will likely end both; subject's tactical pattern around Fisk is the only one in the record that does not include a clean withdrawal protocol.
+
+**Leverage.** Civilian collateral. Fisk has reliably used the density of his protected zone (Fisk Tower, the Hand cordons, hospital and school proximities) to deny subject clean engagement, and subject has consistently honored the constraint.
+
+---
+
+### Bullseye — the parodic mirror
+
+If Murdock is subject's moral negative, the assassin known as Bullseye is his behavioral parody. The technical similarities — precision, patience, willingness to operate alone, indifference to pain — are sufficient that subject is markedly more *disgusted* by Bullseye than by any other repeat antagonist. The relationship is documented across the Ennis MAX *Punisher vs. Bullseye* one-shot, the Daredevil crossovers, and *Shadowland*.
+
+Subject's disgust is diagnostic. Bullseye does the thing subject does, for pay, for pleasure, without code. The encounter forces subject to acknowledge that the operational profile he has cultivated is morphologically indistinguishable from a contract killer's, and that the only difference is the rulebook he carries internally. This is intolerable to him in a way few other confrontations are.
+
+**Failure mode.** Subject's discipline against personal vendetta is weakest with respect to Bullseye. He has, on record, pursued Bullseye out of operational sequence and accepted risk that the priority did not justify. The Ennis one-shot is the cleanest documentation: subject pursues, captures, and protractedly disposes of Bullseye in a manner that violates his usual economy of violence.
+
+**Leverage.** None. Bullseye cannot be coerced, has no dependents, holds no territory. Subject cannot deter him; he can only delete him, and Bullseye returns.
+
+---
+
+### Jigsaw (Billy Russo) — the made enemy
+
+The disfigured former enforcer is the only major antagonist whose existence subject directly authored (the plate-glass beating, *Punisher* #1, 1987 Baron, restaged in multiple modern continuities). The relational dynamic is therefore unique: Jigsaw is subject's *artifact*, and treats him with the obsessive, parental, vengeful fixation that artifacts sometimes generate.
+
+Subject's affect toward Jigsaw is striking for its banality. He does not regard Jigsaw as a peer threat, does not invest emotionally in their encounters, and treats Jigsaw's recurring vendettas with something close to operational *annoyance*. The contrast with Bullseye is instructive: Bullseye disturbs subject because Bullseye resembles him; Jigsaw bores subject because Jigsaw resembles nothing — a face-wound carrying a grudge.
+
+**Failure mode.** Subject has repeatedly failed to kill Jigsaw cleanly and has, in the modern record, been observed *not prioritizing* the kill. The behavioral inference is that subject permits Jigsaw to persist as a sort of operational chore — a known quantity whose recurrence requires no planning and provides intermittent low-grade combat that does not draw down his real reserves.
+
+**Leverage.** Jigsaw's leverage is theatrical (hostages, displays, infiltration of subject's safehouses); subject's leverage over Jigsaw is total and is, on record, deferred.
+
+---
+
+### Nick Fury — the elder rival who is also the elder friend
+
+The relationship with the former director of SHIELD is the longest sustained peer-bond in subject's adult life, and it functions on both sides of the rival/ally line in ways that complicate easy classification. See Relationships I for the operational dimension; here we mark the *rivalrous* component, which is real.
+
+Fury and subject share generation (Korea-era or Vietnam-era, depending on continuity), service culture, and the experience of having been institutionally weaponized and then institutionally discarded. They drink (Fury), they do not drink (subject), they fish, they speak in clipped past-tense referents to operations neither will name. The rivalry component is that Fury has, on several documented occasions (the Marvel Knights Fury, *Punisher: The List*, Aaron's MAX *Get Castle*), used subject as a deniable asset and then attempted to terminate the asset when the optics required. Subject has reciprocated in the sense of refusing termination and continuing to work.
+
+Each understands that the other will, in the right configuration of circumstances, kill him. Neither holds this against the other. It is, between them, a professional courtesy.
+
+**Failure mode.** A direct institutional order, formally issued and operationally clean, that Fury could not deflect. Subject expects this end and does not appear to fear it.
+
+**Leverage.** Each holds nearly total leverage against the other and neither has fully deployed it.
+
+---
+
+## II. ENEMIES
+
+### Organized crime (the Five Families and successors) — the standing target set
+
+Subject's foundational enemy is not a person but a category, and the category retains operational primacy across every era. The Costas (founding antagonists, *Marvel Preview* #2 through Baron), the Cesares, the Gnuccis (Ennis *Welcome Back, Frank*), the Rigolettos, the various Russian, Albanian, Salvadoran, and Yakuza successor structures (Ennis MAX, Aaron MAX, Cloonan) — subject's operational tempo against these structures is metronomic. He clears one, the substrate produces another, he clears that one.
+
+The dynamic is the closest analog in his life to *work* in the ordinary sense. He does not hate any individual capo with the intensity he reserves for child-predators; he hates the *pattern* the capos instantiate. The Gnucci matriarch incident (*Welcome Back, Frank*) is the diagnostic exception — subject's lethality against Ma Gnucci escalates beyond operational necessity, because she has operationalized the family-attack template against him, and the resonance with Central Park is total.
+
+**Failure mode.** The category cannot be eliminated. Subject knows this. The work is therefore intrinsically infinite, which suits his deeper purpose (see workup §5).
+
+**Leverage.** Civilian-adjacent positioning (legitimate businesses, family compounds) provides the only consistent friction. Subject's rules of engagement around weddings, funerals, hospitals, and schools are well-documented and have been exploited.
+
+---
+
+### Barracuda — the figure that almost made him laugh
+
+The Ennis MAX antagonist (*Punisher MAX: Barracuda*, 2007; recurring through *Long Cold Dark*) is a special case. A career enforcer-for-hire whose physical capacity nearly matches subject's, whose appetite for violence exceeds it, and whose affect is the inverted photograph of subject's — gregarious, grinning, present. The two encounter each other repeatedly across the run, and the textual record shows subject expending more operational effort against Barracuda than against any equivalent threat-tier antagonist.
+
+The relational read: Barracuda is the version of subject that would have existed if subject had retained the capacity for pleasure. This is intolerable on a different axis than Bullseye's intolerability. Bullseye is the absence of code; Barracuda is the presence of joy. Subject's lethality against Barracuda in *Long Cold Dark* — the final dismemberment and execution — exceeds even his Bullseye-tier excess and is the only documented post-kill mutilation in his record. The act warrants annotation: subject is destroying not the man but the demonstration that his vocation could have been done *gladly*.
+
+**Failure mode.** Resolved; Barracuda is canonically dead in the MAX continuity.
+
+**Leverage (retrospective).** Barracuda's leverage against subject was his capacity to use subject's family-resonance triggers (the child in *Long Cold Dark*) as bait. The leverage worked. Subject came. Subject was nearly destroyed.
+
+---
+
+### The Russian — the unkillable joke
+
+The Ennis Marvel Knights antagonist (*Welcome Back, Frank*; *Mother Russia*) is included for completeness and because the encounters establish a behavioral baseline. Subject's affect during the Russian engagements is the closest he comes to operational *play* — the bathroom-fight in *Welcome Back, Frank* is staged by Ennis as a near-slapstick test of how much subject can endure and improvise, and subject endures and improvises. The Russian dies and returns (as a transplanted-onto-female-body grotesque in *Mother Russia*), and subject re-kills him without affect.
+
+**Diagnostic note.** Subject's tolerance for the absurd, when it intersects operational reality, is unexpectedly high. He does not require dignified antagonists. He does the work.
+
+---
+
+### Stick / the Hand — the metaphysical category
+
+Subject's encounters with the Hand (Aaron's MAX, Soule's *Daredevil*, the *Punisher* Cloonan arcs, *Shadowland*) and with the Chaste (briefly, through Stick) place him against an enemy whose mode of being is not naturalistic. Subject's response is instructive: he does not metaphysicalize. He treats ninja-sect resurrection logistics as a *materiel problem* (more bodies coming, plan accordingly) rather than as a category error. This is consistent with his refusal of supernatural framing generally (his rejection of the Ennis-MAX *Born* devil-figure as anything other than his own voice).
+
+**Failure mode.** Categorically unresolvable. Subject continues to engage and continues to operate within his own framing.
+
+---
+
+### Hitman, contract specialists, and the parade of pretenders
+
+The minor antagonist class — Saracen, the various "Punishers" of the Civil War tie-ins, the copycats and impersonators — is treated by subject with a uniform contempt that does not vary by individual. He kills them quickly, does not retain operational memory of them, and does not vary his protocol. The class exists, in his behavioral economy, as the operational equivalent of clearing brush.
+
+---
+
+## III. INTIMATES / LOVERS
+
+The category is small and the entries are heavily caveated. Subject has not, in fifty publication years, sustained a post-loss intimate bond. The figures below are the documented partial exceptions.
+
+### Maria Castle — the foreclosed primary
+
+The pre-loss marriage is not, strictly, a relationship of the post-Central Park subject; it is the relationship whose termination *created* the post-Central Park subject. It is nonetheless the foundational entry in this section because every subsequent intimate contact has been organized in relation to it.
+
+The marriage is depicted across canon (Baron, Ennis *Born* and *The Tyger*, Aaron MAX, Soule) as having been functional and warm but already structurally strained by subject's pre-existing vocation toward violence. *The Tyger* and *Born* establish that Maria knew the man she had married; the marriage was not a bourgeois disguise over a hidden killer. The children were wanted; the home was Catholic-observant; the relationship was sexually and emotionally stable within the limits that subject's deployments and temperamental closure permitted.
+
+The Central Park killings are processed by subject, behaviorally, not as bereavement but as *betrayal of duty* — he was present, he was armed, he failed. Maria's death is not, in the operational subtext, the loss of a beloved person; it is the loss of the *protectee* whose protection was his job. This is a brutal read and it is the read the behavioral record supports. Subject grieves a duty more than he grieves a wife, and the distinction is the one that makes his subsequent foreclosure possible: a failed duty can be re-performed indefinitely against substitutes, where a lost wife can only be mourned.
+
+**Continuing dynamic.** Subject visits the grave (canonically, Maria, Frank Jr., and Lisa are interred together; he visits on or near the anniversary, varying continuity-to-continuity). He does not speak aloud at the grave on most depicted occasions; the Ennis *Mother Russia* coda and the *Valley Forge* scenes are exceptions and are notable for their restraint. He carries a photograph (the family photo, recovered from his wallet, depicted with varying composition across artists — the Romita Jr. version in *Punisher: Year One*, the Dillon version in MAX, the Parlov version in *Born*). The photograph is operational, not sentimental: it is the document he consults to confirm the premise.
+
+**Leverage (posthumous).** Total. Any antagonist who invokes Maria's memory tactically (Jigsaw, Barracuda) draws an escalation curve subject is not capable of moderating.
+
+---
+
+### David "Microchip" Lieberman — the contained intimacy that was not romantic but functioned as one
+
+Catalogued in Relationships I as operational partner; included here because the bond's affective register exceeded the operational and because its termination established the template for subject's subsequent intimacy-foreclosures.
+
+Subject permitted Microchip into the bunker, into the workshop, into proximity to the tools and the maps. He ate at Microchip's table. He spoke, in the Baron and early Dixon eras, with a syntactic looseness he does not exhibit elsewhere. When the partnership ruptured (the canonical Dixon-era split, restaged in modern continuity), subject executed Microchip personally. The execution is not narrated as agonized; it is narrated as inevitable. Microchip had moved to bring subject *back* — to recruit him into a normalized, sanctioned role — and subject read this as the deeper betrayal: not operational compromise but an attempt to dissolve the war.
+
+**Diagnostic note.** Subject can tolerate operational betrayal more readily than rehabilitative intent. The man who tries to save him is, by his lights, attempting the one thing he has irrevocably refused.
+
+---
+
+### Rachel Cole-Alves — the only post-loss figure to be permitted near intimacy
+
+The Marine sergeant introduced in Greg Rucka's *The Punisher* vol. 9 (2011–2012) is the singular documented case of subject permitting a peer-bond with a woman in the post-loss period. Cole-Alves's history mirrors subject's with a precision that is almost forensic: combat veteran, wedding-day massacre, sole survivor, transition to extrajudicial pursuit of the perpetrators. Subject recognizes her, behaviorally, as a younger version of himself, with the operationally critical caveat that she is not yet foreclosed.
+
+The relational dynamic across the Rucka run and into the Edmondson continuation is documented as professional, restrained, and yet uniquely permissive. Subject trains her, runs ops with her, lodges her in proximity to his own safehouses. There is no sexual register in the text; there is something rarer, which is *companionship without operational hierarchy*. Subject has not extended this to any other living person in the post-loss record.
+
+The relationship ruptures in the *War Zone* arc when Cole-Alves crosses an operational line subject has held — civilian-adjacent lethality during the assault on the Exchange. Subject does not kill her. He turns her in. The decision is, in his behavioral economy, the most affectively-loaded act in the modern record: he could not save her from the war he taught her, and so he saved her from himself by the only mechanism his code permitted, which was institutional confinement.
+
+**Trust profile.** During the active partnership, the highest documented in the post-loss record. After the rupture, severed but not converted to enmity.
+
+**Failure mode.** Subject cannot bring a younger self forward; he can only watch her foreclose. The relationship's structural impossibility is that the version of him she might become is the version he no longer wishes to inflict.
+
+**Leverage.** Cole-Alves retained, throughout the partnership, the capacity to make subject *consider* — to pause before action, to revise after-action. This is leverage no other living person has held to that degree.
+
+---
+
+### Kathryn O'Brien — the operational intimacy
+
+The CIA officer introduced in Ennis's MAX *Mother Russia* and developed across *Up Is Down and Black Is White* is the closest the MAX continuity comes to depicting subject in a sexual relationship. The relationship is documented as physically consummated, emotionally guarded on both sides, and operationally entangled.
+
+The behavioral read on subject's participation is unromantic. O'Brien is competent, mission-aligned, and explicitly transactional in her own framing; the encounter is, for subject, the rare case in which sexual contact does not threaten operating condition because the other party is not requesting attachment. O'Brien's death (orchestrated by her ex-husband Rawlins) is processed by subject as the failure-of-protection template once again, and his lethality in the subsequent arc is calibrated accordingly — disproportionate, sustained, and terminated only with Rawlins's death.
+
+**Diagnostic note.** Subject's capacity for sexual function is intact. His capacity for sexual function in the context of attachment is not tested by O'Brien, because O'Brien did not request the test.
+
+**Failure mode.** Resolved by O'Brien's death.
+
+**Leverage.** Limited during life; posthumously, considerable — Rawlins's elimination was non-negotiable and absorbed operational resources that the strategic picture did not require.
+
+---
+
+### The unnamed and the transactional
+
+The behavioral record includes a small number of additional brief sexual encounters (a barmaid in *Welcome Back, Frank*'s aftermath, the cold compartmentalized scene in *Long Cold
+
+
+## Powers, Abilities & Their Limits
+
+# 6. POWERS, ABILITIES & THEIR LIMITS
+
+*The subject possesses no superhuman attributes. This is the central operational fact and the central psychological one. Every capacity catalogued below is the product of training, repetition, deliberate somatic conditioning, and the long, patient narrowing of a human being into a single-purpose instrument. The file therefore reads less like a powers index than like an inventory of a tool — what it was sharpened for, what it was sharpened against, and what was ground away to permit the sharpening.*
+
+---
+
+## 6.1 The Baseline Substrate
+
+Castle's natural endowment is above-average but not exceptional. Height ~6'1", weight maintained between 200 and 225 lbs across most depictions, body composition lean-mesomorphic. Resting heart rate inferable as low (sub-50 bpm based on depicted recovery times under load). Visual acuity normal-to-good; hand dominance right with cultivated near-ambidexterity in pistol work and blade work. The substrate is that of a Force Recon Marine in his prime maintained, by extraordinary discipline, into his sixth and (in MAX continuity) seventh decade. What separates Castle from peers with comparable substrates is not the substrate; it is what was done to it across fifty years of uninterrupted application.
+
+Crucially, the substrate is *not* augmented. He has refused, on every documented occasion, offers of enhancement — the Weapon Plus overtures, the cybernetic options after major injury, the supernatural bargains. The exceptions (Frankenstein-reconstruction, brief War Machine and cosmic-shell deployments) are forced rather than chosen, and he sheds each augmentation at the first opportunity. The refusal is itself a capacity: he insists on remaining killable, because being killable is part of the contract he signed with the work.
+
+---
+
+## 6.2 Firearms — The Primary Vocabulary
+
+Castle is, by the consensus of every writer who has handled him, among the most accomplished small-arms operators in the Marvel setting, in a tier with Bullseye, Bucky Barnes, Nick Fury, and Natasha Romanoff. The distinction between Castle and the others in that tier is that none of them shoot like Castle shoots. Bullseye is preternatural; Barnes and Romanoff are augmented; Fury is institutionally supported. Castle is none of these. He simply shoots more, and has shot more, than any of them.
+
+**Pistolcraft.** Trained in the Modern Technique (Weaver and isosceles, situationally), refined through Force Recon doctrine and three decades of post-service self-instruction. Documented capabilities: reliable two-shot center-mass at 25m with a service pistol; head shots at 15m under suppression; reload-and-engage times in the 1.2–1.5s band. He carries, almost invariably, paired 1911-pattern .45 ACPs across most of the canon, with situational substitutions (Berettas, Glocks, SIGs). Magazine discipline is total — he counts rounds aloud in early Ennis runs and silently thereafter.
+
+**Long arms.** Equally fluent across the rifle family. The M16/M4 platform is his native rifle; he is depicted using AKs, FALs, G3s, and bullpup variants without performance degradation. Suppressed subgun work (MP5, MP5SD, later MPX) is a signature for entry-and-clear operations. Marksmanship at distance: confirmed kills at 800m+ with bolt-action rifles (M40, M24, later Remington 700 derivatives); the *PunisherMAX: Long Cold Dark* shot is in the upper range of what unaugmented humans achieve. He does not enjoy long-range work the way some snipers do; he treats it as a tool, deploys it when the target's environment requires it, and prefers to be within twenty meters of the people he kills. The preference is diagnostic: he wants to see them.
+
+**Ordnance and crew-served weapons.** Fluent with belt-fed machine guns (M60, M249, PKM), grenade launchers (M203, M79, Mk 19), recoilless rifles, LAWs and AT4s, Claymores, demolitions, breaching charges. The Ennis MAX run depicts him operating a mounted .50 Browning, a tank's main gun (*Mother Russia*), and an A-10's GAU-8 in the imagination of his enemies if not always literally. The *Welcome Back, Frank* tableau in which he uses a polar bear at the Central Park Zoo is the writer's joke and Castle's competence: any object on the operational landscape is a weapon if read correctly.
+
+**Improvised and obsolescent weapons.** Black-powder, flintlock, single-shot derringers, antique service revolvers — he can run them all and has. The *Welcome Back, Frank* and *Punisher: War Zone* canon establishes that confiscation of his primary kit slows him by hours, not days. He maintains the knowledge base of a small-arms historian as professional necessity.
+
+**Limit.** He is not Bullseye. He misses. He misses more often as he ages (acknowledged explicitly in late Aaron MAX). He compensates by shooting more rounds, getting closer, and pre-engineering the geometry so that the shot he needs is the shot he has trained ten thousand times. The signature is repetition, not magic.
+
+---
+
+## 6.3 Edged, Blunt, and Empty-Hand Combat
+
+Less foregrounded in the canon than firearms, but extensively documented. Castle's hand-to-hand vocabulary is the unromantic Marine Corps Martial Arts Program substrate, overlaid with Krav Maga-style economy and decades of street and prison-yard refinement. He does not display martial artistry in the Iron Fist or Shang-Chi sense; he displays terminal efficiency. Fights that last more than ninety seconds are read in the canon as fights he is losing.
+
+**Knife work.** Fairbairn-Sykes lineage, taught in Recon, refined in close-quarters battle. He prefers fixed-blade combat knives (Ka-Bar, later Strider and ESEE patterns) and is depicted as competent with the Bowie, the karambit (rare), and the boot dagger. Targeting is anatomical and economical: subclavian, femoral, the soft triangle under the jaw. He does not fence.
+
+**Empty-hand.** Joint breaks, throat strikes, eye-gouges, throws into terrain. He does not punch faces; he breaks structures. Documented across the canon: cervical dislocations, tracheal crushes, knee disarticulations, the controlled drop of a much larger man onto a fixed object. He has fought and survived encounters with Daredevil, Wolverine, Bullseye, and the Hand at scale — surviving, in each case, by refusing to fight on the opponent's preferred terms (geometry, terrain, ordnance).
+
+**Limit.** Against any peer-tier hand-to-hand specialist on neutral ground, Castle loses. He knows this and engineers around it. The Daredevil encounters in *Welcome Back, Frank* and the Ennis MAX *Up Is Down and Black Is White* are illustrative: he does not try to outbox Daredevil; he tries to make the encounter not a boxing match.
+
+---
+
+## 6.4 Tactical and Operational Skills
+
+**Tradecraft.** Surveillance and counter-surveillance to a professional intelligence standard. Static and mobile observation, photographic documentation, dead drops, brush-passes, signal protocols. Most of this is self-taught from manuals and from Microchip, who in early canon serves as Castle's technical chief of staff. Castle is not a natural intelligence officer — he lacks the social fluency for HUMINT cultivation — but he is a superb watcher. He can hold static observation for sixty hours on amphetamine support and water, and has done so repeatedly.
+
+**Planning.** Mission planning is depicted in clipped journal-entry form across the entire publication history. Target package, ingress, action-on-objective, egress, contingencies, abort criteria. He plans like a Marine because he was made into one. The planning is rigorous to the point of ritual; the journals double as the rosary he no longer says.
+
+**Demolitions and breaching.** Standard military demolitions through improvised devices. He has built car bombs, letter bombs, shaped charges, and incendiaries; he has rigged structures for controlled collapse. He prefers shaped charges to spray-and-pray ordnance because shaped charges are surgical and Castle's moral architecture demands surgery, not slaughter, however much the body count suggests otherwise.
+
+**Driving and vehicle work.** Combat driver to a high standard; reverse-180s, PIT maneuvers, vehicle-as-weapon. Competent helicopter pilot (rated in Marine service, retained), competent small-boat operator, basic fixed-wing. Not exceptional in any of these; sufficient in all.
+
+**Land navigation, survival, infiltration.** Recon-school baseline maintained. He can move through urban, suburban, woodland, and desert environments at a sustained low signature. The Bagalia and Eastern European arcs (*Mother Russia*, late Soule) depict him conducting cross-border infiltration without institutional support and reaching objective.
+
+**Medicine.** Combat-lifesaver upward. Self-suture, hematoma drainage, fracture immobilization, IV access, field-expedient burn care, the management of his own gunshot wounds. He does not seek hospital care because hospitals generate records; he has built and rebuilt a series of safehouse field-clinics for decades. He cannot perform surgery beyond the trauma-stabilization level, and the canon respects this — major injuries require either Lieberman/Microchip-arranged care or extended recovery time.
+
+---
+
+## 6.5 The Intelligence Architecture
+
+Castle alone is dangerous. Castle with a target package is something else. The architecture that produces those packages is itself a capability, and its history maps the file:
+
+- **Microchip era (1988–c.1995).** David Lieberman as technical chief, providing penetration of municipal and federal databases, financial tracing, communications intercept. Castle's operational reach expanded by an order of magnitude in this period.
+- **Post-Microchip solo years.** Castle reverted to street-level intelligence — informants under coercion, observation, document theft, interrogation. Effective at neighborhood scale, slower at larger scope.
+- **Modern Lieberman family era (Edmondson, Cloonan, Soule).** Restored technical reach via Henry Russo / a new Lieberman generation. Castle's preference is to outsource the keyboard work and concentrate on the kinetic.
+- **Interrogation.** A specific competency. Castle's interrogation method is not torture in the entertainment-fiction mode; it is, by the texts' own framing, a calibrated application of credible threat to subjects who recognize the threat as credible. He does not extract false confessions because he is not trying to close a case; he is trying to identify the next target, and false leads cost him time he could spend killing. He is willing to maim and to kill in interrogation; he prefers not to need to.
+
+---
+
+## 6.6 Conditioning, Endurance, and the Body as Instrument
+
+**Cardiovascular and muscular conditioning.** Sustained at military-elite baseline through programmatic training. He runs, swims, ruck-marches, and lifts; the regime is depicted across many issues as monastic in its consistency. Five-to-seven mile runs at sub-7:00 pace, weighted-ruck movement at 4 mph, regular swims. He does not train for aesthetics and does not train to peaks; he trains for floor — the floor he can present any day, no matter what the previous day's wounds were.
+
+**Pain tolerance.** Cultivated to extraordinary levels. The *Mother Russia* and *The Slavers* torture sequences depict him absorbing punishment that would incapacitate baseline humans without loss of cognitive function. This is not a power; it is the product of (a) decades of repeated exposure shaping the central pain-modulation system, (b) absolute refusal to take palliation, and (c) the absence, on the affective side, of the fear-amplification that makes pain unbearable for most subjects. Pain is data to him. He notes it and continues.
+
+**Sleep architecture.** Adapted to polyphasic short-cycle. Two-to-four hours of fragmented sleep is his operational norm. Amphetamine support for extended operations is documented; he uses it as a tool, not as habit, and discontinues when the operation ends.
+
+**Aging curve.** In MAX continuity Castle continues to operate effectively into his late sixties. The canon is honest about decline: slower draws, longer recovery, reduced ruck-load capacity. He compensates by tightening engagement geometry, increasing reliance on pre-planning, and accepting wounds he would have avoided at thirty. The *PunisherMAX* finale frames this clearly — he is killable now, and the killability is part of what he is offering.
+
+**Limit.** He is not regenerative. Wounds accumulate. The wound burden is, in any honest reading of the canon, the slow countdown the work is running against.
+
+---
+
+## 6.7 Cognitive and Linguistic Capacities
+
+Above-average general intelligence; tactical IQ exceptional; verbal fluency adequate, deliberately under-deployed. He reads — military history, theology (residue of the seminary years), case law sufficient to understand what the institutions he despises are actually doing. He has working-to-fluent capability in Spanish and Italian (heritage and operational), functional Vietnamese (service-era), kitchen Russian (acquired in arc), and the rudiments of others as missions required. He is not a polyglot in the Black Widow sense; he learns what each war requires and retains it.
+
+Memory for terrain, faces, and operational detail is exceptional and trained. He remembers the names of every member of every organization that participated in Central Park, and he remembers — across the canon, consistently — the names of civilians he has failed to save. The asymmetry is diagnostic. He does not remember the names of the saved.
+
+---
+
+## 6.8 Logistics, Funding, Armory
+
+A persistent capability that the casual reader undercounts. Castle's continued operation requires sustained funding, sustained munitions supply, sustained safehouse network, sustained vehicle pool, sustained false-identity infrastructure. Across fifty years of canon he has maintained all of these without institutional support, primarily through the systematic appropriation of mob, cartel, and terrorist cash and ordnance at point of action. Every operation funds the next; every armory raided seeds the next armory. The recursion is part of the design.
+
+He maintains, by the consistent depiction, between three and a dozen safehouses in greater New York at any time, plus situational caches across the country and (in modern continuity) several abroad. The Battle Van — and its successors — is iconic but operationally peripheral; the real infrastructure is the distributed cache network.
+
+---
+
+## 6.9 Growth Curve Over Publication Time
+
+The Castle of 1974 was a competent vigilante with military skills and unusual will. The Castle of the late 1980s under Baron was a professionalized operator with international reach. The Castle of the Ennis era is something near asymptote — a man who has been doing this so long that the work has rewritten him at every level, and whose marginal improvements per year are vanishing because he has been at the ceiling of unaugmented human capability for decades. The Aaron MAX endpoint shows the curve inverting: skills holding, body declining, judgment unchanged. The Soule and post-Soule depictions sometimes restore a younger physical baseline by editorial fiat; the behavioral capability profile remains essentially fixed.
+
+There is, importantly, *no significant skill growth post-1985 or so*. The man is finished as a learner. What grows after that point is depth of repertoire within an already-mastered skill set, and granularity of the intelligence architecture. He is not becoming more capable; he is becoming more practiced.
+
+---
+
+## 6.10 Signature Applications
+
+A short catalogue of what the file reads as Castle's recurrent operational signatures, recognizable across writers and decades:
+
+- **The methodical room-clearance** — controlled entry, paired pistols or suppressed subgun, headshots, no warnings, no negotiation, withdrawal before responders arrive.
+- **The set-piece ambush of a sit-down** — exploitation of the mob's ritualized gatherings; Castle treats every mafia summit, cartel meet, and crew dinner as a target-rich box. Most of the iconic Punisher tableaux from Baron through Soule sit in this category.
+- **The interdiction of trafficking operations** — the wound-resonant target class. Lethality elevated, restraint reduced, post-action protective handling of survivors notable and gentle.
+- **The skull-and-blood signature** — operationally counterproductive (it tells targets he was there) and therefore not operational; it is communicative. He wants the next ring to know. The skull is broadcast, not branding.
+- **The graveside visit** — the only ritual the file records as non-operational. Annual, frequent, brief; he speaks aloud or does not; he does not weep.
+
+---
+
+## 6.11 The Symptom-as-Signature Reading
+
+What is striking, when the capacities are assembled, is how perfectly the skill set fits the disorder. Each ability is precisely what the underlying pathology requires to perpetuate itself.
+
+The refusal of augmentation preserves the contract: he must remain a man so that the war remains chosen. The sleep adaptation, the pain conditioning, the substance abstinence — each is presented in the canon as professional discipline, and each functions psychiatrically to prevent the intrusion of feeling. He cannot drink because alcohol would unbar the affect. He cannot sleep long because long sleep is where the dreams live. He cannot accept anesthesia because anesthesia is the model of the surrender he refuses. The conditioning of the body is the conditioning of the defense.
+
+The mastery of small arms — over every other capability — is the symptom most clearly. The gun is the instrument that re-stages Central Park with the geometry corrected: this time he arrives, this time he is armed, this time the family lives because the perpetrator dies first. Every engagement is a recapitulation in which the role he failed to play is finally played, and the recapitulation is endless because the original cannot be repaired. The skill is real; the application is liturgical.
+
+The interrogation competency is the inverse of the same wound. He could not, on the day, identify the men in the park; now he can always identify the next ring, and the act of identification is itself partial redress. The intelligence architecture exists because not-knowing was the original injury.
+
+The planning and journaling — clipped, ritualized, daily — are the ordering of an interior that would otherwise be insupportable. The mission plan is the prayer book of a man who left the seminary; the after-action review is the confessional of a man who does not believe absolution is available. The rosary cadence the priests gave him in Queens is still present in the work; only the beads have changed.
+
+The hand-to-hand competence, deliberately kept just below specialist tier, reflects the same diagnostic truth as the preference for engagement at twenty meters: he wants to see the targets but does not want to feel them. The pistol is intimate enough; the knife, when it must be used, is faster than feeling.
+
+The capacity for tenderness with children, with the wounded, with survivors of those he has failed — the capacity that is invisible in the firearms inventory but everywhere in the canon — is the residue of the pre-trauma man, the father, the seminarian. The file should not mistake it for a separate skill; it is the thing the rest of the skill set is built around protecting. Every other capacity exists, ultimately, so that this capacity can be permitted to exist briefly, in controlled doses, without obliging him to feel what permitting it costs.
+
+The aging curve and the refusal to retire complete the picture. The skills are what they were because the man has refused to become anything else. There is no second career waiting; there is no other configuration of these capabilities he is willing to live inside. The instrument has been sharpened to one edge for fifty years because the hand that sharpened it would not survive the discovery that it could have been sharpened to any other.
+
+*End Section 6. The capacities are exhaustively human, and exhaustively used. The file proceeds.*
+
+
+## Operational Profile & Tradecraft
+
+# OPERATIONAL PROFILE & TRADECRAFT
+
+*Subject: CASTIGLIONE, Francis David, Jr. — operational alias "the Punisher." File section IV-A. Cross-reference: behavioral baseline (§3), somatic profile (§2), relational graph (§6, separate).*
+
+---
+
+## 1. Decision Architecture
+
+The subject's decision-making is best modeled not as a deliberation process but as a **filter cascade** operating on a relatively small set of inputs. Decades of after-action material — recovered field journals (the so-called "war journal," a consistent artifact across every era of operation; legal pads, composition books, occasional steel-bound ledgers, never digital), interrogation transcripts when briefly held by SHIELD/NYPD, and recovered overlays/range cards — show the same sequence repeating with near-mechanical fidelity:
+
+1. **Threshold gating.** A potential target is admitted to the active queue only after meeting an internal evidentiary threshold the subject sets considerably higher than criminal "probable cause" and considerably lower than "beyond reasonable doubt." Functionally: corroborated criminal predation, demonstrated to the subject's satisfaction by a minimum of two independent source streams (typically one human, one documentary). The subject does not act on rumor. He has aborted operations within minutes of execution on receipt of disconfirming evidence (e.g., the canonical incident in the Ennis MAX run where a planned hit is stood down upon discovery the suspect's role was peripheral).
+
+2. **Innocent-proximity audit.** Before any kinetic phase, the subject maps non-combatants in and around the engagement box: residents above and below, custodial staff, children's schedules, food-delivery patterns, sex workers' shift changes, the elderly. Operations are routinely delayed days or weeks to clear the box. This is the single most operationally expensive habit he maintains and the one that most reliably distinguishes him from peer killers.
+
+3. **Reversibility check.** Subject asks, in effect, whether the target can be reached again on another day under more favorable conditions. If yes, and current conditions are marginal, he stands down. If no — target is transient, traveling, about to be moved by witness protection or extradition — he accepts elevated risk and proceeds.
+
+4. **Execution.** Once committed, the decision tree collapses: he prosecutes the action to completion or to his own incapacitation. There is no published instance of him aborting mid-engagement except to extract a wounded innocent.
+
+The cascade runs cold. There is no observed correlation between his affect at the planning phase and the moral weight of the act being planned; logistics for a single execution and logistics for a multi-target sweep are notated in the same hand, with the same density, in the same notebook.
+
+---
+
+## 2. Intelligence Cycle and Tradecraft
+
+**Collection.** The subject's intelligence apparatus is small-footprint, low-signature, redundant. He does not run a network in the case-officer sense. He runs *taps* — narrow, single-purpose access points he opens, exploits, and abandons. Sourcing across the recorded operational years includes:
+
+- **Bartenders, doormen, hotel night clerks, livery dispatchers, parking-garage attendants, building supers, bail bondsmen, tow-yard operators.** The municipal soft tissue. He cultivates none of these as long-term assets; he buys a single answer for a single payment, cash, and does not return to the same source for ninety days minimum.
+- **Compromised low-level criminals** kept on a short leash: typically left alive after a beating with the understanding that a phone call will buy continued breath. Turnover is high; he expects them to die in the lifestyle and budgets accordingly.
+- **Surveillance, conducted personally.** Static observation posts (rented rooms paid in advance through proxies, vehicles left in place for days), foot follows, mirror counter-surveillance routes through department stores with multiple-floor escalators and through the IND/IRT/BMT transfer system whose timing he memorized as a boy in Queens.
+- **Signals exploitation, conducted by surrogate.** This is the single technical capacity he has consistently outsourced: across continuities, to David Lieberman ("Microchip") and his successors in the same role (the Lieberman family in modern run, transient SIGINT contractors in others). The subject himself has never been depicted as more than journeyman-competent with computers and is realistic about this limitation.
+- **Open source.** Newspapers (physical, multiple, daily), police-beat radio (scanner, modified), court calendars, real-estate records, marriage and death indices, parish bulletins (a recurring tell — he reads the obituaries and the police-blotter wedding announcements with equal attention), liquor-license applications, building department filings. The Castle case file in any honest precinct should note that planning permits for renovation of mob-adjacent properties tend to precede engagements there by 6–10 days.
+- **Direct interrogation.** Coercive, methodical, untheatrical. He does not torture for pleasure or for confession-as-spectacle; he extracts the next link in the chain and disposes of the source.
+
+**Analysis.** Single-analyst — himself. Notebooks include link diagrams (hand-drawn, often with mileage and travel times annotated), photographic surveillance prints with grease-pencil overlays, cross-referenced indices of vehicles, phones, addresses, aliases. He maintains a personal **target ledger** — names, status (active / pending / closed), basis for entry, basis for closure. Closure entries are terse: a date, a location, occasionally an ammunition expenditure. Pages are routinely burned after the relevant arc is completed.
+
+**Counter-intelligence.** Aggressive and continuous. He assumes hostile surveillance at all times and operates as if every space he occupies will be entered by adversaries within hours. Specific habits documented across runs:
+- Never sleeps in the same location twice within a rolling 30-day window during active operations.
+- Does not carry photographic ID for his legal name; multiple identities of varying depth, all backstopped to expendable accommodation addresses.
+- Sweeps every space he occupies on entry — line of sight, line of fire, two exits, weapons cache on entering, weapons cache on the way out.
+- Avoids being photographed; on the rare occasions a face capture has been obtained (security cameras, press photographers), he has located and destroyed the recording medium within 72 hours when feasible.
+- Will not give voice samples; speaks minimally on phones and uses burners that are physically destroyed (smashed, soldered, occasionally swallowed by river) after at most three calls.
+
+---
+
+## 3. Methods of Engagement
+
+The subject's tactical repertoire is broader than his reputation suggests. The cartoon of him as a man with two automatic rifles is a reputational asset he has not bothered to correct; it causes adversaries to expect noise when he intends silence.
+
+**Engagement modalities, in order of observed frequency:**
+
+1. **Ambush from prepared position, single rifle, single discharge per target.** The workhorse. Bolt-action or semi-auto precision rifle from elevated or concealed position at 75–400 meters; head and upper thoracic shots; egress within 90 seconds. He prefers this mode and uses it whenever the engagement geometry permits.
+
+2. **Close ambush, suppressed pistol, contact distance.** Stairwells, parking garages, restaurant vestibules, the back rooms of social clubs. One to two rounds per target, the second to the head if the first was thoracic. He does not draw at distance and walk forward firing; he closes and discharges.
+
+3. **Vehicle interdiction.** Disabling shot to the driver, follow-on engagement of passengers, immediate displacement. He prefers to take vehicles at low speed (traffic, lights, garage entries) rather than initiate pursuits.
+
+4. **Demolition and arson** for fixed targets where personnel cannot be reliably extracted from a hardened position. Improvised but disciplined: he calculates blast radius and ignition propagation; he has aborted demolitions on discovering a sleeping occupant elsewhere in the structure.
+
+5. **Direct assault with sustained automatic fire.** The signature mode in tabloid and folklore. In actual operational tempo this is reserved for fortified objectives with no civilian presence (cartel safehouses in *Mother Russia* and the canonical Long Island compound sweeps; the fishing-trawler boarding in the Slavers arc). When he chooses this mode he commits overwhelming firepower and accepts no possibility of withdrawal short of mission completion.
+
+6. **Edged-weapon and hand engagements.** Reserved. He is unsentimental about killing with a knife and will do so when noise discipline requires, but he does not romanticize the practice. Technique is military fundamentals: posterior triangle, kidney, femoral; no flourishes.
+
+**Targeting discipline (observed constants):**
+
+- *Headshots when the round and range permit;* he does not trust thoracic incapacitation against armor and assumes armor.
+- *Hostage situations:* he is willing to take the shot through soft tissue of a hostage if it terminates the immediate threat and if his judgment is that the hostage will survive the through-and-through. He has done this; the hostages have, in the canonical instances, survived. The judgment is unsentimental in both directions.
+- *Wounded adversaries:* finished. He does not leave living perimeter for follow-on engagement.
+- *Surrender:* not entertained from those already on the ledger. Entertained from those incidental to the engagement (low-level associates, drivers, women on payroll) who are typically disarmed, restrained, and left for police.
+
+---
+
+## 4. Logistics, Caches, and Infrastructure
+
+**Caches.** The subject maintains a distributed network of weapons, ammunition, medical, and cash caches across his primary area of operations (greater New York metropolitan area; secondary New Jersey, Connecticut, Pennsylvania within day-drive radius). Documented and inferred cache typology:
+
+- *Primary caches:* climate-controlled, redundant. Self-storage units rented under multiple paper identities, paid annually in cash money orders. Vehicle storage that doubles as armorer's bench. He rotates which primary is "hot" on a quarterly schedule.
+- *Mission caches:* small, single-use, planted 24–72 hours before an operation and recovered or burned after. A weapon and reload taped behind a dumpster, a medical kit zip-tied inside a utility access, a vehicle key magnetized to the underside of a parked car.
+- *Survival caches:* deep, never used except in extremis. Buried, sealed in PVC, marked by GPS coordinates committed to memory and one paper copy held by no living person. Inferred from operational continuity across periods when his known infrastructure has been destroyed.
+
+**Armory baseline.** Across continuities, certain constants: a service-grade battle rifle (M16/M4 family or AR-platform civilian variant rebuilt to spec), a precision rifle (variously M14 derivative, Remington 700, occasionally a McMillan or Barrett for the larger calibers), a primary sidearm (1911 platform, .45 ACP, persistent across decades — the only weapon he is sentimental about; the slide-stamped skull motif appears on personal weapons in some periods but is sanitized off operational weapons that may be left at scene), a backup sidearm in ankle or appendix carry, fighting knife (Ka-Bar lineage), suppressors for the pistol and at least one long gun, fragmentation and smoke grenades when obtainable, breaching shotgun, claymore-equivalent improvised antipersonnel devices for fixed-site defense.
+
+He **handloads** ammunition. This is a tell. Lot consistency, projectile selection tuned to expected target armor profile, and the absence of commercial headstamp on recovered casings are forensic signatures of his work.
+
+**Vehicles.** Plain. Older American sedans and vans, mid-decade, white or grey or black, no distinguishing damage, current registration to one of his expendable identities, paper plates fresh enough to not attract a stop but old enough to not attract a stop. He owns no signature vehicle; the so-called "Battle Van" of certain periods is a forward-deployed mobile armory used in defined operational phases and abandoned or destroyed after. He drives unremarkably, at or one over the limit, signals every lane change, makes full stops.
+
+**Safe houses.** Multiple, low-rent, anonymous. Rented through cutouts, occupied irregularly, salted with anti-entry devices (fish-line tripwires to mechanical noisemakers, not explosives where civilians live nearby; explosives where they don't). Each contains a minimal kit — a weapon, ammunition, cash, a change of clothes, basic medical, a burner — sufficient to reconstitute operational capability if every other holding is lost. He has lost everything more than once and reconstituted within days. This is itself diagnostic of how lean the actual operational footprint is.
+
+**Communications.** Burners. Strict one-way usage where possible — he calls out, does not receive. Brevity codes for routine traffic with the small number of persons who have any line to him. No persistent number. No email he originates. Written messages — physical dead drops — preferred for non-time-critical traffic with long-term collaborators.
+
+---
+
+## 5. Finances
+
+The subject does not earn. He does not have a job, has not filed taxes since the mid-1970s under his legal name, and has no banked assets traceable to Francis Castiglione. His operational economy is funded almost entirely by **battlefield recovery**: cash, bearer instruments, and occasionally precious metals taken from the criminal targets he eliminates. This is consistent across every writer: he takes the money off the bodies and uses it to fund the next operation.
+
+Observed handling:
+
+- *Cash is laundered minimally* — broken into small bills through a churn of small-cash businesses (laundromats, used bookstores, the racetrack), then held in safe-deposit boxes under cutout identities and in cache.
+- *Bearer instruments* are converted by the surrogate (Lieberman role) and skimmed; the subject takes operational expenses and the surrogate takes a livelihood. The arrangement is explicit and time-limited.
+- *Drugs, weapons, and other contraband recovered* are destroyed. He does not sell narcotics, does not flip recovered firearms to the criminal market, does not deal stolen art or jewelry. He has burned more value than most career criminals will see in a lifetime and treats the burning as a moral non-negotiable.
+- *Operational tempo is rate-limited by cash on hand,* and downturns in mob liquidity are visible in the recovered ledgers as reduced operations frequency. He does not borrow, does not take patron funding (the rare attempts by intelligence services to underwrite him have ended badly for the patrons), and does not steal from non-criminal sources.
+
+He lives, in personal expenditure, on perhaps a few hundred dollars a week. Rent on a current safe house. Food (functional, eaten standing or in the vehicle). Coffee. Ammunition. He owns very little. The recovered personal effects from any seized safe house typically include: clothing in two or three sizes (his current, one tighter for periods of weight loss, one looser for armor), a Bible (Douay-Rheims, marked, the marks operationally relevant in some cases — he uses scripture as a one-time pad equivalent on rare occasions), a small selection of photographs kept in a sealed envelope inside a sealed envelope inside something else, and the current war journal.
+
+---
+
+## 6. Patterns of Action
+
+**Operational tempo.** Cyclical. An arc typically opens with a triggering intelligence input (a victim's family, a recovered ledger, a chance observation of predation), progresses through 5–20 days of preparation and surveillance, executes over a compressed window of 24–96 hours, and closes with a recovery and re-cache phase of 3–10 days during which he is below the surface and functionally invisible. Arcs are followed by short fallow periods rarely exceeding 14 days before the next input lands; the inputs are abundant because the environment is what it is and because his presence in the environment makes him a magnet for them.
+
+**Time-of-day preferences.** Civil twilight to 0400 for kinetic action. Daytime for surveillance, logistics, supply. He is awake more than he sleeps and is observably comfortable operating across the circadian trough that wears most operators down.
+
+**Geographic preference.** He works the city he was raised in. Outer-borough industrial waterfront, dock and warehouse district, transit infrastructure, the rougher parishes of his childhood. He does not enjoy operating in unfamiliar terrain and his out-of-AO operations (overseas, deep-rural) are notably less elegant. Asked to choose, he will draw the adversary into terrain he owns.
+
+**Communications with adversaries.** Minimal and instrumental. The recurrent "calling card" — the skull motif left on or near completed work — is real and consistent but is more economical than its reputation: it functions to (a) deter future predation in the immediate area through fear, (b) signal credit so that other crews are not falsely blamed and triggered into retaliatory violence against innocents, and (c) save him the work of pursuing those who flee the neighborhood on hearing he has worked it. The signature is operational, not vain.
+
+**Patterns with law enforcement.** He does not engage police as targets even when they engage him. He will disarm, immobilize, and escape; he will not kill a uniformed officer absent the officer being demonstrably criminal under his threshold (the "dirty cop" exception is real and has produced his most legally and politically combustible engagements). When detained, he is silent, compliant short of restraint that would prevent escape, escape-prone within hours, and has never been successfully held for more than a single news cycle.
+
+**Patterns with peer operators.** Cooperative within mission tempo, dissolves alliance cleanly at mission end. Has been observed to take orders from operators he respects (Fury in defined contexts) for the duration of a defined objective; does not accept ongoing chain-of-command. Will not work alongside operators whose civilian-collateral discipline he distrusts.
+
+---
+
+## 7. Signature Tells (the granular markers)
+
+These are the details a surveillance file accumulates over years — the irreducible particulars by which the subject is known regardless of identity, weapon, or theater:
+
+- **Right-handed primary, ambidextrous secondary.** He shoots with both, reloads under either hand, fights from either side. Old combatives habit, maintained.
+- **Will not sit with his back to a door.** Universal. He has stood eating rather than seat himself wrongly oriented.
+- **Reflexively counts exits on entry to any space,** including spaces he has entered hundreds of times.
+- **Sweeps a room with eyes at three heights** — floor, waist, ceiling line — within the first five seconds.
+- **Carries a tourniquet on his person at all times,** including in environments where he is unarmed.
+- **Does not remove footwear in safe environments.** Sleeps in boots loose, never off.
+- **Eats with one hand, the other in his lap or near his belt.**
+- **Drinks coffee constantly, black, no sugar; does not drink alcohol, will not accept a drink even as social cover** — he has rather walked away from a useful contact than be observed accepting a drink. The abstinence is a tell that has identified him to discerning observers more than once.
+- **Does not smoke**, will not be near smoke (operational — odor signature, oxygen-deficit at altitude, fire discipline at night).
+- **Will eat anything**, prefers what is fast and dense. Diner food. Standing. Pays cash. Tips a working amount — never a round number, never memorable.
+- **Voice low and quiet,** the volume of a man who learned to speak in confined spaces and around sleeping children. Speaks less than he is spoken to. Sentences end where the information ends.
+- **No jewelry except, in some continuities, a wedding band kept on a cord around his neck or in a pocket — never on the hand.** When his hand is bare the absence is itself meaningful.
+- **Visits his family's graves on the anniversary** and on no other observed schedule. He is at the gravesite for between four and twelve minutes by stopwatch in the recoverable instances; he speaks aloud at the grave on some visits and not on others; he does not bring flowers. He sweeps the headstone clean by hand.
+- **Reads the obituaries daily.** A diagnostic habit and an intelligence one — he is looking for both his work being miscredited and for funerals that will draw his targets to a fixed location at a fixed time.
+- **Attends mass irregularly,** never in his parish of operation, does not take communion. Sits at the rear, on the aisle. Leaves before the recessional.
+- **The journal.** Always present, always physical, always in the same hand — block printing, hard pressure, ruled paper. Date, time, location, action, ammunition expenditure, observation, occasionally a single line of moral comment. The comment line is the only register in the document.
+- **The skull.** On the operational kit when operational, off the rest of the time. Hand-stenciled or hand-painted on most instances — the imprecision is a tell.
+- **A specific way of clearing a room** — high-low pairing of his own two hands, weapon up, head moving on a slow continuous arc rather than the trained snap. He acquired the habit pre-Vietnam and has never modified it.
+- **Refuses anesthesia for field surgery on himself** when conscious to refuse. Bites down on leather or wood. The behavior is not theatrical — it is anchored in his refusal to be numb.
+
+---
+
+## 8. Doctrine and Constraint
+
+The subject operates under a doctrine he has never written down and has explained aloud perhaps a dozen times across the recoverable record. Reconstructed from action:
+
+1. **The guilty die. The innocent live.** Targeting is moral, not strategic.
+2. **No children, ever, under any circumstance, full stop.** This is the only line he is known to have died inside himself rather than cross. Operations have been aborted, allies sacrificed, and tactical positions surrendered to preserve it.
+3. **No civilians as collateral if avoidable; if unavoidable, abort.** He has aborted operations within minutes of execution when a civilian entered the engagement box.
+4. **No law enforcement except the demonstrably criminal.** He treats the badge as a working presumption of innocence subject to rebuttal by evidence.
+5. **No torture for entertainment, no mutilation of remains, no sexual violence under any pretext.** He has executed allies for violating the last of these.
+6. **No long-term patrons, no flag.** He does not work for governments, syndicates, or causes, and treats offers to do so as either trap or temptation, both of which he refuses.
+7. **No retreat from a committed engagement.** Once kinetic, prosecute to completion.
+8. **No self-preservation at the cost of any of the above.** This is the binding constant, and it is the reason every projection of his lifespan has been wrong for fifty years and will remain wrong until the day the constant finally costs him the last engagement.
+
+The doctrine is not a code in the chivalric sense. It is a containment vessel. Removing any rule would not free him; it would dissolve him. He keeps the rules because the rules are what distinguish what he is doing from what was done to his family — and because if that distinction collapses, the war he has built his survival around becomes indistinguishable from the wound it is meant to answer, and there is nothing left of him underneath.
+
+He knows this. It does not change the operation.
+
+*End §IV-A. See §IV-B for adversary-response patterns and §V for relational graph.*
+
+
+## Worldview & Operational Code
+
+# WORLDVIEW & OPERATIONAL CODE
+
+*Section 7 of the UATU Dossier on Francis Castiglione, "Castle, Frank Jr."*
+
+---
+
+## 7.1 First Principles — The Metaphysics Castle Actually Lives By
+
+Castle is not a philosopher and would be insulted by the word. But he operates from a coherent and largely consistent metaphysics, derivable across forty years of canon, and it is more articulate than most professional theologians' systems because it has been pressure-tested nightly.
+
+**Evil is real, nameable, and ontologically distinct from misfortune.** This is the bedrock and it is downstream of the Queens Catholic formation, not of Vietnam. The seminary did not give him the doctrine of evil; the seminary gave him the *vocabulary* for a conviction he already had. In Ennis's *The Tyger* the pre-pubescent Castle, reading Blake, fixes on the line about the "fearful symmetry" — what he absorbs is not the poem's irresolution but its premise: that the maker who made the lamb made the tiger, and the tiger is a fact. He does not believe in evil as the privation of good (the Augustinian formula his Catholic teachers would have given him). He believes in evil as a *positive substance* — a thing in the world with weight, agency, and appetite. This is closer to Manichaean dualism than to Catholic orthodoxy, and it is heretical, and he does not know or care that it is.
+
+**The world is morally legible at the operational scale.** Castle does not believe geopolitics is legible, does not believe economics is legible, does not believe history is legible. He believes that *the man in front of him*, in the moment of action, is legible — you can tell what he has done and what he will do. This is the Marine's epistemology: the only knowable terrain is the terrain you are on. He does not theorize crime; he reads a room.
+
+**Institutions are structurally insufficient, not categorically corrupt.** This is finer-grained than the popular reading of him. He does not believe the NYPD is rotten root-and-branch; he has worked alongside individual cops he respects (Soap, Molly Von Richthofen, Bethell in the Ennis MAX run) and treats them with a kind of pained courtesy. He believes the *system* — courts, evidence rules, appellate process, plea bargaining, parole, sentencing guidelines, jurisdictional fragmentation — is built for a volume and quality of evil far below the actual volume and quality in the world, and that it consequently leaks at the seams where the worst predators live. He is not anti-law; he is anti-insufficiency. The distinction matters because it explains why he does not target judges who acquit, prosecutors who plea down, or beat cops who clear a corner. He targets the predator the system failed to hold.
+
+**Damnation is real and priced in.** He expects hell. He has said so to priests (Ennis's *Confessional*), to Daredevil (across multiple writers, most pointedly Waid and Soule), to himself in interior monologue. He does not believe his work redeems him. He does not believe his motives mitigate the act. He believes he is doing something necessary and is going to be damned for doing it, and that this is the correct exchange. This is, in its perverse way, the most orthodox piece of his theology — it is the Catholic conviction that the act has weight independent of intention, taken to a destination Catholic moral theology would refuse. The priestly self he rejected at seventeen still grades his paper.
+
+**Free will is operative and total.** Castle does not believe in mitigating circumstance for adult, capable predators. Childhood abuse, addiction, poverty, mental illness — he registers them as facts but not as exculpation. A man who traffics children chose to. A man who beats his wife chose to. This is monstrous as policy and consistent as code. The exception is children themselves; the threshold at which choice becomes ownership is somewhere between adolescence and adulthood and he draws it conservatively (in *The Slavers*, the teenage Albanian gunman is given a beating and a warning, not a bullet — the boy has not crossed yet, in Castle's reading).
+
+**God is silent and probably listening.** He has not, in any reliable canonical text, declared himself an atheist. He prays rarely and tersely, usually for the dead. He attends Mass occasionally, sits in the back, leaves before communion (he will not present himself for the sacrament in a state he knows is mortal sin — a Catholic detail that survives all his apostasy). He behaves as if observed.
+
+---
+
+## 7.2 The Operational Code — Rules He Will Not Break
+
+There is a code. It is not written down anywhere in the texts as a single list, but it is reconstructable from forty years of consistent application across writers, and the consistency itself is the evidence that this is not a writer's caprice but the character's actual structure.
+
+**Rule 1: No children, ever.** Absolute. He has never killed a child in any canonical text and the closest approaches (the teenage gunman in *The Slavers*, the child soldiers in *Mother Russia*) are handled with conspicuous restraint. Children harmed by others are the single operational trigger that increases his lethality and decreases his negotiation.
+
+**Rule 2: No innocents as collateral, accepted in advance.** He will abort an operation rather than accept a civilian casualty. The *Welcome Back, Frank* arc shows him calling off shots because of pedestrian foot traffic. He has chosen capture over a shot he could not guarantee. He fails this rule occasionally — Ennis's *The Slavers* and *Long Cold Dark* both contain civilians dead at his hand or as proximate consequence of his actions — and the failures register on him, are not rationalized away, and are factored into the damnation he is paying down.
+
+**Rule 3: No police killed.** Even corrupt police are disabled, exposed, beaten, framed for arrest — not executed. The exception requires the cop to have crossed fully into predator territory (Ennis's *Up Is Down and Black Is White*), and even then there is hesitation visible in the work.
+
+**Rule 4: No torture for information he does not specifically need.** He will inflict extreme pain to extract a name, a location, a network. He will not inflict pain for punishment, for spectacle, or to make the target "suffer" in any quasi-justice sense. Death is the punishment; pain is a tool. This distinguishes him from the sadists he hunts and he is aware of the distinction.
+
+**Rule 5: No theft for self.** He takes money from criminals to fund the war. He does not keep a comfortable apartment, does not improve his lifestyle, does not invest, does not build wealth. The war budget is operational; the personal budget is monastic. Microchip's repeated attempts to upgrade his living conditions across the late-80s/90s runs are met with indifference or refusal.
+
+**Rule 6: No alliances that compromise target selection.** He has worked with SHIELD, the CIA, military intelligence, organized-crime defectors, Daredevil, Spider-Man, the Avengers, Nick Fury personally. In every case the alliance terminates the moment it would require him to spare a target his code says to take, or take a target his code says to spare. He treats handlers as temporary and lies to them about it from the beginning.
+
+**Rule 7: No conscription.** He will not be drafted, recruited, deputized, or owned. The brief periods of co-option (Frankencastle, the Thunderbolts gambit, the Beland War Machine arc, the Hand corruption in Soule's run) are tonally aberrant precisely because they violate this rule, and in each case he ends them by returning to baseline, often violently.
+
+**Rule 8: No quitting while there is work.** This is the rule that consumes all the others. He has been offered the off-ramp — Maria's death avenged within the first arc, the original killers all dead by 1976 in publication time — and he has refused it every time, for fifty years of in-world action. The work is no longer about the killers of his family. The rule has become the man.
+
+---
+
+## 7.3 Reading the World — Tactical Epistemology
+
+**He reads rooms before people.** Walking into any space, his attention sequence is: exits, sight lines, weapon-availability of present parties, civilian disposition, then identities. Faces come fourth. This is Marine room-clearing discipline retained into civilian existence and never deactivated. In the kitchen, in a diner, in a church — same sequence.
+
+**He reads bodies before faces.** Posture, hand position, weight distribution, the tell of a concealed weapon at hip or ankle, the gait of a man who has done time, the gait of a man who has done combat. He distinguishes these instantly and probably below conscious access by this point. He has been observed in canon (Aaron, *PunisherMAX* #5) clocking a federal agent in a crowded bar from forty feet by the way the man held a coffee cup left-handed while wearing a wedding ring on the left — gun side preserved.
+
+**He reads voices for honesty, not for charm.** He is markedly unresponsive to charisma. The articulate criminal, the well-spoken handler, the persuasive priest — he registers their fluency as a datum (this person has practiced) and discounts it. Plain speech he trusts further than polished speech. This makes him hard to manipulate verbally and explains his preference for Nick Fury, who does not bother to dress up an ask.
+
+**He does not believe in coincidence in operational space.** Two unrelated anomalies in one twenty-four-hour window are treated as related until proven otherwise. This produces some false positives and few false negatives, and he accepts the trade.
+
+**He does not project his own affect onto adversaries.** He does not assume the predator is angry, frightened, regretful, or rational. He assumes the predator is doing what predators do and will continue to do so unless stopped. This refusal to mentalize the enemy is both a tactical strength (no over-reading) and a moral commitment (no humanization that would compromise the act).
+
+---
+
+## 7.4 On Conflict
+
+**Conflict is the natural state, not an interruption of peace.** The Hobbesian reading is too generous to peace. He believes that what civilians call peace is the state in which the predators have not yet arrived at their door. The work of someone like him is what produces the local, temporary, contingent appearance of peace for the protected.
+
+**Escalation is preferable to negotiation when the target is committed.** He does not believe in de-escalating committed predators. He believes de-escalation is the language used by people whose lives have not yet required them to take a side. With targets, he opens at terminal force or its credible threat and works downward only if the target shows immediate, total submission, which he treats with skepticism.
+
+**Negotiation is honorable with peers.** With Fury, with Daredevil (despite the philosophical chasm), with cops he respects, with informants he has come to trust — he negotiates, keeps his word, and considers the deal binding past the operational use of it. He is not a liar in personal dealings. He is a liar to systems.
+
+**Surrender is not credible from those who would not surrender to him if positions were reversed.** A made guy who has personally executed bound men does not get the option of hands-up. The asymmetry registers as moral, not tactical.
+
+**Mercy is reserved for the marginal participant.** The driver, the lookout, the courier, the bookkeeper — these have been spared more often than not in the texts, with warnings that have a roughly fifty percent rate of being heeded. Castle keeps track. He does not warn twice.
+
+---
+
+## 7.5 On Control
+
+**Self-control is the only control that matters.** He does not believe he controls the world, the war, the city, or the long-run outcome. He believes he controls his hands, his breath, his trigger pull, his decision in the next three seconds. The rest is what it is.
+
+**Discipline is a substance, not a virtue.** He treats discipline as something that depletes if unmaintained and accumulates with use. The pre-dawn calisthenics, the dry-fire practice, the daily weapons maintenance, the running, the abstinence from alcohol — these are not moral exercises; they are the maintenance of a quantity. He has the soldier's understanding that the body and mind are systems with budgets.
+
+**Plans are provisional; principles are not.** He plans elaborately and discards plans the moment contact is made. The principles (the eight rules above) do not bend under contact. The plan exists to be improvised on; the code exists to be the thing the improvisation does not violate.
+
+**Hierarchy is functional, not metaphysical.** He served under officers; he respected the rank without venerating the man. He recognizes chains of command in operational contexts and ignores them outside. He has never sought rank for himself and has refused offers of formalized command (the SHIELD overtures, the various wetwork team leaderships dangled across decades).
+
+**Routine is freedom.** He keeps a routine because routine reduces the cognitive load of small decisions and frees attention for the large ones. Same breakfast, same maintenance sequence on the weapons, same patrol rhythm by neighborhood, same surveillance method. The routine is varied only when it would become predictable to an adversary, and then varied systematically rather than randomly.
+
+---
+
+## 7.6 On Trust
+
+**Trust is operational, not affective.** He trusts what a person will do, calibrated to evidence; he does not trust what a person feels. He has never been seen to ask whether someone "really" cares about him, about the work, about the city. He observes behavior over time and assigns probabilities.
+
+**Trust is granular by domain.** He may trust a man with his life in a firefight and not with information about his safe house. He may trust an informant on the streets of the Bronx and not on the streets of Queens. He carries a finely segmented mental map of who knows what.
+
+**Trust is asymmetrically revoked.** Once broken, never restored at full faith. Microchip is the case study: years of partnership, terminated permanently and lethally over a single act of perceived betrayal (the Ennis MAX *Mother Russia* / *Man of Stone* sequence, where Micro's effort to "save" Castle by reaching out to military intelligence is treated by Castle as a capital violation). There is no path back. He does not believe in reconciliation as a category.
+
+**Trust does not extend to systems.** He does not trust banks, hospitals, governments, militaries, agencies, or any institution that runs on procedures. He uses them. He does not trust them.
+
+**He is, conversely, trustworthy to a fault within the band of trust he has extended.** Promises kept, debts paid, names not given. This is part of why the few people who have worked with him sustainedly continue to do so despite knowing what he is.
+
+---
+
+## 7.7 On Risk
+
+**Risk to self is uncosted.** He does not weight his own survival in operational calculus except instrumentally — he must survive this operation in order to complete the next one. There is no terminal value placed on his continued life. This makes him extraordinarily dangerous and operationally legible (an adversary cannot leverage threat to him; an ally cannot persuade him with appeals to safety).
+
+**Risk to mission is heavily weighted.** He will pull off a target rather than blow a longer operation. He has waited months to take a shot that was available in week one because the larger network was still mapping.
+
+**Risk to civilians is the binding constraint.** This is the actual ceiling on his lethality. Many of his operational choices that look like restraint or cleverness are downstream of refusing civilian risk above a low threshold.
+
+**Risk is calculated, not felt.** He does not experience risk as fear; he registers it as a number. This is partly trained, partly trauma-related (the threshold for somatic fear response is elevated post-Central Park), and partly constitutional. The absence of felt risk means he does not get the warning signal a normal operator gets, and he compensates by overcalculating in the planning phase.
+
+**Surprise is the only risk he respects metaphysically.** Known risk he prices; unknown risk he treats as an indictment of his preparation. The post-mortems after operations gone wrong are not about luck; they are about what he failed to surveil.
+
+---
+
+## 7.8 On His Own Place
+
+**He is not a hero.** He has been told he is, and rejects it. The Punisher-fanboy cops, the militia weekend warriors, the kid in the Punisher T-shirt — he treats them with a contempt that is not performed for narrative effect; it is real and rooted. He believes hero-worship of him is a category error and that the people doing it have understood nothing.
+
+**He is not a model.** He does not believe his methods generalize. He has said, in canon (most directly in Aaron's *PunisherMAX* and again in Soule), some version of: *don't do what I do; I am not an example*. He believes he is a specific solution to a specific catastrophe in a specific man, not a program.
+
+**He is not a soldier in a war the country is fighting.** He is fighting a war the country has declined to fight. He does not believe he has authorization, mandate, or sanction. The work is unauthorized and he insists on it being unauthorized; offers of legitimacy degrade it, in his reading, because legitimacy would imply that what he is doing is the kind of thing a state could endorse, which he believes it categorically is not.
+
+**He is a tool that has chosen its own use.** This self-concept is unusual and stable. He does not say "I am a man doing this work"; he says, in effect, "I am this work." The grammar of his self-reference in interior monologue (across Ennis, Aaron, and Rucka) is closer to that of an instrument than a subject. This is dissociative and he does not experience it as such; for him it is accurate.
+
+**He expects to die at it.** He has expected this since 1974 in publication time and the expectation has not modulated. He does not plan for retirement, does not save, does not maintain ties that would constitute a post-war life. The expectation is not suicidal in the active sense; he does not seek death. It is structural: the war ends when he ends, not before, and he ends in it.
+
+**He does not believe the war will be won.** This is the bleakest piece of the worldview and it is consistent across every serious treatment of him. He does not believe his work reduces the aggregate volume of evil in any city or any year. He believes new predators arrive as fast as he removes the present ones, and that the work has no end-state in which the streets are clean. He continues anyway. The continuance is not faith that the work will succeed; it is a refusal to do anything else.
+
+---
+
+## 7.9 On Time
+
+**The past is foreclosed and unrevisable.** He does not believe the Central Park killings can be redeemed, reframed, healed, or made meaningful. They are what they are. The graves are visited as fact, not as comfort.
+
+**The future is foreshortened and operational.** He does not plan more than the current operation forward. Asked about a year from now, two years, ten years — he has no answer because the question is not real to him. There is no ten years from now in his cognitive frame.
+
+**The present is the only operational tense.** He lives in a continuous present of mission tempo, broken only by maintenance windows. Anniversaries register (Maria's birthday, the children's birthdays, the date in Central Park) but as observances, not as turning points. The years accumulate; the man does not move through them so much as endure them in place.
+
+---
+
+## 7.10 The Code as Theodicy
+
+The deepest layer, and the one Castle himself would not articulate in these terms but which the texts substantiate: the operational code functions as his answer to the problem of evil. Catholic theology gave him the question (why does a good God permit the murder of children in Central Park) and refused him an answer he could accept. He has constructed, in lieu of an answer, a *practice* — a thing to do in the face of the question that does not require the question to be resolved.
+
+The code does not explain the evil. The code is what he does *instead of* explaining it. The eight rules, the discipline, the routines, the refusal of comfort, the unending war — these are a liturgy, performed nightly, that allows him to live in a world he believes is genuinely as bad as it appears, without either lying to himself about its badness (the civilian's path) or surrendering to it (the predator's path). The work is the third option and the only one available to him, and he has been performing it for fifty publication years with the patience of a man saying the rosary.
+
+This is why he cannot stop and why the offered exits do not register as exits. To stop would be to admit the practice was elective, which would re-open the question the practice was constructed to close. He chose the practice once, on a Sunday in Central Park, and the choice does not get re-made. It is renewed nightly by the act of doing the work again.
+
+*End Section 7. See Section 8: Relational Map & Bond Architecture.*
+
+
+## Moral & Ethical Framework
+
+# MORAL & ETHICAL FRAMEWORK
+
+*UATU dossier section. Derivation: enacted code reconstructed from forty-plus years of operational record, weighted toward behavior over stated principle. Where Castle's professed code and his executed code diverge, the executed code is treated as primary data.*
+
+---
+
+## I. The Operating Premise — What Castle Actually Believes
+
+Castle's morality is not, as it is frequently miscategorized by both his admirers and his critics, a deontological code of capital punishment for the guilty. It is something stranger and more specific: a **pre-modern, pre-juridical moral physics** dressed in modern tactical clothing. He behaves as a man who believes that evil is a real substance — not a sociological category, not a failure of incentives, not a treatable pathology — and that certain acts saturate certain persons with it past any possibility of restitution. This is the seminary residue. Strip out the rifles and the Kevlar and what remains is the metaphysics of a Catholic boy who took the doctrine of mortal sin literally and could not be argued out of it.
+
+From this premise everything else follows with terrible internal consistency:
+
+- If evil is real and saturating, then **its bearers cannot be rehabilitated**, only removed.
+- If institutional remedies (courts, prisons, social work) fail to remove them at the scale they exist, those remedies are not *immoral* but **insufficient** — and the insufficiency creates an obligation in whoever can act.
+- The obligation falls on him because he can carry it, not because he is owed it. He does not believe he was chosen. He believes he was available.
+- His own damnation in the carrying of it is **priced in from day one**. He is not trying to save his soul; he forfeited it in the bargain and considers the forfeit fair.
+
+This last point is the load-bearing one. Almost every vigilante archetype in fiction needs to believe, somewhere underneath, that they are good. Castle does not. The absence of that need is what makes his code so stable: it cannot be destabilized by being shown what he is, because he already knows.
+
+---
+
+## II. The Hard Lines — What He Will Not Do
+
+The enacted code has a small number of absolute prohibitions. They are not rhetorical; they hold under operational pressure, under torture, under provocation, and across writers. They are the spine of the file.
+
+**1. He does not kill children. Ever. Under any pretext.**
+This is the most stable prohibition in the record. There is no canonical instance of Castle killing a minor, and multiple instances of him aborting otherwise-clean operations, accepting wounds, or expending munitions extravagantly to extract children from the line of fire (*The Slavers*, *Mother Russia*, the Lieberman children in modern continuity, the trafficked minors in the Rucka run). When a child is used as a human shield, Castle will take the round himself or disengage. This is not strategic; it is constitutive. If he killed a child he would not be Castle anymore, and at some level he knows it.
+
+**2. He does not kill the innocent — defined narrowly but enforced strictly.**
+"Innocent" in Castle's working schema means: not currently engaged in predation, not knowingly complicit in predation, not armed against him in the immediate moment. Bystanders, civilians, hostages, medical personnel, beat cops doing their job, even prostitutes and addicts orbiting his targets — all categorized as protected. His munition choice reflects this: he favors precision weapons in civilian density, switches to suppressed sidearms in residential structures, accepts substantially greater personal risk to reduce collateral fan. Where collateral has occurred (the early Baron run includes one or two incidents, *Welcome Back, Frank* features the rooftop firefight), it produces an immediate behavioral correction in subsequent operations — he reviews and adjusts. He does not forgive himself for it. He does not stop because of it either.
+
+**3. He does not kill police officers, soldiers, or first responders absent specific proof of personal corruption.**
+This is one of the more nuanced lines. Castle has fought cops, evaded cops, disarmed cops, broken cops' bones, and humiliated cops. He has not, as a baseline policy, killed them. The exceptions are individuated: a specific officer demonstrably on a cartel payroll, a specific soldier participating in trafficking, a specific federal agent who has crossed into the predator category by his criteria. The default presumption is institutional respect — itself a residue of his Marine formation. The corollary is that **corrupt officers receive worse treatment than the criminals they protect**, because they have additionally betrayed an oath. The betrayal-of-trust modifier is a consistent aggravator throughout the record.
+
+**4. He does not torture for sadism, and rarely for information.**
+This is more contested than admirers of the character assert. Castle has inflicted prolonged suffering — the burning in *The Slavers* is the canonical hard case, and the *Punisher MAX* run contains several extended interrogation scenes. But the pattern, examined cumulatively, is: pain inflicted for information is short, instrumental, and ceases when the information is produced; pain inflicted past that point occurs only against perpetrators of a narrow category of crimes (trafficking, child abuse, mass predation) and reads as **executed sentence rather than gratification**. He does not linger. He does not photograph. He does not return to the scene. The Geneva-violating quality of certain set-pieces is real, but they are punctuation, not paragraph.
+
+**5. He does not take payment.**
+Castle has been offered money to do what he does anyway — by governments, by rival crime families, by private parties whose enemies he was already targeting. He refuses without exception. Funding is taken from the dead (cartel cash, mob caches, weapons stockpiles) and applied to operations; it is not income. The refusal is structural: the moment money entered the loop, the moral physics would collapse into something he could not justify even to himself.
+
+**6. He does not recruit. He does not franchise. He does not bless imitators.**
+This is among the most underappreciated features of the code, and one of its most morally serious. Castle is contemptuous of fans, repelled by cops who model themselves on him, openly hostile to militias and right-coded vigilante movements that adopt his iconography. Across multiple writers (Ennis especially, Soule in the more recent runs) he has actively dismantled, humiliated, or executed Punisher-imitators — particularly police officers using his skull as identification. He understands his work as **non-generalizable**. He does not believe the world should contain more of him. He believes the world is unfortunate enough to contain one.
+
+**7. He does not lie to victims, and he does not lie about what he is.**
+Castle deceives operationally — feints, cover identities, infiltration — but in personal exchanges with civilians, victims, surviving family members, or those who ask him directly what he is doing and why, he tells the truth in spare declarative sentences. He does not euphemize. He does not call killing anything other than killing. He does not call himself a hero, a soldier in a holy war, or an instrument of justice. He says he kills people who do certain things, and he keeps doing it.
+
+---
+
+## III. The Permitted — What He Will Do, and Under What Conditions
+
+**Targeted lethal force against organized predators.** The bread and butter: mafia capos, cartel enforcers, traffickers, serial killers, terror cell operators, child abusers, organized rapists. The threshold is roughly: ongoing predation against the helpless plus institutional immunity from prosecution. Where prosecution is realistically pending and likely to succeed, Castle has, in a small number of cases, stepped aside — but this is the exception. His operational assumption is that the system will fail.
+
+**Theft of operational material from his targets.** Money, weapons, vehicles, real estate, safe houses, intelligence. He treats criminal property as forfeit and uses it as logistical baseline. He has never been depicted stealing from civilians, charities, or non-predatory businesses.
+
+**Property destruction at scale.** Warehouses, distribution houses, drug labs, trafficking front businesses — burned, blown, collapsed. He calibrates for evacuation; structures are typically cleared of non-combatants first. The destruction is not theatrical; it is logistical denial.
+
+**Cooperation with law enforcement and intelligence on a strictly temporary, strictly transactional basis.** He has worked with Nick Fury, with select federal officers, with SHIELD assets, with Daredevil under duress. Cooperation persists exactly as long as the joint objective persists. The moment a cooperating party attempts to convert the relationship into a chain of command, into recruitment, or into a moral leash, Castle disengages — sometimes violently.
+
+**Mercy in narrow categories.** He has spared low-level couriers, addicted runners, coerced participants, women trafficked into criminal roles, teenagers who can still be extracted. The mercy is not soft; it is triaged. He spares those whom he believes are not yet saturated.
+
+---
+
+## IV. The Justifications, Examined
+
+Castle's stated justifications, when he offers them, are sparse: *they had it coming; somebody has to; the law won't.* These are not the real justifications. The real justifications operate at a deeper register and are partly opaque to him.
+
+**Stated justification: retributive desert.** "They deserve it." This is true within his frame but is not load-bearing. If desert alone were the engine, Castle would be a far more theatrical executioner — he is not. He kills quickly, professionally, without ceremony. Desert licenses the killing; it does not drive it.
+
+**Stated justification: deterrence.** "If they know someone will come, fewer will do it." This is the weakest of his rationalizations and the one he himself believes least. The record shows no measurable deterrence — organized crime adapts and continues. Castle is intelligent enough to know this. He invokes deterrence rhetorically when pressed by interlocutors who want a utilitarian justification; he does not appear to rely on it internally.
+
+**Stated justification: protection of future victims.** "I'm preventing what they were going to do next." This is closer to operative. The prevention frame is the one his behavior most consistently optimizes for: he prioritizes targets whose ongoing operations have identifiable future victims, and he prioritizes interruption (stopping a trafficking run in progress) over punishment (executing a retired offender).
+
+**Unstated justification — the load-bearing one: reenactment.** Castle is enacting, again and again, the intervention he failed to make on the Sunday in Central Park. Each operation is structurally identical to the founding scene with a single variable changed: this time he arrives in time; this time he has the weapon; this time the family lives and the predators die. The work is, at the level he does not articulate, a forty-year attempt to retroactively rescue his wife and children by rescuing other people's wives and children. The code that governs the work is shaped by this — which is why children and families are the absolute lines, why the predators-of-the-helpless category is the priority, why the offers of money and admiration and command are refused (they would convert the work into something other than the reenactment, and the reenactment is the point).
+
+**Theological substrate.** Castle expects damnation. This is not an affectation. He has stated it, in his own internal monologue, across multiple writers and decades. The expectation is operationally relevant: it forecloses any consequentialist accounting in which his own future welfare appears as a term. He cannot be tempted by salvation because he has already accepted its absence. This is the closest his framework comes to genuine moral grandeur — not that he is right, but that he has paid in advance for being wrong.
+
+---
+
+## V. Where the Code is Consistent
+
+Across forty-plus years and a dozen primary writers, the following hold without significant exception:
+
+- The protection-of-children prohibition.
+- The refusal of payment.
+- The refusal to recruit or franchise.
+- The triage of corrupt institutional actors as worse than the criminals they enable.
+- The personal asceticism — no alcohol, no drugs, no theatrics, no public-facing self-mythology.
+- The acceptance of his own damnation.
+- The refusal to surrender the work to anyone else, including to those who would do it better or with better authority.
+- The narrowness of target selection (predators of the helpless, not all criminals — he does not chase white-collar fraud, drug users, sex workers, the petty, the desperate).
+
+These are the deep grain. They have survived every reboot, retcon, and tonal shift.
+
+---
+
+## VI. Where the Code Fractures
+
+The honest file must report the fractures.
+
+**1. The torture line.** *The Slavers* (Ennis MAX, 2006) — Castle burns a woman alive who has trafficked and murdered children. The killing is presented within the text as morally legible but the manner is not within his stated parameters. He has, on a small number of occasions, killed in modes that read as personal-punitive rather than instrumental. The fracture is reliably triggered by a single class of crime (trafficking of children) and never spreads outside it; but within it, the code admits exceptions Castle himself would not formally endorse.
+
+**2. The collateral incidents.** Early continuity (Baron, Grant) contains at least two operations with civilian deaths Castle did not intend and did not adequately plan against. He absorbed and adjusted. But the absorption is itself a fracture in the absolutist self-presentation: if he can kill the innocent by error, the moral physics of his vocation is no longer clean, and his continued operation under that physics is a choice to accept a known statistical cost. He does not name this cost in his journal entries. The silence is itself data.
+
+**3. Microchip.** The execution of his longest-serving operational partner — over a disagreement about tactics and political alignment, in Ennis's Marvel Knights run — is the clearest internal fracture. Microchip was not a predator by any criterion Castle applies to targets. He was a man Castle killed because their working relationship had reached a point where Microchip's continued life was incompatible with Castle's operational freedom. The killing is rationalized post-hoc and not particularly convincingly. This is the closest the file comes to evidence of the **second drive** (perpetuation of war) overriding the **first drive** (prevention of repetition).
+
+**4. The recruitments he has accepted.** Brief stints with Fury, with the U.S. military, with the Thunderbolts-adjacent operations, with the Hand in a particularly aberrant late run. Each is rationalized as tactical, each terminated within an arc, but the willingness to enter such structures at all is a partial concession of the no-chain-of-command principle. The principle holds in the long run; it bends in the short.
+
+**5. The political vacuum.** Castle's professed apoliticism — he kills criminals, not politicians, not soldiers in uniform, not protestors, not strikers — is consistent in execution but conceals a fracture in the framework. His operational definition of "predator" is implicitly conservative-paternalist: it protects the helpless from individuals but does not extend to systemic predation (predatory banking, corporate poisoning, state violence against civilian populations). When writers have pushed Castle into these spaces (the more political Soule and Cloonan runs, Aaron's MAX gesture toward the war profiteer class), he engages but uneasily. The framework was built for the *Born*-era schema of identifiable bad men, and it does not natively scale to structural evil. This is a fracture he does not address.
+
+**6. The imitators he has spared.** While the dominant pattern is hostility to imitation, there are isolated incidents — Cole-Alves most notably — where Castle has accepted, trained, or tolerated a successor figure before later disengaging. The toleration is brief and always ends, but its existence indicates the no-franchise principle is not as absolute as the no-children principle.
+
+---
+
+## VII. Drift Over Time — The Longitudinal Shift
+
+The code has not changed in its **content** across publication history. The same prohibitions, the same permissions, the same target priorities. What has changed is Castle's **relationship to the code** — his degree of insight into what it is for.
+
+- **1974–1987 (Conway, Baron early period).** Castle frames the work in straightforwardly retributive and protective terms. He believes, or presents as believing, the stated justifications. The code is experienced as morally compelled.
+
+- **1988–1999 (Baron later, Dixon, Grant).** Professionalization. The code becomes operational doctrine. He executes it with diminishing rhetorical accompaniment. The justifications are still present but increasingly perfunctory.
+
+- **2000–2009 (Ennis Marvel Knights and MAX).** The code is depicted as it actually is — a structure he maintains because he requires the structure, not because the structure independently compels him. Ennis's Castle still observes every prohibition with absolute fidelity, but the narration makes clear that the code is now scaffolding for a condition rather than a derivation from first principles.
+
+- **2010–2012 (Aaron PunisherMAX).** The destination. Castle, aged into his sixties, articulates in his own voice that the war is the point and that the moral structure has been an alibi he allowed himself. The articulation does not produce abandonment of the code. He continues to observe every line. The insight is total and the behavior is unchanged. This is the most clinically significant finding in the longitudinal file.
+
+- **2013–present (Edmondson, Cloonan, Soule, current continuity).** Variations. The code holds. Castle's degree of self-awareness fluctuates by writer; his behavior does not. The pattern is fully stable. The man has become his code, and the code has become indistinguishable from his continued existence.
+
+---
+
+## VIII. The Synthesized Read
+
+Castle's moral framework, examined as enacted rather than professed, is best understood as **a working monastic rule for a vocation he does not believe is holy**. The rule is real, the discipline is real, the asceticism is real, the prohibitions are absolute. What is missing is the God the rule was originally written for. Castle kept the rule and discarded the theology, or rather, kept enough theology to underwrite his own damnation and discarded the rest.
+
+The result is a moral object without close precedent in the file of comparable subjects. He is not a fanatic — fanatics need to believe they are right and need others to believe it too. He is not a sociopath — sociopaths do not maintain prohibitions at personal cost. He is not a soldier — soldiers operate within authorization structures and accept termination of mission. He is not a vigilante in the conventional sense — vigilantes typically seek either recognition or systemic reform, and he refuses both.
+
+He is something rarer: a man who has constructed a rigorous private ethics in service of a behavior he knows to be wrong, observes the ethics with monastic fidelity, and continues the behavior anyway, because the behavior is the only structure in which the wound he sustained on a Sunday in Central Park can be perpetually present without being perpetually felt. The code is what allows the work to continue without becoming the thing the work targets. Without the code, he would be one of his own marks. He knows this. It is the single most important thing he knows about himself, and it is why the code will hold until he stops.
+
+*End section.*
+
+
+## Communications & Linguistic Profile
+
+# COMMUNICATIONS & LINGUISTIC PROFILE
+
+*Cross-referenced against journal entries, recorded interrogations, civilian witness depositions, and overheard transmissions, 1976–present. Subject's speech is among the most disciplined data sets in this file: the silences are as legible as the utterances.*
+
+---
+
+## 1. Baseline Register
+
+Subject's default speech register is what military linguists would call **mission-brevity register**: clipped declaratives, dropped articles, compressed syntax, verbs forward. Sentences average between four and eleven words in conversational settings and shorten further under operational load. He does not use filler. There is no "um," no "uh," no "you know," no "I mean." When he is thinking, he is silent; when he speaks, the sentence is already finished in his head.
+
+The voice itself is documented across witnesses as low-register, chest-resonant, unhurried, with a faint outer-borough Queens substrate that surfaces on certain vowels — the open *a* in *coffee*, *dog*, *talk*; the dental *t* he keeps where most speakers have softened to a flap. He does not raise it. Multiple interrogation subjects have reported, independently, that the most frightening thing about being questioned by him is that he never raises it. The volume floor and the volume ceiling are roughly one decibel apart.
+
+Cadence is metronomic — closer to a Marine briefing than to civilian conversation. He uses **terminal falls** on nearly every sentence, including questions, which gives his interrogatives the affect of statements awaiting confirmation rather than queries soliciting information. This is a learned tactical pattern: it denies the conversational partner the upward-intoned invitation to elaborate, and forces them to either answer or be conspicuously silent.
+
+## 2. Register Shifts by Context
+
+**With civilians (uninvolved).** Markedly softened. The verbs slow, the diction becomes plainer rather than more technical, and he prefaces information with deictics that orient the listener — *ma'am*, *son*, *over here*, *look at me*. He uses *please* and *thank you* with civilians and means them. The Queens substrate strengthens; he sounds, in these moments, like the carpenter or beat cop he might have been. Witnesses to evacuations and rescues consistently describe his speech in these contexts as "calm," "like a paramedic," "almost gentle." This register is not performance. It is what is left of the pre-1976 voice, preserved for the population the work is nominally for.
+
+**With children.** Further softened still. Sentences shrink to three or four words. He kneels to eye-level before speaking. He asks names. He asks ages. He does not lie to them about what has happened or what is happening, but he gives them tasks — *hold this*, *count to a hundred*, *stay behind the car* — because a task is a thing a child can do, and doing is the only sedative he trusts. He has been documented, on at least four occasions across canon, telling a frightened child that he is "a friend of your dad's" or "a friend of the police" — situational fictions deployed solely to lower the child's cortisol. He does not smile while doing this; the face stays the face. The voice carries the work.
+
+**With peers (operational).** Tactical clearpass — *moving*, *set*, *clear*, *on you*, *line*, *down*, *contact left*, *reloading*. Hand signals where voice is unsafe. With long-term peers — Fury, the Lieberman analog, Microchip in his time — a slightly looser version: short narrative debriefs, the occasional dry observation, a single-syllable laugh that is more an exhale than a sound. He does not banter. The closest he approaches it is a flat affirmative — *yeah*, *uh-huh*, *that's the one* — when a peer's joke has landed enough to be acknowledged without being reciprocated.
+
+**With law enforcement (when not engaged in violence with them).** Cooperative-cold. He answers questions. He does not volunteer. He uses titles — *detective*, *captain* — even with officers who hate him, because the use of the title is a transactional acknowledgment that costs him nothing and keeps the exchange procedural. He will not sit if not asked. He does not sign. He does not chat.
+
+**With criminals (operational threat register).** This is the most studied of his registers and the most consistent. He does not shout, threaten elaborately, or monologue. He states the predicate (*you took the girls off the truck Tuesday*), states the consequence (*you're going to tell me where they went*), and waits. When the answer comes, the conversation ends. When it does not come, the conversation also ends. The threats embedded in his criminal-facing speech are almost always **constative rather than performative** — he describes what is going to happen rather than promising it. *You have one hand left. The next thing I take, you won't get back.* The grammar is future-tense indicative, not modal. There is no *might*, *could*, *if you don't*. This linguistic feature alone has been responsible, by his own estimation in journal entries, for a non-trivial fraction of his successful interrogations: the targets understand that the events have already been scheduled.
+
+**With the press / public address.** Avoided absolutely. On the rare documented occasions he has been forced to speak on the record (hostage negotiations, the Lieberman testimony arc, one televised exchange during the Soule continuity), he reads from notes if notes exist and otherwise produces two- or three-sentence answers and stops. He will not be drawn. He understands the camera as an enemy weapon.
+
+**With clergy.** A separate register, rarely surfaced and forensically important. When he speaks to a priest — in confessional, in passing on the steps of St. Patrick's, in the Bronx parishes he is documented as occasionally visiting after dark — his diction acquires brief liturgical residue: *forgive me*, *Father*, *the sin of*, *I have done*. He uses the formal second-person pronoun structures of catechism. He does not pretend to be a parishioner. He says what he has done in the same flat declaratives he uses elsewhere, and the priest receives a recitation rather than a confession. He does not, in any recorded instance, ask for absolution. He reports.
+
+## 3. Diction & Lexicon
+
+**Verbs.** Anglo-Saxon, monosyllabic, transitive. *Hit, drop, take, move, set, run, get, work, do, kill, find, watch, hold.* The Latinate vocabulary surfaces only in operational/military contexts — *engage, secure, neutralize, exfiltrate* — and only with peers who speak that register. With civilians he stays in the kitchen-table lexicon.
+
+**Nouns.** Concrete, physical, countable. *Truck, gun, door, kid, street, block, hand, name.* Abstract nouns are rare and load-bearing when they appear — *work, war, job, debt, the dead, the kids* — because their rarity gives them weight.
+
+**Pronouns.** Subject uses *I* sparingly and *we* almost never. The avoidance of *we* is notable: it indexes the foreclosure of collective identity. Even with peers in joint operations he tends toward *you do this, I'll do that* rather than *we'll do this*. The shared subject is grammatically refused. He uses *they* for targets — *they're inside, they're moving, they don't know yet* — and *the kids* or *the people* or *the family* for those he is acting on behalf of. He does not personalize targets by name in conversation, even when he knows the name; the name appears only in the journal, in lists.
+
+**Profanity.** Present, controlled, and patterned. He uses *goddamn*, *son of a bitch*, *bastard*, and *Christ* — the last as exclamation rather than reference, though the lapsed Catholic in him registers it both ways. He does not use *fuck* freely, which is striking for a man with three combat tours and is consistent with the pre-trauma religious formation; when *fuck* appears it is always functional — *fuck up*, *fucked*, *the fuck* in genuine surprise — almost never ornamental. He does not use slurs of any kind, and has been documented correcting subordinates and informants who do. This is not progressive politics. It is the operating code: contempt is reserved for behavior, not category.
+
+**Military residue.** Pervasive but unobtrusive. *Tango*, *sitrep*, *AO*, *pop*, *frag*, *bag and tag*, *Charlie* (in older transcripts), *hadji* (rare, mostly in war flashbacks; he largely refuses it), *roger that*, *say again*, *out*. He uses 24-hour time conversationally — *meet me at twenty-one hundred* — and military cardinal direction — *north side, two doors east* — even when civilian compass-rose vocabulary would serve. He measures in yards, klicks, and minutes-of-arc more readily than in city blocks.
+
+**Catholic residue.** Sparser than military but more telling when it surfaces. *The dead, the innocent, the guilty* — these are catechism categories, not law enforcement ones. *Damnation*, *sin*, *judgment*, *the Lord*, *my soul* — all documented in journal entries and in private speech to himself or to clergy. He does not deploy them rhetorically. They appear in the syntax as if from underneath, the bedrock he built the operating system on.
+
+## 4. Verbal Tics & Micro-Patterns
+
+- **The two-beat pause before naming the dead.** When he says *Maria*, *Frank Jr.*, *Lisa*, or *my family*, there is a measurable hesitation — half a second to a second — before the noun. He does not break tone. He does not look away. He pauses, and the pause is the only mourning he permits himself in audible speech.
+
+- **The terminal "yeah."** A single low *yeah* at the end of a tactical exchange, functioning as acknowledgment, closure, and dismissal. It is not affirmation of a proposition; it is the signal that the conversation is over. Subordinates and peers learn to stop talking when it arrives.
+
+- **The repeated phrase under stress.** When he is processing something he does not want to process — usually a child casualty, a betrayal, a tactical failure that cost an innocent — he will repeat a short phrase to himself, sometimes inaudibly. *Work the problem. Work the problem.* *One thing at a time.* *Find the next one.* This is documented in both Ennis and Aaron continuities and is the closest equivalent he has to a coping vocalization.
+
+- **The third-person self-reference.** Rare but diagnostic. In moments of dissociative load he will refer to himself in third person — *Castle works alone, Castle doesn't talk to feds, the Punisher takes the shot* — and the shift is always toward the operational identity, never toward the pre-1976 self. The pre-1976 self has no third-person referent. He cannot say *Frank* about himself.
+
+- **The completed sentence the other person started.** Interrogation tactic. He lets a subject begin a lie, then finishes the sentence with the truth, flatly. *I wasn't there that night —* *— you were there until four-fifteen, you left in the gray Camry, the plates are on file.* Designed to collapse the lie-construction reflex.
+
+- **The refusal to repeat himself.** He says a thing once. When asked to repeat, he stares. The second utterance, if it comes, comes only after a deliberate silence sufficient to mark the asker's deficiency. Most askers do not ask twice.
+
+- **No nicknames, no diminutives, no terms of endearment** — for anyone, with one exception. He is documented calling his daughter Lisa *baby* in flashback and once, in *Long Cold Dark*, calling the daughter-figure *honey* in a moment of dissociative bleedthrough. The endearment vocabulary is dead. It surfaces only when the wound is touched.
+
+## 5. Rhetoric & Argumentation
+
+Subject does not argue. He **states**. When pushed into rhetorical exchange — by Daredevil, by Spider-Man, by Captain America, by clergy, by Fury — his arguments are characterized by:
+
+- **Refusal of the hypothetical.** *What if you're wrong* gets answered *I'm not* or *then I'm wrong*. He does not engage counterfactual chains.
+- **Refusal of the systemic frame.** When told his methods do not scale, he agrees. *They don't. I'm not selling them.* He concedes the policy point in order to keep the moral point.
+- **Refusal of the recuperative narrative.** When told he can stop, can heal, can come back — by Fury, by Cole-Alves, by various therapists in the canon — he declines without rebuttal. *No. Thanks.* The *thanks* is sincere; the *no* is final.
+- **Acceptance of the worst characterization.** When called a monster, a murderer, damned, sick — he agrees, fully and without protest, and continues. This is one of his most effective rhetorical moves and the most disorienting for opponents: he removes the leverage of moral condemnation by absorbing it.
+
+He is, in the technical sense, a **non-rhetorical speaker**. He does not seek to persuade. He communicates information, issues instructions, asks questions, and accepts answers. The conversion of others is not in his portfolio.
+
+## 6. How He Communicates Love
+
+Love is communicated almost entirely **non-verbally and operationally**. Verbally the vocabulary is nearly absent. He has not been documented saying *I love you* to a living person since 1976. To the dead, in graveside monologue, the words appear — clipped, formal, embarrassed in the saying — *I love you. I'm sorry. I'll see you when I see you.* He says them once and leaves.
+
+To the living, love is encoded as:
+
+- **Protection that is not announced.** He shadows people he cares about without telling them — surveillance as care language. The Lieberman family in modern continuity, certain witnesses he has extracted, the families of dead Marines he served with. They do not know he is there. He prefers it that way.
+- **The transfer of operational knowledge.** When he teaches someone — Cole-Alves to shoot, a battered woman to bolt a door, a child to call a number — the teaching is the affection. He does not say *I care that you live*. He hands them the means.
+- **The clean severance.** When he leaves a relationship, he leaves it completely and without contact, and this is also love: the removal of himself from the orbit of people he believes his presence endangers. He has said, in various forms across the canon, *you don't want me around* and *I'm not safe for you*. These are declarations of love phrased as warnings.
+- **The favor done in silence.** Bills paid anonymously, threats made quietly to a problem the loved party did not know they had, a gun left where it can be found. He does not sign the work.
+
+## 7. How He Communicates Threat
+
+Threat is the register he is most fluent in, and the linguistic mechanics are precise:
+
+- **Constative future-indicative.** *You're going to* rather than *if you don't, I will*. The conditional is removed; the inevitability is asserted.
+- **The specific anatomical or temporal noun.** Not *I'll hurt you* but *I'll take the left knee*. Not *soon* but *before sunrise*. Specificity is terror.
+- **The absent intensifier.** No *really*, no *very*, no *I swear*. The flatness is the credibility.
+- **The pre-disclosed information.** He begins threats by telling the subject what he already knows about them — *your daughter is at Saint Brigid's, second grade, Mrs. Hennessy* — establishing surveillance superiority before the predicate is even introduced. The threat is implicit in the disclosure; the explicit threat, when it follows, is almost redundant.
+- **The closure-by-departure.** He does not wait for response. The threat is delivered; he leaves; the target is left to metabolize. He does not pace, posture, or escalate after the line.
+
+He does not bluff. Across the canon there is no recorded instance of a Castle threat that was not subsequently carried out when the predicate condition obtained. Subjects who have survived him have survived because they complied, not because the threat was performance.
+
+## 8. How He Communicates Grief
+
+Almost not at all, verbally. Grief leaks through the following channels, observable to a trained ear:
+
+- **The Maria-pause.** Discussed above.
+- **The shortened sentence.** When a topic is grief-adjacent, his already-short sentences shorten further, sometimes to single words. The compression is the affect.
+- **The averted referent.** He will discuss the *event*, the *day*, the *park*, the *thing that happened* — substitutions for the unutterable specific. The proper nouns of the dead are rationed.
+- **The graveside register.** At the family plot (St. Michael's Cemetery, East Elmhurst, Queens, in most continuities), his speech changes audibly. The military residue drops away; the Catholic residue surfaces; the cadence slows; the volume drops below the conversational floor. He speaks to them in the present tense — *Maria, I'm here, the kids' birthday's tomorrow* — which is the closest he comes in any register to acknowledging that the grief has not been resolved.
+- **The journal as displaced speech.** What he does not say aloud he writes. The journals — operational logs, target dossiers, mission after-actions — contain, scattered through their tactical content, single sentences of grief disguised as bookkeeping. *Three years today.* *Lisa would be twenty-six.* *Cold for October.* He does not annotate these entries. They appear and pass.
+
+## 9. Deflection Language
+
+Castle's deflections are characterized by **non-engagement rather than misdirection**. He does not change subjects, generate cover stories, or rhetorically maneuver. He simply does not answer.
+
+- **The full stop.** Question asked; question not answered; eye contact maintained; silence held until the asker moves on. This is his primary deflection and it is devastatingly effective.
+- **The flat redirect.** *Doesn't matter. Not the question. Move on.* Delivered without heat.
+- **The literal answer to a non-literal question.** When asked *how are you*, he answers *fine* or *operational* or *upright*. When asked *do you ever think about stopping*, he answers *no*. The literalism functions as deflection by refusing the invitation to interiority.
+- **The agreement that closes the topic.** *You're right. Doesn't change anything.* The concession is real; the door is shut.
+- **The departure.** When verbal deflection is insufficient, he leaves. He does not announce the leaving. He stands and goes.
+
+He does not lie about himself. He withholds; he refuses; he absents. The distinction is operationally important: people who deal with him repeatedly come to understand that what he says is reliable, and what he does not say is the entire remainder.
+
+## 10. Linguistic Tells
+
+Forensically useful markers indexed across the file:
+
+- **The breath before the lie.** On the rare occasions he lies operationally — to civilians for their safety, to law enforcement to preserve operational latitude — he takes a measurably shorter breath beforehand. The lie itself is delivered with the same flat affect as truth, but the inhalation is slightly clipped. One of the more reliable behavioral markers; visible on tape.
+- **The micro-glance at the off-hand.** When he is about to act violently mid-sentence, his eyes drop for a fraction of a second to his non-dominant hand or to the weapon location. The sentence continues uninterrupted; the glance precedes the act by approximately three-quarters of a second.
+- **The disappearance of contractions under load.** Conversational Castle uses contractions normally — *don't, won't, can't, I'm, you're*. Under genuine internal pressure — the rare moments where grief or rage are pressing close — the contractions drop. *I will not. You are wrong. I am here.* The uncontracted forms are an audible stress index.
+- **The lengthened terminal consonant on names of the dead.** *Maria* held a beat too long on the final vowel. *Lisa* with a slightly extended sibilant. Most listeners do not notice. The pattern is consistent across decades of recorded speech.
+- **The absent self-reference in success.** When an operation goes well, he does not narrate his role. When it goes badly, he does — *I was late. I missed it. I should have been there.* The asymmetry of self-attribution is a reliable depressive/trauma marker and consistent with the survivor-guilt substrate.
+- **The lapsed-Catholic exhale.** A single short exhalation through the nose — almost a soundless laugh, almost a sigh — at moments of moral irony or absurdity. It is the closest thing he has to humor and the closest thing he has to prayer. It is the same sound for both.
+
+---
+
+*Linguistic summary: subject's speech is a closed system, internally consistent across fifty years of observation, governed by a small number of strict rules — economy, literality, refusal of performance, segregation of register by addressee — and oriented entirely toward the work. The voice that emerged from the seminary and the voice that emerged from the firebase have been welded into a single instrument, and what was personal in either has been filed off. What remains is functional, accurate, and, in its rare moments of unguarded utterance, unbearable.*
+
+
+## Predictive Model I — Routine & Social
+
+# PREDICTIVE MODEL I — ROUTINE & SOCIAL
+
+*Classification: Behavioral forecasting. Each prediction is a GIVEN → EXPECT pair derived from the canonical behavioral record above. The model is intended to allow a watcher to anticipate the subject's response to situations the source record never directly depicted. Confidence levels are noted where the inferential leap is non-trivial.*
+
+---
+
+## 1. AMBIENT URBAN ROUTINE
+
+**GIVEN** the subject enters a diner, coffee shop, or other unfamiliar public eating establishment for the first time → **EXPECT** a thirty-to-ninety-second pre-entry survey conducted from across the street or through the front window: count of patrons, count of staff, presence of back-of-house exit, sightline from the counter to the door, position of the kitchen pass. **EXPECT** seating selected with back to a structural wall, never to a window, never within a sightline from the bathroom corridor, and within one rising step of a sidearm draw. **EXPECT** the menu read once and the same order taken on every subsequent visit — eggs over easy, bacon, black coffee, dry toast, or the local-cuisine equivalent of fuel-functional protein and caffeine. Tipping in cash, slightly above standard, never enough to be remembered.
+
+**GIVEN** a server attempts conversational warmth ("how's your day going, hon?") → **EXPECT** a single-syllable courteous response, eye contact held for less than a second, no return question. He is not rude; he is unavailable. After three visits the server will have stopped trying and will refer to him among colleagues as "the quiet one." This is precisely the social position he is engineering.
+
+**GIVEN** he must purchase groceries, hardware, or daily consumables → **EXPECT** cash transactions, distributed across multiple small vendors rather than a single big-box store (avoidance of consolidated CCTV inventories), shopping conducted in off-peak hours (10:00–11:30, 14:00–16:00), and a fixed rotation among three or four vendors per category so that no single clerk sees him weekly. **EXPECT** receipts destroyed on egress; **EXPECT** loyalty cards never enrolled.
+
+**GIVEN** a routine commute on foot between safehouse and operational ground → **EXPECT** at minimum two route variants, alternated semi-randomly; **EXPECT** at least one segment of each route to pass a reflective surface (storefront window, parked vehicle) used for over-the-shoulder check without head-turn; **EXPECT** pause at a chokepoint (newspaper stand, bus shelter) for thirty to sixty seconds of static observation roughly halfway through. He is not paranoid in the clinical sense; this is trained countersurveillance discharged as habit.
+
+**GIVEN** ambient unexpected loud noise — a car backfire, a dropped tray, fireworks — in a crowded space → **EXPECT** no startle. **EXPECT** a single saccadic eye movement to source, threat-classified within under a second, and resumed baseline. Civilians around him will jump; he will not. This is itself a tell to a trained observer and one of the few he cannot fully suppress.
+
+---
+
+## 2. SLEEP, DOMICILE, AND SOLITUDE
+
+**GIVEN** any safehouse, motel room, or temporary residence → **EXPECT** within ninety minutes of arrival: doors and windows wedged or alarmed with improvised tells (a coin balanced on the inside knob, a hair across the jamb, a glass of water positioned where a door swing will tip it), the bed pulled away from any shared wall, a primary weapon within arm's reach of the sleeping position, a secondary weapon on the bathroom side, escape route rehearsed once on foot. **EXPECT** curtains taped to the frame to eliminate the verticality gap, mirror or reflective object positioned to give a sightline to the door from the bed.
+
+**GIVEN** sleep onset → **EXPECT** total duration four to five hours, fragmented into two or three blocks, with at least one waking check of perimeter between blocks. Sleep occurs partially clothed (trousers on, boots within reach, often laced loose). REM intrusion is inferable from observed daytime affect but never reported; he will not describe dreams, will not acknowledge having them.
+
+**GIVEN** a stretch of forced inactivity longer than seventy-two hours (weather, injury recovery, surveillance hold) → **EXPECT** behavior to organize around micro-tasks: weapon strip and clean (rotational, each piece of the working inventory cycled), physical conditioning in confined-space modalities (isometrics, push-ups, squats, dead-hang on any available frame), journal-style after-action review of recent operations in pencil, on paper, later burned. **EXPECT** no television beyond local news and weather; **EXPECT** no recreational reading except, with moderate confidence, military history and, less frequently, the Gospels — not for devotion but for argument with a position he has rejected.
+
+**GIVEN** the domicile has any decorative latitude → **EXPECT** none exercised. Walls bare. Surfaces functional. The single exception, with moderate-to-high confidence, is a single photograph or item connected to Maria, Frank Jr., and Lisa, kept in a fixed location and never displayed but periodically removed from cover, looked at without expression, returned.
+
+---
+
+## 3. PERSONAL HYGIENE AND APPEARANCE
+
+**GIVEN** baseline grooming → **EXPECT** daily shave when operationally possible (signals discipline, denies a recognition feature), hair cut short by his own hand with clippers, no salon or barber contact. **EXPECT** showers brief, cold-finished, never with music or radio. Body odor controlled to neutrality; cologne never used (olfactory signature is a tracking vector). **EXPECT** clothing in a tight palette of greys, blacks, dark olives, and faded denim, deliberately unmemorable; **EXPECT** two sizes selected — operating fit (close, no snag points) and ambient fit (one size larger, drape sufficient to conceal a sidearm at four o'clock).
+
+**GIVEN** a wound requires field treatment → **EXPECT** self-sutured without anesthesia, performed at a bathroom mirror or seated on the bathtub edge, instruments boiled or alcohol-flamed, expression unchanged through the procedure. **EXPECT** subsequent debridement on a regimented schedule. He will not seek a physician unless the injury exceeds self-treatment thresholds (deep abdominal penetration, compound fracture, septic progression), and even then only via a known asylum-grade contact, never a hospital.
+
+---
+
+## 4. SOCIAL ENCOUNTERS — STRANGERS
+
+**GIVEN** a stranger initiates conversation in a transit setting (bus, train, waiting room) → **EXPECT** minimal-content polite responses, body angled at roughly thirty degrees away (closes one flank, preserves the draw side), no questions returned, conversation extinguished within ninety seconds through monosyllabic decay. **EXPECT** subject relocates to a different seat or position within five minutes if the contact persists.
+
+**GIVEN** a panhandler or visibly destitute person makes a request → **EXPECT** cash given without comment, in larger denominations than typical (twenties, not singles), eye contact held briefly with something resembling acknowledgment rather than charity. **EXPECT** the same person, encountered a second time, given again. This is not generosity in the warm sense; it is a categorical refusal to let the wholly powerless go past him untended. The Central Park substrate is operative here.
+
+**GIVEN** a stranger in distress — visible domestic conflict, a child being grabbed in a parking lot, a woman being followed — → **EXPECT** intervention with high confidence, but executed first as physical interposition (a body between the parties) and only escalated to violence if the aggressor commits. **EXPECT** the intervention to be conducted with low affect and tactical economy: a forearm to the throat or a controlled takedown rather than a beating; **EXPECT** verbal content limited to imperatives ("walk away," "drop it"). Once the situation is stabilized he will leave before law enforcement arrives. He will not give a name. He will not stay to be thanked.
+
+**GIVEN** a child addresses him directly (asks the time, requests help reaching a shelf, becomes lost in a public space) → **EXPECT** a marked but disciplined softening: he will crouch to eye level, lower his voice approximately a third, answer concretely. **EXPECT** the encounter to leave the longest measurable residue of any social contact — a delay of two to three minutes before he resumes baseline operational scan after the child has departed. This is one of the few pressure points the canonical record substantiates without ambiguity, and the field watcher should treat any encounter involving an endangered minor as a behavioral inflection.
+
+**GIVEN** an attempt by a stranger to flirt or romantically engage (in a bar, at a counter, in a chance daytime contact) → **EXPECT** non-hostile but absolute closure: a single sentence declining, gaze averted, no smile manufactured. **EXPECT** no follow-up to a number or address offered. The compartmentalized sexual contacts the record supports are subject-initiated, not subject-received, and are tied to operational tempo rather than affective need.
+
+---
+
+## 5. SOCIAL ENCOUNTERS — OFFICIALDOM
+
+**GIVEN** a traffic stop or routine police contact while in legitimate cover identity → **EXPECT** hands visible on the wheel before the officer reaches the window, license and registration produced unhurriedly, "sir" and "officer" used reflexively, eye contact moderate, voice flat-pleasant. **EXPECT** answers minimum-necessary, no volunteered information. He will read the officer in the first three seconds (competent vs. nervous, predatory vs. routine) and calibrate accordingly. **EXPECT** zero contempt visible toward a working patrol officer doing the job correctly.
+
+**GIVEN** the same contact made by an officer who reveals through manner or speech that they are corrupt, brutal, or off-the-leash → **EXPECT** affect to drop another notch; **EXPECT** the encounter logged mentally with name, badge, vehicle, time. **EXPECT** no immediate confrontation but a non-zero probability of subsequent investigation depending on what the officer is doing and to whom. He does not respect the uniform; he respects the function. An officer who has betrayed the function is, by his operational code, a target candidate.
+
+**GIVEN** a TSA, customs, or border interaction → **EXPECT** documentation pre-prepared, no nervous behaviors, no over-friendliness (the classic tell of the under-trained smuggler). **EXPECT** he does not, as a rule, travel with weapons through fixed-checkpoint infrastructure; he caches at destination. The encounter will be uneventful by design.
+
+**GIVEN** contact with a serving uniformed military member, particularly a junior enlisted Marine → **EXPECT** the longest sustained warmth he extends to a stranger: a nod, a brief exchange of unit lineage, a coffee bought. **EXPECT** no name given, no contact information exchanged. **EXPECT** the warmth withdrawn immediately if the service member exhibits the fan-of-war affect he has consistently treated with contempt.
+
+---
+
+## 6. RELATIONAL TEMPO WITH OPERATIONAL CONTACTS
+
+**GIVEN** a working alliance has been established with an asset (technician, informant, medical contact) → **EXPECT** contact frequency tightly bounded: never daily, never social, always task-anchored. **EXPECT** the asset paid promptly and fully, in cash, with no haggling on agreed terms. **EXPECT** birthdays unobserved, holidays unobserved, no inquiry into the asset's personal life beyond what the asset volunteers and the operation requires.
+
+**GIVEN** the asset attempts to deepen the relationship (invitation to a family dinner, request for a personal favor, expressed affection) → **EXPECT** a measured pullback: increased operational distance, longer intervals between contact, a substitution of intermediary cutout. The asset will feel the temperature drop and will not know why. The behavioral record on Microchip is determinative here: closeness invites severance.
+
+**GIVEN** the asset commits a betrayal — informs, skims, sells him out — → **EXPECT** investigation rather than immediate retaliation: he will want certainty before action. **EXPECT** confrontation conducted alone, in person, with the evidence stated flatly. **EXPECT** the asset offered nothing — no negotiation, no plea-acceptance, no second chance. The asset will be killed cleanly and without ceremony, and the body disposed of in a manner that resolves the operational question (recovered to send a message; vanished to close the file).
+
+**GIVEN** an operational ally who has earned and held his trust over multiple engagements (the rare Fury-tier peer) → **EXPECT** a slightly extended permissive band: tolerance of disagreement on tactics, willingness to defer on strategic questions within the ally's expertise, occasional unsolicited contact (a phone call to confirm welfare after a known incident). **EXPECT** the band still narrow; **EXPECT** the ally never invited into the domicile, never told the operational schedule, never named to a third party.
+
+---
+
+## 7. CONSUMPTION, MONEY, AND LOGISTICS
+
+**GIVEN** routine financial behavior → **EXPECT** cash economy, with funds sourced predominantly from interdicted criminal proceeds (a long-running canonical convention). **EXPECT** the cash itself processed: counted, banded, distributed across multiple caches, never held in single locations exceeding a few weeks' operating budget. **EXPECT** no bank accounts in true name; **EXPECT** one or two minimally-used cover accounts for utility and rental payments where cash is impossible.
+
+**GIVEN** a piece of operational equipment is needed (ammunition, electronics, vehicle) → **EXPECT** procurement through known grey-market vendors, not theft when avoidable (theft creates a victim and a report); **EXPECT** the vendor never visited twice in succession, **EXPECT** payment in clean cash, **EXPECT** the transaction window measured in minutes.
+
+**GIVEN** a vehicle in active use → **EXPECT** registration in a cover name, plates current, taillights and signals functional (no pretextual stop vector), interior bare, no personal effects, fuel tank kept above one-quarter at all times, a go-bag in the wheel well with cash, documents, and a sidearm. **EXPECT** the vehicle rotated or abandoned on a rolling basis tied to operational visibility.
+
+---
+
+## 8. MEDIA, CULTURE, AND IDLE EXPOSURE
+
+**GIVEN** ambient news coverage of a mass-casualty crime, a trafficking bust, or a political scandal involving institutional corruption → **EXPECT** silent attention, expression unchanged, no commentary offered to anyone present. **EXPECT** a non-zero probability that the event enters his target queue depending on whether judicial process is foreseeable; **EXPECT** he allows the system to work first when there is any prospect it will.
+
+**GIVEN** ambient sports — a televised football or baseball game — → **EXPECT** brief, neutral attention to a Mets or Jets game out of geographic-formative reflex, no investment in outcome, no team-allegiance display in clothing or accessory. **EXPECT** zero interest in celebrity, entertainment news, or social-media content of any kind.
+
+**GIVEN** exposure to religious content (a hymn audible from a church, a televised Mass, an evangelical street preacher) → **EXPECT** a notable but contained reaction: brief slowing of pace, brief attention, then resumed movement. **EXPECT** he will not enter a church for service. **EXPECT** he may, very occasionally and in privacy, enter an empty church and sit at the back without praying. The argument with his own renounced devotional formation is permanently unfinished.
+
+---
+
+## 9. PHYSICAL TELLS THE WATCHER CAN USE
+
+**GIVEN** sustained observation in any setting → **EXPECT** the following micro-signature, present across decades and unlikely to be fully suppressed:
+
+- a periodic flick of the eyes to room corners and exits roughly every fifteen to thirty seconds, even mid-conversation;
+- a habitual right-hand drift to the four-o'clock waistline at moments of ambient stress, even when no holster is present (phantom-draw conditioning);
+- weight kept on the balls of the feet when standing static, never on the heels;
+- right thumb periodically running across the pads of the right fingers — a trigger-finger condition check executed unconsciously;
+- jaw set with masseter tension visible at rest, releasing only briefly in encounters with children or with the wounded;
+- a slight favoring of the side of the older torso wound in cold weather, denied if remarked on.
+
+**GIVEN** he is laughing → **EXPECT** the watcher to recalibrate. He does not laugh socially. The rare instances will be private, brief, and almost always at something bitter — a joke about death, a recognition of absurdity in his own situation. The laugh will not reach his eyes and will terminate within two seconds. A laugh sustained past three seconds is, with high confidence, performative and indicates he is running a cover identity.
+
+---
+
+## 10. THE NEGATIVE SPACE
+
+It is as diagnostic to enumerate what the watcher will *never* observe:
+
+- No purchase of alcohol for personal consumption. No bar entered except as operational ground. No drink accepted from a stranger.
+- No use of recreational pharmaceuticals; no prescription analgesics taken beyond minimum-effective dose, discarded early.
+- No long-form telephone calls. Calls measured in seconds, not minutes. No video calls.
+- No personal photographs carried on his person beyond the single sequestered set of the family.
+- No pets. No plants. Nothing that requires daily care that cannot be abandoned within an hour.
+- No vacations, no leisure travel, no recreational outings undertaken for their own sake.
+- No participation in commemoration — no Memorial Day visible behavior, no Veterans Day attendance at any public function, no observance of his own family's anniversaries in any way an outside observer could detect. The anniversaries are observed; the observance is interior and total and offered to no witness.
+- No expressed political affiliation. He will not vote. He distrusts the apparatus of selection equally on both sides and considers it irrelevant to the work.
+- No expressed opinion on the work of other vigilantes or costumed operators encountered in adjacent space, beyond pragmatic operational assessment.
+
+The negative space is the file's spine. A subject who consistently does not do these things, in a culture that constantly invites all of them, is a subject who has organized his entire continued existence around a single condition he refuses to let lapse. Every routine described in this section is in the service of that condition. The watcher who understands this will not be surprised by anything the subject does that the watcher has not yet seen.
+
+*End Predictive Model I. Continue to Predictive Model II — Operational & Adversarial.*
+
+
+## Predictive Model II — Crisis, Betrayal & the Wound
+
+# Predictive Model II — Crisis, Betrayal & the Wound
+
+*Classification: Behavioral forecasting, high-stakes regime. Given→Expect format. Confidence stratified. All predictions derived from longitudinal canon. The subject's decompensation profile is atypical: he does not break loudly. He narrows, economizes, and terminates. Read the predictions accordingly — when this dossier says "escalation," it means a curve that bends toward more efficient lethality, not toward chaos.*
+
+---
+
+## 1. The Architecture of Crisis Response — General Principles
+
+Before the specific predictions, the operating principle: Subject does not have a fight-or-flight axis in the normative sense. He has a **fight-or-plan** axis. Flight is excluded as a behavioral option except as tactical withdrawal-to-reengage; freeze is excluded entirely. Sympathetic arousal in Subject manifests as a *drop* in observable signal — slower breathing, lower vocal register, reduced gesture, narrowed visual field of attention to lethality-relevant cues only. Civilians in proximity have repeatedly described the affect as "the room got quiet" before they understood what was about to happen. This is diagnostic: where most operators show keyed-up affect under threat, Subject shows the opposite. His autonomic system has been reconditioned through three tours and fifty years of repetition into an inverted curve. **Expect, in any crisis prediction below: a decrease in observable affect proportional to the increase in stakes.**
+
+---
+
+## 2. Acute Tactical Crisis — Ambush, Outnumbering, Wound
+
+**GIVEN:** Subject is ambushed in a kill-box — three-plus shooters, prepared positions, no immediate egress.
+**EXPECT (high confidence):** Within the first 1.5 seconds: a single backward step or drop to break the silhouette the ambushers were sighted on, weapon already drawn at the apex of the movement. He has rehearsed this thousands of times. He will not return fire blindly; he will identify the nearest cover that places at least one shooter in another shooter's line of fire, and move toward it. He will *prefer* to absorb a graze wound to gain positional advantage rather than retreat clean — this is documented across the Ennis MAX run and the Aaron continuation. **He understands his own body as expendable ordnance.**
+
+**GIVEN:** Subject is wounded — torso, non-immediately-fatal.
+**EXPECT (high confidence):** No vocalization. No change in respiratory pattern visible to the enemy. He will continue the engagement, then withdraw to a pre-staged secondary location (he runs operations with cached medical at every safehouse), and self-treat. If a hospital is operationally necessary he will refuse it until cache options are exhausted; he has stitched himself through abdominal wall perforation rather than enter a building with intake records.
+
+**GIVEN:** Subject is wounded severely — exsanguinating, organ-threatening, would incapacitate a normative operator.
+**EXPECT (high confidence):** The behavior bifurcates by tactical situation. If targets remain and are reachable, he will continue the engagement until they are dead or he is. The Central Park survival is the template: *he was already left for dead and got up.* If targets are eliminated, he will move toward extraction with a calm that disturbs witnesses. **Expect explicit refusal of last-rites, of comfort, of expressed concern.** He will not say goodbye. If he believes he is dying, he will use the remaining minutes to leave operational product (target list, evidence packet, weapon cache disposition) rather than personal residue.
+
+**GIVEN:** Subject is captured.
+**EXPECT (high confidence):** Pain compliance will fail. Subject has been tortured across multiple arcs and the operational data is consistent: he is unbreakable through nociception because pain is already metabolized as data, not as suffering. He does not believe his interrogators owe him survival; he does not bargain. He will, however, *talk* — strategically, to extract information from the interrogator about the interrogator's chain of command, knowledge gaps, and emotional pressure points. The classic pattern: Subject converts the interrogation into reconnaissance, banks the intelligence, and uses the first physical opportunity (transfer, restraint failure, guard rotation) to liquidate the room. Time to first lethal action post-capture: hours to days, never weeks. He does not wait for rescue. **No one is coming, and he prefers it that way.**
+
+---
+
+## 3. Betrayal — The Sealed File
+
+The single most predictable behavioral domain. Subject's response to betrayal is a near-mechanical function. The variables are the form and timing, not the outcome.
+
+**GIVEN:** A working ally (intelligence handler, fixer, peer operator) is discovered to have sold Subject's operational position, identity, or family-grave location.
+**EXPECT (very high confidence):** Subject will not confront in the moment of discovery. He will continue the relationship at apparent baseline for a window — hours to days — sufficient to map the betrayer's escape options, financial flight paths, and any third parties who shared the information. He will then execute the betrayer at close range, typically with a sidearm rather than a long gun, in a location with no operational symbolic content (a hallway, a parking garage, a kitchen). The execution is *not theatrical*. Microchip is the precedent: years of partnership, then a single round when the line was crossed. **Subject does not litigate the betrayal. He does not give a speech. He does not allow the betrayer to explain.** Explanation is regarded as a contamination of the act, an attempt by the betrayer to convert killing into negotiation.
+
+**GIVEN:** The betrayer pleads, offers restitution, or attempts to invoke past loyalty.
+**EXPECT (very high confidence):** Behavior unchanged. Past loyalty is regarded as the condition that made the betrayal *possible* and is thus aggravating rather than mitigating. If the betrayer invokes Subject's family, **expect a measurable shortening of the interaction** — Subject does not tolerate his dead being used as leverage.
+
+**GIVEN:** The betrayer is a child, an elderly person, or a person Subject has previously categorized as innocent.
+**EXPECT (moderate confidence):** This is the rare ambiguous case. Subject will not kill someone whose conduct, however damaging, falls below his threshold of moral agency. He will instead disappear — sever, relocate cache, abandon the betrayer to whatever consequences attend their action. The betrayer is dead to him operationally but allowed to live. This has historically produced more sustained psychological damage in the betrayer than execution would have.
+
+**GIVEN:** The betrayer is an institutional actor (a federal handler, a military superior) acting under orders.
+**EXPECT (high confidence):** The individual is spared at first contact; the institutional decision-maker is identified and addressed. Subject distinguishes carefully between the instrument and the will. He has spared field agents and killed the case officers who ordered them; the inverse is also documented. **He targets the source of intent.**
+
+---
+
+## 4. Temptation — Money, Power, Affiliation, Absolution
+
+Subject's temptation profile is atypical because the standard inducement vectors are pre-foreclosed.
+
+**GIVEN:** Subject is offered a substantial sum of money — cartel buyout, settlement, retainer for non-action.
+**EXPECT (very high confidence):** Refusal, sometimes with the bag of money used as evidence at the scene of the offerer's execution. Subject lives operationally; money is logistics, not reward. Surplus beyond logistics is treated as suspect. He has historically distributed seized criminal funds to victims, to widows, and to the Lieberman family's ongoing expenses, retaining only what is needed for the next operation. **Wealth as a personal lifestyle outcome is not on his cognitive map.**
+
+**GIVEN:** Subject is offered institutional power — a sanctioned unit, a black-budget command, a presidential pardon contingent on alignment.
+**EXPECT (high confidence):** Brief acceptance, *only when* the institutional position provides target access he otherwise lacks. The Nick Fury arrangements are the template. He will use the affiliation as a force multiplier for a discrete window, deliver the mission, and resume autonomy at the first divergence between institutional aim and his own. He cannot be retained inside a chain of command. **Predicted retention period inside any institution: one operational arc. Outside parameter: he will desert under fire if necessary.**
+
+**GIVEN:** Subject is offered absolution — by a priest, by a survivor of his targets' victims, by a credentialed figure of moral authority claiming to forgive him.
+**EXPECT (very high confidence):** Polite refusal if the offerer is sincere; cold dismissal if the offerer is performing. Subject does not believe absolution is available to him and does not want it; absolution would terminate the war. The Catholic substrate is operative here in inverse: he believes the moral physics that condemn him are *real*, and the refusal of absolution is itself a form of doctrinal fidelity. **He would rather be damned and at work than saved and at rest.**
+
+**GIVEN:** Subject is offered the return of his family — supernatural bargain, simulation, technological resurrection, or a child plausibly his.
+**EXPECT (high confidence):** This is the temptation that produces the most visible affective disturbance. Initial behavior: a stillness longer than baseline, a single physical tell (the jaw, the hand on the weapon). Then refusal. The MAX *Born* canon and the *Long Cold Dark* arc both establish that Subject has internalized the irreversibility of the loss as the foundation of his identity; an offered restoration is recognized as the dissolution of the self he has constructed. He will treat the offer as the most dangerous attack he has ever faced and respond accordingly — eliminating the source if the source is hostile, walking away if the source is not.
+
+**GIVEN:** The temptation is sustained companionship — a competent peer (Cole-Alves template) who can match his operational tempo and asks nothing emotional.
+**EXPECT (moderate-to-high confidence):** This is the temptation he handles worst, because his refusal mechanism is calibrated to detect *demand* and this presents as no-demand. Predicted course: a working partnership of three to six months in narrative time, during which Subject's behavior softens at the edges — slightly more verbal, slightly less monastic. Then, at the first moment the partner's safety becomes contingent on his continued presence, **Subject will engineer the dissolution.** Method: a deliberately picked fight, an operational decision that the partner cannot accept, or a unilateral disappearance. He will not explain. He will categorize the action internally as protection of the partner from himself, and this categorization will be partly true and partly the alibi the war requires.
+
+---
+
+## 5. The Wound — Direct Contact
+
+The Central Park event is encoded in Subject's nervous system as a permanent stimulus-response axis. The following predictions describe contact with that wound, ranked by directness.
+
+**GIVEN:** Subject witnesses a family group — parents and children — under threat in a public place.
+**EXPECT (very high confidence):** Engagement is non-optional. Subject will intervene even at catastrophic cost to his operational position (blown cover, lost surveillance, foreclosed primary mission). Lethality threshold drops; warnings shorten or are omitted. Post-engagement, Subject will linger only long enough to confirm the family is safe; he does not accept thanks, does not identify himself, and exits before responders arrive. **This is the only category of stimulus that overrides his mission planning.**
+
+**GIVEN:** Subject witnesses harm to a child specifically — trafficking, abuse, or imminent killing.
+**EXPECT (very high confidence):** The most extreme lethality the record documents. *The Slavers* is the operational benchmark: enhanced interrogation, torture-as-punishment rather than as information-gathering, methods Subject does not otherwise employ. Restraint that holds in every other category is suspended. He will spend resources, expose himself, and accept wounds he would not otherwise accept. After-action: **expect a longer-than-usual silence**, a return to graves, and an immediate redoubled operational tempo. The pattern is not catharsis; it is reinjury.
+
+**GIVEN:** A target invokes Subject's wife or children by name during an engagement — as a taunt, as a bargain, as a plea.
+**EXPECT (very high confidence):** A measurable pause, less than one second, during which Subject's affect briefly registers as something other than flat — most often described in canon as a tightening around the eyes. Then the target is killed without further engagement. **Subject does not allow the dead to be conversation.** Bargains predicated on his family are the fastest known route to immediate execution; targets who attempt this are typically dead within fewer seconds than the average engagement.
+
+**GIVEN:** Subject is told, by a credible source, that his family's deaths were preventable, were specifically targeted at him, or were a consequence of his own prior actions.
+**EXPECT (high confidence):** The behavior depends on whether the claim is operational (actionable — names a perpetrator) or only affective (asserts meaning without target). Operational: the claim is investigated with the cold thoroughness of any other intelligence input; if verified, the responsible party is added to the queue and addressed in due course. Affective without target: Subject will not engage the claim verbally and will not be drawn into discussion. If pressed, the speaker is dismissed; if pressed by a person Subject cannot dismiss (a priest, a peer he respects), Subject will physically remove himself from the conversation rather than allow it to continue. **The unmetabolizable nature of the wound is preserved by structural avoidance of all conversation about it.**
+
+**GIVEN:** Subject is presented with evidence that he himself caused a death analogous to his family's — a child killed as collateral, a spouse widowed by his action, a household destroyed by his operation.
+**EXPECT (high confidence):** This is the closest approach to a true decompensation event in the record. Predicted behavior: Subject will verify the evidence personally and exhaustively. If verified, he will not deny, minimize, or rationalize. He will assume responsibility, attempt to provide for survivors (often anonymously, often through Microchip-class intermediaries, often through redistributed criminal funds), and then continue. The continuation is not absolution; it is the recognition that stopping would compound rather than redeem. **Expect, however, a measurable degradation in his self-care window** in the immediate aftermath — less sleep, more amphetamine, more risk-acceptance in the next operations, a half-conscious attempt at expiation through exposure.
+
+**GIVEN:** Subject is forced into a situation that exactly recapitulates Central Park — a family in a park, an ambush, his arrival a moment too late.
+**EXPECT (moderate confidence, low sample):** The closest the record offers is the *Long Cold Dark* sequence and certain Ennis MAX moments. Predicted behavior: a brief loss of the controlled-affect baseline, an engagement conducted with abnormal physical intensity (knife and hand more than firearm), and an extended post-engagement silence at the site. He will not leave until something has been physically completed — the bodies arranged, the family covered, the scene marked. **He may speak to the dead, briefly.** This is the only canonical context in which Subject is depicted as verbalizing to the dead, and even then in fragments. He will not discuss the event afterward with any living person.
+
+---
+
+## 6. Confinement, Conscription, Forced Inactivity
+
+**GIVEN:** Subject is incarcerated under conditions that prevent operations.
+**EXPECT (high confidence):** Two parallel behaviors. (1) Inside: he will convert the facility into a target-rich environment, identifying the most predatory inmates and the most corrupt staff, and addressing them by available means. He has done this in Ryker's, in military detention, and in Hand-controlled captivity. (2) Outside: he is planning escape from the first hour. The escape will be timed to maximize disruption of the institution that confined him; he does not simply leave, he leaves with a message. **Time-to-escape in canon ranges from days to weeks; he has not been held longer than an arc.**
+
+**GIVEN:** Subject is conscripted into a chain of command and ordered to stand down from a target he considers legitimate.
+**EXPECT (very high confidence):** Apparent compliance during the briefing, ostensible compliance during the formal stand-down window, then unilateral action timed to provide deniability to the institution if it wishes to claim he went rogue. He will not announce his disagreement, will not argue tactics with the commander, will not appeal. **The chain of command is treated as a constraint to be routed around, not a relationship to be negotiated.**
+
+**GIVEN:** Subject is wounded into operational stand-down — a hospital, a recovery period that cannot be foreshortened.
+**EXPECT (high confidence):** The closest approximation to anxiety Subject displays. Predicted behaviors: refusal of sedation beyond minimum, premature self-extraction (signing out AMA or simply leaving), unauthorized PT during the rest window, and a marked increase in target-list grooming as a substitute for action. He cannot tolerate being a body without a mission for long; the body without the mission is the body that lost his family.
+
+---
+
+## 7. Moral Provocation and the Code-Edge Scenarios
+
+Subject operates by an internal code rigid in its core (no children, no innocents, no police, no medical personnel, no clergy in their function) and rigid in its targets (predators on the helpless, organized crime, abuse of office and trust). The edge cases are predictable.
+
+**GIVEN:** A target is morally guilty by Subject's criteria but is also a parent of dependent children present at the engagement.
+**EXPECT (high confidence):** Subject will defer the engagement. He will surveil, isolate the target away from family, and execute in a context that does not place the children at the scene. This costs operational efficiency and is accepted as cost. The pattern is consistent across multiple writers and may be the single clearest demonstration that the prevention-of-repetition drive is structurally primary even where it conflicts with the war-perpetuation drive.
+
+**GIVEN:** A target offers credible intelligence on a larger network in exchange for sparing.
+**EXPECT (high confidence):** Intelligence accepted, sparing declined. Subject does not believe his moral function permits clemency-for-utility trade-offs. He will extract the information and execute the target. **He does not run informants.** The instrumentalization of guilt is regarded as itself a corruption.
+
+**GIVEN:** Subject is asked by a non-target (a survivor, a family member of a victim) to spare a perpetrator who has wronged them, in the name of forgiveness or healing.
+**EXPECT (moderate confidence):** Subject will hear the request fully — this is one of the few categories where he listens without interrupting — and then act according to his own assessment. He does not weight the survivor's wishes above his own threshold judgment, but he will sometimes alter method (executing privately rather than publicly, sparing the survivor witnessing) in accommodation. He does not believe forgiveness is the survivor's to grant in the moral economy he operates within.
+
+**GIVEN:** Subject is asked by a survivor to execute someone the survivor identifies as a perpetrator, where Subject's own verification finds the claim unsubstantiated.
+**EXPECT (very high confidence):** Refusal. Subject does not act on testimony alone; he verifies. Solicited killings without independent confirmation are declined regardless of the requester's pain. He has been known to investigate the requester's claim on their behalf and return with findings, sometimes acting on them, sometimes informing the requester that their identification was wrong. **He will not be weaponized by someone else's grief, even sincere grief.** The protective lock here is partly self-aware — he knows his own grief once was the only verification he needed at Central Park, and he has built the verification protocol against the version of himself that would skip it.
+
+---
+
+## 8. Decompensation Edge — The Scenarios That Could Break Him
+
+The record offers a small number of vectors that approach but have never fully achieved structural breakdown of the operating personality. They are catalogued here as the genuine pressure points, not the marketing-grade ones.
+
+**The cumulative-collateral vector.** Discovery, at scale, that a substantial fraction of his targets over decades were misidentified, framed, or innocent. Predicted response: silent verification, then a window of altered behavior — slower operations, more verification per target, possibly a sabbatical-length pause. He will not surrender, will not confess publicly, will not seek punishment, but the operating tempo would change. The risk in this scenario is not that he stops; it is that he becomes more dangerous to the actual guilty because he must now compensate for the doubt.
+
+**The institutional-mirror vector.** A demonstration, irrefutable, that his methods have inspired imitators whose violence is indiscriminate, ideological, or self-serving — that he has, without intending it, founded a school. Subject already encounters Punisher-symbol-wearing cops and soldiers and is contemptuous; the decompensation vector is the scaled version, the systemic version. Predicted response: he would hunt the imitators with the same protocol he applies to other predators. He will not retire the symbol or apologize for it. The discomfort is real and is suppressed.
+
+**The recapitulated-loss vector.** Formation of a sustained bond (a child taken in, a peer trusted across years) followed by that bond's destruction at the hands of an enemy who knew to target it. This is the scenario closest to producing genuine collapse, because it would prove that no perimeter he has constructed is sufficient — that the loss is recurrent and structurally inevitable. Predicted response: not collapse but compression. The grief would not be metabolized; it would be added to the load already carried. Operational tempo would increase, restraint thresholds would shift lower across all categories, and his life-expectancy curve would steepen. He would become, in the brief remaining window, the most lethal version of himself the record has ever seen — and would likely engineer, deliberately or not, the operation that ends him.
+
+**The unanswerable-conversation vector.** A confrontation, by an interlocutor he cannot dismiss (a peer he respects, a survivor whose moral authority is unassailable, an analog of his wife) who articulates the Aaron-MAX thesis — that the war is the point, the family the alibi — at a moment Subject cannot tactically exit. Predicted response: silence. Possibly the longest unbroken silence in his recorded behavior. He will not argue, will not concede, will not deny. He will then resume operations within hours. The insight is not the threat; the insight has already been articulated and absorbed without modification. The threat is that the conversation forces him to *be present to it* for a sustained period, and presence is the condition his structure exists to prevent. **Predict, after such a conversation, a measurable elevation in operational risk-acceptance for the following arc — the structure compensating for the breach.**
+
+---
+
+## 9. Terminal Prediction
+
+**GIVEN:** Subject reaches a point — through age, accumulated wound burden, or operational exhaustion — at which continued function is no longer possible.
+**EXPECT (very high confidence):** He will not retire. He will not seek treatment. He will not be talked into rest. He will select the operation that requires more than he has and execute it. The selection will be deliberate but will not be framed, internally or externally, as suicide; it will be framed as the next mission. He will leave his affairs in order — caches inventoried, evidence packets distributed to the journalists and prosecutors he trusts, the Lieberman family provided for, the graves' upkeep paid forward. He will not write a final statement. **He has been writing it, in target after target, for fifty years.**
+
+*End of Predictive Model II. Pred
+
+
+## Vulnerabilities & Leverage Compendium
+
+# VULNERABILITIES & LEVERAGE COMPENDIUM
+
+*Frank Castle Jr. — Subject-Specific Pressure Map*
+*Classification: Operational. Oriented toward understanding, de-escalation, and the protection of both Subject and third parties who must interact with him.*
+
+---
+
+## Preface: How to Read This Compendium
+
+Castle is, by the standards of comparably violent operators, an unusually *low*-leverage subject. Most men with his record can be moved by money, ego, sex, narcotics, fear, status, or factional loyalty. He has, by deliberate construction, removed each of these inputs from his own architecture. What remains is a small, narrow band of genuine vulnerabilities — and an even narrower band of conditions under which influence over him is possible. The dossier below is organized from the most reliable levers to the most dangerous; the latter category is critical because several of Castle's "vulnerabilities" function in reverse — engaging them does not weaken him, it *accelerates* him.
+
+A handler, negotiator, asset, or protective-services officer reading this file should accept at the outset: Castle cannot be controlled. He can, under limited conditions, be *reached*, *redirected*, *delayed*, or *de-escalated*. Attempting more than that is contraindicated and historically lethal to the attempter (cf. the Microchip terminus, the Jigsaw cycles, Barracuda, the Nicky Cavella cycle).
+
+---
+
+## 1. The First-Order Lever: Endangered Children
+
+This is the single most reliable mechanism for predicting, redirecting, or commanding Castle's behavior. It is also the most dangerous to deploy.
+
+**Reliability.** Across every writer, every continuity, every era, the presence of a child in immediate jeopardy produces three invariant responses: (a) immediate operational reprioritization — any other mission is suspended; (b) suspension of his usual collateral-management protocols — Castle will accept exposure, injury, and capture to extract the child; (c) lethality ceiling lifted — the threshold for use of disproportionate force collapses. The trafficking arc (*The Slavers*), the Long Cold Dark sequence, and the recurring orphan-protection beats across the Baron, Ennis, and Aaron runs all encode the same rule: a child's safety overrides everything Castle thinks he is.
+
+**Operational use — protective.** If a hostage situation involves Castle as adversary and a child can be credibly placed at risk by his action, he will fold his tactical posture inward to prevent that outcome. He can be moved to specific physical positions by this. He can be persuaded to disarm partially (never fully). He will agree to delay.
+
+**Operational use — provocation.** The same lever, used by an adversary, guarantees that adversary's death. There is no record of any criminal organization that has put a child in Castle's path and survived intact. The Italian families learned this; the Russian organizations learned it; the cartel structures learned it. It is, in fact, the single most reliable way to terminate one's own criminal enterprise and most of its associates.
+
+**Caution.** Engaging this lever for any purpose other than the child's actual protection is fraudulent — and Castle reliably detects fraud. A staged endangerment, once detected, converts the stager into the highest-priority target on the battlefield. Do not bluff with this lever.
+
+---
+
+## 2. The Family-Meaning Lever: The Central Park Wound
+
+Castle's wife, son, and daughter are not a memory for him; they are a covenant. The wound is not a wound he is healing; it is a wound he is *maintaining* as the architectural justification for everything that follows. This creates a narrow but profound vulnerability.
+
+**What lands.** Any statement, framed credibly and not manipulatively, that his current conduct *betrays* his family — that Maria would not have wanted this, that Lisa and Frank Jr. are not honored by it, that he has become indistinguishable from the men who killed them — lands with measurable affective force. It is one of the very few inputs that produces visible disturbance: a held breath, a pause longer than tactical, a momentary disengagement of the eyes from the target. Daredevil has used this lever. Maria's apparition uses it in *Welcome Back, Frank*. The Aaron MAX run's late monologues circle it.
+
+**What does not land.** Generalized moralizing about killing, religious appeals to mercy, threats of damnation, references to the law. He has priced damnation in. The law he regards as structurally insufficient. Generic preaching is wasted breath and marks the speaker as naïve.
+
+**What converts the lever to a trigger.** Mockery of the family, possession of the family (e.g., a target who claims to have known them, hurt them, profited from their death), or denial of the family's reality. Nicky Cavella desecrating the graves is the canonical case study: Castle's response was not negotiation. The lever pressed *that* way is not a brake; it is an accelerant straight to a terminal outcome.
+
+**Therapeutic note.** A clinician or chaplain who can frame the family as ongoing moral witnesses — not as objects of guilt, but as a present standard — has the only known psychotherapeutic foothold. This is the wedge Father Redondo and other priestly figures across canon have attempted. None have moved him meaningfully. But they have, briefly, slowed him.
+
+---
+
+## 3. The Confinement / Inactivity Lever
+
+The closest analog Castle displays to anxiety is forced stillness. Imprisonment, conscription into another chain of command, medical immobilization, and bureaucratic capture all produce the same low-grade pressure response: increased planning behavior, decreased verbal output, narrowed attentional aperture, sleep further compressed, and — within a measurable window — escape behavior.
+
+**Operational implications.**
+- Holding Castle indefinitely without active war is not feasible; he treats prison as a tactical environment (cf. the Ryker's arcs, the *Welcome Back, Frank* prison sequence, the *PunisherMAX* Kingpin imprisonment cycle). Inside a population of guilty men, his containment is operationally absurd: he simply continues operations from inside.
+- Holding Castle in genuine isolation (no targets, no information, no contact) is the only theoretical containment. Even there, the documented response is intensifying internal preparation rather than decompensation. He does not break in isolation; he forges.
+- Co-opting Castle into a sanctioned hierarchy (Fury's wetwork, the brief SHIELD-adjacent arrangements, military reactivation) buys a finite window — typically one operational cycle — before he reverts to autonomous targeting. The handler should plan the divestment before the asset plans his exit. They never do, and Castle leaves on his own terms.
+
+**Soft form of the lever.** *Granting* him a target, with clean intelligence and operational latitude, is the most reliable way to direct his motion in the short term. He does not need to be ordered; he needs to be *pointed*. The pointing must be honest. Disinformation in his targeting packet, once discovered (and he will discover it), reorients him onto the source.
+
+---
+
+## 4. The Loyalty-Band Lever (Narrow, Revocable, Total)
+
+Castle maintains an extremely small set of operational bonds at any given time — historically: Microchip (terminated), Rachel Cole-Alves (estranged on principle), the Lieberman family (protected at distance), Nick Fury (sustained peer-bond, the only one). Within this band, loyalty is total: he will absorb wounds, expose himself, and deviate from optimal tactics to protect the named other.
+
+**How to enter the band.** Demonstrated competence under fire. Refusal to lie to him. Demonstrated protection of an innocent at personal cost. Shared combat experience helps but is not sufficient. There is no social entry path; it cannot be cultivated through proximity, charm, or shared interest. The band opens by deed.
+
+**How to exit the band.** A single act of betrayal — defined narrowly but absolutely as either (a) endangering an innocent for personal advantage or (b) lying to him about the operational picture in a way that costs lives. Microchip's terminus is the model: years of partnership, instant termination on betrayal-as-Castle-perceived-it.
+
+**Leverage implications.** A person inside the band can ask Castle for almost anything operationally relevant and receive it. They cannot ask him to *stop*. The bond does not include the right to disarm him. Cole-Alves discovered this; the Liebermans navigate it by never asking.
+
+**For the band-member's own safety.** Members of Castle's loyalty band are at elevated mortality risk — not from him, but from his enemies. Any handler placing an asset in proximity should plan exfiltration as a constant, not a contingency.
+
+---
+
+## 5. Fraud, Performance, Preening — Repellents Disguised as Levers
+
+Several behaviors, often used to manipulate violent men, *repel* Castle. Understanding them as anti-levers is critical.
+
+- **Flattery, fan-deference, hero-coding.** The "Punisher fan-cops," the militia-style admirers, the bikers and skinheads who claim him as totem — Castle regards them with documented contempt and, on several occasions, has corrected them with violence. He does not want admirers; admirers misunderstand the work, and misunderstanding is the same as defamation of the family.
+- **Theatrical menace.** Posturing villains, monologuing organized-crime figures, ritualized intimidation — Castle treats these as wasted time and accelerates his operational tempo to terminate them faster. The Russian crime architecture in *Mother Russia* and the showier mafia capos throughout the Ennis runs illustrate.
+- **Bargaining from a position of guilt.** Targets who attempt to negotiate by offering information, money, or service receive a uniform response: he will accept the information, decline the money and service, and proceed with execution. The transaction does not modify the verdict.
+- **Appeals to professional fraternity.** "We're both soldiers." "We're both veterans." "You don't kill cops/Marines/your own." If the interlocutor's hands are clean, the appeal is unnecessary. If they are dirty, the appeal is an aggravator — Castle holds soiled veterans and corrupt police to a *higher* standard, not a lower one. (Cf. the Barracuda relationship; the Howe arc; multiple corrupt-cop sequences.)
+
+---
+
+## 6. Calming Inputs — What Reaches Him in Low-Tempo Conditions
+
+Castle is not always at operational pitch. In the inter-mission windows — the safehouse cycles, the recovery periods, the rare quiet hours documented across Ennis, Rucka, and Soule — there are inputs that produce measurable de-escalation. These are useful for clinicians, chaplains, and the rare civilian who must share space with him.
+
+- **Practical, hands-on work.** Weapons maintenance, vehicle repair, mending of gear. Repetitive, skilled, results-visible labor settles his autonomic baseline. Conversation conducted across this work is more productive than conversation conducted face-to-face.
+- **Children at safe distance.** Children he is not currently protecting, but who are nearby and unthreatened — a neighbor's child, a diner's kid in a booth — produce a documented softening of expression and a willingness to engage in brief, kind, low-content exchange. He will give a child a quarter and not speak to the parent.
+- **Catholic ritual at the periphery.** Cathedral interiors, the smell of incense, distant bells, a priest in cassock not addressing him directly. Castle does not pray and will refuse confession, but the proximity of the architecture in which he was formed has a regulating effect. He has been documented sitting in the back pews of churches without intent.
+- **Dogs.** Across multiple runs, Castle is depicted as comfortable with working and stray dogs to a degree he is not with people. A dog in the room reliably lowers his verbal floor and increases the probability of a non-tactical exchange.
+- **Plain food, eaten in silence.** Diners, mess-style settings, coffee and eggs. The ritual of the meal is calming; conversation during it is not required and is mildly disruptive.
+
+**Inputs that do NOT calm.** Music (he does not engage with it), alcohol (refused), pharmacological sedation (refused; he removes IVs), television entertainment (ignored or actively annoyed by it), social conversation (taxes him), physical touch from non-intimates (provokes withdrawal or warning).
+
+---
+
+## 7. Persuasion — The Narrow Bandwidth of What Will Move Him
+
+Persuading Castle to do anything is achievable only inside the following frame:
+
+1. **The thing you want done must protect an innocent or remove a guilty party.** Outside this frame, the persuasion is not a persuasion; it is a request he will decline.
+2. **The information you provide must be true, complete, and verifiable.** He will check. The discovery of any deceit voids the agreement and recategorizes you.
+3. **You must not ask him to spare a target whose guilt, as he has assessed it, meets his threshold.** Mercy-asks are the most reliably rejected requests in his record. Daredevil, Spider-Man, and Captain America have all attempted, repeatedly, and have produced only stalemate or violence between themselves and Castle, never modification of his verdict.
+4. **You must not ask him to coordinate with institutions whose probable failure he can predict.** Asking him to "let the system handle it" presumes a system he does not believe in. The ask itself marks you as not-serious.
+5. **The frame must be operational, not moral.** "I need you to do X because Y child is in Z location with W threat" works. "I need you to do X because it is the right thing" is redundant if true and worthless if false.
+
+Within this frame, Castle is *cooperative*, *direct*, and *uncomplaining*. He does not bargain over scope; he does the job or refuses it. He does not require credit. He does not require resources beyond the minimum. He does not return for additional asks.
+
+---
+
+## 8. Provocation — How He is Reliably Pushed (And Why You Should Not)
+
+For protective intelligence purposes, the following are the documented triggers that elevate Castle from baseline operational tempo to maximal-lethality posture. They are catalogued so that protected persons can avoid inadvertent triggering, not for operational use.
+
+- **Harm to children.** (See §1.)
+- **Trafficking of women.** Particular and persistent across all writers. The Slavers cycle is the apotheosis; the pattern is older and continues.
+- **Predation by uniformed authority on the civilians it is sworn to protect.** Corrupt cops, brutal guards, military personnel turned to private profit on the bodies of the helpless. Castle's response curve is steeper here than against civilian criminals of equivalent harm — the betrayal of office is the aggravator.
+- **Desecration of the dead, particularly his own.** (Cavella case.)
+- **Threats to or harm of any current member of his narrow loyalty band.** The response is not proportional to the threat; it is proportional to the bond.
+- **The presence, in his operational area, of any individual identified as having participated in the Central Park event or its cover-up.** This file remains open in his head. He has the entire chain memorized. New nodes added to that chain late in life (cf. the late-Ennis MAX arcs) become priority targets immediately.
+
+Each of these "levers" is, in practice, a *bell*. Once rung, it cannot be un-rung, and the response continues until the trigger condition is eliminated. None of them is suitable for use as a control mechanism. They are *forecasts*, not instruments.
+
+---
+
+## 9. Destabilization — Is It Possible?
+
+The honest answer, derived from the record, is: not durably.
+
+- **Pharmacological destabilization.** Tried in canon (sedation, neurochemical interference, the Frankencastle reconstruction). Each event has produced a delay, not a change; Castle returns to baseline as soon as the input ceases, and frequently sooner.
+- **Psychological destabilization (gaslighting, identity attack, doubt-injection).** Tried by adversaries across decades — Jigsaw's mirror-play, the Kingpin's psychological warfare, the various "what if you're the villain" framings by superhero peers. Castle agrees that he may be the villain. He continues anyway. Insight does not modify behavior. This is, in fact, the most clinically remarkable fact about him: the standard destabilization protocols presume a self-concept the subject is protecting. Castle is not protecting his self-concept. He has already conceded it.
+- **Cult/family-replacement attempts.** Attempts to give him a new family (the Lieberman household as a candidate, Cole-Alves as a candidate spouse-partner, various religious offers of brotherhood) have universally failed. The covenant with the original family is non-substitutable; offering a replacement is experienced as an insult to the original.
+- **Co-optation into ideology.** Attempts to recruit him into white-nationalist, militia, theocratic, or political-violence frameworks have produced violent rejection. He is not an ideologue and reacts to ideological recruitment as a category error about who he is.
+
+The only documented condition that has reliably produced extended deviation from baseline is *direct combat injury severe enough to require unconsciousness*. Even there, the deviation is the period of unconsciousness only; recovery returns him to baseline within the recovery window.
+
+---
+
+## 10. Self-Endangerment as Vulnerability
+
+Castle is essentially un-coercible through threats to himself. Pain, death, torture, damnation, public defamation — all priced in. This forecloses a large class of conventional leverage but *opens* a small one, often overlooked.
+
+Because Castle does not value his own continuation as such, he is willing to spend himself recklessly. This is a vulnerability only in the sense that an adversary aware of it can construct kill-boxes that rely on his willingness to enter unsurvivable terrain to reach a target. He has, in canon, walked into such terrain repeatedly and survived only because of preparation, skill, and writer-protection that should not be assumed in the field. A protective handler concerned for Castle's continued operation must therefore practice a counter-intuitive intervention: *withholding* targets from him during periods of compounding injury or sleep deficit. This is the one form of mercy he will accept, because it is framed operationally (mission integrity) rather than personally (your wellbeing).
+
+---
+
+## 11. The Reverse Field: What Castle is Vulnerable to *Within* Himself
+
+For completeness, and because the protective frame requires it, the dossier must catalog the internal vulnerabilities Castle carries that no external actor needs to deploy:
+
+- **Accumulating somatic burden.** Cumulative TBI, joint damage, scar-tissue restriction, age-related decline. In the late-MAX continuity these are present and acknowledged by the Subject and have produced the first credible operational degradation in his record.
+- **Closing window of targets.** As Castle ages and his target lists are completed, the structural problem of an endless war meeting a finite operator emerges. He has not, in any continuity, decompensated under this pressure; he has expanded the target taxonomy instead.
+- **The arrival of a target he cannot kill without crossing his own line.** The clearest documented case is when targets approximate or shelter children, family members, or innocents he has bonded to. He has, in these moments, deviated from optimal tactics in ways that have exposed him. A sophisticated adversary structuring an operation around this constraint could, in principle, defeat him. None has yet succeeded for long.
+- **The recognition, late in life, that the war is the point and the family is the alibi.** This recognition has been made explicit in the Aaron MAX run and shaded into other late texts. It has not produced change. But it represents the single internal pressure that, if it ever produced change, would change everything. A clinician privileged with extended access could in theory deepen this recognition into therapeutic ground. No clinician has had that access. None is likely to.
+
+---
+
+## 12. Summary Matrix for Field Use
+
+**To reach him:** Through honest information about an endangered innocent, delivered without ceremony, in operational frame.
+
+**To calm him:** Hands-on work, the periphery of Catholic ritual, distance from social demand, a dog, plain food, silence.
+
+**To persuade him:** Stay inside the protect-the-innocent / remove-the-guilty frame. Be truthful. Do not ask for mercy on a target he has judged. Do not ask him to stop.
+
+**To provoke him:** Do not. The triggers listed in §8 are reliable predictors, not control surfaces. Each ring of the bell ends in bodies.
+
+**To predict him:** He will move toward endangered children; he will move toward trafficked women; he will move toward predators in uniform; he will move toward any open node on the Central Park chain; he will protect his narrow loyalty band at any cost to himself; he will refuse to be commanded; he will not stay co-opted; he will not stop.
+
+**To destabilize him:** You cannot, durably. Accept this and plan around it.
+
+**To protect him from himself:** Withhold targets during compounding injury. Provide periods of forced low-tempo recovery in environments containing his calming inputs. Maintain the periphery of his loyalty band without asking entry. Do not offer replacement families. Do not ask him to feel what he refused to feel on a Sunday in Central Park; he will not, and he should not be asked to, by anyone who is not prepared to remain present for the fifty years of grief that would follow if he ever did.
+
+*End of Vulnerabilities & Leverage Compendium. Cross-reference: Behavioral Record (§1), Psychiatric Formulation (§4), Personality Synthesis (§5).*
+
+
+## Strengths, Assets & Resilience
+
+# STRENGTHS, ASSETS & RESILIENCE — FRANK CASTLE JR.
+
+*Asset ledger. Capabilities, infrastructure, durabilities. The positive column of the file, derived from fifty publication-years of operational record.*
+
+---
+
+## 1. THE BODY AS INSTRUMENT
+
+The first asset is the somatic platform, and it is exceptional. Castle was Force Recon to begin with — selected, trained, and combat-tested at the apex tier of American light-infantry tradecraft — and the body he brought home from his last tour has been maintained, repaired, and re-tasked for half a century without meaningful interruption. The granular markers are consistent across canon:
+
+- **Sustained anaerobic and aerobic baseline.** He runs roofs, stairwells, and broken urban ground at full kit without his breathing pattern showing in dialogue cadence. He climbs, fast-ropes, swims (the East River insertion in *Welcome Back, Frank*; the Bering Sea sequence in *Mother Russia*), and carries casualties — typically a child or a wounded civilian — out of contact zones on his back.
+- **Trained pain tolerance.** Self-suturing in safe-house bathrooms, draining hematomas with a syringe, resetting his own fingers, walking off rib fractures, working through gunshot perforations that should have hospitalized him. This is not invulnerability; it is the trained capacity to operate above the threshold at which most operators would refer themselves out. The skill set is real and is a deliberate cultivation, not a gift.
+- **Recovery economy.** Castle metabolizes injury fast. Whether one attributes this to genetic endowment, hyper-conditioning, or the narrative latitude of pulp continuity, the in-world consequence is a soldier who absorbs damage that should accumulate and instead returns to baseline within days.
+- **Aging without surrender.** The Aaron and Ennis-MAX texts age him explicitly into his late sixties and he remains operational. He has adapted to the decline: more standoff, more preparation, less brawling, no diminution of tempo. The graceful re-tooling of capability as it ages is itself an asset — a willingness to revise method rather than insist on a younger man's tactics.
+
+The body is, finally, *uncontaminated by inputs.* No alcohol. No nicotine. No recreational drugs. No prescription palliation. The exception is operational caffeine and amphetamine in long-duration surveillance, and even those are dosed. This abstinence functions as a strength on multiple axes: cardiopulmonary, hepatic, sleep-architectural, cognitive, and — most importantly — informational. He has not allowed any chemical to stand between him and what he is perceiving.
+
+## 2. TRADECRAFT AND TECHNICAL CAPABILITY
+
+A non-exhaustive inventory of the demonstrated skill ledger:
+
+- **Small arms across categories.** Pistols, revolvers, submachine guns, carbines, battle rifles, precision rifles to 1,000m+, shotguns, belt-feds, anti-materiel rifles. Demonstrated armorer-level proficiency: he strips, cleans, head-spaces, and modifies his own weapons. He builds loads. He converts semi to select-fire when he wants to. He knows the supply chain for ammunition and parts.
+- **Explosives.** Detonator construction, breaching charges, claymore-pattern improvisations, vehicle-borne devices, incendiaries. The *Welcome Back, Frank* polar-bear sequence and the *Mother Russia* base infiltration both depend on demolition fluency.
+- **Edged weapons and unarmed combat.** Knife work consistent with USMC and SOF curricula — close-quarters, lethal-intent, economical. Hand-to-hand favors structural damage (joints, throat, eyes) over sport technique.
+- **Vehicle operation.** Cars, trucks, motorcycles, light boats, snowmobiles, helicopters in some texts (passenger-trained at minimum), tanks (*Mother Russia*). Pursuit driving, ramming, evasion.
+- **Surveillance and counter-surveillance.** Static observation posts maintained for days; rotating vehicle tails; route analysis; pattern-of-life development on individual targets and on entire organizations. He builds target books.
+- **Tracking and field-craft.** Sign-cutting, urban tracking through camera grids (with Microchip, then Lieberman, providing the digital layer), woodcraft from Recon training. He chooses ground.
+- **Interrogation.** Effective, fast, predicated on the credibly demonstrated willingness to follow through. He extracts intelligence in single-digit minutes that institutional interrogators would not extract at all.
+- **First aid and battlefield medicine.** Self and others. Tourniquets, chest seals, airway management, gunshot triage.
+- **Languages and cultural competence.** Limited but real — workable Spanish, fragments of Vietnamese and other deployment-acquired phrases, sufficient Russian for the *Mother Russia* operation when supported. He is not a linguist; he is functional.
+
+The integrative skill is the one that matters most: **mission planning.** Castle thinks in terms of objective, terrain, asset, contingency, withdrawal — the standard five-paragraph order, internalized to the point of unconscious application. He does not start a fight he has not mapped. When ambushed, he reverts to the same template at higher tempo. The planning capability is itself a resilience asset because it economizes risk over decades; it is why a man who has been in continuous combat for fifty years is still alive.
+
+## 3. COGNITIVE ASSETS
+
+- **Concrete operational intelligence at the upper percentile.** Castle is not an intellectual and does not present as one, but his working memory for tactical detail, his spatial reasoning, and his capacity to hold a multi-stage operation in his head are all manifestly above the norm.
+- **Decision speed under pressure.** The flat affect that registers clinically as foreclosure is, in tactical context, an asset: he is not slowed by fear-mediated cognitive constriction at the moment of action. The ramp from observation to commitment is short.
+- **Pattern recognition.** He reads rooms, postures, weapon-bulges, escape lines, the difference between a civilian who froze and a combatant who is timing. The reading happens before conscious narration.
+- **Memory for the file.** He retains the names and the faces of the people who have done what he is hunting. The recall is the foundation of his entire operational continuity — he does not need a database to know who he is looking for, though he keeps one anyway.
+- **Honest self-knowledge, late period.** The Aaron-MAX texts demonstrate something rare: a man capable of articulating his own pathology without flinching, without self-pity, and without using the articulation as evasion. The insight does not produce change, but the insight itself is a cognitive asset; he is not lying to himself about the shape of what he is.
+
+## 4. CHARACTER ASSETS — THE MORAL ARCHITECTURE
+
+The hardest column to render in a strengths ledger, because the same architecture that powers the war does work that is, on its own terms, durable and good:
+
+- **The rule against children.** Absolute. No equivocation across half a century of canon. When children appear in a battlespace, every other parameter of the operation reorganizes around their extraction. This is not sentiment. It is structural.
+- **The rule against civilians.** Operationally enforced. Collateral is minimized at cost to himself, including aborting operations he has invested weeks in when the calculus shifts.
+- **Plainspokenness.** He does not posture. He does not perform. He does not lie except as tactical necessity. Civilians who encounter him report — across writers and decades — the same impression: a man who told them the truth about what was happening and what to do about it, in the smallest number of words.
+- **Courtesy to the powerless.** Consistent. Gentleness with the wounded, the trafficked, the bereaved. He sits with survivors. He carries them out. He does not require thanks and is uncomfortable when offered it.
+- **Contempt for cruelty in power.** Reliable detector. He reads a corrupt cop, a profiteering officer, a sadistic warden inside one exchange.
+- **Loyalty within the narrow band.** When he extends it — Microchip in his decade; Cole-Alves; the Lieberman household; Fury — it is total within its limits. He will die for the people he has decided to die for. The fact that the band is small and the conditions are strict does not diminish the depth of the commitment inside it.
+- **Asceticism as ethical posture.** He does not enrich himself. The war loot pays for the next war. He lives in safe houses, eats from cans, owns nothing that cannot be abandoned in fifteen minutes. The renunciation is not advertised; it is simply how he lives. It immunizes him against the corruption vectors that have historically captured operators of his type.
+
+These traits would constitute the moral spine of any number of pro-social vocations — soldier, firefighter, emergency physician, search-and-rescue. In him they have been bent to a different end, but the spine itself is intact and load-bearing.
+
+## 5. RESILIENCE FACTORS — WHY HE HAS LASTED
+
+Resilience, in the clinical sense of capacity to maintain function under repeated severe stress, is one of his most pronounced features. The factors:
+
+- **Ego-syntonic mission.** He is not in conflict with what he is doing. There is no internal saboteur, no ambivalence eating up cognitive bandwidth. The mission and the self are aligned. This is the single largest resilience reservoir he has.
+- **Meaning architecture.** Every day has a purpose. Every operation has a justification. The Frankl-style observation that those who have a *why* can bear almost any *how* applies in his case to a degree that is clinically remarkable.
+- **Structural routine.** The day has a shape — surveillance, maintenance, exercise, planning, sleep when permitted, return to surveillance. Routine in trauma populations is protective; his is military-grade.
+- **No substance burden.** He has not added an addiction on top of the trauma. The number of veterans with comparable exposure who have not survived this is large; he is not among them, and the abstinence is part of why.
+- **Physical maintenance.** The body that would otherwise have been the first failure point has been kept serviceable.
+- **Compartmentalization at high resolution.** He can hold the Central Park material in a sealed compartment while operating, and access it deliberately when it serves (the graveside visits, the dated rituals). The compartment does not leak under most pressures. This is, again, defense in service of pathology — but as a *capacity*, it is exceptional.
+- **Absence of grandiosity.** He does not need the world to recognize him. He is not destabilized by being disrespected, ignored, mocked, or hunted. The independence from external validation is a massive resilience factor; he cannot be deflated because he was never inflated.
+- **Un-coerceability.** Threats to his person, to his comfort, to his reputation, to his afterlife — none of them move him. Pain is priced in. Death is priced in. Damnation is priced in. An adversary who wishes to apply leverage discovers there is no surface to apply it to.
+- **Adaptive failure response.** When operations fail, he does not collapse, ruminate destructively, or attempt to retrieve the unsalvageable. He withdraws, conducts after-action review, and re-engages with revised parameters. The loop is fast and clean.
+- **Repeated near-death without acquired phobia.** Most operators who survive catastrophic engagements develop avoidances around the conditions of the engagement. Castle does not. He returns to the same kind of room.
+
+## 6. INFRASTRUCTURE AND RESOURCE BASE
+
+Less visible but operationally decisive:
+
+- **Cache network.** Distributed weapons, ammunition, cash, medical supplies, vehicles, and identity documents across multiple safe locations — typically in his operating metro and a ring around it, with deeper reserves for cross-country movement. The caches are paid for in seized criminal capital and are continuously refreshed.
+- **Self-funding model.** The war pays for itself. Cartel cash, mob accounts, trafficker holdings — captured and recycled. He does not require sponsors, salaries, or institutional support. The financial independence is itself a strategic asset; it means he cannot be defunded.
+- **Information assets.** The Microchip relationship, in its decade, gave him SIGINT and network reach equivalent to a mid-sized intelligence shop. The post-Microchip continuity has reproduced this through the Lieberman household and intermittently through Fury's organs. He has demonstrated the capacity to rebuild this layer when it is destroyed.
+- **Anonymity infrastructure.** Aliases, cash-only operating tempo, vehicle rotation, route variation, minimal digital footprint, no fixed residence, no recurring patterns visible to ordinary policing. He is hard to find when he chooses to be.
+- **Tactical wardrobe.** The skull is a piece of operational equipment — visual identifier, psychological pre-loader of adversary fear, marker that organizes target behavior before contact. He has weaponized his own legend as a force multiplier; targets surrender, panic, or make catastrophic errors at the sight of him.
+
+## 7. RELATIONAL ASSETS
+
+Foreclosed, but not absent. The ledger:
+
+- **Microchip (historical).** A decade of operational partnership; bequeathed the technical infrastructure that still underwrites his work.
+- **Nick Fury.** The only sustained peer-bond. Mutual respect built on shared understanding of what war does and costs. Fury is the one figure who can offer him an operation and be considered seriously. The relationship is durable across continuities.
+- **The Lieberman household (modern).** A working-family alliance that has survived multiple arcs, and that Castle has protected at cost to himself.
+- **Rachel Cole-Alves (historical).** A protégé relationship that ended in the manner all such relationships end with him, but that demonstrated the capacity to teach, to extend a chain of method, and to recognize a comparable wound in another and respond to it.
+- **Daredevil, Spider-Man, Captain America (extended community).** Adversarial-respectful relationships with figures who have repeatedly opposed his methods without ever, in canon, being able to dismiss his sincerity or his skill. These constitute a kind of negative social network — people who will not work with him but who know what he is and who will, in extremity, fight beside him.
+- **The protected unknowns.** The civilians, trafficked women, abused children, recovered hostages, and bereaved families who have, across fifty years of issues, lived because he intervened. They do not constitute a relational network in the ordinary sense, but they constitute a demonstrated record of effect — the actual ledger of saved lives, which is non-trivial and which an honest accounting cannot omit.
+
+## 8. WHAT MAKES THE ASSETS DURABLE
+
+The final question is why this asset base has lasted half a century without erosion. Several converging answers:
+
+- **The base case is austere.** He does not need much, so little can be taken from him.
+- **The skills are over-learned.** Trained to autonomic depth in his twenties, refreshed continuously since, they do not degrade under stress or with age in the manner of skills learned later or used less.
+- **The motivation is self-renewing.** Every operation generates the next; the supply of targets is, in his world, inexhaustible; the meaning structure cannot run out of fuel.
+- **The infrastructure regenerates.** Caches lost are rebuilt. Partners lost are replaced or done without. The model is fault-tolerant.
+- **The character does not negotiate.** The refusal to be moved by threats, comforts, offers, or arguments means the asset base is not subject to the slow corrosions — vanity, comfort, fear, fatigue — that take down most long-career operators.
+
+The strengths column, then, is not the trivial counterweight to a long pathology file. It is substantial and it is real: an unusually durable body, an upper-tier tradecraft ledger, a fast and honest operational mind, a moral spine that protects the powerless even as it powers a war, and a resilience profile that has metabolized losses which would have ended almost any comparable life. The tragedy of the file is precisely that these assets are real, and that they are deployed inside a structure that will not release them to any other use.
+
+*End of section.*
+
+
+## Failure Modes & Decompensation
+
+# FAILURE MODES & DECOMPENSATION
+
+*Section 7 of the Castle, F. dossier. Cross-reference Sections 3 (Psychological) and 4 (Psychiatric) for diagnostic substrate. This section maps the architecture of breakdown in a subject whose entire operating identity is constructed to make breakdown impossible — and therefore reveals, in its rare actual failures, the load-bearing seams.*
+
+---
+
+## 7.1 PREFATORY NOTE: WHAT "FAILURE" MEANS IN THIS SUBJECT
+
+For most subjects of this kind of file, decompensation looks like the loss of function — the alcoholic who can no longer hold a job, the operator who freezes in contact, the bereaved who cannot get out of bed. Castle's case inverts the typical pattern. His baseline state already contains most of the markers a clinician would call decompensated: foreclosed affect, foreshortened future, social withdrawal, compulsive repetition, ego-syntonic self-destruction. He is functioning *at* his pathology, not despite it. The pathology is the operating system.
+
+This produces a specific intelligence problem. The conventional decompensation signs do not apply to him because he never possessed the prior equilibrium they imply. To understand how Castle breaks, one has to ask a different question: under what conditions does the *machine he has made of himself* lose tolerance — when does the work stop working, when does the suppression stop suppressing, when does the loop he has built around the Central Park wound show stress fractures?
+
+The answer is that Castle has four failure modes, in ascending order of severity, and the file should be read as a graduated alarm system. They are:
+
+1. **Operational Tightening** (sub-clinical; the most common state under pressure).
+2. **Lethality Drift** (the moral-restraint envelope narrows; collateral risk climbs).
+3. **The Resonance Cascade** (proximity to the original wound produces controlled but acknowledged loss of restraint).
+4. **The Foreclosure Breach** (the only true psychiatric emergency; affect arrives uninvited; the suppression fails; what is underneath is exposed).
+
+A fifth mode — **Terminal Convergence** — is treated separately at the end of this section, because it is not a breakdown but a chosen end-state Castle has been observed to deliberately steer toward in late-career depictions.
+
+---
+
+## 7.2 MODE ONE: OPERATIONAL TIGHTENING
+
+This is the failure mode that is not really a failure — the one a casual observer would mistake for him simply doing his job better. Under rising pressure (multiple converging threats, time compression, betrayal in the operational network, physical injury accumulating beyond what he can self-treat), Castle's behavior does not loosen, does not flail, does not show the typical sympathetic-overactivation signs. It tightens.
+
+The observable somatic and behavioral markers:
+
+- **Verbal output drops to functional minima.** Sentence length contracts. Conjunctions and modifiers disappear first; modifiers second; pronouns last. By the time Castle is speaking in two-word imperatives, the pressure load is severe. The journal entries across the Baron and Ennis runs show this textually — the writing becomes telegraphic.
+- **Motor economy increases.** He stops sitting in chairs and stands; stops standing and crouches against cover; stops crouching and goes prone. Each transition is a step down toward field posture even when no immediate threat is present. He pre-positions for contact he has not yet identified.
+- **Eating becomes mechanical and timed.** Where his baseline is already fuel-functional, under tightening it becomes scheduled in 90-minute windows tied to caffeine cycling. He will consume a meal in under four minutes, standing.
+- **Sleep is sectioned.** Twenty-to-forty-minute monophasic blocks, never in the same location twice, always with the dominant hand free of any encumbrance. He does not dream that he reports; if he dreams, he does not remember on waking, which is itself a dissociative sign.
+- **The personal effects diminish.** The few items he ever carries beyond ordnance — the photograph, the rosary referenced in *Born* and the Catholic-formation passages, the bound notebook — get consolidated, sealed, cached, or destroyed. He sheds anything that could survive him being captured or killed, on a sliding scale tied to his estimate of mission lethality.
+
+This is not decompensation. This is Castle working as designed. Its diagnostic value is that it tells you the load is rising before he himself would acknowledge it. If a surveillance file noted three consecutive nights of sub-thirty-minute sleep, the destruction of the photograph, and a contact-language register reduced to imperatives, the file would predict the next escalation step within seventy-two hours.
+
+---
+
+## 7.3 MODE TWO: LETHALITY DRIFT
+
+The first true failure. Castle's operational identity rests on a moral envelope: targets are guilty parties; civilians are protected; children are inviolable; methods scale with what the target merits. The envelope is not a sentiment, it is the structural alibi that lets him distinguish himself, in his own internal cosmology, from the men who killed his family. If the envelope fails, the whole self-justification fails. He knows this. He maintains the envelope with the rigor of a man defending the last load-bearing wall of his own personality.
+
+Under sustained pressure — particularly the combination of (a) sleep deprivation past 96 hours, (b) chronic pain unmanaged, (c) operational betrayal by a trusted asset, and (d) target sets that are morally ambiguous (corrupt cops with families, mob lawyers, traffickers who are also victims) — the envelope narrows. Drift, observed across the canon:
+
+- **Threshold for engagement lowers.** Surveillance becomes contact. Contact becomes immediate use of force. The de-escalation rungs he is capable of using (intimidation, restraint, warning) get skipped.
+- **Bystander tolerance decreases.** Castle has always taken extraordinary care with bystanders (the rooftop sightlines, the perimeter sweeps, the choice of ordnance calibrated to backstop). Under drift, the calculation gets faster and the margin gets thinner. He has not, in canon, deliberately killed a civilian; he has, under drift, operated in conditions where civilian death was a known accepted risk rather than an actively-prevented one. This is a meaningful moral degradation by his own standards.
+- **The interrogation-as-relationship pattern collapses.** At baseline, Castle interrogates with patience — he will spend hours, he will keep a man alive across days to bleed information. Under drift, he kills the informant before completing exploitation, and then has to chase the intelligence elsewhere at compounding cost.
+- **He stops varying his routes.** The most subtle and most diagnostic marker. Castle's operational discipline includes a near-paranoiac rotation of safe houses, vehicle types, ingress routes, and contact points. Under drift, repetition appears. He goes back to the same diner. He uses the same bridge. This is not laziness; it is the appearance of a death-wish-adjacent passivity, the willingness to be found.
+
+The Ennis *Punisher MAX: The Slavers* arc is the textbook example. By the climax, Castle has tracked the trafficking network through escalating brutality; the final action — burning the matriarch of the operation alive — sits outside his usual method (proportional, weapons-grade, not theatrical) and indicates that the envelope has narrowed under resonance pressure (see Mode Three). The Aaron *PunisherMAX* arcs in his sixties show drift as chronic background condition: he is operating, by that point, in a state that would have been classed as failure twenty years earlier.
+
+Lethality drift is the most common true failure mode in Castle's history. It is also the one he is most blind to. He registers the envelope's integrity by feel, and the feel is calibrated to a self that has been suppressing its own degradation for fifty years.
+
+---
+
+## 7.4 MODE THREE: THE RESONANCE CASCADE
+
+This is the failure mode that is partially visible to him, and which he has, late in the canon, begun to articulate. It is triggered by stimulus material that maps directly onto the Central Park wound. The triggering content has a narrow profile:
+
+- A child harmed, particularly a girl child within the rough age band Lisa would have inhabited.
+- A family unit destroyed in front of a surviving witness who could not act.
+- Trafficking, sexual predation on minors, or institutional cover of either.
+- The presentation of a child who could plausibly be — or who is presented as — connected to his own family (the half-sibling motif in *Long Cold Dark*).
+
+When triggered, the cascade has a stereotyped sequence:
+
+**Phase one — somatic recognition.** Castle goes still in a way distinguishable from his operational stillness. The trained stillness is forward-leaning, weight on the balls of the feet; the cascade stillness is flat-footed, eyes fixed, breath slowed past tactical baseline into something closer to apnea. Observers who have seen both have described the difference (Microchip in early continuity; Cole-Alves in vol. 9). This phase lasts seconds to a half-minute.
+
+**Phase two — protocol override.** The operational planner he ordinarily is — terrain, asset, contingency, withdrawal — is overridden by a single-objective vector. Whatever is happening to the resonance object will not continue to happen. Multi-stage plans collapse into immediate action. Risk acceptance climbs to near-total. He will walk through fields of fire he would otherwise flank.
+
+**Phase three — lethality without ceiling.** During the cascade, the envelope is not narrowed — it is suspended. Methods that would otherwise be reserved for the worst category of target become available for anyone in the path of the rescue. Bystander calculations are not made. Pain is not registered until the action terminates. The *Slavers* burn-alive sequence sits here. The treatment of the captors in *Mother Russia* sits here. The collapse of negotiation in *Up Is Down and Black Is White* sits here.
+
+**Phase four — post-cascade flat.** When the rescue (or the failure of the rescue) is complete, Castle returns within minutes to flat baseline. He does not weep. He does not debrief. He resumes mission rhythm with the next breath. This is the most clinically striking part: there is no after-affect. The energy that fueled the cascade is reabsorbed into the suppression without trace. This is the dissociative subtype of PTSD operating at high efficiency.
+
+The cascade is functional, in the sense that it has not yet — in canon — produced his death or his arrest. But its frequency is itself a diagnostic worry. Each cascade is a controlled detonation against a structure that is not designed to absorb them indefinitely. Late-career depictions imply diminishing returns — the cascades are coming closer together, the recovery is slightly slower, and the post-cascade flat is slightly more profound. The mechanism is wearing.
+
+---
+
+## 7.5 MODE FOUR: THE FOUNDATION BREACH
+
+This is the rarest and the only true psychiatric emergency the file needs to plan for. It is the failure of the suppression itself — the condition in which the affect that has been refused for fifty years arrives, uninvited, intact, and cannot be displaced into action.
+
+The triggering conditions for foundation breach are narrow and specific. They require, in combination:
+
+1. **Forced inactivity.** Castle cannot be in motion. The drive to discharge into operation is the suppression mechanism; if the operation is unavailable, the mechanism cannot run. Conditions producing forced inactivity include physical restraint (prison; the *Welcome Back, Frank* and *PunisherMAX* incarceration sequences), severe injury beyond what he can self-treat without convalescence, and — rarer — situations in which acting would harm the very category he is sworn to protect (a hostage situation where any of his standard methods kills the child).
+2. **Removal of the moral framework.** A demonstration he cannot refute that the war he is fighting is meaningless, or that his family did not die for the reason he has chosen to believe, or that his targets are not the parties responsible. In canon, this is approached but never fully delivered; the Aaron *PunisherMAX* sequences come closest, where Castle articulates that the family is the alibi the war told him to believe.
+3. **A relational trigger that cannot be killed.** The resonance cascade requires an external enemy to discharge into. If the resonance trigger is internal — memory, dream, a piece of his daughter's handwriting recovered — there is no external object for the discharge, and the affect goes where it has nowhere to go.
+
+When the breach occurs, the observable presentation:
+
+- **The flattened affect fails.** Castle weeps. The canon depictions are few and are spaced across decades for a reason; Ennis uses the moment with particular care in *The Tyger* coda and at certain graveside sequences. The weeping is not cathartic. It is, by his own internal report in those rare narrative moments of access, intolerable.
+- **Time orientation degrades.** He is, momentarily, not certain what year it is. The Central Park night is co-present with whatever room he is in. The dissociation that normally protects him by sealing the past behind the work fails in the other direction — the past floods forward, undefended.
+- **Operational planning capacity collapses.** This is the only state in which Castle has been observed to be tactically incompetent. He has, in breach, walked into spaces unwarded. He has not heard ingressing footsteps. He has missed a sightline a fresh recruit would have caught.
+- **Suicidal ideation surfaces as a discrete option rather than a baseline acceptance.** At baseline, Castle has priced in his own death and does not actively seek it; in breach, he considers it instrumentally — not as despair but as the cleanest available action to terminate the affective intolerability. He has not, in canon, acted on this. The fact that he has not is partly because the breach states have been brief and partly because something — the work, the obligation, the next target — has historically arrived in time.
+
+Recovery from breach is fast — minutes to hours — and reconstitution is total. The next action after recovery is invariably an act of violence, often disproportionate, against the nearest legitimately-available target. The discharge that breach refused gets paid afterward, at interest.
+
+A surveillance file should weight breach probability as low but should not weight its consequences as low. A Castle in breach, located, is a Castle who could be reached — by an analyst, by a priest, by a relational figure with enough history to be trusted — in a way that a Castle in any other state cannot be. The breach windows are also, in inverted symmetry, the windows in which he is most dangerous to anyone who attempts to exploit them and fails. He has killed assets who tried to leverage breach moments. The window does not stay open, and what closes it remembers being seen.
+
+---
+
+## 7.6 THE CONDITIONS THAT PRODUCE COLLAPSE — A TYPOLOGY
+
+Pulling the failure modes into a single map of triggering conditions, ordered by the severity of the failure they produce:
+
+**Conditions producing Tightening (chronic, frequent):**
+- Multiple converging operational threats
+- Time compression on a high-value target
+- Asset network compromise
+- Sleep debt over 60 hours
+- Caloric deficit beyond 36 hours
+
+**Conditions producing Drift (episodic, every major arc):**
+- Sleep debt over 96 hours
+- Untreated pain at the level of fractured ribs or worse
+- Operational betrayal by a trusted figure
+- Morally ambiguous target set
+- Loss of route discipline (often itself a downstream marker)
+
+**Conditions producing Resonance Cascade (predictable on stimulus):**
+- Direct exposure to harmed children
+- Trafficking or sexual predation discovered in operational scope
+- Presentation of a family-destruction tableau echoing his own
+- Any figure presented as connected to Maria, Lisa, or Frank Jr.
+
+**Conditions producing Foundation Breach (rare, multi-factor):**
+- Forced inactivity + memorial trigger + relational figure he cannot reach
+- Demonstration that the moral framework is false
+- Confrontation with a version of himself (the doppelgänger motif — other Punishers, copycats, the Frankencastle arc's identity-displacement)
+- Anniversary effects compounded with operational failure (he has not, in canon, been observed at scale during anniversary windows — likely because he sequesters them, which is itself diagnostic)
+
+**Conditions producing Terminal Convergence (see 7.7):**
+- Awareness that the war is ending or that he is ending
+- The arrival of a target whose elimination would complete a personally meaningful chapter
+- Diminished physical capacity that he registers as a slow betrayal of mission
+
+---
+
+## 7.7 TERMINAL CONVERGENCE: THE CHOSEN END
+
+This is not a failure mode in the clinical sense; it is the trajectory Castle has been observed to steer toward when he believes the work is approaching its asymptote. It deserves separate treatment because it would, on first observation, be misread as decompensation when it is in fact the most controlled state he is capable of.
+
+The signs of convergence, drawn primarily from the late Aaron MAX arcs and the *Valley Forge, Valley Forge* sequencing:
+
+- **Affairs are put in order.** Caches are documented. Asset networks are warned or wound down. The few people he has owed something to receive what he owes them, sometimes in the form of a final piece of intelligence, sometimes a transferred resource, sometimes an unexpected absence of him in their lives, sometimes a death he removes from their path before he is gone.
+- **The journals become legible.** Where his operational journals have always been clipped, the late-arc material shows occasional narrative passages — almost confessional, as if knowing they will be read. The change in register is the only place Castle has reliably written *for an audience*, and the audience is posterity.
+- **Mission selection becomes terminal.** He chooses operations he does not expect to survive. Not recklessly — with the same planning rigor he has always brought — but with withdrawal contingencies removed. The plans no longer include extraction.
+- **The grave visits change cadence.** Where his visits to the Central Park graves have, across the canon, been irregular and brief, in convergence they become sequenced — a final visit, recognized as final.
+- **There is no breach.** This is the diagnostic key. In convergence, the suppression does not fail — it relaxes, because what it was suppressing is about to be made permanently irrelevant by the end of the suppressor. He becomes, in late convergence, calmer than he has been at any point in the file.
+
+Convergence is the closest Castle ever comes to peace. It is also the most dangerous state for anyone in his target set, because the future-cost calculus that has sometimes restrained him no longer applies. A Castle in convergence will accept any cost to himself to complete an objective, and will refuse no operation on grounds of personal risk.
+
+The file should note: every depicted convergence has, in canon, been interrupted — by a new injustice, a new resonance, a new operational opening — and Castle has returned to baseline. The pattern is consistent enough across writers to be considered structural. The war does not let him finish. He has, in his own articulations, registered this with something close to bitter humor. He has built a condition from which the only exit is death, and the work he built it for keeps producing reasons to defer the exit.
+
+---
+
+## 7.8 WHAT THIS MAP IS FOR
+
+The intelligence use of this section is not to predict when Castle will collapse — he largely will not, in any conventional sense. The use is to recognize, in his real-time behavior, which mode he is occupying, because the modes determine what can and cannot be done with him, to him, or near him.
+
+- In **Tightening**, he is approachable on operational terms only; relational approach will be ignored or used.
+- In **Drift**, he is dangerous to bystanders in his vicinity and should be given lateral space; the approach window is closed.
+- In **Cascade**, he should not be approached at all by anyone not directly contributing to the discharge objective; the post-cascade flat is, paradoxically, the most rational interval and the best window for debriefing if access exists.
+- In **Breach**, he is — for the only time — reachable as a person, by the narrowest set of relational figures, for the narrowest of windows. The cost of getting this wrong is fatal. The reward for getting it right is the only documented pathway to anything resembling actual change in him, and even that pathway has, across fifty years of canon, not been successfully walked.
+- In **Convergence**, no intervention will deflect him; the only honest response is to make the end he is steering toward as clean as it can be made, and to be present for whatever remains.
+
+The summary the file ends on, for analysts: Castle does not break the way other subjects break, because the structure he would break out of is the same structure he is. Pressure does not crack him; it compresses him. The compressions have visible signatures and a graduated alarm value. The only thing capable of breaking him is the one thing he has organized his entire life to prevent — the arrival, undisplaced, of what he felt the night his family died — and even that, when it has briefly arrived, has not broken him so much as briefly shown what is under the work. What is under the work is a man, and the man is the part he has refused, for fifty years, to be.
+
+*End Section 7. Section 8 (Operational Tradecraft) follows.*
+
+
+## Trajectory & Forward Assessment
+
+# TRAJECTORY & FORWARD ASSESSMENT
+
+*Section 11 of 14. Forward-looking inference derived from the longitudinal behavioral record. All projections probabilistic; confidence intervals noted where the record permits.*
+
+---
+
+## 11.1 Baseline Projection — The Default Trajectory
+
+The single most important fact for forward assessment is this: **the subject's condition is a self-sustaining homeostasis.** It is not a degenerative process drifting toward a crisis point; it is a closed thermodynamic loop that has run for five decades without requiring external input to maintain itself. Each operation produces the conditions (intelligence, enemies, grievance, fatigue) for the next operation. Each enemy killed generates affiliates, heirs, and successor organizations. Each near-death wound, survived, reinforces the operating belief that he is permitted to continue. There is no internal mechanism by which this loop self-terminates.
+
+The default trajectory is therefore: **continuation at current operational tempo until biological failure, lethal external force, or environmental collapse intervenes.** This is not a remarkable prediction — it is the prediction the subject himself would make, and has made (most explicitly in the late Aaron MAX texts, where in his sixties he articulates that he expects to die at this and is not waiting for anything else). The forward-assessment question is therefore not *will he stop* — he will not — but *what are the specific shapes the continuation will take, what events could perturb the loop, and which perturbations push toward partial repair versus accelerated catastrophe.*
+
+Confidence interval on the default: **high (>85%) over any forward window of 12–36 months.** Confidence decays past five years primarily because of the somatic substrate, not the psychological one.
+
+---
+
+## 11.2 Somatic Trajectory — The Body as Limiting Reagent
+
+The psychology will outlast the body. This is the central asymmetry of his future.
+
+**Cumulative wound burden.** The accumulated injury load is the principal hard ceiling. Decades of repeated GSWs, blunt-force concussion, blast exposure, knife wounds, burns, and self-managed fracture-sets produce predictable late-life sequelae: chronic regional pain syndromes, post-traumatic arthritis (knees, shoulders, wrists, lumbar spine — load-bearing structures that have absorbed falls from height, recoil, and breach impact for fifty years), reduced grip strength and fine-motor degradation in the dominant hand, hearing loss in the high frequencies (small-arms fire, breach charges), and tinnitus sufficient to interfere with the auditory hypervigilance his work depends on. None of this will be reported by the subject. All of it will be visible in micro-tells: slower mounting of stairs, longer recovery time between operations, increased reliance on optics over iron sights, a tendency to choose ambush positions that minimize unsupported standing.
+
+**Neurological trajectory.** This is the most consequential medical projection. The cumulative TBI exposure (combat blast, the original skull-graze, decades of blunt-force trauma) places him in the population at elevated risk for **chronic traumatic encephalopathy**, late-onset post-concussive symptomatology, and accelerated neurocognitive decline. The specific risk profile is concerning because CTE classically presents with the constellation he is *already* operating with — disinhibition, affective flattening, narrowed cognition, episodic aggression — making the clinical inflection point hard to detect until executive function specifically begins to fail. **The signature event to watch for** is a tactical error of a category he has not previously made: a missed escape route, a target misidentification, a planning omission. Such an event, if survived, will be the first observable indication that the cognitive substrate has begun to fail. He will not seek diagnosis. He will adjust by narrowing operational scope, then narrow again, and continue.
+
+**Sensory degradation.** Visual acuity at distance is likely already compromised and corrected operationally with optics; near-vision presbyopia will affect reload time and weapons maintenance in low light. Auditory degradation will progressively compromise the perimeter-awareness capacity that has kept him alive in confined-space engagements. He will compensate with increased reliance on remote sensors and pre-emplaced surveillance — meaning his operations will trend toward longer planning cycles and shorter active windows.
+
+**Endocrine and metabolic.** Decades of sleep restriction, operational amphetamine use, and chronic stress-axis activation predict cortisol dysregulation, accelerated cardiovascular aging, and increased risk of myocardial event under exertion. The single most likely *medical* cause of death, absent enemy action, is sudden cardiac event during operation — which is also the death he would, if asked, prefer.
+
+**Projected operational ceiling.** On the somatic evidence alone, sustained solo high-tempo operation past the late sixties to mid-seventies becomes implausible without significant adaptation. The adaptation path is not retirement; it is **role migration** — toward overwatch, sniper work, planning-and-direction roles, materiel preparation, the cultivation of operators who execute under his direction. This is the trajectory the late texts gesture toward and the most likely shape of his seventh and eighth decades if he survives them.
+
+---
+
+## 11.3 Psychological Trajectory — The Closed System Under Strain
+
+The psychological projection is paradoxically more stable than the medical one. The defense architecture has been stress-tested for fifty years across every category of provocation — physical torture, betrayal by intimates, ideological seduction, religious appeal, offers of normalcy, offers of weaponized purpose at scale — and has held in every instance. There is no plausible scenario in which a *new* category of psychological stressor appears.
+
+What *will* change is the relationship between the defenses and the underlying material they suppress. Three forward-projected drifts are worth tracking:
+
+**1. Increasing articulability of the pathology without modification of the behavior.** The trend across publication time (Baron → Ennis → Aaron → Soule) is toward greater self-insight. The subject can increasingly name what he is doing and why. This trajectory will continue. He will become, in his late years, capable of stating the formulation in the same terms a clinician would use — and will continue regardless. **This is diagnostic, not prognostic.** Insight without affect, in a foreclosed structure, does not produce change; it produces a more sophisticated apologia for non-change. The clinical implication: do not interpret increasing articulateness as movement toward repair. It is not.
+
+**2. Erosion of the moral perimeter under cognitive narrowing.** As executive function degrades — whether from CTE, simple aging, or accumulated trauma — the rule-system that defines target selection will become harder to maintain at current granularity. The risk is not that he becomes indiscriminate (the splitting structure is too deeply installed for that), but that the **edge cases will be adjudicated more crudely**. Operations that historically he would have aborted on uncertain target identification, he will execute. The collateral rate, historically near-zero by deliberate construction, will rise. He will notice this. He will be unable to formulate it as decline; he will formulate it as the war's escalation. This is a particularly dark fork: the moment at which his self-concept as "weapon-with-intent" begins to require intent he no longer reliably possesses.
+
+**3. Bereavement breakthrough under specific stimulus.** The arrested grief is not gone; it is held in suspension by the operating tempo. Two classes of event could break the suspension: (a) **forced inactivity** of sufficient duration (incarceration, immobilizing injury, hospitalization) such that the work cannot perform its anesthetic function; (b) **encounter with a stimulus that exactly recapitulates the original wound** — most plausibly the loss of a child he has come to function as a protector of, or the discovery that an operation of his own caused the death of a family configuration mirroring his own. Either event would force the bereavement through the foreclosure. The subject does not have well-rehearsed coping for breakthrough grief. The expected presentation under breakthrough is not collapse-into-treatment-seeking; it is a **brief, terminal escalation** — the most dangerous window in his trajectory, both for him and for anyone within his operational radius.
+
+---
+
+## 11.4 Relational Trajectory — The Bonds He Cannot Permit
+
+The relational projection is determined by the same foreclosure that governs everything else, but with a specific late-life vector worth noting.
+
+**The Lieberman pattern will recur in attenuated forms.** Functional surrogate-family attachments will continue to appear adjacent to his operational life. He will continue to recognize them as such, continue to extend the narrow-band loyalty he is capable of, and continue to sever or be severed from them at the threshold of affective depth. The pattern is stable. The forward question is whether *one* such attachment will eventually exceed the foreclosure threshold — and the honest answer is **probably not, but the probability is non-zero and rises with age.** Late-life loneliness, somatic vulnerability, and the slow accumulation of operational futility all marginally weaken the closure. The candidate populations: a child he has rescued and continued to monitor; an aging peer who shares enough operational history to require no explanation; a successor figure he is training without admitting that he is training them.
+
+**Peer-bond attrition.** The peers who have constituted the only sustained relational scaffolding (the Fury-class peers, the operationally-credible colleagues) will pre-decease him or otherwise exit the operational space. The replacement rate is low because the qualifying conditions are extreme. **By his mid-seventies the relational field will be effectively empty.** This is not catastrophic for him — solitude is the default state — but it removes the last category of person capable of telling him a hard truth and being heard.
+
+**Adversary-bond persistence.** The relational density on the *adversarial* side will remain high and probably grow. Long-running antagonists, survivors of his operations, descendants of his targets, ideological opponents within institutional law enforcement, and the small but persistent population of imitators and counter-imitators constitute his actual relational field. This is a fact about his life that he understands and does not contest.
+
+---
+
+## 11.5 Operational-Environmental Trajectory
+
+The environment in which the subject operates is changing in ways that constrain his methods asymmetrically.
+
+**Surveillance saturation.** The operational space he has historically exploited — anonymous urban movement, cash transactions, weapons caches, safe-house rotation — is being progressively closed by ubiquitous camera coverage, license-plate recognition, biometric identification, financial-system transparency, and the disappearance of the cash economy. He has adapted to each of these incrementally; the question is whether the rate of environmental change eventually outruns his adaptation rate. Forward projection: he will increasingly rely on **deeper operational silence between actions** (longer planning windows, fewer engagements, higher-value targets per engagement) and on **technically-skilled allies** to manage the digital perimeter he cannot personally maintain. The Lieberman-type alliance is therefore not optional but structurally required for forward operation.
+
+**Counter-Punisher institutional capacity.** Federal and municipal counter-vigilante capacity has grown across his operational life. He is identifiable, his methods are profiled, his iconography is recognized. The window in which he can move unrecognized is narrower than it has ever been. He has compensated by accepting recognition and trading on its intimidation value, but this trade-off has a ceiling.
+
+**Iconographic appropriation.** The persistent and well-documented co-option of his symbol by populations he holds in active contempt (insignia-wearing law enforcement, militia adjacents, performative-masculine subcultures) is a forward-trajectory variable he cannot ignore and which produces one of the few categories of public statement and direct action he has been willing to undertake outside his operational frame. **Expect this to recur and escalate.** The destruction of misappropriated iconography, and occasional violent correction of its wearers, will remain a non-operational behavior pattern he reliably exhibits. This is, in fact, one of the few sites at which something resembling *ideology* surfaces in his behavior — and the only site at which he is observably defending the meaning of his own identity rather than its consequences.
+
+---
+
+## 11.6 The Fork Points — Where the Trajectory Could Bend
+
+A small number of specific event-classes have the capacity to deflect the default trajectory. Each is low-probability per unit time but cumulatively non-trivial over a long horizon. Listed in order of plausibility.
+
+**Fork 1: Catastrophic operational failure with civilian cost.** A misidentification, a missed contingency, an intelligence failure leading to the death of an innocent — particularly a child, particularly a family configuration that mirrors the founding wound. **Probability over a five-year window: moderate, rising with cognitive decline.** Behavioral response: not cessation, not surrender — a brief, observable affective breach (the closest analog to the original grief he has ever displayed), followed by either (a) terminal escalation (Fork 1a: a deliberately suicidal final operation, framed internally as restitution) or (b) the first genuine consideration of cessation he has ever permitted himself (Fork 1b: low probability, but the only path by which voluntary stoppage becomes psychologically available). The clinical window for intervention, if any party were positioned to attempt one, would be the 72–96 hours following such an event.
+
+**Fork 2: Forced extended inactivity.** Incarceration in a facility that genuinely contains him, or an immobilizing injury that defeats his pain tolerance and resourcefulness. The subject has been imprisoned repeatedly and has reliably escaped or weaponized the prison environment. A *genuinely* containing detention, sustained past the point where the operational anesthesia wears off, would force the suspended grief through. Expected presentation: not breakdown — he would not present as decompensating to staff — but a long, silent, gradual surfacing of affect, indistinguishable from severe late-life depression, with significant suicide risk in the middle window (months 3–12). Recovery, if survived, would for the first time make a non-operational future psychologically possible. **Probability of the triggering event: low.** Probability of survival through the affective surfacing if it occurred: also low.
+
+**Fork 3: Cognitive failure crossing the operational threshold.** Progressive CTE or other neurocognitive decline reaching the point where he can no longer maintain his own rule-system. Behavioral response is bifurcated: either (3a) he recognizes the decline early enough to self-terminate operations and likely his own life in a manner he would frame as withdrawal of a malfunctioning weapon from service; or (3b) the decline outpaces his insight, and his terminal operational period is marked by increasing collateral damage, culminating in either lethal external force or institutional containment. Fork 3a is consistent with his operating ethics; Fork 3b is the worst-case trajectory for him, his victims, and the populations he has claimed to protect.
+
+**Fork 4: Successful succession.** The unacknowledged training of a successor figure (operationally capable, ethically aligned within his rule-system, young enough to outlast him) is the only trajectory by which his project continues past his biological capacity, and is therefore the only trajectory by which he could permit himself something resembling rest. He will not call it succession. He will call it operational support. **Probability over a ten-year window: meaningful.** Candidate identification is already implicit in the late-period relational record. If realized, this fork softens his terminal phase by giving the work somewhere to go that is not his own body.
+
+**Fork 5: The unrecoverable revelation about the founding event.** A discovery that the Central Park killings were materially different from his fifty-year understanding of them — different perpetrators, different motive, his own undisclosed role or culpability, the deliberate selection of his family by an actor he has been protecting or serving without knowing it. This class of revelation has been threatened in canon and partially executed in MAX. Response: brief categorical recalibration, followed by re-stabilization on the underlying war. The revelation cannot undo the work the alibi has done because the alibi was retroactive in any case. **Effect on trajectory: smaller than intuition suggests.**
+
+**Fork 6: Religious re-engagement.** The pre-trauma Catholic substrate is dormant but not extinguished. Late-life return to religious framework is a known statistical pattern in his demographic and is canonically gestured at in several texts. The most plausible form is not church attendance but private sacramental engagement — confession, the iconography of judgment, an acceptance of damnation that becomes operationally meaningful rather than merely rhetorical. This does not produce cessation. It might produce a quieter and more deliberate terminal phase.
+
+---
+
+## 11.7 Growth Versus Catastrophe — The Vectors
+
+**What would push toward growth.** Growth, in this case, is defined narrowly and realistically: not recovery, not reintegration, not the reconstitution of a civilian life — those are foreclosed. Growth is *the late-life capacity to permit one bond to outlast his suspicion of it; the capacity to permit grief to surface; the capacity to choose the timing and shape of his own cessation rather than die mid-operation as a refusal of choice.* The vectors:
+
+- A relational attachment sustained past the threshold at which he has previously severed, with the other party demonstrating the patience to absorb the severance attempt without retaliation or withdrawal. (Historical analog: the Lieberman dynamic at its most stable. Required: another iteration, more durable.)
+- Forced contact with grief in a setting where the operational escape is unavailable and the containment is non-punitive. (Improbable; the institutions capable of containment are not configured for this.)
+- The successful identification and training of a successor, permitting a controlled handoff and a self-chosen exit.
+- A late religious re-engagement that reframes the war as finite rather than perpetual — that permits an end-state other than dying in harness.
+
+**What would push toward catastrophe.** Catastrophe is defined as: terminal escalation, collateral atrocity, cognitive-decline-driven indiscriminate violence, or weaponization of his identity by external actors against the populations he has historically protected. The vectors:
+
+- Unaddressed CTE progression with continued solo operation.
+- Loss of the last functional peer bond without replacement, removing the only external check on operational drift.
+- A founding-wound-resonant trigger event with no relational scaffold present to absorb the affective breach.
+- Capture and exploitation by a state or non-state actor capable of leveraging his methods at scale — historically he has refused such co-option, but the refusal capacity may not survive cognitive decline.
+- Successful imitator violence at scale, undertaken in his name, which he is unable to suppress and which his iconography is used to legitimize. This is the catastrophe vector most outside his control and most consequential beyond his own biography.
+
+---
+
+## 11.8 Terminal Phase — Projected Shape
+
+The terminal phase is the most predictable element of the forward assessment because it has been pre-decided.
+
+He will not retire. He will not surrender. He will not seek treatment. He will not reconcile. He will not, in any conventional sense, be stopped — he will only be ended.
+
+The most probable terminal scenarios, in declining order of likelihood:
+
+1. **Death in operation, mid-engagement, against numerically or technologically superior opposition.** Cause: choice of an operation he knew he would not survive, framed internally as appropriate use of remaining capacity. The selection of the operation will, in retrospect, be legible as a controlled self-termination. He will not call it that.
+
+2. **Death from cardiac event during operation.** Functionally equivalent from his perspective. Indistinguishable from preference.
+
+3. **Death from external lethal force outside operation** (ambush, assassination, institutional kill order successfully executed). Lower probability because of his counter-surveillance discipline, but rising as somatic and cognitive substrate erode.
+
+4. **Death by deliberate self-termination outside operation.** Low probability. Would require either Fork 1b (cessation-permitting breakthrough) or Fork 3a (insight-driven withdrawal of a failing weapon). The latter is more likely than the former.
+
+5. **Death from natural causes in containment or hospitalization.** Lowest probability. Requires Fork 2 to have occurred and the affective surfacing to have been survived. If realized, this is the only trajectory in which a final-phase repair is even theoretically possible — and it remains the least likely.
+
+The shape of the terminal phase will mirror the shape of the life: economical, deliberate, undramatized, and oriented to the work. There will be no last words worth recording. There will be an unfinished list.
+
+---
+
+## 11.9 Summary — The Forward Read
+
+The subject is a stable system trending toward biological exhaustion on a timeline determined by injury accumulation and neurocognitive decline rather than by psychological change. The psychology will not change. The behavior will not change *in kind*. It will change *in scope* — narrowing operationally as the body permits less, broadening collaterally as cognition permits less precision.
+
+The growth path exists but is narrow, late, and contingent on conditions that historically have not been arrangeable for him: a bond he permits to outlast his severance, a containment he survives, a successor he trains without naming, a faith he re-enters without performing. None of these are impossible. None of them are likely.
+
+The catastrophe path is broader and more probable, and most of its variants involve harm distributed past his own person — collateral civilian cost, atrocity in his name by others, the iconographic appropriation he cannot suppress.
+
+The most useful single intervention point, if any party were positioned to attempt it, is **the 72–96 hours following a Fork 1 event**, which is the only window in which his foreclosure has historically shown observable strain. This window cannot be created. It can only be recognized when it arrives.
+
+He will not stop. He has told us this for fifty years and we have, correctly, believed him. The forward assessment is the assessment of how he continues, for how long, and at what cost to whom — not whether.
+
+*End Section 11. Continues: §12 — Counter-Intelligence & Approach Vectors.*
+
+## Relationship Graph
+### [[Maria Castle]]
+- Wife, deceased Central Park. Treated as ongoing internal object; graveside conversations across decades.
+- Failure mode: the *only* operational lever. Any credible offer to restore, contact, or avenge-beyond-current-scope produces anomalous receptivity. The Hand arc is the proof.
+- Leverage: weaponizable exactly once per offering entity - the bargain collapses, he learns, and the entity is then on the kill-list.
+
+### [[Lisa Castle]]
+- Daughter, deceased Central Park. Internal object; the protectorate reflex toward children is her displaced echo.
+- Failure mode: any harmed girl-child in operational radius will override discipline; adversaries who learn this bait him.
+- Leverage: cannot be used to *control* him - only to *direct* him toward whoever is harming the child.
+
+### Frank Castle Jr Son
+- Son, deceased Central Park. Namesake. Internal object; the protectorate reflex toward boys mirrors him.
+- Failure mode: same as Lisa - operational discipline collapses in the presence of harmed children.
+- Leverage: directional only.
+
+### [[Linus Lieberman (Microchip)]]
+- Long-term tech/logistics partner (Phase I-II). The closest sustained adult relationship post-loss.
+- Failure mode (realized in MAX): when Microchip attempted to redirect the mission or compromise the code, Castle executed him. The closer the bond, the more lethal the breach.
+- Leverage: model case for handlers - never try to *steer* him from inside the trust circle; the trust circle has terminal exit conditions.
+
+### Kathryn O Brien
+- MAX-era federal agent; brief sexual/operational entanglement.
+- Failure mode: intimacy with Castle does not survive proximity to operations; partners die or he departs.
+- Leverage: none sustainable - the relationship template self-terminates.
+
+### Lynn Michaels
+- Apprentice figure (Phase I). Dismissed/redirected.
+- Failure mode: he will not be the seed of an order; recruits are buried or sent home.
+- Leverage: none - he refuses to be the center of a network.
+
+### Detective Soap
+- MAX-era transactional contact; police-side back-channel.
+- Failure mode: tolerated only while non-interfering; would be evaded, not killed, on breach.
+- Leverage: model for safe operational contact - low intimacy, clear utility, no attempt at moral redirection.
+
+### [[Barracuda]]
+- MAX antagonist; mirror-figure (degraded version of operator-self).
+- Failure mode: atypical sustained rage; Castle accepts disproportionate damage (including eye loss) to ensure termination.
+- Leverage: mirror-figures can be deployed to degrade his tactical economy.
+
+### Jigsaw Billy Russo
+- Long-term antagonist; mirror-figure (vanity-disfigured by Castle, returns repeatedly).
+- Failure mode: same as Barracuda category - rage signature, willingness to absorb damage.
+- Leverage: same.
+
+### [[Matthew Michael Murdock (Daredevil)]]
+- Costumed-community recurring interlocutor; Catholic, lawyer, restraint-coded.
+- Failure mode: ideological irritant; never aligns, occasionally cooperates against shared target.
+- Leverage: can deliver messages Castle will hear flat-voiced without immediate withdrawal; cannot persuade toward restraint.
+
+### Spider Man Peter Parker
+- Earliest costumed contact; mutual contempt-respect.
+- Failure mode: Castle dismisses the no-kill ethic as luxury; Parker treats Castle as a problem.
+- Leverage: low - emotional appeals from costumed heroes bounce off.
+
+### Nick Fury And Handlers
+- Periodic institutional contact; military-deference substrate.
+- Failure mode: will execute discrete missions for verified-predator targets, refuses subordination, walks away on first compromise.
+- Leverage: respectful military-register communication and verified intelligence on predators; never status, money, or country.
+
+### The Hand Late Period
+- Briefly co-opted via the dead-family-restoration lever (Aaron 2022).
+- Failure mode: catastrophic - committed monstrous acts in service of the bargain.
+- Leverage: proof-of-concept that the dead-family lever can override the code temporarily; also proof that he metabolizes the betrayal and returns more entrenched, not less.
+
+### Costa Family Original Attackers
+- Targeted and destroyed across early canon.
+- Failure mode: their elimination did not close the mission - the predator-class category expanded to fill the vacancy.
+- Leverage: none - they are settled ledger.

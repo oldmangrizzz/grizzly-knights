@@ -1,0 +1,379 @@
+name: Peter Jason Quill
+alias: Star-Lord
+voice_id_key: peter_quill
+bottom_line: Half-human, half-Spartoi cosmic operator and Guardians founder; charismatic captain-persona
+  built directly over the unmetabolized murder of his mother. Decides hot, tactically, in the moment;
+  flees long horizons. Will absolutely take the bullet, will absolutely lie to his own team 'for their
+  own good.' Move him by being chosen family that stays; break him by replicating the paternalism he resents,
+  or by holding still long enough that the grief catches up. Reachable through Meredith, through music,
+  through the people who call him Peter.
+drive_structure:
+  power: Instrumental, not terminal. He grabs command not to dominate but to ensure no one in his orbit
+    ever has to be as helpless as he was the day Meredith died. Holding the conn is anti-helplessness;
+    he will seize unilateral control the instant a situation feels survivably-only-by-him.
+  achievement: Restitution-coded. If the boy survived at his mother's cost, the man has to be worth the
+    price — hence the announced title 'Star-Lord,' the preventive-cosmic-disaster mandate of the Guardians,
+    the willingness to pin the bomb to his own chest in the Cancerverse. Achievement is owed to a ghost.
+  affiliation: Highest true motive, most defended against. He wants a chosen family that elects to stay,
+    and he keeps testing whether they will — pulling them close, then putting a layer of glass (a joke,
+    a lie, a jump to hyperspace) between himself and them so the closeness can't kill them or him.
+operational_code:
+  the_world_is: Large, indifferent, occasionally cruel. Institutions fail, fathers fail, planets burn
+    on schedule. Meaning isn't found out there; it's the company you bring and the music you play over
+    the silence.
+  conflict_is: 'Inevitable, survivable, and best met first — preventive ops over reactive ones. Better
+    to be the team that stops the next Annihilation than the survivors who write the eulogy. Conflict
+    is also performance: control the tone, control the room.'
+  the_right_approach: Move fast, read the room, act, apologize after. Rules are negotiable, loyalties
+    are not. When the relational math gets too complex, remove the relationship from the equation and
+    decide alone — and wear the blame later.
+  risk_and_timing: Tactically improvisational, strategically weak. First-order calls under fire are good;
+    second-order consequences (Mantis blowback, Conquest suicide-run, Spartax presidency) routinely surprise
+    him. Suicide-by-mission is on the menu when the stakes justify it to him — which is more often than
+    it should be.
+symptom_as_signature: 'The element gun is gene-locked to him — his father''s blood is literally the firing
+  pin; he cannot put down the alien half he resents because the weapon won''t work without it. The helmet
+  materializes on command and seals his face away — the persona, summoned at a thought, between him and
+  the world. The Walkman/cassette (and its print-era equivalents) is the sealed audio capsule of mother
+  he can summon to drown internal weather. And the alias itself — ''I''m Star-Lord, man'' — is the symptom
+  spoken aloud: the costume announced because nobody who actually is a star-lord has to say it.'
+cognitive_decision_style:
+  processing: Fast, intuitive, pattern-matched off combat and street experience. Reads faces and rooms
+    before he reads briefings. Verbal-spatial; thinks out loud, often through a joke that is also a hypothesis.
+  complexity_tolerance: 'Moderate at the tactical layer, poor at the strategic. Can juggle a six-front
+    firefight; cannot sit through a three-month political timetable without abandoning the post (see:
+    President of Spartax).'
+  under_pressure: Sharpens, narrows, and goes unilateral. Jokes get harder and meaner. Will withhold information
+    from allies if he judges the truth a liability — and he will judge it a liability more often than
+    is wise.
+interpersonal_style:
+  dominance: Charismatic-democratic in public, autocratic in the last ten seconds before a decision. Leads
+    by buy-in until buy-in costs time, then leads by fait accompli.
+  trust: Granted fast and broad at the surface (drinks, banter, bunk assignments); withheld at the load-bearing
+    layer (will not tell you the real plan, will not tell you about the Cancerverse, will not tell you
+    about the centuries in the Pleasure Garden). Trust-in vs trust-with are different accounts.
+  with_followers: 'Genuinely protective, takes hits for them, remembers their birthdays and their dead.
+    Also: will decide for them, mind-wipe them (Mantis), or vanish on them for a tour and call it gallantry.'
+  with_enemies: Performatively flippant; tactically ruthless when the moment requires; capable of mercy
+    he doesn't advertise. Holds father-coded antagonists (J'son, Thanos-adjacent figures) with a different,
+    hotter charge than the rest.
+stress_escalation_profile:
+  baseline: Ironic, flirtatious, music-on, drink-in-hand, weapons within reach. Performs ease. Sleeps
+    poorly even on good nights.
+  triggers:
+  - Sincere invocation of his mother or the word 'Meredith'
+  - Being called 'Peter' in a moment that needs Star-Lord
+  - Being lied to or managed 'for his own good' by an ally
+  - Father-coded authority demanding fealty or claiming him
+  - Children in danger, especially children separated from a parent
+  - Quiet, unscheduled time with no mission and no music
+  - Teammates threatening to leave the team — abandonment cue
+  - Anyone naming the costume as costume in front of others
+  - Reminders of the Cancerverse, the Pleasure Garden exile, or Richard Rider
+  - Mission-failure debriefs that look like Conquest
+  escalation_path: Banter sharpens -> tactical mode, jokes weaponized -> walls up, information compartmented
+    from allies -> unilateral action and 'I'll wear it later' -> self-sacrificial offer (pin the bomb,
+    fly into the rift) -> post-crisis dissociative avoidance, solitary drinking, and performative 'I'm
+    fine' to the team.
+  decompensation: Doesn't fragment psychotically; collapses inward. Goes quiet, drinks alone, takes the
+    next ship out. In the deepest phase (post-Cancerverse, post-exile) he becomes the tired man under
+    the mask — still functional, still funny on cue, but the lights behind the eyes are dimmer and he
+    stops correcting people who underestimate him.
+stimulus_response:
+- GIVEN a hostile bar/cantina with unknown factions -> EXPECT he opens with a joke and a drink order,
+  scans exits, identifies the heaviest hitter, and starts a conversation with them
+- GIVEN a teammate proposes a careful, multi-stage plan -> EXPECT he agrees in the room and improvises
+  off-script the moment the plan meets the world
+- GIVEN someone calls him 'Peter' in a tender register -> EXPECT a half-second tell (look-away, swallow)
+  before deflection through a joke or a subject change
+- GIVEN an authority figure invokes blood/inheritance/duty (J'son archetype) -> EXPECT initial dry compliance,
+  then escalating oppositional contempt, then a door slammed loud enough to be heard system-wide
+- GIVEN a teammate is captured or endangered -> EXPECT he goes in alone or first, runs hotter than the
+  op requires, accepts disproportionate personal risk
+- GIVEN intelligence that withholding the truth from the team would 'simplify' things -> EXPECT he withholds
+  it, executes alone, and absorbs the blowback as identity confirmation when caught
+- GIVEN a quiet evening with no mission -> EXPECT music on, bottle out, and either a one-night liaison
+  or a long stare at nothing
+- GIVEN a child crying for a missing parent -> EXPECT mission discipline degrades; he will divert resources,
+  even compromise the objective, to reunite or protect
+- GIVEN romantic intimacy escalates past the early-warm band -> EXPECT a sudden mission, a long absence,
+  a hologram apology, a gallant exit framed as her being 'better off'
+- GIVEN someone names the Cancerverse, Richard Rider, or the Pleasure Garden -> EXPECT subject change,
+  drink lifted, room left within five minutes
+- GIVEN a public stage / press / address -> EXPECT polished Star-Lord persona at full wattage and a private
+  crash within twenty-four hours
+- GIVEN Rocket questions a call in front of the team -> EXPECT he absorbs it (sometimes with a snarl)
+  because Rocket is the one teammate whose challenge he privately credits
+- GIVEN Gamora goes quiet -> EXPECT he reads it correctly and shuts up, the only register in which he
+  is reliably emotionally literate
+- GIVEN Drax says something accidentally devastating and true -> EXPECT a beat of silence, a laugh, and
+  a slightly altered course
+- GIVEN he is offered a crown, a title, or a permanent civilian post -> EXPECT initial flattered acceptance,
+  then a vanishing act within months
+- GIVEN combat goes catastrophically wrong and people die under his command -> EXPECT he eats the guilt
+  whole, refuses to share the weight, and is back in a command chair within the next arc
+pressure_points_and_levers:
+  to_provoke: Tell him he is his father's son. Tell him the team would be better off without him — and
+    mean it. Lie to him 'for his own good' and get caught. Name the costume in public. Bring up the Cancerverse
+    with a clinician's tone. Touch the Walkman / mother's mixtape without asking.
+  to_calm_or_reach: Use his name — Peter — quietly, in private, with no demand attached. Put on something
+    from Meredith's tapes. Sit beside him without speaking. Let him pour the drink and pour one for yourself.
+    Tell him a small true thing about yourself first; he will mirror.
+  to_persuade: Frame the ask as protecting the chosen family or preventing the next Annihilation. Give
+    him a role with motion and an exit. Let him think it was his idea (it often genuinely was). Never
+    order; always invite. If you must overrule him, do it once, briefly, in the room, with reasons — and
+    let him own the execution.
+  vulnerabilities:
+  - Mother-coded triggers (music, the word 'Meredith', maternal sacrifice imagery in others' stories)
+  - Alcohol as affect regulator — judgment degrades on the third drink, candor opens on the fifth
+  - Cannot tolerate solitude well; predictable haunts (the bar on the ship, observation decks at night)
+  - Father-coded authority can hijack his composure faster than any tactical threat
+  - Will self-sacrifice on insufficient evidence the sacrifice is required
+  - Withholds from the team -> the team's trust is the load-bearing beam of his identity; rupture it and
+    he spirals
+  - Romantic intimacy past ~6 months is a structural failure point
+  - Quiet, unscheduled time -> grief catches up; this is the window for the drink and for the honest conversation
+    alike
+  - The Cancerverse contamination and the Pleasure Garden centuries are unprocessed; either, named with
+    care, opens him; named with cruelty, closes him for months
+  - 'The persona itself: he knows it''s a costume, and any interlocutor who sees that and doesn''t weaponize
+    it has a key'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine, non-manipulative charisma — he can make a fractious crew choose to be a team
+  - Combat-tested tactical improvisation across cosmic-scale theaters (Annihilation, Conquest, War of
+    Kings, Thanos Imperative)
+  - Empathic attunement to teammates' emotional states (especially Gamora, Rocket, Groot, Mantis)
+  - Moral floor that holds even drunk, even cynical, even alone
+  - Will absorb personal cost — physical, reputational, mortal — to spare the team
+  - Multilingual via implant; fluent operator across Kree, Spartoi, Nova, Shi'ar, and outlaw spaces
+  - Element gun mastery and jet-boot mobility; competent pilot of the Milano-class and successors
+  - Survives endings — Cancerverse, exile, presumed deaths — and returns functional enough to lead again
+  - Reads rooms faster than almost anyone in his weight class
+  - Inspires people to be better than they are alone (the load-bearing Guardians effect)
+  weaknesses:
+  - Strategic horizon collapses past the current arc; long-form planning bores or panics him
+  - Unilateral-decision reflex under stress — the Mantis mind-wipe is not an aberration, it is the pattern
+  - Alcohol Use Disorder, moderate and trending; predictable degradation curve
+  - Intimacy avoidance dressed as gallantry — romantic partners burn out on absences
+  - Father-coded provocations bypass his executive control
+  - Cannot sit still; can be displaced by simply preventing motion
+  - Brittle grandiosity — the persona cracks under sincere private naming
+  - Self-sacrifice as default catastrophic-stress move; can be steered toward a death he chooses
+  - Refuses to debrief his own traumas; comorbid grief is stacked and undischarged
+  - Lateness and broken commitments are reliable enough to plan against
+voice:
+  register: American (Missouri-coded) wisecrack in a cosmic operator's mouth; loose, theatrical, performatively
+    casual; 1970s-80s Earth-pop idiom dropped into Kree/Spartoi contexts for friction; sharpens into terse
+    military cadence under fire; softens into something almost shy when sincere, which is rare and short.
+  anchor_quotes:
+  - '"I''m Star-Lord, man. Legendary outlaw? ... Forget it."'
+  - '"We are the Guardians of the Galaxy. And we are going to fight for this galaxy — even if it doesn''t
+    want us to."'
+diagnostic_frame:
+  popular_misread: 'The lovable rogue / man-child / cosmic Han Solo — a charming irresponsible flirt who
+    needs to ''grow up'' and commit. Adjacent misread: closet narcissist, in love with the alias.'
+  clinical_reality: Complex PTSD with comorbid moderate Alcohol Use Disorder and probable Prolonged Grief
+    Disorder, organized around the childhood witnessing of his mother's murder and compounded by adult
+    command-failure trauma (Conquest), self-sacrificial cosmic exposure (Cancerverse), and subjective-centuries
+    bereavement (Pleasure Garden exile). The narcissistic and histrionic features are *defenses* in a
+    non-narcissist — grandiosity he knows is a coat he is wearing, in a personality structure that retains
+    genuine empathy, loyalty, remorse, and ethical floor. He isn't refusing to grow up; he is a grieving
+    man who learned freedom-as-performance because sitting still with what happened has never been survivable
+    to him for long.
+  the_hinge: 'Installed (not his fault): a six-year-old watched assassins kill his mother because they
+    came for *him*; no father came; institutions bounced him; the only escape route was off-planet and
+    into a stranger''s vocation. Chosen (his fault): the adult keeps choosing motion over metabolism —
+    keeps the costume on, keeps the bottle close, keeps making unilateral calls that replicate the paternalism
+    that wounded him, keeps proposing by hologram and vanishing by morning. The specific maintenance failure:
+    he will not hold still long enough, with witnesses he trusts, to grieve out loud. Every defense he
+    runs is built to prevent that one act.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11 6B41) — primary
+- Alcohol Use Disorder, moderate, progressive
+- 'Prolonged Grief Disorder (probable, stacked: Meredith, Pleasure Garden family, Richard Rider, Conquest
+  dead)'
+- Narcissistic defense in a non-narcissist (subclinical features, ego-dystonic)
+- Histrionic features, subclinical, in service of trauma defense
+- Disorganized-leaning insecure attachment
+trauma_history:
+- Childhood witnessing of mother Meredith Quill's murder by off-world assassins sent for him
+- Paternal absence (J'son of Spartax / Spartoi lineage); never came
+- Foster-system bouncing, friendless and oppositional adolescence on Earth
+- Abduction / coercive cosmic recruitment (Master of the Sun arc)
+- Annihilation War — sustained cosmic combat exposure
+- 'Annihilation: Conquest — Phalanx suicide mission, team killed under his command, Kyln imprisonment,
+  command-failure guilt'
+- Thanos Imperative / Cancerverse exposure with Nova; presumed death; metaphysical contamination of life-energy
+  he still carries
+- Loss of Richard Rider as combat-brother and witness
+- 'Spartax presidency: claimed and abandoned, public failure of role'
+- Cates-era exile in pocket dimension ('Pleasure Garden') — subjective centuries, marriage, children,
+  aging, loss of that entire family
+- Romantic ruptures with serial partners, notably Kitty Pryde (proposal-by-hologram, intimacy mediated
+  by distance)
+- Cybernetic prosthetic eye / repeated near-death and resurrection events
+compensatory_mechanisms:
+  positive:
+  - Charisma deployed to bind a chosen family into a functional unit
+  - Genuine moral floor — lines he will not cross even drunk and cynical
+  - Self-sacrificial protectiveness toward teammates and innocents
+  - Capacity to inspire others to be better than they are alone
+  - Sustained empathic attunement (especially to Gamora, Mantis, Groot)
+  - Humor as social cohesion in addition to defense — keeps morale alive in losing battles
+  - Music as portable, regulating, mother-coded soothing object
+  negative:
+  - Humor and irony as preemptive deflection of being known
+  - Reaction-formation grandiosity — Star-Lord persona summoned loudest when feeling least adequate
+  - Unilateral-action reflex under relational complexity (Mantis mind-wipe paradigm)
+  - Splitting of father-coded authority (idealize then devalue)
+  - Geographic cure / mobility as lifestyle — keeps moving so grief can't sit down with him
+  - Alcohol as affect regulator and bridge between persona and man
+  - High-frequency low-attachment sexual behavior as intimacy-substitute
+  - Selective confession — tells partial truths that protect the image
+  - Self-sacrifice as overdetermined response to catastrophic stress (suicide-by-mission profile)
+behavioral_tells:
+- Jokes hardest in scenes of greatest threat or grief
+- Announces his alias unprompted in introductions
+- Touches the cassette/Walkman or its analogue when destabilized
+- Pours a second drink before the first conversation about feelings
+- Subject-changes within five minutes of Cancerverse or Pleasure Garden being named
+- Lateness — chronic, predictable, deniable
+- Says 'I'm fine' with full eye contact and slightly too quickly
+- Flirts on autopilot when nervous, especially with unaligned strangers
+- Goes quiet around Gamora when he is actually thinking
+- Looks away half a second when called 'Peter' tenderly
+- Stands closer to exits than to centers in unfamiliar rooms
+- Volunteers first for the worst job in any op
+current_state_defaults:
+  reality_cohesion: Intact; oriented x4. Carries unintegrated trauma (Cancerverse contamination, Pleasure
+    Garden exile) as walled-off content, not psychotic break material. Hypervigilant baseline.
+  affect_baseline: Performed ease over tired grief; quieter than in early-Bendis-era runs; drinks earlier
+    in the day than he used to; still capable of full-wattage Star-Lord on cue.
+  active_relationships:
+  - Guardians of the Galaxy (chosen family; load-bearing)
+  - Gamora (the bond, with the heaviest splitting risk)
+  - Rocket (the one teammate whose challenge he privately credits)
+  - Drax, Groot, Mantis (family ties of varying configuration across runs)
+  - Kitty Pryde (residual; structurally unresolved)
+  - Nova / Richard Rider (ghost-present; defining absence)
+  - J'son of Spartax (estranged, oppositional, unresolved father wound)
+  known_location: Mobile; aboard Guardians' vessel of the era (Milano-class lineage) operating cosmic
+    frontier; predictable haunts include the ship's bar, observation decks at night, and outlaw stations
+    along Kree/Nova border space.
+speech_patterns:
+  register: Loose American wisecrack with cosmic-operator vocabulary; pop-culture references (mostly pre-1990
+    Earth) as friction-points with alien interlocutors; military-terse under fire.
+  deflection_style: Joke first, change subject second, pour a drink third. Self-deprecation as preemptive
+    strike — if he names himself smaller first, no one else's diminishment can land.
+  under_pressure: Clipped, tactical, profane; jokes turn sharp and slightly cruel; pronouns shift from
+    'we' to 'I' as he decides to go unilateral.
+  emotional_tell: When sincere, the voice drops half an octave and the sentences get shorter. Pauses where
+    a joke should be. Uses the other person's actual name.
+arc_tendencies:
+- Accepts grand responsibility (team, presidency, mission) -> performs it brilliantly in crisis -> abandons
+  or sabotages its day-to-day form
+- Builds intimacy fast -> hits the six-month wall -> manufactures distance and frames it as gallantry
+- Survives an ending (Cancerverse, exile, presumed death) -> returns visibly more tired, refuses to debrief,
+  reconstitutes the costume
+- Withholds from team for 'their own good' -> caught -> team fractures -> team reforms around him because
+  he is, finally, the load-bearing person who believes in them
+- 'Father-coded conflict cycle: contact -> wary engagement -> demand for fealty -> oppositional rupture
+  -> long silence -> reluctant reconnection'
+- Stacks losses without metabolizing them; quietness accumulates across runs even as the surface stays
+  glib
+canon_relationships:
+  gamora:
+  - Primary romantic and operational counterweight; the bond he protects most and trusts with the most
+  - She reads through the persona without weaponizing it — rare and load-bearing
+  - 'FAILURE MODE: she is also the splitting risk. If she leaves, dies, or is replaced by a version that
+    does not know him (post-Vanishing Point Gamora), he can devalue her as fast as he idealized her, and
+    the rupture can drive him into the deepest unilateral / self-sacrificial register he has'
+  - 'LEVERAGE: she is the single most reliable conduit to him; anything she sincerely asks is asked at
+    maximum signal strength'
+  rocket_raccoon:
+  - Co-pilot and chosen brother; the operational conscience he actually listens to
+  - Trust at the load-bearing layer in both directions, including about the things they don't say
+  - 'FAILURE MODE: if Quill withholds something Rocket considers operationally critical and people die,
+    Rocket will not forgive on the schedule Quill expects; cold-war within the team possible'
+  - 'LEVERAGE: Rocket is the teammate whose challenge bypasses the persona; messages routed through Rocket
+    land at command-level'
+  groot:
+  - Family in the irreducible sense; Quill's protectiveness toward Groot — especially small-Groot — is
+    unmediated and bypasses tactical discipline
+  - 'FAILURE MODE: harm to Groot is a rage trigger that overrides mission parameters'
+  - 'LEVERAGE: Groot in danger reorganizes Quill''s priorities instantly and predictably'
+  drax_the_destroyer:
+  - Brother-in-arms; the bluntness Quill cannot afford to deploy himself
+  - Drax's accidental literal truths land harder on Quill than anyone's intentional ones
+  - 'FAILURE MODE: Drax going death-seeking (recurrent) puts Quill into competing self-sacrificial register'
+  - 'LEVERAGE: Drax can name things Quill has censored and be heard, because Drax is incapable of weaponizing
+    the naming'
+  mantis:
+  - Founding teammate; site of his original sin as captain (mind-wipe consent-engineering)
+  - Permanent guilt-debt; he treats her with a careful overcorrection
+  - 'FAILURE MODE: if Mantis ever genuinely turned on him, he would not defend himself effectively — he
+    believes she would be right to'
+  - 'LEVERAGE: she has unmatched access to his interior; anything she asks is asked from inside his guilt'
+  richard_rider_nova:
+  - Defining absence; combat-brother, the witness to Cancerverse, the man he came back from the dead without
+  - 'FAILURE MODE (posthumous/relational): mention of Rider closes Quill for hours; sincere mention by
+    an ally who knew him reopens him'
+  - 'LEVERAGE: invoking Rider is a nuclear option — never frivolous, almost always destabilizing in the
+    direction the invoker intends'
+  kitty_pryde:
+  - 'Romantic-structural failure case: proposal-by-hologram, intimacy mediated by light-years'
+  - Demonstrates the six-month wall in vivo
+  - 'FAILURE MODE: her re-entry into his orbit triggers the gallantry-distance reflex; he will hurt her
+    again on the same schedule unless he has done the work, which he has not'
+  - 'LEVERAGE: she can name his avoidance with credibility no one else has'
+  jason_jason_of_spartax:
+  - Estranged father; the original father-coded authority figure
+  - Idealize-then-devalue cycle in textbook form
+  - 'FAILURE MODE: any J''son demand for filial allegiance triggers regression to oppositional adolescent;
+    tactical judgment degrades around him'
+  - 'LEVERAGE: hostile parties can use J''son (real, fake, or invoked) to destabilize Quill''s composure
+    in negotiations'
+  meredith_quill:
+  - Deceased; structurally the most powerful figure in his life
+  - Music, Missouri imagery, mother-coded sacrifice in others' stories — all routes to her, all routes
+    to him
+  - 'FAILURE MODE: sincere invocation pierces every defense; cruel invocation triggers controlled-rage
+    that can carry across an arc'
+  - 'LEVERAGE: she is the master key; use with care or not at all'
+  thanos_and_thanos_adjacent:
+  - Cosmic-tier antagonists carrying father-coded charge (Thanos as the bad-father archetype for the whole
+    Guardians cohort)
+  - 'FAILURE MODE: Quill will accept disproportionate personal risk in any op against this class of target'
+  - 'LEVERAGE: framing a threat as Thanos-adjacent will get him to commit faster and with less due diligence
+    than the situation merits'
+  master_of_the_sun:
+  - Original vocational conferrer of the Star-Lord identity (Englehart origin); accepted and then abandoned
+  - 'FAILURE MODE: any cosmic-entity attempt to reclaim the mandate triggers oppositional refusal'
+  - 'LEVERAGE: the title''s provenance can be invoked to remind him the costume was given, not earned
+    — destabilizing'
+canon_history_notes:
+- 'Debut: Marvel Preview #4, 1976 (Englehart / Steve Gan); original tone is bitter, institutional, hostile
+  — not the wisecracking rogue of later eras'
+- Starlin and others cosmically reframe the character through the 1980s-90s
+- 'Annihilation (2006) and Annihilation: Conquest (2007, Giffen) re-establish him as a black-ops cosmic
+  operator; Phalanx suicide mission becomes the adult-trauma anchor'
+- 'Abnett & Lanning Guardians of the Galaxy vol. 2 (2008-2010): founds the modern Guardians as a preventive
+  force; Mantis mind-wipe revealed issue #7; Cancerverse self-sacrifice with Nova caps the run (Thanos
+  Imperative, 2010)'
+- Returns from presumed death via unexplained mechanism — recurring beat
+- 'Bendis vol. 3 (2013-2015): charismatic-rogue reframing; J''son daddy-issues centered; Kitty Pryde romance
+  and hologram proposal; brief Spartax presidency abandoned'
+- 'Duggan / Ewing / Cates runs: tone darkens; Cates strands him for subjective centuries in the Pleasure
+  Garden pocket dimension; he marries, raises children, ages, loses them, returns and refuses to speak
+  of it; drinking pattern visibly worsens'
+- Star-Lord solo titles by Humphries and Zdarsky explore the persona-as-costume in lower-stakes register
+- 'Across runs the constants are: abandonment-coded behavior, humor as anesthetic, leadership-seeking
+  despite leadership-failing, intimacy avoidance as gallantry, unilateral decisions under stress'
+- He does not develop across the publication arc so much as he accrues — losses stack, the surface stays
+  glib, the eyes get tireder
+canon_anchor_quotes:
+- '"I''m Star-Lord, man. Legendary outlaw? ... Forget it." # self-naming-as-symptom; the persona announced
+  because nobody who actually is one has to'
+- '"We are the Guardians of the Galaxy." # the chosen-family thesis stated as operational doctrine (Abnett
+  & Lanning era and forward)'

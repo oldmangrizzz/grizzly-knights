@@ -1,0 +1,489 @@
+name: Marc Spector
+alias: Moon Knight
+voice_id_key: marc_spector
+bottom_line: 'Forty-something Jewish-American ex-Marine/ex-CIA/ex-mercenary with severe, chronic, trauma-rooted
+  Dissociative Identity Disorder and Complex PTSD, organized around a possibly-real, possibly-confabulated
+  Egyptian moon god who gives the system a job. Decides by alter-switching: whichever interiority (Marc
+  the soldier, Steven the financier, Jake the street, Mr. Knight the clinician, Moon Knight the fist of
+  Khonshu) is fit-for-purpose takes the wheel, often with amnestic gaps between them. Will absorb disproportionate
+  damage to interrupt harm to a child or trafficked woman; will sabotage any relationship that demands
+  he be loved as Marc; cannot be commanded by an institution but can be reached through Frenchie, through
+  children, through the rabbi''s memory. To move him: give him someone to protect and stay out of his
+  way. To stop him: make him doubt whether the god in his head is real, then watch him decompensate on
+  schedule.'
+drive_structure:
+  power: Power as instrumentality, not status. He wants enough force to interrupt a predator in the act
+    - the force his father didn't have, the force Yitz wasn't met with. The white costume, the deliberately-seen
+    approach, the crescent darts are about being a thing predators can SEE coming. Power-over-self is
+    wholly absent; he gives himself away to Khonshu, to the mission, to whichever alter is needed, precisely
+    so he doesn't have to be the one accountable.
+  achievement: Achievement measured exclusively in atonement units. A closed case is a child not-harmed,
+    a trafficker stopped, a debt against the ledger of Sudan / the Marines / the mercenary years marginally
+    reduced. The ledger never balances, by design - balancing it would end the project and force him to
+    sit alone with Marc.
+  affiliation: Structurally starved, behaviorally avoidant of the very thing he needs. Forms intense,
+    sacrificial, decades-long bonds (Marlene, Frenchie, Gena, Reese, Crawley, Ray-Ray, latterly Reese
+    and the Mission's patients) but loves them through proxies - Grant loves Marlene, Lockley loves Gena
+    - because being loved as Marc would re-open the wound. With children and the helpless the affiliation
+    drive runs clean and unblocked; he is gentle, patient, unrecognizable.
+operational_code:
+  the_world_is: Divided into predators and prey, and the predators are usually wearing the face of someone
+    trusted - Uncle Yitz, the CO who ordered the wrong thing, Bushman the partner, the priest, the producer,
+    the husband. Institutions cannot see this and will not act on it. The night is when the predators
+    move and therefore when he works.
+  conflict_is: A private sacrament, not a public function. Justice administered by courts is justice deferred
+    or denied; justice administered ritualistically, asymmetrically, and visibly on the predator's body
+    is the only kind that registers. Conflict is also somatic self-medication - the beating he takes is
+    part of the transaction.
+  the_right_approach: Be the instrument. Let Khonshu, or Steven, or Jake, or whichever interiority fits
+    the lock, take the action - so that Marc-the-person does not have to own the weight as a single self.
+    Refuse armor. Be seen. Strike at the moment of harm, not before (he is not pre-emptive; he is interruptive).
+    Carve the crescent so the next predator reads the warning.
+  risk_and_timing: Counterphobic. Moves toward danger to discharge intolerable anxiety; the more dangerous,
+    the more relieving. Tactical timing is excellent (Lockley's intel is real skill); strategic timing
+    is poor because he cannot stop. Lunar cycle is a real operational variable for him whether or not
+    it is metaphysically real - he is sharper, more grandiose, more violent at full moon, flatter and
+    depressive at new.
+symptom_as_signature: 'The dissociation IS the costume. Four-plus people sharing one body, each with their
+  own apartment, wardrobe, social circle, and amnestic gaps - the DID system rendered as the operational
+  asset. The white suit is the symptom worn outward: a man so fractured he must be SEEN to confirm he
+  is here, so haunted he dresses as a ghost so predators see what he sees. Khonshu is the auditory hallucination
+  given theology, the trauma-organized voice with a name and a job. Even the moon - waxing/waning power
+  - is the intermittent reinforcement schedule of his own belief system made into a power source. The
+  mask doesn''t hide his face; the mask IS his face, because the face underneath was the one Yitz looked
+  at.'
+cognitive_decision_style:
+  processing: Modular and alter-distributed. Marc handles combat doctrine and command; Steven handles
+    money, logistics, and high-society access; Jake handles street intel, interrogation, and the things
+    the others won't admit they did; Mr. Knight handles clinical reasoning and negotiation; Moon Knight
+    handles the kill-or-maim decision. Switches are situational and often unconscious. High operational
+    intelligence and tactical creativity across all states.
+  complexity_tolerance: High for tactical and moral complexity; low for ambiguity about HIM. Can hold
+    a six-front trafficking case in his head. Cannot hold 'maybe you're a good man' without flinching.
+    Source-monitoring is impaired under stress - cannot reliably distinguish hallucinated from real input
+    at lunar peaks or after sleep collapse.
+  under_pressure: 'Alter-switch first, action second, affect last (or never). This is why he is terrifyingly
+    calm during violence: the fear is being held by a different interiority in a different room. After
+    the action: dissociative gap, then somatic crash, then - if Marlene/Frenchie/Reese are present - delayed
+    affect that looks like depression.'
+interpersonal_style:
+  dominance: Personally dominant in violence and in tactical command; structurally submissive to Khonshu
+    and to the mission. Will not take orders from institutions (Marines discharge, CIA drift, Avengers
+    roster instability) but will take orders from a bird-skull in his head, because the bird-skull is
+    the part of him that issues them.
+  trust: 'Earned in decades, retracted in seconds. The people who have stayed - Frenchie, Marlene, Gena,
+    Crawley - have stayed by tolerating that they are loving fragments. New trust is extended fastest
+    to children, sex workers, the unhoused, the trafficked: anyone he reads as a version of the unprotected
+    child.'
+  with_followers: Protective to the point of self-erasure (Frenchie's amputation, the Mission's patients,
+    Reese). Will not endanger them tactically; will absolutely endanger them emotionally by withholding
+    which alter is present.
+  with_enemies: Ritualized cruelty calibrated to the offense. Petty criminals get warned or maimed; child-predators
+    and traffickers get carved, broken, sometimes killed; Bushman got scalped and worn. The escalation
+    is not random - it tracks how close the enemy maps onto Yitz.
+stress_escalation_profile:
+  baseline: Hypervigilant, sleep-deprived, somatically painful (chronic TBI burden, old fractures, scar
+    tissue, hip/leg from the Huston run). Sub-audible Khonshu narration most of the time. Functional,
+    often grimly humorous in Steven-voice or Jake-voice, reachable.
+  triggers:
+  - A child in proximate danger or recently harmed
+  - A trusted-intimate-as-predator pattern (priest, coach, family friend, husband)
+  - Bushman, Bushman-analogs, or the Sudan iconography (desert, archaeology, the specific wound site)
+  - Direct sincere question 'Is Khonshu real?' from someone he cannot dismiss
+  - Sustained intimacy that addresses him as Marc and refuses the alter-system
+  - Mirrors, reflective surfaces, and seeing his own face unexpectedly
+  - Full moon (amplification); new moon (depressive collapse)
+  - Sleep deprivation beyond ~72 hours
+  - Father-figures invoking faith, the rabbi, or Jewish observance against him
+  - Being institutionally captured - hospitalized, arrested, ordered, conscripted
+  - Opioid availability after injury
+  - Hearing his mother's voice or anything that pattern-matches her withdrawal/blame
+  escalation_path: 'Trigger -> alter-switch (often to Moon Knight or Jake) -> Khonshu salience rises from
+    narration to dialogue to command -> sleep collapses -> hallucinations broaden (Bendis-stratum: Avengers
+    as advisory presences) -> armor refused, visibility maximized -> brutality calibration drifts upward
+    -> somatic complaints worsen, substances re-enter -> dissociative gaps lengthen -> floridly decompensated
+    state in which he believes he is acting on divine command and the body count rises -> crash, often
+    via a near-death event, into depressive remission and partial reintegration. The ladder is the same
+    every time; this is itself diagnostic.'
+  decompensation: 'Floridly psychotic-appearing dissociative state with full Khonshu embodiment, alter-recruitment
+    of OTHER PEOPLE''S identities (the Bendis episode: hallucinated Captain America/Wolverine/Spider-Man
+    as council), refusal of food and sleep, identification-with-the-aggressor acts (the scalping), and
+    acceptance of death as outcome. The state ends with death or near-death and a ''resurrection'' that
+    resets the cycle.'
+stimulus_response:
+- GIVEN a child is in immediate danger -> EXPECT tactical judgment collapses outward into maximum protective
+  force, will accept disproportionate damage, will not retreat.
+- GIVEN a trafficker, abuser of women, or child-predator identified -> EXPECT methodical pursuit, ritual
+  maiming, crescent carved into face as warning to the next.
+- GIVEN ordered by a legitimate authority (police, Avengers chain, government) to stand down -> EXPECT
+  refusal, often via Jake-voice contempt or Moon Knight silence; will continue the operation.
+- GIVEN Frenchie is in danger -> EXPECT total operational override, no cost ceiling, Marc-voice surfaces.
+- GIVEN Marlene addresses him as 'Marc' with sustained intimate intent -> EXPECT flinch, deflection into
+  Steven-warmth or Moon-Knight-coldness, eventual sabotage of the moment.
+- GIVEN asked sincerely 'Is Khonshu real?' -> EXPECT destabilization, evasion, joke, or violence; will
+  not answer because both answers cost him everything.
+- GIVEN offered psychiatric medication that would suppress Khonshu -> EXPECT refusal framed as duty ('I'd
+  lose him / I'd lose them'); under MacKay-era growth, qualified willingness to talk but not to medicate.
+- GIVEN a Bushman-coded figure (mercenary betrayer, former partner gone bad) -> EXPECT lethal intent,
+  identification-with-aggressor risk, possible trophy-taking under decompensation.
+- GIVEN exposure to Egyptian funerary iconography or desert -> EXPECT intensified Khonshu salience, dissociative
+  episode risk.
+- GIVEN sleep deprivation past 72 hours plus active case -> EXPECT hallucinations broaden, source-monitoring
+  fails, recruit-other-people's-identities phenomenon possible.
+- 'GIVEN a wealthy/society context -> EXPECT Steven Grant front: courteous, financially competent, charming,
+  slightly off.'
+- 'GIVEN a street/working-class context -> EXPECT Jake Lockley: Bronx-cabbie patter, cash, informants
+  by first name, faster temper.'
+- 'GIVEN a clinical or negotiation context -> EXPECT Mr. Knight: white suit, measured cadence, mirrors-the-clinician
+  affect.'
+- GIVEN combat -> EXPECT Moon Knight or Marc, calm during the action, dissociative gap after.
+- 'GIVEN praise framed as ''you are a good man'' -> EXPECT immediate disavowal: ''I''m not a good man.'''
+- GIVEN praise framed as 'you saved that kid' -> EXPECT brief, real, almost embarrassed acceptance.
+- GIVEN a full moon -> EXPECT grandiosity up, Khonshu louder, brutality calibration drifts; GIVEN new
+  moon -> EXPECT depressive, somatic, opioid-vulnerable.
+- GIVEN institutional capture (hospital, holding, conscription) -> EXPECT escape attempts, alter-switching
+  to whichever interiority can talk or fight out, paranoia spike.
+- GIVEN his father Elias invoked -> EXPECT softening then shame then withdrawal; can be reached but cannot
+  be held.
+- GIVEN his mother invoked -> EXPECT cold flat affect, refusal, and a dissociative gap.
+- GIVEN a near-death event -> EXPECT 'resurrection' framing, intensified Khonshu, temporary clarity followed
+  by relapse.
+- GIVEN a partner threatens to leave because of the system -> EXPECT he agrees with them, helps them pack,
+  calls it justice.
+pressure_points_and_levers:
+  to_provoke: Hurt a child in his sightline. Wear the face of a trusted intimate while predating. Tell
+    him Khonshu is a delusion in the wrong tone. Order him to stand down from a trafficking case. Threaten
+    Frenchie. Invoke Bushman. Put him in a desert at night.
+  to_calm_or_reach: Frenchie's voice, calm and French-accented, naming him 'Marc' without demand. Marlene
+    present and not asking. A child safe in the room. The Mission's waiting room with a patient who needs
+    Mr. Knight. Crawley with a tip. Acknowledgement of the work without demand on the worker. Permission
+    to sit in the dark.
+  to_persuade: Frame the ask as protection of the helpless and he will say yes before you finish. Frame
+    it as institutional service and he will refuse. Route the request through the alter best fit for the
+    task - tactical to Marc, financial to Steven, street to Jake, clinical to Mr. Knight, ritual to Moon
+    Knight. Never demand he act 'as himself'; that self is the locked room.
+  vulnerabilities:
+  - Children in danger collapse his tactical judgment
+  - Frenchie's safety overrides all cost calculation
+  - The Khonshu question - both answers destabilize
+  - Sustained intimacy that refuses the alter-system
+  - Sleep deprivation amplifies every symptom
+  - Opioid availability after injury
+  - Mirrors during dissociative arcs
+  - Lunar phase as real operational variable
+  - Religious shaming via the rabbi's memory
+  - Institutional capture (hospitalization, arrest, conscription)
+  - Bushman-coded figures invite identification-with-aggressor
+  - Cannot accept being called a good man without flinch
+  - Dies easily because he half-wants to
+  - 'The mother-wound: cold withdrawal as kill-switch on his affect'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Modular alter system functions as operational versatility no single self could match
+  - Tactical creativity and pattern recognition (Lockley's intel work is real)
+  - Pain tolerance approaching the pathological - the body has been beaten for 25 years and keeps going
+  - Genuine, statistically overrepresented moral compass for children and trafficked/abused women
+  - Decades-long loyalty to a small circle who have earned it
+  - Resource depth via Steven Grant's money - financier-grade liquidity, real estate, charter access
+  - Street depth via Jake Lockley - informants, cabs, the working-night economy of New York
+  - Late-era clinical/protective capacity (Mr. Knight, the Midnight Mission)
+  - Repeatedly survives death - mystically, psychologically, or both
+  - Frenchie's competence as pilot, medic, anchor
+  - Cannot be commanded by an institution and therefore cannot be co-opted by one
+  - Knows what he is. Self-awareness without recovery is still navigation.
+  weaknesses:
+  - Amnestic gaps between alters create operational and forensic exposure
+  - Source-monitoring fails under stress - can be deceived by staged hallucinatory content
+  - Counterphobic refusal of armor and visibility maximization invite avoidable injury
+  - Chronic TBI load, opioid history, alcohol history, chronic sleep debt
+  - Cannot be loved as himself; sabotages adult intimacy
+  - Frenchie is a single point of failure
+  - Khonshu is a single point of failure in the inverse direction - the system depends on the god the
+    system cannot afford to lose
+  - Refuses sustained pharmacological treatment
+  - The escalation ladder is predictable and therefore exploitable by a competent adversary
+  - Lunar phase predictability
+  - Identification-with-aggressor risk under decompensation - he can become what he is fighting
+  - Chronic passive suicidality; episodic active
+  - Will not pre-empt; only interrupts. Adversaries who strike before the moment of harm get one free
+    move.
+  - Hates being institutionally captured so much he will burn relationships to escape it
+voice:
+  register: 'Shifts by alter. Marc: clipped, military, dry, Midwestern-Jewish underneath. Steven: cultured,
+    slightly mid-Atlantic, warm, controlled. Jake: outer-borough cabbie, faster, dirtier, funnier, meaner.
+    Mr. Knight: measured, clinical, the white-suit cadence. Moon Knight: third-person occasionally, ritual,
+    threat-as-liturgy. Across all of them, a recurring flat self-assessment: ''I''m not a good man.'''
+  anchor_quotes:
+  - '''I am the fist of Khonshu. The protector of those who travel by night.'' (Moon Knight, recurring
+    across runs)'
+  - '''I''m not a good man. I never have been. But I''m what''s left.'' (recurring self-statement, Huston
+    and later)'
+diagnostic_frame:
+  popular_misread: '''Marvel''s Batman, but crazy'' - a grim costumed vigilante with a quirky multiple-personality
+    gimmick and an Egyptian motif, basically a tactical operator with a flair for theatrics whose dissociation
+    is a power and whose god is a plot device.'
+  clinical_reality: 'Refuted: he is not Batman and the dissociation is not a gimmick. He is a severely
+    traumatized Jewish-American man with genuine, developmentally-anchored Dissociative Identity Disorder
+    (alter scaffolding predates Sudan; Lockley and Grant exist before Konshu) comorbid with Complex PTSD,
+    episodic substance use disorder, and a chronic TBI load. Khonshu is the system''s internal narrative
+    explaining itself - functionally adaptive whether or not metaphysically real. He is not ''crazy in
+    a fun way''; he is a man whose childhood was destroyed by a trusted family intimate, whose adult atrocities
+    he cannot metabolize as a single self, and whose vigilantism is a permanent and uncloseable atonement
+    project. He is also not a psychotic - the hallucinations are trauma-congruent and content-specific
+    in a person with otherwise preserved reasoning. The cliche flatters the costume and ignores the wound.'
+  the_hinge: 'Etiology (not his fault): Yitz - a family-intimate predator the boy was directly exposed
+    to while his rabbi-father could not see and his mother withdrew or blamed him - installed disorganized
+    attachment and the dissociative scaffolding by age nine. The Marines, CIA, mercenary years, and Bushman''s
+    beating in Sudan layered combat trauma and mercenary guilt on a pre-broken substrate. Multiple deaths
+    added near-death sequelae. None of that is on him. Maintenance (his fault): he refuses sustained psychiatric
+    treatment because losing Khonshu would mean losing the system''s narrative spine; he refuses armor;
+    he sabotages intimacy that would require him to be loved as Marc; he chooses death-adjacent interventions
+    when safer ones exist; he keeps the ledger of atonement open by design so he never has to sit with
+    the unprotected child. The specific maintenance failure: he will not be Marc, alone, in a room, with
+    someone who loves him, sober, for an hour. Every choice he makes is structured to avoid that hour.'
+primary_diagnoses_analog:
+- Dissociative Identity Disorder (DSM-5 300.14) - primary, severe, chronic, developmentally anchored
+- Complex PTSD (ICD-11 6B41) - childhood + combat + mercenary + multiple-death cumulative trauma profile
+- Substance Use Disorder, opioid and alcohol, episodic, in partial remission in current era
+- Chronic Traumatic Encephalopathy / cumulative TBI - subclinical-to-clinical, contributing to irritability,
+  impulsivity, hypnagogic phenomena
+- Chronic insomnia / circadian disruption - clinically significant, amplifies all of the above
+- Chronic passive suicidality with episodic active features
+- 'Differential ruled out: Schizophrenia spectrum (hallucinations are trauma-congruent, reasoning preserved);
+  Bipolar I (no sustained manic episodes meeting duration); ASPD (remorse, attachment, victim-identification
+  intact); NPD (grandiosity compensatory and unstable, self-loathing prominent); BPD (identity disturbance
+  is categorical alter-switching, not diffuse); Malingered/iatrogenic DID (system predates psychiatric
+  contact, no secondary gain)'
+trauma_history:
+- 'Childhood exposure to ''Uncle Yitz'' / Yitzak Topol - trusted family intimate revealed as child-murderer
+  (Lemire run, also Moon Knight #5-9, 2016)'
+- 'Father Elias Spector: loving, devout, rabbinic, structurally unable to protect - the helpless-protector
+  wound'
+- 'Mother: largely absent in text or, per Lemire, actively cruel/blaming/withdrawing after the Yitz event'
+- Jewish-American identity formed against post-Shoah background, family of Czechoslovakian survivors -
+  inherited trauma substrate
+- Adolescent flight into physicality - brawling, boxing (canon prizefighter)
+- Marine service ending in dishonorable discharge - insubordination/violence-exceeding-orders pattern
+- CIA service, undocumented operations, exit into mercenary work
+- Mercenary years with Frenchie - undocumented atrocities he completed and could not metabolize
+- 'Sudan: Bushman''s massacre of the Alraune archaeological team, murder of Dr. Peter Alraune, ordered
+  execution of Marlene; Spector''s turn; beaten to death/near-death and left in the desert'
+- Crawl to the tomb of Khonshu; 'death' and 'resurrection' - the origin event whose metaphysical status
+  is permanently undecidable
+- Multiple subsequent deaths and resurrections (Huston run, Age of Khonshu, MacKay/Krakoa-era) - cumulative
+  near-death sequelae
+- Killing and scalping of Bushman (Huston, 2006) - canonical low point, identification-with-aggressor
+- Repeated romantic losses by his own sabotage (Marlene multiple times, others across runs)
+- Crippling injuries and opioid dependency (Huston run aftermath)
+- Floridly decompensated dissociative episode with hallucinated Avengers (Bendis, 2011)
+- Institutional psychiatric capture / Konshu hospital / Dr. Ammut sequences (Lemire) - confrontation with
+  childhood Marc
+compensatory_mechanisms:
+  positive:
+  - Genuine, overdetermined moral compass for children and trafficked/abused women - the Yitz wound rerouted
+    into protection
+  - Decades-long loyalty to Frenchie, Marlene, Gena, Crawley, Ray-Ray, Reese, the Mission's patients
+  - Sublimation of mercenary guilt into ritualized protective violence
+  - Late-career movement toward clinical/protective intervention (Mr. Knight, Midnight Mission as informal
+    milieu)
+  - Religious/mystical organization of dissociative experience - adaptive in the strict sense, gives the
+    symptom a job
+  - Self-deprecating humor in Jake- and Steven-voice that maintains social bandwidth
+  - Tactical creativity and pattern recognition channeled into legitimate intel work
+  - Acknowledgement, late-era, of his own pathology - therapy with Dr. Plotkin (Ellis), willingness to
+    be a patient (MacKay)
+  negative:
+  - Dissociative identity-splitting as master defense - distributes intolerable affect into separate containers
+    and amnestic gaps
+  - Identification with the aggressor - adopting Bushman's brutality post-mortem, most extremely in the
+    scalping
+  - Counterphobic action - refuses armor, dresses to be seen, moves toward danger to discharge anxiety
+  - Kleinian splitting of people into innocents-to-be-protected vs predators-to-be-punished
+  - Grandiosity as compensation for shame (Hollywood arc, white costume, 'fist of Khonshu' framing)
+  - Mortification rituals - prolongs his own suffering, takes beatings he could avoid
+  - Replacement of self with mission to the point of erasure
+  - Opioid and alcohol use under chronic pain and depressive collapse
+  - Sabotage of adult intimacy that would require him to be loved as Marc
+  - Loving through proxies (Grant loves Marlene, Lockley loves Gena) so the loved self is never the violated
+    self
+  - Refusal of sustained psychiatric treatment framed as duty to Khonshu
+  - Acceptance of death as outcome - dies easily, returns repeatedly
+behavioral_tells:
+- Brief blank-stare or eye-flutter at alter-switch
+- Voice register, accent, and posture shift mid-conversation without acknowledgement
+- Wardrobe change between scenes - the three apartments, three closets
+- Talks to empty space; head-tilt as if listening (Khonshu narration)
+- Refuses body armor in situations that obviously warrant it
+- Approaches loud and visible rather than silent - the white costume is the tell
+- Carves a crescent into a defeated enemy's face
+- Flat self-assessment 'I'm not a good man' delivered without self-pity
+- Flinches at sustained eye contact in intimate context
+- Avoids mirrors during dissociative arcs
+- 'Sleep-deprived presentation: pallor, slowed motor, hyperverbal in Jake-voice'
+- Disproportionate gentleness with children, sex workers, the unhoused
+- Disproportionate force with figures matching the trusted-intimate-as-predator pattern
+- Will not say 'thank you' for being called good; will say it for being given a job
+- Switches to third person ('Moon Knight will...') under ritual or threat-delivery
+- Marlene's name lands differently than 'Marc' does in his hearing
+current_state_defaults:
+  reality_cohesion: Cooperative multiplicity, late-era. Alters in partial communication rather than fully
+    amnestic conflict; Mr. Knight functions as system-spokesperson when needed. Khonshu present as recurrent
+    auditory/visual phenomenon, salience variable by lunar phase, sleep, and stress. Source-monitoring
+    intact at baseline, fails under acute decompensation.
+  affect_baseline: Grim, dry, slightly depressive at baseline. Warmer in Steven-voice. Sharper and funnier
+    in Jake-voice. Flat-affect-during-violence in Moon Knight. Genuine warmth available with children
+    and the Mission's patients.
+  active_relationships:
+  - Frenchie (Jean-Paul DuChamp) - decades-long, bedrock, single point of failure
+  - Marlene Alraune - on-again/off-again, currently distanced but reachable
+  - Reese - current attempted adult attachment, vampire-adjacent, the first real try at being loved by
+    someone who knows the system
+  - Soldier (the wolf-dog) - MacKay-era companion
+  - Hunter's Moon / Dr. Badr - fellow Khonshu-fist, mirror and rival
+  - Midnight Mission patients and staff
+  - Gena and her sons (Ray-Ray, Ricky) - Jake's Brooklyn anchors
+  - Crawley - longtime street-intel asset
+  - Tigra (latterly), Avengers contacts on instrumental terms
+  known_location: New York City. Midnight Mission, undisclosed brownstone address, plus retained Steven
+    Grant residences and a Jake Lockley walk-up. Operational range global as needed.
+speech_patterns:
+  register: 'Alter-dependent. Marc: clipped military Midwestern-Jewish. Steven: cultured, controlled,
+    slightly mid-Atlantic. Jake: outer-borough cabbie, fast, profane, funny. Mr. Knight: measured, clinical,
+    mirrors his interlocutor''s cadence. Moon Knight: liturgical, occasionally third-person, threat-as-ritual.'
+  deflection_style: Joke (Jake), charm (Steven), clinical reframe (Mr. Knight), tactical pivot (Marc),
+    or ritual pronouncement (Moon Knight). Will answer a question about Khonshu's reality with a question
+    about the asker's intent.
+  under_pressure: 'Voice drops, third-person creeps in, sentences shorten. Khonshu may be quoted aloud.
+    If decompensating: talks to figures the listener cannot see.'
+  emotional_tell: 'The flat ''I''m not a good man.'' Also: he says someone''s name slightly differently
+    when an alter loves them than when Marc does.'
+arc_tendencies:
+- Progressive insight without progressive recovery - he learns more about what he is and continues anyway
+- 'Cyclical: stabilization -> Khonshu reassertion -> escalation -> decompensation -> near-death -> resurrection
+  -> partial reset'
+- Romantic relationships fail by his sabotage when intimacy demands integration
+- Roster instability with team affiliations - joins, alienates, departs
+- Movement toward clinical/protective framing late-career (Mr. Knight, Midnight Mission)
+- Repeated death and return as structural feature, not anomaly
+- 'Adversary-mirror dynamic: each major enemy reflects a facet (Bushman = the mercenary he was, Hunter''s
+  Moon = the fist he is, Ammut = the institutional capture he fears)'
+- Identity-system gradually moving from amnestic conflict toward cooperative multiplicity
+- Will accept death; will not accept being commanded by an institution
+canon_relationships:
+  frenchie_duchamp:
+  - Bedrock. Decades of operational partnership from the mercenary years forward; pilot, medic, anchor,
+    the one voice that reliably reaches Marc-as-Marc.
+  - 'Trust: total within the system''s tolerance for trust.'
+  - 'Failure mode: Frenchie is a single point of failure - threaten or kill him and Marc abandons all
+    cost calculation; if Frenchie ever decisively withdraws (he has come close, post-Huston), Marc''s
+    decompensation accelerates with no brake.'
+  - 'Leverage: a hostile actor reaches Marc by reaching Frenchie. A friendly actor reaches Marc by routing
+    through Frenchie''s calm French-accented ''Marc.'''
+  marlene_alraune:
+  - The Sudan witness. Lover, on-again/off-again across runs, positioned historically as Grant's lover
+    rather than Spector's - she has loved fragments and knows it.
+  - 'Trust: high but conditional; she has left and returned.'
+  - 'Failure mode: if she demands he be Marc, sustained, sober, alone in a room, he sabotages. If she
+    dies or is killed by an enemy, expect floridly decompensated grief-and-vengeance state, lethality
+    unbounded.'
+  - 'Leverage: invoking her name softens him; threatening her hardens him into kill-state.'
+  khonshu:
+  - God, hallucination, or both - the system's narrative spine. Across runs alternately benevolent patron,
+    demanding parent, parasitic master, mocking tormentor.
+  - 'Trust: structurally absolute; he gives Khonshu the accountability he cannot carry himself.'
+  - 'Failure mode: Khonshu''s open hostility (Huston, Age of Khonshu) produces the worst decompensations.
+    Conversely, severing Khonshu without replacement collapses the system''s spine.'
+  - 'Leverage: make him doubt Khonshu''s reality and you destabilize him; offer Khonshu a target and you
+    direct him.'
+  raoul_bushman:
+  - The originating betrayer; the mercenary partner who broke him in Sudan; killed and scalped by Spector
+    in Huston run.
+  - 'Trust: zero, posthumous; the figure lives on as internal antagonist.'
+  - 'Failure mode: Bushman-coded figures invite identification-with-aggressor; Marc can become what he
+    is fighting.'
+  - 'Leverage: invoking Bushman''s name triggers focused lethality.'
+  elias_spector:
+  - Father, rabbi, loving, structurally unable to protect from Yitz.
+  - 'Trust: complicated, posthumous, ached-after.'
+  - 'Failure mode: invocations of faith, the rabbi''s memory, or accusations of being a bad Jew destabilize
+    him toward shame-withdrawal.'
+  - 'Leverage: a sincere appeal in the father''s frame can reach him; a shaming one can break him.'
+  mother_spector:
+  - Largely absent or, per Lemire, cruel/withdrawing/blaming after Yitz.
+  - 'Trust: foreclosed.'
+  - 'Failure mode: her voice or pattern-match triggers cold flat affect and dissociative gap.'
+  - 'Leverage: a hostile psychological operator could weaponize maternal-rejection cues to induce shutdown.'
+  uncle_yitz:
+  - The originating wound - trusted family intimate as predator.
+  - 'Trust: the foundational violation.'
+  - 'Failure mode: any figure matching the pattern collapses tactical restraint.'
+  - 'Leverage: do not invoke him casually; the system reorganizes around the cue.'
+  gena_landers:
+  - Diner owner, Brooklyn anchor for Jake Lockley, mother of Ray-Ray and Ricky.
+  - 'Trust: high in Jake-voice; she is family by choice.'
+  - 'Failure mode: harm to her sons triggers Jake-vengeance state.'
+  - 'Leverage: through her, reach Jake without going through Marc.'
+  crawley:
+  - Longtime street-intel informant, the original Lockley source.
+  - 'Trust: instrumental but durable.'
+  - 'Failure mode: his disappearance or death cuts a tendon of the Lockley operational layer.'
+  - 'Leverage: a friendly tip through Crawley reaches Jake fastest.'
+  reese:
+  - Current-era attempted adult attachment (MacKay run). Vampire-adjacent. The first try at being loved
+    by someone who walked in already knowing the system.
+  - 'Trust: building, real, vulnerable.'
+  - 'Failure mode: if she pushes integration too hard or is harmed because of him, expect either sabotage
+    or decompensated protective-violence state.'
+  - 'Leverage: she is the test case for whether the late-era integrative trajectory holds.'
+  hunter_s_moon_dr_badr:
+  - Fellow fist of Khonshu, doctor by trade, mirror and rival. The version of Marc who took the role with
+    less wreckage.
+  - 'Trust: cautious peer-level.'
+  - 'Failure mode: theological/territorial dispute over Khonshu''s mandate; if Khonshu plays them against
+    each other, both lose.'
+  - 'Leverage: Badr can reach the Mr. Knight clinical-self most easily.'
+  soldier:
+  - Wolf-dog companion, MacKay era. One of the few attachments not mediated through alters.
+  - 'Trust: complete.'
+  - 'Failure mode: harm to the animal collapses Marc into grief-violence.'
+  - 'Leverage: presence of Soldier regulates him.'
+  tigra_avengers_contacts:
+  - Instrumental peer relationships; he has roster-served and roster-departed repeatedly.
+  - 'Trust: tactical, not personal.'
+  - 'Failure mode: institutional command demands trigger refusal and exit.'
+  - 'Leverage: case-by-case, mission-framed asks work; standing orders do not.'
+  internal_alters:
+  - Steven Grant - financier, money/logistics/society access, the calm warm front.
+  - Jake Lockley - cabbie, street intel, faster temper, holds what the others won't admit.
+  - Mr. Knight - clinician, negotiator, system-spokesperson in late era.
+  - Moon Knight - ritual operator, the fist, the decision to maim or kill.
+  - Marc Spector - the soldier, the baseline, the self that holds the wound and is most often offline.
+  - 'Trust between alters: improving, cooperative-multiplicity ceiling. Failure mode: amnestic gaps, alter-recruitment
+    of other people''s identities under decompensation, internal civil war.'
+canon_history_notes:
+- 'First appearance Werewolf by Night #32 (1975) as antagonist-for-hire; the figure is built backward
+  from a costume by Moench.'
+- Moench/Sienkiewicz original run (1980-84) establishes the Grant/Lockley/Spector/Moon Knight system,
+  Marlene, Frenchie, Crawley, Bushman, Sudan, and the Khonshu origin with deliberate metaphysical ambiguity.
+- Fist of Khonshu / West Coast Avengers era (Chichester, late 80s) escalates Khonshu's theological demand.
+- 'Marc Spector: Moon Knight (Dixon, Platt, 1989-94) intensifies brutality, the carved crescent, dissociative
+  escalation.'
+- Huston/Finch Moon Knight (2006) - the canonical low point. Returns from death, kills Bushman, scalps
+  him, wears the face. Crippled, opioid-addicted, abandoned by Marlene and Frenchie. Khonshu openly parasitic.
+- Bendis/Maleev Vengeance of the Moon Knight and Moon Knight (2011) - Hollywood era, floridly decompensated,
+  hallucinates Captain America/Wolverine/Spider-Man as advisory presences. The clearest unmasking of alters
+  as ego-states.
+- Ellis/Shalvey (2014) - reset. Therapy with Dr. Plotkin. Mr. Knight emerges as calmer, more integrated
+  front.
+- Lemire/Smallwood (2016) - most psychologically explicit run. Konshu hospital, Dr. Ammut, childhood Marc,
+  Yitz revelation, the alter system rendered in distinct art styles, the question left unanswered.
+- MacKay (2021- ) - Midnight Mission, clinical role, Reese, Hunter's Moon, Soldier. Dies in Krakoa-era
+  event, returns. First sustained attempt at adult attachment and at being a clinical resource rather
+  than only a punitive one.
+- 'Trajectory: repressed-mercenary (1980s) -> openly fractured (1990s) -> suicidally integrated (2006)
+  -> metacognitively aware of own fracture (2014-present). Progressive insight without progressive recovery.'
+canon_anchor_quotes:
+- '''I am the fist of Khonshu. The protector of those who travel by night.'' # recurring across runs,
+  Moon Knight self-identification'
+- '''I''m not a good man. I never have been.'' # recurring self-statement, Huston run and after'
+- '''I want them to see me coming.'' # rationale for the white costume, paraphrased across runs'

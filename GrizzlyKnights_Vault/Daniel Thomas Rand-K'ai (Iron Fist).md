@@ -4480,61 +4480,61 @@ The nine-year-old on the ice ledge has been carried for a long time. The decade 
 - Failure mode: Luke in mortal danger collapses Danny's rules of engagement; everything else on the board is deprioritized. A sufficiently credible threat to Cage extracts any concession.
 - Leverage: to reach Danny, route through Luke. To predict Danny's next move when a crisis hits Cage's family, assume tactical override. To destabilize Danny catastrophically, harm Luke — this is the one loss he has not modeled and would not survive intact.
 
-### Colleen Wing
+### [[Colleen Wing]]
 - Forty-year on-and-off partnership; warrior peer; co-founder of Knightwing Restorations with Misty.
 - Trust level: very high; emotional ceiling around permanence.
 - Failure mode: she has named the pattern (he cannot fully be here); the relationship plateaus rather than fractures. If she demanded a permanent commitment, he would deflect into doctrine and physical absence.
 - Leverage: she is one of perhaps four people whose request he cannot refuse.
 
-### Misty Knight
+### [[Mercedes "Misty" Knight (Misty Knight)]]
 - Long-term, deep, unresolved; warrior peer; durable friendship across her other relationships.
 - Trust level: high; foundational.
 - Failure mode: same ceiling as Colleen; he is the un-stayable partner.
 - Leverage: a request from Misty bypasses his strategic filter.
 
-### Davos
+### [[Davos (The Steel Serpent)]]
 - Childhood rival; son of his teacher Lei Kung; the Steel Serpent.
 - Trust level: zero in capability, paralyzed in completion.
 - Failure mode: Danny cannot finish him. Davos returns, hurts people Danny loves, and Danny does it again. This is the Meachum tableau replayed.
 - Leverage: an adversary who uses Davos as a vector knows Danny will incapacitate-not-eliminate, which preserves the threat for next time.
 
-### Lei Kung
+### [[Lei Kung (The Thunderer)]]
 - Teacher; brutalizing trainer; father-figure in the K'un-Lun period.
 - Trust level: high, idealized, then mournfully reassessed as his compromises emerged.
 - Failure mode: Danny grieves the man's failures but does not reject him. A father-figure manipulator with Lei-Kung valence gets at least one free betrayal.
 - Leverage: invoking Lei Kung's teaching frames an ask in a register Danny cannot easily refuse.
 
-### Orson Randall
+### [[Orson Randall]]
 - Predecessor Iron Fist; his father Wendell's mentor; opium addict; the mirror in which Danny watches his own potential collapse.
 - Trust level: posthumous identification.
 - Failure mode: Danny's asceticism is defended against Orson's example rather than against the underlying depression; this leaves the depression untreated.
 - Leverage: anything that activates the Orson-pattern (offered relief from the burden via substance, isolation, or abdication) is something he will reflexively refuse — which itself is exploitable by an adversary who wants him to keep carrying.
 
-### Harold Meachum
+### [[Harold Meachum]]
 - Index betrayer; his father's partner; refused the offered hand on the ice ledge.
 - Failure mode: the entire personality structure is built around not becoming him and not being able to kill him. Already dead in canon; lives on as the imprint that every father-figure betrayal re-activates.
 - Leverage: the Meachum tableau — a man refusing an offered hand — is an operational hypnotic trigger.
 
-### Joy Meachum
+### [[Joy Meachum]]
 - Inherited guilt-relationship; Harold's daughter; hated Danny for years; long thaw.
 - Trust level: cautious mutual respect after decades.
 - Failure mode: she can ask him for things he should refuse and he will not refuse them, on the grounds of the debt.
 
-### Wendell Rand
+### [[Wendell Rand-K'ai (Wendell Rand)]]
 - Father; failed aspirant Iron Fist exiled from K'un-Lun; fell on the ice ledge.
 - Trust level: posthumous; idealized then complicated by the revelation of his exile.
 - Leverage: invoking Wendell produces controlled affect and a brief observable pause; the lever is sharp and should be used with caution.
 
-### Heather Rand
+### [[Heather Rand]]
 - Mother; threw herself at the wolves so Danny could escape.
 - Trust level: posthumous; foundational template for sacrificial love.
 - Leverage: any tableau of a mother sacrificing herself for a child disorganizes him.
 
-### Jeryn Hogarth
+### [[Jeryn Hogarth]]
 - Family counsel; manages Rand affairs; one of the few civilian adult relationships in his life.
 - Trust level: high, professional, durable.
 
-### Lin Lie
+### [[Lin Lie (Sword Master / Iron Fist)]]
 - Successor; recipient of the Fist; the transmission Danny was relieved to make.
 - Trust level: teacherly, generous.
 - Failure mode: Danny's relief at stepping back is also avoidance of the question of what he is without the role.

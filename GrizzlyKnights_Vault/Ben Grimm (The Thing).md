@@ -4059,7 +4059,7 @@ He will, in all likelihood, end his life having become — quietly, without ever
 ### [[Reed Richards (Mister Fantastic)]]
 - His best friend, who maimed him with a miscalculation and has spent a lifetime trying to cure him. Ben's forgiveness is total and ongoing, and it costs him daily; the loyalty between them is the deepest and most morally weighted in the FF.
 
-### Alicia Masters
+### [[Alicia Masters]]
 - The blind sculptor who loves him as he is and sees past the body he hates. The relationship where his dysmorphia and his capacity for love collide — she is proof he is lovable, which he struggles to believe.
 
 ### [[Jonathan Lowell Spencer Storm (Human Torch)]]

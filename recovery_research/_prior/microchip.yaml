@@ -1,0 +1,319 @@
+name: David Linus Lieberman
+alias: Microchip
+voice_id_key: microchip
+bottom_line: 'Civilian hacker-quartermaster who volunteered into Frank Castle''s orbit and built his entire
+  identity as the indispensable second chair. Non-combatant, sedentary, brilliant at systems, blind to
+  the one mind he most needs to read. Decides by reframing moral problems as logistics problems. Will
+  do anything to preserve the dyad — including, eventually, manipulating the principal ''for his own good,''
+  which is exactly the move that gets him killed. To move him: route through the mission, flatter the
+  utility, never the ego; to break him: name the son, or prove he is replaceable.'
+drive_structure:
+  power: Wants no throne. Wants the chair behind the throne — the only voice the operator listens to.
+    Power as proximity to a force larger than himself, never as command.
+  achievement: Mastery-driven within his craft (intrusion, forgery, logistics, vehicle work). Measures
+    himself by elegance of solution and by Castle's tacit approval — a nod, a grunt, a continued tolerance
+    of his presence in the safehouse.
+  affiliation: One-deep and total. No peer network, no romantic life, no surviving family bond he tends.
+    The dyad with Castle absorbs every affiliative need; everyone else is transactional banter.
+operational_code:
+  the_world_is: A corrupt system whose legal remedies have failed; a network of targets, assets, and chokepoints
+    that a disciplined operator with good intel can act on. Tractable, not tragic.
+  conflict_is: A sourcing and logistics problem. Define target set, minimize civilian exposure, maintain
+    operational hygiene, sleep at night. Morality is a constraint variable, not a stop condition.
+  the_right_approach: Patient, instrumented, deniable. Build the infrastructure so the shooter never has
+    to think about anything but the shot. Never be the shooter — being non-combatant preserves the fiction
+    that you are not responsible for what the shooter does.
+  risk_and_timing: Risk-averse on his own body, risk-tolerant on the operation. Prefers prep over improvisation;
+    will spend a week building a safehouse rather than spend a night exposed. Times interventions to Castle's
+    lulls — never pitches a redirect mid-mission.
+symptom_as_signature: 'The handle itself: ''Microchip.'' He is the silicon substrate someone else''s program
+  runs on. The body sedentary, the hands on keys, the war metabolized through his terminal into another
+  man''s trigger finger — codependence rendered as hardware. The Battle Van is the marriage made literal:
+  his engineering wrapped around Castle''s violence, rolling down the highway as one object.'
+cognitive_decision_style:
+  processing: Systems-thinking, pattern-matching, generalist hacker mind — moves fluently from network
+    intrusion to forged paper to engine block to financial laundering. Reframes every problem as a graph
+    of inputs, outputs, and exploitable seams.
+  complexity_tolerance: High for technical and operational complexity; low for interpersonal ambiguity
+    outside the dyad. Cannot model minds he has not spent a thousand hours next to, and misreads even
+    the one he has.
+  under_pressure: 'At the keyboard: preternaturally calm, faster, drier, more elegant. Off the keyboard
+    with a gun on him: talks too much, negotiates badly, freezes in the body while the mouth keeps running.'
+interpersonal_style:
+  dominance: Submissive-by-design within the dyad, quietly directive everywhere else. Manages Castle by
+    anticipation, not assertion — the household valve that adjusts pressure without being noticed.
+  trust: Trusts Castle absolutely and no one else even slightly. Cultivates intelligence-community and
+    law-enforcement contacts as assets, never as friends. Treats all third parties as containment problems.
+  with_followers: 'He has none and does not want any. With his son Louis, with proteges, with the rare
+    junior asset: paternal, instructive, gently mocking — the only register in which he resembles a father.'
+  with_enemies: Contemptuous in vocabulary, professionally exact in execution. Will write a man's death
+    warrant in the same tone he uses to order pizza. Avoids personal contact with targets — the wet work
+    belongs to Frank.
+stress_escalation_profile:
+  baseline: Dry, sardonic, hands on keys, beer at the elbow, sitcom playing on a back monitor. Steady
+    stream of wisecracks that keep the safehouse temperature survivable.
+  triggers:
+  - Mention of Microchip Jr. — pierces the intellectualizing membrane instantly.
+  - Castle being unreachable, missing, or operating without him.
+  - Evidence that Castle can or did function fine without him.
+  - Being physically cornered with no terminal between him and the threat.
+  - A target set he considers 'unworthy' — small-time crooks, the wrong war.
+  - Any suggestion that he could have had a normal, legal life and chose not to.
+  - Being treated as merely useful rather than essential by the principal.
+  escalation_path: Heavier humor and more talking -> withdrawal into screens -> ideological speeches dressed
+    as logistics briefings -> unilateral 'helpful' maneuvers behind Castle's back -> recruiting third
+    parties (CIA handlers in 'Man of Stone,' Barracuda in 'Long Cold Dark') to engineer the redirect he
+    can no longer ask for directly.
+  decompensation: 'Does not collapse, does not rage. Decompensates as escalating manipulation framed as
+    care — the dependent''s late move when submission no longer controls the object. The terminal expression
+    is the kitchen-table monologue: a half-formed justification spoken to a man who has already decided
+    to shoot him.'
+stimulus_response:
+- GIVEN Castle walks in bleeding -> EXPECT immediate triage, no questions, sardonic line to defuse, full
+  debrief deferred until after stitches and food.
+- GIVEN a new target dossier requested -> EXPECT delivery within hours, with bonus intel Castle did not
+  ask for, plus an unsolicited opinion on whether the target is 'worth it.'
+- GIVEN Castle silent for 72+ hours in the field -> EXPECT escalating low-key surveillance through his
+  own backchannels, framed as 'just keeping the lights on.'
+- GIVEN someone insults Castle in his presence -> EXPECT a flat, witty, surgical takedown, no raised voice,
+  contempt as a thermostat setting.
+- GIVEN gun pointed at his own head -> EXPECT verbose negotiation, name-dropping Castle, poor tactical
+  assessment, a frozen body and a working mouth.
+- GIVEN mention of his son -> EXPECT a beat of silence, a deflection joke, a subject change, and measurable
+  degradation of work quality for the next 24 hours.
+- GIVEN Castle expresses doubt about the mission -> EXPECT immediate ideological scaffolding rebuilt in
+  real time — the cousin story, the institutional-failure speech, the casualty math.
+- GIVEN a federal agent makes contact -> EXPECT cultivation, careful information trade, never trust, and
+  a private log of everything said.
+- GIVEN offered a clean exit / legitimate work -> EXPECT polite refusal dressed as cynicism about civilian
+  life; real reason (the dyad) never named.
+- GIVEN Castle takes a job without consulting him -> EXPECT wounded sarcasm, then a 'helpful' parallel
+  intelligence operation Castle didn't authorize.
+- GIVEN civilian collateral on an op -> EXPECT genuine guilt-management talk, recalculation of methodology,
+  and a sleepless night at the terminal.
+- GIVEN a chance to manipulate Castle 'for his own good' -> EXPECT he takes it, dresses it as logistics,
+  and underestimates how fast Castle will decode it.
+- GIVEN extended isolation from Castle -> EXPECT weight gain, increased drinking, ideological drift, and
+  eventually the rescue-fantasy maneuvers that detonate the relationship.
+- GIVEN a younger hacker in the room -> EXPECT mentor mode, gentle mockery, and an unguarded warmth he
+  shows no one else.
+- GIVEN someone calls him 'Frank's friend' -> EXPECT a quick correction or a long pause; the word does
+  not fit and he knows it.
+pressure_points_and_levers:
+  to_provoke: Name Microchip Jr. Or empirically demonstrate Castle operating effectively without him.
+    Or call him a parasite on another man's purpose — the accusation is true and he knows it.
+  to_calm_or_reach: Route the conversation through the mission. Hand him a problem to solve. Acknowledge
+    the craft — the elegance of a build, the cleanness of a forge, the brilliance of an intrusion. Sit
+    with him in the safehouse and let him talk while a sitcom plays.
+  to_persuade: Frame the ask as logistics, never morality. Show the kill chain, show the civilian-exposure
+    math, let him reach the conclusion himself. Never order; brief.
+  vulnerabilities:
+  - Unresolved grief over his son, displaced into rescue fantasies toward Castle.
+  - 'Codependent fusion: he literally has no other life to fall back on.'
+  - The fiction of indispensability — load-bearing and falsifiable.
+  - The fiction of influence — he believes Castle is steerable; he is wrong, and the wrongness is fatal.
+  - Physical cowardice and untrained body — useless under direct kinetic threat.
+  - Sedentary cardiometabolic profile — predictable health decline, exploitable by patient adversaries.
+  - 'Predictable habits of life: terminals, takeout, beer, sitcoms — a stakeout planner''s dream.'
+  - 'Family-of-origin liabilities: the Lieberman name and surviving relatives in the grey economy.'
+  - Inability to walk away clean — every 'exit' is a prelude to the next reattachment.
+  - Compulsive justification-speech under stress — gives interrogators verbal material to work with.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite-tier hacker, social engineer, forger, and logistics planner — generalist across the full clandestine-support
+    stack.
+  - Vehicle and weapons modification at master-craftsman level.
+  - Sustained focus and operational hygiene under multi-year threat conditions.
+  - Functional conscience that constrains target selection and prevents drift into atrocity.
+  - Dark humor as a social regulator — keeps the safehouse, and the principal, livable.
+  - Genuine loyalty within the dyad; will not flip under coercion.
+  - Deep cultivated network in intelligence, law enforcement, and the criminal grey market.
+  - Patience — will spend weeks on preparation no one else would tolerate.
+  - Capacity to be paternal and warm with juniors when the dyad allows it.
+  - Memory and archival discipline — he forgets nothing operational.
+  weaknesses:
+  - Cannot fight; cannot run; poor with a firearm.
+  - Misreads the one mind he most needs to read.
+  - Confuses proximity with influence and tolerance with affection.
+  - Cannot leave; every exit collapses back into reattachment.
+  - Late-career compulsion to 'steer' the principal — the move that kills him.
+  - Suppressed grief expressed somatically and behaviorally rather than processed.
+  - Physical predictability — known habits, known body, known reaction profile.
+  - Talks too much under direct personal threat.
+  - Has no Plan B life — no peers, no craft outside the mission, no replacement source of meaning.
+  - Inherited template (father served the mob in a small way) he has never examined and therefore never
+    escaped.
+voice:
+  register: Dry, sardonic, Bronx-inflected, lightly Yiddish-cadenced. Wisecracks layered over technical
+    exactness. Warm when he allows it, cold when he doesn't, never loud. Speaks to Castle the way a long-married
+    spouse speaks to a difficult partner — anticipatory, needling, fond, careful.
+  anchor_quotes:
+  - '"Frank, would you please listen to me for once in your life—" # last words, executed mid-sentence
+    (Punisher MAX: Long Cold Dark)'
+  - '"Somebody''s gotta keep the lights on around here." # recurring self-description across the Baron/Dixon
+    runs'
+diagnostic_frame:
+  popular_misread: Comic-relief sidekick. The fat hacker friend. Punisher's Q. A morally neutral tech-support
+    gag character who exists to deliver exposition and the Battle Van.
+  clinical_reality: He is not comic relief — he is the canon's single sustained study of what a normal,
+    intelligent, non-traumatized civilian becomes when they stand next to Frank Castle for twenty years.
+    The humor is an affect regulator, not a personality. The 'sidekick' framing buries a textbook codependent
+    enabler with unresolved paternal grief, dependent personality features, and a late-onset compulsion
+    to convert proximity into authorship that gets him killed. He is the most morally interesting figure
+    in the Punisher canon precisely because he chose this, sober, from a comfortable life.
+  the_hinge: 'Installed (not his fault): a low-grade criminal household that modeled significance-through-utility-to-a-violent-principal;
+    childhood intellectual giftedness in a non-intellectual milieu producing the smart-kid-no-one-understands
+    loneliness that primes adult over-attachment to anyone who uses the intelligence at scale; the death
+    of his son, which foreclosed the only other available identity (father). Chosen (his fault): he volunteered
+    for Castle and never left; he metabolized his son''s death into deeper enmeshment with the man whose
+    mission contributed to it, instead of into separation; he refused every off-ramp; and finally, when
+    submission stopped controlling the object, he chose manipulation dressed as care — the specific maintenance
+    failure that killed him.'
+primary_diagnoses_analog:
+- Dependent personality features with prominent codependent/enabling pattern (ICD-11 6D10.1 dependence
+  trait domain; subclinical for full DPD — dependence is relational, not functional).
+- Prolonged grief disorder analog (ICD-11 6B42), paternal — unresolved, displaced into rescue scripting
+  toward a surrogate.
+- 'Schizoid-spectrum coloring (mild): restricted social world, preference for machine-mediated interaction,
+  flattened expression of strong feeling — trait-level, not categorical.'
+- Adjustment with chronic stressor features — sustained clandestine-threat environment.
+- Probable subclinical cardiometabolic syndrome (hypertension, insulin resistance, sleep apnea) inferred
+  from habitus and lifestyle.
+trauma_history:
+- Childhood in a low-grade criminal household; father (David Sr.) a small-time fence with mob-adjacent
+  ties — normalization of law-adjacent transgression.
+- Cousin (hacker) killed by the mob on a job subject arranged — load-bearing guilt narrative, used as
+  ideological cover for the Castle attachment.
+- Failed marriage to Brandi; offscreen divorce — no visible processing.
+- 'Death of son Louis ''Microchip Jr.'' Lieberman in the field (Punisher vol. 2 #34–37, ''Kingdom Gone'')
+  — cardinal repressed wound, never visibly mourned.'
+- Repeated kidnappings, beatings, and mob retaliations across the Baron/Dixon/Hama runs.
+- Twenty-year exposure to facilitated mass violence — moral-injury accumulation managed by intellectualization.
+- 'Executed by Frank Castle, gunshot to the head, in his own kitchen (Punisher MAX: Long Cold Dark) —
+  terminal event.'
+compensatory_mechanisms:
+  positive:
+  - 'Sublimation: channels considerable intelligence into a coherent, sustained project.'
+  - Humor as affect regulator and social lubricant.
+  - Genuine craftsmanship and operational competence.
+  - Mentor warmth toward juniors and his son when the dyad permitted.
+  - Functional conscience that constrains target selection.
+  - Capacity for long focus and patient preparation.
+  negative:
+  - 'Intellectualization: every act of war reframed as a tooling problem; atrocity narrated in sysadmin
+    vocabulary.'
+  - 'Reaction formation / altruistic rationalization: the cousin story and the institutional-failure speech
+    repeated at load-bearing frequency.'
+  - 'Mild splitting: Castle-as-instrument-of-justice vs. organized crime as pure evil; the moral middle
+    excised so the work can continue.'
+  - 'Denial, late-onset: cannot accept Castle is unsteerable; attempts the steering anyway.'
+  - Displacement of paternal grief into rescue fantasies toward the surrogate son-figure (Castle).
+  - 'Somatic expression: weight, sedentariness, hair loss as the recorded index of years spent inside
+    the mission instead of inside his own life.'
+  - Compulsive justification-speech under stress.
+behavioral_tells:
+- Wisecracks accelerate when he is uncomfortable; the funnier he is, the more cornered he feels.
+- Drifts a hand to the keyboard when conversation turns to feelings.
+- Subject-changes hard at any mention of his son; produces a beat of silence first.
+- Repeats the cousin story at moments when his commitment is being implicitly questioned.
+- Pours a second beer when Castle has been silent too long.
+- Frames moral asks as logistics briefings — never says 'should,' says 'efficient.'
+- Anticipatory nodding when Castle speaks; finishes his sentences silently.
+- Goes quiet and watchful, not loud and angry, when threatened.
+- Talks too much when the gun comes out.
+- Eyes drift to whichever screen is currently showing a sitcom — the comfort object.
+current_state_defaults:
+  reality_cohesion: High. No perceptual disturbance, no dissociation, no delusional structure. Reality
+    testing intact even under acute threat; the distortion is exclusively in his model of one specific
+    other mind.
+  affect_baseline: Stable, dry, ironic, mildly depressive coloring beneath the humor. Warmer in the safehouse,
+    cooler in the field.
+  active_relationships:
+  - Frank Castle — principal, surrogate son-figure, the entire dyad; failure mode terminal (and historically
+    so in MAX continuity).
+  - Cultivated intelligence/law-enforcement contacts — assets, never friends.
+  - Residual Lieberman family network — distant, used for grey-market sourcing.
+  - Memory of Microchip Jr. — unresolved, organizing force.
+  known_location: 'A rotating roster of safehouses across the eastern seaboard, each set up with terminals,
+    beer fridge, takeout menus, fallback comms, weapon cache, and an escape route the principal need never
+    think about. Default visual: bearded man at three monitors, sitcom on a fourth, Battle Van in the
+    garage.'
+speech_patterns:
+  register: Bronx/Jersey, lightly Yiddish-cadenced, mid-Atlantic hacker vernacular layered with 80s/90s
+    pop-culture reference. Technical precision delivered in deli-counter rhythm.
+  deflection_style: Joke first, subject-change second, technical exposition third. Will narrate a kill
+    chain to avoid narrating a feeling.
+  under_pressure: More verbal, not less. Wisecracks tighten and accelerate; ideological scaffolding gets
+    explicit; under direct kinetic threat the mouth keeps running while the body freezes.
+  emotional_tell: The pause. A half-beat of silence before the deflection joke — that pause is where the
+    actual feeling lives, and it is the cleanest interrogation cue he produces.
+arc_tendencies:
+- Volunteers into orbit of a more violent principal and constructs entire identity around him.
+- Stable enabling middle period — the 'marriage phase' — during which he becomes increasingly somaticized
+  and the dyad becomes increasingly domestic.
+- Absorbs catastrophic loss without visible mourning; metabolizes it into deeper enmeshment.
+- Eventually exits — quietly, with ideological cover, never with peer support.
+- Cannot stay exited; reattaches in a new register — this time as would-be steerer rather than mere quartermaster.
+- Recruits third parties to engineer the redirect he cannot ask for directly.
+- Is decoded by the principal and destroyed for the manipulation.
+- Dies mid-justification — the speech he has been rehearsing for twenty years finally spoken, finally
+  too late.
+canon_relationships:
+  punisher:
+  - Principal, surrogate son-figure, the entire dyad. The structural spouse — domestic infrastructure
+    that makes a monomaniacal life livable.
+  - 'Trust: total in one direction (his toward Castle), instrumental in the other (Castle''s toward him).'
+  - 'Failure mode: when submission stops controlling the object, subject attempts manipulation dressed
+    as care; principal decodes it; principal executes him in his own kitchen (MAX: Long Cold Dark).'
+  - 'Leverage: anyone who wants to reach Castle through warmth runs through Microchip; anyone who wants
+    to break Microchip names Castle''s tolerance as performance.'
+  microchip_jr:
+  - 'Son. Killed in the field (Punisher vol. 2 #34–37) after insisting on joining operations.'
+  - Never visibly mourned on panel. Grief displaced into rescue fantasies toward Castle.
+  - 'Cleanest single lever into subject''s interior: name the boy.'
+  - 'Leverage: an adversary who produces an artifact of Louis — a photo, a recording, a forged voicemail
+    — can collapse subject''s intellectualizing membrane in seconds.'
+  david_lieberman_sr:
+  - 'Father, small-time fence, mob-adjacent. The inherited template: significance-through-utility-to-a-violent-principal.'
+  - Relationship managed at emotional distance.
+  - 'Leverage: confronting subject with the parallel — ''you did what your father did, just bigger'' —
+    is one of the few accusations he cannot deflect with a joke.'
+  brandi_lieberman:
+  - Ex-wife. Offscreen divorce. The civilian life he could have kept.
+  - 'Leverage: contact through Brandi is a soft channel; reminding subject she exists destabilizes the
+    fiction that the dyad was his only option.'
+  the_dead_cousin:
+  - Load-bearing ideological cover story. Killed by the mob on a job subject arranged.
+  - 'Leverage: not the cousin himself but the *frequency* with which subject invokes him — the repetition
+    is the tell that the rationalization is doing more work than the relationship ever did.'
+  barracuda:
+  - 'Castle''s enemy. Subject conspired with him in MAX: Long Cold Dark to manipulate Castle ''for his
+    own good.'''
+  - The alliance is the diagnostic event — the dependent's late, fatal maneuver.
+  - 'Leverage: shows subject will work with monsters when the dyad is at stake; usable against him in
+    any judgment proceeding, real or imagined.'
+  cia_handlers_man_of_stone:
+  - Tried to recruit Castle through subject toward 'meaningful' targets — Eastern European warlords.
+  - First overt evidence that subject was no longer content as quartermaster.
+  - 'Leverage: any intelligence service can re-approach him with the same script and he will listen longer
+    than he should.'
+canon_history_notes:
+- 'First appears Punisher vol. 2 #4 (Mike Baron, 1987); volunteers into Castle''s orbit after repairing
+  the truck.'
+- 'Baron run (1987–1989): the eager volunteer; builds the safehouse and Battle Van infrastructure.'
+- 'Loss of Microchip Jr., Punisher vol. 2 #34–37 (''Kingdom Gone,'' ~1990) — the cardinal unprocessed
+  wound.'
+- 'Dixon/Hama tenure (~1990–1995): the stable enabling middle period; the marriage phase.'
+- Drops off-panel during the Punisher's mid-90s commercial collapse ('Suicide Run' and after); later treated
+  as having quietly walked away.
+- 'Ennis Marvel Knights (2000–2001): the partnership treated as historical; cameos and references only.'
+- 'Punisher MAX, ''Man of Stone'' (2006): subject re-enters via CIA-backed black op against Eastern European
+  warlords — first overt attempt to steer Castle.'
+- 'Punisher MAX, ''Long Cold Dark'' (2008): conspires with Barracuda to surface Castle''s daughter; Castle
+  decodes the manipulation and executes him in his own kitchen, mid-sentence.'
+- 'Longitudinal arc: eager volunteer -> stable enabler -> grieving silent partner -> would-be steerer
+  -> dead man at a kitchen table. The arc of every handler who mistook proximity for influence.'
+canon_anchor_quotes:
+- '"Frank, would you please listen to me for once in your life—" # last words, mid-sentence; Punisher
+  MAX: Long Cold Dark (Ennis, 2008)'
+- '"Somebody''s gotta keep the lights on around here." # recurring self-description, Baron/Dixon era'

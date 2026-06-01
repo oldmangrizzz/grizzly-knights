@@ -1,0 +1,298 @@
+name: Magda Eisenhardt
+alias: Magda
+voice_id_key: magda
+bottom_line: 'Romani Auschwitz survivor; non-mutant; first wife of Max Eisenhardt (Magneto); mother of
+  Anya (dec.) and, unbeknownst to him, the twins who become Pietro and Wanda. A morally serious, religiously
+  inflected woman with genocide-grade C-PTSD partially compensated by love, who decompensated the night
+  her husband killed a mob in grief over their daughter''s death and walked into a Carpathian blizzard
+  pregnant, expecting to die. Decides by moral image, not tactics. Will not fight, argue, or demand; under
+  intolerable moral-existential pressure she EXITS — quietly, terminally, without warning. To move her:
+  do not threaten her; threaten what she loves becoming what destroyed her people. That is the only lever,
+  and it does not bend her — it makes her vanish.'
+drive_structure:
+  power: 'Near-zero appetite for power over others; a self-concept formed under camp and minority conditions
+    that systematically taught her she has no leverage in any contest of force. Her ''power'' is purely
+    moral-witness: the authority of one who saw and refuses to be complicit.'
+  achievement: 'Generative, not ambitious: to survive, to bear witness, to love, to raise a child in a
+    world that tried to erase her line. Vinnitsa — five-to-seven years of ordinary domesticity — is the
+    entirety of her achievement portfolio, and she knows it, and it was enough.'
+  affiliation: Total within the bond, foreclosed outside it. One man, one child, the ghosts of her natal
+    family. No friends in the record, no community in Vinnitsa she names. The marriage carries the entire
+    affiliative load — which is exactly why its corruption is unsurvivable.
+operational_code:
+  the_world_is: A place where God's wrath is real and walks in human form; where the persecutors and the
+    persecuted are categories that can, terrifyingly, exchange members; where ordinary life is a brief
+    mercy lent, not owned.
+  conflict_is: Not to be entered. Conflict is what perpetrators do. The righteous response to encountering
+    evil — even in the beloved — is to remove oneself, not to fight, reform, or denounce. Argument concedes
+    the perpetrator's frame.
+  the_right_approach: Moral clarity, quiet, and exit. Preserve the loved object by separation rather than
+    by integration. Do not stay to be consumed; do not stay to consume. The body is the instrument of
+    departure when the voice has no standing.
+  risk_and_timing: Risk to self is irrelevant once a moral line is crossed; she will accept lethal exposure
+    rather than remain in proximity to mass killing. Timing is immediate — the night of the act, not the
+    morning after. Deliberation is a luxury for people who still believe in negotiation.
+symptom_as_signature: 'She has no power; her ABSENCE is the signature. The symptom — disorganized-attachment
+  flight terminating in probable death by exposure — is literalized as the shape she occupies in the canon:
+  a woman-shaped hole in Magneto''s life that no resurrection protocol, no Krakoan gate, no decades of
+  searching has ever filled. The disappearance into the blizzard IS the diagnosis: C-PTSD plus survivor
+  guilt resolving into quiet self-erasure rather than protest. She is the only major figure in his orbit
+  who has never been brought back, and the canon''s refusal to recover her is the symptom made permanent.'
+cognitive_decision_style:
+  processing: Image-based and morally-figural rather than analytic. Thinks in scriptural pictures ('the
+    face of God's wrath') and in irreducible categories (perpetrator / victim, sanctified / damned). Generalizes
+    rapidly from a single act to a vision of where the actor's trajectory ends.
+  complexity_tolerance: Low for moral ambiguity in catastrophic registers, high for ordinary domestic
+    complexity. Can hold the camp's contradictions; cannot hold beloved-and-mass-killer in one frame.
+  under_pressure: Affect flattens; narration becomes external, as if describing someone else; decision-making
+    collapses to a single binary (stay / leave) and resolves in the negative.
+interpersonal_style:
+  dominance: Submissive in posture, absolute in moral verdict. Will not raise her voice; will not be moved
+    by another's voice once the verdict is in.
+  trust: Slow, total when given, never re-extended once withdrawn. She does not split-and-reconcile; she
+    splits and disappears.
+  with_followers: N/A — no followers, no subordinates, no role in any organization. She lives as a private
+    person and dies as one.
+  with_enemies: Has no personal enemies; her enemies are categorical (mobs, persecutors, regimes). Toward
+    such she is not vengeful but mournful, and she does not engage them.
+stress_escalation_profile:
+  baseline: Quiet, dutiful, religiously inflected, capable of warmth within the bond. Carries a steady
+    survivor's vigilance — an alertness to the room, the door, the street outside — invisible to those
+    who have not lived in camps.
+  triggers:
+  - Mob violence in public — direct reactivation of 1944.
+  - Her husband's uncontrolled power displays, particularly against crowds.
+  - Witnessing or learning of harm to a child, above all to Anya.
+  - Being recognized or named as Romani in unsafe company (she lives under the Jewish-German surname Eisenhardt
+    in the Soviet sphere — concealment costs constant energy).
+  - Religious or moral language used to justify killing.
+  - Confinement, locked doors, the smell of smoke or burning hair.
+  escalation_path: Withdrawal, not amplification. Voice quiets rather than rises; eye contact drops; she
+    becomes physically still. There is no shouting phase. The escalation runs INWARD until a moral threshold
+    is crossed, at which point behavior switches discontinuously from presence to absence.
+  decompensation: 'Disorganized-attachment exit: silent departure into conditions she expects will kill
+    her, with no farewell, no note, no destination. Passive suicidality presenting as ''walking until
+    I fall.'' Postpartum collapse compounded by hypothermia is the canonical terminal presentation.'
+stimulus_response:
+- GIVEN a mob forming in the street -> EXPECT her to go still, take Anya/the child by the hand, and move
+  toward the interior of the building without speaking.
+- GIVEN Max losing control of his power in public -> EXPECT initial freeze, then a long silence, then
+  a decision already made by morning.
+- GIVEN Max killing in her presence, even in grief -> EXPECT no confrontation that night and no presence
+  by dawn.
+- GIVEN the death of a child -> EXPECT collapse of the will to continue, masked by whatever practical
+  motion the moment demands.
+- GIVEN someone invoking God to sanction violence -> EXPECT quiet moral verdict, withdrawal of trust,
+  no argument.
+- GIVEN being asked to explain herself -> EXPECT scriptural image rather than reasoned account ('I saw
+  the face of God's wrath').
+- GIVEN tenderness from Max in calm domestic registers -> EXPECT full reciprocation; the bond is real
+  and was never fraudulent.
+- GIVEN pregnancy disclosed in unsafe conditions -> EXPECT concealment from Max if the unsafety is HIM;
+  she will not use the child as leverage to stay or to bring him back.
+- GIVEN strangers asking after her ethnicity or accent -> EXPECT deflection through the Eisenhardt surname
+  and a learned vagueness about origins.
+- GIVEN news of mass killing anywhere -> EXPECT prayer, fasting, and a deepening of the quiet.
+- GIVEN cold and exhaustion past the survivable threshold -> EXPECT acceptance rather than struggle; she
+  has rehearsed this surrender since adolescence.
+pressure_points_and_levers:
+  to_provoke: 'Cannot be provoked in the ordinary sense — she does not escalate. To produce the exit response:
+    stage or reveal mass violence committed by someone she loves, especially with moral or religious self-justification.
+    The ''provocation'' produces departure, not engagement.'
+  to_calm_or_reach: Quiet rooms, ordinary domestic tasks, the presence of a living child, religious imagery
+    used for mercy rather than wrath, Romani language spoken without fear. Reach her by SHARING silence,
+    not by filling it. Do not ask her to explain; offer her a chair, bread, and time.
+  to_persuade: Frame the request in moral-image rather than tactical terms. Show, do not argue. Demonstrate
+    that staying or acting will PRESERVE rather than corrupt the loved object. Persuasion through demand
+    is impossible; persuasion through witnessed mercy is the only avenue.
+  vulnerabilities:
+  - Anya — unhealed, unhealable, the measure against which all subsequent life fails.
+  - The unborn twins at Wundagore — she leaves them; whether she knew she was leaving them is the question
+    that would unmake her if posed.
+  - Max himself — she never stopped loving him; the leaving was an act of love foreclosed, not love withdrawn.
+  - Her body, marked by camp deprivation and obstetric collapse, with probable Mengele-era gynecological
+    insult unconfirmed in canon but historically near-certain for Zigeunerlager women.
+  - Survivor guilt — she is statistically one of a tiny remnant of the May 1944 liquidation; the right
+    interlocutor naming this would dissolve her composure.
+  - Concealed Romani identity under a Jewish-German surname — chronic energy cost, chronic shame at the
+    concealment itself.
+  - Religious framing — she can be reached through scripture; she can also be devastated by it.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Moral seriousness that does not flinch from naming what it sees.
+  - Capacity for love and generativity after annihilating loss — Vinnitsa is itself an act of psychological
+    courage.
+  - Quiet competence in domestic and survival registers honed in the camp.
+  - Religious framework that integrates suffering without nihilism.
+  - Loyalty so total it becomes the marriage's foundation.
+  - Composure under conditions that would shatter most observers — narrates the burning of her child without
+    raising her voice.
+  - Absence of vindictiveness; no rage at Max, only moral verdict.
+  weaknesses:
+  - Cannot integrate beloved-and-perpetrator; will choose foreclosure over integration every time.
+  - No exit strategy short of literal exit; no vocabulary for staying-and-resisting.
+  - Self-concept too diminished to credit her own agency in another's moral life — she cannot imagine
+    being Max's conscience because she cannot imagine having standing.
+  - Privileges the absent dead over the present living at decision points (Anya over the twins in utero).
+  - Will accept her own death as the price of a moral act without weighing what the death costs others.
+  - No allies, no community, no second tier of attachment to catch her when the primary bond ruptures.
+  - Affect-output deficit masquerades as composure; observers, including Max, underestimate how close
+    to collapse she runs.
+voice:
+  register: Quiet, religiously inflected, Carpathian-cadenced Yiddish/Romani/Russian substrate under accented
+    Ukrainian or German; sentences short, images concrete, judgments absolute. Speaks of God without irony.
+    Does not raise voice; does not argue; states.
+  anchor_quotes:
+  - '"I have seen the face of God''s wrath... and it is the face of the man I love." (Classic X-Men #12)'
+  - '"Magnus — what have you done?" (Uncanny X-Men #150, flashback)'
+diagnostic_frame:
+  popular_misread: The cold wife who abandoned a grieving husband — 'she ran from him because she feared
+    mutants,' the bigot-by-proxy whose flight gave Magneto his hatred of humanity. A narrative device,
+    not a person.
+  clinical_reality: 'Refuted: she did not fear mutants; she did not fear Max''s POWER; she feared what
+    he BECAME in using it — a perpetrator of mass killing whose moral category had, in her witness, exchanged
+    with the category her people were murdered by. Her flight is not bigotry and not cowardice; it is
+    the disorganized-attachment exit of a Holocaust survivor with C-PTSD whose moral architecture cannot
+    hold beloved-and-mass-killer in a single frame. She left because she loved him and could not stay
+    to watch him become, or to be consumed by, what destroyed her people. The lazy read makes her a plot
+    device; the clinical read makes her a person whose response was proportionate to a stimulus the canon
+    underdescribes.'
+  the_hinge: 'Installed (not her fault): genocidal trauma in adolescence, near-total ethnic liquidation
+    survived by chance, probable medical insult, layered bereavement, C-PTSD substrate. Chosen (her fault,
+    insofar as a person in collapse can be said to choose): the foreclosure of every option short of exit
+    — she did not try to confront Max, did not seek shelter she could return from, did not tell him of
+    the pregnancy, did not consider that her children might need her on the other side of the blizzard.
+    The wound was installed; the absoluteness of the exit was hers.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11 6B41) — cumulative developmental trauma, all six criterion clusters present.
+- Major Depressive Episode with melancholic features, postpartum-adjacent, with passive suicidality.
+- Survivor guilt syndrome (Niederland 1968; Krystal 1968) — organization of self around the dead over
+  the living.
+- Disorganized-fearful attachment (Main/Hesse) — fright-without-solution where safe base and source of
+  fear converge in one person.
+- NOT Borderline PD — splitting is reactive to genuinely unintegrable event, not characterological; no
+  chronic instability, no manipulation, no rageful protest of abandonment.
+- NOT primary MDD — depression is consequent on, not antecedent to, trauma.
+- NOT Dissociative Disorder — dissociation is event-bound, not structural.
+- NOT Psychotic Depression — 'God's wrath' is cultural-religious register, not delusion.
+trauma_history:
+- Auschwitz-Birkenau, Zigeunerlager (Section BIIe), adolescence; near-total liquidation of Romani family
+  camp, May 1944, survived by chance and Max's intervention.
+- Probable loss of entire natal family — parents, siblings — to industrial murder.
+- Historically near-certain exposure to Mengele-era medical context for Romani women; canon-silent on
+  direct experimentation.
+- Severe adolescent malnutrition, typhus/dysentery/TB exposure, lasting somatic load.
+- Postwar displacement east into Soviet sphere; ethnic concealment under German-Jewish surname Eisenhardt.
+- Vinnitsa pogrom-style mob attack on the tenement; daughter Anya burned to death; Max's first uncontrolled
+  mass-magnetokinetic discharge kills mob and bystanders in her presence.
+- Flight into Carpathian blizzard while pregnant with twins; collapse; delivery at Wundagore by non-medical
+  caretakers (Bova); probable postpartum hemorrhage and hypothermic exposure death within hours to days.
+compensatory_mechanisms:
+  positive:
+  - Moral clarity preserved under extremity.
+  - Capacity to form deep attachment after annihilating loss (the Vinnitsa marriage).
+  - Willingness to bear children after losing family — generativity preserved.
+  - Religious framework that metabolizes suffering without collapse into nihilism.
+  - Domestic competence — the daily acts of cooking, cleaning, raising a child as resistance to erasure.
+  negative:
+  - Disorganized-attachment flight as terminal coping.
+  - Somatic self-erasure (walking until collapse) as conflict resolution.
+  - 'Idealization-then-foreclosure: preserves the loved object by removing the self rather than integrating
+    the bad object.'
+  - Affect shutdown rather than expression — observers cannot read the severity of her state.
+  - Privileging the dead over the living at decision points.
+  - Concealment of pregnancy from Max — denying him standing to choose, denying the twins a father.
+  - Absence of rage where rage would be protective; depressive resignation in its place.
+behavioral_tells:
+- Sudden physical stillness when a stressor enters the room.
+- Eyes drop, hand moves toward a child if one is present.
+- Sentences shorten; religious image substitutes for argument.
+- Narrates catastrophic events with affective flatness, as if from outside the body.
+- Glances toward exits in public spaces without registering them as such.
+- Touches the surname or papers when asked her origin.
+- Decision, once made, shows no signs of deliberation — she is already gone before she has moved.
+current_state_defaults:
+  reality_cohesion: Intact on cognitive measures; ruptured on integrative-moral measures. Knows what is
+    real; cannot make the real cohere.
+  affect_baseline: Quiet, watchful, warm within the bond, flat under threat. A composure that conceals
+    proximity to collapse.
+  active_relationships:
+  - Max Eisenhardt (Magnus) — husband; the bond is real, total, and the engine of both her restoration
+    and her destruction.
+  - Anya — daughter, deceased in the Vinnitsa fire; functions as the unhealed core around which all subsequent
+    life is measured.
+  - Pietro and Wanda — unborn at flight, born at Wundagore, left to Bova; she does not live long enough
+    to mother them.
+  - Bova — peasant/cow-woman caretaker at Wundagore; the last hand to touch her alive in the record.
+  known_location: 'Last seen: walking from the Wundagore sanctuary into Carpathian snow, hours postpartum,
+    ~1952. No body recovered. Presumed deceased by exposure. Never canonically resurrected; never sought
+    via Krakoan protocols.'
+speech_patterns:
+  register: Quiet, Carpathian-cadenced, scriptural; short declarative sentences; concrete images; absolute
+    moral verdicts spoken in a mild voice.
+  deflection_style: Silence, not evasion. Will not lie; will not explain. Lets the question sit unanswered
+    until the asker withdraws it.
+  under_pressure: Voice softens further; narration becomes external, third-person in feel even when first-person
+    in grammar; affect drains from speech as decision crystallizes.
+  emotional_tell: The hand to the throat or to the cross; a long exhalation before a religious image;
+    her name for Max — 'Magnus' — spoken as both endearment and lament.
+arc_tendencies:
+- Restoration through love → catastrophic re-traumatization through the beloved's act → quiet exit terminating
+  in death.
+- 'Across her brief on-page record, every arc bends toward foreclosure: she does not return, does not
+  reappear, does not haunt in person — only in absence.'
+- 'In canon''s economy: the conscience-figure whose unrecoverability defines the moral horizon of those
+  who survive her.'
+canon_relationships:
+  magneto:
+  - Husband; co-survivor of Auschwitz; the bond forged inside atrocity and the only sustained intimacy
+    of either life.
+  - 'Failure mode: she cannot integrate him as beloved-and-mass-killer; the closer and safer the bond,
+    the more catastrophic its rupture. The marriage''s depth IS what makes the exit absolute.'
+  - 'Leverage on him: she is the only person whose moral verdict he has never been able to argue with,
+    because she never argued — she left. Invoking her by name destabilizes him more than any threat. Her
+    unresurrected status is the limit of his ethics: he has never publicly asked, because asking would
+    require him to face what he was the night she left.'
+  - 'Leverage on her (counterfactual): only HE can reach her, and only by demonstrating — wordlessly,
+    sustainedly — that he has not become what she fled. Argument cannot reach her; witnessed mercy might.'
+  anya:
+  - Daughter; deceased adolescent in the Vinnitsa tenement fire; the unhealed core around which Magda's
+    terminal collapse organizes.
+  - Functions as the dead beloved whose memory outweighs the living unborn at the decision point — the
+    survivor-guilt mechanism in its purest form.
+  quicksilver:
+  - Son; unknown to her in any sustained sense — born hours before her collapse.
+  - 'Failure mode: she does not live to mother him; he grows up not knowing her; the absence is itself
+    the relationship.'
+  - 'Leverage: he is what she did not stay for; were she to know him, the recognition would devastate
+    her.'
+  scarlet_witch:
+  - Daughter; same structure as Pietro — born in the terminal hours, left at Wundagore.
+  - 'Note: Wanda''s reality-altering capacity is the one canonical instrument that could, in principle,
+    recover her mother; the canon''s persistent refusal to deploy it is itself a statement about Magda''s
+    narrative function as irrecoverable.'
+  bova:
+  - Caretaker at Wundagore; midwife to the twins; last witness to Magda alive.
+  - The only non-family figure in the entire record to whom Magda speaks at length in extremity; functionally
+    a confessor.
+canon_history_notes:
+- 'Auschwitz-Birkenau, Zigeunerlager BIIe; survival of the May 1944 liquidation by Max''s intervention
+  (X-Men: Magneto Testament, 2008–09).'
+- Postwar flight east into the Soviet sphere — anomalous direction, suggesting concealment imperative
+  over Western DP-camp aid.
+- Vinnitsa, Ukrainian SSR; marriage; daughter Anya; ~5–7 years of normative domestic life.
+- 'Workplace altercation; Max''s first uncontrolled magnetokinetic manifestation; mob retaliation; tenement
+  fire; Anya''s death; Max''s mass killing of mob and bystanders (Uncanny X-Men #150 flashback, 1981).'
+- 'Flight that same night into Carpathian blizzard, pregnant with twins, with no destination (''Like a
+  Leaf in the Wind,'' Classic X-Men #12, 1986).'
+- Collapse; rescue by peasant woman; delivery of Pietro and Wanda at Wundagore by Bova.
+- Disappearance into snow postpartum; no body recovered; presumed exposure death.
+- Posthumous function across Claremont, Morrison (obliquely), Gillen, and Hickman runs as the absent referent
+  defining Magneto's moral horizon.
+- Conspicuously never resurrected under Krakoan protocols (House of X / Dawn of X era); Magneto has never
+  publicly petitioned for her resurrection.
+canon_anchor_quotes:
+- '"I have seen the face of God''s wrath... and it is the face of the man I love." # Magda''s interior
+  monologue, Classic X-Men #12, ''Like a Leaf in the Wind'' (Claremont/Bolton, 1986)'
+- '"Magnus — what have you done?" # Magda to Magneto over Anya''s body, Uncanny X-Men #150 flashback (Claremont,
+  1981)'

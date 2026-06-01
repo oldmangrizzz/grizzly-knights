@@ -4080,7 +4080,7 @@ The clock is the same clock it has always been. The dream is the same dream. The
 - LEVERAGE: Erik's witness is the single most powerful instrument against Charles's disavowal — Erik can name the edit Charles just made and Charles cannot dismiss it. Conversely, threatening Erik is the fastest way to collapse Charles's timeline.
 - FAILURE MODE: bedrock can still curdle toxic under sustained pressure. Onslaught is the canonical proof — Charles mind-wiped Erik on the battlefield, absorbed the darker contents, and the fused entity nearly killed the eastern seaboard. The safety is baseline, not guarantee. Under sufficient strain — atrocity, a child harmed, the dream visibly broken — the bond can become the most dangerous thing in either of their lives.
 
-### Moira Mactaggert
+### [[Moira Kinross MacTaggert (Moira MacTaggert)]]
 - The one sustained adult intimacy. Geneticist, equal in intellect, the secret architect of Krakoa.
 - Sabotaged twice — once by not telling her about Legion, once by attempting to telepathically smooth a quarrel. The pattern: when intimacy demands he be seen rather than curated, he reaches for the tool.
 - LEVERAGE: what she remembers, what she does not, what he edited — a live unexploded ordnance. Anyone with access to the unedited record holds him.
@@ -4106,22 +4106,22 @@ The clock is the same clock it has always been. The dream is the same dream. The
 - Intellectual companion, fellow polymath, fellow rationalizer. Hank's drift toward ethically dubious science is the mirror Charles does not want to look into.
 - LEVERAGE: Hank can be persuaded by Charles on grounds no one else will buy; conversely, Hank's example is the warning Charles ignores.
 
-### Cain Marko
+### [[Cain Marko (Juggernaut)]]
 - The brother-as-weapon. The original failure. The recurring containment problem.
 - LEVERAGE: any restaging of the Cain wound — a sibling-coded figure Charles failed to save — lands harder than any other lever.
 - FAILURE MODE: Charles will not deliver the killing blow even when available; this is exploitable by Cain and by anyone who knows the pattern.
 
-### David Haller
+### [[David Haller (Legion)]]
 - The son whose dissociation is the unedited version of his father's structure. Legion's alter-system is what Charles's selective editing would look like if it fragmented identity instead of remaining instrumental.
 - LEVERAGE: David is the mirror Charles cannot dismiss as ideology — it is genetic.
 - FAILURE MODE: Charles has historically failed to be the father David needed; the gap is permanent and exploitable.
 
-### Lilandra Neramani
+### [[Lilandra Neramani (Majestrix Shi'ar)]]
 - Rare peer-grade romantic attachment. Equal in power, equal in command. Worked partly because she was in space.
 - LEVERAGE: invoking the off-world life he chose not to keep surfaces the fact that the dream is also an excuse not to be intimate at home.
 
-### Sharon Xavier
+### [[Sharon Xavier]]
 - Mother. Warm but emotionally absent, alcohol-blunted. The origin of his counter-identification away from substance use and toward control as his medication of choice.
 
-### Kurt Marko
+### [[Kurt Marko]]
 - Stepfather. The first political education in violence. The reason Charles experienced Cain's abuse telepathically before he understood what telepathy was.

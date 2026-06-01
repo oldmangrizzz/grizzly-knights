@@ -333,6 +333,18 @@ export const agentSendMessage = internalMutation({
   },
 });
 
+// Fetch an agent's identity string so the operation can look up their character "Life".
+export const agentIdentity = internalQuery({
+  args: { worldId: v.id('worlds'), agentId },
+  handler: async (ctx, { worldId, agentId }) => {
+    const desc = await ctx.db
+      .query('agentDescriptions')
+      .withIndex('worldId', (q) => q.eq('worldId', worldId).eq('agentId', agentId))
+      .first();
+    return desc?.identity ?? '';
+  },
+});
+
 export const findConversationCandidate = internalQuery({
   args: {
     now: v.number(),

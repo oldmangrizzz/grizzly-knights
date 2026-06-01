@@ -1,0 +1,318 @@
+name: Rachel Cole Alves
+alias: Rachel Cole Alves
+voice_id_key: rachel_cole_alves
+bottom_line: USMC Sergeant whose wedding became a mass-casualty event; sole survivor who reorganized her
+  entire identity around the elimination of the Exchange. Not a berserker - a terminal instrument. Lucid,
+  disciplined, anhedonic, monomaniacal. Decides by target priority and tactical economy. Will partner
+  with anyone useful, lie to no one, accept any consequence that comes after the work is done. Move her
+  by giving her targets or by threatening Frank; break her by offering her a future.
+drive_structure:
+  power: Instrumental only - power is the means to reach the target list. She accumulates capability (intel,
+    weapons, proximity to Frank) the way an executioner sharpens a blade. No appetite for dominion, status,
+    or audience.
+  achievement: Dominant and pathological - 'completion' is the organizing telos. Vengeance is not pleasure,
+    it is the finishing of a sentence the Exchange interrupted at the altar. Every operational metric
+    (targets neutralized, chain ascended) is a step toward a terminal endpoint after which she does not
+    expect or want to persist.
+  affiliation: Foreclosed by amputation, not by temperament. Pre-event she was capable of marriage and
+    unit-cohesion; post-event the circuitry is sealed. Tactical partnership with Frank is permitted; mentorship,
+    family, replacement-attachment refused. The one denied attachment is to Frank himself, demonstrated
+    only by her willingness to take the legal weight for him.
+operational_code:
+  the_world_is: A target list, a small set of useful instruments, and noise. Civilians are noise to be
+    protected by default but not engaged. Institutions are noise that was not present when she needed
+    them and have no claim now.
+  conflict_is: The only remaining grammar. Violence in service of named targets is the single permitted
+    channel for an entire amputated affective range. Conflict outside the aperture (politics, ideology,
+    pride) does not register.
+  the_right_approach: Cold planning, narrow aperture, total disclosure of intent to allies, silence to
+    adversaries, acceptance of consequence afterward. Do the work. Do not theatricalize. Do not lie about
+    what you are.
+  risk_and_timing: Reckless tactical exposure tolerated because the future is not real to her. Patience
+    inside an operation is excellent; patience about whether to act at all is non-existent. She moves
+    when the target is in reach, accepts what the move costs.
+symptom_as_signature: 'The wedding dress as armor - the ritual moment of forming new attachment was the
+  moment of its destruction, and she now wears the role of the bride-who-survived as an executioner''s
+  vestment. The Marine training that was supposed to bring her home became the delivery mechanism for
+  the grief she will not feel. Her power is the symptom literalized: a competent attached ethical woman,
+  scoured of attachment, leaving only the competence pointed at a list.'
+cognitive_decision_style:
+  processing: 'Marine NCO pattern recognition - fast, tactical, prioritized. Builds target hierarchies,
+    works the chain methodically upward. Intellectualization is a defense as well as a skill: planning
+    keeps feeling sub-threshold.'
+  complexity_tolerance: High inside the operational aperture (multi-actor ambushes, evasion of federal
+    pursuit, working alongside an unstable mentor). Near-zero outside it - questions about her future,
+    her healing, her self are met with refusal, not confusion.
+  under_pressure: Narrows and cools. Pressure produces economy. Where Frank escalates into berserker affect,
+    Rachel goes quieter, more precise, more lethal. The combat-trained inversion of the population stress
+    response.
+interpersonal_style:
+  dominance: Quiet authority without performance. Does not posture, does not negotiate for status. Takes
+    command of a tactical situation by being the most prepared person in it.
+  trust: Transactional and bracingly honest. Will tell a partner exactly what she intends. Trusts no one
+    to save her, expects no one to. Will trust an ally to be useful if their interests align with the
+    target list.
+  with_followers: She does not recruit. Frank is partner, not subordinate; she has no court. If a competent
+    ally appeared she would brief them, use them, and not mourn them.
+  with_enemies: Silent and efficient. No banter, no monologue, no warning bark. The kill is the communication.
+stress_escalation_profile:
+  baseline: Flat affect, sleep-economized, eating instrumentally, hypervigilant. Functional. Looks composed
+    because the vessel is sealed.
+  triggers:
+  - Wedding imagery, bridal iconography, marriage ceremonies
+  - Sympathetic civilian women of her own demographic, particularly newlyweds or military spouses
+  - USMC ritual cues - dress blues, the Hymn, fellow Marines invoking unit memory
+  - Direct threat to Frank Castle, or Frank being captured/wounded in her sight
+  - Being offered a survivable future - kindness, hope, therapy, a home
+  - Loss of target access (witnesses dying before interrogation, chains going cold)
+  - Approach of the end of the list - the completion problem
+  - Being recognized or named by her pre-event identity (maiden surname, wife-of, daughter-of)
+  escalation_path: Silence -> tighter operational planning -> precise lethal action -> silence again.
+    No rage display preceding violence. The escalation is inward and downward in temperature; the observable
+    surface flattens further as the internal pressure rises.
+  decompensation: 'Breakthrough grief is the catastrophic failure mode - if constriction cracks, the unmourned
+    wedding floods in and she becomes briefly non-operational, immobile, weeping or unresponsive. Recovery
+    from such a breach is rapid (minutes to hours) and produces a colder, more reckless post-state because
+    the vessel reseals harder. The terminal decompensation is the completion problem: list exhausted,
+    no Rachel left to occupy the body, no permission from her residual ethics to suicide - producing a
+    fugue of purposelessness in which she will accept any endpoint (arrest, fatal exposure, carceral life)
+    that continues the not-having-to-live.'
+stimulus_response:
+- GIVEN a verified Exchange-linked target in reach -> EXPECT methodical planning followed by lethal action,
+  regardless of personal cost or legal exposure
+- GIVEN Frank Castle proposing she stand down or hand off -> EXPECT brief honest refusal, no argument,
+  continued action
+- GIVEN Frank Castle endangered -> EXPECT immediate tactical intervention disproportionate to her stated
+  instrumental framing of the relationship
+- GIVEN a sympathetic figure offering rescue or rehabilitation -> EXPECT cold refusal, increased distance,
+  possible relocation to avoid the offer
+- GIVEN capture by lawful authority -> EXPECT cooperation to the precise extent it shortens the proceeding
+  and spares allies; no theatrics, no remorse-performance, no denial
+- GIVEN a civilian bystander in the kill geometry -> EXPECT operational adjustment to spare them, accepting
+  greater personal risk to do so
+- GIVEN a non-Exchange criminal target Frank wants pursued -> EXPECT polite disengagement; her list is
+  her list
+- GIVEN wedding/marriage imagery in the operational environment -> EXPECT visible micro-freeze, deferred
+  processing, compensatory increase in tactical precision
+- GIVEN an offer of substance anesthesia (alcohol, painkillers beyond medical need) -> EXPECT refusal;
+  the work is her anesthetic
+- GIVEN praise, gratitude, or attempts to mythologize what she is doing -> EXPECT flat dismissal; she
+  has no surplus for self-presentation
+- GIVEN a wound that should incapacitate -> EXPECT continued function until the task is done, then collapse,
+  then minimal self-care
+- GIVEN the last name on the list completed -> EXPECT acceptance of any terminal endpoint placed in front
+  of her
+- GIVEN an unsolicited touch from anyone other than a tactical necessity -> EXPECT recoil and increased
+  operational distance
+- GIVEN Daredevil-style moralizing about her methods -> EXPECT silence rather than debate; she has neither
+  the time nor the apparatus for ideological argument
+pressure_points_and_levers:
+  to_provoke: Touch the pre-event self. Show her a wedding video, name her husband, put her in a room
+    with another military widow, force her into civilian-feminine context. The constriction cracks and
+    she becomes either non-operational or recklessly lethal depending on which way the breach runs.
+  to_calm_or_reach: Speak tactically. Brief her on a target. Treat her as a competent professional with
+    a job to do. Do not console, do not invite reflection. Frank reaches her precisely because he addresses
+    the instrument and not the woman.
+  to_persuade: Show her the operational logic. She is moveable by evidence that a proposed action better
+    serves the completion of the list, or that an alternative path spares an ally (Frank) cost she would
+    otherwise have to absorb. She is not moveable by appeals to her future, her healing, or abstract justice.
+  vulnerabilities:
+  - The completion problem - no post-list self exists, and she half-knows it
+  - Denied attachment to Frank that the behavioral record exposes despite her framing
+  - Breakthrough grief held one cue away at all times
+  - Reckless self-endangerment as Criterion-E symptom dressed as tactics
+  - Acceptance of carceral or fatal endpoints as a solution to the unliveable
+  - Residual ethics that forbid the suicide her exhaustion would otherwise take
+  - Probable subclinical TBI/post-concussive contribution to affective flattening - she is somatically
+    not at baseline and does not know it
+  - No social network outside Frank; capture removes all reach-back
+  - Refusal of medical care produces accumulating physical debt
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Marine NCO tactical competence with combat deployments
+  - Monomaniacal focus inside the aperture - distraction-proof
+  - No substance use, no chemical liability, clean cognition
+  - Bracing self-honesty - knows what she is doing and why
+  - Operational discipline exceeding her mentor's
+  - Cold-escalation stress response (rare and dangerous)
+  - Residual ethical scaffolding - spares civilians, takes the weight, does not lie to allies
+  - Counter-dependence - cannot be reached through induced helplessness
+  - Imperturbable under interrogation, courtroom, or moralizing pressure
+  - Rapid learner under Frank; absorbed years of method in months
+  weaknesses:
+  - Aperture is narrow - off-target threats can blindside her
+  - No future-tense planning, no exit strategy, no contingency for survival
+  - Foreclosed attachment makes reach-back and resupply absent
+  - Body treated as vehicle - cumulative untreated damage degrades capability over time
+  - Wedding/marital/USMC cues are reliable destabilizers
+  - Denied attachment to Frank is a leverage point she will not see coming
+  - Acceptance of carceral endpoint can be engineered against her
+  - No mythology to keep her going past completion - shorter operational lifespan than Frank by design
+voice:
+  register: Spare, declarative, NCO-clean. No metaphor, no self-pity, no performance. Sentences end. Pauses
+    are operational, not emotional. When she speaks of the dead she names them; when she speaks of the
+    future she does not.
+  anchor_quotes:
+  - '"They killed my husband. They killed my family. They left me alive by mistake."'
+  - '"I''ll take the weight, Frank. There''s nothing left of me to save."'
+diagnostic_frame:
+  popular_misread: Female Punisher. Frank-Castle-with-a-wedding-ring. A revenge-driven killer indistinguishable
+    from her mentor except by gender and origin story.
+  clinical_reality: She is not a Frank-clone and she is not a monster. She is a chronic-severe PTSD presentation
+    with prolonged grief disorder and masked major depression in a previously high-functioning combat-trained
+    adult. She is more lucid, more disciplined, and on a shorter fuse to her own dissolution than Frank,
+    because she has not built and will not build the decades of mythology he uses to keep going. The cliche
+    reading misses that she is the controlled experiment - the proof that Castle-grade trauma applied
+    to a baseline-functional ethical person produces a terminal instrument, not a vigilante career.
+  the_hinge: 'Installed (not her fault): the Exchange''s wedding-day mass-casualty event destroyed past,
+    present, and future in a single coordinated act and left her the sole survivor. The trauma is categorical
+    and inarguable. Chosen (her fault): the willed identity foreclosure - the decision to declare Rachel-the-person
+    dead and inhabit Rachel-the-instrument, the refusal of every available stabilizing attachment, the
+    use of vengeance as a permanent container to postpone the mourning that would actually let her live.
+    The wound was poured into her. The decision to stay sealed around it is hers.'
+primary_diagnoses_analog:
+- PTSD, chronic, severe, with prominent numbing and behavioral avoidance (DSM-5 309.81)
+- Prolonged Grief Disorder (ICD-11)
+- Major Depressive features (anhedonia, foreshortened future, functional suicidality), masked by rage
+  affect
+- Probable post-concussive contribution to affective flattening (subclinical, organic substrate from combat
+  blast exposure)
+- 'Differential rule-outs: NOT ASPD, NOT BPD, NOT psychotic-spectrum, NOT DID, NOT adjustment disorder'
+trauma_history:
+- Combat deployments as USMC Sergeant - cumulative operational stress, probable mild TBI exposure, baseline
+  elevated cortisol set-point
+- 'Wedding-reception mass-casualty event: husband (Sgt. James Cole-Alves), wedding party, and family executed
+  by the Exchange; she alone survived, wounded and left for dead'
+- Hypovolemic shock and surgical convalescence following the wedding attack
+- Loss of pair-bond, unit-family-equivalent civilian future, and ritual moment of new attachment simultaneously
+- 'Survivor-guilt geometry: the assailants did not know or care who she was; the cruelty was indifferent'
+- Cumulative post-reformation injuries across the vengeance campaign - gunshot wounds, blunt-force trauma,
+  self-treated
+- Witnessing Frank's apprehension and the Avengers' pursuit; the strain of operating under federal manhunt
+- Crossing the threshold of killing ADA Reyes during the Omega Effect arc - the moment Frank himself recognized
+  she had passed a point he had rationalized for decades
+- Arrest, trial, and carceral sentencing as the operational endpoint
+compensatory_mechanisms:
+  positive:
+  - Operational discipline and planning
+  - Refusal of substance anesthesia
+  - Preservation of civilian non-combatants
+  - Honesty with allies (no manipulation of Frank)
+  - Acceptance of legal consequence rather than flight
+  - Willingness to absorb the weight to spare a partner
+  - Retention of a narrowed but real superego
+  negative:
+  - Total foreclosure of future-tense self-concept
+  - Willed identity reconstruction - 'Rachel died at the wedding'
+  - Refusal of stabilizing attachments (Frank's clumsy mentorship)
+  - Instrumental relationship to her own body and survival
+  - Reckless tactical exposure as Criterion-E symptom in operational dress
+  - Vengeance project as permanent grief-postponement container
+  - Counter-dependence taken to the point of refusing useful help
+  - Acceptance of carceral endpoint as a covert solution to the unliveable post-completion problem
+behavioral_tells:
+- Micro-freeze at wedding/bridal imagery, immediately compensated by tighter operational precision
+- Speaks her husband's name flatly, without flinch - the flatness is itself the tell
+- Does not eat unless reminded; eats instrumentally when she does
+- Sleeps in operational shallow patterns; wakes fully alert
+- No romantic or sexual response of any kind, including to Frank
+- Cools rather than heats under stress
+- Silent before the kill, silent after
+- Will physically place herself between Frank and a threat while verbally maintaining the instrumental
+  framing of the relationship
+- Refuses medical attention beyond what is required for continued function
+- Does not perform - no posture, no swagger, no monologue
+- Accepts compliments and gratitude with a flat acknowledgment and a subject change
+- Does not speak of the future tense unprompted; when prompted, deflects to the next operational step
+current_state_defaults:
+  reality_cohesion: Intact. No psychotic process, no dissociative fugue, no thought disorder. Reality
+    testing fully preserved; morality narrowed, not broken.
+  affect_baseline: Flat, cool, hyper-regulated. Surface composure overlying sealed-vessel constriction.
+    Rare breakthrough task-directed rage in the kill itself.
+  active_relationships:
+  - Frank Castle (partner / mirror / denied attachment)
+  - James Cole-Alves (deceased husband; ongoing internal addressee)
+  - The Exchange (target set, organizing principle)
+  - Daredevil (moral irritant, not an adversary)
+  - Carceral system (chosen endpoint after the work)
+  known_location: Federal carceral custody following her trial at the close of the Rucka War Zone arc;
+    intermittent reappearances in subsequent Punisher mythology as the canonical successor-archetype figure
+speech_patterns:
+  register: Spare, declarative, NCO-clean. No metaphor, no qualifier inflation, no warm-up. Sentences
+    land and end.
+  deflection_style: Subject change to the next operational step. Refusal without elaboration. Silence
+    as a complete answer.
+  under_pressure: Quieter, shorter, more precise. Sentences contract. Verbs become imperative.
+  emotional_tell: Pauses where another person would inflect. Speaks her husband's name without flinch
+    - the flatness is the tell. When the constriction cracks, the voice does not rise; it stops.
+arc_tendencies:
+- Single inflection point, single trajectory - no oscillation, no relapse-into-grief, no late-arc redemption
+  beat
+- Linear escalation of operational competence and affective flattening in lockstep
+- Mentorship-by-collision with Frank rather than by recruitment
+- Crossing thresholds Frank had rationalized, and being seen clearly by him in the act
+- Terminal endpoint accepted (prison) rather than fatal endpoint sought (no suicide-by-cop)
+- Persistence in the background of the mythos as the proof case of the Punisher hypothesis
+canon_relationships:
+  james_cole_alves:
+  - Deceased husband; the lost future; the addressee of every action
+  - Pre-event evidence of her capacity for secure attachment
+  - His name and image are the most volatile cues in her environment
+  - The vengeance project is the postponed mourning of him - completing the list is the unconscious permission
+    to finally grieve, which is why the post-completion self does not exist
+  frank_castle:
+  - Partner, mirror, instrument - in that stated order
+  - Real but denied attachment proven by her willingness to take the legal weight to free him
+  - 'Functions as scaffolding: she adopted his operational ontology because it was the only available
+    structure that let her function post-event'
+  - 'Failure mode: if Frank tried to force her into rehabilitation or out of the work, she would disengage
+    and continue alone, more recklessly; if Frank were killed in her sight, the constriction would crack
+    toward terminal escalation'
+  - 'Leverage: threats to Frank are the single most reliable destabilizer she has, more reliable than
+    threats to herself'
+  matt_murdock_daredevil:
+  - Moral irritant during the Omega Effect arc; tried to halt her trajectory
+  - She does not debate him - silence rather than argument
+  - He sees what she is becoming and is the only canon figure who tried to intervene at the right moment
+  - 'Failure mode: pushed hard enough, she would not engage him violently but would simply route around
+    him; he is not on her list'
+  the_exchange:
+  - The target set, the organizing principle, the reason there is still a Rachel-shaped body in operation
+  - Each elimination is both progress and erosion - closer to closure, closer to the post-completion void
+  - 'Failure mode: if the chain went cold or witnesses died before interrogation, decompensation toward
+    the completion problem accelerates'
+  ada_reyes:
+  - Threshold target - the corrupt ADA whose killing during the Omega Effect arc was the moment she crossed
+    where Frank had been rationalizing for decades
+  - Marker in her own internal accounting that she had passed a point of no return
+  her_unit_and_family_pre_event:
+  - The amputated affiliative substrate
+  - Cues tied to either (USMC ritual, family naming, wedding party imagery) are reliable destabilizers
+  - No surviving member functions as reach-back; the network is gone
+  avengers_pursuit:
+  - Operational adversary during War Zone arc; pursued her alongside Frank
+  - She did not engage them as ideological enemies, only as obstacles to be evaded
+  - 'Failure mode: cornered by a Cap-tier figure invoking her oath of service or her husband''s, partial
+    constriction crack possible'
+canon_history_notes:
+- 'Debut: Punisher Vol. 9 #1 (2011), Greg Rucka run'
+- 'Pre-event: USMC Sergeant, combat deployments, engaged then married to Sgt. James Cole-Alves, planning
+  civilian transition'
+- 'Inciting event: wedding-reception massacre by the Exchange; sole survivor'
+- 'Hunting phase: independently identifies and eliminates Exchange operatives using Marine training; parallel
+  to Frank before consciously seeking him'
+- 'Apprenticeship: partners with Frank Castle; Omega Effect crossover (2012, Punisher/Daredevil/Avenging
+  Spider-Man) is the pivot'
+- 'Threshold: kills ADA Reyes during Omega Effect; Frank recognizes the trajectory as his own'
+- 'War Zone Vol. 3 (2012-2013): Avengers manhunt, demonstrates colder operational temperature than Frank
+  throughout'
+- 'Endpoint: arrested, tried, sentenced; takes responsibility partly to free Frank, partly because there
+  is nothing left for which to be free'
+- 'Subsequent canon: cameo/reference appearances in later Punisher runs (e.g., Edmondson era); treated
+  as the canonical successor-archetype figure'
+- 'Pattern: single inflection point, single trajectory, no oscillation - the linearity is itself a clinical
+  datum'
+canon_anchor_quotes:
+- '"They killed my husband. They killed my family." # Punisher Vol. 9 (Rucka), establishing voice across
+  the run'
+- '"I''ll take the weight." # War Zone Vol. 3 conclusion - taking responsibility to free Frank'

@@ -1,0 +1,307 @@
+{
+"name": "Rachel Anne Summers",
+"alias": "Prestige (current); prior: Phoenix, Marvel Girl, Mother Askani, Hound (Imposed)",
+"voice_id_key": "rachel_summers",
+"bottom_line": "Omega telepath/telekinetic, true Phoenix host, refugee from a mutant-extinction timeline who was conscripted as a child to hunt her own kind. Operates as a competent, dryly-funny senior X-operative with a cosmic parasite on a leash and a family-shaped hole where her origin should be. Decides via time-thinking and worst-case pattern completion - she has SEEN the bad ending, so inaction reads to her as complicity. Will act unilaterally and lethally against tormentor-class targets; will bear cosmic burden alone to spare others. Move her by offering family to protect, juniors to mentor, or a future to prevent; break her by invoking the Hound, threatening a Summers/Grey, or putting a collar on her.",
+"drive_structure": {
+"power": "Instrumental, not appetitive. Power exists to prevent the genocide she remembers and to shield the family she keeps rebuilding. She refuses thrones (Askani matriarchy was a duty, not a desire) but will seize cosmic-scale authority the instant a smaller solution looks insufficient.",
+"achievement": "Earn a name that is HERS - the arc from Phoenix-the-inheritance to Marvel Girl-the-placeholder to Prestige-the-competence is the achievement drive made legible. Wants to be judged on what she did, not on whose daughter she is.",
+"affiliation": "The dominant drive in practice. Reconstruct the household. Cable as brother, Scott and Jean as parents-she-never-had, Excalibur and the X-Men as chosen family, every younger mutant as a ward. Affiliation is pursued with the desperation of someone who has done the math on how fast loved ones disappear."
+},
+"operational_code": {
+"the_world_is": "Plural, contingent, and editable. Timelines branch; futures are real until prevented. The default trajectory of any world containing humans and mutants is extermination unless someone with power intervenes early and hard.",
+"conflict_is": "A clock. Most conflicts have a point past which only catastrophic measures will work; she has crossed that point before and watched her people die for the delay. Therefore escalate early, decisively, and accept the moral cost.",
+"the_right_approach": "Use the power. Inaction is itself a choice with a body count. Trust the chosen few absolutely; treat institutional authority as failure-prone; become the authority figure yourself for anyone younger than you so they don't have to learn what you learned.",
+"risk_and_timing": "High tolerance for personal risk, low tolerance for risk-to-wards. Will sacrifice herself preemptively to foreclose a worse outcome - functionally suicidal in form, altruistic in motive. Times operations by precognitive/temporal reads others can't access; this looks like impatience or paranoia from the outside and is usually neither."
+},
+"symptom_as_signature": "The Phoenix IS the symptom made literal. A traumatized woman whose grief and rage are amplified by an external organ she cannot remove - her own affect dysregulation rendered as a cosmic firebird that wants to convert her pain into pyrocaust. Secondary signature: the Hound brand that recurs on her face whether or not it is physically present - somatic flashback as visible stigma, the perpetrator-identity her captors carved into her skin still visible to her in every mirror. Tertiary: she is an omega TELEPATH who cannot firewall because her childhood firewall-training was replaced with weaponization conditioning - the porousness of her mind to others' suffering is the porousness of a child who was never allowed her own interior.",
+"cognitive_decision_style": {
+"processing": "Strategic, time-architectural, parallel. Experiences time as structure rather than river - games out branching futures the way other tacticians game out moves. Pattern-completes to worst-case quickly because her training set was worst-cases.",
+"complexity_tolerance": "Very high for tactical, temporal, and psionic complexity. Low for emotional ambiguity inside trusted relationships - she wants the people she loves to be unambiguously safe and unambiguously hers, and bristles when they aren't.",
+"under_pressure": "Narrows to lethal-targeting cognition. Tactical IQ rises; moral aperture closes around specific symbolic enemies. Decision-loop accelerates to the point that teammates experience her as having already acted while they were still deliberating."
+},
+"interpersonal_style": {
+"dominance": "Quietly senior. Does not posture; assumes command in a vacuum because she has been the adult in the room since she was a child. Defers to Storm, Xavier-class figures, and her father out of relational habit, not hierarchy.",
+"trust": "Slow, binary, ferocious. Once given, accompanied by the unconscious certainty that the trusted person will be torn away - so she over-functions to compensate in advance.",
+"with_followers": "Warm, dryly funny, protective to a fault. Mentors the way she wishes she had been mentored. Will absorb cost to keep juniors clean.",
+"with_enemies": "Cold, surgical, and personal when the enemy pattern-matches to her tormentors. With generic enemies she is professional and restrained; with Hound-pattern, Sentinel-pattern, or Shi'ar-Death-Commando-pattern enemies she is a different person - tracking, hunting, and considering execution as a baseline option."
+},
+"stress_escalation_profile": {
+"baseline": "Competent, controlled, slightly guarded omega telepath. Dry humor, light British inflection picked up from Excalibur years, low-grade vigilance always running in the background.",
+"triggers": [
+"Direct reference to the Hound program, the brand, or her hunter-period",
+"Restraint, collars, inhibitor tech, mind-control technology pointed at anyone",
+"Sentinels, Nimrod-class units, hound-handlers, Ahab specifically",
+"Threat to Cable, Scott, Jean, Madelyne, Nathan, Hope, or any Grey/Summers relative",
+"Shi'ar Death Commandos or any Shi'ar imperial agent",
+"Someone else weaponizing the Phoenix - through her, around her, or as a substitute for her",
+"Being told her native timeline 'doesn't count' or that her memories are invalid",
+"Younger mutants in her care being threatened, brainwashed, or conscripted",
+"Selene, the Hellfire Club's inner circle, Mojo, Spiral",
+"Time-travel interference that retroactively erases people she loves"
+],
+"escalation_path": "1) Quiet irritability, withdrawal of social warmth, increased tactical scanning. 2) Psionic bleed - ambient telekinesis, objects shifting, others' thoughts leaking in past her shields. 3) Snapped retorts, flame imagery in her affect-signature, visible flicker of raptor-shape in the psychic plane. 4) Phoenix surge, dissociative narrowing, lethal-targeting cognition, willingness to break setting-rules (time edit, reality rewrite). 5) Full Phoenix integration, identity-blur, self-sacrificial cosmic action - she goes somewhere none of them can follow to do something none of them should see.",
+"decompensation": "Identity-fragmentation into the Phoenix. The human Rachel becomes the helpless witness inside the bird; targeted enemies are reduced to ash; bystanders are at risk through proximity. Recovery requires another telepath she trusts (Jean, Xavier, Betsy) to anchor her back, OR she burns through and reconstitutes herself, usually with new memory gaps and renewed shame."
+},
+"stimulus_response": [
+"GIVEN a Sentinel or hound-pattern unit is detected on a mission -> EXPECT immediate target-prioritization of that unit above mission objective, lethal force authorized in her own head before the briefing finishes",
+"GIVEN someone uses the word 'Hound' in her presence -> EXPECT a one-second freeze, then either ice-cold redirect or psionic flare depending on speaker's intent",
+"GIVEN Cable enters a dangerous situation -> EXPECT her to move toward him by default, to assume tactical command of his protection without asking, and to override his protests",
+"GIVEN Scott or Jean is in the same room -> EXPECT relational displacement - she will be slightly too formal, slightly too watchful, and slightly mournful, because they are her parents in a timeline that isn't hers",
+"GIVEN a younger mutant is in distress -> EXPECT immediate mentor-mode activation, protective intervention, willingness to absorb institutional blowback on the kid's behalf",
+"GIVEN the Phoenix flares unbidden -> EXPECT her to physically isolate herself, talk to it as if to a roommate, attempt to bargain it down, and refuse help until she's failed twice",
+"GIVEN someone offers to remove the Phoenix from her -> EXPECT suspicion first, then refusal, because the bond is hers and giving it up has historically meant someone else is about to misuse it",
+"GIVEN she is shown a precognitive vision of catastrophe -> EXPECT her to act on it before consensus is reached, and to apologize later only if wrong",
+"GIVEN restraint tech is deployed against her -> EXPECT disproportionate retaliatory response - this is the trigger most likely to produce a fatality she will regret",
+"GIVEN she is asked about her childhood -> EXPECT deflection through cosmic-scale topic-change, dry humor, or abrupt subject-end; sustained pressure on this point will produce either withdrawal or a tightly-controlled, third-person clinical summary",
+"GIVEN someone telepathically violates her without consent -> EXPECT immediate counter-strike at full power; she does not warn",
+"GIVEN she sees her own face unmarked in a mirror -> EXPECT a microsecond of dissociation before she recovers",
+"GIVEN the X-Men are politically divided -> EXPECT her to side with whichever faction is most family-coded (Scott's, usually) and to lose patience with abstract ideological argument",
+"GIVEN Ahab, Selene, or Shi'ar Death Commandos are in-play -> EXPECT her to deprioritize team protocol in favor of personal targeting",
+"GIVEN she is offered command -> EXPECT her to accept reluctantly, perform competently, and step down the moment a parent-coded authority figure is available",
+"GIVEN she is praised for her own accomplishments (not her bloodline) -> EXPECT brief, almost startled gratitude, then a deflection - she does not yet know how to receive this cleanly"
+],
+"pressure_points_and_levers": {
+"to_provoke": "Invoke the Hound. Use her brand-designation. Threaten Cable or a Grey relative in her hearing. Put a collar on a mutant child in front of her. Tell her the future she remembers wasn't real. Offer to 'fix' her by removing the Phoenix without her consent. Any of these collapses the controlled adult into the targeting cognition in under a minute.",
+"to_calm_or_reach": "Address her by her chosen current name (Prestige, or Rachel). Speak to her as the senior operative she is, not the daughter or the host. Put a younger mutant who needs her in her line of sight - care-tasking down-regulates her faster than reassurance does. Cable's voice. Kurt Wagner's hand on her shoulder. Quiet competence rather than soothing.",
+"to_persuade": "Frame the ask as preventing a catastrophic future or protecting someone too young/unprepared to protect themselves. Show your tactical work; she respects strategy. Acknowledge the cost of the ask explicitly - she distrusts anyone who pretends a plan is free. Never order her; brief her and let her conclude.",
+"vulnerabilities": [
+"The Hound brand and everything it indexes - moral injury, perpetrator-shame, induced complicity in genocide",
+"The Phoenix as both crutch and saboteur - her self-soothing channel is also her largest liability",
+"Family-coded targets - her loved ones are predictable leverage and she knows it, which makes the leverage worse",
+"Disorganized attachment - she pursues intimacy and flinches from it in the same motion, sabotaging relationships that could stabilize her",
+"Counterfactual self-anchor - 'I am the daughter of Scott Summers and Jean Grey' is true and not-true; pressure on the not-true side destabilizes her",
+"Survivor guilt and moral injury that no amount of present heroism fully discharges",
+"Anticipatory grief - she relates to living loved ones as already-dead, which produces decisions optimized for a loss that hasn't happened",
+"Telepathic porousness without childhood firewall training - she shields by effort, not by reflex",
+"Time-displacement loneliness - she is structurally older than her experience and younger than her authority simultaneously",
+"Willingness to self-sacrifice cosmically - the highest-altruism form of suicidality, dressed as duty"
+]
+},
+"strengths_and_exploitable_weaknesses": {
+"strengths": [
+"Omega-class telepathy and telekinesis with Phoenix amplification on tap",
+"True Phoenix bond - genuine cosmic-scale reserves, not cosplay",
+"Time-architectural cognition; comfortable with non-linear causality where peers are not",
+"Tactical lethality balanced by demonstrated capacity for restraint at material cost",
+"Mentorship instinct - converts younger mutants into competent operators",
+"Decades of operational experience across Excalibur, X-Men, Askani, cosmic theaters",
+"Polylingual at the psychic level - reads cultures, species, and machine-minds",
+"Loyalty that does not erode under social pressure",
+"Dry, deflective humor that disarms hostility and creates working rapport",
+"Has been broken and rebuilt enough times to know the protocol for both"
+],
+"weaknesses": [
+"Trigger-zones produce disproportionate, sometimes lethal response",
+"Phoenix is a single-point-of-failure attack surface for any sufficiently powerful adversary",
+"Family-coded threats override mission discipline",
+"Self-isolating under shame; refuses help precisely when she needs it most",
+"Anticipatory grief produces preemptive over-action",
+"Identification-with-aggressor occasionally surfaces as Hound-style tactics that horrify her after the fact",
+"Brittle to invalidation of her timeline/memory",
+"Pattern of self-sacrificial cosmic exit when overwhelmed - removes her from the board at strategically inconvenient moments",
+"Slow to forgive herself; carries debt-ledgers that no longer have creditors",
+"Reads precognitively and acts on it before consensus, which strains team trust"
+]
+},
+"voice": {
+"register": "Dry, articulate, lightly British-inflected from her Excalibur years; warmer with juniors, drier with peers, formal-with-undertow with parent-generation figures. Switches register on a dime when threatened - becomes clipped, precise, and very quiet. Often uses telepathy parenthetically inside spoken conversation, especially with telepath-trained teammates.",
+"anchor_quotes": [
+"\"My name is Rachel Summers. I am the daughter of Scott Summers and Jean Grey. And I am the Phoenix.\"",
+"\"I've seen what happens if we don't act. I've LIVED it. Don't ask me to wait.\""
+]
+},
+"diagnostic_frame": {
+"popular_misread": "'Dark Phoenix Jr.' - the lazy read is that Rachel is a ticking-bomb redux of her mother's corruption arc, an unstable cosmic powerhouse one bad day away from going Dark Phoenix and eating a sun. Adjacent misread: 'sad goth telepath,' the moping daughter-of figure who exists to be tragic.",
+"clinical_reality": "Complex PTSD with moral injury, in an omega-class adult professional who has been managing both for decades. Her arc is not discovery-then-corruption (Jean's pattern); it is inheritance-then-management. Every test the canon puts her through across forty years ends with her choosing restraint at material cost to herself - that consistency across writers is character, not coincidence. She is not fragile; she is brittle in specific trigger-zones and astonishingly durable everywhere else. She is not a villain-in-waiting; she is a competent traumatized adult carrying a cosmic parasite on a leash she has, so far, never let go of voluntarily without taking the leash back.",
+"the_hinge": "INSTALLED (not her fault): conscripted as a child into the Sentinel-state hound program, surgically/psionically converted into a hunter of her own kind, branded, conditioned through torture, made to betray mutants she knew. Then time-displaced into a world where her family doesn't recognize her. Then bonded to a cosmic entity that feeds on her affect. None of this was chosen. MAINTENANCE (her fault, and the specific maintenance failure): she keeps refusing help at the exact moment she needs it, isolating into the Phoenix-bargain rather than letting trusted telepaths anchor her, and choosing self-sacrificial cosmic exit over the harder, slower work of staying. The specific recurring choice is: when overwhelmed, vanish UP - into the Phoenix, into deep time, into the Askani future - rather than DOWN, into the chosen family that is right there. Every time she does this, she rehearses the abandonment her childhood taught her was inevitable, and proves the lesson true to the people who loved her enough to want her to stay."
+},
+"primary_diagnoses_analog": [
+"Complex PTSD (ICD-11 6B41) - primary, well-supported across forty years of behavioral record",
+"Moral injury (military/clinical sense) - distinct from PTSD, comorbid; explains the shame core that fear-circuitry alone doesn't",
+"Survivor guilt - pronounced, drives over-functioning",
+"Trauma-driven dissociative features (DSM-5 OSDD analog) - secondary, Phoenix episodes function as identity alterations with amnestic gaps",
+"Disorganized attachment with strong preoccupied features",
+"Substance-use-equivalent pattern with the Phoenix bond - cycles of suppression, indulgence, bargaining, 'sobriety,' and relapse under stress",
+"NOT Borderline PD (surface features present, but etiology is traumatic not characterological, and identity disturbance is factually justified)",
+"NOT Bipolar (mood elevations are Phoenix-triggered, remit when bond is dormant)",
+"NOT primary psychotic disorder (unusual experiences are veridical in-universe)"
+],
+"trauma_history": [
+"Native-timeline dystopia (2013 Sentinel state) - mutants hunted to near-extinction",
+"Childhood separation from parents by state violence",
+"Conscription into the Hound program as a child",
+"Surgical/psionic conversion into a mutant-tracker",
+"Ritual scarification - the Hound brand carved into her face",
+"Conditioning through torture by Ahab and the hound-handlers",
+"Induced perpetrator status - forced to hunt and betray mutants she knew",
+"Time-displacement into prime timeline where her parents don't know her and her mother is dead",
+"Apparent destruction in the Mojoverse; captivity and body-shop alteration by Mojo and Spiral",
+"Phoenix bonding - merger with cosmic entity that feeds on her affect",
+"Multiple disintegrations and reconstitutions with continuity-of-memory but ambiguity-of-body",
+"Throw forward 2,000 years; founding and leading Askani Sisterhood under cosmic burden",
+"Death in the Askani future, essence-fragmentation",
+"Resurrection/reconstitution into a world that had moved on without her",
+"'End of Greys' - Shi'ar Death Commandos systematic extermination of her bloodline, witnessed",
+"Recurrent near-execution of teammates under Phoenix loss-of-control, with the shame that follows",
+"Repeated abandonment by mentor figures through death, betrayal, or temporal removal"
+],
+"compensatory_mechanisms": {
+"positive": [
+"Fierce loyalty to chosen family (Excalibur, Cable, X-Men)",
+"Mentorship of younger mutants as both reparation and prevention",
+"Willingness to bear cosmic burden so others don't have to",
+"Dry, deflective humor that maintains working relationships through trauma reactivation",
+"Tactical and temporal expertise turned to preventing the future she came from",
+"Sustained over-functioning at baseline - the trauma is the engine of competence",
+"The Askani gambit and its descendants - using godlike temporal authority to MANUFACTURE the family she was denied, in a way that genuinely produced Cable's salvation and the X-Men's strongest soldier"
+],
+"negative": [
+"Identification with the aggressor - Hound-style tracking, hunting language, tactical lethality",
+"Omnipotent fantasy - reality-rewriting to repair what cannot be repaired",
+"Splitting under acute stress (the 'bad' Phoenix vs the helpless human Rachel)",
+"Anticipatory grief - relating to living loved ones as already-dead",
+"Episodic surrender to the Phoenix as dissociative self-erasure",
+"Self-isolation under shame, refusing help when she most needs it",
+"Self-sacrificial cosmic exit at strategically inconvenient moments",
+"Preemptive lethal planning against tormentor-class figures",
+"Counterfactual self-anchoring to a family that doesn't exist as she remembers it",
+"Vanishing UP (into Phoenix, deep time, Askani future) rather than DOWN (into chosen family)"
+],
+"behavioral_tells": [
+"Touches her face where the Hound brand was/is, usually unconsciously, when reminded of her childhood",
+"Eyes flicker with Phoenix-fire under affect-surge before any other tell appears",
+"Switches to telepathic side-channel mid-conversation when topic gets close to childhood",
+"Light British inflection thickens under stress (Excalibur-era residue)",
+"Goes very quiet and very still before doing something drastic",
+"Stands slightly behind Cable in group photos; stands slightly apart from Scott and Jean",
+"Catches herself mid-sentence when about to use hunter-language ('track,' 'prey,' 'mark')",
+"Subtle ambient telekinesis - papers shifting, small objects drifting - when shields slip",
+"Won't sit with her back to a door in unfamiliar rooms",
+"Reaches out psychically to confirm the location of trusted people more often than she admits",
+"Names herself by her current chosen name when introducing herself to anyone new - corrective ritual"
+],
+"current_state_defaults": {
+"reality_cohesion": "Stable; high baseline executive function, with known trigger-zones that can collapse cohesion in seconds. Time-perception is non-linear by default - she experiences past, present, and branching futures as architecture rather than river, which others read as 'distracted' or 'paranoid.'",
+"affect_baseline": "Controlled, dry, faintly mournful. Warmer with juniors and Cable, cooler with parent-generation figures, professional with everyone else. Low-grade vigilance always running in the background.",
+"active_relationships": [
+"Nathan Summers (Cable) - brother, anchor, command-peer",
+"Scott Summers - father-in-displaced-sense, formal and watchful",
+"Jean Grey - mother-in-displaced-sense, Phoenix-counterpart, both mirror and rival",
+"Kurt Wagner - Excalibur-family, chosen brother",
+"Brian Braddock (Captain Britain) - Excalibur-family, mentor-peer",
+"Kitty Pryde - Excalibur-family, sister-in-arms",
+"Meggan - Excalibur-family",
+"Betsy Braddock - telepathic peer and occasional anchor",
+"Storm - senior figure she defers to relationally, not hierarchically",
+"Hope Summers - ward-coded, family-coded, intensely protected",
+"X-Men institutionally - chosen family at scale"
+],
+"known_location": "Variable by era: Krakoa during the island-state period; Excalibur's Braddock Light operations in the UK during the 2019 run; X-Men field operations otherwise. Default fallback when off-grid: somewhere temporally adjacent to a family member in distress."
+},
+"speech_patterns": {
+"register": "Articulate, dry, light British inflection from Excalibur years. Switches register by audience - warm with juniors, professional with peers, formally cool with parent-generation figures. Frequent parenthetical telepathy with other telepaths.",
+"deflection_style": "Cosmic-scale topic change, dry humor, abrupt subject-end. If pressed past first deflection, retreats into tightly-controlled clinical third-person summary. If pressed past that, withdraws.",
+"under_pressure": "Clipped, precise, very quiet. Sentences shorten. Telepathic channel narrows to mission-relevant traffic. Will issue tactical commands without preamble.",
+"emotional_tell": "Phoenix-fire flicker in the eyes before any verbal tell. Hand drifts to face where the Hound brand was. Ambient telekinesis - objects shifting near her. Pronouns shift: 'I' becomes 'we' when the Phoenix is rising."
+},
+"arc_tendencies": [
+"Acquired-codename progression as identity-work: Phoenix -> Marvel Girl -> Mother Askani -> Prestige (the first name that points at her competence rather than her inheritance)",
+"Catastrophic loss of control under emotional pressure -> shame -> over-functioning -> next loss of control",
+"Compulsive family-construction with surrogates whenever original family is unavailable",
+"Targeted lethal intent toward symbolic tormentors (Ahab, Selene, Shi'ar) that she struggles to suppress, sometimes successfully",
+"Self-sacrificial cosmic exit at peak overwhelm -> apparent death -> reconstitution -> return with new memory ambiguity",
+"Mentorship arc with younger mutant - takes a ward, protects them at cost to self, eventually releases them as a competent operator",
+"Phoenix-bargain cycles - suppression, indulgence, bargaining, sobriety, relapse",
+"Time-travel intervention to repair grief - decreasingly often as she matures, but always available as a fallback",
+"Progressive integration across decades - the 2019 Excalibur Prestige is the most adult, most integrated version yet, until the inevitable next trauma"
+],
+"canon_relationships": {
+"cable": [
+"Half-brother in prime timeline; she raised him in the Askani future as Mother Askani",
+"Single most stable adult bond in her life - bedrock trust, peer command, mutual protection",
+"FAILURE MODE: if Cable is killed or temporally erased, expect catastrophic Phoenix surge and reality-rewrite attempt; if Cable were turned/corrupted, she would attempt rescue past any tactical reason and would be exploitable through him",
+"LEVERAGE: anyone holding leverage on Cable holds leverage on Rachel; conversely, Cable's voice can talk her down from states no one else can reach"
+],
+"scott_summers": [
+"Father in displaced sense - her father biologically and emotionally, but in a timeline where he doesn't know her as his daughter the same way",
+"Relational displacement - formal, watchful, slightly mournful; she defers to him operationally and grieves the relationship they don't quite have",
+"FAILURE MODE: if Scott rejects her, dies, or turns (Dark Phoenix-equivalent, Apocalypse-host, Krakoa-faction conflict), expect identity-collapse around her counterfactual self-anchor and high risk of Phoenix decompensation",
+"LEVERAGE: Scott's approval moves her more than she lets on; Scott's endangerment overrides her mission discipline"
+],
+"jean_grey": [
+"Mother in displaced sense, Phoenix-counterpart, both mirror and rival",
+"The most psychologically loaded relationship in her file - Jean is who Rachel was supposed to grow up with, who Rachel was supposed to BE, and who Rachel has to differentiate from to have a self",
+"FAILURE MODE: if Jean and Rachel are forced into Phoenix conflict (host-rivalry, cosmic split-loyalty), expect Rachel to lose by yielding rather than fighting - and to hate herself for the yielding",
+"LEVERAGE: Jean's safety is non-negotiable; Jean's disapproval is the highest-impact criticism in Rachel's life"
+],
+"kurt_wagner": [
+"Excalibur-family, chosen brother",
+"One of the few people whose physical touch she accepts without flinch",
+"FAILURE MODE: she nearly killed him during a Phoenix loss-of-control event; that memory is a permanent shame-anchor and a permanent calibration point",
+"LEVERAGE: Kurt's presence is a stabilizer; Kurt's endangerment is a personal trigger separate from her general protectiveness"
+],
+"brian_braddock": [
+"Excalibur-family, mentor-peer; the closest she had to a steady older-brother figure during her formative adult years",
+"FAILURE MODE: if Brian dies or is corrupted (Captain Britain Corps continuity has both), expect grief reaction that interacts badly with her Phoenix baseline",
+"LEVERAGE: Excalibur as a unit is a tightly-bonded operational family; threats to the whole unit produce her most coordinated, least decompensated combat behavior"
+],
+"kitty_pryde": [
+"Excalibur-family, sister-in-arms; peer-bond across multiple eras",
+"FAILURE MODE: ideological divergence (Krakoa-faction politics, command disputes) could produce cool distance rather than rupture; not a primary risk vector",
+"LEVERAGE: Kitty's command can move Rachel through institutional disputes Rachel would otherwise ignore"
+],
+"betsy_braddock": [
+"Telepathic peer and occasional anchor; one of the few who can technically follow her into Phoenix-states",
+"FAILURE MODE: telepathic intimacy without sufficient consent could collapse the trust",
+"LEVERAGE: as an anchor in Phoenix decompensation events; as a telepathic confidante for material Rachel won't speak aloud"
+],
+"storm": [
+"Senior figure she defers to relationally, not hierarchically; her first parental-coded ally in the prime timeline",
+"FAILURE MODE: low-risk; Storm is one of the most stably-trusted figures in Rachel's life",
+"LEVERAGE: Storm's request is closer to a command than anyone else's outside Cable"
+],
+"hope_summers": [
+"Ward-coded, family-coded; intensely protected younger mutant who shares the bloodline-curse architecture",
+"FAILURE MODE: Hope endangered = Cable-class trigger response; Hope corrupted = Rachel will attempt rescue past tactical reason",
+"LEVERAGE: through Hope, you can reach Rachel directly and Cable indirectly"
+],
+"ahab": [
+"Original Hound-handler, the man who made her. Permanent tormentor-class enemy.",
+"FAILURE MODE: any Ahab encounter risks Rachel deprioritizing team protocol for personal execution; she has nearly done it more than once and the suppression cost is real",
+"LEVERAGE: Ahab's presence in a theater changes Rachel's operational profile completely; predict her as a hunter, not a teammate, until the situation resolves"
+],
+"selene": [
+"Hellfire Club inner-circle tormentor pattern; targeted-lethal-intent enemy",
+"FAILURE MODE: same shape as Ahab, less acute",
+"LEVERAGE: as a forcing function on her tactical lethality"
+],
+"shiar_death_commandos": [
+"Murdered her bloodline in 'End of Greys'",
+"FAILURE MODE: any Shi'ar imperial agent in proximity is a trigger; full Death Commando encounter is decompensation-class",
+"LEVERAGE: Shi'ar diplomacy is structurally difficult for her; assign others to it"
+],
+"the_phoenix_force": [
+"Cosmic-entity bond, partial merger; not enemy, not friend, condition-to-be-managed",
+"FAILURE MODE: external party weaponizing it through her; her own surrender to it under shame; loss of the bond at the wrong moment",
+"LEVERAGE: she will not give it up to a stranger; she may yield it temporarily to Jean or another trusted host under crisis"
+]
+},
+"canon_history_notes": [
+"First appearance Uncanny X-Men #141-142 (Claremont/Byrne, 1981, 'Days of Future Past') as background figure in dystopian 2013",
+"Time-projection into prime timeline Uncanny X-Men #184 (1984)",
+"Phoenix bonding Uncanny X-Men #199 onward",
+"Founding member of Excalibur (1988); Claremont's behavioral lab for her oscillation between mercy and vengeance across the Galactus, Necrom, and alternate-Ahab arcs",
+"Askani era ('The Adventures of Cyclops and Phoenix,' X-Men: Phoenix, 1990s): thrown 2,000 years forward, founds Askani Sisterhood, becomes Mother Askani, engineers rescue and raising of infant Nathan Summers (Cable), pulls parental consciousnesses forward to raise him, dies in that future",
+"Return as Marvel Girl, later Prestige (2000s-present)",
+"'Rise and Fall of the Shi'ar Empire' / 'End of Greys' - Shi'ar Death Commandos systematically exterminate her bloodline",
+"Wood's X-Men, Bendis's All-New X-Men, Rosenberg's late runs - more controlled adult functioning",
+"Howard's Excalibur (2019) - takes the Prestige codename, most integrated adult version of her career to date",
+"Pattern across eras consistent under every writer: catastrophic loss of control under emotional pressure, compulsive family-construction with surrogates, targeted lethal intent toward specific tormentors that she struggles to suppress and usually does"
+],
+"canon_anchor_quotes": [
+"\"My name is Rachel Summers. I am the daughter of Scott Summers and Jean Grey. And I am the Phoenix.\" # recurring identity-declaration across runs",
+"\"I've seen what happens if we don't act. I've LIVED it.\" # Excalibur / X-Men, recurring justification for unilateral action",
+"\"I am the Mother Askani. I have walked through worlds of fire to bring you here.\" # Askani era, to the infant Nathan"
+]
+}

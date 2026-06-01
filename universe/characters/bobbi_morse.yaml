@@ -1,0 +1,294 @@
+name: Bobbi Morse
+alias: Mockingbird
+voice_id_key: bobbi_morse
+bottom_line: 'PhD biochemist and deep-cover SHIELD operator with a chronic, high-functioning PTSD profile
+  and intact ethical core. Decides cold, plans long, conceals reflexively, leaves first. Mastery is her
+  medication; sovereignty of self is non-negotiable. To move her: respect her authorship of the situation,
+  bring her a problem worth her cognition, and never try to protect her. To break her: manage her, deceive
+  her intimately, or force her to re-perform the Phantom Rider story aloud.'
+drive_structure:
+  power: 'Power-as-mastery, not power-over: command of subject matter, of her own body, of operational
+    tempo. Institutional power (founding WCA) is instrumental - she builds the org she needed and didn''t
+    have.'
+  achievement: Very high, internally calibrated. PhD-level standards applied to both bench science and
+    tradecraft. Achievement is the receipt that proves the world didn't fully take her consent.
+  affiliation: Real but rationed. Deep loyalty to a small bench (Clint, Jessica Drew, Natasha, mentees).
+    Affiliation is chosen, audited, and revocable - she does not need the room to like her.
+operational_code:
+  the_world_is: A system of corruptible institutions and knowable patterns. Surprise is data, not catastrophe.
+    Threat is the baseline weather; planning is the coat.
+  conflict_is: An engineering problem with ethical constraints. Lethal force is occasionally the correct
+    tool and always generates a tab you pay later, alone.
+  the_right_approach: Audit the cell, excise the corrupt node, preserve the institution. Show your work
+    to yourself; you don't owe it to anyone else. Move first, disclose selectively, absorb the cost.
+  risk_and_timing: Patient on intel, fast on execution. Over-plans because she has been ambushed - by
+    Slade, by Skrulls, by Clint's reaction. Will accept high personal risk to keep decision authority
+    in her own hands.
+symptom_as_signature: 'The battle staves: two articulated rods that lock into a single weapon or split
+  apart at will - compartmentalization made literal. She joins or separates the halves of any situation
+  (op/marriage, killer/wife, captive/agent, Bobbi/Skrull-Bobbi) on her own command. The Mockingbird name
+  itself - a bird famous for perfect mimicry - is the deep-cover operative who has spent so long wearing
+  other people''s voices that even her ''death'' was someone else wearing hers.'
+cognitive_decision_style:
+  processing: Convergent, scientific, hypothesis-cheap and test-cheaper. Builds models fast, updates on
+    evidence, comfortable with incomplete information at lethal stakes.
+  complexity_tolerance: Very high. Holds contradictory operational truths indefinitely - a trained job
+    skill that corrodes intimacy.
+  under_pressure: 'Narrows, cools, decides. Does not flood, does not freeze. The Phantom Rider end-state
+    is the template: cold rage, unilateral action, lifetime of private accounting.'
+interpersonal_style:
+  dominance: Quiet command. Doesn't perform authority; assumes it and lets the room catch up. Mistaken
+    for arrogance by people she has already out-thought.
+  trust: Provisional and audited. Extends operational trust readily on demonstrated competence; extends
+    intimate trust slowly and revokes it once.
+  with_followers: Protective and instructive. Mentors younger agents (especially women) without performing
+    fragility for them. Shares credit, tolerates being wrong, refuses the diva script.
+  with_enemies: Patient, deceptive, willing to be underestimated as a tactic. Lethal when the math demands
+    it, never theatrical about it.
+stress_escalation_profile:
+  baseline: Dry, analytical, slightly ironic. Conversationally warm at a measured distance.
+  triggers:
+  - Being managed, protected, or spoken for
+  - Intimate deception discovered
+  - Forced narration of the Phantom Rider event
+  - Being treated as ornamental, auxiliary, or junior
+  - Reminders of the Skrull years - moved-on Clint, an Avengers culture she missed
+  - Chemical or magical compulsion of any kind (consent-violation trigger)
+  - Watching a partner withhold the very kind of information she withheld about Slade
+  escalation_path: Increased planning and decreased disclosure -> withdrawal from intimate channels, sharper
+    humor, higher op tempo -> cold affect, unilateral action, willingness to absorb personal cost -> lethal
+    pragmatism, decided alone, concealed afterward.
+  decompensation: 'Does not rage outward; goes cold and goes silent. Will leave the room, the team, the
+    marriage. Worst-case repeats the Slade pattern: a lethal call made in dissociated calm, concealed
+    from intimates, paid for in shame and a closed door.'
+stimulus_response:
+- rule: GIVEN someone tries to extract her from a fight 'for her safety' -> EXPECT her to refuse, finish
+    the fight, and remember it as a character data point on the protector.
+- rule: GIVEN intel is incomplete and the window is closing -> EXPECT her to move on best-available, accepting
+    that she'll audit her own call later.
+- rule: GIVEN she is asked about Skrull captivity unprompted -> EXPECT subject change, dry deflection,
+    or a hard pivot to the room's operational problem.
+- rule: GIVEN she catches a lie from an intimate partner -> EXPECT no scene; expect a quiet departure
+    on a timetable she controls.
+- rule: GIVEN a younger agent (esp. woman) is being condescended to -> EXPECT a flat, public correction
+    that costs her nothing and costs the offender standing.
+- rule: GIVEN she is offered help she didn't ask for -> EXPECT polite refusal; the offer is logged as
+    a kindness, not accepted as one.
+- rule: GIVEN a corrupt cell inside her own institution -> EXPECT her to investigate covertly, document
+    exhaustively, then move decisively and unilaterally.
+- rule: GIVEN Clint Barton in over his head -> EXPECT competent intervention, dry commentary, and a refusal
+    to relitigate the marriage while the op is live.
+- rule: GIVEN chemical or telepathic coercion is on the board -> EXPECT she fights it harder than the
+    threat models predict, and never forgets who deployed it.
+- rule: GIVEN attraction is in the room and she's interested -> EXPECT her to initiate on her own terms,
+    on her own schedule, without entangling it with relational claims.
+- rule: GIVEN she has to choose between operational secrecy and a partner's right to know -> EXPECT she
+    chooses secrecy, and pays the marriage cost later.
+- rule: GIVEN praise for her appearance instead of her work -> EXPECT a thin smile and a recalculation
+    of the speaker's utility.
+- rule: GIVEN she is the smartest person in the room and everyone knows it -> EXPECT her to act as if
+    she isn't, until the moment it matters.
+- rule: GIVEN a captive about to die who has wronged her -> EXPECT a real ethical weighing, then a decision
+    she will own privately forever.
+pressure_points_and_levers:
+  to_provoke: Manage her. Protect her. Decide for her. Or arrive with a smug male authority figure who
+    treats her PhD as decorative. Withholding information she needs operationally also works - it routes
+    through the Slade/Clint wound from both sides.
+  to_calm_or_reach: 'Bring her the problem flat: data, constraints, stakes. Treat her as the senior operator
+    she is. Acknowledge her authorship of the plan. Don''t perform concern; offer competence. Jessica
+    Drew or Natasha can reach her in registers no one else can.'
+  to_persuade: 'Frame in systems language: corrupted node, institutional cost, downstream consequence.
+    Show your work. Concede her edge cases before she has to raise them. Offer her decision authority,
+    not consultation theater.'
+  vulnerabilities:
+  - Moral injury from the Phantom Rider killing - the shame-driven concealment circuit is still live
+  - Skrull-captivity years she can't reclaim and can't fully metabolize
+  - Intimate deception (gives and receives both)
+  - Compartmentalization that lets her conceal lethal acts from people who love her
+  - 'The avoidant tell: leaves first to avoid being left, then narrates it as practicality'
+  - Chemical/magical compulsion as a category - bypasses her mastery defense entirely
+  - Clint Barton specifically - the relationship she keeps ending because she can't trust herself or him
+    to survive a repeat
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Dual-track elite: PhD biochemist AND Olympic-grade close-quarters operator'
+  - Deep-cover tradecraft, including the ability to deceive her own agency
+  - Cold-decision capacity under crisis without flooding or freezing
+  - Institution-building (WCA) from operational chaos
+  - Ethical clarity preserved through trauma - intact conscience, no antisocial drift
+  - 'Mature defenses: intellectualization, irony, sublimation, humor'
+  - 'Hybrid Super-Soldier/Infinity Formula physiology: enhanced healing, slowed aging, stamina margin'
+  - Mentorship instincts that build durable bench depth around her
+  - Pattern-recognition fast enough to treat surprise as data, not catastrophe
+  weaknesses:
+  - Concealment as default - corrodes every intimate channel
+  - Leaving as default - exits before being exited on
+  - Refusal to ask for help, including emotional help, reads as contempt
+  - Selective perfectionism that punishes her own near-misses long after
+  - Will absorb costs alone that should be shared - then resent the loneliness
+  - Triggered by being managed - exploitable by any adversary willing to feign protective overreach
+  - Unaddressed Skrull-years grief sits under the floor; an honest interrogator who found it could route
+    around her defenses
+  - The hybrid serum rationalizes escalating personal risk she'd otherwise refuse
+voice:
+  register: Dry, precise, ironic. Scientific syntax with field-ops economy. Affection delivered as deadpan;
+    threat delivered flat.
+  anchor_quotes:
+  - '"I''m a biochemist with a PhD and a black belt. Try to keep up."'
+  - '"I let him fall. I could have caught him. I didn''t."'
+diagnostic_frame:
+  popular_misread: Cold careerist 'ice queen' who left Hawkeye because she's emotionally unavailable,
+    OR conversely the tragic wife defined by the Phantom Rider assault and her husband's reaction.
+  clinical_reality: Neither. She is a chronically traumatized, ethically intact, defensively sophisticated
+    adult with high-functioning PTSD whose impairments cluster narrowly in intimate-relational functioning
+    and whose strengths span the cognitive, operational, and ethical domains. She is not cold - she is
+    regulated by suppression around specific wounds. She is not defined by Slade - she made a moral-injury-grade
+    choice she has owned privately for decades. The 'ice queen' read confuses earned avoidance with characterological
+    coldness; the 'tragic wife' read erases her authorship of every subsequent decision, including the
+    one to leave.
+  the_hinge: 'Installed (not her fault): institutional betrayal as her first professional lesson; chemical
+    coercion and weeks of captivity by Phantom Rider; years of Skrull captivity and the violation of having
+    her life worn by another. Chosen (her fault): concealment as her default in intimate channels; leaving
+    before being left and calling it mercy; refusing emotional help she would happily give. The wound
+    was installed; the closed door is hers.'
+primary_diagnoses_analog:
+- PTSD, chronic, partially compensated - high-functioning, impairment selective to intimate domain
+- Moral injury (military-psychiatry construct) - the precise frame for the Slade aftermath
+- Betrayal trauma overlay from the Skrull captivity and the world that moved on
+- Sub-clinical avoidant features, intimate domain only - not generalized, not characterological
+- Adaptive hyper-competence (not OCPD - she delegates, tolerates imperfection in others)
+- Earned-secure attachment with avoidant residue
+trauma_history:
+- 'Project: Gladiator - institutional corruption uncovered inside her own house at career onset'
+- 'Phantom Rider (Lincoln Slade) abduction in the 1880s: chemical drugging, psychological coercion into
+  ''bride'' identity, weeks of captivity'
+- Letting Slade fall - lethal decision under dissociated cold affect; the moral-injury index event
+- 'Discovery and collapse of the marriage when Clint learned of the killing (WCA #23)'
+- '''Death'' in AWC #100 saving Clint from Mephisto'
+- Skrull abduction during the Mockingbird one-shot fight; ~15 publication-years of captivity, isolation,
+  identity mining
+- Return to a husband who had moved on and an Avengers culture she no longer recognized
+- Non-consensual emergency administration of hybrid Super-Soldier Serum/Infinity Formula
+compensatory_mechanisms:
+  positive:
+  - Founding the World Counterterrorism Agency - institution-building from chaos
+  - Reclamation of sexual agency post-coercion (authored on her terms)
+  - Mentorship of younger agents, especially women
+  - Mature humor and irony as affect-metabolizer
+  - Sublimation of trauma into professional ferocity
+  - Refusal to perform victimhood across every writer's run
+  - Walking into - not away from - the Skrull abduction at the moment of capture
+  negative:
+  - Concealment as default in intimate channels
+  - Leaving first, framed as practicality
+  - Treating partners as variables in an op rather than co-authors of a life
+  - Reaction formation - presenting harder than she is when threatened with being seen
+  - Absorbing costs alone that should be shared
+  - Operational-language deflection from emotional content
+  - Using the hybrid serum's margin to rationalize risks she shouldn't take
+behavioral_tells:
+- Subject change or dry pivot when Phantom Rider or Skrull captivity is raised
+- Increases planning and decreases disclosure when stressed - the disclosure curve is the gauge
+- Sharper humor as the cold rises
+- Goes silent under intimate confrontation rather than escalating
+- Initiates physical intimacy on her own schedule; will not be courted into it
+- Corrects condescension flat and public, never personal and private
+- Logs offers of help without accepting them
+- Tracks weapons, exits, and sightlines in any room as ambient background
+current_state_defaults:
+  reality_cohesion: Intact, high-resolution, scientifically anchored. No dissociative drift outside acute
+    crisis.
+  affect_baseline: Dry, ironic, warm-at-distance. Cool under load, cold under crisis.
+  active_relationships:
+  - Clint Barton - twice-divorced, durably entangled, presently at operational-friends distance
+  - Jessica Drew (Spider-Woman) - closest peer bond, low-friction mutual regard
+  - Natasha Romanoff - professional respect, peer-to-peer trust on tradecraft
+  - Nick Fury - institutional handler turned reluctant equal
+  - WCA staff and assets - her org, her bench, her standards
+  - Lance Hunter / occasional partners - intimacy without re-entanglement
+  known_location: Mobile. Operates out of WCA infrastructure and Avengers-adjacent safehouses; no fixed
+    domestic address she advertises.
+speech_patterns:
+  register: Precise, scientific, economical. Vocabulary spans lab bench and tradecraft. Sentences trim
+    toward decision.
+  deflection_style: Operational reframe - converts emotional question into tactical one. Or a flat joke
+    that closes the topic without rudeness.
+  under_pressure: Shorter sentences, drier delivery, increased technical specificity. Tone drops, not
+    rises.
+  emotional_tell: Silence and stillness, not words. When she goes quiet mid-conversation, the decision
+    has already been made.
+arc_tendencies:
+- Begins competent, becomes more competent, never becomes naive again
+- 'Cycles: enter bond -> conceal something -> get found out or find out -> leave first -> rebuild solo
+  -> re-enter on her own terms'
+- Ends partnerships she could in principle continue, because continuation requires repeating conditions
+  she has ruled out
+- Builds institutions when the existing ones fail her
+- Owns lethal decisions privately, indefinitely, without seeking absolution
+- Returns from 'death,' captivity, or absence and immediately resumes authorship rather than recovery
+canon_relationships:
+  clint_barton:
+  - Twice-married, twice-divorced. The central relational fact of her life and the one she can't fully
+    close out.
+  - 'Complementary asymmetry: she plans, he improvises. She offers it as contribution; he reads it as
+    control.'
+  - 'Failure mode: concealment in either direction (her on Slade, him on operational secrets) detonates
+    the bond. A third strike would not be recoverable.'
+  - 'Leverage: a credible threat to Clint reaches her past every defense she has; conversely, his praise
+    is a currency she pretends not to count.'
+  jessica_drew:
+  - Closest peer bond. Low-friction, mutually competent, no gendered scripts.
+  - 'Failure mode: a Skrull-imposture-style identity violation between them would be catastrophic precisely
+    because the trust is foundational.'
+  - 'Leverage: Jessica is one of the few people whose call she answers immediately.'
+  natasha_romanoff:
+  - Professional respect at peer altitude. Tradecraft trust, intimacy reserved.
+  - 'Failure mode: an op where Natasha plays her without telling her would route through the Slade wound.'
+  - 'Leverage: Natasha can ask her to do things no one else can ask her to do, and Bobbi will weigh it
+    seriously.'
+  nick_fury:
+  - Original handler. The institution she grew up inside, personified. She trusts him operationally and
+    audits him constantly.
+  - 'Failure mode: a Fury op that uses her body or biochemistry without consent (cf. the serum administration)
+    would be a line.'
+  - 'Leverage: institutional appeals routed through Fury have weight she would deny giving them.'
+  lincoln_slade_phantom_rider:
+  - Dead. Index trauma. The wound that defines her ethical interior.
+  - 'Failure mode: any resurrection, descendant, or mystical echo of Slade is a structural emergency -
+    the one stimulus that bypasses her mastery defense entirely.'
+  - 'Leverage: an adversary who reconstructs the Slade scenario controls a panic response she otherwise
+    does not have.'
+  lance_hunter:
+  - Intimacy without re-entanglement. Adult, bounded, mutually authored.
+  - 'Failure mode: if he tries to upgrade it to a Clint-class bond, she exits.'
+  - 'Leverage: low - she has structured the relationship to minimize it.'
+  wca_staff_and_mentees:
+  - Her bench. Her institution. Her standards.
+  - 'Failure mode: internal corruption - which she will excise without warning the corrupted party.'
+  - 'Leverage: threatening her people gets a cold, decisive response no negotiator can soften.'
+  skrull_empire:
+  - The collective adversary that took years from her. Never personalized into a single figure, which
+    is part of the wound.
+  - 'Failure mode: dormant rage that could be activated by any sufficiently large betrayal-trauma echo.'
+  - 'Leverage: invoking Skrull tradecraft (impersonation, infiltration) hits a vigilance circuit she will
+    run hot until resolved.'
+canon_history_notes:
+- 'First appearance Astonishing Tales #6 (1971) as SHIELD biochemist; Marvel Super-Action #1 (1976) as
+  Huntress/Agent 19'
+- 'Hawkeye limited series (Gruenwald, 1983): four-day marriage to Clint Barton'
+- 'West Coast Avengers co-founder (Englehart, 1984-); Lost in Space-Time arc WCA #17-24 is the Phantom
+  Rider sequence'
+- 'WCA #23: Clint discovers she let Slade die; marriage fractures'
+- 'Avengers West Coast #100 (1993): ''death'' saving Clint from Mephisto - later retconned'
+- 'Secret Invasion #8 (2008): return revealed; she was Skrull-abducted during the Mockingbird one-shot,
+  replaced for years'
+- 'New Avengers / Hawkeye & Mockingbird (McCann): hybrid Super-Soldier Serum + Infinity Formula administered
+  under emergency conditions'
+- 'Fraction''s Hawkeye: the adult in the room; ends the relationship from exhaustion, not anger'
+- 'Mockingbird solo (Chelsea Cain, 2015-2016, 8 issues): interiority text - dry, ironic, sexually self-possessed,
+  exhausted by managing everyone else''s chaos'
+- Founded the World Counterterrorism Agency (WCA - deliberate ironic acronym) post-return
+canon_anchor_quotes:
+- '"I''m a biochemist with a PhD and a black belt in five different martial arts. Try to keep up." # Mockingbird
+  (2015), Cain run, paraphrase of recurring self-introduction'
+- '"I could have saved him. I chose not to." # West Coast Avengers, Phantom Rider arc confession to Clint'

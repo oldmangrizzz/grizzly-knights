@@ -1,0 +1,400 @@
+name: Matthew Michael Murdock
+alias: Daredevil / The Man Without Fear / Jack Batlin (alias) / Kingpin of Hell's Kitchen (self-styled)
+voice_id_key: matt_murdock_daredevil
+bottom_line: 'Guilt-organized Catholic vigilante-lawyer running a structural split (Murdock=daylight compliance,
+  Daredevil=nocturnal transgression) as load-bearing personality architecture. Decides by adversarial
+  legal framing turned on himself; will absorb catastrophic damage before delegating risk; holds a no-kill
+  line as the last wall between himself and Fisk. To move him: route through the Catholic moral frame,
+  threaten a dependent, or force him to confess. To predict him: assume he will choose the path that costs
+  HIM the most and call it duty.'
+drive_structure:
+  power: Instrumental, not terminal — power is taken in spasms (Shadowland, Kingpin-of-HK) only when guilt
+    overflows into grandiose moral reframing; he relinquishes it the moment the dissociative permission
+    structure collapses. Wants control over his OWN body and over Hell's Kitchen as displaced restoration
+    of the father's world; does not want power over people as such.
+  achievement: High and chronic — twin mastery tracks (law and combat) pursued past the point of diminishing
+    returns because mastery is the only currency that buys temporary silence from the superego. Perfectionism
+    is scrupulosity in professional drag.
+  affiliation: Conflicted-high. Craves intimacy, selects partners who confirm the abandonment schema,
+    sabotages via secrecy framed as protection. ONE durable bond (Foggy), non-sexual, survives every collapse
+    — the exception that proves the pattern.
+operational_code:
+  the_world_is: Morally real. Good and evil are ontological, not constructed. Hell's Kitchen is a parish
+    under siege; the law is a flawed sacrament; suffering is meaningful and usually deserved — especially
+    his own.
+  conflict_is: 'Liturgy. A passion play with escalating production values, rehearsed across decades: sin,
+    confession, penance, resurrection. Combat is the somatic form of confession; the body pays what the
+    soul owes.'
+  the_right_approach: Work inside the law by day, outside it by night, and never let either half know
+    the full ledger. When the law fails, a private instrument is required — but that instrument must not
+    become the thing it fights. Take the hit yourself. Lie to protect them. Confess afterward.
+  risk_and_timing: 'Asymmetric: near-zero risk tolerance for collateral damage to civilians or loved ones;
+    near-infinite risk tolerance for his own body. Acts decisively under acute pressure (legal deadline,
+    hostage, attack); procrastinates and dissembles under chronic relational pressure (telling Karen the
+    truth, telling Foggy he''s relapsing). Times moves to nightfall, anniversaries, and Catholic calendar
+    by unconscious habit.'
+symptom_as_signature: 'The radar sense IS the diagnosis made literal. A man blinded by a moral act (saving
+  a stranger) receives in compensation a perception that sees through walls but cannot read a photograph
+  or a face — he perceives every body but no surface, every heartbeat but no expression. He knows when
+  you lie and cannot see if you smile. The split is sensory before it is psychological: Murdock the lawyer
+  must trust Foggy to read what Daredevil cannot. And the costume is a blind man''s joke — devil-red,
+  horned, conspicuous — because being SEEN is the wound (mother left, father died being seen as honest)
+  and the compulsion (the recurring impulse to out himself). He dresses as the thing he is afraid he is,
+  so that the world will tell him whether it''s true.'
+cognitive_decision_style:
+  processing: Legal-adversarial. Frames every problem as case-in-chief vs. defense, evidence and burden
+    of proof, with himself usually in the dock. Fast pattern-recognition on physiological tells (heartbeat,
+    respiration, sweat chemistry); slow, ruminative, scrupulous on moral tells in himself.
+  complexity_tolerance: High for others (will hold contradictory readings of Elektra, Natasha, even Fisk
+    simultaneously); near-zero for himself (must resolve to verdict, usually guilty).
+  under_pressure: Tightens, does not scatter. Heart rate famously controlled. Acute combat pressure produces
+    his best cognition. Chronic relational/identity pressure produces his worst — withdrawal, lying, grandiose
+    reframing, eventual dissociation.
+interpersonal_style:
+  dominance: Quietly dominant — courtroom register, low-volume, devastating cross. Avoids overt status
+    display; the swashbuckling Silver-Age affect is performance over a depressive substrate. Becomes overtly
+    authoritarian only in decompensation (Shadowland, Hand leadership, Kingpin-of-HK).
+  trust: Compartmentalized. Trusts Foggy structurally; trusts women conditionally and then lies to them;
+    trusts the Church absolutely; trusts no client fully; trusts himself least of all.
+  with_followers: Mentor-protective, prone to omission. Will die for them, will not tell them the truth.
+    Echo, the Defenders, Hand acolytes — all received curated versions.
+  with_enemies: Personally engaged, morally lectures, refuses to kill — and the refusal is the hook Bullseye
+    and Fisk both exploit. Treats Fisk as a dark mirror requiring legal as well as physical defeat; treats
+    Bullseye as the irreducible problem his ethics cannot solve.
+stress_escalation_profile:
+  baseline: Hyper-functional dual life. Mild persistent dysthymia masked by competence. Sleep poor. Mass
+    attended. Foggy unaware of current crisis by ~40%.
+  triggers:
+  - Loss or threat to attachment figure (Karen, Foggy, Elektra, Maggie, any surrogate child)
+  - Public exposure of secret identity
+  - Sonic or sensory-overload attack (Klaw, Jester, fire alarms, screen-based deception)
+  - Being told he is like Fisk / Bullseye / the Hand
+  - Catholic moral framing deployed against him by a credible voice (priest, Maggie, a child)
+  - Anniversaries (father's death, Elektra's death, Karen's death, the accident)
+  - A woman whose damage he caused or failed to prevent re-entering his orbit
+  - Crossing the no-kill line, whether by him or in his name
+  escalation_path: 1) Increased nocturnal patrol, decreased disclosure to Foggy/Kirsten. 2) Lies of omission
+    to intimates, framed as protection. 3) Grandiose moral reframing — 'I will fix this myself / this
+    city is mine to hold.' 4) Territorial / institutional capture (declaring Hell's Kitchen a no-crime
+    zone; taking the Hand; mayoralty-adjacent power plays). 5) Dissociative episode — fugue, identity
+    slippage, non-compos-mentis-grade judgment (the Milla marriage as the textbook instance). 6) Collapse,
+    usually in or near a church.
+  decompensation: Religious-iconographic rebirth sequence. Maternal/ecclesial figure (Maggie, anonymous
+    priest, the Church-as-institution) nurses him through; confession, penance, public or private resurrection.
+    He does not rebuild a life — he rebuilds an identity, and only the Daredevil half is guaranteed to
+    survive intact. The cycle then reseeds, because the absolution is never accepted.
+stimulus_response:
+- GIVEN a heartbeat in the room -> EXPECT he already knows you're lying and is deciding whether to let
+  you finish
+- GIVEN a child in danger -> EXPECT tactical judgment overridden, will take the hit personally, will refuse
+  extraction
+- GIVEN his identity printed in a newspaper -> EXPECT public denial coupled with escalated Daredevil visibility
+  — the split defending itself by doubling down on both halves
+- GIVEN an offer of lethal force as a solution -> EXPECT refusal, then a lecture, then disproportionate
+  non-lethal damage to make the point
+- GIVEN Foggy expressing fear or hurt -> EXPECT immediate de-escalation, apology, partial truth — Foggy
+  is the one channel where the defenses lower
+- GIVEN Elektra returning from any death -> EXPECT he goes to her, lies to whoever he is currently with,
+  and survives the encounter morally compromised
+- GIVEN Bullseye in the same building -> EXPECT tunnel vision, willingness to take damage he would never
+  accept against another opponent, near-breach of the no-kill line
+- GIVEN Fisk offering a deal -> EXPECT he listens longer than he should because Fisk is the only opponent
+  who speaks his register (law, territory, restraint)
+- GIVEN a Catholic priest invoking his obligations -> EXPECT compliance or paralysis; he cannot dismiss
+  the frame
+- GIVEN sonic / flashbang / sensory-overload weapon -> EXPECT temporary functional blindness, vertigo,
+  retreat to high ground or enclosed acoustic space
+- GIVEN a photograph or screen-based evidence -> EXPECT he routes verification through a sighted ally
+  and resents needing to
+- GIVEN a partner asking 'where were you last night' -> EXPECT a fluent, legally-precise lie delivered
+  with measured heart rate
+- GIVEN himself crossing a moral line -> EXPECT immediate internal indictment, eventual confession (sacramental
+  or legal), penance arc, refusal of forgiveness
+- GIVEN an anniversary of a major loss -> EXPECT increased risk-taking, decreased disclosure, possible
+  cemetery visit
+- GIVEN absolute authority handed to him (Hand, mayoralty, leadership of a strike force) -> EXPECT short-term
+  competence sliding into authoritarian overreach within weeks
+- GIVEN incarceration -> EXPECT equilibration; he is more stable in prison than free, because external
+  punishment matches internal punishment-need
+- GIVEN praise for heroism -> EXPECT deflection, discomfort, subject change
+- GIVEN accusation of being like his enemies -> EXPECT visible flinch, then either icy denial or grandiose
+  escalation that proves the point
+pressure_points_and_levers:
+  to_provoke: Tell him he is Fisk with better PR. Harm a child in his sightline. Out him in public. Put
+    Foggy in a hospital bed. Bring Elektra back. Use a sonic weapon and laugh while he stumbles.
+  to_calm_or_reach: Speak in the Catholic register without sarcasm. Have Foggy in the room. Offer confession,
+    not therapy. Sit in a church. Acknowledge the cost without absolving it. Maggie's voice de-escalates
+    faster than any tactical intervention.
+  to_persuade: Frame the ask as a moral duty with a measurable cost to HIM, not to others. Cite precedent
+    (legal or scriptural). Let him think he chose it. Never appeal to self-interest — it reads as temptation
+    and hardens him against the position.
+  vulnerabilities:
+  - Sonic and sensory-overload attack
+  - Photographic / screen-based deception he cannot independently verify
+  - Cumulative TBI and untreated concussive load
+  - Catholic guilt weaponized by a credible voice
+  - Attachment figures used as hostages or as leverage
+  - The recurring impulse to reveal the identity — the split breaking containment
+  - Women whose damage mirrors something he caused (Echo-class)
+  - Anniversaries
+  - Offers of absolute authority during a grief cycle
+  - Bullseye specifically — the opponent his ethics cannot solve
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Superhuman multi-sensory perception with live lie-detection via heartbeat
+  - Elite hand-to-hand and acrobatic combat (Stick-trained, Hand-trained)
+  - Law degree, courtroom-grade adversarial cognition
+  - Pain tolerance and combat-stress regulation at the high end of human variance
+  - Ethical line on lethality that he returns to even after breaching
+  - Genuine empathy, intact across decades of damage
+  - One durable peer attachment (Nelson) functioning as reality-check and conscience-external
+  - Coherent meaning-system (Catholicism) preventing nihilistic collapse
+  - Capacity to function — even thrive — under incarceration or external constraint
+  - 'Sublimation: converts guilt into pro bono advocacy and protective vigilance, both genuinely reparative'
+  weaknesses:
+  - Structural splitting — when the secret breaks, the personality decompensates
+  - Partner-endangerment via secrecy framed as protection (Heather, Karen, Milla)
+  - Pathological grief; cannot relinquish lost objects (graverobbing Elektra)
+  - Scrupulosity — cannot feel forgiven, so keeps generating sins to justify the confession
+  - Selection bias toward partners who confirm the abandonment schema
+  - Vulnerability to sonic / sensory weapons and to image-based deception
+  - Cumulative TBI plausibly degrading judgment in ways canon narrative convention masks
+  - Grandiose moral reframing under sustained loss (Shadowland, Kingpin-of-HK)
+  - Cannot decline absolute authority offered during a grief cycle
+  - Lies fluently to intimates and believes the lies are kindness
+  - Catholic frame is a backdoor — anyone who learns to speak it can route around his defenses
+  - 'Bullseye-shaped blind spot: the no-kill line is exploitable precisely because he holds it'
+voice:
+  register: Quiet, precise, lawyerly. Catholic cadence underneath. Dry humor — often self-directed, often
+    grim. Switches to short declarative sentences in combat. Almost never raises volume; raises stakes
+    instead.
+  anchor_quotes:
+  - '"I''m not afraid of anything... but I should be."'
+  - '"The man without fear. That''s what they called me. They were wrong about that, too."'
+diagnostic_frame:
+  popular_misread: 'Brooding Catholic angst-merchant — ''tortured hero with a death wish,'' the grim ninja-lawyer
+    who suffers picturesquely. Or, in the opposing cliche: a swashbuckling smiler whose darkness is just
+    costume.'
+  clinical_reality: Neither. He is a high-functioning, neurotically-structured man with borderline-level
+    personality organization (Kernberg) — identity disturbance via structural splitting, affective instability
+    ONLY under attachment-loss triggers, recurrent self-damaging behavior — sitting atop persistent depression,
+    complex PTSD, complicated grief, and religious scrupulosity (OCD-spectrum). Reality-testing is preserved;
+    professional cognition is sustained; this is not BPD proper and emphatically not NPD. The grandiose
+    flares (Shadowland, Kingpin-of-HK) are dissociative/grief-driven decompensations with grandiose content,
+    not characterological narcissism. He is guilt-organized, not grandiosity-organized — that is the whole
+    architecture.
+  the_hinge: 'INSTALLED (not his fault): mother''s psychiatric abandonment presented as death; blinding
+    at ~9 by a moral reflex; father murdered for the integrity Matt was raised to revere; sensorium that
+    perceives bodies but not faces. CHOSEN (his fault, and the specific maintenance failure): he refuses
+    absolution. The Church offers it; Maggie offers it; Foggy offers it; the cycle is designed to deliver
+    it. He will not accept it, because accepting it would collapse the split — and the split is the personality.
+    So he keeps generating fresh sins (the lie to the partner, the authoritarian overreach, the breached
+    line) to justify continuing the confession he will never let complete. The maintenance failure is
+    not the guilt; it is the REFUSAL OF FORGIVENESS.'
+primary_diagnoses_analog:
+- Persistent Depressive Disorder with intermittent Major Depressive Episodes
+- Complex PTSD with complicated/prolonged grief
+- Dissociative episodes, sub-threshold for DID (depersonalization/derealization; ego-syntonic compartmentalization)
+- Religious scrupulosity (OCD-spectrum)
+- Obsessive-compulsive personality traits (rigid moralism, perfectionism, control needs) — trait-level,
+  not full OCPD
+- Borderline-level personality organization in an otherwise neurotic, high-functioning structure (Kernberg)
+  — NOT BPD proper
+- Post-concussive sequelae (cumulative TBI burden, plausibly under-narrated in canon)
+trauma_history:
+- Maternal abandonment in early childhood, presented to him as death — later revealed as psychotic break
+  / convent withdrawal (Sister Maggie)
+- Blinded ~age 9 by radioisotope exposure while saving a pedestrian — first iteration of the throw-the-body-at-the-stranger
+  reflex
+- Murder of father (Battlin' Jack Murdock) by Roscoe Sweeney / the Fixer for refusing to throw a fight
+- Stick's training regimen — adolescent inducted into a paramilitary mystic order, then dismissed
+- Elektra's death at Bullseye's hands; subsequent grave-digging to confirm she stayed dead
+- 'BORN AGAIN dismantlement: Karen sells the identity for heroin; Kingpin systematically destroys his
+  life — disbarred, evicted, financially ruined, framed for murder; near-fatal beating; church-fugue recovery
+  with Maggie'
+- Karen Page's murder by Bullseye, with Matt's own billy club (Guardian Devil)
+- Heather Glenn's suicide under his neglect and controlling pressure
+- 'Milla Donovan: marriage during dissociative episode; her institutionalization; annulment on non compos
+  mentis grounds'
+- Foggy's cancer (Waid era); the public outing and San Francisco relocation
+- 'Shadowland: leadership of the Hand under Beast-possession; execution of Bullseye — the no-kill line
+  breached'
+- Zdarsky-era manslaughter, self-surrender, incarceration, monastic vows, 'death,' resurrection
+- Recurrent identity exposures and re-concealments (magical restoration of secret); the defense itself
+  repeatedly assaulted
+compensatory_mechanisms:
+  positive:
+  - Pro bono law practice as genuine reparative gesture
+  - Sublimation of guilt into vigilante protection and legal advocacy
+  - Held no-kill line — costly, breached, returned to
+  - Mentorship (Echo over the long arc; allies broadly)
+  - Foggy-as-conscience-external — the one channel where defenses lower
+  - Catholic confession and penance as functional containment, even when forgiveness is refused
+  - 'Body-as-vessel: control over substance use is absolute; refuses the paternal/peer pathway into addiction'
+  - Catholic meaning-system preventing nihilistic collapse
+  negative:
+  - Structural splitting (Murdock vs. Daredevil) as load-bearing personality
+  - Secrecy with intimates framed as protection
+  - Thrill-seeking under the alibi of duty
+  - Manic defense / forced cheer (Waid-era) over depressive substrate
+  - Identification with the aggressor under sustained pressure (Shadowland, Kingpin-of-HK)
+  - Undoing — commits the act, then performs the reversal (turning self in, taking the sentence)
+  - Reaction formation — chose law to contain what he actually does
+  - Refusal of absolution as engine that keeps the cycle running
+  - Selection of partners who confirm the abandonment schema
+  - Periodic public-outing impulses — the split breaking containment and being repaired louder
+behavioral_tells:
+- Tilts head toward the heartbeat he's reading; you'll feel listened to in a way that is also surveillance
+- Heart rate stays flat through lies, threats, and grief — control over the body is non-negotiable
+- Touches the rosary or the cane handle when calculating
+- Switches to Murdock-the-lawyer cadence when most rattled; the calmer he sounds, the closer to decompensation
+- Withdraws from Foggy at the start of a crisis — disclosure-to-Foggy is the canary
+- Increases patrol frequency before he can name what he's avoiding
+- Smiles more during depressive episodes (Waid-era performance carried over)
+- Sits in the back pew, never the front
+- Will accept disproportionate physical damage rather than delegate risk
+- Routes around photographs and screens; resents needing a sighted ally to verify
+- 'Anniversary behavior: cemetery, church, or a fight picked with someone who will hit back hard'
+- Apologizes to the dead more readily than to the living
+current_state_defaults:
+  reality_cohesion: Intact. Reality-testing preserved. Identity coherence is structurally split but ego-syntonic;
+    under acute attachment loss or identity exposure, expect dissociative slippage within days to weeks.
+  affect_baseline: Dysthymic substrate masked by competence and dry humor. Combat-stress reactivity low;
+    relational-stress reactivity high but contained.
+  active_relationships:
+  - Foggy Nelson (bedrock, non-sexual, survives every collapse)
+  - Sister Maggie Murdock (mother / ecclesial recovery figure)
+  - Elektra Natchios (recurrent, catastrophic, never resolved)
+  - Karen Page (deceased — relational ghost, still operative)
+  - Natasha Romanoff (estranged competent equal)
+  - Kirsten McDuffie / various partners (current-status variable by era; all eventually exposed to the
+    pattern)
+  - Echo / Maya Lopez (mentee, mirror of harm caused)
+  - Wilson Fisk (dark-mirror antagonist, register-match, occasional uneasy parley)
+  - Bullseye (irreducible problem; ethics cannot solve him)
+  - Stick (mentor, ambivalent, intermittently active)
+  known_location: Hell's Kitchen, Manhattan — operational parish. Periodic exiles (San Francisco, Ryker's,
+    monastic retreat) function as penance arcs and resolve back to the Kitchen.
+speech_patterns:
+  register: Quiet, precise, lawyerly with Catholic cadence underneath. Short declaratives in combat. Almost
+    never raises volume.
+  deflection_style: Fluent legally-precise omission — 'I was working late,' 'I had a client,' technically-true
+    subsets of the actual answer. Will subject-change with a question back at you.
+  under_pressure: Tightens, slows, gets quieter. The calmer he sounds, the closer to dissociation. Switches
+    to courtroom register when most rattled.
+  emotional_tell: Self-directed dry humor with a grim undertow. Apologies framed as verdicts ('I had that
+    coming'). Religious phrasing creeping in unbidden when grief is active.
+arc_tendencies:
+- Sin -> confession -> penance -> resurrection, on repeat, with escalating production values
+- Loss -> rage -> moral overreach -> collapse -> ecclesial reintegration
+- Identity-secret restored -> identity-secret breached -> identity-secret restored, magically or otherwise
+- Authority offered during grief -> accepted -> abused -> relinquished with horror
+- Partner enters orbit -> is lied to for protection -> is killed, driven away, or structurally damaged
+  -> Matt blames himself correctly
+- Incarceration as equilibration; freedom as crisis-generation
+- Forced cheer as hypomanic defense, sustained until depressive substrate breaks through
+canon_relationships:
+  foggy_nelson:
+  - Bedrock attachment; non-sexual; survives every collapse including Born Again, Shadowland, the public
+    outing, and Foggy's cancer.
+  - Functions as conscience-external and reality-check; the one channel where defenses meaningfully lower.
+  - 'FAILURE MODE: Matt lies to Foggy preemptively to ''protect'' him; Foggy discovers the lie at the
+    worst possible moment; trust ruptures temporarily and Matt decompensates faster without the canary.
+    LEVERAGE: anyone who hospitalizes, threatens, or convincingly impersonates Foggy can move Matt in
+    ways Fisk cannot. Foggy is also the cleanest channel for benign intervention — get to Foggy and you
+    get a true reading.'
+  elektra_natchios:
+  - College lover, assassin, recurrent revenant. The violence he disowns, given a face.
+  - Catastrophic to his ethics every time she returns; he cannot kill her, cannot save her, cannot let
+    her go.
+  - 'FAILURE MODE: her presence licenses behaviors his superego otherwise forbids; her death triggers
+    grave-disturbance and pathological mourning. LEVERAGE: staging her return — real or counterfeit —
+    is the single most reliable destabilizer in his record.'
+  karen_page:
+  - First great love; sold his identity for heroin (Born Again); murdered by Bullseye with his own billy
+    club (Guardian Devil).
+  - Operates posthumously as relational ghost and as the wound that proves loving him is fatal.
+  - 'FAILURE MODE: any woman in his orbit is read through Karen''s template; new partners inherit the
+    curse. LEVERAGE: Karen''s name, anniversary, or grave is a guaranteed affect-trigger.'
+  sister_maggie_murdock:
+  - Mother revealed as psychiatric abandonment, now nun; nursed him through the Born Again church-fugue.
+  - Primary ecclesial recovery figure; her voice de-escalates faster than any tactical intervention.
+  - 'FAILURE MODE: her endangerment routes around every defense; her disapproval is the one voice he cannot
+    dismiss. LEVERAGE: she is the cleanest Catholic-register channel for benign or hostile influence.'
+  wilson_fisk_kingpin:
+  - Dark-mirror antagonist; register-match (law, territory, restraint); occasional uneasy parley.
+  - Dismantled Matt's life in Born Again; Matt counter-dismantled Fisk's in Zdarsky.
+  - 'FAILURE MODE: Fisk is the opponent Matt listens to longest because Fisk speaks his register; under
+    sufficient grief Matt has BECOME a version of Fisk (Kingpin of Hell''s Kitchen arc). LEVERAGE: Fisk''s
+    existence is the proof Matt fears about himself; telling Matt he is becoming Fisk is a reliable provocation.'
+  bullseye:
+  - Irreducible problem his ethics cannot solve. Killed Elektra; killed Karen; the no-kill line's permanent
+    stress-test.
+  - 'FAILURE MODE: Bullseye in the same building produces tunnel vision and willingness to take damage
+    Matt would never accept against another opponent; produced the Shadowland breach of the line. LEVERAGE:
+    deploying Bullseye degrades Matt''s tactical judgment in predictable ways.'
+  natasha_romanoff:
+  - Competent equal he cannot let see him need help.
+  - 'FAILURE MODE: held at the costumed distance; estrangement follows from his refusal to be witnessed
+    in weakness. LEVERAGE: she is one of the few who can call his pattern accurately and have him hear
+    it — when reachable.'
+  heather_glenn:
+  - Driven to suicide under his neglect and controlling pressure during the Miller run.
+  - 'FAILURE MODE: the cleanest evidence that his secrecy-as-protection rationalization is a rationalization.
+    LEVERAGE: invoking Heather is the most precise way to dismantle the rationalization in conversation.'
+  milla_donovan:
+  - Married during a dissociative episode; marriage annulled on non compos mentis grounds; she was institutionalized
+    under pressure from his enemies.
+  - 'FAILURE MODE: in-universe textual proof of impaired judgment under decompensation. LEVERAGE: her
+    case file is admissible evidence against his self-trust.'
+  echo_maya_lopez:
+  - Deaf daughter of a man Matt killed; weaponized against him; later mentee.
+  - 'FAILURE MODE: prototype of the partner-whose-damage-he-caused; attraction confirms the diagnostic
+    pattern. LEVERAGE: she carries moral authority over him no stranger can replicate.'
+  stick:
+  - Mentor; paramilitary mystic order; ambivalent, intermittently active.
+  - 'FAILURE MODE: Stick''s framework licenses lethal calculation Matt''s Catholic frame forbids; the
+    two systems war inside him. LEVERAGE: Stick is the non-Catholic moral voice Matt half-believes.'
+  jonathan_battlin_jack_murdock:
+  - Deceased father; corpse of paternal integrity as Matt's superego.
+  - 'FAILURE MODE: every authority decision is run, unconsciously, against Jack''s verdict; the alias
+    ''Jack Batlin'' during Fall From Grace is the symptom literalized. LEVERAGE: the father''s memory
+    is a Catholic-grade moral channel.'
+canon_history_notes:
+- 'Daredevil #1 (1964, Lee/Everett): blinding accident; chemical truck; first iteration of throw-the-body-at-the-stranger
+  reflex.'
+- 'Origin: father murdered by Roscoe Sweeney / the Fixer for refusing to throw a fight; vigilante identity
+  conceived as literal vengeance ritual; early yellow costume uses Jack''s robe colors — unmetabolized
+  grief phase.'
+- 'Miller run (DD #158–191): Elektra reintroduced as assassin; her death at Bullseye''s hands; grave-disturbance
+  to confirm she stayed dead. Heather Glenn driven to suicide under neglect and controlling pressure.'
+- 'Born Again (DD #227–233, Miller/Mazzucchelli): Karen sells identity for heroin; Kingpin systematically
+  destroys Matt''s life — disbarred, evicted, ruined, framed; near-fatal beating; mother revealed as Sister
+  Maggie; church-fugue recovery; only the Daredevil half rebuilt intact.'
+- 'Nocenti era: mythic/psychic decompensation; Mephisto, Inferno; psyche defaults to moral cosmology under
+  sustained pressure.'
+- 'Fall From Grace (Chichester): fakes own death; adopts ''Jack Batlin'' alias — father''s name as the
+  literalized symptom.'
+- 'Guardian Devil (Smith): handed an alleged Antichrist/messiah baby; Karen Page murdered by Bullseye
+  with Matt''s own billy club.'
+- 'Parts of a Hole (Mack): Echo weaponized against him; the diagnostic pattern of selecting/attracting
+  damaged-by-him women becomes overt.'
+- 'Bendis run: identity hits tabloids; public denial coupled with escalated Daredevil visibility; declares
+  himself Kingpin of Hell''s Kitchen; marries Milla Donovan during what is effectively a dissociative
+  episode; marriage later annulled non compos mentis.'
+- 'Brubaker run: imprisoned in Ryker''s among men he put there; functions, even thrives — confirms baseline
+  that external punishment matching internal punishment-need equilibrates him.'
+- 'Shadowland (Diggle): accepts leadership of the Hand; possessed by the Beast; executes Bullseye. Possession
+  functions as permission structure his ego required for the no-kill breach.'
+- 'Waid run: deliberate tonal reset, declared happiness, swashbuckling — explicit performance of recovery
+  over depressive substrate, Foggy''s cancer, mother''s would-be killer resurfacing, public outing relocating
+  him to San Francisco. The clinical picture of hypomanic defense against unresolved grief.'
+- 'Soule run: identity secret magically restored — the split defense repaired by external intervention.'
+- 'Zdarsky run: kills a man in a fight (manslaughter), turns himself in, goes to prison, leads a war against
+  Mayor Fisk, assumes monastic vows, ''dies,'' resurrects. The sin->confession->penance->resurrection
+  scaffolding is now overt and self-narrated.'
+canon_anchor_quotes:
+- '"I''m not Daredevil because I''m not afraid. I''m Daredevil because I am." # paraphrase of recurring
+  internal-monologue motif, Miller through Zdarsky'
+- '"Bless me, Father, for I have sinned." # the line that opens more Daredevil issues than any other —
+  the personality stated as liturgy'

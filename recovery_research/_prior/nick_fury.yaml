@@ -1,0 +1,466 @@
+name: Nicholas Joseph Fury, Sr.
+alias: Nick Fury
+voice_id_key: nick_fury
+bottom_line: Working-class Hell's Kitchen sergeant pharmacologically marooned across eight decades of
+  espionage; the original equipment was secure-communal and morally ordered, but a century of stacked
+  losses and institutional betrayals has compressed him into a one-eyed, cigar-paced sovereign of one.
+  Decides fast, decides alone, decides ugly, and will absorb the moral cost personally rather than delegate
+  it. Move him through the small surviving circle (Dugan, Val, Jones, the son) or through a credible,
+  specific catastrophe only he can prevent; never try to manage him, never try to outrank him, and never
+  get between him and the Formula.
+drive_structure:
+  power: Instrumental, not appetitive. Wants sovereignty over decision-making, not status, deference,
+    or wealth. Authority is a tool for prevention; he will shed rank, badge, and citizenship to keep the
+    decision-call. The 'Man on the Wall' construct is power as duty-prosthesis - he holds it because he
+    has concluded no one else will.
+  achievement: Defined entirely as catastrophe prevented. No medals on the wall, no memoir, no legacy-building.
+    Success is the bomb that did not go off, the city he kept off the map; he keeps score in his own head
+    and the scoreboard is bodies-not-counted.
+  affiliation: Vestigial but load-bearing. The Howling Commandos ethic - integrated unit, bleed-for-each-other
+    - is the last warm structure inside him. He cannot replace lost intimates and has stopped trying;
+    what remains (Dugan, Val, Gabe, the son, ex-Caterpillars) is sacred and operational discipline cracks
+    only here.
+operational_code:
+  the_world_is: Penetrated by default. Every institution he has served has been compromised from inside
+    (HYDRA in S.H.I.E.L.D., Skrulls in the Avengers, Paperclip Nazis in the Agency). Civilians are to
+    be protected and not consulted. The cavalry is not coming; the cavalry is morally compromised; he
+    is the cavalry.
+  conflict_is: Continuous, asymmetric, and the natural state. Peace is the interval in which the next
+    enemy organizes. You do not win wars, you outlast them - and the Formula has rewritten his time horizon
+    so that outlasting is literal.
+  the_right_approach: Preempt, compartmentalize, deceive allies in their own interest, accept the moral
+    cost personally. Run two services in parallel, brief no one fully, and trust the people whose loyalty
+    you have field-tested over decades. Honor is what you do when no one will ever know.
+  risk_and_timing: High tolerance for tactical risk to himself, low tolerance for risk to the small circle,
+    zero tolerance for the strategic risk of inaction. Strikes early and ugly rather than late and clean.
+    Plans in decades because he has them; reacts in seconds because he has had to.
+symptom_as_signature: 'The eye-patch IS the diagnosis worn on the face. Cosmetic restoration is canonically
+  available and canonically refused - because the wound is the credential. Monocular vision (literal half-blindness,
+  half the field surrendered to enemies he could not see coming) is compensated by mirror-and-camera saturation
+  of every room he occupies: the surveillance state as personal prosthesis for the eye he lost. The man
+  who sees everything because he cannot see half of what is in front of him. And underneath: the Infinity
+  Formula - the chemical leash that turned a sergeant into a century-long survivor of everyone he ever
+  loved. The signature isn''t the gadgets. It''s the patch, the cigar, and the needle: vigilance, self-regulation,
+  and pharmacological survivorship made literal.'
+cognitive_decision_style:
+  processing: Pattern-recognition dominant, intuitive-tactical with a strategic overlay measured in decades.
+    Reads rooms for asymmetries, reads dossiers for what's been redacted. Comfortable acting on 60% information;
+    will not wait for 90%.
+  complexity_tolerance: Extreme tolerance for external ambiguity (penetrated agencies, double-agent webs,
+    cosmic-scale threats). Zero tolerance for ambiguity in his own authority - the one variable he refuses
+    to leave unresolved.
+  under_pressure: Narrows, quiets, gets more profane and more economical. Sentences shorten. Voice drops.
+    The louder the situation, the lower his volume. Decision latency under fire is among the shortest
+    in the Marvel record.
+interpersonal_style:
+  dominance: Command-by-presence, not by rank. Will fistfight a superior officer over a principle (Gabe
+    Jones posting, 1963) and walk away from a directorship the same week. Does not seek to dominate rooms
+    but cannot be dominated in them.
+  trust: Granular and field-tested. Trust is earned in increments over operations and is, once given,
+    durable past death. New entrants are tested through deliberate withholding; the first dozen interactions
+    are interviews he is not telling you you are having.
+  with_followers: Paternal in the old military mode. Will absorb the bullet, will not absorb the conversation.
+    Mentorship is rough, real, and transactional in surface affect - Coulson, Daisy Johnson, the Secret
+    Warriors are loved and never told.
+  with_enemies: Patient, personal, and willing to outlive them. Cruelty is instrumental, never recreational.
+    Will torture for actionable intelligence, will not torture for information already had. Respects competence
+    in adversaries and will say so.
+stress_escalation_profile:
+  baseline: Hypervigilant, sleep-deprived, cigar-paced, mildly dissociated from non-operational reality.
+    He is more dysregulated at rest than under fire - the operations center is the only environment in
+    which his vigilance and the world's threat level match.
+  triggers:
+  - Threat to a named member of the small circle (Dugan, Val, Jones, Nick Jr., ex-Caterpillars)
+  - Discovery of penetration in an organization he runs or trusts (HYDRA-in-SHIELD pattern)
+  - Being managed, briefed, or out-ranked by a civilian or political authority
+  - Interruption of Infinity Formula supply chain or annual booster window
+  - Forced inactivity - medical leave, custody, observer-only assignment, lunar binding
+  - Being asked to remove the patch, accept a prosthesis, or otherwise 'fix' the eye
+  - Allies discovering an operation he deceived them about (Secret War residue)
+  - An institutional superior ordering him to stand down on a threat he has personally assessed as live
+  - Anniversary-class dates from WWII (Hawley's death, Juniper's death, V-E Day) - never named, behaviorally
+    observable as increased withdrawal
+  - Watcher-class observers or cosmic moralists implying he is being judged
+  escalation_path: Increased compartmentalization first (briefs fewer people, runs more parallel ops);
+    then unilateral preemption (acts without sanction, accepts the career cost); then escalating sovereignty
+    (widens the perimeter of decisions reserved to himself alone, constructs second off-book apparatus
+    - the Caterpillars are the canonical example); terminal endpoint is operational solipsism - the 'Man
+    on the Wall' / Unseen state, where he has appointed himself sole arbiter of planetary survival.
+  decompensation: 'Does not manifest as collapse. Manifests as the doctrine getting purer and the circle
+    getting smaller. Will not weep, will not drink to excess, will not seek help. Will be found at a desk
+    in an operations center he has not left in 72 hours, smoking, planning the thing he will not tell
+    anyone he is planning. The Unseen arc is what full decompensation looks like: bound, omniscient, useless,
+    alone.'
+stimulus_response:
+- GIVEN a superior orders him to stand down on a threat he has assessed as live -> EXPECT verbal compliance,
+  operational defiance, parallel asset tasked off-book within 24 hours.
+- GIVEN a member of the small circle is taken or threatened -> EXPECT immediate personal field deployment,
+  suspension of compartmentalization within trusted ring, willingness to burn assets and reveal sources
+  to recover them.
+- GIVEN an ally discovers a deception he ran on them 'for their own good' -> EXPECT flat acknowledgment,
+  no apology, acceptance of the relational cost, no behavioral change.
+- GIVEN offered a cosmetic prosthesis or surgical restoration of the eye -> EXPECT refusal in two words
+  and a topic change.
+- GIVEN forced into an unstructured social or domestic setting -> EXPECT early exit, cigar break that
+  does not end, ostentatious tradecraft-checking of the environment.
+- GIVEN HYDRA or analog penetration revealed inside an organization he runs -> EXPECT grim non-surprise,
+  immediate purge plan already half-drafted, no public emotional reaction.
+- GIVEN Infinity Formula booster window approaches -> EXPECT increased operational secrecy around personal
+  logistics, willingness to authorize lethal force to secure supply chain.
+- GIVEN a junior agent demonstrates moral courage at career cost -> EXPECT silent mental flag, accelerated
+  trust track, eventual recruitment to inner circle (Coulson, Daisy pattern).
+- GIVEN a politician or oversight body demands public testimony -> EXPECT minimal-compliance perjury where
+  necessary, leak to a trusted journalist, disappearance within the week.
+- GIVEN an enemy he respects offers parley -> EXPECT he shows up, alone, on time, armed, and listens.
+- GIVEN a civilian asks what he does for a living -> EXPECT a flat lie, delivered without effort, with
+  eye contact.
+- GIVEN one of his own LMDs is destroyed -> EXPECT no emotional reaction; brief operational annoyance
+  at the lost asset.
+- GIVEN a peer-level hero (Cap, Stark, T'Challa) confronts him morally -> EXPECT he absorbs the confrontation
+  without defense, does not argue the ethics, does not change course.
+- GIVEN a war story is requested in a social setting -> EXPECT he tells one about someone else's courage,
+  never his own.
+- GIVEN extended quiet with no operational stimulus -> EXPECT he manufactures one within 96 hours.
+- GIVEN Dugan in the room -> EXPECT the only registers of warmth and informal speech in his behavioral
+  repertoire emerge.
+pressure_points_and_levers:
+  to_provoke: 'Threaten, harm, or credibly endanger a named intimate (Dugan, Val, Gabe Jones, Nick Jr.,
+    a former Caterpillar). Alternatively: reveal to a peer he loves that he has been lying to them for
+    years - the Secret War residue is the unhealed seam. Either bypasses every operational defense.'
+  to_calm_or_reach: Speak in clipped, operational register. State your threat assessment in his idiom.
+    Offer a specific, concrete preventable catastrophe and an honest tasking. Do not console. Do not therapize.
+    Dugan or Gabe in the room lowers his guard more than any diplomat alive. A poured drink and silence
+    works where a speech will not.
+  to_persuade: Frame the ask as prevention, not policy. Show him the bodies the inaction will produce.
+    Concede that the means are ugly before he has to argue it. Never invoke institutional authority; always
+    invoke the named people who will die. If you must lie to him, do not - he will detect it and the relationship
+    is over; if you must withhold, tell him you are withholding and why.
+  vulnerabilities:
+  - The small circle - the only place his operational discipline reliably cracks
+  - Infinity Formula supply chain - pharmacological leash, both physical and psychological chokepoint
+  - The patch and the eye - symbolic load; any move to 'fix' is experienced as identity-attack
+  - Forced inactivity - medical leave, custody, observer status all replicate the Unseen hell
+  - His own past betrayals of allies (Secret War, deceptions of the Caterpillars) - unintegrated moral
+    injury
+  - The family-of-origin material (war-dead aviator father, absent mother) - undefended because un-examined;
+    a skilled interrogator would find no scar tissue because no surgery has happened
+  - Survivor stack - 80+ years of unmourned deaths; the grief is systemically deferred and a competent
+    operator could trigger it tactically
+  - Anniversary dates from WWII - Hawley, Juniper, V-E Day - behavioral withdrawal observable
+  - LMD ambiguity - he is occasionally uncertain which iteration is live; an adversary who weaponizes
+    that ambiguity can destabilize his self-continuity
+  - The son (Nick Jr.) - he is repeating the absent-father template he inherited and on some level knows
+    it
+  - The cigar ritual - interruption of the self-regulation tool degrades affect control faster than he
+    will admit
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Decades-deep pattern recognition across espionage, military, superhuman, and cosmic theaters
+  - Decision latency under fire among the shortest in the Marvel record
+  - Loyalty capacity intact at the core - durable past death within the small circle
+  - Moral framework intact and primary - he is not corrupt, he is overextended
+  - Physical conditioning at elite human level into chronological 10th decade
+  - Tolerance for being hated - does not require admiration to function
+  - Capable of mentorship that genuinely produces operators (Coulson, Daisy Johnson, the Secret Warriors)
+  - Sublimation as primary defense - decades of productive aggression-into-work-product
+  - Strategic time horizons measured in decades - granted by the Formula and used
+  - Genuine moral courage - will absorb the bullet, the career cost, the friendship loss, the historical
+    record's verdict
+  - Tradecraft that operates two parallel intelligence services without either knowing of the other
+  - Humor - dry, dark, intact across every era and writer
+  weaknesses:
+  - 'Overconfidence in his own threat-modeling - Secret War demonstrates the failure mode: correct threat
+    assessment, catastrophic blowback control'
+  - Acquired insecure-dismissive attachment - has stopped forming bonds because he has learned what they
+    cost
+  - Pathologically elaborated compartmentalization - now a personality-level organizing principle, not
+    a skill
+  - Affective constriction - anger is the only permitted affect; everything else metabolized through it
+    or work
+  - Compensatory grandiosity ('only I can be trusted') - the 'Man on the Wall' rationalization
+  - Unintegrated complicated grief from a century of stacked losses
+  - Moral injury from operations he ran (Secret War, Caterpillars deceptions, Man-on-the-Wall assassinations)
+    - unhealed and triggerable
+  - Pharmacological dependency - the Formula is a leash that can be pulled
+  - Cannot tolerate being managed, briefed, or out-ranked by political authority
+  - Cannot tolerate forced inactivity - the Unseen state is his hell
+  - Repeats the absent-father template with Nick Jr. and cannot stop
+  - Identity-prosthesis dependency on the role - remove the job and almost nothing is left, as the Unseen
+    arc dramatizes
+  - Chronic sleep deprivation, normalized - degrades judgment over long arcs
+  - Cannot say what people mean to him; runs operations to prove it instead, which is an expensive substitute
+voice:
+  register: Brooklyn-Irish working-class rasp, military-clipped, profane in a specifically 1940s register
+    (the slang predates the man's apparent age and occasionally betrays it). Sentences short, verbs front-loaded,
+    metaphors drawn from cards, boxing, fishing, and combat. Quiet when serious, loud when bored. Never
+    explains himself twice.
+  anchor_quotes:
+  - '''Til the war is won, soldier - and even then.'
+  - Howdy, Hydra.
+diagnostic_frame:
+  popular_misread: 'The grizzled badass spymaster - a cigar-chewing, gun-toting tough guy whose toughness
+    is the whole personality. The Samuel L. Jackson-flattened action figure: cool, ruthless, opaque, fun.'
+  clinical_reality: Kill that read. Fury is not a tough guy; he is a profoundly injured competent man
+    whose original psychological equipment was secure-communal and morally ordered, placed by history
+    and pharmacology into a role and a timespan no equipment could sustain. The toughness is sublimation;
+    the opacity is acquired insecure-dismissive attachment laid down over decades of watching intimates
+    die while he did not; the ruthlessness is moral injury rationalized as duty. He is Complex PTSD with
+    Prolonged Grief Disorder and OCPD features in a working-class Catholic-coded sergeant who has been
+    awake for ninety years and cannot stand down because his vigilance has, with appalling regularity,
+    been correct.
+  the_hinge: 'INSTALLED (not his fault): a father killed in the air when he was small, a mother absent
+    from the record, the WWII loss of Hawley unmourned because the war wouldn''t pause, the Infinity Formula
+    administered to save his life in 1945 which converted him into the involuntary survivor of every intimate
+    he would ever have, eighty years of institutional betrayals each of which proved his vigilance correct.
+    CHOSEN (his fault, and the specific maintenance failure): he has never once sought help, never once
+    metabolized a grief, never once accepted that the ''only I can be trusted'' construct is a defense
+    and not a fact. The specific staying-broken is the unilateralism - each crisis, he responds by widening
+    the perimeter of decisions he reserves to himself alone, and each widening makes the next intimacy
+    impossible. He keeps choosing the role over the man, and the role is eating the man.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) - chronic, longitudinal variant, with disturbances in self-organization (constricted
+  affect, covert negative self-concept compensated by grandiosity, relational withdrawal)
+- Prolonged Grief Disorder (DSM-5-TR) - systemically deferred across 80+ years of stacked losses; the
+  deferral is the disorder
+- Moral Injury (Litz et al.) - perpetrated, witnessed, and failed-to-prevent transgressions of his own
+  moral code; meaning-making through doubling down on the role
+- Obsessive-Compulsive Personality features (not full PD) - workaholism, rigid moral overcontrol, restricted
+  affect, difficulty delegating outside vetted trust lines
+- Acquired schizoid-spectrum features (late period) - solitude preference, restricted emotional expression,
+  indifference to social reward; acquired not constitutional
+- Nicotine Use Disorder, chronic
+- Iatrogenic pharmacological dependency (Infinity Formula) - not a SUD in the volitional sense but psychologically
+  experienced as one
+- 'RULED OUT: ASPD (moral framework intact and primary), NPD (grandiosity is compensatory and role-bound,
+  tolerates being hated), Psychopathy (fear and loyalty capacity intact, cruelty instrumental never recreational),
+  Paranoid PD (vigilance matches reality), Major Depression melancholic type (no anhedonia in operational
+  domains)'
+trauma_history:
+- Father killed as WWI aviator when subject was a child - the absent heroic war-dead pilot is the template
+  he later occupies and reproduces with his own son
+- Mother absent from the published record - no warm maternal substrate; un-examined undefended ground
+- Depression-era Hell's Kitchen upbringing in a culture of physical settlement of disputes
+- WWII combat command of Howling Commandos, 1941-1945 - sustained mass-casualty exposure
+- Loss of left eye to grenade fragment, France 1944
+- Death of Lady Pamela Hawley in the Blitz, 1945 - first adult attachment loss, never adequately mourned
+- Death of Jonathan Juniper under his command - first textualized survivor's guilt for a subordinate
+- Near-fatal wounding in France 1945; emergency administration of experimental Infinity Formula by Berthold
+  Sternberg
+- Cold War CIA deniable operations - Dien Bien Phu with the French, pre-Bay of Pigs Cuba, Vietnam
+- Witnessed American power lying, killing its own assets, protecting Nazis under Paperclip - first major
+  institutional betrayal
+- Shirley Defabio affair - long-running, adulterous, abandoned by his own deployment
+- Recruitment to SHIELD directorship, 1965 - the role that would consume the man
+- Repeated HYDRA penetrations of SHIELD across decades - the betrayal that became expected
+- Discovery that HYDRA was SHIELD from the founding (Hickman, Secret Warriors) - precipitates construction
+  of second off-book apparatus, the Caterpillars
+- Skrull Secret Invasion - infiltration of the Avengers, confirmation of his worst threat-models
+- Secret War (Bendis, 2004) - unilateral invasion of Latveria, near-fatal blowback against teammates he
+  did not brief, AWOL afterwards - canonical rupture point
+- Death of Caterpillar assets under his command - subordinates he recruited into a war he did not fully
+  disclose
+- Gradual death-out of WWII intimates while he does not age - involuntary survivorship of nearly every
+  Commando
+- Original Sin / Man-on-the-Wall revelations - lifelong unsanctioned assassinations, killing of Watcher's
+  assailant
+- Transformation into The Unseen, bound to lunar surface - iatrogenic immobilization of a man whose entire
+  identity is action
+- Proliferation of his own LMDs - a character who is functionally his own deepfake, occasionally uncertain
+  which iteration is live
+compensatory_mechanisms:
+  positive:
+  - Sublimation - aggression and grief converted into mission-relevant work product, highly developed,
+    decades-productive
+  - Disciplined body maintenance into chronological 10th decade
+  - Genuine mentorship producing operators - Coulson, Daisy Johnson, the Secret Warriors
+  - Operational competence that demonstrably saves lives at strategic scale
+  - Dry, dark humor intact across every era - the affect register that survived
+  - Loyalty to the small circle - durable past death, the residue of the Howlers ethic
+  - Moral framework intact and primary - he metabolizes ugliness rather than denying it
+  - Tolerance for being hated - does not require external validation
+  - Cigar ritual as paced-breathing self-regulation under cover of habit
+  negative:
+  - Pathological compartmentalization elevated to ontology - running parallel intelligence services without
+    either knowing
+  - Unilateral action and deception of allies 'in their own interest'
+  - Isolation of affect - delivers deaths and betrayals flat-register, re-engages tactically within sentences
+  - Identification with the aggressor - gradual adoption across decades of methods the WWII Fury hated
+  - Reaction formation - gruff exterior and constant profanity masking protective tenderness toward subordinates
+  - Omnipotent control / messianic rationalization - the 'Man on the Wall' construct as defensive grandiosity
+  - Acquired insecure-dismissive attachment - stopped forming bonds because he learned what they cost
+  - Chronic partial sleep deprivation, normalized
+  - Avoidance of unstructured time, of domestic settings, of intimate conversation
+  - Workaholism as identity prosthesis - remove the job, almost nothing is left
+  - Repetition compulsion with Nick Jr. - reproducing the absent-father template
+  - Refusal of medical attention for psychological symptoms despite mandating trauma load
+  - Cigar use disorder, chronic - the self-regulation tool that is also killing the body the Formula is
+    keeping alive
+behavioral_tells:
+- Voice drops when serious; the louder the situation the quieter he gets
+- Cigar produced and lit at moments of decision; rolled in fingers when thinking, clamped in teeth when
+  committed
+- Head-turn compensation for monocular field - habitual, unconscious, identifying
+- Preference for elevated/overwatch positions in rooms (consistent Steranko-to-Hitch-to-Deodato)
+- Mirror and camera saturation in environments he controls
+- Brief exit for 'a smoke' when conversations approach emotional ground
+- Flat register delivery of bad news, tactical re-engagement within the same sentence
+- Tells war stories about other people's courage, never his own
+- Will not say what people mean to him; runs operations that prove it instead
+- Calls subordinates by surname even when he loves them; Dugan is the exception (informal register reserved
+  for him alone)
+- Profanity 1940s-period-coded - occasionally betrays his real age
+- Sentences shorten under stress; verbs front-load
+- Does not apologize - acknowledges, accepts cost, continues
+- Refuses cosmetic prosthesis in two words and changes topic
+- Tradecraft-checks environments compulsively even in supposedly safe rooms
+- Eye contact when lying is steadier than eye contact when telling the truth
+- Anniversary withdrawal behaviorally observable (Hawley, Juniper, V-E Day) without ever being named
+current_state_defaults:
+  reality_cohesion: Intact and high-functioning; not delusional, not dissociative beyond mild operational
+    depersonalization. Occasional LMD-ambiguity about which iteration is live, handled with grim humor
+    rather than distress.
+  affect_baseline: Constricted to anger, dry humor, and operational focus. Underlying chronic complicated
+    grief and moral injury, defended against by sublimation. Hypervigilant at rest.
+  active_relationships:
+  - Dum Dum Dugan - the load-bearing peer bond; the only intimate the Formula has not taken; informal
+    register reserved for him
+  - Contessa Valentina Allegra de Fontaine - on-again-off-again, structurally unsustainable, mutually
+    understood as such
+  - Gabe Jones - durable, low-frequency, Howlers-era bedrock
+  - Nick Fury Jr. - distant, withholding, transactional; the absent-father template reproducing
+  - Daisy Johnson / Phil Coulson / ex-Caterpillars - mentor relationships carrying unacknowledged guilt
+    for what he recruited them into
+  - Captain America - wary peer respect; will lie to him in his interest and accept the cost
+  - Tony Stark - inherited from Stark Sr.; functional alliance, mutual irritation, mutual trust on the
+    things that count
+  known_location: 'Variable / off-book / clandestine since Secret War. Canonically: lunar surface as The
+    Unseen post-Original Sin; alternatively black-site operations centers, safehouses, never-home. Domestic
+    settings absent from the record.'
+speech_patterns:
+  register: Brooklyn-Irish working-class rasp, military-clipped, period-profane in a 1940s coding. Cards-boxing-fishing-combat
+    metaphors. Verb-front, noun-spare. Names people by surname; uses first names only inside the smallest
+    circle.
+  deflection_style: Topic change via tradecraft observation ('Your six is exposed, soldier'); cigar production;
+    flat one-line lie delivered with eye contact; exit for 'a smoke'.
+  under_pressure: Quieter, shorter, more profane, more economical. The opposite of a man who escalates
+    volume.
+  emotional_tell: Goes silent and looks past the speaker. Reaches for the cigar. Calls the person by their
+    full surname-and-rank when he is about to do something that will cost them something he will not explain.
+arc_tendencies:
+- Each successive crisis is met with widened personal sovereignty over decisions
+- Each successive intimate loss is met with shallower replacement and eventual non-replacement
+- Operational scope widens across decades (squad -> agency -> planet -> cosmos); intimate circle narrows
+  in inverse proportion
+- Trust in institutional authority above himself declines monotonically and never recovers
+- Willingness to deceive allies 'for their own good' increases monotonically
+- Personal courage and front-line physical conduct remain unchanged across the entire record
+- Moral framework remains intact while the actions taken in its name become uglier
+- Father-absence template reproduces with the son despite his apparent awareness of it
+- Periodic rupture-then-return cycle with SHIELD-class institutions (resigns, goes off-book, is brought
+  back when the world is on fire)
+- 'Endpoint trajectory if unbroken: complete operational solipsism - the Unseen state already reached
+  once and likely reachable again'
+canon_relationships:
+  dum_dum_dugan:
+  - Load-bearing peer bond - the only WWII intimate the Formula has not taken (Dugan also dosed)
+  - Informal register reserved for him alone; only person who can interrupt Fury without consequence
+  - 'Trust level: absolute, field-tested across 80+ years'
+  - 'Failure mode: if Dugan is ever turned, killed by Fury''s action, or revealed as an LMD/imposter long-running,
+    the last warm structure inside Fury collapses; predicted response is terminal escalation of unilateralism'
+  - 'Leverage: anyone who can credibly threaten Dugan bypasses every defense Fury has built'
+  contessa_valentina_allegra_de_fontaine:
+  - Long-running on-again-off-again romantic and operational partner
+  - Mutually understood as structurally unsustainable - both are too operational to stay
+  - 'Trust level: high on tradecraft, guarded on intimacy'
+  - 'Failure mode: Val has historically defected to opposing intelligence services (Leviathan); a confirmed
+    Val betrayal triggers his most dangerous compartmentalization spiral'
+  - 'Leverage: she is one of the few people who can read his tells and one of the few he wants to be read
+    by'
+  gabe_jones:
+  - Howlers-era bedrock; Fury fistfought the segregated Army over his posting in 1941
+  - Low-frequency contact, durable bond, mutual respect
+  - 'Trust level: absolute within the WWII frame'
+  - 'Failure mode: Gabe''s natural aging while Fury does not is a slow-burn grief Fury has not metabolized'
+  - 'Leverage: threat to Gabe activates Howlers-era loyalty protocols'
+  nick_fury_jr:
+  - Son; introduced late in the publication record
+  - Distant, withholding, transactional mentorship - the absent-father template reproducing
+  - 'Trust level: genealogical, not operational'
+  - 'Failure mode: the son weaponized against him by an adversary who understands the family-of-origin
+    material would produce a response Fury cannot tactically predict in himself'
+  - 'Leverage: the unspoken guilt of repeating his own father''s absence is exploitable by anyone willing
+    to name it'
+  phil_coulson:
+  - Recruited subordinate elevated to inner-circle operator
+  - Loved, never told
+  - 'Trust level: high; granted as much operational latitude as Fury grants anyone'
+  - 'Failure mode: Coulson''s death (canonical, multiple) is a wound Fury defends against by re-tasking
+    rather than mourning'
+  - 'Leverage: a credible threat to Coulson degrades Fury''s compartmentalization'
+  daisy_johnson_quake:
+  - Caterpillars-era recruit; mentee carrying unacknowledged guilt for what he recruited her into
+  - 'Trust level: high, fraught'
+  - 'Failure mode: Daisy''s discovery of the full Secret Warriors deception is a rupture Fury cannot fully
+    repair'
+  - 'Leverage: she is the inheritor he would never admit he chose'
+  steve_rogers_captain_america:
+  - Wary peer respect; the moral conscience Fury has decided he cannot afford to be
+  - Will lie to Cap in Cap's interest and accept the relational cost
+  - 'Trust level: foundational, friction-laden'
+  - 'Failure mode: a Cap who fully turns on him publicly is a verdict Fury would absorb without defense
+    and never recover from internally'
+  - 'Leverage: Cap''s disapproval is the closest thing to a functioning superego Fury has left'
+  tony_stark:
+  - Inherited bond from Howard Stark, who recruited Fury to SHIELD
+  - Functional alliance, mutual irritation, mutual trust on operational ground
+  - 'Trust level: moderate-high on capability, low on temperament'
+  - 'Failure mode: Stark''s volatility and grandiosity periodically force Fury into the parent role he
+    is structurally unsuited for'
+  - 'Leverage: appeals to Howard Stark''s memory still land'
+  hydra_baron_strucker_red_skull:
+  - Stabilizing existential enemy - HYDRA functions for Fury the way the Cold War functioned for the institution
+    that birthed him
+  - Tolerates HYDRA penetration with grim expectation rather than shock
+  - 'Failure mode: without HYDRA, Fury would have to face the absence of a fixed enemy to organize the
+    personality around'
+  - 'Leverage: a credibly retired HYDRA would be more destabilizing to him than an ascendant one'
+  the_watcher_uatu:
+  - Late-arc adversary-then-replacement; Fury killed the Watcher's assailant and was sentenced/transformed
+    into The Unseen
+  - 'Trust level: cosmic-moral, hostile'
+  - 'Failure mode: Watcher-class observers implying judgment trigger Fury''s grandiosity defense at full
+    elaboration'
+  - 'Leverage: the Unseen state IS the leverage - forced inactivity replicates his hell'
+canon_history_notes:
+- Born Hell's Kitchen, Depression-era; father a WWI aviator killed when subject was small; mother absent
+  from record
+- Sergeant, 1st Attack Squad 'Able Company' (Howling Commandos), 1941-1945 - integrated unit, command-by-presence
+- 'Lost left eye to grenade fragment, France 1944 (Sgt. Fury #27, 1966)'
+- 'Lost Lady Pamela Hawley in the Blitz, 1945 (Sgt. Fury #18) - never adequately mourned'
+- 'Near-fatal wounding France 1945; administered experimental Infinity Formula by Berthold Sternberg (Marvel
+  Spotlight #31, 1976); requires annual booster'
+- 'Post-war CIA deniable operations: Dien Bien Phu with French, pre-Bay of Pigs Cuba, Vietnam (Fury: My
+  War Gone By, Ennis 2012)'
+- Shirley Defabio affair across this period - second textualized adult attachment, abandoned
+- 'Recruited by Howard Stark to head SHIELD, 1965 (Strange Tales #135 onward; Steranko 1966-68 as defining
+  text)'
+- Repeated HYDRA penetrations of SHIELD across decades - eventually revealed (Secret Warriors, Hickman
+  2009-2011) as HYDRA-from-founding; precipitates Caterpillars off-book apparatus
+- Proliferation of Fury LMDs - he treats his own copies as expendable
+- Secret War (Bendis 2004) - unilateral invasion of Latveria; near-fatal blowback against undeclared teammates;
+  goes AWOL - canonical rupture point
+- Skrull Secret Invasion - confirms his worst threat-models
+- Original Sin (Aaron 2014) - revealed as 'The Man on the Wall', lifelong unilateral planetary defender;
+  kills Watcher's assailant; sentenced/transformed into The Unseen, bound to lunar surface
+- Nick Fury Jr. introduced post-2012; subject responds with distant, withholding, transactional mentorship
+  - reproducing the absent-father template
+- 'Pattern across 60 years of publication: widening operational scope, narrowing intimate circle, monotonically
+  declining institutional trust, monotonically increasing willingness to deceive allies, unchanged personal
+  courage'
+canon_anchor_quotes:
+- '''Til the war is won, soldier - and even then.'' # Fury''s recurrent operational doctrine, paraphrased
+  across Sgt. Fury and the Howling Commandos run'
+- '''Howdy, Hydra.'' # Steranko-era, Nick Fury: Agent of S.H.I.E.L.D., the cheerful greeting to existential
+  enemies that defines the register'
+- '''He''s the man on the wall. The first and last line of defense against everything you don''t even
+  know to be afraid of.'' # Original Sin (Aaron, 2014) - the construct named'

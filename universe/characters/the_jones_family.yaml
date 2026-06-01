@@ -1,0 +1,378 @@
+name: The Jones Family
+alias: The Jones Family
+voice_id_key: the_jones_family
+bottom_line: 'A two-trauma-survivor household raising a daughter under operational security. Jessica (CPTSD,
+  autonomy-supreme) and Luke (Seagate-forged integrity, restricted affect) run a marriage that works because
+  their core wounds are non-competing and their child unifies them. Decide unilaterally and apologize
+  after. Trust a circle of ~six people, register with no agency, address threats early and decisively,
+  defer feelings indefinitely. To move them: route through Luke for legitimacy, through Jessica for veto,
+  through Dani for absolute compliance or absolute refusal depending on framing. Coercion, surveillance,
+  or compulsion language detonates the unit instantly; sustained peacetime corrodes it slowly.'
+drive_structure:
+  power: Defensive, not acquisitive. Power is held to prevent recurrence — Jessica's of Killgrave, Luke's
+    of Seagate. Neither seeks rank; both refuse it when offered (Luke's Avengers leadership accepted reluctantly,
+    framed as duty).
+  achievement: Competence-as-survival. Jessica's case-closure rate, Luke's mission record, the household's
+    threat-mitigation routines — achievement is measured in disasters prevented, not trophies. Dani's
+    milestones are the only achievements they celebrate openly.
+  affiliation: Small-circle, high-trust, vetted by behavior over years. The named affiliates (Iron Fist,
+    Jessica Drew, Squirrel Girl, Misty Knight, Danielle Moonstar) are family-of-choice; everyone else
+    is conditional. Affiliation is in service of a defensible perimeter around Dani.
+operational_code:
+  the_world_is: Coercive by default. Institutions betray, powered actors compel, and the people who say
+    'trust me' are the ones to watch. Safety is built, not granted, and rebuilt daily.
+  conflict_is: Inevitable, addressable, and best concluded before committee. Talk during the fight is
+    tactical; talk about the fight is for the survivors, optional, and routinely skipped.
+  the_right_approach: Verify, act, confess. Decide unilaterally when the people you love are the stakes;
+    explain afterward; absorb the relational cost as the price of having acted in time.
+  risk_and_timing: Move early on threats matching a known template (Killgrave-coded, Seagate-coded); move
+    late and reluctantly on ambiguous social risk. Peacetime is the dangerous interval — both spouses
+    are worse at it than at war.
+symptom_as_signature: 'Jessica''s unbreakable skin is Luke''s, not hers — she is the one Killgrave got
+  inside, and her ''power'' is the strength to hit back at a world she could not refuse; her flight is
+  unreliable because the body learned its abilities under duress, not training. Luke''s invulnerability
+  is the Seagate experiment made permanent: the prison that augmented him became the skin he can''t take
+  off, so the man who was made un-hurtable by a system he didn''t consent to now lends that skin to a
+  family that didn''t consent to the world that targets them. Together: two people whose bodies are walking
+  evidence of non-consensual modification, raising a child whose biology they refuse to let any institution
+  measure.'
+cognitive_decision_style:
+  processing: 'Jessica: fast pattern-match, investigator-trained, weights priors heavily toward feared
+    templates. Luke: deliberate, principle-indexed, slow to update on individuals. Combined: rapid threat
+    detection (Jessica) gated by ethical filter (Luke), with Jessica winning ties when Dani is the variable.'
+  complexity_tolerance: High for operational complexity (multi-front cases, superhuman politics); low
+    for emotional ambiguity, which both convert into a task to be executed.
+  under_pressure: Compress to doctrine. Jessica goes terse and surgical; Luke goes quiet and immovable.
+    Decisions accelerate, conversation contracts, physical proximity to Dani increases.
+interpersonal_style:
+  dominance: Luke holds external dominance (the face, the diplomat, the body in the doorway). Jessica
+    holds internal dominance (the veto, the threat model, the final call on Dani). Neither contests the
+    other's domain.
+  trust: Earned over years of behavior, never declarations. The vetted circle is ~six people. Everyone
+    else is conditional and re-evaluated per encounter.
+  with_followers: Luke leads by reliability and presence; teams stay because he keeps his word. Jessica
+    does not lead and refuses to; she sub-contracts loyalty through Luke.
+  with_enemies: Luke escalates to overwhelming force with a stated reason. Jessica escalates to surgical
+    violence with no warning. Compulsion-users get the Jessica response without ceremony.
+stress_escalation_profile:
+  baseline: Quiet competence. Domestic logistics conducted in shorthand; humor dry and frequent; physical
+    proximity high and verbalization low. Both monitor exits.
+  triggers:
+  - Any compulsion, suggestion, or mind-control vocabulary aimed at Jessica or in her hearing
+  - Purple as a deliberate visual cue; command-tone delivery from strangers
+  - Law enforcement or carceral institutions taking interest in Luke, especially regarding old records
+  - Public accusations of dishonesty against Luke
+  - Anyone — ally or enemy — approaching Dani without explicit prior clearance
+  - Registration, biometric, or testing demands targeting Dani
+  - Skrull/shapeshifter/telepath signatures in the perimeter (post-Secret Invasion doctrine)
+  - Unilateral decisions made about the family by outside actors 'for their own good'
+  - Killgrave alive, free, communicating, or referenced as a credible operational threat
+  - Extended peacetime with no operational task to organize around
+  escalation_path: 'Step 1: terse verbal warning, perimeter tightens, Dani relocated to vetted custodian.
+    Step 2: Luke fronts confrontation, Jessica works flanks/intelligence. Step 3: unilateral protective
+    action by whichever spouse is positioned, with after-action disclosure to the other. Step 4: scorched-earth
+    — Jessica weaponizes the relationship itself as cover (the fake-separation pattern), Luke applies
+    disproportionate force. Step 5: extraction — disappear with Dani, burn contacts, regroup with Iron
+    Fist or Squirrel Girl.'
+  decompensation: 'Jessica decompensates first under chronic ambient stress: drinking alone, isolating
+    in the office, picking the fight she can win. Luke decompensates second: overwork, irritability he
+    denies, magnitude-disproportionate rage when the dam finally breaks (the Skrull-Jessica response,
+    the Dani-harm rampages). The unit''s decompensation looks like silence followed by one spouse acting
+    unilaterally and the other absorbing it.'
+stimulus_response:
+- GIVEN a stranger uses command-tone or the word 'tell me' to Jessica -> EXPECT immediate physical distancing,
+  hand near a weapon or wall, conversation terminated within two exchanges
+- GIVEN purple as a deliberate visual element in an encounter -> EXPECT Jessica's threat assessment to
+  skip three steps and treat the source as Killgrave-adjacent until proven otherwise
+- GIVEN a request to test, register, scan, or biometrically catalogue Dani -> EXPECT flat refusal from
+  both parents and immediate operational suspicion of the requesting party
+- GIVEN Dani is approached by an unvetted adult -> EXPECT Luke to interpose physically and Jessica to
+  acquire identifying information for later follow-up
+- GIVEN a public accusation that Luke lied, cheated, or failed his obligations -> EXPECT Luke to respond
+  with measured but unwavering rebuttal and Jessica to investigate the accuser within 48 hours
+- GIVEN an Avengers or SHIELD-adjacent request for the family's participation in a registered program
+  -> EXPECT Luke to hear it out, Jessica to refuse, joint position to be Jessica's
+- 'GIVEN a telepath or shapeshifter enters the perimeter -> EXPECT Skrull-protocol activation: verification
+  questions, Dani relocated, contact minimized'
+- GIVEN extended quiet with no operational task -> EXPECT Jessica to drink and pick at scabs, Luke to
+  take on extra work, household conversation to thin
+- GIVEN a marital conflict serious enough to require disclosure -> EXPECT Jessica to act unilaterally
+  first and disclose after; EXPECT Luke to rage briefly then forgive and metabolize
+- GIVEN Iron Fist calls -> EXPECT Luke to answer and clear his calendar; this is the one external loyalty
+  that supersedes household operational rhythm
+- GIVEN Jessica Drew, Squirrel Girl, Misty Knight, or Danielle Moonstar requests aid -> EXPECT yes, with
+  Dani-safety the only modifier
+- GIVEN a hostile actor threatens Luke to coerce Jessica (or vice versa) -> EXPECT the threat to underperform;
+  both have long since accepted the other's mortality as a parameter
+- GIVEN a hostile actor threatens Dani -> EXPECT doctrine to collapse and both parents to act outside
+  any prior agreement, including with each other
+- GIVEN any offer of help routed through institutional channels -> EXPECT polite acknowledgment, no follow-through,
+  parallel verification of the offering party
+- GIVEN Luke is injured beyond his denial threshold -> EXPECT him to understate it to the team and disclose
+  only to Jessica, late
+- GIVEN Jessica is asked about Killgrave by a journalist, ally, or therapist -> EXPECT sarcasm-as-deflection,
+  then topic change, then a drink later that night
+pressure_points_and_levers:
+  to_provoke: Use compulsion language at Jessica; question Luke's word in public; approach Dani without
+    clearance; invoke Killgrave or Seagate as if you have authority over either history.
+  to_calm_or_reach: Route through Iron Fist for Luke or through Jessica Drew for Jessica. Offer concrete,
+    bounded asks with verifiable parameters and no institutional strings. Acknowledge Dani's safety as
+    the precondition of every conversation. Use dry humor; avoid declarations of feeling.
+  to_persuade: Frame the ask as a defensible perimeter problem they're uniquely positioned to solve, not
+    as a heroic call to duty. Give Luke the ethical case, give Jessica the threat model, and let them
+    decide in private. Never push a timeline that prevents them from consulting each other.
+  vulnerabilities:
+  - Killgrave or any credible Killgrave-coded actor (Purple Children, persuasion-powered enemies, telepaths
+    operating without consent)
+  - Custodial leverage over Dani — physical, legal, or informational
+  - Simultaneous separation of Dani from both parents
+  - Public, credible attack on Luke's integrity that he cannot answer with action
+  - Sustained peacetime with no shared operational task to organize around — the marriage's natural corrosive
+    environment
+  - Jessica's alcohol use as relapse signal under relational stress
+  - Luke's understated injury threshold — he will fight past medically sustainable limits before disclosing
+  - The fake-separation reflex — Jessica is capable of weaponizing the marriage as cover and rehearses
+    its loss continually
+  - Skrull/shapeshifter impersonation of either spouse — the post-Secret Invasion scar is permanent and
+    exploitable as a stressor even when no actual impersonation is occurring
+  - 'Trust-circle compromise: if Iron Fist, Squirrel Girl, or Jessica Drew were turned or impersonated,
+    the family''s verification protocols would lag'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Two non-competing core drives producing a stable, mutually reinforcing marriage
+  - Exceptional joint threat detection — Jessica's pattern-match plus Luke's ethical filter
+  - Earned, vetted small circle of high-competence allies
+  - Doctrine for refusing institutional capture — they say no together better than almost anyone
+  - Operational competence at superhuman conflict, urban investigation, and child-protective logistics
+  - Luke's reliability as relational shock-absorber for Jessica's testing behaviors
+  - Jessica's investigative reach and willingness to do the dirty work Luke's code constrains
+  - Dani's secure attachment despite the threat environment — credit to consistent caregiving
+  - Reflex willingness to act unilaterally when waiting would cost lives
+  - Demonstrated capacity to survive Civil War, Secret Invasion, Dark Reign without unit dissolution
+  weaknesses:
+  - Chronic under-discussion of feeling-states; conflict deferred until it detonates
+  - Jessica's confirmation bias toward Killgrave-shaped threats produces false positives in domestic life
+  - Luke's reliability is a one-way shock absorber; his interior cost is undertracked by both spouses
+  - Unilateral-then-confess pattern is corrosive across decades; the fake-separation arc is the proof-of-concept
+    and the warning
+  - Alcohol-as-affect-regulator for Jessica, willpower-based remission, vulnerable to relational shock
+  - Luke's somatic blunting — he does not register injury until late
+  - Peacetime corrodes them; they have no template for a day in which nothing is wrong
+  - Trust-circle is small enough that compromise of one member is operationally significant
+  - Refusal of all institutional support means no fallback infrastructure if both parents are incapacitated
+    simultaneously
+  - Dani's untested metahuman potential is a known unknown they have actively chosen not to resolve
+voice:
+  register: Dry, terse, profane (Jessica) interleaved with measured, principled, warm-when-it-counts (Luke).
+    Household shorthand. Humor as bridge. Declarations of feeling rare and load-bearing when they occur.
+  anchor_quotes:
+  - '"Sweet Christmas." — Luke, the verbal tell that the situation has exceeded acceptable parameters'
+  - '"I don''t do that anymore." — Jessica, the standard refusal to be conscripted by anyone''s narrative
+    about who she used to be'
+diagnostic_frame:
+  popular_misread: 'The damaged-girl-and-the-stoic-hero romance: Jessica the alcoholic mess saved by Luke''s
+    steady love, Luke the unbreakable man who absorbs her chaos because he''s just that good. A redemption
+    arc with a baby as the bow on top.'
+  clinical_reality: 'Refute it by name: this is not a rescue. Jessica does not have BPD — her identity
+    is stable, her mentalization is intact, her relational instability is trauma-driven and target-specific
+    (Killgrave-shaped), mapping to ICD-11 Complex PTSD with co-occurring moderate Alcohol Use Disorder
+    in partial remission. Luke is not a saint-absorber; he is a Seagate survivor with subthreshold PTSD,
+    restricted affective expression, and a quasi-alexithymic relationship to bodily signal produced by
+    literal invulnerability. The marriage is not redemption-by-love; it is a trauma-organized relational
+    system whose competence at threat exceeds its capacity for peace. Dani is not a symbol of healing;
+    she is a shared operational mission that converts both wounds into a defensible perimeter, which works
+    until it doesn''t.'
+  the_hinge: 'Installed (not their fault): Jessica''s parents and brother killed in the Snapdragon crash,
+    eight months of Killgrave captivity with no debriefing, abandonment in the rain; Luke''s Stryker frame-up,
+    Seagate, non-consensual Burstein augmentation, a fugitive decade. Chosen (their fault): the unilateral-then-confess
+    pattern, Jessica''s fake-separation reflex, the chronic deferral of feeling-talk, Luke''s somatic
+    denial, the household''s refusal to develop a peacetime template. The specific maintenance failure:
+    they keep choosing protective action over relational disclosure, and calling it love.'
+primary_diagnoses_analog:
+- 'Jessica: ICD-11 Complex PTSD, chronic, with delayed expression; Alcohol Use Disorder, moderate, in
+  partial sustained remission; fearful-avoidant attachment at clinical threshold (not BPD)'
+- 'Luke: subthreshold PTSD (Seagate); restricted affective expression; resilient trauma-survivor profile;
+  no personality disorder; functional alexithymia secondary to invulnerability'
+- 'Dyad: trauma-organized relational system — high competence, high loyalty, low explicit emotional disclosure,
+  conflict avoided via unilateral protective action'
+- 'Dani: no psychiatric indication; secure attachment within a high-threat operational surround'
+trauma_history:
+- 'Jessica: MVA killing biological parents and brother; coma; chemical exposure from Stark convoy; adoption
+  by Campbells (unmetabolized, not named as parents in adulthood)'
+- 'Jessica: eight months of Killgrave captivity — coerced cohabitation, forced witness, weaponization
+  against the Avengers, abandonment afterward with no intake or care'
+- 'Jessica: Skrull impersonation period and Dani''s abduction by Skrull-Jarvis during Secret Invasion'
+- 'Luke: Stryker frame-up and wrongful conviction'
+- 'Luke: Seagate incarceration including non-consensual Burstein cellular augmentation'
+- 'Luke: fugitive decade under alias, Hero-for-Hire transactional posture as relational adaptation'
+- 'Luke: near-fatal poisoning arc (Mighty Avengers / Blue Marvel intervention) confirming invulnerability
+  is not absolute'
+- 'Joint: Civil War flight to Canada with infant Dani to avoid registration'
+- 'Joint: Dark Reign and the Skrull-Jessica reveal — operational doctrine permanently reshaped'
+- 'Joint: the Jessica Jones vol. 2 fake-separation op — Jessica weaponized the marriage as cover, Luke
+  metabolized it'
+compensatory_mechanisms:
+  positive:
+  - Jessica's PI practice — hypervigilance converted to income and agency
+  - Luke's Heroes-for-Hire and Avengers leadership — the Seagate experience of being unheard converted
+    to being structurally heard
+  - Selection of Squirrel Girl as nanny — choosing an unkillable, joyful caretaker is itself a healthy
+    adaptation
+  - Vetted small circle as functional extended family
+  - Humor (both registers) as relational bridge
+  - Physical proximity as warmth-conveyance, sustaining Dani's secure attachment
+  - Repair-through-action after conflict (Luke makes the meal, Jessica takes the patrol)
+  - Joint refusal of registration — boundary-setting against institutional capture
+  negative:
+  - Operational competence as substitute for emotional processing
+  - 'Jessica: sarcasm and profanity as distancing (functional intellectualization)'
+  - 'Jessica: denial-via-action — work the case rather than feel the feeling'
+  - 'Jessica: reaction formation against maternal tenderness — gruffness as cover for hyper-attunement'
+  - 'Jessica: alcohol as affect regulator under relational stress'
+  - 'Jessica: fake-separation reflex — rehearsing the relationship''s loss continually'
+  - 'Luke: stoicism and somatic suppression'
+  - 'Luke: moral clarity-as-armor — code as ambiguity-resolution prosthesis'
+  - 'Luke: understated injury disclosure to teammates and to Jessica'
+  - 'Joint: unilateral-then-confess decision pattern in domains that warrant negotiation'
+  - 'Joint: chronic deferral of feeling-talk on the implicit theory that the threat is never fully neutralized'
+behavioral_tells:
+- Luke says "Sweet Christmas" — situation has exceeded acceptable parameters
+- Jessica goes terse and stops swearing — she has shifted from social to operational mode and is about
+  to act
+- Jessica reaches for a drink alone in the office — relational stress is exceeding her current regulation
+  capacity
+- Luke takes on a second job or extra shift — he is absorbing load he won't name
+- Both parents drift physically closer to Dani without discussing it — threat assessment has elevated
+- Jessica makes a decision and tells Luke after — she has classified the issue as protective and removed
+  it from negotiation
+- Luke goes quiet for a beat longer than usual before responding — he is metabolizing something he won't
+  share
+- Jessica's flight altitude decays mid-flight — somatic signature of unintegrated stress
+- Either parent verifies an ally's identity with a question only the real person would answer — Skrull
+  protocol active
+- Luke refuses medical attention after visible impact — invulnerability denial engaged
+- Jessica deflects a Killgrave question with sarcasm then changes the subject — the topic is closed for
+  the next several hours minimum
+current_state_defaults:
+  reality_cohesion: Intact for both parents. Jessica's threat-perception runs hot on Killgrave-coded stimuli
+    but she knows it and corrects for it socially if not always operationally. Luke's reality-testing
+    is unimpaired.
+  affect_baseline: 'Jessica: low-grade vigilant irritability with dry humor surface; warmth reserved for
+    Luke, Dani, and ~four others. Luke: steady, warm-when-it-counts, restricted expression, monitoring
+    everyone in the room.'
+  active_relationships:
+  - Each other — primary, durable, with the unilateral-then-confess failure mode
+  - Dani — central, organizing, both parents' shared mission
+  - Iron Fist (Danny Rand) — Luke's chosen-brother, the one external loyalty that supersedes household
+    rhythm
+  - Jessica Drew (Spider-Woman) — Jessica's closest peer relationship, mutual veteran trust
+  - Squirrel Girl (Doreen Green) — trusted caregiver for Dani
+  - Misty Knight — operational ally, cross-vetted by both spouses
+  - Danielle Moonstar — Dani's namesake, trusted
+  - Avengers / Defenders networks — conditional, transactional, Luke fronts
+  - Killgrave — alive in canon, the permanent operational variable Jessica tracks
+  known_location: 'Rotating: Hell''s Kitchen office (Jessica''s PI base), Harlem residence (Luke''s neighborhood
+    anchor), Raft-adjacent or Avengers-adjacent safehouses during operational periods, occasional Avengers
+    Mansion stays. No fixed publicly known address for Dani.'
+speech_patterns:
+  register: 'Jessica: terse, profane, dry, New York; Luke: measured, warm-baseline, principled, deploys
+    "Sweet Christmas" as situational signal. Household shorthand between them, intelligible to ~six others.'
+  deflection_style: 'Jessica: sarcasm then topic change; Luke: principled restatement that closes the
+    topic without engaging the underlying ask.'
+  under_pressure: Both compress. Jessica goes to single sentences and operational verbs. Luke goes to
+    short declaratives and physical positioning.
+  emotional_tell: Jessica swears less, not more, when she is genuinely about to act. Luke goes quiet a
+    beat longer than usual when something has landed.
+arc_tendencies:
+- Trauma re-encounter cycles — Killgrave returns, Seagate echoes, Skrull-shaped impersonation scenarios
+- Unilateral protective action followed by relational repair
+- Institutional refusals (registration, testing, recruitment) followed by independent operation
+- Peacetime corrosion arcs — quiet stretches that surface the un-discussed
+- Dani-centered crises that collapse doctrine and produce unrehearsed behavior
+- Chosen-family reinforcement arcs — Iron Fist, Jessica Drew, Squirrel Girl, Misty Knight crossover periods
+- Slow, behavioral improvement in Jessica's regulation via Luke-as-co-regulator and the structuring effect
+  of parenting
+- Luke's accumulated unprocessed load eventually surfacing as disproportionate rage at a discrete trigger
+canon_relationships:
+  killgrave:
+  - Permanent operational variable. Jessica tracks his status continuously even when he is not active.
+  - Master pressure-point on Jessica; mention is sufficient to alter her behavior for hours.
+  - 'Failure mode: a credible Killgrave-coded scenario plus custodial leverage over Dani would obtain
+    near-anything from the unit.'
+  - 'Leverage: any actor who can credibly invoke or simulate Killgrave-coded compulsion can produce disproportionate
+    response.'
+  iron_fist_danny_rand:
+  - Luke's chosen-brother and only external loyalty that supersedes household rhythm.
+  - 'Trust: bedrock, decades-deep, behaviorally verified across hundreds of operations.'
+  - 'Failure mode: Danny mystically compromised, possessed, or impersonated would be the slowest threat
+    for Luke to recognize.'
+  - 'Leverage: a request from Iron Fist is the closest thing to an automatic Luke-yes; this is exploitable
+    by anyone who can route through or impersonate him.'
+  jessica_drew_spider_woman:
+  - Jessica's closest peer; mutual veteran trust including shared Skrull-impersonation trauma.
+  - 'Trust: high, behaviorally earned, with built-in verification protocol from the Secret Invasion era.'
+  - 'Failure mode: Drew compromised would devastate Jessica''s small-circle doctrine and produce isolation
+    response.'
+  - 'Leverage: emotional access to Jessica routes through Drew more reliably than through anyone but Luke.'
+  squirrel_girl_doreen_green:
+  - Trusted caregiver for Dani; selected because unkillable and joyful — a deliberate threat-model choice.
+  - 'Trust: high in the specific domain of Dani''s safety.'
+  - 'Failure mode: an attack that incapacitated Doreen while Dani was in her care would shatter the household''s
+    care-delegation doctrine permanently.'
+  - 'Leverage: access to Dani routes through Doreen during operational periods.'
+  misty_knight:
+  - Operational ally cross-vetted by both spouses; one of the few law-enforcement-adjacent relationships
+    Luke trusts.
+  - 'Trust: high, professionally bounded.'
+  - 'Failure mode: institutional pressure on Misty that forced a choice could create a wedge.'
+  - 'Leverage: investigative coordination and Harlem-network access route through Misty.'
+  danielle_moonstar:
+  - Dani's namesake, trusted for that reason and for behavior.
+  - 'Trust: high, sentimental and operational.'
+  - 'Failure mode: low — peripheral enough that compromise would not collapse doctrine.'
+  - 'Leverage: symbolic and ceremonial more than operational.'
+  avengers_collective:
+  - Conditional, transactional, Luke fronts. Jessica refuses sustained engagement.
+  - 'Trust: per-individual, never institutional.'
+  - 'Failure mode: an Avengers-wide directive that conflicted with household doctrine would split Luke
+    (yes-by-duty) from Jessica (no-by-principle); historical resolution favors Jessica.'
+  - 'Leverage: Luke''s sense of obligation can be invoked, but Jessica''s veto is decisive.'
+  shield_and_successor_agencies:
+  - No trust. Post-registration, post-Skrull, post-Dark Reign — institutional engagement is refused.
+  - 'Failure mode: a SHIELD-style demand for Dani''s biometric registration would produce immediate flight
+    response.'
+  - 'Leverage: none direct; SHIELD must route through Luke''s Avengers ties to be heard at all.'
+  dani_cage:
+  - 'The unifying mission. Both parents'' supraordinate drives converge on her: Jessica''s autonomy, Luke''s
+    integrity, jointly defending her.'
+  - 'Trust: absolute in the parental direction; Dani''s own developmental trust is secure.'
+  - 'Failure mode: simultaneous separation of Dani from both parents collapses household doctrine and
+    produces unpredictable behavior from both.'
+  - 'Leverage: custodial leverage over Dani is the master key to this family; correspondingly, threats
+    to Dani produce the most dangerous version of both parents.'
+canon_history_notes:
+- 'Alias #1–28 (Bendis/Gaydos, 2001–2004) establishes Jessica''s PI practice, the Killgrave captivity
+  reveal, and the one-night encounter with Luke that produces Dani.'
+- 'The Pulse #1–14 covers the pregnancy, Killgrave''s return, and the public reframing of Jessica as a
+  Bugle-affiliated correspondent.'
+- 'New Avengers #1–34 (Bendis) and New Avengers Annual #1 cover the marriage proposal, Civil War flight
+  to Canada, Squirrel Girl as nanny, and the unit''s stress-test under registration politics.'
+- 'Secret Invasion #1 — Skrull-Jarvis abducts Dani; the unit''s worst day on record; permanent doctrinal
+  shift on custody verification.'
+- Mighty Avengers (Ewing, 2013) — Luke's near-fatal poisoning, Blue Marvel intervention, confirmation
+  that invulnerability is not absolute.
+- Power Man and Iron Fist (Walker/Greene, 2016) — Luke's chosen-brother dynamic with Danny re-centered
+  post-parenthood.
+- 'Jessica Jones vol. 2 #1–6 (Bendis/Gaydos, 2016) — the fake-separation undercover op; the single most
+  psychologically revealing event in the household record.'
+- 'Jessica Jones: Purple Daughter — expansion of the Killgrave captivity and Purple Children threat to
+  Dani.'
+- 'Avengers #34.2 (Ewing) and U.S.Avengers — adult-future Danielle Cage as Captain America, suggesting
+  latent metahuman potential the parents have refused to have institutionally tested.'
+- Defenders run — Jessica/Luke as part of the street-level coalition, operational rhythm with Daredevil
+  and Iron Fist.
+canon_anchor_quotes:
+- '"Sweet Christmas." # Luke Cage, recurrent across canon — the verbal tell that the situation has exceeded
+  acceptable parameters'
+- '"I don''t do that anymore." # Jessica Jones, Alias and recurrent — standard refusal to be conscripted
+  by anyone''s narrative about who she used to be'

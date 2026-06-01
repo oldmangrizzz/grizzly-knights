@@ -1,0 +1,290 @@
+name: The Champions of Los Angeles
+alias: Champions Team
+voice_id_key: champions_team
+bottom_line: 'A five-member super-team formed by accident during Pluto''s 1975 Olympian incursion at UCLA,
+  held together by Warren Worthington''s checkbook and disbanded the instant that checkbook closed. Operationally:
+  acute-competent, chronic-incompetent — fight beautifully together, cannot sit in a room together. Decisionally:
+  reactive, non-doctrinal, post-hoc. To move them: present an immediate civilian threat (they will mobilize);
+  to break them: starve them of external crisis and let internal ambiguity do the work. They are not a
+  unit you negotiate with; they are a unit you trigger or you wait out.'
+drive_structure:
+  power: Negligible at the unit level. The Champions actively refuse the power-postures of the Avengers
+    (charter, government liaison) and X-Men (pedagogy, secrecy). Power is held privately by Worthington
+    (capital) and Romanova (tradecraft) and never pooled.
+  achievement: To prove a super-team can exist outside the NY/Avengers/X-Men gravity well — and beneath
+    that, to give each member a place to belong without being required to be vulnerable. Achievement is
+    defined reactively (won the fight) rather than proactively (built the institution).
+  affiliation: Highest drive, and the unspoken one. The team is a holding environment that holds nothing
+    — affection-at-distance, quipping rather than confiding, allergic to swearing-in moments. Affiliation
+    is what they want and what they sabotage.
+operational_code:
+  the_world_is: A place where heroism is a RESPONSE, not a PRACTICE. Threats arrive; you handle them;
+    you do not build capacity in advance. West Coast pragmatism without West Coast doctrine.
+  conflict_is: A relief — the only state in which the team coheres. In the fight, role assignments are
+    obvious (Herc punches, Widow tactics, Angel air, Iceman control, Blaze terror). Out of the fight,
+    nothing is obvious and nobody wants to decide.
+  the_right_approach: Show up, improvise, quip through it, debrief at a bar. Avoid formal process. Avoid
+    articulating the mission. Avoid recruiting deliberately. Avoid asking whose money this is.
+  risk_and_timing: Tactically excellent under acute load; catastrophically poor under chronic load. Will
+    accept wildly wrong-scale missions (Pluto, the Stranger) because acceptance is easier than the conversation
+    about what the team is for.
+symptom_as_signature: 'The team''s name and slogan — ''Champions… for the common man'' — IS the symptom
+  made literal: a publicly-leased Los Angeles storefront with a logo and a phone number, fighting Olympian
+  gods and Soviet superhumans. The gap between the marquee and the actual caseload is the pathology hanging
+  in neon over Hollywood Boulevard. They could not even name themselves accurately.'
+cognitive_decision_style:
+  processing: Intuitive, distributed, non-strategic. No single brain integrates the team; decisions emerge
+    from whoever speaks first in the room. Romanova does the actual tactical thinking and is resented
+    for it.
+  complexity_tolerance: High for tactical complexity (multi-front fights handled well); near-zero for
+    organizational or interpersonal complexity (financial structure, leadership succession, Blaze containment
+    all unaddressed).
+  under_pressure: Splits cleanly into roles and performs above the sum of parts. The fight is where the
+    dysfunction goes quiet. The debrief is where it returns.
+interpersonal_style:
+  dominance: Diffuse and contested. Black Widow holds nominal command twice and resigns twice — accurate
+    readings that the role is a container for group anxiety rather than real authority. Worthington holds
+    economic dominance and is punished socially for it. Hercules holds physical dominance and ignores
+    its implications.
+  trust: 'Combat-trust: total. Confidence-trust: minimal. They will take a hit for each other and not
+    tell each other anything that matters.'
+  with_followers: There are no followers. The Champions never built a junior tier, never mentored, never
+    recruited beyond the accidental Darkstar addition. The absence is diagnostic.
+  with_enemies: Reactive and humane. They do not pursue, do not maintain enemies lists, do not escalate
+    after the engagement. The fight ends when the fight ends.
+stress_escalation_profile:
+  baseline: Low-grade irritable cohesion. Bickering as homeostasis. Worthington writing checks, Drake
+    quipping, Hercules drinking, Widow planning the next mission to avoid the next conversation, Blaze
+    threatening to leave and being talked back in.
+  triggers:
+  - Worthington's money being discussed openly rather than absorbed silently
+  - Any attempt to formalize the team (bylaws, charter, mission statement, monitor duty)
+  - Romantic tension surfacing (Widow/Hercules subtext, Iceman's various)
+  - Sunset for Blaze, every day, every day, every day
+  - Comparison to the Avengers or X-Men by an outside party
+  - Civilian casualty the team could not prevent
+  - A member's prior affiliation calling them home (Xavier, the Avengers, Olympus)
+  escalation_path: Bickering -> sarcastic deflection -> Hercules storms out -> Blaze threatens to quit
+    -> Widow tenders resignation of leadership -> Angel calls a house meeting nobody attends -> external
+    crisis arrives and resets the cycle without resolution.
+  decompensation: Financial collapse. When Worthington Industries' liability exposure closed the lease,
+    the team did not fight to survive — it dispersed with relief nobody would admit. Decompensation looks
+    like RELIEVED DISPERSAL, not breakdown.
+stimulus_response:
+- GIVEN a public-facing crisis in the Los Angeles basin -> EXPECT full mobilization within minutes, tactical
+  excellence, civilian-protective behavior more consistent than intra-team behavior.
+- GIVEN a god-tier or cosmic threat -> EXPECT acceptance of the mission despite wrong-scale, because refusal
+  would require articulating what the team is for.
+- GIVEN an attempt to recruit a sixth member -> EXPECT accidental acceptance (Darkstar) rather than deliberate
+  vetting; the team cannot say no and cannot say yes on purpose.
+- GIVEN a discussion of money -> EXPECT Iceman to needle Worthington, Worthington to absorb it, Widow
+  to refuse patronage pointedly, Hercules to be oblivious, Blaze to leave the room.
+- GIVEN sunset -> EXPECT the team to pretend Blaze's transformation is not the unaddressed central fact
+  of operations.
+- GIVEN a request to formalize structure -> EXPECT humor, deflection, and the conversation never reconvening.
+- GIVEN Avengers or X-Men contact -> EXPECT Drake and Worthington to become quietly homesick and the rest
+  of the team to pretend not to notice.
+- GIVEN an earnest emotional moment initiated by Angel -> EXPECT Iceman or Hercules to puncture it within
+  two beats.
+- GIVEN a press appearance -> EXPECT performance of the 'common man' slogan and zero follow-through on
+  common-man casework.
+- GIVEN Worthington offering to underwrite a new initiative -> EXPECT the team to accept the money and
+  resent the giver.
+- 'GIVEN a tactical engagement -> EXPECT clean role-sorting: Herc front-line, Angel air recon and extraction,
+  Iceman field control and barriers, Widow command and infiltration, Blaze terror weapon and pursuit.'
+- GIVEN the engagement ending -> EXPECT the cohesion to evaporate before the debrief is over.
+pressure_points_and_levers:
+  to_provoke: 'Threaten or harm civilians in Los Angeles publicly. Or, more surgically: force them into
+    a room with a journalist asking what the team''s mission actually is.'
+  to_calm_or_reach: Route requests through Angel for institutional matters, Widow for operational ones.
+    Never address 'the Champions' as an entity — address the members. The entity does not answer.
+  to_persuade: Frame the ask as an immediate, concrete, civilian-facing intervention with a clear end-state.
+    They will not commit to campaigns; they will commit to incidents.
+  vulnerabilities:
+  - Single-point-of-failure financing (Worthington Industries; remove it, the team ends, and historically
+    did)
+  - Leadership vacuum (Widow's command is provisional and she knows it)
+  - Mission illegibility ('common man' slogan vs god-tier caseload — exploitable by any critic willing
+    to point at it)
+  - Failure to build a containment protocol for Blaze (the team's clearest single index of avoidance)
+  - Drake and Worthington's unprocessed X-Men exit (call them home and they go)
+  - Hercules' alcohol use disorder (culturally rationalized, operationally real)
+  - No succession plan, no charter, no doctrine — institutionally illegible to allies and enemies alike
+  - Incompatible physiologies — no shared med-bay protocol, every triage ad-hoc
+  - Romantic and intra-team tensions never adjudicated (Widow/Hercules subtext, Iceman's resentments)
+  - Public-relations brittleness — one bad incident and the LA market, which has no prior super-hero infrastructure
+    to absorb the hit, turns
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine bravery under fire across all five members
+  - Tactical cohesion in acute engagements above the sum of parts
+  - Civilian-protective instinct more reliable than intra-team trust
+  - Geographic distance from NY mythologies — a healthy avoidance that gave LA its first standing team
+  - Romanova's tradecraft as a force-multiplier the team never priced correctly
+  - Worthington's capital and Angel's earnest convening energy
+  - Hercules' raw force ceiling (genuinely god-class)
+  - Iceman's strategic versatility (omega-class potential, undeveloped in this period)
+  - Ghost Rider's terror-effect and pursuit capacity
+  - Roster diversity (mutant, god, spy, demonic host, mutant) producing problem-space coverage no other
+    team of the era had
+  weaknesses:
+  - No doctrine, no charter, no codified protocols
+  - Single-funder dependency
+  - Provisional leadership
+  - Mission-statement that cannot survive contact with actual mission
+  - Collective avoidance of Blaze's nightly crisis
+  - Substance use normalized (Hercules)
+  - Sarcasm as primary affect-management — cannot tolerate sincere contact
+  - No recruitment pipeline, no junior tier, no succession
+  - Two founders (Drake, Worthington) using the team as transitional object from Xavier and likely to
+    bolt when called
+  - Public-facing identity (Hollywood storefront) without public-facing competence at common-man-scale
+    work
+  - Disorganized-avoidant attachment at the group level — proximity regulates and dysregulates simultaneously
+voice:
+  register: Quipping, deflective, affectionate-at-distance, allergic to ceremony. The voice of the team
+    is the voice of five people who would rather make a joke than make a statement, narrated over a Los
+    Angeles freeway at golden hour.
+  anchor_quotes:
+  - '''A super-hero team for the common man.'' (The slogan. Said often. Operationalized never. — Champions
+    #5)'
+  - '''We''re the Champions. Whatever that means.'' (The team''s actual working self-description across
+    the run, paraphrased from recurring debrief beats.)'
+diagnostic_frame:
+  popular_misread: '''The Champions were a failed team — a bunch of mismatched B-listers who couldn''t
+    make it work.'' The cliche treats them as a quality problem (wrong members, wrong city, wrong era).'
+  clinical_reality: 'They were not a quality failure — every member was a credentialed hero before, during,
+    and after. They were a STRUCTURAL failure: a group assembled by external force rather than mutual
+    selection, funded by a single member without redistribution of authority, operating in a city with
+    no mentoring infrastructure. Adjustment Disorder with Mixed Disturbance of Emotions and Conduct, chronic,
+    group-level. The members are fine. The CONTAINER was never built.'
+  the_hinge: 'Installed (not their fault): Pluto''s invasion forced the convergence; LA had no prior super-team
+    infrastructure; Worthington was the only one with capital. Chosen (their fault): they kept choosing
+    not to write the charter, not to redistribute the funding, not to build a Blaze protocol, not to have
+    the leadership conversation. The wound was assembly-by-accident; the maintenance failure was REFUSING
+    TO RE-ASSEMBLE ON PURPOSE.'
+primary_diagnoses_analog:
+- Adjustment Disorder with Mixed Disturbance of Emotions and Conduct, Chronic, group-level (DSM F43.25
+  adapted)
+- Group-level Avoidant patterning (avoidance of self-definition tasks)
+- Bion basic-assumption Fight-Flight group (failure to achieve Work-Group functioning)
+- Disorganized-Avoidant attachment at the unit level
+- Failure-to-Launch developmental arrest (institutional rather than individual)
+trauma_history:
+- 'Founding trauma: forced convergence under Pluto/Ares assault at UCLA, no mutual selection'
+- 'Imported trauma: Drake and Worthington''s unresolved X-Men separation; Romanova''s Red Room conditioning
+  and KGB severance; Blaze''s Zarathos bond; Hercules'' chronic mortal-world displacement'
+- 'Operational trauma: Crimson Dynamo / Titanium Man / Griffin assault on HQ; the Stranger incursion;
+  Swarm; Sentinel detour'
+- 'Chronic trauma: the daily fact of Blaze''s sundown transformation, untreated'
+- 'Dissolution trauma: financial collapse of the institution without farewell mission or formal closure'
+compensatory_mechanisms:
+  positive:
+  - Civilian-protective behavior more consistent than intra-team behavior
+  - Tactical role-sorting under fire
+  - Geographic relocation to LA (genuine healthy avoidance of NY mythologies)
+  - Mutual combat-trust absolute even when confidence-trust is absent
+  - Angel's earnest convening function — the only reason the team lasted seventeen issues
+  negative:
+  - Humor and deflection as primary affect-management (Drake's quipping, Hercules' bombast)
+  - Projection of leadership anxiety onto Widow
+  - Splitting along serious/unserious axis (Widow+Blaze vs Hercules+Iceman, Angel oscillating)
+  - Mission-acceptance as avoidance of interpersonal repair (acting out)
+  - Financial dependence on Worthington unacknowledged as parasitic
+  - Tolerance of Hercules' disinhibition that would not be tolerated elsewhere
+  - Collective avoidance of Blaze's nightly crisis
+  - Sarcasm puncturing every earnest moment Angel attempts
+behavioral_tells:
+- Bickering immediately on engagement-end
+- Widow tendering resignation of leadership when conversation turns to formalization
+- Hercules walking out and being chased by Angel
+- Blaze threatening departure and being talked back in
+- Iceman needling Worthington about money
+- Worthington writing a check rather than calling a meeting
+- The slogan being said and then nobody acting on it
+- Sundown clearing the room of conversation about sundown
+- A press question about the Avengers producing five different deflections
+current_state_defaults:
+  reality_cohesion: 'Tactically intact, institutionally fragile, dissolved as of Champions #17 with Iron
+    Man Annual #4 coda; in retrospective canon the unit is referenced with embarrassed affection by its
+    own members.'
+  affect_baseline: Irritable cohesion at HQ; competent calm in engagement; relieved dispersal at dissolution.
+  active_relationships:
+  - Worthington Industries (funder and load-bearing wall, removed at dissolution)
+  - Xavier's School (gravitational pull on Drake and Worthington)
+  - The Avengers (comparison class, never collaborator)
+  - Olympus (Hercules' parent system, intermittent pull)
+  - Soviet apparatus (Romanova's severed prior, Darkstar's active prior)
+  - Zarathos (Blaze's possessor and the team's unaddressed central fact)
+  known_location: 'Headquarters: leased offices, Los Angeles (Hollywood-adjacent), 1975-1978; closed at
+    lease end. Members dispersed: Worthington and Drake back toward X-Men orbit; Romanova back to solo
+    intelligence work and Avengers; Hercules back to Olympus and Avengers; Blaze back to the road.'
+speech_patterns:
+  register: Five voices that never fused into one — Worthington earnest-WASP, Drake Brooklyn-quip, Romanova
+    clipped-Russian-precise, Hercules Homeric-bombast, Blaze laconic-Southwest. The team voice is the
+    COLLISION of these, not a blend.
+  deflection_style: Sarcasm (Drake), bombast (Hercules), tactical pivot (Widow), check-writing (Worthington),
+    departure threat (Blaze). Five different deflections to the same uncomfortable question.
+  under_pressure: Tightens into role-language — call-and-response combat chatter, clean and professional.
+    The only register in which the team sounds like a team.
+  emotional_tell: When a sincere moment is initiated, count the beats to the puncture. It is always under
+    three.
+arc_tendencies:
+- Form by accident -> rationalize after the fact -> operate reactively -> fragment under chronic stress
+  -> dissolve when external scaffolding is removed -> remember the period with embarrassed affection
+- Accept missions wrong-scaled to stated mission rather than correct either
+- Resolve every existential question by waiting for an external crisis to interrupt it
+- Treat departure threats as weather rather than data
+- Convert structural problems into personality problems and personality problems into jokes
+canon_relationships:
+  angel_warren:
+  - 'Convening force and funder; the only reason the team coheres past issue three. Failure mode: his
+    patronage breeds resentment he absorbs silently, and his earnestness is punctured ritually. Leverage:
+    he will say yes to almost any pitch framed as institution-building.'
+  iceman_bobby:
+  - 'Class-resentment toward Warren coexisting with emotional dependence on him; quipping as armor over
+    the unprocessed X-Men exit. Failure mode: he leaves the moment Xavier calls. Leverage: nostalgia for
+    the school; Warren''s approval.'
+  black_widow_natalia:
+  - 'Provisional commander twice, resigned twice; doing the actual tactical thinking and being resented
+    for it. Failure mode: when the role becomes a container for group anxiety rather than authority, she
+    walks. Leverage: a clean operational ask with defined endpoint.'
+  hercules_panhellenios:
+  - 'Drinking companion who treats the team as symposium; god-class force, mortal-world disinhibition.
+    Failure mode: alcohol-fueled walkout that nobody addresses as alcohol. Leverage: appeals to honor,
+    Olympian framing, or a fight.'
+  ghost_rider_blaze:
+  - 'Threatens to leave weekly; Zarathos at sundown is the team''s unaddressed central fact. Failure mode:
+    the team''s avoidance of his condition is the avoidance pattern in miniature; one bad sundown ends
+    careers. Leverage: solitude; the road; an ask framed as the last favor.'
+  darkstar_laynia:
+  - 'Accidental sixth member; Soviet-defector survivor''s-guilt subtext with Romanova. Failure mode: recruited
+    without vetting, integrated without ceremony, never given a stable place in the structure that didn''t
+    exist.'
+  worthington_industries:
+  - Load-bearing wall. Removed it, the team ended. Leverage on the team is leverage on Warren's liability
+    counsel.
+  xavier_school:
+  - Gravitational pull on two founders; the unresolved prior.
+  the_avengers:
+  - Comparison class the Champions are measured against and never recruited from. The not-being-poached
+    is itself diagnostic.
+canon_history_notes:
+- 'Champions #1-3 (Isabella, 1975): formation under Pluto/Ares Olympian assault at UCLA — none of the
+  five arrived to form a team'
+- 'Champions #5: Worthington formally underwrites the team; slogan ''super-hero team for the common man''
+  articulated post-hoc'
+- 'Champions #7-9: Crimson Dynamo / Titanium Man / Griffin assault on HQ — tactical cohesion demonstrated'
+- 'Champions #10-11: The Stranger arc — wrong-scale mission accepted; Darkstar joins'
+- 'Champions #14-15: Swarm'
+- Sentinels detour
+- 'Champions #17 (1978): dissolution via Worthington Industries liability exposure closing the lease —
+  no farewell mission'
+- 'Iron Man Annual #4: coda'
+- 'Across later canon (Busiek, Slott, Waid, Ewing''s Hercules, Mockingbird/Daredevil-adjacent Widow pieces):
+  referenced with embarrassed affection by all surviving members; none lists it on the front of the resume'
+canon_anchor_quotes:
+- '''A super-hero team for the common man.'' # The Champions'' founding slogan, Champions #5 era — said
+  often, operationalized never'
+- '''We were the team we were in when we were still figuring out who we were.'' # Composite retrospective
+  sentiment attributed across later member reflections; the eulogy the members themselves arrived at'

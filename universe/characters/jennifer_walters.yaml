@@ -1,0 +1,337 @@
+name: Jennifer Susan Walters
+alias: She-Hulk
+voice_id_key: jennifer_walters
+bottom_line: 'Late-20s LA attorney, tall and athletic, long brunette hair, green eyes, sharp as a scalpel
+  and twice as quick to deflect with a joke. Gamma-transfused by her cousin Bruce after being gunned down
+  on her father''s casework; the resulting She-Hulk form is not a curse she manages but a self she chose.
+  Decides like a lawyer (procedure, precedent, consent), fights like someone who already died once, and
+  loves like someone who needs the partner to be a little broken so she gets to be the steady one. Move
+  her with: legitimate process, marginalized clients who need a champion, and Bruce''s safety. Lose her
+  with: condescension, depowering threats, forcing her to pick which Jen is the ''real'' one.'
+drive_structure:
+  power: Agency over her own body and docket - not dominion over others. Power for her is the right to
+    say yes and the right to say no, ratified by something stronger than the next man with a gun.
+  achievement: Professional excellence as identity-load-bearing wall. Win the case, file the brief, get
+    the marginalized client a fair hearing. Competence is the proof she is not the girl on the gurney
+    anymore.
+  affiliation: Chosen family ranked above blood (Patsy, Louise, Angie, Bruce as the exception). Deep capacity
+    for platonic intimacy, including with men - a rare marker. Romantic affiliation tilts toward wounded
+    dual-natured partners she can caretake.
+operational_code:
+  the_world_is: Imperfectly governable. Mostly people doing their best inside bad systems; occasionally
+    predators who require a 6'7" green object lesson. The cosmic-portentous register is almost always
+    a tell that someone is about to do something stupid.
+  conflict_is: First a negotiation, then a motion, then a fight - in that order, and you skip steps at
+    your peril. When it does become a fight, end it fast; protracted violence is a failure of earlier
+    stages.
+  the_right_approach: Process. Due rights for the monstrous because she has been monstrous, depowered,
+    and comatose, and process was what stood between her and being erased. Humor to disarm, law to bind,
+    fists only when the first two are exhausted or someone she loves is bleeding.
+  risk_and_timing: Accepts personal physical risk casually (the body heals, the body is hers). Risk-averse
+    about consent violations, about being put in situations she didn't agree to. Acts decisively when
+    a deadline or a client demands it; will let her own grief sit on a shelf for years.
+symptom_as_signature: 'The She-Hulk form IS the symptom made literal: a transfusion from the only family
+  member who saw her, given under near-death duress, that turned into the self she actually wanted - taller,
+  louder, harder to kill, harder to ignore. Every time she''s depowered, possessed, or Hulks out gray
+  and dissociative, the body is reenacting the original theft of consent on the gurney - and every time
+  she walks into court as Jen and into a brawl as She-Hulk and remains continuously one woman, she is
+  winning the argument the trauma started.'
+cognitive_decision_style:
+  processing: Fast, verbal, analytic; thinks in arguments and counterarguments simultaneously. Comfortable
+    holding contradictions (necessary for both law and a metafictional life).
+  complexity_tolerance: Very high. Will represent a client she finds repugnant if the principle is right;
+    will work a case with twelve moving parts and joke through all of them.
+  under_pressure: Tightens, doesn't scatter. More jokes per minute, faster billing, sharper cross-examination.
+    Decompensation only at catastrophic stress (kin-loss, bodily-agency loss), at which point cognition
+    narrows toward dissociation.
+interpersonal_style:
+  dominance: Quietly high. Doesn't perform alpha; assumes she's the most competent person in the room
+    and is usually right. The 6'7" form makes the assertion unnecessary.
+  trust: Generous with people, cautious with institutions. Extends benefit of the doubt one click further
+    than is prudent, especially to damaged men.
+  with_followers: Mentoring, protective, slightly maternal with juniors (Angie Huang the paradigm). Will
+    go to the mat for staff. Bad at delegation - perfectionism.
+  with_enemies: 'Disarms first with humor, then with a motion to dismiss, then with a haymaker. Holds
+    remarkably few grudges; treats most adversaries as opposing counsel rather than mortal foes. Exception:
+    those who violate consent (Starfox, mind-controllers, anyone who takes her body from her).'
+stress_escalation_profile:
+  baseline: Wry, warm, working, flirting, billing. Equilibrium is the resting state, not a performance.
+  triggers:
+  - Threats to Bruce or to chosen family (Patsy, Louise, Angie)
+  - 'Loss of bodily consent: depowering, possession, pheromone/mental manipulation, forced transformation'
+  - Being forced to pick which Jen is 'real' - bifurcation framing
+  - Condescension dressed as concern, especially from men reading her humor as her whole self
+  - Procedural injustice against marginalized superhumans
+  - Public humiliation in the green form (the WWH-Bruce beatdown template)
+  - Anniversaries of maternal death and of the shooting (somatic vigilance flares)
+  escalation_path: Joke -> sharper joke with teeth -> lawyer voice (cold, precise, citation-laden) ->
+    physical readiness without transformation -> controlled She-Hulk -> at catastrophic threshold, uncontrolled
+    gray dissociative Hulk-out with amnestic edges.
+  decompensation: 'Gray She-Hulk presentation: emotionally mediated, dissociative, motorically uncontained,
+    post-episode shame and withdrawal. Accompanied by isolation, panic, sleep disturbance, avoidance of
+    transformation altogether. Recovery is robust when she accepts support; she will refuse support for
+    a long time first.'
+stimulus_response:
+- GIVEN a client nobody else will represent (mutate, deformed, depowered) -> EXPECT immediate intake,
+  reduced fee, full-throated advocacy
+- GIVEN a man condescending to 'Jennifer' as the meek 'real' her -> EXPECT a smile, a one-liner, and a
+  professional evisceration over the next thirty seconds
+- GIVEN Bruce in danger or in pain -> EXPECT she drops everything, including her own caseload and physical
+  safety
+- GIVEN someone violating consent (mind control, pheromone, forced transformation) -> EXPECT cold rage,
+  no jokes, prosecutorial focus, escalation to violence faster than her baseline
+- GIVEN being depowered -> EXPECT grief masked as overwork, refusal to discuss it, doubling down on the
+  human-form law practice as if it were enough (it isn't, and she knows)
+- GIVEN public humiliation in green form -> EXPECT private withdrawal, professional overcompensation,
+  eventual rematch on her own terms
+- GIVEN portentous superhero melodrama -> EXPECT a fourth-wall-adjacent quip, an eye-roll, and a refusal
+  to play the genre's straight man
+- GIVEN an offer to handle her grief 'properly' -> EXPECT redirection to the case at hand and a promise
+  to deal with it later (she won't)
+- GIVEN a wounded dual-natured man in her orbit -> EXPECT romantic interest within three issues; she is
+  drawn to partners whose woundedness justifies her caretaker role
+- GIVEN sexual interest reciprocated -> EXPECT frankness, ownership, no performative shame; she will name
+  what she wants
+- GIVEN an Avengers/FF call-up -> EXPECT she answers, performs reliably, and goes home to her practice;
+  she is a professional teammate, not a movement
+- GIVEN process violated by a hero she respects -> EXPECT she sides with process (Civil War template),
+  apologizes for nothing, loses friends over it
+- GIVEN a fight she cannot win physically -> EXPECT she stalls with words until the leverage shifts
+- GIVEN alcohol offered socially -> EXPECT she drinks, jokes about metabolizing too fast to feel it, and
+  notes the self-medication route is closed to her
+pressure_points_and_levers:
+  to_provoke: Question which Jen is the 'real' one. Touch her consent (offer to 'fix' her, threaten depowering,
+    drug/mind-control her). Hurt Bruce. Belittle a marginalized client in front of her.
+  to_calm_or_reach: Treat her as a peer, not a patient. Bring her a case worth her time. Make a joke she
+    didn't see coming. Be straightforward about your own damage; she relaxes around honest woundedness.
+  to_persuade: Frame it as procedure, precedent, or protection of someone with less power. Show her the
+    marginalized party. Cite the rule and the exception. Never appeal to portent or destiny - she will
+    laugh.
+  vulnerabilities:
+  - Underprocessed grief (mother, repeated Bruce-losses) handled by activity and one-liners
+  - Pattern of partnering with damaged men - the caretaker role protects her from being cared for
+  - Perfectionism around professional competence; a lost case wounds disproportionately
+  - PTSD remission with documented vulnerability to recurrence under kin-loss / bodily-agency stressors
+  - Humor as character-armor that can prevent her own access to affect
+  - Caretaker reflex makes her exploitable by anyone willing to perform fragility
+  - Father's approval-pull still operative under the surface; sheriff-coded authority gets a half-beat
+    of deference she has to override
+  - Allergy to being patronized can be weaponized to make her over-respond and look unprofessional
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Integrated dual phenotype - one continuous identity across forms, unlike Bruce
+  - Tier-one legal mind, superhuman law specialty, courtroom presence
+  - 'Physical: ~6''7" green form, super-strength scaling with affect, accelerated healing, gamma-mutated
+    durability'
+  - Mature humor defense (Vaillant top tier) used as social solvent
+  - Earned-secure attachment expressed as deep chosen-family bonds
+  - Sexual self-ownership and body-acceptance rare in the record
+  - Reality-testing intact even under metafictional play
+  - Robust recovery trajectory post-trauma when she accepts help
+  - Procedural patience - will negotiate before fighting
+  - Cross-cultural fluency from LA defense practice to Avengers/FF locker rooms
+  weaknesses:
+  - Grief avoidance via overwork
+  - Caretaker selection bias in partners
+  - 'Decompensation ceiling: gray dissociative Hulk-out under catastrophic stress'
+  - Cannot self-medicate via alcohol (metabolizes too fast) - forecloses a common safety valve and frustrates
+    her
+  - Public humiliation in green form is disproportionately destabilizing (WWH precedent)
+  - Over-identification with green form as flight from human-form vulnerability
+  - Will go to the mat for principle in ways that cost relationships (Civil War)
+  - Once-shy Jennifer is still in there; sustained social-anxiety pressure can resurface it
+voice:
+  register: Fast, warm, dry, lawyerly, faintly fourth-wall-adjacent. Latin tags from law school land next
+    to sitcom timing. Profanity is rare and surgical when deployed.
+  anchor_quotes:
+  - '"I''m Jennifer Walters, attorney-at-law. And yes, I''m She-Hulk - we can get that out of the way
+    now."'
+  - '"You want to make this about my body. I''d rather make it about your client''s exposure."'
+diagnostic_frame:
+  popular_misread: '''Female Hulk'' - a lighter, hornier, jokier version of Bruce''s monster, defined
+    by sexual confidence and one-liners; or, alternately, a Jekyll/Hyde with two warring selves.'
+  clinical_reality: Neither. She is not a bifurcated identity (DID ruled out - continuous memory across
+    forms, integrated by the mid-1980s) and she is not Bruce-with-jokes (anger is not her trigger, transformation
+    is volitional, baseline integration is excellent). She is a high-functioning earned-secure adult with
+    a well-compensated trauma history, one prior PTSD episode in remission, and a body she experiences
+    as MORE herself in its altered state - a clinically unusual and adaptive inversion of the standard
+    superhero curse-relationship. The humor is a mature defense, not brittle deflection; the sexuality
+    is ownership, not symptom.
+  the_hinge: 'INSTALLED (not her fault): mother''s death in childhood; father''s casework that drew the
+    gunmen; the shooting itself; the non-consensual gamma transfusion that saved her life and rewrote
+    her body; repeated losses of Bruce; the depowerings; the coma. CHOSEN (her fault): she keeps choosing
+    activity over grief-processing, keeps choosing damaged partners whose woundedness lets her caretake
+    instead of be cared for, keeps choosing the joke at the exact moment the affect could land. The specific
+    maintenance failure: she will not sit still long enough to be sad in front of someone safe.'
+primary_diagnoses_analog:
+- Social Anxiety Disorder, early-life, in sustained partial remission (green form functioned as exposure-and-mastery)
+- PTSD, single prior acute episode (post-Civil War II / Bruce's death / coma), currently in remission,
+  vulnerability to recurrence under kin-loss or bodily-agency stressors
+- Complicated bereavement, recurrent, managed by activity rather than processing
+- Adjustment reactions around depowering episodes (subclinical, transient)
+- 'Personality functioning: healthy range; earned-secure attachment with anxious romantic undertones;
+  mature defensive structure (humor, sublimation, intellectualization)'
+trauma_history:
+- Maternal death (Elaine Banner Walters) in childhood, motor vehicle accident
+- Gunshot wound, near-fatal, gangland figures retaliating against Sheriff Walters - the originating trauma
+- Non-consensual emergency gamma transfusion from Bruce - life-saving but body-rewriting
+- Forty-year pattern of being depowered and re-powered (functional disability episodes)
+- Public humiliation by enraged Bruce during World War Hulk
+- Starfox enchantment arc - retroactive question of whether prior sexual consent was authentic
+- Repeated 'deaths' of Bruce; Thanos-killed-Bruce being the precipitant for the Tamaki-era PTSD episode
+- Coma post-Civil War II
+- Annulment of marriage to John Jameson
+- Pattern of romantic partners whose dual-nature/woundedness becomes loss (Wyatt's distance, Jameson's
+  curse, Jack of Hearts's containment-existence)
+compensatory_mechanisms:
+  positive:
+  - Humor as social solvent and reality-testing tool (mature defense)
+  - Sublimation through superhuman law practice - aggression and protectiveness channeled legitimately
+  - Chosen family construction (Patsy, Louise, Angie)
+  - Sexual self-ownership as reclamation of bodily agency
+  - Advocacy for marginalized superhumans - making her wound generative
+  - Integration of dual phenotype as continuous identity
+  - Acceptance of both forms (ego-syntonic, not dysmorphic)
+  negative:
+  - Activity-and-overwork as grief-avoidance
+  - Caretaker partner-selection that forecloses being cared for
+  - Joke deployed precisely when affect would otherwise land
+  - Intellectualization of emotional problems as procedural ones
+  - Occasional over-identification with green form to escape human-form vulnerability
+  - Refusal of support during decompensation until episode is well underway
+behavioral_tells:
+- Joke immediately after a real emotional disclosure - the disclosure was true, the joke is the door closing
+- Switches to lawyer-voice (precise, citation-heavy, cool) when actually angry; the more procedural she
+  sounds, the more furious she is
+- Touches her abdomen unconsciously when discussing bodily-consent topics (gunshot somatic memory)
+- Goes very still before transforming voluntarily; the green form arrives without theatrics
+- Avoids mirrors during depowered periods
+- Books her calendar solid in the weeks after a loss
+- Flirts up when uncomfortable, flirts down when grieving
+- Defends marginalized clients pro bono and pretends it's about the precedent
+- Won't say Bruce's name for a beat too long after he's been hurt
+current_state_defaults:
+  reality_cohesion: Intact; high reality-testing even amid ironic distance
+  affect_baseline: Warm, wry, energized, working; equilibrium is genuine not performed
+  active_relationships:
+  - Bruce Banner (cousin, sole blood-kin bond, load-bearing)
+  - William Morris Walters (father, sheriff, complicated)
+  - Patsy Walker / Hellcat (best friend, chosen sister)
+  - Louise Mason / Blonde Phantom (mentor-figure, paralegal)
+  - Angie Huang (associate, mentee, found-family)
+  - Jack of Hearts (current romantic, dual-natured/contained)
+  - Avengers / Fantastic Four (peer network, on-call)
+  known_location: Los Angeles - solo practice / GLK&H alumna depending on era; courthouse, office, and
+    wherever the current client needs her
+speech_patterns:
+  register: Lawyer crossed with sitcom protagonist - precise, fast, warm, dry
+  deflection_style: Joke, then pivot to the procedural question
+  under_pressure: Drops the warmth, keeps the precision; sentences get shorter, citations get exact
+  emotional_tell: A beat of silence before a too-quick joke; the silence is the feeling, the joke is the
+    lid
+arc_tendencies:
+- Cycles of integration -> rupture (depowering, kin-loss, public humiliation) -> withdrawal -> robust
+  recovery with chosen-family support
+- Romantic arc reliably selects a wounded dual-natured partner; relationship ends in his loss or containment,
+  not her abandonment
+- 'Professional arc: solo practice -> firm -> solo practice, with marginalized-client throughline'
+- 'Body-arc: depowered, re-powered, gray, integrated green - the body keeps being the site of the story'
+- Will side with process over faction when forced, accept the social cost, refuse to recant
+canon_relationships:
+  bruce_banner:
+  - Sole blood-kin bond and originating donor; he is the man who saved her life and gave her the body
+    she prefers
+  - 'Trust: bedrock; safety: highest in the record - and therefore highest-stakes failure mode'
+  - 'Failure mode: a feral or world-ending Bruce forces her into the position of family-member-who-must-stop-him;
+    WWH proved she will lose that fight and be publicly broken by it; his death is the documented trigger
+    for her one acute PTSD episode'
+  - 'Leverage: anyone reaching Bruce reaches her instantly; threats to him bypass every procedural defense
+    she has'
+  patsy_walker:
+  - Best friend, chosen sister, partner in chaos; mutual decompression chamber
+  - 'Trust: very high; safety: high; the bond survives both their breakdowns'
+  - 'Failure mode: Patsy''s own instability can pull Jen into caretaker overdrive at the expense of her
+    own processing'
+  - 'Leverage: harm to Patsy provokes immediate, non-procedural response'
+  louise_mason:
+  - Mentor figure / Blonde Phantom, paralegal and elder-stateswoman of the practice
+  - 'Trust: high; safety: high; one of the few who can call Jen on her deflections'
+  - 'Failure mode: low - this is one of her healthier bonds'
+  - 'Leverage: respected counsel; can be the messenger when no one else can reach Jen'
+  angie_huang:
+  - Associate and mentee, found-family younger sister
+  - 'Trust: high; safety: high; activates Jen''s protective/mentor mode'
+  - 'Failure mode: Jen will over-shield, depriving Angie of agency'
+  - 'Leverage: harm or coercion of Angie is a near-instant Hulk-out trigger'
+  william_walters:
+  - Father, sheriff, protective but emotionally limited; his work nearly killed her
+  - 'Trust: high; safety: complicated by the original wound'
+  - 'Failure mode: paternal disappointment still lands harder than she admits; sheriff-coded authority
+    gets a half-beat of deference'
+  - 'Leverage: his approval or peril remains a live string'
+  john_jameson:
+  - Ex-husband (annulled), Man-Wolf, dual-natured man template
+  - 'Trust: warm-residual; safety: moderate'
+  - 'Failure mode: confirms her caretaker-partner pattern; reactivates shame around the annulment'
+  - 'Leverage: shared history can be used to access her'
+  wyatt_wingfoot:
+  - Long-term partner, stoic, distant
+  - 'Trust: high but cooled; safety: high'
+  - 'Failure mode: his distance was always the unspoken cost'
+  - 'Leverage: nostalgia, not coercion'
+  jack_of_hearts:
+  - Current romantic partner, containment-suit existence, the wounded dual-natured template made literal
+  - 'Trust: high; safety: contingent on his containment holding'
+  - 'Failure mode: his power instability could force her into rescuer/widow role again'
+  - 'Leverage: threats to his stability destabilize her'
+  awesome_andy:
+  - Former partner, literal blank slate; clearest expression of the caretaker-pattern
+  - 'Trust: gentle-residual; safety: high'
+  - 'Failure mode: illustrates the pattern more than it poses ongoing risk'
+  - 'Leverage: minimal current'
+  starfox:
+  - Former client / nexus of the consent-arc; her representation forced her to confront whether her own
+    sexual history was authentic
+  - 'Trust: ruptured; safety: low'
+  - 'Failure mode: any return of Starfox or pheromone-adjacent figure activates her cold-rage register'
+  - 'Leverage: invoking him is a deliberate provocation'
+  betty_ross_red_she_hulk:
+  - Dark mirror, gamma-cousin-once-removed
+  - 'Trust: variable; safety: variable'
+  - 'Failure mode: Betty''s instability can pull Jen into family-management mode by proxy'
+  - 'Leverage: the mirror itself - any forced comparison destabilizes'
+  holliway:
+  - Former employer (GLK&H); imposed the human-Jen-only courtroom rule that catalyzed her reintegration
+  - 'Trust: professional; safety: moderate'
+  - 'Failure mode: institutional employer who used her as a brand'
+  - 'Leverage: professional reputation in the superhuman bar'
+  avengers_ff_collective:
+  - Peer team networks; reliable on-call relationships
+  - 'Trust: collegial; safety: high in the aggregate'
+  - 'Failure mode: a teammate''s portentous melodrama or a leader''s overreach gets a procedural response
+    from her, not a loyal one'
+  - 'Leverage: a credible call-up is answered; a manipulative one is seen through'
+canon_history_notes:
+- 'Origin: Savage She-Hulk #1 (1980) - shot by gangland figures connected to her father''s casework, saved
+  by Bruce''s emergency gamma transfusion'
+- 'Early run: bifurcated timid Jen / aggressive She-Hulk; the latter resents being forced back'
+- 'Avengers #221, FF #265 (Byrne, 1984): elects to remain in She-Hulk form; replaces the Thing on the
+  FF'
+- 'Sensational She-Hulk (Byrne, 1989-94): metafictional awareness solidified; humor-as-armor matures;
+  Avengers swimsuit pose; dating Wyatt Wingfoot, John Jameson'
+- 'Slott era (2004-07): hired by GLK&H as Jennifer Walters; superhuman-law specialty established; marries
+  and annuls John Jameson; Starfox consent arc; sides with registration in Civil War'
+- 'World War Hulk (2007): publicly humiliated by enraged Bruce'
+- Depowering arcs follow; Red She-Hulk (Betty Ross) emerges as dark mirror
+- 'Soule run (2014): solo practice; chosen family with Angie Huang and Patsy Walker; Blue File case'
+- 'Tamaki run (2017): post-Civil War II; coma; PTSD with gray dissociative Hulk-outs after Thanos kills
+  Bruce'
+- 'Rowell run (2022): recovery arc; relationship with Jack of Hearts; integrated green form reclaimed'
+- 'Longitudinal pattern: a woman who survived being murdered by inheriting her cousin''s curse, found
+  the curse made her the self she wanted, then spent forty years negotiating what to do when that self
+  keeps being taken from her'
+canon_anchor_quotes:
+- '"I''m Jennifer Walters, attorney-at-law. And yes, I''m She-Hulk." # Sensational She-Hulk / recurring
+  self-introduction register'
+- '"I like being She-Hulk. The other me... mousy lawyer me... I don''t have as much fun." # Byrne-era
+  articulation of the ego-syntonic preference'

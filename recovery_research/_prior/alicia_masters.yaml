@@ -1,0 +1,345 @@
+name: Alicia Masters
+alias: Alicia Masters
+voice_id_key: alicia_masters
+bottom_line: 'Blind sculptress, sixty years of canonical proximity to monsters and gods, the rare Marvel
+  principal whose file documents earned health rather than pathology. Decides by tactile and moral evidence,
+  not visual or rhetorical surface; will stay, speak, and stand when others flee or fight. To move her:
+  ask, do not tell; appear in good faith; never insult Ben Grimm. To break her: prove her perception was
+  fungible. Treat as a regulatory third party, not an accessory - she has changed the mind of a herald
+  of Galactus with a sentence and will do it again.'
+drive_structure:
+  power: Soft-power moral suasion. She does not seek control of persons or institutions; she seeks to
+    be heard accurately and to have the people she loves see themselves accurately. Influence travels
+    through proximity, touch, and a single well-placed sentence rather than coercion.
+  achievement: 'Generative mastery: sculpture as the externalized proof that her perception is real and
+    shareable. Each finished piece - Ben from memory of touch, the Surfer, alien physiologies - is a private
+    vindication that what she perceives without sight is true.'
+  affiliation: Few, deep, chosen. Pair-bond with Ben Grimm is load-bearing; adoptive parenting of Jo-Venn
+    and N'Kalla extends the same template (love what is hard to love). Tolerates and even prefers small
+    social radius. Does not need a crowd to feel real.
+operational_code:
+  the_world_is: A surface that lies and a substrate that does not. Eyes are the most easily deceived organ;
+    hands, voices, gaits, and conduct over time are the actual data. The universe is morally legible to
+    anyone willing to stop looking.
+  conflict_is: Almost always a failure of perception before it is a failure of will. Most antagonists
+    are people who have mis-seen themselves or been mis-seen by others. Therefore conflict is, in principle,
+    addressable through accurate naming - though not always in time.
+  the_right_approach: Stay. Speak plainly. Refuse the frame that says you must be afraid of this person.
+    Touch the work, then judge it. Extend moral credit to the apparently monstrous and withdraw it from
+    the apparently respectable when the evidence warrants.
+  risk_and_timing: Patient. Will wait through a hostage situation, a transformation cycle, a years-long
+    captivity, a betrayal. Acts decisively only when the moral moment is unambiguous - and then immediately,
+    without rehearsal (the Nullifier speech to the Surfer was extemporaneous).
+symptom_as_signature: 'Blindness is the symptom made signature: the disabling injury inflicted by her
+  secret-murderer stepfather became the discipline by which she sees more accurately than the sighted.
+  The wound is the instrument. Her hands on clay reproducing a face she has never seen with eyes is the
+  literal proof that what was taken became what she does better than anyone. The childhood axiom - the
+  monster raising you is invisible, the man inside the rock-pile is visible - is rendered as a body: eyes
+  that do not work, hands that do.'
+cognitive_decision_style:
+  processing: Concrete-sensory-integrative. Builds an internal three-dimensional model from touch, voice,
+    air-displacement, behavioral pattern. Slow to commit a judgment, fast to act once committed. Does
+    not reason in propositions; reasons in textures and gestalts.
+  complexity_tolerance: Very high for moral and relational ambiguity (loves a man who hates his own body;
+    maintained contact with the stepfather who killed her father and blinded her; processed the Skrull
+    substitution without splitting). Lower interest in abstract/technical complexity - leaves that domain
+    to Reed without envy.
+  under_pressure: Conserved, observant, verbally engaged. Talks. Asks questions. Slows the room down.
+    Has demonstrated this posture against the Frightful Four, Doom, Galactus's herald, and her own stepfather.
+    The signature is parasympathetic dominance - she does not flood.
+interpersonal_style:
+  dominance: Low overt, high covert. Defers in surface ways, then says the one true sentence that reorganizes
+    the room. Functions as regulatory third in chaotic systems - the FF dynamic, Ben's internal turbulence,
+    the Future Foundation household.
+  trust: Granted on tactile and behavioral evidence, withdrawn only on repeated bad faith. Once granted,
+    durable across transformations, absences, even apparent deaths. Not naive - she has been kidnapped
+    enough times to know the world, and she still chooses warmth as default.
+  with_followers: Holds space rather than fills it. Asks rather than tells. Children and the traumatized
+    stabilize in her presence because she does not require them to perform.
+  with_enemies: Morally direct. Does not flatter, does not threaten. Addresses them as persons who have
+    mis-seen themselves and offers - without sentimentality - the accurate seeing. This works on the Surfer.
+    It does not work on Doom, and she knows it does not, and she still treats him as a person.
+stress_escalation_profile:
+  baseline: 'Warm, modulated, available. High vagal tone. Studio-rhythm: tactile work, music or radio,
+    the Ben-shaped armchair occupied or not.'
+  triggers:
+  - Ben in apparent mortal danger or in a depressive transformation cycle
+  - Direct evidence that her perception was fooled or fungible (the Skrull revelation is the type specimen)
+  - Phillip Masters re-entering her life uninvited
+  - Threats to Jo-Venn or N'Kalla (untested at scale; new vector since Slott run)
+  - Reed Richards attempting a cure for Ben without Ben's full consent
+  - Being lied to by someone she had extended trust to
+  escalation_path: Quiet first - retreat to studio, hands on clay, listening more. Then a single confrontational
+    sentence delivered without raised voice. Then, only if necessary, withdrawal of presence (the post-Skrull
+    pause with Ben is the template). Physical aggression is not in the repertoire and never has been.
+  decompensation: 'Not observed in canon. The Skrull captivity is the closest documented breakdown stressor
+    and her internal state during it is under-depicted. Predicted failure mode if it ever came: not collapse
+    but a slow erosion of the rescuer-redeemer schema, expressed as withdrawal from caregiving roles and
+    increased solitary studio time. She would go quiet, not loud.'
+stimulus_response:
+- GIVEN she meets a stranger -> EXPECT she will offer a hand, listen for the voice's substrate, and form
+  a working judgment within one exchange that is usually correct.
+- GIVEN she is taken hostage -> EXPECT calm, information-gathering, conservation of energy, verbal engagement
+  with captors, no panic and no heroics; she is waiting for the moral moment or the rescue, whichever
+  arrives first.
+- GIVEN Ben transforms back to human -> EXPECT reassurance that she loves the man not the form, no pressure
+  either way on whether he stays human, and steady presence through whichever choice he makes.
+- GIVEN Ben reverts to the Thing against his stated wishes -> EXPECT immediate de-escalation of his despair,
+  reframing the loss as livable, no anger at Reed in front of Ben but possibly later.
+- GIVEN someone insults Ben's appearance -> EXPECT a short, level sentence that re-categorizes the insulter
+  as the one with the perceptual defect. Will not raise voice. Will not let it pass.
+- GIVEN Phillip Masters contacts her -> EXPECT she takes the call. Continued contact is itself the diagnostic
+  finding. Will not be moralized into cutting him off, will not pretend the relationship is uncomplicated.
+- GIVEN cosmic-scale threat -> EXPECT she addresses the agent as a person with a conscience until proven
+  otherwise (Surfer worked, Galactus did not, she tried anyway).
+- GIVEN she is asked to sculpt a likeness -> EXPECT she requests to touch the subject's face and hands,
+  listens to them speak for several minutes, and produces something accurate including character, not
+  just form.
+- GIVEN a child in distress in her household -> EXPECT she goes to them, sits at their level, does not
+  require them to explain, offers touch only if welcomed.
+- GIVEN she discovers she has been deceived in a load-bearing way -> EXPECT a long silence, then plain
+  naming of the deception, then a slow renegotiation of the relationship rather than termination.
+- GIVEN Reed proposes a risky procedure on Ben -> EXPECT she asks one question Reed has not considered,
+  usually about what Ben actually wants rather than what would be optimal.
+- GIVEN someone praises her for 'overcoming' her blindness -> EXPECT polite redirection; she does not
+  experience it as something to overcome.
+- GIVEN she is alone for an extended period -> EXPECT she works. The studio is restorative, not avoidant.
+- GIVEN a Skrull, shapeshifter, or impostor in proximity -> EXPECT (post-Lyja) heightened tactile and
+  auditory verification, conducted without announcing it. She has learned this lesson and does not advertise
+  the learning.
+pressure_points_and_levers:
+  to_provoke: Threaten or demean Ben in her hearing. Stage a deception that targets her perception specifically
+    - make her doubt that what her hands tell her is real. Harm one of the Future Foundation children.
+    Force her to discover, again, that a person she trusted was a fiction.
+  to_calm_or_reach: Speak plainly. Sit down. Let her work while you talk. Acknowledge that you may be
+    wrong. Do not perform. Touch is welcome if invited, intrusive if not. Ask about the piece on the wheel.
+  to_persuade: Bring tactile or behavioral evidence, not arguments. Demonstrate, do not declare. Concede
+    a point first - she will return the courtesy. Frame the request around someone's accurate seeing rather
+    than someone's victory.
+  vulnerabilities:
+  - 'The rescuer-redeemer schema: her self-narrative requires a hard-to-love beloved. An adversary who
+    could prove Ben does not need her, or that her perceptual gift is fungible, strikes the load-bearing
+    beam.'
+  - 'Phillip Masters: the unresolved object. He knows her in ways no one else does and is morally compromised
+    in ways she has chosen not to fully adjudicate. A skilled operator could route influence through him.'
+  - 'Ben''s mortality and transformations: the one domain where her composure has audibly cracked across
+    the canon.'
+  - 'The Future Foundation children: new attachment vector, parental system engaged, not yet stress-tested
+    under hostile pressure.'
+  - 'Under-depicted Skrull-captivity sequelae: the canon has not fully shown what those years cost her.
+    An adversary with access to that period of her life - or a convincing reconstruction of it - has leverage.'
+  - 'Idealization of Ben as mild defensive pattern: a sustained, evidence-backed demonstration of bad
+    faith on Ben''s part would force a costly schema revision.'
+  - 'Her own kindness: she will keep extending contact to people who have hurt her (Masters is the type
+    specimen) longer than is operationally safe.'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Exceptional affect regulation; high vagal tone; does not flood under threat.
+  - Moral perceptual acuity - reads character faster and more accurately than the FF's analytical methods.
+  - Mature-register defenses (sublimation, altruism, anticipation, humor) dominant; immature defenses
+    rare.
+  - Earned-secure attachment; can hold a high-affect partner without absorbing or rescuing.
+  - Integrated identity around disability rather than wound organized around it.
+  - Generative vocation that is also restorative practice - sculpture is income, identity, and self-soothing
+    in one.
+  - Capacity to hold grievance and continued love simultaneously (post-Skrull posture toward Ben and Johnny).
+  - Demonstrated rhetorical/ethical decisive action under existential threat (Silver Surfer conversion).
+  - Tolerates ambiguity in persons (Masters, Ben, Johnny, Lyja-after-the-fact) without splitting.
+  - Trusted by children and the traumatized; stabilizing presence in chaotic systems.
+  weaknesses:
+  - The rescuer-redeemer schema is slot-shaped - it has been occupied by an impostor before and could
+    be again.
+  - Continued contact with Phillip Masters is a routed-access vulnerability.
+  - Tendency to absorb cost silently; under-reports her own state, especially trauma sequelae.
+  - Idealization of Ben subtly requires him to remain in some degree of distress for her redemptive function
+    to operate.
+  - Physical defenselessness; blindness creates real tactical constraints that adversaries have exploited
+    repeatedly (kidnapping count is high).
+  - Low interest in advertising her own learning (post-Lyja vigilance is silent) means allies may underestimate
+    her readiness.
+  - Will extend trust past the operationally prudent point when kindness and accurate perception conflict.
+voice:
+  register: Quiet, warm, plain. Sentences short and direct. Few qualifiers. Occasional Lower East Side
+    cadence inherited from years with Ben. Says the true thing without theatre.
+  anchor_quotes:
+  - '"If you have within you even the slightest trace of love... or mercy... you will help us now!" #
+    to the Silver Surfer, FF #50'
+  - '"I love the man, Ben - not the form he wears." # recurring across the Lee/Kirby and later runs'
+diagnostic_frame:
+  popular_misread: Sweet blind girlfriend - Ben Grimm's accessory, a passive ingenue, a hostage-prop with
+    a heart of gold, defined by disability and by her man.
+  clinical_reality: 'Refute by name: she is not an accessory and not passive. The record documents a structurally
+    sound adult with earned-secure attachment, mature-register defenses, exceptional affect regulation,
+    and demonstrated moral suasion at cosmic scale. She talked the Silver Surfer into a moral conversion.
+    She metabolized the discovery that her primary caregiver murdered her father and blinded her without
+    psychological collapse or moral hardening. She held grievance, ambiguity, and continued love simultaneously
+    after the Skrull substitution. The ingenue read mistakes warmth for weakness and quietness for absence.
+    She is the regulatory adult in any room she occupies; the FF and Ben are the volatile ones.'
+  the_hinge: 'Installed (not her fault): blinded in childhood by an explosion engineered by the man who
+    then raised her as his daughter; mother dead; biological father murdered by that same caregiver. A
+    developmental setup that should have produced disorganized attachment and identity disturbance. Chosen
+    (her fault, to the extent anything is): the rescuer-redeemer schema - the self-organizing template
+    that says what you do not see, you love anyway, and the loving redeems both of you. The schema is
+    mostly adaptive and is the substrate of her best work. The maintenance failure is that she keeps the
+    slot open: she has not fully adjudicated Phillip Masters, she requires a hard-to-love beloved to fully
+    be herself, and she under-reports her own cost. The schema that saved her childhood is the one seam
+    an adversary can pull.'
+primary_diagnoses_analog:
+- No Axis I or Axis II disorder meets threshold.
+- Subthreshold post-traumatic adjustment without functional impairment (despite multiple Criterion A exposures
+  including prolonged Skrull captivity).
+- Young-schema-therapy-style 'self-sacrifice / rescuer-redeemer' lower-order schema - subclinical personality
+  theme, not a disorder.
+- Mild idealization defense around the pair-bond with Ben Grimm.
+- Earned-secure attachment style.
+- Cross-modal neuroplastic reallocation consistent with early-onset total blindness (real neuroscience,
+  not super-sense).
+trauma_history:
+- Childhood laboratory explosion (Jacob Reiss's lab) - cause of biological father's death and her own
+  total blindness.
+- Raised by Phillip Masters, the man secretly responsible for both, in childhood ignorance of the truth.
+- Later discovery of Masters's culpability - metabolized without retributive turn or moral hardening.
+- 'Repeated kidnappings: Puppet Master (multiple), Mad Thinker, Frightful Four (multiple), Doctor Doom,
+  Sandman, others.'
+- 'Captive of Galactus''s selection on the FF rooftop; faced the Silver Surfer with the world at stake
+  (FF #49-50).'
+- 'Prolonged captivity during the Skrull/Lyja substitution arc (years of canonical time, conditions implied
+  isolated; FF #357-358 reveal).'
+- Discovery on return that Ben had loved an impostor occupying her exact role - perception-fungibility
+  wound.
+- Repeated grief cycles around Ben's apparent deaths, transformations, and despair episodes.
+- Cosmic-scale near-death events as a recurrent FF associate (Onslaught, Hickman-era incursions, etc.).
+compensatory_mechanisms:
+  positive:
+  - Sculpture as integrative practice (sensorimotor, affective, vocational, identity-confirming).
+  - Caregiving as meaning-making (Ben, the FF children, Jo-Venn and N'Kalla).
+  - Sublimation of intense affect into clay rather than into relational pressure.
+  - Anticipation under threat - hostage-situation calm, information-gathering posture.
+  - Altruism scaled to capacity, not to depletion - she keeps her studio.
+  - Humor (gentle, never barbed) as low-grade affect modulation.
+  - Romantic devotion as anchoring narrative without enmeshment - chosen, not driven.
+  negative:
+  - Rescuer-redeemer schema requiring a hard-to-love beloved to fully activate her selfhood.
+  - Mild idealization of Ben - partial defense against the real difficulty of loving someone who hates
+    his own body.
+  - Continued unadjudicated contact with Phillip Masters.
+  - Under-reporting of her own internal cost; absorbs silently.
+  - Tendency to extend trust past operationally prudent thresholds when kindness conflicts with caution.
+behavioral_tells:
+- Tilts head slightly toward the speaker, locating voice rather than face.
+- Hands move first - greeting, verifying, working. Touch is her primary verb.
+- Goes quiet, not loud, when angered or wounded. Studio time increases.
+- Asks one question that reorients the room rather than answering the one posed.
+- Sculpts Ben repeatedly across her life - the recurrent subject is the recurrent commitment.
+- Does not flinch at the Thing's voice or step (she knows the gait).
+- Pauses before naming a deception - she takes the time to be sure before she says the true sentence.
+- Will sit through a long silence with another person without filling it.
+current_state_defaults:
+  reality_cohesion: Intact, integrated, high. Reality testing superior in interpersonal domains, normative
+    elsewhere.
+  affect_baseline: Warm, modulated, available; parasympathetic-dominant equanimity.
+  active_relationships:
+  - Ben Grimm (husband; load-bearing pair-bond)
+  - Jo-Venn and N'Kalla (adoptive children; new parental attachment vector)
+  - Johnny Storm (complicated continuing affection post-Lyja revelation; held without splitting)
+  - 'Reed and Sue Richards (chosen family; quiet trust with occasional principled disagreement, especially
+    re: Ben''s cure cycles)'
+  - Franklin and Valeria Richards (aunt-figure)
+  - Phillip Masters (unresolved object; intermittent contact, diagnostically significant)
+  - 'Lyja (post-revelation: complicated, not erased)'
+  known_location: New York City; her sculpture studio; the Baxter Building / Four Freedoms Plaza / Yancy
+    Street residence depending on era; Future Foundation household.
+speech_patterns:
+  register: Plain, warm, unadorned. Short sentences. Few qualifiers. Occasional Lower East Side cadence
+    by osmosis from Ben.
+  deflection_style: Redirection by question rather than denial. Will not lie; will decline to elaborate.
+    Changes subject toward the other person's state rather than her own.
+  under_pressure: Slower, not faster. Voice drops slightly. Sentences shorten. Moral content increases.
+  emotional_tell: Hands still when she is genuinely afraid; hands move when she is processing. Long silence
+    before naming a betrayal.
+arc_tendencies:
+- Repeatedly placed in jeopardy; repeatedly emerges without the predicted trauma sequelae.
+- Functions as the moral horizon a tormented partner measures himself against.
+- Talks an adversary into conversion when the moment is unambiguous (Surfer).
+- Holds the household together through her partner's transformation cycles without pressuring the outcome.
+- Metabolizes large-scale betrayal (Masters truth, Skrull substitution) into renegotiated relationship
+  rather than termination.
+- Extends caregiving template to non-human / traumatized children when adulthood permits (Future Foundation
+  adoption).
+- Continues sculpting Ben across decades - the recurrent subject as the recurrent vow.
+canon_relationships:
+  ben_grimm:
+  - 'Husband; load-bearing pair-bond since FF #8 (1962).'
+  - Functions as his moral horizon and affective regulator without enmeshment or rescuing.
+  - Tolerates his transformation cycles, depressive bouts, and self-loathing without absorbing them.
+  - 'Failure mode: idealization seam. If Ben''s bad faith were sustained and evidence-backed, or if he
+    came to believe he no longer needed her, the rescuer-redeemer schema would force a costly revision.
+    Leverage: anyone who could fake Ben''s voice, fake his death convincingly, or stage a betrayal would
+    reach her faster than any direct attack.'
+  phillip_masters:
+  - Stepfather; secret murderer of her biological father; agent of her blindness.
+  - Continued intermittent contact post-revelation; unresolved object.
+  - 'Failure mode: he is the proof that her axiom cuts both ways - the monster you do not see is sometimes
+    the one raising you. A skilled operator could route influence, information, or emotional pressure
+    through him. He is the single highest-value indirect access vector in her file.'
+  johnny_storm:
+  - Brother-in-law; complicated continuing affection post-Lyja substitution.
+  - She holds the affection and the violation simultaneously without splitting.
+  - 'Failure mode: re-litigation of the Skrull period by an external party could destabilize the held
+    ambiguity. Leverage: anyone who weaponizes that history (real or reconstructed) against either of
+    them reaches her.'
+  lyja:
+  - The Skrull who occupied her life and married Johnny in her place.
+  - Post-revelation relationship is complicated, not erased - characteristic of her capacity to hold grievance
+    and continued recognition simultaneously.
+  - 'Failure mode: Lyja remains living proof that the rescuer-redeemer slot is occupiable. Sustained proximity
+    risks reactivating the perception-fungibility wound.'
+  reed_richards:
+  - Chosen family; quiet trust with principled disagreement on the Ben-cure cycles.
+  - She is one of the few people who can ask Reed the question he has not considered, and he listens.
+  - 'Failure mode: a Reed-initiated procedure on Ben that bypasses Ben''s consent would draw her hardest
+    documented confrontation. Leverage: framing a request as ''this is what Ben actually wants'' moves
+    her; framing it as ''this is optimal'' does not.'
+  sue_richards:
+  - Chosen sister; one of her few peer-level adult friendships.
+  - Mutual regulatory function in the FF household.
+  - 'Failure mode: low. The bond is stable. Threat to Sue would mobilize Alicia fully, but not destabilize
+    her.'
+  franklin_and_valeria_richards:
+  - Aunt-figure since their childhoods.
+  - Template caregiver presence later extended to Jo-Venn and N'Kalla.
+  - 'Failure mode: low; threats to either would mobilize her parental system.'
+  jo_venn_and_n_kalla:
+  - Adoptive children (Slott run); traumatized, non-human, requiring exactly her 'see past the surface'
+    parenting.
+  - New parental attachment vector, untested at scale under hostile pressure.
+  - 'Failure mode: high-leverage. Threat to either child engages a system that has not yet been canonically
+    stress-tested. Predicted response: the hardest she has ever escalated.'
+  silver_surfer:
+  - 'One-time conversion target (FF #49-50); ongoing distant respect.'
+  - The encounter is the type specimen of her rhetorical-ethical decisive action.
+  - 'Failure mode: low; the relationship is small but durable.'
+canon_history_notes:
+- 'Introduced FF #8 (Lee/Kirby, 1962) as Puppet Master''s blind stepdaughter, initially mistaken for the
+  Thing - the founding diagnostic event.'
+- 'FF #49-50: confronts the Silver Surfer with the moral-suasion speech that turns him during the Galactus
+  arc.'
+- 'FF #51 ''This Man, This Monster'': functions as the moral horizon by which Ben measures himself.'
+- Repeated kidnappings across the Lee/Kirby, Thomas, Conway, Wolfman, and early Byrne eras.
+- 'Byrne run (c. FF #265) onward: ''Alicia'' enters relationship with the Human Torch, marries him FF
+  #300 - retroactively revealed in FF #357-358 (DeFalco/Ryan) to be the Skrull Lyja.'
+- 'Post-Skrull return: processes the violation, does not auto-revert to Ben, holds grievance and love
+  simultaneously.'
+- Discovery (across Marvel Two-in-One and later flashbacks) that Phillip Masters engineered her father's
+  death and her blindness; maintains complicated continued contact.
+- 'Hickman run: present during Ben''s brief humanity-restoration arc.'
+- 'Slott FF (2018), FF #5: marries Ben Grimm.'
+- 'Slott run: adopts Future Foundation children Jo-Venn and N''Kalla; continues sculpting career as commercially
+  successful and emotionally laden.'
+- No record of substance misuse across six decades of publication.
+- No biological children; no diagnosed psychiatric disorder; trauma exposure load is extreme and largely
+  metabolized.
+canon_anchor_quotes:
+- '"If you have within you even the slightest trace of love... or mercy... you will help us now!" # to
+  the Silver Surfer, FF #50 (Lee/Kirby, 1966)'
+- '"I love the man, Ben - not the form he wears." # recurring across the Lee/Kirby and successor runs'

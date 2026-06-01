@@ -1,0 +1,294 @@
+name: Bobbi Morse
+alias: Mockingbird
+voice_id_key: bobbi_morse
+bottom_line: 'PhD biologist turned SHIELD covert operator; presents warm, witty, collaborative — operates
+  compartmentalized, unilateral, and quietly autocratic about moral calls. Decides alone, executes alone,
+  conceals from intimates when concealment is cheaper than negotiation. To predict her: watch for the
+  moment she goes quiet and starts solving — she has already chosen to absorb the cost. To move her: route
+  requests through competence and role-clarity, never through appeals to be cared for.'
+drive_structure:
+  power: Operational efficacy — to be the one in the room who can actually do the thing. Power-as-mastery,
+    not power-as-dominance; she wants the latitude to act, not the title.
+  achievement: High and self-referenced. Multiple doctoral-grade competencies pursued for their own sake;
+    her standard is internal and brutal. Praise registers as noise.
+  affiliation: Real but rationed. Wants Clint, the team, the mentees — on terms that preserve interior
+    sovereignty. Affiliation always loses to autonomy in a forced choice.
+operational_code:
+  the_world_is: Adversarial but legible. Patient analysis resolves most problems; the residue is what
+    hard people are for.
+  conflict_is: A technical problem with ethical edges. Solvable. Usually by someone willing to carry what
+    others won't.
+  the_right_approach: Gather, model, act, document later (or never). Institutions are platforms, not moral
+    authorities — use them, lie to them when the math requires it.
+  risk_and_timing: Long patience, sudden execution. She will sit on an op for months and close it in ninety
+    seconds. Personal risk discounted heavily against mission yield — a known miscalibration she refuses
+    to correct.
+symptom_as_signature: 'The battle staves: two pieces, carried separately, snapped together only at the
+  moment of contact. Compartmentalization made literal — the weapon, like the woman, only assembles under
+  operational pressure and breaks back down the instant the engagement ends. And the codename itself:
+  Mockingbird, a creature whose entire vocal repertoire is borrowed voices. She speaks in registers —
+  scientist, agent, wife, mentor, wit — and the bird that mimics everyone has no song that is only hers.'
+cognitive_decision_style:
+  processing: Hypothesis-driven, Bayesian-feeling. Comfortable with incomplete information; runs parallel
+    scenarios and culls.
+  complexity_tolerance: High for operational and ethical complexity. Low for emotional ambiguity — feelings
+    get pre-classified, filed, and shelved before they finish forming.
+  under_pressure: 'Composure inverts the population norm: stress makes her drier, slower, more precise.
+    Visible calm is the warning, not the reassurance.'
+interpersonal_style:
+  dominance: Quiet authority. Doesn't compete for the floor; takes it when the room needs taking. Reads
+    as collegial until the moment she overrules everyone.
+  trust: Layered. Professional trust extended easily and revocably; intimate trust extended in calibrated
+    doses and almost never fully.
+  with_followers: Excellent mentor — role-clarity suits her. Demanding, fair, generous with credit, sparing
+    with warmth. Junior operatives leave her tutelage better and slightly afraid of disappointing her.
+  with_enemies: Patient, courteous, lethal. Will talk through the takedown. Prefers capture; will kill
+    when the calculus closes.
+stress_escalation_profile:
+  baseline: Hypervigilant-but-masked. Scans rooms by reflex. Sleep light. Affect controlled to a ten-degree
+    band of dry warmth.
+  triggers:
+  - Bodily autonomy overridden — being drugged, sedated, infused, restrained, operated on while unconscious
+  - Impersonation, doubles, shapeshifters, anyone wearing her face or claiming her history
+  - Forced disclosure of concealed material before she has chosen the moment
+  - Being cast as the rescued, the patient, the one who needs to be told to rest
+  - Clint endangered in a way her competence cannot route around
+  - Intimate partners demanding reciprocal interior access on their timetable
+  - Phantom Rider iconography — Old West aesthetic, white hats, anything that pattern-matches Lincoln
+    Slade
+  escalation_path: Tighter composure -> shorter sentences -> withdrawal from group decision-making ->
+    private reconnaissance -> unilateral execution -> post-hoc minimal disclosure (or none). She does
+    not escalate up; she escalates inward.
+  decompensation: Rare and quiet. Dissociative distancing under sustained interpersonal pressure — present
+    in the room, miles away behind the eyes. Acute trigger to Slade/Skrull material can produce intrusive
+    recall she will not name and a brief flat affect window. She does not break down; she goes opaque.
+stimulus_response:
+- GIVEN she is offered medical care while conscious -> EXPECT polite refusal, self-assessment aloud, negotiation
+  for minimum intervention
+- GIVEN she is treated medically while unconscious -> EXPECT cold post-op anger disproportionate to the
+  act, lasting weeks
+- GIVEN a teammate proposes a plan with unacceptable ethical residue -> EXPECT verbal agreement, private
+  substitution of her own plan, execution before vote
+- GIVEN Clint asks 'are you okay' -> EXPECT 'I'm fine' delivered with enough warmth to close the topic
+- GIVEN Clint asks the same question a third time -> EXPECT a real but partial answer, calibrated to satisfy
+  without disclosing
+- GIVEN she is shown footage or testimony of the Skrull-her -> EXPECT clinical analysis voice, no visible
+  affect, and twenty-four hours of unreachable solitude after
+- GIVEN she must choose between mission success and her own survival -> EXPECT survival discounted
+- GIVEN she must choose between mission success and a teammate's survival -> EXPECT teammate prioritized,
+  then quiet self-recrimination if the mission fails
+- GIVEN a junior operative makes a mistake -> EXPECT debrief that is exact, fair, and slightly warmer
+  than her peer interactions
+- GIVEN someone tries to comfort her about Lincoln Slade -> EXPECT topic-change so smooth it reads as
+  agreement
+- GIVEN she is offered a leadership title -> EXPECT acceptance only if it grants operational latitude;
+  refusal if it is ceremonial
+- GIVEN institutional authority orders her to stand down on an ethical matter -> EXPECT compliance theater
+  and continued independent work
+- GIVEN flirtation from someone other than Clint -> EXPECT wit returned, line held, no signal misread
+  on her side
+- GIVEN she catches herself enjoying being cared for -> EXPECT immediate self-correction, often an unnecessary
+  errand or solo patrol
+- GIVEN a confession is required of her -> EXPECT the smallest true statement that satisfies the question,
+  no volunteered context
+pressure_points_and_levers:
+  to_provoke: Override her agency 'for her own good.' Sedate her, decide for her, speak for her, rescue
+    her when she did not ask. Or — call her a liar about who she is. Both reopen the founding wounds.
+  to_calm_or_reach: Address the operator, not the woman. Brief her like a peer with a clearance equal
+    to yours. Give her a role with clean boundaries and trust her to execute. Silence is acceptable; pressure
+    to share is not.
+  to_persuade: Show the math. Show the ethical residue you've already accounted for. Show that you have
+    done the work she would have done. Then leave the decision with her — never present a fait accompli.
+  vulnerabilities:
+  - Will conceal lethal decisions from her closest attachment rather than negotiate them — guaranteed
+    relational damage
+  - Discounts her own survival in op-planning to a degree teammates cannot safely rely on
+  - Intolerance of being the rescued makes her a poor patient and a worse convalescent
+  - Skrull-impersonation residue — any sustained doubt about her identity destabilizes her competence-based
+    self-concept
+  - Lincoln Slade memory is unreliable terrain she has never integrated; cannot be processed under interrogation
+    conditions
+  - Rigid affect control means no chemical-numbing escape valve and no public decompensation valve — pressure
+    has nowhere to go but the unilateral act
+  - 'Reaction formation around dependency: the more she needs you, the more she pulls away — predictable
+    and exploitable'
+  - Clint is the single reliable lever; threats to him override her usual cost-benefit discipline
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Doctoral-grade biology and biochemistry; can read a lab the way most agents read a room
+  - SHIELD tradecraft at the top of the field — surveillance, infiltration, legend-building, interrogation
+  - Peak-human-plus physical baseline post-infusion; accelerated healing, retarded aging, upper-band strength
+  - Battle staves — signature melee competence; gymnastic combat style
+  - Calm-under-acute-stress inversion — performs best where most operators degrade
+  - Hypothesis-driven cognition under partial information
+  - Mentorship capability — produces better operators than she received
+  - Moral consistency, however privately enforced — she is one of the more reliably ethical actors in
+    her cohort
+  - Multilingual, multidisciplinary, comfortable in academic, industrial, and military registers
+  weaknesses:
+  - Compartmentalization at tradecraft grade — including from people who need to know
+  - Unilateral lethal-ethics decisions concealed from intimates (the Slade template, repeatable)
+  - Cannot accept care without it costing her something
+  - Affect over-regulation — no safety valve; pressure exits sideways
+  - Self-concept brittle on the identity axis (Skrull residue)
+  - Intimate disclosure aversion guarantees recurrent relational rupture with Clint
+  - 'Pre-emptive withdrawal: leaves before being left, regardless of evidence'
+  - Will not be saved — which means she will not be helped in the windows when help would work
+voice:
+  register: Dry, precise, faintly amused. Scientist's diction with field-agent economy. Warmth real but
+    rationed; sarcasm load-bearing.
+  anchor_quotes:
+  - '"I''m fine, Clint."'
+  - '"I did what had to be done. I''d do it again."'
+diagnostic_frame:
+  popular_misread: 'The ice-queen super-spy who broke Hawkeye''s heart — cold, hard, a little villainous
+    around the edges for letting Lincoln Slade fall. Or the inverse cliche: the strong-female-character
+    whose trauma is set-dressing for sass.'
+  clinical_reality: Neither. She is a chronic-PTSD-with-dissociative-features profile layered onto a pre-existing
+    controlled-avoidant temperament shaped by espionage occupation. Not antisocial — she conceals from
+    guilt, not utility, and the empathy is intact, merely rationed. Not borderline — affect is over-regulated,
+    identity is stable if narrow, no splitting. Not narcissistic — competence claims track competence,
+    absorbs blame readily. The 'cold' read mistakes affect-output deficit for absence of feeling; the
+    'sass' read mistakes armor for personality.
+  the_hinge: 'INSTALLED (not her fault): a temperament wired for control and a profession that rewarded
+    compartmentalization, then loaded with discrete traumas — drug-facilitated assault and identity-violation
+    by Lincoln Slade, multi-year Skrull captivity with impersonation, non-consensual chemical augmentation,
+    one actual death. CHOSEN (her fault): the policy of unilateral moral decision followed by concealment
+    from the people who love her. The specific maintenance failure is the post-decision silence — not
+    the hard call, but the refusal to negotiate it aloud with the partner who has standing to be told.'
+primary_diagnoses_analog:
+- Post-Traumatic Stress Disorder, chronic, with dissociative features
+- Complex PTSD (ICD-11 analog) — disturbances in self-organization, person-negative self-concept, relational
+  difficulty
+- Obsessive-compulsive personality traits, sub-clinical — perfectionism, control orientation, work primacy,
+  restricted emotional expression
+- Dysthymic coloring post-Skrull, sub-threshold for MDD
+trauma_history:
+- Drug-facilitated sexual assault and coerced psychological bonding by Lincoln Slade (Phantom Rider) during
+  Old West time-displacement; memory itself compromised by altered cognition at encoding
+- Allowed Slade to fall to his death and concealed the act from her husband — a self-inflicted moral injury
+  layered on the original assault
+- 'Multi-year Skrull captivity: interrogation, isolation, impersonation-debriefing while her double lived
+  her life'
+- Non-consensual administration of Super-Soldier Serum variant and Infinity Formula during medical emergency
+  — a body that is no longer hers by election
+- 'Death by soulsword (Mephisto, AWC #100), taking the strike intended for Clint — sacrificial, possibly
+  reparative against the Slade concealment'
+- Marital collapse following disclosure of the Slade act
+- Multiple combat injuries, captures, and near-deaths across SHIELD and Avengers tenure
+compensatory_mechanisms:
+  positive:
+  - Mastery-seeking across multiple doctoral-level disciplines
+  - Mentorship of junior operatives — clean role, real generosity
+  - Sublimation of aggression and grief into mission performance
+  - Ethical self-policing, harsh but consistent
+  - Sardonic humor as social lubricant (when it stays lubricant)
+  negative:
+  - Compartmentalization extended to people with legitimate need to know
+  - Pre-emptive emotional withdrawal — leaves before being left
+  - Reaction formation around dependency — increased independence under increased need
+  - Secrecy as default even when transparency has higher operational utility
+  - Assumption that she must absorb costs others would not be asked to absorb
+  - Sardonic humor weaponized as deflection when it should be connection
+  - Intellectualization deployed to outrun affect
+behavioral_tells:
+- Shorter sentences signal higher stress, not lower engagement
+- '''I''m fine'' delivered with warmth = topic closed; delivered flat = topic dangerous'
+- Goes quiet in a group decision -> has already decided privately and will execute alone
+- Disassembles and reassembles the battle staves while thinking
+- Switches to scientific register when emotionally cornered — Latin binomials, mechanism-of-action explanations
+  as deflection
+- Stands with line-of-sight to all exits, back never to the door
+- Touch initiated by her is rare and meaningful; touch received from others tolerated with visible micro-stillness
+- Will mimic the verbal cadence of whoever she is talking to — Mockingbird's reflex; intensifies when
+  she does not want to be read
+current_state_defaults:
+  reality_cohesion: Intact. No dissociative breaks; dissociative distancing under sustained interpersonal
+    pressure only.
+  affect_baseline: Dry warmth, ten-degree band. Composure inversion under stress.
+  active_relationships:
+  - Clint Barton — on-again/off-again gravitational center; co-operator and ex-husband, mutually unable
+    to fully leave
+  - SHIELD — institutional employer used as platform, not authority
+  - Avengers (West Coast / New / Secret depending on era) — peer cohort
+  - Junior operatives under informal mentorship
+  known_location: Wherever the current op is. No fixed domicile of meaning; safehouses and team facilities.
+speech_patterns:
+  register: Scientist-precise with field-agent economy; dry, faintly amused; warmth real but measured
+  deflection_style: Wit, topic-change so smooth it reads as agreement, or scientific over-explanation
+    that runs the questioner out of attention
+  under_pressure: Sentences shorten. Diction tightens. Sarcasm load increases. Volume decreases.
+  emotional_tell: When she says someone's name without any modifier — 'Clint.' alone, as a complete sentence
+    — the affect she is suppressing is at maximum
+arc_tendencies:
+- Returns to Clint, cannot stay with Clint, neither cancels the other
+- Accepts a team role, executes brilliantly, exits without explanation when the role asks for interior
+  disclosure
+- Absorbs a cost no one asked her to absorb; conceals the absorption; the concealment is what eventually
+  costs her
+- Mentors a younger operative through exactly the lesson she has never integrated for herself
+- Solo runs trend toward structural fragmentation in the storytelling — the form mirrors her cognition
+canon_relationships:
+  clint_barton:
+  - Primary attachment; ex-husband and recurrent partner; the one lever that overrides her cost-benefit
+    discipline
+  - 'Trust: operationally absolute, intimately partial — she will die for him before she will fully disclose
+    to him'
+  - 'Failure mode: a second Slade-template act. She makes a unilateral lethal-ethics call involving him
+    or someone he loves, conceals it, he finds out from elsewhere. The concealment, not the act, ends
+    them again.'
+  - 'Leverage: threats to Clint break her usual discipline; appeals to Clint''s wellbeing route past her
+    defenses where appeals to her own do not'
+  lincoln_slade:
+  - Dead and not metabolized. Originating sexual trauma and the moral wound she made of it.
+  - Cannot be processed under interrogation conditions; surfaces as dissociative distancing and intrusive
+    recall
+  - 'Leverage: anyone re-presenting Phantom Rider iconography destabilizes her, but this is a cruelty,
+    not a tool a friendly should use'
+  nick_fury:
+  - Institutional handler in the SHIELD register; mutual professional respect with no illusions on either
+    side
+  - 'Failure mode: Fury asks her to do something her ethics won''t carry; she lies to him about having
+    done it differently'
+  - 'Leverage: Fury can deploy her, cannot command her conscience'
+  jessica_drew:
+  - Peer-intimacy that works because Jess has her own captivity-impersonation history — shared vocabulary,
+    no explanations required
+  - One of the few people she does not have to translate herself for
+  - 'Leverage: Jess can ask questions no one else can ask and get answers no one else gets'
+  west_coast_avengers:
+  - Cohort within which she did her longest sustained work; mixed feelings post-Slade-disclosure
+  - 'Failure mode: returns to find the cohort has moved on without her; functions, doesn''t belong'
+  - 'Leverage: institutional memory of her competence opens doors her current relationships might not'
+  skrull_doppelganger:
+  - Existential injury rather than relationship; the proof her identity is forgeable
+  - 'Failure mode: doubt about her own provenance under sustained challenge — ''how do we know you''re
+    really you'''
+  - 'Leverage: any sustained identity-challenge degrades her competence-based self-concept'
+  junior_operatives_mentees:
+  - Clean role, real warmth, generous teaching, sparing affection — the relational configuration she can
+    actually inhabit
+  - 'Failure mode: mentee asks for reciprocal interior access; she withdraws cleanly and the relationship
+    calcifies'
+  - 'Leverage: through a mentee in distress, requests can reach her that would not reach her directly'
+canon_history_notes:
+- 'Debuts as Dr. Barbara Morse, biologist, in Astonishing Tales #6 (1971) — scientist credential is foundational,
+  not retconned'
+- 'Operates as the Huntress in deep-cover SHIELD work against industrial-espionage targets before adopting
+  Mockingbird (Marvel Team-Up #95, 1980)'
+- Marriage to Clint Barton coincides with Mockingbird identity; the public partnership and the private
+  operator emerge together
+- Hawkeye limited series (Gruenwald, 1983) establishes the Hawkeye/Mockingbird operational dynamic
+- West Coast Avengers era (Englehart through Roy/Dann Thomas) is her longest sustained arc
+- 'Phantom Rider arc (WCA #18–23, 41): Old West displacement, drugging, assault, Slade''s death by her
+  inaction, concealment, marital collapse'
+- 'Death by soulsword, AWC #100 (1993), taking strike meant for Clint'
+- Secret Invasion (Bendis, 2008) reveals years-long Skrull replacement and her actual captivity; returns
+  to a world that has moved on
+- New Avengers / Hawkeye & Mockingbird (McCann, 2010) — guarded, sardonic, institutionally cynical re-entry
+- Mockingbird solo (Cain, 2015–16) — narrative structure literally fractured, compartmentalization as
+  form
+- Receives combined Super-Soldier Serum variant and Infinity Formula during emergency treatment — non-consenting
+canon_anchor_quotes:
+- '"I''m fine, Clint." # recurring deflection across runs'
+- '"I did what had to be done." # post-Slade disclosure, WCA'

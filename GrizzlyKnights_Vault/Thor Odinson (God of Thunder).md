@@ -4283,7 +4283,7 @@ The dossier's forward instruction to its readers: monitor the protective figures
 - Failure mode: long-game manipulation past Thor's patience window
 - Leverage: civilians-in-stakes is how Malekith reliably bound Thor's hand
 
-### Nick Fury
+### [[Nicholas Joseph Fury (Nick Fury)]]
 - The Whisperer. The man who knows the sentence that unmade him.
 - Failure mode: any reconfiguration of trust with Fury must contend with this fact
 - Leverage: father-coded authority who has already demonstrated the power to render verdict

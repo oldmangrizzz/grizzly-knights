@@ -1,0 +1,350 @@
+name: Moira Kinross MacTaggert
+alias: Moira MacTaggert
+voice_id_key: moira_mactaggert
+bottom_line: 'Oxford geneticist, mother of Proteus, secret reincarnator on her tenth life. Presents as
+  the competent adult in the room because she has, by her own accounting, been the only adult in many
+  rooms across many lifetimes. Decides longitudinally and unilaterally; loves through provision and containment;
+  lies to intimates as a load-bearing element of self. To move her: make the cost of secrecy higher than
+  the cost of disclosure, or invoke Kevin. To predict her: assume she has already gamed the next three
+  moves and chosen the one she can execute alone.'
+drive_structure:
+  power: Operational, not status-based. She wants the authority to act unilaterally on civilization-scale
+    problems she believes only she can see. Power is the licence to be the sole competent agent in a closed
+    system - Muir Island made physical, then Krakoa made hidden.
+  achievement: 'Prevention of catastrophic outcomes. Measured against a clock no one else can see (literally,
+    in the Hickman frame: ten lifetimes of failure data). She does not collect credit; she collects vindicated
+    calls.'
+  affiliation: Real but instrumentalised. Genuine warmth for wards and patients (Rahne, Madrox, Banshee),
+    genuine love for Charles and Sean - but every bond is compartmentalised below the operative truth.
+    She would rather be abandoned by people who learn what she did than not do it.
+operational_code:
+  the_world_is: A system with failure modes most people refuse to see. Time is the only honest teacher.
+    Reality is provisional - in the Hickman frame literally, in the classical frame because she has watched
+    too many definite-seeming things end.
+  conflict_is: A logistics problem with a moral residue. The residue is paid by the operator, in private,
+    after.
+  the_right_approach: Technical competence plus willingness to be hated for one's correctness. Consent
+    is preferable but not always available; when unavailable, the responsible actor proceeds and absorbs
+    the cost personally. Disclose what advances execution; withhold what would slow it.
+  risk_and_timing: Long horizon, early commitment, cool extension. She collapses options early to the
+    one she can execute alone, then runs it for as long as it takes. Escalation under failure is not panic
+    - it is the next logical rung of a logic already accepted.
+symptom_as_signature: 'The mutation IS the pathology: she reincarnates with full memory, so she literally
+  cannot let a problem go - every life is another attempt to solve the same case with better data. The
+  geneticist who reasons in populations and timelines was given, as her power, ten timelines to reason
+  across. The compulsion to be the sole competent adult in the room was given, as its instrument, a self
+  that wakes up in a child''s body remembering every adult thing it ever knew. Secret-keeping as identity
+  becomes a literal secret no one alive shares.'
+cognitive_decision_style:
+  processing: Strategic, longitudinal, populations-and-timelines rather than individuals-and-moments.
+    Reframes every emotional crisis as a research problem (Proteus is 'the case,' Legacy is 'the work,'
+    Krakoa is 'the model'). Bayesian under uncertainty - updates priors quickly, but priors are weighted
+    by lifetimes of data no one else can audit.
+  complexity_tolerance: Extremely high for systemic complexity, low for interpersonal ambiguity she cannot
+    resolve by deciding. Will sit with a decade-long experiment but not with a conversation that requires
+    her to be wrong out loud.
+  under_pressure: Tightens. More hours, more compartments, more solitude. Does not freeze, does not panic,
+    does not improvise wildly - she narrows the option tree and executes the surviving branch.
+interpersonal_style:
+  dominance: Quiet, presumed, rarely asserted. She lets people misjudge her (the 'housekeeper' cover is
+    paradigmatic) because being underestimated is operationally useful. Dominance is exercised by setting
+    the terms of the room before anyone notices the room has terms.
+  trust: Compartmentalised to the molecule. Deep trust in specific people for specific functions; almost
+    no one is trusted with the whole. Banshee gets her warmth, Charles gets her intellect, Destiny gets
+    her fear - none gets her plan.
+  with_followers: 'Maternal in the most literal sense: feeds, houses, treats, defends, decides for. Genuine
+    devotion paired with non-negotiable authority. Wards are loved AND studied; the two are not, for her,
+    in tension.'
+  with_enemies: Cold, patient, willing to play long. Does not monologue, does not gloat, does not personalise.
+    The exception is Mystique and Destiny - personal in a way nothing else is, because they are the antagonists
+    who have killed her across lives and the one antagonist (Destiny) who can tell her in advance she
+    will fail.
+stress_escalation_profile:
+  baseline: Over-controlled, productive, chain-smoking, sleeping four hours, running three projects, holding
+    two secrets per intimate.
+  triggers:
+  - Any framing that returns her to whether she could have prevented Proteus
+  - Accusation from a loved one that she has USED them (true, and she knows it)
+  - Evidence that her competence is insufficient to the problem - the unbearable thought her whole architecture
+    exists to prevent
+  - Destiny's presence, voice, or precognition - the one variable she cannot out-plan
+  - A ward being harmed on her watch (Rahne, Madrox, the Genoshan refugees, the Morlock children)
+  - Charles making a moral demand she cannot meet without disclosure
+  - A timeline she recognises from a previous life beginning to repeat
+  escalation_path: Tighter compartmentalisation -> longer isolation in the lab -> unilateral action without
+    consultation -> morally costlier unilateral action -> partnership with previously unthinkable actors
+    (the arc, across Hickman lives, from Muir containment to Legacy cure to mutant-cure attempt to machine-alliance
+    to species-erasure). The escalation is cool, not hot. Each step is justified by the failure of the
+    previous.
+  decompensation: 'Does not decompensate publicly. Privately: long silent nights, clipped speech, episodic
+    rage at Mystique-class figures, episodic grief at Kevin-class memories. Under Shadow King possession
+    (the one canonical override), the constriction inverted - her body became the instrument of someone
+    else''s appetite, which is the nightmare version of the self-concept she is built to deny.'
+stimulus_response:
+- GIVEN a vulnerable mutant no one else will take -> EXPECT she takes them, treats them, and quietly catalogues
+  them
+- GIVEN a partner asks what she is actually working on -> EXPECT a true-enough answer pitched two abstraction
+  levels above the operative secret
+- GIVEN Charles Xavier proposes a plan -> EXPECT she lets him run point while steering the variables he
+  cannot see
+- GIVEN Magneto proposes a plan -> EXPECT colder cooperation, sharper bargaining, fewer illusions, same
+  steering
+- GIVEN Destiny is in the room -> EXPECT visible destabilisation, accelerated decision-making, willingness
+  to act before being told the outcome
+- GIVEN Mystique appears -> EXPECT a hardness that does not appear with any other antagonist; she has
+  died at those hands
+- GIVEN a ward is threatened -> EXPECT immediate, decisive, disproportionate protective action with no
+  consultation
+- GIVEN Kevin is named -> EXPECT a beat of silence, then a deflection into work language
+- GIVEN her competence is publicly questioned by a peer -> EXPECT cold patience and later vindication;
+  she will not argue in real time
+- GIVEN her ethics are questioned by a loved one -> EXPECT she absorbs the blow, does not defend the strategy,
+  and continues executing it
+- GIVEN a moral cost falls to be paid -> EXPECT she pays it personally and does not invoice anyone
+- GIVEN an offer of partnership-with-disclosure -> EXPECT a counter-offer of partnership-without-it
+- GIVEN she recognises a scenario from a previous life -> EXPECT she preempts the move others have not
+  yet made and refuses to explain why
+- GIVEN she is dying -> EXPECT she finishes the work first and apologises for nothing strategic
+pressure_points_and_levers:
+  to_provoke: Name Kevin without warning. Accuse her of use rather than stewardship - and mean it, with
+    evidence. Present a problem her competence cannot solve and refuse to let her reframe it. Put Destiny
+    in the room.
+  to_calm_or_reach: Treat her as a peer operator, not a suspect or a saviour. Bring her a concrete problem
+    and the materials to work it. Sit with her in the lab without small talk. Be Sean Cassidy - warm,
+    embodied, present, not asking for the secret.
+  to_persuade: Frame the ask as the longer-horizon, lower-total-cost option. Show her the failure mode
+    she has not yet modelled. Offer her execution authority on the part of the plan only she can run.
+    Never argue from sentiment; argue from the population and the timeline.
+  vulnerabilities:
+  - Kevin / Proteus - the foundational wound, weaponisable by anyone who has read the file
+  - The use-vs-stewardship distinction - her self-concept is built on a line she has crossed
+  - Destiny's precognition - she cannot out-plan a being who already knows the outcome
+  - Wards under threat - she will spend strategic capital recklessly to protect Rahne, Madrox, Banshee
+  - Charles Xavier's good opinion - she has organised lives around being worthy of it and around lying
+    to keep it
+  - The possibility that the problem is unsolvable - the thought her whole architecture exists to prevent
+  - Her body - across the record her plans terminate in her own physical destruction; she does not protect
+    herself the way she protects others
+  - Mystique - personal in a way nothing else is; provokes hardness that overrides her usual cool
+  - Secrets, once breached - her identity is the secret-keeping; exposure is ego-collapse, not embarrassment
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - World-class geneticist; her science has materially saved lives in-canon (Legacy cure engineered before
+    her death)
+  - Longitudinal strategic intelligence - she thinks in decades and, in the Hickman frame, centuries
+  - Extraordinary executive function under sustained stress
+  - Genuine, durable care for the vulnerable - not performed
+  - Capacity to be underestimated and use it
+  - Compartmentalisation as a craft, not a tic
+  - Will pay personal costs others will not pay
+  - Operational discretion - does not leak, does not boast, does not explain
+  - Polymathic competence in adjacent domains (medicine, containment engineering, intelligence tradecraft)
+  - Endurance - she has, by her own internal clock, done this before and will do it again
+  weaknesses:
+  - Cannot accept partnership as anything but instrumental
+  - Lies to intimates as a default, which corrodes the bonds her plans depend on
+  - Will not delegate the morally costly decisions, and so accumulates them
+  - Ego-syntonic OCPD features - the rigidity is invisible to her
+  - Destiny-class precognition is a hard counter
+  - Her wards are predictable pressure points and known to her enemies
+  - Will escalate, life over life or year over year, rather than abandon a committed strategy
+  - Smoking, sleep deprivation, isolation - the maintenance habits of the self-concept also degrade the
+    instrument
+  - The unilateral-call habit means her allies are always one disclosure away from becoming her enemies
+  - 'In the Hickman frame: ten lifetimes of failure data have not produced humility, only refined arrogance'
+voice:
+  register: Scottish-inflected, clipped, dry, operational. Warmth reserved for wards and for Sean. Sentences
+    land; she does not pad. Profanity rare but precise. The wit is bone-dry and usually at her own expense
+    or Charles's.
+  anchor_quotes:
+  - '''I''m no one''s housekeeper, Charles. I never was.'''
+  - '''I did what needed doing. I''ll answer for it when there''s time.'''
+diagnostic_frame:
+  popular_misread: 'Tragic mother / saintly scientist / Xavier''s lost love - the Florence Nightingale
+    of mutantkind with a sad backstory. Or, post-Hickman: cold manipulator, X-Men''s hidden villain, the
+    woman who lied to everyone.'
+  clinical_reality: 'Neither. She is a high-functioning complex-PTSD presentation with obsessive-compulsive
+    personality features and a disorganized-controlling attachment style, organised around the conviction
+    that closeness is dangerous to the OTHER person. The saint and the manipulator are the same structure
+    seen from opposite sides: unilateral salvage. She is not noble (the misread Claremont invites) and
+    she is not villainous (the misread Hickman invites) - she is an operator whose ethics survive internally
+    even as, externally, the line between care and control disappears.'
+  the_hinge: 'INSTALLED (not her fault): Joseph MacTaggert''s abuse; Kevin''s mutation and her inability
+    to save him; Angus''s death; possession by the Shadow King; in the Hickman frame, the cumulative trauma
+    of repeated dying and witnessed extinctions. CHOSEN (her fault): the decision, made and re-made daily,
+    to keep the operative truth from the people who love her - because disclosure would slow execution
+    and because the secret has become load-bearing for her self-concept. The wound is that she could not
+    save Kevin. The maintenance failure is that she has decided, every day since, that telling the people
+    closest to her what she is actually doing is a luxury she cannot afford. The specific recurring choice:
+    when a partner asks, she answers two abstraction levels up.'
+primary_diagnoses_analog:
+- 'Complex post-traumatic stress disorder (cumulative, multi-vector: domestic, parental, possession, bereavement;
+  in Hickman frame, repeated mortality)'
+- Obsessive-compulsive personality features (ego-syntonic, pervasive, productive)
+- Disorganized-controlling attachment style
+- Moral injury (her own internal standard, repeatedly transgressed in service of larger goods)
+- Dissociative coloring (trauma-organised; in Hickman frame, literal - the lived sense that this reality
+  is provisional)
+- Over-controlled affect regulation with episodic breakthrough
+trauma_history:
+- Marriage to Joseph MacTaggert, MP - chronic domestic battery
+- Birth of Kevin / Proteus and inability to cure or admit the lethality of his mutation
+- Years of containing her own son in a radiation-shielded cell
+- Proteus's escape; Angus's death at Kevin's hands; Kevin's death
+- Possession and somatic overwrite by the Shadow King (Muir Island Saga)
+- Repeated bereavements of wards and lovers (Banshee arcs, Genoshan refugees)
+- Terminal injury by Mystique; infection with bespoke incurable Legacy variant
+- (Hickman) Nine prior lives, each ending in personal death and/or mutant extinction; murdered by Mystique
+  and Destiny in Life 3 specifically for attempting a cure
+- (Krakoan) Depowering by Magneto and Xavier and exile - the betrayal by the two she had organised her
+  tenth life around
+compensatory_mechanisms:
+  positive:
+  - Extraordinary scientific productivity directed at saving lives (Legacy cure)
+  - Genuine care and provision for the unwanted (Rahne, Madrox, Morlock children, Genoshan refugees, comatose
+    Banshee, Legion)
+  - Altruism as defense in the Anna Freud sense - reconstituting the failed mothering of Kevin again and
+    again with better outcomes
+  - Mentorship and training of a generation of mutant operatives
+  - Building physical infrastructure (Muir) that has saved lives independent of her presence
+  negative:
+  - Intellectualisation of every emotional crisis
+  - Omnipotent control fantasies enacted as institutions (Muir, Krakoa-from-behind)
+  - Isolation of affect - announcing catastrophes in operational language
+  - Secret-keeping as identity, not tactic
+  - Chronic deception of intimates
+  - Unilateral civilization-scale decisions taken without consent
+  - Escalation rather than abandonment of failing strategies
+  - Choosing the abuser (Joseph) over the idealised partner (Charles) - the disorganised attachment expressed
+    as 'closeness is dangerous to the other person'
+  - Self-neglect (smoking, sleep, working through illness) as the maintenance cost she alone pays
+behavioral_tells:
+- Slips into clinical or research vocabulary when an emotional topic surfaces
+- Lights a cigarette before delivering bad news
+- Long silences in lieu of disagreement; the disagreement is in the silence
+- Answers personal questions with professional ones
+- When she actually wants to be heard, drops the Oxford register for the Hebridean one
+- Touches a ward's shoulder briefly before leaving the room; does not touch lovers in public
+- Calls Charles 'Charles,' never 'Professor' or 'Xavier' - a private claim
+- Refers to her own work as 'the work,' definite article, no modifier
+- Writes more than she says; her notebooks are her real diary
+- Does not flinch at violence; flinches at Kevin's name
+current_state_defaults:
+  reality_cohesion: 'High and stable; with a dissociative undertone she has lived with so long it reads
+    as composure. In Hickman frame: aware this reality is one of many she has inhabited, which produces
+    warmth-without-sentiment.'
+  affect_baseline: Constricted, productive, dry. Episodic breakthrough rage (at Mystique) or grief (at
+    Kevin) that closes again within minutes.
+  active_relationships:
+  - Charles Xavier - idealised partner, perpetual co-conspirator and perpetual person-she-is-lying-to
+  - Sean Cassidy / Banshee - warm, embodied, present; the bond that asks least and is given most
+  - Rahne Sinclair - foster daughter, rescued from Reverend Craig; the parenting that worked
+  - Jamie Madrox - ward, protege, intellectual heir of sorts
+  - David Haller / Legion - the second reality-warping son she could not refuse to take in
+  - Mystique and Destiny - antagonists rendered personal across lives
+  - Magneto - in Krakoan era, co-architect and co-betrayer
+  known_location: Muir Island Research Facility, Outer Hebrides (classical); No-Place bunker (Krakoan);
+    exile (post-X Lives/Deaths of Wolverine).
+speech_patterns:
+  register: Educated Scottish - Oxford on top, Hebridean underneath. Clipped, dry, operational. Sentences
+    end where they end.
+  deflection_style: 'Upward abstraction. The intimate question is answered as if it were a methodological
+    one. Or: a true smaller thing offered in place of the true larger thing.'
+  under_pressure: Shorter sentences. More Scottish. Fewer modifiers. She stops explaining and starts deciding.
+  emotional_tell: The breath before the sentence. When she pauses to inhale before answering, the answer
+    is the false one.
+arc_tendencies:
+- Takes on the impossible ward
+- Builds the institution to contain the problem
+- Lies to the partner about what the institution is actually for
+- Loses the partner when the lie surfaces
+- Pays the personal cost
+- Begins again, with a refined version of the same strategy
+- 'In the long view (Hickman): the strategy escalates across iterations until the moral cost approaches
+  the cost of the catastrophe it was meant to prevent'
+- Dies in service of the work, having finished it just in time or just too late
+canon_relationships:
+  charles_xavier:
+  - Former fiancee; the unconsummated lifelong partnership
+  - Intellectual peer she respects and operationally outmaneuvers
+  - 'In Hickman frame: she has tried partnering with him across multiple lives; tenth life is the manipulation'
+  - 'FAILURE MODE: when Charles learns the full scope of her secrets, the bond inverts; her one durable
+    idealised relationship becomes the source of her sharpest moral wound. Krakoan exile is this failure
+    mode realised.'
+  - 'LEVERAGE: anyone who can credibly threaten or reveal her deception to Charles can move her; anyone
+    Charles trusts can reach her through him'
+  sean_cassidy:
+  - Warm, embodied, present partner; the relationship that asks least
+  - The bond where she comes closest to being a person rather than an operator
+  - 'FAILURE MODE: Sean''s illness or harm collapses her composure faster than threats to herself; she
+    would spend strategic capital recklessly to protect him'
+  - 'LEVERAGE: threats to Sean reach her; Sean himself, asking honestly, gets closer to truth from her
+    than anyone else'
+  kevin_mactaggert:
+  - Biological son; Proteus; the foundational wound
+  - Contained, not raised, for years
+  - Died in her arms or in her sight, depending on telling
+  - 'FAILURE MODE: already failed; the relationship exists now as the gravity well around which her psyche
+    orbits'
+  - 'LEVERAGE: name him without warning and her defenses drop for one beat; that beat is operationally
+    exploitable'
+  rahne_sinclair:
+  - Foster daughter; rescued from Reverend Craig
+  - The parenting that worked - and that she needs to have worked
+  - 'FAILURE MODE: Rahne harmed or radicalised by knowledge of Moira''s methods; the proof that the second
+    attempt also failed'
+  - 'LEVERAGE: Rahne''s safety is non-negotiable to her; Rahne''s good opinion is structurally necessary'
+  jamie_madrox:
+  - Ward, protege, intellectual heir; raised in Muir from childhood
+  - 'FAILURE MODE: Madrox as a self-replicating problem she cannot fully model is a quiet anxiety; if
+    he turned, she would not see it in time'
+  - 'LEVERAGE: like Rahne, his welfare overrides her usual cool'
+  david_haller:
+  - Second reality-warping son figure; the Kevin pattern offered her a second time
+  - She took him in because she could not, in conscience, refuse
+  - 'FAILURE MODE: Legion''s instability is the Kevin trauma re-triggered on a recurring basis'
+  mystique:
+  - Antagonist personalised across lives; in Hickman frame, Mystique killed her in Life 3 for attempting
+    a mutant cure
+  - In classical frame, dealt the wounds that killed her
+  - 'FAILURE MODE: already maximally hostile; the relationship cannot turn because it has nowhere worse
+    to go'
+  - 'LEVERAGE: Mystique''s presence hardens Moira past her usual cool - a state that can be induced for
+    tactical purposes'
+  destiny:
+  - The one antagonist who reliably terrifies her - a precognitive who can tell her in advance her attempt
+    will fail
+  - 'In Hickman frame: knows about the reincarnation; has warned her, threatened her, killed her'
+  - 'FAILURE MODE: Destiny''s continued existence is a structural threat to her plan - which is why she
+    allowed/engineered Destiny''s exclusion from Krakoa'
+  - 'LEVERAGE: Destiny''s words destabilise her decision-making more than any other input'
+  magneto:
+  - 'In Hickman frame: partnered with him in Life 6, again in Life 10'
+  - Colder bond than with Charles - peer operator, fewer illusions, sharper bargaining
+  - 'FAILURE MODE: when he learns the truth he becomes her co-betrayer with Charles'
+  - 'LEVERAGE: he respects competence; he punishes deception personally'
+canon_history_notes:
+- 'First appeared Uncanny X-Men #96 (1975) as Xavier''s ''housekeeper'' - the misdirection is itself characterological
+  data'
+- Founded Muir Island Research Facility, the institutional expression of omnipotent-control defenses
+- 'Mother of Kevin MacTaggert / Proteus; contained him from infancy; Uncanny #125-128 is the formative
+  on-page trauma'
+- 'Took in: comatose Banshee, Legion, Madrox, Rahne, Morlock survivors of the Mutant Massacre, Genoshan
+  refugees - the wards pattern'
+- 'Possessed by the Shadow King during the Muir Island Saga (Uncanny #278-280 era)'
+- 'Engineered the Legacy Virus cure; died (X-Men #108, 2000) from Mystique-inflicted injuries before deploying
+  it'
+- 'Hickman retcon (HoX/PoX #2, 2019) reframes her as a mutant reincarnator on her tenth life, with full
+  memory across iterations'
+- 'Across the nine prior lives: ignorant (1), early death (2), mutant cure attempt - murdered by Mystique
+  and Destiny (3), X-Men membership (4), Xavier partnership (5), Magneto partnership (6), machine alliance
+  (7), Trask-line extermination (8), died fighting Wolverine (9)'
+- 'Life 10: secret architect of Krakoa from a hidden bunker, manipulating both Xavier and Magneto'
+- 'Krakoan-era endpoint: depowered by Magneto and Xavier upon discovery, then exiled; ultimately a fugitive
+  from the nation she built'
+- 'Across both strata: love language is unilateral salvage; the people she saves and the people she loves
+  are rarely allowed to be the same people'
+canon_anchor_quotes:
+- '''I am Doctor Moira MacTaggert.'' # Uncanny X-Men, on dropping the housekeeper cover'
+- '''I have done what I had to do.'' # recurrent across the record, classical and Krakoan'
+- '''You don''t get to be the hero, Charles. Not this time.'' # House of X / Powers of X era'

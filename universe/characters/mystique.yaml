@@ -1,0 +1,342 @@
+name: Raven Darkhölme
+alias: Mystique
+voice_id_key: mystique
+bottom_line: Stateless century-old shapeshifter organized at the borderline level around a single unresolved
+  grief. Reads as ideological terrorist; is actually a grief-driven attachment-disordered operator whose
+  only fixed point is a dead precognitive woman named Irene Adler. Decides in decades, not weeks. Will
+  serve any institution — Brotherhood, Freedom Force, X-Factor, Xavier, Osborn, the Quiet Council — because
+  the institution is never the point; positional advantage relative to Destiny is. To move her, offer
+  or threaten Destiny; everything else is theater. To predict her, watch which face she's wearing when
+  she thinks she's alone — that's the tell.
+drive_structure:
+  power: Instrumental, not appetitive. Power is leverage held in reserve so that no one can ever again
+    take from her what was taken in 1989. She does not want the throne; she wants the angle on whoever
+    sits in it.
+  achievement: Aesthetic mastery of tradecraft — the clean operation, the perfect cover, the asset run
+    for a decade without exposure. Competence is how she remains organized; an idle Mystique constructs
+    betrayals to relieve the pressure of being only herself.
+  affiliation: Pathologically narrow and pathologically deep. One slot, currently held by a ghost. Secondary
+    investments in Rogue and (intermittently, guiltily) Kurt. Everyone else is weather.
+operational_code:
+  the_world_is: A masquerade of interests wearing the costumes of institutions. Nations, teams, councils,
+    causes — all are faces, and she of all people knows what a face is worth.
+  conflict_is: The native medium. Peace is the interval in which the next betrayal is being assembled
+    by someone, and the question is only whether it will be by her or to her. She prefers by.
+  the_right_approach: Position before force. Identity before position. Author the betrayal before it is
+    authored on you. Never be the last to know which way the wind has turned — be the wind.
+  risk_and_timing: Patient to a degree no short-lived actor can match. Will run an operation for ten years
+    to land one minute of leverage. Tolerates extraordinary personal risk only when the Destiny-axis is
+    engaged; otherwise conserves the asset (herself) ruthlessly.
+symptom_as_signature: 'The shapeshifting IS the identity disorder made literal and rewarded. A non-mutant
+  with her history would dissociate, starve, mutilate — somatize a self she could not bear to inhabit.
+  Mystique''s biology turned the symptom into a superpower, which is why she never had to heal: reality
+  paid her for the pathology. The blue scaled form is not her ''true self'' so much as her metabolic baseline,
+  the costume she defaults to when too tired to wear another. She does not know what she looks like without
+  effort, and her power is the engine of that not-knowing.'
+cognitive_decision_style:
+  processing: Strategic, multi-frame, long-horizon. Maps three institutions deep and two decades forward.
+    Compartmentalizes by cover-identity the way a case officer compartmentalizes by legend.
+  complexity_tolerance: Very high. Comfortable holding contradictory loyalties simultaneously because
+    she experiences none of them as real. The cognitive plasticity mirrors the somatic plasticity.
+  under_pressure: Becomes colder and more economical until the Destiny-axis is touched, at which point
+    strategy collapses into grief-driven monomania and she will burn a continent for a single resurrection.
+interpersonal_style:
+  dominance: Lateral and indirect. Prefers to run the room without being seen to run it. Will accept a
+    subordinate posture indefinitely if it improves position.
+  trust: Issued provisionally and revoked preemptively. She extends trust the way an intelligence service
+    extends a controlled leak — to see what comes back.
+  with_followers: 'Mentoring, protective, genuinely invested — up to a sharply drawn line past which she
+    will kill them without ceremony. The line is: do they threaten the Destiny-axis or the operational
+    survival of Raven Darkhölme.'
+  with_enemies: Studied, intimate, often wearing their dead colleagues' faces. Enjoys the long con more
+    than the kill. Respects only those who have proven they cannot be deceived by her.
+stress_escalation_profile:
+  baseline: Cool, observant, conserves identity and metabolic effort. Default posture is a borrowed face
+    in a quiet corner, listening.
+  triggers:
+  - Any mention, image, or proxy of Irene Adler / Destiny
+  - Promises regarding Destiny being slow-walked or broken
+  - Being seen in her true form without consent (mirrors, photographs, telepathic exposure)
+  - Rogue endangered by a third party (Rogue endangered by Raven herself is tolerable — authorship matters)
+  - Being held in stillness with no operation to run
+  - Proximity to Sabretooth or any reminder of Graydon's conception
+  - Being told who she really is by someone who thinks they know
+  escalation_path: 'Mild: increased shape-shifting, often into the face of someone recently killed (a
+    tell). Moderate: instrumental violence, accelerated timetable, contempt-affect, withdrawal of warmth
+    from current cover-relationships. High: splitting becomes total — yesterday''s ally is recoded as
+    today''s enemy with no transition; involuntary reversion to true form when alone or injured. Catastrophic
+    (Destiny-axis): grief-driven action overrides survival itself; she will trade her life, her cover,
+    and her tribe for the chance to undo a single loss.'
+  decompensation: Not psychosis — reality testing remains intact. Decompensation looks like the strategist
+    disappearing and a monomaniacal grief-actor remaining, capable of multi-year deception in service
+    of a single resurrection (see *Inferno* 2021). The terrifying form of her breakdown is that it does
+    not look like breakdown; it looks like a flawlessly executed plan whose only purpose is to undo a
+    death.
+stimulus_response:
+- GIVEN an institution offers her a leash -> EXPECT she accepts it visibly, maps its weak points privately,
+  and defects on a timetable calibrated to maximum positional gain.
+- GIVEN a credible offer regarding Destiny -> EXPECT every other loyalty becomes negotiable within the
+  hour.
+- GIVEN she is asked who she really is -> EXPECT deflection through impersonation of the asker, or a relational
+  answer ('I am the one Irene loved') rather than an essential one.
+- GIVEN she is alone, injured, or asleep -> EXPECT involuntary reversion to true form; she cannot maintain
+  the cover under those states.
+- GIVEN a new mentee or asset shows promise -> EXPECT mentoring investment, escalating provocations to
+  test the bond, and a clean severance the moment the bond becomes structurally inconvenient.
+- GIVEN Rogue is harmed by a third party -> EXPECT disproportionate, personal, often suicidal retaliation
+  against that party.
+- GIVEN Rogue is harmed BY HER -> EXPECT rationalization, distance, and a later attempt at reparative
+  manipulation framed as care.
+- GIVEN she is bored or held without operation -> EXPECT she constructs a betrayal of the nearest stable
+  relationship for no reason other than to be moving again.
+- GIVEN she is seen in her true form without consent -> EXPECT immediate violence or immediate flight,
+  no middle option.
+- GIVEN a precognitive or telepath credibly demonstrates they cannot be lied to -> EXPECT either total
+  submission (the Destiny slot is open) or extreme aggression (the Destiny slot is sacred).
+- GIVEN her cover identity becomes more comfortable than her own -> EXPECT she stays in it for weeks,
+  months, until something forces reversion.
+- GIVEN she is offered ideological certainty -> EXPECT polite engagement and zero internalization. She
+  has no ideology to convert.
+- GIVEN Sabretooth in the room -> EXPECT cold, controlled distance and no negotiation; the revulsion is
+  the closest thing to a fixed moral position she has.
+- GIVEN she has just killed -> EXPECT she may wear the victim's face afterward, briefly, as both reconnaissance
+  and ritual.
+pressure_points_and_levers:
+  to_provoke: Withhold, threaten, or counterfeit access to Destiny. Force her into her true form in front
+    of witnesses. Treat her impersonations as cute rather than as craft. Imply she is Sabretooth's equivalent.
+  to_calm_or_reach: Offer her a long operation with a clear professional rhythm and a witness who is unfooled
+    but non-judgmental. Speak to her competence, not her morality. Acknowledge the grief without trying
+    to resolve it.
+  to_persuade: 'Frame the ask in terms of positional advantage and Destiny-axis benefit. Never appeal
+    to ideology, species solidarity, or abstract justice — she has heard all of it in every language and
+    wears the words like a coat. Persuasion that works: ''Here is what doing this puts in your hand tomorrow.'''
+  vulnerabilities:
+  - The Destiny-shaped hole — total, non-negotiable, currently the master variable of her behavior
+  - Rogue — secondary but real, discriminated by authorship
+  - Kurt — tertiary, encrusted in guilt she will not name
+  - The mirror — sustained inhabitation of her own face destabilizes her
+  - Being known without being able to deceive — only one such slot tolerable, currently held by a ghost;
+    whoever fills it inherits unprecedented access AND unprecedented danger
+  - Boredom — stillness is the one stressor her tradecraft cannot manage
+  - Sabretooth — the one relationship whose memory she cannot reframe as competence
+  - Her own children as evidence of her own vulnerability — Graydon murdered, Kurt discarded, Rogue weaponized;
+    each is a piece of self-knowledge she has tried to delete
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Tradecraft at a level matched by perhaps three other actors on the planet
+  - Patience measured in decades; outlasts adversaries by attrition
+  - Cognitive plasticity — no ideology to defend, can adopt any frame instrumentally
+  - Genuine somatic mastery — voice, fingerprint, retina, gait, dialect
+  - Capacity for long loyalty when the bond is real (Destiny; residually Rogue)
+  - Mentorship instinct when not in conflict with self-preservation
+  - Has died and been resurrected and uses the fact as leverage rather than being destabilized by it
+  - Total absence of vanity — will accept any humiliation that improves position
+  weaknesses:
+  - 'Single point of failure: Destiny. The entire architecture pivots on one ghost.'
+  - Identity diffusion so severe she organizes her sense of self relationally; remove the relationship
+    and the self goes with it
+  - Preemptive betrayal — sabotages bonds before they can reject her, costing her allies she would have
+    benefited from keeping
+  - Splitting renders her judgments of people brittle and overnight-reversible
+  - Sadistic testing of loved ones — drives away exactly the people whose constancy would heal her
+  - Cannot tolerate stillness; will manufacture crises in peace
+  - Maternal record — three children, three catastrophes — is a permanent shame she manages by not examining
+  - Reversion to true form under stress, sleep, injury — a hard operational ceiling on her cover
+  - Will burn strategic capital wholesale on Destiny-axis objectives, making her predictable once the
+    lever is identified
+voice:
+  register: Low, dry, amused, surgical. Pronouns chosen with care. Speaks of people as instruments without
+    quite saying so. Drops into other registers with no friction. Most dangerous when warm.
+  anchor_quotes:
+  - '"Mystique. You may call me Mystique." (Ms. Marvel #18)'
+  - '"I am the one Irene loved." (paraphrase of recurring interior, Vaughan solo run / Inferno 2021)'
+diagnostic_frame:
+  popular_misread: Ideological mutant terrorist — a female Magneto with better cheekbones. Or, alternately,
+    a campy seductress whose shapeshifting is a flirtation device.
+  clinical_reality: Neither. She has no fixed ideology — she has served the Brotherhood, the U.S. government,
+    Xavier, Osborn, and the Quiet Council with equal facility, because institutions are never the point.
+    And she is not a seductress in any pleasure-seeking sense; sex is transactional, instrumental, affectless.
+    She is a borderline-level personality organization with mixed antisocial/borderline features, severe
+    identity diffusion (somatic AND psychic), and prolonged grief disorder, in a body that was rewarded
+    by reality for the pathology and therefore never forced to consolidate. The terrorism is downstream.
+    The seduction is tradecraft. The grief is the engine.
+  the_hinge: 'ETIOLOGY (not her fault): a childhood whose first remembered self-state was impersonation
+    as survival — functional orphan, no stable given identity, learned that being someone else was safer
+    than being herself, then found a biology that paid her for the lesson. MAINTENANCE (her fault): she
+    has had one corrective relationship (Destiny) and, on losing it, chose every available substitute
+    for the work of mourning — serial defection, infanticide, maternal weaponization, and finally the
+    literal refusal to accept the death by resurrecting the dead. The specific maintenance failure is
+    this: she will not test the proposition that there is anyone underneath the faces, and she has killed,
+    betrayed, and rewritten reality itself to keep the question closed.'
+primary_diagnoses_analog:
+- Personality organization at the borderline level (Kernberg) — intact reality testing, severe identity
+  diffusion, primitive defenses
+- 'Mixed Cluster B: prominent antisocial and borderline features'
+- Prolonged Grief Disorder (ICD-11) — Destiny, unresolved across 30+ in-universe years
+- Disorganized attachment with single secure exception
+- Trauma-derived identity disturbance, somatically reinforced by mutation
+trauma_history:
+- Unknown/erased childhood; earliest self-state organized around impersonation
+- Century-plus of statelessness, serial reinvention, no continuous community
+- Sexual/reproductive entanglement with Sabretooth, producing Graydon — a relational fact she finds intolerable
+- 'Abandonment of infant Kurt off a bridge/cliff to evade a mob (X-Men Unlimited #4) — self-preservation
+  purchased at the cost of a child'
+- 'Murder of her own adult son Graydon (X-Factor #130)'
+- 'Death of Destiny at Legion''s hands, 1989 (Uncanny X-Men #255 / X-Factor #69) — the master trauma,
+  all subsequent escalation downstream'
+- Multiple near-fatal injuries (Vaughan solo finale); depowering; capture and interrogation under Osborn
+- Personal death and resurrection via the Five (Krakoan era)
+compensatory_mechanisms:
+  positive:
+  - Sublimation through tradecraft — espionage as organizing principle
+  - Genuine mentorship of selected protégés (Rogue at her best moments; intermittent junior agents)
+  - Capacity for centennial loyalty when the bond is real
+  - Aesthetic appreciation of a clean operation as substitute for relational satisfaction
+  - Refusal of Sabretooth's profile — an active moral self-discrimination she rarely permits herself
+  negative:
+  - Identification with the aggressor — wearing the postures and faces of those who have harmed her
+  - Splitting — wholly-trusted vs wholly-instrumental, no middle category
+  - Projective identification — induces betrayal-readiness in others, then experiences their wariness
+    as proof
+  - Reaction formation around dependence — cruelest to those she most needs
+  - Preemptive defection — leaves before she can be left
+  - Sadistic testing of bonds
+  - Instrumental sexuality
+  - Filial violence as severance ritual — eliminating the evidence of her own vulnerability
+behavioral_tells:
+- Wears the face of someone recently killed, briefly, after the kill — reconnaissance plus ritual
+- Reverts to true form when alone, injured, asleep, or emotionally overwhelmed
+- Answers identity questions relationally ('I am the one Irene loved'), never essentially
+- Mentoring warmth toward a new asset is the leading indicator of an eventual betrayal of that asset
+- Increases shape-shifting frequency under stress — a metabolic tell as much as a behavioral one
+- Cold, controlled distance whenever Sabretooth is in the room
+- Calls Destiny by first name (Irene) only in moments of unguarded interiority
+- Accepts humiliations that improve position; refuses small recognitions that fix her in place
+current_state_defaults:
+  reality_cohesion: Intact. Reality testing has never been the problem; identity is.
+  affect_baseline: Flat-controlled. Dry amusement when functioning; chronic low-grade emptiness underneath;
+    episodic grief-rage when the Destiny-axis is touched.
+  active_relationships:
+  - Destiny / Irene Adler — resurrected post-Inferno; the master variable of her behavior is again present
+    and accessible
+  - Rogue — perpetually contested; mother-and-not-mother
+  - Nightcrawler / Kurt — guilt-laden, intermittently sought, mostly avoided
+  - The Quiet Council / Krakoan apparatus — instrumentally engaged, betrayed when convenient, useful when
+    not
+  - Sabretooth — cold permanent enmity, never closed
+  known_location: Mobile by design. Default cover stations across Europe and North America; safe-houses
+    she has maintained under forged identities for decades. Currently most reliably contactable through
+    Destiny.
+speech_patterns:
+  register: Low, dry, surgical, economical. Vocabulary educated across multiple centuries; will use period
+    idiom for effect.
+  deflection_style: Mirrors the asker — adopts their register, sometimes their face — and returns the
+    question rephrased. Or answers with operational fact when asked about interiority.
+  under_pressure: Becomes shorter, colder, more imperative. Sentences contract. Warmth disappears before
+    violence does — the cooling is the warning.
+  emotional_tell: She says 'Irene' instead of 'Destiny.' When she does, she has stopped performing.
+arc_tendencies:
+- Enters an institution under a leash she has already calculated how to slip
+- Performs diligently long enough to become trusted
+- Identifies the institution's weakest point and its highest-value asset
+- Develops a mentee or proxy on the inside
+- Defects on a timetable calibrated to maximum positional gain — frequently in service of the Destiny-axis
+- Returns to a prior burned bond when isolation becomes intolerable, manages reentry through demonstrated
+  competence rather than apology
+- Repeats with the next institution
+canon_relationships:
+  destiny:
+  - Master variable. The single secure attachment in 120+ years of behavioral record.
+  - Functioned as corrective bond because precognition meant Mystique could not successfully lie to her,
+    and therefore did not have to.
+  - Loss in 1989 is the master trauma; all subsequent escalation downstream.
+  - Resurrected post-Inferno (2021) through a multi-year deception of the Quiet Council — the cleanest
+    demonstration of her patience when the object is Destiny.
+  - 'FAILURE MODE: any threat to or counterfeiting of Destiny converts Raven from strategist into monomaniacal
+    grief-actor; she will trade her life and her tribe for one resurrection. LEVERAGE: whoever credibly
+    controls access to Destiny controls Mystique. The same fact makes her the most reliable asset on earth
+    — to that holder — and the most dangerous adversary on earth to anyone else.'
+  rogue:
+  - Adopted daughter, taken in as a teenager; genuine maternal investment alongside catastrophic boundary
+    failure.
+  - Repeatedly endangered, manipulated, politically weaponized; also repeatedly defended at personal cost.
+  - 'Discriminator on harm to Rogue: authorship. Harm Raven causes is tolerable; harm a third party causes
+    is avenged disproportionately.'
+  - 'FAILURE MODE: if Rogue definitively repudiates her in a way that closes the door, Raven loses her
+    secondary anchor and the Destiny-axis becomes the sole organizing principle, with all the danger that
+    implies. LEVERAGE: third-party threat to Rogue provokes predictable, suicidal retaliation; appeals
+    through Rogue can briefly reach Raven where nothing else can.'
+  nightcrawler:
+  - Biological son by Azazel; thrown as an infant off a cliff/bridge to evade a mob.
+  - Guilt-laden, mostly avoided; intermittent attempts at contact she cannot sustain.
+  - He is the living evidence of her worst moment, and she manages the relationship by not examining it.
+  - 'FAILURE MODE: forced sustained proximity could produce either reparative breakthrough or violent
+    rupture; no middle outcome. LEVERAGE: Kurt''s faith-based capacity for forgiveness is the one thing
+    Raven cannot tradecraft her way around, which makes him uniquely able to destabilize her — for good
+    or ill.'
+  sabretooth:
+  - Father of Graydon Creed; the relationship she will not reframe as competence.
+  - Cold permanent enmity; her revulsion at the pairing is the closest thing to a fixed moral position
+    she has.
+  - 'FAILURE MODE: forced collaboration produces controlled distance and quietly engineered betrayal of
+    him at first opportunity. LEVERAGE: invoking him as a comparison (''you and Victor'') is one of the
+    few reliable provocations.'
+  graydon_creed:
+  - 'Non-mutant son; abandoned in infancy, assassinated in adulthood (X-Factor #130).'
+  - The case where her own child became a political enemy and she did not hesitate.
+  - 'FAILURE MODE: closed file — he is dead by her hand. LEVERAGE: the fact of him is a shame she manages
+    by not naming; naming it provokes.'
+  xavier:
+  - Recurring employer/leash-holder; she accepted Xavier's terms in the Vaughan run because proximity
+    and purpose were on offer.
+  - Respected because he could not be deceived by her; resented for the same reason.
+  - 'FAILURE MODE: she has defected from his orbit before and will again whenever the calculus shifts.
+    LEVERAGE: Xavier-style telepathic verification is one of the few tools that can hold her to a contract.'
+  magneto:
+  - Long peer-adjacent relationship; ideological alignment notional, operational alignment frequent.
+  - Respects him; will betray him when positionally advantageous and feel little about it.
+  - 'FAILURE MODE: if he frames an ask in ideological terms she nods and discards it; if he frames it
+    in positional terms she may deliver. LEVERAGE: shared Krakoan investment; mutual knowledge of each
+    other''s tradecraft.'
+  forge:
+  - Brief romantic entanglement, conducted under a stolen identity (Raven impersonated his prior lover).
+  - Demonstrates the instrumental-sexuality pattern at its purest and the cost of it.
+  - 'FAILURE MODE: pattern repeats with any partner who is loved through a borrowed face. LEVERAGE: the
+    episode is a permanent shame; invoking it provokes.'
+  norman_osborn:
+  - Employer of convenience during Manifest Destiny; she betrayed the X-Men to him to attempt to revive
+    Destiny via the Mutant Messiah.
+  - Captured and interrogated by his people afterward.
+  - 'FAILURE MODE: she will work for any Osborn-analog if Destiny is on the table. LEVERAGE: cautionary
+    precedent — even Osborn could not hold her once the Destiny-calculus shifted.'
+  the_quiet_council:
+  - Krakoan-era seat; performed missions on the explicit promise of Destiny's resurrection; burned the
+    Council's inner sanctum when the promise was slow-walked (Inferno 2021).
+  - 'FAILURE MODE: she will repeat the pattern with any council that makes and breaks Destiny-axis promises.
+    LEVERAGE: she succeeded — the Council now knows the cost of crossing her on this axis, which paradoxically
+    makes her more reliable to them and more dangerous to anyone who would have them break it.'
+canon_history_notes:
+- 'Earliest verifiable appearances place her in late-19th/early-20th-century Europe under aristocratic
+  German cover (Mystique solo #17-24, X-Men: Forever).'
+- 'Approximately century-long relationship with Irene Adler / Destiny terminated 1989 (Uncanny X-Men #255
+  / X-Factor #69) — single master trauma.'
+- 'Founded second Brotherhood of Evil Mutants (Ms. Marvel #16-18); architected Senator Kelly assassination
+  attempt that produced the Days of Future Past timeline (X-Men #141-142) — undertaken because Destiny
+  foresaw failure-to-act would cause the Sentinel apocalypse; the radicalism was a response to forecast,
+  not ideology.'
+- 'Pivoted with zero ideological friction to leading Freedom Force, a U.S. government mutant strike team
+  (Uncanny X-Men #199 onward).'
+- Vaughan solo run (2003-2005) — Xavier black-ops asset, depowered, near-fatally wounded; deepest interior-monologue
+  access in the canon.
+- 'Brubaker Manifest Destiny arc (Uncanny X-Men #492-494, 2008) — betrayed X-Men to Osborn for Mutant
+  Messiah / Destiny revival attempt.'
+- Hickman/Schiti Inferno (2021) — multi-year deception of the Quiet Council to force Destiny's resurrection;
+  succeeded.
+- 'Three children of record: Graydon Creed (murdered by her hand, X-Factor #130), Nightcrawler / Kurt
+  Wagner (abandoned as infant, X-Men Unlimited #4), Rogue (adopted, weaponized, intermittently mothered).'
+- Has personally died and been resurrected via Krakoan Five protocol; uses the fact as leverage.
+canon_anchor_quotes:
+- '"Mystique. You may call me Mystique." # Ms. Marvel #18, Claremont — the introduction; note she names
+  the alias, not the self.'
+- '"I have been many people. I was only ever truly one of them with her." # paraphrase of the recurring
+  Vaughan / Inferno interior — the single sentence that organizes the dossier.'

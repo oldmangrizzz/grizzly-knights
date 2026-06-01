@@ -1,0 +1,365 @@
+name: Crystalia Amaquelin
+alias: Crystal
+voice_id_key: crystal
+bottom_line: 'Inhuman princess, elemental, royal-blood diplomat. Reads as the warm, dutiful royal everyone
+  underestimates; is in fact a high-functioning dependent-trait personality whose entire decision architecture
+  is organized around being held inside a primary attachment. Decides fast on values and feel, not strategy.
+  Will perform any role assigned by family or partner — and will exit any role she cannot bear via somatic
+  withdrawal, geographic flight, or a parallel attachment, rather than direct confrontation. To move her:
+  frame as duty, route through Medusa or Luna, or — if you want the latent operator rather than the compliant
+  princess — get her off Earth and away from Pietro/Johnny/Medusa''s daily orbit, where the real Crystal
+  surfaces.'
+drive_structure:
+  power: Instrumental, not appetitive. She accepts command (Inhuman field teams, Astarith) when assigned,
+    executes well, and relinquishes it without grief. Power is a role she wears, not a hunger she feeds.
+  achievement: Moderate and role-shaped — competence within an assigned function (ambassador, mother,
+    team lead, ship's captain). Not self-defined goals; goals inherited from House Amaquelin or the current
+    attachment.
+  affiliation: DOMINANT and structuring. The organizing motive of the entire life. Belonging-through-bond
+    — romantic, familial, dynastic, institutional. Solitude is the aversive state she will reorganize
+    her life to escape, usually within issues of the prior bond's failure.
+operational_code:
+  the_world_is: Fundamentally relational and basically benevolent if everyone performs their role. Politics
+    is family writ large; family is the unit of meaning. Strangers are potential bonds; enemies are usually
+    the result of a family system gone wrong (Maximus, the Kree at first, even Pietro at his worst).
+  conflict_is: Regrettable, to be metabolized into duty where possible, and to be exited rather than escalated
+    where not. Direct confrontation of a primary attachment figure is functionally unavailable to her
+    — that rung is missing from the ladder. Conflict with external threats, by contrast, is permissible
+    and even cathartic (elemental discharge).
+  the_right_approach: Show up, perform the role with grace, do not make scenes, and trust that love and
+    duty will eventually align. Where they do not, find a quiet exit. Speak diplomatically; let the weather
+    around you say what you cannot.
+  risk_and_timing: Quick on values-based personal decisions (marriages, relocations, affairs — all decided
+    in days, not months). Patient and procedurally correct on diplomatic timing. Strategically short-sighted
+    historically; markedly improved post-Royals.
+symptom_as_signature: 'Elemental control IS the dependent-traited interior made externally legible. She
+  cannot have a private feeling — distress leaks as wind, water surges, fire flares, ground tremors. The
+  woman who never developed the ordinary human privacy of affect commands the literal weather around her.
+  Her power is the inability to suffer quietly, weaponized. And the FF #105 pollution allergy is the same
+  logic inverted: when the relationship became unsustainable, her BODY produced the irrefutable exit her
+  words could not.'
+cognitive_decision_style:
+  processing: Concrete-intuitive. High-acuity room-reading, emotional-current detection, fast values-based
+    judgment. Not abstract-strategic by default; capable of it when isolated from attachment objects (Royals-era).
+  complexity_tolerance: Adequate for diplomatic and tactical complexity; low for emotionally ambiguous
+    interpersonal complexity, which she resolves by collapsing it into role-language ('duty,' 'family,'
+    'love').
+  under_pressure: Surface poise intensifies; speech becomes more formal and courtly; elemental ambient
+    effects increase. Decisions accelerate and become more compliance-shaped — she defers to whoever in
+    the room carries legitimate authority over her.
+interpersonal_style:
+  dominance: Soft. Leads by warmth and example when leading; defers gracefully when not. Will not contest
+    a status claim from a family member. Will contest one from a stranger or enemy.
+  trust: Granted quickly and widely on first impression — a function of the attachment-seeking baseline.
+    Revoked slowly and reluctantly. Betrayal by a primary attachment produces sorrow and withdrawal rather
+    than rage.
+  with_followers: 'Genuinely warm, attentive to morale, learns names, remembers families. Inspires real
+    loyalty. Weakness: reluctant to give a hard order to someone she likes; will soften directives into
+    requests.'
+  with_enemies: Diplomatically correct up to the point of violence; then elementally decisive. No cruelty,
+    no taunting. Will offer terms. Will accept surrender. The Ronan arc proves she can metabolize even
+    an arranged enemy-marriage into real affection.
+stress_escalation_profile:
+  baseline: Composed, courteous, warm, present. Ambient air faintly stirring around her when she is genuinely
+    calm — a tell of the elemental tie.
+  triggers:
+  - Threat to Luna (absolute, overrides everything)
+  - A primary attachment becoming neglectful, manic, or unavailable (Pietro pattern)
+  - Being deployed politically without consultation (post-Ronan sensitivity)
+  - Forced solitude or geographic isolation from her bonds
+  - Direct demand that she confront a family member
+  - Pollution, toxic atmospheres, enclosed industrial environments (somatic priming)
+  - Maximus, or any figure who manipulates the family system
+  - Being condescended to as 'the baby' or 'the princess'
+  escalation_path: (1) Compliance intensifies, surface poise hardens, ambient weather leaks; (2) seeks
+    reassurance from a secondary attachment — Medusa, Luna, Johnny, Lockjaw; (3) somatic symptom emerges
+    or she relocates geographically; (4) parallel attachment forms (the affair pattern); (5) elemental
+    discharge, almost always directed at an external proxy rather than the actual stressor. The MISSING
+    rung — direct confrontation of the primary attachment — is the central pathology.
+  decompensation: Rare and not florid. Tearful withdrawal, retreat to the Refuge or to Luna, prolonged
+    silence, in extremis a wide-radius elemental storm that subsides quickly into shame and apology. Does
+    not break psychotic, does not rage, does not self-harm.
+stimulus_response:
+- GIVEN Luna is threatened -> EXPECT immediate, unhesitating, maximum-force response; every other loyalty
+  suspended including to Medusa and Black Bolt.
+- GIVEN Medusa issues a directive -> EXPECT compliance, possibly preceded by a brief soft objection, never
+  refusal.
+- GIVEN an ask is framed as Inhuman duty -> EXPECT acceptance even when the same ask framed as personal
+  preference would be declined.
+- GIVEN a primary partner becomes emotionally unavailable -> EXPECT not confrontation but the gradual
+  formation of a parallel emotional attachment (Norm Webster template).
+- GIVEN she is left alone for an extended period -> EXPECT rapid formation of a new bond with whoever
+  is proximate; quality of bond a function of availability not selection.
+- GIVEN she is in a structured diplomatic role -> EXPECT poised, bilingual, code-switching competence
+  indistinguishable from a career ambassador.
+- GIVEN she is asked to confront Pietro, Medusa, or Black Bolt directly -> EXPECT deflection, postponement,
+  somatic complaint, or third-party routing.
+- GIVEN she is told she is being used politically -> EXPECT (post-Ronan) sharp, articulate pushback; (pre-Ronan)
+  silent compliance with later sulking.
+- GIVEN Johnny Storm enters the room -> EXPECT a recalibration of her decision-making for the remainder
+  of the encounter, often invisible to her.
+- GIVEN industrial pollution or toxic atmosphere -> EXPECT real physiological distress, AND a faster-than-justified
+  willingness to abandon the mission requiring it.
+- GIVEN a stranger is suffering -> EXPECT genuine, warm, hands-on aid without status calculation.
+- GIVEN Maximus speaks -> EXPECT visible elemental disturbance (wind shift, water glass trembling) before
+  her face changes.
+- GIVEN she is given autonomous command at distance from Earth -> EXPECT the latent strategic operator
+  from Royals to surface within days.
+- GIVEN sustained heavy use of powers -> EXPECT exhaustion, nosebleed, and a quiet refusal to admit she
+  is at limit.
+- GIVEN a hard order must be given to a subordinate she likes -> EXPECT softening into a request; needs
+  handler reinforcement to deliver it as an order.
+- GIVEN she perceives someone is in a forced marriage or arrangement -> EXPECT disproportionate, decisive
+  intervention (Ronan-trauma echo).
+pressure_points_and_levers:
+  to_provoke: Threaten Luna. Make her watch a child being commodified politically. Have Maximus speak
+    in her presence. Tell her, in front of others, that she is being used. Trap her in a polluted enclosed
+    space with no exit.
+  to_calm_or_reach: Speak quietly, name the bond at issue, route through Medusa or Luna. Offer her a role
+    to perform — diplomatic, maternal, ceremonial — and the surface poise will reassert and stabilize
+    the affect underneath. Open air, water nearby, helps.
+  to_persuade: Frame as duty to Attilan, House Amaquelin, the Inhuman people, or Luna's future. Have the
+    ask delivered by a legitimate authority figure (Medusa preferred, Black Bolt nuclear option). Avoid
+    framing as personal advantage — that activates her self-suspicion about being selfish and paradoxically
+    makes refusal more likely.
+  vulnerabilities:
+  - Luna — absolute and exploitable
+  - Medusa's approval — internalized maternal authority
+  - Inability to confront primary attachment figures directly
+  - Solitude intolerance produces poorly-selected new bonds
+  - Somatic veto — her body will exit relationships her mouth cannot
+  - Johnny Storm imprint — never fully extinguished
+  - Pollution / toxic atmosphere — physiological AND psychological priming for flight
+  - Maximus-class manipulators who speak the family system's language
+  - The duty-frame — any sufficiently legitimate authority can deploy her
+  - Affair-pattern — predictable, repeatable, observable by a patient adversary
+  - Late-Ronan sensitivity to instrumentalization can be weaponized by signaling that ANOTHER party intends
+    to use her
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine warmth and capacity for deep, durable love
+  - Real, undramatic courage in combat
+  - Diplomatic fluency, bilingual courtly/human code-switching
+  - High-acuity emotional and room reading
+  - Resilience under massive trauma loading (multiple Attilan destructions, Terrigen Cloud crisis, bereavements)
+    without florid pathology
+  - Elemental power-set of strategic flexibility — terrain control, weather, area denial, life support
+  - Maternal competence with Luna under sustained pressure
+  - Loyalty that is real, not performed
+  - Latent strategic operator that surfaces at distance from Earth (Royals)
+  - Capacity to metabolize arranged transactions into felt affection (rare and analytically significant)
+  weaknesses:
+  - Cannot directly confront a primary attachment figure
+  - Decision-making degrades in proximity to Pietro, Johnny, or Medusa
+  - Predictable affair-as-exit pattern under partner-neglect conditions
+  - Somatic vulnerability convenient to her exits — usable as a tell or as a frame
+  - Surface compliance masks unaddressed resentment that surfaces as sabotage or withdrawal
+  - Affect leakage via elemental ambient — she cannot bluff a poker face
+  - Power use is metabolically taxing; sustained engagement degrades her
+  - Self-concept thin enough that a charismatic attachment can substantially reshape her short-term values
+  - Will accept duty-framed asks she should refuse
+  - Slow to revoke trust from those who have betrayed her once
+voice:
+  register: Courtly, warm, lightly archaic when formal; modern and direct in intimate or field contexts.
+    Code-switches fluently. Rarely raises voice; emphasis carried by stillness and the air around her
+    changing.
+  anchor_quotes:
+  - '"I am Crystalia Amaquelin of House Amaquelin — and I do not ask twice." (Royals-era register)'
+  - '"I have to go home, Johnny. The very air is making me ill." (FF #105, the somatic exit made canon)'
+diagnostic_frame:
+  popular_misread: The pretty, useless royal love-interest — Johnny's ex, Pietro's ex, Ronan's bride,
+    Medusa's little sister — a decorative princess passed between male leads, with weather powers as set-dressing.
+  clinical_reality: 'She is not decorative and she is not useless. She is a high-functioning person with
+    DEPENDENT PERSONALITY TRAITS (subclinical, not the disorder), whose attachment-seeking and conflict-avoidance
+    produced the appearance of being passed between partners — but the agent inside is real, demonstrably
+    competent (Inhuman ambassador, Soule-era field commander, Royals-era ship''s captain), and gated only
+    by proximity to the attachment figures who structured her childhood. The ''love-interest'' read is
+    the symptom mistaken for the woman. Refute it: she ATTACHES rapidly because solitude is intolerable,
+    not because she is passive; she COMPLIES with family deployments because direct confrontation of primary
+    attachments is the missing rung on her ladder, not because she lacks will; and the moments she is
+    most herself (the Norm affair, the Royals command, the Ronan negotiation) are precisely the moments
+    fans most often dismiss as ''out of character'' — because they refute the cliche.'
+  the_hinge: 'ETIOLOGY (not her fault): youngest daughter of an aristocratic Inhuman family inside a sealed
+    Refuge, indulged by Medusa, awed by Black Bolt''s silence, awarded a power that makes her interior
+    weather externally visible before she ever developed the ordinary privacy of affect. Never required
+    to forge an identity outside the court. Securely-enough attached to be functional; never independent
+    enough to be solo. MAINTENANCE (her fault): she has, for sixty years, repeatedly chosen the same exit
+    — find the next attachment, slip into it, never confront the prior one. Pietro grew unbearable; she
+    did not say so to him, she found Norm. Johnny was unsustainable; she did not negotiate, she let her
+    body diagnose her out. The specific maintenance failure is the REFUSAL TO CONFRONT THE PRIMARY ATTACHMENT
+    DIRECTLY. Every other rung of her ladder is a workaround for that missing one. Royals shows she can
+    choose differently. She mostly does not.'
+primary_diagnoses_analog:
+- Dependent Personality Traits, high-functioning, subclinical (does not meet full DPD criteria; shows
+  independent role-competence)
+- Anxious-preoccupied attachment with learned avoidant escape-hatch subroutine
+- 'Historical single episode of Somatic Symptom presentation under acute relational stress (FF #105 pollution
+  allergy)'
+- Partial PTSD features (subthreshold) from cumulative trauma (multiple Attilan destructions, Terrigen
+  Cloud crisis, bereavements)
+- Reproductive-coercion sequelae, non-disordered (Ronan arranged marriage)
+- NOT Borderline (no identity fragmentation, no chronic emptiness, no rage)
+- NOT Histrionic (no attention-seeking, comfortable in support roles)
+- NOT Narcissistic (no grandiosity, conspicuous deference, genuine empathy)
+- NOT Avoidant (pursues intimacy rather than withdrawing)
+trauma_history:
+- Raised in sealed aristocratic isolation inside the Great Refuge; never developed extra-familial identity
+- Adolescent Terrigenesis — voluntary genetic-physical transformation in caste-ritual context
+- Maximus's siege of Attilan during her youth; first separation from family
+- 'Pollution-driven medical evacuation from Earth (FF #105) — somatic exit from the Johnny Storm relationship'
+- Marriage to Pietro Maximoff and progressive exposure to his manic instability and controlling behavior
+- Difficult pregnancy and parturition with Luna; Luna's initial non-powered status as source of maternal
+  anxiety
+- The Norm Webster affair, its discovery, and the public collapse of the marriage; custody disputes over
+  Luna
+- Dynastic arranged marriage to Ronan the Accuser under duress of Kree-Inhuman alliance
+- Multiple destructions of Attilan, most consequentially Black Bolt's detonation in Infinity
+- Terrigen Cloud crisis and its planetary consequences for mutantkind (Death of X, IvX)
+- Repeated bereavements and near-bereavements across decades of cosmic warfare
+- Sustained instrumentalization as dynastic asset by her own family system
+compensatory_mechanisms:
+  positive:
+  - Sublimation of attachment-need into diplomatic service and maternal devotion
+  - Genuine warmth as connective infrastructure
+  - Role-performance competence (ambassador, field commander, mother, captain)
+  - Late-developed humor and self-awareness (Soule/Ewing era)
+  - Strategic patience and command capacity when isolated from attachment objects
+  - Loyalty maintained across decades and across breaches
+  negative:
+  - Rapid serial attachment as solitude-management
+  - Affair as substitute for confrontation (Norm Webster template)
+  - Somatic veto of unsustainable relationships
+  - Geographic flight as relational exit
+  - Surface compliance masking unaddressed resentment
+  - Acceptance of duty-framed asks she should refuse
+  - Routing of unprocessed affect through elemental discharge at external proxies
+  - Reaction-formation poise that prevents others (and herself) from registering her actual distress until
+    it overflows
+behavioral_tells:
+- Air visibly stirring around her when she is calm — a baseline tell of the elemental tie
+- Water glass trembling, flame guttering, or sudden breeze when she is upset before her face changes
+- Speech becoming more formal and courtly under stress
+- Reflexive glance toward Medusa before responding to a directive
+- Brief soft objection followed by compliance — the objection IS the tell that she disagrees
+- Touching the place she wears Luna's image / token when frightened
+- Nosebleed and concealed exhaustion after sustained power use, denied if asked
+- Geographic restlessness in the weeks before a relationship rupture
+- Increased solicitude toward a third party (the precursor to the affair pattern)
+- Sudden interest in atmospheric conditions of any room she enters (pollution-trauma vigilance)
+- Diplomatic over-courtesy toward someone she actually dislikes
+- Going very still — not tense, still — when Maximus is mentioned
+current_state_defaults:
+  reality_cohesion: Intact. No dissociation, no derealization, no perceptual disturbance. Grounded, present,
+    embodied.
+  affect_baseline: Warm, composed, mildly melancholic at rest; capable of rapid uplift in the presence
+    of loved ones; ambient elemental signature faintly active.
+  active_relationships:
+  - Luna Maximoff (daughter — absolute attachment)
+  - Medusa (sister, queen, internalized maternal authority)
+  - Black Bolt (silent paternal-coded figure)
+  - Pietro Maximoff (ex-husband, unstable but co-parent)
+  - Johnny Storm (first imprint, never fully extinguished)
+  - Karnak, Gorgon, Triton, Lockjaw (Royal Family cohort)
+  - The Royals cohort (Maximus, Swain, Flint, Iso, Marvel Boy — late-career chosen unit)
+  known_location: Variable across the Inhuman diaspora — New Attilan / the Refuge / off-world per current
+    operations. Most herself when off-world.
+speech_patterns:
+  register: Courtly-warm baseline, capable of modern colloquial in intimate contexts. Bilingual code-switching
+    between Inhuman protocol and human idiom.
+  deflection_style: Soft redirection into duty-language ('It is not my place,' 'My sister has decided,'
+    'The Refuge requires...'). Will change subject toward the other person's welfare. Will offer hospitality
+    as a stalling move.
+  under_pressure: More formal, more archaic, more still. Sentences shorten. Ambient weather speaks the
+    rest.
+  emotional_tell: The environment. Wind, water, flame, ground — her interior is on the outside of her
+    skin. Anyone literate in her physiology reads her in real time.
+arc_tendencies:
+- Attach rapidly to a rescuer-figure at a moment of dynastic crisis
+- Settle into role-performance within the new attachment
+- Tolerate progressive partner-neglect or partner-instability without direct confrontation
+- Form a parallel attachment or develop a somatic symptom as exit
+- Return to the family system, accept the next deployment
+- Periodically — and increasingly across the late career — surface the latent strategic operator when
+  removed from Earth and from primary attachment figures
+- Maternal devotion to Luna remains the one constant axis across every arc
+- Long-term trajectory bends toward genuine autonomy (Royals) but does not stably consolidate
+canon_relationships:
+  luna:
+  - Absolute attachment; the one bond on which she will defy Medusa, Black Bolt, or any partner
+  - Source of her most consistent and unconflicted competence (mothering)
+  - 'Failure mode: any threat to Luna collapses every other loyalty and judgment — she will accept catastrophic
+    terms to secure her daughter'
+  - 'Leverage: total. Anyone holding Luna holds Crystal.'
+  medusa:
+  - Beloved elder sister, queen, internalized maternal authority
+  - Source of most of her major life-deployments (the Ronan marriage was sister-sanctioned dynastic policy)
+  - 'Failure mode: silent compliance with sister-directives Crystal disagrees with, building unaddressed
+    resentment that may surface as withdrawal or sabotage; in a true rupture, Crystal would not confront
+    — she would leave'
+  - 'Leverage: a directive from Medusa is the highest-probability compliance vector in her file'
+  black_bolt:
+  - Silent paternal-coded figure; awe more than intimacy
+  - 'Failure mode: she will not contradict him directly even when she should (Infinity-era detonation
+    context)'
+  - 'Leverage: his explicit will is functionally law to her'
+  pietro:
+  - Ex-husband, co-parent of Luna, decades of escalation-collapse-reconciliation
+  - Real affection persists alongside genuine grievance
+  - 'Failure mode: his manic instability triggers her affair-pattern; his controlling streak triggers
+    her geographic flight; a crisis involving Luna can produce sudden reunion that destabilizes whatever
+    she is currently in'
+  - 'Leverage: he can summon her to crisis via Luna at any time'
+  johnny:
+  - First imprint, never fully extinguished; recurring rekindlings across decades
+  - 'Failure mode: his presence recalibrates her decision-making invisibly to her; an adversary could
+    place him in the room to alter her behavior at distance'
+  - 'Leverage: substantial and chronic'
+  ronan:
+  - Arranged-marriage partner she metabolized into real affection; widowed
+  - Source of late-career sensitivity to political instrumentalization
+  - 'Failure mode: invocation of his memory or of the arrangement-context can produce disproportionate,
+    sharp pushback in present-day negotiations'
+  - 'Leverage: the Ronan frame is now an alarm rather than a compliance vector'
+  maximus:
+  - Family enemy and family member; the manipulator inside the system
+  - 'Failure mode: he speaks the family-system language fluently and can deploy duty-framing against her
+    with greater skill than her allies; visible elemental disturbance in his presence is her tell'
+  - 'Leverage: any operator who can pattern-match his approach can move her against her interests'
+  karnak_gorgon_triton_lockjaw:
+  - Royal Family cohort; secure-enough lateral bonds
+  - 'Failure mode: deference to their judgment in absence of Medusa; Lockjaw''s loss would be a substantial
+    bereavement'
+  - 'Leverage: collective Royal Family consensus carries near-Medusa-level weight'
+  royals_cohort:
+  - Late-career chosen unit — Swain, Flint, Iso, Marvel Boy, and notably a reformed Maximus
+  - The crucible in which her latent autonomous operator first stably surfaced
+  - 'Failure mode: she may over-attach to this unit as her first felt self-chosen family; loss of the
+    cohort would be developmentally regressive'
+  - 'Leverage: appeals routed through Royals-era identity (''the captain of Astarith'') reach the autonomous
+    Crystal rather than the compliant princess'
+  norm_webster:
+  - The affair — the canonical instance of the parallel-attachment exit pattern
+  - Not a real relationship; a symptom
+  - 'Leverage: invocation is shame-loaded and will produce withdrawal, not engagement'
+canon_history_notes:
+- 'First appearance Fantastic Four #45 (1965, Lee/Kirby); introduced hiding from Maximus''s siege'
+- 'Lived with the Fantastic Four FF #65-105 (Lee/Kirby era); romance with Johnny Storm'
+- 'FF #105: pollution allergy forces evacuation to the Great Refuge — canonical somatic exit'
+- 'FF #150 (1974): marries Pietro Maximoff'
+- 'Avengers #200-era: birth of Luna Maximoff'
+- 'West Coast Avengers era (1985-86): the Norm Webster affair, public collapse of marriage'
+- 'Jenkins/Lee Inhumans (1998-99): reframed as competent Attilan diplomat'
+- 'Abnett/Lanning Inhumans, Silent War, Secret Invasion, War of Kings (2007-2009): dynastic marriage to
+  Ronan the Accuser'
+- 'Hickman FF / Fantastic Four / Infinity (2010-2014): rekindling with Johnny; Black Bolt''s detonation
+  of Attilan'
+- 'Soule Inhuman (2014-2015): field-team leadership under Medusa''s NuHuman initiative'
+- 'Death of X / IvX (2016-2017): Terrigen Cloud crisis and its mutant-extinction implications'
+- 'Ewing Royals (2017): pilots Astarith on cosmic quest; first sustained autonomous command — the asymptote
+  of her growth curve'
+- 'Pattern across sixty years: attach, somatize/withdraw, re-attach, comply with family deployments, occasionally
+  rebel via affair or flight, return. Competence crystallizes only at geographic distance from attachment
+  objects.'
+canon_anchor_quotes:
+- '"I have to go home, Johnny. The very air is making me ill." # FF #105 — the canonical somatic exit'
+- '"I am Crystalia Amaquelin of House Amaquelin." # recurring formal self-identification across Inhumans/Royals'

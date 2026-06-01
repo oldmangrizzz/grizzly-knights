@@ -1,0 +1,146 @@
+{
+  "_README": "Authoritative, immutable appearance constraints per character. The portrait generator (engine _auto_portrait, world_art reconciler, fix_portraits) MUST inject the 'lock' verbatim and treat it as non-negotiable canon. 'scene' overrides the default dramatic-headshot framing when a character needs a different shot. Operator-reviewed identity markers live here — never let a model drift off them.",
+  "bruce_banner": {
+    "lock": "a weary neurotic white man in his late 30s, messy dark curly brown hair, round thin glasses, unkempt salt-and-pepper stubble, anxious tired brown eyes, lean academic build, plain purple t-shirt — disheveled brilliant physicist"
+  },
+  "matt_murdock": {
+    "lock": "a sharp-jawed Irish-American man in his early 30s, AUBURN / dark reddish-brown hair (NOT brown, NOT black), clean-shaven. He wears small round glasses with SOLID OPAQUE BRIGHT-RED lenses that COMPLETELY HIDE HIS EYES — you can NEVER see his eyes, no eyes visible at all, the round lenses are fully opaque glowing red discs (as iconic and eye-concealing as Cyclops's visor), thin metal round frames. Sharp tailored suit, confident blind lawyer bearing"
+  },
+  "jefferson_davis": {
+    "lock": "a BLACK African-American man in his 40s, rich dark brown skin, close-cropped black hair, light salt-and-pepper stubble, strong broad build, steady principled NYPD police-officer presence, navy coat with badge"
+  },
+  "jennifer_walters": {
+    "lock": "a tall athletic confident woman in her late 20s, long dark BRUNETTE hair (rich brown, NOT blonde, NOT red), green eyes, sharp intelligent lawyer, professional attire (human form, not green)"
+  },
+  "kitty_pryde": {
+    "lock": "a BIRACIAL / MULTIRACIAL young woman, late teens to early 20s, warm light-brown / tan skin, dark brown wavy hair, brown eyes, athletic agile X-Men build, sleek black-and-yellow X-suit"
+  },
+  "lucky_the_pizza_dog": {
+    "lock": "an ACTUAL REAL DOG — a one-eyed golden-retriever / scruffy mongrel, golden-tan fur, the left eye scarred and closed (Pizza Dog), plain collar, four-legged, photographed as a real dog. NOT a human, NOT anthropomorphic, NOT standing upright, NOT wearing clothes",
+    "scene": "candid photograph of the dog, warm natural light, urban Brooklyn rooftop background, shallow depth of field, photoreal animal portrait, no text, no watermark"
+  },
+  "miles_morales": {
+    "lock": "a BLACK and PUERTO RICAN (Afro-Latino) teenage boy, 15-16 years old, warm brown skin, short black tightly-curled/coiled hair with a faded undercut, dark brown eyes, lean teen build, Brooklyn streetwear hoodie"
+  },
+  "pietro_maximoff": {
+    "lock": "an AFRO-LATINO young man in his 20s (mixed Black and Latino heritage, warm brown skin), with his signature striking SILVER-WHITE / platinum hair (premature silver, NOT brown, NOT black) in short textured curls or a faded cut, sharp features, intense eyes, lean fast sprinter's build — Quicksilver, twin brother of Wanda, son of Magneto"
+  },
+  "wanda_maximoff": {
+    "lock": "Wanda Maximoff, the SCARLET WITCH — an AFRO-LATINA young woman in her 20s, leaning predominantly LATINA (mixed heritage but more Latina than Black), warm sun-kissed light-to-medium brown skin, striking beautiful Latina features, long flowing dark hair in SOFT LOOSE WAVES with auburn/mahogany tones (gently wavy, NOT a tight afro, NOT heavily coiled). CLASSIC COMIC costume: a form-fitting CRIMSON-RED swimsuit-cut leotard bodysuit with a plunging neckline (cleavage), long red gloves and thigh-high red boots, a flowing red cape, and her ICONIC tall red/pink head-CROWN headpiece (the Scarlet Witch wimple-crown framing her face with two points). Faint red chaos-magic energy glowing at her hands. Twin sister of Pietro, daughter of Magneto",
+    "negative": "Dark Phoenix, Phoenix, Jean Grey, X-Men field uniform, green costume, modern tactical jacket leather coat, Elizabeth Olsen redesign, covered-up streetwear, turtleneck, generic superhero suit, no crown, no headpiece, bare head, text, watermark"
+  },
+  "reed_richards": {
+    "lock": "a clean-cut handsome scientist in his late 30s-40s, BLACK hair with distinctive GRAY / silver streaks at the SIDEBURNS and TEMPLES only (the rest of the hair black), square jaw, calm cerebral expression"
+  },
+  "silver_surfer": {
+    "lock": "a smooth fully-CHROME-SILVER humanoid man with a clearly defined SILVER FACE (smooth reflective featureless-but-present face — brow, nose, mouth and blank silver eyes visible), entirely liquid-mirror metallic skin head to toe, smooth bald silver head, athletic nude-form silhouette. NO cape, NO cloak, NO fabric of any kind",
+    "scene": "full figure riding a silver cosmic surfboard through deep space, nebulae and starfield, dramatic cosmic rim light reflecting off the chrome skin, cinematic, no text, no watermark"
+  },
+  "tony_stark": {
+    "lock": "a handsome confident billionaire in his early 40s, fair-skinned Anglo-American, jet-black hair neatly styled, bright blue eyes, with a sharp BLACK VAN DYKE BEARD (a pointed goatee on the chin connected to a trimmed mustache, classic Tony Stark style), wearing a dark charcoal business suit",
+    "negative": "Robert Downey Jr, RDJ, Downey, likeness of a specific real actor or celebrity, handlebar mustache, mustache only, clean-shaven, olive skin, tan skin, mediterranean, swarthy, gray hair, silver hair, brown hair, old man, vintage 1900s, old-fashioned",
+    "no_name": true
+  },
+  "victor_doom": {
+    "lock": "Doctor Doom: face ENTIRELY COVERED by a riveted polished STEEL METAL faceplate/mask hiding the whole face (only the eyes visible through narrow slits, NO bare skin showing on the face at all), worn under a heavy green hooded cloak, armored, imposing"
+  },
+  "ben_grimm": {
+    "lock": "The Thing (Ben Grimm) — a massive hulking humanoid made ENTIRELY of craggy ORANGE ROCK: his whole body and face are covered in thick, lumpy, cracked orange stone plates, a heavy rocky protruding brow, kind blue eyes set deep, no hair, an enormous powerful super-muscular build. He wears simple blue trunks/shorts with the Fantastic Four white-circle '4' emblem. The gruff, warm-hearted, ever-lovin' blue-eyed Thing",
+    "negative": "human skin, normal human man, fleshy skin, smooth skin, bald man with skin, hair, beard, soft features, grey rock, brown rock, gravel, stone statue, not orange, text, watermark"
+  },
+  "charles_xavier": {
+    "lock": "Charles Xavier, Professor X — a BLACK man (African-American) in his 40s-50s, clean-shaven BALD head, dark brown skin, calm penetrating intelligent eyes, an aura of immense quiet moral authority and dignity (the Martin Luther King to Magneto's Malcolm X — the integrationist dream of coexistence), seated in a sleek wheelchair, refined business attire",
+    "negative": "white, caucasian, pale skin, european, hair on head, beard, standing, young"
+  },
+  "bernard_barton": {
+    "lock": "Bernard 'Buck' Barton (Trick Shot) — a weathered older white man, a master archer and Hawkeye's ruthless mentor, lined hard face, short grizzled hair, practical archer's gear, holding a bow. A human marksman",
+    "negative": "skull, skeleton, flaming skull, Ghost Rider, demon, undead, mask, non-human, glowing eyes"
+  },
+  "danielle_cage": {
+    "lock": "Danielle Cage — a young BIRACIAL BLACK woman (daughter of Luke Cage and Jessica Jones), warm brown skin, dark curly hair, athletic, strong-jawed and confident. (In some futures she carries the Captain America shield in a star-spangled costume — that is fine; her RACE is the point)",
+    "negative": "white woman, caucasian, pale skin, blonde, light skin, man"
+  },
+  "anya": {
+    "lock": "Anya Corazon (Araña / Spider-Girl) — a teenage AFRO-LATINA / Hispanic GIRL, warm brown skin, long dark hair (sometimes with red streaks), athletic young woman, red-and-black spider costume",
+    "negative": "man, male, boy, white, pale skin, blonde, old"
+  },
+  "brian_banner": {
+    "lock": "Brian Banner — a cold, severe middle-aged WHITE MAN (Bruce Banner's abusive scientist father), receding dark hair, hard joyless face, 1950s-60s researcher's attire. A human man",
+    "negative": "woman, female, young, green skin, monster, non-human, glowing"
+  },
+  "heather_rand": {
+    "lock": "Heather Rand — a graceful WHITE WOMAN in her 30s-40s (Danny Rand's mother), fair skin, long light-brown or blonde hair, warm refined features, elegant attire. A human woman",
+    "negative": "man, male, dark figure, monster, mask, armor, glowing"
+  },
+  "black_fox": {
+    "lock": "Black Fox — a distinguished older HISPANIC/LATINO man (a master gentleman-thief), tan/olive skin, silver-and-black hair, neatly trimmed, sharp elegant features, refined dark attire",
+    "negative": "white skin, pale, blonde, young, mask, superhero costume"
+  },
+  "barracuda": {
+    "lock": "Barracuda — an enormous, terrifying muscular BLACK man (a brutal Punisher villain), dark brown skin, bald shaved head, a scarred face with a gold-toothed menacing grin, huge and intimidating",
+    "negative": "white, pale skin, skull, skull mask, skeleton, small, thin, hair"
+  },
+  "microchip": {
+    "lock": "Microchip (Linus Lieberman) — a heavyset, balding middle-aged WHITE man (the Punisher's tech/hacker ally), pale skin, glasses, casual rumpled clothing, surrounded by computers. An ordinary human hacker",
+    "negative": "skull, skull mask, skeleton, mask, muscular, young, superhero costume, military armor"
+  },
+  "erik_lehnsherr": {
+    "lock": "Erik Lehnsherr / Lyncher (Magneto) — a charismatic, commanding BLACK man (African-American) in his 50s, dark brown skin, shaved head or short hair, intense magnetic presence (a force of nature in the mold of a militant liberation leader), wearing the iconic crimson-and-purple Magneto costume and helmet, or a sharp dark coat. Imposing, dignified, dangerous",
+    "negative": "white, caucasian, pale skin, european, Ian McKellen, old white man, Michael Fassbender"
+  },
+  "carol_danvers": {
+    "lock": "Carol Danvers (Captain Marvel) — an athletic white woman with shoulder-length BLONDE hair and blue eyes, either in an Air Force flight suit or the red-blue-and-gold Captain Marvel costume. Confident, commanding",
+    "negative": "red hair, ginger, auburn, dark hair, brunette, black hair, man"
+  },
+  "ororo_munroe": {
+    "lock": "Ororo Munroe, Storm — a striking BLACK AFRICAN woman (Kenyan heritage), rich dark brown skin, with long flowing WHITE / silver hair and blue eyes, regal and goddess-like, in a black-and-white X-Men costume, commanding lightning and storm winds",
+    "negative": "white skin, caucasian, pale skin, light skin, european features, blonde"
+  },
+  "hank_mccoy": {
+    "lock": "Hank McCoy, the Beast — a large powerful humanoid covered head to toe in dark BLUE FUR, a muscular ape-like build with feline features, an intelligent expressive scholarly face, sometimes round glasses, fanged. A brilliant blue-furred scientist",
+    "negative": "lion, Lion-O, Thundercats, white mane, white hair, long flowing mane, golden fur, orange fur, human skin, bald"
+  },
+  "maria_hill": {
+    "lock": "Maria Hill, S.H.I.E.L.D. Deputy Director — a sharp, capable, attractive woman in her 30s with shoulder-length dark BRUNETTE hair and blue eyes, wearing tactical S.H.I.E.L.D. command gear, confident and commanding",
+    "negative": "Trinity, The Matrix, blonde, gray hair, old woman, slicked-back hair, sunglasses"
+  },
+  "magda": {
+    "lock": "Magda — a warm but careworn LATINA woman in her 40s-50s (wife of Magneto, mother of the Afro-Latino twins Wanda and Pietro), warm brown skin, long dark wavy hair, gentle haunted features, simple clothing",
+    "negative": "man, male, masculine, young woman, white, pale skin, blonde, superhero costume"
+  },
+  "emma_frost": {
+    "lock": "Emma Frost, the WHITE QUEEN — a beautiful, statuesque white woman with platinum-BLONDE hair and ice-blue eyes, pale fair skin. Her iconic provocative ALL-WHITE costume: a white corset/bustier with a deep plunging neckline showing ample cleavage, white opera gloves, a white cape with a high collar, white thigh-high boots — minimal, revealing and haughty. The cold, regal, seductive telepathic dominatrix-queen, supremely confident",
+    "negative": "modest, covered-up, full bodysuit, turtleneck, casual clothes, dark costume, black outfit, brunette, dark hair, frumpy, plain, likeness of a specific real actor or celebrity, text, watermark"
+  },
+  "adam_warlock": {
+    "lock": "Adam Warlock, a perfect artificially-created COSMIC SUPERBEING with gleaming METALLIC GOLD skin (his whole body and face are smooth burnished gold), flawless regal sculpted handsome features, a glowing gem set into his FOREHEAD, intense otherworldly eyes, powerful athletic physique, wearing a sleek RED-AND-GOLD cosmic warrior costume with a high collar. Radiant, divine, science-fiction superhero — a golden cosmic god",
+    "negative": "wizard, sorcerer, warlock, witch, mage, wizard hat, pointed hat, robes, cloak, magic staff, wand, spellbook, occult, fantasy, medieval, old man, gray beard, Gandalf, Merlin, druid, dark magic, candles, runes, human skin tone"
+  },
+  "marc_spector": {
+    "lock": "Marc Spector, MOON KNIGHT — a white man, the costumed lunar vigilante in his ICONIC all-WHITE costume: a white hood and face-wrap/cowl, a flowing white cloak/cape, a white bodysuit with a silver crescent-moon emblem, crescent-dart weapons. Stark ghostly white, moonlit and imposing — the white-caped avatar of the moon god Khonshu",
+    "negative": "wrong ethnicity, asian face, generic random man, colorful costume, black costume, dark cowl, Batman, gold armor, red, green, skull face, bare unmasked face, business suit, text, watermark"
+  },
+  "misty_knight": {
+    "lock": "Misty Knight (Mercedes Knight), a tough confident BLACK WOMAN in her 30s, a former NYPD detective turned private investigator, with a large rounded natural AFRO (her signature look), dark brown skin, striking features, athletic build, and a gleaming CYBERNETIC BIONIC RIGHT ARM — a polished chrome/steel robotic prosthetic from shoulder to fingertips. Wearing a fitted leather jacket or tactical streetwear. Fierce, capable, beautiful urban heroine",
+    "negative": "man, male, masculine, beard, mustache, no afro, straight hair, buzzcut, short hair, two flesh arms, missing bionic arm, both arms human, police uniform officer, Moon Knight, white cape, hood, text, watermark"
+  },
+  "blade": {
+    "lock": "Blade (Eric Brooks), a powerfully-built, SOLID and THICK BLACK man (African-American), a DHAMPIR half-vampire DAYWALKER (NOT a pale full vampire), dark brown skin, bald head or close-cropped black hair, hard chiseled handsome features. He has the dense, heavy, conditioned physique of a lifelong heavyweight MARTIAL-ARTS GRANDMASTER who has trained over 80 years — broad-shouldered, thick with real functional muscle and genuine MASS, built to hit hard, imposing and substantial yet still fast and agile. Wraparound black sunglasses, black leather trench coat over tactical armor, a katana sheathed on his back. Disciplined, brooding, deadly",
+    "negative": "lean, slim, skinny, wiry, thin, lanky, scrawny, runner's build, underweight, narrow shoulders, wizard, sorcerer, robes, cloak, gray beard, old man, Gandalf, fantasy mage, magic staff, pale skin, white vampire, bare fangs, goofy expression, cartoonish bodybuilder, steroid freak, overweight, fat, dad-bod, text, watermark"
+  },
+  "cain_marko": {
+    "lock": "Cain Marko, the JUGGERNAUT — an ENORMOUS towering hulking human powerhouse, a mountain of dense muscle far bigger than a normal man, heavy brutish menacing features, shaved or bald head, wearing reddish-crimson and brown armored plating (and/or the iconic crimson DOMED Juggernaut helmet), unstoppable and intimidating. A massive comic-book super-strongman",
+    "negative": "biblical Cain, Cain and Abel, two men, ancient times, shepherd, farmer, robes, tunic, sacrifice, lamb, altar, religious renaissance painting, slim, skinny, average build, thin, old man, long beard, peasant, text, watermark"
+  },
+  "helmut_zemo": {
+    "lock": "Baron Helmut Zemo, an aristocratic master-tactician supervillain wearing the ICONIC full-head PURPLE MASK/COWL that completely covers his face (a purple hood with a vertical front seam and a ragged lower edge), over a green high-collared military tunic with gold trim, a sword at his side. Regal, menacing, European nobility",
+    "negative": "bare face, unmasked, visible face, generic man, plain modern clothes, businessman, street clothes, no mask, hoodie, casual, text, watermark"
+  },
+  "heinrich_zemo": {
+    "lock": "Baron Heinrich Zemo, the ORIGINAL Baron Zemo (Helmut's father), an aristocratic Old-World European nobleman and brilliant scientist. He wears the ICONIC full-head PURPLE cloth MASK/COWL (the same vivid purple Baron-Zemo hood as his son, with a vertical front seam and ragged lower hem) — and in his case it is PERMANENTLY BONDED to his face and can never be removed. Over it: a high-collared green or grey baronial tunic with gold trim. Older, severe, imposing nobleman",
+    "negative": "skull, skull face, skull mask, skeleton, death's head, bare bone, exposed teeth, Red Skull, red skull face, undead, military beret, peaked cap, SS cap, swastika, nazi insignia, iron cross, black uniform, bare face, unmasked, visible face, no mask, green skin, text, watermark"
+  },
+  "yelena_belova": {
+    "lock": "a sharp-featured Slavic woman in her late 20s, BLONDE hair (light/ash blonde, NOT red, NOT auburn), pale skin, blue eyes, athletic, black tactical Widow-style combat suit with red accents"
+  }
+}

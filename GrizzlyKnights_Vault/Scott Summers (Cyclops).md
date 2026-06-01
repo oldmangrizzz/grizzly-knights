@@ -4864,7 +4864,7 @@ The file remains open.
 - Failure mode: if Jean is forced into the role of audience to his self-flagellation, or if she demands ordinary intimacy he cannot perform, the bond collapses into mutual idealization and mutual disappointment. Her death is also his organizing trauma; her resurrection is also his largest unprocessed event.
 - Leverage: invoking Jean is the single highest-bandwidth channel to his interior. Anyone who can credibly speak for her speaks past every defense he has.
 
-### Emma Frost
+### [[Emma Grace Frost (The White Queen)]]
 - Adult attachment proper; the only partner who refuses to mirror his idealization and names his defenses to his face.
 - Failure mode: if she ever weaponizes the diagnostic intimacy — uses what she knows against him in a public register — the trust collapses absolutely and in a single event. She knows this and has not done it.
 - Leverage: she is the only person whose access to his interior is voluntary on his part. To reach him through Emma you must first convince Emma, which is its own intelligence problem.
@@ -4894,12 +4894,12 @@ The file remains open.
 - Failure mode: if Cable holds him accountable for the hand-off in plain language, Scott has no defense and will not construct one.
 - Leverage: Cable speaks to Scott as a peer with standing he cannot refuse.
 
-### Rachel Summers
+### [[Rachel Anne Summers (Prestige / Mother Askani / Phoenix III / Hound N2-3175)]]
 - Daughter from an erased timeline; deferred paternal warmth, real duty.
 - Failure mode: Rachel's psychic perception of his interior is, like Emma's, intolerable if weaponized. She has restraint.
 - Leverage: Rachel can route around his defenses because she has read them from the inside.
 
-### Madelyne Pryor
+### [[Madelyne Jennifer Pryor (Goblin Queen / Red Queen)]]
 - Wife abandoned for the recovered lost object; clone of Jean; revealed-villain; dead. The single most damning datum in the file.
 - Failure mode: any return of Madelyne reactivates the most shameful behavioral episode of his life and produces visible decompensation.
 - Leverage: speak her name and watch the regulation drop one notch.
@@ -4909,7 +4909,7 @@ The file remains open.
 - Failure mode: Sinister-coded concealment by any authority triggers terminal trust-revocation.
 - Leverage: framing an adversary as Sinister-shaped activates preemptive lethal authorization.
 
-### Apocalypse
+### [[En Sabah Nur (Apocalypse)]]
 - Somatic violator; the figure who occupied his body and left him altered.
 - Failure mode: Apocalypse-coded ideology (extinction-frame ethics) is the specific lever that pulls Scott toward identification with the aggressor.
 - Leverage: Apocalypse-shaped arguments work on Scott precisely because they were already half-formed in him.

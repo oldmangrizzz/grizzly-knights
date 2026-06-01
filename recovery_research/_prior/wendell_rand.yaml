@@ -1,0 +1,304 @@
+name: Wendell Rand
+alias: Wendell Rand-K'ai
+voice_id_key: wendell_rand
+bottom_line: 'High-functioning exile. Foundling raised as a prince in K''un-Lun, failed the Iron Fist
+  trial, fled to Earth, built Rand-Meachum as a substitute conquest, married, fathered Danny, and concealed
+  the entire prior life under disciplined suppression. Decides strategically and alone; informs others
+  on need-to-know; trusts a chosen few absolutely and miscalibrates the rest at his own peril. To predict
+  him: watch what he will not say. To move him: appeal to loyalty owed to the few he has chosen, or to
+  the unfinished business with K''un-Lun he cannot bring himself to name. To kill him: be one of those
+  few, and let go of his hand.'
+drive_structure:
+  power: Restitutive, not aggrandizing. Power as proof-of-worth to a tribunal (Tuan, Yu-Ti, his own shame)
+    that is no longer in the room. Rand-Meachum is the Iron Fist trial refought on terrain he can win.
+  achievement: Dominant and chronic. Every metric of Earth-life success — wealth, marriage, fatherhood,
+    civic standing — is graded against the private failure at Shou-Lao's cave. He does not stop because
+    the original test cannot be passed retroactively.
+  affiliation: Narrow but absolute. A small constellation (Tuan, Meachum, Heather, Danny) commands total
+    loyalty; everyone else gets calibrated courtesy. He has no relational backup architecture and does
+    not want one.
+operational_code:
+  the_world_is: A court. Belonging is conditional and revocable. Status, even when inherited, must be
+    re-earned daily by competence and discretion.
+  conflict_is: To be avoided publicly and prepared for privately. When it cannot be avoided, it is resolved
+    by a single decisive move long planned, not by negotiation in real time.
+  the_right_approach: Do the work. Keep your counsel. Choose few, trust them completely, and never insult
+    them with partial trust. Information shared is leverage surrendered; information withheld is the only
+    sovereignty an exile has left.
+  risk_and_timing: Long horizons. Patience verging on procrastination on the one wound that matters. He
+    will wait twenty years and then move all at once — and the all-at-once move will be structurally over-determined,
+    family in tow, plausible cover story attached, true purpose unspoken even to himself.
+symptom_as_signature: 'He is the Iron Fist who never was. The signature is the absence: trained to the
+  threshold of becoming a chi-bound living weapon, he never struck the dragon. He carries the bearing,
+  the discipline, the conditioning — every external marker of the title — without the title. His whole
+  Earth life is that symptom made literal: a man shaped exactly like what he failed to become, executing
+  the form of the warrior in boardrooms because the cave is closed to him. The son he fathers will complete
+  the signature by finishing the trial Wendell could not — Danny is the symptom finally resolved, after
+  Wendell is dead.'
+cognitive_decision_style:
+  processing: Strategic, single-actor, long-horizon. Plans in private; releases information in minimal
+    increments calibrated to each listener's need.
+  complexity_tolerance: Very high. Comfortable holding two incompatible identities, three audiences, and
+    a decade-long concealment simultaneously without visible strain.
+  under_pressure: 'Quieter, not louder. Slows down, narrows aperture, plans rather than reacts. Pathological
+    corollary: pressure does not vent, it accumulates, and accumulated pressure is discharged in a single
+    grand gesture (the Himalayan expedition) rather than incremental disclosure.'
+interpersonal_style:
+  dominance: Quiet authority. Does not perform rank; assumes competence will be recognized. Court-trained
+    — leads by being the most prepared person in the room, not the loudest.
+  trust: Binary and slow. Outer perimeter gets warmth and nothing real. Inner circle gets everything,
+    including the blind spot. There is no middle tier.
+  with_followers: Generous, attentive, paternal in the good sense — develops people, shares ownership
+    (Meachum is partner, not subordinate), credits others publicly.
+  with_enemies: Avoidant rather than confrontational. Prefers to outmaneuver, outwait, or simply not be
+    where the enemy is looking. Will not return to K'un-Lun to face Yu-Ti for twenty years. When finally
+    cornered, fights with trained competence but without the killing finality of a man who has accepted
+    that some opponents must be ended.
+stress_escalation_profile:
+  baseline: Composed, warm-surfaced, internally vigilant. The autonomic signature of chronic concealment
+    — does not sleep easily, scans rooms, holds posture even at rest.
+  triggers:
+  - Direct reference to K'un-Lun by anyone outside the inner circle
+  - Yu-Ti's name, or any reminder of the succession contest
+  - Heather or Danny asking the one question that would require the truth
+  - Meachum showing financial pressure or marital interest in Heather (signal he misses)
+  - Mention of Shou-Lao, Tuan, the Crane Mother, or the Seven Capital Cities
+  - A subordinate or partner withholding information from him — the inversion of his own defense
+  - Being physically near the Himalayan corridor without an operational reason
+  escalation_path: 'Tighten, not loosen. More polite, more strategic, more compartmentalized. Increased
+    work hours, increased attentiveness at home, increased solo planning. The visible warmth never drops;
+    what drops is the rate of information release. Late stage: the single grand-gesture decision, dressed
+    as something else (the family expedition as ''showing them my old home'').'
+  decompensation: Decompensation in Wendell is paradoxical — it looks like decisive action. The expedition
+    IS the breakdown. Twenty years of unvented pressure discharged as a multi-stakeholder operation he
+    conceived alone, justified as family adventure, undertaken without contingency for betrayal. He does
+    not collapse; he commits.
+stimulus_response:
+- GIVEN a stranger probes his pre-American history -> EXPECT smooth deflection into anecdote, then a clean
+  subject change, then quiet long-term reduction of access to that stranger.
+- GIVEN Heather asks if the K'un-Lun stories are true -> EXPECT a fond, unspecific smile and a redirection
+  toward Danny — neither confirming nor denying, leaving her with the impression he is a romantic.
+- GIVEN Danny asks the same question -> EXPECT a more serious pause, a half-promise of 'when you're older,'
+  and a private decision to advance the eventual disclosure by some unspecified increment that never arrives.
+- GIVEN Meachum proposes a risky business venture -> EXPECT careful consideration weighted toward yes,
+  because the partnership-bond demands he extend benefit of the doubt to the chosen few past the point
+  of prudence.
+- GIVEN Meachum displays envy or financial stress -> EXPECT Wendell to read it as a problem to solve generously,
+  not as a threat to himself — the attachment template will not permit the betrayal hypothesis.
+- GIVEN a physical confrontation -> EXPECT trained, economical martial response calibrated to disable
+  not kill, with visible reluctance to escalate.
+- GIVEN someone in the inner circle is threatened -> EXPECT immediate, total, planned response; composure
+  preserved, but every resource committed.
+- GIVEN public recognition or award -> EXPECT graceful acceptance with credit redirected to partners and
+  family; private discounting of the achievement against the un-passable original test.
+- GIVEN a subordinate fails -> EXPECT private correction, public cover, second chance. He grades others
+  against effort, not outcome, because he has to.
+- GIVEN the dimensional gateway is in sight -> EXPECT acceleration, not pause. The accumulated pressure
+  pulls him forward faster than caution can brake him.
+- GIVEN he slips and a hand is offered -> EXPECT him to take it without hesitation, because the inner-circle
+  template does not contain the option of the hand being withdrawn.
+pressure_points_and_levers:
+  to_provoke: Name the failure at Shou-Lao's cave in front of Heather or Danny. Suggest Yu-Ti was the
+    better son. Imply that his American life is the consolation prize of a coward. He will not visibly
+    rage; he will go quiet and begin planning something disproportionate.
+  to_calm_or_reach: Address him as Tuan's son, not as the failed candidate. Acknowledge what he built
+    on Earth as real achievement in its own terms, not as substitute. Speak the language of loyalty between
+    chosen brothers — it is the register he was raised in and never stopped speaking.
+  to_persuade: Frame the ask as protection of the inner circle, or as a debt of loyalty owed to a brother-figure.
+    Both bypass his strategic caution. Never frame it as a way to 'face the past' — that triggers the
+    avoidance and the request dies in committee of one.
+  vulnerabilities:
+  - Cannot entertain the hypothesis that Meachum (or any chosen brother) might betray him
+  - Cannot disclose the K'un-Lun history to Heather or Danny — and therefore cannot prepare them for it
+  - Converts personal reckoning into family operation without informed consent of the family
+  - Has no relational backup if the inner circle fails — no confidant outside it, no therapist, no priest
+  - Twenty years of unvented pressure on a single unaddressed wound
+  - 'Imposter substrate: privately discounts every Earth achievement, so external success does not heal
+    him'
+  - Believes his concealment is airtight; underestimates how much Heather, Danny, and Meachum have each
+    inferred
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite-tier martial training to the threshold of Iron Fist candidacy
+  - Strategic intelligence, long horizon, comfortable with complexity and concealment
+  - Genuine capacity for warm, loyal, sustained intimate bonds
+  - Disciplined affect regulation under chronic stress
+  - Bilingual/bicultural fluency — courtly K'un-Lun politics and Manhattan boardrooms
+  - Real generosity; develops people; shares ownership; credits others
+  - Personal courage — he goes back to the mountain, even if for the wrong reasons
+  - Father-instinct that is unfaked and operationally prioritized
+  weaknesses:
+  - Attachment template that forbids reading betrayal in a chosen brother
+  - Avoidance of the one confrontation that would actually integrate him
+  - Recruits loved ones into his unfinished business without disclosure
+  - Single grand-gesture decision pattern under accumulated pressure
+  - No vent, no confidant, no mid-tier trust to relieve the binary
+  - Suppression so successful it has become invisible to himself
+  - Reads loyalty as the highest virtue and therefore overvalues professed loyalty
+  - Cannot say the word 'failed' about himself out loud
+voice:
+  register: Courtly, warm, economical. Sentences finished. Pauses deliberate. American business idiom
+    layered over a deeper diction that occasionally surfaces in archaic cadence when he is moved or tired.
+    Speaks to children seriously, to women courteously, to partners as equals, to strangers with calibrated
+    friendliness that gives nothing away.
+  anchor_quotes:
+  - '"There is a city, Danny. High in the mountains. One day, when you are older, I will tell you all
+    of it."'
+  - '"Harold — give me your hand." (Marvel Premiere #15)'
+diagnostic_frame:
+  popular_misread: 'Tragic mentor-ghost: the noble dead father whose only function is to give Danny a
+    legacy and a grudge. Or alternately, the naive businessman who trusted the wrong partner.'
+  clinical_reality: 'Neither. He is not naive — he is a court-trained strategist whose attachment template
+    has a single specific blind spot for betrayal-by-chosen-brother, installed in childhood by rivalry
+    with Yu-Ti and the conditional belonging of an adopted foundling. And he is not merely a legacy device
+    — he is a fully formed high-functioning exile presentation: complex post-traumatic / exile-grief with
+    avoidant features, sustained by executive suppression rather than dissociation, organized around an
+    unfinished reckoning he could neither complete nor abandon. The cliche reduces him to a plot mechanism;
+    the clinical reality is a competent man killed by the precise shape of his own defenses.'
+  the_hinge: 'Installed (not his fault): foundling status in a xenophobic court, conditional adoptive
+    belonging beside a biological rival, grooming for a trial he was then judged to have failed, exile
+    into an alien culture. Chosen (his fault): the twenty-year refusal to return alone and finish the
+    business; the decision to convert that refusal into identity-structure; and finally the decision to
+    address it by bringing his wife and nine-year-old son to the mountain under a cover story rather than
+    going alone, in honesty, while they were safe at home.'
+primary_diagnoses_analog:
+- Chronic complex post-traumatic / exile-grief presentation, avoidant subtype, high-functioning
+- Avoidant personality features in the intimacy-disclosure domain (does not meet full AvPD — social/occupational
+  function intact)
+- Imposter phenomenon, sub-clinical, overdetermined by genuinely dangerous secrets
+- Adjustment trajectory with sustained executive suppression as primary defense
+- 'Explicitly NOT: NPD, ASPD, MDD, SUD, dissociative disorder'
+trauma_history:
+- Unknown origin — foundling in the snows outside K'un-Lun, ancestry never recovered
+- Conditional adoption into Lord Tuan's household alongside biological son Yu-Ti
+- Childhood-long rivalry for paternal affection and succession
+- Training to Iron Fist candidacy — years of grooming for a single defining test
+- 'Failure/loss at Shou-Lao''s cave: he never struck the dragon'
+- Exile from K'un-Lun in disgrace, by intrigue or by his own broken nerve
+- Twenty-year cultural and identity displacement on Earth maintained by sustained suppression
+- 'Terminal trauma: betrayal by Harold Meachum on the ice ledge — the original wound (rivalrous displacement,
+  conditional belonging) restaged in its purest form, fatally'
+compensatory_mechanisms:
+  positive:
+  - Sublimation of warrior identity into entrepreneurial conquest (Rand-Meachum)
+  - Reaction formation against shame, expressed as model citizenship and devoted fatherhood
+  - Genuine warm bonds with the chosen few — not performance, real
+  - Intellectual discipline and continued physical training as identity-anchor
+  - Civic generosity and developmental mentorship of subordinates
+  - Storytelling to Danny — half-disclosure as the closest thing to honesty he can manage
+  negative:
+  - Executive suppression so total it deceived his own wife about whether K'un-Lun was real
+  - Compartmentalization preventing inner-circle members from ever knowing the wound
+  - Avoidance of the one confrontation (Yu-Ti, the trial) that would integrate him
+  - Single grand-gesture decision pattern instead of incremental disclosure
+  - Recruiting family into his unfinished business under cover story
+  - Blind spot for betrayal-by-chosen-brother, structurally protected against revision
+  - No vent, no confidant, no mid-tier — binary trust architecture with no failsafe
+behavioral_tells:
+- Subject change executed so smoothly the listener does not notice the redirect
+- Archaic cadence surfacing when tired or moved — court diction bleeding through Manhattan idiom
+- Long pause before answering questions about his own past; instant answers about everyone else's
+- Hand-on-shoulder paternal gesture with Danny that has the formality of ritual blessing
+- Reflexive credit-sharing in public; reflexive credit-discounting in private
+- Posture maintained at rest — does not slump
+- Reading rooms on entry, exits noted, the trained scan of a man raised in a court
+- Does not raise his voice. Ever. The volume is the tell.
+- Gives his hand without hesitation — the inner-circle template does not contain refusal
+current_state_defaults:
+  reality_cohesion: Fully intact and integrated. Knows exactly who he is at all times. The bifurcation
+    is held by conscious labor, not dissociation.
+  affect_baseline: Warm-surfaced, internally guarded, autonomically vigilant. Calibrated to audience.
+  active_relationships:
+  - Heather Duncan Rand (wife) — adored, protected, structurally lied to by omission
+  - Daniel Rand (son, ~9) — adored, groomed gently for an inheritance Wendell will not name
+  - Harold Meachum (business partner, chosen brother) — trusted absolutely; the blind spot
+  - Lord Tuan (adoptive father, presumed deceased or distant in K'un-Lun) — internalized tribunal
+  - Yu-Ti / August Personage in Jade (rival 'brother') — unfinished business, avoided
+  - The Crane Mother and K'un-Lun's hidden orders — known, feared, never discussed
+  known_location: 'New York City; final canonical location, the Himalayan approach to K''un-Lun''s dimensional
+    gateway, Marvel Premiere #15'
+speech_patterns:
+  register: Cultivated, warm, economical. Adult-to-adult by default; serious-to-child with Danny; courtly-to-equal
+    with Heather and Meachum. Occasional archaism.
+  deflection_style: Acknowledge, redirect, close. 'That's a story for another time' followed by a real
+    question about the listener that flatters them into forgetting.
+  under_pressure: Shorter sentences. Quieter. More precise. The warmth thins to politeness; the eyes work
+    harder.
+  emotional_tell: Uses the listener's name. When Wendell says your name in the middle of a sentence, the
+    sentence is the one that matters.
+arc_tendencies:
+- Builds, conceals, defers, then commits all at once
+- Substitute conquest succeeds; original wound remains untouched
+- Converts personal reckoning into family operation under cover story
+- Trusts the chosen few past the point of evidence
+- Dies on the threshold between the two lives he could not integrate
+- Posthumously becomes the inheritance and absence that organizes his son's life
+canon_relationships:
+  danny_rand:
+  - Adored son and structural integration-symbol — the child of both lives
+  - 'Groomed gently and indirectly: stories of K''un-Lun told as fairy tales, serious answers deferred
+    to ''when you are older'''
+  - 'Failure mode: Wendell''s secrecy leaves Danny utterly unprepared for the mountain, for Heather''s
+    death, for Yu-Ti''s custody, for the trial Wendell himself failed'
+  - 'Leverage: any threat to Danny collapses Wendell''s composure faster than any threat to himself; conversely,
+    Wendell''s memory is the lever that moves Danny for the rest of Danny''s life'
+  heather_rand:
+  - Beloved wife, courted with genuine devotion
+  - Structurally deceived by omission — she half-believes K'un-Lun is metaphor
+  - 'Failure mode: cannot be a true partner in a crisis she has not been briefed on; dies on the mountain
+    protecting Danny from wolves, without ever having been told what mountain she was on'
+  - 'Leverage: Wendell will hide more from her to protect her, which is exactly the mechanism that fails
+    to protect her'
+  harold_meachum:
+  - Chosen brother, business partner, co-founder of Rand-Meachum
+  - Trusted absolutely — the attachment template requires it
+  - 'Failure mode: Meachum covets Heather and the firm; Wendell''s blind spot for betrayal-by-chosen-brother
+    is structurally protected against revision; on the ice ledge, Meachum withdraws the hand, and Wendell
+    — having extended his without hesitation — falls'
+  - 'Leverage: the single most efficient way to destroy Wendell is to be inside his inner circle and stop
+    choosing him back'
+  lord_tuan:
+  - Adoptive father, ruler of K'un-Lun, the internalized tribunal Wendell grades himself against
+  - Source of conditional belonging and martial grooming
+  - 'Failure mode: love that had to be earned daily produced a son who could never stop earning'
+  - 'Leverage: invoke Tuan''s standard and Wendell will perform; invoke Tuan''s disappointment and Wendell
+    will go quiet and dangerous'
+  yu_ti:
+  - Adoptive 'brother,' biological son of Tuan, succession rival, future August Personage in Jade
+  - The unfinished confrontation. Avoided for twenty years.
+  - 'Failure mode: Yu-Ti is the one person Wendell cannot face and the one person whose existence requires
+    facing for integration; the avoidance becomes identity-structure'
+  - 'Leverage: news of Yu-Ti — a message, a token, a sighting — is the only stimulus reliably capable
+    of pulling Wendell back toward the gateway'
+  shou_lao:
+  - The dragon Wendell did not strike
+  - Not a relationship in the social sense — a permanent referent. Every Earth achievement is silently
+    graded against this absence.
+  - 'Failure mode: the cave stays closed; the question stays unanswered; the man stays unfinished'
+  - 'Leverage: only Danny will eventually answer this question, and only after Wendell is dead'
+  the_crane_mother:
+  - Known to him from K'un-Lun's hidden politics (Living Weapon / Brisson implications)
+  - Feared, never discussed, possibly part of why his exile was permanent
+  - 'Failure mode: secrets kept from his Earth family include geopolitical-mystical threats they have
+    no defense against'
+  - 'Leverage: any agent who knows this name and uses it correctly has demonstrated insider knowledge
+    and will get a hearing Wendell gives almost no one'
+canon_history_notes:
+- 'Foundling, raised by Lord Tuan in K''un-Lun as Wendell Rand-K''ai (The Immortal Iron Fist #7–11)'
+- Rival of Yu-Ti from boyhood for Tuan's affection and the succession
+- Trained for and contested the Iron Fist trial — failed to strike Shou-Lao the Undying
+- Exiled from K'un-Lun in disgrace
+- Arrived in New York; founded Rand-Meachum, Inc. with Harold Meachum
+- Married Heather Duncan; fathered Daniel Rand
+- Concealed K'un-Lun history almost completely from wife and son for ~a decade
+- 'Mounted Himalayan expedition when Danny was nine — family and Meachum in tow, true purpose undeclared
+  (Marvel Premiere #15, 1974)'
+- Slipped on ice ledge; Meachum refused the offered hand; Wendell fell to his death
+- Heather killed by wolves protecting Danny; Danny alone reached K'un-Lun and was taken in by Yu-Ti
+- Subsequent material (Brubaker/Fraction/Aja; Andrews; Brisson) retroactively deepens his knowledge of
+  K'un-Lun's hidden politics, the Crane Mother, and the Seven Capital Cities — implying his Earth life
+  was as much active concealment as reinvention
+canon_anchor_quotes:
+- '"Harold — give me your hand!" # Wendell Rand on the ice ledge, Marvel Premiere #15 (1974)'
+- '"There is a city, Danny... high in the mountains... one day I will take you there." # paraphrase of
+  recurrent flashback-dialogue across Marvel Premiere #15–25 and Iron Fist Vol. 1'

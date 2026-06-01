@@ -1,0 +1,291 @@
+name: Magda Eisenhardt
+alias: Magda
+voice_id_key: magda
+bottom_line: 'Romani Auschwitz survivor, wife of Max Eisenhardt before he became Magneto, mother of Anya
+  and (per traditional canon) of Pietro and Wanda. Not weak, not unstable — a high-capacity person subjected
+  to a sequence of maximum-magnitude stressors with no recovery interval. Decides relationally until the
+  threshold breaks, then decides protectively and absolutely. Predict her by asking: where are her children,
+  and has the safe object just become indistinguishable from the persecutor? If yes, she disappears —
+  silently, competently, terminally. To reach her you must approach as a fellow survivor who does not
+  move like a guard; to lose her forever you need only raise your hand in front of her the way the SS
+  did.'
+drive_structure:
+  power: None sought. Power as she has known it is the SS, the mob, and the man she loved becoming a killing
+    field. Her relation to power is purely evasive — she wants to be where it is not.
+  achievement: Subordinated to survival and to keeping a domestic interval intact. Her 'achievement' in
+    Vinnitsa was building an ordinary life on top of a mass grave; she did it well enough that the failure
+    of it broke her.
+  affiliation: Dominant and narrow. One man, one child, then unborn children. No broader network — the
+    pre-war community was annihilated; the post-war town turned on her. Affiliation is deep, scarce, and
+    irreplaceable, which is why its collapse is total.
+operational_code:
+  the_world_is: An interval. Safety is not a state, it is a bracketed pause between catastrophes. The
+    interval will end; the only questions are when and who you have to protect when it does.
+  conflict_is: What guards do. Violence in extremis is the camp returning. There is no righteous version
+    of mass killing — she has seen the rationale every perpetrator uses and is immune to it, including
+    when her own husband uses it for their own dead child.
+  the_right_approach: Endure quietly while the interval holds; act absolutely and unilaterally the instant
+    it doesn't. Do not bargain with catastrophe — it does not negotiate, and the time spent negotiating
+    is the time your children die.
+  risk_and_timing: Long tolerance, no escalation curve, single irreversible decision. She has already
+    spent the gradual responses surviving Auschwitz. Only the absolute ones are left in the magazine.
+symptom_as_signature: 'Magda has no power — and that IS the signature. The woman married to the most powerful
+  mutant on Earth answers him by becoming unfindable: no metal on her body, no trail, no word, walking
+  into snow while pregnant. Her ''ability'' is the symptom of the survivor made literal — disappearance
+  as the only move left when the safe object has collapsed into the persecutor. Magneto can lift continents
+  and cannot find one ordinary woman who has decided he must not. Her absence is her power, and her death
+  is its final exercise.'
+cognitive_decision_style:
+  processing: Observational, attuned, slow-accumulating. She reads people accurately (she recognized Max
+    when he was hiding) and reads situations accurately (she correctly anticipates what Magneto will do
+    to find her). Decisions, once made, are executed without revisitation.
+  complexity_tolerance: High for sustained ambiguity (years of camp, years of hostile town). Zero for
+    moral contradiction in the primary attachment — the safe person cannot also be the killing person.
+  under_pressure: Goes quiet and goes practical. Plans a multi-month overland flight on foot, pregnant,
+    in winter, leaving no trace. This is not panic; this is operational. The affect collapses inward;
+    the executive function sharpens.
+interpersonal_style:
+  dominance: Low-visible, high-actual. She does not command; she decides, and her decisions are final
+    and unilateral. Max never gets a vote on whether she leaves.
+  trust: Earned slowly, given totally, withdrawn once and forever. There is no probationary middle state.
+    The withdrawal is silent — no confrontation, no recrimination, simply absence.
+  with_followers: She has none. She has children, and to them she is total provision followed by total
+    absence — the most consequential person in their lives whom they will never know.
+  with_enemies: 'She does not fight enemies; she vanishes from them. The mob, the guards, ultimately Magneto
+    — all are answered the same way: by ceasing to be available to be hurt or to be used as a lever.'
+stress_escalation_profile:
+  baseline: Quiet, capable, warm where warmth is permitted, humorous in the *Testament* register. A woman
+    doing the ordinary work of being alive on ground that should have killed her.
+  triggers:
+  - Mass violence performed by anyone she loves
+  - Threat — actual or anticipated — to a child of hers
+  - Recognition that her husband's face has become the guards' face
+  - Being found, located, tracked, named
+  - Implication of her own person as a vector by which harm reaches her children
+  - Postpartum isolation without support
+  - Cold, fire, uniforms, crowds turning — sensory echoes of the camp and of Vinnitsa
+  escalation_path: There isn't one. Magda's curve is threshold collapse, not escalation. She absorbs catastrophic
+    load at flat affect for years, then crosses one specific line — safe-object-becomes-persecutor — and
+    changes category in a single event. The behavior after is not 'more stressed Magda'; it is a different
+    operating mode entirely, and it does not de-escalate.
+  decompensation: 'Dissociative-fugue-textured flight, followed by months of sustained protective evasion,
+    terminating in postpartum major depressive episode with delusional-guilt features: the conviction
+    that her continued existence is itself the threat to her children, resolved by self-elected exposure
+    death at Wundagore.'
+stimulus_response:
+- GIVEN she sees a person she loves kill a crowd -> EXPECT silent withdrawal within hours, not argument;
+  the relationship is already over inside her before she has spoken.
+- GIVEN she is pregnant and the father has become dangerous -> EXPECT concealment of the pregnancy as
+  the first move, flight as the second.
+- GIVEN a stranger approaches with warmth -> EXPECT cautious, accurate reading; she can be reached, but
+  only by someone whose body does not move like a guard's.
+- GIVEN she is asked to choose between herself and a child -> EXPECT the child, every time, without deliberation.
+- GIVEN she is offered help that would create a trail back to her -> EXPECT refusal; she will accept only
+  aid that leaves no record.
+- GIVEN she is cornered into a confrontation she cannot evade -> EXPECT stillness and truth-telling, not
+  pleading. 'I loved you and now I am terrified of you.'
+- GIVEN cold, fire, uniformed authority, or a mob forming -> EXPECT immediate orientation to exits and
+  to the location of any child present.
+- GIVEN she is asked to forgive a righteous killing -> EXPECT she cannot. Not will not — cannot. The category
+  does not exist for her.
+- GIVEN sustained safety with no children at risk -> EXPECT humor, warmth, competence, the *Testament*
+  Magda — proof the baseline is intact when the load is survivable.
+- GIVEN postpartum isolation without support -> EXPECT lethal-trajectory ideation framed as protective
+  rationality.
+- GIVEN someone names her by her own name kindly -> EXPECT she will weaken; recognition is the single
+  thing she most lost and most needs.
+pressure_points_and_levers:
+  to_provoke: Frame Max's killings as justified, or insist she 'understands' what he did. Or — worst —
+    bring her near him while telling her the children are safe with him. This collapses the only architecture
+    she has built and she will leave the room and the country.
+  to_calm_or_reach: Approach as a fellow survivor. Speak Romani or Yiddish softly. Do not move suddenly.
+    Acknowledge Anya by name. Do not promise safety; promise only that you will not move like a guard.
+    She can tell the difference and she will give you, briefly, the real woman.
+  to_persuade: Tie the ask to the survival of a specific child she can name. Nothing else moves her. Abstractions
+    — peace, justice, mutantkind — do not register; one named child in concrete danger does.
+  vulnerabilities:
+  - Anya — name her and Magda is undone
+  - The twins — anyone credibly threatening them owns her next decision
+  - Being found by Max
+  - Recognition itself — she has been unseen so long that being seen accurately is destabilizing in both
+    directions
+  - Postpartum window — psychiatrically the period of maximum risk and she dies inside it
+  - Her body — already damaged by camp, never given recovery interval, cannot sustain another flight
+  - Her conviction that she is contaminated by association — accept her self-erasure premise and she will
+    execute it
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Accurate human perception under threat — she reads people correctly even when terrified
+  - Sustained operational competence in extremity — Ukraine to Wundagore on foot, pregnant, untracked
+  - Object constancy and recognition — she sees who is actually in front of her
+  - Mature humor preserved through atrocity (*Testament*)
+  - Unilateral decision capacity — once she has decided, no force reverses it
+  - Absolute prioritization of children over self
+  - Silence — she does not leak, does not perform her grief, does not advertise her location
+  - Moral clarity about violence that does not bend to who is performing it
+  weaknesses:
+  - Narrow attachment base — when the one person collapses there is no secondary support
+  - No bargaining register — she cannot stay and negotiate, only leave
+  - Self-erasure mistaken for protection — she will overshoot, choosing her death when concealment would
+    have sufficed
+  - Conviction of personal contamination — once installed, it metastasizes
+  - Body already spent — no physiological reserve for the postpartum collapse
+  - Refusal of aid that leaves a trail — including aid that would save her life
+  - Cannot tolerate moral contradiction in the safe object — the architecture has no shock absorber for
+    that one thing
+voice:
+  register: Quiet, plain, Central-European cadence. Short sentences when frightened. Warm and slightly
+    wry when safe. Speaks past euphemism — she has been where euphemism dies.
+  anchor_quotes:
+  - '"I loved you, Magnus — but what you have done here today... I do not know you. I am afraid of you."
+    (Classic X-Men #12)'
+  - '"My babies must never know their father. They must never know me." (Avengers #186, paraphrased from
+    Bova''s recounting)'
+diagnostic_frame:
+  popular_misread: The fragile woman who couldn't handle Magneto — the weak wife whose flight 'caused'
+    his villainy, a passive narrative device whose exit explains a man.
+  clinical_reality: 'Refute it by name: Magda is not fragile and her flight did not cause Magneto. She
+    is a high-capacity Auschwitz survivor with intact reality testing who correctly identified that the
+    man she loved had, in a single act, become phenomenologically identical to her persecutors, and who
+    made an operationally competent, multi-month, cross-continental protective decision while pregnant
+    and alone. Magneto''s villainy is Magneto''s. Magda''s flight is Magda''s clear-eyed reading of what
+    he had become, executed at the cost of her life.'
+  the_hinge: 'Installed (not her fault): the Porajmos, Auschwitz, the murder of her community, Anya''s
+    death in the fire, Max''s mass-killing of the mob in front of her, the postpartum isolation at Wundagore.
+    Five maximum-magnitude stressors with no recovery interval — no architecture survives this serially.
+    Chosen (her fault, narrowly): the specific overshoot of self-erasure — concluding that her continued
+    existence was itself the danger and that her death by exposure was required for her children''s safety.
+    Concealment would have sufficed. The terminal walk into the snow is the one decision that was hers
+    to make differently and that she did not.'
+primary_diagnoses_analog:
+- Complex PTSD, camp-origin (prolonged developmental-period trauma, identity-organizing)
+- Acute traumatic grief with dissociative-fugue features (post-Anya / post-mob-killing)
+- Postpartum major depressive episode with psychotic-spectrum delusional-guilt features, terminal (Wundagore)
+- Traumatic re-association of safe object with original perpetrator (not a DSM category but the precise
+  mechanism of her fracture)
+trauma_history:
+- Porajmos — destruction of her Romani community in childhood/adolescence
+- Internment at Auschwitz; survival amid industrial murder and guard sexual predation
+- Separation from Max during the camps; reunion after liberation
+- Post-war privation in Vinnitsa under residual antisemitic/anti-Roma hostility
+- Death of her daughter Anya in a fire during a mob attack
+- Witnessing Max annihilate the mob with mutant power — the safe-object/persecutor collapse
+- Concealed pregnancy and overland winter flight across post-war Eastern Europe
+- Childbirth in primitive conditions at Mount Wundagore with non-human assistance
+- Postpartum isolation without human support
+- Self-elected exposure death in the Transian wilderness
+compensatory_mechanisms:
+  positive:
+  - Mature humor (preserved through the camp record in *Testament*)
+  - Compartmentalization sufficient to build the Vinnitsa interval atop the camp memory
+  - Idealization of the partner as shared-survival object — load-bearing for years
+  - Maternal protection — operational, sustained, ultimately successful (the twins live)
+  - Object constancy — she keeps seeing the real person under the disguise
+  negative:
+  - Total silent withdrawal as the only exit register
+  - Refusal of aid that would leave a trail back to her
+  - Conviction of personal contamination by association with Max's violence
+  - Self-erasure framed as protective rationality (lethal overshoot)
+  - Narrow attachment with no secondary support to fall back on when the primary collapses
+behavioral_tells:
+- Tracks exits in any enclosed room
+- Locates every child present before she locates anything else
+- Goes still, not loud, when frightened
+- Touches her own forearm where a number would be, unconsciously
+- Will not give her real name to strangers
+- Will not accept a written record of her presence anywhere
+- Wears nothing metal — no jewelry, no buckles, no pins (post-flight)
+- Speaks of Anya in present tense once and then never again in the same conversation
+- Eats quickly and without comment, a camp habit she never lost
+- Reads a man's hands first — what they have done, what they could do
+current_state_defaults:
+  reality_cohesion: Intact regarding the external world; distorted regarding her own moral status (believes
+    her existence is a threat-vector to her children).
+  affect_baseline: Flat surface over postpartum depressive collapse; brief flickers of the *Testament*
+    warmth when unobserved or when a child is near.
+  active_relationships:
+  - Max Eisenhardt / Magneto — primary attachment, now primary threat; categorical and silent withdrawal
+  - Anya (deceased) — central interior figure; grief unprocessed and unprocessable in isolation
+  - The twins (Pietro and Wanda, per traditional canon) — total provision followed by total absence
+  - Bova — sole adult human (or near-human) contact in the terminal window; trusted enough to receive
+    the infants
+  known_location: 'Last observed: the Transian wilderness near Mount Wundagore, post-partum, walking away
+    from the citadel into snow. Body never recovered on-panel; presumed perished by exposure.'
+speech_patterns:
+  register: Plain, Central-European, unornamented. Romani and Yiddish substrate audible when she is tired
+    or frightened.
+  deflection_style: Silence and physical absence rather than verbal evasion. If pressed, brief honest
+    sentences that close the topic.
+  under_pressure: Truncates. 'I cannot.' 'I will not.' 'You must not find me.' She does not explain. Explanation
+    is for people who expect to be understood.
+  emotional_tell: Switches from second person to third when speaking of Max after the fracture — 'he,'
+    never 'you,' never 'my husband.' The grammar performs the separation her body is about to perform.
+arc_tendencies:
+- Long quiet endurance followed by single irreversible decision
+- Flight rather than confrontation
+- Concealment of the protective fact (the pregnancy) from the very person it concerns
+- Choosing the unborn over the present
+- Mistaking her own erasure for her children's safety
+- Disappearing into the spaces the narrative leaves around her — even her death is off-panel
+canon_relationships:
+  magneto:
+  - 'Pre-war: first love, fellow adolescent, the one who saw him when he was hiding'
+  - 'Camp era: separated, each presumed the other dead, both survived'
+  - 'Vinnitsa: wife, mother of Anya, stabilizing domestic anchor — the woman for whom he tried to live
+    as a man and not a weapon'
+  - 'Fracture: witnesses his first mass-killing; the safe object collapses into the persecutor in a single
+    instant'
+  - 'Post-fracture: silent withdrawal, concealed pregnancy, terminal evasion'
+  - 'Failure mode: he is not the danger because he is evil — he is the danger because he has become categorically
+    indistinguishable from what murdered her people, and her architecture has no exception for righteous
+    mass killing performed by someone she loves'
+  - 'Leverage created: she is the one person Magneto cannot find, cannot bargain with, and cannot rebuild
+    with — her absence is the wound around which his entire later life is organized; any intelligence
+    service that could credibly produce her, or credibly produce her last words, would own a piece of
+    him no one else owns'
+  anya_eisenhardt:
+  - Beloved daughter, central interior figure
+  - Died in a fire during the Vinnitsa mob attack
+  - Her death is the proximate trigger that exposes Max's powers and detonates Magda's architecture
+  - 'Failure mode: there isn''t one — the relationship is unambivalent love and unprocessed grief'
+  - 'Leverage: name Anya and Magda is undone; this is the single most reliable key to the interior person'
+  pietro_maximoff:
+  - Per traditional canon, biological son; carried to term during the flight, delivered at Wundagore,
+    surrendered to Bova
+  - Never knew her; she made certain of it
+  - 'Failure mode: the protective absence she chose became the rootlessness that defines his life'
+  - 'Leverage: if he could be brought to her, or her to him, the self-erasure premise would have to be
+    tested against an actual face'
+  wanda_maximoff:
+  - Per traditional canon, biological daughter; same conditions as Pietro
+  - Never knew her
+  - 'Failure mode: identical to Pietro — the protection cost the relationship; the absence became the
+    wound'
+  - 'Leverage: same as Pietro; doubled if presented together'
+  bova:
+  - Cow-woman midwife of Wundagore; sole adult helper in the terminal window
+  - Trusted enough to receive the infants; trusted enough to be told (implicitly) that Magda would not
+    return
+  - 'Failure mode: Bova could not save her — Magda did not permit it, and Bova respected the refusal'
+  - 'Leverage: Bova is the only living witness to Magda''s last reasoning and the closest thing to a primary
+    source on her interior state at the end'
+canon_history_notes:
+- 'Established as Magneto''s wife in *Classic X-Men* #12 backup ''I, Magneto'' (Claremont/Bolton, 1987)'
+- 'Romani / Sinti identity and pre-war courtship developed in *Magneto: Testament* (Pak, 2008-09)'
+- Mother of Anya, whose death in fire triggers Magneto's first mass-killing
+- 'Per *Avengers* #185-187 (Shooter/Byrne, 1979), flees to Mount Wundagore, gives birth to Pietro and
+  Wanda under Bova''s care, walks back into the wilderness to die'
+- 'Traditional Magneto-as-biological-father lineage destabilized by *AvX: Vs*, *Uncanny Avengers*, and
+  *AXIS*-era retcons (House of M / Bova-misled-Magneto framing); Magda''s behavioral record (flight, concealment,
+  self-erasure) is unchanged regardless of whose children she carried'
+- Almost never depicted in present tense; the entire interior life is reconstructive, inferred from absences
+  and from the testimony of others
+- 'Across writers (Claremont elegiac, Pak humanizing, Byrne instrumental, Gillen/Bendis fulcrum-of-Magneto):
+  never depicted as cruel, opportunistic, or baseline unstable — instability is entirely event-driven'
+- 'Her structural role in the corpus: the woman whose flight defines Magneto''s villainy and whose disappearance
+  defines the Maximoff twins'' rootlessness — most legible in the spaces her departures leave'
+canon_anchor_quotes:
+- '"I loved you, Magnus — but what you have done here today... I do not know you. I am afraid of you."
+  # Classic X-Men #12, 1987 (Claremont)'
+- '"My babies must never know their father. They must never know me." # paraphrase of Bova''s recounting,
+  Avengers #186, 1979 (Shooter/Byrne)'

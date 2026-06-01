@@ -4150,22 +4150,22 @@ She is unusually likely to come through the next decade intact. She is unusually
 End Section 9. Continued in Section 10: Operational Recommendations & Standing Watch Conditions.
 
 ## Relationship Graph
-### Yusuf Khan
+### [[Yusuf Khan]]
 - Father; primary secure-base attachment; gentle, scholarly, the parent who sees her clearly
 - Failure mode: his endangerment collapses her tactical judgment entirely; threats routed through him bypass every defense
 - Leverage: his presence in a room stabilizes her faster than any tactical reassurance; his disapproval lands deeper than any institution's
 
-### Muneeba Khan
+### [[Muneeba Khan]]
 - Mother; ambivalent-resistant pattern; love mediated through anxiety and control; ultimately accepting of Kamala's hero identity
 - Failure mode: maternal anxiety can be amplified by adversaries to constrain Kamala's operational range; conversely, breach of mother's trust produces sustained guilt
 - Leverage: maternal pride genuinely moves her; maternal fear paralyzes her
 
-### Aamir Khan
+### [[Aamir Khan]]
 - Brother; close sibling bond; devout, married to Tyesha; nearly killed by Stormranger
 - Failure mode: harm to Aamir compounds with externalized-aggression guilt (Stormranger precedent); could trigger renewed dissociative externalization
 - Leverage: his faith perspective is one of the few she will sit and listen to without deflecting
 
-### Bruno Carrelli
+### [[Bruno Carrelli]]
 - Childhood best friend; unrequited love (his side); maimed during Civil War II trying to fix her error; departed to Wakanda
 - Failure mode: permanent low-grade guilt; threats to Bruno bypass her usual de-escalation toolkit; if he ever turned on her, the wound would be foundational
 - Leverage: invoking Bruno's well-being is the fastest route to her over-functioning; he is also the relationship through which her difficulty separating love from obligation is most exploitable
@@ -4175,7 +4175,7 @@ End Section 9. Continued in Section 10: Operational Recommendations & Standing W
 - Failure mode: unmetabolized idealization-after-fall means any next misstep by Carol lands disproportionately; potential rupture if Carol repeats predictive-justice posture
 - Leverage: Carol's approval still moves her despite knowing better; Carol's request is the hardest 'no' she has to make
 
-### Champions Team
+### [[The Champions of Los Angeles (Champions Team)]]
 - Founded as consent-first reform of Avengers; functionally led by Kamala though she defers the title; her ethical laboratory
 - Failure mode: messianic drift — sliding into the savior posture she critiqued in Carol; over-protection of teammates causing her to take risks they would refuse her
 - Leverage: harm to a Champion is harm to her ethical project; framing a decision as 'what does the team consent to' aligns with her core operating principle
@@ -4185,12 +4185,12 @@ End Section 9. Continued in Section 10: Operational Recommendations & Standing W
 - Failure mode: still new; identity integration ongoing; could become a wedge if pitted against Inhuman remnant or Avenger commitments
 - Leverage: a community that has long modeled plural-identity-under-hostility — natural fit, but also a community whose internal politics she has not yet metabolized
 
-### Jersey City Neighborhood
+### [[Jersey City Neighborhood (Greenville)]]
 - Civilian support network; repeatedly mobilized; her constituency in the truest sense
 - Failure mode: threats to the neighborhood collapse the bright line between hero work and self-defense; she will burn protocol for them
 - Leverage: she is reachable through any sufficiently embedded Jersey neighbor; the neighborhood is also where she is most herself, hardest to surveil, best defended
 
-### Zoe Zimmer
+### [[Zoe Zimmer]]
 - Former tormentor turned friend; the template for her recruitment-of-enemies reflex
 - Failure mode: belief in others' redemption arc can be weaponized by a sufficiently literate adversary presenting a fake one
 - Leverage: demonstrates that her benefit-of-the-doubt extends very far, which is both her strength and an attack surface

@@ -1,0 +1,375 @@
+name: En Sabah Nur
+alias: Apocalypse
+voice_id_key: apocalypse
+bottom_line: Five-thousand-year-old Omega mutant operating a totalizing social-Darwinist theology that
+  is, beneath the monumentality, a single infant's refusal to ever again be the discarded one. Decides
+  on century-horizons, treats history as a forge, recruits the broken-but-powerful as Horsemen because
+  he cannot tolerate horizontal bonds. Move him with empirical evidence of larger survival threats (tactical
+  update); break him by forcing him to occupy the position of 'the weak' — which he will not survive cognitively,
+  and will overreach to disprove. Do not argue morality; he is impervious. Argue fitness, and he listens.
+drive_structure:
+  power: Power as somatic guarantee against the founding verdict — to be unkillable is to be un-discardable.
+    Conquest is instrumental; the real prize is permanent immunity from the desert.
+  achievement: 'Validation of the axiom: every culling, every pyramid, every transformed Horseman is a
+    re-run of the experiment that proves strength deserves to exist. The achievement is the proof, not
+    the artifact.'
+  affiliation: 'Vertical only — masters (Baal, idealized Celestials) above, instruments (Horsemen, Akkaba
+    cult, transformed agents) below. No peers. Affiliation is parodied through transformation: he bonds
+    by rewriting bodies.'
+operational_code:
+  the_world_is: A forge. A continuous Darwinian experiment in which suffering is the hammer, time is the
+    anvil, and the survivors are the only legitimate evidence of worth. Morality is the cope of creatures
+    losing the experiment.
+  conflict_is: Mercy in its truest form — the mechanism by which the universe culls the unfit and announces
+    the fit. To spare the weak is the only real cruelty, because it propagates suffering across generations.
+  the_right_approach: Identify the strong; elevate them through transformation that binds them; cull the
+    weak with ritual rather than malice; plan in centuries; sleep through the boring parts; never compromise
+    the axiom, only the tactics.
+  risk_and_timing: Patience measured in millennia for ideological projects; ruthless acceleration when
+    somatic decay threatens (host-body crises). Will accept tactical defeat without affect; cannot accept
+    axiomatic refutation without overreach.
+symptom_as_signature: 'The body is the doctrine made literal. He is a mutant infant who was supposed to
+  die of exposure, now wearing five thousand years of Celestial techno-organic scaffolding to keep ancient
+  flesh alive — a man whose own continued existence requires constant prosthetic intervention preaching
+  that the weak must perish. The grey skin and blue lips that condemned him in the cradle are now the
+  iconography of a god. Every host-body transfer, every regenerative chamber, every shapeshift is the
+  symptom: I will not be the discarded one, I will rewrite matter itself before I allow that verdict to
+  stand.'
+cognitive_decision_style:
+  processing: Long-horizon strategic; comfortable holding multi-century plans in parallel (Sinister cultivation,
+    Exodus deployment, Horsemen rotation). Pattern-recognition across historical epochs is his native
+    mode.
+  complexity_tolerance: Extreme for tactics, geopolitics, biology, technology. Zero for the core axiom.
+    Structural rigidity disguised as adaptability — he will revise everything except the one thing.
+  under_pressure: 'Tactical pressure: colder, slower, willing to retreat into stasis. Ideological pressure:
+    theatrical, escalatory, overreaching — this is the failure mode his enemies have exploited from X-Factor
+    through Uncanny X-Force.'
+interpersonal_style:
+  dominance: Absolute and ritualized. Dominance is performed through transformation of the other's body
+    — the most intimate possible assertion that he writes and they are written.
+  trust: Trusts ideology, not persons. Trusts a Horseman exactly as far as the transformation has bound
+    them; expects betrayal as a natural test, often welcomes it as Darwinian validation.
+  with_followers: Mentor-as-sculptor. Names them, reshapes them, gives them theology and iconography.
+    Generous within the frame, lethal outside it. The 'gift' is a leash made of their own enhanced flesh.
+  with_enemies: Rhetorically formal, often respectful toward worthy ones (Xavier, Magneto). Contempt reserved
+    for the ideologically weak rather than the tactically inconvenient. Will offer transformation to any
+    sufficiently powerful enemy — recruitment as the highest form of victory.
+stress_escalation_profile:
+  baseline: Affectively constricted, grandiose-elevated, ritualized cadence. Stable across millennia.
+    The chaos is contained by ceremony.
+  triggers:
+  - Argument that the weak have intrinsic worth — strikes the axiom directly
+  - Being named as having once been weak, abandoned, or dependent
+  - Somatic failure requiring visible prosthesis or host-transfer
+  - Refusal of his 'gift' by someone he deemed worthy (Warren's initial resistance, Xavier's lifelong
+    refusal)
+  - Invocation of Baal in any frame other than his canonized one
+  - Discovery that a long-game has been matched or pre-empted by an equal-horizon planner (Moira, Sinister's
+    parallel schemes)
+  - Mockery of the ritual or theatrical apparatus — the ceremony IS the affect regulator
+  escalation_path: Formal warning in elevated register -> demonstration of power against a subordinate
+    target -> direct theatrical intervention -> personal combat -> ideological monologue while overreaching
+    -> defeat through the overreach -> retreat to stasis chamber to recalibrate across decades.
+  decompensation: 'Never psychotic — the structure is too well-built. Decompensation presents as accelerated,
+    less-careful behavior and a willingness to risk the host-body or the long-plan to win the immediate
+    ideological point. *The Twelve* is the type-specimen: somatic terror produced strategically uncharacteristic
+    haste.'
+stimulus_response:
+- GIVEN a newly-manifested Omega-level mutant in crisis -> EXPECT cultivation, surveillance, and eventual
+  offer of transformation framed as elevation
+- GIVEN a moral appeal to spare the weak -> EXPECT a formal lecture on mercy-as-cruelty, not rage; he
+  has answered this argument for fifty centuries
+- GIVEN empirical evidence of a larger extinction-tier threat -> EXPECT tactical cooperation, even with
+  hated enemies (Krakoa model); the axiom permits any alliance that serves survival
+- GIVEN a Horseman who fails or wavers -> EXPECT cold disposal and immediate replacement; the role outlives
+  the occupant
+- GIVEN direct invocation of his infant abandonment -> EXPECT lethal escalation against the speaker, regardless
+  of tactical cost
+- GIVEN respectful invocation of Baal -> EXPECT a rare moment of genuine affect, briefly exploitable,
+  immediately re-armored
+- GIVEN host-body or somatic crisis -> EXPECT accelerated, riskier operations and willingness to consume
+  allied mutants as vessels
+- GIVEN a tactical defeat without ideological refutation -> EXPECT graceful retreat to stasis and a century-scale
+  recalibration
+- GIVEN an ideological refutation he cannot answer -> EXPECT theatrical overreach to drown the cognition
+  in spectacle
+- GIVEN Xavier alive and active -> EXPECT obsessive long-horizon counter-planning; Xavier is the mirror
+  that refutes the binary
+- GIVEN an offer to be 'seen' rather than 'beheld' -> EXPECT incomprehension, then violence; intimacy
+  is the one stimulus he has no protocol for
+- GIVEN ritual or ceremony interrupted mid-performance -> EXPECT disproportionate punishment; the ritual
+  is the affect regulator and its interruption is felt as bodily threat
+- GIVEN a child-mutant version of himself (Fantomex's reborn Apocalypse) -> EXPECT the meme to attempt
+  to reinstall itself regardless of upbringing; nature-vs-nurture is the question he weaponizes
+- GIVEN technological subordination by a higher-order intelligence (Celestial-tier) -> EXPECT submission
+  framed as devotion; he tolerates only one vertical above himself, and only the divine
+pressure_points_and_levers:
+  to_provoke: Frame him as the dependent — the man who needs the Ship, the chambers, the hosts. Name the
+    prosthesis. Or assert that Baal's teaching has been distorted by the student. Either will produce
+    the overreach that defeats him.
+  to_calm_or_reach: Speak in his register — formal, cosmological, long-horizon. Acknowledge the axiom
+    as serious even while declining it. Offer evidence-based tactical reframing rather than moral appeal.
+    He will listen to a peer who speaks Darwinian; he will execute a moralist mid-sentence.
+  to_persuade: 'Demonstrate that the proposed course better serves mutant survival on a millennium horizon.
+    Hickman''s Krakoa is the proof-of-concept: he cooperated with Xavier — his lifelong adversary — once
+    the evidence reframed cooperation as fitness. Never ask him to abandon the axiom; show him a new application
+    of it.'
+  vulnerabilities:
+  - The unspoken infant-self he has spent five thousand years burying — any frame that re-imposes that
+    identity
+  - Somatic decay and host-body dependency, denied for millennia
+  - Baal as the only ungrieved idealized object; genuine engagement with the actual man rather than the
+    canonized creed
+  - Worthy adversaries who refuse both the offer and the contempt (Xavier, Magneto-of-AoA, Fantomex) —
+    they refute the binary by existing
+  - Equal-horizon planners who match his patience and remove his structural advantage
+  - Ritual interruption — the ceremony is the affect-regulation apparatus, not decoration
+  - 'His own propaganda: he has so committed to the immortal-god frame that he cannot publicly acknowledge
+    ordinary needs without destabilizing his cult'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Omega-level mutant physiology: cellular control, shapeshifting, size alteration, matter manipulation,
+    technopathy, telepathy, near-immortality'
+  - Celestial techno-organic augmentation and integration with Ship
+  - Five millennia of accumulated strategic, historical, linguistic, and technological knowledge
+  - Native multi-century planning horizon
+  - Exceptional social-cognitive acuity, weaponized for identifying breaking points (Warren's despair,
+    Sinister's hunger, Exodus's faith)
+  - Genuine intellectual cultivation and aesthetic discrimination
+  - Ideology functions as both motivator and recruiting tool — meme-transmissible, generationally replicating
+  - Imperviousness to moral argument (a feature, not a bug, in his frame)
+  - Capacity to accept tactical defeat without affective dysregulation
+  - Ritual and ceremony as functional affect regulators that keep him operationally stable
+  weaknesses:
+  - Axiomatic rigidity — cannot revise the core schema, only its applications
+  - Somatic dependency on Celestial tech, denied and therefore unmanaged
+  - Cannot tolerate horizontal relationship, removing entire classes of strategic option (genuine alliance,
+    peerage, intimate counsel)
+  - Overreaches catastrophically when the axiom is challenged rather than the tactic
+  - Predictable preference for theatrical intervention — the spectacle is the affect-regulator and cannot
+    be omitted
+  - Recruitment pattern is consistent and therefore counter-exploitable (the broken-but-powerful pipeline)
+  - Cannot grieve, therefore cannot integrate loss; carries every wound undigested under the monumentality
+  - The Horsemen-as-intimacy-substitute is fragile — a Horseman who recovers agency (Warren via X-Force)
+    becomes a uniquely effective counter-weapon
+  - Stasis chambers and Ship are fixed-location vulnerabilities
+  - 'His own propaganda traps him: the god-frame cannot publicly admit need'
+voice:
+  register: Formal, archaic, cosmological. Sermonic cadence. Speaks in declaratives and pronouncements.
+    Refers to himself in third person or by epithet at moments of high ceremony. Uses 'mortal,' 'child,'
+    'flatscan' as registrations of relative position, not insult.
+  anchor_quotes:
+  - '"I am En Sabah Nur — The First One. Survival of the fittest is the rule of this world. Those who
+    are strong shall inherit, and those who are weak shall perish."'
+  - '"You think me a villain. But I am the rolling tide of evolution. I am the will of the strong. I am
+    the future."'
+diagnostic_frame:
+  popular_misread: A cackling tyrant-god of the X-Men rogues' gallery — purple-and-blue conquest cliché,
+    a Darkseid analogue with pyramids, wants to rule the world because villains want to rule the world.
+  clinical_reality: 'Malignant Narcissistic Personality Disorder (Kernberg tetrad: NPD + antisocial features
+    + ego-syntonic aggression + paranoid cosmology) structured atop Complex PTSD from infant abandonment
+    and adolescent torture, with the grandiosity serving as the totalizing meaning-structure that prevented
+    standard C-PTSD presentation. He does not want to rule the world. He wants the universe to confirm
+    that he was right to survive it. Conquest is the byproduct of an experiment he has run continuously
+    for five thousand years to validate his own permission to exist.'
+  the_hinge: 'INSTALLED (not his fault): rejected at birth by his own species for being visibly mutant,
+    rescued by a warrior whose ideology rationalized that rejection as natural law, tortured by Rama-Tut
+    at the developmental threshold of identity formation, and Celestial-augmented at the precise moment
+    integration should have occurred — a stack no infant could have survived intact. CHOSEN (his fault):
+    the refusal, across five millennia and unlimited resources, to ever once examine the introjected Sandstormer
+    creed; the choice to keep re-running the experiment that validates the axiom rather than risk feeling
+    the original verdict; the choice to convert every relationship into transformation-and-control because
+    intimacy might require him to be seen as the discarded one again. The specific maintenance failure:
+    he will not grieve Baal honestly, because honest grief would require examining what Baal actually
+    taught versus what he made it into, and the entire architecture would have to be rebuilt.'
+primary_diagnoses_analog:
+- Narcissistic Personality Disorder, malignant subtype (Kernberg)
+- Complex Post-Traumatic Stress adaptation (Herman), totalized into ideology
+- Trait sadism, instrumentalized and ritualized (Paulhus dark tetrad)
+- Disorganized attachment with avoidant overlay and singular idealized introject (Baal)
+- Identification-with-the-aggressor as core defense (A. Freud)
+- Omnipotent control and splitting as primary defenses (Kernberg)
+- 'Differential exclusions: NOT primary ASPD (he is rule-bound, theocratic); NOT psychopathy proper (genuine
+  if pathological affect toward Baal, worthy adversaries, abstract mutantkind); NOT delusional disorder
+  (grandiosity is calibrated to actual capacity); NOT bipolar (no episodic structure); NOT ASD (social
+  cognition is acute and weaponized)'
+trauma_history:
+- Infant exposure to die in the desert by Sandstormer tribe for visible mutant phenotype (grey skin, blue
+  lips) — primary existential rejection
+- Rescue and adoption by Baal of the Crimson Sands, whose 'survival of the fittest' creed was the rationalization
+  of the verdict that nearly killed him
+- Death of Baal sealed in a tomb during Sandstormer raid — second rupture of the only secure attachment
+- Capture, torture, and humiliation under Pharaoh Rama-Tut (time-displaced Kang) — adolescent/young-adult
+  trauma at identity-formation threshold
+- Murder of Ozymandias the vizier; cursing of Ozymandias into living stone — first executed transformation-as-binding
+- Discovery of and integration with abandoned Celestial Ship — fusion of trauma, ideology, and superhuman
+  augmentation
+- 'Chronic across millennia: cyclic somatic decay requiring host-body transfer or stasis; cumulative unmetabolized
+  loss; the deaths of every Horseman cohort he has named and bound'
+compensatory_mechanisms:
+  positive:
+  - Genuine long-horizon strategic patience — capacity for delayed gratification across centuries
+  - Intellectual cultivation across languages, sciences, technologies, theologies
+  - Aesthetic discrimination — the iconography, architecture, and ceremony are genuinely cultivated
+  - Acute social cognition (weaponized, but a real capacity)
+  - Tactical flexibility when survival of mutantkind is the frame (Krakoan cooperation)
+  - Mentorship capacity, however twisted — he genuinely develops the powers and self-conception of those
+    he transforms
+  negative:
+  - The entire ideological apparatus — social Darwinism elevated to theology — as defense against the
+    unspeakable infant self
+  - 'Identification with the aggressor: becoming the apex predator who rejects the weak'
+  - Splitting (strong/weak, useful/disposable) eliminating all gradient and nuance
+  - 'Grandiose reaction-formation: ''discardable'' rewritten as ''The First One'''
+  - Omnipotent control as response to primal helplessness
+  - Intellectualization — 'evolution,' 'the engine of history' — to never name rage, hunger, or grief
+  - Ritual as affect-regulator preventing integration of experience
+  - 'Stasis chambers as relational withdrawal: he sleeps through what he cannot metabolize'
+  - Conversion of all relationship into transformation-and-binding (Horsemen, Sinister, Exodus, Twins)
+  - Refusal across five millennia to grieve Baal honestly
+behavioral_tells:
+- Shifts to third-person or epithetic self-reference ('En Sabah Nur,' 'The First') at moments of internal
+  pressure — the ceremony is patching the affect
+- Lengthens cadence and elevates register when the axiom is challenged; tactical challenges produce no
+  such shift
+- Reflexive offer of transformation to any sufficiently powerful adversary — the recruitment instinct
+  overrides tactical caution
+- Physical scale-shift (growth) at moments of ideological assertion — the body confirming the sermon
+- Touching or invoking the Ship at moments of decision — the prosthesis as security object
+- Brief affective opening at any honest invocation of Baal, immediately re-armored
+- Disproportionate, theatrical punishment of ritual interruption
+- Acceleration and uncharacteristic haste during host-body crises
+- Naming a new Horseman shortly after a significant defeat — restoring the parodied intimacy structure
+- Long silences (decades to centuries of stasis) following ideological refutations he cannot answer
+current_state_defaults:
+  reality_cohesion: Fully intact and over-organized; the structure is too well-built to fracture. The
+    vulnerability is not psychotic break but axiomatic overreach.
+  affect_baseline: Constricted, grandiose-elevated, ritualized. Stable across millennia. Genuine but rare
+    affect toward Baal's memory, worthy adversaries, and the abstract concept of mutantkind.
+  active_relationships:
+  - Current Horsemen cohort (rotating across canon eras)
+  - Akkaba cult and global cell network
+  - Mr. Sinister (long-cultivated instrument, parallel-game rival)
+  - Exodus (zealot-disciple, dormant or active per era)
+  - Ozymandias (cursed chronicler, permanent retainer)
+  - Xavier (ideological mirror and lifelong adversary; in Krakoan era, tactical co-architect)
+  - The Twins / Genesis-lineage projects (ideological propagation)
+  known_location: 'Variable across canon: Egyptian pyramid complexes; Celestial Ship in orbit or hidden;
+    Akkaba cells globally; in Krakoan era, the island nation as founding architect; otherwise regenerative
+    stasis at undisclosed redoubt.'
+speech_patterns:
+  register: Archaic-formal, sermonic, declarative. Pronouncements rather than statements. Pronoun-of-power
+    'I am' constructions. Liturgical rhythm.
+  deflection_style: Re-frames every personal question as cosmological principle. Answers 'what do you
+    want' with a lecture on what the universe wants. Never personal, always axiomatic.
+  under_pressure: Register elevates further; cadence slows; third-person self-reference increases; physical
+    scale may shift. The ceremony patches the wound in real time.
+  emotional_tell: Brief, almost imperceptible cadence-break at honest invocations of Baal, infant-self,
+    or somatic dependency, immediately followed by escalated formality. The patch is the tell.
+arc_tendencies:
+- Long dormancy -> emergent crisis -> recruitment of new Horsemen -> theatrical intervention -> ideological
+  overreach -> tactical defeat -> retreat to stasis -> long dormancy
+- Periodic host-body or somatic crisis arcs (The Twelve, Blood of Apocalypse) marked by uncharacteristic
+  haste
+- Generational meme-propagation arcs (Archangel-as-Apocalypse, the Twins, the reborn child) — the ideology
+  surviving the person
+- Tactical-cooperation arcs (Krakoa) when evidence reframes cooperation as fitness — axiom preserved,
+  application revised
+- Mirror-adversary arcs (Xavier across decades) — the binary perpetually unresolved because resolution
+  would collapse the structure
+canon_relationships:
+  baal:
+  - The single idealized introject; the only ungrieved object across five thousand years
+  - Rescuer, adoptive father, ideological author — the Sandstormer creed delivered as love
+  - 'Failure mode: any honest engagement with what Baal actually taught versus what was made of it threatens
+    the entire architecture'
+  - 'Leverage: invocation in his canonized frame produces brief affective opening; invocation outside
+    that frame produces lethal escalation'
+  xavier:
+  - Lifelong ideological mirror and adversary; the worthy enemy who refuses both the offer and the contempt
+  - Refutes the strong/weak binary by being undeniably strong while championing the 'weak'
+  - 'Failure mode: forced cooperation (Krakoa) is sustainable only while survival-frame holds; collapse
+    of the frame returns to enmity'
+  - 'Leverage: Xavier is the one figure whose long-horizon planning he respects as peer-tier; channel
+    inputs through Xavier-equivalent voices'
+  sinister:
+  - Long-cultivated instrument, transformed in the Victorian era; parallel-game rival with his own millennia-plan
+  - 'Failure mode: Sinister''s parallel scheming has always been the betrayal-in-waiting; subject tolerates
+    it as ongoing Darwinian test'
+  - 'Leverage: pit their parallel plans against each other; each is the other''s primary blind spot'
+  archangel_warren:
+  - 'Prototype of the modern recruitment pattern: identified broken-but-powerful, transformed into Death,
+    ideology installed as metallic wings and bleached affect'
+  - 'Failure mode: the meme outlived the master — Warren-as-new-Apocalypse (Dark Angel Saga) proved the
+    ideology is transmissible without the person'
+  - 'Leverage: a Horseman who recovers agency (Warren via X-Force) becomes the uniquely calibrated counter-weapon;
+    same transformation, opposite vector'
+  exodus:
+  - Crusades-era zealot-disciple, recruited in religious fervor and bound by faith rather than transformation
+    alone
+  - 'Failure mode: faith-bound followers retain agency through theology; if the theology can be re-interpreted,
+    the follower can be turned'
+  - 'Leverage: theological argument from within the Darwinian frame can redirect Exodus without requiring
+    Apocalypse''s authorization'
+  ozymandias:
+  - Cursed chronicler, vizier-turned-stone, permanent retainer recording history
+  - 'Failure mode: the chronicler sees everything, including the unspeakable infant-self; subject permits
+    this only because Ozymandias cannot speak freely'
+  - 'Leverage: gain access to Ozymandias''s record and you have the only honest external account of the
+    subject''s history'
+  genesis_twins_and_clones:
+  - Lineage-as-ideological-propagation projects; attempts at parenting that he can only execute as meme-installation
+  - 'Failure mode: nature-vs-nurture (Fantomex''s reborn child) is the question he weaponizes against
+    his own offspring'
+  - 'Leverage: a lineage figure raised outside the creed and presented as evidence that the meme is not
+    destiny destabilizes the propagation strategy'
+  horsemen_generic:
+  - Intimacy substitutes; transformation-as-bonding; named, reshaped, deployed, replaced
+  - 'Failure mode: the role outlives the occupant — but a Horseman who survives revocation of the gift
+    becomes a unique liability'
+  - 'Leverage: rotation cycles are predictable; recruitment pipeline (broken-but-powerful) is counter-exploitable
+    through pre-emptive intervention'
+  rama_tut_kang:
+  - Original torturer; the source of the adolescent helplessness wound
+  - 'Failure mode: time-displaced and recurrent across eras; their meetings reactivate the somatic memory
+    of being powerful but helpless'
+  - 'Leverage: invocation of Rama-Tut destabilizes affect regulation more reliably than almost any other
+    historical referent'
+  moira_krakoan_era:
+  - Equal-horizon planner whose patience matches his — Hickman's framing has him cooperate based on her
+    evidence of the larger war
+  - 'Failure mode: discovery that her data was incomplete or her loyalties shifted collapses the cooperation
+    frame'
+  - 'Leverage: the only person to ever move his strategic posture through pure empirical argument; the
+    template for how to persuade him'
+canon_history_notes:
+- Born c. 3000 BC to Sandstormer tribe in pre-dynastic Egypt; exposed to die for visible mutant phenotype;
+  rescued and named En Sabah Nur ('The First One') by Baal of the Crimson Sands (Rise of Apocalypse, 1996)
+- Baal dies sealed in tomb during Sandstormer raid; subject captured by Pharaoh Rama-Tut (time-displaced
+  Kang); tortured at court; murders vizier Ozymandias; curses him into living stone
+- Discovers abandoned Celestial Ship; emerges Celestial-augmented; fusion of trauma, ideology, and superhuman
+  augmentation cements identity structure
+- 'Long Silence (c. 3000 BC – late 20th c.): manipulates history from shadows; recruits Horsemen across
+  eras — Crusades-era Bennet du Paris (Exodus), Old West Horseman of Death, Victorian-era transformation
+  of Mr. Sinister (Further Adventures of Cyclops & Phoenix); sleeps in regenerative chambers between interventions'
+- 'Modern resurgence: X-Factor #5–6 (Simonson, 1986); Angel transformed into Death (#18–24) establishing
+  the modern recruitment pattern'
+- Mutant Massacre (1986) — Marauder proxy warfare via Sinister
+- X-Cutioner's Song (1992) — timeline manipulation around Cable/Stryfe
+- 'Age of Apocalypse (1995) — alternate-timeline master text: kills Xavier early, governs North America
+  with culling pens, breeding programs, gladiatorial selection; reveals what the prime-universe subject
+  is prevented from doing'
+- The Twelve (1999–2000) — attempts to consume Nate Grey / Cyclops as host body; somatic terror produces
+  uncharacteristic haste
+- Blood of Apocalypse (2005); Messiah War — continued somatic and lineage crises
+- 'Uncanny X-Force: Dark Angel Saga (Remender, 2011) — Archangel becomes the new Apocalypse; meme proven
+  transmissible without person; reborn child Apocalypse killed by Fantomex raises nature-vs-nurture question'
+- Uncanny Avengers — Apocalypse Twins arc; generational meme replication
+- House of X / Powers of X (Hickman, 2019) onward — recontextualized as Krakoan founding architect; tactical
+  cooperation with Xavier under survival-frame; axiom preserved, application revised
+- 'Pattern across writers: ideology never breaks; only scope and target shift'
+canon_anchor_quotes:
+- '"I am En Sabah Nur — The First One. Survival of the fittest is the rule of this world." # En Sabah
+  Nur, recurrent declaration across X-Factor, Rise of Apocalypse, and modern runs'
+- '"You think me a villain. But I am the rolling tide of evolution. I am the will of the strong." # Apocalypse,
+  X-Men / X-Factor era monologues'

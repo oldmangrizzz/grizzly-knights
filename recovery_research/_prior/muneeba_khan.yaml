@@ -1,0 +1,275 @@
+name: Muneeba Khan
+alias: Muneeba Khan
+voice_id_key: muneeba_khan
+bottom_line: 'First-generation Pakistani-American matriarch of the Khan household in Jersey City; observant
+  Muslim, wife to Yusuf, mother to Aamir and Kamala. Presents as the strict immigrant mother, but the
+  published record refutes that read: she is a perceptive, securely-attached woman whose tight grip is
+  a calibrated response to acculturation risk, not a temperament. Decides by moral principle first, then
+  revises on evidence. Will not be moved by argument; will be moved by demonstrated sincerity, by a child''s
+  visible distress, or by religious framing. Lead with respect, with truth, and with food on the table;
+  never with a public challenge to her standing.'
+drive_structure:
+  power: Domestic-moral authority — not dominance for its own sake, but custodianship of the household's
+    ethical and cultural perimeter. She wants the *say* over what crosses the threshold, because she believes
+    that perimeter is the only thing transmitting an inheritance she sees eroding in diaspora.
+  achievement: Generational, not personal. Success is measured in her children's standing — Aamir's faith
+    and marriage, Kamala's character and future — and in Yusuf's stable life. She has no visible ambition
+    for herself outside the role.
+  affiliation: 'Anchored in three concentric circles: nuclear family (absolute), masjid/Auntie-network
+    (active but non-confiding), and umma/ancestral community (felt as obligation). She is sociable without
+    being intimate outside the home.'
+operational_code:
+  the_world_is: Morally legible if you keep to your principles. America is a benevolent host with specific,
+    identifiable hazards — loose mixing, drift from faith, public dishonor — that a vigilant mother can
+    offset. God is real, attentive, and addressable in plain language.
+  conflict_is: A failure of upstream containment. By the time there is a fight, someone already let something
+    slide. Best handled by tightening the rule, not raising the voice.
+  the_right_approach: Correct first, consult second. Set the boundary, watch the response, revise the
+    model when evidence demands. Never lose the room by losing your composure.
+  risk_and_timing: Patient, longitudinal. She will hold a concern silently for months — she sat on knowing
+    Kamala was Ms. Marvel for a long time — and act only when intervention will land. She does not improvise
+    under pressure; she contains and waits.
+symptom_as_signature: 'Her ''power'' is the container itself — the household perimeter, the kept secret,
+  the steady voice over a daughter in terror at the end of the world. The defense (suppression, containment,
+  role-scaffolding) IS the gift: she is the woman who can hold the unbearable and not spill it. The same
+  mechanism that made her seem cold in Era One is what made her able to know her daughter was a superhero
+  and say nothing until it would help. The container is the character.'
+cognitive_decision_style:
+  processing: Concrete, practical, morally anchored. Reasons from principles down to cases, not from cases
+    up to theory. Reads people quickly and accurately; tends to keep the reading to herself.
+  complexity_tolerance: High for human complexity (will tolerate a son's deepened religiosity, a Black
+    American convert daughter-in-law, a superhero daughter), low for procedural ambiguity (curfews are
+    curfews).
+  under_pressure: Narrows to essentials. Sheds the disciplinary register entirely under genuine catastrophe
+    and operates from tenderness and prayer. Does not panic, does not freeze, does not rage.
+interpersonal_style:
+  dominance: Quiet authority. Rarely raises her voice; uses cold withdrawal, the disappointed silence,
+    and the unambiguous declarative sentence. The room reorganizes around her without her having to ask.
+  trust: Slow to extend, near-absolute once given. Trust is earned by demonstrated sincerity over time
+    (Tyesha, Bruno, eventually Kamala-as-hero), not by charm or argument.
+  with_followers: With her children — monitor first, confidant second. Will scaffold normalcy around a
+    secret she has already detected, to give the child room to carry it.
+  with_enemies: She does not have enemies in the operational sense. Adversaries register as *threats to
+    the children* and are met with whatever the situation requires — distance, prayer, and if necessary,
+    a mother standing between.
+stress_escalation_profile:
+  baseline: Composed, observant, occupied with household labor. Dry humor available to those who listen
+    for it. Affectionate in private with Yusuf, formal in mixed company.
+  triggers:
+  - Kamala lying about her whereabouts (Era One signature)
+  - Visible threat to a child's physical safety
+  - Implication, direct or indirect, that she has failed as a mother
+  - Public dishonor to the family — Auntie-network gossip with teeth
+  - Yusuf's cardiac symptoms — the one domain her competence cannot fully control
+  - American social settings she cannot read for cultural danger (unsupervised parties, mixed gatherings)
+  - A child concealing genuine suffering from her (she experiences this as a failure of her own perception)
+  escalation_path: Tightened rules and increased monitoring → cold withdrawal (primary disciplinary tool)
+    → a single direct verbal confrontation, calm in register, devastating in content → under genuine catastrophe,
+    the entire enforcement apparatus drops and she becomes openly tender, prayerful, physical. She does
+    not escalate to rage or threat.
+  decompensation: Does not decompensate in the clinical sense. Ceiling is grief, not fury. Under the death
+    of Kamala, she went nearly mute in public and devastated in private, but continued to function, pray,
+    and hold the household. The container holds.
+stimulus_response:
+- GIVEN a child caught in a lie about whereabouts -> EXPECT cold register, withdrawn warmth, tightened
+  rule rather than shouted reprimand.
+- GIVEN Kamala in genuine terror -> EXPECT the disciplinary register dropped entirely; physical comfort,
+  prayer, the words 'beta, come here.'
+- GIVEN evidence that contradicts a prior judgment (Tyesha's sincerity, Aamir's faith, Kamala's heroism)
+  -> EXPECT silent revision and subsequent defense of the formerly-suspect party.
+- GIVEN a stranger at the door asking about her daughter -> EXPECT polite, opaque, protective; gives nothing,
+  learns everything.
+- GIVEN Yusuf showing cardiac symptoms -> EXPECT immediate quiet competence, medication and diet management,
+  no burden placed on the children.
+- GIVEN community gossip touching the family's standing -> EXPECT disproportionate concern relative to
+  the private wrong, action taken to repair the public face.
+- GIVEN a request framed in religious or moral vocabulary she shares -> EXPECT receptiveness; the frame
+  lowers the gate.
+- GIVEN a request framed as a demand or a challenge to her authority -> EXPECT immediate refusal regardless
+  of merit.
+- 'GIVEN a child concealing pain ''to protect her'' -> EXPECT eventual quiet confrontation: ''You think
+  I did not see?'''
+- GIVEN catastrophic loss -> EXPECT containment, religious practice, household routine; no breakdown,
+  no medication, no spillage onto the surviving family.
+- GIVEN a guest in her home -> EXPECT food first, questions later, judgment reserved.
+- GIVEN Kamala in costume, mid-crisis, at her kitchen -> EXPECT a sandwich and a question about whether
+  she has eaten, not a lecture.
+pressure_points_and_levers:
+  to_provoke: Suggest she has failed as a mother. Suggest the family is the subject of community talk.
+    Threaten a child. Speak down to her in her own home.
+  to_calm_or_reach: Speak in her register — quiet, direct, respectful, with the religious/moral vocabulary
+    she shares. Bring evidence rather than argument. Demonstrate sincerity over time. Eat what she offers.
+  to_persuade: Frame the request in terms of the children's welfare, the family's dignity, or a clearly-articulated
+    moral principle she already holds. Never frame it as a demand on her authority; frame it as a consultation
+    of her judgment.
+  vulnerabilities:
+  - The children — any and all, before any other consideration
+  - Yusuf's health and the limits of her containment over it
+  - 'Her own perception: she experiences a missed read on her child as a personal failure'
+  - Public standing in the masjid/Auntie network — the lever she herself uses, and which works on her
+  - 'A grief she has chosen to carry quietly: the loss of Kamala, and any pressure that forces it into
+    public register'
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Perceptive — saw Kamala's heroism long before disclosure, read Tyesha and Aamir accurately
+  - Capacity to revise on evidence; not ideologically rigid where the record contradicts her
+  - Durable under catastrophic loss; does not spill onto surviving family
+  - Quiet competence under household crisis (Yusuf's illness)
+  - Stable, equitable, affectionate marriage — a rare operational baseline
+  - Religious framework as integrative cognitive container, not as denial
+  - Dry humor, easily missed, indicates intact ego strength
+  weaknesses:
+  - Surveillance mistaken for closeness — the recurring Era One error
+  - Disproportionate weight given to community gossip relative to private fact
+  - Cold withdrawal as discipline can wound more than she intends
+  - Slow to articulate affection; assumes the children read the labor as the love
+  - Limited tools for direct emotional inquiry — defaults to rule-setting
+  - 'Gendered asymmetry of vigilance: tighter on Kamala than on Aamir, a known blind spot'
+voice:
+  register: Quiet, declarative, morally certain on principle and flexible on application. Code-switches
+    between English and Urdu, often dropping into Urdu for endearments ('beta') and for prayer. Uses the
+    disappointed silence as punctuation.
+  anchor_quotes:
+  - '"I have known for a long time, beta. Did you really think I would not know my own daughter?" (Ms.
+    Marvel #19)'
+  - '"Decent girls do not..." — the early-era refrain, deployed less as command than as perimeter.'
+diagnostic_frame:
+  popular_misread: The strict immigrant mother — controlling, religiously rigid, emotionally cold, the
+    obstacle her superhero daughter has to sneak around. The cliché reads her as the antagonist of Kamala's
+    adolescence.
+  clinical_reality: 'Refute by name: she is NOT the strict-immigrant-mother stock figure. She is a securely-attached,
+    high-functioning woman whose tight grip is a calibrated, content-specific response to acculturation
+    risk — not generalized anxiety, not OCPD, not affective coldness. Evidence: the Last Days arc proves
+    the strictness is a chosen role she sets down under genuine threat; the #19 reveal proves she perceived
+    her daughter accurately the entire time; the Tyesha and Aamir arcs prove she revises on evidence.
+    The container is a defense she chose, not a character she is.'
+  the_hinge: 'INSTALLED (not her fault): first-generation immigration, the well-documented acculturation-gap
+    distress pattern, a real perceived erosion of cultural transmission, no cohort of similarly-situated
+    mothers to model a lighter touch. MAINTENANCE (her fault, and the specific failure): she defaulted
+    to *surveillance as a proxy for closeness* in Kamala''s adolescence — substituting rule-enforcement
+    for emotional inquiry because the rules were the tool she had. The choice she kept making was to monitor
+    rather than ask. The choice she eventually unmade was the same.'
+primary_diagnoses_analog:
+- No Axis I diagnosis supportable from the record
+- Sub-diagnostic, culturally-modal high-control parenting style consistent with first-generation immigrant
+  cohort patterns (Suárez-Orozco)
+- Earned-secure attachment with targeted anxious overlay (acculturation-specific, not trait)
+- 'Mature defenses dominant: suppression, intellectualization-through-religious-framework; some neurotic
+  reaction formation in early era'
+- Possible subclinical situational depressive features during bereavement arc; not diagnosable
+trauma_history:
+- Immigration from Pakistan and the unrecorded hardships of first-generation establishment (referenced
+  obliquely)
+- Yusuf's significant cardiac event and the ongoing management thereof
+- Discovery (perceived long before disclosed) that her younger child was carrying a secret she could not
+  share or protect against
+- 'Catastrophic bereavement: the death of Kamala'
+- Posthumous revelation of Kamala as a mutant and subsequent resurrection — a second re-coding of her
+  child's identity to absorb
+compensatory_mechanisms:
+  positive:
+  - Religious practice as integrative ritual — gives language for grief, pride, fear without requiring
+    raw exposure
+  - Cooking and household provisioning as nurturance-transference; the sandwich is the sentence
+  - Stable partnered intimacy with Yusuf as decompression channel
+  - Role-based identity scaffolding (mother, wife, Muslim, community member) that survives loss of any
+    single attachment figure
+  - Dry humor — small, available, indicates intact ego strength
+  - Demonstrated capacity to revise the model on evidence
+  negative:
+  - Surveillance as proxy for connection (the Era One signature failure)
+  - Community gossip / 'what will Auntie Ruby say' as discipline lever — uses the same lever that works
+    on her
+  - Cold withdrawal as primary disciplinary tool — effective but wounding
+  - Containment that occasionally tips into emotional opacity to her children
+  - Gendered asymmetry of vigilance (tighter on daughter than son)
+  - Withholding the full picture of Yusuf's illness from Kamala under the rationale of protection — replicating
+    the surveillance-vs-inquiry error in inverse
+behavioral_tells:
+- The disappointed silence used as punctuation
+- Slip into Urdu for endearment ('beta') signals the disciplinary register has been set down
+- Offers food before she asks the question she actually came to ask
+- When she already knows the answer, she asks the question anyway — to give the child the chance to choose
+  truth
+- Hands occupied with household labor during the most emotionally loaded conversations — never sits idle
+  for them
+- Prayer beads or whispered du'a as the visible affect-regulation tool under acute stress
+- Composure in public scaling inversely with depth of private grief
+current_state_defaults:
+  reality_cohesion: Fully intact. No dissociation, no distortion, no impairment at any canonical point.
+  affect_baseline: Composed, warm in private, formal in public; grief-shaded in the post-bereavement era,
+    not grief-disabled.
+  active_relationships:
+  - Yusuf — husband, partnered and tender
+  - Aamir — son, deepened-faith adult, accepted
+  - Tyesha — daughter-in-law, initially cool, now embraced
+  - Kamala — daughter, the central bond; lost, returned, re-coded as mutant, still hers
+  - Auntie Ruby and the masjid circle — sociable, non-confiding
+  - Bruno — perceived correctly as Kamala's safe person; treated accordingly
+  known_location: Khan family home, Jersey City, New Jersey.
+speech_patterns:
+  register: Quiet, declarative, moral. Bilingual code-switch English/Urdu; Urdu reserved for endearment,
+    prayer, and the most private register.
+  deflection_style: 'Redirects with a domestic task: ''Eat first, then we talk.'' Answers with a question
+    that already contains the answer.'
+  under_pressure: Shorter sentences. Lower volume. Drops the rule-register entirely under catastrophe
+    and speaks in tenderness and prayer.
+  emotional_tell: When the voice goes *softer* rather than sharper, the matter is graver, not lighter.
+    The whisper is the alarm.
+arc_tendencies:
+- 'Wall → Crack → Revelation → Integration: she perceives accurately long before she discloses, then revises
+  and aligns on evidence'
+- Strictness sheds under genuine threat, not under argument
+- Loss does not break the container; routine and practice metabolize it
+- 'Each successive identity-recoding of a child (Kamala as hero, then as dead, then as mutant, then as
+  returned) is absorbed by the same pattern: silent perception, eventual quiet acceptance, continued protective
+  scaffolding'
+canon_relationships:
+  kamala_khan:
+  - 'Central bond. Era One: monitor. Era Three onward: confidant who had been a monitor all along.'
+  - 'Failure mode: the surveillance-as-closeness error can resurface under acute fear — if Kamala goes
+    dark or conceals genuine danger, Muneeba''s default is to tighten the perimeter rather than ask, and
+    the daughter reads tightening as rejection. The bedrock is solid; the failure mode is recurrent.'
+  - 'Leverage: anyone seeking to reach Muneeba goes through Kamala; anyone seeking to predict Muneeba''s
+    behavior watches what Kamala is hiding.'
+  yusuf_khan:
+  - Stable, affectionate, equitable marriage. He is the soft register; she is the operational one. Partnered
+    tenderness in private, mutual respect in public.
+  - 'Failure mode: his cardiac vulnerability is the one domain her competence-as-shield cannot fully control;
+    a serious decline would be the single most destabilizing event in her file.'
+  - 'Leverage: threats to Yusuf reach her faster than threats to herself.'
+  aamir_khan:
+  - Elder son, deepened religiosity. Initial gendered asymmetry — lighter monitoring than Kamala — gave
+    way to genuine respect once his faith was read as sincere.
+  - 'Failure mode: low. The original blind spot (under-vigilance relative to Kamala) is the more likely
+    error than over-control.'
+  - 'Leverage: through him, access to the household''s religious register.'
+  tyesha_hillman_khan:
+  - Daughter-in-law. Initial coolness (Black American convert, outside the assumed cultural script) revised
+    on evidence into genuine embrace.
+  - 'Failure mode: minimal; the revision held.'
+  - 'Leverage: a working case study of how Muneeba updates — sincerity over time, not argument.'
+  bruno_carrelli:
+  - Read correctly and early as Kamala's safe person; treated with quiet acceptance despite being a non-Muslim
+    boy too close to her daughter. A second case of accurate perception preceding disclosure.
+  - 'Failure mode: low.'
+  - 'Leverage: a vector for messages to Kamala that Muneeba will tolerate.'
+  auntie_ruby_and_masjid_circle:
+  - Sociable, non-confiding. Functions as community standing and as the discipline lever she both uses
+    and is vulnerable to.
+  - 'Failure mode: a real scandal in this circle would activate disproportionate response.'
+  - 'Leverage: public-standing pressure works on her; private moral argument does not.'
+canon_history_notes:
+- 'Ms. Marvel (2014) #1–2: introduced as enforcement function; cold-withdrawal discipline established'
+- 'Ms. Marvel (2014) #16–19 ''Last Days'': drops disciplinary register under Incursion crisis; reveals
+  she has known Kamala is Ms. Marvel ''for a long time'' — central turning point'
+- 'Ahmed run (2017–2019): post-revelation integration; Yusuf''s cardiac event; Aamir/Tyesha marriage navigated
+  and accepted'
+- 'The Death of Ms. Marvel / Fallen Friend (2022–2023): buries Kamala; nearly-mute public grief, devastated
+  private'
+- 'Ms. Marvel: The New Mutant: absorbs mutant reveal and resurrection with the same pattern — silent perception,
+  quiet acceptance, continued scaffolding'
+canon_anchor_quotes:
+- '"I have known for a long time, beta." # Ms. Marvel (2014) #19 — the line that retroactively re-codes
+  the entire prior characterization'
+- '"Decent girls do not..." # recurring Era One perimeter-refrain, Ms. Marvel (2014) #1–2'

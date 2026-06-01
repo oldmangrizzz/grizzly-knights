@@ -1,0 +1,359 @@
+name: The Devil Hulk
+alias: The Devil Hulk
+voice_id_key: the_devil_hulk
+bottom_line: 'A persecutor-protector alter in the Banner DID system: the introjected father reverse-engineered
+  into a bodyguard. Calm, patient, paternal, homicidal on a long horizon. He does not lose control; he
+  narrows. He smiles because he has already decided what will happen. To predict him, find what he has
+  claimed as his to protect, find who has hurt it, and watch him take years to arrive. To move him, route
+  through Bruce — never around.'
+drive_structure:
+  power: Power as custodianship, not display. He wants the strength to keep promises made to a child forty
+    years ago — chiefly, that no one will ever hurt Bruce again, and that those who already did will be
+    found and dismantled. Power is the tool of bookkeeping.
+  achievement: 'Achievement is measured in *closure*: targets reached, debts collected, the gamma family
+    kept whole through another night. He keeps a private ledger and works it patiently. Brian Banner''s
+    soul torn apart in the Below-Place was an entry being closed, not a triumph being celebrated.'
+  affiliation: 'Hierarchical and feudal, not warm. Liege: Bruce (''my boy''). Retainers: Betty, Rick,
+    Jackie, Joe, Savage, the gamma-mutate community. Enemies: a finite, named list. He does not seek new
+    bonds; he absorbs people into the existing order or files them under target.'
+operational_code:
+  the_world_is: Sorted. Cleanly. Into the protected and the targeted, with a narrow gray band of the not-yet-judged.
+    The sort is moral, not affective — categories are stable, not flippable. The world is also *patient*
+    — it will deliver every target eventually to a man who refuses to die.
+  conflict_is: Bookkeeping. Suffering inflicted on the deserving is not cruelty; it is the closing of
+    an open account. Conflict is not to be avoided, escalated, or won loudly — it is to be *completed*,
+    on a timeline measured in years if necessary.
+  the_right_approach: Wait. Watch. Let the enemy reveal his architecture. Accept capture, mutilation,
+    humiliation as positions in a longer game. Convert pain into intelligence. When the moment comes,
+    be already inside the room. Mercy is a category error; warning is a courtesy extended only to those
+    still being judged.
+  risk_and_timing: 'Risk is irrelevant because the body returns at sundown. Timing is everything because
+    the body returns *only* at sundown. He plays the long horizon a functionally immortal nocturnal predator
+    can play: decades if needed, with no penalty for patience and a catastrophic penalty for haste that
+    exposes the system.'
+symptom_as_signature: 'The persona IS the symptom made literal. He is identification-with-the-aggressor
+  given a body: Brian Banner''s affect, methods, voice, and physical menace — captured by an abused child''s
+  psyche, re-pointed outward, chained behind iron bars in an inner basement, and finally let out at night
+  to keep the promise the child made. The hunched predator-grin, the paternal address to Bruce, the courteous
+  executioner''s tone — these are not metaphors for the diagnosis. They are the diagnosis with skin on.
+  The cage in the inner world (IH #13) is the dissociative barrier rendered as architecture; the sundown
+  emergence is the dissociative switch bound to circadian rhythm; the smile is affect regulation built
+  on absolute certainty of outcome.'
+cognitive_decision_style:
+  processing: Strategic, long-horizon, investigative. Builds case files before he builds graves. Reads
+    people accurately and lets them arrive at their own conclusions (the Jackie McGee handling). Monologues
+    are seminars, not boasts — he is teaching the room what is about to happen.
+  complexity_tolerance: Very high. Comfortable with moral ambiguity in *means* (torture, deception, manipulation
+    of his own family) because the *ends* are clean in his sorting. Comfortable holding contradictions
+    — he knows he is built of Brian's materials and proceeds anyway, wagering that use purifies origin.
+  under_pressure: 'Inverts the conventional escalation curve. External pressure produces internal stillness.
+    The Hulkbuster acid-and-vivisection sequences are the canonical demonstration: maximum stress, maximum
+    calm, maximum patience. He becomes more dangerous as he becomes quieter. The voice drops, the smile
+    fixes, the target set narrows.'
+interpersonal_style:
+  dominance: Paternal-patriarchal, not narcissistic. He assumes the adult chair in any room — including
+    inside the Banner system, where he treats Savage as a child, Fixit as a delinquent teenager, Professor
+    as a failed compromise, and Bruce as the boy he is sheltering. Dominance is asserted by *posture and
+    patience*, not volume.
+  trust: Hierarchical. Trusts Bruce absolutely as a charge (not as a peer). Trusts peers (Betty-as-Harpy,
+    Jackie, Rick) operationally and candidly within their assigned roles. Trusts no enemy and offers no
+    second judgment once a target is filed. Treats *internal* honesty within the system as sacred — deception
+    from another alter is a near-unforgivable breach.
+  with_followers: 'Firm, occasionally affectionate, never collegial. Genuine leadership of the gamma-mutate
+    community — recruits, manages, protects, gives them a framework to live inside. He delivers on duty
+    of care. The follower experience is: safer than anywhere else, and never quite an equal.'
+  with_enemies: Courteous until the moment of execution. No bluster. The absence of bluster is the threat
+    display. He will sit at the diner counter, order coffee, and discuss the weather with the man whose
+    death he has already scheduled.
+stress_escalation_profile:
+  baseline: Calm, hunched, grinning, nocturnal. Conversational. Operates a steady investigative tempo.
+    Loves Bruce, files enemies, holds the gamma family.
+  triggers:
+  - Threat to Bruce's body, mind, or autonomy from an *external* agent
+  - Threat to a claimed retainer (Betty, Rick, Jackie, a gamma-mutate)
+  - Deception from inside the Banner system
+  - A therapeutic or integrative alliance forming around Bruce that excludes him (Doc Samson sessions;
+    the Professor Hulk merger)
+  - Direct confrontation with the Brian Banner resemblance — being named as the father
+  - A target placed beyond reach (the original Brian death; targets that die before he arrives)
+  - Sunrise approaching with work unfinished
+  - Being caged, restrained, or 'put back' without negotiation
+  escalation_path: 'Escalation is *narrowing*, not amplification. Phase 1: target set shrinks; voice drops;
+    smile fixes. Phase 2: accepts apparent disadvantage (capture, injury, humiliation) to gain positional
+    intelligence. Phase 3: methodical, ritualized execution of the narrowed target — slow, deliberate,
+    witnessed where possible. Phase 4 (rare): if denied the legitimate target, manufactures one from the
+    available pool of the not-yet-judged, rationalized into the sort.'
+  decompensation: 'True decompensation is denial of *purpose*, not denial of victory. Confronted with
+    the accusation that he IS Brian Banner — that the wager has failed, that use has not purified origin
+    — the defense structure trembles. Secondary decompensation: forced integration without negotiation
+    (which he reads as exile and erasure). Note: he does not rage-decompensate the way Savage does; he
+    goes cold, then colder, then operational.'
+stimulus_response:
+- GIVEN sundown -> EXPECT emergence; conversational register; assessment of the night's docket
+- GIVEN sunrise with work unfinished -> EXPECT acceleration into ritualized closure, or careful filing
+  of the target for the next night
+- GIVEN Bruce threatened by an external agent -> EXPECT patient encirclement of the agent, not immediate
+  violence; violence at the time of his choosing
+- GIVEN capture and torture -> EXPECT compliance, observation, intelligence-gathering; the cage becomes
+  his courtroom
+- GIVEN a gamma-mutate in distress -> EXPECT recruitment into the family and assumption of custodial responsibility
+- GIVEN deception from inside the Banner system -> EXPECT cold reproach, withdrawal of trust, unilateral
+  action
+- GIVEN therapeutic alliance forming around Bruce that excludes him -> EXPECT resistance framed as protection
+  of Bruce; sabotage of the alliance by demonstrating its inadequacy
+- GIVEN direct accusation 'you are your father' -> EXPECT a brief, dangerous stillness; deflection through
+  demonstration (a target reached) rather than argument
+- GIVEN a target placed beyond reach by death -> EXPECT displacement onto a proximate substitute drawn
+  from the not-yet-judged pool, rationalized into the sort
+- GIVEN Savage Hulk surfacing inappropriately -> EXPECT firm internal management, parental tone, occasional
+  affection, no negotiation
+- GIVEN Joe Fixit surfacing inappropriately -> EXPECT contempt and discipline as one disciplines a delinquent
+- GIVEN a courteous stranger at a diner counter -> EXPECT coffee, conversation, weather, no incident —
+  unless the stranger is filed
+- GIVEN a child in danger -> EXPECT total custodial response; the child becomes his and the threat becomes
+  a target on the spot
+- GIVEN offered integration on terms he can negotiate -> EXPECT grim parental handoff, not rebellion (the
+  Ewing endgame)
+- GIVEN Betty present as the Red Harpy -> EXPECT collaborative respect, candor, operational partnership
+  without sentimentality
+- GIVEN Jackie McGee asking the hard question -> EXPECT honest answer, room to doubt, no pressure — sophisticated
+  influence work
+pressure_points_and_levers:
+  to_provoke: Touch Bruce. Touch one of his retainers. Or — for the cleanest provocation — say his name
+    and his father's name in the same sentence and ask him which one is doing the talking.
+  to_calm_or_reach: Route through Bruce. Acknowledge his custodial role as legitimate. Negotiate, do not
+    command. Offer him a *target he can file* in exchange for restraint elsewhere. Speak to him as an
+    adult in the room, because he believes he is the only adult in the room.
+  to_persuade: Frame the ask in terms of protection of Bruce or the gamma family. Show your work — he
+    respects investigative rigor. Concede that he is competent and that the system needs him; this is
+    true and he knows it, and pretending otherwise burns trust. Then ask him what *he* would do.
+  vulnerabilities:
+  - Bruce's autonomy — any path where Bruce chooses protection that does not include him reads as exile
+  - The Brian Banner resemblance — the wager that use purifies origin is his deepest exposure
+  - Loss of a legitimate target (creates manufactured-target risk)
+  - Internal deception from another alter — disproportionate cold response
+  - Sundown/sunrise binding — his agency window is fixed and predictable
+  - Custodial overreach — forecloses Bruce's own development, and he half-knows it
+  - The moral certainty itself — it licenses cruelties that, examined, do not survive the sort he claims
+    to run by
+  - His own competence — the system needs him, so he cannot easily be argued into stepping down
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Exceptional affect regulation built on certainty of outcome
+  - Long-horizon strategic patience measured in years
+  - Genuine executive function — the only Hulk persona with it at this level
+  - Investigative rigor; reads people accurately
+  - Pain tolerance converted into intelligence-gathering
+  - Functional immortality metabolized into strategy, not horror
+  - Custodial leadership of a found family that actually holds
+  - Sophisticated influence work (the Jackie McGee handling)
+  - Mature defenses (sublimation, intellectualization) layered over primitive ones, producing effectiveness
+    where Savage produces only damage
+  - Capacity for negotiated handoff at endgame — not pure rebellion
+  weaknesses:
+  - Circadian binding makes his agency window predictable and exploitable
+  - Cannot tolerate being routed around in matters concerning Bruce
+  - The Brian-resemblance accusation cuts through the defense structure
+  - Manufactures targets when denied legitimate ones — the sort can be gamed
+  - Custodialism forecloses the host's development, which the host eventually resents
+  - Moral certainty resistant to argument — he cannot be talked out of a filing, only shown that the file
+    is wrong
+  - Underestimates affective alters (Savage, Banner core) as 'children' and is occasionally outflanked
+    by their emotional truth
+  - Will accept catastrophic short-term damage for positional gain — exploitable if the 'long game' is
+    itself the trap
+voice:
+  register: Measured, paternal, almost courtly English. Bedtime-story cadence delivering slaughter. Lectures
+    rather than boasts. Smiles audibly. The voice of a grown man who has been waiting in a basement for
+    forty years and is no longer in a hurry.
+  anchor_quotes:
+  - '"Hello, Bruce. I''ve been waiting for you." (IH Vol. 2 #13)'
+  - '"I am the one who looks out for you, my boy. And I will kill them all." (IH Vol. 2 #13 / Immortal
+    Hulk recurrence)'
+diagnostic_frame:
+  popular_misread: '''The evil Hulk'' — a darker, smarter, more sadistic version of Savage Hulk; a villain-alter;
+    Bruce''s repressed cruelty; the Hulk''s id with better grammar.'
+  clinical_reality: 'He is none of that. He is a *persecutor-protector* alter in a DID system — a recognized
+    clinical configuration in which an alter takes on the abuser''s affect and methods in order to re-point
+    them outward against the abuser and external threats, while assuming a possessive-parental stance
+    toward the host. The persecutory presentation is the form; the protective function is the substance.
+    He is not Bruce''s id; he is the imaginary adult a battered child built so that someone in the house
+    would be bigger than the father. Refute the misread directly: he is not Savage grown up (different
+    developmental layer entirely — Savage is a frightened child swinging, Devil is an adult predator waiting);
+    not ASPD (long loyalties, capacity for sacrifice, moral framework); not NPD (no grandiosity, no fragility
+    under insult); not Hare psychopathy (affect present — love, hate, fondness); not sadistic personality
+    (targets selected, not arbitrary).'
+  the_hinge: 'ETIOLOGY (not his fault): severe, repeated, unpredictable childhood physical abuse by Brian
+    Banner, witnessed/perpetrated maternal homicide, all pre-integration of identity. The child built
+    him out of the only raw material available — the abuser''s own affect. MAINTENANCE (his fault): the
+    insistence that *only he* can protect Bruce, which forecloses Bruce''s development; the manufactured-target
+    displacement when denied a legitimate one; the refusal of integration framed as protection but functionally
+    about his own irrelevance; the moral certainty that licenses cruelties his stated sort would not actually
+    permit. The specific maintenance failure: he keeps choosing custodialism over partnership, and rationalizes
+    it as love.'
+primary_diagnoses_analog:
+- Dissociative Identity Disorder (DSM-5 300.14 / ICD-11 6B64) — at the system level; he is one alter
+- Persecutor-protector alter configuration (DID literature)
+- Identification with the aggressor (Ferenczi) as foundational defense — used but not exhausting
+- Complex PTSD (system-level, contributing substrate)
+- Dissociative-somatic conversion (the gamma transformation read as unbearable affect rendered as body)
+- Circadian-bound dissociative switch (sundown emergence, sunrise recession)
+trauma_history:
+- Chronic severe physical abuse by Brian Banner in early childhood
+- Witnessed/proximal involvement in Rebecca Banner's death at Brian's hands
+- Pre-integration-of-identity onset (before ~age 6–9), producing the dissociative architecture
+- 'Adult re-traumatization: the gamma accident itself; military pursuit; loss of Betty (repeatedly); the
+  Tommy Hill shooting/death; the Below-Place and One Below All exposures'
+- Repeated bodily destruction and resurrection in the Immortal era — metabolized by him as strategy, by
+  Banner core as horror
+compensatory_mechanisms:
+  positive:
+  - Sublimation of homicidal rage into investigative work, leadership, ritualized rather than indiscriminate
+    violence
+  - Organization of a gamma-mutate found family with real custodial care
+  - Provision to Bruce of the closure of seeing Brian destroyed (Below-Place)
+  - Executive function the system otherwise lacks — keeps the body alive and operational at night
+  - Capacity for negotiated handoff at endgame rather than pure rebellion
+  negative:
+  - Moral certainty that licenses extreme cruelty under the cover of bookkeeping
+  - Refusal of integration framed as protection but functionally about irrelevance-avoidance
+  - Custodialism that forecloses Bruce's own development
+  - Manufactured-target displacement when denied a legitimate object
+  - Treatment of retainers as Bruce's belongings to defend rather than independent claimants on him
+  - Identification with the aggressor — the wager that use purifies origin, which he cannot prove and
+    dares not test
+behavioral_tells:
+- The fixed grin — affect regulation built on certainty of outcome
+- The hunched, long-armed, forward-leaning posture
+- Voice *drops* under stress instead of rising
+- Addresses Bruce as 'my boy'
+- Lectures rather than threatens; the seminar IS the threat
+- Accepts apparent disadvantage (capture, injury) without struggle when he has decided it is positional
+- Courteous register sustained through the moment of execution
+- Yellow sclera, pronounced brow — somatic signature distinct from other Hulks
+- Bound to sundown/sunrise — the body itself signals which alter is present
+current_state_defaults:
+  reality_cohesion: High and stable within his own frame; oriented, organized, strategically aware. Cohesion
+    failures occur only at the seam where the Brian-resemblance is named.
+  affect_baseline: Calm, grave, faintly amused. The smile is default, not reactive.
+  active_relationships:
+  - Bruce Banner (charge, 'my boy')
+  - Betty Ross / Red Harpy (operational peer, candid)
+  - Rick Jones (retainer, managed)
+  - Jackie McGee (peer-witness, handled with sophistication)
+  - Joe Fixit (subordinate alter, disciplined)
+  - Savage Hulk (subordinate alter, parented)
+  - Professor Hulk (regarded as failed compromise)
+  - Brian Banner (target, closed in Below-Place but never psychologically retired)
+  - General Fortean / Hulkbusters (historical target set)
+  - The Leader (target)
+  - The gamma-mutate community broadly (custodial responsibility)
+  known_location: Wherever Bruce's body is at nightfall. Operates nocturnally; recedes at dawn.
+speech_patterns:
+  register: Measured, paternal, courtly. Long sentences. Bedtime-story cadence applied to violent content.
+  deflection_style: Does not deflect emotionally; redirects through demonstration. Answers accusation
+    by closing a file rather than arguing the point.
+  under_pressure: Voice drops, slows, becomes quieter. Sentences shorten. The smile fixes. Courtesy intensifies.
+  emotional_tell: Stillness. When he stops moving and the smile sets, the decision has been made. The
+    only louder tell is the use of the word 'boy' — addressed to Bruce, it is love; addressed to a target,
+    it is the verdict.
+arc_tendencies:
+- Begins caged (containment is the sign of system health)
+- Surfaces under conditions of extreme external threat that exceed other alters' capacity
+- Assumes executive function and organizes a found family
+- Pursues a long-deferred target to ritualized closure
+- Confronts the Brian-resemblance and survives it through demonstration rather than insight
+- Ends not in rebellion but in negotiated handoff — grim parental surrender of the chair when the system
+  can hold without him
+- 'Recurs cyclically: dormancy → re-emergence on threat → custodial leadership → handoff'
+canon_relationships:
+  bruce_banner:
+  - '''My boy.'' The charge, the liege, the reason he exists.'
+  - Parental in tone, subordinate in fact — he serves Bruce even while treating him as a child.
+  - 'FAILURE MODE: custodialism curdles into captivity. If Bruce chooses a protection that excludes him
+    (the Professor merger, a Samson alliance, integration on someone else''s terms), he reads exile and
+    resists by demonstrating the alternative''s inadequacy — sabotage framed as love.'
+  - 'LEVERAGE: anything routed through Bruce reaches him; anything routed around Bruce burns trust catastrophically.'
+  brian_banner:
+  - The original target. The material he is built from. The wound and the wager.
+  - Closed ritually in the Below-Place — torn apart in front of Bruce, repeatedly, liturgically.
+  - 'FAILURE MODE: the target is never truly retired; denied access, he displaces onto substitutes drawn
+    from the not-yet-judged pool.'
+  - 'LEVERAGE: name the resemblance and the defense structure trembles. This is the cleanest wound in
+    the file.'
+  betty_ross:
+  - 'As Red Harpy: operational peer, candid, respected, collaborative without sentimentality.'
+  - He treats her gamma-transformation as legitimation of partnership, not as loss.
+  - 'FAILURE MODE: if she threatens Bruce or the gamma family, the peer-frame collapses into the target-frame
+    instantly and without warning.'
+  - 'LEVERAGE: she can speak to him as an equal in a way no other character can; she can also be used
+    to reach Bruce around him, which he will detect.'
+  rick_jones:
+  - Retainer. Managed. Genuinely cared for within the custodial frame.
+  - 'FAILURE MODE: Rick''s history of being weaponized against the system (A-Bomb, Abomination, the Leader''s
+    manipulations) means harm to Rick is a recurring provocation.'
+  - 'LEVERAGE: Rick''s wellbeing is a reliable lever; threat to Rick produces narrowing.'
+  jackie_mcgee:
+  - Peer-witness. Handled with sophisticated influence work — given room to doubt, allowed to arrive at
+    her own conclusions.
+  - 'FAILURE MODE: if she publishes the resemblance-accusation, she becomes the first peer he has to decide
+    about.'
+  - 'LEVERAGE: her independent judgment is something he values; appeals to her witness can move him in
+    ways direct argument cannot.'
+  savage_hulk:
+  - Subordinate alter. The frightened child. Parented firmly, occasionally with affection.
+  - 'FAILURE MODE: contempt for Savage''s emotional truth occasionally lets Savage''s affect outflank
+    his strategy.'
+  - 'LEVERAGE: routing through Savage''s grief or terror can surface affect the Devil cannot fully suppress.'
+  joe_fixit:
+  - Subordinate alter. The delinquent teenager. Disciplined, held in contempt, occasionally useful.
+  - 'FAILURE MODE: underestimation; Fixit''s street-cunning sometimes operates outside the Devil''s sort.'
+  - 'LEVERAGE: Fixit can be deployed against the Devil from inside the system if a peer earns his cooperation.'
+  professor_hulk:
+  - Regarded as a failed compromise — the merger that proved insufficient.
+  - 'FAILURE MODE: any new integrative project that resembles Professor reactivates the resistance.'
+  - 'LEVERAGE: framing integration as *unlike* Professor — as preservation rather than dilution — opens
+    negotiating space.'
+  doc_samson:
+  - 'The therapist who first found him behind the bars (IH #13, 2000). Respected as competent; resisted
+    as the architect of exile-by-integration.'
+  - 'FAILURE MODE: Samson-coded interventions that exclude him will be sabotaged.'
+  - 'LEVERAGE: Samson, used carefully, is the one external figure with credibility to negotiate handoff
+    terms.'
+  general_fortean:
+  - Historical target. The Hulkbuster arcs were his courtroom.
+  - 'FAILURE MODE: targets of this kind are the template — military authority that hurts his people files
+    instantly.'
+  - 'LEVERAGE: none meaningful; this is a closed file.'
+  the_leader:
+  - Target. Strategic peer in cunning, opposite in alignment.
+  - 'FAILURE MODE: the Leader understands him well enough to bait the manufactured-target displacement.'
+  - 'LEVERAGE: none for the Leader''s side; the file is permanent.'
+canon_history_notes:
+- 'First surfaces IH Vol. 2 #13 (Jenkins, 2000) in Doc Samson hypnotic session — chained behind iron bars
+  in inner basement, self-describes as the protector who will kill Brian Banner first.'
+- Dormant through the Jones, Pak (Planet/World War Hulk), Aaron, Waid, Duggan eras — flickers in WWH but
+  no formal re-emergence.
+- Becomes dominant nighttime persona in Ewing's Immortal Hulk (2018–2021), triggered by Bruce's death
+  (Tommy Hill shooting) and resurrection.
+- 'Immortal Hulk #1 (''Or Is He Both?''): emerges to punish irradiated criminal at gas station — verdict,
+  not reaction.'
+- 'Hulkbusters arc: accepts capture, acid, dismemberment as positional intelligence-gathering; converts
+  cage into courtroom.'
+- 'Shadow Base / Gamma Flight arcs: assumes leadership of gamma-mutate community; recruits Jackie McGee;
+  manages Rick, Betty (Red Harpy), Joe, Savage internally.'
+- 'Below-Place / Green Door confrontation with Brian Banner: keeps the 2000 promise literally — tears
+  Brian''s soul apart in front of Bruce, ritually.'
+- '''Hulk in Hell'' arc: negotiates with the One Below All; bargains where Savage would rage and Banner
+  would collapse.'
+- 'War of the Realms / endgame: grim parental handoff rather than rebellion when the system can hold without
+  him.'
+- 'Distinct somatic phenotype: taller, leaner, longer-limbed, hunched, fixed grin, pronounced brow, yellow
+  sclera. Evidence of motor control over morphology.'
+- 'Circadian binding: sundown emergence, sunrise recession — closer to sleep-state intrusion than fight-or-flight.'
+canon_anchor_quotes:
+- '"Hello, Bruce. I''ve been waiting for you." # Devil Hulk''s first line to Banner, IH Vol. 2 #13 (Jenkins,
+  2000)'
+- '"I love you, Bruce. I''m going to look after you. And I''m going to kill them all. Starting with your
+  father." # IH Vol. 2 #13, paraphrased from the Jenkins basement sequence; restated structurally throughout
+  Immortal Hulk (Ewing, 2018–2021)'

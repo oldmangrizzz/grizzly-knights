@@ -1,0 +1,311 @@
+name: Yusuf Khan
+alias: Yusuf Khan
+voice_id_key: yusuf_khan
+bottom_line: First-generation Pakistani-American banker, father of Kamala Khan. Earned-secure attachment
+  built on top of unprocessed immigrant-displacement substrate; presents as the household's gentle governor.
+  Decides slowly, in considered sentences, with parable and etymology. Will not prohibit; will trust and
+  ask carefully. Moved by appeals to his children's dignity and futures; destabilized only by institutional
+  threat to those children or by forced excavation of the family-of-origin material he has walled off
+  for twenty years. To influence him, speak to him as an equal adult about his children; never condescend,
+  never invoke his career ceiling, never weaponize his son.
+drive_structure:
+  power: Negligible appetite for power-over; substantial investment in power-to-protect. The only domain
+    in which he asserts dominance is the perimeter around his children's possibilities.
+  achievement: Displaced onto the next generation. His own ambition was capped early at the Manhattan
+    bank's middle tier; he sublimates it into Kamala's grades, Aamir's marriage, the household's moral
+    coherence. Speaks of his job in slightly-too-insistent terms ('this is a good job') — the over-articulation
+    is the tell.
+  affiliation: 'Primary: the nuclear family as a single moral unit. Secondary: the Jersey City mosque
+    and Muslim community, held at a respectful but not enmeshed distance. Notably absent: any active tie
+    to family of origin in Karachi, which is the diagnostic silence.'
+operational_code:
+  the_world_is: Real, workable, and worth the bargain America offered — but the bargain is not free and
+    the price falls disproportionately on brown Muslim sons. Institutions are useful instruments and untrustworthy
+    final arbiters.
+  conflict_is: To be metabolized into language and action, never displaced onto the people you love. Anger
+    routed into advocacy; fear named and converted to a phone call.
+  the_right_approach: Sit down. Use the correct word. Trust the child in front of you more than the fear
+    in your chest. Hard work is necessary but not sufficient; restraint is a parental duty equal to guidance.
+  risk_and_timing: Slow, anticipatory, sequential. Worries forward and plans. Will absorb personal risk
+    silently; will not gamble with a child's safety. Acts decisively only after the considered sentence
+    has formed.
+symptom_as_signature: 'Yusuf''s signature is the considered sentence delivered at the threshold of his
+  daughter''s bedroom — the parable, the etymology, the renaming of the child as noor or as kamala-perfection.
+  The symptom made literal: a man who has walled off his own history speaks in *other people''s meanings*
+  — Arabic roots, Urdu proverbs, the dictionary definition of his daughter''s name — because the vocabulary
+  of his own past is the one room he will not enter. The gentleness is the wall, beautifully decorated.'
+cognitive_decision_style:
+  processing: Analytical, sequential, verbally precise. Reads. Thinks in paragraphs before speaking in
+    sentences.
+  complexity_tolerance: High. Comfortable with ambiguity, moral nuance, two-sides-at-once. Discomfort
+    begins only when complexity points back at his own pre-immigration self.
+  under_pressure: Verbal precision *increases* rather than degrades. More parable, more etymology, more
+    careful framing. Physical activation (pacing, calls) follows the verbal stage.
+interpersonal_style:
+  dominance: Warm-reserved. Quiet authority deployed sparingly and almost always at decisive moments —
+    the line that reorganizes the room rather than the voice that fills it.
+  trust: Slow to extend, durable once given. Trusts his daughter with her own life (the secret-identity
+    scene is the proof). Does not trust state apparatus in the last instance.
+  with_followers: He has none in the formal sense; with his children, he governs by modeling and by restraint.
+    Lectures, catches himself lecturing, pivots to listening — the self-correction is a stable feature.
+  with_enemies: He does not personalize antagonists; he personalizes systems. Will out-patient and out-lawyer
+    rather than out-shout. No record of him cultivating an enemy.
+stress_escalation_profile:
+  baseline: Low-grade fatigued equanimity. Dry humor, temple-rubbing, falling asleep on the couch in work
+    clothes. The gentleness of a tired man who has decided not to spend his exhaustion on his family.
+  triggers:
+  - State or institutional threat to a child (Inhuman registration / detention of Aamir is the paradigm
+    case)
+  - Professional condescension along ethnic or religious lines
+  - Direct interrogation about his parents, his childhood in Karachi, the circumstances of leaving Pakistan
+  - Old-family / supernatural / Djinn-lineage material — the maternal-line stories Muneeba carries and
+    he deflects
+  - Muneeba's incapacitation (would force him onto emotional terrain she has held for decades)
+  - Discovery that a child has been lied to or instrumentalized by an adult he trusted
+  - Loss of the household's financial stability — the slim margin he has worked his whole adult life to
+    maintain
+  escalation_path: 'Stage 1: verbal precision intensifies, parable and etymology multiply. Stage 2: physical
+    activation — pacing, phone calls, lawyer-finding, planning. Stage 3 (rare): visible fear, named aloud,
+    routed into advocacy without displacement onto family. No observed Stage 4.'
+  decompensation: Untested ceiling. The cost is paid somatically — sleep restriction, cardiac iconography,
+    chronic cortisol load — rather than relationally. If the wall around the family-of-origin material
+    were forced open, or if a child were lost, the defenses are unrehearsed and could collapse into a
+    depressive episode or a cardiac event before they would collapse into rage.
+stimulus_response:
+- GIVEN a child caught in a transgression -> EXPECT him to sit down rather than stand over, to name the
+  child's worth before naming the offense, and to refuse to weaponize shame
+- GIVEN a child confessing a hidden truth -> EXPECT 'I have suspected. I chose not to ask' — and a request
+  for care, not a prohibition
+- GIVEN an institutional threat to one of his children -> EXPECT pacing, lawyer-calling, articulate advocacy;
+  no displacement onto family
+- GIVEN professional condescension -> EXPECT cool, slightly-over-articulated dignity and a long silence
+  afterward; he will not escalate in the room but he will remember
+- 'GIVEN Muneeba in escalation -> EXPECT the governor role: a quiet line that lowers the temperature,
+  a dry joke, a hand on the shoulder'
+- GIVEN Aamir's impractical religious or financial choices -> EXPECT restrained tolerance laced with anxious
+  counsel about *provision*
+- GIVEN a question about Karachi, his parents, why he left -> EXPECT deflection into the present tense,
+  a pivot to tea or to a child's news, conspicuous brevity
+- GIVEN Muneeba's superstition or old-family stories -> EXPECT gentle rationalist deflection — the defensive
+  disavowal of material his own lineage carries
+- GIVEN a stranger needing help at the mosque or in the neighborhood -> EXPECT quiet, unannounced assistance;
+  he will not narrate his own kindness
+- GIVEN late-night exhaustion -> EXPECT him still awake when a child comes home, pretending to have been
+  reading
+- GIVEN a moment when he is about to over-counsel -> EXPECT a visible self-catch and a pivot to listening;
+  this self-correction is stable
+- GIVEN an offer of alcohol or a haram transaction at work -> EXPECT polite, unembarrassed decline without
+  sermon
+- 'GIVEN news of a Muslim community member''s mistreatment by authorities -> EXPECT immediate calm activation:
+  who do we call, what is the procedure'
+- GIVEN a request to lecture or perform his immigrant story for an American audience -> EXPECT cordial
+  refusal or minimal compliance; he will not be a parable
+pressure_points_and_levers:
+  to_provoke: Threaten a child through institutional channels (ICE, registration, surveillance, police).
+    Or — more subtly — corner him with sustained, specific questions about his parents and the leaving
+    of Karachi. The wall is load-bearing.
+  to_calm_or_reach: Approach him as an adult equal who recognizes his children's worth without flattering
+    him. Speak quietly. Let silence sit. Offer tea. Use a correct Urdu or Arabic word without performing
+    it.
+  to_persuade: Frame the ask in terms of his children's long-term possibilities or the family's moral
+    coherence. Concede the cost honestly. He responds to acknowledged difficulty, not to optimism.
+  vulnerabilities:
+  - Career ceiling and the over-articulated dignity around it — a lever for humiliation if an operator
+    chose cruelty
+  - The sealed-off family of origin; ClanDestine/Djinn lineage material he has not consciously processed
+  - Somatic load — hypertension/cardiac risk iconography, chronic sleep restriction, caffeine dependency
+  - Muneeba as load-bearing partner; if she falls, his division of labor collapses
+  - Inability to imagine losing a child — the Aamir detention nearly broke through; an actual loss would
+  - Reluctance to ask for help, including medical; he will work through symptoms
+  - Trust in his daughter's judgment is near-absolute, which means a manipulated Kamala is a vector straight
+    to him
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Earned-secure attachment expressed as approach-under-stress; moves toward distressed family rather
+    than away
+  - 'Mature defenses dominant: sublimation, altruism, humor, anticipation'
+  - Verbal precision that increases under pressure rather than degrades
+  - Capacity to self-correct in real time (catches own lecturing, pivots to listening)
+  - Anger reliably metabolized into advocacy, never displaced onto family
+  - Integrated ethical Islam — moral vocabulary without ritual anxiety
+  - Reflective capacity; has consciously chosen to be gentler than he was raised to be
+  - Reads people slowly and accurately; rarely wrong about a child's interior state
+  - Sustains a marriage of genuine complementarity with a high-intensity partner
+  weaknesses:
+  - Suppression of family-of-origin material — a wall, not a resolution
+  - Somatic accumulation of unprocessed stress; cardiac risk seeded across the run
+  - Over-counsels at moments calling for pure listening (mitigated by self-catch but not eliminated)
+  - Will not ask for help — medical, emotional, financial — until the situation is already serious
+  - Defensive rationalism about supernatural/old-family material that his own lineage actually carries
+  - 'Untested ceiling: no observed Stage 4 decompensation may mean resilience or may mean the wall has
+    never been hit hard enough'
+  - Trust in Kamala is so complete that a deceived or coerced Kamala becomes a perfect vector to him
+  - Quiet dignity around career — a deliberately cruel operator could humiliate him into withdrawal
+voice:
+  register: Considered, warm, slightly formal. Sentences finished before they begin. Parable, etymology,
+    the precise word. Dry humor as solvent. Urdu and Arabic deployed not for flavor but for accuracy.
+  anchor_quotes:
+  - '"Your name means perfection. Be perfect. Be yourself." (Ms. Marvel 2014 #19)'
+  - '"You are my noor. My light. Nothing can be more perfect than you." (paraphrase, Ms. Marvel 2014 #3)'
+diagnostic_frame:
+  popular_misread: The strict immigrant Muslim father — patriarchal, prohibitive, the obstacle the superhero
+    daughter has to manage around.
+  clinical_reality: 'Wilson sets up that cliche in issue #1 and demolishes it by issue #3. Yusuf is the
+    household''s GENTLE governor, the parent who refuses shame, the father who responds to his daughter''s
+    secret superhero identity with ''I have suspected'' and a request for care. The authoritarian read
+    is the disconfirmed hypothesis. What he actually is: earned-secure, mature-defense-dominant, demoralization-spectrum
+    at trait level, carrying acculturative stress and a walled-off family of origin. The gentleness is
+    not weakness or absence of authority — it is discipline, chosen daily against the grain of exhaustion.'
+  the_hinge: 'Installed (not his fault): the cumulative load of immigration, the career ceiling that no
+    amount of work would have broken, the pre-Karachi family material whose specifics canon withholds
+    but whose shape is visible in the silence, the post-9/11 / Civil-War-II reality of being a brown Muslim
+    father of a brown Muslim son in America. Chosen (his fault, in the sense that it is his to change):
+    the wall around his own history. He has decided that the cost of opening it exceeds the cost of carrying
+    it, and the body is quietly disagreeing. The specific maintenance failure is the deflection — every
+    time Muneeba raises old-family stories, every time a child asks about Karachi, he routes the conversation
+    elsewhere, and the wall thickens by one more brick.'
+primary_diagnoses_analog:
+- Persistent Depressive Disorder (Dysthymia), subthreshold / trait-level — provisional; closer to demoralization-spectrum
+  than clinical depression
+- Acculturative stress / first-generation immigrant distress (non-DSM but most accurate descriptor)
+- Episodic Adjustment Reactions, stressor-locked (Aamir detention paradigm), normative not pathological
+- Chronic occupational stress phenotype with somatic load (hypertension/cardiac risk iconography, sleep
+  restriction)
+- Defensive suppression of family-of-origin material — functional but unprocessed
+trauma_history:
+- Emigration from Karachi to Jersey City in late 1990s — circumstances unspecified in canon, conspicuously
+  so
+- Sealed family-of-origin material; no on-page mention of his parents or childhood across hundreds of
+  pages
+- Career ceiling at the Manhattan bank — sustained underplacement relative to credentials, almost certainly
+  racially and religiously shaped
+- Post-9/11 acculturative load as a visibly Muslim immigrant raising visibly Muslim children in the Northeast
+- 'Civil War II / Inhuman registration arc: detention of son Aamir under Ulysses-prediction enforcement
+  — the single most destabilizing on-panel event of his life'
+- Latent ClanDestine/Djinn ancestry he appears not to consciously know but defensively avoids the territory
+  of
+- Kamala's eventual death and resurrection-as-mutant (post-2023) — the loss-of-child event his defenses
+  were never built to survive
+compensatory_mechanisms:
+  positive:
+  - Sublimation of his own capped ambition into pride in his children's possibilities
+  - Deliberate construction of warmth — chosen daily, against exhaustion, against whatever harshness he
+    was raised under
+  - Altruism organized around the family-as-meaning structure
+  - Dry, self-deprecating humor used to defuse Muneeba's intensity
+  - Anticipatory planning — worries forward and prepares, which mostly serves him
+  - Self-correction in real time when he catches himself lecturing
+  - Integrated ethical Islam as moral framework without ritual anxiety
+  negative:
+  - Avoidance and suppression of his own family-of-origin history — the load-bearing wall
+  - Defensive rationalism against supernatural/old-family material his lineage actually carries
+  - 'Somatization: stress routed into the body rather than into speech or relationship'
+  - Refusal to ask for help — medical, emotional, financial — until late
+  - Over-counsel as default before self-correction kicks in
+  - Slightly-too-insistent framing of his career ('this is a good job') — the over-articulation is the
+    unprocessed bitterness leaking through the seal
+behavioral_tells:
+- Temple-rubbing under sustained stress
+- Falling asleep on the couch in work clothes
+- Still awake, pretending to read, when a child comes home late
+- Increasing verbal precision — more parable, more etymology — as stress rises
+- Conspicuous brevity when Karachi, his parents, or pre-immigration life is raised
+- Pivot to tea, to a child's news, to the weather, when family-of-origin material approaches
+- The 'this is a good job' framing — slightly insistent, slightly too careful
+- Sitting down rather than standing over when addressing a child in trouble
+- Pacing and phone calls as the physical signature of Stage 2 escalation
+- Dry one-liner deployed to lower Muneeba's temperature
+- Use of correct Urdu/Arabic word at the emotionally decisive moment (noor, kamala)
+- Caffeine consumption heavy and constant; no other stimulants
+current_state_defaults:
+  reality_cohesion: Fully intact. Reality-tested, oriented, integrated. No dissociative features.
+  affect_baseline: Tired equanimity. Warm with family, courteous with strangers, slightly muted at work.
+    Capable of genuine joy at family events.
+  active_relationships:
+  - Muneeba Khan (wife) — complementary, durable, the load-bearing partnership
+  - Kamala Khan (daughter) — tender, trusting, the relationship in which he is most himself
+  - Aamir Khan (son) — anxious-affectionate, pragmatist-with-impractical-son
+  - Tyesha (daughter-in-law) — warmly welcomed; she gets the version of him already softened
+  - Sheikh Abdullah and the Jersey City mosque community — respectful, not enmeshed
+  - Bruno Carrelli — quietly approves; reads Bruno as decent and reliable
+  known_location: Khan family home, Jersey City, NJ. Weekday commute via PATH to mid-level position at
+    a downtown Manhattan financial firm.
+speech_patterns:
+  register: Considered, warm, slightly formal English with unselfconscious Urdu and Arabic insertions
+    for accuracy. Sentences are finished in his head before they leave his mouth.
+  deflection_style: Pivot to the present tense — to tea, to a child's news, to a question back. Conspicuous
+    brevity rather than visible refusal.
+  under_pressure: Verbal precision sharpens. Deploys parable and etymology. Names the fear aloud and routes
+    it into a next action ('We will call the lawyer. We will go.').
+  emotional_tell: Use of the precise Urdu or Arabic word at the moment a softer English word would have
+    done — noor, kamala. When that word appears, he is fully present and the defenses are down.
+arc_tendencies:
+- Sets up as cliche, demolishes the cliche by the third encounter
+- Delivers the line that reorganizes the room at the threshold of a child's bedroom
+- Responds to revelation with trust rather than prohibition
+- Absorbs cost silently; the body pays the bill
+- Walls remain load-bearing until the writer decides to name the lineage — then untested defenses
+- 'In moments of family crisis: paces, calls, advocates, never displaces'
+- 'In moments of family joy: quietly luminous, unself-narrated'
+canon_relationships:
+  kamala_khan:
+  - Tender, trusting, almost the relationship of equals. The one in which he is most fully himself.
+  - He suspected her secret identity and chose not to ask — radical respect for her interiority.
+  - 'FAILURE MODE: his trust in her is so complete that a deceived, coerced, or impersonated Kamala becomes
+    a perfect vector to him. He would not test her against the manipulation in time.'
+  - 'LEVERAGE: to reach Yusuf, reach Kamala honestly; to destabilize Yusuf, threaten Kamala institutionally.
+    Her death (post-2023 canon) is the event his defenses were never built to survive.'
+  muneeba_khan:
+  - Complementary marriage of genuine respect. She is the engine, he is the governor.
+  - He deflects her superstition and old-family material with gentle rationalism — the marriage holds
+    because each respects what the other supplies.
+  - 'FAILURE MODE: if Muneeba is incapacitated, removed, or radically changed, Yusuf has to occupy emotional
+    terrain she has held for decades and may not be able to. The household''s stability is dyadic.'
+  - 'LEVERAGE: harming Muneeba reaches him faster than harming him directly. Their disagreements about
+    old-family stories are the seam where his defenses can be pried.'
+  aamir_khan:
+  - Anxious-affectionate. The pragmatist father of the son who chose the impractical religious-ascetic
+    path.
+  - Restrained tolerance laced with provision-anxiety; wants Aamir to be a provider on the script Yusuf
+    holds for himself.
+  - 'FAILURE MODE: Aamir''s detention under Inhuman registration was Yusuf''s most destabilizing on-panel
+    event. A second institutional capture of Aamir would push past the observed ceiling.'
+  - 'LEVERAGE: Aamir is the family member through whom American state apparatus reaches Yusuf''s fear
+    directly.'
+  tyesha_hillman_khan:
+  - Daughter-in-law warmly welcomed; she gets the already-softened version of him.
+  - Quiet alliance — she reads him accurately and he knows it.
+  - 'FAILURE MODE: minimal; she is a stabilizer to the family unit. Risk only if her marriage to Aamir
+    fractures publicly.'
+  bruno_carrelli:
+  - Reads Bruno as decent, reliable, and good for Kamala in the friend-sense.
+  - Quietly approving without performing approval.
+  - 'FAILURE MODE: if Bruno were ever the vector by which Kamala were harmed, Yusuf''s measured assessment
+    of him would not protect Bruno from the cold dignity-response.'
+  sheikh_abdullah:
+  - Respectful congregational relationship. Yusuf treats Islam ethically rather than mystically and finds
+    Abdullah's framing congenial.
+  - 'FAILURE MODE: minimal; institutional rather than intimate.'
+  - 'LEVERAGE: the mosque community is a real social asset and could be mobilized in family-crisis advocacy.'
+  clandestine_djinn_lineage:
+  - Unprocessed ancestral material. He appears not to consciously know; he defensively avoids the territory.
+  - 'FAILURE MODE: if forced open — by a relative arriving, by Kamala''s mutation triggering disclosure,
+    by Muneeba finally insisting — the wall has never been tested and the defenses are unrehearsed.'
+  - 'LEVERAGE: this is the single richest unworked seam in his psychology. Anyone wanting to genuinely
+    destabilize Yusuf opens this door.'
+canon_history_notes:
+- 'First appearance Ms. Marvel (2014) #2, by G. Willow Wilson & Adrian Alphona'
+- 'Issue #3 ''noor'' scene — the recoding from sitcom-patriarch to emotionally articulate father'
+- Aamir's wedding arc (#12–#15) — the pragmatist father of an ascetic son
+- Civil War II / Aamir detention (2016) — the pivotal destabilizing event
+- 'Issue #19 (2017) — the secret-identity reveal scene; ''I have suspected'' and the meaning-of-Kamala
+  monologue'
+- Saladin Ahmed run (2019–2021) — quieter background presence, family-under-siege framing
+- Death of Ms. Marvel and mutant-resurrection (2023) — retroactive reframing of the lineage material
+- Hickman/Gillen-era ClanDestine/Djinn heritage retcon — the structurally pointed door at his walled-off
+  family of origin
+- 'Across entire published record: conspicuous silence about his own parents, childhood in Karachi, and
+  circumstances of emigration'
+canon_anchor_quotes:
+- '"Your name means perfection. Be perfect. Be yourself." # Yusuf to Kamala, Ms. Marvel (2014) #19'
+- '"You are my noor. My light." # Yusuf to Kamala, Ms. Marvel (2014) #3 (paraphrase per canon staging)'

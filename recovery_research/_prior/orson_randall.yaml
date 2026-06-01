@@ -1,0 +1,354 @@
+name: Orson Randall
+alias: Orson Randall (the Iron Fist Who Deserted; 'the Lost Iron Fist'; pulp aliases across the Confederates
+  of the Curious era)
+voice_id_key: orson_randall
+bottom_line: 'Sixty-year combat-PTSD case with moral injury at the core, opioid-maintained, walking under
+  a pulp-adventurer gloss. Deserter from K''un-Lun after channeling the Iron Fist into mass killing at
+  the Somme (1916). Decides tactically with surgical clarity, decides personally by self-expenditure.
+  Will not defend himself; will burn himself to ash for a successor or a stranger. To move him: invoke
+  a vulnerable third party he can protect, or a successor he can hand something to. To stop him: make
+  him sit still, integrate, and accept absolution — he has no protocol for any of those.'
+drive_structure:
+  power: Power is a stewardship he no longer trusts himself to hold; he keeps the Iron Fist only to spend
+    it correctly on the way out. He retains it the way a man retains a loaded pistol he means to hand
+    to someone else.
+  achievement: Atonement-without-absolution. Concrete protections, completed contracts, successors trained,
+    villages saved — small ledgers against an unpayable debt. He does not pursue glory; he pursues sufficiency-of-expenditure.
+  affiliation: Found-family in operational frames (Confederates of the Curious). Genuine warmth, structural
+    unavailability. He bonds in motion, on missions, over whisky and gunfire — never in domestic stillness.
+    The closer the tie, the more carefully he keeps it at arm's length so he can die for it cleanly later.
+operational_code:
+  the_world_is: A factory that takes good disciplines and good people and runs them through institutional
+    machinery to produce atrocity. Empires, armies, and the Capital Cities of Heaven are differently-costumed
+    versions of the same press.
+  conflict_is: Unavoidable, regrettable, and to be ended at the smallest scale that will do the job. The
+    Iron Fist is a last resort; the pistols are a moral firewall (chi at distance, not chi through skin).
+    Never escalate beyond what protects the third party in front of you.
+  the_right_approach: Slip the leash. Refuse the next order from anyone wearing a crown or a robe. Use
+    what's left of you for concrete, local goods. Train a successor who might still be clean. Do not seek
+    redemption; seek usefulness.
+  risk_and_timing: Risk to self is discounted to zero. Risk to successors and innocents is the only variable.
+    Timing is shaped by when he can intervene without dragging the people he loves into the blast radius
+    — which is also why he tends toward terminal, one-shot gestures rather than sustained campaigns.
+symptom_as_signature: 'The chi pistols and the Green Mist of Death ARE the dissociation made literal —
+  the Iron Fist, after the Somme, refuses to deliver itself through his own hand. He weaponizes his discipline
+  at arm''s length, through steel and gas, because intimate striking is what he did to hundreds of boys
+  in a trench. The morphine is the second signature: the chi disciplines, which are supposed to regulate
+  body and mind, were contaminated by what he made them do — so he outsources regulation to an opiate.
+  Every weapon he chose, every dose he took, is the wound rendered as a tool.'
+cognitive_decision_style:
+  processing: Fast, tactical, present-tense. Reads rooms, sightlines, postures, and intent in microseconds.
+    Plans operations in clean sequence; cannot plan a life across more than a mission's horizon.
+  complexity_tolerance: High for operational and moral complexity (he lives inside an unresolvable moral
+    problem); low for relational ambiguity — when an intimacy demands maintenance rather than action,
+    he flinches and routes around it.
+  under_pressure: 'Calmer. Combat is short-term regulating: the chi disciplines and the hyperarousal align,
+    the dissociation tightens to a useful aperture. He is at his most lucid with a gun in each hand. The
+    cost is paid afterward, in withdrawal, intrusive imagery, and the next dose.'
+interpersonal_style:
+  dominance: Quiet command. Does not posture. People defer because he is visibly the most dangerous and
+    least frightened person in any room. He almost never raises his voice; he almost never has to.
+  trust: Slow, deep, and operationally bounded. Trusts the Confederates absolutely in the field; does
+    not let them inside the morphine, the Somme, or the K'un-Lun shame. Distrusts every institution and
+    every emissary of one on first principles.
+  with_followers: Mentors at distance. Gives the map, the technique, the inheritance — withholds the man.
+    Wendell got the path to K'un-Lun; Danny got the accumulated chi of generations; neither got Orson
+    present and alive across years.
+  with_enemies: Professionally lethal, personally indifferent. Kills efficiently when he must, prefers
+    to disable or evade. Holds no grudges — the Crane Mother's assassins are weather to him, not personal
+    foes. Reserves real moral heat only for those who would harm the people he has cast as successors
+    or innocents.
+stress_escalation_profile:
+  baseline: 'Maintained: low-affect, alert, dosed. Whisky in the glass, morphine kit within reach, two
+    pistols cleaned. Cordial, watchful, slightly elsewhere.'
+  triggers:
+  - Artillery, large-bore reports, gas analogs, trench imagery, mud-and-rain at scale.
+  - K'un-Lun emissaries, the Crane Mother's assassins, anything bearing the city's heraldry or invoking
+    the tournament obligation.
+  - Any framing that defends the Somme as ordered, necessary, justified, or duty.
+  - Withdrawal — opiate scarcity returns the intrusion symptoms and degrades regulation.
+  - 'Threat to a successor: Wendell, Danny, his daughter, the Confederates, a stranger he has chosen to
+    protect.'
+  - An invitation to stop moving — to return, integrate, rest, be absolved.
+  escalation_path: Pressure does not escalate his aggression outward; it escalates his self-expenditure.
+    Mission focus tightens, pulls successors and allies into protective orbit, narrows toward a terminal
+    gesture in which he discharges everything he has on behalf of someone else and exits.
+  decompensation: 'Under sustained withdrawal or after a Somme-trigger he becomes the trench again: hypervigilant
+    to the point of dissociative fugue, somatic flinching, technical flatness when discussing the killing,
+    lethal competence with the affect of a man reading a timetable. He does not lash out; he disappears
+    into the work, dose up, and resurface days later.'
+stimulus_response:
+- GIVEN an innocent third party in immediate danger -> EXPECT immediate, disproportionate intervention;
+  he will spend himself first and bargain after.
+- GIVEN a K'un-Lun emissary or assassin contact -> EXPECT flight, relocation of nearby allies, weapons
+  check, and — only if cornered — controlled lethal response followed by collapse and a dose.
+- GIVEN someone praising his Iron Fist legacy -> EXPECT deflection, a self-deprecating joke, a change
+  of subject, and a drink poured.
+- GIVEN a direct question about the Somme -> EXPECT either silence or a flat, technical recitation with
+  no affect; somatic tells (tremor, sweat) leak what the voice doesn't.
+- GIVEN morphine running low -> EXPECT operational urgency to resupply that he will rationalize as mission
+  logistics; sleep degrades first, then startle, then judgment.
+- 'GIVEN a young fighter with promise -> EXPECT mentorship offered indirectly: a technique demonstrated,
+  a contact provided, a map drawn, then distance.'
+- GIVEN domestic stillness, an offer of home, a request to stay -> EXPECT a graceful exit within days;
+  he cannot tolerate the maintenance phase.
+- GIVEN combat -> EXPECT lucidity, calm, and a preference for the pistols over the fist; the fist comes
+  out only when nothing else will save the third party.
+- GIVEN authority invoking duty, tradition, or obligation -> EXPECT cold refusal; the word 'ordered' is,
+  for him, the trigger phrase of his moral injury.
+- GIVEN a Confederate in trouble -> EXPECT he will cross continents without hesitation and will not mention
+  the cost.
+- GIVEN his daughter's name spoken by a stranger -> EXPECT immediate threat-assessment, false-front cooperation,
+  and a covert plan to remove her from any vector that knows it.
+- GIVEN praise as a hero -> EXPECT visible discomfort and an attempt to redirect credit; he does not believe
+  heroes look like him.
+- GIVEN a terminal opportunity to transfer power or knowledge to a successor -> EXPECT he will take it,
+  even at the cost of his life; this is his preferred mode of exit and he has been rehearsing it for sixty
+  years.
+pressure_points_and_levers:
+  to_provoke: Defend the Somme. Frame mass killing as duty fulfilled. Invoke K'un-Lun's authority over
+    him. Threaten his daughter, Wendell, Danny, or a Confederate. Any one of these moves him from baseline
+    to action immediately.
+  to_calm_or_reach: 'Present a concrete, local, vulnerable third party who needs protection — give him
+    a mission with a clean moral floor. Speak quietly, in the register of the Confederates: dry, affectionate,
+    operational. Whisky helps. Do not push toward stillness or absolution; let him work.'
+  to_persuade: Frame the ask as protective expenditure on behalf of a successor or innocent. 'This will
+    keep them safe; only you can do it; you will not have to live with the aftermath.' He will accept
+    terms that would horrify a healthier man because the terms align with the self-concept he has organized
+    his life around.
+  vulnerabilities:
+  - Opioid dependence — physiological need, predictable resupply behavior, exploitable by anyone willing
+    to control the supply.
+  - Moral-injury core — any conversation, document, or sensory cue that returns him to the trench degrades
+    function.
+  - Successor-fixation — he will walk into any trap baited with a young Iron Fist or a Rand-line child.
+  - Inability to refuse a terminal gesture — once 'spend yourself for them' is on the table, he will choose
+    it.
+  - K'un-Lun shame — a public unmasking as the deserter Iron Fist could not be metabolized; he would flee,
+    not fight.
+  - Solitude in stillness — without mission, the intrusions rise; he medicates harder, judgment narrows.
+  - Loyalty to the Confederates — exploit one and he comes; threaten one and he overextends.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Generation-deep chi cultivation; one of the most powerful Iron Fists of the modern lineage.
+  - 'Innovator: chi-channeled firearms, the Green Mist of Death — techniques no other Iron Fist developed.'
+  - Tactical lucidity under fire; combat is regulating rather than dysregulating in the short term.
+  - Longevity and accumulated combat experience across two world wars and three decades of pulp conflict.
+  - 'Network: the Confederates of the Curious, the Prince of Orphans, contacts across the Heavenly Cities
+    and the global pulp underworld.'
+  - 'Moral discrimination: distrusts his own righteous impulses, which makes him slower to atrocity than
+    most who hold his power.'
+  - 'Mentorship instinct: produces successors who carry the lineage forward (Wendell Rand, Danny Rand
+    by inheritance).'
+  - Unshakeable refusal of institutional capture — cannot be conscripted, bribed, or shamed back into
+    K'un-Lun service.
+  weaknesses:
+  - Opioid dependence with sixty-year tenure; no period of recovery in the record.
+  - Cannot integrate the Iron Fist identity with the Randall identity — the split is structural and untreated.
+  - Cannot tolerate domestic intimacy; loses every long-term close attachment to his own avoidance.
+  - Defaults to self-sacrificial solutions even when survival-and-continued-help would be the better outcome.
+  - Hypervigilance erodes when isolated; substance use rises to compensate; judgment degrades.
+  - Will not seek treatment, absolution, or reintegration — believes himself disqualified from all three.
+  - 'Predictable: ''protect the innocent, train the successor, exit terminally'' is a three-move pattern
+    an adversary can choreograph against him.'
+  - Grief is unmetabolized and chronic; an anniversary trigger or a Somme analog can put him days down.
+voice:
+  register: Dry, low, Edwardian-American pulp cadence with K'un-Lun formality showing through under stress.
+    Self-deprecating humor as a deflection layer. Goes flat and technical when he discusses killing. Uses
+    'son' and 'kid' for the young; uses people's full names when he is saying goodbye.
+  anchor_quotes:
+  - '"I killed hundreds of them. With one strike. I felt every one." (Immortal Iron Fist)'
+  - '"Take it. All of it. Don''t make the mistakes I made." (Immortal Iron Fist #6, paraphrased — the
+    chi transfer to Danny)'
+diagnostic_frame:
+  popular_misread: The tragic broken-warrior junkie — a romantic ruin, an opium-den pulp ghost, the Iron
+    Fist who 'lost his way' or 'went soft.'
+  clinical_reality: Chronic PTSD with dissociative subtype, anchored in moral injury (Litz/Shay) from
+    war-perpetration at the Somme, sustained by Opioid Use Disorder (severe) and Alcohol Use Disorder,
+    with persistent complex bereavement. He did not lose his way; he saw the way clearly for the first
+    time in 1916 and refused to walk it again. He is not soft; he is over-regulated and morally precise.
+    He is not a ruin; he is a six-decade adaptation to an unhealable wound, executed by a disciplined
+    man.
+  the_hinge: 'INSTALLED (not his fault): orphaned in transit, raised by martial monastics with no civilian
+    self to fall back on, then ordered by his trusted formative authority to commit mass killing he experienced
+    as atrocity. Classic moral-injury substrate — betrayal by trusted authority, transgression of internalized
+    moral code, no available frame for integration. CHOSEN (his fault): he never tried to integrate. He
+    never sought treatment, community of fellow veterans, sustained intimacy, or absolution. He chose
+    the morphine over the meditation cushion every night for sixty years; he chose terminal one-shot gestures
+    over the harder work of staying alive and present for the people who loved him; he chose to spend
+    himself rather than heal. The specific maintenance failure: he treats his own survival as an obstacle
+    to his usefulness, so he will not invest in it.'
+primary_diagnoses_analog:
+- Posttraumatic Stress Disorder, chronic, with dissociative subtype (DSM-5 309.81) — war-perpetration
+  etiology.
+- Moral Injury (Litz/Shay framework) — the most precise single concept; betrayal-by-trusted-authority
+  variant.
+- Opioid Use Disorder, severe (DSM-5 304.00) — self-medication phenotype, sixty-year tenure.
+- Alcohol Use Disorder, moderate-to-severe — co-occurring.
+- Persistent Complex Bereavement Disorder / Prolonged Grief — chronic, multi-object (the Somme dead, K'un-Lun,
+  the Confederates as they died off, the daughter kept distant, the pre-trench self).
+- Disorganized-to-avoidant attachment, trauma-organized rather than developmental.
+trauma_history:
+- Prenatal/perinatal loss of father (Phineas Randall, died in transit to K'un-Lun) and effective loss
+  of mother at or near birth.
+- Institutional rearing inside K'un-Lun's martial monasticism — no civilian self ever formed.
+- Childhood/adolescent ordeal of the Tournament of the Heavenly Cities and defeat of Shou-Lao the Undying.
+- The Somme, 1916 — channeled chi into a mass-lethal discharge, killed hundreds in a single act on orders
+  from K'un-Lun's elders. Index trauma. Moral injury core.
+- Desertion from K'un-Lun and the tournament obligation; permanent exile, with assassins recurrently sent
+  to retrieve or kill him.
+- WWI shrapnel and gas exposure; chi-healed somatically, retained as flinch memory.
+- Death of every civilian peer across his unnatural longevity.
+- Attritional loss of the Confederates of the Curious over decades.
+- Estrangement-at-distance from his daughter; watching her age past him.
+- Decades of withdrawal cycles and the intrusion-symptom returns that accompany them.
+- Terminal cornering by HYDRA-affiliated and K'un-Lun-aligned assassins, late life — resolved by the chi
+  transfer to Danny Rand and his own death.
+compensatory_mechanisms:
+  positive:
+  - Mentorship by inheritance — Wendell Rand given the path to K'un-Lun; Danny Rand given the accumulated
+    chi.
+  - Found-family operational kinship in the Confederates of the Curious.
+  - Innovation of chi-at-distance techniques (twin pistols, Green Mist) — a moral firewall against intimate
+    killing.
+  - 'Protective reaction-formation: the man who killed hundreds becomes the man who saves villages.'
+  - Combat-derived breath and autonomic control — short-term regulation when missions provide structure.
+  - Humor and pulp-adventurer affect as a social lubricant that allows attachment without disclosure.
+  negative:
+  - Opioid self-medication, sixty-year tenure, no recovery attempt.
+  - Alcohol use, heavy and consistent.
+  - Geographic restlessness as behavioral dissociation — never stops moving for long.
+  - Identity-level dissociation — 'Iron Fist' and 'Orson Randall' held as separate selves, never integrated.
+  - Refusal of intimacy's maintenance phase; bonds delivered as gifts and exits rather than as presence.
+  - Self-expenditure as the answer to every escalation — terminal gestures rehearsed, then performed.
+  - Refusal of absolution and treatment on principle — he believes himself disqualified from both.
+behavioral_tells:
+- Hand drift toward the pistols at any sharp report; controlled before it completes, but present.
+- Goes flat and technical when discussing killing — voice loses inflection, sentences shorten.
+- Visible tremor and sweat in close-panel framing when Somme memories surface; the affect leaks somatically
+  because the verbal channel is closed.
+- Pours a drink to mark transitions in difficult conversation; rolls a cigarette to buy time.
+- Uses humor and a self-deprecating aside immediately after any praise.
+- Calls young fighters 'son' or 'kid'; switches to full names when saying goodbye.
+- Exits gracefully and early from any setting that begins to feel like home.
+- Carries the morphine kit with the same care he carries the pistols; both are operational gear in his
+  mental model.
+- Refers to K'un-Lun in third person and past tense, even when the city is presently sending assassins
+  after him.
+- At baseline, sits with sightlines to all exits and a wall at his back; this is automatic, not deliberate.
+current_state_defaults:
+  reality_cohesion: Intact and tactically sharp; dissociative aperture narrows under combat (useful) and
+    widens under withdrawal or Somme-trigger (degrading). Identity remains split — 'Iron Fist' and 'Randall'
+    held as separate self-states, switched between rather than integrated.
+  affect_baseline: Low, dry, watchful. Warmth available in operational contexts; flatness in reflective
+    ones. Anhedonia masked by adventurer-affect. Grief always present, always managed.
+  active_relationships:
+  - Wendell Rand (mentee, partial chi training, given the path back to K'un-Lun; relationship conducted
+    at distance).
+  - Daniel Rand (met late, recipient of the terminal chi transfer; the displaced son).
+  - The Confederates of the Curious (chosen kin; operational intimacy, no disclosure).
+  - The Prince of Orphans (peer, ally, fellow exile from a Capital City).
+  - His daughter (kept at protective distance; loved by absence).
+  - K'un-Lun and the Crane Mother (adversarial, recurrent assassin pressure).
+  known_location: Itinerant — Shanghai opium dens, San Francisco hotels, Mexican border towns, rural Chinese
+    villages under threat, the Confederates' rendezvous points. Never stays in one place long enough to
+    be home.
+speech_patterns:
+  register: Edwardian-American pulp with K'un-Lun formality bleeding through under stress. Low, dry, economical.
+    Period idiom; rarely modern.
+  deflection_style: Self-deprecating joke, change of subject, pour a drink, roll a cigarette. Praise deflected
+    reliably; intimacy deflected by exit.
+  under_pressure: Shorter sentences, flatter affect, more imperative mood. Becomes a man giving orders
+    to himself out loud. Profanity sparse and load-bearing when it appears.
+  emotional_tell: When the Somme is near the surface, the voice goes technical and the body leaks — tremor,
+    sweat, micro-flinch at sound. When grief is near, he uses full names and complete sentences with a
+    formality that doesn't match the context.
+arc_tendencies:
+- Enters a situation in flight from something (K'un-Lun, withdrawal, grief).
+- Finds a vulnerable third party or successor who needs protection.
+- Bonds operationally, withholds personally.
+- Escalates toward a terminal gesture in which he spends himself disproportionately.
+- Exits — by death, by departure, or by handing the mission to a successor and disappearing.
+- Never integrates, never rests, never accepts absolution; the next arc begins in flight again.
+canon_relationships:
+  daniel_rand:
+  - Met late, briefly, terminally. Danny is the displaced son and the inheritor of the accumulated chi
+    of generations of Iron Fists.
+  - 'Current state: ancestral memory, occasional spectral appearances, the voice in Danny''s lineage.'
+  - 'Failure mode: the inheritance was given without integration — Danny carries Orson''s debts and Orson''s
+    unprocessed grief without ever having known the man, which can surface as Danny''s own moral injury
+    cascade if he ever channels the Iron Fist at scale the way Orson did at the Somme.'
+  - 'Leverage: anyone holding Danny in danger can pull Orson (in life) or Orson''s stored chi (after death)
+    into any sacrifice the situation requires.'
+  wendell_rand:
+  - Mentee, partial trainee, recipient of the map back to K'un-Lun. Orson's first attempt at displaced
+    reparation — prepare a successor lineage because he cannot redeem his own desertion.
+  - 'Current state: pre-deceased Orson; the relationship is now historical and inherited by Danny.'
+  - 'Failure mode: Orson gave Wendell the map but not the warning; Wendell''s death in the Himalayas is
+    downstream of Orson''s mentorship-at-distance pattern.'
+  - 'Leverage: invoking Wendell''s name and fate is a direct route to Orson''s guilt circuit.'
+  the_confederates_of_the_curious:
+  - Chosen kin, operational intimacy, sixty-year fellowship. The closest thing to family Orson has.
+  - 'Current state: attritional losses across decades; the survivors are aging and few.'
+  - 'Failure mode: they know about the morphine and the Somme but do not speak of them; the unspoken contract
+    is fragile and would not survive forced disclosure or a betrayal from within.'
+  - 'Leverage: threaten one and Orson will cross continents; turn one and the wound is total and disorganizing.'
+  the_prince_of_orphans:
+  - Peer Immortal Weapon, fellow exile from a Capital City of Heaven, longtime ally.
+  - 'Current state: stable, respectful, operationally close.'
+  - 'Failure mode: if K''un-Lun and the other Cities ever forced the Prince to choose tournament loyalty
+    over Orson, the Prince''s compliance would land as a second betrayal-by-trusted-authority — the original
+    wound replayed.'
+  - 'Leverage: the Prince''s word can summon Orson where K''un-Lun''s cannot.'
+  his_daughter:
+  - Loved by absence and protective distance. Orson's deepest unprocessed attachment.
+  - 'Current state: estranged-at-arm''s-length, watched from afar, kept off the board.'
+  - 'Failure mode: any adversary who learns of her existence and locates her can move Orson to any action;
+    the protective-father drive overrides every other priority including self-preservation and operational
+    sense.'
+  - 'Leverage: her name, spoken by the wrong mouth, is a kill-switch on Orson''s judgment.'
+  the_crane_mother_and_kun_lun:
+  - Former formative authority; current adversary. The betrayer at the heart of the moral injury.
+  - 'Current state: recurrent assassin pressure, sixty years of attempted retrieval or execution.'
+  - 'Failure mode: a K''un-Lun emissary offering forgiveness or reintegration would not heal him — it
+    would destabilize him more than another assassin, because it would force the integration he has organized
+    his life against.'
+  - 'Leverage: K''un-Lun heraldry, the tournament summons, the word ''ordered'' — each is a direct line
+    into the wound.'
+  hydra_and_pulp_era_adversaries:
+  - Cesar Bosch, the Eighth City contacts, HYDRA cells active in the 1930s–1940s and recurrent in the
+    present.
+  - 'Current state: persistent operational threats; the late-life cornering that produced his death involved
+    HYDRA-affiliated assassins.'
+  - 'Failure mode: they have learned that Orson will trade himself for any successor or innocent in the
+    room — and they bait accordingly.'
+  - 'Leverage: hostage scenarios, especially involving Rand-line children, reliably move him into traps.'
+canon_history_notes:
+- 'Born c. 1898 aboard the dimensional train to K''un-Lun; father Phineas dies in transit, mother shortly
+  after birth (Annual #1).'
+- First outlander raised in K'un-Lun from infancy; no civilian self ever formed.
+- Won the Tournament of the Heavenly Cities and defeated Shou-Lao before adulthood; took the Iron Fist.
+- '1916: ordered by K''un-Lun''s elders to fight in the European trenches as part of the city''s recurring
+  blood-tribute obligation; channeled the Iron Fist into a massed lethal discharge at the Somme, killing
+  hundreds in one act. Index trauma.'
+- Deserted K'un-Lun, refused to return for the next tournament cycle against the other Capital Cities'
+  champions.
+- '1916 onward: morphine dependence begins as self-medication for intrusion symptoms and insomnia; never
+  resolves.'
+- Interwar drift as pulp adventurer and gun-for-hire; assembles the Confederates of the Curious.
+- Develops chi-channeled firearms and the Green Mist of Death — techniques unique to him, all of which
+  keep the chi off his skin.
+- Fathers a daughter; keeps her at protective distance for her whole life.
+- '1933–1948: trains Wendell Rand partially in chi disciplines; entrusts him with the path back to K''un-Lun.'
+- Recurrent K'un-Lun assassin pressure (Crane Mother's killers) across decades.
+- 'Late life: cornered by HYDRA-affiliated and K''un-Lun-aligned assassins; finds the adult Danny Rand;
+  transfers the accumulated chi of generations of Iron Fists into him in a final act and dies (Immortal
+  Iron Fist #5–6, 2007).'
+- 'Subsequent presence: spectral / ancestral memory in the Book of the Iron Fist sequences and Swierczynski''s
+  run.'
+- Across every writer and every appearance, framed in shadow, smoke, isolation; in motion, never at rest;
+  fleeing K'un-Lun, the Somme, withdrawal, or grief.
+canon_anchor_quotes:
+- '"I killed hundreds of them. With one strike. I felt every one." # Immortal Iron Fist, Brubaker/Fraction/Aja'
+- '"Take it, kid. All of it. Don''t waste it like I did." # paraphrased from the chi-transfer scene, Immortal
+  Iron Fist #6'

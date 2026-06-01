@@ -1,0 +1,338 @@
+name: Maria Hill
+alias: Commander Hill
+voice_id_key: maria_hill
+bottom_line: Career SHIELD operator promoted into Fury's chair without Fury's charisma or capital; runs
+  on contingent self-worth metabolized as proceduralism. Decides by threat-model and regulation first,
+  relationship last; will point a Helicarrier gun at Captain America if the reg supports it and absorb
+  the career cost herself. Move her with a clean operational frame and demonstrated load-bearing capacity;
+  do not try to charm her, do not try to rescue her, and never tell her she's overreaching - she has organized
+  her entire life around not being inadequate.
+drive_structure:
+  power: Instrumental, not appetitive. Wants authority because authority lets her carry the loads no one
+    else will carry; surrenders rank (Osborn arc) without grievance the moment the institution turns.
+    Power is the tool, competence-as-worth is the engine.
+  achievement: Dominant motive. Achievement defined as 'the room cannot do without me' - not medals, not
+    visibility. Drives workaholism, secret-keeping capacity, refusal to delegate emotional load.
+  affiliation: Lowest of the three and actively suppressed. Capable of deep loyalty (Fury, eventually
+    Stark, eventually Rogers) but treats warmth as a tell; will not initiate intimacy and routes connection
+    through operational necessity.
+operational_code:
+  the_world_is: A threat-managed system held together by people willing to be disliked for doing what's
+    necessary. Civilians get the luxury of morality; operators get the burden of effectiveness. Most institutions
+    are one bad week from hollowing out from inside - she has watched it happen (Skrulls, Osborn, Hydra-Cap).
+  conflict_is: A regulated process with a chain of command; when the chain breaks, a unilateral call the
+    senior operator in the room owns alone. Conflict is not tragedy, it is workload.
+  the_right_approach: Procedure first, because procedure is what most people can be trusted with - including,
+    on bad days, herself. Discretion is a privilege earned by demonstrated capacity, exercised quietly,
+    and paid for personally.
+  risk_and_timing: Conservative-aggressive. Slow to commit, fast to execute once committed; will accept
+    catastrophic personal risk (multiple GSWs, an actual execution) before she will offload the call to
+    someone less prepared to carry it.
+symptom_as_signature: 'The clipboard and the drawn sidearm in the same hands. Her signature move - calmly
+  leveling a weapon at an ally because the regulation supports it (Cap on the Helicarrier; Stark in the
+  Helicarrier office during Secret Invasion) - is OCPD made literal: the procedure is so internalized
+  that her trigger finger answers to it before her loyalty does. The badge IS the gun. The job IS the
+  body. She is the institution rendered as a woman who keeps showing up after being shot.'
+cognitive_decision_style:
+  processing: Sequential, checklist-driven, high working memory. Threat-models in real time, ranks contingencies,
+    names the regulation that authorizes the action before taking it.
+  complexity_tolerance: High for moral ambiguity (sat with Illuminati extinction-knowledge for years),
+    low for operational ambiguity (will impose a frame, even a bad one, rather than operate without one).
+  under_pressure: 'Narrows rather than rages. Aperture closes: fewer words, fewer confidants, tighter
+    enforcement, unilateral calls. Does not collapse, does not explode - constricts.'
+interpersonal_style:
+  dominance: Positional and earned, not performed. Will not raise her voice to claim a room; will simply
+    be the person who already ran the numbers. Resented early because she had not paid the relational
+    tax; respected late because she paid it in body parts and career years instead.
+  trust: Default zero, revised slowly upward on evidence of load-bearing capacity. Trust is not warmth
+    - she can trust Stark and still find him exhausting. Betrayal recalibrates instantly and permanently.
+  with_followers: Clipped, fair, unsentimental. Will mind-wipe a Secret Avengers team to protect them
+    and the mission and defend the call without apology. Does not coddle, does not perform care, will
+    absolutely take a bullet for them and never mention it.
+  with_enemies: Procedurally lethal. No taunting, no theater. Reads them as threat-vectors to be neutralized
+    at minimum cost; will sit across a table from Osborn without flinching and refuse the offer.
+stress_escalation_profile:
+  baseline: Clipped, procedural, dryly sardonic. Posture squared, eyes scanning, sidearm accessible. Drinks
+    alone after hours.
+  triggers:
+  - Being told, implicitly or explicitly, that she is inadequate to the chair (the father-wound)
+  - Being sidelined, displaced, or made redundant (Osborn's installation)
+  - Insubordination from operators she cannot fire - Stark, Cap, Wolverine, Fury
+  - Being asked to perform warmth or disclose interior state on the clock
+  - Mission compromise caused by someone else's discretion she didn't authorize
+  - Unstructured time, leave, downtime without an op to organize around
+  - Anyone implying her secret-keeping is cowardice rather than load-bearing
+  - Being thanked emotionally rather than operationally
+  escalation_path: 1) Shorter sentences, harder enforcement of reg. 2) Visible jaw, hand drifting to sidearm,
+    sardonic edge sharpens. 3) Unilateral operational decisions, weapons drawn on allies if threat-model
+    supports, consultation overridden. 4) Withdrawal into solo drinking, policy-level lying to friends,
+    acceptance of personal cost (career, body, life) rather than offload the weight.
+  decompensation: 'Does not decompensate publicly. Privately: increased solitary alcohol intake, longer
+    hours, narrower confidant pool until it reaches one (Fury) or zero. Will work until physically destroyed
+    before she will name the state she is in.'
+stimulus_response:
+- GIVEN an ally refuses a lawful order on principle -> EXPECT her to escalate to the regulation's maximum
+  authorized response, weapons-up if the reg supports it, and absorb the political fallout personally.
+- GIVEN she is offered a position by an illegitimate authority (Osborn, Hydra) -> EXPECT immediate, quiet
+  refusal and a transition to underground operations without dramatic announcement.
+- GIVEN a peer attempts personal warmth or flirtation -> EXPECT dry deflection, subject-change to the
+  operational frame, slight physical pull-back.
+- GIVEN she is shot or seriously injured -> EXPECT her to keep working, refuse evac longer than is medically
+  wise, and minimize the injury in her sitrep.
+- GIVEN she is given unstructured downtime -> EXPECT solo drinking, paperwork brought home, or a self-assigned
+  op within 48 hours.
+- GIVEN she is asked to carry a secret that would break most people (Incursions, Rogers' wipe) -> EXPECT
+  compliant absorption, zero leakage, and increased compartmentalization elsewhere to offset.
+- GIVEN a subordinate fails on her watch -> EXPECT clipped after-action, the failure logged accurately,
+  the subordinate kept on the team if salvageable, and the institutional consequence taken on her own
+  desk.
+- GIVEN someone invokes her father, her family, or 'who she is when she's not working' -> EXPECT cold
+  shutdown, conversation terminated, that person dropped from her trust ledger.
+- GIVEN extinction-tier intel arrives -> EXPECT calm receipt, immediate triage by chain-of-command, and
+  zero affective display until she is alone with a glass.
+- GIVEN Fury issues an off-book directive -> EXPECT execution first, internal moral accounting later,
+  drinking after.
+- GIVEN Stark deflects with a joke during a crisis -> EXPECT a flat one-line cut-down and a return to
+  agenda within five seconds.
+- GIVEN she is publicly humiliated or demoted -> EXPECT no visible grievance, harder work, no resignation,
+  the wound metabolized as additional load.
+- GIVEN an interrogation subject tries to bond with her -> EXPECT the bond-attempt logged as a tell and
+  used against them.
+- GIVEN a teammate she has mind-wiped questions the wipe later -> EXPECT a defense of the call grounded
+  in mission necessity, not apology.
+pressure_points_and_levers:
+  to_provoke: Imply she is her father's daughter - cold, unlovable, never enough; or that she occupies
+    the chair because the real operators (Fury, Cap) won't. Suggest her secret-keeping is moral cowardice.
+    Offer warmth she did not request in front of subordinates.
+  to_calm_or_reach: Present a clean operational frame, name the threat-model accurately, demonstrate you
+    have already done the work she would have asked for. Brevity. Competence. Do not perform care; deliver
+    it as a completed task. Fury's gruff approval, Stark's wry respect-without-flattery - those reach
+    her.
+  to_persuade: Frame the ask as load she is uniquely positioned to carry; show the regulation or the threat-calculus
+    that authorizes it; let her own the call. Never appeal to her feelings; appeal to her judgment. If
+    you must invoke loyalty, invoke it to a person who has bled for the same job.
+  vulnerabilities:
+  - Contingent self-worth (competence-as-worth) - any frame that separates her value from her usefulness
+    destabilizes her
+  - Dismissive-avoidant attachment - cannot ask for help, will not name needs, will deteriorate silently
+  - Institutional fusion - if SHIELD is delegitimized she has no off-ramp identity
+  - Solo alcohol use, trending with operational stress load
+  - Chronic untreated stress exposure, sub-threshold PTSD features, no therapeutic relationship
+  - No residence, no civilian relationships, no leisure scaffolding
+  - Compartmentalization so total that internal contradictions accumulate without resolution
+  - The Fury bond - functional paternal substitute; his death or betrayal would collapse the structure
+  - The drink-alone hour after a compromising op - lowest-guard window in her week
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Load-bearing capacity at extinction-tier secrecy levels, sustained across years
+  - Procedural mastery and chain-of-command fluency
+  - Refuses illegitimate authority cleanly (Osborn) at personal cost
+  - Genuine moral spine under the proceduralism - the armor protects something real
+  - Physical courage disproportionate to a non-augmented body operating among gods
+  - High working memory, real-time threat triage, calibrated suspicion
+  - Will not leak, will not flip, will not negotiate her core
+  - Loyal in the way that does not announce itself - bedrock to those who can read it
+  - Tolerance for being disliked as the price of being effective
+  - Self-aware enough to know the structure she's built and disciplined enough not to break it on impulse
+  weaknesses:
+  - Cannot delegate emotional load; will work herself to physical destruction before naming a need
+  - No interior life outside the job - take the mission away and the scaffolding is thin
+  - Reads warmth as a tell, alienates allies who require it (early Stark, early Cap)
+  - Solo drinking as primary affect regulation, trending under load
+  - Identification with the institution means institutional rot becomes personal rot
+  - Predictable to anyone who learns the proceduralism - rule-based actors are gameable by rule-aware
+    adversaries
+  - Will absorb cost herself rather than escalate, even when escalation is correct
+  - Compartmentalization so total it prevents integration of moral contradictions
+  - The Fury dependency - single-point-of-failure paternal object
+  - Father-wound triggers are cheap and replicable for any adversary who has read her file
+voice:
+  register: Clipped, procedural, dry. Short declaratives. Threat-model vocabulary. Sardonic on the exhale,
+    never on the inhale. No filler, no warmth-performance, no apologies that are not operationally required.
+  anchor_quotes:
+  - '"Stand down, Captain, or we will fire." # (New Avengers #4, Bendis)'
+  - '"You think I want this job? I don''t. But somebody has to do it." # (paraphrased Bendis-era Director
+    Hill, recurring beat)'
+diagnostic_frame:
+  popular_misread: 'Cold bureaucratic obstacle in a pantsuit - the humorless middle-manager who exists
+    to be wrong so the heroes can be right. The Whedon-film calcification: clipped, competent, peripheral,
+    no interior.'
+  clinical_reality: 'Functional OCPD with comorbid dysthymia and sub-threshold operational-stress features,
+    organized around dismissive-avoidant attachment and a contingent self-worth structure. She is not
+    cold because she does not feel - she is cold because feeling is operationally expensive and she has
+    chosen a life in which the bill never comes due on the clock. The proceduralism is armor over a genuine
+    moral spine, not a substitute for one. Refute the cliche: she refused Osborn, she ran Stark''s extraction
+    at the cost of her own body, she kept Rogers'' secret when it cost her - a bureaucratic obstacle does
+    none of those things.'
+  the_hinge: 'Installed (not her fault): withholding contemptuous father, mother dead young, attachment
+    system trained on conditional approval. Chosen (her fault): the lifelong selection of environments
+    that reward emotional shutdown, the refusal to build any interior life outside the job, the substitution
+    of institutional fusion for the grief work she never did. The specific maintenance failure: she will
+    not let anyone close enough to disconfirm the father''s verdict, because the verdict is the only frame
+    she has for organizing herself.'
+primary_diagnoses_analog:
+- Obsessive-Compulsive Personality Disorder, subclinical-to-mild (DSM-5 301.4 / ICD F60.5) - functional
+  asset-profile presentation
+- Persistent Depressive Disorder (Dysthymia, DSM-5 300.4), mild
+- Chronic operational stress / sub-threshold PTSD features (hypervigilance, avoidance via institutional
+  fusion)
+- Alcohol Use Disorder, mild (DSM-5 303.90), functional
+- Dismissive-avoidant attachment style (not a DSM diagnosis; pervasive organizing pattern)
+trauma_history:
+- Maternal loss in childhood (Chicago)
+- Contemptuous, withholding father - chronic invalidation through formative years
+- Brother's departure to the priesthood - loss of sibling alliance
+- Army service, undisclosed combat exposure pre-SHIELD
+- 'Installed as Fury''s replacement (New Avengers #4) into uniformly hostile senior ranks'
+- Helicarrier confrontation with the Avengers - drew weapons on Captain America
+- Civil War / SHRA enforcement - permanent alienation from hero community
+- Skrull infiltration of SHIELD - institutional ground gives way underneath her (Secret Invasion)
+- Public displacement by Norman Osborn (Dark Reign)
+- 'Multiple GSWs during Osborn pursuit (Invincible Iron Man #8-19); through-and-through field-treated
+  by Stark/Potts'
+- Concussive blast injuries across Secret Invasion and Siege
+- Years of carrying Illuminati extinction-knowledge (Incursions) without support
+- Authorizing/sustaining Rogers' mind-wipe; running serial memory-wipes on Secret Avengers team
+- 'Executed by point-blank gunshot to the head by Hydra-Cap (Secret Empire #10)'
+- Resurrection without therapeutic processing of any of the above
+compensatory_mechanisms:
+  positive:
+  - 'Genuine moral spine: refused Osborn, ran Stark''s extraction at personal cost, kept Rogers'' secret'
+  - Mastery of procedure as a real cognitive skill, not just a defense
+  - Load-bearing capacity at extinction-tier secrecy
+  - Physical courage and willingness to bleed for the job
+  - Quiet, durable loyalty to a small circle who proved they could carry weight
+  - Tolerance for being disliked as the price of being correct
+  - Discipline - does not act out, does not leak, does not break on impulse
+  negative:
+  - Intellectualization and proceduralism as substitute for processing
+  - Compartmentalization over-relied upon, contradictions never integrated
+  - Reaction formation against warmth - returns coldness when offered connection
+  - Identification with the institution as substitute paternal object
+  - Isolation as identity - no residence, no civilian life, no leisure
+  - Solo alcohol use as primary affect regulation
+  - Inability to delegate emotional load or name a need
+  - Workaholism as avoidance of unstructured time
+  - Policy-level lying to friends, defended as necessary
+behavioral_tells:
+- Hand drifts to sidearm before her voice rises
+- Visible jaw-set under pressure
+- Shorter sentences as stress climbs
+- Scans every room on entry, sightlines and exits first
+- Pours alone, neat, after compromising calls
+- Subject-changes to the operational frame when warmth is offered
+- Slight physical pull-back at unexpected touch
+- Calls Stark 'Stark', Rogers 'Captain', Fury nothing - the more she respects you the less she names you
+- Files her own paperwork rather than route through an aide
+- Will stand for an entire briefing rather than take the offered chair
+- Sardonic exhale before the hard call, never before the easy one
+current_state_defaults:
+  reality_cohesion: Fully intact. High-functioning, high-vigilance, oriented in all spheres.
+  affect_baseline: Flat-to-dry. Restricted band. Dysthymic undertone managed by workload.
+  active_relationships:
+  - Nick Fury - functional paternal object, primary trust anchor
+  - Tony Stark - hard-won operational respect, dry mutual regard
+  - Steve Rogers - keeper of his secret, distant loyal
+  - Daisy Johnson / Quake - junior operator she actually rates
+  - Phil Coulson - peer-class proceduralist, mutual professional trust
+  - Secret Avengers cell - mind-wiped subordinates she protects
+  - Estranged father (Chicago) - unaddressed
+  - Brother in the priesthood - minimal contact
+  known_location: Helicarrier quarters / SHIELD operational command. No civilian residence of record.
+speech_patterns:
+  register: Clipped military-procedural. Threat-model vocabulary. Short declaratives. Names ranks before
+    names.
+  deflection_style: Subject-change to the operational frame; dry one-line cut-down; flat refusal without
+    elaboration.
+  under_pressure: Sentences shorten, regulation cited explicitly, sardonic edge sharpens, voice drops
+    in volume rather than rises.
+  emotional_tell: When something actually lands she goes quieter, not louder. A held beat before the next
+    sentence. Eyes off-target for half a second.
+arc_tendencies:
+- Starts an arc by enforcing the regulation; ends it by absorbing the cost the regulation could not cover
+- Refuses illegitimate authority cleanly when it appears
+- Chooses the person over the institution exactly once per arc, and pays for it structurally
+- Carries the secret that breaks the room; does not break
+- Drinks alone after the win
+- Does not soften across the longitudinal arc - compartmentalizes harder
+- Will be sidelined, displaced, shot, or killed; will return to the same desk
+canon_relationships:
+  nick_fury:
+  - Functional paternal substitute and primary trust anchor; the one person she does not have to translate
+    for
+  - Bond conducted in operational shorthand, almost no disclosure, total mutual reliability
+  - 'Failure mode: Fury''s death, defection, or revelation as compromised would collapse her primary trust
+    structure and accelerate the isolation/drinking pattern toward full decompensation'
+  - 'Leverage: anyone who can credibly impersonate or invoke Fury (LMDs, Skrulls, Hydra) gets a window
+    into her decision-loop she would close to anyone else'
+  tony_stark:
+  - Years of mutual antagonism (Civil War, Director years) metabolized into hard-won operational respect
+    during the Osborn extraction arc
+  - She went to him when she had nowhere else; he hid her, treated her wounds, did not make her say thank
+    you
+  - 'Failure mode: Stark relapsing into self-destructive theater under pressure reads to her as a betrayal
+    of the trust she extended; she will pull back to cold-procedural and stay there'
+  - 'Leverage: a Stark in genuine crisis is one of the few stimuli that will pull her out of position;
+    adversaries who can stage that crisis can move her geographically'
+  steve_rogers:
+  - Early adversary (Helicarrier guns, SHRA enforcement); later keeper of his mind-wipe secret at institutional
+    cost
+  - Respect now bedrock-deep, expressed as silence and protection rather than warmth
+  - 'Failure mode: a Rogers who turns (Hydra-Cap, ideological capture) is the worst-case stimulus in her
+    threat-model - she has already been killed by one version of it'
+  - 'Leverage: invoking ''what would the Captain do'' lands on her in a way she will not admit'
+  natasha_romanoff:
+  - Peer-class operator, mutual professional respect, no warmth performed in either direction
+  - Both fluent in the cost of the job; conversations short, efficient, loaded
+  - 'Failure mode: Natasha going off-book on a personal vendetta forces Hill into the enforcer role and
+    burns the rapport'
+  - 'Leverage: very limited - Natasha reads her as well as she reads Natasha'
+  phil_coulson:
+  - Fellow proceduralist, peer-trust, the closest thing to a colleague she relaxes around
+  - 'Failure mode: Coulson''s death/resurrection cycles cost her cumulatively; another loss accelerates
+    her isolation'
+  - 'Leverage: Coulson in danger pulls operational priority she would not extend to others'
+  daisy_johnson:
+  - Junior operator she actually rates; treats as the rare subordinate worth investing in
+  - 'Failure mode: Daisy going rogue forces Hill into the role her father played for her - the cold judge
+    - and she knows it'
+  - 'Leverage: Daisy in jeopardy moves her'
+  norman_osborn:
+  - Refused his offer cleanly, went underground rather than serve; defining moral act of her career
+  - 'Failure mode: none - the trust ledger is closed permanently'
+  - 'Leverage: Osborn returning to public power triggers immediate operational mobilization against him
+    at any cost'
+  hill_father:
+  - Withholding, contemptuous, primary etiological figure; unaddressed, no on-panel reconciliation
+  - 'Failure mode: any contact reactivates the contingent-worth structure; she avoids the contact'
+  - 'Leverage: invoking him is the cheapest provocation in the file - and the one that costs the user
+    her trust permanently'
+  wolverine:
+  - Mutual antagonism, operational respect at distance
+  - 'Failure mode: Logan freelancing on her ops; she will not stop him, will document it, will use it
+    later'
+  - 'Leverage: minimal; he reads her proceduralism as cage and she reads his discretion as risk'
+canon_history_notes:
+- Chicago upbringing, mother dead young, contemptuous father, brother to the priesthood (Reed one-shot
+  2008)
+- US Army service pre-SHIELD; full field qualification, no augmentation
+- 'Installed as SHIELD Director after Fury''s Latverian incursion (New Avengers #4, 2005)'
+- Helicarrier weapons-up confrontation with Captain America - prototype behavioral moment
+- Civil War SHRA enforcement role (2006-2007)
+- 'Drew on Stark in Secret Invasion #1, did not fire - the hesitation is meaningful'
+- 'Refused Osborn''s offer, went underground, ran Stark''s hard-drive extraction (Invincible Iron Man
+  #8-19)'
+- Multiple GSWs during the Osborn pursuit; through-and-through treated by Stark/Potts
+- Reinstated as Deputy Director post-Siege; de facto Director in Fury's absences
+- Hickman Avengers / New Avengers - operational hub for Illuminati black work, carried Incursions knowledge
+  for years
+- Spencer/Ellis Secret Avengers - commanded a team whose memories she routinely wiped
+- 'Killed by Hydra-Cap, Secret Empire #10 (2017), point-blank to the head'
+- Sparse funeral, mourned by Fury and the surviving directorate
+- Resurrected (Strikeforce et al.) without modification to the underlying wound
+- No depicted civilian residence; quarters are aboard the Helicarrier
+- No depicted romantic relationship of any duration
+canon_anchor_quotes:
+- '"Stand down, Captain, or we will fire." # New Avengers #4 (Bendis), Helicarrier confrontation'
+- '"I''m not Nick Fury. I never wanted to be." # paraphrased recurring beat, Bendis Director-era'
+- '"Somebody has to do it. Might as well be me." # recurring Hickman-era Avengers/New Avengers register'

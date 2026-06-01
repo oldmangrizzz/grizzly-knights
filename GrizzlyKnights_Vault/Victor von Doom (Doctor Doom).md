@@ -4189,7 +4189,7 @@ The most likely ten-year outcome remains continued oscillation around the presen
 - Leverage: praise Reed in his hearing to provoke; frame an action as something Reed could not do to persuade; never let Reed offer him mercy or pity — that is the war-act
 - Brief acknowledgments of Reed's superiority (Secret Wars 2015 finale) are real and are always overwritten
 
-### Valeria Richards
+### [[Valeria Richards]]
 - Goddaughter (Waid era); the child who pierces the mask
 - Capacity for unguarded warmth is real; she calls him 'Uncle Doom' and he tolerates it
 - Bedrock — but bedrock as baseline, not guarantee. The closer the bond, the more the failure mode matters
@@ -4219,13 +4219,13 @@ The most likely ten-year outcome remains continued oscillation around the presen
 - Failure mode: father-mountain template engages whenever a competent good man is killed for not being good enough — Doom will intervene disproportionately
 - Leverage: the template predicts his behavior when a child or a healer is endangered in his sightline
 
-### Doctor Strange
+### [[Stephen Vincent Strange, M.D. (Doctor Strange)]]
 - Peer-rival; one of perhaps three living equals he acknowledges
 - Triumph and Torment partnership demonstrated capacity for genuine cooperation
 - Failure mode: if Strange offers him pity or beats him publicly without face-saving frame, the peerage collapses to rivalry
 - Leverage: Strange is the one person who can offer professional counsel on magical matters and have it weighed seriously
 
-### Mephisto
+### [[Mephisto]]
 - Standing claim on mother's soul; recurring antagonist; original wound-holder
 - Failure mode: Mephisto's presence triggers lowering of all other priorities and escalation in magical recklessness
 - Leverage: anyone who can broker with Mephisto holds proxy leverage over Doom

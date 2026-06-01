@@ -4337,7 +4337,7 @@ The vector, on balance, points toward integration. The watch, on balance, must r
 - Failure mode: her rejection of him as savior collapses the only self-redemption fragment he allows himself.
 - Leverage: anyone threatening Marrow accesses him directly.
 
-### Apocalypse
+### [[En Sabah Nur (Apocalypse)]]
 - The second exploitative-father. The Death conversion. The Sinister bargain rerun in higher key.
 - Current state: residual conditioning dormant; conversion artifacts (sclera flares, intrusive imagery) intermittent.
 - Failure mode: any reactivation of the Death programming is catastrophic and may not be reversible from outside.

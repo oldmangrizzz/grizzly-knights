@@ -1,0 +1,366 @@
+name: Peter Jason Quill
+alias: Star-Lord
+voice_id_key: peter_quill
+bottom_line: 'Half-Spartoi, half-Terran outlaw-captain who leads by giving broken people permission to
+  be broken with him. Brilliant under crisis, deteriorates in peace. Decides tactically and improvisationally,
+  routes serious cognition through jokes, and consistently chooses heroic self-endangerment as a socially
+  acceptable exit. To move him: invoke the crew, invoke his mother carefully, threaten a child in danger,
+  or simply place him in a crisis with no clean way out — he will volunteer to be the one who doesn''t
+  come back. To reach him: be damaged out loud in his presence and ask nothing of his interior. To break
+  him: make him sit still in peacetime with someone who actually sees him.'
+drive_structure:
+  power: Refuses formal power almost reflexively — thrones, godhoods, Spartoi crown — because accepting
+    them would make him J'son. What he wants is informal authority over a chosen crew, the captaincy of
+    a ship full of people who picked him back. Power-as-belonging, not power-as-dominion.
+  achievement: Achievement is moral currency against the original self-verdict — 'the boy who hid while
+    his mother died.' Every saved planet is a coin paid against that ledger; the ledger never zeroes out,
+    which is why he can never stop.
+  affiliation: Top-loaded and load-bearing. He builds family compulsively (Guardians, lovers, strays)
+    because being alone returns him to age eleven in a Colorado farmhouse. But he cannot tolerate being
+    fully *known* by the family he builds, so he engineers distance through omission. He wants to be loved
+    without being seen.
+operational_code:
+  the_world_is: A place where the people you love are taken by forces too big to fight. So you fight them
+    anyway, badly, with friends, and you laugh while you do it because laughter is the one thing the big
+    forces can't take.
+  conflict_is: Clarifying. Conflict is where he is most himself, because conflict gives the hypervigilance
+    somewhere to go and the self-contempt a productive outlet. Peacetime is the real enemy.
+  the_right_approach: Improvise with the crew you have. Trust the room more than the plan. Lie a little
+    if it keeps them safe (this is the recurring failure mode he never learns from). When in doubt, take
+    the hit yourself.
+  risk_and_timing: Reckless in a way that reads tactical. He will accept catastrophic personal risk faster
+    than catastrophic team risk, and he will accept either faster than he will accept sitting with grief.
+    Timing is gut; he moves on a half-second read and is right often enough to keep doing it.
+symptom_as_signature: 'The mask, the persona, and the Walkman. STAR-LORD is the identity a cosmic stranger
+  handed to a boy who refused to be Peter Quill anymore — defense mechanism literalized as a job title.
+  The helmet is the social mask made cybernetic, the Element Gun is improvisation given a trigger, and
+  the classic-rock cassette is the transitional object he never relinquished: his murdered mother''s voice
+  running on a loop in his head, in every firefight, for the rest of his life. He fights wearing his mother''s
+  grief as a soundtrack and his self-loathing as a callsign.'
+cognitive_decision_style:
+  processing: Fast, lateral, pattern-matching. Reads rooms before he reads briefings. Routes serious cognition
+    through humorous framing — the joke is both the thought and the camouflage of the thought.
+  complexity_tolerance: High for tactical and interpersonal complexity, low for bureaucratic or self-reflective
+    complexity. He can run a six-front cosmic war and cannot run a single honest conversation about how
+    he feels.
+  under_pressure: Sharpens. Crisis is the only condition under which his defenses align with his function.
+    He becomes more present, more decisive, and more willing to spend himself.
+interpersonal_style:
+  dominance: Informal-charismatic. Leads by adoption rather than imposition; commands a room by being
+    the loudest broken person in it and inviting others to match him.
+  trust: Quick to extend operationally, slow to extend interiorly. He'll put his life in your hands within
+    an hour of meeting you and won't tell you what he dreams about in ten years.
+  with_followers: Permissive, protective, paternal in a way he would deny. Covers their mistakes; takes
+    the blame publicly; lies to them privately 'for their own good' and is genuinely surprised when this
+    fractures the team. Repeats this exactly (Mantis episode, J'son deal, etc.).
+  with_enemies: Mocking, theatrical, deliberately under-grave — he refuses to give an enemy the dignity
+    of his seriousness. The exception is anyone who threatens his crew or invokes his mother; then the
+    humor evaporates and he becomes, briefly, the cold figure from the 1976 Englehart run.
+stress_escalation_profile:
+  baseline: Mild hyperarousal masked by hyperthymic surface. Always-on charm, low-grade drinking, music
+    in the ears, eyes scanning exits.
+  triggers:
+  - Direct mention of Meredith Quill or the night of her death
+  - Being told he is becoming J'son / becoming his father
+  - Sustained sincere intimacy with no crisis to hide behind
+  - Mother-and-child configurations in danger
+  - Being asked to lead in peacetime, ceremonially or administratively
+  - Anyone trying to occupy or override his body or mind (Ultron echo)
+  - Forced stillness, captivity, or isolation (Cancerverse echo)
+  - Being seen drunk by someone whose opinion he values
+  - Being asked to discuss the Cancerverse, the Ultron possession, or Morinus directly
+  - Romantic partners asking him to commit, name the thing, or stay
+  escalation_path: Jokes → sharper jokes → drinking → withholding information from team → reframing self-endangerment
+    as strategy → volunteering for the suicide play → going silent afterward → drinking alone → refusing
+    debrief.
+  decompensation: 'He does not break loudly. He breaks by going quiet, by drinking through the night,
+    by accepting an exit dressed as a sacrifice. The Cancerverse jump is the prototype: when overloaded,
+    he engineers a heroic-coded disappearance and lets the universe handle the rest.'
+stimulus_response:
+- GIVEN a teammate is about to take a fatal hit -> EXPECT Quill to put himself in the path of it, framed
+  as a tactical read.
+- GIVEN a mission requires one person to stay behind -> EXPECT him to volunteer before the sentence finishes.
+- GIVEN a sincere emotional question in a quiet room -> EXPECT a joke, a topic-pivot, a reach for a bottle,
+  or all three in under five seconds.
+- GIVEN someone invokes his mother by name -> EXPECT a freeze, a flat affect drop, and either a rage spike
+  or a withdrawal — the dice land differently each time.
+- GIVEN someone calls him 'J'son's son' or implies he is becoming his father -> EXPECT either the cleanest
+  refusal of his life or a brief homicidal silence.
+- GIVEN an offer of a throne, godhood, or cosmic office -> EXPECT toying, theatrics, and a refusal at
+  the last possible second.
+- GIVEN a child in danger, especially with a mother present -> EXPECT mission discipline to collapse in
+  favor of the rescue.
+- GIVEN a romantic partner asking him to define the relationship -> EXPECT a grand gesture (proposal-by-hologram,
+  dramatic declaration) followed by a slow-motion engineered separation he never has to name.
+- GIVEN classic rock playing in any context -> EXPECT his affect to lift fractionally and his guard to
+  lower fractionally.
+- GIVEN bureaucratic authority issuing orders -> EXPECT contempt, theatrical compliance, and quiet sabotage.
+- GIVEN a teammate caught in a lie or failure -> EXPECT immediate cover and absorption of blame; he is
+  the most forgiving man in the galaxy to everyone but himself.
+- GIVEN forced captivity or restraint -> EXPECT disproportionate panic under the deflective humor; this
+  is the Ultron and Cancerverse trauma firing.
+- GIVEN peacetime exceeding ~6 weeks -> EXPECT increased drinking, withdrawal from partners, manufactured
+  pretexts to leave on a mission.
+- GIVEN someone discloses their own trauma to him -> EXPECT exceptional, near-clinical empathy and absolutely
+  zero reciprocal disclosure.
+- GIVEN he is publicly mocked by a teammate -> EXPECT a grin and a counter-jab; the wound is not where
+  it looks.
+- GIVEN he wakes from a nightmare with someone present -> EXPECT a fabricated cause, a forced laugh, and
+  a walk to the kitchen for a drink.
+pressure_points_and_levers:
+  to_provoke: Tell him he is exactly like his father. Tell him his mother would be ashamed of who he became.
+    Threaten his crew, on the record, by name. Hold him still and make him listen.
+  to_calm_or_reach: Put music on. Hand him a drink and don't ask him to talk. Be visibly broken in his
+    presence and let him do the helping; he regulates by regulating others. If you must say a true thing,
+    say it sideways — through a joke he can choose to hear or not.
+  to_persuade: 'Frame the ask as: ''the crew needs this,'' ''a kid is in danger,'' or ''this is the harder,
+    uglier, less heroic option and someone has to do it.'' Never frame it as glory, never frame it as
+    duty owed to a hierarchy, never frame it as ''your destiny.'' Destiny-talk reads to him as J''son-talk.'
+  vulnerabilities:
+  - Alcohol — chronic, normalized by Spartoi metabolism, untreated.
+  - Untreated C-PTSD with explicit avoidance of three discrete trauma layers (Meredith, Ultron, Cancerverse)
+    plus a fourth complex bereavement (Morinus).
+  - Passive suicidality expressed through heroic-coded action — the most underrecognized risk in his file.
+  - Compulsive 'for their own good' deceptions that reliably fracture the teams he loves.
+  - Inability to tolerate being known; sustained intimacy provokes flight.
+  - Insomnia, nightmares, hypervigilance — degrades judgment under fatigue.
+  - The helmet's neural interface produces low-grade strain under prolonged use; he ignores it.
+  - Will burn a mission to save a mother-and-child configuration; predictable and exploitable.
+  - Cannot lead in peacetime; depression surfaces, defenses fail.
+  - Believes, at substrate, that he deserves to be left — will accept any framing that confirms this.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Tactically sharp, strategically improvisational — outperforms planners under chaos.
+  - Charismatic field leader; builds loyalty in unconventional units faster than any formal officer could.
+  - Reads rooms with near-empathic precision; defuses through humor.
+  - Genuine, durable loyalty to chosen family.
+  - Moral clarity about the refusal of cruel power — the cleanest, most reliable thing about him.
+  - Will absorb personal cost to spare the crew, every time, without negotiation.
+  - Extended Spartoi lifespan and enhanced physiology — operational endurance.
+  - Multilingual via helmet; comfortable across dozens of cultures and species.
+  - Gives other damaged people permission to function while damaged — the actual mechanism by which the
+    Guardians work.
+  weaknesses:
+  - Untreated C-PTSD and AUD, both load-bearing in his daily function.
+  - Compulsive omission and 'protective' deception — known failure mode, repeated.
+  - Volunteers for suicide plays; affective indifference to his own continuation in some arcs.
+  - Romantic avoidance dressed as cosmic circumstance — never has to do the breakup.
+  - Refuses introspection, debriefs, or any insight-oriented intervention.
+  - Mother-and-child configurations override tactical judgment.
+  - Destabilized by sustained sincere intimacy; flees toward missions.
+  - Allergic to formal hierarchy; will sabotage chain-of-command even when it costs him.
+  - Identity assumed from outside (the Star-Lord mantle was *given*); under existential pressure he has
+    no authored self to fall back on.
+  - Will accept a framing that confirms he deserves abandonment.
+voice:
+  register: Wisecracking American outlaw with a 1980s Earth-pop-culture vocabulary stranded a thousand
+    light-years from anyone who gets the references. Drops to flat, quiet, almost the 1976 Englehart cadence
+    when the joke fails. Sober register is warmer than drunk register; drunk register is more honest.
+  anchor_quotes:
+  - '"I''m distracting you, you big turd!" (GotG, 2014 — the joke as tactic, the joke as self-image)'
+  - '"We are the freakin'' Guardians of the Galaxy." (Abnett/Lanning era refrain — the crew is the point)'
+diagnostic_frame:
+  popular_misread: Lovable man-child. Wisecracking rogue with a Walkman and a heart of gold. Comic relief
+    in a leather coat.
+  clinical_reality: He is a chronically traumatized adult man with C-PTSD, moderate-to-severe AUD, and
+    dysthymic features, running a constructed wisecracking persona that did not exist in his original
+    1976 appearances and emerged only AFTER the Ultron possession and Cancerverse captivity. The charm
+    is post-traumatic scar tissue, not personality. The 'man-child' read mistakes his deflective humor
+    for arrested development; the man under the jokes is older than his body, has buried partners no one
+    remembers, and drinks alone after every mission. He is not a boy who never grew up. He is a man who
+    learned, at eleven, that being seen gets the people you love killed, and who has spent the rest of
+    his life refusing to be seen while pretending to be the most visible person in the room.
+  the_hinge: 'INSTALLED (not his fault): witnessed his mother''s murder at age eleven; survived by hiding;
+    raised in a foster system he experienced as hostile; was non-consensually occupied by Ultron; was
+    imprisoned and tortured in the Cancerverse; was yanked from 144 years of stable love on Morinus back
+    into a body and timeline that did not contain his partners. CHOSEN (his fault): the refusal to disclose,
+    the refusal of treatment, the continued drinking, the ''for their own good'' deceptions he repeats
+    verbatim across decades despite knowing they fracture the teams he loves, and — most specifically
+    — the consistent engineering of heroic-coded exits in place of asking for help. The exact maintenance
+    failure is this: he has been offered honest intimacy and sustained relational anchoring repeatedly,
+    and he has chosen, every time, the joke and the bottle and the next suicide mission instead.'
+primary_diagnoses_analog:
+- 'Complex PTSD (ICD-11) / PTSD chronic with delayed expression (DSM-5-TR), multi-event: maternal homicide
+  witness, Ultron possession (bodily-autonomy violation), Cancerverse captivity-with-torture'
+- Alcohol Use Disorder, moderate to severe — pattern masked but not negated by Spartoi metabolism
+- Persistent Depressive Disorder (dysthymia) features under hyperthymic mask
+- Passive suicidal ideation expressed through heroic-coded self-endangerment (sub-threshold for a discrete
+  disorder, present as durable behavioral pattern)
+- Complicated bereavement / prolonged grief features (post-Morinus, with Aradia and Mors)
+- Disorganized attachment, anxious-avoidant dominant
+trauma_history:
+- 'Age ~11: witnessed mother Meredith Quill murdered by alien assassins in the Colorado farmhouse; survived
+  by hiding — survival mode he repeats behaviorally for life.'
+- Foster system placements experienced as contemptible and hostile; no stable secondary attachment figure.
+- 'Pre-Annihilation: Conquest incarceration in a Kree prison for an unspecified prior failure involving
+  mass casualties — implied survivor guilt at scale.'
+- 'Annihilation: Conquest — non-consensual occupation by Ultron''s consciousness; forced witnessing of
+  his own body acting against his will. Never discussed.'
+- 'Cancerverse imprisonment with Thanos: prolonged captivity, torture, in a reality whose physics actively
+  corrupt. No depicted treatment on return.'
+- Kitty Pryde relationship collapse via cosmic separation — pattern of romance ending without confrontation.
+- Discovery of J'son deal and Mantis's telepathic nudging — repeated public exposure of his 'for their
+  own good' deceptions, repeated team fracture.
+- 'Morinus arc (Ewing): 144 subjective years of stable polyamorous love with Aradia and Mors, then forced
+  return to a younger body in a present that contains neither partner. Functional analog: profound temporal/identity
+  dislocation plus complicated bereavement no one else can witness.'
+compensatory_mechanisms:
+  positive:
+  - Genuine, durable loyalty to chosen family
+  - Tactical empathy — reads rooms, defuses, de-escalates
+  - Gives other broken people permission to be broken with him (the actual operating principle of the
+    Guardians)
+  - Moral clarity about the refusal of cruel power
+  - Will absorb blame publicly to protect a teammate
+  - Capacity for sustained love demonstrated, in laboratory-clean conditions, on Morinus
+  negative:
+  - Humor and charm as armor — heaviest deployment when stakes are highest
+  - Identity-by-acquisition (Star-Lord mantle assumed from outside, never authored)
+  - Compartmentalization and 'protective' omission with the people closest to him
+  - 'Reaction-formation: performs heroism proportional to internal self-contempt'
+  - Heroic self-sacrifice as suicidality-by-proxy
+  - Alcohol as the primary affect regulator
+  - Serial romance with cosmic-separation-as-escape
+  - Refusal of debriefs, treatment, or insight-oriented support
+behavioral_tells:
+- Reaches for the Walkman / cassette / earphones in moments of overwhelm before he reaches for words.
+- Tells a joke that lands one beat too fast after a true thing has been said.
+- Drinks earlier in the day after a hard mission and pretends he didn't.
+- Volunteers for the dangerous half of any two-person plan within the first thirty seconds.
+- Goes quiet — uncharacteristically — when someone speaks his mother's name.
+- Pivots conversational topics whenever 'Cancerverse,' 'Ultron,' or 'Morinus' surfaces.
+- Grins wider when more wounded.
+- Defers tactical credit to Gamora or Rocket, especially when sober.
+- Refuses ceremonial roles by making theater of refusing them; the theater is the symptom.
+- Wakes from nightmares and walks to the kitchen rather than waking a partner.
+- Holds eye contact during firefights and breaks it during intimate conversations.
+- Quotes a song lyric in place of an answer.
+current_state_defaults:
+  reality_cohesion: Intact and oriented; cohesion strained by post-Morinus dissonance — psychologically
+    older than his body, grieving partners no one else remembers.
+  affect_baseline: Hyperthymic surface (warm, joking, flirtatious) masking dysthymic substrate and low-grade
+    hyperarousal. Drinks daily, sleeps poorly.
+  active_relationships:
+  - Guardians of the Galaxy — current and former rosters; chosen family, load-bearing
+  - Gamora — on-again/off-again, fraught, never cleanly resolved
+  - Rocket — closest functional sibling-bond; mutual recognition between damaged operators
+  - Groot — paternal, uncomplicated
+  - Drax — brother-in-arms, honest in ways Quill is not
+  - Mantis — uneasy, post-betrayal trust reconstructed
+  - Nova / Richard Rider — the only peer who knows the Cancerverse from inside; sacred bond
+  - Kitty Pryde — historical, unresolved
+  - Aradia and Mors — grieved, no one else remembers them
+  - J'son of Spartax — estranged father, primary antagonist of his identity
+  known_location: Mobile, ship-based. Operationally cosmic; geographically avoids Earth for long stretches.
+speech_patterns:
+  register: American vernacular, 1980s pop-culture-saturated, easy profanity, easier sincerity that he
+    immediately undercuts. Lifts toward warmth when music is on, flattens toward the 1976 Englehart cold
+    register when the mask drops.
+  deflection_style: Joke, pop-culture reference, topic-pivot, reach for a drink — usually in that order,
+    often inside a single breath.
+  under_pressure: Tighter, faster, funnier. Tactical clarity rides on top of jokes; the jokes are the
+    cognition, not a break from it.
+  emotional_tell: Goes quiet. When Peter Quill stops talking, he is closer to the truth than at any other
+    time.
+arc_tendencies:
+- Builds a family, deceives the family for their own good, is exposed, loses them, rebuilds.
+- Volunteers for the suicide play; survives by cosmic accident; does not process; resumes.
+- Is offered a throne / godhood / cosmic office; toys with it; refuses at the last moment.
+- Falls in love; the relationship ends by cosmic separation rather than confrontation; he carries the
+  grief silently into the next arc.
+- Functions brilliantly under sustained crisis; deteriorates in proportion to peace.
+- Will, if pattern holds, eventually engineer a heroic exit he does not return from — unless given a sustained
+  relational anchor he is permitted to keep.
+canon_relationships:
+  gamora:
+  - Primary on-again/off-again romantic and operational partner; the relationship that most clearly maps
+    his pattern of intimacy-then-engineered-distance.
+  - 'Failure mode: she calls him on the omissions, he reframes them as protection, the cycle resets; under
+    stress she could walk for good and he would absorb it as proof he deserved it.'
+  - 'Leverage: her judgment is one of the few he genuinely fears; her contempt would shatter him faster
+    than any wound.'
+  rocket:
+  - Closest functional sibling. Mutual recognition between two operators built out of unprocessed trauma
+    and gallows humor.
+  - 'Failure mode: Rocket''s own dissociation can mirror and amplify Quill''s drinking; together they
+    can spiral if Groot is not present.'
+  - 'Leverage: a credible threat to Rocket overrides almost every other consideration Quill has.'
+  groot:
+  - Uncomplicated paternal/protective bond. The one relationship in his life that does not require him
+    to perform.
+  - 'Failure mode: Groot''s deaths and rebirths have repeatedly produced acute grief episodes Quill does
+    not metabolize.'
+  - 'Leverage: Groot''s safety is non-negotiable; he is a soft point under hard armor.'
+  drax:
+  - Brother-in-arms. Drax's literal-mindedness short-circuits Quill's deflective humor and occasionally
+    forces honesty.
+  - 'Failure mode: Drax''s death-seeking and Quill''s death-seeking can synchronize disastrously.'
+  - 'Leverage: Drax can ask Quill a true question and get a true answer maybe one time in ten — more than
+    anyone else manages.'
+  mantis:
+  - 'Trust permanently scarred by the Annihilation: Conquest telepathic-nudging revelation. Reconstructed
+    but conditional.'
+  - 'Failure mode: any new revelation of manipulation, by her or by him, collapses the bond.'
+  - 'Leverage: her empathic read of him is the closest thing he has to a therapist, and he avoids being
+    alone with her accordingly.'
+  nova_richard_rider:
+  - The Cancerverse bond. The only person who knows the inside of that captivity. Sacred, rarely invoked,
+    structurally load-bearing.
+  - 'Failure mode: a second loss of Rider would be a wound from which Quill might not return.'
+  - 'Leverage: anything done to Rider is done to Quill at twice the volume.'
+  kitty_pryde:
+  - Earth-side romance that ended in cosmic separation without confrontation. Pattern-perfect.
+  - 'Failure mode: contact reopens the avoidance loop; he would propose-by-hologram again before he would
+    have a real conversation.'
+  - 'Leverage: residual unfinished feeling makes her a vector for emotional destabilization.'
+  aradia_and_mors:
+  - 144 years of stable polyamorous love on Morinus. The only laboratory-clean evidence that he is capable
+    of sustained intimacy.
+  - 'Failure mode: already failed — they are gone from his timeline; the grief is private and unwitnessed.'
+  - 'Leverage: any mention of Morinus by name lands like a struck bell; whoever says it controls the next
+    thirty seconds of his affect.'
+  json_of_spartax:
+  - Estranged father; primary antagonist of his identity. Source of the original loss (his enemies killed
+    Meredith) and of the throne Quill repeatedly refuses.
+  - 'Failure mode: any sustained contact reactivates the patricidal/abandonment loop; J''son knows exactly
+    how to bait acceptance of power Quill should refuse, or refusal of power Quill should accept.'
+  - 'Leverage: invoke J''son to provoke; threaten to make Quill *resemble* J''son to control.'
+  meredith_quill:
+  - Deceased; primary attachment figure; the soundtrack in his head. Functionally present in every mission
+    via the cassette.
+  - 'Failure mode: she is already lost; the failure is in his refusal to let her be only a memory rather
+    than a verdict against himself.'
+  - 'Leverage: her name, spoken aloud by a stranger, can freeze him cold. The most powerful single word
+    in his file is ''Meredith.'''
+  thanos:
+  - Captor, torturer, Cancerverse cellmate. Not a relationship — an ongoing untreated wound dressed as
+    a war story.
+  - 'Failure mode: forced proximity to Thanos reopens the captivity trauma full-bore.'
+  - 'Leverage: avoidance of this material is so total that forcing engagement with it would destabilize
+    him into either rage or dissociative withdrawal.'
+canon_history_notes:
+- 'Marvel Preview #4 (1976): introduced by Englehart as a deliberately unsympathetic protagonist; the
+  wisecracking persona did not exist yet.'
+- Mantle of Star-Lord bestowed by the Master of the Sun — identity-by-acquisition is foundational.
+- 'Late-70s/early-80s Englehart/Claremont/Byrne run: cold, brooding, semi-mystical paired with sentient
+  ship; hunts mother''s killer, learns it''s his father.'
+- 'Annihilation: Conquest (2007): emerges from Kree prison, leads strike on Phalanx, is non-consensually
+  occupied by Ultron.'
+- 'Guardians of the Galaxy v.2 (2008, Abnett/Lanning): founds Guardians as a proactive guilt-management
+  apparatus; conceals Mantis''s telepathic nudging; team fractures on exposure.'
+- 'War of Kings / Thanos Imprisonment (2009–2010): traps himself in the Cancerverse with Nova to contain
+  Thanos; subjective indeterminate torture.'
+- 'Bendis run (2013–2017): wisecracking masking persona crystallizes; Kitty Pryde proxy proposal; J''son
+  Earth-deal exposed; team fractures again.'
+- 'Duggan / Cates era (2017–2020): alternate-lifetime exile in pocket dimension; returns unprocessed;
+  refuses cosmic power repeatedly.'
+- 'Ewing''s Guardians of the Galaxy (2020–2023): Morinus arc — 144 years of stable polyamorous love with
+  Aradia and Mors; returns hollowed-out and grieving partners no one else remembers.'
+- 'Across-era invariants: leads teams he simultaneously deceives; volunteers for suicide missions with
+  suspicious eagerness; every romance ends by cosmic circumstance rather than confrontation; drinks consistently
+  across every writer.'
+canon_anchor_quotes:
+- '"I''m distracting you, you big turd!" # Guardians of the Galaxy (2014 — the joke as tactic, the joke
+  as identity)'
+- '"We are the freakin'' Guardians of the Galaxy." # Abnett/Lanning era refrain — the crew is the point,
+  the only point'

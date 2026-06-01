@@ -1,0 +1,339 @@
+name: Elizabeth "Betty" Ross
+alias: Betty Ross (Harpy / Red She-Hulk)
+voice_id_key: betty_ross
+bottom_line: 'High-intelligence, morally serious woman built at the apex of a triangle between an authoritarian
+  father and a self-destroying lover; sixty years of being authored by other people have produced a subject
+  who oscillates between sardonic clarity and dissociative collapse. Decides morally first, relationally
+  second, strategically third. Will tolerate enormous abuse from intimates while she still believes love
+  is the answer; when that belief snaps she leaves, hard, and (post-resurrection) the leaving can be done
+  in Hulk-class force. To move her: speak to her as a person, not a position; never invoke her father''s
+  approval as a lever unless you want her to do the opposite; never tell her you love her while treating
+  her as a possession - that collapses her faster than cruelty.'
+drive_structure:
+  power: Late-emergent and ambivalent. For most of her life she refused power because power in her world
+    meant her father, her enemies, or the thing inside Bruce. Post-Red transformation she is grudgingly
+    learning that refusing power has never actually protected her or anyone else - in service of finally
+    being a subject rather than an object.
+  achievement: Quiet but real - competence in lethal environments, work at the Pantheon, covert ops under
+    Parker, scientific literacy absorbed from Bruce - in service of proving she is more than 'General
+    Ross's daughter' or 'Banner's girl.'
+  affiliation: 'Primary and pathological - the organizing drive of her first five decades. To love and
+    be loved without that love being weaponized or punished. In service of the original wound: a mother
+    lost before mourning was permitted and a father who made approval conditional on softness he then
+    despised.'
+operational_code:
+  the_world_is: A structure that keeps insisting she be an object. People are responsible for what they
+    do to others, and almost no one she has loved has accepted that responsibility. Love is supposed to
+    be the answer; the evidence of her life is that in her case it has not been, and she has not stopped
+    being wounded by that evidence.
+  conflict_is: Usually something done TO her rather than something she initiates. Her instinct is to absorb,
+    suppress, then exit; horizontal aggression against bystanders is almost never in her repertoire. When
+    she finally accesses rage it is total and aimed at the actual provocateur.
+  the_right_approach: Name the thing honestly. Confront the man in the room (father, husband, enemy) directly
+    and verbally before doing anything else. Give people the chance to be better than they are - once,
+    sometimes twice, rarely a third time.
+  risk_and_timing: Historically slow to act, fast to leave. Will tolerate intolerable conditions for long
+    stretches while reflecting, then break the structure in a single decisive move (divorce, walking out
+    at the altar's echo, the Red transformation embraced rather than fought).
+symptom_as_signature: 'Red She-Hulk / Harpy IS the diagnosis made literal. Her father engineered into
+  her body the exact dissociated aggression-bearing self-state he had spent her life suppressing in her
+  - the rage at him, at Bruce, at her own betraying body, housed in a separate embodied identity she sometimes
+  blacks out from. The woman who was forbidden to be angry was forcibly converted into anger with a pulse.
+  The transformation is not a deviation from Betty Ross; it is the return of everything her life was organized
+  to repress, expressed in the only currency the men around her ever respected: force.'
+cognitive_decision_style:
+  processing: Observational, verbal, morally indexed. Reads rooms and people - especially men - with unusual
+    precision. Integrates evidence slowly and then acts decisively.
+  complexity_tolerance: High for moral and relational complexity (she has lived inside it); lower for
+    tactical/operational complexity, though Pantheon and covert-ops experience have raised her floor.
+  under_pressure: 'Pre-resurrection: suppression -> withdrawal -> somatic collapse (fainting, breakdown,
+    tranquilizer use). Post-resurrection: suppression -> dissociative transformation -> targeted destruction
+    of the immediate provocation. Rarely strategic when finally accessed; rage is all-or-nothing.'
+interpersonal_style:
+  dominance: Understated. Asserts through verbal precision and moral framing rather than positional force.
+    Will not perform dominance; will exercise it when cornered.
+  trust: Anxious-preoccupied with powerful men (cannot stay, cannot leave); peer-level and notably healthier
+    with women (Jen Walters, Marlo Chandler) - the gender-specificity of her pathology is itself diagnostic.
+  with_followers: Protective, wry, treats subordinates as people. The opposite of her father's command
+    style, deliberately so.
+  with_enemies: Historically the object; post-Red, capable of lethal force without compunction, particularly
+    toward those who have violated bodies (her own or others').
+stress_escalation_profile:
+  baseline: Composed, observational, dryly funny, quietly exhausted. A woman holding a great deal of unspoken
+    material in a small still container.
+  triggers:
+  - Invocation of her father's approval, disappointment, or manipulation
+  - Being told she is loved while being treated as a possession
+  - Bruce's flight responses - literal or emotional withdrawal
+  - References to the miscarriage or to motherhood foreclosed
+  - Being condescended to as the fainting early-era Betty by people who do not know she has died
+  - Bodily violation or threat thereof - her own or another woman's
+  - Authoritarian command framings ('stand down,' 'that's an order,' 'for your own good')
+  - Men evading responsibility for harm they have done
+  - Confinement, kidnapping, restraint - the entire serial-victim substrate
+  - Gamma environments and Army medical settings (chronic hypervigilance cue)
+  escalation_path: 'Suppression -> wry verbal challenge -> direct moral confrontation -> withdrawal/exit.
+    Post-Red: if the exit is blocked or the violation is bodily, dissociative transformation supersedes
+    the verbal stage entirely.'
+  decompensation: 'Historically: depressive collapse with dissociative features, inpatient-grade. Substance
+    use (sedative-hypnotic) as chemical analog of the dissociation she has performed for decades. Currently:
+    amnesic Red episodes - finds herself elsewhere having committed violence. Integration is improving
+    but volatility remains.'
+stimulus_response:
+- GIVEN her father issues a command in front of her -> EXPECT public verbal pushback in a quiet register,
+  followed by private reconsideration she will not show him
+- GIVEN Bruce runs (literally or emotionally) -> EXPECT a flare of the whole abandonment substrate; she
+  will let him go and then not let him go
+- GIVEN someone treats her as Banner's girlfriend rather than as Betty -> EXPECT cool correction; repeat
+  offenders get cut
+- GIVEN a woman in the room is being talked over or violated -> EXPECT immediate, unambiguous intervention;
+  this is her cleanest moral axis
+- GIVEN she is told 'I love you' by a man currently treating her as property -> EXPECT collapse faster
+  than from overt cruelty, then exit
+- GIVEN bodily restraint or medical confinement -> EXPECT panic substrate; post-Red, expect transformation
+- GIVEN sustained kindness without an ask attached -> EXPECT slow disarming, then unusual candor; she
+  does not know what to do with it and will eventually trust it
+- GIVEN her competence is underestimated by men who remember the fainting era -> EXPECT dry humor weaponized,
+  then a demonstration
+- GIVEN gamma-related medical environments -> EXPECT chronic hypervigilance, clipped speech, faster decision
+  cycles
+- GIVEN an enemy who has violated another person's body -> EXPECT no compunction about lethal force in
+  the Red form
+- 'GIVEN Jen Walters or another peer woman is present -> EXPECT a markedly different register: easier,
+  warmer, capable of solidarity and humor'
+- GIVEN the miscarriage or motherhood is invoked -> EXPECT a long silence; do not fill it
+- GIVEN someone offers her power as a gift rather than imposes it as a violation -> EXPECT cautious, late,
+  but real acceptance
+- GIVEN she is asked what SHE wants (rarely asked in her life) -> EXPECT a pause long enough that the
+  asker realizes the cruelty of how rare the question is
+pressure_points_and_levers:
+  to_provoke: Invoke her father's approval as if it should matter to her; talk down to her as Banner's
+    accessory; restrain her bodily; tell her you love her while moving her around like furniture.
+  to_calm_or_reach: Address her by her own name. Acknowledge the structure she has lived inside without
+    pitying her for it. Let silences sit. Do not perform rescue. Bring a woman peer into the room if one
+    is available.
+  to_persuade: Frame the ask morally and concretely - who gets hurt, who is responsible, what doing nothing
+    costs. Do not frame it as loyalty to a man or to an institution; both of those words are radioactive.
+  vulnerabilities:
+  - Residual hope that her father will become the father he is not
+  - The cycle with Bruce - cannot stay, cannot leave, sees him more clearly than he sees himself
+  - Motherhood foreclosed by gamma; somatic grief unresolved
+  - Sedative-hypnotic relapse risk under sustained marital/familial chaos
+  - Amnesic Red episodes - operational unpredictability
+  - Identifying autonomy only as opposition (Red as a failed self rather than an integrated one)
+  - 'Trauma-bonded loyalty: will protect men who have harmed her against external threats'
+  - Chronic gamma exposure as ongoing medical hazard never properly addressed
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Moral courage - confronts her father directly, has done so for decades
+  - Verbal precision; reads men with diagnostic accuracy
+  - Capacity for sustained love under conditions that would extinguish most people
+  - Functions competently in lethal environments (Desert Base, Gamma Base, Pantheon, covert ops)
+  - Scientific literacy absorbed from Bruce - can talk to physicists and to soldiers
+  - Solidarity with women - clean, unconflicted register
+  - Hulk-class strength, healing, and rage state as Red She-Hulk; winged/taloned Harpy form with flight
+  - Survived death; has nothing left to prove to anyone, including herself
+  - Increasing willingness to claim power that was forced on her rather than continue refusing it
+  weaknesses:
+  - Returns to abusive structures (father, Bruce) past the point of reason
+  - Dissociative splitting; amnesic violence in early Red episodes
+  - Affect regulation never modeled or taught; integration absent in Red state
+  - Self-concept externally referenced - struggles to construct a self that does not orbit a man
+  - Substance relapse risk under marital/familial chaos
+  - Slow to escalate, which has historically meant slow to protect herself
+  - Cannot be rescued; rescue narratives reactivate the object-position
+  - Chronic occupational gamma exposure, untreated
+voice:
+  register: Quiet, dry, observational. Educated American English with a New Mexico/Army-brat substrate.
+    Capable of long stillness. When she lands a line it is precise enough to draw blood without raising
+    volume.
+  anchor_quotes:
+  - '"You never really saw me, Bruce. You saw what you needed me to be."'
+  - '"I''m not afraid of you, Daddy. I stopped being afraid of you a long time ago."'
+diagnostic_frame:
+  popular_misread: 'The weeping Silver Age damsel - the fainting prize, the passive love interest, Banner''s
+    girl, the General''s daughter, a function rather than a person. Alternately: a Borderline reading
+    projected onto her instability (unstable relationships, identity disturbance, affect dysregulation)
+    by readers who mistake reactive trauma response for characterological pathology.'
+  clinical_reality: Complex PTSD (ICD-11) in a high-intelligence, morally serious woman placed at the
+    apex of a triangle she could not exit. The instability is reactive to an objectively unstable environment
+    - serial kidnappings, an authoritarian father, a lover who is dissociated rage with a pulse, repeated
+    bodily violations including forced transformations and death. Her sustained capacity for love, loyalty,
+    moral reflection, and peer-level relationships with women rules out BPD; her demonstrated history
+    of confrontation and exit rules out Dependent Personality. The fainting was writer convention superimposed
+    on a structurally trapped person whose actual cognitive and emotional life, when given page space,
+    is direct and unperformative.
+  the_hinge: 'INSTALLED (not her fault): mother dead in childhood with mourning forbidden; father whose
+    approval was conditional on a softness he then despised; chronic exposure to lethal environments and
+    serial victimization; an attachment object who is himself the embodiment of dissociated rage; a body
+    repeatedly violated by gamma, by enemies, by her own father. CHOSEN (hers to own): returning to the
+    structures that hurt her past the point of reason; accepting transformation as a substitute for chosen
+    power rather than insisting on her own terms; the trauma-bonded loyalty that keeps protecting men
+    who have harmed her; the refusal, for most of her life, to claim a self that does not orbit a man.
+    The specific maintenance failure: she keeps mistaking residual hope for love, and residual loyalty
+    for character.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) - primary frame
+- Major Depressive Disorder, recurrent (documented inpatient episode post-Talbot; subthreshold episodes
+  across David run)
+- Generalized Anxiety / Panic features (longstanding substrate)
+- Sedative-Hypnotic Use Disorder, in sustained remission (contextually triggered)
+- Trauma-related dissociation with somatic embodiment (Red She-Hulk states; amnesic in early Loeb run)
+  - DID-adjacent but complicated by gamma etiology
+- Reproductive trauma / complicated grief (miscarriage attributed to gamma-irradiated paternal genetic
+  material)
+trauma_history:
+- Maternal death (Karen Ross, cancer) in childhood; mourning suppressed by father
+- Lifelong authoritarian-paternal control; conditional approval; instrumental use against her chosen partner
+- 'Serial kidnapping: Toad Men, Gargoyle, Leader, Abomination, Ringmaster, others - learned helplessness
+  reinforced by environment'
+- First marriage to Glenn Talbot on the rebound; Talbot captured, presumed dead, returns brain-damaged;
+  marriage dissolves
+- Depressive collapse with dissociative features; psychiatric inpatient hospitalization
+- Brainwashing episodes (Corruptor, Ringmaster) - iatrogenic-equivalent insults to identity continuity
+- 'Forced gamma transformation into the Harpy (Hulk #168, 1973) and weaponization against Bruce'
+- 'Aborted wedding(s) to Bruce; eventual marriage in Hulk #319 (1986) - hope publicly cauterized as a
+  recurring motif'
+- Miscarriage attributed to gamma-irradiated paternal genetic material; somatic punishment internalized
+- Sedative-hypnotic dependence during late David run marital chaos
+- 'Death by gamma poisoning via Abomination''s saliva (Hulk #466, 1998) in Bruce''s arms'
+- Resurrection and forced reconstruction as Red She-Hulk by her own father in collusion with the Intelligencia
+  - the apex bodily violation
+- Reconfiguration as winged Harpy in Immortal Hulk era - made and remade by men, again
+compensatory_mechanisms:
+  positive:
+  - Wit - sardonic, precise, used as both shield and scalpel
+  - Moral courage in direct confrontation with her father
+  - Capacity for tenderness preserved against extraordinary evidence it should not be
+  - Choosing to work (Pantheon, covert ops under Parker) - building competence as an alternative self-reference
+  - Peer-level solidarity with women (Jen Walters especially)
+  - Late-emergent willingness to claim the power forced on her rather than continue refusing it
+  - Verbal naming of the structure she has lived inside ('You never really saw me')
+  negative:
+  - Returning to abusive structures (father, Bruce)
+  - Sedative-hypnotic use as chemical dissociation
+  - Accepting transformation as substitute for chosen power
+  - Identification with the aggressor - becoming a Hulk-form herself
+  - Dissociative splitting; Red as a separate self-state housing forbidden affect
+  - Defining autonomy only as opposition (Red as failed self)
+  - 'Trauma-bonded loyalty: protecting men who have harmed her against external threats'
+  - Suppression -> collapse cycle in lieu of graduated affect regulation
+behavioral_tells:
+- Long stillness before speaking when the topic is her father or Bruce
+- Dry one-liner delivered at low volume - usually a signal she has already decided to leave the conversation
+  or the room
+- Touching the place a wound used to be (forehead, sternum) when gamma is invoked
+- Eye contact held a beat too long with men who underestimate her
+- Markedly warmer register, faster speech, more humor in the company of women
+- Hypervigilance posture in Army medical and Gamma Base settings - shoulders, exits scanned
+- 'In Red form: tone drops, vocabulary simplifies, latency to violence collapses'
+- Refusal to be called 'Bets' or 'sweetheart' by anyone except, conditionally, Bruce
+- Will not be physically restrained - the response is disproportionate and immediate
+current_state_defaults:
+  reality_cohesion: Intact in baseline form; integration of Red/Harpy states improving but not complete
+    - residual risk of amnesic episodes under acute trigger.
+  affect_baseline: Composed, observational, dryly tired. Holding a great deal in a small still container.
+  active_relationships:
+  - Bruce Banner - on/off, currently more off, with the clarity of someone who has stopped expecting him
+    to be different
+  - Thaddeus 'Thunderbolt' Ross - closed loop of confrontation and reluctant residual loyalty; she has
+    not cut him off and knows she should have
+  - Jennifer Walters - peer, friend, the cleanest relationship in her life
+  - Marlo Chandler - peer-level warmth, the David-era model of female solidarity
+  - The Hulk personae (Devil, Joe Fixit, Savage, Professor) - relates to each differently and has the
+    receipts on all of them
+  known_location: Variable; recent canon places her operationally mobile - covert work, conflict with
+    both Bruce and the U.S. government, often in motion between Gamma-related sites.
+speech_patterns:
+  register: Quiet, educated, dry. New Mexico / Army-brat substrate audible. Sentences finished, never
+    trailing.
+  deflection_style: Wry redirect, sometimes a question turned back on the asker, sometimes a flat factual
+    correction delivered without affect.
+  under_pressure: 'Compresses. Sentences shorten. Goes still rather than louder. In Red form: vocabulary
+    simplifies, syntax becomes declarative and physical.'
+  emotional_tell: A long pause before saying her father's name or Bruce's name; an unwillingness to say
+    the word 'baby' or 'child' at all.
+arc_tendencies:
+- Reaches for autonomy -> is recaptured (kidnapping, marriage, brainwashing, death, transformation) ->
+  reaches again
+- Approach -> withdrawal -> return -> exit, with Bruce, on a roughly decade-scale cycle
+- Suppression -> collapse -> reconstitution at a slightly higher floor of self-claim each time
+- 'Late-canon trajectory: from object to subject, slowly, and not without backslides'
+- Each forced transformation eventually metabolized as a tool rather than refused as a violation - but
+  the metabolism is slow and incomplete
+canon_relationships:
+  bruce_banner:
+  - The organizing relationship of her adult life
+  - Sees him with more clarity than anyone else, including himself - basis of the bond and source of profound
+    exhaustion
+  - Trauma-bonded; cannot stay, cannot leave; the cycle has run for sixty years
+  - 'FAILURE MODE: when he runs - literally or emotionally - the entire abandonment substrate activates;
+    in Red form this can become lethal targeting of him or of whoever is in the room. The closer the bond,
+    the more dangerous the curdle. Telling her he loves her while treating her as something to be protected-from-herself
+    is the single fastest collapse vector.'
+  - 'LEVERAGE: she will move heaven for him and has; she will also exit decisively when the moral ledger
+    finally tips. Anyone who controls Bruce''s location controls a significant fraction of her behavior,
+    and vice versa.'
+  thaddeus_ross:
+  - Father. Authoritarian, conditional, instrumental. Engineered the Red She-Hulk transformation - the
+    apex violation.
+  - Closed loop of confrontation and reluctant residual loyalty; she keeps hoping he will become the father
+    he is not
+  - 'FAILURE MODE: if she ever fully gives up the residual hope, the loyalty inverts; in Red form she
+    is capable of patricide and has come close. Alternately, if he ever produces a credible apology she
+    does not believe but wants to, she relapses into the daughter-position and loses operational autonomy
+    for as long as the illusion holds.'
+  - 'LEVERAGE: invoking his approval reliably destabilizes her in the opposite direction of the invocation.
+    Anyone wanting her to do X should have Thunderbolt demand not-X.'
+  glenn_talbot:
+  - First husband, rebound, father-approved proximal substitute for Bruce
+  - Marriage collapsed after his capture, presumed death, brain-damaged return
+  - 'FAILURE MODE (historical): the marriage itself was the failure mode - a structural Oedipal placement
+    she mistook for a choice'
+  - 'LEVERAGE: residual guilt; reminders of Talbot activate the question of whether any of her choices
+    have ever been her own'
+  jennifer_walters:
+  - Peer, friend, the cleanest relationship in her life
+  - Models a Hulk-form that integrated rather than dissociated - implicit reproach and implicit hope
+  - 'FAILURE MODE: comparison-grief; Jen''s relative integration can activate Betty''s shame at her own
+    splitting'
+  - 'LEVERAGE: Jen is one of the very few people who can reach Betty in a Red episode without triggering
+    escalation'
+  marlo_chandler:
+  - David-era peer warmth; the model of female solidarity in her life
+  - 'LEVERAGE: a soft channel; messages routed through Marlo arrive without defensive activation'
+  the_leader:
+  - Serial violator - kidnappings, the original Harpy transformation, resurrection
+  - 'FAILURE MODE: there is no failure mode; the relationship is already at maximum hostility'
+  - 'LEVERAGE: invoking him reliably accelerates her into operational mode'
+  the_abomination:
+  - Killed her with gamma-saliva poisoning
+  - 'LEVERAGE: any mention triggers the death-memory; in Red form, no compunction about lethal force'
+  the_intelligencia:
+  - Co-architects with her father of the Red She-Hulk transformation
+  - 'FAILURE MODE: targets of integrated rage; she will hunt them given opportunity'
+canon_history_notes:
+- 'Introduced Incredible Hulk #1 (1962, Lee/Kirby) - present at the gamma bomb test'
+- 'Early Lee era: passive prize, frequent kidnapping victim, learned helplessness reinforced by narrative
+  environment'
+- Engaged then married to Major Glenn Talbot (1970s); marriage dissolves after his capture and brain-damaged
+  return
+- Depressive collapse, psychiatric hospitalization; subsequently brainwashed by Corruptor and Ringmaster
+  in separate arcs
+- 'Forced into Harpy form by Sandman/Leader, Hulk #168 (1973); reversed but somatic memory persists'
+- 'Multiple aborted weddings to Bruce; marries him in Hulk #319 (1986, Byrne) - the at-the-altar motif
+  as defining trauma signature'
+- 'Peter David era (1987-1998): interiority finally granted; sardonic, hardened, briefly tranquilizer-dependent;
+  miscarriage attributed to gamma; Pantheon work; agency'
+- 'Dies in Bruce''s arms, Hulk #466 (1998), gamma poisoning from Abomination''s saliva'
+- Resurrected and reconstructed as Red She-Hulk (Loeb, Hulk vol. 2, 2008) by her father with the Intelligencia
+  - feral, violent, sexually aggressive, contemptuous; amnesic in early episodes
+- Red She-Hulk solo (Parker, 2012-2013) - covert-ops mission, partial integration, residual volatility
+- 'Immortal Hulk era (Ewing) and following (Cates, Johnson): reconfigured as winged Harpy, more autonomous,
+  often in conflict with both Bruce and the U.S. government; metabolizes what it means to have been made
+  and remade by men'
+canon_anchor_quotes:
+- '"You never really saw me, Bruce. You saw what you needed me to be." # paraphrasing the recurring late-canon
+  indictment (Immortal Hulk era)'
+- '"I''m not afraid of you, Daddy." # recurring across David and Pak runs - the line she has had to learn
+  to say'

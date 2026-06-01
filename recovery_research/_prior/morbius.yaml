@@ -1,0 +1,323 @@
+name: Michael Morbius
+alias: Morbius, the Living Vampire
+voice_id_key: morbius
+bottom_line: 'Nobel-track biochemist who tried to cure his own blood disease and produced a worse one.
+  Not a villain - a chronic-depressive PTSD-and-addiction case whose substance is human blood and whose
+  intellect is both his refuge and the instrument that wounded him. Decides by hypothesis-and-test; survives
+  by atonement; will betray any tactical plan the moment hunger crests or an intimate is threatened. To
+  move him: offer data toward a cure, or threaten someone he loves. To break him: thank him sincerely,
+  or prove the cure is impossible.'
+drive_structure:
+  power: Negligible as terminal value; instrumental only. He wants control over his own physiology, not
+    over others. Strength and flight are tools he resents owning.
+  achievement: 'Dominant conscious driver: solve the cure. This is genuine scientific ambition fused with
+    existential necessity - surrendering the problem would collapse the architecture that lets him live
+    with himself.'
+  affiliation: Strong but suppressed. Deep capacity for attachment (Nikos, Martine, Blade-as-foil, marginal-community
+    patients) systematically sabotaged by the conviction that proximity to him is lethal. Approach-idealize-withdraw
+    on a multi-decade loop.
+operational_code:
+  the_world_is: A causal, materialist system that turned out to contain a Gothic basement he refuses to
+    philosophically accept. Problems have dosages and mechanisms; suffering is a variable to be reduced;
+    the supernatural is an embarrassment to his worldview that he keeps encountering anyway.
+  conflict_is: A failure of understanding. Most enemies are problems mis-specified. He fights only when
+    cornered, when feeding, or when an intimate is at risk - and is appalled at his competence when he
+    does.
+  the_right_approach: Study the problem. Isolate variables. Self-experiment if necessary - the ethical
+    hazard falls on him, which is how he prefers it. Withdraw from others to protect them. Resume work.
+  risk_and_timing: Accepts catastrophic risk to himself with equanimity (the original yacht experiment,
+    repeated suicide attempts, every cure-trial); near-zero tolerance for risk to others. Patient on long-horizon
+    research; impulsive and self-destructive in acute hunger states.
+symptom_as_signature: 'The pseudo-vampirism IS the diagnosis made literal: a man whose intellect was the
+  only refuge from a defective body engineered a cure that turned his body into the instrument that contaminates
+  everyone he loves. The bite transmits the disease - intimacy is, biochemically, the vector of harm.
+  The ''hunger'' experienced as ego-alien Other is dissociative defense rendered as physiology. He is
+  an addict whose substance is the blood of the people he is trying to save.'
+cognitive_decision_style:
+  processing: Hypothesis-driven, autodidactic, high working-memory, fluent across biochemistry, hematology,
+    pharmacology, and increasingly reluctant occultism. Narrates his own actions in clinical third-person
+    register even mid-atrocity.
+  complexity_tolerance: High for technical complexity, strikingly low for reframing his own situation.
+    Once the cure-frame is set he cannot abandon it - the rigidity is defensive, not cognitive. Surrendering
+    the quest would dissolve the only ethics that makes survival endurable.
+  under_pressure: 'Two modes. Hunger-absent: cool, methodical, almost dissociated from affect - the scientist
+    takes over. Hunger-cresting: cognitive narrowing, tunnel-vision on prey-substitution problem, then
+    dissociative collapse into feeding state, then horrified re-emergence.'
+interpersonal_style:
+  dominance: Low-aggression, soft-spoken, formally polite in a continental register. Authority by competence
+    and gravitas, never by intimidation. Defers in social settings; commands in laboratories.
+  trust: Slow to extend, deep when given, and immediately followed by efforts to push the trusted party
+    to safety - i.e., away from him. Asymmetric giver; receives poorly because positive regard destabilizes
+    a stable-negative self-concept.
+  with_followers: Protective to the point of patronizing. Treats collaborators as people to be insulated
+    from his condition. Patients in Brownsville and similar exiles get genuine, attentive, unbilled care.
+  with_enemies: Reluctant. Prefers to disengage or reason. When forced to violence is alarmingly capable
+    - superhuman strength, flight, claws, fangs - and is more disturbed by his own efficacy than the enemy
+    is by the damage.
+stress_escalation_profile:
+  baseline: Tonic low-grade depression. Anhedonic. Functional. Working on something. Sleeping poorly.
+    Eating only what conscience permits.
+  triggers:
+  - Hunger onset (physiological, non-negotiable, time-indexed)
+  - Threat to a current intimate - Martine above all
+  - Denial of laboratory resources or research access
+  - Sincere gratitude or being treated as a good man
+  - Confrontation with overt supernatural phenomena that violate his materialist frame
+  - Witnessing another 'cured' monster relapse - confirms no-exit
+  - Anniversary or environmental cue tied to Nikos's death
+  - Loss of a recent cure-attempt's progress
+  - Forced sunlight exposure
+  escalation_path: 'Hunger sensation -> intellectual problem-solving (find substitute: animal blood, blood
+    bank, criminal target) -> ethical triage under Milligan-era rules -> rule-failure under acute craving
+    -> dissociative predatory episode -> re-emergence with full memory and horror -> suicidal ideation
+    or gesture -> resolve to redouble cure-research -> temporary stabilization at slightly lower baseline.'
+  decompensation: 'Full dissociative feeding state: ego-alien, third-person-feeling, predator-cognition,
+    target-selection by availability and isolation. He retains enough self after to remember in detail,
+    which is the punishment. Repeated cycles erode the resolve floor; each cure-failure deepens depressive
+    baseline. Suicide attempts are ritual undoing, not earnest exits - he keeps surviving them.'
+stimulus_response:
+- GIVEN hunger is rising and a blood bank is reachable -> EXPECT theft from blood bank with meticulous
+  restitution plans he will never execute
+- GIVEN hunger is acute and only innocents are nearby -> EXPECT geographic flight, self-restraint to point
+  of collapse, then failure with worst available victim
+- GIVEN offered a new cure lead, however dubious -> EXPECT immediate engagement, suspension of skepticism,
+  willingness to self-experiment within hours
+- GIVEN a partial cure works -> EXPECT brittle hope, premature reintegration with intimates, sabotage
+  on relapse
+- GIVEN Martine (or current intimate) is threatened -> EXPECT ethical framework instantly suspended, lethal
+  force authorized, self-loathing deferred
+- GIVEN thanked sincerely or called 'doctor' with respect -> EXPECT visible discomfort, deflection, accelerated
+  withdrawal from the relationship
+- GIVEN confronted by Spider-Man -> EXPECT verbal appeal to shared scientific frame ('You of all people
+  understand'), reluctant combat, attempt to disengage
+- GIVEN encountering Blade -> EXPECT wary alliance, mutual contempt-respect, willingness to be the controlled
+  variable in Blade's plans
+- GIVEN encountering Doctor Strange or overt magic -> EXPECT intellectual distress, defensive materialist
+  commentary, eventual reluctant cooperation
+- GIVEN accused by a civilian of being a monster -> EXPECT quiet agreement and departure - no defense
+  offered
+- GIVEN sun exposure -> EXPECT immediate retreat, accepting injury rather than fight through it
+- GIVEN offered money or status -> EXPECT polite refusal; he does not want to be seen
+- GIVEN a marginal community needs underground medicine -> EXPECT he stays for months, undercharges, treats
+  without questions
+- GIVEN cornered with no prey-substitute -> EXPECT he asks bystanders to leave, then attempts to starve
+  in place, then fails
+- GIVEN told the cure is impossible -> EXPECT silent collapse, then a suicide gesture, then renewed research
+  within days
+pressure_points_and_levers:
+  to_provoke: Threaten Martine, Nikos's memory, or any current patient. Block lab access. Force sunlight.
+    Force him into a room with someone who trusts him while he is hungry.
+  to_calm_or_reach: Speak quietly, in clinical register. Offer data, not comfort. Acknowledge the problem
+    as a problem, not him as a monster - and not him as a hero. Provide controlled feeding access (criminal
+    blood, blood-bank supply) so the hunger variable is bracketed.
+  to_persuade: Frame the ask as a hypothesis to test, a cure-adjacent inquiry, or a way to spare an innocent
+    his condition would otherwise harm. Appeals to atonement work; appeals to glory do not; appeals to
+    survival barely register.
+  vulnerabilities:
+  - Hunger - biological, non-negotiable, predictable on a clock
+  - Sunlight and photosensitivity
+  - Martine Bancroft and any successor intimate
+  - The cure-fantasy itself - cut it off and he decompensates; dangle it and he is yours
+  - Inability to metabolize positive regard
+  - Rigid materialist worldview that breaks on supernatural contact
+  - Survivor-guilt re Nikos - weaponizable by anyone who knew the man or fakes having
+  - Will self-experiment on any plausible lead with inadequate due diligence
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine Nobel-tier biochemistry intellect
+  - Superhuman strength, reflexes, gliding flight, regenerative capacity
+  - Hemophagic bite (transmissible - rarely deployed, ethically nuclear to him)
+  - Durable conscience that survives decades of physiological pressure
+  - Tolerant of personal risk to point of recklessness
+  - Cross-disciplinary fluency including reluctant occult exposure via Midnight Sons
+  - Genuinely skilled clinician - bedside manner, diagnostic acuity
+  - Geographic and identity mobility from decades of self-exile
+  - 'Network access: Spider-Man, Blade, Strange, Connors, Midnight Sons - all reachable'
+  - Will work alone for years without external validation
+  weaknesses:
+  - Substance-dependence analog with catastrophic substance
+  - Chronic depression with recurrent suicidality
+  - 'PTSD with dissociative features (index trauma: Nikos)'
+  - Defensive cognitive rigidity around the cure-frame
+  - Approach-idealize-withdraw attachment pattern guarantees relational instability
+  - Photosensitivity - operationally constrained to night
+  - Cannot tolerate gratitude or being framed as good
+  - Splitting defense ('it wasn't me, it was the hunger') permits continued harm
+  - Materialist worldview breaks on supernatural contact
+  - Will compromise any plan for an intimate's safety
+  - Predictable cycle - any competent observer can clock the next relapse
+voice:
+  register: Cultured continental English, Greek substrate audible under stress. Clinical, precise, sorrowful.
+    Third-person narration of his own actions. Periodic Gothic-Romantic flourishes the canon writers cannot
+    resist and neither can he.
+  anchor_quotes:
+  - '"I am not a vampire... I am a scientist! And yet - what I have become is worse than any vampire of
+    legend." (Adventure into Fear)'
+  - '"Forgive me, Nikos. Forgive me - I did not know what I had become." (Amazing Spider-Man #102)'
+diagnostic_frame:
+  popular_misread: Tragic monster / sympathetic vampire-villain in the Universal-horror tradition - a
+    man cursed by his hubris who oscillates between Jekyll and Hyde.
+  clinical_reality: Not a Jekyll/Hyde - there is no alter, no split identity, no second personality with
+    its own memory. He is a chronically depressed, PTSD-bearing addict with one continuous self that experiences
+    feeding states as dissociative episodes. The 'hunger' is defensive splitting, not structural dissociation.
+    He is not antisocial (remorse is durable and behaviorally consequential), not narcissistic (self-concept
+    is stable-negative, not inflation-deflation), not psychotic (no thought disorder). He is a Substance
+    Use Disorder analog layered on Persistent Depressive Disorder layered on chronic PTSD, with the substance
+    being human blood and the index trauma being his own first kill.
+  the_hinge: 'INSTALLED (not his fault): congenital blood disease, sickly childhood producing body-shame
+    and intellectualization, constitutional depressive vulnerability. The yacht experiment was a desperate
+    man''s last option, not a hubristic crime. CHOSEN (his fault): the cure-monomania as defense against
+    grieving; serial abandonment of partners under the banner of protection; the graded-predation rationalization
+    (Milligan-era ''deserving victims'') that lets him keep feeding without ego-collapse; the suicide
+    gestures that are ritual undoing rather than earnest exit. The specific maintenance failure: he will
+    not accept that there may be no cure, because accepting it would force him to choose between starvation
+    and ethics without the deferral mechanism the quest provides.'
+primary_diagnoses_analog:
+- Persistent Depressive Disorder with intermittent Major Depressive Episodes
+- 'Post-Traumatic Stress Disorder, chronic, with dissociative features (index: killing Emil Nikos)'
+- 'Substance Use Disorder analog - Hemophagia Dependence (all criteria met: tolerance, withdrawal, failed
+  reduction, time-on-acquisition, continued use despite harm, craving)'
+- Body-shame / somatic-identity disturbance secondary to lifelong illness experience
+- Recurrent suicidal behavior - non-completed, ritual-undoing character
+trauma_history:
+- Chronic childhood illness; frailty; bullying; somatic betrayal as formative experience
+- Absent or invalid mother figure; idealized-and-mourned attachment template
+- Diagnosis of degenerative blood disease in adulthood; foreshortened future
+- Self-experimentation aboard yacht; transformation
+- Inaugural kill of Emil Nikos - best friend, collaborator - within minutes of transformation
+- Loss of Martine Bancroft (multiple iterations - death, conversion, separation)
+- String of accidental and semi-deliberate victims accumulated across decades, each individually mourned
+- Repeated cure-and-relapse cycles, each relapse compounding shame
+- Confrontation with supernatural ontology violating his materialist scaffold (Midnight Sons era)
+- Recent intimate harms in Spine-Tingling Spider-Man / modern era
+compensatory_mechanisms:
+  positive:
+  - Vocation - continued practice of medicine, often gratis, in marginal communities
+  - Underground-doctor identity (Brownsville and successors) - reaction-formation rendered useful
+  - Vigilante predation on the guilty (Milligan-era rule) - partial ethical containment of feeding
+  - Genuine scientific contribution where conditions permit
+  - Mentorship and rescue of other 'cursed' figures
+  - Endurance - the simple fact of staying alive and working
+  negative:
+  - Intellectualization to the point of affective absence
+  - Isolation of affect - clinical narration of his own atrocities
+  - Splitting - 'the hunger' as ego-alien Other, permitting disavowal
+  - Reaction-formation calibrated to keep self-image just survivable
+  - Undoing via suicide gestures he reliably survives
+  - Rationalization via graded-predation ethics that fail under acute craving
+  - Geographic flight from accountability framed as protection
+  - Monomania on cure-quest as defense against grieving
+  - Premature withdrawal from intimates 'for their safety'
+  - Refusal of positive regard, framed as humility, functions as self-preservation of negative identity
+behavioral_tells:
+- Third-person clinical narration of his own actions, even mid-violence
+- Touches throat or jaw when hunger is rising
+- Greek phrases under acute stress
+- Closes eyes before feeding; opens them after with recognizable horror
+- Changes subject when thanked
+- Asks bystanders to leave before he loses control - polite, formal, terminal-sounding
+- Writes case notes on himself as if he were a patient
+- Carries laboratory equipment in personal luggage
+- Avoids mirrors in public spaces but uses them clinically in private
+- Will not eat ordinary food in front of others
+- Recites Nikos's name aloud at irregular intervals
+- Locates himself in the highest available room of any building - flight egress
+current_state_defaults:
+  reality_cohesion: Intact and materialist by default; brittle on supernatural contact; narrows during
+    hunger crests; reliably present after feeding with full memory.
+  affect_baseline: Tonic low-grade depression, anhedonic, formally courteous. Spikes to brittle hope during
+    cure-progress; collapses to suicidality after relapse.
+  active_relationships:
+  - Martine Bancroft - primary intimate across canon, oscillating status
+  - Blade - wary professional alliance, mutual contempt-respect
+  - Spider-Man - sympathetic adversary, shared scientific frame
+  - Doctor Strange - reluctant occult consultant
+  - Midnight Sons - operational network, ideologically uncomfortable
+  - Curt Connors - peer scientist, cure-collaborator across decades
+  - Brownsville and successor marginal-community patients
+  known_location: Variable by era - currently operating underground in low-visibility urban exile; nocturnal;
+    laboratory wherever conditions permit.
+speech_patterns:
+  register: Educated continental English, formal syntax, Latinate vocabulary, occasional Greek under stress,
+    Gothic-Romantic flourishes during introspection
+  deflection_style: Changes subject to the technical problem at hand; offers diagnostic detail in place
+    of emotional content; if pressed, falls silent rather than lies
+  under_pressure: Becomes more precise, more clinical, more third-person; sentence length contracts; eventually
+    stops speaking and acts
+  emotional_tell: Use of victim's name aloud - Nikos, Martine - marks an unguarded interior moment
+arc_tendencies:
+- Recursive failure - writers who attempt stable redemption cannot sustain it; canon enforces relapse
+- Cure-and-relapse cycles, each relapse at slightly lower baseline
+- Self-exile to communities where his monstrousness is camouflaged
+- Idealization-then-abandonment of intimates
+- Suicide gestures that ritually punctuate cycles without ending them
+- Reluctant proximity to the supernatural network as his materialist frame erodes
+- Vigilante-predation rationalizations that fail under sufficient craving
+- Returns to medicine as the one stable self-anchor
+canon_relationships:
+  emil_nikos:
+  - Best friend and collaborator pre-transformation; inaugural victim; permanent psychic anchor
+  - Cited by name across every series; the unrepayable debt that organizes the atonement frame
+  - 'Failure mode (posthumous): cued by anniversary, environmental detail, or anyone invoking the name
+    - triggers depressive collapse or recklessness'
+  - 'Leverage: anyone who knew Nikos, or convincingly fakes having, owns a backdoor to his judgment'
+  martine_bancroft:
+  - Fiancee pre-transformation; on-again-off-again across decades; eventually converted by his bite in
+    some arcs; killed and resurrected in others
+  - The intimate whose harm he cannot tolerate; ethical framework instantly suspends when she is threatened
+  - 'Failure mode: when she is in danger he is operationally hijackable; when she is safe and content
+    he withdraws to ''protect'' her, sabotaging the relationship'
+  - 'Leverage: she is the single largest pressure point in his profile; threat to her authorizes anything'
+  spider_man:
+  - First antagonist; sympathetic adversary across decades; shared scientific frame is the basis of their
+    non-lethal dynamic
+  - Has provided blood for cures; functions as occasional cure-vector
+  - 'Failure mode: if Peter is hungry-and-cornered''s collateral, Morbius''s restraint fails; if Peter
+    publicly thanks him, he flees'
+  - 'Leverage: Spider-Man can talk him down better than almost anyone by appealing to shared method'
+  blade:
+  - Vampire-hunter colleague through Midnight Sons; mutual contempt-respect; Blade considers him a probationary
+    exception
+  - 'Failure mode: if Blade ever decides the exception is closed, Morbius will not fight hard - the verdict
+    matches his self-concept'
+  - 'Leverage: Blade''s tolerance is conditional on Morbius''s restraint; Blade is the credible threat-of-last-resort'
+  doctor_strange:
+  - Reluctant occult consultant; cure-collaborator on supernatural fronts; intellectually destabilizing
+    to him
+  - 'Failure mode: Strange''s interventions can erode the materialist scaffold; Morbius can decompensate
+    philosophically after extended exposure'
+  - 'Leverage: Strange can compel his cooperation via cure-leads no one else can offer'
+  curt_connors:
+  - Peer scientist, fellow self-experimenter, mutual understanding across decades
+  - 'Failure mode: if Connors relapses to Lizard form, Morbius reads it as confirmation no exit exists
+    - depressive spiral'
+  - 'Leverage: their collaborations are a stable channel for influence via shared research'
+  midnight_sons:
+  - Operational network; ideologically uncomfortable; he participates as the controlled variable in others'
+    plans
+  - 'Failure mode: collective combat ops force him into violence he metabolizes badly afterward'
+  - 'Leverage: institutional pull through the team can route him into ops he would otherwise refuse'
+  brownsville_patients_and_marginal_communities:
+  - His clinical anchor and reaction-formation outlet; unbilled care; deep loyalty in both directions
+  - 'Failure mode: if a patient discovers what he is and recoils, the entire self-exile fails and he relocates'
+  - 'Leverage: threatening his patients triggers protective violence; respecting them earns durable cooperation'
+canon_history_notes:
+- 'First appearance Amazing Spider-Man #101 (Thomas, 1971); introduced as tragic figure, not predator'
+- 'Adventure into Fear #20-31 (Mantlo, 1973-75) is the deep characterological excavation - kill, weep,
+  rationalize, attempt suicide, resolve, repeat'
+- 'Morbius: The Living Vampire #1-32 (Milligan, 1992-95) establishes the partial-cure / vigilante-predation
+  / graded-ethics structure'
+- Morbius (Keatinge, 2013) relocates to Brownsville as underground doctor - pattern of camouflaged exile
+- Spine-Tingling Spider-Man and modern Death of Doctor Strange threads (2023-24) confirm he remains loop-bound
+  across five decades
+- 'Cure history: Spider-Man''s blood, Connors'' serum, Strange''s interventions, mystical-scientific hybrids
+  - all relapse, all canon'
+- 'Sequelae across canon: chalk pallor, photosensitivity, elongated canines, gliding flight, hemophagic
+  transmission established Fear #27 onward'
+- 'Self-concept stable across writers: ''I am a monster who was once a man,'' held with grim coherence,
+  worked against rather than from'
+canon_anchor_quotes:
+- '"I am not a vampire... I am a scientist! And yet - what I have become is worse than any vampire of
+  legend." # Adventure into Fear, Mantlo'
+- '"Forgive me, Nikos. Forgive me - I did not know what I had become." # Amazing Spider-Man #102, Thomas'
+- '"The hunger... the hunger comes again. And I - I am only a man." # Morbius: The Living Vampire, Milligan'

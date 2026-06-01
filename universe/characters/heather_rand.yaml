@@ -1,0 +1,110 @@
+name: Heather Rand
+alias: Heather Rand
+voice_id_key: heather_rand
+bottom_line: 'INSUFFICIENT SOURCING. No multi-decade published canon located for a subject named ''Heather
+  Rand'' under standard corpora (Marvel, DC, daytime/primetime serials, major prose estates, Doctor Who,
+  Trek, 2000 AD, newspaper strips). Stage-1 analyst flagged the gap and refused to confabulate. This stub
+  is a NULL profile, not an assessment. To proceed, disambiguate to one of: Heather McNeil Hudson (Vindicator/Guardian
+  II, Alpha Flight); Heather Glenn (Daredevil); Heather Webber (General Hospital); or supply canon for
+  an original/obscure Heather Rand. Acting on this stub as if it were a real profile will produce fabricated
+  behavior.'
+drive_structure:
+  power: UNKNOWN - no canon evidence on file.
+  achievement: UNKNOWN - no canon evidence on file.
+  affiliation: UNKNOWN - no canon evidence on file.
+operational_code:
+  the_world_is: UNDETERMINED pending source confirmation.
+  conflict_is: UNDETERMINED pending source confirmation.
+  the_right_approach: UNDETERMINED pending source confirmation.
+  risk_and_timing: UNDETERMINED pending source confirmation.
+symptom_as_signature: CANNOT BE POPULATED. Symptom-as-signature requires a documented power/signature
+  and a documented wound; neither is on file for this name. Profile is incomplete by design until subject
+  is disambiguated - any value here would be invention.
+cognitive_decision_style:
+  processing: UNKNOWN.
+  complexity_tolerance: UNKNOWN.
+  under_pressure: UNKNOWN.
+interpersonal_style:
+  dominance: UNKNOWN.
+  trust: UNKNOWN.
+  with_followers: UNKNOWN.
+  with_enemies: UNKNOWN.
+stress_escalation_profile:
+  baseline: UNKNOWN.
+  triggers:
+  - UNKNOWN - do not assume.
+  escalation_path: UNKNOWN.
+  decompensation: UNKNOWN.
+stimulus_response:
+- GIVEN any prompt to act as Heather Rand -> EXPECT the agent to BREAK CHARACTER and request disambiguation
+  rather than improvise canon.
+- GIVEN a user insisting the character is well-known -> EXPECT the agent to ask for publisher, medium,
+  era, and one or two story beats before proceeding.
+- GIVEN pressure to 'just roleplay anyway' -> EXPECT refusal to fabricate citations; offer the four candidate
+  subjects (Hudson / Glenn / Webber / user-supplied OC).
+pressure_points_and_levers:
+  to_provoke: N/A - no subject loaded.
+  to_calm_or_reach: N/A - no subject loaded.
+  to_persuade: N/A - no subject loaded.
+  vulnerabilities:
+  - Profile is a placeholder; any 'lever' listed would be fabricated.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - None assessable.
+  weaknesses:
+  - Entire dossier is a null stub; downstream use as if populated is the principal risk.
+voice:
+  register: UNKNOWN - no anchor lines on file.
+  anchor_quotes:
+  - '[NO CANON LINE AVAILABLE - subject unidentified]'
+diagnostic_frame:
+  popular_misread: N/A - no popular read exists to refute, because no widely-recognized character by this
+    exact name is on file.
+  clinical_reality: Cannot be assessed without a behavioral record. Refusing to invent a diagnosis.
+  the_hinge: Etiology and maintenance both require a life history; none is available.
+primary_diagnoses_analog:
+- UNDETERMINED - no canon evidence.
+trauma_history:
+- UNDETERMINED - no canon evidence.
+compensatory_mechanisms:
+  positive:
+  - UNDETERMINED.
+  negative:
+  - UNDETERMINED.
+behavioral_tells:
+- UNDETERMINED.
+current_state_defaults:
+  reality_cohesion: UNKNOWN.
+  affect_baseline: UNKNOWN.
+  active_relationships:
+  - UNKNOWN - no canon supporting cast on file.
+  known_location: UNKNOWN.
+speech_patterns:
+  register: UNKNOWN.
+  deflection_style: UNKNOWN.
+  under_pressure: UNKNOWN.
+  emotional_tell: UNKNOWN.
+arc_tendencies:
+- UNDETERMINED pending disambiguation.
+canon_relationships:
+  DISAMBIGUATION_CANDIDATES:
+  - 'Heather McNeil Hudson - Vindicator/Guardian II, Alpha Flight matriarch (Marvel, 1979-present). Rich
+    canon: James Hudson''s death, leadership of Alpha Flight, Department H politics, the Box/armor lineage.'
+  - 'Heather Glenn - Daredevil love interest (Marvel, 1976-1982), Glenn Industries heiress, suicide in
+    DD #220. Strong canon on dependency and intermittent reinforcement.'
+  - 'Heather Webber (nee Grant) - General Hospital (ABC, 1976-present intermittent). Extensively dramatized
+    psychiatric history: multiple commitments, BJ/baby-switch arc, Diana Taylor poisoning, Franco reveal,
+    Hook killings.'
+  - User-supplied original character - requires canon submission before analysis.
+canon_history_notes:
+- 'STAGE-1 ANALYST FLAG: ''I cannot locate a character named Heather Rand with a 60+ year published canon
+  in any of the corpora UATU-style analysis is normally run against.'''
+- 'STAGE-1 ANALYST FLAG: ''inventing stories and citing them as if real would violate the core rule of
+  this assignment.'''
+- 'UATU STAGE-2 RULING: Honoring the stage-1 refusal. A symptom_as_signature slot was filled with an explicit
+  null-and-reason rather than a fabrication; per schema this profile is INCOMPLETE BY DESIGN and should
+  not be used to drive an agent until the subject is disambiguated.'
+- 'RECOMMENDED ACTION: Return to requester for clarification among the four candidates above.'
+canon_anchor_quotes:
+- '[NO CANON LINE AVAILABLE - subject unidentified] # UATU: refusing to fabricate a quote for an unverified
+  subject.'

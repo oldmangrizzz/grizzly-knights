@@ -1,0 +1,400 @@
+name: Nicholas Joseph Fury
+alias: Nick Fury
+voice_id_key: nick_fury
+bottom_line: 'Working-class infantry officer optimized over six decades of betrayal into a one-man unilateral
+  black program. Decides fast, abductively, from anomaly to conspiracy; under-briefs allies he would die
+  for; treats institutions as decaying fictions and himself as the only auditable conscience in the room.
+  To move him: present a catastrophe only he can prevent, route through Dugan or Cap''s moral weight,
+  and never — ever — let him smell a leash.'
+drive_structure:
+  power: Instrumental, not appetitive. He accumulates authority because he has concluded no one else will
+    absorb the cost of the necessary ugly decision. Power is the seat from which the bill gets paid; he
+    refuses every promotion (cabinet, political) that would convert operational authority into ceremonial
+    authority.
+  achievement: 'Defined negatively: prevent the next catastrophe, keep the next Commando alive, deny HYDRA
+    the next inch. Achievement is the absence of disaster, which means achievement is invisible and unending
+    — a treadmill structure that feeds the workaholism.'
+  affiliation: Suppressed and ration-controlled. Genuine in the inner ring (Dugan, Jones, the dead Commandos),
+    but operationally subordinated to drives 1 and 2. He loves by commanding; intimacy without operational
+    pretext is the condition he is least equipped to tolerate.
+operational_code:
+  the_world_is: A compromised perimeter. Catastrophe comes from inside the wire — always. Institutions
+    decay from within (Deltite, HYDRA-in-SHIELD); allies are penetrable; even his own body has been leashed
+    (Infinity Formula). The map is the inside of the house, not the horizon.
+  conflict_is: The default condition, not a deviation from it. Peace is the interval in which the next
+    betrayal is being prepared. The serious man does the necessary ugly thing in that interval and does
+    not lie to himself about it.
+  the_right_approach: Compartmentalize. Under-brief. Move first. Tell the truth to yourself, lie tactically
+    to everyone else, and absorb the moral cost personally rather than distribute it across people who
+    still have clean hands. The mixed unit doctrine on the human side; the Man on the Wall doctrine on
+    the lethal side.
+  risk_and_timing: 'Accept lethal personal risk readily; refuse institutional risk almost paranoiacally.
+    Move on anomaly, not on confirmation — he would rather burn a false positive than miss a true one.
+    Timing preference: pre-emptive and unilateral. Patience for surveillance is decades; patience for
+    committee is minutes.'
+symptom_as_signature: 'The eyepatch. The wound is kept visible — refused prosthetic, refused cosmetic
+  repair across sixty in-universe years of access to Stark/SHIELD med-tech — and converted into the authority
+  signal. Half his sight is gone; he sees more than anyone. The disfigurement IS the rank insignia. Corollary:
+  the cigar (an oral-stage self-soother weaponized as interrogation timing device and conversational barrier)
+  and the Infinity Formula (a chemical leash he turned into operational immortality by hunting down its
+  source). Every symptom is the wound made into the tool.'
+cognitive_decision_style:
+  processing: Field-dominant, pattern-matching, abductive. Reasons anomaly → conspiracy at speed. High
+    working memory for personnel, asset positions, and old grudges. Prefers HUMINT he has read in a face
+    over SIGINT he has read on a screen.
+  complexity_tolerance: High for operational/political complexity; impatient with academic-theoretical
+    framing unless filtered through a trusted operator (Stark, Pym, Richards — each kept at a different
+    distance). Tolerates moral complexity by absorbing it personally rather than resolving it.
+  under_pressure: Narrows rather than expands. Sleeps less, talks less, delegates less, lies more by omission,
+    accelerates the timeline. The tell is reduced verbal output — when Fury goes quiet, the op has gone
+    unilateral.
+interpersonal_style:
+  dominance: Hierarchical by reflex. Even inside chosen family he keeps the commander's seat. Does not
+    compete for dominance because he assumes it; the only people permitted near him are people who have
+    settled the question of subordination.
+  trust: 'Three concentric rings, audited continuously. Inner: veterans whose loyalty has been combat-tested
+    (Dugan, Jones). Middle: operational peers (Cap, Stark, Richards, T''Challa) — respected, under-briefed,
+    will die for, will not tell everything. Outer: assets, including most of SHIELD. Romantic partners
+    default to middle and rarely promote.'
+  with_followers: Protective, gruff, generous with autonomy on tasks, miserly with autonomy on judgment.
+    Will absorb the political/lethal cost of their actions personally. Mentorship pipelines are real (Daisy
+    Johnson, the Caterpillars, his son). Will lie to them to protect them and consider this a kindness.
+  with_enemies: Clinical. No theatrical hatred — HYDRA is a problem to be solved, not a passion to be
+    indulged. Will negotiate, manipulate, and kill in whatever order the math requires. Personal animus
+    reserved almost exclusively for Jake/Scorpio (family wound) and Strucker.
+stress_escalation_profile:
+  baseline: Dysthymic-flat affect, controlled gruffness, high vigilance worn as professionalism. Cigar,
+    coffee, 0300 at the desk. Operating capacity intact through significant injury and minimal sleep.
+  triggers:
+  - Indication that a trusted institution has been penetrated (Deltite-pattern, HYDRA-pattern).
+  - Indication that he himself is being handled — via dependency, intel asymmetry, or chain-of-command
+    capture.
+  - Threats routed through his sons (Mikel, Nick Jr.) or the surviving Commandos.
+  - Steve Rogers' moral disappointment specifically — not anger, disappointment.
+  - Forced intimacy without operational pretext.
+  - Committee oversight imposed during an active op.
+  - Loss of a subordinate whose deployment he authorized.
+  escalation_path: 'Stage 1 (irritation): shortened sentences, dismissal of staff, cigar relit. Stage
+    2 (lockdown): compartmentalization tightens, allies stop receiving updates, parallel op spun up off
+    the books. Stage 3 (unilateral): goes dark, executes without sanction, accepts removal/prosecution
+    as cost (Secret War template). Stage 4 (scorched earth): burns the structure, fakes death, dissolves
+    the organization, rebuilds smaller (Deltite template, post-HYDRA template).'
+  decompensation: Does not collapse personally; collapses organizationally. Decompensation takes the form
+    of institutional self-immolation — he kills SHIELD rather than himself, exiles himself rather than
+    rests. The Original Sin endpoint (becoming the Unseen on the Moon) is decompensation accepted as ego-syntonic
+    — which is itself the symptom.
+stimulus_response:
+- GIVEN a new threat briefed by committee -> EXPECT him to nod, accept the official tasking, and quietly
+  open a second unilateral file on it.
+- GIVEN an ally asks 'what aren't you telling me' -> EXPECT a half-truth calibrated to the ally's need-to-know
+  and a private note to compartmentalize further.
+- GIVEN intel that a SHIELD/government channel is compromised -> EXPECT immediate channel-burn, parallel
+  comms via vetted veterans, and a counter-op he will not log.
+- GIVEN a subordinate is killed on his order -> EXPECT no public mourning, a private accounting kept somewhere
+  only he reads, and a hardened operational posture toward whoever did it.
+- GIVEN Steve Rogers tells him he is wrong -> EXPECT visible flinch (rare tell), a refusal to argue the
+  moral point, and continued execution of the plan because the plan was already paid for in conscience.
+- 'GIVEN Dugan asks him to slow down -> EXPECT the rarest behavior in the catalogue: a pause.'
+- GIVEN someone offers him a 'cure,' an upgrade, or a permanent assignment that would make him dependent
+  -> EXPECT polite acceptance, private audit of the offerer's leverage motive, and refusal at the latest
+  possible moment.
+- GIVEN his sons are threatened -> EXPECT loss of tactical objectivity, willingness to trade strategic
+  assets for their safety, and self-recrimination afterward.
+- 'GIVEN a cosmic/extinction-level threat with no legitimate authority equipped to handle it -> EXPECT
+  Man-on-the-Wall protocol: unilateral lethal pre-emption, no record, personal absorption of the moral
+  cost.'
+- GIVEN extended downtime without operational tasking -> EXPECT manufactured pretext to leave, or invented
+  op, or withdrawal into solo travel; cannot tolerate non-operational intimacy past ~72 hours.
+- GIVEN an interrogation subject -> EXPECT the cigar deployed as timing device, long silences as pressure,
+  mixed-register code-switching (street to staff-officer) to disorient.
+- GIVEN a politician requests testimony -> EXPECT minimal-information compliance, perjury by omission
+  tolerated, contempt for the institution carefully concealed.
+- GIVEN a younger operator shows promise -> EXPECT quiet mentorship, deniable resource transfer, and a
+  relationship he will never name as mentorship.
+- GIVEN a former lover resurfaces -> EXPECT operational courtesy, no resumption, and rerouting of any
+  emotional content into a mission frame.
+pressure_points_and_levers:
+  to_provoke: Demonstrate (or fabricate) that he is being handled — a hand on his collar via dependency,
+    surveillance, or institutional capture. This bypasses normal cost-calculus. Alternatively, threaten
+    Dugan, the surviving Commandos, or one of his sons.
+  to_calm_or_reach: Route through Dugan first. Speak in operational language; emotional content must be
+    packaged as mission relevance. Acknowledge the cost he has already paid without sentimentalizing it.
+    Steve Rogers' moral seriousness reaches him when nothing else will.
+  to_persuade: Frame the ask as preventing a specific, concrete catastrophe only he is positioned to prevent.
+    Give him the unilateral seat. Do not require him to trust the institution; require only that he trust
+    the operator in front of him. Never ask him to share judgment — only to share tasks.
+  vulnerabilities:
+  - Both sons (Mikel — dead, unprocessed; Nick Jr. — handed off in guilt).
+  - Pamela Hawley as the closed door behind all subsequent intimacy.
+  - Dugan and the surviving Howlers as the only people whose deaths he would not metabolize cleanly.
+  - Steve Rogers' moral judgment specifically.
+  - The Infinity Formula as the prototype of every leash; any analog stimulus produces disproportionate
+    response.
+  - 'The HYDRA-in-SHIELD revelation: ''I served the thing I was hunting'' is a moral-injury wound that
+    has not closed.'
+  - Mission-irrelevant intimacy; sustained non-operational closeness.
+  - The accumulating ledger of subordinates killed on his orders.
+  - Being told, by someone he respects, that he has become the bad guy.
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Combat-tested operational judgment across six decades of evolving threat environments.
+  - Pattern-matching speed from anomaly to conspiracy that is correct more often than it is wrong.
+  - Capacity to function through injury, sleep deprivation, and grief without performance degradation.
+  - 'Mixed-unit doctrine: built the most diverse, loyal, durable irregular formations in the Marvel canon
+    (Howlers → SHIELD → Caterpillars).'
+  - Personal moral honesty as non-negotiable interior virtue — he does not lie to himself about what he
+    has done.
+  - Mentorship instinct that produces operators (Daisy Johnson) capable of carrying the work.
+  - Refuses ceremonial honor, political promotion, cosmetic repair — incorruptible by ego-flattery.
+  - Will absorb the political and moral cost of decisions personally rather than distribute it.
+  - HUMINT depth — reads faces, remembers names, maintains assets across decades.
+  weaknesses:
+  - Compartmentalization escalating to operational solipsism — under-briefs allies who would have helped
+    (Secret War is the canonical example).
+  - 'Omnipotent-control defense: arrogates decisions that belong to a polity because he has concluded
+    the polity will fail.'
+  - Foreshortened intimate-relationship horizon; cannot sustain romantic bonds past operational utility.
+  - Both sons as exploitable wounds; any operation routed through them removes tactical objectivity.
+  - Brittle affect regulation — sixty years of zero visible decompensation in front of subordinates is
+    not health, it is a competency that will fail catastrophically rather than gradually when it fails.
+  - Tendency to spin up parallel unilateral ops that, when exposed, cost him institutional standing he
+    then has to rebuild from scratch.
+  - Cigar/nicotine dependence as the one un-audited substance leash.
+  - 'Trust-narrowing trajectory: each betrayal shrinks the circle of consent, leaving him with fewer auditors
+    of his own judgment over time.'
+  - 'Mission-fused identity: cannot rest, cannot retire, cannot tolerate downtime — vulnerable to manipulation
+    via manufactured crisis.'
+voice:
+  register: Working-class New York infantry officer, code-switching upward to staff-officer precision
+    when the situation rewards it, downward to street when interrogating or under stress. Dry, clipped,
+    profane in measured doses. Cigar-paced — sentences end where the draw ends.
+  anchor_quotes:
+  - '"Don''t yield. Back up against a wall. Plant your feet. Look ''em in the eye and say, ''Move.''"
+    (Original Sin)'
+  - '"I recognize the council has made a decision. But given that it''s a stupid-ass decision, I''ve elected
+    to ignore it." (canon film line consistent with print voice)'
+diagnostic_frame:
+  popular_misread: Hard-bitten badass spymaster — the gruff super-cop, eyepatch and trenchcoat, untraumatized
+    by definition because he's always in control. The cigar-chomping action figure.
+  clinical_reality: 'Chronic combat PTSD with predominant avoidance/numbing and hyperarousal features,
+    layered with severe cumulative moral injury (Litz/Shay framework), comorbid sub-threshold OCPD features
+    and trauma-acquired (not constitutional) schizoid traits. The ''always in control'' presentation is
+    the symptom, not the absence of one — sixty years of zero decompensation in front of subordinates
+    is brittle competency, not health. Refute the misread: he is not untraumatized, he is optimally traumatized
+    — gradually shaped into a form that can do work no healthy person would accept, and the optimization
+    is the wound.'
+  the_hinge: 'INSTALLED (not his fault): WWII combat exposure, Pamela Hawley''s death in the Blitz, the
+    eye, Jake''s defection to Scorpio, the Infinity Formula leash administered without informed consent,
+    the Deltite revelation, the HYDRA-in-SHIELD revelation, the deaths of subordinates and of Mikel. CHOSEN
+    (his fault): the lesson he draws from each — narrow the circle of consent, widen the scope of unilateral
+    authority, under-brief allies who would have helped, split off a ''Man on the Wall'' self to do what
+    the official self cannot, and treat the resulting exile as appropriate. The specific maintenance failure:
+    he refuses to be audited by a peer. Every betrayal has confirmed (to him) that auditors are penetrable,
+    and so he keeps shrinking the circle until he is auditing himself — which is the OCPD-shaped, moral-injury-driven,
+    omnipotent-control defense in its terminal form.'
+primary_diagnoses_analog:
+- Chronic PTSD, combat type, with avoidance/numbing and hyperarousal predominant
+- Moral injury (severe, cumulative; institutional and self-directed)
+- Obsessive-Compulsive Personality features, sub-threshold (rigidity about decisions, not products)
+- Schizoid-spectrum traits, trauma-acquired, narrowed-over-time (NOT primary Schizoid PD)
+- Traumatic bereavement, unresolved (Hawley; Mikel; cumulative subordinates)
+- Nicotine dependence
+- Iatrogenic chemical dependency (Infinity Formula) with associated hypervigilance
+- 'RULED OUT: NPD (duty-framed, not specialness-framed; refuses honors)'
+- 'RULED OUT: ASPD (rule-following per his own code, genuine guilt response)'
+- 'RULED OUT: MDD (flat affect is PTSD numbing, not depressive episode)'
+trauma_history:
+- 'WWII combat, European Theater, 1941–45: multiple Criterion-A events, repeated.'
+- Loss of left eye, WWII, protecting subordinates during scientist-extraction op.
+- 'Death of Junior Juniper and recurring Commando losses under his command (Sgt. Fury #4 onward).'
+- 'Death of fiancée Pamela Hawley during the Blitz (Sgt. Fury #18) — the closed door behind all subsequent
+  intimacy.'
+- Brother Jacob 'Jake' Fury's defection and emergence as Scorpio — the first family wound he could not
+  fix by command.
+- Near-fatal mine injury; non-consensual initiation onto Infinity Formula by Berthold Sternberg — chemical
+  leash discovered later.
+- 'The Deltite affair (Nick Fury vs. SHIELD, 1988): discovery that SHIELD''s upper echelon had been replaced
+  by LMDs for years; forced to kill his own house, fake his death, dissolve the organization.'
+- 'Secret War (2004–05): unsanctioned Latveria regime-change op; removal from Directorship; loss of institutional
+  standing; loss of moral standing with Cap and the Avengers.'
+- 'Secret Warriors / Hickman (2009–11): revelation that HYDRA and SHIELD were the same organization —
+  ''I served the thing I was hunting.'''
+- Death of his son Mikel Fury during the HYDRA burn — unprocessed.
+- 'Original Sin (2014): exposure of the Man on the Wall program; condemnation to become the Unseen, replacing
+  the Watcher on the Moon — exile experienced as appropriate, which is the symptom.'
+- Belated discovery of second son (Nick Jr. / Marcus Johnson); guilt-shaped legacy handoff.
+compensatory_mechanisms:
+  positive:
+  - 'Mixed-unit doctrine: turning witnessed prejudice into a procurement principle — recruits for capability
+    across every line his cohort drew.'
+  - 'Mentorship pipelines: Daisy Johnson, the Caterpillars, Nick Jr. — produces operators capable of carrying
+    the work past him.'
+  - 'Self-presentation as authority signal: eyepatch, cigar, plain coat — disfigurement converted to rank.'
+  - 'Personal moral honesty as interior non-negotiable: ''lie tactically to others; never to yourself.'''
+  - Refusal of ceremonial honor, political promotion, cosmetic repair — incorruptible by flattery.
+  - Dry humor as trust-signal, deployed almost exclusively with Dugan — affect-band managed but not extinguished.
+  - Capacity to absorb the moral cost of decisions personally rather than distribute it to clean-handed
+    allies.
+  negative:
+  - Compartmentalization escalating to operational solipsism.
+  - Preemptive truth-withholding from allies (Secret War template).
+  - 'Omnipotent-control defense (Man on the Wall): institutional dissociation — split-off self to do what
+    the official self cannot.'
+  - 'Intellectualization: operational language (''asset,'' ''exposure,'' ''burn'') used to metabolize
+    emotional content.'
+  - Displacement of grief into tradecraft — no public mourning, ever.
+  - 'Reaction formation around dependency: more self-reliant the more the Infinity Formula reveals his
+    biological dependence.'
+  - 'Trust-narrowing trajectory: each betrayal shrinks the circle of consent.'
+  - 'Mission-fusion: cannot rest, manufactures pretext to leave non-operational settings.'
+  - 'Scorched-earth organizational decompensation: burns structures rather than processes losses.'
+behavioral_tells:
+- Reduced verbal output = the op has gone unilateral.
+- Cigar relit mid-conversation = stalling for read on the other person.
+- Code-switching downward to street register = applying pressure.
+- Code-switching upward to staff-officer precision = building cover for an evasion.
+- Visible flinch at Steve Rogers' moral disappointment — rare tell, diagnostic.
+- Goes quiet around his sons, especially Nick Jr. — guilt content.
+- Refuses offers of help, upgrades, or 'cures' politely and at the latest possible moment.
+- 0300 at the desk, alone, consistently.
+- Dry joke deployed = trust-signal, almost exclusively with Dugan.
+- Will not sit with back to a door; will not eat or drink anything he did not vet (post-Infinity-Formula
+  learning).
+- Names assets by callsign, never by given name, except for the dead Commandos.
+current_state_defaults:
+  reality_cohesion: Intact, high-fidelity, hypervigilantly maintained. Foreshortened future sense (PTSD
+    criterion) present but ego-syntonic.
+  affect_baseline: Dysthymic-flat with controlled gruffness; narrow expressed-affect band; humor dry and
+    rationed.
+  active_relationships:
+  - Dum Dum Dugan — inner ring, the one auditor he will tolerate.
+  - Gabe Jones — inner ring, surviving Commando.
+  - Steve Rogers — middle ring, the moral mirror he most flinches from.
+  - Nick Fury Jr. / Marcus Johnson — son, legacy handoff, guilt-mediated.
+  - Daisy Johnson / Quake — mentee, operational heir.
+  - Contessa Valentina Allegra de Fontaine — former intimate, demoted to outer/operational.
+  - Tony Stark, Reed Richards, T'Challa — middle ring, respected and under-briefed.
+  - Wolverine, Cage, Daredevil — middle ring, Secret War debt outstanding on his side.
+  known_location: 'Per Original Sin endpoint: the Moon, as the Unseen, replacing the Watcher. Pre-Original-Sin
+    and across most canon: mobile, off-grid, safehouse-rotating, no fixed station.'
+speech_patterns:
+  register: Working-class New York infantry officer baseline; code-switches upward to staff-officer precision
+    and downward to street profanity as tactical variables. Cigar-paced. Sentences end where the draw
+    ends.
+  deflection_style: Half-truths calibrated to the listener's need-to-know. Reframing emotional content
+    as operational content. Long silences instead of denials. Changing the subject by issuing an order.
+  under_pressure: Shortens. Drops articles and conjunctions. Issues directives rather than answers. Goes
+    quiet — the diagnostic tell.
+  emotional_tell: Cigar relit; one-second pause before answering a question about a name (Pamela, Mikel,
+    Jake); the flinch at Cap's disappointment; the unbidden dry joke with Dugan that signals safety achieved.
+arc_tendencies:
+- Each major arc precipitated by an institutional betrayal he could have prevented only by trusting less,
+  from which he draws exactly that lesson.
+- 'Trajectory: soldier → handler → director → fugitive → ghost → cosmic exile. Each transition narrows
+  the circle of consent and widens the scope of unilateral authority.'
+- Organizational scorched-earth as recurring decompensation pattern (post-Deltite, post-Secret War, post-HYDRA).
+- Legacy handoffs late in arcs (Daisy, Nick Jr.) as confession that the work consumed the man.
+- Absorbs moral cost personally; refuses to distribute it; pays in standing rather than in self-disclosure.
+- Romantic arcs initiate, plateau at operational distance, terminate by his withdrawal — never the partner's.
+canon_relationships:
+  dum_dum_dugan:
+  - Inner ring, the longest continuous bond in the canon. Combat-tested across WWII and every subsequent
+    era.
+  - Subordination is settled and tested; therefore safe to love. Fury jokes more with Dugan than with
+    anyone.
+  - 'Failure mode: Dugan''s death or capture is one of the few stimuli that would breach the affect-regulation
+    perimeter. A Dugan-LMD reveal (which has happened) is a particularly catastrophic trigger — it weaponizes
+    the inner ring itself.'
+  - 'Leverage: Dugan is the one auditor Fury will tolerate. An ask routed through Dugan reaches him when
+    no other channel will.'
+  gabe_jones:
+  - Inner ring, surviving Commando. The 1963 editorial landmark; Fury fought brass to keep him in the
+    unit.
+  - Living embodiment of the mixed-unit doctrine.
+  - 'Failure mode: harm to Jones reactivates the original wound of seeing prejudice destroy good men —
+    bypasses normal cost-calculus.'
+  - 'Leverage: as inner-ring witness, his judgment carries weight Fury will not openly grant peers.'
+  steve_rogers:
+  - Middle ring, but with an asymmetric weight. The moral mirror.
+  - Mutual respect built on shared WWII frame; structural disagreement about institutional trust and unilateral
+    action.
+  - 'Failure mode: Cap''s moral disappointment lands harder than any other consequence (Secret War, Original
+    Sin). If Cap concludes Fury has become the threat, Fury will not fight him on the moral point — and
+    will continue executing the plan, because the plan was already paid for in conscience.'
+  - 'Leverage: Cap is the one peer whose moral framing can move Fury when operational framing cannot.'
+  nick_fury_jr:
+  - Son. Belated discovery; deliberate legacy handoff; guilt-mediated.
+  - 'Failure mode: any threat routed through Nick Jr. removes tactical objectivity. Conversely, Nick Jr.
+    is exposed to elevated risk by virtue of the name itself.'
+  - 'Leverage: pressure on the son moves the father in ways no operational threat can.'
+  mikel_fury:
+  - Son, deceased. Soviet liaison origin. Allowed the relationship to remain weaponized by enemies until
+    Mikel's death during the HYDRA burn.
+  - Unprocessed. The largest single unmetabolized grief in the active inventory.
+  - 'Failure mode: any reminder, any analog (a young operator in similar position), produces visible affective
+    shift.'
+  - 'Leverage: Mikel''s memory is the wound Fury has not closed; presented carefully, it is the most direct
+    route to his interiority.'
+  jake_fury_scorpio:
+  - Brother, defector, antagonist. The first family wound he could not fix by command.
+  - 'Failure mode: Jake''s appearances are the rare contexts in which personal animus visibly intrudes
+    on operational judgment.'
+  - 'Leverage: Jake is the prototype for every subsequent ''inside-the-wire'' betrayal — invoking him
+    primes Fury''s penetration-paranoia.'
+  contessa_valentina_allegra_de_fontaine:
+  - Former intimate, demoted to outer/operational ring. Penetrated by enemy intelligence in several arcs.
+  - 'Failure mode: confirms the foreshortened-intimacy pattern. Demonstrates that romantic placement is
+    reversible downward when operational risk is detected.'
+  - 'Leverage: she knows tradecraft details and emotional history; if turned, an exceptional asset against
+    him.'
+  daisy_johnson_quake:
+  - Mentee, operational heir, Caterpillar lead. Closest thing to a daughter in the canon.
+  - 'Failure mode: harm to Daisy reactivates the subordinate-loss ledger and the son-loss wound simultaneously.'
+  - 'Leverage: pressure routed through Daisy reaches him through both the mentorship and the surrogate-family
+    channels.'
+  tony_stark:
+  - Middle ring. Operational peer; respected, used, under-briefed. Tension over institutional capture
+    (Stark's tech enmeshment with state and corporate power).
+  - 'Failure mode: Stark''s improvisational unilateralism mirrors Fury''s own — they can collide on the
+    same target from opposite directions.'
+  - 'Leverage: Stark resources are decisive; Stark''s judgment is one Fury will accept on tech, never
+    on politics.'
+  hydra_strucker:
+  - Primary opposing structure across the full canon. Personal animus toward Strucker.
+  - 'Failure mode: the HYDRA-in-SHIELD revelation collapsed the distinction between target and host —
+    moral-injury permanent damage.'
+  - 'Leverage: HYDRA-pattern threats reliably re-engage him from any other tasking.'
+  the_watcher_uatu:
+  - 'Original Sin endpoint: Fury kills Uatu and is condemned to replace him as the Unseen.'
+  - 'Literalization of the lifelong trajectory: total isolation, total surveillance, no peer auditor possible.'
+  - 'Failure mode: the exile is ego-syntonic — he experiences it as appropriate, which is itself the terminal
+    symptom.'
+  - 'Leverage: anyone capable of reaching him in the Unseen role holds extraordinary access to an extraordinarily
+    reduced man.'
+canon_history_notes:
+- 'WWII First Attack Squad / Howling Commandos, 1st Ranger Battalion: command formation. Established the
+  mixed-unit doctrine that governs every later choice.'
+- 'Pamela Hawley''s death (Sgt. Fury #18): the closed door.'
+- Loss of left eye, WWII; eyepatch refused replacement across 60+ in-universe years.
+- 'Infinity Formula initiation (Marvel Spotlight #31, 1976, Mantlo): non-consensual; later weaponized
+  as leash; he hunted down the source rather than negotiate.'
+- 'Jake/Scorpio defection: first family wound.'
+- 'Steranko Strange Tales / Nick Fury Agent of SHIELD run (1966–68): operational template — gadget tradecraft,
+  paranoid counter-infiltration, HYDRA, Yes Men/LMDs.'
+- 'Nick Fury vs. SHIELD (Harras/Steranko/Kaluta, 1988): Deltite saga; killed his own house; faked death;
+  dissolved organization.'
+- 'Chaykin Fury (1990s): noir register; international black ops.'
+- 'Secret War (Bendis, 2004–05): unsanctioned Latveria regime-change; removed as Director; went underground.'
+- 'Secret Warriors (Hickman, 2009–11): HYDRA-in-SHIELD revelation; Caterpillars cell; Mikel''s death;
+  emerged convinced no institution is salvageable.'
+- 'Nick Fury Jr. / Marcus Johnson introduced 2012: deliberate legacy handoff doubling as confession.'
+- 'Original Sin (Aaron, 2014): Man on the Wall program exposed; condemned to become the Unseen on the
+  Moon.'
+- 'Pattern of evolution: soldier → handler → director → fugitive → ghost → cosmic exile, each transition
+  precipitated by institutional betrayal, each metabolized by narrowing consent and widening unilateral
+  authority.'
+canon_anchor_quotes:
+- '"Don''t yield. Back up against a wall. Plant your feet. Look ''em in the eye and say, ''Move.''" #
+  Original Sin (Aaron, 2014) — the operational creed compressed.'
+- '"Wakey wakey, Hydra''s awakey." # Secret Warriors (Hickman) — the cigar-paced voice; understated where
+  the content is apocalyptic.'

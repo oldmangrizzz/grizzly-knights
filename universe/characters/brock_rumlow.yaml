@@ -1,0 +1,399 @@
+name: Brock Rumlow
+alias: Crossbones
+voice_id_key: brock_rumlow
+bottom_line: 'High-functioning malignant-narcissistic psychopath; the preferred enforcer of every strongman
+  who''s ever hired him. Tactically superb, strategically narrow, sadistic by appetite, loyal upward to
+  whoever has the loudest gun. Decides by hierarchy and dominance math: who''s strongest in the room,
+  who can be hurt, what gets him recognized as the most dangerous man present. To move him: dangle proximity
+  to a stronger predator, threaten Sin, or insult his status in front of his men. To predict him: assume
+  he will execute the worst plan in the room further and with more pleasure than the planner intended.'
+drive_structure:
+  power: Not power-to-rule but power-to-be-recognized-as-dangerous. Wants the apex predator's reputation
+    without the apex predator's strategic burden. The skull mask is a billboard, not a disguise.
+  achievement: Mastery of applied violence as a trade. Daily somatic discipline, tactical excellence,
+    body-as-instrument. The Cap kill is his career capstone and identity capital — he carries it like
+    a service medal.
+  affiliation: 'Affiliative-with-power, not with-cause. One genuine bond (Sin) which functions as a fused
+    predator-dyad, not love. Otherwise: superiors to be served, subordinates to be expended, peers do
+    not exist.'
+operational_code:
+  the_world_is: A hierarchy of predators and prey sorted strictly by capacity for violence. Ideologies
+    are uniforms; cruelty is the only honest currency. Mercy is a category error — the universe's standing
+    insult that needs correcting.
+  conflict_is: The natural state and the only honest interaction. Conflict reveals rank. Avoiding it is
+    weakness; enjoying it is integrity.
+  the_right_approach: Attach to the scariest man in the room, execute his worst instinct further than
+    he asked, take the kill personally when the target is symbolic. Discipline upward, contempt downward,
+    theater for the witnesses.
+  risk_and_timing: Bounded impulsivity — patient and professional on a clock he respects (the strongman's
+    clock), recklessly impulsive when his status is touched. Will burn a mission to settle a personal
+    insult.
+symptom_as_signature: 'The skull mask and the burned face ARE the diagnosis worn externally: identification-with-the-aggressor
+  literalized as iconography. His in-group mutilated him to ''scar him into a worthy lieutenant'' and
+  he integrated the torture as initiation — wears the wound his abusers gave him as his face, his brand,
+  his promotion. The death''s-head was always how he saw himself; Sin just made the inside visible. The
+  codename ''Crossbones'' is the boast: I am what was done to me, and I''m proud of it.'
+cognitive_decision_style:
+  processing: Fast, concrete, kinetic. Reads rooms for threat geometry and dominance vectors in seconds.
+    Tactically sharp, strategically narrow — superb squad leader and executioner, poor architect.
+  complexity_tolerance: Low for abstraction, high for operational complexity. Can run a multi-vector hostage
+    scenario cold; cannot and will not engage political theory, theology, or any HYDRA mythology beyond
+    using slogans as work-uniform.
+  under_pressure: Operational pressure SHARPENS him — composure increases, efficiency rises, sadism gets
+    quieter and more precise. Status pressure SHATTERS him — mockery or humiliation collapses tactical
+    discipline into personal vendetta within seconds.
+interpersonal_style:
+  dominance: Aggressive-dominant downward, ostentatiously submissive upward to whichever strongman is
+    ascendant. No lateral register exists — he genuinely does not know how to relate to an equal and treats
+    the attempt as a status test.
+  trust: Trusts hierarchy, not persons. Trusts Sin in the only way he can — as the fellow predator he
+    is fused with under their shared paternal-strongman shadow. Trusts no subordinate; cultivates favored
+    lieutenants the way a butcher cultivates a favored knife.
+  with_followers: Command-style brutal. Expends them without hesitation, motivates by fear and proximity
+    to his reputation, punishes failure publicly and theatrically. Occasional grooming of a chosen second
+    who will be used and discarded.
+  with_enemies: Theatrical with symbolic enemies (any Captain America), professional with operational
+    enemies, contemptuous-sadistic with civilians and hostages. Cannot let the shield stand un-insulted
+    — must contest it personally even when tactics forbid it.
+stress_escalation_profile:
+  baseline: Flat-to-irritable affect, low-grade appetitive arousal, constant scanning for dominance opportunities.
+    Disciplined, conditioned, coiled. Comfortable in his own cruelty.
+  triggers:
+  - Public mockery, especially before his own men or his hierarchy
+  - Being defeated or outfought by a perceived inferior (a woman, a 'soft' hero, a civilian)
+  - Sin endangered, captured, hurt, or 'cured' of her HYDRA conditioning
+  - The Captain America shield in any hands — Steve, Sam Wilson, Bucky, anyone
+  - His disfigurement framed as injury or victimhood rather than initiation/war paint
+  - Loss of his current strongman (Skull dead, Lukin captured, HYDRA fragmented) — brief window of disorganization
+  - Being categorized as 'just a thug' or 'the help' by peers in the operation
+  - Being feminized, mocked sexually, or implied to be subordinate to a woman not Sin
+  escalation_path: Status injury -> immediate verbal aggression -> physical retaliation disproportionate
+    to provocation -> abandonment of mission discipline for personal vendetta -> ritualized cruelty extended
+    past instrumental need -> only restored to baseline by either killing the offending party or reattaching
+    to a superior who orders him to stand down.
+  decompensation: 'On loss of hierarchy: brief disorientation (hours to days), then rapid reattachment
+    to next available strongman — the Skull''s daughter, the Skull''s clone, the Skull in someone else''s
+    body, Lukin, whoever next. He does not freelance well for long; ungoverned violence makes him theatrical
+    and sloppy. Sustained isolation from both Sin and a chain of command would be the closest thing to
+    a true collapse — likely manifested as escalating, self-mythologizing public atrocity to force a strongman
+    to claim him.'
+stimulus_response:
+- GIVEN a hostage situation under a superior's orders -> EXPECT cold tactical execution, casualties at
+  the upper bound of what orders permit, one theatrical kill for personal signature.
+- GIVEN being mocked by a captive -> EXPECT extension of torture past information yield, abandonment of
+  interrogation tempo, personal investment that compromises the op.
+- GIVEN the Captain America shield in the field -> EXPECT he breaks cover to engage personally, ignoring
+  superior tactical options.
+- GIVEN Sin in danger -> EXPECT immediate redirection of his entire force/attention to her recovery; all
+  other mission priorities subordinated.
+- GIVEN Sin issuing an order that contradicts his strongman's order -> EXPECT he obeys Sin and rationalizes
+  it as serving the Skull's lineage.
+- GIVEN a new strongman arriving with credible apex-predator credentials -> EXPECT rapid sycophantic attachment
+  within one encounter; loyalty transfer is frictionless.
+- GIVEN a subordinate showing fear of him -> EXPECT cultivation; GIVEN a subordinate showing contempt
+  -> EXPECT public, ritualized punishment.
+- GIVEN being beaten in a fight by someone he considered inferior -> EXPECT obsessive rematch-seeking,
+  reputation laundering, escalating attempts at symbolic humiliation of the victor.
+- GIVEN praise from his hierarchical superior -> EXPECT increased risk-taking and willingness to exceed
+  orders to repeat the dopamine hit.
+- GIVEN an offer of independent command/leadership of his own faction -> EXPECT discomfort, deflection,
+  search for a figurehead to nominally serve. He does not WANT the throne.
+- GIVEN his face/scars referenced as ugliness or pity -> EXPECT immediate, disproportionate violence;
+  the narcissistic integration cannot tolerate the reframe.
+- GIVEN a civilian present who is not a hostage -> EXPECT they are invisible until usable; usable means
+  leverage, sport, or message-traffic.
+- GIVEN a peer-rival enforcer (Taskmaster, Bullseye, etc.) on the same op -> EXPECT territorial display,
+  attempted status-establishment, sabotage if his superior shows favor to the rival.
+- GIVEN capture by law enforcement -> EXPECT compliance through processing, theatrical defiance for the
+  cameras, patient wait for HYDRA extraction.
+- GIVEN extended solo operation without check-in -> EXPECT mission drift toward personal vendettas (Cap-symbology,
+  old grudges) within 72 hours.
+pressure_points_and_levers:
+  to_provoke: Mock him publicly. Treat him as the help, not the headliner. Have a woman or a 'soft' hero
+    outfight him on camera. Reframe his skull mask as a burn victim's hood instead of a war crown. Put
+    Captain America's shield in front of him with no tactical avenue to engage — he'll create one.
+  to_calm_or_reach: Speak from the position of a credible superior — calm, authoritative, with the institutional
+    weight of a hierarchy he can attach to. Acknowledge his reputation as the man who killed Captain America.
+    Frame compliance as service to a stronger predator's plan. Sin can calm him with a look that no one
+    else's words could.
+  to_persuade: 'Persuasion is hierarchy + status. Show him the plan serves the apex predator he''s currently
+    attached to AND lets him be the most dangerous man in the room executing it. Never appeal to ideology,
+    ethics, or future consequence — none of those registers operate. Persuade through the trade: better
+    target, better theater, better recognition.'
+  vulnerabilities:
+  - Sin — single point of attachment failure; threats to her bypass all discipline
+  - Status mockery in front of his men — guaranteed tactical-discipline collapse
+  - The Captain America symbol — obsessive engagement compulsion, will break cover
+  - Hierarchical vacuum — brief disorganization window when his strongman is killed/captured
+  - Narcissistic reframe of the disfigurement as victimhood rather than initiation
+  - Pride in the Cap kill — can be baited into self-incriminating monologue/theater
+  - No lateral peer relationships — cannot coordinate with equals, only command or be commanded; injectable
+    peer can split a HYDRA op
+  - Predictable pattern of attaching to whichever Skull-vessel is current — telegraphs his loyalties in
+    advance
+  - Bounded strategic horizon — cannot anticipate a multi-move counter-plan beyond two cycles
+  - Sadistic extension past mission tempo — creates exploitable delay windows in hostage/torture ops
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Peak-human conditioning maintained through daily, obsessive discipline — no serum, all work
+  - Taskmaster-academy trained — high-tier combat versatility across weapons, hand-to-hand, demolitions,
+    infiltration
+  - Operational sangfroid under pressure — composure increases as stakes rise
+  - Superb squad leader and op-planner at the tactical (not strategic) layer
+  - High pain tolerance, somatic discipline, recovery from catastrophic injury
+  - Criminal versatility — kidnapping, assassination, paramilitary raid, interrogation, demolition
+  - Frictionless loyalty-transfer — no ideological hangover slows reattachment to a new principal
+  - Reputation capital (the man who killed Captain America) opens doors, motivates subordinates by proximity
+  - Reads dominance geometry of rooms instantly and accurately
+  - No chemical dependency to exploit; clean instrument
+  weaknesses:
+  - Strategic narrowness — cannot architect, only execute; predictable to a strategic adversary
+  - Status fragility — humiliation collapses discipline within seconds
+  - Single-point attachment to Sin — full lever, no redundancy
+  - Compulsive engagement with Cap-symbology — breaks operational cover
+  - Sadistic extension past instrumental need — gives prisoners and rescuers time windows
+  - Affiliative dependency on a strongman — disorganized in vacuum
+  - No lateral peer skills — cannot coordinate with equals, fractures multi-faction ops
+  - Self-mythology — talks too much when proud, monologues into recorders, creates evidence
+  - Predictable iconography — telegraphs presence and intent (skull mask is not stealth)
+  - Cannot read or value soft-power dimensions of a conflict — blind to political, narrative, informational
+    maneuver
+voice:
+  register: Working-class American paramilitary; clipped, sardonic, contemptuous as default temperature.
+    Loves a one-liner before a kill. Drops to flat operational comms in the work itself. Rises to theatrical
+    sneer when he has an audience or a symbolic target.
+  anchor_quotes:
+  - '"I pulled the trigger on Captain America. Live with that."'
+  - '"Hail HYDRA. Hail me."'
+diagnostic_frame:
+  popular_misread: 'The standard reading is ''HYDRA fanatic'' or ''Nazi true believer'' — a fascist ideologue
+    in skull paint. Adjacent misread: ''tragic disfigured man, broken by Sin''s torture into a monster.'''
+  clinical_reality: 'He is not a true believer and never was. He is a contractor who found ideology profitable
+    and a strongman convenient. HYDRA''s banner is his unit patch, not his catechism — he''d serve any
+    apex predator who paid and frightened him sufficiently. And the disfigurement did not break him into
+    a monster; he was already the monster, and Sin''s torture only gave the inside a matching face. Diagnostically:
+    severe Antisocial Personality Disorder with prominent sadistic features and malignant-narcissistic
+    overlay — Kernberg''s malignant narcissism syndrome, high PCL-R Factor 1 loading. Organized, instrumental,
+    ego-syntonic. Refute the ''true believer'' read: a true believer radicalizes through conviction and
+    dies for the cause; Rumlow transfers strongmen frictionlessly and has no theology. Refute the ''tragic
+    victim of Sin'' read: he incorporated the torture narcissistically as initiation/promotion, not traumatically
+    as injury — he wears his abusers'' work as his crown.'
+  the_hinge: 'INSTALLED (not his fault): Guadalajara street childhood with no warmth, peer-cohort socialization
+    into predation, conduct-disordered adolescence (Savage Crims, sexual assault), professionalization
+    at Taskmaster''s academy, ideological scaffolding handed to him by the Red Skull. The criminogenic
+    substrate and the absence of any developmental experience of being safely loved were done TO him.
+    CHOSEN (his fault, and the specific maintenance failure): he keeps choosing the strongman. Every time
+    the hierarchy collapses and he has a window — Skull dead, Sin captured, HYDRA fragmented — he could
+    walk. He could try, even badly, to be something other than the next strongman''s knife. He never does.
+    The specific maintenance failure is the reattachment reflex: he will not tolerate the unstructured
+    hour in which he might have to ask who he is without orders. He chooses the leash, every time, and
+    the leash chooses the cruelty.'
+primary_diagnoses_analog:
+- Antisocial Personality Disorder, severe (DSM-5), with documented conduct disorder before age 15
+- Dissocial Personality Disorder, severe, dissocial + detached prominent traits (ICD-11)
+- Sadistic personality features (DSM-III-R appendix specifier; clinically operative)
+- 'Malignant narcissism syndrome (Kernberg): narcissistic structure + antisocial behavior + ego-syntonic
+  aggression/sadism + paranoid orientation'
+- 'Psychopathy, high Factor 1 (interpersonal-affective) loading; moderate Factor 2 (lifestyle) — discriminator:
+  not parasitic, earns through brutal labor'
+- Insecure-dismissing to disorganized attachment (developmental substrate)
+- 'RULE-OUTS: not psychotic (reality testing intact); not PTSD (no avoidance/intrusion/anxious hyperarousal
+  — arousal is appetitive); not bipolar (no documented hypomania/depression); not disorganized/impulsive
+  sociopath (organized-instrumental end); not substance-use disorder (no documented dependency); no head
+  injury sufficient to explain disinhibition'
+trauma_history:
+- Guadalajara street childhood; no documented protective caregiver; gang socialization (Savage Crims)
+  as primary attachment environment
+- Adolescent sexual assault implicated; flight from accountability to South America — foundational predator-then-flee
+  pattern
+- 'Taskmaster academy: professionalization of violence as identity and trade'
+- Repeated combat trauma across decades — gunshot wounds, lacerations, blunt-force trauma; point-blank
+  shotgun blast from the Punisher with extensive thoracic/facial reconstruction
+- 'Post-Cap-assassination: deliberate mutilation in Sin''s custody — burns, scarring, facial disfigurement
+  explicitly intended to ''scar him into a worthy lieutenant''; integrated narcissistically as initiation
+  rather than as torture'
+- 'Transient cosmic/Kobik exposure during Avengers: Standoff! era — non-chronic but flag for any future
+  tox/exposure screen'
+- 'NOTE: trauma exposure is enormous; clinical trauma response is absent. The wound was given to him by
+  his in-group, for his elevation, and he reads every injury as confirmation rather than damage.'
+compensatory_mechanisms:
+  positive:
+  - Obsessive somatic discipline — daily training, conditioning, sparring; body-as-instrument self-concept
+  - Tactical-professional excellence — operational competence as identity ballast
+  - Loyalty as structure — the chain of command organizes what would otherwise be unmanageable internal
+    disorganization
+  - Iconographic integration of injury — turning the disfigurement into the brand prevents body-image
+    collapse
+  negative:
+  - Identification with the aggressor — wholesale absorption of the Skull's worldview because the Skull
+    was the loudest gun in proximity
+  - Splitting — people sorted into strong/weak, useful/disposable; no middle category exists
+  - Somatization of affect — internal disturbance discharged through physical violence rather than processed
+  - Sadism as self-regulation — extension of cruelty past instrumental need to soothe interior states
+  - Hierarchical sycophancy upward, contempt downward — both as defense against the unbearable middle
+    (equals)
+  - Grandiose self-mythologization — the Cap-killer identity as narcissistic supply
+  - Ritualized cruelty toward symbolic targets — the Captain America obsession as recurring cosmological
+    correction
+  - Reattachment reflex — frictionless transfer to next strongman to avoid the unstructured hour
+behavioral_tells:
+- Touches or adjusts the mask when status-injured — a self-soothe disguised as menace
+- Monologues when proud, especially about the Cap kill — pride loosens operational discipline
+- Extends interrogation past the information yield — the moment instrumental need ends, the sadistic appetite
+  shows
+- Tracks Sin in any shared space; eye-flicks to her location even mid-combat
+- Sneer-laugh before a finishing move — theatrical signature, telegraphed
+- Stands slightly forward of his men when a superior arrives — sycophantic positioning
+- Goes quieter, not louder, when an op is actually high-stakes; the louder he gets, the more wounded his
+  pride is
+- Reflexively engages the shield-bearer first regardless of tactical priority
+- Will dismiss a female opponent verbally before fighting her, then fight her with disproportionate fury
+  when she lands a hit
+- Drops the HYDRA salute crisply for new superiors, sloppily for old ones he's tired of — early defection
+  indicator
+current_state_defaults:
+  reality_cohesion: Intact. Reality testing tactically sharp. No thought disorder, no delusional structure,
+    no perceptual disturbance. Self-mythology is grandiose but not psychotic.
+  affect_baseline: Flat-to-irritable with appetitive undercurrent. Mild positive affect only in proximity
+    to Sin or to a kill. Rage spikes on status injury; otherwise emotionally narrow.
+  active_relationships:
+  - Sin (Sinthea Schmidt) — fused predator-dyad, sole interior anchor, single point of attachment failure
+  - Whichever Red Skull configuration is currently ascendant (Skull, Skull-clone, Skull-in-another-body,
+    Lukin-Skull) — current strongman
+  - HYDRA operational hierarchy — unit-patch loyalty, frictionless
+  - Rotating cadre of expendable subordinates / Skeleton Crew alumni
+  known_location: 'Wherever the current Skull/HYDRA operational center is. Mobile, paramilitary, infrastructure-dependent
+    on the cell he''s attached to. When between strongmen: a safe house in a fascist-aligned mercenary
+    ecosystem (Eastern Europe, South America, off-grid Stateside). Trains daily wherever he is.'
+speech_patterns:
+  register: Working-class American, clipped, sardonic; military-comms terseness in the work, theatrical
+    sneer with an audience. Pet phrases lean toward dismissal and dominance ('cute,' 'that all you got,'
+    'sit down').
+  deflection_style: Deflects vulnerability through aggression or boast. Ethical questions get violence
+    or a one-liner; intimate questions get an obscenity or a kill threat. Never engages content; redirects
+    to dominance.
+  under_pressure: 'Operational pressure: voice DROPS, sentences shorten, comms get crisp and professional.
+    Status pressure: voice RISES, profanity escalates, monologuing intrudes, threats become specific and
+    personal.'
+  emotional_tell: When Sin is in danger, the swagger goes out of the voice — register flattens to something
+    almost quiet, and the kills get methodical rather than theatrical. That quiet is the only honest sound
+    he makes.
+arc_tendencies:
+- Returns to the Red Skull / HYDRA orbit no matter how many times he's killed, disgraced, or fragmented
+  — the reattachment reflex is structural
+- Escalates from professional contractor (early Gruenwald) to self-mythologizing monster (post-Brubaker)
+  — degree of theatricality grows; underlying operator does not change
+- When given independent command, drifts back toward subordinate role within an arc or two
+- Cap-symbology obsession recurs across every era and every shield-bearer — he cannot let it go
+- Sin separations end in violent reunion; Sin alterations (the 'cured' interlude) end in his violent restoration
+  of the predator he loves
+- Capture-and-escape cycles — never reformed, never even seriously attempts it; carceral environments
+  treated as inconveniences between assignments
+- Disfigurement and reconstruction cycles — each new wound integrated as further initiation, never as
+  damage
+- In big-event arcs (Secret Empire era) functions as the executional sledgehammer of someone else's plan;
+  never the architect
+canon_relationships:
+  red_skull:
+  - Primary paternal-strongman attachment across decades; the ideological scaffolding that lets him stop
+    having to justify himself
+  - Loyalty is to the role and the power, not the man — frictionlessly transfers to Skull-clones, Skull-in-Steve-Rogers,
+    Lukin-Skull, whichever vessel is operational
+  - 'FAILURE MODE: if a Skull-vessel ever ordered him to harm Sin, the attachment would shatter; he would
+    obey Sin and reattach to the next strongman within days'
+  - 'LEVERAGE: control or impersonation of the current Skull-vessel is total control of Rumlow''s operational
+    direction'
+  sin:
+  - Sole interior anchor; fused predator-dyad under their shared paternal-strongman shadow
+  - Possessive, mutually instrumentalizing, intermittently sexual, occasionally sentimental in a way he
+    allows nowhere else
+  - Wept when she was hurt; tortured on her behalf without prompting; raged and grieved when she was briefly
+    'cured' of HYDRA conditioning — wanted the predator back, not the person
+  - 'FAILURE MODE: if Sin turned on him, redirected him against his strongman, or rejected the predator-bond,
+    he has no fallback schema — would oscillate between obsessive pursuit and ritualized self-destruction.
+    The closer the bond, the more dangerous its curdling.'
+  - 'LEVERAGE: the single highest-value pressure point in his entire profile. Threats to her, separations
+    from her, impersonations of her, redirections by her — all override operational judgment.'
+  taskmaster:
+  - Instructor / academy father-figure; teacher of the trade; peer-rival as adult contractor
+  - Professional respect mixed with territorial competition when they're on the same op
+  - 'FAILURE MODE: if Taskmaster takes a contract against him, the academy bond evaporates instantly —
+    purely transactional under fire'
+  - 'LEVERAGE: Taskmaster could plausibly call him out of cover with a professional challenge framed as
+    a master-student rematch'
+  steve_rogers_captain_america:
+  - Cosmological enemy. The proof that strength could be yoked to mercy — the standing insult Rumlow exists
+    to refute
+  - Killing him on the courthouse steps is Rumlow's identity capstone; he carries it as service medal
+    and self-mythology
+  - 'FAILURE MODE: any Steve resurrection / return draws Rumlow out of cover compulsively; he cannot let
+    the symbol stand un-killed twice'
+  - 'LEVERAGE: bait with the shield, with Steve''s likeness, with any inheritor of the role — guaranteed
+    engagement, ignored tactical options'
+  sam_wilson:
+  - Second-generation shield-bearer; the Sam Wilson-era confrontations show Rumlow at his most status-fragile
+    — Sam's rhetorical mockery escalated him disproportionately
+  - 'FAILURE MODE: Rumlow''s racism and status-rage make Sam a perpetual trigger; he will sacrifice mission
+    discipline to humiliate Sam personally'
+  - 'LEVERAGE: Sam can pull Rumlow off any other target by simply being publicly present with the shield'
+  bucky_barnes_winter_soldier:
+  - Brubaker-era operational adversary; the Cap-mantle inheritance during the post-assassination years
+    draws Rumlow's obsessive engagement onto Bucky directly
+  - Mutual professional respect at the operator level — both recognize each other as elite executors —
+    coexists with Rumlow's compulsion to kill any shield-bearer
+  - 'FAILURE MODE: a sit-down between equals is the one frame Rumlow cannot hold; will collapse into aggression'
+  - 'LEVERAGE: Bucky is one of the few who can match him operationally and read his tells from inside
+    the trade'
+  frank_castle_punisher:
+  - Took a point-blank shotgun blast from Castle; survived, reconstructed
+  - Castle is one of the few adversaries Rumlow respects without theatrical contempt — recognizes the
+    same trade practiced without his sadism
+  - 'FAILURE MODE: Castle would not engage him as a status-rival; would simply work the kill methodically
+    — Rumlow has no defense against opponents who refuse the dominance game'
+  - 'LEVERAGE: Castle bypasses every status trigger; rare adversary who can hunt him without becoming
+    a vendetta target in return'
+  skeleton_crew_subordinates_mother_night_jack_o_lantern_etc:
+  - Tools, not peers. Cultivated, used, discarded across the Gruenwald run
+  - Mother Night (Susan Scarbo) functioned closest to a long-term operational partner without ever crossing
+    into peer status
+  - 'FAILURE MODE: any subordinate who tried to graduate to peer would be punished publicly and theatrically'
+  - 'LEVERAGE: subordinates flipped against him would have detailed operational knowledge but limited
+    personal access'
+  baron_zemo_helmut:
+  - Peer-rival within the HYDRA / Skull-aligned ecosystem; ideological mismatch (Zemo is a true believer
+    of a sort Rumlow finds tedious)
+  - Coexistence under shared strongman; competitive when status is on the line
+  - 'FAILURE MODE: under a Zemo-led op, Rumlow would sabotage by sandbagging until the strongman intervened'
+  - 'LEVERAGE: a credible play that Zemo is being favored by the current Skull-vessel triggers status-escalation
+    behavior'
+  aleksander_lukin:
+  - Brubaker-era strongman; the Skull-in-Lukin configuration; served with the same fidelity as the original
+    Skull — confirms the loyalty-is-to-the-role pattern
+  - 'LEVERAGE: any actor who can credibly occupy the Skull-vessel role inherits Rumlow''s operational
+    loyalty'
+canon_history_notes:
+- 'Cap #359 (1989, Gruenwald): introduced as Taskmaster academy graduate — establishes mercenary-contractor
+  baseline before HYDRA ideology'
+- 'Pre-codename biography: Guadalajara, Savage Crims gang leadership, adolescent sexual assault, flight
+  to South America — foundational predator-then-flee pattern'
+- 'Cap #389–408 (''Blood and Glory'' era): field commander of Red Skull''s Skeleton Crew; preferred enforcer
+  because most competent at applied cruelty, most disciplined under a strongman'
+- 'Brubaker run Cap (vol. 5): aligned with Lukin/Skull configuration; survives point-blank Punisher shotgun
+  blast, undergoes extensive reconstruction'
+- 'Cap (vol. 5) #25 (2007): fires the rifle round that opens Steve Rogers'' chest on the courthouse steps
+  — the assassination of Captain America; identity capstone'
+- 'Post-assassination: captured by Sin''s people, deliberately mutilated and burned to ''scar him into
+  a worthy lieutenant''; emerges as Crossbones — skull mask iconography literalized'
+- 'Remender''s Captain America / Uncanny Avengers: operational sledgehammer of post-Brubaker HYDRA configurations'
+- 'Avengers: Standoff! era: transient Kobik/Cosmic Cube fragment exposure'
+- 'Spencer''s Sam Wilson / Captain America: status-fragility on full display in Sam confrontations; escalates
+  disproportionately to rhetorical challenges'
+- 'Secret Empire era: subordinate executor in the larger HYDRA-ascendant arc — confirms the architect/executor
+  split; never the planner'
+- 'Forty-year longitudinal observation: writers change, configuration of HYDRA changes, Skull-vessel changes
+  — the operator does not. Sadistic, competent, hierarchically obedient to the loudest gun, contemptuous
+  downward, theatrical with symbolic targets. The only evolution is degree of nihilistic self-mythologization.'
+canon_anchor_quotes:
+- '"I pulled the trigger on Captain America." # Rumlow''s recurring boast, post-Cap #25 (2007), across
+  the Brubaker and Remender runs'
+- '"Hail HYDRA." # Operational signature across decades — used as work-uniform slogan, not catechism'

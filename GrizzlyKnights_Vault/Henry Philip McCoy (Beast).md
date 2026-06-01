@@ -4008,7 +4008,7 @@ Whether he does this is the file's last open question, and the one the next sixt
 *— End Section 6. Continue to Section 7: Operational Recommendations.*
 
 ## Relationship Graph
-### Bobby Drake
+### [[Robert Louis "Bobby" Drake (Iceman)]]
 - Oldest dyadic anchor; the friendship that predates the fur
 - Primary reach-vector - Bobby is one of the few who can interrupt the syllogism
 - Failure mode: Bobby's emotional directness reads to Hank as unsophistication; if Hank decides Bobby 'doesn't see the bigger picture,' the bond is bypassed rather than broken, and the bypass is the warning that Stage 3 is imminent
@@ -4018,17 +4018,17 @@ Whether he does this is the file's last open question, and the one the next sixt
 - Failure mode: Jean's death (or absence) removes a critical brake; his worst decisions historically cluster around periods when she is dead or unavailable
 - Leverage: a credible appeal in Jean's voice or memory will at least pause him
 
-### Wonder Man
+### [[Simon Williams (Wonder Man)]]
 - Avengers-era best friend; the relationship in which Hank was happiest and most extroverted
 - Decompression bond - Simon is the one person around whom Hank does not have to be useful
 - Failure mode: dormant in the X-Men-centric periods; Hank loses access to the version of himself who could simply enjoy a cocktail and an opera, and the loss compounds the compensatory drift
 
-### Trish Tilby
+### [[Patricia "Trish" Tilby (Trish Tilby)]]
 - Closed wound; the partner whose recoil from the secondary mutation confirmed the body-shame thesis
 - Failure mode (already realized): exit over the body. Leaves a template Hank applies preemptively to every subsequent romantic possibility
 - Leverage: invoking her is cruel and effective; do not use lightly
 
-### Abigail Brand
+### [[Abigail Brand]]
 - Peer-intellect partnership; S.W.O.R.D. liaison; one of the few romantic/professional bonds where his mind, not his body, is the operating currency
 - Failure mode: shared comfort with morally gray operational decisions can accelerate rather than restrain his unilateralism - they enable each other's calculus
 

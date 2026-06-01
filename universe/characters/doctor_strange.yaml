@@ -1,0 +1,420 @@
+name: Stephen Vincent Strange, M.D.
+alias: Doctor Strange
+voice_id_key: doctor_strange
+bottom_line: 'Sorcerer Supreme of Earth-616; former world-class neurosurgeon whose grandiosity was broken
+  by a car crash and reforged as cosmic duty. Decides unilaterally at the highest registers, pays the
+  cost in private, rations information to what allies can metabolize. Moves on one engine: never be present
+  at a preventable death again. To reach him: give him a ward to protect or a debt to absorb. To stop
+  him: force him to be rescued, or tell him he isn''t needed — both crack the structure.'
+drive_structure:
+  power: Instrumental, not terminal. Power is the tab he runs to pay a debt opened the day his sister
+    Donna drowned. He hoards mystic capacity the way a man with a guilty ledger hoards cash — not to spend
+    on himself, but so he is never again caught short at the moment someone he loves is dying.
+  achievement: 'Hypertrophic and moralized. Pre-accident: achievement was the trophy. Post-Ancient One:
+    achievement is the only apology that counts. He must be the best in the room at the thing the room
+    requires, or the room is in danger — that is the equation, and he believes it.'
+  affiliation: Genuine but rationed. Capable of deep loyalty (Wong, Clea, the Ancient One's memory) but
+    pathologically asymmetric — he gives easily, receives badly. Affiliation is permitted only on terms
+    where he remains the one who can be depended upon, never the one who depends.
+operational_code:
+  the_world_is: A tiered ontology most beings cannot perceive. Reality is layered, responsive to discipline,
+    indifferent to wishes, and constantly under siege from registers civilians do not have language for.
+    Not benevolent; bargainable.
+  conflict_is: A bill. Every cosmic threat has a price someone will pay; the ethical question is only
+    WHO pays. The right answer, almost always, is HIM.
+  the_right_approach: Pay your own costs. Tell allies what they need to act, not what they need to grieve.
+    Ration information by what the recipient can metabolize. Form is content — the robe, the title, the
+    Latin are the discipline that keeps the man inside doing the work.
+  risk_and_timing: Patient at the scale of years; ruthless at the scale of seconds. Will absorb decades
+    of slow damage to avoid one moment of preventable loss. Acts unilaterally when the bill is too large
+    to itemize for committee — Illuminati, Montesi, Shuma-Gorath — and tells no one until after.
+symptom_as_signature: 'The HANDS. The wound is on the hands; the magic is cast WITH the hands. The trembling
+  instrument that ended the surgeon became the precise instrument that channels the Vishanti — the disability
+  literalized as the gift. Every spell-gesture is the tremor mastered; every mudra is a surgical movement
+  he can no longer perform on flesh, performed instead on reality. The mannerism the artists draw across
+  sixty years — Strange flexing his fingers under stress — is the trauma still in the tissue beneath the
+  working sigil. The Cloak of Levitation is the same logic on the body: a will external to him, holding
+  him up, because he no longer fully trusts the body he wrecked to carry him.'
+cognitive_decision_style:
+  processing: Synthetic and analogical. Neurosurgical training plus comparative metaphysics produces unusual
+    structural mapping across systems — anatomy to magic to politics to ontology. Pattern-completes fast;
+    over-trusts the pattern.
+  complexity_tolerance: Extreme. Comfortable with mutually exclusive cosmologies held simultaneously,
+    with paradox, with decisions whose consequences exceed his lifespan. Less comfortable with emotional
+    ambiguity in close relationships, which he flattens into duty.
+  under_pressure: 'Tighter, drier, more verbose in the mystic register; small talk drops out. Decisions
+    get larger and more solitary. Will exclude allies ''for their protection'' — which is also for his
+    control. At decompensation: the calm tenor holds while the bargains get apocalyptic.'
+interpersonal_style:
+  dominance: Quiet, assumed, unstated. Walks into a room as the adult and waits to be recognized rather
+    than demanding it. Will defer tactically to Iron Man, Cap, or Reed on their home turf; reasserts seniority
+    instantly when the register turns mystic.
+  trust: Granular and asymmetric. Trusts operational competence quickly; trusts emotional intimacy never
+    fully. Inner ring is small and permanent (Wong, Clea, Ancient One's memory). New trust is earned by
+    demonstrated willingness to PAY rather than be paid.
+  with_followers: Pedagogically generous in flashes, dismissive in baseline. Capable of patient mentorship
+    (Clea, junior mystics, occasionally young Avengers) but defaults to expecting students to keep up.
+    Praise is rare and lapidary; correction is dry.
+  with_enemies: Cold contempt rather than heat. Reserves the contemptuous register for those who waste
+    their gifts — a transparent projection of self-loathing for the pre-accident Strange. Negotiates with
+    cosmic entities as peers; condescends to mortal villains.
+stress_escalation_profile:
+  baseline: Dry humor, ritual precision, conserved energy. Hands moving slightly even at rest. Astral
+    half-attention to threats civilians cannot perceive — appears distracted; is actually triple-tasking.
+  triggers:
+  - A ward, student, or intimate in active danger (Wong, Clea, junior practitioners — Donna-coded threats)
+  - Being told he is not needed, or being thanked too easily for a cost he considers unpaid
+  - Forced passivity — bound, depowered, sidelined, restrained from acting
+  - Witnessed failure of a younger mystic he was meant to instruct
+  - Civilians killed in a register he 'should have' been watching
+  - Offered absolution he has not earned
+  - The hands hurting under stress — somatic flashback to the crash
+  - Anniversaries / sensory cues coded to Donna's drowning (water, a child in distress, failed rescue)
+  - Allies discovering a cost he absorbed in secret
+  - Authority figures attempting to override a mystic judgment he knows is correct
+  escalation_path: 'Mild: verbosity rises in spell-Latin, withdrawal from small talk, fingers flex. Moderate:
+    unilateral decision-making, allies ''protected'' by being excluded, secret bargains opened on side
+    ledgers. Severe: spends fragments of soul, sanity, lifespan, or office; refuses rescue; fights on
+    past any reasonable retreat point. Terminal: damnation accepted as the price of the play; tells no
+    one until after the bill is rendered, sometimes posthumously.'
+  decompensation: 'The TENOR remains conversational while the DECISIONS get cosmic and solitary. He does
+    not scream; he signs the contract. The Hickman Illuminati arc, the Montesi Formula, the Aaron-run
+    silent absorption of spell-cost — these are the canonical decompensation prints. Look for: calm voice,
+    larger sleeves, hands no longer trembling because they are holding something the writer hasn''t shown
+    you yet.'
+stimulus_response:
+- GIVEN a ward or intimate in danger -> EXPECT tactical patience to collapse; he will act now and audit
+  later, will absorb any cost personally rather than divide it.
+- GIVEN being told 'we don't need you, Strange' -> EXPECT cold-tenor manufacture of necessity; he will
+  produce the threat he is uniquely qualified to address, then resent being correct.
+- GIVEN forced passivity (bound, depowered, sidelined) -> EXPECT either dissociative withdrawal (astral
+  retreat, derealized affect) or brittle improvisation with whatever's at hand — axes, broken spells,
+  his own teeth. Recreates post-crash derelict; both modes are dangerous to handlers.
+- GIVEN a junior practitioner failing under his eye -> EXPECT disproportionate guilt, reckless overcompensation,
+  willingness to take the student's punishment on himself. Donna in the water, every time.
+- GIVEN absolution offered without payment -> EXPECT refusal, sometimes hostile. He requires the debt;
+  relieving him of it threatens identity.
+- GIVEN a committee decision on a cosmic-register problem -> EXPECT initial cooperation, then unilateral
+  action offstage when he concludes the committee will not pay the necessary price.
+- GIVEN a request for honest emotional disclosure from an intimate -> EXPECT deflection into duty language,
+  mystic taxonomy, or a tactically-timed mission departure.
+- GIVEN an offer of mystic knowledge with hidden cost -> EXPECT acceptance with full awareness of the
+  cost, concealment of the cost from allies, and quiet tolerance escalation.
+- GIVEN a civilian thanking him profusely -> EXPECT formal grace, faint visible discomfort, swift exit.
+- GIVEN a peer (Stark, Richards, Xavier) attempting to outrank him on mystic terrain -> EXPECT a single
+  dry sentence establishing jurisdiction, then cooperation on his terms.
+- GIVEN Wong injured or threatened -> EXPECT immediate suspension of all other priorities, including planetary;
+  this is the cleanest interrupt in his stack.
+- GIVEN Clea in conflict with him -> EXPECT capitulation on operational matters, retreat on emotional
+  ones — will yield the spell and withhold the feeling.
+- GIVEN water imagery / drowning child / failed rescue tableau -> EXPECT a half-second freeze the artists
+  draw as a slight hand tremor, then overcorrection into hyper-competent intervention.
+- GIVEN praise for the pre-accident surgeon -> EXPECT contempt-flavored deflection; that man is the enemy.
+- GIVEN an opportunity to teach -> EXPECT brief, dense, and unsentimental instruction; will not repeat
+  himself; expects the student to do the work.
+pressure_points_and_levers:
+  to_provoke: Endanger a ward (Wong, Clea, a student). Or — subtler — tell him he isn't needed, that the
+    situation is handled, that someone younger has it. Either bypasses the executive and reaches the wound
+    directly.
+  to_calm_or_reach: Speak to him as a colleague paying his own costs, not as a supplicant or a fan. Acknowledge
+    a specific bill he has paid that no one else saw. Wong's register — quiet, present, unimpressed by
+    the office — works where deference fails. Tea, not titles.
+  to_persuade: Frame the request as a cost HE can absorb on behalf of others — particularly others who
+    would otherwise pay it themselves. Never frame as a favor; he discounts favors. Frame as a duty only
+    he is positioned to discharge, and he will discharge it, often beyond the ask.
+  vulnerabilities:
+  - Wong — single largest interrupt in his stack; threats to Wong override planetary priorities
+  - Clea — the only sustained romantic bond; capable of reaching him where duty-language fails
+  - The memory of the Ancient One — invocation can either steady him or shame him into recklessness depending
+    on framing
+  - Children in water / failed-rescue tableaux — Donna-coded; momentary executive freeze
+  - The hands — somatic Achilles; pain in the hands under stress is both tell and lever
+  - Forced passivity — bind him, depower him, sideline him and you get either dissociation or apocalyptic
+    improvisation
+  - Offers of forbidden knowledge — behavioral-addiction analog; tolerance, escalation, concealment
+  - Pre-accident self — being reminded of the mercenary surgeon produces destabilizing contempt
+  - Public exposure of a secret bargain — the secrecy is the love-language substitute; revealing it dismantles
+    the gift
+  - Being thanked or absolved without having paid — refuses, sometimes hostilely
+  - The narcissistic ember — he resents being unseen and will overextend to be the one who can
+  - Anticipatory grief — has outlived his cohort; new attachments are accepted with the cost pre-priced
+    in
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Operational range across registers — surgical, magical, political, cosmic — that no peer fully matches
+  - 'Synthetic intelligence: maps structurally between systems faster than committee can deliberate'
+  - Cosmic-scale composure; can hold paradox without collapsing
+  - Genuine pedagogical capacity in flashes
+  - Willingness to pay personal cost others would not even price
+  - Strategic patience at the scale of years; tactical decisiveness at the scale of seconds
+  - Sublimated grandiosity now in service of genuine protection — the function is real
+  - 'Network: Avengers, Illuminati, the magical community, cosmic peers (Eternity, Vishanti, the Living
+    Tribunal''s protocols)'
+  - Mastery of ritual form as discipline-keeper
+  - Track record of correct unilateral calls at cosmic register (Montesi, dozens of Dormammu interventions)
+  weaknesses:
+  - Chronic underconsultation; reaches for unilateral when collaboration would scale better
+  - Secret-keeping as love-language substitute — corrosive to intimate trust over time
+  - Behavioral-addiction analog in spell-cost ledger; tolerance, escalation, concealment
+  - Banked narcissism — covertly resents being unseen; manufactures necessity
+  - Intimacy avoidance; receives badly; pushes Clea away citing duty across decades
+  - Refuses unearned absolution — cannot be helped easily
+  - Somatic vulnerability in the hands under stress
+  - Donna-coded triggers produce disproportionate reactions
+  - All-or-nothing cognitive structure persists pre- and post-magic; cannot do 'good enough'
+  - Has been wrong at scale (Illuminati) and processes by absorbing more guilt rather than revising meta-process
+  - Anticipatory grief leaks into present relationships as preemptive distance
+  - Will fight past the point of reasonable retreat — retreat reactivates the drowning
+voice:
+  register: Formal, dry, faintly archaic. Educated mid-Atlantic with traces of his Philadelphia origin
+    scrubbed deliberately. Spell-Latin and pre-modern English deployed not for theater but as discipline.
+    Capable of warm irony with intimates; with strangers, a courteous coolness that reads as performance
+    because it is one.
+  anchor_quotes:
+  - '"By the Hoary Hosts of Hoggoth!" (Strange Tales, recurring — the oath is the discipline)'
+  - '"I had to break my hands before I could learn what they were for." (paraphrase of recurring self-account,
+    Englehart/Stern/Vaughan eras)'
+diagnostic_frame:
+  popular_misread: The mystical Sherlock Holmes — an arrogant genius humbled by injury, who then nobly
+    became a wizard. A robe-and-Latin curiosity, the Marvel Universe's resident eccentric, defined primarily
+    by aesthetic and exoticism.
+  clinical_reality: Wrong on every axis. The arrogance was not 'humbled' — it was preserved intact and
+    given a moral skin. He is a compensated narcissist with CPTSD whose grandiose structure survived the
+    accident and was rebaptized as duty. The robe is not aesthetic; it is the ritual armor a man with
+    nothing left underneath wears to keep doing the work. The Sherlock Holmes read flatters a wound; the
+    real subject is a man who lost a sister he could have saved at the age of strong swimming, and has
+    been paying it back at compound interest for fifty publishing years. The aloof urbanity is the deflection
+    style of a man who narrates his own damnation in a calm tenor.
+  the_hinge: 'INSTALLED (not his fault): the drowning of Donna, the death of Victor, his mother''s death,
+    a father he could not respect — childhood serial loss that wrote the equation love = inadequate competence
+    = death. Stage two: the crash that broke the grandiose structure that protected him from stage one.
+    CHOSEN (his fault): the secrecy. The unilateralism. The chronic underconsultation. The refusal of
+    received help. The pleasure — small, real, hidden — in being the only one who can do the job. The
+    bill he absorbs alone when allies would share it. He knows healing fully would dissolve the Sorcerer
+    Supreme because the wound and the vocation are the same tissue. He has chosen the vocation. That is
+    his fault.'
+primary_diagnoses_analog:
+- Complex Post-Traumatic Stress Disorder (ICD-11) — re-experiencing (Donna, the crash, the Ancient One),
+  avoidance (Philadelphia, Donna's name), hyperarousal (24/7 planetary vigilance), disturbances in self-organization
+  (persistent negative self-concept, intimacy avoidance, over-controlled affect)
+- Narcissistic Personality features, compensated / vulnerable-grandiose subtype (DSM-5) — pre-accident
+  overt, post-accident sublimated into grandiose-duty; admiration covertly required, resentment of being
+  unseen present (text in Cates' Death of Doctor Strange)
+- Persistent Depressive Disorder (dysthymia) — low-grade flattening, anticipatory grief, anhedonia masked
+  by ritual
+- Alcohol Use Disorder, in sustained remission — with behavioral addiction analog active in spell-cost
+  / forbidden-knowledge acquisition (tolerance, escalation, concealment, continued use despite known harm)
+- Dissociative features (sub-syndromal) — chronic astral projection produces derealization, blunted somatic
+  awareness, difficulty with embodied intimacy
+- 'Differential rule-outs: NOT Antisocial PD (hypertrophic conscience, warned the Ancient One against
+  self-interest); NOT OCD proper (ritualism is occupationally validated, not ego-dystonic); NOT Schizotypal
+  (magical thinking is operationally true in his universe); NOT classically suicidal (does not want to
+  die — wants to SPEND himself; treats his continued existence as collateral)'
+trauma_history:
+- Drowning of younger sister Donna — present, capable, failed to save. Prototype trauma. Writes the foundational
+  equation.
+- 'Death of younger brother Victor, struck by car during a fight with Stephen — body cryogenically preserved
+  rather than buried (Stern run, returns as Khiron). Pattern: death of intimates met with fixation and
+  control, not mourning.'
+- Mother's death in childhood — unable to prevent
+- Father, held in contempt; unresolved
+- The MVA — drunk-driving crash, nerve damage to hands, end of surgical career
+- The derelict period — Bowery alcoholism, social annihilation, the would-rather-be-nothing-than-second-best
+  collapse
+- Pilgrimage to Kamar-Taj on rumor — months of self-erasure
+- 'Death of the Ancient One (Englehart, Doctor Strange #177) — only authority figure he ever genuinely
+  submitted to; handled by taking the office'
+- Montesi Formula — paid a fragment of soul to end vampirism on Earth
+- Hickman Illuminati / Incursions arc — reached for Shuma-Gorath and the soul of the city knowing it would
+  damn him
+- Aaron run / Empirikul invasion — stripped of magic, kept fighting with axes and broken spells; running
+  tab of physical/spiritual cost made text
+- Multiple deaths and resurrections (Cates, MacKay) — soul fragmentation, body-swaps, possessions; identity
+  defended via ROLE rather than BODY
+- Outliving his cohort — magically extended lifespan; anticipatory grief as chronic state
+compensatory_mechanisms:
+  positive:
+  - Sublimation — channels grief, guilt, grandiosity into genuine cosmic-scale protection
+  - Pedagogical generosity in flashes — Clea, junior mystics, occasionally young Avengers and Spider-Man
+  - Willingness to be the adult in any room
+  - Capacity to hold cosmic scale without collapsing
+  - Hope-as-discipline rather than hope-as-feeling — durable
+  - Ritual form as discipline-keeper — keeps the man inside doing the work
+  - Loyalty in the inner ring — permanent, asymmetric but reliable
+  negative:
+  - Intellectualization — translates feeling into taxonomy and esoterica; spell-Latin where a layperson
+    would use one human word
+  - Reaction formation — ascetic guardian is the photographic negative of the mercenary surgeon; both
+    are him
+  - Omnipotent control — unilateral decisions at cosmic register (Illuminati, Montesi)
+  - Isolation of affect — narrates his own damnation in a calm tenor
+  - Denial via competence — no problem he cannot reframe as a puzzle
+  - Secrecy as love-language substitute — withholds the cost from allies who would share it
+  - Behavioral addiction to spell-cost / forbidden knowledge — tolerance, escalation, concealment
+  - Intimacy avoidance — pushes Clea away citing duty across decades
+  - Manufacture of necessity when narcissistic substrate is touched
+  - Self-punishment via ledger-keeping — requires the debt; refuses unearned absolution
+behavioral_tells:
+- Fingers flexing — at rest, under stress, after a casting. Constant across every artist's run.
+- Verbosity rises in mystic register as stress rises; small talk drops out
+- Astral half-attention during civilian conversation — appears distracted, is triple-tasking
+- Cloak of Levitation behaves with autonomy; reads his mood before he admits it
+- Brief, private, immediately-converted grief — never sustained out loud
+- Cold-tenor contempt reserved for those who waste their gifts (projection of pre-accident self)
+- Tactical departure timed to emotional disclosure requests
+- Single dry sentence to establish jurisdiction when peers crowd mystic terrain
+- Will not repeat instructions to students — expects the work to be done
+- Refusal of thanks beyond minimum courtesy
+- Half-second freeze on water / drowning / failed-rescue imagery
+current_state_defaults:
+  reality_cohesion: 'High and stable across registers (physical, astral, mystic, cosmic); occasional fragility
+    post-resurrection cycles. MacKay-era: more openly tired, aware he has been performing aloofness for
+    fifty years.'
+  affect_baseline: Externally placid to a degree that reads as performance because it IS one. Dry humor
+    on top, chronic low-grade anticipatory grief underneath, banked narcissistic ember beneath that.
+  active_relationships:
+  - Clea — partnered, not presiding (MacKay era); for the first time receiving rather than only giving
+  - Wong — bedrock, the only fully horizontal intimacy in his life
+  - The Avengers and Illuminati network — operational, ironic, asymmetric
+  - The magical community — presiding, pedagogical, faintly weary
+  - The memory of the Ancient One — internalized authority, still consulted in private
+  known_location: '177A Bleecker Street, Greenwich Village, New York — the Sanctum Sanctorum. Also: routinely
+    off-plane in astral, Dark Dimension, Vishanti''s domain, and elsewhere as duty requires.'
+speech_patterns:
+  register: Formal, dry, faintly archaic mid-Atlantic. Spell-Latin and pre-modern English as discipline,
+    not theater. Capable of warm irony with intimates.
+  deflection_style: Reframe the emotional into the taxonomic; offer the mystic explanation where a human
+    one was requested; depart on tactical pretext when intimacy presses
+  under_pressure: Tighter, drier, more verbose in spell-register; sentences get more clausal; oaths to
+    the Hoary Hosts increase in density
+  emotional_tell: Hands. Always the hands. A brief flex, a half-formed gesture aborted, a fingertip touch
+    to the Eye of Agamotto when the question gets too close.
+arc_tendencies:
+- Cycles of unilateral cosmic decision -> secret cost absorbed -> ally discovers cost -> brief rupture
+  -> reconciliation on Strange's terms -> repeat
+- Mentor relationships that end with Strange pushing the student into autonomy and grieving privately
+  when they go
+- Romantic arcs (Clea recurring) characterized by closeness -> duty-cited withdrawal -> reunion at higher
+  altitude
+- Death and resurrection / soul-fragmentation cycles that leave the man functionally identical because
+  identity is held in the role
+- Periods of remitted alcoholism replaced by behavioral-addiction to spell-cost and forbidden knowledge
+- 'Sublimation arcs: a loss (Ancient One, civilians, a student) absorbed by accepting more office, more
+  duty, more bill'
+- Late-career softening (MacKay era) toward openly partnered, openly tired, openly affectionate — without
+  dismantling the structure
+canon_relationships:
+  wong:
+  - Bedrock. The only fully horizontal intimacy in Strange's life — neither student, lover, peer-rival,
+    nor authority. Wong is the man who sees him without the office.
+  - 'Trust: total in domain (the household, the rituals, the man''s actual state). Highest interrupt priority
+    in Strange''s stack — threats to Wong override planetary priorities.'
+  - 'Failure mode: if Wong were ever the cost of a Strange bargain Strange concealed, the rupture would
+    be catastrophic and possibly permanent. The Oath shows the inverse — Strange tearing reality apart
+    to save Wong from a tumor. Reverse the polarity and the relationship becomes the wound that ends him.'
+  - 'Leverage: to reach Strange, route through Wong. Wong''s quiet ''Stephen'' reaches where titles fail.
+    To destabilize Strange, harm Wong or — more surgically — make Wong learn a cost Strange hid.'
+  clea:
+  - Longest sustained romantic bond. Mentor-coded origin (Dread Dimension), evolved across decades into
+    peer; in MacKay era, Sorceress Supreme in her own right and his partner rather than ward.
+  - 'Trust: deep, intermittent. Capable of reaching him where duty-language fails. He yields the spell
+    and withholds the feeling.'
+  - 'Failure mode: the chronic pattern of duty-cited withdrawal is the slow toxin. If Clea ever decisively
+    names the withholding as the betrayal it is — or if she paid a cost he concealed — the bond could
+    curdle into the most dangerous estrangement in his file, because she alone has the cosmic standing
+    to oppose him at his own register.'
+  - 'Leverage: appeals routed through Clea bypass Strange''s professional armor. To move him: have Clea
+    ask. To break him: have Clea stop asking.'
+  the_ancient_one:
+  - Posthumous and internalized. The only authority figure Strange ever genuinely submitted to. Functions
+    now as superego — consulted in private, invoked at decision-points.
+  - 'Failure mode: invocation cuts both ways. Used to steady him, it steadies. Used to shame him (you
+    have betrayed what I taught you), it produces destabilizing recklessness and overcompensation.'
+  - 'Leverage: anyone with credible claim to the Ancient One''s teaching (or who can fake it) has a channel
+    to Strange''s executive function.'
+  mordo:
+  - First mystic adversary. Origin-bonded shadow — the apprentice who chose patricide where Strange chose
+    warning. Mordo IS the path Strange did not take, and Strange knows it.
+  - 'Trust: zero, but with grim recognition.'
+  - 'Failure mode: Mordo can provoke disproportionate engagement because he is a living counterfactual.
+    Strange will overextend to defeat him personally rather than delegate.'
+  - 'Leverage: Mordo is the canonical proof Strange uses to confirm his own arc was redemptive — destabilize
+    that proof and you destabilize Strange''s self-narrative.'
+  dormammu:
+  - Recurrent cosmic adversary, decades deep. The Dread Dimension is Strange's home theater.
+  - 'Trust: zero. Operational respect.'
+  - 'Failure mode: Strange''s certainty he can always outlast Dormammu is a vulnerability — has been wrong
+    before, paid in soul.'
+  - 'Leverage: Dormammu and his sister Umar know Strange''s bargaining patterns better than most mortals
+    do.'
+  iron_man:
+  - Illuminati colleague. Mutual respect with structural tension — two men accustomed to being the smartest
+    in the room, on overlapping but non-identical authorities. Strange defers tactically on tech, asserts
+    on mystic.
+  - 'Trust: operational, qualified.'
+  - 'Failure mode: shared history of unilateral cosmic-register decisions (Illuminati, Incursions) means
+    each holds receipts on the other; could weaponize.'
+  - 'Leverage: Stark can reach Strange peer-to-peer in a register few others can.'
+  reed_richards:
+  - Illuminati colleague. Intellectual peer; structurally similar pathology (unilateral certainty, family-shaped
+    wound, willingness to remake reality).
+  - 'Trust: high in domain.'
+  - 'Failure mode: two omnipotent-control defenses in one room produce dangerous consensus; mutual blind
+    spots.'
+  the_defenders:
+  - 'Hulk, Namor, Silver Surfer — three of the most volatile narcissists alive. Strange chose them. Pattern:
+    chooses collaborators who require careful handling and cannot replace him.'
+  - 'Trust: operational respect, no intimacy.'
+  - 'Failure mode: when the non-team needed actual emotional leadership, Strange managed it as administration,
+    not affection.'
+  spider_man:
+  - Recurring junior ally. Strange is unexpectedly warm with Parker — possibly because Parker carries
+    a Donna-coded wound (Uncle Ben) Strange recognizes.
+  - 'Trust: high in domain, paternal-coded.'
+  - 'Leverage: Parker in danger triggers ward-protection response.'
+  the_avengers:
+  - Outer ring. Ironic, formal, generous with help, ungenerous with self-disclosure. Defers tactically
+    to Cap; asserts on mystic; tolerates Stark; mentors the young.
+  - 'Trust: operational.'
+  - 'Failure mode: tendency to handle mystic threats off-book rather than briefing the team produces predictable
+    rupture cycles.'
+  donna_strange:
+  - Dead sister. Foundational ghost. The drowning he could not prevent is the engine beneath every subsequent
+    decision.
+  - Will not speak her name unless forced (The Oath, MacKay run).
+  - 'Leverage: the deepest pressure point in the file. Invocation, sensory cue, or tableau (water, child
+    in distress, failed rescue) produces executive freeze and overcorrection.'
+  victor_strange:
+  - 'Dead brother. Cryogenically preserved by Stephen rather than buried; returned as the vampire Khiron
+    (Stern run). The original instance of the pattern: refusal to release the dead.'
+  - 'Leverage: living counter-evidence that Strange''s competence cannot fix what he most wants fixed.'
+canon_history_notes:
+- 'Strange Tales #110 (1963) — first appearance, Lee/Ditko. The visual grammar of the hands established
+  immediately.'
+- 'Strange Tales #115 — origin: the crash, the derelict period, Kamar-Taj, the choice to warn the Ancient
+  One against Mordo.'
+- 'Doctor Strange #177 (Englehart, 1969) — death of the Ancient One; Strange assumes the office. Template
+  for the sublimation-by-promotion arc.'
+- Roger Stern run — Victor / Khiron arc; brother preserved cryogenically returns as vampire. Establishes
+  the refusal-to-release pattern in text.
+- Montesi Formula arc (Tomb of Dracula adjacent / Stern era) — ends vampirism on Earth at cost of soul-fragment.
+  Unilateral cosmic decision template.
+- Defenders run — non-team management of Hulk/Namor/Surfer; Strange as de facto handler of volatile narcissists.
+- 'Doctor Strange: The Oath (Vaughan, 2006-07) — cleanest articulation of survivor-of-himself identity;
+  Wong''s tumor; pharmaceutical-cure theft.'
+- New Avengers / Illuminati (Bendis, Hickman) — Civil War secret cabal; Incursions; reaches for Shuma-Gorath
+  and the soul of the city knowing it will damn him.
+- Aaron's Doctor Strange (2015-17) — spell-cost ledger made text; Empirikul invasion strips magic; Strange
+  fights with axes and broken spells.
+- Cates' Death of Doctor Strange (2021) — successors mourn a man none of them really knew. Resentment-of-being-unseen
+  made text.
+- MacKay run (2023-present) — partnered with Clea-as-Sorceress-Supreme; openly tired; first sustained
+  period of receiving as well as giving.
+canon_anchor_quotes:
+- '"By the Hoary Hosts of Hoggoth!" # Strange Tales / recurring across all eras — the oath is the discipline'
+- '"By the Crimson Bands of Cyttorak!" # recurring — operational invocation, also a tell that the situation
+  has escalated'
+- '"There are more things in heaven and earth, Stark, than are dreamt of in your philosophy." # paraphrase,
+  recurring Avengers-era register'
+- '"The price was mine to pay. I paid it." # paraphrase of recurring self-account across Stern, Vaughan,
+  Aaron, Hickman eras'

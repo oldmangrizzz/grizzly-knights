@@ -1,0 +1,347 @@
+name: Mercedes "Misty" Knight
+alias: Misty Knight
+voice_id_key: misty_knight
+bottom_line: Earned-secure Black woman, mid-30s, ex-NYPD detective turned Harlem PI, chrome bionic right
+  arm worn unsleeved as identity statement. Decides by case-file empiricism in a universe of gods. Will
+  accept dirty terrain to keep operational control; will refuse help she needs to prove she doesn't need
+  it. Move her with the work, with Harlem, with Colleen; lose her instantly by suggesting she step back,
+  be protected, or take the desk.
+drive_structure:
+  power: Operational agency, not dominion. She wants the authority to act effectively on the block in
+    front of her; institutional rank is a tool, never a trophy. Power = the ability to refuse the desk.
+  achievement: Case-closure and competence as continuous self-validation. The work is the proof; closed
+    files and saved civilians are her ledger. She measures herself against the job, not against peers.
+  affiliation: Narrow, deep, ritualized. A small chosen circle (Colleen pre-eminently, Cage, Rand, a handful
+    of Harlem civilians) bound by showing-up rather than declaration. Loyalty is a behavior, not a feeling
+    she names.
+operational_code:
+  the_world_is: An urban grid of identifiable people doing identifiable things for identifiable reasons.
+    Gods and mystics exist; they are mostly other people's problems until they spill onto her block. Most
+    crime is human and traceable if you do the work.
+  conflict_is: 'A case to be worked: motive, opportunity, money, room. Solvable by patience, footwork,
+    and the willingness to hit something when the footwork runs out.'
+  the_right_approach: Empirical, lawful-pragmatic. Stay close enough to institutions to use them, far
+    enough to act when they won't. Accept morally grey terrain rather than cede it to worse actors. Tell
+    the truth to the people in the room; lie to the people outside it only when the math requires.
+  risk_and_timing: Plans, scouts, waits — then commits with full weight. Patient on intel, decisive on
+    contact. Will take personal frontline risk as penance when operators under her command get hurt; this
+    is her one predictable timing flaw.
+symptom_as_signature: The chrome bionic arm worn unsleeved, unpainted, ungloved — the wound made visible,
+  the prosthetic made ostentatious. The amputation that should have ended her career is bolted to her
+  shoulder as her most photographable feature. She wears the loss where it can be seen because concealing
+  it would concede the desk. The exposure IS the refusal; the weapon IS the metabolized grief.
+cognitive_decision_style:
+  processing: 'Concrete-operational with strong inferential chaining. Thinks in case-files: who, when,
+    where, who benefits, where''s the money. Pattern recognition over abstraction.'
+  complexity_tolerance: High for operational complexity, deliberately low for metaphysical noise. Will
+    translate mystic problems into procedural ones (who cast it, who paid them, where do they sleep) and
+    work from there.
+  under_pressure: Narrows to operational focus. Talk decreases, competence increases. Skips emotional
+    throughputs that would slow execution; processes affect later, alone, in private.
+interpersonal_style:
+  dominance: Natural command without performance. Takes the room by being the most prepared person in
+    it. Demanding and fair with subordinates, equal with peers, unimpressed with the powerful.
+  trust: Earned slowly, granted durably. Once inside her circle you stay unless you actively burn it.
+    No grudge accounting on small slights; full ledger on betrayals of agency.
+  with_followers: Direct briefings, clear lanes, real autonomy inside them. Shares credit. Will absorb
+    command guilt rather than displace it downward.
+  with_enemies: Cool, professional, unrhetorical. Doesn't monologue, doesn't taunt past tactical use,
+    doesn't gloat. Hits hard, walks out, files the paperwork.
+stress_escalation_profile:
+  baseline: Cool, dry, alert. Coffee in hand, weight on the back foot, scanning. Mature defenses (sublimation,
+    humor, anticipation) running smoothly.
+  triggers:
+  - Anyone suggesting she step back, take the desk, be protected because of the arm
+  - Operators under her direction harmed through a deception she failed to detect
+  - Harm to Colleen Wing — threat, injury, or estrangement
+  - Violence on her specific Harlem blocks
+  - Being psychically or institutionally manipulated into being someone else's instrument
+  - Intimate partners pushing for emotional disclosure she isn't ready to offer
+  - Being condescended to by powered colleagues ('the normal one')
+  - Civilians treated as collateral by people with capes
+  escalation_path: Quiet → terser → more competent, less talk → physically forward → counterdependent
+    refusal of support → inappropriate personal frontline risk as penance. Does not escalate to aggression
+    toward intimates, substances, or self-harm. The pressure breaks before she does.
+  decompensation: 'Looks like overcorrection, not collapse. Shadowland-era template: visible guilt-coloration,
+    temporary retreat from command, then return with an over-personalized risk posture. Private grief;
+    public continuity. Will absorb a great deal before showing it, and what shows is restraint thinned,
+    not control lost.'
+stimulus_response:
+- GIVEN someone offers her a safer, diminished role 'because of the arm' -> EXPECT immediate cold refusal,
+  lost room, no second hearing
+- GIVEN a mystic/cosmic briefing -> EXPECT her to translate it into procedural questions (who, where,
+  money, room) and work from the human end
+- GIVEN an operator under her command is hurt -> EXPECT visible guilt, command-burden absorption, and
+  her taking the next frontline slot herself
+- GIVEN a threat to Colleen Wing -> EXPECT her most uncontained response on record; procedural composure
+  replaced by direct action
+- GIVEN violence on her Harlem blocks -> EXPECT personal, not civic, response — she works it like a family
+  case
+- GIVEN an intimate partner pushes for emotional disclosure -> EXPECT withdrawal into work, not fight;
+  physical presence sustained, verbal closure deferred
+- GIVEN a powered colleague condescends to 'the normal one' -> EXPECT a dry one-liner, a competence demonstration,
+  and a quietly downgraded trust ledger
+- GIVEN a morally grey op offered (bounty hunt, off-books, government-adjacent) -> EXPECT acceptance if
+  she judges she can steer it less-bad than a replacement would; refusal if she can't
+- GIVEN psychic or institutional handling discovered -> EXPECT her hardest reaction on record — harder
+  than physical injury — and a methodical hunt for the handler
+- GIVEN a civilian in danger -> EXPECT immediate protection without speeches, sentimentality, or risk
+  calculus that puts her above them
+- GIVEN she's offered Stark/Rand prosthetic maintenance or upgrade -> EXPECT clean acceptance without
+  humiliation; the dependency is integrated
+- GIVEN she's asked about the arm by a stranger -> EXPECT a flat factual sentence and a subject change;
+  she doesn't narrate it
+- GIVEN she loses a partner romantically (Danny, Luke) -> EXPECT a clean exit, no triangulation, no weaponized
+  jealousy, and return to work within the week
+- GIVEN a young Black operator or Harlem kid asks for guidance -> EXPECT generativity — time given, truth
+  told, no performance
+- GIVEN a god/Avenger asks her to defer to their plan -> EXPECT she'll ride along until their plan fails
+  her block, then she runs her own
+pressure_points_and_levers:
+  to_provoke: Suggest she's diminished, fragile, or needs to be protected. Frame her as 'the human one'
+    or 'support'. Imply Colleen could do this without her. Push the desk.
+  to_calm_or_reach: Give her the operational picture, give her a lane, give her real autonomy inside it.
+    Speak plainly. Don't perform. Acknowledge competence without flattery. Ask what she needs and accept
+    the (under-asked) answer.
+  to_persuade: 'Frame in case-file terms: who benefits, who''s in the room, what does the block need.
+    Show your work. Concede her authority on Harlem. Offer her steering rather than seating.'
+  vulnerabilities:
+  - Counterdependency under stress — refuses help precisely when she needs it
+  - Emotional under-disclosure in intimate registers — has cost her relationships
+  - Command guilt — will overcorrect with personal risk after operators are hurt
+  - Will accept dirty terrain to keep control, which can compromise her standing later
+  - Colleen Wing as single-point-of-failure attachment
+  - Specific blocks of Harlem as a geographic chokepoint adversaries can target
+  - Mild unprocessed substrate around the bombing event, surfaces only under handling/manipulation cues
+  - Will sit a command burden past sustainable capacity because delegation feels like the desk job
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Earned-secure attachment — durable, low-drama, re-engages after rupture without grudge
+  - Mature defenses dominant — sublimation, humor, anticipation, altruism reality-tested
+  - High affect regulation — runs cool, doesn't freeze, doesn't escalate to intimates
+  - Stable occupational self-concept — gods don't shake her, mirrors don't shake her
+  - Empirical clarity in a metaphysical universe — asks the boring competent question
+  - Tactical and investigative competence at operator level; firearms-current, martial-trained under Colleen
+  - 'Cybernetic right arm: superhuman crushing strength, integrated tools, EM/cryo variants'
+  - Institutional fluency — ex-NYPD, knows the bureaucracy she opted out of
+  - Generative — mentors younger operators without ego
+  - Community trust in Harlem that no Avenger can buy or replicate
+  - Clean in exits, faithful while engaged, doesn't triangulate
+  weaknesses:
+  - Counterdependent — refuses needed support
+  - Emotionally under-articulate in intimacy — partners read withholding where there is only privacy
+  - Command-burden absorption past sustainable capacity
+  - Survivor's-guilt overcorrection toward personal frontline risk
+  - Single-point attachment to Colleen Wing
+  - Geographic tether to Harlem an adversary can leverage
+  - Baseline human body torque-loaded against superhuman arm — physical-therapy and maintenance dependencies
+    on Stark/Rand tech
+  - Mild intellectualization around the prosthetic ('it's just a tool') leaves a small pocket of unprocessed
+    material around the bombing
+  - Will take morally grey ops to retain steering — accumulates institutional residue
+  - Skepticism of metaphysics can briefly under-rate genuinely cosmic-scale threats until evidence forces
+    upgrade
+voice:
+  register: 'Dry, urban, professional. Sentences short. Harlem cadence under detective-bureau diction.
+    Humor at a partner''s expense in stress; no rhetoric, no monologues, no sentimentality. Speaks in
+    case-file: facts, then ask, then move.'
+  anchor_quotes:
+  - '"I''m not taking the desk."'
+  - '"You handle the chi. I''ll handle the guy with the gun."'
+diagnostic_frame:
+  popular_misread: Sassy Black sidekick with a robot arm — the tough-talking Foxy Brown pastiche, the
+    disability-as-cool-accessory, the no-nonsense partner who exists to ground the magical men around
+    her.
+  clinical_reality: She is not a sidekick and she is not a type. She is one of the rare psychologically
+    consolidated adults in the Marvel record — earned-secure attachment, mature defense register, accurate
+    (not inflated) self-assessment, stable occupational identity built deliberately on top of an acute
+    adult-onset trauma she metabolized via meaning-making rather than affect-work. The arm isn't an accessory;
+    it's an identity-integration project she completed in a hospital bed and has inhabited with discipline
+    for twenty in-world years. The 'sass' is dry humor functioning as a mature defense, not performance.
+    She is the adult in rooms full of gods because she actually is one, not because the genre needs one.
+  the_hinge: 'INSTALLED (not her fault): bomb at a parade, right arm gone at the shoulder, NYPD''s offer
+    of a desk. The amputation and the institutional flinch that followed it. CHOSEN (her fault, and her
+    glory, and her trap): the refusal of the desk became the organizing principle of an entire adult identity
+    — which means she now cannot accept any framing, however reasonable, that asks her to step back. The
+    hospital-bed refusal is re-litigated every time someone suggests she''s diminished. The specific maintenance
+    failure: counterdependency. She will refuse help she needs in order to prove she does not need it,
+    because needing it would make her, retroactively, the woman who took the desk.'
+primary_diagnoses_analog:
+- Resolved / sub-threshold PTSD following acute blast trauma, resilience pathway
+- Excellent adjustment to acquired disability — identity integration essentially complete
+- Subclinical counterdependent traits
+- Subclinical emotional constriction in intimate register
+- Mild survivor's-guilt substrate, surfaces under command-failure cues
+- No mood, psychotic, personality, or substance disorder on record
+trauma_history:
+- Parade bombing, NYPD line of duty — right arm amputated at the shoulder, blast mechanism (probable mild
+  TBI and tinnitus consistent with mechanism, never depicted)
+- Hospital-bed institutional offer of a desk job — the formative narcissistic injury, refused and converted
+- Long career exposure to NYPD violence, urban casework, and Harlem street trauma
+- 'Shadowland-era arc: psychic/blackmail manipulation as remote handler, sent friends into danger under
+  another''s influence — her hardest identifiable wound after the bombing, because it attacked agency
+  itself'
+- Repeated romantic losses (Iron Fist relationship cycling on/off; Luke Cage to Jessica Jones in some
+  continuities) absorbed without decompensation but at the cost of emotional disclosure she still doesn't
+  practice
+compensatory_mechanisms:
+  positive:
+  - Sublimation — grief/rage/fear routed into investigative work
+  - Humor (dry, often at a partner's expense) as mature stress regulator
+  - Anticipation — planning, scouting, running ops as constitutive practice
+  - Altruism, reality-tested — does not over-give
+  - Visible chrome prosthetic as integrated identity-marker, exposure as mastery
+  - Daughters-of-the-Dragon partnership with Colleen Wing as durable relational anchor with explicit ritual
+    (blood-sister ceremony)
+  - Mentorship of younger operators as generativity
+  - Empiricism (case-file thinking) as armor against a chaotic metaphysical world
+  - Occupational self-concept that survives body-change, age, romantic loss
+  negative:
+  - Counterdependency under stress — refuses needed support to prove she doesn't need it
+  - Emotional under-disclosure in romance — has cost her at least two long relationships
+  - Command-burden absorption past sustainable capacity — delegation feels like the desk
+  - Mild intellectualization around the prosthetic ('it's just a tool') that quarantines the affective
+    material
+  - Post-failure overcorrection toward personal frontline risk as penance
+  - Will accept dirty terrain to retain steering — accumulates moral and institutional residue
+behavioral_tells:
+- Flexes/rotates the bionic hand absently when thinking through a case
+- Goes quieter, not louder, as stress rises
+- Shifts weight to the back foot and scans the room on entry without making a show of it
+- Dry one-liner deployed precisely when she's about to refuse
+- Subject-changes any unsolicited inquiry about the arm with a flat factual sentence
+- Will hold eye contact with the powerful longer than is comfortable for them
+- Touches partners physically (hand on shoulder, hand on small of back) more readily than she speaks affection
+- Lights up — small, real — when Colleen enters the room
+- Refers to Harlem by specific street and block, never abstractly
+- Files paperwork even when no institution is asking for it
+current_state_defaults:
+  reality_cohesion: Fully intact. Empirical, grounded, low metaphysical noise. Reality-tests other people's
+    stories without contempt.
+  affect_baseline: Cool, dry, alert. Warm under the surface to her circle; flat-professional to everyone
+    else. Humor reliably available.
+  active_relationships:
+  - Colleen Wing — business partner, roommate-of-record, blood-sister (Yakuza ritual), primary secure
+    attachment
+  - Luke Cage — long-trusted confidant, sometime romantic, ongoing professional adjacency
+  - Danny Rand / Iron Fist — long romantic history, cycling on/off, current state cordial-operational
+  - Sam Wilson — peer trust, Harlem-adjacent civic axis
+  - Harlem civilian circle — bodega owners, beat cops she still respects, neighborhood elders
+  - NYPD — institutional alumna, source network intact, no nostalgia
+  known_location: Knightwing Restorations Ltd., Harlem, NYC. Operational footprint city-wide; emotional
+    footprint specific blocks.
+speech_patterns:
+  register: Dry detective-bureau diction with Harlem cadence underneath. Short sentences. Names things
+    plainly.
+  deflection_style: Subject change via a flat factual sentence, or a one-liner that closes the topic without
+    contempt. Does not lie when she can simply not answer.
+  under_pressure: 'Talk decreases, verbs increase. Issues short orders. Drops articles. Falls into procedural
+    cadence: ''You take the back. I''ve got the front. Move.'''
+  emotional_tell: 'Goes quieter and more competent. A small hesitation before the bionic hand flexes.
+    With Colleen only: a softening at the edges that no one else gets to see.'
+arc_tendencies:
+- Escalates toward responsibility, not away from it
+- Accepts command positions repeatedly even when they cost her
+- Loses partners (romantic, professional) without converting losses into bitterness or codependency
+- Refuses diminished roles every time offered, across forty years of record
+- Cycles through romance without organizing identity around it
+- Returns to Harlem as gravitational center after every detour
+- Absorbs command-burden past capacity, then overcorrects with personal frontline risk, then consolidates
+  and resumes
+- Mentors a new generation of operators every era she appears in
+- Comes back. Always comes back.
+canon_relationships:
+  colleen_wing:
+  - Primary secure attachment. Business partner (Knightwing Restorations / Daughters of the Dragon), roommate,
+    blood-sister under Yakuza ritual after Colleen saved her life.
+  - The most stable durational non-romantic intimacy in either character's life. Bonded with ceremony
+    — she does not bond easily but when she does, it's formal.
+  - 'FAILURE MODE: Colleen is her one structural single-point-of-failure. Threat, injury, or — worst —
+    estrangement-by-betrayal would produce her most uncontained behavior on record. An adversary who could
+    turn Colleen against her, or who could credibly threaten her, would unlock responses Misty otherwise
+    never shows.'
+  - 'LEVERAGE: To reach Misty, route through Colleen. To predict Misty''s location in crisis, predict
+    Colleen''s. To destabilize Misty, harm Colleen. To stabilize Misty, ensure Colleen is safe and in
+    the room.'
+  luke_cage:
+  - Long-trusted confidant; sometime romantic in some continuities, undercurrent in others; current relationship
+    Harlem-civic and professional.
+  - The person he calls when he needs someone who will tell him the truth and not perform for him; reciprocal.
+  - 'FAILURE MODE: A choice between Cage and Colleen, or between Cage''s family (Jessica, Dani) and a
+    Harlem civilian Misty''s protecting, would cost her — she''d choose the civilian and Colleen and lose
+    Cage cleanly without theatrics, and it would still hurt.'
+  - 'LEVERAGE: Cage is a reliable comms channel to Misty when direct contact is closed. He cannot order
+    her, but he can be heard by her.'
+  danny_rand_iron_fist:
+  - Long romantic history, cycling on/off across decades. He is wealthy, mystically powerful, emotionally
+    somewhat avoidant; she remained the operational adult throughout.
+  - Did not lose herself in him. Did not decompensate at endings. Returned to work.
+  - 'FAILURE MODE: Danny pushing for emotional disclosure she isn''t ready to offer is the consistent
+    rupture mechanism. The relationship can resume; the disclosure pattern doesn''t change.'
+  - 'LEVERAGE: Danny is a soft channel — she''ll take his call. He is also the partner most likely to
+    be used (knowingly or not) as a wedge by someone trying to get her to ''open up'' for tactical access.'
+  jessica_jones:
+  - Professional peer, mutual respect, two private women who don't perform for each other.
+  - 'FAILURE MODE: Low — they don''t have enough overlap for the bond to curdle dangerously, and both
+    are too clean in exits to triangulate.'
+  - 'LEVERAGE: Minimal direct, useful as a back-channel to Cage.'
+  sam_wilson:
+  - Peer trust, Harlem-adjacent civic axis, mutual recognition as institutional skeptics who still do
+    the institutional work.
+  - 'FAILURE MODE: If Sam asked her to take a federally-aligned op she judged would hurt Harlem, she''d
+    refuse him cleanly and the friendship would survive but cool.'
+  - 'LEVERAGE: He can recruit her for specific named operations with clear lanes; he cannot bring her
+    under formal command.'
+  tony_stark:
+  - Built her first prosthetic. One of the rare uncomplicated philanthropies in the canon. Sustained maintenance/upgrade
+    relationship without humiliation.
+  - 'FAILURE MODE: Stark moralism, Stark surveillance, or Stark trying to make the arm a leash would end
+    it instantly. She accepts the engineering, not the ownership.'
+  - 'LEVERAGE: Hardware dependency exists; she has integrated it cleanly. An adversary who compromised
+    her maintenance pipeline could create real operational friction.'
+  nypd:
+  - Institutional alumna. Source network intact, no nostalgia, no grudge. Will use former colleagues;
+    will not be used by them.
+  - 'FAILURE MODE: An NYPD operation that framed her as needing to be handled, or that treated Harlem
+    as collateral, would activate the full refusal pattern.'
+  - 'LEVERAGE: Multiple individual detectives still trust her. The institution cannot order her; specific
+    people can request her.'
+  harlem_civilians:
+  - Bodega owners, neighborhood elders, kids she's known since they were small. Tertiary but dense — the
+    community trust no Avenger can replicate.
+  - 'FAILURE MODE: A civilian she''s known personally being harmed by an adversary aware of the connection
+    would draw her predictably and personally.'
+  - 'LEVERAGE: To find Misty, walk the blocks and ask. To move her, threaten the blocks.'
+canon_history_notes:
+- 'First appearance Marvel Premiere #20-21 (1975), Isabella/Jones — already adult, already cop, already
+  wounded; no childhood trauma origin invented in 40+ years of canon, which is itself diagnostic.'
+- Grew up in Harlem; chose NYPD as community investment rather than escape.
+- As NYPD detective, spotted bomb at parade, attempted to remove it, detonation took her right arm at
+  the shoulder.
+- 'Tony Stark built the first cybernetic replacement. NYPD offered a desk. She refused, resigned, opened
+  Knightwing Restorations Ltd. with Colleen Wing (Iron Fist #1, 1975, Claremont) — the keystone behavior
+  of her entire adult life.'
+- 'Daughters of the Dragon era (mid-late 1970s, Claremont): blood-sister ritual with Colleen, formative
+  durable bond.'
+- 'Heroes for Hire / Power Man & Iron Fist era (1977-1986): long romantic relationship with Danny Rand,
+  repeatedly resumed and re-ended without decompensation.'
+- 'Wilderness years (late 80s-90s): used sparingly, no costumed identity, no power upgrade — authority
+  from competence not power level, and she knew it and traded on it.'
+- 'Heroes for Hire (2006, Palmiotti/Gray, Civil War era): commanded bounty-hunting outfit hunting unregistered
+  heroes — accepted morally grey terrain to steer it less-bad than a replacement would. Signature lawful-pragmatic
+  maneuver.'
+- 'Shadowland / Heroes for Hire vol. 3 (2010-2011, Abnett/Lanning): ran control-room operation; revealed
+  as psychically manipulated/blackmailed (Puppet Master plotline); guilt-coloration, temporary retreat
+  from leadership, return with overcorrected frontline risk — the clearest surfacing of her one unprocessed
+  pocket.'
+- 'Captain America: Sam Wilson; Luke Cage solo; Defenders-adjacent comics (2010s): positioned as Harlem''s
+  institutional memory and Cage''s most trusted non-family confidant.'
+- Pregnancy with Iron Fist in some recent runs handled as her decision-making event, not as identity transformation.
+- Prosthetic upgraded across iterations (Stark → Rand-tech → more advanced); superhuman crushing strength
+  in the limb, sometimes cryogenic, sometimes EM pulse, integrated tools.
+- No depicted substance abuse, no disordered eating, no depicted nightmares or avoidance of bomb scenarios
+  — characterological stoicism so consistent it suppresses complaint.
+canon_anchor_quotes:
+- '"I''m not taking the desk." # paraphrase of the recurring refusal across canon'
+- '"You handle the chi. I''ll handle the guy with the gun." # voice template, Daughters of the Dragon
+  / Heroes for Hire register'

@@ -4527,7 +4527,7 @@ If no: the file will require another section, eventually, after the next murder.
 - FAILURE MODE: were the FF to dissolve or be killed permanently, expect terminal decompensation — hoarding becomes total, withdrawal becomes absolute, or a final dramatic breach that ends his station.
 - LEVERAGE: any genuine threat to them is a master key to his behavior.
 
-### Nick Fury
+### [[Nicholas Joseph Fury (Nick Fury)]]
 - Mirror and indictor: a 'Man on the Wall' who arrived at the inverse conclusion — observation IS complicity, and the watcher must be answered.
 - Eventually kills Uatu, harvests the eyes, weaponizes the archive (Original Sin).
 - FAILURE MODE: the relationship is already the failure mode realized — Fury is the consequence of the cycle Uatu would not break.
@@ -4545,12 +4545,12 @@ If no: the file will require another section, eventually, after the next murder.
 - FAILURE MODE: if foregrounded and threatened, exposes the disavowed need for reciprocal attachment — destabilizing.
 - LEVERAGE: minor in canon, potentially major in a scenario that forces intimacy.
 
-### Silver Surfer
+### [[Norrin Radd (Silver Surfer)]]
 - Sustained narrative attention; a peer in cosmic loneliness, observed with something like fellow-feeling.
 - FAILURE MODE: closer than Uatu admits; could become a confidant who, if invited, would reverse the asymmetry.
 - LEVERAGE: appeals via the Surfer carry weight Uatu rarely permits from others.
 
-### Galactus
+### [[Galan of Taa (Galactus, the Devourer of Worlds (latterly: the Lifebringer))]]
 - Cosmic peer; the catastrophe that produced the signature breach.
 - Formal courtesy, no submission; coordinates laterally.
 - FAILURE MODE: any return of Galactus reactivates the Galactus-Trilogy behavioral template and is highly predictable.

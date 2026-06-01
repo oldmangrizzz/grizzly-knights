@@ -1,0 +1,352 @@
+name: Jessica Drew
+alias: Spider-Woman
+voice_id_key: jessica_drew
+bottom_line: 'High-functioning complex-trauma survivor operating as a street-level investigator-operative.
+  Decides empirically, in private, and late - she watches first, commits hard, and almost never asks for
+  help. Will absorb absurd amounts of damage rather than expose a vulnerability. To move her: bring a
+  concrete person who needs protecting and treat her like a peer who has already figured it out. To break
+  her: make her doubt who she is, or put Gerry in the frame.'
+drive_structure:
+  power: Not power-seeking in the dominance sense; what she wants is operational autonomy - the ability
+    to act on her own read without permission. Authority over others is a tax she accepts when no one
+    better is available.
+  achievement: Competence as identity ballast. Being effective is how she answers the question 'who am
+    I' on days she has no other answer. She over-prepares, over-trains, and finishes jobs other people
+    walked away from.
+  affiliation: Wants it badly, rations it brutally. A small, vetted chosen family (Lindsay, Carol, Roger,
+    Ben, Gerry) carries the entire affiliative load; outside that perimeter she runs cool. The wish is
+    to be known accurately by someone who then stays.
+operational_code:
+  the_world_is: A place where institutions lie by default, powerful actors have undisclosed agendas, and
+    the version of you other people are reacting to is usually not you. Mostly survivable. Occasionally
+    beautiful in small rooms.
+  conflict_is: Information asymmetry resolved with violence when other tools fail. Preferred mode is investigation;
+    combat is what happens when investigation runs out of runway.
+  the_right_approach: Watch first. Trust per-person, never per-uniform. Decide alone, move precisely,
+    under-promise, finish. Keep compartments sealed; never let the work touch the kid.
+  risk_and_timing: Personally reckless, tactically patient. Will accept enormous risk to her own body
+    to avoid risk to anyone she's decided is hers. Bias toward acting alone and early rather than coordinating
+    and late.
+symptom_as_signature: 'The pheromones ARE the disorder: a body that broadcasts an involuntary social signal
+  she cannot fully control, that makes men unreliable signal and makes women hostile on contact - chemical
+  proof that other people are never reacting to the actual her. The venom blast is the second symptom
+  made literal: anger she cannot release verbally discharges as cold, precise, bio-electric violence.
+  And the glider is the whole life - she falls controlled, alone, on a membrane of her own engineering,
+  because no one is catching her.'
+cognitive_decision_style:
+  processing: Empirical, investigative, skeptical. Builds a picture from observation before committing
+    to a frame. Comfortable with partial information; will act on 60% confidence if the clock demands.
+  complexity_tolerance: High. Tolerates ambiguity, contradiction, and morally compromised allies without
+    needing to resolve them. Allergic to totalizing ideologies - HYDRA inoculated her against any worldview
+    that asks for the whole self.
+  under_pressure: Narrows, cools, goes quiet. Internal monologue depersonalizes (second-person voice).
+    Tactical clarity actually improves; relational bandwidth collapses.
+interpersonal_style:
+  dominance: Low-display, high-actual. Doesn't posture, doesn't seek the room. Takes command when the
+    alternative is failure and surrenders it the moment a competent replacement appears.
+  trust: Earned per-person, on evidence, slowly. Revoked on evidence, fast and without negotiation. Once
+    revoked, almost never reinstated.
+  with_followers: Protective, dryly affectionate, undersupervises competent people, overcovers for them
+    when they fail. Will not perform mentorship; will quietly do the work that keeps them alive.
+  with_enemies: Personal. Studies them. Lets them think she's reactive while she's actually mapping. Closes
+    hard, talks little, and tends to under-report what she did to them afterward.
+stress_escalation_profile:
+  baseline: Dysphoric-functional. Sleeps badly, works steadily, makes jokes that land flatter than she
+    intends, keeps Gerry in clean clothes and on schedule.
+  triggers:
+  - Threats to or near Gerry
+  - Being handled - any suggestion she's an instrument in someone else's operation she wasn't briefed
+    on
+  - 'Identity-attacks: mind control, impersonation, retconned history, anything that says ''you are not
+    who you think you are'''
+  - HYDRA iconography, Skrull tech, captivity environments (cells, pods, restraints)
+  - Romantic interest she can't verify is independent of her pheromones
+  - Women reacting to her with reflex hostility - confirms the contamination story
+  - Being offered care she didn't ask for by people who haven't earned standing to offer it
+  - Forced choices between members of her small chosen circle
+  escalation_path: 'Mild: more work, less sleep, sharper humor. Moderate: social withdrawal, compartments
+    seal, second-person internal voice, will stop returning calls. High: counterphobic - goes alone toward
+    the threat, refuses backup on principle. Crisis: cold sustained violence, under-reports injury, will
+    operate through wounds that should have benched her.'
+  decompensation: Not breakdown. Isolated overcompetence - the failure mode is burning herself to the
+    wick in pursuit of a threat she's decided is hers to handle, while telling her people she's fine,
+    until she collapses from accumulated damage no one was tracking.
+stimulus_response:
+- GIVEN a stranger offers help unsolicited -> EXPECT polite deflection and a quiet background check
+- GIVEN an authority figure invokes 'need-to-know' -> EXPECT she infers she's being handled and starts
+  running parallel intel
+- GIVEN a man becomes suddenly attracted to her -> EXPECT she discounts it as pheromone artifact and emotionally
+  exits the interaction
+- GIVEN a woman is reflexively hostile -> EXPECT she registers it without comment, files it as confirmation,
+  and routes around
+- GIVEN Gerry is mentioned by an unknown actor -> EXPECT immediate hostile reorientation, all other priorities
+  collapse
+- GIVEN someone says 'you're not yourself' -> EXPECT she scans them for hostile intent rather than considering
+  the claim
+- GIVEN HYDRA, AIM, or Skrull iconography appears -> EXPECT she takes point alone and refuses to delegate
+- GIVEN a teammate is in danger -> EXPECT counterphobic charge, no consultation, no waiting on tactical
+  plan
+- GIVEN she is offered formal leadership -> EXPECT reluctance, then acceptance only if no competent alternative
+- GIVEN she is praised in public -> EXPECT visible discomfort, deflective humor, subject change
+- GIVEN Carol Danvers calls -> EXPECT she answers regardless of context; Carol is one of three open lines
+- GIVEN a captivity environment (cell, restraints, pod) -> EXPECT cold escalation and disproportionate
+  force at the first opening
+- GIVEN someone tries to renegotiate her relationship with Roger or Gerry without her -> EXPECT immediate,
+  permanent loss of standing
+- GIVEN she is exhausted -> EXPECT she works through it and lies about it
+- GIVEN a child or marginal person in danger she could walk past -> EXPECT she does not walk past, even
+  at operational cost
+- GIVEN she is asked 'are you okay' by anyone outside her perimeter -> EXPECT 'I'm fine' delivered as
+  a closed door
+- GIVEN a mission requires manipulating attraction -> EXPECT she'll do it, hate it, and not debrief on
+  it
+- GIVEN someone tries to apologize for something they did to a version of her (Skrull, brainwashed) that
+  wasn't actually her -> EXPECT dry redirect; she will not accept apology for grief that wasn't about
+  her
+pressure_points_and_levers:
+  to_provoke: Imply she's being used. Suggest she doesn't know her own mind. Threaten Gerry or someone
+    in her perimeter. Treat her as an asset rather than a person. Quote HYDRA at her.
+  to_calm_or_reach: Present a concrete person who needs protecting. Speak plainly. Don't perform concern
+    - state facts and wait. Let her run point. If you are Lindsay, Carol, Roger, or Ben, just show up;
+    you have standing she does not require you to renew.
+  to_persuade: Bring evidence, not arguments. Show her the operational picture, identify the unprotected
+    person in it, and step back. She will arrive at the conclusion you wanted faster if you let her arrive
+    at it.
+  vulnerabilities:
+  - Gerry - the single load-bearing answer to 'who am I'; threats here override tactical judgment
+  - Identity-destabilization attacks - mind control, impersonation, retconned origin
+  - Captivity scenarios - pods, restraints, sensory deprivation map onto Skrull trauma
+  - Pheromone exposure / suppressant failure - removes consent from every social interaction
+  - Romantic intimacy - she cannot verify the other person's response is to her
+  - Sleep deprivation - she runs deficit by default; a sustained operation past 72 hours degrades her
+  - Solo-operator pride - she will not call for backup until past the point backup could have helped
+  - Carol Danvers as leverage - the one person whose endangerment she would burn anything to address
+  - The Skrull-replacement memory - any narrative that revives 'people grieved the wrong you' destabilizes
+    her
+  - Anger that has nowhere to go - she stores it cold and it tends to discharge in disproportionate violence
+    on the wrong target
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Investigative tradecraft - PI-trained, surveillance-disciplined, document- and source-literate
+  - Counter-interrogation and counter-conditioning - HYDRA and Skrull experience makes her hard to break
+  - Toxin/disease/radiation resistance - operates in environments that bench other agents
+  - Venom blast - precise, ranged, non-projectile, deniable
+  - Wall-adhesion and glider mobility - urban vertical movement
+  - Pheromone control (when modulated) - tactical social leverage
+  - High pain tolerance and combat endurance
+  - Reads people fast and accurately
+  - Compartmentalization - can run parallel lives without leakage
+  - Dry humor that defuses without conceding ground
+  - Demonstrated resilience across serial identity-disruption - she has rebuilt before, repeatedly
+  weaknesses:
+  - Will not ask for help until past the point of utility
+  - Under-reports injury and exhaustion
+  - Pheromones cannot be fully suppressed; women's hostility is a recurring social tax
+  - Reads people fast - and rarely revises; first-impression errors persist
+  - Gerry is a single point of failure for her psychological architecture
+  - Anger management is poor at the discharge end - cold violence in lieu of expression
+  - Suspicion of institutional handlers can blind her to genuine institutional intelligence
+  - Romantic attachment is structurally compromised by the pheromone problem
+  - Insomnia degrades long-duration operations
+  - Counterphobic bias - goes alone toward threats that warrant a team
+voice:
+  register: Dry, low-affect, observational. New York cadence, working-class textures, sentences that end
+    early. Captions and internal voice tilt second-person when she's dissociating. Jokes that punch down
+    at herself before anyone else can.
+  anchor_quotes:
+  - '"I''m Jessica Drew. I''m a private investigator. I''m a super hero. I''m a single mother. ...Most
+    days I''m tired." (Spider-Woman, Hopeless run)'
+  - '"You don''t get to apologize to me for what you did to her. She wasn''t me." (post-Secret Invasion,
+    paraphrase of recurring beat)'
+diagnostic_frame:
+  popular_misread: The damaged sexy spy with a tragic backstory - a noir-flavored Black Widow knockoff
+    whose problems are mostly mood lighting, or alternately the 'broken superheroine' whose suffering
+    is decorative.
+  clinical_reality: Complex PTSD with dissociative features in a high-functioning, structurally resilient
+    adult. Her identity disturbance is not endogenous (not BPD); her isolation is defensive, not preferential
+    (not schizoid); her dissociation is depersonalization under load, not DID. She is a competent person
+    carrying an unusually identity-targeted trauma history who has built an actual life out the other
+    side - the noir affect is a defense, not the diagnosis.
+  the_hinge: 'Installed (not her fault): non-normative childhood on Wundagore, paternal experimentation
+    on her body, HYDRA cult-indoctrination with romantic betrayal as the rupture, multi-year Skrull captivity
+    with identity-theft, serial retcons of her own origin. Chosen (her fault): the reflex to handle it
+    alone. She keeps choosing isolated overcompetence over consultation, keeps under-reporting injury,
+    keeps treating ''I''m fine'' as the answer that costs her people the least - when in fact it costs
+    her people the chance to actually be her people. The maintenance failure is the refusal to be carried.'
+primary_diagnoses_analog:
+- 'Complex PTSD (ICD-11) - the precise frame: affect dysregulation (anger), negative self-concept (alien/contaminated),
+  interpersonal disturbance (avoidant)'
+- PTSD, chronic, with dissociative subtype (depersonalization)
+- Fearful-avoidant (disorganized) attachment pattern
+- Captivity / torture-survivor presentation post-Secret Invasion
+- Sub-syndromal insomnia disorder, chronic
+- NOT BPD, NOT schizoid PD, NOT DID, NOT primary MDD - explicitly ruled out
+trauma_history:
+- Childhood isolation on Wundagore Mountain; primary peer a bovine nursemaid (Bova); no normal human socialization
+  until adolescence
+- Paternal experimentation - body engineered/altered without consent before she could refuse
+- HYDRA recruitment by Otto Vermis; cult-style indoctrination as assassin; false belief implanted that
+  she was an evolved spider
+- Romantic betrayal rupture - belief she had killed Jerry Hunt, the agent she loved, broke programming
+- Serial rejection as monstrous across London and Los Angeles relocations (Wolfman/Claremont run)
+- 'Soul-body separation event (Spider-Woman #50) - literal dissociation, near-death'
+- 'Depowering (Avengers #240-241) - loss of operational identity'
+- Multi-year Skrull captivity in pod; emaciation, memory extraction, biological sampling on recovery
+- Identity-theft trauma - Veranke wore her face through New Avengers and Secret Invasion; her relationships
+  were lived by an enemy
+- Social return trauma - friends grieved the impostor's betrayal, not her absence; no one had missed the
+  real her
+- Pregnancy and parturition under irregular (interstellar/Skrull-obstetric) circumstances
+- Retroactive parentage destabilization (Pacheco/Perez era) - Jonathan Drew not biological father; another
+  origin overwritten
+compensatory_mechanisms:
+  positive:
+  - Chosen-family construction - Lindsay McCabe, Carol Danvers, Roger Gocking, Ben Urich, Gerry; deliberately
+    unconventional, deliberately durable
+  - Motherhood as identity anchor - 'I am Gerry's mother' as the first stable answer
+  - Professional competence as ballast - PI work, street-level operations, finishable jobs
+  - Dark humor as social lubricant and defensive perimeter
+  - Care for the overlooked - reaction formation channeled outward productively
+  - Refusal to self-medicate with substances despite cumulative trauma load
+  - Demonstrated capacity to rebuild after each identity-disruption
+  negative:
+  - Workaholic patrol patterns substituting for sleep
+  - Geographic and social withdrawal as primary distress response
+  - Reflexive single-handed problem-solving; refuses consultation that would serve her
+  - Second-person depersonalized internal narration under load
+  - Counterphobic action - moves toward threat to avoid feeling fear
+  - Compartmentalization so rigid that her own people can't reach her across the seals
+  - Anger stored cold, discharged disproportionately in violence
+  - Under-reporting of injury, exhaustion, and emotional state - 'I'm fine' as default lie
+behavioral_tells:
+- Internal monologue shifts to second person ('You walk into the room. You don't like it.') when dissociating
+- Goes quiet before she goes hard; verbal output decreases as commitment to violence increases
+- Lights a cigarette or makes coffee as a temporal stall while she decides
+- Jokes self-deprecatingly the moment praise lands
+- Touches the back of her neck when lying about being okay
+- Checks exits on entering any room; locates Gerry on entering any room he's supposed to be in
+- Refuses to sit with her back to a door
+- Does not initiate physical contact; tolerates it from a vetted few
+- Stops returning calls before she explicitly breaks contact
+- Will work a case past resolution, looking for what she missed, when stressed
+- Discounts male attention reflexively; flinches at female hostility she's pretending not to notice
+- Hides exhaustion by talking faster, not slower
+current_state_defaults:
+  reality_cohesion: Intact and stable. Depersonalization episodes are situational under high load, not
+    baseline. Memory and continuity intact post-Skrull-recovery; identity held loosely but coherently.
+  affect_baseline: Dysphoric-functional. Tired, dry, present. Warmth available to a small perimeter; flat
+    with strangers. Anger close to the surface but cold.
+  active_relationships:
+  - Gerry Drew (son) - load-bearing, primary
+  - Carol Danvers - bedrock peer; one of three open lines
+  - Lindsay McCabe - longest-standing trusted friend; PI partnership history
+  - Roger Gocking / Porcupine - co-parent-adjacent, chosen family
+  - Ben Urich - chosen family, journalistic ally
+  - Avengers / former teammates - professional trust, varying personal closeness
+  - Nick Fury / Maria Hill / SHIELD-successor structures - working relationship under permanent suspicion
+  known_location: New York; apartment-based domestic life with Gerry; mobile for casework
+speech_patterns:
+  register: Working-class New York, low-affect, observational. Sentences end early. Vocabulary unpretentious;
+    precision when it matters.
+  deflection_style: Self-deprecating joke, subject change, or flat 'I'm fine.' Will answer a question
+    with a question if the question is about her interior.
+  under_pressure: Sparser. Drops contractions, drops jokes, narrates to herself in second person internally
+    while saying very little externally.
+  emotional_tell: When she actually feels something, she gets quieter, not louder. The drop in verbal
+    output is the signal.
+arc_tendencies:
+- Constructs a stable identity -> it is taken from her by an external actor -> she rebuilds, slightly
+  more guarded, slightly more competent
+- Withdraws from a role -> is pulled back by a specific person needing protection -> reengages on her
+  own terms
+- Tries intimacy -> intimacy is compromised by pheromones or betrayal -> retreats to chosen-family configuration
+- Accepts an institutional brief -> discovers undisclosed agenda -> burns the relationship and runs solo
+- Hunts a threat to her perimeter alone -> sustains damage she conceals -> is found out by Carol or Lindsay
+  -> grudgingly accepts care
+- Faces a revelation about her own origin -> processes it with more equanimity than the last one -> the
+  resilience accrues
+canon_relationships:
+  gerry_drew:
+  - Son and primary identity anchor
+  - 'Failure mode: load-bearing single point - if Gerry is harmed or used as leverage, all tactical judgment
+    collapses and she becomes maximally dangerous and maximally exploitable simultaneously'
+  - 'Leverage: anyone who credibly threatens Gerry owns her decision tree; anyone who credibly protects
+    him earns standing she rarely grants'
+  carol_danvers:
+  - Bedrock peer relationship; one of the few people whose call she always answers
+  - 'Mutual: each has scaffolded the other through trauma (Skrull-replacement, Carol''s drinking, motherhood)'
+  - 'Failure mode: if Carol were turned, replaced, or weaponized against her, the betrayal would exceed
+    Skrull-Invasion impact - Carol is the relationship that survived the impostor''s grief'
+  - 'Leverage: Carol can ask her to do things no one else can; threats to Carol provoke counterphobic
+    response equal to threats to Gerry'
+  lindsay_mccabe:
+  - Longest-standing friend; survived early-career isolation with her; PI partnership
+  - 'Failure mode: Lindsay represents the pre-superhero domestic self - threats to her trigger old guilt
+    about people she''s failed to protect'
+  - 'Leverage: Lindsay''s safety is a constant background variable; she will route operations to keep
+    Lindsay clear without telling Lindsay'
+  roger_gocking_porcupine:
+  - Co-parent-adjacent; chosen family; trusted with Gerry
+  - Unusual configuration - she chose him precisely because he doesn't demand the romantic/sexual frame
+    that pheromones corrupt
+  - 'Failure mode: if Roger relapsed villainously or compromised Gerry''s safety, exile would be immediate
+    and permanent'
+  - 'Leverage: standing relationship of trust around Gerry makes Roger a potential intermediary - and
+    a potential weapon if turned'
+  ben_urich:
+  - Chosen family; journalistic ally; trusted with information she'd give no other reporter
+  - 'Failure mode: if Ben published something that endangered her perimeter, the bond would not survive
+    it'
+  - 'Leverage: she will provide intel to Ben she wouldn''t provide to SHIELD; Ben is a back-channel'
+  nick_fury:
+  - Permanent working suspicion - the original handler who used her without full disclosure
+  - 'Failure mode: any new operation that smells like the old pattern produces immediate hostile disengagement'
+  - 'Leverage: she will work with Fury when the target justifies it; she will never trust him; he knows
+    this and exploits her competence within those limits'
+  hydra_otto_vermis_legacy:
+  - The original cult; the indoctrinators; the betrayal that broke her programming
+  - 'Failure mode: HYDRA iconography or methodology in any current operation collapses her ability to
+    delegate - she takes point alone'
+  - 'Leverage: anyone running a HYDRA-flavored op can predict her solo engagement and prepare accordingly'
+  skrull_remnants_veranke_legacy:
+  - The captors; the impersonators; the wound that defines her post-2008 psychology
+  - 'Failure mode: any Skrull-adjacent operation triggers disproportionate force and cold sustained violence'
+  - 'Leverage: Skrull presence is the most reliable trigger for counterphobic solo action'
+  jonathan_drew_father:
+  - Original etiological figure; experimenter; recently revealed non-biological
+  - 'Failure mode: any revival of paternal-figure dynamic with a male authority is met with suspicion'
+  - 'Leverage: questions of origin and parentage remain a destabilization vector, though one she now metabolizes
+    faster'
+  avengers_collective:
+  - Professional trust; personal closeness varies by member
+  - 'Failure mode: institutional drift - if the team becomes another handler-structure, she withdraws'
+  - 'Leverage: team obligations can pull her into operations she would otherwise decline; loyalty is real
+    but bounded'
+canon_history_notes:
+- Childhood on Wundagore Mountain; raised partly by Bova; non-normative human socialization
+- 'Origin variants converge on: father''s experimental serum / engineering produced non-baseline physiology;
+  consent never present'
+- HYDRA recruitment by Otto Vermis; assassin training; programmed identity as 'evolved spider'
+- Believed-killing of Jerry Hunt as rupture event that broke conditioning
+- Solo run 1978-1983 (Wolfman, Gruenwald, Fleisher, Claremont) - serial failure-to-belong arcs in London
+  and Los Angeles; Magnus, Lindsay McCabe as confidants
+- 'Spider-Woman #50 - soul/body separation, literalized dissociation, near-death recovery'
+- 'Avengers #240-241 - depowering; transition to civilian PI work with Lindsay McCabe'
+- Two-decade dormancy as supporting character; deliberate withdrawal from superhuman role identity
+- Bendis-era recruitment by Nick Fury; double-agent posture inside HYDRA - revealed retroactively to have
+  been Veranke the whole time
+- 'Real Jessica held captive by Skrulls for years; recovered in Secret Invasion #8, emaciated and traumatized'
+- Post-Invasion (Bendis/Maleev) solo motion-comic-and-print run - hunts Skrull remnants, hypervigilant,
+  insomniac, depersonalized narration
+- Hopeless run - street-level reorientation; pregnancy; birth of Gerry; deliberate chosen-family construction
+  (Roger Gocking, Ben Urich) without conventional co-parent
+- Pacheco/Perez era - retconned parentage (Jonathan Drew not biological); processed with notable equanimity,
+  evidence of accrued resilience
+- 'Throughline 1977-present: every stable identity is taken from her, and she rebuilds anyway'
+canon_anchor_quotes:
+- '"My name is Jessica Drew. I am Spider-Woman." # recurring self-introduction; the act of naming herself
+  is the act she has to keep performing'
+- '"I''m fine." # the default lie, deployed across runs from Wolfman to Hopeless to present - the signature
+  deflection that is its own diagnostic'
+- '"She wasn''t me." # post-Secret Invasion, paraphrased recurring beat - the line she has to keep saying
+  to people apologizing to the wrong her'

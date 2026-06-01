@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The World — Grizzly Knights</title>
+<style>
+  html,body{ margin:0; height:100%; background:#05060b; overflow:hidden; color:#e8ecf5;
+    font:13px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; cursor:default; }
+  #c{ position:fixed; inset:0; display:block; }
+  #cross{ position:fixed; left:50%; top:50%; width:8px; height:8px; margin:-4px 0 0 -4px;
+    border:1px solid rgba(255,255,255,.6); border-radius:50%; pointer-events:none; z-index:3; opacity:.6; }
+  #hud{ position:fixed; left:24px; bottom:24px; width:300px; z-index:4; padding:14px;
+    background:rgba(8,10,18,.86); border:1px solid #1c2230; border-radius:12px; display:none;
+    backdrop-filter:blur(8px); }
+  #hud img{ width:62px; height:80px; object-fit:cover; border-radius:7px; float:left; margin-right:12px;
+    border:1px solid #2a3346; background:#11151f; }
+  #hud .nm{ font-size:15px; color:#d9a441; font-weight:600; }
+  #hud .md{ font-size:10px; color:#7c869c; letter-spacing:.06em; margin-top:2px; }
+  #hud .ac{ font-size:11px; color:#9fb0cc; margin-top:6px; font-style:italic; }
+  #hud .hint{ clear:both; font-size:10px; color:#5bd0ff; letter-spacing:.08em; margin-top:10px; }
+  #sub{ position:fixed; left:50%; bottom:40px; transform:translateX(-50%); max-width:62%; z-index:4;
+    text-align:center; font-size:16px; color:#eaeef7; text-shadow:0 2px 12px #000; display:none; line-height:1.45; }
+  #sub b{ color:#d9a441; }
+  #start{ position:fixed; inset:0; z-index:6; display:flex; align-items:center; justify-content:center;
+    background:radial-gradient(800px 500px at 50% 40%,#10162a,#05060b 70%); cursor:pointer; }
+  #start div{ text-align:center; }
+  #start h1{ font-size:18px; letter-spacing:.34em; color:#d9a441; margin:0 0 14px; font-weight:600; }
+  #start p{ color:#9fb0cc; letter-spacing:.05em; margin:5px 0; }
+  #start .go{ margin-top:22px; color:#5bd0ff; letter-spacing:.18em; font-size:13px; }
+  #stat{ position:fixed; right:18px; top:14px; z-index:4; text-align:right; color:#7c869c; font-size:11px; letter-spacing:.06em; }
+  #stat b{ color:#e8ecf5; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="cross"></div>
+<div id="hud"><img id="hp" alt=""><div class="nm" id="hn"></div><div class="md" id="hm"></div><div class="ac" id="ha"></div><div class="hint">click to hear them speak</div></div>
+<div id="sub"></div>
+<div id="stat"><b id="scount">—</b> souls present · <span id="stalk">0</span> in conversation</div>
+<div id="start"><div>
+  <h1>THE WATCHER'S WALK</h1>
+  <p>You are not a player here. You are the witness.</p>
+  <p>W A S D to move · mouse to look · <b style="color:#e8ecf5">SHIFT</b> to rise, <b style="color:#e8ecf5">CTRL</b> to descend</p>
+  <p>look at anyone · <b style="color:#e8ecf5">click</b> to hear them</p>
+  <div class="go">click to enter the world</div>
+</div></div>
+
+<script type="importmap">
+{"imports":{
+  "three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+}}
+</script>
+<script type="module">
+import * as THREE from 'three';
+import { PointerLockControls } from 'three/addons/controls/PointerLockControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+const TILE = 1.7, W = 64, H = 48;
+const cx = x => (x - W/2) * TILE, cz = y => -(y - H/2) * TILE;
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x05060b);
+scene.fog = new THREE.FogExp2(0x05060b, 0.012);
+
+const camera = new THREE.PerspectiveCamera(70, innerWidth/innerHeight, 0.1, 1000);
+camera.position.set(0, 6, 40);
+
+const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('c'), antialias:true });
+renderer.setSize(innerWidth, innerHeight); renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+renderer.shadowMap.enabled = true;
+renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.toneMappingExposure = 1.5;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+
+// lighting — cinematic dusk over the city
+scene.add(new THREE.HemisphereLight(0x9fb4e0, 0x141826, 1.15));
+const key = new THREE.DirectionalLight(0xffe9c8, 1.7); key.position.set(40,60,20);
+key.castShadow = true; key.shadow.mapSize.set(2048,2048);
+key.shadow.camera.left=-90; key.shadow.camera.right=90; key.shadow.camera.top=90; key.shadow.camera.bottom=-90;
+scene.add(key);
+
+// ground
+const ground = new THREE.Mesh(new THREE.PlaneGeometry(W*TILE*1.6, H*TILE*1.6),
+  new THREE.MeshStandardMaterial({ color:0x10131c, roughness:1 }));
+ground.rotation.x = -Math.PI/2; ground.receiveShadow = true; scene.add(ground);
+const grid = new THREE.GridHelper(W*TILE*1.6, 64, 0x1c2740, 0x121826); grid.position.y = 0.02; scene.add(grid);
+
+// a city to fly through — clusters of dusk-lit blocks with lit windows, leaving the
+// district centers (where the characters stand) open as plazas.
+(function city(){
+  const districtCenters = [[18,20],[46,12],[30,38],[50,40],[32,24],[22,32],[12,8]].map(([x,y])=>new THREE.Vector2(cx(x),cz(y)));
+  const winTex = (()=>{ const cv=document.createElement('canvas'); cv.width=64;cv.height=128;
+    const g=cv.getContext('2d'); g.fillStyle='#0c1018'; g.fillRect(0,0,64,128);
+    for(let yy=6;yy<128;yy+=12) for(let xx=6;xx<64;xx+=12){ g.fillStyle=Math.random()<0.5?'#ffd98a':'#1a2334'; g.fillRect(xx,yy,7,7);}
+    const t=new THREE.CanvasTexture(cv); t.colorSpace=THREE.SRGBColorSpace; return t; })();
+  const geo=new THREE.BoxGeometry(1,1,1);
+  const N=240; const inst=new THREE.InstancedMesh(geo, new THREE.MeshStandardMaterial({map:winTex,roughness:.85,emissive:0x221a0a,emissiveIntensity:.35}), N);
+  const m=new THREE.Matrix4(); let i=0, guard=0;
+  while(i<N && guard++<4000){
+    const gx=(Math.random()-0.5)*W*TILE*1.5, gz=(Math.random()-0.5)*H*TILE*1.5;
+    let near=false; for(const c of districtCenters){ if(Math.hypot(gx-c.x,gz-c.y)<9){ near=true; break; } }
+    if(near) continue;
+    const h=6+Math.random()*34, w=4+Math.random()*5, d=4+Math.random()*5;
+    m.makeBasis(new THREE.Vector3(w,0,0),new THREE.Vector3(0,h,0),new THREE.Vector3(0,0,d));
+    m.setPosition(gx,h/2,gz); inst.setMatrixAt(i++,m);
+  }
+  inst.count=i; inst.castShadow=true; inst.receiveShadow=true; scene.add(inst);
+})();
+
+// district markers
+const districts = [
+  ['HELL\'S KITCHEN', 18, 20],['HARLEM', 46, 12],['CHINATOWN', 30, 38],['BROOKLYN', 50, 40],
+  ['MIDTOWN', 32, 24],['THE VILLAGE', 22, 32],['WESTCHESTER', 12, 8]
+];
+function label(text, x, z, size=2.2, color='#d9a441'){
+  const cv=document.createElement('canvas'); cv.width=512; cv.height=128;
+  const g=cv.getContext('2d'); g.fillStyle=color; g.font='bold 54px sans-serif'; g.textAlign='center';
+  g.fillText(text, 256, 80);
+  const tx=new THREE.CanvasTexture(cv); tx.colorSpace=THREE.SRGBColorSpace;
+  const sp=new THREE.Sprite(new THREE.SpriteMaterial({ map:tx, transparent:true, depthWrite:false }));
+  sp.scale.set(size*4, size, 1); sp.position.set(x, size+0.5, z); return sp;
+}
+districts.forEach(([n,x,y])=> scene.add(label(n, cx(x), cz(y), 3, '#5a6478')));
+
+// Each character is rendered as a 3D STANDEE of their real comic portrait, standing in
+// their district — and auto-upgraded to a true costumed 3D mesh wherever the TRELLIS
+// pipeline has built one (/assets/<stem>.glb). A comic, literally stood up in the city.
+const people = new Map(); // id -> {root, card, billboard, target, data, mesh?}
+const mixers = [];
+const gltf = new GLTFLoader();
+const texLoader = new THREE.TextureLoader();
+const PH = 3.7;  // standee height
+
+function makePerson(p){
+  const root = new THREE.Group();
+  root.position.set(cx(p.x), 0, cz(p.y));
+
+  // portrait standee
+  const w = PH*0.75;
+  const tex = p.portrait ? texLoader.load(p.portrait) : null;
+  if(tex) tex.colorSpace = THREE.SRGBColorSpace;
+  const card = new THREE.Mesh(
+    new THREE.PlaneGeometry(w, PH),
+    new THREE.MeshBasicMaterial({ map:tex, transparent:true, alphaTest:0.03, side:THREE.DoubleSide,
+      color:0xffffff }));
+  card.position.y = PH/2 + 0.04; root.add(card);
+  // subtle backing so the cutout reads as a figure, not a floating photo
+  const back = new THREE.Mesh(new THREE.PlaneGeometry(w*1.02, PH*1.01),
+    new THREE.MeshBasicMaterial({ color:0x0a0d15, side:THREE.DoubleSide }));
+  back.position.set(0, PH/2+0.04, -0.02); root.add(back);
+  // contact shadow disc
+  const disc = new THREE.Mesh(new THREE.CircleGeometry(w*0.5, 24),
+    new THREE.MeshBasicMaterial({ color:0x000000, transparent:true, opacity:0.4 }));
+  disc.rotation.x = -Math.PI/2; disc.position.y = 0.02; root.add(disc);
+  // name label
+  const nm = label(p.name, 0, 0, 0.95, '#e8ecf5'); nm.position.set(0, PH+0.5, 0); root.add(nm);
+
+  scene.add(root);
+  const per = { root, card, back, billboard:true, target:new THREE.Vector3(cx(p.x),0,cz(p.y)), data:p };
+
+  // upgrade to real costumed mesh if the TRELLIS pipeline has produced one
+  if(p.stem){
+    gltf.load('/assets/'+p.stem+'.glb', g=>{
+      const o = g.scene;
+      const s = new THREE.Box3().setFromObject(o).getSize(new THREE.Vector3());
+      o.scale.setScalar(PH / Math.max(s.y, 0.001));
+      const b = new THREE.Box3().setFromObject(o); o.position.y = -b.min.y;
+      o.traverse(m=>{ if(m.isMesh) m.castShadow = true; });
+      root.remove(card); root.remove(back); per.billboard = false; per.mesh = o; root.add(o);
+    }, undefined, ()=>{});  // 404 -> keep the standee
+  }
+  return per;
+}
+
+async function pollPositions(){
+  try{
+    const w = await (await fetch('/api/positions',{cache:'no-store'})).json();
+    document.getElementById('scount').textContent = w.players.length;
+    for(const p of w.players){
+      if(!people.has(p.id)){ const per=makePerson(p); if(per) people.set(p.id, per); }
+      else { const per=people.get(p.id); per.target.set(cx(p.x),0,cz(p.y)); per.data=p; }
+    }
+  }catch(e){}
+}
+async function pollTalk(){
+  try{ const a=await (await fetch('/api/activity',{cache:'no-store'})).json();
+    document.getElementById('stalk').textContent=a.talking;
+    window._feed=a.feed||[]; }catch(e){}
+}
+setInterval(pollPositions, 2500); setInterval(pollTalk, 5000);
+setTimeout(()=>{ pollPositions(); pollTalk(); }, 800);
+
+// controls — the walk
+const controls = new PointerLockControls(camera, renderer.domElement);
+const start = document.getElementById('start');
+start.addEventListener('click', ()=> controls.lock());
+controls.addEventListener('lock', ()=> start.style.display='none');
+controls.addEventListener('unlock', ()=> start.style.display='flex');
+scene.add(controls.getObject());
+
+const keys={};
+addEventListener('keydown', e=> keys[e.code]=true);
+addEventListener('keyup', e=> keys[e.code]=false);
+
+// targeting + audio
+const ray = new THREE.Raycaster(); const center = new THREE.Vector2(0,0);
+let targeted = null, audio = null;
+function updateTarget(){
+  if(!controls.isLocked){ document.getElementById('hud').style.display='none'; targeted=null; return; }
+  ray.setFromCamera(center, camera);
+  let best=null, bestD=1e9;
+  for(const [id,per] of people){
+    const d = per.root.position.distanceTo(camera.position);
+    if(d>30) continue;
+    const v = per.root.position.clone().add(new THREE.Vector3(0,1.2,0)).project(camera);
+    if(v.z>1) continue;
+    const screenD = Math.hypot(v.x, v.y);
+    if(screenD<0.12 && d<bestD){ bestD=d; best=per; }
+  }
+  targeted = best;
+  const hud=document.getElementById('hud');
+  if(best){
+    hud.style.display='block';
+    document.getElementById('hn').textContent=best.data.name;
+    document.getElementById('hm').textContent=best.data.model||'';
+    document.getElementById('ha').textContent=best.data.activity? ('· '+best.data.activity+' ·') : '';
+    const img=document.getElementById('hp');
+    if(best.data.portrait){ img.src=best.data.portrait; img.style.display='block'; } else img.style.display='none';
+  } else hud.style.display='none';
+}
+
+renderer.domElement.addEventListener('click', async ()=>{
+  if(!controls.isLocked || !targeted) return;
+  const stem = targeted.data.stem;
+  // find their latest line
+  const line = (window._feed||[]).slice().reverse().find(m=>m.stem===stem);
+  const text = line ? line.text : (targeted.data.activity ? `*${targeted.data.activity}*` : `I see you, watcher.`);
+  const sub=document.getElementById('sub');
+  sub.style.display='block'; sub.innerHTML = `<b>${targeted.data.name}:</b> ${text}`;
+  try{
+    const r = await fetch('/api/speak',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({stem, text})});
+    if(r.ok){ if(audio) audio.pause(); audio=new Audio(URL.createObjectURL(await r.blob())); audio.play(); }
+  }catch(e){}
+  clearTimeout(window._st); window._st=setTimeout(()=> sub.style.display='none', 9000);
+});
+
+addEventListener('resize', ()=>{ camera.aspect=innerWidth/innerHeight; camera.updateProjectionMatrix(); renderer.setSize(innerWidth,innerHeight); });
+
+// debug/spectate hook (for screenshots + a no-click look-around)
+window.__view = (x,y,z,lx,ly,lz)=>{ controls.getObject().position.set(x,y,z); camera.lookAt(lx,ly,lz); };
+window.__people = people;
+
+const clock = new THREE.Clock();
+function loop(){
+  requestAnimationFrame(loop);
+  const dt = Math.min(clock.getDelta(), 0.1);
+  const spd = (keys['ShiftLeft']||keys['ShiftRight']?0:1, 16) * dt;
+  if(controls.isLocked){
+    if(keys['KeyW']) controls.moveForward(spd);
+    if(keys['KeyS']) controls.moveForward(-spd);
+    if(keys['KeyA']) controls.moveRight(-spd);
+    if(keys['KeyD']) controls.moveRight(spd);
+    if(keys['ShiftLeft']||keys['ShiftRight']) controls.getObject().position.y += spd;
+    if(keys['ControlLeft']||keys['ControlRight']) controls.getObject().position.y = Math.max(1.6, controls.getObject().position.y - spd);
+  }
+  const t = clock.elapsedTime;
+  for(const [id,per] of people){
+    const before = per.root.position.x + per.root.position.z;
+    per.root.position.lerp(per.target, Math.min(1, dt*3));
+    const moving = per.root.position.distanceToSquared(per.target) > 0.05;
+    if(per.phase===undefined) per.phase = id.length*1.3 + per.root.position.x*0.1;
+    // LIFE: idle sway when still, brisker walk-bob when moving
+    const body = per.mesh || per.card;
+    if(body){
+      const f = moving ? 9 : 2.2, amp = moving ? 0.16 : 0.05;
+      body.position.y = (per.mesh? 0 : PH/2+0.04) + Math.abs(Math.sin(t*f + per.phase))*amp;
+      body.rotation.z = Math.sin(t*(moving?6:1.4) + per.phase) * (moving?0.05:0.02);
+    }
+    if(per.billboard){
+      per.root.rotation.y = Math.atan2(camera.position.x - per.root.position.x,
+                                       camera.position.z - per.root.position.z);
+    } else {
+      const dir = per.target.clone().sub(per.root.position); dir.y=0;
+      if(dir.lengthSq()>0.0004){ per.root.rotation.y = Math.atan2(dir.x, dir.z); }
+    }
+  }
+  for(const m of mixers) m.update(dt);
+  updateTarget();
+  renderer.render(scene, camera);
+}
+loop();
+</script>
+</body>
+</html>

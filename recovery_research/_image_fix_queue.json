@@ -1,0 +1,350 @@
+[
+  {
+    "stem": "abigail_brand",
+    "mismatches": [
+      "hair color is wrong (expected green, shown white)",
+      "skin color is wrong (expected green, shown human-like)"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "anya",
+    "mismatches": [
+      "gender is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "barracuda",
+    "mismatches": [
+      "skin color / race is wrong",
+      "non-human traits are incorrect"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "bernard_barton",
+    "mismatches": [
+      "defining non-human traits missing"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "betty_ross",
+    "mismatches": [
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "black_fox",
+    "mismatches": [
+      "hair color is grossly wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "bobbi_morse",
+    "mismatches": [
+      "defining non-human trait missing"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "brian_banner",
+    "mismatches": [
+      "gender is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "clint_barton",
+    "mismatches": [
+      "hair color is grossly wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "danielle_cage",
+    "mismatches": [
+      "skin color / race is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "david_haller",
+    "mismatches": [
+      "hair color is grossly wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "frank_castle_jr",
+    "mismatches": [
+      "skin color/race is grossly wrong (expected natural human tone, shown gray or metallic)"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "franklin_richards",
+    "mismatches": [
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "galactus",
+    "mismatches": [
+      "defining non-human traits are missing"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "heather_rand",
+    "mismatches": [
+      "gender is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "jessica_drew",
+    "mismatches": [
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "jonah_jameson",
+    "mismatches": [
+      "hair color"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "kamala_khan",
+    "mismatches": [
+      "signature costume is missing",
+      "powers/non-human traits are missing"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "kurt_marko",
+    "mismatches": [
+      "hair color is missing",
+      "defining non-human trait (hair) is missing"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "leonard_samson",
+    "mismatches": [
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "lilandra_neramani",
+    "mismatches": [
+      "hair color is wrong",
+      "defining non-human trait (feathered crest) is missing"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "lucky_the_pizza_dog",
+    "mismatches": [
+      "defining non-human trait is missing (one-eyed, scarred feature not visible)"
+    ],
+    "locked": true
+  },
+  {
+    "stem": "madelyne_pryor",
+    "mismatches": [
+      "hair color is wrong (expected red, shown white)"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "malcolm_ducasse",
+    "mismatches": [
+      "skin color / race is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "matt_murdock",
+    "mismatches": [
+      "eyes not concealed by solid red opaque lenses"
+    ],
+    "locked": true
+  },
+  {
+    "stem": "mephisto",
+    "mismatches": [
+      "skin color is wrong (expected red, shown pale human-like skin)"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "microchip",
+    "mismatches": [
+      "hair color is wrong (expected black or dark)"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "moira_mactaggert",
+    "mismatches": [
+      "hair color is grossly wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "mystique",
+    "mismatches": [
+      "skin color is wrong",
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "natasha_romanoff",
+    "mismatches": [
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "nathan_summers",
+    "mismatches": [
+      "skin color/race is wrong",
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "odessa_drake",
+    "mismatches": [
+      "hair color"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "orson_randall",
+    "mismatches": [
+      "skin color / race is clearly wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "phoenix_force",
+    "mismatches": [
+      "non-human traits are incorrect or missing (expected a humanoid form, not a bird)"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "rachel_cole_alves",
+    "mismatches": [
+      "gender is wrong",
+      "hair color is grossly wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "red_skull",
+    "mismatches": [
+      "skin color is wrong (expected red, shown gray)"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "remy_lebeau",
+    "mismatches": [
+      "hair color"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "rio_morales",
+    "mismatches": [
+      "does not resemble canonical appearance"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "rogue",
+    "mismatches": [
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "scott_lang",
+    "mismatches": [
+      "costume/powers missing"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "thaddeus_ross",
+    "mismatches": [
+      "costume and powers do not match canonical depiction"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "the_foreigner",
+    "mismatches": [
+      "gender is wrong",
+      "hair color is wrong",
+      "skin color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "the_jones_family",
+    "mismatches": [
+      "skin color is wrong (expected human skin tones, shown non-human skin tones)",
+      "defining non-human traits are unexpected (appear undead/zombie-like)"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "trish_tilby",
+    "mismatches": [
+      "hair color"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "valeria_richards",
+    "mismatches": [
+      "hair color is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "wade_wilson",
+    "mismatches": [
+      "hair color is grossly wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "wendell_rand",
+    "mismatches": [
+      "gender is wrong"
+    ],
+    "locked": false
+  },
+  {
+    "stem": "wonder_man",
+    "mismatches": [
+      "gender is wrong",
+      "hair color is wrong"
+    ],
+    "locked": false
+  }
+]

@@ -4377,7 +4377,7 @@ The file, on the answer to that question, splits.
 — END SECTION 9 —
 
 ## Relationship Graph
-### Cassie Lang
+### [[Cassandra Eleanor Lang (Stature / Stinger)]]
 - The entire emotional ballast of the personality - if this tie threatens, all regulatory systems fail
 - Adoring, guilty, evasive about the parts of his life that would disappoint her
 - Failure mode: she breaks from him over recidivism (Spencer canon); estrangement is the single most destabilizing event possible for him

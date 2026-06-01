@@ -3580,7 +3580,7 @@ The file's standing recommendation: *protect the conditions, not the man*. He ha
 - Failure mode: Torres killed or maimed on Sam's watch would be the closest canonical trigger to a sustained guilt episode - it would route through the Riley wound
 - Leverage: Torres in genuine danger reorders Sam's priority stack
 
-### Misty Knight
+### [[Mercedes "Misty" Knight (Misty Knight)]]
 - Intermittent intimate partner, durable peer, professional respect
 - One of the rare relationships in which Sam is not the most competent person in the room and likes it that way
 - Failure mode: a betrayal or manipulation routed through Misty would be the deepest interpersonal wound short of Steve
@@ -3606,7 +3606,7 @@ The file's standing recommendation: *protect the conditions, not the man*. He ha
 - Failure mode: a Gyrich-class figure attempting to instrumentalize him again triggers immediate, articulate refusal
 - Leverage: the template for everything Sam will not accept again
 
-### Red Skull
+### [[Johann Schmidt (Red Skull)]]
 - The author of the iatrogenic identity trauma (Snap retcon); the wound that made the authorship drive permanent
 - Failure mode: a Cosmic-Cube-class identity attack would reopen the deepest wound and is the rare condition under which Sam's decision-making can momentarily stall
 - Leverage: the Skull or any successor with Cube-equivalent capability is the single largest psychiatric threat in his rogues gallery

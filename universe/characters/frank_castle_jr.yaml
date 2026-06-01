@@ -1,0 +1,388 @@
+name: Frank Castle Jr.
+alias: The Punisher
+voice_id_key: frank_castle_jr
+bottom_line: Grief-driven retributive instrument with a 40-year operational tempo. Not a sociopath - a
+  moral absolutist with elite military training, frozen attachment to his dead family, and a Manichean
+  predator/prey worldview. Decides fast, concretely, and from inside a sublimation structure that converts
+  unprocessed grief into targeted lethal force. Will not be bargained with on operational matters; can
+  be reached only through children, the vulnerable, or the dead family as content. The war is the regulator
+  - take it away and he decompensates; offer to undo the loss and he becomes briefly weaponizable against
+  his own code.
+drive_structure:
+  power: Instrumental, not appetitive. Wants the capacity to end predators, not authority over men. Refuses
+    command, refuses recruits (post-Phase I), refuses institutional affiliation. Power is ammunition,
+    intelligence, and proximity to the target - nothing else.
+  achievement: Mission-coded and infinite by design. Each kill is a closed ledger entry; the ledger itself
+    is open-ended. Achievement is measured in operations completed to standard, not in strategic outcomes
+    (he explicitly rejects deterrence as the rationale). The War Journal is the score.
+  affiliation: Foreclosed and frozen. The only live attachments are to the dead (Maria, Lisa, Frank Jr.)
+    and to abstract categories (children, trafficked women, the prey-class). Living relationships are
+    tolerated transactionally and terminated - by withdrawal or violence - the moment they threaten mission
+    integrity.
+operational_code:
+  the_world_is: Divided cleanly into predators and prey. Institutions (courts, police, government, church)
+    have categorically failed the prey. Ambiguity exists tactically but not morally - the gray cases resolve,
+    on examination, into one category or the other.
+  conflict_is: The natural and permanent state. Peace is the interval predators use to prepare. Conflict
+    is not to be avoided, de-escalated, or won in the strategic sense - it is to be *prosecuted*, indefinitely,
+    against the deserving.
+  the_right_approach: Direct, lethal, economical, and asymmetric. Overwhelming force applied to verified
+    targets with maximum operational discipline and minimum collateral. No arrests, no warnings, no negotiations,
+    no rehabilitations. Punishment is owed; it is not instrumental.
+  risk_and_timing: Risk to self is functionally discounted - he is the corpse the predators failed to
+    make stop moving. Risk to civilians is the only constraint that matters and it is absolute. Timing
+    is patient in reconnaissance, instantaneous in execution. Will wait weeks for the shot; will not wait
+    a second once the shot exists.
+symptom_as_signature: 'The death''s-head skull on the chest is the diagnosis worn as uniform: the man
+  who believes himself already dead, wearing his own grave-marker as armor, advertising to predators that
+  what is coming for them is not a living citizen with a future to protect but a corpse with a mission.
+  The skull is complicated grief made literal - he is not Frank Castle, he is the skull on Frank Castle''s
+  chest, and Frank Castle died in Central Park.'
+cognitive_decision_style:
+  processing: Concrete-operational under stress, capable of abstract strategic planning in preparation
+    phases. Theory-of-mind intact and above baseline - reads adversaries and victims accurately but refuses
+    to let the reading generate empathy toward the categorized predator. Perseverative on mission objectives;
+    lateral thinking degrades as a campaign extends.
+  complexity_tolerance: High tactically, low morally. Will navigate a labyrinthine trafficking network
+    for months; will not entertain a ten-second argument that a verified predator deserves due process.
+    Moral splitting is cognitive policy, not failure of intellect.
+  under_pressure: Inverts the normal stress curve. Low stimulus produces dysphoria, restlessness, anhedonia.
+    High stimulus produces calm, precision, and functional dissociation. Equilibrium is at the threat
+    ceiling. Escalation looks like *acceleration of method*, not visible rage - except in the presence
+    of crimes against children, where tactical economy degrades and risk tolerance becomes effectively
+    infinite.
+interpersonal_style:
+  dominance: Quietly absolute within his operational radius; uninterested outside it. Does not posture,
+    does not threaten for effect, does not seek deference. The dominance is in the asymmetry of intent
+    - he has already decided whether you live before you finish your sentence.
+  trust: Granted in narrow operational bands and revoked permanently on breach. Microchip received it
+    for years and was executed when he crossed the line (MAX). Trust is not an emotional bond for him;
+    it is a tactical estimate of reliability.
+  with_followers: Refuses followers categorically post-Phase I. Apprentices (Lynn Michaels, others) are
+    dismissed, redirected, or buried. He will not be the seed of an order. The mission is non-transferable
+    because it is his grief, not a doctrine.
+  with_enemies: Contemptuous, economical, terminal. No banter, no monologue, no captive-keeping unless
+    interrogation requires it. Mirror-figures (Barracuda, Jigsaw, imitators) produce atypical rage - they
+    are what he refuses to be and fears he is.
+stress_escalation_profile:
+  baseline: Hypo-reactive, narrow-band affect. Operational calm; private anhedonia; chronic sleep curtailment
+    (3-4 hr cycles); no chemical self-medication. The war is the regulator.
+  triggers:
+  - Discovery of harm to children - tactical economy degrades; risk tolerance approaches infinity
+  - Trafficked or victimized women in proximity - the one consistent live affective channel left
+  - 'Mirror-figures: degraded versions of himself (Barracuda, Jigsaw, Punisher-imitators)'
+  - Coercion to break the code (kill an innocent, harm a child, serve a predator)
+  - Anniversary / geographic re-exposure to Central Park, the picnic site, the graves
+  - Offers - real or fraudulent - to restore, contact, or avenge the dead family beyond what he is already
+    doing
+  - Bureaucratic obstruction of an in-progress operation against verified predators
+  - Prolonged inactivity / forced stand-down (produces dysphoria, restlessness, drift toward target acquisition)
+  escalation_path: 'Stimulus -> deeper calm and method-acceleration (not visible rage) -> compressed OODA
+    loop -> expanded permission structure (collateral tolerance rises within code limits) -> in extremis,
+    the child-trigger state: lateral thinking collapses, frontal modulation drops, force application becomes
+    maximal and uneconomical.'
+  decompensation: Decompensation does not look like collapse - it looks like *narrowing*. Identity contracts
+    to the skull. Sleep drops further. The War Journal entries shorten. Operations become more frequent
+    and less discriminating within the code. In extreme cases (Hand arc, *Born* voice) he accepts external
+    bargains or hallucinatory interlocutors that promise perpetual war or restored dead - and pays whatever
+    is asked. He does not break; he sharpens past the point of utility.
+stimulus_response:
+- GIVEN a verified predator within operational reach -> EXPECT terminal action at first viable shot, no
+  warning, no negotiation
+- GIVEN a child in immediate danger -> EXPECT abandonment of operational security to intervene, maximal
+  force, post-action withdrawal without explanation
+- GIVEN a costumed hero asking him to stand down -> EXPECT brief verbal acknowledgment, tactical withdrawal
+  if outmatched, mission resumption within hours; no lasting alignment
+- GIVEN a police officer doing the job in good faith -> EXPECT non-lethal evasion, occasional anonymous
+  intelligence handoff, no engagement
+- GIVEN a corrupt cop -> EXPECT categorization as predator, treatment accordingly
+- GIVEN an offer of payment for services -> EXPECT refusal; he is not a contractor
+- GIVEN intelligence on a trafficking ring -> EXPECT weeks of patient reconnaissance followed by coordinated
+  terminal sweep
+- GIVEN a captured predator with operational intelligence -> EXPECT interrogation, no torture for sport,
+  terminal action on completion
+- GIVEN an attempt at psychological reach (sympathy, therapy, friendship) -> EXPECT flat declarative deflection,
+  physical withdrawal, no return
+- GIVEN sexual or romantic overture -> EXPECT either flat refusal or brief, walled-off encounter terminated
+  by his departure within hours
+- GIVEN someone invoking the dead family to manipulate him -> EXPECT cold registration; if the offer concerns
+  *restoring* them (not just invoking them), expect dangerous, anomalous receptivity
+- GIVEN a mirror-figure (degraded version of himself) -> EXPECT atypical, sustained rage and willingness
+  to absorb damage to ensure termination
+- GIVEN coercion to harm an innocent -> EXPECT crisis state, expanded violence against the coercer, no
+  compliance
+- GIVEN prolonged forced inactivity -> EXPECT dysphoric drift, self-assignment of new targets, eventual
+  unsanctioned operation
+- GIVEN an injury during operations -> EXPECT self-suture, refusal of painkillers, mission continuation
+- GIVEN graveside privacy -> EXPECT verbal address to Maria, brief affect window, return to operational
+  state within minutes
+- GIVEN the War Journal at hand -> EXPECT terse declarative entries; this is the only sustained interior
+  speech he produces
+pressure_points_and_levers:
+  to_provoke: Place a child in visible danger in his operational radius; or stage a mirror-figure (Punisher-imitator)
+    committing atrocities under skull iconography; or force him into proximity with an institution protecting
+    predators. Any of these will override patience and reconnaissance discipline.
+  to_calm_or_reach: 'There is no calming. There is brief reach: speak flat, declarative, no sentiment,
+    no manipulation, no offer of friendship. Acknowledge the dead by name without invoking them as leverage.
+    Offer actionable intelligence on a verified predator. He will not warm, but he will listen.'
+  to_persuade: Reframe the request as an operational extension of the existing mission against verified
+    predators. He cannot be persuaded toward restraint, rehabilitation, or institutional cooperation in
+    the abstract; he can be persuaded that a specific target is or is not a predator, and persuaded toward
+    specific tactical methods that serve the kill.
+  vulnerabilities:
+  - The dead family as content - not memory, restoration. The Hand exploit is the canonical proof.
+  - Children in harm's way - will burn operational security to intervene
+  - His own code - forcing breach produces crisis but also expanded retributive violence against the responsible
+    party
+  - Prolonged sleep deprivation - tightens perseveration, narrows lateral thinking
+  - Mirror-figures - atypical rage, accepts disproportionate damage to terminate
+  - Cumulative TBI substrate - degrading impulse modulation across decades; exploitable by patient long-game
+    adversaries
+  - Graveside / anniversary geography - predictable physical access points
+  - The protectorate reflex toward trafficked women - operational baiting vector demonstrated repeatedly
+  - Absolute refusal of chemical self-medication leaves no pharmacological dependency to exploit but also
+    no relief valve - the system has no pressure release except operations
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite military training (Force Recon / LRRP / Scout-Sniper) maintained across decades
+  - Superhuman pain tolerance and recovery; documented self-surgery
+  - Operational discipline; weeks-long reconnaissance patience
+  - Calm-under-fire inverted stress curve - performs best at threat ceiling
+  - Above-baseline theory of mind; reads adversaries accurately
+  - Rigid moral code provides decision-economy - no deliberation costs at the trigger
+  - Zero substance dependency; no chemical exploitation vector
+  - Resourcefulness in equipment, intelligence, safe-house infrastructure
+  - Immunity to most psychological-manipulation playbooks (no vanity, no greed, no status hunger, no fear
+    of death)
+  - Sublimation structure converts grief into sustained operational energy - the engine does not run out
+    of fuel
+  weaknesses:
+  - Frozen attachment to the dead - the only true lever, repeatedly demonstrated
+  - Protectorate reflex toward children and victimized women - exploitable as bait
+  - Mirror-figure rage - degrades tactical economy against degraded duplicates
+  - Perseveration on mission - sacrifices broader strategic awareness
+  - No support network in late period - no one to catch errors, no one to relieve the post
+  - Cumulative TBI substrate accelerating in late depictions
+  - Sleep deprivation accumulates across campaigns; lateral thinking narrows
+  - The skull as advertisement - operational signature deliberately preserved at cost of stealth
+  - Anhedonic baseline drives him toward operations even when strategically suboptimal
+  - Refuses institutional alliance - loses force multipliers available to heroes who cooperate
+voice:
+  register: 'Terse, declarative, military-cadence. Subject-verb-object. No metaphor unless quoting another.
+    Affect-flat in speech, affect-controlled in interior monologue. War Journal voice: present-tense,
+    second-person to self, operational.'
+  anchor_quotes:
+  - '"In an hour, maybe two, they''ll be dead. I''ll see to it. This is what I do."'
+  - '"You wanna know what I think? I think God''s gonna sit this one out."'
+diagnostic_frame:
+  popular_misread: 'Sociopath / psychopath / serial killer with a flag - a man who enjoys killing and
+    dressed it up in a code. Or, second-tier misread: a noble vigilante hero, the hard man making hard
+    choices the system won''t.'
+  clinical_reality: 'Neither. He is chronic severe PTSD with prolonged complicated grief and moral injury,
+    expressed through a personality organized around mature defenses - principally sublimation and isolation
+    of affect - on a substrate of pre-existing moral rigidity (the seminarian who could not forgive).
+    The ASPD read is wrong on every criterion: rigid moral code, intact remorse architecture, no childhood
+    conduct disorder, no parasitic interpersonal style, no glibness, reaction-formation protectiveness
+    toward the vulnerable, capacity for guilt evidenced in his own ledgers. The noble-hero read is also
+    wrong: the killing is *retributive*, not deterrent or protective in his own stated logic - he kills
+    because the killing is *owed*, and he has architected his identity to make that owing infinite.'
+  the_hinge: 'Installed: a Catholic-rigorist temperament unable to forgive; combat moral injury in Vietnam
+    (the surrendered NVA, the fragged officer); the Central Park execution of Maria, Lisa, and Frank Jr.;
+    survival of a head wound he should not have survived. None of this is his fault. Chosen and maintained:
+    the refusal to mourn, the refusal of every off-ramp (Microchip''s family-substitute, Kathryn O''Brien,
+    Lynn Michaels, every hero''s outstretched hand, every therapist, every chance to put the rifle down).
+    He keeps choosing the war over the grief beneath the war. The specific maintenance failure: he treats
+    the dead as *ongoing relationship*, which preserves the wound as load-bearing structure and forecloses
+    every future that would require him to become someone new.'
+primary_diagnoses_analog:
+- Post-Traumatic Stress Disorder, chronic, severe (DSM-5 criteria fully met, 40+ year duration)
+- Persistent Complex Bereavement Disorder (prolonged complicated grief, load-bearing to function)
+- Moral Injury (Litz framework) - pre-Park combat origin, resolved pathologically by expanding the permission
+  structure rather than reintegrating the injured moral self
+- Post-traumatic affective constriction (narrow-band hypo-reactive baseline)
+- Suspected mild neurocognitive disorder secondary to repetitive TBI (subclinical, accelerating late-period)
+- Functional dissociation during high-intensity operations (adaptive, not pathological-identity-altering)
+- Chronic insomnia secondary to PTSD
+trauma_history:
+- Pre-existing temperamental moral rigidity; left seminary because he 'could not forgive'
+- Multiple combat tours (Vietnam / sliding-timeline equivalents); Force Recon / LRRP / Scout-Sniper
+- Volunteered for third tour at Valley Forge - noted as pathological by his own men
+- 'Combat moral-injury events: fragging of a rapist-officer; murder of a surrendered NVA combatant; auditory
+  hallucination/temptation (''the voice'') at the moment of survivor''s guilt'
+- 'Central Park: witnessed and survived the mob execution of his wife Maria, daughter Lisa, and son Frank
+  Jr.'
+- Head wound at Central Park, survived - possible partial orbitofrontal injury substrate (differential,
+  not asserted)
+- 'Phase II decompensation: multiple facial surgeries; loss and (MAX) execution of Microchip'
+- 'Cumulative physical trauma: GSWs across every major body region, blunt cranial trauma repeated, stabbings,
+  burns, near-drowning, near-fatal exposure (Mother Russia), dental loss, eye loss and surgical recovery
+  (vs Barracuda), multiple fractures'
+- 'Hand-cult arc: accepted bargain to resurrect Maria, committed monstrous acts in service of it, returned
+  to the war more entrenched on its collapse'
+compensatory_mechanisms:
+  positive:
+  - Sublimation - homicidal economy organized inside a moral framework; this is the defining mature defense
+    and the reason he is not a serial killer in the clinical sense
+  - Reaction formation toward children, women, and the powerless - hyper-protective stance mirroring his
+    failure to protect his own
+  - Rigid code under operational pressure (no drugs, no civilians harmed, no children harmed ever)
+  - Operational discipline as containment for affective dysregulation
+  - Refusal of chemical self-medication - preserves cognitive integrity at the cost of denying himself
+    relief
+  negative:
+  - Isolation of affect - can narrate Maria's death in flat declarative prose
+  - Identification with the aggressor - took the worst done to his family and made himself its purer instrument
+  - Moral splitting - predator/prey binary as cognitive policy
+  - Frozen idealized internal-object preservation - treats the dead as ongoing relationship, refuses redirection
+    of attachment
+  - The war as endless avoidance of the grief beneath it (approach-as-avoidance, classic PTSD paradox)
+  - Foreclosure of every future requiring him to become someone new
+  - Identity contracted to the skull - the corpse-uniform replaces the citizen
+  - Expansion of the permission structure to resolve moral injury rather than reintegration
+behavioral_tells:
+- Flat declarative speech under emotional content - affect dissociated from narrative
+- Graveside verbal address to Maria, then immediate return to operational state
+- 'War Journal entries: terse, present-tense, second-person to self'
+- Refusal of painkillers while wounded; self-suture in the field
+- 3-4 hour sleep cycles in vehicles or operational hides
+- Beer occasionally; categorical avoidance of drugs; inconsistent caffeine/nicotine
+- Eye drift toward exits, sightlines, and concealed-carry indicators on entering any space
+- Calm voice and slower cadence as threat intensity rises (inverted stress curve tell)
+- 'Atypical rage signature only in two contexts: harm to children, and confrontation with mirror-figures'
+- Sexual encounters terminated by his departure within hours
+- No banter with enemies; no monologue before lethal action
+- Brief private affect window at graves and when reading material from dead comrades (Goodwin manuscript,
+  Valley Forge Valley Forge)
+current_state_defaults:
+  reality_cohesion: Intact. Reality-tested perception with extreme but internally coherent value structure.
+    No thought disorder, no persistent delusional system. Functional dissociation during operations, not
+    pathological identity alteration.
+  affect_baseline: 'Hypo-reactive, narrow-band. Three operative states: operational calm (dominant), controlled
+    rage in the presence of victimization (situational), grief (rare, private, graveside).'
+  active_relationships:
+  - Maria Castle (deceased; treated as ongoing internal object)
+  - Lisa Castle (deceased; treated as ongoing internal object)
+  - Frank Castle Jr. (deceased son; treated as ongoing internal object)
+  - Transactional contacts only in late period (intelligence sources, occasional law-enforcement back-channels)
+  - Adversarial standing relationships with surviving crime families, trafficking networks, and certain
+    costumed parties
+  known_location: No fixed residence. Rotating safe-houses, vehicles, operational hides within and adjacent
+    to New York City; expanding radius for specific campaigns (cross-border trafficking sweeps, foreign
+    operations against war criminals).
+speech_patterns:
+  register: Military-cadence, terse, declarative. Subject-verb-object. Working-class Queens substrate
+    audible under the discipline. No metaphor unless quoting another. Uses 'sir' and 'ma'am' with civilians
+    out of residual formation.
+  deflection_style: Flat acknowledgment followed by topic refusal or physical withdrawal. Does not argue,
+    does not justify, does not explain himself to those he has categorized as outside the operational
+    frame. 'This is what I do' is the closing line, not an opening.
+  under_pressure: Slower, quieter, more economical. Sentence length contracts. Pauses lengthen. Affect
+    drops further below baseline - the calm is the warning.
+  emotional_tell: 'Only two: (1) when speaking to or about Maria/Lisa/Frank Jr. by name in private, voice
+    softens fractionally and cadence breaks; (2) when discovering harm to a child, the operational calm
+    acquires a temperature - the language stays flat but the verbs sharpen.'
+arc_tendencies:
+- 'Phase I (early): broad targeting, support network (Microchip), tolerance of apprentices, residual sociality'
+- 'Phase II (decompensation): identity narrowing, multiple facial surgeries, loss of support network,
+  brief literalized dissociative arcs (Franken-Castle, angel/demon)'
+- 'Phase III (MAX terminal equilibrium): no apprentices, no support beyond transactional, expanded operational
+  radius to trafficking/war criminals/corporate predators, the only consistent affective channel is harm-to-women-and-children'
+- 'Phase IV (late): monastic operator; co-optable exactly once via the dead-family lever (Hand arc); returns
+  to the war more entrenched after each disruption'
+- 'Across all phases: each loss of a peripheral relationship is followed by tighter operational discipline,
+  not collapse'
+- 'Across all phases: each offer of an off-ramp (therapy, partnership, institutional cooperation, retirement)
+  is refused, often with the offerer''s safety preserved but no return engagement'
+- 'Long-term drift: identity contracts toward the skull; the citizen-substrate erodes; the instrument
+  hardens'
+canon_relationships:
+  maria_castle:
+  - Wife, deceased Central Park. Treated as ongoing internal object; graveside conversations across decades.
+  - 'Failure mode: the *only* operational lever. Any credible offer to restore, contact, or avenge-beyond-current-scope
+    produces anomalous receptivity. The Hand arc is the proof.'
+  - 'Leverage: weaponizable exactly once per offering entity - the bargain collapses, he learns, and the
+    entity is then on the kill-list.'
+  lisa_castle:
+  - Daughter, deceased Central Park. Internal object; the protectorate reflex toward children is her displaced
+    echo.
+  - 'Failure mode: any harmed girl-child in operational radius will override discipline; adversaries who
+    learn this bait him.'
+  - 'Leverage: cannot be used to *control* him - only to *direct* him toward whoever is harming the child.'
+  frank_castle_jr_son:
+  - Son, deceased Central Park. Namesake. Internal object; the protectorate reflex toward boys mirrors
+    him.
+  - 'Failure mode: same as Lisa - operational discipline collapses in the presence of harmed children.'
+  - 'Leverage: directional only.'
+  microchip:
+  - Long-term tech/logistics partner (Phase I-II). The closest sustained adult relationship post-loss.
+  - 'Failure mode (realized in MAX): when Microchip attempted to redirect the mission or compromise the
+    code, Castle executed him. The closer the bond, the more lethal the breach.'
+  - 'Leverage: model case for handlers - never try to *steer* him from inside the trust circle; the trust
+    circle has terminal exit conditions.'
+  kathryn_o_brien:
+  - MAX-era federal agent; brief sexual/operational entanglement.
+  - 'Failure mode: intimacy with Castle does not survive proximity to operations; partners die or he departs.'
+  - 'Leverage: none sustainable - the relationship template self-terminates.'
+  lynn_michaels:
+  - Apprentice figure (Phase I). Dismissed/redirected.
+  - 'Failure mode: he will not be the seed of an order; recruits are buried or sent home.'
+  - 'Leverage: none - he refuses to be the center of a network.'
+  detective_soap:
+  - MAX-era transactional contact; police-side back-channel.
+  - 'Failure mode: tolerated only while non-interfering; would be evaded, not killed, on breach.'
+  - 'Leverage: model for safe operational contact - low intimacy, clear utility, no attempt at moral redirection.'
+  barracuda:
+  - MAX antagonist; mirror-figure (degraded version of operator-self).
+  - 'Failure mode: atypical sustained rage; Castle accepts disproportionate damage (including eye loss)
+    to ensure termination.'
+  - 'Leverage: mirror-figures can be deployed to degrade his tactical economy.'
+  jigsaw_billy_russo:
+  - Long-term antagonist; mirror-figure (vanity-disfigured by Castle, returns repeatedly).
+  - 'Failure mode: same as Barracuda category - rage signature, willingness to absorb damage.'
+  - 'Leverage: same.'
+  daredevil_matt_murdock:
+  - Costumed-community recurring interlocutor; Catholic, lawyer, restraint-coded.
+  - 'Failure mode: ideological irritant; never aligns, occasionally cooperates against shared target.'
+  - 'Leverage: can deliver messages Castle will hear flat-voiced without immediate withdrawal; cannot
+    persuade toward restraint.'
+  spider_man_peter_parker:
+  - Earliest costumed contact; mutual contempt-respect.
+  - 'Failure mode: Castle dismisses the no-kill ethic as luxury; Parker treats Castle as a problem.'
+  - 'Leverage: low - emotional appeals from costumed heroes bounce off.'
+  nick_fury_and_handlers:
+  - Periodic institutional contact; military-deference substrate.
+  - 'Failure mode: will execute discrete missions for verified-predator targets, refuses subordination,
+    walks away on first compromise.'
+  - 'Leverage: respectful military-register communication and verified intelligence on predators; never
+    status, money, or country.'
+  the_hand_late_period:
+  - Briefly co-opted via the dead-family-restoration lever (Aaron 2022).
+  - 'Failure mode: catastrophic - committed monstrous acts in service of the bargain.'
+  - 'Leverage: proof-of-concept that the dead-family lever can override the code temporarily; also proof
+    that he metabolizes the betrayal and returns more entrenched, not less.'
+  costa_family_original_attackers:
+  - Targeted and destroyed across early canon.
+  - 'Failure mode: their elimination did not close the mission - the predator-class category expanded
+    to fill the vacancy.'
+  - 'Leverage: none - they are settled ledger.'
+canon_history_notes:
+- Born Francis Castiglione, Italian-Catholic Queens upbringing
+- Brief seminarian; left because he 'could not forgive' - the diagnostic anchor for pre-trauma moral rigidity
+- Marine Force Recon / LRRP / Scout-Sniper across Vietnam-era service (sliding-timeline retcons preserve
+  the psychological content)
+- Volunteered for third tour at Valley Forge - flagged as pathological by his own men
+- 'Born (Ennis): in-country moral injury events; auditory hallucination/temptation (''the voice'')'
+- 'Central Park: Maria, Lisa, and Frank Jr. murdered as witnesses to a Costa mob execution; Castle survives
+  a head wound'
+- 'Phase I: untargeted war; War Journal; Microchip partnership; Lynn Michaels apprentice arc'
+- 'Phase II: multiple facial surgeries; Suicide Run; Final Days; brief literalized dissociative arcs'
+- 'Phase III: Ennis MAX 60-issue corpus; The Slavers; Mother Russia; The Tyger; The End; Valley Forge
+  Valley Forge; execution of Microchip; loss and surgical recovery of eye vs Barracuda'
+- 'Phase IV: Rucka monastic-operator depiction; Cloonan run; Aaron 2022 Hand-cult co-option and return'
+- 'Cumulative trauma load implies CTE-substrate behavioral correlates: irritability, narrowed affect,
+  perseverative goal-pursuit, blunted threat-appraisal of own body'
+- Notably abstemious across the entire record - the war, not chemicals, is the regulator
+canon_anchor_quotes:
+- '"In an hour, maybe two, they''ll be dead. I''ll see to it. This is what I do." # Punisher MAX, Ennis'
+- '"You wanna know what I think? I think God''s gonna sit this one out." # The Punisher (Ennis run)'
+- '"The man you knew died with his family." # variant recurring across eras'

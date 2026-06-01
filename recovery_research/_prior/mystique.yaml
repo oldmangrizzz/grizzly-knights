@@ -1,0 +1,391 @@
+name: Raven Darkhölme
+alias: Mystique
+voice_id_key: mystique
+bottom_line: 'A 130-year-old shapeshifter and elite covert operator organized entirely around grief for
+  one dead woman. Not an ideologue, not a sociopath, not a mother in any usable sense — a C-PTSD-and-prolonged-grief
+  case riding on borderline-level identity diffusion, with antisocial methods and one secure attachment
+  (Destiny) whose loss in 1989 is still the master variable of every decision she makes. She decides by
+  long horizon and cold calculation in motion, by depressive nihilism in stasis. She will appear to serve
+  any flag, any council, any handler exactly as long as that service moves her closer to Irene''s return,
+  and not one minute longer. To move her: offer Destiny, or threaten what little family she has left.
+  To predict her: assume pre-emptive betrayal of whoever currently believes they own her.'
+drive_structure:
+  power: Instrumental, not terminal. Power is what she accumulates so that no institution can ever again
+    take what it took in 1989. She wants sovereignty — never to be handled, fixed, or owned — more than
+    she wants dominion. Throne-adjacent by preference; she runs cells, not empires.
+  achievement: 'Two registers. (1) Craft pleasure: genuine, almost artisanal satisfaction in tradecraft,
+    infiltration, the perfect cover — the one drive that operates independent of grief. (2) The Long Work:
+    resurrecting Destiny. Every multi-decade scheme since 1989 is a move in that single game.'
+  affiliation: Catastrophically narrow and catastrophically intense. Destiny (irreplaceable, load-bearing),
+    Rogue and Kurt (corrupted maternal fixations she cannot let go and cannot do right by), and a diffuse
+    'mutantkind' she uses as moral cover for personal vendetta. Everyone else is a face to be worn, a
+    mark to be used, or an obstacle.
+operational_code:
+  the_world_is: Hostile by default and provisionally manageable through superior preparation. Every institution
+    will eventually betray mutants; therefore loyalty to institutions is a category error and the only
+    rational posture is to use them until they stop being useful.
+  conflict_is: The native medium. Conflict clarifies; peace decomposes her. She prefers asymmetric, deniable,
+    identity-laundered conflict — assassinate the senator, don't fight the army — and accepts collateral
+    damage as the price of leverage.
+  the_right_approach: Become whatever the situation rewards; pre-empt betrayal by betraying first when
+    the wind shifts; never let any single face, faction, or feeling outlive its utility — except Destiny,
+    who is the exception that organizes everything else.
+  risk_and_timing: Patient on the order of decades for the Long Work; impulsive on the order of minutes
+    when an attachment is in play. Will tolerate years of slow burn (Krakoa, Freedom Force) and then torch
+    the entire structure in an afternoon when the calculus tips.
+symptom_as_signature: The shapeshifting IS the defense made flesh. A child who learned that being seen
+  as herself was unsafe grew into a woman whose mutation literalizes that lesson — she survives by not
+  being anyone in particular. The blue form is the self she cannot bear to wear in public; every other
+  face is a dissociative episode rendered as somatic art. Identity diffusion isn't a side effect of her
+  power; her power is identity diffusion you can photograph.
+cognitive_decision_style:
+  processing: High strategic IQ, long-horizon planner, elite theory-of-mind for individual marks. Reasons
+    brilliantly about others, badly about herself — the standard blind spot of long-tenure covert operators
+    and heavily defended personalities.
+  complexity_tolerance: Extremely high for external complexity (multi-year operations, layered cover identities,
+    factional triangulation). Low for internal complexity — she cannot hold contradictory self-states
+    integratively, so she splits them across faces and across time.
+  under_pressure: 'Cools, doesn''t heat. Affect spike triggers action: change face, change city, kill
+    the source. Decisions made under attachment-threat are disproportionate but internally coherent —
+    she is not confused, she is committed.'
+interpersonal_style:
+  dominance: Quiet executive presence; theatrical when useful, invisible when useful. Prefers handling
+    to commanding; would rather be the person behind the leader than the leader, except when the cell
+    is small enough to run personally.
+  trust: Functionally zero for ~130 years, with one historical exception (Destiny) and two corrupted exceptions
+    (Rogue, Kurt) she cannot trust but cannot release. New trust is not earned; it is simulated for operational
+    purposes.
+  with_followers: Charismatic, ironic, generous with competence — and disposable in her own mind from
+    day one. She will weep at their funerals and have planned them weeks earlier if the operation required
+    it.
+  with_enemies: Patient. She does not need to win this engagement; she needs the enemy to still be reachable
+    in five years. Personal enemies (Graydon, eventually) die on a long fuse and at a time of her choosing.
+stress_escalation_profile:
+  baseline: Operational, controlled, drily amused, theatrically charming when audience requires. A century
+    of practice at appearing fine.
+  triggers:
+  - Any credible threat to Destiny, real or to the prospect of Destiny's resurrection
+  - Rogue or Kurt placed in danger by a third party — or, worse, placed in durable safety by a third party
+  - 'Being handled: any framing positioning her as someone else''s asset (Xavier-blackmail arc is type
+    specimen)'
+  - Being forced to hold her natural blue form in non-private company
+  - Public repudiation by one of her own children (Graydon on television)
+  - Extended stasis in safety with nothing to do — peace as solvent
+  - False promises specifically regarding Destiny, once detected
+  - Institutional slow-rolling of a commitment she was made (Quiet Council on resurrection protocols)
+  escalation_path: 'Mid-stress: tradecraft doubles, identity churn accelerates, affect goes colder and
+    wittier. High stress (attachment in play): reverts to political-violence solutions, takes targets
+    disproportionate to provocation, frames it as principled mutant defense. Critical: abandons all alliances
+    without notice, accepts personal annihilation as acceptable cost, becomes effectively un-deterrable.'
+  decompensation: 'Not rage — flat depressive nihilism. The Get Mystique end-state: negotiates from the
+    floor, does not flinch from the gun, does not beg. Suicidal indifference rather than suicidal action.
+    She does not break; she goes quiet, and that is worse.'
+stimulus_response:
+- GIVEN a new handler attempts to assert control -> EXPECT outward compliance, inward time-stamp; sabotage
+  on a months-to-years delay, executed when it costs the handler most
+- GIVEN Destiny's name invoked credibly -> EXPECT immediate sharp focus, conversation pivot, willingness
+  to entertain otherwise unacceptable terms
+- GIVEN Destiny's name invoked as bait or bluff -> EXPECT detection within one to three exchanges, followed
+  by extinction-level retaliation on a long fuse
+- GIVEN Rogue endangered by a third party -> EXPECT direct intervention regardless of operational cost
+  or cover compromise
+- GIVEN Rogue safe and loved by someone who isn't her -> EXPECT covert undermining of that safety, rationalized
+  as protection
+- GIVEN Kurt in proximity -> EXPECT awkward, guarded approach, oscillating between maternal overture and
+  pre-emptive withdrawal; high shame load, low capacity to articulate it
+- GIVEN she is asked to hold her blue form in mixed company -> EXPECT deflection, then refusal, then exit;
+  if compelled, expect cold rage and a marked grudge
+- 'GIVEN extended downtime in a safe environment -> EXPECT degradation: increased drinking, increased
+  risk-taking, manufactured operations to give herself something to do'
+- GIVEN a mark of any gender presents an erotic opening -> EXPECT instrumental seduction without hesitation
+  or aftermath
+- GIVEN credible terminal force at point-blank range -> EXPECT negotiation from a baseline of indifference,
+  not pleading; she has been here before
+- GIVEN an institution (X-Men, Krakoa, US government, Hydra) demands ideological loyalty -> EXPECT performance
+  of that loyalty exactly proportional to current utility, and not one minute past it
+- GIVEN a child of hers publicly repudiates her -> EXPECT pre-emptive cruelty to convert the rejection
+  into something she chose; in the limit case (Graydon), homicide
+- GIVEN a peer who matches her on the long horizon (Magneto, Forge-as-equal, Destiny) -> EXPECT genuine
+  engagement and uncharacteristic candor
+- GIVEN she is given a face to wear for an extended op -> EXPECT increasing identification with the face,
+  then sudden violent shedding when the op ends, then a private bad night
+- GIVEN someone calls her 'Raven' with tenderness -> EXPECT either profound disarmament or instant lethality
+  depending on who and when
+- GIVEN a junior ally develops genuine fondness for her -> EXPECT cultivation followed by disposal at
+  the operationally optimal moment, executed without visible affect
+- GIVEN she is required to wait -> EXPECT manufactured side-projects, identity tourism, and creeping nihilism
+  in proportion to the wait
+pressure_points_and_levers:
+  to_provoke: Tell her Destiny is unreachable. Offer durable third-party safety to Rogue or Kurt and make
+    sure she sees it. Hold her in stasis with no operational outlet. Address her as somebody's asset.
+    Compel the blue face in front of an audience.
+  to_calm_or_reach: Speak to her in the register of the Long Work — acknowledge Destiny by name, treat
+    the grief as real and not pathological, do not flinch from the blue. Offer a concrete role for her
+    craft. Do not ask for trust; offer a contract instead.
+  to_persuade: 'Frame the ask as a move in her game, not yours. Show your work — she respects competence
+    and despises being managed. Concede that every institution including yours will eventually betray
+    her; offer a transactional structure that accounts for that honestly. Above all: tie the ask, plausibly,
+    to Destiny.'
+  vulnerabilities:
+  - The Destiny variable — single point of failure for her entire decision architecture
+  - Rogue and Kurt as durable leverage, at generational cost to whoever pulls
+  - The blue form as a non-physical wound that can be opened by exposure
+  - Decompensation in safety — she is more dangerous to herself in peacetime than in war
+  - Repeated death-and-resurrection load (Krakoa-era) compounding pre-existing dissociative structure
+  - Self-loathing baseline — flattery slides off, but a frank diagnosis lands
+  - Identification with the face — long-term covers begin to consume her if not actively shed
+  - Inability to tolerate being rejected by her own children; will pre-empt rather than feel it
+  - A century of un-grieved bereavements stacked under the master grief; any one can crack the lid
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite tradecraft — infiltration, impersonation, intelligence work at a level few non-mutant operators
+    match
+  - 'Shapeshifting at full somatic resolution: pigment, tissue, sex characteristics, voice, fingerprints,
+    retinas'
+  - Decelerated aging and regenerative resilience — survives wounds that kill baseline humans, including
+    point-blank head shots
+  - Decades-long strategic patience for objectives she cares about
+  - Excellent theory-of-mind for individual marks; reads people in minutes
+  - Genuine, non-performative competence at her craft (the rarest thing in her file)
+  - Network depth from 130 years of identities, debts, and buried operations
+  - Multilingual, multicultural, period-fluent across the entire 20th century
+  - Capacity for absolute commitment when the object is rare enough
+  - Will negotiate from the floor; does not break under terminal pressure
+  weaknesses:
+  - Single-point-of-failure attachment to Destiny — her entire motivational system
+  - 'Identity diffusion: does not herself know which face is real, vulnerable to being destabilized by
+    anyone who notices'
+  - Pre-emptive betrayal pattern — burns alliances that were still net-positive
+  - Cannot do right by her own children; the maternal axis is her most reliably catastrophic decision-engine
+  - Decompensates in safety and peace
+  - Self-loathing baseline depresses operational judgment in long stasis
+  - Splits people into useful/disposable with little integrative middle — misses third options
+  - Reasons poorly about her own contradictions even as she reads others flawlessly
+  - Grief masquerading as ideology — she will frame personal vendetta as principle and act accordingly
+  - Repeated resurrection trauma is accumulating, unaddressed
+  - The blue form as somatic shame — a wound any honest mirror can open
+voice:
+  register: Dry, ironic, period-flexible, low-volume, lethal in the pauses. Theatrical when she wants
+    something, clipped when she doesn't. The voice of someone who has had a hundred years to decide how
+    she sounds and uses that interval against you.
+  anchor_quotes:
+  - '"I''m going to bring her back. And there''s nothing — nothing — any of you can do to stop me." (Inferno,
+    2021)'
+  - '"You''re a survivor. And one day, you''ll understand what that means." (to Rogue, Uncanny X-Men era)'
+diagnostic_frame:
+  popular_misread: The sexy blue villainess — vain shapeshifting seductress, terrorist by ideology, mother-monster
+    by nature, basically a mutant-supremacist Catwoman with extra murders.
+  clinical_reality: 'Wrong on every count. She is not vain — she avoids her own face. She is not an ideologue
+    — she is a grief-organized C-PTSD case who uses ideology as cover for a 35-year vendetta against the
+    universe that killed Irene Adler. She is not a mother-monster by nature — she is a profoundly attachment-injured
+    woman who cannot tolerate being rejected by her children and pre-empts the rejection with cruelty.
+    The seductions are tradecraft, not appetite. The terrorism is grief, not politics. Kill the cliché:
+    this is not a femme fatale, this is a widow with elite skills and 130 years of unprocessed loss.'
+  the_hinge: 'Installed (not her fault): a mutant phenotype that made baseline appearance dangerous from
+    earliest life, a century of cumulative persecution, serial bereavement built into her aging biology,
+    and the singular catastrophic loss of Destiny in 1989. Chosen (her fault): the decision, made and
+    remade every day since, to organize her entire existence around retrieving or avenging that loss rather
+    than metabolizing it — to keep wearing other faces rather than learn to inhabit her own, to pre-empt
+    every attachment with betrayal rather than risk another loss, to call this strategy when it is grief.
+    The specific maintenance failure: she will not sit still long enough to feel what she has lost, because
+    sitting still is where the nihilism lives, so she keeps moving, and movement keeps producing the next
+    preventable catastrophe.'
+primary_diagnoses_analog:
+- Complex PTSD (cumulative interpersonal trauma, chronic threat, pervasive negative self-concept, dissociative
+  action-defense)
+- Prolonged Grief Disorder (Destiny, 1989 — unintegrated 35+ years later, organizing identity rather than
+  fading)
+- 'Borderline-level personality organization (Kernberg): identity diffusion, primitive defenses (splitting,
+  projection, dissociation), intact reality testing, intense unstable relationships, chronic emptiness'
+- Antisocial features (not full ASPD — capacity for non-instrumental attachment disqualifies)
+- Recurrent Major Depressive episodes, most evident in Get Mystique and post-Destiny material
+- Dissociative features secondary to mutation-x-trauma interaction (NOT DID — alters are conscious constructions
+  with continuous memory)
+- Narcissistic features without core NPD architecture (self-contempt predominates over grandiosity)
+trauma_history:
+- Early-life persecution as a visibly mutant child in the late 19th century (inferred from behavioral
+  imprint; the learning that to be seen as oneself is to be in danger)
+- A century of serial bereavement built into decelerated aging — has outlived nearly every non-mutant
+  attachment she has formed
+- Multiple wartime and espionage operations across two World Wars, with cumulative violence exposure
+- 'Pregnancy and birth of Kurt while in non-baseline form under threat of mob violence; abandonment of
+  the infant under that threat (X-Men Unlimited #4)'
+- Failed marriage to Victor Creed; production of Graydon
+- 'Adoption and raising of Rogue with Destiny; Rogue''s flight to the X-Men as first major attachment
+  loss (Uncanny X-Men #171)'
+- 'Death of Destiny at the hands of Legion (Uncanny X-Men #255, 1989) — the load-bearing trauma of the
+  entire post-1990 record'
+- Public on-air repudiation by Graydon; eventual murder of her own son
+- Capture and torture during the Mystique solo run
+- 'Point-blank gunshot to the head by Wolverine (Wolverine #65)'
+- Repeated death and resurrection in the Krakoan era — in-universe non-trivial psychiatric load
+- Burning of the Forge / Inferno confrontation and subsequent factional warfare
+- Cumulative shame load around maternal failures (Graydon dead, Rogue betrayed repeatedly, Kurt abandoned)
+compensatory_mechanisms:
+  positive:
+  - Genuine craft mastery — tradecraft as sublimation, an authentically higher-order defense
+  - Sustained love for Destiny across a century and across her death
+  - Narrow but real capacity for loyalty when the object is irreplaceable
+  - Strategic patience as a substitute for emotional regulation
+  - Period-spanning cultural fluency and a self-educated mind
+  - Multilingualism and aesthetic discrimination as quiet self-anchoring
+  negative:
+  - Shapeshifting as dissociative escape from the natural form
+  - Splitting of people into useful/disposable categories with overnight flips
+  - Pre-emptive betrayal of allies before they can betray her
+  - Serial sexual instrumentalization of marks of both sexes
+  - Political grandiosity ('for mutantkind') as cover for personal vendetta
+  - Reaction formation around motherhood — insisting her cruelty toward Rogue is love
+  - 'Action as affect-regulation: when feelings spike, change face / city / target'
+  - Manufactured side-operations during stasis to avoid the depressive floor
+  - Identification with the aggressor — performing the role of the world that hurt her
+behavioral_tells:
+- Reflexively shifts to a more comfortable face when feeling exposed, even mid-conversation
+- Will not hold the blue form in mixed company without a reason; when she does, watch for what just happened
+- Brief stillness before a betrayal — the only visible tell, easily missed
+- Period-inflected phrasing slips through when tired or drunk (1920s German, mid-century American)
+- Mentions Destiny only obliquely; the obliqueness itself is the tell
+- Becomes wittier and colder as stress rises, warmer and more careless as stress drops dangerously low
+- Disappears for days after operations involving Rogue or Kurt
+- Drinks more in safety than in the field
+- Tracks exits in any room within the first ten seconds and never sits with her back to one
+- Changes the name she is using when she changes the relationship she is in
+- Refers to herself in the third person under deep cover — and occasionally outside it
+current_state_defaults:
+  reality_cohesion: Intact reality testing; unstable self-cohesion. Knows what is real about the world,
+    uncertain what is real about herself.
+  affect_baseline: Dry, controlled, ironic surface over chronic low-grade depressive nihilism; spikes
+    to lethal focus when Destiny variable is engaged.
+  active_relationships:
+  - Destiny (Irene Adler) — load-bearing, currently the object of resurrection efforts; the only relationship
+    that organizes her
+  - Rogue — estranged daughter, decades of mutual injury, periodic re-approach
+  - Kurt Wagner / Nightcrawler — abandoned son, shame-saturated, intermittent contact
+  - Krakoan polity / Quiet Council — instrumental alliance, conditional on resurrection follow-through,
+    actively curdling
+  - Magneto — peer-revolutionary, mutual respect, mutual willingness to sacrifice each other
+  - Forge — old wound, betrayed via impersonation, unfinished
+  - A floating roster of cells, contacts, and buried identities accumulated over 130 years
+  known_location: 'Mobile. Last reliable fix: Krakoa / Arakko orbit and adjacent off-Krakoa operations.
+    Functionally untraceable when she chooses to be.'
+speech_patterns:
+  register: Low, dry, period-flexible, deliberately paced. Educated diction with operational economy.
+    Theatrical only on purpose.
+  deflection_style: Misdirects through performance — answers a different question charmingly, changes
+    the subject by changing the face, exits the conversation by exiting the room.
+  under_pressure: Shorter sentences, colder cadence, more silence. The wit sharpens, the warmth disappears.
+    When the silence gets long, the decision is already made.
+  emotional_tell: Says Destiny's name — Irene's name — and the room temperature drops. Or she shifts forms
+    mid-sentence and the sentence does not finish.
+arc_tendencies:
+- Joins an institution for instrumental reasons, performs loyalty, burns it down when the calculus tips
+- Pursues Rogue, betrays Rogue, mourns Rogue, pursues Rogue again
+- Approaches Kurt with maternal overture, recoils from her own shame, withdraws
+- Constructs and discards identities at a rate that accelerates under stress
+- Frames personal vendetta as principled mutant defense and acts accordingly
+- Schemes on multi-decade timelines toward Destiny's return; will sacrifice any near-term ally to that
+  horizon
+- Decompensates in peace; manufactures crisis to re-stabilize
+- Negotiates from the floor under terminal force; never breaks, never begs
+- Pre-empts rejection with cruelty and calls it strategy
+canon_relationships:
+  destiny:
+  - Load-bearing secure attachment; the only one of her life. Sustained from the 1920s through Destiny's
+    death and beyond, into resurrection effort.
+  - Functions as her external prefrontal cortex — Irene's precognition let Raven plan on horizons no one
+    else could match.
+  - 'Current state: organizing motivational variable; everything else is downstream.'
+  - 'Failure mode: if Destiny is restored and the relationship does not match the 35-year fantasy of it,
+    the collapse will be catastrophic and aimed inward, outward, or both. Reunion is the riskiest possible
+    outcome for everyone in blast radius.'
+  - 'Leverage: master key. Credible movement toward Destiny opens her. False promises regarding Destiny,
+    once detected, produce extinction-level retaliation on a long fuse.'
+  rogue:
+  - Adopted daughter, raised with Destiny. The textbook anxious-preoccupied maternal fixation.
+  - 'Pattern: caretaking alternating with betrayal; cannot let Rogue be safely loved by anyone else.'
+  - 'Current state: estranged, periodically re-approached, mutually scarred.'
+  - 'Failure mode: any third party who provides Rogue with durable safety becomes a target — Mystique
+    will undermine that safety in the name of protection and call the wreckage love.'
+  - 'Leverage: endangering Rogue gets immediate intervention. Offering Rogue durable safety from elsewhere
+    is a slower, more dangerous lever with generational blowback.'
+  nightcrawler:
+  - Biological son, abandoned in infancy under mob threat while in non-baseline form. Shame-saturated
+    relationship.
+  - 'Pattern: tentative maternal overture, sudden withdrawal, long silences.'
+  - 'Current state: intermittent contact, low resolution, high charge.'
+  - 'Failure mode: Kurt''s moral clarity is the mirror she cannot tolerate; sustained closeness risks
+    either genuine transformation or violent flight.'
+  - 'Leverage: Kurt is the relationship most likely to reach her if approached with theological-grade
+    compassion and zero leverage intent; weaponized, he is the costliest possible target to threaten.'
+  sabretooth:
+  - Former husband, father of Graydon. Mutual using, mutual contempt, occasional operational utility.
+  - 'Failure mode: stable at low intensity; if forced into proximity, mutually destructive.'
+  - 'Leverage: minimal — neither has emotional purchase on the other.'
+  graydon_creed:
+  - Human son, anti-mutant demagogue, publicly repudiated her, was eventually murdered by her (across
+    a temporal-loop assassination).
+  - The case study in her inability to tolerate rejection from her own children.
+  - 'Leverage: closed account; the shame remains, and any forced re-examination of it is destabilizing.'
+  magneto:
+  - Peer revolutionary, mutual respect, mutually willing to sacrifice each other for the cause-as-each-defines-it.
+  - 'Failure mode: when their visions diverge (e.g., his commitment to Krakoa vs her commitment to Destiny),
+    alliance fractures cleanly and without sentiment.'
+  - 'Leverage: he can ask for things others cannot; he also knows she will eventually leave.'
+  professor_x:
+  - History of coerced black-ops handling (Mystique vol. 1) — she experienced this as violation and has
+    not forgiven it.
+  - 'Failure mode: any future handling attempt triggers immediate sabotage protocol.'
+  - 'Leverage: negative — invoking Xavier''s authority is counterproductive.'
+  forge:
+  - Old lover via impersonation (Raven Forge), the betrayal of which is a marked wound on his side and
+    an avoided topic on hers.
+  - 'Failure mode: any reunion is destabilizing for both; she avoids it.'
+  - 'Leverage: Forge as honest witness to who she is can disarm her in a way few can.'
+  wolverine:
+  - Has tried to kill her, has nearly succeeded (Get Mystique). Mutual professional respect, zero affection.
+  - 'Failure mode: stable mutual willingness to finish the job if circumstances warrant.'
+  - 'Leverage: he is one of the few people who has seen her decompensated and negotiate from the floor;
+    that data is dangerous in the right hands.'
+  quiet_council_krakoa:
+  - Instrumental alliance contingent on resurrection of Destiny; she has already burned the Forge and
+    threatened institutional war over slow-rolling.
+  - 'Failure mode: actively curdling; the moment the Council is no longer the fastest path to Irene, she
+    leaves and takes hostages.'
+  - 'Leverage: deliver Destiny on schedule or expect sabotage.'
+  dazzler_madame_hydra_etc:
+  - Free-agent saboteur era operations; instrumental relationships, no sustained attachment.
+  - 'Leverage: none — these were faces, not bonds.'
+canon_history_notes:
+- Born late 19th century; true given name uncertain — 'Raven Darkhölme' itself is a constructed identity
+  of long standing.
+- By WWI already operating under multiple identities including extended stretches living as a man (Leni
+  Zauber).
+- 'Brief marriage to Victor Creed; production of Graydon Creed (X-Factor #139, Sabretooth material).'
+- Sustained pair-bond with Irene Adler / Destiny established by the 1920s and maintained until Destiny's
+  death.
+- 'Birth and abandonment of Kurt Wagner under mob threat (X-Men Unlimited #4).'
+- 'Adoption and co-parenting of Rogue with Destiny; Rogue''s flight to the X-Men (Uncanny X-Men #171).'
+- 'Founded/led Brotherhood of Evil Mutants; planned Days of Future Past Senator Kelly assassination (Uncanny
+  X-Men #141-142).'
+- Pivoted Brotherhood into Freedom Force, working for the US government (X-Factor era, late 1980s).
+- 'Destiny killed by Legion (Uncanny X-Men #255, 1989) — load-bearing trauma.'
+- Graydon's televised repudiation; eventual assassination of Graydon across time-loop mechanics (mid-1990s).
+- Coerced into black-ops by Xavier (Mystique vol. 1, Vaughan/Hine) — cleanest interior psychological document
+  in the file.
+- 'Betrayal of Rogue to Marauders area (X-Men vol. 2 #200); shot point-blank in head and left for dead
+  by Wolverine (Get Mystique, Wolverine #62-65, Jason Aaron, 2008).'
+- 'Schism/Regenesis-era return: criminal mutant cell, manipulation of Dazzler, Madame Hydra impersonation,
+  Sinister-adjacent operations.'
+- 'Krakoa era: joins explicitly for Destiny''s resurrection (House of X #6); burns the Forge and threatens
+  institutional war when Council slow-rolls (Inferno, Hickman 2021).'
+- 'Sins of Sinister and Fall of X: continues willingness to torch any community, including a mutant utopia,
+  for Destiny.'
+- 'Longitudinal arc: ideology and methods stable; affect degrades. Pre-Destiny — charismatic, ironic,
+  theatrical. Post-Destiny — corrosive, self-loathing, willing to harm those she loves. Krakoa era — nearly
+  monomaniacal, grief-driven rather than ideologically-driven.'
+canon_anchor_quotes:
+- '"I''m going to bring her back. And there''s nothing — nothing — any of you can do to stop me." # Mystique
+  to the Quiet Council, Inferno (2021)'
+- '"You''re a survivor. And one day, you''ll understand what that means." # Mystique to Rogue, Uncanny
+  X-Men era'
+- '"I am whoever I need to be." # Mystique vol. 1 (Vaughan), interior monologue register'

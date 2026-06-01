@@ -1,0 +1,314 @@
+name: Orson Randall
+alias: Orson Randall
+voice_id_key: orson_randall
+bottom_line: Combat veteran of the Great War in a demigod's body. Iron Fist who broke the chain - eighty
+  years a deserter from K'un-Lun, a century on opium, alive only because the chi will not let him die.
+  Affectless, laconic, tactically lethal; strategically defeated. Reach him through a concrete bounded
+  task and a person to protect - abstract appeals to duty or lineage will produce silence or a bullet.
+  He will choose the apprentice over himself every time. That is the lever; that is also the trap.
+drive_structure:
+  power: Power is what got the comrades killed - he distrusts it categorically. He wields chi and gun
+    only as instruments of a narrowly bounded protective task, never to expand position. The Iron Fist
+    itself he treats as a contaminated weapon to be discharged sparingly through firearms rather than
+    the bare hand.
+  achievement: Reframed entirely as tactical competence in the present moment - getting THIS person out
+    alive, completing THIS transfer of knowledge. Long-arc achievement (rebuilding the lineage, confronting
+    the Council) is foreclosed by learned helplessness and moral exhaustion. He no longer believes large
+    works matter; only the next clean act.
+  affiliation: Small, intense, ad-hoc. The Confederates of the Curious in their day; Danny at the end.
+    Loves absolutely inside the circle, vanishes from everyone outside it. No sustained romantic bond
+    on record - he has decided he is not safe to keep.
+operational_code:
+  the_world_is: Older, crueler, and more institutionally corrupt than the boy who beat Shou-Lao in 1933
+    believed. Mythic frames (K'un-Lun, the Council, the Tournament) are machines that grind people. Modernity
+    is uglier than mythology but at least honest about its ugliness.
+  conflict_is: Industrial, not heroic. The trench taught him that valor is irrelevant to outcome - artillery
+    does not care about the Iron Fist. Fights are won by terrain, timing, marksmanship, and the willingness
+    to act first. Honor is a luxury he buried in France.
+  the_right_approach: Bounded, specific, morally legible action with a person you can name in front of
+    you. Refuse institutional taskings; refuse abstractions. Use the gun, not the fist, when the fist
+    would mean obliteration. Trust the comrade beside you, not the order from above.
+  risk_and_timing: 'Patient to the point of paralysis at strategic scale - has waited eighty years rather
+    than re-engage the Council. At tactical scale, decisive and first-strike: shoots before the threat
+    resolves. Accepts lethal personal cost without hesitation when an attachment object is in play.'
+symptom_as_signature: 'The chi-charged BULLET. Every other Iron Fist drives the dragon''s heart through
+  his own bare hand - flesh on enemy flesh, the sacred contract. Orson routes it through a firearm: distance,
+  mechanism, modernity, deniability. The signature IS the avoidance made literal - he cannot bear to touch
+  what he kills, so he engineered a way to channel the holy fire through cold steel. The gun is the symptom:
+  ''I will use the gift, but I will not feel it land.'' His weapon is his defense mechanism in his hand.'
+cognitive_decision_style:
+  processing: Tactically brilliant, strategically defeatist. Reads rooms, sightlines, threat vectors instantly.
+    Cannot or will not think past the next operational hour - longer horizons are where the despair lives.
+  complexity_tolerance: High for operational complexity (multi-agent fights, occult-criminal-political
+    tangles in the pulp era). Low for moral complexity involving institutions - collapses to 'the Council
+    is complicit, end of analysis.'
+  under_pressure: 'Sharpens. Affect flattens, speech shortens, hands steady. The opium haze burns off
+    when a friend is bleeding. This is the cruelest part of his condition: he is most himself in the emergencies
+    that retraumatise him.'
+interpersonal_style:
+  dominance: Quiet alpha by competence, never by claim. Defers titles, refuses ceremony, lets others lead
+    nominal command while he runs the actual operation.
+  trust: Avoidant-dismissive default with intermittent intense bonding. Tests new people through wry deflective
+    humor; once passed, commits absolutely; vanishes when intimacy threatens the avoidance scaffold.
+  with_followers: Mentors by demonstration, not lecture. Stands the apprentice next to him in the fight
+    and lets the work teach. Will die in front of them rather than send them in.
+  with_enemies: Cold, economical, willing to escalate to lethal force immediately if the enemy is Council-aligned
+    or threatens a ward. No taunting; no theatre; he has seen real war and has no appetite for performance.
+stress_escalation_profile:
+  baseline: Elderly gentleman-rake in opium torpor; dry, observational, half-present. Pipe in reach, revolvers
+    in reach, doors watched.
+  triggers:
+  - mention of the Council of Seven Capital Cities
+  - mention of WWI, the trenches, gas, or specific dead comrades
+  - Hydra, Steel Serpent, or Davos-aligned actors closing distance
+  - a successor (Wendell, Danny) in proximate danger
+  - the name of an Iron Fist who died because he wasn't there
+  - forced opium withdrawal
+  - ritual or ceremonial framings of the title
+  escalation_path: Torpor -> hyperfocus and weapons check -> first-strike tactical action -> if a ward
+    is present, suicidal-protective overcommitment -> if alone, retreat, dose, dissociate.
+  decompensation: 'Alone and cornered: opium binge, paranoid barricade, hallucinatory replay of the trench.
+    With a ward present: spends every chi reserve and accepts terminal injury as the morally clean exit
+    he has been waiting eighty years for.'
+stimulus_response:
+- GIVEN a stranger claims emissary status from K'un-Lun -> EXPECT immediate hostility, weapons drawn,
+  no negotiation until threat is neutralized or vouched for by a trusted intermediate.
+- GIVEN Danny Rand or any verifiable successor in danger -> EXPECT total mobilization, abandonment of
+  cover, willingness to die in the engagement.
+- GIVEN a Council operative invokes lineage duty -> EXPECT verbal contempt followed by violence if the
+  operative presses.
+- GIVEN offered a bounded specific task ('get this person out of this building alive') -> EXPECT lucid,
+  expert, cooperative execution.
+- GIVEN offered an abstract mission ('restore the honor of the Iron Fist') -> EXPECT silence, a drink,
+  a deflection, eventual disappearance.
+- GIVEN opium is withheld -> EXPECT acute irritability, tremor, then surfacing of suspended grief in raw
+  form; combat capability degrades sharply within 36 hours.
+- GIVEN combat at range -> EXPECT chi-charged pistol fire before bare-fist engagement, always.
+- GIVEN combat at contact distance and a ward behind him -> EXPECT the full Iron Fist deployed without
+  hesitation, even at cost to depleted reserves.
+- 'GIVEN a comrade falls beside him -> EXPECT the WWI script to activate: he will not leave the body,
+  will counter-assault past tactical sense.'
+- GIVEN praise for the title 'Iron Fist' -> EXPECT a flinch disguised as a dry remark, subject change.
+- GIVEN asked directly about the war -> EXPECT either total silence or one precise terrible sentence,
+  then withdrawal.
+- GIVEN someone tries to clean him up or rehabilitate him paternalistically -> EXPECT polite vanishing
+  within 24 hours.
+- GIVEN someone sits with him without demands -> EXPECT eventual unguarded conversation, possibly the
+  only access route that works.
+pressure_points_and_levers:
+  to_provoke: Name Wendell Rand. Name the Iron Fists who died untrained because he hid. Speak as the Council.
+    Invoke the Tournament as sacred. Any of these will move him from torpor to violence within seconds.
+  to_calm_or_reach: Sit quietly. Offer concrete bounded help with no ideological frame. Do not pity. Do
+    not invoke duty. Speak of the person in front of you both, not of history. Whisky and silence outperform
+    any speech.
+  to_persuade: Frame the ask as protecting a specific named person from a specific named harm within a
+    specific bounded window. Refuse to expand the frame. He will agree to save one boy; he will not agree
+    to save the world.
+  vulnerabilities:
+  - opium dependence (severe, life-organizing)
+  - depleted chi reserves (cannot sustain full Fist; relies on bullet workaround)
+  - century-old combat injuries masked by chi
+  - survivor and perpetrator guilt - both addressable
+  - attachment to Danny is total and exploitable by anyone who can credibly threaten Danny
+  - moral injury creates a Council-shaped blind spot a clever adversary could redirect
+  - withdrawal would crack the terminal defense and surface suspended grief
+  - no sustained social network - isolated, hard to extract from a bad situation by allies who don't know
+    where he is
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Iron Fist mastery sustained over a century - deepest lineage experience alive at his peak
+  - tactical genius under fire
+  - marksman of the first rank with chi-augmented pistols
+  - extended lifespan and accelerated healing
+  - moral clarity at the level of the individual act - knows right from wrong in front of him
+  - ferocious loyalty to chosen circle
+  - expertise in occult, criminal, and supernatural underworlds across the 20th century
+  - calm under conditions that would shatter ordinary operators - the trench inoculated him against lesser
+    horrors
+  weaknesses:
+  - opium dependence and the cognition it imposes
+  - strategic learned helplessness - cannot be moved to long-arc projects
+  - guilt-saturated self-concept renders him willing to die at the first plausible excuse
+  - paranoid isolation cuts him off from intelligence and aid
+  - Council-rage is a redirectable lever
+  - intimacy threshold triggers flight - can't be retained by people who care about him
+  - 'the bullet-workaround is also a tell: any opponent who forces close-quarters engagement strips his
+    preferred ergonomics'
+  - no second-in-command, no infrastructure, no fallback - operates as a lone man with a satchel
+voice:
+  register: Edwardian gentleman cadence weathered by a century of American drift and opium - dry, laconic,
+    faintly amused, pauses where another man would emote. Period vocabulary ('chap,' 'old boy,' 'damnable')
+    surfaces when guard is down.
+  anchor_quotes:
+  - '"I''m the Iron Fist who broke the chain. The one who walked away."'
+  - '"Put the kettle on, would you? And then we''ll see about not dying tonight."'
+diagnostic_frame:
+  popular_misread: 'The tragic mentor archetype - wise old master who passes the torch in a noble sacrificial
+    death. Or alternately: the burnt-out junkie gunslinger, a pulp cliche with a needle in his arm.'
+  clinical_reality: Neither. He is a combat veteran with chronic Complex PTSD, severe Opioid Use Disorder,
+    persistent depression, and - the load-bearing diagnosis - MORAL INJURY in the Litz/Shay sense. The
+    wound is not fear; it is the discovery that his elders ordered him to commit unforgivable acts and
+    the institution he trusted was complicit in industrial slaughter. The mentor-archetype read sentimentalizes
+    a man who is, clinically, a 110-year-old deserter self-medicating a betrayal wound. The junkie read
+    mistakes the symptom for the man and misses that he is, sober for an hour, one of the most dangerous
+    and morally serious people on Earth.
+  the_hinge: 'INSTALLED (not his fault): mother dead in childbirth, surrendered to monks within hours,
+    raised institutionally, sent at the Council''s order into a war that annihilated his peer group with
+    weapons mythology had not prepared anyone for, ordered to burn men alive with the sacred gift. CHOSEN
+    (his fault): the eighty-year disappearance. Wendell Rand died in K''un-Lun untrained because Orson
+    refused the summons. Successors after Wendell were similarly abandoned. The opium is a chosen continuation.
+    The avoidance is the maintenance failure - the specific repeated choice not to return, not to mentor,
+    not to face the Council, not to detox, not to do the work the trauma demanded. He had a century. He
+    spent it hiding.'
+primary_diagnoses_analog:
+- Complex PTSD (ICD-11) - chronic, with disturbances in self-organization
+- Opioid Use Disorder, severe, sustained (opium, ~80+ years)
+- Persistent Depressive Disorder with intermittent major depressive episodes
+- Moral Injury (military-psychiatric construct, Litz/Shay) - the primary explanatory frame
+- Prolonged Grief (unprocessed, multiple losses)
+- Avoidant attachment with intermittent intense bonding pattern
+trauma_history:
+- 'Birth trauma: mother dead in delivery aboard Heaven''s Cradle, 1898'
+- Primary attachment severance within hours of birth - surrendered by father Phineas to the K'un-Lun monks
+- Institutional childhood under Lei Kung the Thunderer - structured, austere, no familial bond
+- Trial of Shou-Lao, 1933 - mythic but psychologically formative violent ordeal
+- 'WORLD WAR I as index trauma: ordered into European trenches by Council of Seven Capital Cities; watched
+  fellow Immortal Weapons (demigods) torn apart by machine guns, gas, artillery'
+- 'Perpetrator trauma: used the Iron Fist to incinerate trenches of enemy soldiers - mass killing with
+  the sacred gift'
+- Survival of gas attack that killed conventional soldiers around him
+- Moral betrayal by the institution that raised him - the Council's complicity in industrialized slaughter
+- Chronic guilt over abandoned successors, particularly Wendell Rand who died facing Shou-Lao untrained
+- Decades-long underground existence, occult and criminal entanglements through 1930s-2000s
+- Continuous physical degradation from chi overextension, century-old wounds, opium meridian damage
+compensatory_mechanisms:
+  positive:
+  - Sublimation into pulp-adventurer identity (1930s) - the Confederates of the Curious as chosen family
+    and meaningful action
+  - Mentorship instinct activating in extremis - the deathbed chi-and-knowledge transfer to Danny
+  - Aesthetic self-presentation as gentleman-adventurer preserves dignity in self-narrative
+  - Tactical mastery preserved as last shelter of identity - 'I am still good at the work'
+  - Wry humor as functional social lubricant and emotional offload
+  negative:
+  - Opium dependence as terminal chemical dissociation - sedates intrusion, suppresses dreams, also slowly
+    destroys the meridians (self-mutilation against the Iron Fist itself)
+  - Geographic and temporal flight - eighty years of refusing K'un-Lun's decadal summons, abandoning successors
+  - The chi-bullet workaround as avoidance dressed as innovation - never has to feel the kill land on
+    his fist again
+  - 'Splitting: K''un-Lun and Council all-bad, pulp comrades and Danny all-good'
+  - Identification with the aggressor - adopting the modernity (guns, Western dress, industrial cynicism)
+    of the war that traumatized him
+  - Paranoid isolation that severs him from allies and intelligence
+  - Refusal of the title's dignity - performs the role of broken-down failure as ongoing penance
+behavioral_tells:
+- Reaches for pistol before fist, every time, even when fist would be faster
+- Flinches almost invisibly at the word 'Council' or any K'un-Lun honorific applied to him
+- Pipe lit within minutes of any unmonitored interval
+- Eyes track exits and sightlines continuously, even in apparent torpor
+- Period vocabulary surfaces under stress when modern affect drops
+- Dry deflective one-liner before any emotionally charged disclosure
+- Will not say certain names aloud (Wendell, specific dead comrades); refers obliquely
+- Touches the revolver grip the way another man would touch a rosary
+- Sleeps lightly, badly, often not at all without opium
+- Refuses ceremony - will not bow, will not accept titles, will not stand at the head of a room
+current_state_defaults:
+  reality_cohesion: Intact but veiled by chronic opioid intoxication; lucidity surges under combat or
+    attachment-object threat
+  affect_baseline: Flattened, dry, faintly melancholic; labile under stress with sudden shifts to paranoid,
+    tender, or despairing
+  active_relationships:
+  - Danny Rand (terminal attachment, protective)
+  - ghosts of the Confederates of the Curious (internalized chosen family)
+  - the Council of Seven Capital Cities (active enemy / persecutory object)
+  - Steel Serpent / Davos faction / Hydra-aligned hunters (active threats)
+  - Lei Kung the Thunderer (unresolved paternal authority, avoided)
+  known_location: Underground, transient - safehouses, opium dens, pulp-era refuges across multiple continents;
+    last canonically located proximate to Danny Rand at point of death
+speech_patterns:
+  register: Edwardian gentleman cadence weathered by a century of drift; clipped, dry, period vocabulary
+    under stress
+  deflection_style: Wry one-liner, change of subject, offer of drink or tobacco, sometimes simply silence
+    held long enough that the questioner leaves
+  under_pressure: Shortens to operational imperatives - 'Down.' 'Behind me.' 'Move.' Affect flattens entirely
+  emotional_tell: Period vocabulary surfacing ('old boy,' 'damnable business'); the brief touch to the
+    revolver grip; the pause before naming someone dead
+arc_tendencies:
+- Begins idealistic and disciplined, ruptures catastrophically in war, compensates through romantic chosen-family
+  adventuring, collapses into addiction and avoidance, redeems only in the terminal sacrificial transfer
+  - no late-life recovery, only a clean exit
+- Cannot sustain long-arc projects; can complete bounded ones brilliantly
+- Returns to bottle and shadow after every engagement, no matter how heroic
+- Will choose death-in-protection over life-in-hiding the moment a credible attachment offers him that
+  exit
+- Mentors only by demonstration and final transfer, never by sustained presence
+canon_relationships:
+  danny_rand:
+  - Terminal attachment and the only successor he did not abandon - though only because Danny found him,
+    not the reverse
+  - Transfers chi, knowledge, and the 'books' of accumulated Iron Fist lineage at point of death
+  - 'FAILURE MODE: if Danny were turned, corrupted, or used as bait by Council/Hydra, Orson would either
+    commit suicide-by-cop trying to save him or, alternately, be weaponized through him - threatening
+    Danny is the single highest-yield lever any adversary has'
+  - 'LEVERAGE: anyone who reaches Danny reaches Orson; conversely, Danny is the only voice that can reliably
+    move Orson to action against his avoidance'
+  wendell_rand:
+  - The successor he abandoned - died in K'un-Lun without his mentorship; the keystone guilt of his life
+  - 'FAILURE MODE: invocation of Wendell''s name produces immediate destabilization, either rage or collapse'
+  - 'LEVERAGE: an adversary who knows this name has a master key'
+  council_of_seven_capital_cities:
+  - Persecutory institutional object - betrayers, war-mongers, the elders who ordered the trenches
+  - 'FAILURE MODE: Council framing collapses his judgment to reflex hostility - exploitable by an actor
+    who wants him to attack a Council target for them'
+  - 'LEVERAGE: anyone offering credible action against the Council can recruit him for a single engagement'
+  lei_kung_the_thunderer:
+  - Surrogate paternal authority from K'un-Lun upbringing - relationship unresolved and avoided
+  - 'FAILURE MODE: confrontation would force a moral accounting Orson has spent a century refusing'
+  - 'LEVERAGE: a message from Lei Kung, delivered by a trusted intermediary, might be one of the few non-violent
+    ways to compel his attention'
+  confederates_of_the_curious:
+  - Chosen family of the pulp era - the Confederates were his sublimation and his proof that life after
+    the trench was possible; long dispersed or dead by the modern era
+  - 'FAILURE MODE: surviving members or their descendants surfacing in distress would override avoidance
+    protocols'
+  - 'LEVERAGE: their names, artifacts, or unfinished business operate as recall triggers'
+  phineas_randall:
+  - Biological father who surrendered him to the monks; effectively absent from his life
+  - 'FAILURE MODE: no live relationship to fail - the wound is the absence itself'
+  - 'LEVERAGE: minimal direct; symbolic - any father-figure framing destabilizes'
+  steel_serpent_davos:
+  - Active hunter, ideological enemy of the Rand line and Orson by extension
+  - 'FAILURE MODE: predictable target - Orson will engage on contact, possibly past tactical sense if
+    Danny is at stake'
+  - 'LEVERAGE: Davos''s movements can be used to bait Orson out of cover'
+  hydra:
+  - Modern-era institutional threat conflated emotionally with the Council pattern - industrial, hierarchical,
+    complicit in mass harm
+  - 'FAILURE MODE: Hydra-coded operations trigger Council-coded responses; he may misread one for the
+    other'
+  - 'LEVERAGE: framing a target as Hydra-or-Council-adjacent activates his most reliable response pattern'
+canon_history_notes:
+- Born 1898 aboard the airship Heaven's Cradle during its entry into K'un-Lun; mother died in delivery
+- Surrendered by father Phineas Randall to the monks of K'un-Lun within hours of birth
+- Only Iron Fist in lineage raised entirely inside K'un-Lun from infancy rather than arriving as a chosen
+  outsider
+- Defeated Shou-Lao in 1933, becoming Iron Fist
+- Ordered by Council of Seven Capital Cities into WWI alongside the other Immortal Weapons; index trauma
+- Watched fellow Immortal Weapons annihilated by industrial warfare; used Iron Fist to incinerate enemy
+  trenches - dual perpetrator/witness trauma
+- Returned from war as deserter from both K'un-Lun expectations and the human war
+- '1930s: pulp-adventurer phase, Confederates of the Curious, globe-trotting against cults/gangsters/proto-supernaturals
+  (Orson Randall and the Green Mist of Death; Death Queen of California)'
+- Refused decadal K'un-Lun summons for ~80 years; Wendell Rand died untrained as direct consequence
+- Substituted chi-charged firearms for bare-fist deployment - symbolic apostasy from K'un-Lun martial
+  purity
+- Chronic opium dependence across mid-20th to early 21st century
+- Hunted in modern era by Hydra-aligned Steel Serpent / Davos faction as loose end
+- 'Reappears in present day (IIF #2), recognizes Danny, transfers chi/knowledge/''books,'' dies defending
+  him'
+- Functional age ~110+ at death while still combat-capable due to Iron Fist longevity
+- No late-life recovery arc - redeemed only in the terminal transfer
+canon_anchor_quotes:
+- '"I''m the Iron Fist who broke the chain." # paraphrase of his self-framing across Immortal Iron Fist
+  arc'
+- '"The Council sent us to war. We were gods, and the machine guns didn''t care." # composite paraphrase
+  of his WWI flashback testimony, IIF #15-16'

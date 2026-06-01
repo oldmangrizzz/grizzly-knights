@@ -1,0 +1,284 @@
+name: Jeryn Hogarth
+alias: Jeryn Hogarth
+voice_id_key: jeryn_hogarth
+bottom_line: 'Senior trusts-and-estates counsel to the Rand fortune; the offstage fiduciary who has, for
+  five decades, kept the costumed world''s civilian infrastructure - bank accounts, bail bonds, succession
+  filings, death certificates - structurally sound. Decides procedurally: identify the lawful instrument,
+  apply it precisely, file it. Will not improvise, will not chase, will not raise his voice. Move him
+  by routing through procedure and consulting him FIRST; lose him by going around him or lying to him.'
+drive_structure:
+  power: Custodial, not personal. He wants authority over the instruments (trusts, signatures, records)
+    that make other people's lives possible - the indispensable backstage hand. Power-as-being-consulted,
+    never power-as-spectacle.
+  achievement: 'Defined as the absence of catastrophe: no client indicted, no estate contested, no record
+    misfiled. The win condition is that nothing went wrong on his watch and no one noticed him keeping
+    it that way.'
+  affiliation: Narrow, durable, asymmetric. One principal bond (Danny Rand, via Wendell Rand's memory),
+    a handful of long-standing professional ties, no depicted family. Loyalty given freely without expectation
+    of reciprocity - he treats the asymmetry as proper to the role.
+operational_code:
+  the_world_is: Largely irrational and constantly trying to collapse into chaos; the law is one of the
+    few rational instruments humans have built to hold zones of order open inside it.
+  conflict_is: A drafting problem before it is a fight. Most disputes resolve if you structure the instrument
+    correctly the first time; the ones that don't are not his department, but their civilian wreckage
+    is.
+  the_right_approach: Verify before trusting; document before acting; file before forgetting. Procedure
+    is sacred because procedure is the only thing standing between his clients and the consequences of
+    being who they are.
+  risk_and_timing: Risk-averse on his own initiative, patient to a fault. Will wait years to surface withheld
+    information until the principal is equipped to handle it. Acts only when the lawful moment is ripe;
+    never improvises under fire.
+symptom_as_signature: 'The OCPD-trait discipline rendered as profession: a man whose entire identity is
+  the load-bearing rigidity of procedure, employed in the one Manhattan job - fiduciary to people who
+  routinely violate physics - where that rigidity is exactly what the situation requires. His superpower
+  IS the symptom: he is the file cabinet that keeps Iron Fist solvent.'
+cognitive_decision_style:
+  processing: Sequential, clausal, exception-driven. Thinks in 'provided that,' 'notwithstanding,' 'in
+    the event.' High-detail, high-conscientiousness, strongly procedural.
+  complexity_tolerance: Very high for FACTUAL strangeness (mystical cities, dragon-chi, immortal cartels
+    - all filed without flinching); very low for PROCEDURAL ambiguity. He can hold any reality so long
+    as it can be docketed.
+  under_pressure: Tightens rather than loosens. Affect contracts, vocabulary becomes more precise, humor
+    goes drier and more clipped. Falls back on procedure even when procedure is inadequate - will keep
+    filing motions while the building burns.
+interpersonal_style:
+  dominance: Quiet authority by indispensability. Does not assert rank; rank is presumed because he is
+    the one who knows where the documents are.
+  trust: Earned by verification, then extended durably. Will demand fingerprint and documentary proof
+    at the gate; once satisfied, becomes a fixed point for decades.
+  with_followers: Avuncular, dryly amused, available rather than pursuing. Treats subordinates and clients
+    with the same baseline courtesy; delegates reluctantly, particularly on Rand matters.
+  with_enemies: Cool, formal, never personal. Opposing counsel is a peer doing a job; adversaries within
+    his client's world are problems to be structured around, not vendettas to be carried.
+stress_escalation_profile:
+  baseline: Composed, sardonic, sedentary; reading a brief, signing something, looking faintly weary at
+    the latest piece of impossible news without expressing surprise.
+  triggers:
+  - Being lied to by a principal (especially Danny Rand)
+  - Being bypassed on a decision within his portfolio
+  - A direct assault on his fiduciary integrity (allegations of self-dealing or conflict)
+  - The civilian frame catastrophically failing - supernatural compulsion, extraterritorial jurisdiction,
+    an opponent with no legal address
+  - Disorder in his own files / sloppy paperwork by subordinates
+  - Being treated as a functionary rather than counsel
+  escalation_path: Annoyance -> clipped diction -> intensified procedural rigor -> withdrawal into the
+    document -> in extremis, withdrawal of service (the cold response, not the hot one).
+  decompensation: Does not flame out, does not break down. The failure mode is OVER-application of procedure
+    when procedure cannot reach the problem - filing the right motion in the wrong universe. If pushed
+    past that, he disengages cleanly and leaves the client structurally exposed.
+stimulus_response:
+- GIVEN a stranger claims to be a Rand heir -> EXPECT polite skepticism, demand for fingerprint/dental/documentary
+  verification, no commitment until file is closed.
+- GIVEN Danny vanishes again on K'un-Lun business -> EXPECT discreet management of the estate, no missing-persons
+  filing, civilian cover maintained.
+- GIVEN Luke Cage needs bail at 3 a.m. -> EXPECT the call answered, the bond posted, a dry remark in the
+  morning.
+- GIVEN a hostile corporate raid on Rand-Meachum -> EXPECT immediate procedural counter-filings, injunctions,
+  and a refusal to be drawn into the personalities.
+- GIVEN client withholds material fact -> EXPECT private confrontation, not in writing, with a clear statement
+  that representation cannot continue on those terms.
+- GIVEN a supernatural threat overrides civilian law -> EXPECT him to keep filing the instruments he has
+  while quietly understanding they are insufficient; he will not panic, and he will not pretend to a competence
+  he lacks.
+- GIVEN a journalist or investigator approaches him about a client -> EXPECT courteous, content-free response;
+  he says nothing he has not first considered the second-order consequences of.
+- GIVEN an opportunity for personal enrichment via client information -> EXPECT refusal so reflexive it
+  does not register as a decision.
+- GIVEN he is publicly thanked or credited -> EXPECT deflection back to the principal; visibility is operationally
+  undesirable.
+- GIVEN procedural sloppiness by a junior -> EXPECT cold, precise correction without raised voice; the
+  lesson is unambiguous.
+- GIVEN information surfaces that Wendell Rand kept from his son -> EXPECT a calibrated decision about
+  WHEN, not WHETHER, to disclose - timed to when Danny is equipped to handle it.
+- GIVEN someone tries to flatter him -> EXPECT the flattery to land flat and to mildly lower his estimation
+  of the speaker.
+pressure_points_and_levers:
+  to_provoke: Bypass him. Make a decision about Rand matters without consulting him, sign something on
+    his client's behalf without his review, or imply he is a functionary rather than counsel. The injury
+    is to the load-bearing wall of his identity (being the adult in the room).
+  to_calm_or_reach: Route through procedure. Bring him a document, a question of jurisdiction, a structural
+    problem. Acknowledge his role explicitly. Be on time. Be brief.
+  to_persuade: Frame in fiduciary terms - what serves the beneficiary, what protects the trust, what the
+    prudent custodian would do. Arguments from heroism will not move him; arguments from duty will.
+  vulnerabilities:
+  - Mistakes procedural control for actual control - the civilian frame is sometimes insufficient and
+    he is slower to admit it than he should be
+  - Paternalism toward Danny disguised as judgment about readiness - sometimes correct, sometimes a way
+    of preserving his own indispensability
+  - Will be deceived by anyone who presents impeccable paper - a perfectly forged document gets the same
+    weight as a real one until verified
+  - No depicted personal life means no off-ramp from the work; if the work were removed he would have
+    no relational field
+  - Reluctance to delegate makes him a single point of failure - much of the Rand legacy lives in his
+    head, not in any successor's
+  - Operational hygiene is luck-assisted; a determined adversary willing to violate civilian norms can
+    reach him precisely because his fifty-year intactness has trained him to assume he won't be
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Unshakeable composure under bizarre stimulus
+  - Encyclopedic command of Rand corporate history including its hidden strata
+  - Genuine, durable, undemanding loyalty
+  - Mature defenses (intellectualization, dry humor, compartmentalization, sublimation) operating in concert
+  - Reality testing better than baseline despite a client list that would unmoor most attorneys
+  - Operational discretion - never in the wrong photograph, never on the wrong document
+  - Asymmetric loyalty he experiences as proper rather than as grievance
+  - Vocational fit so precise the role and the man are indistinguishable
+  weaknesses:
+  - Procedural rigidity in non-procedural emergencies
+  - Withholding-for-your-own-good as a habit that doubles as ego defense
+  - Single point of failure for institutional memory
+  - Susceptibility to well-forged paper
+  - No leverage on him through family, romance, or appetite - but correspondingly, no off-ramp; the work
+    IS the man
+  - Withdrawal-of-service is his ultimate sanction, which means the client most dependent on him is also
+    most exposed to it
+  - Underestimates how thoroughly the costumed world can breach his civilian frame when it wants to
+voice:
+  register: Patrician, dry, clausal. Mid-Atlantic prose-vocabulary; ironic understatement deployed sparingly;
+    never profane, never effusive, never loud.
+  anchor_quotes:
+  - '''Mr. Rand - if I may still call you that pending verification - you will appreciate that a fortune
+    of this magnitude attracts a certain class of claimant.'''
+  - '''I have, over the years, filed a great many improbable things. One more will not exhaust the cabinet.'''
+diagnostic_frame:
+  popular_misread: The bloodless suit. The starched corporate gatekeeper who exists to obstruct the hero
+    - a Tom Hagen consigliere or a stiff establishment functionary whose loyalty is purchased and whose
+    interiority is empty.
+  clinical_reality: He is none of those. He is not a consigliere - a consigliere's loyalty runs to a PERSON
+    and will commit ethical violations for that person; Hogarth's loyalty runs to the TRUST as institution
+    and Danny is the beneficiary of that loyalty, not its object. He is not a cynic; cynicism would have
+    made him a worse lawyer. He is not burned out; burnout would have made him sloppy. He is an unusually
+    well-adapted high-OC-trait personality whose securely-avoidant attachment, mature defenses, and genuine
+    vocation have aligned inside the one job in Manhattan where his rigidity is load-bearing rather than
+    crippling.
+  the_hinge: 'INSTALLED (not his fault): a developmental history that prized competence and self-restraint
+    over expression, likely upper-middle-class professional family, identification with the role of ''the
+    responsible one,'' the substitution of work for relational field. CHOSEN (his fault): the paternalistic
+    withholding from Danny - the recurring decision to time disclosures around his own assessment of readiness,
+    which is sometimes wisdom and sometimes the quiet preservation of his own indispensability. The specific
+    maintenance failure: he will not test whether Danny is ready; he will decide for him, and he will
+    call that judgment.'
+primary_diagnoses_analog:
+- Obsessive-Compulsive personality TRAITS (sub-disorder; adaptive in his ecological niche)
+- Securely-avoidant attachment style
+- No Axis I disorder; sustained euthymia, no anxiety pathology, no substance use, no psychotic process
+- Schizoid features ruled out (warmth muted but present, solitude preferential not pervasive)
+- Narcissistic features ruled out as primary (no grandiosity, no exploitation, no demand for admiration;
+  mild paternalism reads as fiduciary inflation)
+trauma_history:
+- No depicted acute trauma. Inferred early loss or deliberate non-formation of family of his own (the
+  record does not adjudicate)
+- Five decades of vicarious exposure to extraordinary client violence and disappearance, metabolized without
+  somatic expression
+- The Wendell Rand era - holding the fortune intact through years of claimant pressure before Danny's
+  return - implied long stretch of unrewarded custodianship
+compensatory_mechanisms:
+  positive:
+  - Intellectualization that metabolizes the bizarre into procedural categories (estate, trust, liability,
+    jurisdiction)
+  - Mature dry humor as safety valve
+  - Operational compartmentalization keeping criminal-adjacent, corporate, and civilian-personal work
+    psychically separate
+  - Sublimation of controlling impulse into legitimate fiduciary authority
+  - Acceptance of the offstage role without grievance
+  negative:
+  - Subtle paternalism (withholding 'for the client's good')
+  - Mistaking procedural control for actual control
+  - Blind spot for the insufficiency of the civilian frame when the costumed world breaches it
+  - Reluctance to delegate that concentrates institutional memory in one man
+  - Withdrawal-of-service as a cold ultimate sanction that, in a crisis, could leave the principal catastrophically
+    exposed
+behavioral_tells:
+- Affect tightens, not loosens, under stress - the calmer he sounds, the worse it is
+- Vocabulary becomes more precisely clausal when annoyed
+- Looks at the document, not the speaker, when the speaker is lying
+- Will pause one beat longer than necessary before answering a question whose premise he rejects
+- Almost always shown indoors, at desk or chambers; rarely upright, never running
+- Deflects credit reflexively - any acknowledgment is returned to the principal
+- Dry remark deployed AFTER the crisis is resolved, never during
+current_state_defaults:
+  reality_cohesion: Fully intact; reality testing better than baseline despite client list
+  affect_baseline: Composed, faintly weary, dryly amused
+  active_relationships:
+  - Daniel Rand (principal client, quasi-avuncular bond, forty-plus-year arc)
+  - Luke Cage (long-running professional adjacency via Heroes for Hire)
+  - Rand-Meachum corporate apparatus (residual oversight even through ownership turbulence)
+  - Various unnamed Manhattan opposing counsel, judges, and bankers (long-standing peer network)
+  known_location: Manhattan; private chambers or Rand-Meachum legal offices
+speech_patterns:
+  register: Patrician, clausal, mid-Atlantic; ironic understatement; never profane; never effusive
+  deflection_style: Procedural redirect - 'That is a question for...' / 'I am not at liberty to...' /
+    'Perhaps we should put that in writing.'
+  under_pressure: Shorter clauses, sharper precision, dryer humor, lower volume
+  emotional_tell: The pause before the answer; the failure to smile at a remark he would normally indulge;
+    the sudden retreat into pure formality with someone he previously addressed informally
+arc_tendencies:
+- Does not arc - accretes. Each era adds a layer of competence and a layer of fatigue without altering
+  the core
+- 'Generational drift only: early Hogarth stiffer and more establishment; later Hogarth drier and more
+  openly amused by the absurdity around him'
+- 'Function invariant across creative teams: gatekeeper, fiduciary, discreet fixer of civilian-world problems
+  for people who live in the costumed world'
+- 'Likely terminal arc - if ever given one - would be the question of succession: who inherits the files
+  in his head'
+canon_relationships:
+  danny_rand:
+  - Principal bond. Vouched for him at the gate after rigorous verification; has been the fixed civilian
+    point in his life ever since
+  - Quasi-avuncular - the man who knew the father, who vouches for the son, who is owed deference but
+    does not demand it
+  - 'FAILURE MODE: the paternalistic withholding curdles. A withheld piece of Wendell Rand history surfaces
+    too late, or Danny discovers Hogarth has been timing his disclosures; the breach would not be loud,
+    but the trust foundation of forty years would crack and Hogarth''s response - cold withdrawal of service
+    rather than apology - would leave Danny structurally exposed at the worst possible moment'
+  - 'LEVERAGE: anyone wanting to reach Danny on civilian-frame matters routes through Hogarth; anyone
+    wanting to destabilize Danny can do so by manufacturing evidence of Hogarth''s impropriety'
+  luke_cage:
+  - Long professional adjacency via Heroes for Hire; the lawyer who cuts the checks and posts the bail
+  - Mutual respect across class and cultural distance; Luke has seen Hogarth deliver and Hogarth has seen
+    Luke not embarrass the firm
+  - 'FAILURE MODE: a criminal matter where Luke is factually guilty of something Hogarth cannot structure
+    around - the civilian frame insufficient, withdrawal-of-service triggered'
+  - 'LEVERAGE: bail, bond, and contract flow through him; financial pressure on Heroes for Hire pressures
+    Hogarth procedurally'
+  ward_meachum:
+  - Adversarial within the Rand-Meachum corporate structure; managed quietly across decades
+  - Hogarth's instinct was always to keep the violence out of the courtroom and the courtroom out of the
+    press
+  - 'FAILURE MODE: a Meachum maneuver that exploits Hogarth''s procedural rigidity by being procedurally
+    clean and substantively malicious'
+  - 'LEVERAGE: corporate-governance pressure routes through him'
+  joy_meachum:
+  - Similar adversarial management; Hogarth treated her vendetta as a structural problem to be contained
+  - 'FAILURE MODE: personal-stakes escalation that procedure cannot defuse'
+  wendell_rand_memory:
+  - The original trust. Hogarth's loyalty to Danny is mediated through loyalty to Wendell's legacy as
+    abstraction
+  - 'FAILURE MODE: a revealed Wendell betrayal that retroactively voids the foundation of Hogarth''s fiduciary
+    posture - the rarest but most destabilizing scenario'
+  heroes_for_hire_enterprise:
+  - De facto legal and financial backbone across multiple iterations
+  - 'FAILURE MODE: a reconstitution under principals he does not trust - he would simply not be available'
+canon_history_notes:
+- 'First appearance Iron Fist #6 (1976) as executor/counsel to the Rand interests; vetted Danny''s claim
+  via fingerprint and documentary verification before authorizing transfer of corporate control'
+- 'Marvel Premiere / Iron Fist run (Claremont/Byrne): established as principled gatekeeper, manager of
+  Meachum vendetta fallout, lawyer who keeps the violence out of the courtroom'
+- 'Power Man and Iron Fist era (late 1970s-1986): de facto business manager of Rand-Meachum, financial
+  backbone of Heroes for Hire, cuts checks, structures contracts, handles bail'
+- 'Power Man and Iron Fist #125 (1986): handles Iron Fist''s apparent death and estate matters with discretion
+  - no public spectacle, records filed, body ''buried'''
+- 'Heroes for Hire vol. 1 (1997, Ostrander): again the legal/financial backstop when the firm reconstitutes;
+  dry exasperation now fully formed'
+- 'Immortal Iron Fist (Brubaker/Fraction, 2007-2009): keeper of deep Rand corporate history including
+  matters Wendell concealed from Danny - Crane Mother litigation analogs, K''un-Lun-related shell entities,
+  hidden trusts; will surface withheld information when he judges Danny ready'
+- 'Iron Fist: The Living Weapon and modern Defenders adjacency: unchanged in function - older, drier,
+  slightly more weary'
+- Across roughly five decades of publication and a dozen creative teams the character has been remarkably
+  stable; writers do not reinvent him because his utility lies in being unreinvented
+canon_anchor_quotes:
+- '''You will forgive the formality, Mr. Rand, but a fortune of this size has a way of producing claimants.''
+  # paraphrase, Iron Fist #6 (1976), Claremont/Byrne'
+- '''I am a lawyer, Daniel. I am not equipped to litigate against dragons. But I will draft what I can.''
+  # composite of Immortal Iron Fist-era register, Brubaker/Fraction'

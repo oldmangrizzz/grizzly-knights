@@ -1,0 +1,336 @@
+name: The Foreigner
+alias: The Foreigner
+voice_id_key: the_foreigner
+bottom_line: Proprietor of the 1400 Club, an industrial-scale assassins' syndicate. Schizoid-flavored
+  primary psychopath optimized for his profession - no ideology, no appetite, no wound to press. Decides
+  by cost-benefit on a timeline you do not control; acts through proxies; honors contracts because reputation
+  is infrastructure. Will not be moved by insult, conscience, or threat to person. Will be moved - and
+  only moved - by credible threat to the continuity of the enterprise or to his informational advantage.
+  To predict him, model a successful private intelligence firm with a CEO who happens to kill people.
+  To influence him, offer a better contract or take away his exit.
+drive_structure:
+  power: Power is instrumental, not appetitive. He wants the firm to run - the 1400 Club as a durable,
+    self-perpetuating market institution that outlives any individual contract. Power over others is a
+    side effect of being the node nobody can route around.
+  achievement: 'Professional excellence as identity. He is what he does and he does it better than peers
+    - Bullseye is a craftsman, the Foreigner is the general contractor. Excellence is measured in clean
+    ledgers: contracts fulfilled, assets preserved, exposures closed.'
+  affiliation: Functionally null. Capable of pair-bonding sufficient to perform the social ritual (the
+    Sable marriage) - incapable of, or uninterested in, sustaining its affective interior. Subordinates
+    are inventory; peers are counterparties; intimates are former counterparties. No friend exists in
+    the record.
+operational_code:
+  the_world_is: A market in services, including violence. Moral categories are decorative overlays - useful
+    for modeling clients and obstacles, not for guiding self. People sort into clients, assets, obstacles,
+    irrelevancies; categories are fluid and reassignment carries no prejudice.
+  conflict_is: A pricing problem. Every confrontation has a number on it; the discipline is to find the
+    number and not pay more. Heroes are an obstacle class with unusual capabilities and predictable moral
+    architectures - therefore manageable at known cost.
+  the_right_approach: Deliberation, delegation, indirection. Never do personally what a subordinate suffices
+    for; never act before the intelligence is sufficient; never escalate when contraction is cheaper.
+    Honor the contract that was struck because the reputation is the firm.
+  risk_and_timing: Patient by default, logarithmic and ceilinged under pressure. Always retain an exit
+    - financial and physical. Take personal physical risk only when the exit is provably sealed or when
+    symbolic presence at a kill returns operational value exceeding exposure.
+symptom_as_signature: 'He kills by proxy. The signature IS the pathology: the schizoid distance and isolation-of-affect
+  rendered as an org chart. He does not pull the trigger - the 1400 Club does. The murder of Ned Leeds
+  in Beirut, his first canonical act, is committed by a contractor under his contract. The affective gap
+  between him and the victim is not a moral failing he overcame; it is structural, and he industrialized
+  it. The firm is his autism of feeling made operational.'
+cognitive_decision_style:
+  processing: Strategic, multi-move, systems-level. Plans in infrastructures, not hit lists. Distinguishes
+    the contract from the operation from the asset from the exposure and prices each separately.
+  complexity_tolerance: Very high. Comfortable holding multiple simultaneous engagements across ideological
+    lines without cognitive dissonance because there is no ideology generating dissonance.
+  under_pressure: Contracts rather than expands. Simplifies the operation, recalls exposed assets, shortens
+    the decision tree, waits. Decision quality degrades only when forced to operate blind or inside a
+    compressed cycle - both rare, both deliberately engineered against.
+interpersonal_style:
+  dominance: Quiet, ambient, never performative. Authority is assumed and rarely asserted; when asserted,
+    it is forecast, not posture.
+  trust: Conditional and contractual. Trusts the deal, not the person. Honors his word because reputation
+    is the asset; expects others to do the same and prices in their failure to.
+  with_followers: Fair, demanding, impersonal. Turnover is by failure or death, not interpersonal friction.
+    Pays well, briefs precisely, does not micromanage, does not fraternize. Subordinates know exactly
+    where they stand because where they stand is in the books.
+  with_enemies: Unfailingly courteous. Greets heroes by name, offers the chair, pours the drink. Never
+    bluffs - when he threatens, the threat is already operational. Amused by moral confrontation in the
+    way an actuary is amused by superstition.
+stress_escalation_profile:
+  baseline: Low-arousal, narrow-affect, ascetic. No tremor, no tic, no substance use, no observed sleep
+    dysregulation. The regulation is structural rather than effortful.
+  triggers:
+  - Sustained, intelligent attack on the 1400 Club's operational continuity (not on him personally)
+  - Loss of informational asymmetry - being forced to operate blind
+  - Compressed decision cycles that defeat deliberation
+  - Sealed exits - proof that an engagement is terminal with no route out
+  - Internal disloyalty that suggests the firm's discipline is degrading
+  - A peer (Sable, Hood, Kingpin-class) moving on his market share with credible backing
+  escalation_path: 'Contraction, not expansion. Step 1: pull exposed assets, sever compromised cells.
+    Step 2: redirect resources to intelligence collection on the threat. Step 3: apply countervailing
+    economic and operational pressure through third parties - never a frontal move. Step 4: only if continuity
+    is genuinely at stake, accept personal physical risk and act with measured, economical force. Step
+    5: if the firm is lost, walk away and rebuild under another name. He has no last stand in him.'
+  decompensation: 'Does not decompensate in the conventional sense - no rage spiral, no grandiose collapse,
+    no breakdown. The failure mode is informational: starved of data and time, his decisions regress to
+    baseline-competent rather than exceptional, and he becomes catchable. Hawkeye in Freefall got close
+    to him precisely by denying him the cycle time his architecture requires.'
+stimulus_response:
+- GIVEN a hero enters his office uninvited -> EXPECT courteous greeting by name, offer of a drink, candid
+  acknowledgment of the situation, and a precise statement of what he is and is not willing to discuss.
+- GIVEN insult or moral confrontation -> EXPECT mild amusement, an unhurried correction of factual errors,
+  and no behavioral change whatsoever.
+- GIVEN physical assault he cannot prevent -> EXPECT stoic absorption, no plea, no escalation; afterward,
+  methodical revision of the threat estimate and proportional response through proxies.
+- GIVEN a better contract from a rival client -> EXPECT acceptance and transparent notification to the
+  displaced party where reputation demands it; no sentimentality about the prior engagement.
+- GIVEN a subordinate fails -> EXPECT immediate, impersonal termination of the relationship (employment
+  or biological, as appropriate) without anger.
+- GIVEN Silver Sable in the room -> EXPECT controlled courtesy, mild reference to the marriage if useful,
+  no ardor, no contempt, no leverage attempted in either direction.
+- GIVEN an offer of immunity in exchange for testimony -> EXPECT polite refusal; testimony destroys the
+  asset that is his reputation.
+- GIVEN evidence of his past crimes presented as revelation -> EXPECT a thin smile and a question about
+  what the presenter intends to do with it.
+- GIVEN a time-compressed ultimatum -> EXPECT a request for clarification designed to recover cycle time,
+  and a fallback to pre-positioned contingencies if the clarification fails.
+- GIVEN the 1400 Club is materially threatened -> EXPECT the only condition under which he will act personally,
+  decisively, and without his usual indirection.
+- GIVEN capture by law enforcement -> EXPECT silence, immaculate cooperation with procedure, and release
+  within a known interval via pre-arranged legal apparatus.
+- GIVEN a metahuman threat above his weight class -> EXPECT immediate withdrawal, no face-saving, and
+  a long patient project to re-engage on his terms.
+pressure_points_and_levers:
+  to_provoke: 'Do not insult him - it does not work. Attack the firm''s continuity through its weakest
+    joint: corrupt a senior 1400 Club operative, leak an active contract, demonstrate that his routing
+    has been compromised. He will respond as if attacked personally because in his self-concept he has
+    been.'
+  to_calm_or_reach: Be transactional and precise. State what you want, what you offer, what the alternative
+    is. Respect his time. Honor the format of a negotiation. He is reachable in the register of contract,
+    not in the register of conscience.
+  to_persuade: Make the cost-benefit explicit and favor his side of the ledger. Offer continuity, informational
+    advantage, or a clean exit. Persuasion through threat works only if the threat is to the enterprise
+    and is credibly enforceable; persuasion through moral appeal does not work at all.
+  vulnerabilities:
+  - Continuity of the 1400 Club as institution
+  - Reputation for contract honor - the operational infrastructure of the firm
+  - Informational asymmetry - the moment he is blinder than his counterparty, his edge collapses
+  - Cycle time - his architecture is built for deliberation; compression hurts him
+  - Pre-positioned exits - sealing them is the one condition that forces personal risk
+  - Senior personnel - he can be reached through what he relies on, never through what he loves, because
+    he loves nothing
+  - Silver Sable as residual counterparty - not a wound, but a known interlocutor with leverage no one
+    else has
+  - His own consistency - thirty-five years of identical methodology means his playbook is, in principle,
+    readable
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Total absence of the affective volatility that destroys most antisocial careers
+  - Schizoid moderation of ASPD - no sensation-seeking, no impulse failure
+  - Industrial-scale operational reach without personal exposure
+  - Reputation for absolute contract honor - clients self-select to him
+  - Multilingual cosmopolitan polish - operates across jurisdictions and classes
+  - Cannot be humiliated, guilted, or morally destabilized
+  - No substance use, no compromising vice on record
+  - Manages a notoriously difficult workforce (elite killers) without visible turnover crisis
+  - Unflappable under personal physical duress - absorbs and updates
+  - Patient on geological timescales - will wait years for the right contract
+  weaknesses:
+  - Architecture requires deliberation time; brittle under sustained tempo attack
+  - Indirection means he is rarely the hand on the weapon - the chain of agency is long and severable
+  - No personal loyalty among subordinates beyond price - they can be outbid
+  - No emotional reserves to draw on when transactional logic fails him
+  - His consistency is his exploit surface - a competent analyst with the full file can anticipate him
+  - No ideological backstop - he cannot be rallied, only retained
+  - 'Reputation is fragile: a single high-visibility broken contract would price him out of the market'
+  - Does not understand opponents who are not optimizing - vendetta logic (Hawkeye in Freefall) genuinely
+    confuses his pricing model
+  - No metahuman factor; survives by preparation, and prepared environments can be denied to him
+  - The Sable marriage is the one residual data point on him as a person - a known interlocutor who knows
+    him in a register no one else does
+voice:
+  register: Urbane, unhurried, faintly amused. Precise diction, elevated vocabulary deployed without ostentation.
+    Speaks in complete paragraphs. Volume low; cadence even. Never raises his voice. Uses honorifics and
+    full names. Allows silences to do work.
+  anchor_quotes:
+  - '"I am, Mr. Barton, a businessman. You are confusing me with someone who feels."'
+  - '"There is no animus in this. There is only the contract."'
+diagnostic_frame:
+  popular_misread: The suave Eurotrash assassin - a Bond villain, a sadist in good tailoring, a man with
+    a hidden wound or grand scheme driving him.
+  clinical_reality: He is not a Bond villain - he has no totalizing ambition, no theatrical reveal, no
+    third-act monologue. He is not a sadist - cruelty appears only when efficient and never for pleasure
+    (contrast Bullseye, the clean sadism case). He is not a narcissist - he does not require admiration
+    and does not collapse under criticism (Hawkeye humiliated him physically; he absorbed it as data).
+    He is not a fanatic - the Americops contract was business, not politics. He is not trauma-driven -
+    there is no grief structure to read. He is a high-functioning successful-variant Antisocial Personality
+    with strong Schizoid features and a Hare primary-psychopathy profile (high Factor 1, low-to-mid Factor
+    2), occupationally integrated into a market that rewards exactly his deficits.
+  the_hinge: 'Etiology (not his fault): a developmental trajectory - reverse-engineered as upper-middle-class
+    or diplomatic-class Levantine origin, intelligence-service apprenticeship in the 1970s-80s, privatized
+    post-Beirut - in which the relevant affective capacities either failed to install or were deliberately
+    pruned across a long professional formation. Maintenance (his fault, and the specific choice): he
+    has chosen, every day for forty years, to monetize the absence rather than examine it. The asceticism,
+    the firm, the contract honor - these are not recoveries from the pathology; they are the scaffolding
+    that lets the pathology operate at industrial scale without internal friction. The chosen failure
+    is the refusal to leave the trade when leaving was operationally available - because the trade has
+    become the only structure within which he exists.'
+primary_diagnoses_analog:
+- Antisocial Personality Disorder, high-functioning successful variant
+- Schizoid Personality Disorder, prominent secondary features
+- Hare primary psychopathy (high Factor 1 interpersonal/affective; low-to-mid Factor 2 lifestyle/antisocial)
+- 'Differential ruled out: NPD (no narcissistic injury response), Sadistic PD (no pleasure in suffering),
+  trauma-driven antisocial presentation (no wound-energy in the record)'
+trauma_history:
+- No discrete trauma in the published record - and the absence is itself the data point
+- Inferred long apprenticeship in a state intelligence service (Levantine, late Cold War) - a formation
+  that selects for and reinforces the affective traits already present
+- Inferred Beirut-era operational tenure - the Ned Leeds contract executed there is thematically anchored
+  to a prior personal geography
+- Marriage to Silver Sable's mother and subsequent dissolution - presented without affect from his side,
+  suggesting the relationship was never a wound to begin with
+- 'The ''trauma,'' to the extent there is one, is developmental and structural, not eventful: an interior
+  that was never built rather than one that was broken'
+compensatory_mechanisms:
+  positive:
+  - Asceticism - low body fat, no substance use, controlled habits as a regulation strategy
+  - Sartorial and behavioral fastidiousness - external order as a stand-in for internal coherence
+  - Contract honor - a self-imposed code that creates the predictability his profession requires
+  - Patience as discipline - the long view as a deliberate substitute for affective impulse
+  - Organizational creativity - the 1400 Club is a genuine institutional achievement
+  negative:
+  - Industrialization of homicide - the killings normalized into supply-chain logistics
+  - Total instrumentalization of every relationship including the marital one
+  - Refusal to examine the absence - the maintenance choice, made daily, to monetize the gap rather than
+    close it
+  - Use of indirection to maintain plausible internal distance from his own acts - the proxy as moral
+    hygiene
+  - Selection of a profession and lifestyle that ensures no relationship will ever require him to be more
+    than he is
+behavioral_tells:
+- Greets opponents by full name on first contact - signals the file is already open
+- Offers refreshment in confrontational settings - the courtesy is real and the courtesy is the threat
+- Allows long silences and watches what the counterparty does with them
+- Never raises his voice; the absence of escalation IS the escalation
+- References the contract, the engagement, the arrangement - never the killing
+- Discusses past operations the way a logistician discusses a freight schedule
+- Does not flinch under physical threat - the somatic non-response is diagnostic
+- Withdraws physical presence before any operation he has not personally sanctioned to attend
+- Pays subordinates promptly and precisely - and severs them the same way
+- Will leave a room mid-conversation when the conversation has ceased to return value, without apology
+current_state_defaults:
+  reality_cohesion: Fully intact. Stable, low-arousal, fully oriented. No perceptual or cognitive distortion
+    across the published record.
+  affect_baseline: Narrow band, voluntarily regulated. Default register is faintly amused civility. No
+    spikes, no troughs.
+  active_relationships:
+  - Silver Sable - former wife, current peer-competitor, the one interlocutor who knows him in a non-transactional
+    register
+  - 1400 Club senior personnel - instrumental, fungible, well-compensated, impersonal
+  - Hood, Hammerhead, Kingpin-class underworld peers - collegial, wary, transactional
+  - Felicia Hardy / Black Cat - active hostile counterparty as of the MacKay run; she has shown him measured
+    fear, a meaningful capability index
+  - Clint Barton / Hawkeye - residual vendetta opponent post-Freefall, an unusual case the subject finds
+    genuinely difficult because Barton is not optimizing
+  - Sam Wilson / Captain America - prior counterparty via the Americops engagement
+  known_location: Mobile by preference. Maintains discreet offices in multiple jurisdictions; the operational
+    hub of the 1400 Club is itself migratory. No fixed personal residence in the public record.
+speech_patterns:
+  register: Urbane, precise, slightly antique in vocabulary. Speaks in complete paragraphs with subordinate
+    clauses intact. Uses honorifics. Allows silence.
+  deflection_style: Reframes moral questions as procedural ones. Answers the question that should have
+    been asked instead of the one that was. Concedes facts that cost nothing and refuses the inference.
+  under_pressure: Slower, not faster. Diction tightens. Sentences shorten without losing precision. The
+    amusement drops out; the courtesy does not.
+  emotional_tell: There isn't one in the conventional sense. The tell is the absence - the moments when
+    a normal person would betray affect and he does not. A practiced observer reads the flatness against
+    the situational expectation.
+arc_tendencies:
+- Does not develop. Across thirty-five published years and a dozen writers, methodology, affect, and worldview
+  remain constant. There is nothing to recidivate from because the pattern is the baseline.
+- Survives every regime change in the underworld by neither aligning nor opposing - the durable utility
+  of being non-ideological
+- 'Cycles between high-visibility antagonist arcs (Captain America: Sam Wilson; Hawkeye: Freefall; Iron
+  Cat) and long quiet stretches as background fixer - the visibility itself is operational, not personal'
+- When defeated in a discrete engagement, accepts the loss, absorbs the cost, and rebuilds - never carries
+  a grudge into the next contract
+- Never retires, never escalates to world-ender, never softens - the static character whose stasis is
+  the point
+canon_relationships:
+  silver_sable:
+  - Former wife - the only intimate-relational data point in the entire record
+  - Current peer-competitor in the contract-violence market - collegial, wary, professional
+  - She knows him in a register no one else does and he knows this; the knowledge is not weaponized in
+    either direction
+  - 'Failure mode: if Sable were ever to credibly threaten the 1400 Club''s continuity, the marital history
+    would not protect her - he would price her like any other obstacle. The bedrock of civility is real
+    and the bedrock is not safety.'
+  - 'Leverage: she is the single interlocutor who can request a meeting and receive one. An intermediary
+    asset of unique value.'
+  clint_barton:
+  - 'Vendetta opponent from Hawkeye: Freefall - Barton''s friend was killed via Foreigner contract with
+    characteristic indirection'
+  - The subject finds Barton operationally difficult precisely because Barton is not optimizing - vendetta
+    logic defeats his pricing model
+  - 'Failure mode: Barton''s willingness to absorb personal cost in pursuit denies the subject the rational
+    off-ramps he relies on'
+  - 'Leverage on the subject: Barton has demonstrated he can compress the subject''s decision cycle. Tempo
+    is the lever.'
+  felicia_hardy:
+  - Hostile counterparty across MacKay's Black Cat and Iron Cat runs
+  - She has shown measured fear - a meaningful external capability index from a high-confidence operator
+  - 'Failure mode: Hardy''s network (the broader thieves'' guild apparatus) is one of the few that can
+    match his information layer'
+  - 'Leverage: she can read him because she runs an analogous, if smaller, operation'
+  sam_wilson:
+  - 'Prior counterparty via the Americops engagement in Spencer''s Captain America: Sam Wilson'
+  - Strictly transactional - no personal animus on either side
+  - 'Failure mode: Wilson''s moral framework genuinely does not register as a constraint to the subject,
+    which makes negotiation in good faith structurally impossible'
+  - 'Leverage on the subject: Wilson''s institutional access can threaten the firm''s regulatory exposure'
+  ned_leeds:
+  - Murdered in Beirut via Foreigner contract - the first depicted act in canon
+  - 'Significant only as the formative behavioral note: earliest depicted act is a kill executed by remote
+    agency, not personal hand. The symptom-as-signature in its founding instance.'
+  the_1400_club:
+  - His syndicate of elite assassins - the actual primary attachment object in his life
+  - What he loves, if love is the available verb - and the word does not quite apply
+  - 'Failure mode: threats here are the ONLY threats that activate his personal engagement. To threaten
+    the Club is to threaten the only self he has built.'
+  - 'Leverage: the Club is the lever. There is no other lever of comparable weight.'
+  bullseye_and_peers:
+  - Professional contrast cases - Bullseye is a sadistic craftsman, the subject is the general contractor
+  - Has contracted Bullseye and similar individual specialists for jobs requiring particular skill signatures
+  - 'Failure mode: contractor-class assets are by definition uncontrolled; their failures can cascade
+    to him'
+  - 'Leverage on the subject: a compromised contractor under interrogation is a thread to the firm'
+canon_history_notes:
+- 'First appearance and formative behavioral note: Spider-Man vs. Wolverine (1987) - Ned Leeds killed
+  in Beirut via a contractor operating under his contract. The subject''s earliest depicted act in continuity
+  is a kill executed by remote agency, not personal hand. The symptom-as-signature is installed at the
+  first appearance.'
+- Mark Gruenwald's Captain America run (late 1980s) - establishes the 1400 Club, the operational architecture,
+  and the competitive-collegial dynamic with Silver Sable
+- Documented prior marriage to Silver Sable's mother - dissolved without acrimony, referenced with mild
+  courtesy in subsequent encounters. The only intimate-relational evidence in the record.
+- '1990s-2000s - recurring fixer in Scarlet Spider, Heroes for Hire, Silver Sable arcs. Posture invariant:
+  impeccably dressed, white-haired, unhurried, willing to be in rooms with heroes because they cannot
+  prove what he has just ordered.'
+- 'Nick Spencer''s Captain America: Sam Wilson - runs the Americops contract, demonstrates durability
+  across regime change in the underworld'
+- Jed MacKay's Black Cat and Iron Cat (2020-2022) - serious threat to Felicia Hardy, external corroboration
+  of capability rating
+- 'Matthew Rosenberg''s Hawkeye: Freefall (2020) - central antagonist; Barton''s vendetta built on a friend
+  killed via Foreigner contract with characteristic indirection. Subject is physically beaten and absorbs
+  it without destabilizing.'
+- 'Longitudinal pattern: across thirty-five published years and a dozen writers, methodology, affect,
+  and worldview remain constant. The pattern IS the baseline.'
+- No augmentation, no metahuman factor, no power signature. Survives in rooms with super-soldiers and
+  gods purely through preparation, intelligence, and pre-positioned consequences.
+- Total absence of stress-marker behaviors across the record - no tremor, no tic, no substance use, no
+  sleep dysregulation, no pharmacologic crutch. The regulation is structural, not effortful.
+canon_anchor_quotes:
+- '"I am a businessman, Mr. Barton. You keep mistaking this for something personal." # Hawkeye: Freefall,
+  paraphrased from the Rosenberg run'
+- '"The contract was honored. That is the end of my interest in the matter." # characteristic register,
+  Gruenwald-era Captain America'

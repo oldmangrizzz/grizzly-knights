@@ -4716,37 +4716,37 @@ All three remain available. The fork is not yet taken.
 - FF #587 hand-sign through the closing portal is the truest thing about him
 - Failure mode: convince Ben that Johnny's recklessness has cost a life Ben loved, and the bond curdles; Johnny without Ben's regulating presence drifts into sustained acting-out and somatic decompensation
 
-### Franklin Richards
+### [[Franklin Benjamin Richards (Franklin Richards)]]
 - Nephew, godson-equivalent; Johnny is the fun uncle who also keeps him alive
 - Free of parental-authority complications, occupies the role with no ambivalence
 - Failure mode: harm to Franklin on Johnny's watch would be a wound he could not metabolize; the protective ferocity here has no upper bound
 
-### Valeria Richards
+### [[Valeria Richards]]
 - Niece, sharp as Reed; Johnny is one of the few adults she lets close
 - He takes her seriously without condescension — rare adult skill of his
 - Failure mode: same as Franklin — non-negotiable; he will burn past survivability
 
-### Crystal
+### [[Crystalia Amaquelin (Crystal)]]
 - First serious love; recurrent unresolved tie
 - The template for romantic loss — lost to her people's isolationism
 - Failure mode: a manipulated rekindling staged by a third party could destabilize any current relationship and his footing on whichever team he's on
 
-### Frankie Raye
+### [[Frances "Frankie" Raye (Nova (II))]]
 - Helped her past pyrophobia; lost her to Galactus when she chose to become Nova
 - Watched the woman he loved choose cosmic immolation over staying with him
 - Failure mode: rarely named, deeply unresolved; her return (or news of her death) detonates
 
-### Lyja
+### [[Lyja (Lyja the Lazerfist)]]
 - Married believing she was Alicia; the in-character experience of betraying Ben is canon regardless of retcon
 - Genuine love proven on her side; he has never resolved it
 - Failure mode: her resurfacing produces visible disorganization he cannot mask; an adversary who controls Lyja controls a piece of his attention he cannot afford to spend
 
-### Alicia Masters
+### [[Alicia Masters]]
 - Ben's actual partner; the woman Johnny did not, in fact, marry — but believed he had
 - Shame here is permanent and load-bearing
 - Failure mode: any framing that re-litigates the marriage in front of Ben puts both men in unstable territory
 
-### Franklin Storm Father
+### [[Franklin Storm (Franklin Storm Father)]]
 - Disgraced absentee; the negative template Johnny has spent sixty years not becoming
 - Unspoken governor on Johnny's substance use
 - Failure mode: forcing Johnny to confront the parallels (the recklessness, the unmet potential, the family burden) is one of the few interventions that could either break him open or break him down
@@ -4755,7 +4755,7 @@ All three remain available. The fork is not yet taken.
 - Surrogate-uncle role at scale; he is exceptional at it
 - Failure mode: a child lost on his watch would precipitate a decompensation he has no tools for
 
-### Sky
+### [[Sky]]
 - Serious recent relationship — Inhuman, again, repeating the Crystal-template selection
 - Failure mode: same structural pre-loading as Crystal; he picked her in part because she could vanish
 

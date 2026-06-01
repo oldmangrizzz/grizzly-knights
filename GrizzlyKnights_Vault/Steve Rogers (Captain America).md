@@ -4218,13 +4218,13 @@ Whether anyone is positioned to deliver that message, and whether he is position
 - Failure mode: Natasha's tradecraft sometimes asks of him compromises he refuses; clean break possible if she crosses the line on civilians
 - Leverage: Natasha can deliver hard truths he will accept from no one else
 
-### Nick Fury
+### [[Nicholas Joseph Fury (Nick Fury)]]
 - Long professional alliance; institutional anchor he respects without trusting institutionally
 - Trust: personal yes, organizational conditional
 - Failure mode: Fury's willingness to operate in gray that Steve will not enter — repeated ruptures, repeated reconciliations
 - Leverage: Fury can frame a request operationally that Steve would refuse morally if framed otherwise; finite-use lever
 
-### Red Skull
+### [[Johann Schmidt (Red Skull)]]
 - Ideological opposite; the thing Captain America was built to refute
 - Trust: zero; respect for capability, none for person
 - Failure mode: Skull specializes in moral-frame attacks (Peggy invocations, ideological mirror-traps); has repeatedly extracted overreach from Steve

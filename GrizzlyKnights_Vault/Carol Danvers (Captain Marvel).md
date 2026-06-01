@@ -3975,5 +3975,5 @@ The probability that she finds that afternoon is, on the current evidence, rough
 ### [[Anna Marie LeBeau (Rogue)]]
 - Rogue once absorbed Carol's powers, memories, and self wholesale, leaving her an emptied shell. For a woman whose core was already thin, having it literally stolen is the deepest violation; the entanglement between them is canon and unhealed.
 
-### Mar Vell
+### [[Mar-Vell (Captain Marvel / Protector of the Universe / Walter Lawson)]]
 - The original Captain Marvel whose name and legacy she carries. The mantle is both honor and burden — another external structure she wears to hold a self that has no internal frame.

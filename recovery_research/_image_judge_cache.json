@@ -1,0 +1,478 @@
+{
+ "aamir_khan": {
+  "h": "548c8a9acb86e8fb4a7cd508eb46a0d928965867",
+  "match": false,
+  "mismatches": [
+   "hair color is wrong"
+  ]
+ },
+ "aaron_davis": {
+  "h": "55e90f7d6eae31ea956195b0f66ad05857042538",
+  "match": true,
+  "mismatches": []
+ },
+ "abigail_brand": {
+  "h": "fccba12664f3b5073ef7422989646152f97cc943",
+  "match": true,
+  "mismatches": []
+ },
+ "adam_warlock": {
+  "h": "3d7446190d5a508a8d286cf283eda6ecf3f24380",
+  "match": true,
+  "mismatches": []
+ },
+ "alicia_masters": {
+  "h": "9ee79f8ec893858018c92e820ec14b267f8ffb16",
+  "match": true,
+  "mismatches": []
+ },
+ "anya": {
+  "h": "c4ebff370b870b3d4b67b3dfa5d22f77ebe50dc6",
+  "match": true,
+  "mismatches": []
+ },
+ "apocalypse": {
+  "h": "d8a68c470b971a967cdd22af76d9119d2e84ff5c",
+  "match": true,
+  "mismatches": []
+ },
+ "barracuda": {
+  "h": "26a98039c1e7e9b71b519c77c652ef08b228e746",
+  "match": true,
+  "mismatches": []
+ },
+ "ben_grimm": {
+  "h": "aeb92dc79334667eb70fc3cf94949c8530f70f73",
+  "match": true,
+  "mismatches": []
+ },
+ "bernard_barton": {
+  "h": "a06bcb705dea6585abe50766f4580b48b782f719",
+  "match": true,
+  "mismatches": []
+ },
+ "betty_ross": {
+  "h": "da34aa249e45527148bb913e1282d640cbac3d9f",
+  "match": false,
+  "mismatches": [
+   "A DEFINING non-human trait is missing"
+  ]
+ },
+ "black_fox": {
+  "h": "9412efe702b737435d200a5b64c97958cbea9a01",
+  "match": true,
+  "mismatches": []
+ },
+ "blade": {
+  "h": "8ccbe35e332abe39730dd9ff7cfcf60310219e66",
+  "match": true,
+  "mismatches": []
+ },
+ "bobbi_morse": {
+  "h": "462b4a05602a4b4e4c43bcda3bc1105ca6d693d6",
+  "match": true,
+  "mismatches": []
+ },
+ "bobby_drake": {
+  "h": "171be29dabe50932dd506c64490a68cd2926a4ac",
+  "match": true,
+  "mismatches": []
+ },
+ "brian_banner": {
+  "h": "37d4d7f26712b022cd6241e72a2cabcb73dd2719",
+  "match": true,
+  "mismatches": []
+ },
+ "brock_rumlow": {
+  "h": "f16ec37a740ab086a8bba7315d904d6667f06a27",
+  "match": false,
+  "mismatches": [
+   "wrong costume/insignia"
+  ]
+ },
+ "bruce_banner": {
+  "h": "8728dbab992ad69bfd80c4d73d997e4e529a9f83",
+  "match": true,
+  "mismatches": []
+ },
+ "bruno_carrelli": {
+  "h": "7059c24d23cafff5032f31837d76c0cf8d8b7e45",
+  "match": true,
+  "mismatches": []
+ },
+ "bucky_barnes": {
+  "h": "4e3035153e437c4f5dce0100bb0a74f62d3dad3b",
+  "match": true,
+  "mismatches": []
+ },
+ "cain_marko": {
+  "h": "da06196d8db71cd5fab500452f2ebba706a44250",
+  "match": true,
+  "mismatches": []
+ },
+ "carol_danvers": {
+  "h": "8be393c1c42e7a7857f4cb8904d05f1bc02b7bdd",
+  "match": true,
+  "mismatches": []
+ },
+ "charles_xavier": {
+  "h": "5eb1f96aae6141fd995ecedd38c857d938ba932c",
+  "match": true,
+  "mismatches": []
+ },
+ "clint_barton": {
+  "h": "d80ef2b131d40c18e75b85904ca10027e7d7805b",
+  "match": true,
+  "mismatches": []
+ },
+ "colleen_wing": {
+  "h": "5fb2690224d8e8439d9276c3d552c0d8a45d0575",
+  "match": true,
+  "mismatches": []
+ },
+ "crystal": {
+  "h": "cac29acd30ff237d74eb77ba151f7bf0deef29b4",
+  "match": false,
+  "mismatches": [
+   "Hair color is grossly wrong"
+  ]
+ },
+ "danielle_cage": {
+  "h": "5ff207a71f9ac386a4bd861d12fbd4b65964f515",
+  "match": true,
+  "mismatches": []
+ },
+ "danny_rand": {
+  "h": "ae07cd5b674bafe616303ee709bceca4eb1cf4ba",
+  "match": true,
+  "mismatches": []
+ },
+ "daredevil_matt_murdock": {
+  "h": "5db50db6194e0849f7962dddf96ec0565457fe57",
+  "match": false,
+  "mismatches": [
+   "hair color is wrong"
+  ]
+ },
+ "david_haller": {
+  "h": "f3fffde118a20d44901904d11efeb657d8554239",
+  "match": true,
+  "mismatches": []
+ },
+ "davos": {
+  "h": "726fa2049e6885c063228cae220ab03f1977ed85",
+  "match": true,
+  "mismatches": []
+ },
+ "doctor_octopus": {
+  "h": "3b05f6db1c6df8a6772d482bb952c5400499ae8c",
+  "match": false,
+  "mismatches": [
+   "DEFINING non-human trait is missing"
+  ]
+ },
+ "doctor_strange": {
+  "h": "09121a5e69e9c446c220fd34395350ef26c18935",
+  "match": true,
+  "mismatches": []
+ },
+ "emma_frost": {
+  "h": "f4cdc92c3f8365c9f842169b495b13d7a23cb810",
+  "match": true,
+  "mismatches": []
+ },
+ "erik_lehnsherr": {
+  "h": "23f6801a26876048d383c1c21b3163ed92c7d03f",
+  "match": true,
+  "mismatches": []
+ },
+ "felicia_hardy": {
+  "h": "76bde34013ee5d2511e6a98537b6548101d8e0d1",
+  "match": true,
+  "mismatches": []
+ },
+ "frank_castle": {
+  "h": "e6be925b12ff0b9374366b76904fccde72232ca5",
+  "match": true,
+  "mismatches": []
+ },
+ "frank_castle_jr": {
+  "h": "af3fd2ad4c5370b9d494581c33736e013506479d",
+  "match": true,
+  "mismatches": []
+ },
+ "frankie_raye": {
+  "h": "02abe9a6221c41da38f56f6319e009be380a1cc2",
+  "match": true,
+  "mismatches": []
+ },
+ "franklin_richards": {
+  "h": "e72a56a87d1147350cae5b28247dcf91d560e0d9",
+  "match": true,
+  "mismatches": []
+ },
+ "franklin_storm_father": {
+  "h": "c4c37f7725015c87e9745b2889b1f1cbe52f5fd6",
+  "match": true,
+  "mismatches": []
+ },
+ "galactus": {
+  "h": "97a49ed119eaa88da6cf133d527dad296b01c877",
+  "match": false,
+  "mismatches": [
+   "skin color is wrong",
+   "non-human traits missing"
+  ]
+ },
+ "gamora": {
+  "h": "d9ae4441d826d3eb9f9e12aacd81db2f4e9d0ea5",
+  "match": true,
+  "mismatches": []
+ },
+ "ganke_lee": {
+  "h": "2b6000a09a3e45b5f11e4945c28efb2987937a05",
+  "match": true,
+  "mismatches": []
+ },
+ "hank_mccoy": {
+  "h": "1c594d57a881c85659e9868b9b825199db339f27",
+  "match": true,
+  "mismatches": []
+ },
+ "harold_meachum": {
+  "h": "2b9811cdb2cb02bb6a4009a0fca22f15707bf34f",
+  "match": true,
+  "mismatches": []
+ },
+ "heather_rand": {
+  "h": "987e238d5130b01e56f4f8166aa23d80ae5368cc",
+  "match": true,
+  "mismatches": []
+ },
+ "heinrich_zemo": {
+  "h": "9fec5ab43dd367ade359b5de99031586acb46d48",
+  "match": true,
+  "mismatches": []
+ },
+ "helmut_zemo": {
+  "h": "298418472571ffbc6cf5acae0c124e7f1a22edf9",
+  "match": true,
+  "mismatches": []
+ },
+ "jean_grey": {
+  "h": "d1d8c57548b83b9261399b2e0ffea4ac8aa9f08e",
+  "match": true,
+  "mismatches": []
+ },
+ "jefferson_davis": {
+  "h": "a5d49ae2523720bd368cd3d3e2471384adf2f838",
+  "match": true,
+  "mismatches": []
+ },
+ "jennifer_walters": {
+  "h": "f22b23bb011d42e1929f1e6119ea069cef14c48d",
+  "match": true,
+  "mismatches": []
+ },
+ "jeryn_hogarth": {
+  "h": "ef0ad339020903d21ccebadc431d0ceae1aa744d",
+  "match": true,
+  "mismatches": []
+ },
+ "jessica_drew": {
+  "h": "3c94c8dccf199fbeda37c568d5cca6edcc30c960",
+  "match": true,
+  "mismatches": []
+ },
+ "jessica_jones": {
+  "h": "c58576b7045db32f9b55dbc5ac15d13cc84d9805",
+  "match": true,
+  "mismatches": []
+ },
+ "johnny_blaze": {
+  "h": "2d6a6d9764d039c3dddca13dbdb391c695e0f717",
+  "match": false,
+  "mismatches": [
+   "hair color is wrong",
+   "defining non-human trait (flaming skull) is missing"
+  ]
+ },
+ "johnny_storm": {
+  "h": "974a4f415ab013c206aa77117fb606c36c023002",
+  "match": true,
+  "mismatches": []
+ },
+ "jonah_jameson": {
+  "h": "8fe21db80699e33ce8cc57ec56188062cc9897f7",
+  "match": true,
+  "mismatches": []
+ },
+ "joy_meachum": {
+  "h": "0cc6b3afdbe6b2aca2908110905f5707636fd606",
+  "match": false,
+  "mismatches": [
+   "Hair color is wrong (expected dark hair, shown blonde)"
+  ]
+ },
+ "kamala_khan": {
+  "h": "d1daf68ff3b79a71ad8045cb83fe57651de59203",
+  "match": true,
+  "mismatches": []
+ },
+ "kate_bishop": {
+  "h": "c74bf02ffb9ab364b9567d370877f8071e234e34",
+  "match": true,
+  "mismatches": []
+ },
+ "killgrave": {
+  "h": "39093399fe186418a6e84f8a326beb08e48ce4b0",
+  "match": true,
+  "mismatches": []
+ },
+ "kingpin": {
+  "h": "94fc564440aeec15f17c94306795271a057ebc76",
+  "match": true,
+  "mismatches": []
+ },
+ "kitty_pryde": {
+  "h": "072e055e4a384ffa7370752a35a88444d7d55843",
+  "match": true,
+  "mismatches": []
+ },
+ "kurt_marko": {
+  "h": "c867bb43cd667ce2f1e4866661b94dc13e8fe574",
+  "match": true,
+  "mismatches": []
+ },
+ "kurt_wagner": {
+  "h": "e3e0397d04d5537cda091fe608966bd1f33ce067",
+  "match": true,
+  "mismatches": []
+ },
+ "lei_kung": {
+  "h": "df6d79e67375738ce61c323744188135abc93f4a",
+  "match": true,
+  "mismatches": []
+ },
+ "leonard_samson": {
+  "h": "6d7411233ee5e545e9073a6e4080fa7cd0cb58df",
+  "match": true,
+  "mismatches": []
+ },
+ "lilandra_neramani": {
+  "h": "67424305933f0390e6572fd234c6aa2c9c735c71",
+  "match": false,
+  "mismatches": [
+   "hair color is wrong (expected black, shown white)",
+   "defining non-human traits are missing (hair feathers missing)"
+  ]
+ },
+ "lin_lie": {
+  "h": "c8dbbf02367f7fab8935f937a1779ac2d1b67ae0",
+  "match": true,
+  "mismatches": []
+ },
+ "lisa_castle": {
+  "h": "6b483d1ad164b1ac94d10a4637ffa5fc9e9fddcb",
+  "match": false,
+  "mismatches": [
+   "hair color is wrong"
+  ]
+ },
+ "logan": {
+  "h": "a8053ee4306773c77156c8bc3b3996205d8a35c5",
+  "match": false,
+  "mismatches": [
+   "hair color is wrong",
+   "defining non-human traits missing"
+  ]
+ },
+ "lucky_the_pizza_dog": {
+  "h": "ae9610d7c6215790362d178a58cbdf9a36734a36",
+  "match": true,
+  "mismatches": []
+ },
+ "luke_cage": {
+  "h": "9eee2f42ad979756e3212ebc185014b0c61f7b95",
+  "match": true,
+  "mismatches": []
+ },
+ "lyja": {
+  "h": "c072b595f0cde1769559c9e0943573592589146a",
+  "match": false,
+  "mismatches": [
+   "hair color is wrong",
+   "skin color is wrong",
+   "missing defining non-human traits"
+  ]
+ },
+ "madelyne_pryor": {
+  "h": "222b34dbd572db6467a4978a02030a8a13204a3c",
+  "match": true,
+  "mismatches": []
+ },
+ "magda": {
+  "h": "f4e7fb999b725fb9068120a0c2be5faf1a37a23a",
+  "match": true,
+  "mismatches": []
+ },
+ "malcolm_ducasse": {
+  "h": "42b845557b376688c1bdbd69220809734095e30b",
+  "match": true,
+  "mismatches": []
+ },
+ "mar_vell": {
+  "h": "cb62a1129ab4e014f82f02c2b91e7eae02846546",
+  "match": false,
+  "mismatches": [
+   "hair color is wrong"
+  ]
+ },
+ "marc_spector": {
+  "h": "c6fe858e1ccd5c12762c2157ca70957a287246f2",
+  "match": true,
+  "mismatches": []
+ },
+ "maria_castle": {
+  "h": "6d58ca65cc2ac68291ea771690a5dedc14a93f7a",
+  "match": true,
+  "mismatches": []
+ },
+ "maria_hill": {
+  "h": "b3fd47d1ba982851a091740d5afaeec3866af109",
+  "match": true,
+  "mismatches": []
+ },
+ "mary_jane_watson": {
+  "h": "23b842b52849ddf6ee666c70b457dc3344eb768b",
+  "match": true,
+  "mismatches": []
+ },
+ "matt_murdock": {
+  "h": "0169fd51c14eed7703f893986176dd482c2e22e6",
+  "match": true,
+  "mismatches": []
+ },
+ "matt_murdock_daredevil": {
+  "h": "5f950e9a59dbecd0d4c8bcfb93ec39a00f7bb7f2",
+  "match": false,
+  "mismatches": [
+   "hair color"
+  ]
+ },
+ "mephisto": {
+  "h": "c6889a0c7f35809fb656ca2e6e893d13ec3c1b5a",
+  "match": true,
+  "mismatches": []
+ },
+ "microchip": {
+  "h": "d0d8be53b84a8c744d1741f6afa5f1d7948c8192",
+  "match": true,
+  "mismatches": []
+ },
+ "miles_morales": {
+  "h": "87f26716a02c55d1830a0cf362adfb4b006e22fe",
+  "match": true,
+  "mismatches": []
+ }
+}

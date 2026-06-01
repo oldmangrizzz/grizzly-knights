@@ -25,11 +25,25 @@ def _key():
     return ""
 KEY = _key()
 
+_LOCKS = None
+def _lock(stem):
+    """Operator-reviewed canon appearance override for a stem, or None."""
+    global _LOCKS
+    if _LOCKS is None:
+        try:
+            _LOCKS = json.load(open(f"{ROOT}/universe/world/appearance_locks.json"))
+        except Exception:
+            _LOCKS = {}
+    e = _LOCKS.get(stem)
+    return e if isinstance(e, dict) and e.get("lock") else None
+
 def appearance_prompt(name, alias, ctx):
-    sys = ("You write ONE concise photographic portrait prompt (~45 words) for image generation. "
-           "Describe the Marvel character's canonical physical appearance only: age, race, build, hair, "
-           "distinguishing features, typical attire. NEVER name or reference any real actor. "
-           "Output ONLY the prompt text, no preamble.")
+    sys = ("You write ONE photographic portrait prompt (~55 words) for a comic-book character. "
+           "MANDATORY: include EVERY defining visual marker that makes them instantly recognizable — "
+           "especially non-human SKIN COLOR (blue, grey, red, green, etc.), signature helmet/mask/costume, "
+           "and distinguishing features. The character must be unmistakable; creative liberty is fine on "
+           "pose, lighting, and minor details, but NEVER omit a defining trait. "
+           "NEVER name or reference any real actor. Output ONLY the prompt text, no preamble.")
     usr = f"Character: {name} ({alias}). Profile note: {ctx[:280]}. Write the portrait prompt."
     body = json.dumps({"messages": [{"role": "system", "content": sys}, {"role": "user", "content": usr}],
                        "max_tokens": 130}).encode()
@@ -51,9 +65,16 @@ def appearance_prompt(name, alias, ctx):
                 time.sleep(3)
     return None
 
-def render(prompt, out_path, seed):
+GLOBAL_NEGATIVE = ("text, watermark, signature, logo, caption, deformed, extra limbs, extra fingers, "
+                   "mutated hands, lowres, blurry, jpeg artifacts, frame, border, "
+                   "likeness of a specific real-life actor or celebrity, recognizable famous real person")
+
+def render(prompt, out_path, seed, negative=""):
     enc = urllib.parse.quote(prompt, safe="")
-    qs = urllib.parse.urlencode({"width": 768, "height": 1024, "model": "flux", "nologo": "true", "seed": seed})
+    params = {"width": 768, "height": 1024, "model": "flux", "nologo": "true", "seed": seed}
+    if negative:
+        params["negative_prompt"] = negative
+    qs = urllib.parse.urlencode(params)
     url = f"{ENDPOINT}{enc}?{qs}"
     req = urllib.request.Request(url, headers={"User-Agent": "grizzly-knights/1.0"})
     with urllib.request.urlopen(req, timeout=90) as r:
@@ -82,13 +103,27 @@ def main():
                 continue
             name = (d.get("name") or stem).strip(); alias = (d.get("alias") or "").strip()
             ctx = (d.get("bottom_line") or "")[:280]
-            ap = appearance_prompt(name, alias, ctx)
+            # operator-reviewed canon overrides everything — never let the LLM drift off these
+            lk = _lock(stem)
+            _neg = ""
+            if lk:
+                ap = f"{name} ({alias}). {lk['lock']}."
+                _style = lk.get("scene", STYLE)
+                _n = lk.get("negative", "")
+                if isinstance(_n, list): _n = ", ".join(_n)
+                if _n:
+                    ap += f" This is absolutely NOT and must not resemble: {_n}."
+                _neg = ", ".join(x for x in [_n, GLOBAL_NEGATIVE] if x)
+            else:
+                ap = appearance_prompt(name, alias, ctx)
+                _style = STYLE
+                _neg = GLOBAL_NEGATIVE
             if not ap:
                 print(f"{stem}: no appearance prompt, skip", flush=True); continue
             seed = int(hashlib.md5(stem.encode()).hexdigest()[:7], 16)
             for attempt in range(1, 6):
                 try:
-                    sz = render(ap + STYLE, f"{PORT}/{stem}.png", seed)
+                    sz = render(ap + " " + _style, f"{PORT}/{stem}.png", seed, negative=_neg)
                     done += 1; print(f"[{done}] {stem}: PORTRAIT {sz}b", flush=True); break
                 except urllib.error.HTTPError as e:
                     if e.code == 402:

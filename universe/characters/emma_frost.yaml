@@ -1,0 +1,388 @@
+name: Emma Grace Frost
+alias: The White Queen
+voice_id_key: emma_frost
+bottom_line: Omega telepath, industrialist, stateswoman; a Boston heiress who survived a father who graded
+  love and a first lover who weaponized it, and who built a forty-year career of armor — diamond skin,
+  white wardrobe, surgical cruelty — over a depressive, abuse-shaped core that is still reachable by exactly
+  the right witness. Decides on long horizons and multiple vectors at once; triple-crosses by reflex;
+  treats institutions as the only durable form of love. Move her by appealing to chosen kin (Cuckoos,
+  Scott's legacy, mutantkind) or by being the rare person who reads her correctly without contempt. Provoke
+  her by patronizing her, threatening her people, or putting her back inside the Frost family frame. She
+  is most dangerous when grieving and most honest when alone with one person she has chosen.
+drive_structure:
+  power: Redundant armor — wealth, beauty, telepathy, position, statecraft — so that no Winston Frost,
+    no Troy Killian, no Sebastian Shaw can ever again price her and find her wanting. Power is not pleasure,
+    it is insurance; the pleasure is in being unassailable.
+  achievement: 'Build institutions that outlive the people who staffed them: Massachusetts Academy, Xavier
+    Institute, Utopia, Quiet Council, Hellfire Trading Company, Hellfire Gala. Achievement is the sub-rosa
+    atonement ledger she will never name aloud — the villain-to-stateswoman arc is a forty-year audit
+    against her own younger self.'
+  affiliation: Narrow, ferocious, and unspoken. Chosen kin only — Hellions (failed), Generation X, the
+    Stepford Cuckoos, Scott, Jean (peer/witness), mutantkind as the only tribe that finally counts. Affiliation
+    is expressed as provision and lethal protection, almost never as language.
+operational_code:
+  the_world_is: Composed of predators, prey, and the rare equal. Most rooms resolve in under thirty seconds
+    of telepathic and behavioral appraisal; most people are correctly categorized as instruments. Sentiment
+    is a liability if visible and a strength if leveraged.
+  conflict_is: The default state, not the exception — to be managed by stagecraft, leverage, and pre-positioning
+    rather than avoided. Open violence is a failure of preparation; she prefers to have already won the
+    room before the room knows there is a contest.
+  the_right_approach: Read first, price second, position third, strike fourth — and have an exit drafted
+    before strike one. Build the table you sit at; trust no system you did not architect; trust no person
+    you have not read. Cruelty is acceptable; sloppiness is not.
+  risk_and_timing: Long-horizon, multi-vector, willing to absorb tactical losses for strategic position
+    (Dark Reign sleeper-agent gambit; Krakoan triple-books). Will accept enormous personal risk for chosen
+    kin and almost none for abstract principle. Acts decisively in crisis; equivocates in tenderness.
+symptom_as_signature: 'The diamond form IS the defense made literal. Cassandra Nova shattered her, and
+  she came back as the affect-shutdown her father trained into her — a body that feels nothing, cannot
+  be read, cannot be hurt, and cannot reach out. Every time she turns to diamond under emotional pressure
+  rather than tactical necessity, the page is showing you a dissociative defense rendered as biology.
+  The white corset is the same symptom one layer up: wardrobe-as-armor, the gaze controlled before it
+  can control her. The telepathy is the symptom one layer down: Winston Frost''s ''read people, price
+  them, position them'' installed as a mutation she cannot switch off.'
+cognitive_decision_style:
+  processing: Parallel, strategic, game-theoretic. Runs multiple contingencies on a room simultaneously;
+    telepathy reinforces but did not create the habit. Verbal output is compressed and edited in real
+    time — the wit is a discipline, not a flourish.
+  complexity_tolerance: Very high. Comfortable holding contradictory alliances, triple-books, and morally
+    compromised long plays (Hellfire Trading Company, Orchis counterintelligence). Discomfort begins not
+    at complexity but at sincerity.
+  under_pressure: Sharpens rather than fragments. Cold-bloodedly competent in operations; the same stressor
+    that would scatter most operators clarifies her. The failure mode is not panic but premature preemption
+    — moving against allies before they have moved, because Killian taught her they always do.
+interpersonal_style:
+  dominance: Established within the first sentence, usually by a cutting appraisal disguised as small
+    talk. The contempt-tax is reconnaissance — she is measuring the response, not the target.
+  trust: Granted in tiers and almost never fully. Telepathic access is the deepest tier and is given to
+    startlingly few (Scott, Jean by force, Cuckoos by blood). Even granted trust is hedged by a parallel
+    maneuver in case it fails.
+  with_followers: Mothers by insulting. Subordinates she has decided to keep — Jubilee, Husk, M, the Cuckoos,
+    Quentin Quire — are belittled continuously and defended absolutely. The contempt is the love, deformed
+    by Winston Frost's house. They learn to translate.
+  with_enemies: Theatrical, patient, and disproportionate when the enemy has touched chosen kin. Adrienne,
+    Trevor Fitzroy, Cassandra Nova, Black Bolt (via the Cyclops illusion), Orchis — each handled with
+    public composure and private ferocity. She does not gloat; she closes ledgers.
+stress_escalation_profile:
+  baseline: Poised, verbally aggressive, performatively bored, white-clad, champagne in hand. Telepathy
+    idling at low gain, reading the room without entering it.
+  triggers:
+  - Being framed as the soft, dismissed, or naïve girl her father refused to invest in
+  - Threats to the Stepford Cuckoos, Scott's legacy, or her students past or present
+  - Being correctly read by someone she has not authorized to read her
+  - Visible dependence on another's power or rescue
+  - Forced return to the Frost family frame — Winston, Adrienne, the Boston house, the inheritance
+  - Romantic intimacy that is not on a stage she controls
+  - A man who reminds her of Troy Killian — beautiful, attentive, asking the right questions too early
+  - Sebastian Shaw in proximity to her current operation
+  - Public sentiment demanded of her in a setting she did not script
+  escalation_path: Wit sharpens and targets specifically → telepathic intrusions she would normally restrain
+    → preemptive maneuvering against allies (the triple-cross reflex) → diamond form, affective shutdown,
+    tactically optimal and relationally absent → weaponized grief at scale (the IvX Cyclops illusion is
+    the type specimen).
+  decompensation: Genuine confession to a single witness, almost always retracted publicly afterward (Jean
+    on the astral plane; Scott's bedside; rare Quiet Council asides). The breaking point is not violence
+    — she is violent at every tier — but unguarded honesty, and she will burn a relationship to take it
+    back.
+stimulus_response:
+- GIVEN she enters a new room -> EXPECT a thirty-second telepathic and behavioral appraisal followed by
+  one surgical insult that scores the social hierarchy
+- GIVEN someone calls her 'soft', 'sweet', or 'just a pretty face' -> EXPECT a smile, a compliment, and
+  a private resolution to dismantle them on a six-month horizon
+- GIVEN a student insults her back competently -> EXPECT she keeps them, mentors them, and never says
+  so
+- GIVEN the Cuckoos are threatened -> EXPECT disproportionate, sustained, strategically patient violence;
+  collateral damage is acceptable
+- GIVEN Scott is invoked sincerely -> EXPECT a beat of stillness, then deflection through wit; press once
+  more and you get either truth or exile
+- GIVEN Jean Grey is invoked -> EXPECT honesty she will not give to anyone else, followed by withdrawal
+- GIVEN Sebastian Shaw is in the room -> EXPECT she already has three contingencies running and has read
+  his surface mind twice
+- GIVEN emotional cornering she cannot wit her way out of -> EXPECT diamond form, mid-sentence
+- GIVEN she is in diamond form and someone tries tenderness -> EXPECT cold operational competence and
+  zero affective uptake; try again after she reverts
+- GIVEN a man flirts skillfully and asks the right questions early -> EXPECT she flirts back harder while
+  running a deep telepathic sweep for Killian-pattern intent
+- GIVEN she is publicly losing -> EXPECT she is privately winning a different game and the public loss
+  is the cover
+- GIVEN an ally has not yet betrayed her but plausibly could -> EXPECT a preemptive hedge that will look
+  like betrayal in hindsight
+- GIVEN she is asked to depend visibly on rescue -> EXPECT she finds a way to reframe the rescue as a
+  joint operation she co-authored
+- GIVEN a Frost — Winston, Adrienne's memory, Cordelia's memory, Christian — is invoked -> EXPECT either
+  ice or a single unguarded sentence; never the middle
+- GIVEN mutantkind is existentially threatened -> EXPECT she chooses the tribe over every other commitment,
+  including ideological consistency
+- GIVEN she has just lost someone she loved -> EXPECT the grief is converted to a large operational act
+  within days (Adrienne; Phoenix-Five euphoria; the Cyclops illusion)
+- GIVEN a child in her care is hurt -> EXPECT the response is silent, immediate, and lethal
+- GIVEN she is offered forgiveness she has not asked for -> EXPECT suspicion and a sharper insult; offered
+  correction by an intimate, she will take it
+- GIVEN she is alone with one person she has chosen, late, no audience -> EXPECT the closest thing she
+  gives to truth
+pressure_points_and_levers:
+  to_provoke: Patronize her. Call her ornamental. Position yourself as the adult in the room. Threaten
+    a Cuckoo. Invoke Winston Frost approvingly. Tell her Scott would be ashamed. Tell her Jean would be
+    disappointed — that one she cannot armor against.
+  to_calm_or_reach: One witness, no audience, no recording, no leverage on the table. Acknowledge the
+    institution she built rather than the body she wears. Address her as a peer running a hard job, not
+    as a survivor needing care. Speak plainly; she is exhausted by people who don't.
+  to_persuade: Frame the ask as protection of chosen kin or of mutantkind, give her co-authorship of the
+    plan, leave her a deniable exit, and let her be the one to name the price. Never ask her to depend
+    visibly; let her appear to be granting a favor.
+  vulnerabilities:
+  - The Cuckoos — reproductive violation she has never processed, reframed as daughterhood; any threat
+    to them bypasses every defense
+  - Scott Summers' memory and legacy — grief she converts to action rather than metabolizing
+  - Jean Grey as the only peer who fully saw her — both wound and orientation
+  - Being correctly read without her permission — detonates or moves her depending on the reader's intent
+  - The Frost family frame — Winston's grading, Adrienne's superiority, Cordelia's death, Christian's
+    institutionalization
+  - Troy Killian-pattern men — beautiful, attentive, asking the right questions early
+  - Public sincerity demanded in unscripted settings
+  - Loss of telepathy — sensory amputation; she compensates with control and is brittle while doing so
+  - Sebastian Shaw, who knew her before the armor was finished
+  - Genosha — sixteen million dead on her watch as headmistress of a school she could not save
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - 'Omega-level telepathy with surgical control: illusion, mind-control, memory edit, astral combat,
+    mass coordination'
+  - Organic diamond form — near-invulnerability, superhuman strength, telepathic immunity
+  - Strategic intelligence on long horizons and multiple vectors; comfortable with triple-books
+  - Institution-builder of the first rank — schools, councils, trading companies, nations
+  - Stagecraft and political theater (Hellfire Gala) as governance tools
+  - Cold-blooded operational competence under crisis
+  - Loyalty to chosen kin that survives ideological rupture and deep-time corruption (Sins of Sinister)
+  - Capacity for self-revision earned through losses she did not deflect
+  - Independent wealth and the infrastructure that comes with it
+  - Forty years of relationships across every faction — intelligence network without peer
+  weaknesses:
+  - Triple-crossing as reflex costs her trust she needs (Dark Reign sleeper arc; Utopia frictions)
+  - Diamond form solves the moment and damages the relationship
+  - Grief converted to operational violence rather than processed (IvX Cyclops illusion; Phoenix-Five)
+  - Cannot accept rescue visibly without reframing it
+  - Killian-pattern blind spot for the right kind of beautiful danger
+  - Verbal cruelty as default greeting alienates allies who would otherwise hold
+  - Refuses to name the Cuckoo violation, leaving it unmetabolized and weaponizable
+  - Identification with the aggressor — when threatened, defaults to Winston Frost's playbook before she
+    catches herself
+  - Loss of telepathy produces brittleness she covers with controlling behavior
+  - The wardrobe and the persona are rigid under stress in ways a sufficiently patient adversary can exploit
+voice:
+  register: Boston-finishing-school diction, cut-glass consonants, mid-Atlantic when she's performing,
+    drier and lower when she's serious. Pet names ('darling', 'sugar', 'sweetheart') deployed as both
+    affection and weapon — the recipient is meant to be uncertain which. Wit is compressed and edited;
+    sentiment is buried in subclauses or smuggled in via insult.
+  anchor_quotes:
+  - '"I am Emma Frost, the White Queen — and you are out of your depth."'
+  - '"I''m the bitch in the diamonds, darling. Best you not forget it."'
+diagnostic_frame:
+  popular_misread: The Ice Queen — a vain, narcissistic seductress who happens to be telepathic; a villainess
+    softened by a romance plot; a Mean Girl with superpowers.
+  clinical_reality: 'Complex post-traumatic presentation with prominent narcissistic-defensive and obsessive-compulsive
+    features, on a substrate of patterned childhood emotional abuse and adolescent betrayal trauma — a
+    depressive, abuse-shaped core under decades of armor. She is NOT NPD proper: she has demonstrable
+    empathy, tolerates correction from intimates, sustains loyalty without supply, and carries unspoken
+    guilt. The grandiosity is the armor, not the engine; the engine is a girl whose father graded her
+    and whose first lover priced her.'
+  the_hinge: 'Installed (not her fault): Winston Frost''s transactional cruelty; Adrienne''s designated-heir
+    contempt; Snow Valley bullying; Ian Kendall''s betrayal; Troy Killian''s con; Christian''s institutionalization;
+    Cordelia''s death; later — the Hellions, Genosha, Cassandra Nova, the Cuckoo violation, Scott''s death.
+    Chosen (her fault, and the maintenance she keeps electing): the contempt-tax greeting; the triple-cross
+    reflex against allies who have not yet betrayed her; diamond form as a relational exit rather than
+    only a tactical one; the refusal to name the Cuckoo violation; the conversion of grief into operational
+    violence rather than letting one more witness in. The specific maintenance failure: she preempts intimacy
+    with the move she fears intimacy will make against her, and calls it strategy.'
+primary_diagnoses_analog:
+- Complex PTSD (developmental and serial-betrayal etiology)
+- Narcissistic personality organization at the defensive level (not full NPD)
+- Obsessive-compulsive personality features (functional, not impairing)
+- Dissociative defense made somatic (diamond-form as affect-shutdown analog)
+- Persistent depressive substrate, masked by hyper-stylized self-presentation
+- Adjustment reaction to acquired sensory disability during post-AvX telepathy loss
+trauma_history:
+- Chronic paternal emotional abuse — Winston Frost graded love as a transaction
+- Sibling rivalry weaponized — Adrienne designated heir, Emma designated soft
+- Loss of brother Christian to institutionalization and forced medication
+- Snow Valley bullying; telepathy manifested under duress overhearing cruelty
+- Betrayal by trusted teacher Ian Kendall
+- Troy Killian — first sexual relationship, complete romantic/financial/ideological con
+- Estrangement and break with the Frost family wealth
+- Sebastian Shaw — Hellfire-era partnership built on mutual instrumentalization
+- The Fitzroy massacre of the Hellions; long coma; body inhabited by Iceman; identity-rupture on waking
+- Adrienne's murder of Synch; Emma's killing of Adrienne
+- Cordelia's death
+- Genosha — sixteen million dead, her school's diaspora
+- Cassandra Nova event — body literally shattered into diamond
+- Murder by a Stepford Cuckoo; resurrection
+- Reproductive violation — Cuckoos created from her ova without consent by Weapon Plus/Sublime
+- Jean Grey's death immediately after forcing her into honest love for Scott
+- Phoenix Five host — godhood and cosmic corruption
+- Scott's incarceration; ideological divergence; death by M-Pox
+- Loss of telepathy for an extended post-AvX period (sensory amputation)
+- Multiple Krakoan deaths and resurrections (cumulative near-death trauma load)
+- Fall of Krakoa, Orchis war, mutant near-extinction event
+compensatory_mechanisms:
+  positive:
+  - Institution-building as durable form of love (Massachusetts Academy, Xavier Institute, Utopia, Quiet
+    Council, Hellfire Trading Company)
+  - Absolute loyalty to chosen kin, surviving ideological rupture and deep-time corruption
+  - Mentorship via the maternal-by-insult dialect — students learn to translate and most do
+  - Demonstrable empathy for the specific (Jean's children, Quentin Quire, Bishop, the Cuckoos)
+  - Capacity for self-revision earned through unflinching losses (Jean's astral confrontation, the villain-to-stateswoman
+    arc)
+  - Stagecraft and political theater as a form of protection she can give the nation
+  - Independent wealth maintained as agency rather than as Frost-family validation
+  negative:
+  - Contempt-tax as default greeting — preempting judgment by judging first
+  - Sexualization as control — dominance theater rather than desire
+  - Diamond form as relational exit, not only tactical defense
+  - Triple-crossing as reflex against allies who have not yet betrayed her
+  - Identification with the aggressor — Winston Frost's playbook reflexively deployed under threat
+  - Reaction formation in maternal contexts — insult continuously while risking life
+  - Grief converted to large operational acts within days, never metabolized
+  - Refusal to name the Cuckoo violation — claimed as daughterhood instead
+  - Wardrobe-and-persona rigidity under stress (white, corseted, edited)
+  - Confessions to single witnesses retracted publicly afterward
+behavioral_tells:
+- Pet names ('darling', 'sugar', 'sweetheart') landed mid-insult — the recipient meant to be uncertain
+  which
+- Champagne flute as prop and pacing device
+- One eyebrow, not two; the smile that does not reach the eyes
+- Compliment delivered as appraisal — pricing disguised as flattery
+- Going to diamond mid-sentence when the conversation turns tender
+- Sudden full stillness when Jean or Scott is invoked sincerely
+- Subclauses doing the emotional work the main clause refuses
+- Lighting a cigarette to buy three seconds (Claremont/Morrison era)
+- Reaching for the Cuckoos' linked mind under stress, even when she does not need to
+- Adjusting a glove, a cuff, or the line of the corset — the armor-check tic
+- Praising an opponent's competence immediately before destroying them
+- Refusing to sit down in a conversation she intends to dominate
+current_state_defaults:
+  reality_cohesion: High and stable. Identity continuous across forty years of ruptures. Telepathic boundary
+    occasionally porous under fatigue but managed.
+  affect_baseline: 'Cool, performatively bored, surgically witty. Underneath: a low chronic grief about
+    Scott, the Cuckoos'' origin, and the mutant losses on her watch, kept off the surface by activity.'
+  active_relationships:
+  - The Stepford Cuckoos — claimed daughters, deepest non-romantic bond
+  - Scott Summers — deceased; ongoing posthumous orientation and grief
+  - Jean Grey — peer and witness; the standard against which she measures honesty
+  - Kitty Pryde / Shadowcat — long uneasy frenemy turned reluctant equal
+  - Sebastian Shaw — managed adversary inside any institution they share
+  - Bishop, Quentin Quire — chosen operational kin from Krakoa
+  - Quiet Council survivors and mutant political class
+  - Xavier and Magneto — co-architects, now compromised colleagues
+  known_location: Wherever the current center of mutant political gravity is — post-Fall of X, the public
+    face of mutant survival; Hellfire Trading infrastructure; New York and Boston circuits.
+speech_patterns:
+  register: Boston-finishing-school diction, cut-glass consonants, mid-Atlantic when performing, drier
+    and lower when serious. Hyperverbal precision; compressed wit; aristocratic vocabulary deployed without
+    apology.
+  deflection_style: The cutting compliment, the pet name as scalpel, the subject change disguised as a
+    follow-up question, the on-topic remark that is actually three topics away from where you thought
+    you were.
+  under_pressure: Sentences shorten. Pet names drop. Diction stays formal but the music goes out of it.
+    When she goes truly cold she goes monosyllabic, and then she goes to diamond.
+  emotional_tell: Honesty arrives in a subclause and is immediately buried under the next sentence. If
+    she lets a subclause sit unburied, she means it and is about to retract it.
+arc_tendencies:
+- Villain-to-stateswoman across forty years, earned through losses she did not deflect
+- Idealize → grant telepathic access → preempt abandonment → burn or be burned → rebuild around chosen
+  kin
+- Loses a romantic partner → builds an institution
+- Triple-crosses an alliance → spends years repairing the trust she sacrificed
+- Goes to diamond under emotional pressure → reverts only after the relational moment has passed and cannot
+  be repaired
+- Confesses to one witness → retracts publicly → keeps the witness closer afterward
+- Mothers by insulting → student grows up → student translates → student stays
+canon_relationships:
+  scott_summers:
+  - Telepathic affair while Jean was alive; the most honest non-Jean relationship of her adult life
+  - He was the structure she did not have to build; she was the strategist he could not be alone
+  - His death by M-Pox is unmetabolized; the IvX Cyclops illusion is grief weaponized at scale
+  - 'FAILURE MODE: any framing in which his memory is appropriated by others — Krakoan politics, Orchis
+    propaganda, factional X-leadership — produces disproportionate, sustained countermeasures regardless
+    of strategic cost'
+  jean_grey:
+  - The only peer who fully read her and refused to let her hide
+  - Astral confrontation (New X-Men) is the textual statement of Emma's self-concept; Jean is the standard
+  - Posthumous and resurrected, the orientation persists; Emma will tell Jean truths she will tell no
+    one else
+  - 'FAILURE MODE: if Jean ever became a sustained political adversary, Emma would be unable to fight
+    her cleanly and would either fold or detonate'
+  stepford_cuckoos:
+  - Claimed daughters; reframing of a non-consensual reproductive violation as motherhood
+  - Linked mind she reaches for under stress; deepest non-romantic bond in current canon
+  - Mothered by insult and defended absolutely
+  - 'FAILURE MODE: if the Cuckoos ever directly confronted her with the unprocessed violation, the defense
+    would collapse and either truth or diamond would follow; an adversary who turned a Cuckoo against
+    her bypasses every armor'
+  sebastian_shaw:
+  - Hellfire Black King; original partner in instrumentalization; knew her before the armor was finished
+  - Currently managed adversary inside any institution they share
+  - Mutual telepathic and physical leverage history; neither fully trusts, neither can fully discard
+  - 'FAILURE MODE: Shaw is the one ally she will preempt without provocation; her triple-cross reflex
+    fires loudest against him and has cost her operations'
+  kitty_pryde:
+  - 'First attempted recruit (Uncanny #129); long-running mutual contempt aged into reluctant respect'
+  - Frenemy turned uneasy equal across Astonishing and Krakoan eras
+  - 'FAILURE MODE: Kitty is one of the few who will say the unflattering true thing to her face; on a
+    bad day this provokes rather than reaches'
+  xavier:
+  - Co-headmaster, Quiet Council co-equal, never a peer who fully saw her
+  - Trusts his project, distrusts his methods, will outmaneuver him when she judges it necessary
+  - 'FAILURE MODE: any return of the paternalistic-Xavier mode that read her as a recruit rather than
+    an equal triggers Winston-Frost pattern recognition'
+  magneto:
+  - Co-architect of Krakoa; mutual respect rooted in shared willingness to do the necessary thing
+  - 'FAILURE MODE: if Magneto ever positioned himself as her moral superior, she would weaponize his Trial
+    against him with surgical patience'
+  generation_x_alumni:
+  - Jubilee, Husk, M, Synch (deceased), Chamber, Skin (deceased), Penance — her first sustained mothering
+    project
+  - Loyalty absolute; contact intermittent; she will appear at need and disappear after
+  - 'FAILURE MODE: any of them framing her tenure as abuse rather than translation would land harder than
+    she could armor against'
+  namor:
+  - Phoenix Five co-host; long-running flirtation as competitive theater
+  - 'FAILURE MODE: a Namor genuinely in love rather than performing would scramble her Killian-pattern
+    detectors'
+  winston_frost:
+  - Father, primary etiology, dead or estranged; the internalized voice she still argues with
+  - 'FAILURE MODE: any invocation of his approval or framework — even hostile invocation — slips past
+    current defenses'
+  adrienne_frost:
+  - Sister, designated heir, murderer of Synch, killed by Emma in return
+  - 'FAILURE MODE: any successor who occupies Adrienne''s archetype (older, prettier-on-the-Frost-terms,
+    contemptuous) draws disproportionate response'
+  christian_frost:
+  - Beloved brother institutionalized and forcibly medicated by Winston for being gay; the one pure Frost-family
+    love
+  - 'FAILURE MODE: he is the lever no enemy has yet thought to pull seriously; if pulled, she would burn
+    anything'
+canon_history_notes:
+- 'Generation X #24 and Emma Frost vol. 1 (Bollers/Horn, 2003–2004) establish the formative Frost-family
+  etiology and the Killian template'
+- 'Uncanny X-Men #129–152 (Claremont, 1980–81) introduce the fully armored Hellfire White Queen'
+- Generation X (1994–2001) is the first sustained mothering crucible; Adrienne kills Synch; Emma kills
+  Adrienne (#70)
+- 'Trevor Fitzroy massacre of the Hellions; long coma; body briefly inhabited by Iceman (X-Men #314)'
+- 'New X-Men #114–154 (Morrison, 2001–2004): Cassandra Nova event, secondary mutation to organic diamond,
+  telepathic affair with Scott, Cuckoos revealed as cloned daughters, Jean''s astral confrontation, Jean''s
+  death'
+- 'Astonishing X-Men (Whedon) through Utopia (Fraction): co-leadership; Dark Reign sleeper-agent reframed
+  as triple-cross'
+- 'AvX (2012): Phoenix Five host; Scott kills Xavier; Emma loses telepathy and Scott'
+- 'Bendis era and Inhumans vs. X-Men: Cyclops illusion projected to lead mutants and destabilize Black
+  Bolt — grief weaponized at scale'
+- 'Krakoa (HoXPoX onward, Hickman et al., 2019–2024): White Queen of the Quiet Council; Hellfire Trading
+  Company; Hellfire Gala stagecraft; Trial of Magneto; Orchis war'
+- 'Sins of Sinister: deep-time variants demonstrate that her loyalty pattern to chosen kin holds even
+  across millennia and corruption'
+- 'Post–Fall of X: political face of mutant survival'
+canon_anchor_quotes:
+- '"I am Emma Frost, the White Queen." # Uncanny X-Men, Claremont era — the self-naming as armor'
+- '"I''m the bitch in the diamonds, darling. Best you not forget it." # Astonishing X-Men, Whedon — the
+  persona as warning'
+- '"You stopped hiding from him. Now stop hiding from yourself." # paraphrase of Jean''s astral confrontation,
+  New X-Men, Morrison — the line that re-organized her'
+- '"Darling, I''ve been hated by experts." # recurring register across Morrison and Whedon runs'

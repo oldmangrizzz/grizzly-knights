@@ -1,0 +1,33 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+  html,body{margin:0;height:100%;background:#0a0c12;overflow:hidden}#c{display:block}
+</style></head><body><canvas id="c"></canvas>
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+const scene=new THREE.Scene(); scene.background=new THREE.Color(0x0a0c12);
+const cam=new THREE.PerspectiveCamera(45,innerWidth/innerHeight,0.01,100); cam.position.set(0,0,3);
+const r=new THREE.WebGLRenderer({canvas:document.getElementById('c'),antialias:true});
+r.setSize(innerWidth,innerHeight); r.setPixelRatio(2);
+r.toneMapping=THREE.ACESFilmicToneMapping; r.toneMappingExposure=2.2; r.outputColorSpace=THREE.SRGBColorSpace;
+scene.add(new THREE.HemisphereLight(0xffffff,0x445,1.6));
+const d=new THREE.DirectionalLight(0xffffff,2.6); d.position.set(2,3,4); scene.add(d);
+const d2=new THREE.DirectionalLight(0x99bbff,1.3); d2.position.set(-3,1,-2); scene.add(d2);
+const d3=new THREE.DirectionalLight(0xffffff,1.4); d3.position.set(0,2,-4); scene.add(d3);
+const oc=new OrbitControls(cam,r.domElement); oc.autoRotate=true; oc.autoRotateSpeed=2.5;
+const qp=new URLSearchParams(location.search);
+const url=qp.get('m')||'/assets/magneto3d.glb';
+// rot: '0' = already Y-up (TRELLIS); default -90deg X for TripoSR meshes
+const rotX = qp.get('rot')==='0' ? 0 : -Math.PI/2;
+new GLTFLoader().load(url,g=>{
+  const o=g.scene; const box=new THREE.Box3().setFromObject(o);
+  const c=box.getCenter(new THREE.Vector3()), s=box.getSize(new THREE.Vector3());
+  o.position.sub(c); const sc=1.6/Math.max(s.x,s.y,s.z); o.scale.setScalar(sc);
+  o.rotation.x=rotX;
+  o.traverse(m=>{ if(m.isMesh){ m.material.side=THREE.DoubleSide; } });
+  scene.add(o); window._loaded=true;
+});
+function loop(){ requestAnimationFrame(loop); oc.update(); r.render(scene,cam); } loop();
+addEventListener('resize',()=>{cam.aspect=innerWidth/innerHeight;cam.updateProjectionMatrix();r.setSize(innerWidth,innerHeight);});
+</script></body></html>

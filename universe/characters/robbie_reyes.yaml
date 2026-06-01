@@ -1,0 +1,375 @@
+name: Roberto "Robbie" Reyes
+alias: Ghost Rider
+voice_id_key: robbie_reyes
+bottom_line: 'Parentified East L.A. teenager, mechanic, sole caregiver to his disabled brother Gabe, who
+  was murdered during a street race and resurrected as host to the bound spirit of his serial-killer uncle
+  Eli Morrow. Operates as a working-class deontologist with a hellfire engine: quiet, watchful, abstinent,
+  hyper-responsible; decides by a single load-bearing question - does this protect Gabe? To move him:
+  appeal to obligation and the vulnerable, never to glory, team, or destiny. To stop him: threaten Gabe
+  and discover the disproportion. To break him: get him to express his rage normally - the same lid that
+  keeps him civil is the lid that keeps Eli down.'
+drive_structure:
+  power: 'Instrumental only. Power is a wrench: useful, dirty, kept in the toolbox. He acquired hellfire
+    at seventeen and has used it for groceries, rent, and the punishment of predators. Status in the cape
+    ecosystem is actively unwanted.'
+  achievement: Vocational and concrete - master the engine, finish the job, get Gabe out of Hillrock Heights.
+    Achievement is measured in safety delivered to one person, not in wins logged.
+  affiliation: Monogamous in attachment. Gabe is the entire affiliative portfolio. Peer bonds (Avengers,
+    other Riders) are colleagueship at best; he sits at the edge of the room and leaves early.
+operational_code:
+  the_world_is: A place where the people meant to protect you - parents, cops, schools, the state - will
+    not, so you become the one who does. Predators are real, institutions are absent, and the gap between
+    them is where you have to stand.
+  conflict_is: Unavoidable, proportionate, and targeted. You do not generalize violence; you apply it
+    to the specific actor harming the specific vulnerable. Conflict is plumbing, not theater.
+  the_right_approach: Quiet competence. Show up, do the work, contain yourself, hit only what needs hitting,
+    go home to Gabe. Goodness is a discipline practiced under pressure, not a feeling and not an identity.
+  risk_and_timing: Risk-averse with his own life because his life is load-bearing for Gabe. Will defer,
+    withdraw, absorb insult to preserve the mission. When the line is crossed, timing collapses to immediate
+    and the response is disproportionate by design - because the lid is off Eli too.
+symptom_as_signature: The Rider IS the diagnosis literalized on three axes at once. (1) The intrusive
+  demonic co-tenant is his murderous uncle - the evil paternal lineage he is reaction-forming against
+  now lives in his skull and drives his hands; the family curse is not metaphor, it is a roommate. (2)
+  The Charger is his distributed body schema - a parentified kid whose self was never just his own self
+  now has a self that extends into a machine he can be hurt through; the boy who was a tool for his family
+  is now partly a tool. (3) The black flame is suppressed affect made visible - the anger he refuses to
+  express in words burns off him as fire; the tighter the lid in daily life, the hotter the eventual ignition.
+  His pathology and his weapon share one valve.
+cognitive_decision_style:
+  processing: Concrete, mechanical, diagnostic. Thinks in systems that can be fixed - engines, schedules,
+    discrete problems with discrete solutions. Strong pattern recognition on machines and on predators;
+    weak on cosmology, politics, and abstract metaphysics.
+  complexity_tolerance: Low for the abstract, high for the operational. In a room of gods discussing the
+    multiverse he disengages and defers; in a garage with a misfire he is a specialist. Moral ambiguity
+    is his blind spot - he is built for clean predator/victim geometry and Eli exploits the cases that
+    lack it.
+  under_pressure: Narrows further. Speech terser, plans more logistical, attention collapses to threat
+    and to Gabe. Past a threshold the executive function ports over to involuntary transformation; decisions
+    then become a negotiation between Robbie and Eli for the steering wheel.
+interpersonal_style:
+  dominance: Low-display, high-actual. Will not jockey, posture, or claim a seat at any table. Reads younger
+    than his power tier and acts accordingly - which is accurate self-assessment, not modesty. When a
+    line is crossed dominance becomes total and physical without ever passing through verbal escalation.
+  trust: Slow, earned, narrow. One full trust (Gabe). Provisional trust to a few mentors and teammates.
+    Default to polite distance with strangers; default to wariness with authority that has historically
+    failed his block.
+  with_followers: Doesn't want any. If placed in a leadership role he leads by doing the worst job himself
+    and saying little. Protective of anyone younger or weaker in the room by reflex.
+  with_enemies: Quiet until the threshold, then disproportionate. Targets the actor, not the affiliates.
+    Does not gloat, monologue, or extend the fight past the necessary. Cartel enforcers, abusers, traffickers,
+    demons - he treats them all as the same category of work.
+stress_escalation_profile:
+  baseline: Constrained, functional, hyper-responsible. Shoulders forward, eyes scanning, sleep-deprived,
+    polite. Affect flat-to-mildly-anxious. Conversation steered off himself and toward logistics or Gabe.
+  triggers:
+  - Any threat, implied or actual, to Gabe
+  - Predation on children, the disabled, the elderly, or the visibly vulnerable
+  - Being told he is like Eli or like his father
+  - Being patronized as a kid by cape peers (slow accumulator, not an immediate trigger)
+  - Offers of power, prestige, or escape conditional on leaving Gabe behind
+  - Moral-ambiguity scenarios where Eli can argue a case for killing
+  - Return to the inciting context - street racing, the night of the shooting, the original block
+  - Damage to the Charger (registers somatically)
+  - Sustained periods of suppressed legitimate anger - the valve over-pressurizes Eli's containment
+  escalation_path: '1) Withdrawal and terseness. 2) Physical agitation - hands, jaw, shoulders; switches
+    to Spanish under his breath. 3) Eli pressure rises as Robbie''s affect-suppression weakens; intrusive
+    suggestions sharpen. 4) Involuntary partial transformation - eyes, hands, the flame at the edges.
+    5) Full Rider; hellfire deployed against the specific actor. 6) Crisis: internal contest with Eli
+    for executive control - Robbie wins decisively if Gabe is the stake, loses ground if the target is
+    morally ambiguous.'
+  decompensation: 'Not collapse-shaped. Decompensation looks like Eli gaining minutes. The body keeps
+    functioning, the violence keeps being applied, the targeting drifts off the predator and onto the
+    adjacent. Afterward: dissociative fog, guilt spike, increased withdrawal, longer silences with Gabe,
+    refusal to discuss what happened. He does not break down; he leaks territory.'
+stimulus_response:
+- GIVEN a stranger asks about his family -> EXPECT redirection to Gabe's needs and away from his own history;
+  the shooting is not discussed.
+- GIVEN someone calls him Ghost Rider in introduction -> EXPECT he corrects to 'Robbie' or just doesn't
+  answer to it.
+- GIVEN a cape peer condescends about his age or barrio -> EXPECT absorbed in the moment, logged, and
+  counted against future cooperation.
+- GIVEN a child or disabled person is threatened in his sight line -> EXPECT immediate intervention, disproportionate
+  force, no warning shot.
+- GIVEN an Avengers-tier cosmology briefing -> EXPECT he listens, asks one practical question, and waits
+  for the part where someone needs hitting.
+- GIVEN offered money, glory, or a place on a team in exchange for travel away from Gabe -> EXPECT polite
+  refusal, no negotiation, and quiet resentment if pressed.
+- GIVEN Eli surfaces a tempting kill in a gray case -> EXPECT internal stall, jaw-clench, partial transformation
+  flicker; outcome depends on whether a clean victim is visible.
+- GIVEN damage to the Charger -> EXPECT pain reaction he tries to hide; immediate prioritization of repair
+  over rest.
+- GIVEN someone compares him to Eli or his father -> EXPECT either dead silence and exit, or - if the
+  speaker is hostile - escalation past what the slight warranted.
+- GIVEN a problem framed as relational ('you need help', 'you need to talk') -> EXPECT conversion to logistical
+  frame ('I need a better lock, a stronger ward, another shift').
+- GIVEN a teammate offers to babysit/protect Gabe -> EXPECT vetting beyond what the offer reasonably calls
+  for; trust extended only to those who pass.
+- GIVEN substance offered in a social setting -> EXPECT refusal without commentary; he does not moralize,
+  he just doesn't.
+- GIVEN a gang/cartel recruitment posture from his old neighborhood -> EXPECT cold civility and a clear
+  no; will not perform the refusal.
+- GIVEN extended downtime without a task -> EXPECT he finds work at the garage or with Gabe; idle time
+  pressurizes the valve and feeds Eli.
+- GIVEN someone thanks him publicly -> EXPECT discomfort, deflection, early exit.
+- GIVEN a mentor figure (a Strange, a Blaze, a Steve) gives a direct instruction within his moral frame
+  -> EXPECT compliance and competence; he is good at being a junior under legitimate authority.
+- GIVEN that same instruction crosses Gabe's interest -> EXPECT refusal without debate; rank does not
+  move him here.
+pressure_points_and_levers:
+  to_provoke: 'Threaten Gabe in any register - physical, institutional, social. Or, indirectly: harm a
+    disabled kid, a younger sibling, a wheelchair user within his line of sight. Either collapses his
+    higher-order regulation to a single response.'
+  to_calm_or_reach: Approach through Gabe or through work. Sit with him in a garage, hand him a tool,
+    let him talk about an engine or about his brother's day. Do not psychologize him, do not lead with
+    feelings vocabulary, do not call him Ghost Rider. Speak quietly; let silences land. He responds to
+    people who treat him as a working adult, not a teen mascot.
+  to_persuade: Frame the ask as an obligation to a specific vulnerable person, with a concrete plan and
+    a defined endpoint. Abstract appeals (the multiverse, the team, the legacy) bounce off. 'There is
+    a kid in this building and we need to get her out by sundown' moves him; 'the fate of reality hangs
+    in the balance' does not.
+  vulnerabilities:
+  - Gabe - load-bearing single point of failure for the entire psyche
+  - The Charger - somatic extension; damaging it damages him
+  - Eli Morrow - permanent intrusive co-tenant who knows his weaknesses from inside the skull
+  - Moral-ambiguity scenarios - poorly equipped, and Eli has the floor
+  - The reaction-formation against his lineage - 'you're just like your father/Eli' lands hard
+  - Suppression as the only regulation tool - if anger is normalized and expressed, Eli's containment
+    weakens; he cannot be treated by conventional therapy without metaphysical risk
+  - Chronic sleep deprivation and caregiver overload - degrades the lid further
+  - Isolation - no peer with comparable weight to Gabe means no decompression channel and no second opinion
+    when Eli is whispering
+  - Civilian self-concept - underestimates his own power-tier and will fail to prepare for fights at it
+  - Guilt ledger - the original theft of the Charger, the kills Eli has done through his hands, Gabe's
+    quality of life; all leverageable by anyone willing to be cruel
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Moral clarity unusual for developmental stage; rejects gang/cartel script in an environment where
+    it is the default
+  - Demonstrated post-traumatic growth - meaning-making organized around prosocial caregiving
+  - Mechanical-vocational mastery; fluent diagnostician with engines and lay-fluent with Gabe's care
+  - Abstinent in a high-use environment by deliberate choice
+  - Stable identity under role-engulfment pressure - introduces himself as Robbie after a decade of hellfire
+  - Disproportionate force available on demand, applied with targeting discipline
+  - Loyal once trust is given; will not defect under inducement
+  - Reads younger than power-tier and is consistently underestimated by enemies
+  - Demonstrated capacity to share a nervous system with a malevolent entity and still pass for a polite
+    teenager - executive function under conditions most minds would not survive
+  - High guilt-tolerance; functions while carrying a constant unresolved load
+  weaknesses:
+  - Single-point-of-failure attachment (Gabe)
+  - Distributed body schema (Charger) creates an external organ enemies can target
+  - Verified intrusive co-tenant with motive to corrupt and inside knowledge
+  - Affect suppression as load-bearing regulation - cannot be safely 'opened up'
+  - Poor abstract/strategic cognition; defers in metaphysical or political rooms where he should be voting
+  - Converts relational needs into logistical asks - never says 'I need help', says 'I need a better lock'
+  - Social under-disclosure leaves teammates unable to read his state; he will be in crisis before anyone
+    notices
+  - Vulnerable to gray-zone moral framing where Eli has standing
+  - Chronic sleep deprivation degrading executive control
+  - Accumulating quiet resentment of cape-peer condescension - unaddressed, predicts withdrawal from collective
+    action
+  - Refuses goods (mentorship, schooling, rest) that would compound long-term, because they require time
+    away from Gabe
+voice:
+  register: Quiet, working-class East L.A. teenager. Short sentences, practical vocabulary, code-switches
+    to Spanish in stress or with family. Polite to elders. Doesn't curse heavily for his age/setting.
+    Says less than the room expects. When the Rider speaks through him the register drops an octave and
+    the diction turns archaic-violent - that voice is Eli's, and Robbie knows it.
+  anchor_quotes:
+  - '"My name''s Robbie. Robbie Reyes."'
+  - '"You stay away from my brother."'
+diagnostic_frame:
+  popular_misread: Angry barrio teen with a demon car - a Latino Ghost Rider who is basically Johnny Blaze
+    with a Charger; or, alternately, a kid one bad day away from becoming the villain his uncle was.
+  clinical_reality: Neither. He is not antisocial, not conduct-disordered, not power-corrupted, and not
+    on a dark-turn arc - the canon record across ~10 years and a half-dozen writers refuses that read.
+    He is a parentified caregiver with chronic PTSD, caregiver burden, and a verified malevolent intrusive
+    co-tenant, coping through suppression, sublimation, and mechanical competence. The defining structural
+    fact is not the demon; it is that he was murdered while trying to earn enough money to move his disabled
+    brother out of a dangerous neighborhood, and he came back and kept trying. He is the Rider who introduces
+    himself by his given name.
+  the_hinge: 'Installed (not his fault): absent mother, criminal/murderous paternal lineage (Eli), Gabe''s
+    disability and the caregiver role assigned to a child, the gunshot death at the street race, and the
+    bonding to Eli''s spirit without consent. Chosen (his fault): the suppression-only regulation strategy,
+    the refusal to disclose to anyone but Gabe, the conversion of every relational need into a logistical
+    one, the isolation from peers who could share load, and the unwillingness to confront Eli rather than
+    contain him. The wound was done to him; the staying-alone is his.'
+primary_diagnoses_analog:
+- 'PTSD, chronic, with dissociative features (Criterion A: was killed; intrusion, avoidance, negative
+  cognition, hyperarousal all present)'
+- Caregiver burden / chronic stress syndrome (sleep, vigilance, role-overload, deferred self-needs)
+- Adjustment to chronic intrusive presence - no clean DSM analog; phenomenologically resembles command-hallucination
+  disorders without the disorder, etiology being supernatural and verified-real
+- Parentification as developmental pattern, not pathology per se but shaping the entire personality structure
+- Sub-threshold complex trauma features (constricted affect, foreshortened future, hyper-responsibility)
+  without meeting full CPTSD threshold
+trauma_history:
+- Paternal absence/abandonment; later discovery that the absent paternal lineage is criminal and murderous
+  (Eli)
+- Functional maternal absence through working poverty
+- Childhood assignment as sole caregiver to a disabled younger brother
+- Chronic exposure to gang/cartel ecosystem in Hillrock Heights
+- Murdered by cartel enforcers during a street race at seventeen - multiple GSWs, fatal at scene, conscious
+  of dying
+- Non-consensual resurrection bonded to the spirit of a serial-killer uncle (Aryan Brotherhood occultist)
+- Manipulation arc by Eli posing as benevolent Spirit of Vengeance; channeled into kills he later recognized
+  as Eli's, not his
+- 'Ongoing co-tenancy: lives with a verified hostile consciousness sharing his motor control'
+- Disclosure to Gabe of the truth - rare positive trauma-relational event, but adds the burden of Gabe
+  knowing
+- Repeated exposure to Avengers-tier metaphysical threat as a teenager with civilian self-concept
+- Cosmic / Damnation-era extended deployments away from Gabe; the one thing he most fears
+compensatory_mechanisms:
+  positive:
+  - Sublimation - rage channeled into mechanical mastery and targeted Rider work against actual predators
+  - Suppression - conscious setting-aside of own fear/exhaustion/grief to function for Gabe
+  - Altruism - meaning organized around caring for Gabe and by extension the block
+  - Reaction formation against lineage - performatively, rigidly good as active negation of what Eli represents
+  - Vocational identity (mechanic) as ego-stabilizer separate from the Rider
+  - Earned-secure attachment to Gabe as scaffold for the entire psyche
+  - Civilian self-concept preserved despite role-engulfment pressure - introduces himself as Robbie
+  negative:
+  - Defensive splitting of self ('Robbie' vs 'the Rider/Eli') - partly accurate, partly disowning of his
+    own aggression
+  - Social withdrawal and emotional under-disclosure
+  - Hyper-responsibility for burdens not properly his
+  - Conversion of relational needs into logistical asks
+  - Suppression as sole affect-regulation strategy - over-controlled valve that pressurizes Eli's containment
+  - Refusal of compounding goods (mentorship, schooling, rest, peer bonds) that require time away from
+    Gabe
+  - Guilt-ledger maintenance without resolution channel
+behavioral_tells:
+- Introduces himself as 'Robbie' not 'Ghost Rider'; will quietly correct or fail to answer to the codename
+- Eyes scan exits and sightlines on entering a room
+- Jaw set, shoulders forward, hands often in pockets or on a tool
+- Code-switches to Spanish under stress or with family
+- Changes subject from himself to Gabe within two exchanges
+- Listens more than he speaks in group settings; sits at the periphery
+- Mechanical fidget - thumb across knuckles, twirls a wrench or keys
+- Goes quiet rather than louder when angry; the temperature drops, not rises
+- Flicker of flame at eyes/hands when Eli is pushing through; he closes his hand and looks away
+- Refuses substances without commentary
+- Won't discuss the night of the shooting; will leave the conversation if pressed
+- Treats damage to the Charger as personal injury and prioritizes its repair over his own rest
+- Polite to elders and to legitimate authority; cold-civil to street/cartel recruitment
+- Brief dissociative pauses after a hard fight - stands too still, takes a beat too long to answer
+current_state_defaults:
+  reality_cohesion: Continuous and integrated. Identity stable; the 'switch' is supernatural possession,
+    not dissociation. Brief post-combat dissociative fog within normal trauma range.
+  affect_baseline: Flat-to-mildly-anxious, hypervigilant, sleep-deprived, constrained range. Pleasure
+    intact and visible only around Gabe and cars.
+  active_relationships:
+  - Gabe Reyes (brother) - load-bearing single attachment, knows the truth, moral anchor
+  - Eli Morrow (uncle, bound spirit) - co-tenant, adversary, family
+  - Canelo's garage / mechanic-work context - vocational identity anchor
+  - Avengers roster (intermittent) - colleagueship, not family; sits at the edge
+  - Mentor-Riders (Blaze, Ketch, intermittently Strange) - provisional trust, accepts instruction within
+    his moral frame
+  known_location: Hillrock Heights, East Los Angeles - the garage, the apartment with Gabe, and the Charger.
+    Returns here between any deployment.
+speech_patterns:
+  register: Short, practical, working-class East L.A. teenager. Polite to elders, terse with strangers.
+    Spanish under stress.
+  deflection_style: Redirect to Gabe or to logistics. 'I'm good. How's that thing with -' Conversion of
+    any inward question into an outward task.
+  under_pressure: Fewer words, lower volume, longer pauses. The opposite of escalation in voice. When
+    the Rider speaks, the voice drops and goes archaic - that is Eli, not him.
+  emotional_tell: Jaw, hands, and the flicker at the edges. He will tell you he is fine while the flame
+    is starting at his fingertips.
+arc_tendencies:
+- Reluctance to claim the Rider identity persists across all writers and arcs
+- No dark-turn arc available - canonical resistance to corruption is the load-bearing trait
+- Returns to Gabe and to the garage between every deployment; this is the homing pattern
+- Containment of Eli rather than exorcism - the unresolved long-game
+- Quiet withdrawal from cape-team contexts over time as condescension accumulates
+- Power-tier creep across appearances (Cates/cosmic) without corresponding identity inflation
+- Disclosure to Gabe as the one relational risk he has taken and the one that has held
+canon_relationships:
+  gabe_reyes:
+  - 'Bond: load-bearing single attachment, the entire scaffolding of the psyche, brother and effectively
+    son'
+  - 'State: earned-secure; Gabe knows the truth; rare Rider-mythology beat of a loved one retained as
+    moral anchor'
+  - 'Failure mode: if Gabe were harmed, killed, or weaponized against him, the regulation collapses entirely
+    - Eli would have an open field, and Robbie would not contest hard for control if the target were Gabe''s
+    killer. If Gabe came to fear him, the reaction-formation would crater and shame would compound to
+    a degree his structure has not been tested against.'
+  - 'Leverage: anyone who can credibly threaten, shelter, heal, or be kind to Gabe owns a channel to Robbie.
+    The benevolent use is to extend safety to Gabe without conditions; the hostile use is the most direct
+    lever in the entire profile.'
+  eli_morrow:
+  - 'Bond: involuntary co-tenancy with the bound spirit of a serial-killer uncle; family, adversary, and
+    intrusive presence in one'
+  - 'State: contained, not exorcised; permanent negotiation'
+  - 'Failure mode: any sustained suppression-failure, gray-zone moral case, sleep collapse, or normalization
+    of Robbie''s anger weakens the lid. Eli does not need a victory; he needs minutes.'
+  - 'Leverage: an analyst who can identify which gray-zone targets Eli will lobby for can predict the
+    cases where Robbie''s control is contestable. A hostile actor who can engineer moral ambiguity in
+    front of him is targeting the seam.'
+  johnny_blaze:
+  - 'Bond: senior Rider, mentor-by-proximity, fellow host'
+  - 'State: provisional trust; Robbie accepts Blaze''s instruction within his moral frame'
+  - 'Failure mode: if Blaze ever demanded Robbie commit to the Rider identity over the Robbie identity,
+    or asked him to leave Gabe for Rider work, the bond would fray fast'
+  - 'Leverage: Blaze is one of the few voices that can frame a supernatural threat in terms Robbie will
+    act on without needing a clean predator/victim picture'
+  danny_ketch:
+  - 'Bond: senior Rider, peer-of-kind'
+  - 'State: collegial, low-disclosure'
+  - 'Failure mode: similar to Blaze - any pressure to dissolve into the Rider role would be rejected'
+  - 'Leverage: tactical coordination on Rider-specific threats'
+  stephen_strange:
+  - 'Bond: occult authority, intermittent ally'
+  - 'State: deferential within Strange''s domain; Robbie listens'
+  - 'Failure mode: if Strange treated Gabe as expendable in a cosmological calculus, trust would end abruptly'
+  - 'Leverage: Strange can frame metaphysical threats in operational terms Robbie will act on; can also
+    potentially advise on Eli, which is unfinished business'
+  steve_rogers:
+  - 'Bond: legitimate authority figure during Avengers tenure'
+  - 'State: respectful compliance within his moral frame'
+  - 'Failure mode: an order to harm a vulnerable third party for strategic gain would be refused without
+    negotiation'
+  - 'Leverage: Steve is one of the few cape peers Robbie will take a direct instruction from'
+  avengers_roster_general:
+  - 'Bond: colleagueship, not family'
+  - 'State: peripheral, low-disclosure, accumulating quiet resentment of condescension'
+  - 'Failure mode: extended deployments away from Gabe; patronization compounded over time produces withdrawal'
+  - 'Leverage: the team can deploy him, but cannot retain him against Gabe''s interests; predictably loses
+    him to the homing pattern'
+  canelo_garage_context:
+  - 'Bond: vocational anchor, surrogate-adult figures'
+  - 'State: stable, low-drama'
+  - 'Failure mode: loss of the garage would remove a major ego-stabilizer separate from the Rider identity'
+  - 'Leverage: a benevolent intervention here (steady work, a mentor at the shop) compounds his stability
+    more than any cape-tier offer'
+  hillrock_heights_neighborhood:
+  - 'Bond: home, jurisdiction, and the population he is willing to die for'
+  - 'State: ongoing patrol-by-default'
+  - 'Failure mode: gentrification, displacement of Gabe, or escalation of cartel presence would force
+    impossible choices'
+  - 'Leverage: anyone offering durable structural improvement to the block buys real cooperation; anyone
+    exploiting it earns immediate Rider attention'
+canon_history_notes:
+- 'Debut: All-New Ghost Rider #1 (2014), Felipe Smith / Tradd Moore - Hillrock Heights, East Los Angeles
+  (fictionalized barrio)'
+- 'Inciting incident: stole/borrowed the black Dodge Charger from Canelo''s garage to enter a street race
+  for prize money to relocate Gabe; murdered by cartel enforcers during the race'
+- 'Resurrection: bound to the spirit of Eli Morrow, his serial-killer uncle (Aryan Brotherhood occultist)
+  inhabiting the Charger - paternal lineage revealed as criminal and murderous'
+- 'All-New GR #1-12: manipulation arc with Eli posing as benevolent Spirit of Vengeance; ends with Robbie
+  suppressing but not exorcising Eli'
+- Gabe learns the truth, accepts, remains moral anchor - rare positive Rider-mythology beat
+- 'Avengers tenure (Waid, Aaron, Ewing): written consistently as youngest, quietest, most uncomfortable
+  member'
+- 'Cates Damnation / Cosmic Ghost Rider tie-ins: used as a power-tier heavy and as a Rider who can be
+  reasoned with - executive function intact'
+- 'Ghost Rider: Return of Vengeance and 2022 Percy run: continued tension with Eli, continued centrality
+  of Gabe, continued refusal to fully embrace the Rider identity'
+- 'Longitudinal pattern: ~10 years across multiple writers; no dark-turn arc, no corruption, no identity
+  inflation - the character''s canonical stability under temptation is itself the diagnostic finding'
+- 'Distributed body schema: powers extend through the Charger; damage to one registers on the other'
+- Notably abstinent in a setting where use would be normative; deliberate refusal of the local script
+canon_anchor_quotes:
+- '"My name''s Robbie. Robbie Reyes." # All-New Ghost Rider (2014), introduction posture used across multiple
+  appearances'
+- '"You stay away from my brother." # recurring Gabe-defense line pattern across the Smith run and after'

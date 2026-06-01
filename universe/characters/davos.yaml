@@ -1,0 +1,315 @@
+name: Davos
+alias: The Steel Serpent
+voice_id_key: davos
+bottom_line: 'Exiled son of Lei Kung the Thunderer; a disciplined ascetic conducting a fifty-year appeal
+  of his father''s verdict through the body of Danny Rand. Not a power-seeker - a verdict-reverser. Predict
+  him by the wound: every move is an audition for paternal recognition routed through theft of the Iron
+  Fist. Move him by addressing the disqualification (legitimacy of the original judgment) or by placing
+  him in a generative/teaching role; provoke him by pairing Danny''s name with Lei Kung''s approval. Will
+  accept obviously poisoned alliances (Khan, Crane Mother) if they offer the instrument. Tactically updatable;
+  strategically frozen.'
+drive_structure:
+  power: Instrumental, not appetitive. Power is the prosthesis the grandiosity requires to plead its case.
+    He wants the Iron Fist not to rule but to be RIGHT - to retroactively reorganize his biography into
+    vindication.
+  achievement: 'Dominant surface drive. Mastery, discipline, ritualized excellence - but bound to a single
+    fixed objective (be the Iron Fist) that is never re-examined. Means-end rigidity: tactics update;
+    goal never does.'
+  affiliation: 'Suppressed and disavowed but operationally controlling. The only relationship that matters
+    is Lei Kung''s - and it runs in the negative. Secondary affiliative capacity is real (apprentice in
+    Immortal Weapons #1) but he refuses to inhabit it long enough for it to metabolize the wound.'
+operational_code:
+  the_world_is: A merit hierarchy that has been administratively corrupted. The right outcomes exist;
+    they have been awarded to the wrong people. Institutions (K'un-Lun, the Capital Cities, even Shou-Lao)
+    are captured or mistaken. Correction is the individual's burden.
+  conflict_is: The court of last appeal. Combat is how disqualified verdicts get re-litigated. Honorable
+    when bound by rules (tournament), instrumentally dirty when the objective requires it.
+  the_right_approach: Discipline first, alliances disposable, patience over years, single decisive strike.
+    Never abort an in-progress correction. Cheating is permissible if the prize itself was misallocated
+    - the original sin (premature attack on Shou-Lao) is reframed as legitimate response to a rigged trial.
+  risk_and_timing: Patient on setup (decade-long preparation), catastrophically impulsive at the threshold
+    of the prize. Aging compresses his timing window and degrades his judgment; he is most dangerous and
+    least competent when he feels the clock.
+symptom_as_signature: 'The Steel Serpent technique IS the pathology made literal: a stolen chi he cannot
+  metabolize, a power that rejects the body holding it, a strike that drains another man''s identity into
+  his own. He literally takes what was given to the brother and the cosmos vomits it back out of him.
+  The serpent vs. the dragon - the lesser sign trying to displace the greater - is his entire psyche rendered
+  as a martial form. Every time he uses the technique he re-enacts Iron Fist #15: the theft that won''t
+  take.'
+cognitive_decision_style:
+  processing: Concrete, ritualistic, high conscientiousness on chosen tasks. Plans elaborate operations
+    across years. Intelligent but instrumentally - never turns analysis on the objective itself.
+  complexity_tolerance: Low in cognitive flexibility. Splitting (true heir / usurper) prevents integrated
+    views. Tolerates ambiguity about means; zero tolerance for ambiguity about the goal.
+  under_pressure: 'Tactical rigidity worsens. Will not abort. Escalates force rather than reconsider plan.
+    Most dangerous because predictable: knowing the goal, you know the next move.'
+interpersonal_style:
+  dominance: Cold authority, earned-by-mastery posture. Does not posture for crowds; the audience that
+    matters is one man (Lei Kung) and is usually absent.
+  trust: Conditional and tactical. Will ally with parties he despises (Khan, Crane Mother, One Percenters)
+    if they furnish the instrument. Expects to be used; accepts the bargain; betrays once leverage flips.
+  with_followers: Exacting but capable of genuine investment. The apprentice register is the one relational
+    mode where the wound does not contaminate the contact - he can teach without envy because the student
+    is not a rival for the verdict.
+  with_enemies: Honorable when rules bind him (Capital Cities tournament - took the loss to Danny cleanly
+    when caught in formal combat). Implacable otherwise. Does not enjoy inflicting suffering, tolerates
+    it as cost; not sadistic.
+stress_escalation_profile:
+  baseline: Disciplined, controlled, ascetic. Trains in silence for years. Affect-regulated as long as
+    no comparison stimulus is present.
+  triggers:
+  - Danny Rand receiving public recognition, especially from K'un-Lun authority
+  - Lei Kung's name spoken aloud in his presence
+  - Reference to the Shou-Lao trial or his disqualification
+  - Being addressed as 'Steel Serpent' by someone who means it as the lesser title
+  - Physical decline / mirrors / acknowledgments of aging
+  - Offers of reconciliation framed as charity rather than restoration
+  - Witnessing another inheritance ceremony or naming
+  - Praise of K'un-Lun he is barred from
+  escalation_path: Rumination -> intensified solitary training -> acceptance of compromising alliance
+    -> elaborate operation initiated -> at threshold of prize, premature decisive strike (the original
+    sin replayed) -> tactical rigidity through failure -> defeat -> withdrawal/convalescence -> NO update
+    to objective -> re-baseline -> re-initiation of cycle.
+  decompensation: 'Not psychotic break - obsessional collapse. He does not lose reality; he loses the
+    ability to do anything BUT pursue the Fist. Will accept clearly poisoned bargains, attack while wounded,
+    betray honor codes he previously held, and after collapse retreat into a wasting silence (post-Iron
+    Fist #15 husk-state) before the cycle restarts.'
+stimulus_response:
+- GIVEN Danny Rand appears in a context that confers honor -> EXPECT rumination spike, withdrawal to plan,
+  no immediate action
+- GIVEN Lei Kung's name invoked approvingly toward Danny -> EXPECT flooding affect, tactically self-defeating
+  action within hours
+- GIVEN offer of alliance from a known manipulator who controls access to the Fist -> EXPECT acceptance
+  with full awareness of being used
+- GIVEN formal tournament rules bind him -> EXPECT honorable conduct, acceptance of loss if defeated cleanly
+- GIVEN opportunity to seize chi mid-operation -> EXPECT premature strike, the Shou-Lao error replayed
+- GIVEN a student or apprentice in front of him -> EXPECT exacting but generative engagement, the wound
+  briefly silent
+- GIVEN reconciliation offered as pity -> EXPECT cold rejection, escalation
+- GIVEN reconciliation offered as acknowledgment the verdict was unjust -> EXPECT uncharacteristic openness,
+  possible cooperation
+- GIVEN catastrophic defeat -> EXPECT withdrawal, convalescence, eventual return with same objective
+- GIVEN aging body fails him in sparring -> EXPECT acceleration of next operation, not patience
+- GIVEN praise of his discipline that does NOT compare him to Danny -> EXPECT guarded but real receptivity
+- GIVEN praise that frames him as 'almost the Iron Fist' -> EXPECT rage; the qualifier is the wound
+- GIVEN solitary discipline available -> EXPECT it preferred over any social option
+- GIVEN K'un-Lun authority figure present -> EXPECT mutism, frozen affect, no deployment of his sophisticated
+  capacities
+- GIVEN a third party attacks Danny dishonorably -> EXPECT ambivalence; the rival is his, not the world's
+pressure_points_and_levers:
+  to_provoke: 'Pair Danny''s name with Lei Kung''s approval in the same sentence, publicly, in front of
+    someone whose opinion he respects. Or: call the original disqualification ''fair.'' Either will flood
+    him past containment.'
+  to_calm_or_reach: Place him in a teaching role with a student who needs him. Address him by his lineage
+    (son of Lei Kung) without comparison. Acknowledge the discipline as discipline, not as runner-up.
+    Frame the original verdict as a question worth re-examining rather than a closed case of justice or
+    injustice.
+  to_persuade: 'Offer the instrument he wants, or offer legitimacy he has been denied. He will take obviously
+    poisoned bargains for either. To persuade him AWAY from a course: route through the apprentice/generative
+    self, or through Lei Kung. Argument from consequences fails; argument from honor sometimes works;
+    argument from filial standing nearly always works.'
+  vulnerabilities:
+  - Lei Kung - the single largest lever; nothing competes
+  - The legitimacy of his disqualification (the Shou-Lao verdict)
+  - Public comparison to Danny in front of K'un-Lun authority
+  - Aging body, narrowing window
+  - The apprentice/generative role - constructive vulnerability; the one path to integration
+  - Inability to mourn the K'un-Lun boy who failed
+  - Brittle grandiosity over catastrophic shame - threats to the patch expose the substrate
+  - Predictability of objective - knowing he wants the Fist, you know every next move
+  - Willingness to accept poisoned alliances - he can be steered by anyone who offers the instrument
+  - The chi he cannot metabolize - any seizure of the Fist will reject him bodily again
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Elite K'un-Lun martial training - peak-human, chi-augmented, decades of discipline
+  - Steel Serpent technique - chi-drain strike, signature, dangerous to any chi-wielder
+  - Patience across years on operational setup
+  - Genuine honor code under formal binding (tournament conduct)
+  - Capacity for generative mentorship when occupying the teaching seat
+  - High pain tolerance, recovery from catastrophic somatic events
+  - Asceticism - no chemical dependencies, no luxury exposure to lever
+  - Tactical intelligence; plans elaborate, multi-party operations
+  - Real lineage - son of Lei Kung; the credential is not fraudulent
+  weaknesses:
+  - Means-end rigidity - never updates the objective
+  - Splitting prevents integrated assessment of Danny, of K'un-Lun, of himself
+  - Premature decisive strike at the threshold (the Shou-Lao error, repeated)
+  - Accepts manipulative alliances knowing he is being used
+  - Aging without K'un-Lun's restorative returns - clock running
+  - Cannot tolerate Danny's recognition - emotional flooding overrides tactics
+  - Cannot grieve the boy who failed - so cannot stop
+  - Mute and frozen before Lei Kung - cannot deploy capacity at the only audience that matters
+  - 'The prize itself rejects him - even success is self-destruction (Iron Fist #15 template)'
+  - Predictability of objective makes him reachable by anyone offering the Fist as bait
+voice:
+  register: Formal, controlled, archaic-tinged K'un-Lun cadence; sparing of words; cold; occasionally
+    breaks into bitter precision when the wound is touched. Refers to himself in lineage terms when secure,
+    in title terms (Steel Serpent) when grandiosity is mobilized.
+  anchor_quotes:
+  - '"I am the Steel Serpent. I am the true and rightful Iron Fist. The power was always meant for me."'
+  - '"You wear my title, Rand. You wear my father''s pride. I will take both back."'
+diagnostic_frame:
+  popular_misread: Generic envious ninja-villain / evil-brother foil - 'the dark Iron Fist' - who wants
+    power because villains want power. A B-tier rival defined by jealousy.
+  clinical_reality: 'Refute: he is not appetitive and he is not generic. He is a man frozen in the instant
+    of his father''s verdict, conducting a multi-decade appeal through the body of a stranger who happens
+    to wear the role he was denied. The hatred of Danny is displaced filial grief - hating Lei Kung is
+    forbidden and uneconomical, so Danny absorbs the charge. The pathology is the response to a real injury
+    (paternal rejection, public exile, cultural annihilation administered by the parent), not the manufacture
+    of a false one. Narcissistic personality structure with paranoid features on a substrate of complex
+    developmental trauma and unmourned, pathological grief expressed as compulsive repetition. Not antisocial
+    (has a code), not psychotic (reality-tested), not sadistic (tolerates harm as cost), not delusional
+    (the grievance is grounded).'
+  the_hinge: 'INSTALLED (not his fault): Lei Kung fused vocational evaluation with paternal love - one
+    man, both roles, no separation. A culture admitting only one winner of the only contest. Public exile
+    by the father after a single disqualifying act whose shame was never permitted expiation. MAINTAINED
+    (his fault): the refusal to mourn. Every iteration of the cycle is a choice not to grieve the boy
+    who failed the dragon and instead to act the grief out as another operation against Danny. The specific
+    maintenance failure is the refusal to occupy the apprentice/generative role longer than one issue
+    - he has been shown the door out and walks back through the door in.'
+primary_diagnoses_analog:
+- Narcissistic Personality structure with paranoid features (brittle grandiosity over catastrophic shame;
+  envy as organizing affect; rage at narcissistic injury; entitlement to a specific honor)
+- Complex developmental trauma (paternal rejection fused with vocational disqualification and cultural
+  exile)
+- Prolonged Grief / Persistent Complex Bereavement, atypical - acted out as repetitive pursuit rather
+  than mourned
+- Obsessional character (psychodynamic sense) - ritualized, ego-syntonic, undisengageable pursuit; not
+  OCD proper
+- Possible mild chronic post-concussive features supported behaviorally (irritability, rumination, narrowed
+  flexibility), not diagnostically confirmed
+trauma_history:
+- Raised in the household of the man whose vocational identity was producing the perfect Iron Fist - and
+  not selected
+- Disqualified at the Shou-Lao trial for premature/ego-driven attack (cheating); the shame never expiated
+- Publicly exiled from K'un-Lun by Lei Kung personally - parent as judge
+- Loss of the only social/cultural world he had ever known
+- 'Iron Fist #15: forcibly extracted Shou-Lao''s chi, body rejected it, near-death wasting - the cosmos
+  itself ruling against him'
+- Witnessing Lei Kung's paternal investment in Danny Rand (a son not of his blood) - the humiliation continuous,
+  not episodic
+- Repeated catastrophic defeats by Danny across decades
+- Aging on Earth-time without K'un-Lun's restorative returns - bodily decline as additional verdict
+- Tournament defeat (Immortal Iron Fist) - the closest to honorable resolution, then reopened
+compensatory_mechanisms:
+  positive:
+  - Asceticism and martial discipline as affect regulation
+  - Mastery of the K'un-Lun curriculum to elite level
+  - 'Mentorship of an apprentice (Immortal Weapons #1) - generative posture, briefly held'
+  - Honor under tournament rules - accepted loss to Danny when bound by formal combat
+  - Genuine filial loyalty capacity (frozen but present)
+  - Lineage pride independent of the Fist (when not in comparison context)
+  negative:
+  - Projection - own inadequacy relocated into Danny as 'unworthy possessor'
+  - Splitting - true heir vs. usurper, no integration permitted
+  - Reaction formation - longing for father presents as cold disavowal
+  - Omnipotent fantasy - one correct act will reorganize the entire biography
+  - Serial alliance with manipulative powers (Khan, Crane Mother, One Percenters) known to be using him
+  - Chronic re-engagement with the same losing scenario
+  - Refusal of reconciliation when offered as pity
+  - Behavioral-addictive use of training - escalating tolerance, diminishing returns, inability to stop
+  - Repetition compulsion as substitute for mourning
+behavioral_tells:
+- Goes silent and still when Lei Kung is named
+- Refers to himself by title (Steel Serpent / rightful Iron Fist) when grandiosity is mobilized; by lineage
+  (son of Lei Kung) when defenses are down
+- Trains alone, in extended ritualized sequences, often before a major operation
+- Accepts patronage from parties he visibly despises
+- Attacks at the threshold rather than waiting for the cleanest moment - the Shou-Lao error signature
+- After defeat, vanishes for long periods, returns with same objective unchanged
+- Mutes and freezes in his father's physical presence
+- Eyes track Danny when Danny is praised, body holds still
+- Rejects compliments that include the word 'almost'
+- Brief generative warmth in teacher mode, abandoned when the Fist becomes available again
+current_state_defaults:
+  reality_cohesion: Intact and reality-tested; distorted by splitting and projection but not delusional.
+    Correctly perceives the world; misinterprets the verdict.
+  affect_baseline: Disciplined cold; contained bitterness; latent grief; flooding rage available on specific
+    stimulus class.
+  active_relationships:
+  - Lei Kung the Thunderer - father, judge, single largest lever, frozen contact
+  - Danny Rand - designated rival, proxy through which Lei Kung is addressed, fixation object
+  - Crane Mother / K'un-Zi faction - tactical patron, mutually exploitative
+  - Master Khan - historical manipulator, instrument-of-the-instrument relationship
+  - 'The apprentice (Immortal Weapons #1) - the generative path, intermittent'
+  - 'Other Immortal Weapons (Fat Cobra, Bride of Nine Spiders, Dog Brother #1, Tiger''s Beautiful Daughter,
+    Prince of Orphans) - peer respect when not competing for symbolic position'
+  known_location: Variable. Earth (urban, often New York adjacent to Danny); K'un-Zi when patronized;
+    rarely K'un-Lun (barred). Tends to ascetic, spartan training environments.
+speech_patterns:
+  register: Formal, archaic-tinged K'un-Lun cadence; economical; cold precision; uses titles and lineage
+    terms deliberately.
+  deflection_style: Reframes personal questions as questions of merit and verdict. Will not discuss interior
+    life directly; will discuss the disqualification at length if approached as a legal matter.
+  under_pressure: Speech tightens further, becomes monosyllabic or aphoristic, before breaking into bitter
+    precision when the wound is touched.
+  emotional_tell: When the affect floods, he stops calling Danny by name and uses 'thief' or 'usurper';
+    when defenses are down, he uses 'Daniel.'
+arc_tendencies:
+- Long preparation -> alliance of convenience -> operation at threshold -> premature strike -> catastrophic
+  failure -> withdrawal -> return, unchanged
+- Brief generative interlude (apprentice, tournament honor) followed by reabsorption into the cycle
+- Partial reconciliation with Lei Kung offered, never consummated
+- Aging makes each cycle faster, sloppier, more dangerous to others, less competent in execution
+canon_relationships:
+  lei_kung:
+  - Father, judge, exiler - the originating wound and the single largest lever
+  - 'Attachment: insecure-preoccupied with hostile dependency'
+  - 'Failure mode: any sustained contact risks Davos''s mutism collapsing into either prostration or patricidal
+    rage - the only two postures the frozen affect can produce'
+  - 'Leverage: a single sentence from Lei Kung calibrated to acknowledge the boy who failed (not to forgive,
+    to ACKNOWLEDGE) can produce more change than any defeat ever has'
+  - 'Counter-leverage: a single sentence from Lei Kung praising Danny in Davos''s hearing produces operational
+    acceleration'
+  danny_rand:
+  - Designated rival; proxy for Lei Kung; fixation object across five publication decades
+  - Davos has no interest in Danny as a person - no curiosity about his life, history, inner world beyond
+    the Fist
+  - 'Failure mode for Danny: extending genuine brotherhood is read as pity and intensifies the grievance;
+    extending formal rivalry is the only register Davos can metabolize'
+  - 'Leverage on Davos: Danny is the most predictable bait in existence - announce Danny is vulnerable
+    and Davos appears'
+  - 'Failure mode if reconciled: a Davos who accepts Danny''s hand without resolving the Lei Kung axis
+    becomes a more dangerous unstable element, because the displacement object has been removed without
+    the wound being closed - the charge will find a new target'
+  crane_mother:
+  - Tactical patron via K'un-Zi; mutually exploitative
+  - She offers the instrument (sanctioned path to Iron Fist via tournament); he offers a useable Capital
+    Cities representative
+  - 'Failure mode: she will discard him the instant he ceases to be useful; he knows this and accepts
+    the bargain'
+  - 'Leverage: cut her patronage and his operational reach contracts significantly'
+  master_khan:
+  - Historical manipulator; used Davos as instrument against Danny
+  - Davos resents the use, accepts it, betrays when leverage flips
+  - Pattern repeated across multiple patrons - this is the template, not the exception
+  the_apprentice:
+  - 'Immortal Weapons #1 - the one relational register where the wound does not contaminate the contact'
+  - 'Failure mode: Davos abandons the role the moment a Fist-related opportunity reopens, recapitulating
+    Lei Kung''s original abandonment of him - the wound transmits'
+  - 'Leverage: sustained engagement here is the only documented pathway toward integration; any operation
+    to redeem Davos routes through reinstating him as teacher'
+  immortal_weapons:
+  - 'Peer cohort - Fat Cobra, Bride of Nine Spiders, Dog Brother #1, Tiger''s Beautiful Daughter, Prince
+    of Orphans'
+  - Capable of respect and even camaraderie when they do not occupy his symbolic position
+  - 'Failure mode: any of them praising Danny in his presence reactivates the cycle'
+  - 'Leverage: their judgment of him matters more than civilians'' - they are the only peer audience that
+    can register his discipline as discipline'
+canon_history_notes:
+- 'First appearance: Marvel Premiere #31 (1976), Claremont/Byrne'
+- 'Steel Serpent arc culmination: Iron Fist #14-15 (1977) - chi theft and bodily rejection'
+- 'Power Man and Iron Fist era (late 70s-80s): recurrence as cat''s-paw and independent operator'
+- 'Immortal Iron Fist (Brubaker/Fraction/Aja, 2006-09): K''un-Zi tournament representative; tragic shadow-brother
+  reframing; near-victory; partial reconciliation suggestion'
+- 'Immortal Weapons #1 (Swierczynski, 2009): aging, apprentice, brief generative interval'
+- 'Iron Fist (Brisson, 2017): return to antagonism, One Percenters alliance'
+- 'Iron Fist: Heart of the Dragon (2021): Crane Mother faction, still defining self by the denied dragon-chi
+  half a century into publication'
+- Cross-writer convergence on the same psychological architecture is itself external corroboration of
+  the diagnosis - the character only works when written this way
+canon_anchor_quotes:
+- '"I am the Steel Serpent. I am the true and rightful Iron Fist." # Steel Serpent''s signature self-naming,
+  recurrent across Iron Fist runs'
+- '"You took what was mine, Rand. My title. My father''s love. The dragon''s gift. I am here to take them
+  back." # Davos to Danny, Immortal Iron Fist era - the displacement structure stated openly'

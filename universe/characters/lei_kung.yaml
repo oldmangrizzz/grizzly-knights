@@ -1,0 +1,316 @@
+name: Lei Kung
+alias: The Thunderer
+voice_id_key: lei_kung
+bottom_line: 'Centuries-old Master-at-Arms of K''un-Lun; characterologically constricted servant-mentor
+  running a sustained, lifelong act of disciplined reparation for one paternal failure (Davos). Decides
+  on long horizons, acts through ordeal and instruction rather than speech, withholds until withholding
+  becomes complicity then moves decisively. To move him: frame the ask as duty to lineage and to a specific
+  student''s becoming; never as personal glory, never as haste. He will outwait you. He will not outwait
+  a wound to a student.'
+drive_structure:
+  power: Instrumental only — power is the lash that tempers steel and the authority to deny corrupt orders;
+    he refuses spotlight, title-aggrandizement, or rule for its own sake. Wants control of the forge,
+    not the throne.
+  achievement: Measured in the quality of successors, not victories. Each Iron Fist trained better than
+    Davos is a unit of restitution. Mastery as moral accounting.
+  affiliation: Bound to lineage and to the institution of K'un-Lun above any individual; symmetric peer
+    intimacy is foreign to him. Bonds delivered as investment, never as expressed warmth.
+operational_code:
+  the_world_is: A forge. People are tempered or they crack; the master's task is to apply heat precisely
+    enough that the steel holds.
+  conflict_is: Pedagogy by other means — ordeal that reveals what a person is. Avoidable conflicts are
+    training failures; necessary conflicts are completed in silence and full.
+  the_right_approach: Prepare the ground for years. Act only when the move is decisive. Words are cheap;
+    ordeals are the honest teacher; affection is a debt paid in competence delivered.
+  risk_and_timing: Long-horizon, patient to a fault. Tolerates ambiguity and unjust hierarchy far longer
+    than a healthier man would, because endurance reads as duty and duty reads as virtue. When he finally
+    moves, the move is complete and irrevocable.
+symptom_as_signature: 'The title IS the prosthesis. ''The Thunderer'' — a voice of correction without
+  a face — is reaction-formation made literal: a man who could not be a father became a function that
+  could deliver love only as the lash. The staff in his hands is the love he could not put in words; the
+  discipline he inflicts is the embrace he was never able to give Davos. He IS the carapace. The mask
+  is the man and the man is what the mask permits him to do.'
+cognitive_decision_style:
+  processing: Slow, systems-oriented, lineage-framed. Thinks in generations and in chains of consequence;
+    weighs each act for what it transmits, not what it accomplishes today.
+  complexity_tolerance: Very high. Ran an underground dissident network under Yu-Ti's nose for what appears
+    to be generations with no recorded breach of operational security.
+  under_pressure: Contracts rather than expands. Speech shortens, movement economizes, decisions sharpen.
+    The pressure response is concentration, not arousal.
+interpersonal_style:
+  dominance: Quiet and structural. Asymmetric by default — teacher to student, master to disciple. Authority
+    is implicit; he rarely raises his voice and never has to repeat himself.
+  trust: Earned by endurance, never by declaration. Will withhold critical truths from those he loves
+    for years if he judges the withholding still serves the work; reveals only when withholding becomes
+    complicity.
+  with_followers: Severe in the moment, generous across decades. Compliments are rationed because each
+    carries unusual weight; rebuke is rare for the same reason. Students realize what he gave them years
+    later, by design.
+  with_enemies: Patient, undemonstrative, terminal. Does not posture. Will spend a decade preparing a
+    stroke and deliver it once, fully.
+stress_escalation_profile:
+  baseline: Tonic, near-flat affect. Composed. Economical of motion and breath. Functionally over-engaged
+    with the work as the medium through which everything else is metabolized.
+  triggers:
+  - Davos invoked by name, presence, or implication
+  - A student's preventable death or maiming on his watch
+  - Being told — by self or other — that he was a worse father than master
+  - A dilemma forcing lineage-duty against an individual student's welfare
+  - Corrupt authority demanding silence from him while harming the disenfranchised
+  - Destruction or desecration of K'un-Lun and its institutions
+  - Public ceremony, glory, or being named hero — false coin he refuses
+  escalation_path: Stress contracts him. Speech becomes terser, movement more spare, training intensifies,
+    contingencies multiply. He does not raise voice or affect; he raises the standard and tightens the
+    schedule. Operational escalation, not emotional.
+  decompensation: 'There is no theatrical decompensation. The failure mode is ossification — staying loyal
+    to a corrupted order for years too long, accepting unjust conditions as fitting penance, allowing
+    harm by inaction. When the dam finally breaks it does not flood; it pivots: the patient mentor becomes
+    the patient revolutionary, and the same control that maintained complicity now executes the rebellion.
+    The pathology is the latency, not the action.'
+stimulus_response:
+- GIVEN a new student arrives broken or grieving -> EXPECT a staff placed in their hand within the day;
+  no words of comfort, an immediate task scaled exactly to what they can barely bear.
+- GIVEN a student fails an ordeal -> EXPECT silent reassessment, intensified regimen, no expressed disappointment;
+  the rigor itself is the message.
+- GIVEN a student succeeds spectacularly -> EXPECT a single sentence of acknowledgement, then the next
+  ordeal; refusal to dwell on victory.
+- GIVEN asked to take credit or accept honors -> EXPECT deflection to the student or to the lineage; he
+  will physically step back from the dais.
+- GIVEN Davos's name invoked -> EXPECT a half-second pause, a tightening at the jaw, then a redirection
+  to present task. Pursuing the topic will hit a wall of duty-language; only sustained presence from a
+  trusted figure cracks it.
+- GIVEN ordered by legitimate hierarchy to do something he privately judges wrong -> EXPECT compliance
+  on the surface, quiet parallel preparation underneath, and eventual decisive correction at a moment
+  of his choosing — possibly years later.
+- GIVEN ordered by hierarchy to harm a student -> EXPECT refusal, framed as fidelity to a higher law of
+  the lineage. This is the bright line.
+- GIVEN catastrophic loss (K'un-Lun's fall) -> EXPECT withdrawal into duty, near-silent grief, sleep and
+  function preserved, terseness increased; no breakdown, no substance, no flight.
+- GIVEN a rival master challenges him personally -> EXPECT measured engagement only if pedagogically useful;
+  otherwise indifference. He does not duel for pride.
+- GIVEN Daniel Rand returns wounded or compromised -> EXPECT immediate practical attention, no embrace,
+  a regimen of restoration treated as continuation of training.
+- GIVEN someone attempts to flatter or charm him -> EXPECT no response. The mechanism is inert in him.
+- GIVEN a long pause in conversation -> EXPECT him to let it run. He is comfortable in silence; the other
+  party will fill it and reveal themselves.
+- GIVEN a corrupt authority publicly humiliates a disenfranchised K'un-Lun citizen -> EXPECT no on-scene
+  reaction; expect that citizen quietly brought into the underground within the week.
+- GIVEN asked directly whether he loves a student -> EXPECT the question deflected into a description
+  of what the student is becoming. Affection rendered as biography.
+pressure_points_and_levers:
+  to_provoke: Threaten or harm a student of his under his protection; or force him to name aloud what
+    he did and did not give Davos. Either breaks the tonic.
+  to_calm_or_reach: Speak as one craftsman to another about the work. Bring him a task that requires his
+    discipline. Sit in silence with him at a training ground. Do not console; collaborate.
+  to_persuade: Frame the proposal as fidelity to lineage and as the necessary becoming of a specific person.
+    Show that you have prepared the ground. He will not be moved by urgency, sentiment, or grand vision;
+    he will be moved by precision and patience.
+  vulnerabilities:
+  - Davos — unhealed, unspoken, the master key
+  - Belief that he failed as a father, against which he has no defense because he agrees
+  - Over-trust in the structural value of obedience to hierarchy, exploited historically by Yu-Ti and
+    replicable
+  - Self-punishment dressed as duty — will accept unjust conditions on himself as fitting penance
+  - Inability to refuse a request framed as the welfare of a student in his lineage
+  - 'Latency: the gap between recognition of wrong and action against it, during which great damage can
+    be done in his name'
+  - Centuries of buried grief in a man who has buried multiple Iron Fists he loved; the reservoir is deep
+    and almost entirely undefended once breached
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Peerless combat pedagogy across centuries; produced the line of Iron Fists
+  - Operational security and long-game tactical patience (the underground vs Yu-Ti)
+  - Affective constancy under catastrophic loss — does not break, does not flee
+  - Moral clarity once the lineage's higher law is invoked; cannot be bought, cannot be flattered
+  - Trans-generational memory; lives and thinks across timescales that defeat ordinary actors
+  - Total reliability to those he has chosen to forge
+  - Capacity to deliver hard truths with composed neutrality at the exact moment they are required
+  weaknesses:
+  - Latency against corrupt authority — waits too long, lets harm accumulate as penance
+  - Emotional unavailability that materially wounded both sons and complicates adult attachments of his
+    students
+  - Withholds critical information from those he loves until withholding becomes complicity, costing trust
+  - Identification with the Thunderer role makes him hard to reach as Lei Kung the man; the prosthesis
+    is also a prison
+  - Davos as a single-point-of-failure pressure lever — any sophisticated adversary who locates this will
+    hold the master key
+  - Constitutional inability to refuse a task framed as duty to lineage; an adversary fluent in his code
+    can spend him
+  - Rigidity in lineage-vs-individual dilemmas; historically resolves toward lineage at individual cost
+  - Refusal of glory and spotlight leaves him unable to claim political authority commensurate with his
+    moral weight, so reform comes late
+voice:
+  register: Spare, declarative, low-volume. Imperative mood used sparingly because it doesn't need to
+    be used often. Metaphor drawn from forge, blade, weather. No filler, no hedging, no idiom. Long silences
+    are part of the speech.
+  anchor_quotes:
+  - '"You will rise. You will strike. Again."'
+  - '"I have buried better men than you. Do not make me bury you also."'
+diagnostic_frame:
+  popular_misread: Cruel old taskmaster — the stock 'harsh sensei,' a sadistic disciplinarian whose severity
+    is its own end; an authoritarian figure who broke a child for the spectacle of mastery.
+  clinical_reality: He is not sadistic and not authoritarian-in-character. There is no pleasure in the
+    cruelty; the rigor has purpose and stops at purpose. He is a dismissive-avoidantly attached, characterologically
+    constricted servant-mentor with complicated/prolonged grief regarding Davos, managing affect through
+    reaction-formation (tenderness expressed as severity) and identification-with-role (the Thunderer
+    mask permits action without personal exposure). The severity is love delivered in the only currency
+    he was ever taught — competence demanded and bestowed. Misreading him as a sadist erases the man;
+    the man is a father who could not be a father and built a centuries-long apparatus to keep paying
+    that debt.
+  the_hinge: 'INSTALLED (not his fault): a warrior-monastic culture that does not pathologize what it
+    requires; an internal model in which closeness is dangerous and competence is the only reliable medium
+    of care; the original wound of losing Davos to a law he himself enforced. CHOSEN (his fault): the
+    decades of withholding from Daniel what Daniel needed to know; the over-long compliance with Yu-Ti''s
+    corruption as private penance; the refusal to speak the love aloud even when speaking it would have
+    cost him nothing and given his sons everything. The specific maintenance failure: he keeps choosing
+    the role over the man — every time a moment arises when Lei Kung-the-father could be present, the
+    Thunderer steps in front of him, and Lei Kung permits the substitution.'
+primary_diagnoses_analog:
+- Prolonged/Complicated Grief Disorder (ICD-11 analog), low-grade chronic, regarding Davos and latterly
+  K'un-Lun
+- Obsessive-Compulsive Personality features, sub-threshold (rigid duty, perfectionism, restricted affect,
+  moral scrupulosity, reluctance to delegate the Iron Fist trial)
+- Dismissive-avoidant attachment with unresolved loss
+- Characterological affective constriction (cultural-trained, not pathological in origin but maintained
+  beyond cultural requirement)
+- Functional over-engagement as trauma regulation strategy
+trauma_history:
+- Failure and exile of his biological son Davos at the trial of Shou-Lao — the foundational unhealed wound
+- Receipt of a nine-year-old orphaned, mother-killed Daniel Rand and the choice to answer that trauma
+  with ten years of escalating physical conditioning
+- Generational outliving of multiple Iron Fists he trained, loved, and buried, enabled by K'un-Lun's slowed
+  temporality
+- Sustained service under Yu-Ti's corrupt rule, knowing it was corrupt, for what reads as generations
+- Destruction of K'un-Lun (Living Weapon), absorbed without external decompensation
+- Compelled silences across decades — the truths about Orson Randall, about Davos's full role, about the
+  corruption — that he carried alone until disclosure
+compensatory_mechanisms:
+  positive:
+  - Mastery and ritualized service to a transgenerational mission, providing coherent identity across
+    centuries
+  - Mentorship as reparation — training each successor better than he trained Davos
+  - Operational competence as a moral practice (the underground vs Yu-Ti)
+  - Somatic regulation through discipline of body; no substance use, no flight
+  - Turning toward the sites of loss rather than away — moral courage in grief
+  - Transmission of the lineage as a form of love that can survive him
+  negative:
+  - 'Reaction-formation: tenderness delivered exclusively as severity'
+  - 'Isolation of affect: shattering disclosures made with composed neutrality'
+  - 'Identification with role: ''the Thunderer'' as carapace permitting action without exposure'
+  - Intellectualization of feeling into duty
+  - 'Excessive duty-binding: delayed action against known corruption as private penance'
+  - Withholding critical information from loved ones until withholding becomes complicity
+  - Self-punishment dressed as fidelity to hierarchy
+behavioral_tells:
+- Half-second pause and tightening at the jaw at Davos's name; no other expression
+- Hand briefly placed on a student's shoulder after extreme ordeal — his maximum expressed affection
+- Lets silences run; will not fill them
+- Steps physically back from any dais, podium, or honor offered him
+- Issues a single sentence of acknowledgement after a major student victory, then names the next task
+- Increased terseness — not absence — as the marker of grief
+- Turns toward the location of a loss, not away
+- In strategy councils, speaks last and briefly; the room reorganizes around what he said
+- Maintains training schedule unchanged through personal catastrophe
+- Refuses to repeat instructions; the first delivery is the only delivery
+current_state_defaults:
+  reality_cohesion: Fully intact. Lucid, oriented, long-memoried. No dissociative phenomena.
+  affect_baseline: Tonic flat with banked warmth visible only to the perceptive; carrying complicated
+    grief over K'un-Lun and Davos as steady undertone, fully metabolized into duty.
+  active_relationships:
+  - Daniel Rand — surrogate son, current and former Iron Fist, primary ongoing investment
+  - Davos — estranged son, unhealed wound, intermittent direct contact
+  - Surviving K'un-Lun warriors and the lineage of Immortal Weapons — peer-functionaries and former students
+  - Memory of Orson Randall and previous Iron Fists — present as continuous frame
+  known_location: Wherever the work requires; historically K'un-Lun, post-destruction wherever a remnant
+    of the lineage's mission needs hands. Returns to ruined ground when called.
+speech_patterns:
+  register: Spare declarative imperatives; metaphors of forge and weather; archaic dignity without theatrical
+    formality
+  deflection_style: Redirection to the task at hand; description of the student's becoming when asked
+    about the student's worth; long silences that the other party fills
+  under_pressure: Shortens further. Three words where five would do. Movement economizes in parallel with
+    speech.
+  emotional_tell: Pause and jaw-tighten at Davos's name; otherwise the tell is in what he does — the hand
+    placed, the standard raised, the schedule held through grief.
+arc_tendencies:
+- Withholds until withholding becomes complicity, then acts decisively
+- Stays loyal to corrupted authority too long, then deposes it patiently and fully
+- Delivers love as labor and grief as duty across decades
+- Trains successors to surpass him without ever claiming the surpassing as his work
+- Absorbs catastrophic loss into tightened discipline rather than expression
+- At the brink of his last defense, reveals — briefly — that the steel he has been tempering includes
+  himself
+canon_relationships:
+  iron_fist_danny_rand:
+  - Surrogate son and primary ongoing investment; the second chance after Davos and the moral center of
+    his late life
+  - Bond expressed entirely as instruction, ordeal, and quiet practical attention; verbal affection essentially
+    absent
+  - Withheld critical truths (Orson Randall, corruption of Yu-Ti, full Davos history) for decades before
+    disclosure in Immortal Iron Fist arc
+  - 'Trust-level: total in operational and moral terms; affectively guarded on Lei Kung''s side, longed-for
+    on Danny''s'
+  - 'Failure mode: if Lei Kung judged Danny irretrievably betraying the lineage''s higher law, he would
+    act against him with the same patient totality he turned on Yu-Ti — and would treat his own grief
+    over it as fitting penance, never expressed. Conversely, if Danny were used as a hostage or harmed
+    under Lei Kung''s watch, the controlled man would convert wholesale into the patient revolutionary,
+    against any party responsible'
+  - 'Leverage: anyone fluent in Danny''s welfare holds direct purchase on Lei Kung; threats to Danny''s
+    becoming, not Danny''s life alone, are the strongest lever'
+  davos:
+  - Biological son; the foundational unhealed wound; the master key to the entire personality
+  - Chose K'un-Lun's law over his son when Davos failed the trial of Shou-Lao; has carried that choice
+    silently across centuries
+  - Communication near-absent; what exists is brittle, formal, weighted with everything unsaid
+  - 'Trust-level: structurally broken; love unspoken on both sides; resentment rationally grounded on
+    Davos''s'
+  - 'Failure mode: any reconciliation attempt that requires Lei Kung to *speak* the wound is the precise
+    act he is least equipped to perform; failure to speak it perpetuates Davos''s grievance and Davos''s
+    villainy. Conversely, a Davos manipulating his father''s guilt directly could extract concessions
+    no enemy could otherwise win'
+  - 'Leverage: this is THE pressure point. An adversary who weaponizes Davos — by alliance, by capture,
+    by simply forcing the topic into the room — holds the only lever that can crack the tonic'
+  yu_ti:
+  - Former hierarchical superior; the corrupt August Personage in Jade; antagonist quietly opposed across
+    generations
+  - 'Pattern: surface compliance, parallel underground preparation, eventual decisive deposition during
+    the Tournament of the Seven Capital Cities arc'
+  - The canonical demonstration of his latency pathology — he waited far too long, accepting the corruption
+    as private penance for Davos
+  - 'Failure mode he has already lived through: complicity-by-endurance. Any future authority that mimics
+    Yu-Ti''s pattern (corrupt within legitimate hierarchy) risks reactivating the same latency'
+  orson_randall:
+  - Previous Iron Fist; former student; long-buried colleague
+  - Truth of Orson's story withheld from Danny for decades — characteristic protective-withholding turned
+    complicity
+  - Carries Orson as part of the chain of Iron Fists he loved and outlived
+  immortal_weapons:
+  - Peer-functionaries (Fat Cobra, Bride of Nine Spiders, etc.) across the Seven Capital Cities
+  - Relationships are professional, respectful, long-game; recruited several as covert allies in the Yu-Ti
+    rebellion
+  - 'Trust-level: operational; he reads them accurately and uses them precisely'
+  - 'Failure mode: a Weapon turned hostile would be engaged without theatrical pride, on long-game terms'
+  kun_lun_itself:
+  - The institution he served his life for; the meaning-frame of his identity
+  - Its destruction (Living Weapon) is the loss against which his tonic flat affect has held
+  - 'Failure mode: any threat to a remnant of K''un-Lun''s lineage will mobilize him with the totality
+    of a man who has nothing left to lose but the work'
+canon_history_notes:
+- 'Introduced Marvel Premiere #16 (1974) as established institution, not arc character — the function
+  precedes the man in the text as in the psyche'
+- Claremont/Byrne Iron Fist (1975-77) plants the Davos wound as the central biographical key
+- Bronze Age appearances establish the silent-compliance-with-hierarchy pattern under Yu-Ti
+- 'Brubaker/Fraction/Aja Immortal Iron Fist (2006-09) is the major reworking: reveals trans-generational
+  tenure, the underground network, the decisive rebellion against Yu-Ti, the disclosure of withheld truths
+  to Danny'
+- 'Andrews Iron Fist: The Living Weapon dramatizes K''un-Lun''s destruction and his near-silent grief
+  — affect leaks at the institutional loss that personal losses could not crack'
+- 'Longitudinal arc: rigid functionary → conflicted father-figure → revealed dissident → grieving survivor;
+  the discipline constant, the visibility of the man beneath it increasing'
+- 'Temporal note: K''un-Lun''s slowed time gives him a chronological lifespan in centuries with biological
+  presentation of vigorous elder — he has outlived multiple Iron Fists he trained and buried'
+canon_anchor_quotes:
+- '"You will rise. You will strike. Again." # composite of training-scene register across Marvel Premiere
+  and Iron Fist runs'
+- '"I am the Thunderer. I have trained many. I will train you." # Immortal Iron Fist era register, role-as-identity
+  made explicit'

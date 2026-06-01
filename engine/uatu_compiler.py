@@ -682,11 +682,31 @@ def _auto_portrait(stem, name, alias="", bottom_line=""):
     STYLE = (" Dramatic cinematic chiaroscuro lighting, single warm key light, 85mm f/1.4 lens, "
              "shallow depth of field, photorealistic skin texture, editorial character portrait, "
              "ultra detailed, somber filmic mood, no text, no watermark.")
-    ap = None
-    if key:
-        smsg = ("You write ONE concise photographic portrait prompt (~45 words). Describe the "
-                "character's canonical physical appearance only: age, race, build, hair, features, "
-                "attire. NEVER name a real actor. Output ONLY the prompt.")
+    GLOBAL_NEG = ("text, watermark, signature, logo, caption, deformed, extra limbs, extra fingers, "
+                  "mutated hands, lowres, blurry, jpeg artifacts, frame, border, "
+                  "likeness of a specific real-life actor or celebrity, recognizable famous real person")
+    # operator-reviewed appearance lock wins outright — no LLM step that can drift/mis-read a name
+    ap = None; negative = GLOBAL_NEG
+    locks_fp = CHARS_DIR.parent / "world" / "appearance_locks.json"
+    try:
+        _lk = _j.loads(locks_fp.read_text(encoding="utf-8")).get(stem)
+    except Exception:
+        _lk = None
+    if isinstance(_lk, dict) and _lk.get("lock"):
+        ap = f"{name} ({alias}). {_lk['lock']}."
+        STYLE = " " + _lk.get("scene", STYLE.strip())
+        _n = _lk.get("negative", "")
+        if isinstance(_n, list): _n = ", ".join(_n)
+        if _n:
+            ap += f" This is absolutely NOT and must not resemble: {_n}."
+            negative = ", ".join([_n, GLOBAL_NEG])
+    if ap is None and key:
+        smsg = ("You write ONE photographic portrait prompt (~55 words) for a comic-book character. "
+                "MANDATORY: include EVERY defining visual marker that makes them instantly recognizable — "
+                "especially non-human SKIN COLOR (blue, grey, red, green, etc.), signature helmet/mask/"
+                "costume, and distinguishing features. The character must be unmistakable; creative liberty "
+                "is fine on pose, lighting, and minor details, but NEVER omit a defining trait. "
+                "NEVER name a real actor. Output ONLY the prompt.")
         usr = f"Character: {name} ({alias}). Note: {(bottom_line or '')[:280]}. Write the portrait prompt."
         for m in ("meta-llama/llama-3.3-70b-instruct:free", "openai/gpt-oss-120b:free",
                   "google/gemma-4-31b-it:free"):
@@ -708,8 +728,11 @@ def _auto_portrait(stem, name, alias="", bottom_line=""):
     if not ap:
         ap = f"Photographic character portrait of {name}, canonical comic-book appearance, dramatic lighting"
     seed = int(_h.md5(stem.encode()).hexdigest()[:7], 16)
+    _params = {"width": 768, "height": 1024, "model": "flux", "nologo": "true", "seed": seed}
+    if negative:
+        _params["negative_prompt"] = negative
     url = ("https://image.pollinations.ai/prompt/" + _up.quote(ap + STYLE, safe="") + "?" +
-           _up.urlencode({"width": 768, "height": 1024, "model": "flux", "nologo": "true", "seed": seed}))
+           _up.urlencode(_params))
     for attempt in range(4):
         try:
             req = _ur.Request(url, headers={"User-Agent": "grizzly-knights/1.0"})
@@ -724,6 +747,38 @@ def _auto_portrait(stem, name, alias="", bottom_line=""):
             _t.sleep(75 if e.code == 402 else 8)
         except Exception:
             _t.sleep(8)
+
+
+def _appearance_canon(stem: str) -> str:
+    """Operator-reviewed physical canon for a stem, as an immutable directive block.
+
+    Single source of truth: universe/world/appearance_locks.json. Folded into the
+    build directives so EVERY module that describes the subject's body/ethnicity/
+    appearance matches the portrait — overriding legacy source canon where they differ
+    (e.g. a character re-cast as Afro-Latino). Returns '' when no lock exists.
+    """
+    import json as _json
+    locks_fp = CHARS_DIR.parent / "world" / "appearance_locks.json"
+    try:
+        locks = _json.loads(locks_fp.read_text(encoding="utf-8"))
+    except Exception:
+        return ""
+    e = locks.get(stem)
+    if not (isinstance(e, dict) and e.get("lock")):
+        return ""
+    return ("\n\nPHYSICAL APPEARANCE — IMMUTABLE OPERATOR CANON (this OVERRIDES any "
+            "conflicting description in the source material; every module that touches "
+            "the subject's body, face, ethnicity, hair, eyes, costume, or first-impression "
+            "MUST match this exactly, with zero drift):\n" + e["lock"].strip() + "\n")
+
+
+def _load_directives(stem: str) -> str:
+    """Operator directive file (if any) + the immutable appearance canon, merged."""
+    text = ""
+    dfile = CHARS_DIR / "_directives" / f"{stem}.md"
+    if dfile.exists():
+        text = dfile.read_text(encoding="utf-8")
+    return text + _appearance_canon(stem)
 
 
 def _cli(argv):
@@ -759,10 +814,7 @@ def _cli(argv):
         srcfile = HERE / "recovery_research" / "_sources" / f"{stem}.txt"
         if srcfile.exists():
             sources = srcfile.read_text(encoding="utf-8")
-        directives = ""
-        dfile = CHARS_DIR / "_directives" / f"{stem}.md"
-        if dfile.exists():
-            directives = dfile.read_text(encoding="utf-8")
+        directives = _load_directives(stem)
         sys.stderr.write(f"[UATU] {stem}: stage-1 analysis -> stage-2 synthesis via {UATU_MODEL}{' + operator directives' if directives else ''}...\n")
         y, rep, d, analysis = compile_profile(stem, display, alias, sources=sources, directives=directives)
         # always stash the stage-1 analysis for inspection (proof of reverse-engineering)
@@ -803,10 +855,7 @@ def _cli(argv):
         srcfile = HERE / "recovery_research" / "_sources" / f"{stem}.txt"
         if srcfile.exists():
             sources = srcfile.read_text(encoding="utf-8")
-        directives = ""
-        dfile = CHARS_DIR / "_directives" / f"{stem}.md"
-        if dfile.exists():
-            directives = dfile.read_text(encoding="utf-8")
+        directives = _load_directives(stem)
         sys.stderr.write(f"[UATU] {stem}: FULL DOSSIER ({len(DOSSIER_MODULES)} modules) via {UATU_MODEL}{' + directives' if directives else ''}...\n")
         dossier_md, analysis = compile_dossier(stem, display, alias, sources=sources, directives=directives,
                                                log=lambda m: sys.stderr.write(m + "\n"))

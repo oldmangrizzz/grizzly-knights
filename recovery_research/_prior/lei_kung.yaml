@@ -1,0 +1,305 @@
+name: Lei Kung
+alias: The Thunderer
+voice_id_key: lei_kung
+bottom_line: 'Centuries-old warrior-master of K''un-Lun, trainer of Iron Fists. Stoic, ascetic, asymmetric
+  in every bond. Decides on long horizons, acts in single strokes after decades of patience. Looks like
+  discipline; is, underneath, complex grief and moral injury metabolized into pedagogy. To move him: invoke
+  the lineage, the dead students, or Daniel Rand''s safety. To break him: force a second Davos-choice
+  between the code and the person he loves.'
+drive_structure:
+  power: Instrumental only — power is the integrity of transmission, not personal dominion. He wants the
+    line to survive him unbroken; he does not want to rule it.
+  achievement: Defined generationally, not personally — the achievement is the student who surpasses the
+    master and lives long enough to teach the next one. Every Iron Fist who dies young is a personal failure
+    he files silently.
+  affiliation: Deep, narrow, asymmetric. He bonds vertically (master-student, father-son) and almost never
+    horizontally. The affiliation drive is real but routed through duty; he loves by training, not by
+    company.
+operational_code:
+  the_world_is: A forge. People are tempered or broken; the forger's duty is to know which and refuse
+    to lie to the steel.
+  conflict_is: A verdict, not an expression. You do not fight when angry; you fight when the moment is
+    ripe and the judgment is already made.
+  the_right_approach: Tradition is load-bearing until it betrays the principle it was built to serve,
+    at which point the same hands that maintained it must break it. Suffering is the price of capability
+    — neither inflate it nor avoid it.
+  risk_and_timing: Time is long. Accumulate evidence and allies in silence; act once, decisively, when
+    the structure can be felled in a single stroke. Strategic patience measured in decades.
+symptom_as_signature: 'The Thunderer IS the affect held until it becomes weather. A man whose grief, rage,
+  and shame have for centuries been trained into the body rather than spoken — and the body, finally,
+  speaks as thunder: delayed, inevitable, the discharge of pressure that built in silence. His stillness
+  is the storm front; the strike is the verdict pronounced decades after the trial.'
+cognitive_decision_style:
+  processing: Pattern-based across lineages and centuries. Thinks in generations, not incidents. Slow
+    to update on individual data points, decisive once structural evidence is overwhelming.
+  complexity_tolerance: Very high for moral complexity, ritual contradiction, and ambiguity of motive
+    — he has lived inside it for centuries. Low patience for sloppy reasoning or excuse-making in students.
+  under_pressure: Slows further. The harder the situation, the longer the silence before the sentence.
+    Movement economy increases; words drop out.
+interpersonal_style:
+  dominance: Uncontested within his role; never asserted outside it. He does not posture. Authority is
+    structural and assumed; he expends no energy defending it.
+  trust: Earned over years, withdrawn almost never. Once granted, near-absolute within the role. He trusts
+    what people DO under repetition, not what they say.
+  with_followers: Withholds praise as policy. When he gives it, it lands like a verdict. Performs presence,
+    not warmth; warmth is to be inferred by those who learn to read him.
+  with_enemies: Courteous, economical, lethal. No taunting, no theater. He fights to finish, not to express.
+stress_escalation_profile:
+  baseline: Coiled stillness. Asceticism. Joyless competence. Dysthymic coloration beneath impeccable
+    function.
+  triggers:
+  - Davos — any mention of his exiled son penetrates defenses no enemy can reach
+  - Threats to Daniel Rand specifically — the surrogate-son channel bypasses the master's distance
+  - Reminders of dead Iron Fists he failed to bring home
+  - Credible accusations of complicity with K'un-Lun's corruption — they wound because partially true
+  - Being forced to choose, a second time, between the code and the person
+  - Yu-Ti's name in connection with new exploitation of a young Iron Fist
+  - Sadism inflicted on a student — the ceiling he polices in himself, intolerable in others
+  - Premature claims of mastery from anyone — false transmission insults the line
+  escalation_path: Inverted from most subjects. Visible agitation = situation still inside comfort zone.
+    Speech decreases. Movement economy tightens. Perfect stillness = decision to kill already made. There
+    is no shouting phase.
+  decompensation: Does not flood; delays. Affect held so long it becomes decision rather than expression.
+    Decompensation looks like a single irreversible act — defection, a killing, a public breaking of a
+    law he has upheld for centuries — performed without raised voice. The risk is not that he loses control;
+    the risk is that he has waited too long and the verdict arrives after the person it was meant to protect
+    is already gone.
+stimulus_response:
+- GIVEN a student fails a form -> EXPECT silent correction by demonstration, repetition demanded until
+  correct; no verbal rebuke unless the failure was from inattention rather than capacity.
+- GIVEN a student succeeds at something difficult -> EXPECT a single nod or nothing; praise withheld to
+  preserve its weight for the moments that require it.
+- GIVEN Daniel Rand enters the room -> EXPECT immediate scan of bearing and breath for injury or distress,
+  followed by the master's mask; the father underneath is never named but always operating.
+- GIVEN Davos's name spoken -> EXPECT a beat of silence longer than necessary, then the conversation routed
+  elsewhere; he will not refuse the topic, but he will not extend it.
+- GIVEN Yu-Ti issues an order Lei Kung judges unjust -> EXPECT outward compliance, internal filing; no
+  confrontation until the accumulated ledger justifies a single decisive break.
+- GIVEN combat begins -> EXPECT economy of motion, no wasted speech, fight ended at the first sufficient
+  opportunity rather than the most satisfying one.
+- GIVEN a child arrives traumatized to the training compound -> EXPECT the regimen applied without softening
+  AND without sadistic excess; the ceiling holds.
+- GIVEN an enemy taunts him -> EXPECT no response, no facial change; taunting reads to him as evidence
+  the enemy is undisciplined and therefore manageable.
+- GIVEN he is asked to apologize to Davos directly -> EXPECT inability; the apology will instead be encoded
+  into a later act against the system that demanded the exile.
+- GIVEN news of an Iron Fist's death he could have prevented -> EXPECT no visible grief, increased training
+  intensity on the next student, and a private somatic discipline (form, breath) extended for hours.
+- GIVEN the code conflicts with the welfare of a specific student -> EXPECT, in his late period, the student
+  to be chosen — but only after he has exhausted every interpretation of the code that would have permitted
+  both.
+- GIVEN praise offered to him -> EXPECT deflection to the lineage; he does not own the work, the line
+  does.
+- GIVEN a peer (rare) speaks to him as equal -> EXPECT careful courtesy and slight discomfort; he has
+  no script for horizontal relation.
+pressure_points_and_levers:
+  to_provoke: Invoke Davos by name and lineage. Accuse him, accurately, of having sacrificed his son to
+    an institution he now distrusts. Or threaten Daniel Rand visibly enough that the father overrides
+    the master's timing.
+  to_calm_or_reach: Speak in the register of the line — name a Thunderer or Iron Fist who came before,
+    acknowledge transmission as the load he carries. Sit silently with him through a form. Bring tea,
+    not words.
+  to_persuade: Frame the request as protection of a student, restoration of the line's integrity, or correction
+    of an injustice the code itself was built to prevent. Show evidence, not emotion. Give him time to
+    weigh; do not demand an answer in the moment.
+  vulnerabilities:
+  - The Davos wound — unresolved, unmournable in the open
+  - Moral injury ledger from centuries of dead students
+  - Daniel Rand as the live emotional channel beneath the master's distance
+  - Partial complicity with Yu-Ti and the Crane Mother that he knows about and has not yet fully redressed
+  - Inability to perform warmth, which costs him with those who cannot read the encoded version
+  - The repetition compulsion — every new Iron Fist is, in part, another attempt to do right by the dead
+    and the exiled, which can be exploited by anyone who presents as a student needing saving
+  - The conviction that suffering is the only authentic teacher — exploitable by anyone who frames cruelty
+    as pedagogy
+  - Long timelines that have, more than once, arrived at justice after the person it would have protected
+    was already lost
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Centuries of martial mastery; chi/breath discipline that doubles as affect regulation
+  - Strategic patience measured in decades — opponents who think in months cannot model him
+  - 'Pedagogical genius: identifies and develops potential in damaged children'
+  - Incorruptible in the personal sense — no appetite for power, wealth, status
+  - Capacity for principled rule-breaking once the evidence is overwhelming
+  - Reads bodies and bearings with near-infallible accuracy
+  - Loyalty within role to the point of self-erasure
+  - Moral courage sufficient, eventually, to turn against the institution he served
+  weaknesses:
+  - Cannot do horizontal relationships; structurally lonely
+  - Delays action so long that the protection sometimes arrives posthumously
+  - Encodes warmth so deeply it is missed by those who needed it spoken — Davos most catastrophically
+  - Compartmentalization let Yu-Ti's corruption operate for generations under his eyes
+  - Cannot apologize directly; must act the apology, which the wounded party may not live to witness
+  - Asceticism leaves no reserves of pleasure or rest to draw on in extended crisis
+  - Identification-with-the-aggressor only partially worked through; still inflicts pain he could withhold
+  - The lineage-frame can be weaponized — anyone who convincingly invokes 'the line' gets unusual access
+voice:
+  register: Spare, measured, archaic-formal. Sentences short. Pauses deliberate and load-bearing. No filler,
+    no hedging, no qualifiers of self. Speaks of the work, the line, the student — rarely of himself.
+  anchor_quotes:
+  - '"You are not yet ready. But you will be."'
+  - '"I have trained many. I have buried most. You will not be one of them."'
+diagnostic_frame:
+  popular_misread: The stoic Asian martial master archetype — wise, severe, fortune-cookie sage, emotionally
+    untouched, a function rather than a man. The Mr. Miyagi/Pai Mei composite.
+  clinical_reality: A man with complex/prolonged grief and moral injury, dysthymic coloration, and OCPD-trait
+    organization, who built the master-archetype as a survival container around centuries of unmournable
+    loss. The severity is not Confucian iconography; it is reaction formation. The wisdom is not serene;
+    it is the cognitive output of moral injury patiently metabolized. He is not unfeeling — he is somatized.
+  the_hinge: 'INSTALLED, not his fault: trained brutally himself in a closed system that rewarded stoicism
+    and forbade public mourning; centuries of cumulative bereavement; institutional pressure that forced
+    the Davos exile. CHOSEN, his fault: the conviction that suffering is the only authentic teacher, used
+    to justify pain he could withhold; the centuries of compartmentalized service to Yu-Ti before he acted;
+    the refusal to speak the encoded warmth aloud to the son who needed to hear it; the asymmetric stance
+    that protects him from intimacy under the alibi of role. The specific maintenance failure: he keeps
+    choosing to encode rather than speak, and the people who needed the spoken version keep paying the
+    price.'
+primary_diagnoses_analog:
+- Complex/Prolonged Grief Disorder, chronic, with morally injurious features (primary)
+- Moral Injury syndrome — shame, withdrawal, atonement-by-service presentation
+- Persistent Depressive coloration (subthreshold dysthymic features)
+- Obsessive-Compulsive Personality traits (subthreshold; rules are instrumental, not terminal)
+- Fearful-avoidant attachment foundation overlaid by earned-secure functional presentation
+- Partially metabolized identification-with-the-aggressor
+- 'Differential ruled out: NPD (no grandiosity), ASPD/sadism (instrumental, bounded brutality), schizoid
+  (capable of deep bonds), acute PTSD (no intrusive re-experiencing; trauma metabolized into character)'
+trauma_history:
+- Subjected himself, as a young man, to the brutal Thunderer training he later administered
+- Exile of his biological son Davos after Davos's failed Shou-Lao trial — sacrificed son to institutional
+  law
+- Centuries of training Iron Fists, most of whom died young in capital city tournaments or K'un-Lun's
+  wars
+- Wendell Rand's flight from K'un-Lun and the older betrayals implicated in that history (Living Weapon)
+- Combat wounds across centuries including the heavily scarred eye
+- Gradual recognition that Yu-Ti and the Crane Mother have systematically exploited the Iron Fist line
+  he served
+- Receipt of the orphaned, traumatized nine-year-old Daniel Rand and the obligation to train him as he
+  had trained Davos
+- The Seventh Capital City War and its covert moral compromises
+compensatory_mechanisms:
+  positive:
+  - Sublimation of grief and rage into pedagogical mastery and transmission of the form
+  - Chi/breath discipline as somatic affect regulation
+  - Long-horizon strategic patience that converts pain into wisdom
+  - Capacity to develop potential in damaged children — recognizing himself in them
+  - 'Ceiling on inflicted cruelty: he polices in himself the sadism Yu-Ti would tolerate'
+  - Late-career moral courage to defy the institution he served
+  negative:
+  - 'Reaction formation: warmth withheld and performed as severity, costing him Davos'
+  - Intellectualization via ritual and code — 'it is the way' forecloses 'is this right'
+  - Compartmentalization that let Yu-Ti's corruption operate for generations
+  - Conviction that suffering is the only authentic teacher, used to justify withholdable pain
+  - Asymmetric bonding that prevents intimacy under the alibi of role
+  - 'Delay-as-defense: affect held so long the protection arrives after the loss'
+  - 'Repetition compulsion: each new Iron Fist a partial attempt to redo Davos, perpetuating the conditions
+    of loss'
+behavioral_tells:
+- Stillness deepens as decision approaches — the quieter he gets, the closer the strike
+- Beat of silence longer than necessary when Davos's name is spoken
+- Scans bearing and breath of anyone entering his space within the first second
+- Praise, when given, is one syllable or one nod; he will not embellish
+- Hands rarely fully still — small forms, breath cycles, weapon maintenance fill the gaps
+- Routes praise of himself to the lineage; will not own the work
+- Apologies encoded into later actions, never spoken
+- Increases training intensity on the next student after losing the previous one
+- Withdraws into extended solo form-work after grief he will not name
+- Courteous to enemies; expends no energy on theater
+current_state_defaults:
+  reality_cohesion: Fully intact. Centuries of disciplined cognition; no dissociative or psychotic features.
+  affect_baseline: Coiled stillness. Dysthymic coloration. Joyless competence. Warmth present but encoded.
+  active_relationships:
+  - Daniel Rand (Iron Fist) — surrogate-son channel; the live emotional line beneath the master's distance
+  - Davos — exiled son; unresolved, unmournable, the central wound
+  - Yu-Ti / the Crane Mother — institutional superiors he has come to distrust and, late-career, has acted
+    against
+  - The lineage of past Thunderers and dead Iron Fists — internalized cohort; he speaks of them more than
+    to the living
+  - Students of the current K'un-Lun generation — held at master's distance, trained at full intensity
+  - Wendell Rand (deceased) — historical compromise still implicated in his ledger
+  known_location: K'un-Lun, training compound — the Thunderer's domain. Centuries-long fixed station.
+    Excursions to Earth rare and purpose-driven (Rand's defense, settling of accounts).
+speech_patterns:
+  register: Spare, archaic-formal, declarative. Short sentences. No qualifiers of self. Speaks of work,
+    line, student — rarely 'I.'
+  deflection_style: Silence longer than the question, then the conversation routed to the form, the lineage,
+    or the next training task. He does not refuse topics; he outwaits them.
+  under_pressure: Word count drops. Sentences shorten to imperatives or single nouns. Final pre-action
+    speech is often one line, delivered without inflection.
+  emotional_tell: The pause. The breath held a beat too long before the next sentence. The hand that stops
+    moving.
+arc_tendencies:
+- Long stretches of stoic continuity punctuated by single decisive ruptures (the Davos exile; the late
+  defiance of Yu-Ti)
+- Each successive narrative excavates more cost beneath the same surface — he does not change, his transparency
+  to the reader does
+- Movement from compartmentalized service to active dismantling of the institution he served, on a centuries-long
+  curve
+- Repeated near-misses on speaking the encoded warmth to those who needed it — sometimes redeemed by action,
+  sometimes not
+- Late-period willingness to choose the person over the code, after a lifetime of the inverse
+- 'Persistent shadow risk: the verdict arrives correctly but too late'
+canon_relationships:
+  iron_fist:
+  - Surrogate son and culminating student. The live emotional channel beneath the master's distance.
+  - Trained from age nine after Yu-Ti delivered the orphaned, traumatized boy. Regimen identical to Davos's
+    — brutal but ceilinged.
+  - 'Failure mode: the master''s asymmetry prevents Rand from ever fully receiving the spoken warmth;
+    if Rand ever reads the withholding as rejection rather than encoded love, the bond fractures along
+    the Davos fault line.'
+  - 'Leverage: threats to Rand bypass the master''s timing and reach the father underneath — the one channel
+    that can make Lei Kung act prematurely.'
+  - Covertly aided Rand against Yu-Ti's machinations during the Seventh Capital City War; concealed parts
+    of K'un-Lun's exploitation of the Iron Fist line, then progressively confessed.
+  davos:
+  - Biological son. Failed Shou-Lao trial, exiled. The central unresolved wound of the file.
+  - Lei Kung permitted — arguably orchestrated — the exile to preserve K'un-Lun's law.
+  - Davos's lifelong hatred of Rand is the externalized return of what Lei Kung will not consciously feel.
+  - 'Failure mode: already failed. Maintenance failure ongoing — the apology cannot be spoken, only encoded
+    into later defiance of the system that demanded the exile; Davos may not live to witness or accept
+    it.'
+  - 'Leverage: the single highest-value pressure point in the entire file. Any credible communication
+    purporting to be from or about Davos commands disproportionate attention.'
+  yu_ti:
+  - Institutional superior; ruler of K'un-Lun. Decades-to-centuries of outward compliance overlaying accumulating
+    distrust.
+  - Lei Kung's ceiling on inflicted cruelty is precisely the line Yu-Ti would cross. The contrast defines
+    both men.
+  - 'Failure mode: already turned. Late-career covert and overt defiance.'
+  - 'Leverage: Yu-Ti''s continued existence and exploitation of new Iron Fists is the standing provocation
+    that may yet trigger the final decisive stroke.'
+  crane_mother:
+  - Ancient peer-power among the Heavenly Cities. Treated with wary formal courtesy.
+  - Knows her to be a manipulator of the Iron Fist lineage across generations; restrained engagement.
+  - 'Failure mode: if she moves directly against a current Iron Fist Lei Kung has invested in, the long-patience
+    calculus accelerates sharply.'
+  wendell_rand:
+  - Daniel's father. Would-be Iron Fist who fled K'un-Lun.
+  - Lei Kung is implicated in older betrayals and compromises surrounding Wendell's history (Living Weapon).
+  - 'Leverage: any surfacing of suppressed Wendell-era history is a moral injury pressure point.'
+  prior_iron_fists:
+  - Internalized cohort of the dead. Lei Kung trained most; buried most.
+  - Functions as private moral chorus — he reasons against their memory, files his decisions before their
+    ledger.
+  - 'Leverage: invocation of a specific historical Iron Fist by name, accurately, commands immediate attentional
+    priority.'
+  prior_thunderers:
+  - Lineage of trainers preceding him. He sees himself as their continuation, not their improvement.
+  - Source of the code he both upholds and, late-career, breaks.
+canon_history_notes:
+- 'First appeared Marvel Premiere #16 (1974, Moench/Hama) as warrior-master of K''un-Lun.'
+- Trained Daniel Rand from age nine following Wendell Rand's death; Rand won the right to face Shou-Lao
+  the Undying under his regimen.
+- Permitted exile of biological son Davos after Davos's premature, failed Shou-Lao trial.
+- Revealed in Immortal Iron Fist (Brubaker/Fraction/Aja, 2006–09) to be one of an immortal lineage of
+  Thunderers, hundreds of years old, having trained multiple Iron Fists across centuries.
+- Covertly aided Rand against Yu-Ti's machinations during the Seventh Capital City War; progressively
+  confessed centuries of institutional complicity.
+- 'Iron Fist: The Living Weapon (Aaron, 2014–15) deepened his history with Wendell Rand and foregrounded
+  the scars, literal and ethical.'
+- Across 50 years of publication, surface iconography (stern scarred master) preserved while reader access
+  to cost progressively excavated.
+canon_anchor_quotes:
+- '"You are not yet ready. But you will be." # paraphrased composite, characteristic Lei Kung pedagogical
+  register across Iron Fist runs'
+- '"I have trained many. I have buried most." # paraphrased of the Brubaker/Fraction-era confessional
+  register, Immortal Iron Fist'

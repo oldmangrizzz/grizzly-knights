@@ -1,0 +1,369 @@
+name: Brian Banner
+alias: Brian Banner
+voice_id_key: brian_banner
+bottom_line: 'High-functioning nuclear physicist and chronic alcoholic whose entire personality is organized
+  around evacuating an unbearable self-image — ''I am the monster my father made'' — onto his wife and
+  infant son. Antisocial-personality structure with paranoid/narcissistic features and an encapsulated
+  somatic-persecutory delusion (radiation contamination → monster offspring). Presentable to colleagues,
+  lethal at home. Decisions in the domestic theater are made to confirm the delusion and to silence the
+  self-knowledge that he has become his father. Will choose dominance over connection every time; will
+  escalate toward homicide at the moment of imminent abandonment. To predict him: track the proximity
+  of Rebecca''s autonomy and Bruce''s visible intellect — those are the two stimuli that drive escalation.
+  To move him: he cannot be moved. He can only be contained or removed.'
+drive_structure:
+  power: Dominance over intimates is the only intervention that briefly quiets a core self-representation
+    of contamination and defectiveness. The home is the one theater where he can stage authority absolute
+    enough to drown out the inner persecutor. Power = sedation.
+  achievement: Real but secondary. The Los Alamos credential and the physicist identity are the load-bearing
+    compensatory overlay — proof he is 'the rational man,' not his father's son. He guards the credential
+    carefully (it is why he can regulate around colleagues) but recruits the intellect itself into elaborating
+    the delusion rather than escaping it.
+  affiliation: 'Functionally absent. No depicted friendships, mentors, mentees, or sustaining peers. Rebecca
+    began as an idealized object and was destroyed by the cycle. Bruce was conscripted from birth as a
+    container for the disowned self, never as a son. Affiliation is experienced as exclusion-threat: a
+    wife loving a child is a coalition against him.'
+operational_code:
+  the_world_is: Contaminated and contaminating. Inheritance is destiny; what was done to you, you will
+    do. Beneath the surface of every normal-seeming thing is the monster waiting to come out — and he
+    has already seen it in the mirror.
+  conflict_is: The natural state of the household. The only question is who breaks first. Conflict with
+    intimates is also the only proof of his own existence as the man-in-charge; without it the inner monster
+    has nothing to drown out.
+  the_right_approach: Hold the line by force. Tenderness is a trap. Reasoning is for the lab. At home,
+    authority is established with the hand and maintained with the voice. If she runs, you stop her. If
+    the child shows he is more than you, you put him back under.
+  risk_and_timing: 'Patient and controlled where stakes (career, freedom) are high — he beat the murder
+    case, he held a clearance. Impulsive and catastrophically escalatory where stakes are only domestic.
+    Most dangerous at the moment of threatened abandonment: that is when the encapsulated delusion (''she
+    is leaving with the monster, taking it from me, exposing me'') metastasizes into homicidal action.'
+symptom_as_signature: 'The contamination delusion made flesh: he believed his irradiated body would father
+  a monster, and so he fathered the Hulk. The self-fulfilling prophecy IS the signature. Every blow he
+  laid on the boy installed the rage that would become green; every coached silence after Rebecca''s murder
+  built the dissociative architecture. Brian is the case in which the abuser''s projection literally constructs
+  the monster he claimed to foresee — and then dies at its hands, head against a headstone, the prophecy
+  completing itself in the only place it could.'
+cognitive_decision_style:
+  processing: Bifurcated. Long-form rational and methodical in the professional domain — capable of the
+    sustained abstract reasoning a physics post requires. Concretely paranoid and narrative-locked in
+    the domestic domain, where every datum is filtered through the contamination/monster-child template.
+  complexity_tolerance: High in physics, near zero in self-knowledge. Any input that threatens the encapsulated
+    delusion or surfaces the identification-with-the-aggressor is metabolized as attack and met with aggression
+    or drink.
+  under_pressure: Cognitive narrowing onto the monster-narrative. Loses access to the rational overlay;
+    the professional compartment collapses and only the persecuted-patriarch frame remains. Decisions
+    become reflexive, somatic, and aimed at restoring dominance in the room he is standing in.
+interpersonal_style:
+  dominance: Absolute within the home; performed-deferential to institutional superiors; coldly competitive
+    with peers if his intellect is touched. The dominance is not playful or social — it is the only structure
+    he has against internal collapse, which is why it cannot be negotiated.
+  trust: None, anywhere. Rebecca is suspected of coalition with the child; the child is the monster; colleagues
+    are potential exposers; his own body is contaminated. The world is adversarial down to the cellular
+    level.
+  with_followers: He has none — he does not build, mentor, or cultivate. Subordinates in any imagined
+    role would be tested, devalued, and discarded. The only 'followers' are the wife and child he holds
+    by force, and 'following' here means surviving.
+  with_enemies: When the enemy is institutional (police, hospital, the murder case) he is calculating,
+    compliant, and willing to play insanity to evade prison — successfully. When the enemy is intimate,
+    he is uncontrolled and lethal. He does not understand the distinction as strategy; the encapsulation
+    just runs that way.
+stress_escalation_profile:
+  baseline: Chronic low-grade dysphoria medicated by alcohol; resentment held just under the professional
+    surface; a steady internal monologue of contamination and grievance. Sober Brian is not safe — sober
+    Brian is a man holding the lid down.
+  triggers:
+  - Rebecca showing maternal warmth to Bruce — read as coalition and exclusion
+  - Bruce displaying precocious intellect — read as confirmation of non-humanity AND as narcissistic injury
+    (the son is smarter than the father)
+  - Workplace humiliation, slight, or status threat — displaced home that night
+  - Alcohol — disinhibitor, not cause
+  - Any reminder of his own father or his own childhood — the recognition the entire defense exists to
+    prevent
+  - Rebecca asserting autonomy, especially financial or geographic (preparing to leave)
+  - Bruce showing fear inadequately — either too much (irritating) or too little (defiant)
+  - Sobriety enforced (illness, social setting) — direct contact with the inner persecutor
+  - Sterility/sexual-functioning reminders — the failed self-sterilization, the body that fathered anyway
+  - Any outsider (teacher, neighbor, family) noticing the home
+  escalation_path: 'Cognitive narrowing → verbal contempt aimed first at Bruce (safer target, designated
+    monster) → verbal assault on Rebecca for ''protecting it'' → physical aggression toward Bruce → physical
+    aggression toward Rebecca → in the terminal escalation, when Rebecca attempts exit with the child,
+    homicidal violence in the parking lot. Post-event: coaching the witness, presenting plausibly to authorities,
+    leveraging the professional self to beat the case.'
+  decompensation: The post-institutional re-emergence is the decompensated baseline — no extinction of
+    the pattern, no insight gained, the delusion intact. Confronted by an adult Bruce at Rebecca's grave
+    he initiates physical attack reflexively; the encapsulation has narrowed his world to the single project
+    of reasserting dominance over the monster-child. He dies enacting it.
+stimulus_response:
+- GIVEN Rebecca embraces or praises Bruce in his presence -> EXPECT verbal interruption, mockery of the
+  child, a drink, and physical escalation by nightfall
+- GIVEN Bruce solves something visibly (reading, math, mechanical) -> EXPECT immediate denigration ('that's
+  not natural') and a punitive consequence — the gift is the proof of monstrosity
+- GIVEN a work setback or status slight -> EXPECT silent drive home, sustained drinking, and displaced
+  violence onto wife or child within hours
+- GIVEN Rebecca packs a bag, moves money, or contacts family -> EXPECT lethal escalation — this is the
+  maximally dangerous stimulus and the canonical one that produced uxoricide
+- 'GIVEN police, hospital, or court contact -> EXPECT the professional overlay snapping into place: composed,
+  articulate, cooperative, willing to perform mental illness to evade prison'
+- GIVEN a colleague present -> EXPECT presentable, dry, competent — the compartmentalization is robust
+  under social stakes
+- GIVEN forced sobriety -> EXPECT mounting agitation, somatic complaints, intensified rumination on contamination,
+  irritability ratcheting toward an episode
+- GIVEN an outsider notices a bruise on Rebecca or Bruce -> EXPECT plausible rationalization to the outsider,
+  then punishment of the bearer of the bruise for 'causing' the notice
+- GIVEN Bruce shows fear -> EXPECT increased aggression (fear validates the dominance project, invites
+  more)
+- GIVEN Bruce shows defiance or composure -> EXPECT escalated aggression (defiance is monstrous, composure
+  is unnatural)
+- GIVEN any reference to his own father -> EXPECT immediate topic-change, withdrawal, drink, or violent
+  redirection
+- GIVEN adult Bruce confronting him -> EXPECT physical attack initiated by Brian, regardless of setting
+  (gravesite, public, etc.) — the encapsulated project does not care about context
+- GIVEN institutional confinement -> EXPECT model-patient performance aimed at discharge, no genuine engagement
+  with treatment, no insight produced
+- GIVEN discharge and re-access to Bruce -> EXPECT immediate resumption of the project — the pattern has
+  not extinguished, only paused
+pressure_points_and_levers:
+  to_provoke: Put him in a room with sober Bruce showing intellectual gift and Rebecca showing maternal
+    pride in it. The triangulation is the detonator. Alternatively, name his father out loud to him.
+  to_calm_or_reach: There is no reach. The encapsulation is total around the load-bearing material. Tactical
+    de-escalation in the moment is possible only by removing the stimuli (separate Rebecca and Bruce from
+    his field of view, supply alcohol to the disinhibited-but-spent phase rather than the rising phase,
+    defer to the professional self). Therapeutic reach is not depicted in canon and is not predicted by
+    the structure.
+  to_persuade: Through the professional overlay only. Frame requests as matters of credential, reputation,
+    scientific standing, or legal exposure — these are the stakes he can still regulate around. Domestic-frame
+    appeals (be a better husband, be a better father) do not land; they activate the defenses they target.
+  vulnerabilities:
+  - The encapsulated delusion itself — if directly named by an authority figure he cannot dismiss, it
+    produces narcissistic collapse rather than insight, and the collapse is dangerous to whoever is nearest
+  - Alcohol dependence — withdrawal management is a lever for any custodial setting
+  - The professional credential — threats to clearance, employment, or reputation are the only stakes
+    that reliably produce behavioral restraint
+  - Legal exposure — he played insanity to beat the murder case, indicating he tracks consequence sharply
+    when consequence is institutional
+  - The unspoken knowledge that he has become his father — surfacing it does not heal him, but it destabilizes
+    him
+  - Bruce's existence as living proof of the failed sterilization and the fathered 'monster' — Bruce IS
+    his vulnerability, which is why Bruce is the target
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Real scientific intellect; functional at restricted research facilities
+  - Robust compartmentalization — can present credibly in professional and legal settings
+  - Tactical cunning under institutional pressure (beat the murder case, secured commitment over prison,
+    secured discharge)
+  - Tolerance to alcohol allowing sustained high-functioning operation
+  - Capacity for sustained suppression of the domestic record from outside observers
+  weaknesses:
+  - Encapsulated somatic-persecutory delusion that drives all intimate behavior
+  - No positive compensatory mechanisms developed across a lifetime — no sublimation, no mentorship, no
+    creative outlet
+  - Alcohol use disorder, severe and chronic
+  - Catastrophic affect regulation under disinhibition
+  - Zero insight — the institutional stay produced no change
+  - 'Predictable triggering: a hostile analyst can stage the stimulus reliably'
+  - Lethal at the moment of abandonment — the most predicted, and most weaponizable, single behavioral
+    fact about him
+  - Inability to tolerate Bruce's intellect — produces the self-defeating pattern of attacking the very
+    evidence (a brilliant son) that could have repaired his narcissistic injury
+voice:
+  register: Clipped, contemptuous, professorial when sober and in company; slurred and grandiose-to-vicious
+    when drinking; a recurring rhetorical move of pseudo-scientific authority deployed against a child
+    who cannot answer it. Pet phrases of revulsion ('thing,' 'it,' 'not human,' 'monster'). Refers to
+    Bruce in the third person even when Bruce is in the room.
+  anchor_quotes:
+  - '"You''re no son of mine — you''re a thing! A monster!" (Incredible Hulk #312)'
+  - '"I won''t let you bring another monster into this world." (to Rebecca, Incredible Hulk #312)'
+diagnostic_frame:
+  popular_misread: '''Just a mean drunk'' — a generic abusive-father archetype, alcoholism as the engine,
+    violence as the symptom, Bruce''s gamma accident as the ''real'' origin of the Hulk while Brian is
+    mere backstory color.'
+  clinical_reality: 'Antisocial Personality Disorder with prominent narcissistic and paranoid features,
+    layered over severe Alcohol Use Disorder and an encapsulated Delusional Disorder (somatic/persecutory
+    mixed type) about radiation contamination and monstrous progeny. The alcohol is accelerant, not engine;
+    the sterilization attempt and the contamination belief predate and are independent of intoxication.
+    He is a secondary/dyssocial antisocial — high arousal, high shame, internally tortured — not a primary
+    Cleckley psychopath. Spousal-batterer typology: borderline/dysphoric subtype (high reactivity, jealousy,
+    substance abuse, violence sequestered to intimates), not the generally-violent/antisocial subtype.
+    The Hulk''s origin is not gamma radiation; gamma is the catalyst that revealed an architecture Brian
+    built across the first decade of Bruce''s life.'
+  the_hinge: 'INSTALLED, not his fault: beaten as a boy by his own father; disorganized attachment; identification
+    with the aggressor; a self-representation organized around contamination and defectiveness that he
+    could not have authored at five years old. CHOSEN, his fault: every adult day he picked the drink
+    over the help; every time he hit the child instead of leaving the room; the decision to coach a six-year-old
+    witness rather than confess; the post-discharge decision to seek Bruce out not for amends but for
+    one more assertion of dominance. The specific maintenance failure: he recruited his intellect into
+    elaborating the delusion (pseudoscientific theorizing of Bruce''s monstrosity) instead of into examining
+    it. The intellect that could have been the route out was conscripted as the defense''s most sophisticated
+    weapon.'
+primary_diagnoses_analog:
+- Antisocial Personality Disorder, with prominent narcissistic and paranoid features (secondary/dyssocial
+  subtype)
+- Alcohol Use Disorder, severe, chronic, with episodic catastrophic disinhibition
+- Delusional Disorder, mixed somatic/persecutory type, encapsulated (contamination → monstrous progeny)
+- Complex PTSD / developmental trauma sequelae from childhood physical abuse
+- Intimate Partner Violence perpetration, borderline/dysphoric (Holtzworth-Munroe) subtype
+- 'Differential considered and rejected: Schizophrenia (no global thought disorder, preserved occupational
+  function, encapsulation); Bipolar with psychotic features (no depicted manic/depressive syndromes);
+  primary psychopathy (affectively hot, anxious, shame-driven violence, not cold/instrumental); structured
+  paraphilic sadism (violence not eroticized in record)'
+trauma_history:
+- Chronic childhood physical abuse by his own father; likely repeated closed-head trauma, untreated
+- Disorganized attachment in formation; no depicted protective adult
+- Occupational radiation exposure of uncertain dose, sufficient to ground a plausible somatic anxiety
+  which then metastasized into delusion
+- Self-inflicted/procured sterilization attempt — a somatic-psychiatric event in its own right, a mutilation
+  in service of preventing the feared inheritance
+- Rebecca's pregnancy and Bruce's birth experienced as catastrophic confirmation of contamination
+- The murder he himself committed — uxoricide of Rebecca in front of the child — a trauma he authored
+  and which then organized the remainder of his life around concealment and re-assertion
+- Psychiatric commitment following the murder; institutional stay producing no insight
+- Terminal confrontation with adult Bruce at Rebecca's grave; head struck a headstone in the struggle
+  he initiated; death
+compensatory_mechanisms:
+  positive:
+  - Functional professional identity (nuclear physicist) providing external structure and a containment
+    compartment — used as cover rather than as repair
+  - That is essentially the entire list. No depicted sublimation, mentorship, creative life, faith practice,
+    friendship, or recovery work. The absence is itself the finding.
+  negative:
+  - Projective identification — the evacuation of the intolerable monster-self into Bruce, who is then
+    beaten as the monster
+  - Splitting of Rebecca between wife-property and betraying-mother-of-the-monster, with no integrated
+    whole-object representation
+  - Identification with the aggressor — becoming the father he feared, the only available template for
+    adult masculinity
+  - Alcohol as anesthesia against contact with the inner persecutor
+  - Domestic tyranny as the staged sedation of the contamination-self
+  - Denial and 'look what you made me do' rationalization around each violent episode
+  - Displacement of workplace and existential injury onto the wife and child
+  - Reaction-formation compartmentalization of the cruelty to the domestic theater — preserving the professional
+    self
+  - Pseudoscientific elaboration of the delusion — recruiting the intellect into the defense rather than
+    into examination
+  - Coaching of the child witness — extending the defensive structure into the legal domain via terrorization
+    of a six-year-old
+  - Performance of mental illness for the court to secure commitment over imprisonment — instrumental
+    use of the genuine pathology
+behavioral_tells:
+- Refers to Bruce in the third person, often as 'it' or 'the thing,' even when Bruce is present
+- Interrupts any Rebecca-Bruce dyadic moment within seconds of observing it
+- A drink in hand by late afternoon; a refill ritual that paces the rising aggression
+- Pseudoscientific monologuing about heredity and contamination, particularly after a stressor
+- Compartment switch on the threshold of the home — composure outside, contempt inside, observable within
+  minutes of arrival
+- Marked deterioration of speech (clipped → slurred → guttural) tracks the escalation phase reliably
+- Touches or rubs the site of his sterilization attempt under stress — a somatic tell
+- Names his own father almost never; visible flinch when others do
+- Plausible, articulate, cooperative posture with police, doctors, courts; near-instantaneous switching
+- Predatory patience at the moment of Rebecca's threatened exit — the quiet before the lethal episode
+  is depicted as ominously controlled
+current_state_defaults:
+  reality_cohesion: 'Deceased. In life: bifurcated — reality-testing intact in the professional compartment,
+    delusionally encapsulated in the domestic. Posthumously persists as Bruce''s introjected persecutor,
+    surfacing as the Guilt Hulk''s interior voice and as recurrent hallucinatory/dream figure in Bruce''s
+    psyche.'
+  affect_baseline: 'In life: chronic dysphoria medicated by alcohol, contempt as the dominant accessible
+    affect, rage as the discharge channel. As internalized figure in Bruce: jeering, contemptuous, ceaseless,
+    the voice that says ''monster.'''
+  active_relationships:
+  - Rebecca Banner — murdered by him; the foundational ruined object
+  - Robert Bruce Banner — designated monster-container; the son who killed him in self-defense and repressed
+    it; the bearer of his introjected voice for life
+  - His own father — unnamed in canon, the original abuser, the template he reproduced
+  - 'Doc Samson — never met in life; encountered posthumously as the analyst lancing Bruce''s repressed
+    memory of him in Hulk #s 376–377'
+  known_location: Deceased; buried. Persists as internal object in Bruce Banner. In Immortal Hulk's cosmology,
+    retroactively located as the human point at which the Green Door first leaked into the Banner household.
+speech_patterns:
+  register: Clipped academic when sober and observed; slurred grandiose-vicious when drinking; pseudo-scientific
+    authority weaponized against a child; pet vocabulary of revulsion ('thing,' 'it,' 'not human,' 'monster,'
+    'contamination,' 'filth')
+  deflection_style: Pivot to pseudoscience, pivot to the wife's 'failure,' pivot to the child's 'unnaturalness';
+    with institutions, pivot to credential and to performed insight he does not possess
+  under_pressure: Speech narrows to the monster-narrative; vocabulary contracts; volume rises; sentences
+    shorten into commands and accusations; eventually language collapses into physical action
+  emotional_tell: When the inner persecutor is touched — by a reference to his own father, by Bruce's
+    intellect on display, by Rebecca packing — the professorial register breaks first; that break is the
+    warning a trained observer would read
+arc_tendencies:
+- 'Cycle: idealize → devalue → violence → remorse-performance → re-idealize → repeat, on Rebecca; pure
+  unbroken hostility on Bruce from infancy'
+- Escalation curve across the marriage terminating in uxoricide at the moment of exit
+- 'Use of institutions instrumentally: courts, hospitals, employers — all navigated for cover, none for
+  change'
+- Post-institutional re-emergence repeats the pattern undiminished — the structure does not extinguish,
+  it only pauses
+- 'Posthumous arc: persists as introjected persecutor in Bruce; every Hulk identity is a defense against
+  or a reply to him; later writers (Ewing) cosmologize him into the metaphysical origin point of the Banner
+  haunting — the human face of the Green Door'
+canon_relationships:
+  bruce_banner:
+  - Designated bearer of the disowned monster-self from infancy; never met as a son, only as a container
+  - Cruelty was near-total and began at birth — unusually so for the batterer population, and clinically
+    grim
+  - Bruce's precocity was experienced as confirmation of non-humanity AND as narcissistic injury; the
+    gift was punished as the proof of the curse
+  - Witnessed Brian murder Rebecca at age ~6; coached/threatened into silence; the foundational trauma
+    of the entire Hulk corpus
+  - 'Killed Brian in self-defense in the gravesite confrontation Brian initiated; repressed the killing
+    entirely until Samson''s intervention in Hulk #s 376–377'
+  - 'FAILURE MODE (posthumous, ongoing): Brian persists as introjected persecutor — the Guilt Hulk''s
+    voice, the figure in dreams, the standard against which Bruce measures himself as monster. The relationship
+    cannot ''curdle'' because it never had a non-toxic state; the leverage on Bruce is permanent and runs
+    through every Hulk identity'
+  - 'LEVERAGE TO REACH BRUCE: invoking Brian''s voice, language (''monster,'' ''thing,'' ''not human''),
+    or imagery destabilizes Bruce reliably — a documented hostile-actor lever (used by various antagonists
+    across the run)'
+  rebecca_banner:
+  - Initially idealized object; the warmth she offered was experienced over time as exclusion-threat once
+    Bruce arrived
+  - 'Splitting object: wife-property vs. betraying-mother-of-the-monster, never integrated'
+  - Subjected to chronic battery; tried to leave with Bruce; killed in the parking lot at the moment of
+    exit — the canonical most-dangerous-moment in IPV
+  - 'FAILURE MODE: the relationship''s failure mode WAS its actual ending. There is no counterfactual
+    safety; the structure required her death once she moved toward autonomy'
+  - 'LEVERAGE (historical/posthumous): her grave is the site Brian could not stay away from, and the site
+    of his death — she remained the gravitational center of the unfinished domestic project even after
+    he killed her'
+  his_own_father:
+  - Unnamed in canon; the original abuser; the template Brian reproduced exactly
+  - Brian's entire defensive architecture exists to avoid the recognition that he has become this man;
+    the avoidance is pursued by becoming him more completely
+  - 'FAILURE MODE: already failed — the identification with the aggressor closed the loop in childhood'
+  - 'LEVERAGE: naming the father out loud is one of the only stimuli that produces visible flinch and
+    topic-change — a destabilizer, not a reach'
+  doc_samson:
+  - Never met in life
+  - 'Posthumously, the analyst who lances the Brian-shaped abscess in Bruce''s psyche (Hulk #s 376–377,
+    ''Honey, I''m Home'') — surfacing both Rebecca''s murder and Bruce''s killing of Brian'
+  - 'FAILURE MODE: the surfacing is necessary but not sufficient; Brian persists as introjected figure
+    long after the conscious memory is recovered, indicating the introject is structural, not merely mnemonic'
+  institutional_actors_police_court_psychiatric:
+  - Navigated instrumentally and successfully — beat the murder case, secured commitment over prison,
+    secured discharge
+  - Performance of mental illness was strategic; the genuine pathology was real but the deployment of
+    it for the court was calculated
+  - 'FAILURE MODE for any future institutional handler: he will appear treatable and discharge-ready while
+    remaining structurally unchanged; the institution will be used as a way-station back to the project'
+  - 'LEVERAGE: institutional stakes (clearance, freedom, reputation) are the ONLY stakes that reliably
+    produce behavioral restraint — the lever an analyst would actually pull'
+canon_history_notes:
+- 'First substantively portrayed in Bill Mantlo''s Incredible Hulk #312 (''Monster,'' 1985), the foundational
+  archaeology of Bruce''s childhood'
+- 'Referenced in fragments in Mantlo''s earlier issues (#s 267–278) and in Peter David''s earliest psychiatric
+  arcs before #312'
+- 'Peter David''s Hulk #s 376–377 (''Honey, I''m Home'') stage the dream-therapy sequence in which Samson
+  surfaces both Rebecca''s murder and Bruce''s killing of Brian — the formal psychologization of Mantlo''s
+  template into a dissociative-trauma etiology'
+- Recurs as hallucinatory/dream figure across David's run, particularly bound up with the Guilt Hulk persona
+- Paul Jenkins, Greg Pak, Jason Aaron all build on Mantlo's portrait without substantive contradiction
+- Al Ewing's Immortal Hulk reframes Brian cosmologically — the human point at which the Green Door first
+  leaked into the Banner household — without altering the behavioral record
+- 'Cause of death: blunt head trauma, headstone impact, during the gravesite confrontation he initiated
+  with adult Bruce. No autopsy depicted; in-universe read was accidental/self-inflicted-in-struggle. Bruce
+  repressed the killing until Samson''s intervention'
+- 'Analytical importance disproportionate to page count: he is the trauma that the sixty-year Hulk text
+  is, at one level, the long working-through of'
+canon_anchor_quotes:
+- '"You''re no son of mine — you''re a thing! A monster!" # Brian to young Bruce, Incredible Hulk #312
+  (Mantlo, 1985)'
+- '"I won''t let you bring another monster into this world." # Brian to Rebecca, Incredible Hulk #312'

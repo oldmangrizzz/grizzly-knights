@@ -1,0 +1,83 @@
+# UATU ANALYTICAL WORKUP — SUBJECT: JERYN HOGARTH
+
+Classification: Pre-profile intelligence basis. Derivation-only. No conclusions accepted as given.
+
+---
+
+## 1. HISTORY
+
+Jeryn Hogarth first enters the published record in *Iron Fist* #6 (1976, Claremont/Byrne) as the Manhattan attorney engaged to manage the Rand-Meachum corporate and trust matters following the deaths of Wendell Rand and (presumed) Heather Rand. From his earliest appearances he is presented as an established, senior counsel — a man with white hair, three-piece bespoke tailoring, an exacting verbal register, and a clientele that already includes the upper tier of the Manhattan business class. He is, in essence, fully formed on arrival: no extant childhood is dramatized, no formative trauma is shown on panel. Everything we know about his interior life must be inferred from his conduct in crisis.
+
+The defining initial arc is his role as executor/trustee of the Rand estate after Daniel Rand reappears as Iron Fist. Hogarth is the man who verifies the heir, the man who navigates the Joy Meachum / Ward Meachum power struggle, and the man who consistently — across the Claremont, Byrne, Duffy and later runs — chooses procedural legitimacy over either Meachum faction's preferred shortcut. When Joy Meachum hires Steel Serpent, when Ward Meachum runs paramilitary operations against Rand, Hogarth is the figure in the room reminding everyone of fiduciary duty. He is repeatedly threatened (implicitly and explicitly) and never reported as flinching from a course of conduct he has determined is lawful.
+
+Through the original *Power Man & Iron Fist* run (Duffy, O'Neil, Owsley/Priest) Hogarth's role expands: he becomes effective general counsel to Heroes for Hire, then to Nightwing Restorations, Inc. He drafts the operating papers, manages the cash flow, fronts bail, manages liability for two principals whose work product is, charitably, intermittent contractual delivery and frequent property damage. His conduct here is telling: he tolerates Luke Cage's open contempt for legal niceties, Danny Rand's frequent disappearances, and an evidence base that includes magical artifacts and undead persons — and continues to bill, file, and defend. He treats his clients as clients, not as moral projects.
+
+In the *Heroes for Hire* second volume (Abnett & Lanning), and through the Brubaker/Fraction/Aaron *Immortal Iron Fist* era, Hogarth recurs as the institutional memory of Rand-Meachum and as the legal infrastructure underneath Danny's increasingly mystical preoccupations. Brubaker/Fraction in particular position him as one of two non-Iron-Fist adults in Danny's life who genuinely watched him grow up. He is shown reading Wendell Rand's will and ledgers with the precision of a man who has done so many times. His affect in these sequences is dry, grave, occasionally wry — never sentimental, though the sentiment is plainly there in the choice to keep showing up.
+
+Across all eras, the consistent behavioral pattern is: (a) he never accepts retainer from morally adverse parties when a current client's interest is implicated; (b) he is unmoved by physical threat; (c) he is unmoved by client misbehavior; (d) he reserves his sharpest disapproval for procedural impropriety rather than ethical ambiguity (he will scold Danny for missing a filing deadline more sharply than for fighting ninjas in midtown). This is durable across roughly five decades and four writing generations — meaning the trait set is genuinely the character, not a single writer's invention.
+
+The modern revivals (Bendis-adjacent appearances, the post-Defenders era) keep him in essentially the same posture: the lawyer who knows where the bodies are and will never tell, because privilege is privilege.
+
+---
+
+## 2. MEDICAL
+
+Hogarth presents in the published record as an older white male, consistently drawn as silver- or white-haired from his earliest appearance, with no panel evidence of meaningful change in build, gait, or facial topography across nearly fifty publication years — meaning we have no useable longitudinal somatic data, only the character-stable presentation of an "established senior man."
+
+No diagnosed physical condition is on the record. No injury arc. No hospitalization. No shown substance use beyond context-appropriate social drinking (whisky at office meetings, wine at function appearances) — notably moderate and never depicted as impairment-producing. He is never shown smoking, never shown medicated, never shown in physical distress despite being present in close proximity to multiple violent incidents (Steel Serpent attacks on Rand-Meachum offices; assorted Heroes for Hire fallout). The absence of a startle or freeze response in these scenes is itself a datum: either he has acclimated through repeated exposure, or his autonomic baseline runs low.
+
+Sleep, diet, exercise: undocumented but inferable from sustained high-functioning output across decades of late-night client crises — he tolerates irregular hours without observable decompensation.
+
+Cognitive status across the record remains sharp: recall of contractual minutiae years post-execution, real-time legal analysis under threat conditions, no shown word-finding or memory faltering even in his later-drawn appearances. Any age-related decline is, as of the record, absent.
+
+The psychological implication of this medical profile is itself significant: he has somehow lived a long professional life immersed in the criminal-adjacent, the superhuman, and the mystical without somatizing it. That is unusual and points to either constitutional resilience or a highly effective intellectualizing defense structure (see §3).
+
+---
+
+## 3. PSYCHOLOGICAL
+
+**Attachment.** The behavioral data on attachment is paradoxical and revealing. Hogarth never marries on panel, has no shown romantic partners, no shown children, no shown extended family. Yet his thirty-plus-year stewardship of Daniel Rand — beginning when Danny was a presumed-dead nine-year-old and continuing through Danny's adulthood — is, behaviorally, a parental attachment expressed entirely in the register of fiduciary duty. He shows up. He shows up consistently. He shows up when it costs him. He does not say he cares; he demonstrates care by never failing to perform. The reading here is **earned-secure attachment expressed through role rather than affect** — likely a developmental adaptation in which competence and reliability were the available channels for connection, while overt emotional expression was not modeled or rewarded. The Wendell-Rand-was-my-friend grief that surfaces in the Brubaker/Fraction run, brief and contained, supports this: he had a deep peer attachment, he lost it, and he metabolized the loss into duty toward the friend's son.
+
+**Defenses.** The dominant defense is **intellectualization**, supported by **sublimation** (channeling whatever drives he has into the practice of law itself) and **professional ritualization** (the suit, the precise diction, the procedural framework as containing structure). Where most characters in his orbit display reaction formation, splitting, or acting-out, Hogarth's defensive architecture is mature and consistent — he neither idealizes Danny nor devalues Luke Cage; he sees them with clinical accuracy and represents them anyway. There is mild **isolation of affect** — he can describe a client's death without distress — but no evidence of dissociation proper. The defenses are ego-syntonic and high-functioning; they cost him spontaneity and intimacy but not function.
+
+**Affect regulation.** Baseline flat-to-dry, with a narrow but real range. Wryness is the primary expressed affect; irritation, never anger, is the negative pole; quiet approval is the positive pole. Under acute stress (offices invaded, clients in danger) he downshifts further into procedural calm rather than escalating. This is **trait-low neuroticism with deliberate affective compression** — the compression appears chosen rather than constricted, the choice of a man who decided early that visible emotion was a professional liability.
+
+**Cognitive style.** Highly **convergent, rule-based, precedent-anchored**. He reasons from rules to cases, not the reverse. He is comfortable with ambiguity at the meta-level (his clients are vigilantes, mystics, and superhumans) but rigid at the operational level (the forms must be filed correctly, the privilege must be preserved). This is the cognitive signature of a senior transactional/trust attorney, and it cross-checks: he is not depicted as a litigator's litigator (no shown courtroom theatrics), but as a counselor — the man you call before things go wrong, or the morning after.
+
+**Compensatory mechanisms.** Positive: the law as moral exoskeleton, allowing him to engage a chaotic world with a fixed internal framework. Negative (in the mild sense): a likely difficulty receiving care, expressing need, or admitting limit — the cost of having organized one's identity around being the reliable one. There is no on-panel evidence of pathological compensation (no shown grandiosity, no exploitation of clients, no monetary impropriety).
+
+**Self-concept.** Stable, profession-fused, modest in self-presentation but quietly confident in competence. He does not appear to require external validation; he does appear to require self-coherence — i.e., the felt sense that his conduct accords with his code. This is **identity organized at the level of role-fidelity**, which is structurally healthier than narcissistically organized identity but carries the vulnerability that role-failure would feel ontological.
+
+---
+
+## 4. PSYCHIATRIC
+
+A clean differential requires distinguishing trait from disorder. The behavioral record does **not** support any active Axis I disorder: no shown mood episodes (no anhedonia, no mania, no shown suicidal ideation or vegetative signs), no anxiety presentation (he is markedly *under-*aroused in objectively dangerous scenes), no psychotic features, no substance use disorder, no eating or sleep complaint.
+
+At the personality level, the cluster of features — emotional restraint, preoccupation with rules and procedure, perfectionism in work product, devotion to professional duty often to the exclusion of personal life, reluctance to delegate without verification — overlaps the **obsessive-compulsive personality** descriptor in DSM-5 / ICD-11. However, the diagnostic threshold requires the traits to be inflexible, maladaptive, and cause distress or impairment. Hogarth's traits are **flexible enough to retain clients like Luke Cage** (who violates every procedural norm he holds dear), they are **adaptive** in his chosen niche, and there is no evidence of distress or impairment. Therefore: **OCPD traits, sub-threshold; not OCPD disorder.** This distinction matters — the man is conscientious, not pathologized.
+
+Schizoid spectrum should be ruled out because of the social-isolation footprint (no shown intimates, no shown sexual life, professional-only social engagement). Against schizoid: he displays warmth, humor, and clear capacity for attachment within his chosen channels. The presentation is better explained as **a deliberately constrained social life in service of vocational identity**, possibly with mildly introverted temperament, rather than schizoid pathology. **Not schizoid PD.**
+
+Autism spectrum (high-functioning) is worth considering given the rule-orientation, precise speech, and narrow affective bandwidth. Against: his social pragmatics are excellent, he reads people accurately and quickly, he modulates register fluidly across Cage's bluntness and Danny's mysticism. Not ASD.
+
+Trauma history: undocumented, so untreatable as a diagnosis. The composure under threat is consistent either with constitutional low reactivity or with prior trauma that has been worked through into hypo-arousal — the record does not distinguish.
+
+**Summary diagnostic impression:** No clinical disorder warranted by the record. Sub-threshold obsessive-compulsive personality traits, ego-syntonic, vocationally productive. Possibly mild persistent low-affect temperament that would not rise to dysthymia. He is, by the behavioral evidence, one of the most psychiatrically healthy figures in the corner of the Marvel record he occupies — which is itself an analytical finding worth flagging, because most people who stand this close to vigilante work for this long present *some* sequelae, and he does not.
+
+---
+
+## 5. PERSONALITY
+
+**Core drives.** First, **fidelity to undertaken duty** — once he has accepted a client or trust, his motivational system locks onto faithful performance and is essentially immovable. Second, **the preservation of order through legitimate process** — not order as authoritarianism, but order as the framework that makes civilized life possible amid the chaos of his clientele. Third, and quieter, **continuity of memory** — he is the keeper of the Rand legacy, the man who remembers Wendell, the institutional spine across decades; this drive is visible in his patience with Danny and his refusal to abandon the trust through any of its crises.
+
+**Worldview / operational code.** The world contains predators and prey, and the law is the only sustainable membrane between them. Wealth and power are not corrupting in themselves; their misuse is. People are owed competent representation regardless of how he privately judges them. Privilege is sacred. Procedure is not red tape — procedure is the accumulated wisdom of avoided catastrophes. Surprise is a failure of preparation. Loyalty is shown, not stated.
+
+**Interpersonal pattern.** Formal-warm. He addresses adults by surname unless invited otherwise, but the formality is not coldness — it is a respect-frame that lets him work with people whose values diverge from his without friction. He gives counsel rather than orders. He does not seek to be liked; he is, in practice, widely liked because he is reliable. He maintains hard boundaries (privilege, conflict-of-interest, no off-books favors) and explains them once. He tolerates wide eccentricity in clients and zero impropriety in fiduciaries.
+
+**Stress / escalation profile.** Inverse to most subjects — stress flattens his affect further rather than activating it. He becomes quieter, more precise, more procedural. He does not escalate to anger; he escalates to *paper* — a sharply worded letter, a filed motion, a citation to authority. The danger sign in Hogarth is not raised voice but lengthened sentence: when his speech becomes most formal and most exact, he is most displeased and most determined.
+
+**Pressure points.** Three real vulnerabilities, all derivable. (1) **Role-failure as identity threat** — were he to be put in a position where competent counsel could not protect a client he owes (Danny, particularly), the cost would not be guilt of the ordinary sort but a structural injury to self-concept; he has organized his identity around being able to deliver, and the floor of that organization has not been tested on panel. (2) **The narrowness of his attachment portfolio** — his meaningful bonds run almost entirely through his client relationships; the loss of Daniel Rand specifically would cost him more than he would ever show, and would leave him without obvious channels of repair, given his shown lack of intimate or family ties. (3) **Coercion via the very ethics he holds** — an adversary sophisticated enough to construct a scenario where his procedural duties pull against each other (a genuine conflict between two long-held clients, e.g., Cage vs. Rand) could paralyze him in ways direct threat cannot; his decision-making depends on the moral architecture being navigable, and a well-constructed double bind is the one weapon designed for him.
+
+**Synthesis read.** Hogarth is, in clinical-portrait terms, a high-functioning, securely-organized, conscientious senior professional whose entire interior life has been built around — and successfully expressed through — a vocation that suits him. He is not a man hiding from himself in his work; he is a man whose work is a faithful externalization of who he is. The interesting analytical question is not what is wrong with him but what holds the structure up, and the answer is: the law, conceived not as career but as moral grammar, and a small set of inherited loyalties he has chosen never to lay down.
+
+— END ANALYTICAL BASIS —

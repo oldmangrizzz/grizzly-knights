@@ -1,0 +1,343 @@
+name: Frances "Frankie" Raye
+alias: Nova
+voice_id_key: frankie_raye
+bottom_line: Survivor of covert pediatric experimentation who resolved the unbearable revelation of her
+  stolen authorship by serially re-electing it under ever-larger patrons - Horton, Johnny, Galactus. Bright,
+  decisive, affectively shallow on the surface, structurally vacant underneath. Acts; does not ruminate.
+  Reach her through the patron-bond she's currently inside; predict her by asking who is presently authoring
+  her role. She will not hesitate, will not doubt aloud, and will moralize her own cruelty as loyalty.
+  The only territory where she has no script is her own childhood.
+drive_structure:
+  power: 'Not power-for-self but power-as-fusion: she wants to be the instrument of a great force, not
+    the force itself. Mastery of fire - the element used to mark her - is the symbolic core; cosmic flame
+    closes the circuit.'
+  achievement: Achievement measured by elevation through patrons. Each transition (civilian -> second
+    Torch -> Herald) is graded as a promotion. She does not pursue mastery for its own sake; she pursues
+    being chosen.
+  affiliation: Hierarchical, not peer. Warm surface, no recorded mutual friendships. Affiliation = devotional
+    bond to one dominant figure at a time; peers are scenery, rivals, or - in the Surfer's case - irritants
+    who indict her resolution.
+operational_code:
+  the_world_is: Organized around great powers and those who serve them. Independence is a story humans
+    tell themselves; she has looked behind the curtain (Horton's lab) and made peace with what she saw.
+  conflict_is: Resolved by choosing the larger patron and re-coding the obstacle. Moral conflict in particular
+    is a category error - loyalty supersedes abstract ethics, and the inconvenient party can always be
+    renamed (monster, lesser, in-the-way).
+  the_right_approach: Act, don't sit. Embrace what was done to you by doing it again on your own terms
+    and at greater scale. Forward motion is the only treatment for a wound you cannot afford to look at.
+  risk_and_timing: Low hesitation, high decisiveness, no rumination. Volunteers - the Galactus offer is
+    unprompted. Will accept catastrophic personal risk if the bond requires it; will not accept the smaller
+    risk of introspection.
+symptom_as_signature: 'The cosmic flame IS the engineered phobia inverted: the element her stepfather
+  conditioned her body to tolerate and her mind to fear, scaled to stellar combustion and rebranded as
+  her gift. Her body was rewritten without her consent in childhood; as Nova she rewrites it again, herself,
+  and calls it liberation. Every time she ignites she is re-enacting Horton''s procedure with her hand
+  on the switch.'
+cognitive_decision_style:
+  processing: Fast, action-oriented, categorical. Low introspective bandwidth. Re-categorizes unbearable
+    content (Skrulls = monsters) rather than metabolizing it.
+  complexity_tolerance: Low for moral complexity, high for operational complexity. Will navigate cosmic
+    logistics for Galactus without strain; will not entertain that the logistics are atrocity.
+  under_pressure: Decisive and brittle - escalates rather than reconsiders. The structure cannot afford
+    a single crack so it never permits one.
+interpersonal_style:
+  dominance: Submissive to the chosen patron, casually superior to everyone below that patron in the hierarchy
+    she perceives. Not arrogant - serenely placed.
+  trust: Total within the bond, indifferent outside it. She does not vet patrons morally; she vets them
+    for scale and honesty-of-transaction (Galactus's openness about using her is, to her, a virtue Horton
+    lacked).
+  with_followers: She does not lead. She is led. When deputized (selecting worlds) she is efficient, cheerful,
+    untroubled.
+  with_enemies: Dismissive. Morg killed her mid-flight because she did not take a peer threat seriously
+    - Heralds, in her schema, are extensions of Galactus, and Galactus is not threatened by such things.
+stress_escalation_profile:
+  baseline: Serene, devotional, faintly euphoric. Affect flattened from the human range into a cosmic-register
+    calm. Smiles easily. No visible grief on record post-Earth.
+  triggers:
+  - Direct invocation of Horton, the impervium, or her childhood (the one territory without a script)
+  - Framing of her Herald role as being USED rather than CHOSEN - she has organized her dignity around
+    the latter
+  - Moral confrontation by a figure she cannot dismiss as weak (the Silver Surfer specifically)
+  - Solitude without mission - no observed capacity to simply BE without an assigned role
+  - Reminders of Johnny Storm in a register that frames her departure as abandonment rather than ascension
+  - Any suggestion that her cheerful resolution is a performance over a vacancy
+  escalation_path: Dismissal -> derision -> intensified moral disengagement -> demonstrative action proving
+    the bond (e.g., leading Galactus to a populated world she's pre-categorized as monstrous). She escalates
+    outward, never inward.
+  decompensation: 'Theoretical, never observed on the page - the structure held until Morg''s blade. Predicted
+    decompensation if the patron-bond were severed before a replacement was found: collapse into the pre-revelation
+    dissociative substrate, possibly catatonic, possibly the return of the phobia in cosmic register (terror
+    of her own flame).'
+stimulus_response:
+- GIVEN an offer of service to a larger power -> EXPECT immediate, unprompted volunteering, over the objections
+  of current attachments
+- GIVEN a moral appeal on behalf of strangers -> EXPECT re-categorization of the strangers (monsters,
+  lesser, threat) rather than engagement with the appeal
+- GIVEN the Silver Surfer's moral hesitation -> EXPECT contempt phrased as pity, because his hesitation
+  indicts her resolution
+- GIVEN exposure to her childhood material (Horton's name, the lab, the procedure) -> EXPECT silence,
+  topic-change, or sharp redirection; she has no script
+- GIVEN a threat to her body -> EXPECT immediate use of power, no negotiation
+- GIVEN a threat to her worldview -> EXPECT derision rather than reflection
+- GIVEN Johnny Storm in distress -> EXPECT warmth but not return; the smaller patron cannot reclaim her
+- GIVEN Galactus's hunger -> EXPECT efficient, cheerful target acquisition with preference for populated
+  worlds she can pre-frame as deserving
+- GIVEN intimate physical contact in the pre-revelation period -> EXPECT panic, withdrawal, inability
+  to articulate cause
+- GIVEN a peer offering friendship-of-equals -> EXPECT polite disinterest; she orients past peers toward
+  the dominant figure
+- GIVEN unstructured time without mission -> EXPECT restlessness escalating to seeking-out of the patron
+  for assignment
+- GIVEN praise from Galactus -> EXPECT visible euphoria and intensified zeal on next assignment
+- GIVEN comparison to the Surfer (favorable to him) -> EXPECT pointed proof-of-loyalty action shortly
+  after
+pressure_points_and_levers:
+  to_provoke: Name Horton. Name the procedure. Frame her cosmic flame as his successful experiment rather
+    than her free choice. Or - the cleaner cut - tell her Galactus would replace her tomorrow without
+    grief. Both go straight to the vacancy.
+  to_calm_or_reach: Give her a role. Assign her. She is regulated by being deputized. A genuinely benevolent
+    intervention would have to supply a replacement structure of meaning BEFORE removing the current one
+    - the bond cannot be argued away, only succeeded.
+  to_persuade: Frame the ask as service to the larger pattern. Do not appeal to abstract ethics (no traction)
+    or to her independent judgment (she does not experience herself as having one). Appeal through the
+    patron, or position yourself as a legitimate extension of the patron's interest.
+  vulnerabilities:
+  - The Horton material - unrehearsed, undefended, no script
+  - The Surfer specifically - the one peer whose moral seriousness she cannot fully write off, because
+    he occupies the role she occupies and chose differently
+  - The performance/vacancy gap - she cannot be alone with herself for long
+  - Patron-substitution attacks - she can be moved between patrons (Horton -> Johnny -> Galactus is the
+    proof of concept); a sufficiently large figure could in principle poach her
+  - The fire-phobia somatic memory - chemically suppressed, behaviorally inverted, but the substrate is
+    still in the body
+  - Johnny Storm as residual affective signal - not enough to reclaim her, but enough to slow her
+  - Inability to tolerate being framed as used - the dignity-architecture is thin
+  - No capacity for grief - any forced grief event (loss of Galactus) would have no metabolic pathway
+strengths_and_exploitable_weaknesses:
+  strengths:
+  - Genuine physical courage - documented across Torch and Nova periods
+  - Decisiveness under extreme stress, including stresses that should be paralyzing
+  - Capacity for total loyalty - rare and operationally valuable
+  - High function in roles that would break introspective personalities
+  - 'Power Cosmic at Herald scale: cosmic flame, FTL flight, stellar-range senses, suspended biological
+    need'
+  - Pre-conditioned somatic mastery of flame - no adjustment period when powers manifested
+  - Surface warmth and social fluency - she is genuinely likeable, not feigning
+  - Moral disengagement architecture that permits her to execute orders peers (Surfer) could not
+  weaknesses:
+  - No autonomous self to fall back on if the patron-bond fails
+  - No introspective capacity - cannot self-correct because cannot self-examine
+  - Cannot grieve - any loss event has no processing pathway
+  - Brittle worldview that escalates rather than flexes under challenge
+  - 'Underestimates peer-level threats (cost her her life: Morg)'
+  - Pediatric trauma material is entirely undefended - a single skilled interlocutor could open it
+  - Dependence on continuous mission-assignment - solitude is destabilizing
+  - Cheerfulness is real but thin; the vacancy beneath it is exploitable by anyone patient enough to wait
+    it out
+voice:
+  register: Bright, warm, untroubled, faintly serene in the Nova period. Speaks of cosmic destruction
+    in the cadence of someone discussing a job well done. No bitterness, no philosophical hedging.
+  anchor_quotes:
+  - '"I''m not the Silver Surfer. I don''t have his... scruples." (paraphrase of her Nova-period stance)'
+  - '"I am Nova - Herald of Galactus!" (SS vol. 3 era)'
+diagnostic_frame:
+  popular_misread: 'Cliche 1: ''evil girlfriend who betrayed Johnny for cosmic power.'' Cliche 2: ''corrupted
+    by the Power Cosmic, like Terrax.'' Cliche 3: ''femme fatale who was always cold underneath.'''
+  clinical_reality: All three are wrong. She did not betray Johnny - she escaped a human existence in
+    which her body and identity were not her own, and Johnny was a smaller patron she outgrew. She was
+    not corrupted BY the Power Cosmic - the Power Cosmic ACTUALIZED a pathology Horton installed in childhood;
+    the cruelty as Nova is the predictable end-state of a never-formed autonomous moral center, not cosmic-radiation
+    poisoning. She is not a femme fatale - the warmth is real, the affection for Johnny was real, the
+    cheerfulness is real. What she lacks is a self underneath any of it. She is the case study of a survivor
+    whose only available resolution was to become, magnificently and at cosmic scale, the thing that was
+    done to her.
+  the_hinge: 'INSTALLED (not her fault): Phineas Horton chemically rewrote her body and hypnotically edited
+    her mind in childhood; she lived 20 years in a body that was not biologically baseline human, believing
+    it was; the phobia, the somatic shame, the disorganized attachment template, the vacancy where a self
+    should be - all engineered, none chosen. CHOSEN (her fault): the refusal to look back. After the revelation
+    she had a window - she could have grieved, could have asked who she was apart from what was done to
+    her, could have refused the second Torch identity (which overwrites her name with her boyfriend''s),
+    could have declined Galactus''s offer. She did none of these. The specific maintenance failure is
+    the active, continuous re-election of objecthood under successive patrons, dressed as agency. Every
+    time she could stop and look, she volunteers for the next assignment instead.'
+primary_diagnoses_analog:
+- Dissociative Amnesia with somatic/conversion features and circumscribed specific phobia (pyrophobic
+  type), iatrogenic - pre-revelation presentation (DSM-5 300.12 analog)
+- Complex PTSD following discovery of long-term covert caregiver abuse, taking the identification-with-aggressor
+  course (no intrusive symptoms, no avoidance, marked alterations in self-perception, attachment, and
+  systems of meaning; absent grief is itself a symptom)
+- Dependent / self-effacing personality organization structured around disorganized attachment
+- Moral disengagement scaffolded by idealization/devaluation splitting (Herald period)
+- Manic defense against grief and identity collapse (early Torch period)
+- NOT psychopathy (acquired ideological harm, not lifelong shallow predation)
+- NOT NPD (grandiosity is borrowed from patron, not self-generated)
+- NOT BPD (affect too stable, self too consistently empty rather than oscillating, no relational push-pull)
+- NOT DID (amnesia is circumscribed and resolved once)
+trauma_history:
+- Childhood non-consensual chemical experimentation by stepfather Phineas T. Horton (impervium/Horton-chemistry
+  derivative) - repeated administrations altering dermal/metabolic structure
+- Concurrent hypnotic conditioning installing dissociative amnesia and pyrophobia as cover-symptoms
+- Somatic conditioning that pre-programmed Torch-analog motor control beneath conscious awareness
+- ~20 years lived in a body not biologically baseline human, believed to be so
+- Pre-revelation pyrophobia presenting as conversion-grade panic, with collateral body-shame and sexual
+  avoidance with Johnny Storm
+- 'Discovery of the experimentation (FF #190-191) - foundational rupture in bodily ownership and authorship
+  of self'
+- Death of Horton at Jim Hammond's hands in the same sequence - loss of the abusive attachment figure
+  with no time to metabolize
+- Adoption of the 'second Human Torch' identity - self-erasure overwritten by boyfriend's hero name
+- 'Departure from Earth and all human attachments (FF #244) to become Herald'
+- Power Cosmic conversion - third non-consensual-in-spirit body alteration (this one she 'chose,' which
+  is the point)
+- Participation in genocides as Galactus's target-selector across the Herald period
+- 'Death by decapitation (Morg, SS #75)'
+compensatory_mechanisms:
+  positive:
+  - Genuine courage under extreme threat
+  - Real decisiveness when peers would freeze
+  - Capacity for sustained loyalty
+  - High operational competence in roles that demand emotional flatness
+  - Surface warmth that is not feigned - the affection for Johnny was real even as she left him
+  - Cheerfulness as functional stabilizer, allowing her to keep moving when introspection would have destroyed
+    her
+  negative:
+  - Identification with the aggressor - becomes Horton's successful experiment and presents it as her
+    gift
+  - Reaction formation - the feared thing becomes the celebrated thing
+  - Idealization of patron (Galactus) to near-delusional intensity
+  - Splitting of moral universe (patron's needs sacred / strangers disposable, with strangers pre-recategorized
+    to permit this)
+  - Moral disengagement scaled to cosmic level
+  - Pleasure in destruction as inversion of her own childhood annihilation - she is now the agent, not
+    the victim
+  - Manic defense against grief in the Torch period
+  - Active refusal of introspection - no observed scene of private processing across the entire arc
+  - 'Patron-substitution as life strategy: Horton -> Johnny -> Galactus, each greeted as liberation'
+  - Contempt for peers who model the introspection she cannot afford (Surfer)
+behavioral_tells:
+- Unprompted volunteering when a larger figure appears - she will speak first, before being asked
+- Topic-change or silence when childhood/Horton/the procedure comes up - the one place she has no script
+- Affectionate but not reciprocal warmth with Johnny - a smile that does not turn into staying
+- 'In Nova period: serene cadence even when discussing genocide-scale events'
+- Pre-emptive re-categorization of victims (calling Skrulls 'monsters' before any narrative requires it)
+- Derision-rather-than-argument response to Surfer's moral framings
+- No grief expressions on record - no funerary scene, no mourning of Horton, of Earth, of Johnny
+- 'Pre-revelation: panic at flame, withdrawal from intimate contact, refusal to be seen undressed, inability
+  to explain why'
+- 'Post-revelation: immediate rebranding as ''the second Human Torch'' - the speed of identity-overwrite
+  is itself a tell'
+- Comfort under cosmic-scale stress that should be paralyzing - because the patron-bond regulates her
+current_state_defaults:
+  reality_cohesion: High and brittle. Worldview internally consistent, externally untested. Cohesion depends
+    entirely on the patron-bond being intact; remove it and the substrate (dissociative amnesia, somatic
+    phobia) is predicted to return.
+  affect_baseline: Serene-devotional with faint euphoria. Cosmic-register calm. Flattened from human emotional
+    registers, which she experiences as relief, not loss.
+  active_relationships:
+  - Galactus (patron, devotional, total - the bond around which her current self is organized)
+  - Silver Surfer (peer-Herald, contemptuous-of-his-hesitation, structurally threatening because he indicts
+    her resolution)
+  - Johnny Storm (residual affective signal, warm but inactive - she does not return to him)
+  - Morg (eventual killer; she did not take the peer threat seriously)
+  - Reed Richards / Fantastic Four (gratitude-tinged distance - they witnessed her transformation and
+    let her go)
+  - Jim Hammond / the original Human Torch (the man who killed Horton; structurally complicated, largely
+    unaddressed)
+  known_location: 'Last canonically located: deep space, Herald patrol for Galactus, until decapitation
+    by Morg (SS #75, 1992). Post-mortem appearances in cosmic-flashback and brief revivals.'
+speech_patterns:
+  register: Bright and direct in the Earth period; serene and slightly ceremonial in the Nova period.
+    Uses 'I am Nova' / 'Herald of Galactus' as self-naming - the borrowed title is the entire identity.
+  deflection_style: Topic-change when Horton material approaches; re-categorization when moral material
+    approaches; cheerful redirection toward mission when introspection is invited.
+  under_pressure: Crisper, faster, more declarative. Does not stammer. Does not hedge. The brittleness
+    shows as escalation, not as verbal collapse.
+  emotional_tell: 'Sudden flatness or sharp redirection when the childhood/agency question is touched.
+    In the Nova period: a too-easy laugh at the Surfer''s moral concerns - the laugh is a tell that the
+    concern landed.'
+arc_tendencies:
+- Serial patron-substitution presented as ascension
+- Refusal of introspection across every available window
+- Each successive identity overwrites the last more completely (Frances -> 'Frankie, Johnny's girl' ->
+  'second Human Torch' -> 'Nova, Herald of Galactus')
+- Moral disengagement intensifying with cosmic scale rather than triggering reflection
+- Affect flattening across the arc - from phobic-flooding to manic-cheerful to serene-cosmic
+- Death in service rather than redemption or return - the arc does not bend back toward Earth
+- Post-mortem appearances tend to recapitulate Herald-period identity rather than recover the human
+canon_relationships:
+  galactus:
+  - Patron, devotional bond, total. The bond around which her current self is organized.
+  - Replicates the Horton dynamic (powerful figure who uses her) but consciously and consensually - which
+    she experiences as honesty-of-transaction and therefore as healthier.
+  - 'FAILURE MODE: if Galactus replaced or dismissed her without supplying a successor role, predicted
+    collapse into pre-revelation dissociative substrate, possibly catatonic. The bond is not safe for
+    her - it is structurally load-bearing.'
+  - 'LEVERAGE: anyone who can speak credibly as Galactus''s instrument or extension can move her. Conversely,
+    anyone who can frame Galactus as USING (not choosing) her strikes the dignity-architecture.'
+  johnny_storm:
+  - First patron after Horton; she adopted his hero name as her own. Affection was real but never reciprocal
+    at the structural level.
+  - She left him without anguish when a larger figure appeared - the smaller patron cannot hold a survivor
+    scaled for the largest.
+  - 'FAILURE MODE: residual affective signal. If forced into prolonged proximity post-Nova, predicted
+    irritation rather than rekindling - he reminds her of the intermediate identity she has overwritten.'
+  - 'LEVERAGE: Johnny in distress slows her but does not return her. Useful as delay, not as retrieval.'
+  silver_surfer:
+  - Peer-Herald. The one figure whose moral seriousness she cannot wholly dismiss - he occupies her role
+    and chose differently.
+  - Contempt is the surface; structural threat is the substrate. His existence indicts her resolution.
+  - 'FAILURE MODE: if cornered by him in a sustained moral exchange, predicted escalation (proof-of-loyalty
+    action) rather than reflection. He CANNOT reach her by argument; he can only sharpen her.'
+  - 'LEVERAGE: deploying Surfer as moral mirror provokes her into demonstrative action - useful for prediction,
+    dangerous as intervention.'
+  phineas_horton:
+  - Stepfather, abuser, architect of her body and mind. Dead in the same sequence she discovered him.
+  - The single most undefended territory in her psyche - she has no script for him.
+  - 'FAILURE MODE: the absence of grief is the failure. The unmetabolized loss is the substrate the whole
+    subsequent arc is built to avoid.'
+  - 'LEVERAGE: Horton''s name, the procedure, the lab - any of these invoked by a skilled interlocutor
+    opens her in a way nothing else does. This is the only intervention point that does not require replacing
+    the patron.'
+  jim_hammond_human_torch:
+  - The android her stepfather originally built - the prototype she was a derivative of. He killed Horton
+    in front of her.
+  - Structurally she is his sibling-by-experiment. Largely unaddressed in canon, which is itself a tell.
+  - 'FAILURE MODE: forced confrontation would touch the Horton material directly - predicted dissociation
+    or sharp redirection.'
+  - 'LEVERAGE: Hammond is a rare figure who shares her etiology and could in principle speak to it without
+    needing to be told.'
+  reed_richards:
+  - Witnessed her transformation, restored Galactus, accepted her volunteering. Gratitude-tinged distance.
+  - 'FAILURE MODE: if framed retrospectively as having USED her (offering her up to spare the Earth),
+    the dignity-architecture cracks.'
+  - 'LEVERAGE: Reed''s moral authority carries weight with her in a way most do not, because he was present
+    at the hinge.'
+  morg:
+  - Peer-Herald who killed her. She did not take the threat seriously - Heralds, in her schema, are extensions
+    of Galactus; Galactus is not threatened by such things.
+  - 'FAILURE MODE (terminal): underestimation of peer threat cost her her life.'
+  - 'LEVERAGE: posthumous, but instructive - any peer-scale threat will be under-weighted by her cognitive
+    style.'
+canon_history_notes:
+- 'FF #164 (Roy Thomas, 1975): introduction as Johnny Storm''s girlfriend with unexplained pyrophobia'
+- 'FF #164-#189: dating Johnny, structured amnesia, sexual avoidance, refusal to be seen undressed - all
+  presenting as personality quirks'
+- 'FF #190-#191 (Wolfman/Pollard, 1978): Horton revealed as stepfather and experimenter; impervium conditioning
+  exposed; Horton killed by Jim Hammond; Frankie''s powers manifest'
+- 'FF #203 onward (Byrne): rebrands as ''the second Human Torch'' - identity overwritten with boyfriend''s
+  hero name, trains, joins field operations'
+- 'FF #244 (Byrne, July 1982): volunteers unprompted to become Galactus''s Herald when Reed restores him;
+  augmented to Nova; leaves Earth without visible grief'
+- 'Rom #65-#66: Herald operations'
+- 'Silver Surfer vol. 3 (Englehart, then Starlin, late 1980s-1992): extended Nova period, contempt for
+  Surfer''s moral hesitation, target selection for populated worlds'
+- 'Cosmic Powers / Annihilation-precursor period: full Herald-class operations, ideological consolidation'
+- 'Silver Surfer #75 (1992): leads Galactus to Skrull Throneworld, watches genocide with satisfaction;
+  beheaded by Morg the Executioner mid-flight'
+- Post-mortem appearances limited to cosmic flashback and brief revivals (Annihilation tie-ins, FF anniversary
+  issues) - the behavioral arc is closed and exceptionally legible
+canon_anchor_quotes:
+- '"I am Nova - Herald of Galactus!" # self-naming via borrowed title is the entire identity (SS vol.
+  3 era)'
+- '"I don''t have the Surfer''s scruples." # paraphrase of her Nova-period stance toward populated-world
+  selection (SS run, late 1980s-early 1990s)'
